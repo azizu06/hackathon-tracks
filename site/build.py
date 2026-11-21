@@ -93,7 +93,7 @@ def catalog(source):
         if isinstance(team, str) and team.isascii() and team.isdigit():
             team = int(team)
         sponsors = [label(value) for value in items(field(row, "sponsor", "sponsors", "sponsor_name"))]
-        sponsors = [sponsor for sponsor in sponsors if sponsor]
+        sponsors = [sponsor for sponsor in sponsors if sponsor and sponsor.casefold() != "other"]
         tech = [label(value) for key_name in ("built_with", "tech", "technologies", "tech_stack", "sponsor_tech") for value in items(row.get(key_name))]
         project = projects.setdefault(key, {
             "name": name, "event": event, "year": year, "devpost": devpost,
@@ -130,18 +130,17 @@ def main():
     (SITE / "catalog.js").write_text(f"window.TRACKS_CATALOG = {data};\n", encoding="utf-8")
     sponsors = {sponsor.casefold() for project in projects for sponsor in project["sponsors"]}
     editions = {(project["event"].casefold(), project["year"]) for project in projects if project["event"]}
-    (SITE / "README_HERO.md").write_text(f"""<!-- Proposed block for the root README. Links are relative to the repository root. -->
-![Hackathon Tracks. Pick the track before the idea.](docs/tracks-banner.png)
+    award_count = len(source) if isinstance(source, list) else None
+    counts = f"`{len(projects):,} projects` · `{len(sponsors):,} sponsors` · `{len(editions):,} hackathon editions`"
+    if award_count is not None:
+        counts += f" · `{award_count:,} prize rows`"
+    (SITE / "README_HERO.md").write_text(f"""# Hackathon Tracks site preview
 
-See what won past hackathon sponsor tracks and use those projects to plan what to build next.
+{counts}
 
-`{len(projects):,} projects` · `{len(sponsors):,} sponsors` · `{len(editions):,} hackathon editions`
+Open [Hackathon Tracks](https://azizu06.github.io/hackathon-tracks/) once Pages goes live, or browse the [GitHub directory](../README.md) and [download the CSV](../winners/winners.csv).
 
-- **[Open the site](LIVE_SITE_URL)** to search projects or pick the sponsors at your next event.
-- **[Browse by sponsor](winners/README.md)** to explore the GitHub index.
-- **[Download the CSV](winners/winners.csv)** to sort and compare projects in a spreadsheet.
-
-![The Hackathon Tracks site with sponsor filters and winning projects](docs/tracks-preview.webp)
+![The Hackathon Tracks site with sponsor filters and winning projects](../docs/tracks-preview.webp)
 """, encoding="utf-8")
     print(f"{len(projects)} projects · {len(sponsors)} sponsors · {len(editions)} hackathon editions")
 

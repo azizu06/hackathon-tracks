@@ -1,12 +1,7 @@
-<!-- Proposed block for the root README. Links are relative to the repository root. -->
-![Hackathon Tracks. Pick the track before the idea.](docs/tracks-banner.png)
+# Hackathon Tracks site preview
 
-See what won past hackathon sponsor tracks and use those projects to plan what to build next.
+`1,553 projects` · `379 sponsors` · `60 hackathon editions` · `1,697 prize rows`
 
-`1,553 projects` · `380 sponsors` · `60 hackathon editions`
+Open [Hackathon Tracks](https://azizu06.github.io/hackathon-tracks/) once Pages goes live, or browse the [GitHub directory](../README.md) and [download the CSV](../winners/winners.csv).
 
-- **[Open the site](LIVE_SITE_URL)** to search projects or pick the sponsors at your next event.
-- **[Browse by sponsor](winners/README.md)** to explore the GitHub index.
-- **[Download the CSV](winners/winners.csv)** to sort and compare projects in a spreadsheet.
-
-![The Hackathon Tracks site with sponsor filters and winning projects](docs/tracks-preview.webp)
+![The Hackathon Tracks site with sponsor filters and winning projects](../docs/tracks-preview.webp)

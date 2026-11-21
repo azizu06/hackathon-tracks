@@ -260,7 +260,7 @@ Indexed **1,553 distinct projects**, **60 editions**, **380 sponsors** and **1,6
 | [JanitorAI](winners/by-sponsor/janitorai.md) | 2 | 2 |
 | [Jawbone](winners/by-sponsor/jawbone.md) | 1 | 1 |
 | [Jumpstart](winners/by-sponsor/jumpstart.md) | 1 | 1 |
-| [Justin Bojarski](winners/by-sponsor/justin-bojarski.md) | 3 | 3 |
+| [Individual sponsor, now Other](winners/by-sponsor/other.md) | 3 | 3 |
 | [K2 Think](winners/by-sponsor/k2-think.md) | 1 | 1 |
 | [KCG](winners/by-sponsor/kcg.md) | 1 | 1 |
 | [Kensho](winners/by-sponsor/kensho.md) | 6 | 6 |
@@ -542,3 +542,26 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 
 - 648a1ac Expand the sponsor-track winners directory
 - Verify public source and demo links (this commit)
+
+## README-first release preparation
+
+The root README now opens with the banner, coverage badges, a three-step guide, and links to the leaderboard and directories. The sponsor grid shows the 40 sponsors with the most rows. The collapsed indexes cover all 379 sponsors and 60 editions across 23 event series. The track-first method and “My three wins” match the previous README verbatim.
+
+The winners index and 440 sponsor and edition pages now lead with counts and common project patterns. Award tables link to Devpost and show a short description, up to three tech tags, and code and demo links when verified. Collapsed sections hold the full project evidence, links, prize labels, and eligibility notes. The badges and indexes can be rebuilt with `python3 scripts/publish.py --readme README.md`.
+
+### Data corrections
+
+Devpost credits the HackPrinceton Fall 2026 Best Physical AI Hack prize to an individual and identifies no sponsoring organization. Lucid, Lincoln, and Project Xavier now appear under [Other](winners/by-sponsor/other.md). The three awards retain their exact source labels and stay in the exports. The sponsor count excludes Other. The JSON comparison found only these three sponsor-field changes, with all 1,553 projects and 1,697 prize rows retained. [HackPrinceton prize listing](https://hackprinceton-fall-26.devpost.com/#prizes)
+
+The sponsor review kept university labs, foundations, and student organizations where the official award text credits them. For example, PennApps names Penn Labs as the sponsor of its Best Beginner Hack prize. [PennApps XXV prize listing](https://pennapps-xxv.devpost.com/)
+
+### Render and browser checks
+
+- GitHub's GFM API rendered the root README, winners index, Google page, and Knight Hacks IX page. The root rendered as three complete tables with 10 leaderboard rows, 20 sponsor grid rows, and 23 event-series rows.
+- Chromium rendered the returned HTML with GitHub-style Markdown CSS at 390px and 1280px. Both widths passed the banner and badge checks, contents navigation, sponsor and event disclosures, and the Farsight project link and details. All 449 distinct local file targets in the root README returned HTTP 200 from the local server. These captures show the GitHub-rendered Markdown in a local wrapper. [390px README](docs/qa/390-readme.png) · [1280px README](docs/qa/1280-readme.png)
+- `python3 scripts/verify.py --readme README.md` reproduced the generated output byte for byte and checked 1,697 award rows, 4,143 saved HTTP 200 receipts, and 20,940 directory links. `writecheck README.md` returned CLEAN.
+- The rebuilt Pages site passed search, filters, sorting, pagination, sponsor navigation, champions, track picker, theme, and keyboard checks at 390px and 1280px. Verified known code and demo links, file URL search, and computed padding. Mobile sponsor links reached 44px on a coarse pointer. [390px browse](site/qa/390-browse-light.png) · [390px picker](site/qa/390-picker-dark.png) · [1280px browse](site/qa/1280-browse-light.png) · [1280px picker](site/qa/1280-picker-dark.png) · [WebP preview](docs/tracks-preview.webp)
+
+### Publication and coverage gaps
+
+The GitHub repository and Pages deployment are pending. The root link says coming soon. Suggested description, topics, and social preview are ready in the [deployment guide](site/DEPLOY.md). The earlier Devpost coverage and link limits still apply, including editions that publish on other platforms and missing public code or demos.
