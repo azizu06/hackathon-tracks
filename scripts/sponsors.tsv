@@ -1,0 +1,27 @@
+Databricks	databricks
+NVIDIA	nvidia
+Hugging Face	hugging face
+Full Sail	full sail
+Encompass	encompass
+Hyphenate	hyphenate
+Google	gemini|gemma|^google(?: cloud)?[:\]]
+ElevenLabs	elevenlabs
+Figma	figma
+Anthropic	anthropic|^claude:|^Best Use of Claude$
+Fetch.ai	fetch[. ]?ai|track: agentverse
+Capital One	capital one
+MongoDB	mongodb
+Solana	solana
+Snowflake	snowflake
+Warp	\bwarp\b
+Cartesia	cartesia
+Groq	\bgroq\b
+Notability	notability
+OpenAI	openai
+Spacetime	spacetime
+Presage	presage
+Vultr	vultr
+Tiger Data	tiger data
+GoDaddy Registry	godaddy registry
+Roblox	roblox
+Snap	^snap(?: inc\.)?(?::| challenge)

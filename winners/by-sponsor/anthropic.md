@@ -1,0 +1,17 @@
+# Anthropic
+
+Bloom and Drigil put assistance inside a daily care or work routine, while Tribune connects policy changes to public input. The projects show an assistant doing a specific job for a specific audience.
+
+[All winners](../README.md)
+
+| Project | Hackathon | Devpost track label | What it does | Relevant Built With tags | Fetched (UTC) |
+| --- | --- | --- | --- | --- | --- |
+| [Bloom](https://devpost.com/software/bloom-dvjpea) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes   2nd Place: 1 year of Claude Pro   3rd Place: 6 months of Claude Pro) | A home assistant supports older adults with daily routines and keeps their families informed. | claude | 2026-11-21 |
+| [Drigil](https://devpost.com/software/drigil) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | Smart glasses coach workers with intellectual and developmental disabilities through job tasks using their supervisor's voice. | anthropic, claude | 2026-11-21 |
+| [Project Lend](https://devpost.com/software/project-lend) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes   2nd Place: 1 year of Claude Pro   3rd Place: 6 months of Claude Pro) | A prototype food-bank workflow pairs AI and robotics to collect and distribute food to local shelters. | claude-agent-sdk, claude-code, claude-vision-api-(haiku-3.5) | 2026-11-21 |
+| [SafeStreets](https://devpost.com/software/safestreets-h6yprx) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Claude | A civic reporting tool flags street hazards in images and pairs them with city records and potential fixes. | No matching tag listed | 2026-11-21 |
+| [Standard Response](https://devpost.com/software/standard-response) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | An emergency response dashboard helps teams coordinate mass evacuation and identify people who need help leaving. | anthropic, claude | 2026-11-21 |
+| [Sunday](https://devpost.com/software/sunday-94odas) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Best Use of Claude Agent SDK ($2,500 in Claude Developer Platform credits) | A group chat assistant coordinates dinner plans and other errands. | anthropic-api, claude-agent-sdk | 2026-11-21 |
+| [TouchSpace](https://devpost.com/software/touchspace) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | A mapping tool turns real spaces into tactile and audio guides for blind and low-vision people. | claude | 2026-11-21 |
+| [Tribune](https://devpost.com/software/tribune) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes   2nd Place: 1 year of Claude Pro   3rd Place: 6 months of Claude Pro) | A civic discussion tool connects proposed policy changes to the public input behind them. | anthropic-claude | 2026-11-21 |
+| [Elda AI](https://devpost.com/software/elda-ai) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Claude: Best Use of Claude | An eldercare assistant identifies changes in daily behavior and surfaces them to caregivers. | No matching tag listed | 2026-11-21 |

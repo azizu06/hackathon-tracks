@@ -1,0 +1,31 @@
+# LA Hacks 2026
+
+[Devpost gallery](https://la-hacks-2026.devpost.com/project-gallery)
+
+[All winners](../README.md)
+
+| Project | Sponsor | Devpost track label | What it does | Relevant Built With tags | Fetched (UTC) |
+| --- | --- | --- | --- | --- | --- |
+| [A-Eye](https://devpost.com/software/a-eye-pk9sdw) | [ElevenLabs](../by-sponsor/elevenlabs.md) | MLH: Best Use of ElevenLabs | A navigation aid turns the live camera view into spoken directions for people with visual impairments. | elevenlabs | 2026-11-21 |
+| [CareLoop Agentverse Care Companion](https://devpost.com/software/careloop-agentverse-care-companion) | [Fetch.ai](../by-sponsor/fetch-ai.md) | Fetch.ai: OmegaClaw Skill Forge powered by Agentverse | A caregiver assistant coordinates appointments, calendar updates, and over-the-counter medicine requests. | agentverse, asi:one, fet, fetch.ai, uagents | 2026-11-21 |
+| [Conjure](https://devpost.com/software/conjure-m960jz) | [Fetch.ai](../by-sponsor/fetch-ai.md) | Track: Agentverse - Search & Discovery of Agents | A 3D scene builder turns a text prompt into an environment the user can walk through. | agentverse, fetch.ai, fetch.ai-agentverse | 2026-11-21 |
+| [Dots](https://devpost.com/software/dots-y5r21j) | [Fetch.ai](../by-sponsor/fetch-ai.md) | Track: Agentverse - Search & Discovery of Agents | A tool converts building floor plans into tactile maps for accessible indoor navigation. | fetch.ai | 2026-11-21 |
+| [MultiEval](https://devpost.com/software/multival) | [Fetch.ai](../by-sponsor/fetch-ai.md) | Track: Agentverse - Search & Discovery of Agents | An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces. | agentverse, asi:one, fetch.ai | 2026-11-21 |
+| [NeuralLens](https://devpost.com/software/neurolens-2qgdm8) | [Fetch.ai](../by-sponsor/fetch-ai.md) | Track: Agentverse - Search & Discovery of Agents | A content tool evaluates where viewers may focus their attention and uses that feedback to revise media. | fetch.ai | 2026-11-21 |
+| [Residue](https://devpost.com/software/residue) | [Fetch.ai](../by-sponsor/fetch-ai.md) | Track: Agentverse - Search & Discovery of Agents | A study tool helps users understand their focus habits and find a study partner. | No matching tag listed | 2026-11-21 |
+| [RIIS](https://devpost.com/software/riis) | [Fetch.ai](../by-sponsor/fetch-ai.md) | Fetch.ai: Best Use of ASI:One | An incident response system organizes information quickly for people coordinating an emergency. | fetch | 2026-11-21 |
+| [Accent](https://devpost.com/software/accent-cdw2qi) | [Figma](../by-sponsor/figma.md) | Figma Make Challenge | A macOS assistant takes a spoken question and highlights the relevant control for the user. | figmamake | 2026-11-21 |
+| [GoTrail](https://devpost.com/software/gotrail) | [Figma](../by-sponsor/figma.md) | Figma Make Challenge | A hiking app gives users activities to complete outside and helps clinicians suggest walks. | figma-make | 2026-11-21 |
+| [Grouper](https://devpost.com/software/grouper-fr2h1q) | [Figma](../by-sponsor/figma.md) | Figma Make Challenge | A shared app helps friend groups coordinate rides, plans, and payments. | figma | 2026-11-21 |
+| [NeighborFridge](https://devpost.com/software/neighborfridge) | [Figma](../by-sponsor/figma.md) | Figma Make Challenge | A grocery tracker reads receipts and flags food that may expire soon. | figma, figma-make | 2026-11-21 |
+| [Obi](https://devpost.com/software/obi-mise-en-place-for-your-data) | [Figma](../by-sponsor/figma.md) | Figma Make Challenge | A desktop assistant finds local files and gathers context for the user's current task. | No matching tag listed | 2026-11-21 |
+| [Scaena OS](https://devpost.com/software/scaena-os) | [Figma](../by-sponsor/figma.md) | Figma Make Challenge | A booking workspace helps performers find venues and manage pitches and follow-ups. | figma | 2026-11-21 |
+| [Talantis](https://devpost.com/software/talantis) | [Figma](../by-sponsor/figma.md) | Figma Make Challenge | A dashboard shows how internship pipelines connect employers and schools. | figmamake | 2026-11-21 |
+| [WebMedica](https://devpost.com/software/luma-ai-powered-personalized-health-context) | [Figma](../by-sponsor/figma.md) | Figma Make Challenge | A browser extension helps users find and understand medical research relevant to women's health. | figma, figmamake | 2026-11-21 |
+| [MarkCodePolo by Freakmont Warriors](https://devpost.com/software/markcodepolo-by-freakmont-warriors) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | MLH: Best Domain Name from GoDaddy Registry | A coding tool maps relationships between files and passes the graph to a coding agent as context. | No matching tag listed | 2026-11-21 |
+| [J.I.T.](https://devpost.com/software/j-i-t) | [MongoDB](../by-sponsor/mongodb.md) | MLH: Best Use of MongoDB Atlas | A study app turns a textbook scan into an interactive learning session. | No matching tag listed | 2026-11-21 |
+| [Inbox Invaders](https://devpost.com/software/inbox-invaders) | [Roblox](../by-sponsor/roblox.md) | ROBLOX Civility Challenge | A Roblox tower-defense game teaches players to recognize phishing messages and malware. | luau, robloxstudio | 2026-11-21 |
+| [Mindful Egg](https://devpost.com/software/mindful-egg-uhfbac) | [Roblox](../by-sponsor/roblox.md) | ROBLOX Civility Challenge | A Roblox game uses a growing egg companion to reward rest, journaling, and other self-care habits. | luau, roblox | 2026-11-21 |
+| [Overseer.exe](https://devpost.com/software/entelecheia) | [Roblox](../by-sponsor/roblox.md) | ROBLOX Civility Challenge | A Roblox safety game teaches players to identify grooming and scams in chat. | luau, roblox-engine, roblox-studio | 2026-11-21 |
+| [Pixel Truth](https://devpost.com/software/pixel-truth) | [Roblox](../by-sponsor/roblox.md) | ROBLOX Civility Challenge | A Roblox detective game asks players to verify news stories by interviewing witnesses and inspecting evidence. | luau, roblox, robloxstudio | 2026-11-21 |
+| [Just Replay](https://devpost.com/software/just-replay) | [Vultr](../by-sponsor/vultr.md) | MLH: Best Use of Vultr | A guided movement app helps older adults with limited mobility practice activities with camera feedback. | No matching tag listed | 2026-11-21 |

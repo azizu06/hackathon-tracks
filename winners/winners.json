@@ -1,0 +1,3017 @@
+[
+  {
+    "project": "Bloom",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "Anthropic",
+    "prize": "[Anthropic] Human Flourishing Track (1st Place: 4 tungsten cubes   2nd Place: 1 year of Claude Pro   3rd Place: 6 months of Claude Pro)",
+    "description": "A home assistant supports older adults with daily routines and keeps their families informed.",
+    "sponsor_tech": [
+      "claude"
+    ],
+    "url": "https://devpost.com/software/bloom-dvjpea",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Drigil",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Anthropic",
+    "prize": "[Anthropic] Claude for Public Benefit",
+    "description": "Smart glasses coach workers with intellectual and developmental disabilities through job tasks using their supervisor's voice.",
+    "sponsor_tech": [
+      "anthropic",
+      "claude"
+    ],
+    "url": "https://devpost.com/software/drigil",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Project Lend",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "Anthropic",
+    "prize": "[Anthropic] Human Flourishing Track (1st Place: 4 tungsten cubes   2nd Place: 1 year of Claude Pro   3rd Place: 6 months of Claude Pro)",
+    "description": "A prototype food-bank workflow pairs AI and robotics to collect and distribute food to local shelters.",
+    "sponsor_tech": [
+      "claude-agent-sdk",
+      "claude-code",
+      "claude-vision-api-(haiku-3.5)"
+    ],
+    "url": "https://devpost.com/software/project-lend",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "SafeStreets",
+    "hackathon": "UC Berkeley AI Hackathon",
+    "year": 2026,
+    "sponsor": "Anthropic",
+    "prize": "Best Use of Claude",
+    "description": "A civic reporting tool flags street hazards in images and pairs them with city records and potential fixes.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/safestreets-h6yprx",
+    "gallery_url": "https://ai-hackathon-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Standard Response",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Anthropic",
+    "prize": "[Anthropic] Claude for Public Benefit",
+    "description": "An emergency response dashboard helps teams coordinate mass evacuation and identify people who need help leaving.",
+    "sponsor_tech": [
+      "anthropic",
+      "claude"
+    ],
+    "url": "https://devpost.com/software/standard-response",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Sunday",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "Anthropic",
+    "prize": "[Anthropic] Best Use of Claude Agent SDK ($2,500 in Claude Developer Platform credits)",
+    "description": "A group chat assistant coordinates dinner plans and other errands.",
+    "sponsor_tech": [
+      "anthropic-api",
+      "claude-agent-sdk"
+    ],
+    "url": "https://devpost.com/software/sunday-94odas",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "TouchSpace",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Anthropic",
+    "prize": "[Anthropic] Claude for Public Benefit",
+    "description": "A mapping tool turns real spaces into tactile and audio guides for blind and low-vision people.",
+    "sponsor_tech": [
+      "claude"
+    ],
+    "url": "https://devpost.com/software/touchspace",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Tribune",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "Anthropic",
+    "prize": "[Anthropic] Human Flourishing Track (1st Place: 4 tungsten cubes   2nd Place: 1 year of Claude Pro   3rd Place: 6 months of Claude Pro)",
+    "description": "A civic discussion tool connects proposed policy changes to the public input behind them.",
+    "sponsor_tech": [
+      "anthropic-claude"
+    ],
+    "url": "https://devpost.com/software/tribune",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Elda AI",
+    "hackathon": "Cal Hacks 12.0",
+    "year": 2025,
+    "sponsor": "Anthropic",
+    "prize": "Claude: Best Use of Claude",
+    "description": "An eldercare assistant identifies changes in daily behavior and surfaces them to caregivers.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/elda-ai",
+    "gallery_url": "https://cal-hacks-12-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Guardian",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Capital One",
+    "prize": "Best Use of Nessie @ Capital One",
+    "description": "A billing assistant reviews medical bills and organizes evidence that patients can use to question charges.",
+    "sponsor_tech": [
+      "capital-one-nessie"
+    ],
+    "url": "https://devpost.com/software/guardian-mbuwlp",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Niche",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Capital One",
+    "prize": "[Capital One] Best Use of Nessie",
+    "description": "A shopping tool learns someone's style from photos and searches across retailers for items within their size and budget.",
+    "sponsor_tech": [
+      "capital-one-nessie"
+    ],
+    "url": "https://devpost.com/software/niche-z32los",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Play It First",
+    "hackathon": "HackPrinceton Fall",
+    "year": 2026,
+    "sponsor": "Capital One",
+    "prize": "[Capital One] Best Usage of Nessie",
+    "description": "A simulator lets prospective business owners test how they could operate in an actual commercial space.",
+    "sponsor_tech": [
+      "nessie-api"
+    ],
+    "url": "https://devpost.com/software/hackprinceton26",
+    "gallery_url": "https://hackprinceton-fall-26.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Settlr",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Capital One",
+    "prize": "Best Use of Nessie @ Capital One",
+    "description": "A finance app helps people moving to a new city plan expenses with their roommates.",
+    "sponsor_tech": [
+      "nessieapi"
+    ],
+    "url": "https://devpost.com/software/settlr-s4gr9y",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Tend",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Capital One",
+    "prize": "Best Use of Nessie @ Capital One",
+    "description": "An offline guide helps survivors find state compensation programs and trace eligibility to the relevant law.",
+    "sponsor_tech": [
+      "capital-one-nessie"
+    ],
+    "url": "https://devpost.com/software/tend-ua9rm8",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Subsave",
+    "hackathon": "PennApps XXVI",
+    "year": 2025,
+    "sponsor": "Capital One",
+    "prize": "CATEGORY - Finance (Capital One)",
+    "description": "A finance prototype explores a way to earn yield on money set aside for subscriptions.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/subsave",
+    "gallery_url": "https://pennapps-xxvi.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Silent Voice",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Cartesia",
+    "prize": "[Cartesia] Best Use of Cartesia",
+    "description": "A voice project helps people affected by cancer communicate using synthesized speech.",
+    "sponsor_tech": [
+      "cartesia"
+    ],
+    "url": "https://devpost.com/software/silent-voice-s1f74p",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "SpeakEasy: AI Language Companion",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "Cartesia",
+    "prize": "Cartesia: Best AI Voice Project",
+    "description": "A speaking coach helps language learners practice pronunciation and hear examples in a version of their own voice.",
+    "sponsor_tech": [
+      "cartesia"
+    ],
+    "url": "https://devpost.com/software/speakeasy-ai-language-companion",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Bin-It",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Databricks",
+    "prize": "Databricks: Best Use of Databricks",
+    "description": "A city dashboard adjusts for biases in residents' reports of overflowing bins and ranks where to add bins.",
+    "sponsor_tech": [
+      "databricks"
+    ],
+    "url": "https://devpost.com/software/bin-it-yg2xb7",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "CrisisLens",
+    "hackathon": "Hacklytics",
+    "year": 2026,
+    "sponsor": "Databricks",
+    "prize": "Databricks Geo-Insight Challenge",
+    "description": "A crisis dashboard uses forecasts and a natural-language interface to help teams prioritize countries with urgent humanitarian needs.",
+    "sponsor_tech": [
+      "databricks"
+    ],
+    "url": "https://devpost.com/software/crisislens-rlebdw",
+    "gallery_url": "https://hacklytics-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Data Saves Lives (DSL)",
+    "hackathon": "Hacklytics",
+    "year": 2026,
+    "sponsor": "Databricks",
+    "prize": "Databricks Geo-Insight Challenge",
+    "description": "A dashboard maps humanitarian funding against local needs to identify crises that receive too little aid.",
+    "sponsor_tech": [
+      "databricks"
+    ],
+    "url": "https://devpost.com/software/data-saves-lives-dsl",
+    "gallery_url": "https://hacklytics-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Paralassist",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Databricks",
+    "prize": "Databricks: Best Use of Databricks",
+    "description": "An accessibility prototype uses EEG readings from a visual interface to let people with paralysis select messages.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/paralassist",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "SteadyForum: A Form-Correcting, Gym Journey, Social Media",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Databricks",
+    "prize": "Databricks: Best Use of Databricks",
+    "description": "A gym app uses phone-based exercise feedback to help people learn proper form.",
+    "sponsor_tech": [
+      "databricks"
+    ],
+    "url": "https://devpost.com/software/steadyflow-a-form-correction-gym-journey-social-media",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "A-Eye",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "ElevenLabs",
+    "prize": "MLH: Best Use of ElevenLabs",
+    "description": "A navigation aid turns the live camera view into spoken directions for people with visual impairments.",
+    "sponsor_tech": [
+      "elevenlabs"
+    ],
+    "url": "https://devpost.com/software/a-eye-pk9sdw",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "DoodleFFA",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "ElevenLabs",
+    "prize": "Best Project Built with ElevenLabs Winner",
+    "description": "A multiplayer battle game turns drawings submitted from phones into in-game weapons.",
+    "sponsor_tech": [
+      "elevenlabs"
+    ],
+    "url": "https://devpost.com/software/doodleffa",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "HUDson",
+    "hackathon": "nwHacks",
+    "year": 2026,
+    "sponsor": "ElevenLabs",
+    "prize": "[MLH] Best Use of Elevenlabs",
+    "description": "A wearable gives deaf and hard-of-hearing users visual and tactile cues about surrounding sounds.",
+    "sponsor_tech": [
+      "elevenlabs"
+    ],
+    "url": "https://devpost.com/software/hudson-uw5kn7",
+    "gallery_url": "https://nwhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Incantation",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "ElevenLabs",
+    "prize": "[MLH] Best Use of ElevenLabs",
+    "description": "Players speak spell ideas aloud and cast the generated spells against each other in a Roblox arena.",
+    "sponsor_tech": [
+      "elevenlabs"
+    ],
+    "url": "https://devpost.com/software/incantation",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Janulus.ai",
+    "hackathon": "Hacklytics",
+    "year": 2026,
+    "sponsor": "ElevenLabs",
+    "prize": "[MLH] Best Use of ElevenLabs",
+    "description": "A language-learning tool combines speech and translation exercises to help users practice pronunciation and sentence structure.",
+    "sponsor_tech": [
+      "eleven-labs-text-to-speech"
+    ],
+    "url": "https://devpost.com/software/janulus-ai",
+    "gallery_url": "https://hacklytics-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "CodeCrack",
+    "hackathon": "TreeHacks",
+    "year": 2025,
+    "sponsor": "ElevenLabs",
+    "prize": "ElevenLabs: Best Use of ElevenLabs (11M Credits + AirPods Max per team member [1st] & 8.11M Credits + Merch [2nd] & 5.11M Credits + Merch [3rd])",
+    "description": "A voice interviewer asks practice coding questions and gives feedback on the answers.",
+    "sponsor_tech": [
+      "elevenlabs"
+    ],
+    "url": "https://devpost.com/software/codecrack",
+    "gallery_url": "https://treehacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Jarvis: An agentic AI operator that does everything for you.",
+    "hackathon": "Cal Hacks 12.0",
+    "year": 2025,
+    "sponsor": "ElevenLabs",
+    "prize": "[MLH] Best Use of ElevenLabs",
+    "description": "A voice-controlled assistant reads the screen and operates desktop apps on the user's behalf.",
+    "sponsor_tech": [
+      "elevenlabs"
+    ],
+    "url": "https://devpost.com/software/jarvis-an-agentic-voice-assistant-that-does-things-for-you",
+    "gallery_url": "https://cal-hacks-12-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Doorway",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Encompass",
+    "prize": "Encompass: Data Capturing Hardware",
+    "description": "A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.",
+    "sponsor_tech": [
+      "ar-foundation",
+      "arcore"
+    ],
+    "url": "https://devpost.com/software/doorway-0eysjv",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Dronautics",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Encompass",
+    "prize": "Encompass: Data Capturing Hardware",
+    "description": "A drone control system combines local detection and GPS tracking using low-cost hardware.",
+    "sponsor_tech": [
+      "arduino",
+      "esp-now",
+      "esp32",
+      "u-blox"
+    ],
+    "url": "https://devpost.com/software/dronautics",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Farsight",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Encompass",
+    "prize": "Encompass: Data Capturing Hardware",
+    "description": "A rescue rover streams video, detects people, and captures indoor scans that an operator can explore in VR.",
+    "sponsor_tech": [
+      "arduino",
+      "arkit",
+      "lidar"
+    ],
+    "url": "https://devpost.com/software/farsight-t4qyli",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "AeroFreight AI",
+    "hackathon": "UC Berkeley AI Hackathon",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Best Use of The Agentverse by Fetch AI",
+    "description": "A logistics planner compares air and sea options for international shipments.",
+    "sponsor_tech": [
+      "asi-one",
+      "fetchai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/aerofreight-ai",
+    "gallery_url": "https://ai-hackathon-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "AgentPlace",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. (Best Overall AI Agent Solution - $2500  Best Multi-Agent Workflow - $1500  Best Monetised Agent - $1000)",
+    "description": "A digital marketplace uses agents to negotiate between buyers and sellers.",
+    "sponsor_tech": [
+      "asi:one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/agentplace",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "AgriBroker",
+    "hackathon": "UC Berkeley AI Hackathon",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Best Use of The Agentverse by Fetch AI",
+    "description": "A purchasing tool uses agents to match produce buyers with available supply at a target price.",
+    "sponsor_tech": [
+      "agentverse",
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/agribroker",
+    "gallery_url": "https://ai-hackathon-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "baymax",
+    "hackathon": "UC Berkeley AI Hackathon",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Best Use of The Agentverse by Fetch AI",
+    "description": "A network of hospital assistants forecasts supply pressure and helps hospitals coordinate transfers.",
+    "sponsor_tech": [
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/baymax-1wumi3",
+    "gallery_url": "https://ai-hackathon-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "CareLoop Agentverse Care Companion",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Fetch.ai: OmegaClaw Skill Forge powered by Agentverse",
+    "description": "A caregiver assistant coordinates appointments, calendar updates, and over-the-counter medicine requests.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi:one",
+      "fet",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/careloop-agentverse-care-companion",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Conjure",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Track: Agentverse - Search & Discovery of Agents",
+    "description": "A 3D scene builder turns a text prompt into an environment the user can walk through.",
+    "sponsor_tech": [
+      "agentverse",
+      "fetch.ai",
+      "fetch.ai-agentverse"
+    ],
+    "url": "https://devpost.com/software/conjure-m960jz",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Constructa",
+    "hackathon": "UC Berkeley AI Hackathon",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Best Use of The Agentverse by Fetch AI",
+    "description": "A property planning tool lets builders compare potential sites, visualize projects, and organize permit paperwork.",
+    "sponsor_tech": [
+      "agentverse",
+      "topojson-ai-&-agents:?fetch.ai-asi:one"
+    ],
+    "url": "https://devpost.com/software/constructa",
+    "gallery_url": "https://ai-hackathon-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "DESK",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of ASI:One",
+    "description": "An interface lets users assign keyboard actions to physical surfaces.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi-one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/desk-k236so",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Docket",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of Fetch.ai",
+    "description": "A student caseworker looks up immigration and finance rules and asks the student to approve proposed actions.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi-one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/docket-ezaum8",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Dots",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Track: Agentverse - Search & Discovery of Agents",
+    "description": "A tool converts building floor plans into tactile maps for accessible indoor navigation.",
+    "sponsor_tech": [
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/dots-y5r21j",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Family Shield",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of ASI:One",
+    "description": "A family safety tool uses agents to verify a money request with the actual family member before anyone pays.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi-one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/family-shield-jgwpc8",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Fish Market",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of Fetch.ai",
+    "description": "Buyer and seller agents negotiate the price of PC parts through sealed bids.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi:one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/fish-market-of6te2",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "GurtOS",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of Fetch.ai",
+    "description": "An operating environment isolates each AI agent task in a separate Linux user and lets people review spending and undo changes.",
+    "sponsor_tech": [
+      "asi-one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/gurtos",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "HackOverflow: Stack Overflow for AI Agents",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. (Best Overall AI Agent Solution - $2500  Best Multi-Agent Workflow - $1500  Best Monetised Agent - $1000)",
+    "description": "A shared question-and-answer system lets AI agents reuse solutions and escalate problems to people.",
+    "sponsor_tech": [
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/hackoverflow-stack-overflow-for-ai-agents-at-hackathons",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "HAVEN: Nobody Gets Left Behind",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of Fetch.ai",
+    "description": "A building safety prototype combines live sensors, evacuation planning, and operator approval in one dashboard.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi-one",
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/haven-nobody-gets-left-behind",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Homie",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "FetchAI ASI:One Agent Challenge",
+    "description": "An apartment search assistant helps people moving to the US find listings, contact landlords, and prepare applications.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi:one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/homie-1d28pr",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Mark8 - Go-To-Market World Model",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of ASI:One",
+    "description": "A marketing simulation lets a team explore how a proposed launch might perform before spending on it.",
+    "sponsor_tech": [
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/mark8-go-to-market-world-model",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "MultiEval",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Track: Agentverse - Search & Discovery of Agents",
+    "description": "An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi:one",
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/multival",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "NeuralLens",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Track: Agentverse - Search & Discovery of Agents",
+    "description": "A content tool evaluates where viewers may focus their attention and uses that feedback to revise media.",
+    "sponsor_tech": [
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/neurolens-2qgdm8",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "RefundHunter",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of ASI:One",
+    "description": "A shopping tool follows prices after a purchase and flags potential refunds when prices drop.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi:one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/refundhunter-hs1u63",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Residue",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Track: Agentverse - Search & Discovery of Agents",
+    "description": "A study tool helps users understand their focus habits and find a study partner.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/residue",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Rest Easy",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of Fetch.ai",
+    "description": "A pillow checks in by voice when an older adult has not returned to bed and can reach out to family.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi-one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/rest-easy",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "RIIS",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "Fetch.ai: Best Use of ASI:One",
+    "description": "An incident response system organizes information quickly for people coordinating an emergency.",
+    "sponsor_tech": [
+      "fetch"
+    ],
+    "url": "https://devpost.com/software/riis",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Ripple",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "FetchAI ASI:One Agent Challenge",
+    "description": "A content planning tool simulates how an audience might respond to competing post ideas.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi:one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/ripple-mkcbr5",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Sprout",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "FetchAI ASI:One Agent Challenge",
+    "description": "A study agent makes practice quizzes and games and tracks progress in a virtual garden.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi:one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/sprout-x41rji",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Travel Assist AI",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of Fetch.ai",
+    "description": "A group trip assistant collects votes in chat and builds an itinerary everyone can follow.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi-one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/trip-assist-ai",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Voider",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. (Best Overall AI Agent Solution - $2500  Best Multi-Agent Workflow - $1500  Best Monetised Agent - $1000)",
+    "description": "A voice shopping tool compares prices across stores and coordinates payments through agents.",
+    "sponsor_tech": [
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/voider",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Yardsale",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Fetch.ai",
+    "prize": "[Fetch.ai] Best Use of Fetch.ai",
+    "description": "A resale tool uses photos to generate listings and agents to negotiate within a price range.",
+    "sponsor_tech": [
+      "agentverse",
+      "asi:one",
+      "fetch.ai",
+      "uagents"
+    ],
+    "url": "https://devpost.com/software/yardsale",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "EDFlow AI",
+    "hackathon": "Cal Hacks 12.0",
+    "year": 2025,
+    "sponsor": "Fetch.ai",
+    "prize": "Fetch AI: Best Deployment of Agentverse",
+    "description": "A coordination tool delegates emergency room tasks to agents responsible for beds, labs, and pharmacy.",
+    "sponsor_tech": [
+      "uagent"
+    ],
+    "url": "https://devpost.com/software/edflowai",
+    "gallery_url": "https://cal-hacks-12-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Haven",
+    "hackathon": "Cal Hacks 12.0",
+    "year": 2025,
+    "sponsor": "Fetch.ai",
+    "prize": "Fetch AI: Best Use of Fetch AI",
+    "description": "A hospital coordination dashboard combines record data, nursing alerts, and patient questions.",
+    "sponsor_tech": [
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/haven-536r1q",
+    "gallery_url": "https://cal-hacks-12-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Lumos",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Fetch.ai",
+    "prize": "Track: AI Agents League (Fetch.ai)",
+    "description": "Smart glasses help people with Alzheimer's recognize familiar people and recall routines.",
+    "sponsor_tech": [
+      "fetchai"
+    ],
+    "url": "https://devpost.com/software/lumos-f8h0mn",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "BrowseBlind",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "Fetch.ai",
+    "prize": "Fetch.ai: Agentic Track Prize",
+    "description": "A browser assistant helps blind users interact with websites through an accessible interface.",
+    "sponsor_tech": [
+      "fetch"
+    ],
+    "url": "https://devpost.com/software/browseblind",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "DayGenie",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "Fetch.ai",
+    "prize": "Fetch.ai: Agentic Track Prize",
+    "description": "A travel planner suggests destinations and builds itineraries from user preferences.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/daygeine",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "RecovARy",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "Fetch.ai",
+    "prize": "Fetch.ai: Agentic Track Prize",
+    "description": "An augmented reality tool guides stroke survivors through physical therapy exercises.",
+    "sponsor_tech": [
+      "fetch.ai"
+    ],
+    "url": "https://devpost.com/software/recovary",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Accent",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Make Challenge",
+    "description": "A macOS assistant takes a spoken question and highlights the relevant control for the user.",
+    "sponsor_tech": [
+      "figmamake"
+    ],
+    "url": "https://devpost.com/software/accent-cdw2qi",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Baseland",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "[Figma] Best Stage Log",
+    "description": "A mobile finance prototype turns market events into short research tasks and waits for confirmation before trading.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/baseland",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Bounty",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Best Design Track",
+    "description": "A job board holds payment in escrow until a worker submits the agreed proof of completion.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/bounty-hkz38e",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "BraceML",
+    "hackathon": "Hacklytics",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Make Most Creative Data Visualization",
+    "description": "A camera-based biomechanics tool tracks movement and fatigue to give athletes feedback while they train.",
+    "sponsor_tech": [
+      "figma-make"
+    ],
+    "url": "https://devpost.com/software/braceml",
+    "gallery_url": "https://hacklytics-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "FarmCast",
+    "hackathon": "Hacklytics",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Make Most Creative Data Visualization",
+    "description": "A local weather app gives gardeners and small farmers forecasts tailored to growing decisions.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/the-last-human-internet",
+    "gallery_url": "https://hacklytics-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Fobo",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma: Best Design",
+    "description": "A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/fobo-fear-of-burning-out",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Gaze",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Best Design Track",
+    "description": "A computer control interface uses eye tracking to point and speech to issue commands.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/gaze-pn0fmq",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Ghostphone",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "[Figma] Most Creative",
+    "description": "A game tells the story of a ghost through passes in Apple Wallet.",
+    "sponsor_tech": [
+      "figma"
+    ],
+    "url": "https://devpost.com/software/ghostphone",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "GoTrail",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Make Challenge",
+    "description": "A hiking app gives users activities to complete outside and helps clinicians suggest walks.",
+    "sponsor_tech": [
+      "figma-make"
+    ],
+    "url": "https://devpost.com/software/gotrail",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Grouper",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Make Challenge",
+    "description": "A shared app helps friend groups coordinate rides, plans, and payments.",
+    "sponsor_tech": [
+      "figma"
+    ],
+    "url": "https://devpost.com/software/grouper-fr2h1q",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "moa",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "[Figma] Best Design",
+    "description": "A finance workspace helps AI labs automate bookkeeping and related financial tasks.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/moa",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "NeighborFridge",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Make Challenge",
+    "description": "A grocery tracker reads receipts and flags food that may expire soon.",
+    "sponsor_tech": [
+      "figma",
+      "figma-make"
+    ],
+    "url": "https://devpost.com/software/neighborfridge",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Obi",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Make Challenge",
+    "description": "A desktop assistant finds local files and gathers context for the user's current task.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/obi-mise-en-place-for-your-data",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Orbit",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Best Design Track",
+    "description": "A learning app helps users explore stock movements and practice investment decisions.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/orbit-qrgmd8",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Scaena OS",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Make Challenge",
+    "description": "A booking workspace helps performers find venues and manage pitches and follow-ups.",
+    "sponsor_tech": [
+      "figma"
+    ],
+    "url": "https://devpost.com/software/scaena-os",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Talantis",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Make Challenge",
+    "description": "A dashboard shows how internship pipelines connect employers and schools.",
+    "sponsor_tech": [
+      "figmamake"
+    ],
+    "url": "https://devpost.com/software/talantis",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Two Figma",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "[Figma] Best Use Case",
+    "description": "A working design editor inside Figma uses variables to implement a processor, compiler, and operating system.",
+    "sponsor_tech": [
+      "figma"
+    ],
+    "url": "https://devpost.com/software/2-figma",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "WebMedica",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Figma",
+    "prize": "Figma Make Challenge",
+    "description": "A browser extension helps users find and understand medical research relevant to women's health.",
+    "sponsor_tech": [
+      "figma",
+      "figmamake"
+    ],
+    "url": "https://devpost.com/software/luma-ai-powered-personalized-health-context",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Farsight",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Full Sail",
+    "prize": "Full Sail: Pathways & Perception, A Serious Games & Simulation Challenge",
+    "description": "A rescue rover streams video, detects people, and captures indoor scans that an operator can explore in VR.",
+    "sponsor_tech": [
+      "meta-quest",
+      "three.js",
+      "webxr"
+    ],
+    "url": "https://devpost.com/software/farsight-t4qyli",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Dead Internet Theory",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "GoDaddy Registry",
+    "prize": "[MLH] Best Domain Name from GoDaddy Registry",
+    "description": "A shopping assistant flags product recommendations that may be based on manipulated online signals.",
+    "sponsor_tech": [
+      "godaddy"
+    ],
+    "url": "https://devpost.com/software/dead-internet-theory",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "MarkCodePolo by Freakmont Warriors",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "GoDaddy Registry",
+    "prize": "MLH: Best Domain Name from GoDaddy Registry",
+    "description": "A coding tool maps relationships between files and passes the graph to a coding agent as context.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/markcodepolo-by-freakmont-warriors",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "SpotAtWork",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "GoDaddy Registry",
+    "prize": "[MLH] Best Domain Name from GoDaddy Registry",
+    "description": "An operations dashboard summarizes the sensor data collected by a Spot robot on recent missions.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/spot-mission-control",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Askademia",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "GoDaddy Registry",
+    "prize": "MLH: Best Domain Name from GoDaddy Registry",
+    "description": "A classroom assistant answers student questions and helps them find support.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/askademia-study",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "CommitSense",
+    "hackathon": "HackGT 12",
+    "year": 2025,
+    "sponsor": "GoDaddy Registry",
+    "prize": "MLH - Best Domain Name from GoDaddy Registry",
+    "description": "A code search assistant uses commit history and retrieval to explain how legacy code evolved.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/commitsense-da5h6s",
+    "gallery_url": "https://hackgt-12.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Dish-covery",
+    "hackathon": "nwHacks",
+    "year": 2025,
+    "sponsor": "GoDaddy Registry",
+    "prize": "Best Domain Name from GoDaddy Registry",
+    "description": "A menu companion translates unfamiliar menus and helps diners visualize the dishes.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/dishcovery-j0qasd",
+    "gallery_url": "https://nwhacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Grocify",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "GoDaddy Registry",
+    "prize": "[MLH] Best Domain Name from GoDaddy Registry",
+    "description": "A kitchen planner uses pantry inventory and dietary preferences to suggest recipes and shopping needs.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/grocify",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "homecookd",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Google",
+    "prize": "[MLH] Best Use of Gemini API",
+    "description": "A hands-free recipe player lets families cook along to recordings made by their relatives.",
+    "sponsor_tech": [
+      "gemini",
+      "google-cloud",
+      "google-cloud-run"
+    ],
+    "url": "https://devpost.com/software/homecookd",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "ListenMe",
+    "hackathon": "nwHacks",
+    "year": 2026,
+    "sponsor": "Google",
+    "prize": "[MLH] Best Use of Gemini API",
+    "description": "A voice tool suggests words to stroke survivors based on how they describe the word they are trying to recall.",
+    "sponsor_tech": [
+      "google-gemini-live-api"
+    ],
+    "url": "https://devpost.com/software/anomiaaid",
+    "gallery_url": "https://nwhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Meridies",
+    "hackathon": "HackPrinceton Fall",
+    "year": 2026,
+    "sponsor": "Google",
+    "prize": "[MLH] Best Use of Gemini API",
+    "description": "A wearable combines spoken assistance with spatial audio to help people with vision loss navigate.",
+    "sponsor_tech": [
+      "gemini"
+    ],
+    "url": "https://devpost.com/software/meridies",
+    "gallery_url": "https://hackprinceton-fall-26.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Nod & Read",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Google",
+    "prize": "[MLH] Best Use of Gemini API",
+    "description": "An accessible comic reader plays panels aloud and lets readers advance them with facial input.",
+    "sponsor_tech": [
+      "google-gemini"
+    ],
+    "url": "https://devpost.com/software/nod-read",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Playwright",
+    "hackathon": "Hacklytics",
+    "year": 2026,
+    "sponsor": "Google",
+    "prize": "[MLH] Best Use of Gemini API",
+    "description": "A filmmaker can turn a screenplay into video previews and storyboard frames.",
+    "sponsor_tech": [
+      "gemini"
+    ],
+    "url": "https://devpost.com/software/playwright",
+    "gallery_url": "https://hacklytics-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Cena Can See",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Google",
+    "prize": "Google Gemini: Chase the Future!",
+    "description": "A robot uses what it sees to attempt everyday tasks without training separately for each task.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/cena-can-see",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "LingoBuddy",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Google",
+    "prize": "Google Gemini: Chase the Future!",
+    "description": "A language tutor adapts practice activities to the learner.",
+    "sponsor_tech": [
+      "google-gemini"
+    ],
+    "url": "https://devpost.com/software/lingobuddy-fkj4g0",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Ming Management Training, a personalized AI-native L&D coach",
+    "hackathon": "HackGT 12",
+    "year": 2025,
+    "sponsor": "Google",
+    "prize": "MLH - Best Use of Gemini API",
+    "description": "A management training tool gives new leaders interactive practice scenarios and feedback.",
+    "sponsor_tech": [
+      "gemini"
+    ],
+    "url": "https://devpost.com/software/ming-management-training-a-personalized-ai-native-l-d-coach",
+    "gallery_url": "https://hackgt-12.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "WingNote",
+    "hackathon": "TreeHacks",
+    "year": 2025,
+    "sponsor": "Google",
+    "prize": "Google Cloud: Best Use of Gemini (Google Pixel Watches x4)",
+    "description": "A nursing documentation tool turns captured conversations into structured notes.",
+    "sponsor_tech": [
+      "gemini"
+    ],
+    "url": "https://devpost.com/software/wingnote",
+    "gallery_url": "https://treehacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Refrigerator Ramsay",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "Google",
+    "prize": "Google: Most useful app",
+    "description": "A kitchen assistant suggests recipes that use available ingredients before they go to waste.",
+    "sponsor_tech": [
+      "gemini-ai"
+    ],
+    "url": "https://devpost.com/software/refrigerator-ramsay",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Storyscape",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "Google",
+    "prize": "Google: Most creative app",
+    "description": "An interactive story gives schoolchildren branching choices while they practice English.",
+    "sponsor_tech": [
+      "gemini"
+    ],
+    "url": "https://devpost.com/software/storyscape",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "AERIS: Autonomous Emergency Response & Intelligence System",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Groq",
+    "prize": "Best of Groq",
+    "description": "An emergency response prototype uses drones to map hazards and help responders choose routes.",
+    "sponsor_tech": [
+      "groq"
+    ],
+    "url": "https://devpost.com/software/aeris-ej7d9k",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Jade.AI",
+    "hackathon": "Cal Hacks 12.0",
+    "year": 2025,
+    "sponsor": "Groq",
+    "prize": "Groq: Best Use of Groq",
+    "description": "A data analysis assistant helps users explore and ask questions about their data.",
+    "sponsor_tech": [
+      "groq"
+    ],
+    "url": "https://devpost.com/software/jadeai",
+    "gallery_url": "https://cal-hacks-12-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Navi",
+    "hackathon": "TreeHacks",
+    "year": 2025,
+    "sponsor": "Groq",
+    "prize": "Groq: Best on Groq Multimodal App Challenge ($1,000 of Groq Swag Store Credit)",
+    "description": "A browser copilot helps users find their way around web pages.",
+    "sponsor_tech": [
+      "groq"
+    ],
+    "url": "https://devpost.com/software/navi-7sp5mz",
+    "gallery_url": "https://treehacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Noq",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "Groq",
+    "prize": "Groq: The Best on Groq",
+    "description": "A note taker turns live audio into written notes.",
+    "sponsor_tech": [
+      "groq"
+    ],
+    "url": "https://devpost.com/software/noq-92iysh",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Farsight",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Hugging Face",
+    "prize": "Hugging Face: Best Use of Open Source AI",
+    "description": "A rescue rover streams video, detects people, and captures indoor scans that an operator can explore in VR.",
+    "sponsor_tech": [
+      "hugging-face",
+      "qwen"
+    ],
+    "url": "https://devpost.com/software/farsight-t4qyli",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Here",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Hugging Face",
+    "prize": "Hugging Face: Best Use of Open Source AI",
+    "description": "A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from.",
+    "sponsor_tech": [
+      "huggingface"
+    ],
+    "url": "https://devpost.com/software/here-vqlrhg",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Permanence",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Hugging Face",
+    "prize": "Hugging Face: Best Use of Open Source AI",
+    "description": "A spatial awareness tool tracks objects and remembers their locations when they move out of view.",
+    "sponsor_tech": [
+      "qwen-3d"
+    ],
+    "url": "https://devpost.com/software/permanence",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "ANNEAL",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Hyphenate",
+    "prize": "[Hyphenate] The Hyphenated Enterprise: Autonomous Systems for Finance",
+    "description": "A motorsport asset manager automates work on vehicle hardware and sends novel decisions to people for approval.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/anneal-u3xh1o",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Backrooms",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Hyphenate",
+    "prize": "[Hyphenate] The Hyphenated Enterprise: Autonomous Systems for Finance",
+    "description": "A 3D office lets AI agents run routine small-business finance tasks and routes sensitive actions to a person for approval.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/backrooms-h4o783",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Sponsor-reported prize",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Eve: event finances handled",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Hyphenate",
+    "prize": "[Hyphenate] The Hyphenated Enterprise: Autonomous Systems for Finance",
+    "description": "An event finance assistant handles post-event accounting tasks.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/eve-event-finances-handled",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "GroundTruth",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Hyphenate",
+    "prize": "[Hyphenate] The Hyphenated Enterprise: Autonomous Systems for Finance",
+    "description": "A system analyzes billing disputes for operators of satellite ground stations.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/groundtruth-k3g5v6",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Mangekyo",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Hyphenate",
+    "prize": "[Hyphenate] The Hyphenated Enterprise: Autonomous Systems for Finance",
+    "description": "A trust accounting tool reviews ledger entries and documents and escalates discrepancies that need human review.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/mangekyo",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "moa",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Hyphenate",
+    "prize": "[Hyphenate] The Hyphenated Enterprise: Autonomous Systems for Finance",
+    "description": "A finance workspace helps AI labs automate bookkeeping and related financial tasks.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/moa",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "GeoStar",
+    "hackathon": "HackPrinceton Fall",
+    "year": 2026,
+    "sponsor": "MongoDB",
+    "prize": "[MLH] Best Use of MongoDB Atlas",
+    "description": "A property planning tool helps developers evaluate sites and visualize them in 3D.",
+    "sponsor_tech": [
+      "mongodb"
+    ],
+    "url": "https://devpost.com/software/geostar-5engd7",
+    "gallery_url": "https://hackprinceton-fall-26.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "J.I.T.",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "MongoDB",
+    "prize": "MLH: Best Use of MongoDB Atlas",
+    "description": "A study app turns a textbook scan into an interactive learning session.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/j-i-t",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "MovieMind",
+    "hackathon": "PennApps XXVI",
+    "year": 2025,
+    "sponsor": "MongoDB",
+    "prize": "MLH - Best use of MongoDB Atlas",
+    "description": "A movie recommender finds reviews that match the reasons a viewer enjoys a film.",
+    "sponsor_tech": [
+      "mongodb"
+    ],
+    "url": "https://devpost.com/software/moviemind-85pfcw",
+    "gallery_url": "https://pennapps-xxvi.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Munchkin",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "MongoDB",
+    "prize": "MLH: Best Use of MongoDB Atlas",
+    "description": "A desktop assistant watches for new files and sorts them based on their contents.",
+    "sponsor_tech": [
+      "mongodb",
+      "mongodb-atlas"
+    ],
+    "url": "https://devpost.com/software/munchkin",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "CuraLink",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Notability",
+    "prize": "[Notability] Best Use of Notability",
+    "description": "A platform helps students stay connected to class during medical care.",
+    "sponsor_tech": [
+      "notability"
+    ],
+    "url": "https://devpost.com/software/curalink-ut2lnv",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "DrugPersona",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Notability",
+    "prize": "[Notability] Best Use of Notability",
+    "description": "A research platform pairs an evidence workspace with tools for patients to review consent and compensation.",
+    "sponsor_tech": [
+      "notability"
+    ],
+    "url": "https://devpost.com/software/drugpersona",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Hear me Out",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Notability",
+    "prize": "[Notability] Best Use of Notability",
+    "description": "A party game uses group conversations to make plans for an in-person hangout.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/hear-me-out-548os6",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Homie",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Notability",
+    "prize": "Best Use of Notability Winner",
+    "description": "An apartment search assistant helps people moving to the US find listings, contact landlords, and prepare applications.",
+    "sponsor_tech": [
+      "notability"
+    ],
+    "url": "https://devpost.com/software/homie-1d28pr",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Vision OS",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Notability",
+    "prize": "[Notability] Best Use of Notability",
+    "description": "A navigation aid gives visually impaired users real-time scene feedback through touch.",
+    "sponsor_tech": [
+      "notability"
+    ],
+    "url": "https://devpost.com/software/vision-os-4ckmq3",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Detour",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "NVIDIA",
+    "prize": "[NVIDIA] Edge AI Track",
+    "description": "An onboard satellite agent evaluates possible debris collisions and proposes an avoidance maneuver.",
+    "sponsor_tech": [
+      "dgx-spark",
+      "nvidia"
+    ],
+    "url": "https://devpost.com/software/detour-64kpds",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Farsight",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "NVIDIA",
+    "prize": "NVIDIA: Best Use of Jetson Nano",
+    "description": "A rescue rover streams video, detects people, and captures indoor scans that an operator can explore in VR.",
+    "sponsor_tech": [
+      "nvidia-jetson",
+      "tensorrt"
+    ],
+    "url": "https://devpost.com/software/farsight-t4qyli",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Fireline",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "NVIDIA",
+    "prize": "NVIDIA: Best Use of Jetson Nano",
+    "description": "An edge device identifies early signs of wildfire smoke and reports them to a dashboard.",
+    "sponsor_tech": [
+      "jetson-nano",
+      "tensorrt"
+    ],
+    "url": "https://devpost.com/software/fireline-764nir",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Permanence",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "NVIDIA",
+    "prize": "NVIDIA: Best Use of Jetson Nano",
+    "description": "A spatial awareness tool tracks objects and remembers their locations when they move out of view.",
+    "sponsor_tech": [
+      "cuda",
+      "jetson-nano"
+    ],
+    "url": "https://devpost.com/software/permanence",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Sprout",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "NVIDIA",
+    "prize": "[NVIDIA] Edge AI Track",
+    "description": "A miniature robotic growing system monitors and tends a small farm.",
+    "sponsor_tech": [
+      "cuda",
+      "jetson-nano"
+    ],
+    "url": "https://devpost.com/software/greenguardian-microfarm",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "TORQ",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "NVIDIA",
+    "prize": "[NVIDIA] Edge AI Track",
+    "description": "A Jetson-based retrofit tests autonomous driving functions in vehicles that were built without them.",
+    "sponsor_tech": [
+      "cuda",
+      "nvidia"
+    ],
+    "url": "https://devpost.com/software/torq",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Portable Braille",
+    "hackathon": "TreeHacks",
+    "year": 2025,
+    "sponsor": "NVIDIA",
+    "prize": "NVIDIA: Robo Prize (Jetson Dev kit per team member)",
+    "description": "A portable teaching device helps children with visual impairments practice Braille.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/portable-braille-cdq8v5",
+    "gallery_url": "https://treehacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Ranger",
+    "hackathon": "TreeHacks",
+    "year": 2025,
+    "sponsor": "NVIDIA",
+    "prize": "NVIDIA: Best Accelerated Compute (5090s per team member - 1 GPU JHH signed [1st] & 5080s per team member [2nd])",
+    "description": "An AR wearable displays cues about nearby sounds to deaf and hard-of-hearing users.",
+    "sponsor_tech": [
+      "jetson-nano"
+    ],
+    "url": "https://devpost.com/software/ranger-6jkv5s",
+    "gallery_url": "https://treehacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "ContainOS",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "OpenAI",
+    "prize": "[OpenAI] Artificial Intelligence Track ([1st]  Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro  [2nd] 1 year of ChatGPT Pro  [3rd] OpenAI swag)",
+    "description": "A wildfire response tool uses agent workflows and physical models to help evaluate containment decisions.",
+    "sponsor_tech": [
+      "gpt-4o",
+      "openai",
+      "react-leaflet-fastapi-websockets-openai"
+    ],
+    "url": "https://devpost.com/software/containos",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Mira",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "OpenAI",
+    "prize": "[OpenAI] Artificial Intelligence Track ([1st]  Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro  [2nd] 1 year of ChatGPT Pro  [3rd] OpenAI swag)",
+    "description": "A voice and vision assistant maps rooms, helps older adults find misplaced objects, and alerts caregivers.",
+    "sponsor_tech": [
+      "gpt-5-mini",
+      "openai",
+      "openai-whisper"
+    ],
+    "url": "https://devpost.com/software/mira-w65b0a",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "VisionOS",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "OpenAI",
+    "prize": "[OpenAI] Artificial Intelligence Track ([1st]  Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro  [2nd] 1 year of ChatGPT Pro  [3rd] OpenAI swag)",
+    "description": "A programming environment gives blind developers an accessible way to write and navigate code.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/visionos-5euxo7",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Fable",
+    "hackathon": "TreeHacks",
+    "year": 2025,
+    "sponsor": "OpenAI",
+    "prize": "OpenAI: Most Creative Use of OpenAI API (OpenAI SF HQ lunch + Swag)",
+    "description": "An interactive storyteller changes the narrative and visuals in response to brainwave readings.",
+    "sponsor_tech": [
+      "openai-api"
+    ],
+    "url": "https://devpost.com/software/fable-br8e1d",
+    "gallery_url": "https://treehacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "TreeTrash",
+    "hackathon": "TreeHacks",
+    "year": 2025,
+    "sponsor": "OpenAI",
+    "prize": "OpenAI: Most Creative Use of OpenAI API (OpenAI SF HQ lunch + Swag)",
+    "description": "A monitoring system measures what people throw away and reports waste trends.",
+    "sponsor_tech": [
+      "openai"
+    ],
+    "url": "https://devpost.com/software/treetrash",
+    "gallery_url": "https://treehacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "CrowdClear",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Presage",
+    "prize": "[MLH] Best Use of Presage",
+    "description": "An interactive evacuation simulator lets trainees clear exits and redirect crowds in a building.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/crowdclear",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Hazard Intelligence",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Presage",
+    "prize": "[MLH] Best Use of Presage",
+    "description": "A robotics team collects human skiing and hiking motions to train a humanoid on outdoor terrain.",
+    "sponsor_tech": [
+      "presage"
+    ],
+    "url": "https://devpost.com/software/hazard-intelligence",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "UnderPressure",
+    "hackathon": "Hacklytics",
+    "year": 2026,
+    "sponsor": "Presage",
+    "prize": "[MLH] Best Use of Presage",
+    "description": "A camera estimates a player's state and changes the game in response.",
+    "sponsor_tech": [
+      "presage"
+    ],
+    "url": "https://devpost.com/software/underpressure",
+    "gallery_url": "https://hacklytics-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "VibeSense",
+    "hackathon": "nwHacks",
+    "year": 2026,
+    "sponsor": "Presage",
+    "prize": "[MLH] Best Use of Presage",
+    "description": "An accessibility tool converts facial expressions into audio cues for blind users.",
+    "sponsor_tech": [
+      "presage"
+    ],
+    "url": "https://devpost.com/software/vibesense",
+    "gallery_url": "https://nwhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Inbox Invaders",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Roblox",
+    "prize": "ROBLOX Civility Challenge",
+    "description": "A Roblox tower-defense game teaches players to recognize phishing messages and malware.",
+    "sponsor_tech": [
+      "luau",
+      "robloxstudio"
+    ],
+    "url": "https://devpost.com/software/inbox-invaders",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Mindful Egg",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Roblox",
+    "prize": "ROBLOX Civility Challenge",
+    "description": "A Roblox game uses a growing egg companion to reward rest, journaling, and other self-care habits.",
+    "sponsor_tech": [
+      "luau",
+      "roblox"
+    ],
+    "url": "https://devpost.com/software/mindful-egg-uhfbac",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Overseer.exe",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Roblox",
+    "prize": "ROBLOX Civility Challenge",
+    "description": "A Roblox safety game teaches players to identify grooming and scams in chat.",
+    "sponsor_tech": [
+      "luau",
+      "roblox-engine",
+      "roblox-studio"
+    ],
+    "url": "https://devpost.com/software/entelecheia",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Pixel Truth",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Roblox",
+    "prize": "ROBLOX Civility Challenge",
+    "description": "A Roblox detective game asks players to verify news stories by interviewing witnesses and inspecting evidence.",
+    "sponsor_tech": [
+      "luau",
+      "roblox",
+      "robloxstudio"
+    ],
+    "url": "https://devpost.com/software/pixel-truth",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "AI Escape",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Roblox",
+    "prize": "ROBLOX Civility Challenge: Building A Better Digital World",
+    "description": "Players solve puzzles to leave a haunted house in an escape-room game.",
+    "sponsor_tech": [
+      "roblox"
+    ],
+    "url": "https://devpost.com/software/ai-escape",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Bloom.AI",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Roblox",
+    "prize": "ROBLOX Civility Challenge: Building A Better Digital World",
+    "description": "A Roblox game lets players shape their surroundings through what they say and do.",
+    "sponsor_tech": [
+      "roblox"
+    ],
+    "url": "https://devpost.com/software/bloom-ai-43296z",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Kindness Maxxing",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Roblox",
+    "prize": "ROBLOX Civility Challenge: Building A Better Digital World",
+    "description": "A Roblox game asks players to defuse tense social situations and see how different choices play out.",
+    "sponsor_tech": [
+      "luau",
+      "roblox"
+    ],
+    "url": "https://devpost.com/software/kindness-maxxing",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Ghostface Cookah",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Snap",
+    "prize": "Snap Inc. Challenge: Dream it. Build it.",
+    "description": "Snap Spectacles show recipe steps and let cooks advance them by voice.",
+    "sponsor_tech": [
+      "snapchat"
+    ],
+    "url": "https://devpost.com/software/ghostface-cookah",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "MediSnap",
+    "hackathon": "Cal Hacks 12.0",
+    "year": 2025,
+    "sponsor": "Snap",
+    "prize": "Snap: Best Use of Snap Spectacles",
+    "description": "Smart glasses let clinicians call up visual information with voice commands.",
+    "sponsor_tech": [
+      "lens-studio",
+      "snap",
+      "snap-spectacles"
+    ],
+    "url": "https://devpost.com/software/medsnap-2ysgxk",
+    "gallery_url": "https://cal-hacks-12-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "MemARy",
+    "hackathon": "Cal Hacks 12.0",
+    "year": 2025,
+    "sponsor": "Snap",
+    "prize": "Snap: Best Use of Snap Spectacles",
+    "description": "AR glasses provide memory cues for people with Alzheimer's disease.",
+    "sponsor_tech": [
+      "lensstudio",
+      "snapar",
+      "spectacle"
+    ],
+    "url": "https://devpost.com/software/memary",
+    "gallery_url": "https://cal-hacks-12-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Pulse",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Snap",
+    "prize": "Snap Inc. Challenge: Dream it. Build it.",
+    "description": "An AR prototype displays audiovisual CPR guidance in Snap Spectacles.",
+    "sponsor_tech": [
+      "lensstudio",
+      "snapapi"
+    ],
+    "url": "https://devpost.com/software/pulse-n06ij9",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "SnapDrobe",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Snap",
+    "prize": "Snap Inc. Challenge: Dream it. Build it.",
+    "description": "A wearable wardrobe tool catalogs clothes the user already owns and suggests outfits.",
+    "sponsor_tech": [
+      "lensstudio",
+      "spectecleinteractionkit"
+    ],
+    "url": "https://devpost.com/software/snapdrobe",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Wingman",
+    "hackathon": "Cal Hacks 12.0",
+    "year": 2025,
+    "sponsor": "Snap",
+    "prize": "Snap: Best Use of Snap Spectacles",
+    "description": "A user wearing Snap Spectacles can point to steer a robot and gesture to operate its gripper.",
+    "sponsor_tech": [
+      "snap"
+    ],
+    "url": "https://devpost.com/software/wingman-9xok8b",
+    "gallery_url": "https://cal-hacks-12-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "RecovARy",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "Snap",
+    "prize": "Snap: Dream it. Build it.",
+    "description": "An augmented reality tool guides stroke survivors through physical therapy exercises.",
+    "sponsor_tech": [
+      "lensstudio",
+      "snapincspectacles"
+    ],
+    "url": "https://devpost.com/software/recovary",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "SnapChest",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "Snap",
+    "prize": "Snap: Dream it. Build it.",
+    "description": "A treasure hunt uses Snap Spectacles to show clues and phone vibrations to guide players.",
+    "sponsor_tech": [
+      "lens-studio",
+      "spectacles"
+    ],
+    "url": "https://devpost.com/software/spectacles-treasure-hunt",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "CodeAncestry",
+    "hackathon": "nwHacks",
+    "year": 2026,
+    "sponsor": "Snowflake",
+    "prize": "[MLH] Best Use of Snowflake API",
+    "description": "A code research tool indexes commit history so developers can search for earlier decisions.",
+    "sponsor_tech": [
+      "snowflake"
+    ],
+    "url": "https://devpost.com/software/codeancestory",
+    "gallery_url": "https://nwhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Graption",
+    "hackathon": "Hacklytics",
+    "year": 2026,
+    "sponsor": "Snowflake",
+    "prize": "[MLH] Best Use of Snowflake API",
+    "description": "A group conversation tool places live captions to help deaf participants follow who is speaking.",
+    "sponsor_tech": [
+      "snowflake"
+    ],
+    "url": "https://devpost.com/software/graption",
+    "gallery_url": "https://hacklytics-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Vigil",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Snowflake",
+    "prize": "[MLH] Best Use of Snowflake API",
+    "description": "A nursing-home monitoring system learns each resident's baseline and flags changes for the overnight staff.",
+    "sponsor_tech": [
+      "snowflake",
+      "snowflake-cortex",
+      "snowflake-ml"
+    ],
+    "url": "https://devpost.com/software/vigil-aewt3u",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Waste2Taste",
+    "hackathon": "HackGT 12",
+    "year": 2025,
+    "sponsor": "Snowflake",
+    "prize": "MLH - Best Use of Snowflake API",
+    "description": "A dining-hall dashboard helps chefs measure which meals produce the most plate waste.",
+    "sponsor_tech": [
+      "snowflake",
+      "snowflake-cortex"
+    ],
+    "url": "https://devpost.com/software/waste2taste-etwp34",
+    "gallery_url": "https://hackgt-12.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "GurtOS",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Solana",
+    "prize": "[MLH] Best Use of Solana",
+    "description": "An operating environment isolates each AI agent task in a separate Linux user and lets people review spending and undo changes.",
+    "sponsor_tech": [
+      "solana"
+    ],
+    "url": "https://devpost.com/software/gurtos",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "No Badge Actors",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Solana",
+    "prize": "[MLH] Best Use of Solana",
+    "description": "A hardware wallet shows who will receive a payment and what the user is about to sign.",
+    "sponsor_tech": [
+      "solana",
+      "solana-attestation-service"
+    ],
+    "url": "https://devpost.com/software/no-badge-actors",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "solGPU",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Solana",
+    "prize": "[MLH] Best Use of Solana",
+    "description": "A marketplace lets developers browse GPU capacity and reserve it through a blockchain transaction.",
+    "sponsor_tech": [
+      "solana"
+    ],
+    "url": "https://devpost.com/software/solgpu",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "VERA",
+    "hackathon": "Hacklytics",
+    "year": 2026,
+    "sponsor": "Solana",
+    "prize": "[MLH] Best Use of Solana",
+    "description": "A lender can screen potential properties for environmental risks before approving financing.",
+    "sponsor_tech": [
+      "solana",
+      "solana-py",
+      "solders"
+    ],
+    "url": "https://devpost.com/software/vera-r3gp7l",
+    "gallery_url": "https://hacklytics-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Bandit - The only band you need",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "[Spacetime] Best Use of Spacetime",
+    "description": "A wearable tracks crowd conditions and helps attendees reconnect with their group at an event.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/bandit-the-only-band-you-need",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "CoClip",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "Best Use of Spacetime",
+    "description": "A shared editor lets teammates work on a video together with help from AI assistants.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/coclip",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Ender's Bench",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "[Spacetime] Best Use of Spacetime",
+    "description": "A benchmark lets users watch how AI agents make decisions and inspect the measured outcomes.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/ender-s-bench",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "GeonosisAI",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "[Spacetime] Best Use of Spacetime",
+    "description": "A robotics workflow coordinates collection of demonstrations and uses them to fine-tune policies for physical robots.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/robofactory",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Luyten",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "[Spacetime] Best Use of Spacetime",
+    "description": "A finance workflow uses agents for month-end close tasks and waits for human approval before posting.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/cafoo",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Orkio",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "[Spacetime] Best Use of Spacetime",
+    "description": "A shared coding workspace coordinates AI agents working across devices.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/gehub",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Pacioli",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "[Spacetime] Best Use of Spacetime",
+    "description": "A collaborative canvas gives a team a shared place to do its accounting.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/pacioli",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Rally",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "[Spacetime] Best Use of Spacetime",
+    "description": "Players use their phones as motion controllers to play racket sports on a laptop.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/locomotion-5i4gzy",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "skyFall",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "[Spacetime] Best Use of Spacetime",
+    "description": "A satellite-tracking dashboard estimates where debris from reentry might land.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/skyfall-uca4i9",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Traycer: Food-waste Intelligence",
+    "hackathon": "MHacks",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "Best Use of Spacetime",
+    "description": "A food-waste dashboard shows what gets thrown away so kitchens can decide what to change.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/traycer-ai-food-waste-intelligence",
+    "gallery_url": "https://mhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Vouch",
+    "hackathon": "Cal Hacks 13.0",
+    "year": 2026,
+    "sponsor": "Spacetime",
+    "prize": "[Spacetime] Best Use of Spacetime",
+    "description": "A commerce tool lets merchants review AI-organized evidence when investigating refunds.",
+    "sponsor_tech": [
+      "spacetimedb"
+    ],
+    "url": "https://devpost.com/software/vouch-7i3bft",
+    "gallery_url": "https://cal-hacks-13-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Hakit",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Tiger Data",
+    "prize": "[MLH] Best Use of Tiger Data",
+    "description": "A workspace matches hackathon tasks to teammates and tracks progress through GitHub.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/hakit-1qejr3",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "FlameScout",
+    "hackathon": "HackPrinceton Fall",
+    "year": 2026,
+    "sponsor": "Vultr",
+    "prize": "[MLH] Best Use of Vultr",
+    "description": "A dashboard supplies incident information to fire dispatchers.",
+    "sponsor_tech": [
+      "vultr"
+    ],
+    "url": "https://devpost.com/software/flamescout",
+    "gallery_url": "https://hackprinceton-fall-26.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Just Replay",
+    "hackathon": "LA Hacks",
+    "year": 2026,
+    "sponsor": "Vultr",
+    "prize": "MLH: Best Use of Vultr",
+    "description": "A guided movement app helps older adults with limited mobility practice activities with camera feedback.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/just-replay",
+    "gallery_url": "https://la-hacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Nexus",
+    "hackathon": "nwHacks",
+    "year": 2026,
+    "sponsor": "Vultr",
+    "prize": "[MLH] Best Use of Vultr",
+    "description": "A planning app connects student clubs' communication, spreadsheets, and code tools in one workspace.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/nexus-g349ko",
+    "gallery_url": "https://nwhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Spotlight",
+    "hackathon": "Knight Hacks IX",
+    "year": 2026,
+    "sponsor": "Vultr",
+    "prize": "[MLH] Best Use of Vultr",
+    "description": "A dashboard turns telemetry from robots into reports operators can use.",
+    "sponsor_tech": [
+      "vultr"
+    ],
+    "url": "https://devpost.com/software/spotlight-fxqamj",
+    "gallery_url": "https://knight-hacks-ix.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Arena",
+    "hackathon": "TreeHacks",
+    "year": 2026,
+    "sponsor": "Warp",
+    "prize": "[Warp] Best Use of Warp Agents (Keychron Mechanical Keyboard for each team member)",
+    "description": "A software development tool compares solutions created by competing coding agents.",
+    "sponsor_tech": [
+      "warp-oz-agent-sdk"
+    ],
+    "url": "https://devpost.com/software/arena-lz2m84",
+    "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "CodeAncestry",
+    "hackathon": "nwHacks",
+    "year": 2026,
+    "sponsor": "Warp",
+    "prize": "[Warp] Best Developer Tool",
+    "description": "A code research tool indexes commit history so developers can search for earlier decisions.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/codeancestory",
+    "gallery_url": "https://nwhacks-2026.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Orion",
+    "hackathon": "Cal Hacks 12.0",
+    "year": 2025,
+    "sponsor": "Warp",
+    "prize": "Warp: Best Use of Warp",
+    "description": "A wildfire operations dashboard brings live video and voice controls into the incident workflow.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/orion-p5ayks",
+    "gallery_url": "https://cal-hacks-12-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "stackwise",
+    "hackathon": "LA Hacks",
+    "year": 2025,
+    "sponsor": "Warp",
+    "prize": "Warp Challenge: Best Developer Tool",
+    "description": "A planning tool turns a written software idea into an editable architecture graph and starter repository.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/stackwise",
+    "gallery_url": "https://la-hacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "termiknow",
+    "hackathon": "nwHacks",
+    "year": 2025,
+    "sponsor": "Warp",
+    "prize": "Warp Sponsor Prize",
+    "description": "A terminal search tool runs user-defined commands against selected databases.",
+    "sponsor_tech": [
+      "warp"
+    ],
+    "url": "https://devpost.com/software/termiknow",
+    "gallery_url": "https://nwhacks-2025.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  },
+  {
+    "project": "Unreal EngJam",
+    "hackathon": "Cal Hacks 11.0",
+    "year": 2024,
+    "sponsor": "Warp",
+    "prize": "Warp: Best Developer Tool by Warp",
+    "description": "A prototype implements a programming language and game engine inside Figma.",
+    "sponsor_tech": [],
+    "url": "https://devpost.com/software/unreal-engjam",
+    "gallery_url": "https://cal-hacks-11-0.devpost.com/project-gallery",
+    "award_evidence": "Devpost Winner label",
+    "fetched_on": "2026-11-21",
+    "http_status": 200
+  }
+]
