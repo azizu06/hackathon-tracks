@@ -138,7 +138,7 @@ def main():
 
 {counts}
 
-Open [Hackathon Tracks](https://azizu06.github.io/hackathon-tracks/) once Pages goes live, or browse the [GitHub directory](../README.md) and [download the CSV](../winners/winners.csv).
+Open [Hackathon Tracks](https://tracks.azizu.dev/), or browse the [GitHub directory](../README.md) and [download the CSV](../winners/winners.csv).
 
 ![The Hackathon Tracks site with sponsor filters and winning projects](../docs/tracks-preview.webp)
 """, encoding="utf-8")

@@ -12,7 +12,7 @@ Browse past hackathon winners by sponsor and see what they built before you pick
 
 **[Star this repo](https://github.com/azizu06/hackathon-tracks)** to save it for your next hackathon.
 
-**[Open the searchable site](https://azizu06.github.io/hackathon-tracks/)** · [Site preview](docs/tracks-preview.webp) · [CSV](winners/winners.csv) · [JSON](winners/winners.json)
+**[Open the searchable site](https://tracks.azizu.dev/)** · [Site preview](docs/tracks-preview.webp) · [CSV](winners/winners.csv) · [JSON](winners/winners.json)
 
 ## Contents
 
