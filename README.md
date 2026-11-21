@@ -16,7 +16,7 @@ Aim for one build that fits two to four tracks. Each sponsor integration should 
 
 ## My three wins
 
-My team left Knight Hacks VIII without a prize. I started reading every sponsor track before picking an idea, and my teams won six sponsor prizes across my next three hackathons.
+My team left Knight Hacks VIII without a prize. I started reading every sponsor track before picking an idea, and my teams won six sponsor prizes at hackathons in 2026.
 
 ### CrisisLens at Georgia Tech's Hacklytics 2026
 
