@@ -1,36 +1,31 @@
 # Aristotle
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (2), typescript (2), beautiful-soup (1)
+- **Common project areas** Finance and commerce (2)
+- **Common demo formats** Voice or conversational interface (1), Web app or dashboard (1)
+- **Projects with a listed demo video** 2 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [BOBUX BARGAINS](https://devpost.com/software/bobux-bargains) · [code](https://github.com/jennnniferkuang/Bobux-Bargains) · [demo](https://www.youtube.com/watch?v=xkyIFGGAyg0) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Aristotle Challenge: Most Cutting-Edge AI Agent · [details](../by-hackathon/hacknyu-fall-2025.md#project-bobux-bargains) | Are YOU a finance bro!? Do YOU want to learn how to negotiate. | luau, openrouter, roblox |
+| [BuckBounty](https://devpost.com/software/buckbounty) · [code](https://github.com/NandanHemanth/BuckBounty) · [demo](https://www.youtube.com/watch?v=rCsw2WkivC0) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Aristotle Challenge: Most Cutting-Edge AI Agent · [details](../by-hackathon/hacknyu-fall-2025.md#project-buckbounty) | Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, maximizes rewards, and builds… | beautiful-soup, elevenlabs-api, faiss-vector-database |
+| [StationScope](https://devpost.com/software/stationscope) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Aristotle Challenge: Most Cutting-Edge AI Agent · [details](../by-hackathon/hacknyu-fall-2025.md#project-stationscope) | StationScope turns a work address into a personalized, data-driven NYC housing guide—mapped stations, census… | css, geocoding, google-maps |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Aristotle Challenge: Most Cutting-Edge AI Agent | No specific requirement captured | [Event prize rules](https://hacknyu-fall-2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (2), typescript (2), beautiful-soup (1), css (1), elevenlabs-api (1), faiss-vector-database (1)
-- **Problem areas** Finance and commerce (2)
-- **Demo types** Voice or conversational interface (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [BOBUX BARGAINS](../by-hackathon/hacknyu-fall-2025.md#project-bobux-bargains) | HackNYU Fall 2025 | 1 | 2 | Aristotle |
-| [BuckBounty](../by-hackathon/hacknyu-fall-2025.md#project-buckbounty) | HackNYU Fall 2025 | 1 | 2 | Aristotle |
-| [StationScope](../by-hackathon/hacknyu-fall-2025.md#project-stationscope) | HackNYU Fall 2025 | 1 | 2 | Aristotle |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [BOBUX BARGAINS](../by-hackathon/hacknyu-fall-2025.md#project-bobux-bargains) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Aristotle Challenge: Most Cutting-Edge AI Agent | — | Bobux bargains simulates a real world economy including supply and demand and financial transactions, on Roblox. | 2 |
-| [BuckBounty](../by-hackathon/hacknyu-fall-2025.md#project-buckbounty) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Aristotle Challenge: Most Cutting-Edge AI Agent | — | BuckBounty is an AI-powered personal finance assistant that:. | 2 |
-| [StationScope](../by-hackathon/hacknyu-fall-2025.md#project-stationscope) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Aristotle Challenge: Most Cutting-Edge AI Agent | — | You can type in a desired address on the StationScope landing screen, and a geolocation API helps you find a valid address. | 2 |
+</details>

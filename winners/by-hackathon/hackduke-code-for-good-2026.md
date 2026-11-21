@@ -1,26 +1,36 @@
 # HackDuke Code for Good 2026
 
-[Devpost gallery](https://hackduke-code-for-good-2026.devpost.com/project-gallery) · [Official prize rules](https://hackduke-code-for-good-2026.devpost.com/) · [Winners index](../README.md)
+**7 projects · 7 sponsors · 7 prize rows**
 
-7 projects and 7 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://hackduke-code-for-good-2026.devpost.com/project-gallery) · [Official prize rules](https://hackduke-code-for-good-2026.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** auth0 (6), elevenlabs (3), gemini (3)
+- **Common project areas** None listed
+- **Common demo formats** Web app or dashboard (4), Voice or conversational interface (1)
+- **Projects with a listed demo video** 6 of 7
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Aladin](#project-aladin-fkpz0h) | [Auth0](../by-sponsor/auth0.md) | &#91;MLH&#93; Best Use of Auth0 | — | The project lists auth0 among its Built With tags. | 1 |
-| [VerdictX](#project-verdictx) | [DigitalOcean](../by-sponsor/digitalocean.md) | &#91;MLH&#93; Best Use of DigitalOcean | — | The project lists digitalocean among its Built With tags. | 2 |
-| [Runway](#project-runway-fgqxhy) | [ElevenLabs](../by-sponsor/elevenlabs.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | The project lists elevenlabs among its Built With tags. | 1 |
-| [Forage](#project-gaia-r3jwo5) | [Figma](../by-sponsor/figma.md) | &#91;Figma&#93; Best Design | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [IBrowse](#project-ibrowse) | [Google](../by-sponsor/google.md) | &#91;MLH&#93; Best Use of Gemini API | — | The project lists gemini among its Built With tags. | 2 |
-| [VaccineOS](#project-vaccineos) | [Reach Capital](../by-sponsor/reach-capital.md) | &#91;MLH&#93; Best Use of AI powered by Reach Capital | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [DataCrawl](#project-datacrawl) | [Solana](../by-sponsor/solana.md) | &#91;MLH&#93; Best Use of Solana | — | The project lists solana among its Built With tags. | 1 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Aladin](https://devpost.com/software/aladin-fkpz0h) · [code](https://github.com/ThomasKidane/aladin) · [demo](https://www.youtube.com/watch?v=bl4MjAQ5oZ8) | [Auth0](../by-sponsor/auth0.md) · Best Use of Auth0 · [details](#project-aladin-fkpz0h) | Aladin is an AI agent that lives in your browser. | auth0 |
+| [VerdictX](https://devpost.com/software/verdictx) · [code](https://github.com/noteesh/HackDuke) · [demo](https://www.youtube.com/watch?v=KcBM_uwu5As) | [DigitalOcean](../by-sponsor/digitalocean.md) · Best Use of DigitalOcean · [details](#project-verdictx) | An algorithm denied you. No explanation. | digitalocean, auth0, elevenlabs |
+| [Runway](https://devpost.com/software/runway-fgqxhy) · [code](https://github.com/naasanov/runway) · [demo](https://www.youtube.com/watch?v=KBSkARA8Rf4) | [ElevenLabs](../by-sponsor/elevenlabs.md) · Best Use of ElevenLabs · [details](#project-runway-fgqxhy) | Solving cashflow as an AI CFO for small/medium sized businesses. | elevenlabs, auth0, azure |
+| [Forage](https://devpost.com/software/gaia-r3jwo5) · [code](https://github.com/EzequielBaltierra/HackDuke26) · [demo](https://www.youtube.com/watch?v=ZdNEc66V0Zg) | [Figma](../by-sponsor/figma.md) · Best Design · [details](#project-gaia-r3jwo5) | Help people go outside more often by making nature exploration social, rewarding, and habit-forming. | auth0, expo.io, openai |
+| [IBrowse](https://devpost.com/software/ibrowse) · [code](https://github.com/aadhirsandeep/hackduke26-I-Browse) · [demo](https://www.youtube.com/watch?v=zA_hBq063JM) | [Google](../by-sponsor/google.md) · Best Use of Gemini API · [details](#project-ibrowse) | An adaptive browser overlay extension that enables webpage customization and interaction through persistent… | gemini, auth0, elevenlabs |
+| [VaccineOS](https://devpost.com/software/vaccineos) | [Reach Capital](../by-sponsor/reach-capital.md) · Best Use of AI powered by Reach Capital · [details](#project-vaccineos) | Vaccine OS is a full-stack neoantigen vaccine design platform. | claude, next.js, postgresql |
+| [DataCrawl](https://devpost.com/software/datacrawl) · [code](https://github.com/Aarushvinod/DataCrawl) · [demo](https://www.youtube.com/watch?v=t-F03o3KFjQ) | [Solana](../by-sponsor/solana.md) · Best Use of Solana · [details](#project-datacrawl) | DataCrawl turns plain-English data requests into fresh datasets. AI agents plan, scrape, generate, normalize,… | solana, auth0, beautiful-soup |
 
 ## Project details
 
 <a name="project-aladin-fkpz0h"></a>
 
-### [Aladin](https://devpost.com/software/aladin-fkpz0h)
+<details>
+<summary>Aladin</summary>
 
 Aladin is an AI agent that lives in your browser.
 
@@ -30,11 +40,14 @@ Aladin is an AI agent that lives in your browser.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=bl4MjAQ5oZ8)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Auth0
 - **Devpost checked** 2026-11-21 UTC
-- **Auth0** The project lists auth0 among its Built With tags.
+- **Auth0 · &#91;MLH&#93; Best Use of Auth0** The project lists auth0 among its Built With tags.
+
+</details>
 
 <a name="project-datacrawl"></a>
 
-### [DataCrawl](https://devpost.com/software/datacrawl)
+<details>
+<summary>DataCrawl</summary>
 
 DataCrawl turns plain-English data requests into fresh datasets. AI agents plan, scrape, generate, normalize, and validate the data you need, then deliver clean, usable files for analysis today.
 
@@ -44,11 +57,14 @@ DataCrawl turns plain-English data requests into fresh datasets. AI agents plan,
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=t-F03o3KFjQ)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
-- **Solana** The project lists solana among its Built With tags.
+- **Solana · &#91;MLH&#93; Best Use of Solana** The project lists solana among its Built With tags.
+
+</details>
 
 <a name="project-gaia-r3jwo5"></a>
 
-### [Forage](https://devpost.com/software/gaia-r3jwo5)
+<details>
+<summary>Forage</summary>
 
 Help people go outside more often by making nature exploration social, rewarding, and habit-forming.
 
@@ -58,11 +74,14 @@ Help people go outside more often by making nature exploration social, rewarding
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ZdNEc66V0Zg)
 - **All event prizes (1)** &#91;Figma&#93; Best Design
 - **Devpost checked** 2026-11-21 UTC
-- **Figma** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Figma · &#91;Figma&#93; Best Design** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-ibrowse"></a>
 
-### [IBrowse](https://devpost.com/software/ibrowse)
+<details>
+<summary>IBrowse</summary>
 
 An adaptive browser overlay extension that enables webpage customization and interaction through persistent DOM transformations, presets, and voice controls.
 
@@ -72,11 +91,14 @@ An adaptive browser overlay extension that enables webpage customization and int
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=zA_hBq063JM)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Gemini API · Grand Prize: Interactive Media Track
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The project lists gemini among its Built With tags.
+- **Google · &#91;MLH&#93; Best Use of Gemini API** The project lists gemini among its Built With tags.
+
+</details>
 
 <a name="project-runway-fgqxhy"></a>
 
-### [Runway](https://devpost.com/software/runway-fgqxhy)
+<details>
+<summary>Runway</summary>
 
 Solving cashflow as an AI CFO for small/medium sized businesses.
 
@@ -86,11 +108,14 @@ Solving cashflow as an AI CFO for small/medium sized businesses.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=KBSkARA8Rf4)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
-- **ElevenLabs** The project lists elevenlabs among its Built With tags.
+- **ElevenLabs · &#91;MLH&#93; Best Use of ElevenLabs** The project lists elevenlabs among its Built With tags.
+
+</details>
 
 <a name="project-vaccineos"></a>
 
-### [VaccineOS](https://devpost.com/software/vaccineos)
+<details>
+<summary>VaccineOS</summary>
 
 Vaccine OS is a full-stack neoantigen vaccine design platform.
 
@@ -100,11 +125,14 @@ Vaccine OS is a full-stack neoantigen vaccine design platform.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** &#91;MLH&#93; Best Use of AI powered by Reach Capital · Runner Up: Health Track
 - **Devpost checked** 2026-11-21 UTC
-- **Reach Capital** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Reach Capital · &#91;MLH&#93; Best Use of AI powered by Reach Capital** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-verdictx"></a>
 
-### [VerdictX](https://devpost.com/software/verdictx)
+<details>
+<summary>VerdictX</summary>
 
 An algorithm denied you. No explanation.
 
@@ -114,4 +142,6 @@ An algorithm denied you. No explanation.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=KcBM_uwu5As)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of DigitalOcean · Runner Up: Finance Track
 - **Devpost checked** 2026-11-21 UTC
-- **DigitalOcean** The project lists digitalocean among its Built With tags.
+- **DigitalOcean · &#91;MLH&#93; Best Use of DigitalOcean** The project lists digitalocean among its Built With tags.
+
+</details>

@@ -1,37 +1,32 @@
 # Qualcomm
 
+**4 projects · 1 editions · 4 prize rows**
+
 [Winners index](../README.md)
 
-4 projects across 1 editions, with 4 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** react (3), fastapi (2), adafruit (1)
+- **Common project areas** None listed
+- **Common demo formats** None listed
+- **Projects with a listed demo video** 3 of 4
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Arbitrage](https://devpost.com/software/multi-agent-marketplace-simulator) · [code](https://github.com/rohan-g0re/Hack_NYU_Arbitrage) · [demo](https://www.youtube.com/watch?v=z2_8AWR_qU8) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Best Use of Qualcomm EdgeAI · [details](../by-hackathon/hacknyu-fall-2025.md#project-multi-agent-marketplace-simulator) | A multi-agent simulator where buyer negotiates with opaque seller agents in realistic, chat-based bargaining.… | docker, fastapi, git |
+| [Insight Loop](https://devpost.com/software/insight-loop) · [code](https://github.com/Baozzz04/insight-loop) · [demo](https://www.youtube.com/watch?v=0WAUHLDkyHI) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Best Use of Qualcomm EdgeAI · [details](../by-hackathon/hacknyu-fall-2025.md#project-insight-loop) | An edge-AI tutoring agent that listens in real time and guides you the moment confusion appears. | fastapi, ffpmeg, indexeddb |
+| [NodalCLI](https://devpost.com/software/hacknyu-v3nyx1) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Best Use of Qualcomm EdgeAI · [details](../by-hackathon/hacknyu-fall-2025.md#project-hacknyu-v3nyx1) | The team describes the project as “Nodal”. | test |
+| [Tuffr](https://devpost.com/software/tuffr) · [demo](https://www.youtube.com/watch?v=ZHPY_1P-ulU) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Best Use of Qualcomm EdgeAI · [details](../by-hackathon/hacknyu-fall-2025.md#project-tuffr) | Increase your strength with cutting-edge computer vision and agentic AI. | adafruit, cloudflare, opencv |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Best Use of Qualcomm EdgeAI | Qualcomm EdgeAI | [Track label](https://hacknyu-fall-2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** react (3), fastapi (2), adafruit (1), cloudflare (1), docker (1), ffpmeg (1)
-- **Problem areas** None listed
-- **Demo types** None listed
-- **Projects with a listed demo video** 3 of 4
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [NodalCLI](../by-hackathon/hacknyu-fall-2025.md#project-hacknyu-v3nyx1) | HackNYU Fall 2025 | 3 | 3 | Arm, Nodal, Qualcomm |
-| [Arbitrage](../by-hackathon/hacknyu-fall-2025.md#project-multi-agent-marketplace-simulator) | HackNYU Fall 2025 | 2 | 2 | Qualcomm, Visa |
-| [Tuffr](../by-hackathon/hacknyu-fall-2025.md#project-tuffr) | HackNYU Fall 2025 | 2 | 2 | Nodal, Qualcomm |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Arbitrage](../by-hackathon/hacknyu-fall-2025.md#project-multi-agent-marketplace-simulator) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Best Use of Qualcomm EdgeAI | — | A Session stores buyer configuration and seller profiles. | 2 |
-| [Insight Loop](../by-hackathon/hacknyu-fall-2025.md#project-insight-loop) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Best Use of Qualcomm EdgeAI | — | The system lets students upload their own learning materials and transforms their study session into a live, interactive experience. | 1 |
-| [NodalCLI](../by-hackathon/hacknyu-fall-2025.md#project-hacknyu-v3nyx1) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Best Use of Qualcomm EdgeAI | — | The project page provides no specific sponsor integration detail in the indexed fields. | 3 |
-| [Tuffr](../by-hackathon/hacknyu-fall-2025.md#project-tuffr) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Best Use of Qualcomm EdgeAI | — | Tuffr lets you choose a workout and sends that information to the AI agent. | 2 |
+</details>

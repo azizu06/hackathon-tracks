@@ -1,31 +1,30 @@
 # LightBox
 
+**2 projects · 1 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 1 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** lightbox (2), css (1), express.js (1)
+- **Common project areas** Accessibility and assistive tools (1), Climate and environment (1)
+- **Common demo formats** None listed
+- **Projects with a listed demo video** 1 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Cropscape](https://devpost.com/software/yhack-2024-25-project-1) · [code](https://github.com/Superhero1015/YHack2024-25_Proj) · [demo](https://www.youtube.com/watch?v=iuZZZnOtsdk) | [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md) · LightBox · [details](../by-hackathon/yhack-fall-2024.md#project-yhack-2024-25-project-1) | Cropscape analyzes location-specific soil, climate, and hardiness data to provide personalized crop… | lightbox, css, express.js |
+| [Future Cities Index](https://devpost.com/software/interactive-equity-data-for-social-science) · [code](https://github.com/dimaa-b/future_cities_index) | [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md) · LightBox · [details](../by-hackathon/yhack-fall-2024.md#project-interactive-equity-data-for-social-science) | An accessible, interactive map of every county tract in the United States, with a calculated "Future Cities… | lightbox, javascript, python |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md) | LightBox | No specific requirement captured | [Event prize rules](https://yhack.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** lightbox (2), css (1), express.js (1), html (1), javascript (1), node.js (1)
-- **Problem areas** Accessibility and assistive tools (1), Climate and environment (1)
-- **Demo types** None listed
-- **Projects with a listed demo video** 1 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Cropscape](../by-hackathon/yhack-fall-2024.md#project-yhack-2024-25-project-1) | [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md) | LightBox | — | The project lists lightbox among its Built With tags. | 1 |
-| [Future Cities Index](../by-hackathon/yhack-fall-2024.md#project-interactive-equity-data-for-social-science) | [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md) | LightBox | — | Interactive UI built with ReactJS, data parsed from Lightbox API with Javascript. | 1 |
+</details>

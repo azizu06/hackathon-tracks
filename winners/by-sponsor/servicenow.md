@@ -1,32 +1,31 @@
 # ServiceNow
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** elevenlabs (1), fast-api (1), gemini (1)
+- **Common project areas** None listed
+- **Common demo formats** Web app or dashboard (1)
+- **Projects with a listed demo video** 3 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [AgentNow](https://devpost.com/software/agentnow) · [code](https://github.com/must108/agentnow) · [demo](https://www.youtube.com/watch?v=IMv4cc_kS_c) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · Knowledge Gap Request Agent Challenge · [details](../by-hackathon/knight-hacks-viii-2025.md#project-agentnow) | AgentNow is a Gemini-powered assistant that listens to customers and instantly recommends the right… | elevenlabs, gemini, next.js |
+| [ServiceLater](https://devpost.com/software/servicelater) · [code](https://github.com/NagelPoulose/KnighHacksVIII-Project) · [demo](https://www.youtube.com/watch?v=1cckS4RC1tM) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · Knowledge Gap Request Agent Challenge · [details](../by-hackathon/knight-hacks-viii-2025.md#project-servicelater) | ServiceLater turns ServiceNow feedback into accelerator roadmaps, using AI to spot patterns and recommend… | fast-api, google-gemini-api, javascript |
+| [Synapse](https://devpost.com/software/knight-hacks) · [demo](https://www.youtube.com/watch?v=irFW-f8mvoE) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · Knowledge Gap Request Agent Challenge · [details](../by-hackathon/knight-hacks-viii-2025.md#project-knight-hacks) | Synapse isn’t another assistant — it’s the nervous system of AI itself, where specialized agents think… | — |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | ServiceNow: Knowledge Gap Request Agent Challenge | No specific requirement captured | [Event prize rules](https://knighthacksviii.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** elevenlabs (1), fast-api (1), gemini (1), google-gemini-api (1), javascript (1), next.js (1)
-- **Problem areas** None listed
-- **Demo types** Web app or dashboard (1)
-- **Projects with a listed demo video** 3 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [AgentNow](../by-hackathon/knight-hacks-viii-2025.md#project-agentnow) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | ServiceNow: Knowledge Gap Request Agent Challenge | — | AgentNow is a Gemini-powered assistant that listens to customer conversations and, in real time, recommends the most relevant ServiceNow accelerators. | 1 |
-| [ServiceLater](../by-hackathon/knight-hacks-viii-2025.md#project-servicelater) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | ServiceNow: Knowledge Gap Request Agent Challenge | — | ServiceLater analyzes customer needs and recommends accelerators with a Pattern Analysis Agent that surfaces trends and an Accelerator Recommendation Agent that proposes new accelerators with justification. | 1 |
-| [Synapse](../by-hackathon/knight-hacks-viii-2025.md#project-knight-hacks) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | ServiceNow: Knowledge Gap Request Agent Challenge | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

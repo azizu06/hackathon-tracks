@@ -1,32 +1,31 @@
 # GPTZero
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** react (3), typescript (3), fastapi (2)
+- **Common project areas** Health and care (1)
+- **Common demo formats** Web app or dashboard (1)
+- **Projects with a listed demo video** 3 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [MedBot](https://devpost.com/software/medbot-2e40oh) · [code](https://github.com/RayanMalki/medbot-htn2026) · [demo](https://www.youtube.com/watch?v=utDEHZVCYtU) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of GPTZero API · [details](../by-hackathon/hack-the-north-2026.md#project-medbot-2e40oh) | MedBot turns viral health claims into evidence-backed insights and shareable videos, helping people separate… | elasticsearch, openai, react |
+| [Sham](https://devpost.com/software/cool-ppl-from-amplify) · [code](https://github.com/venniseho/hack-the-north-2026) · [demo](https://www.youtube.com/watch?v=8RBtLGo-Cfo) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of GPTZero API · [details](../by-hackathon/hack-the-north-2026.md#project-cool-ppl-from-amplify) | Sham is a Chrome extension that helps you spot sketchy online stores before checkout by analyzing signals… | gptzero, agent, backboard.io |
+| [Snitch](https://devpost.com/software/snitch-ldyzh9) · [code](https://github.com/amelialon/Snitch) · [demo](https://www.youtube.com/watch?v=Yi8CKzDzxrU) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of GPTZero API · [details](../by-hackathon/hack-the-north-2026.md#project-snitch-ldyzh9) | Snitch helps recruiters spot suspicious moments in remote interviews by combining behavioral signals, AI-… | gptzero, fastapi, firebase |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | GPTZero: Best Use of GPTZero API | GPTZero API | [Track label](https://hackthenorth2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** react (3), typescript (3), fastapi (2), gptzero (2), openai (2), python (2)
-- **Problem areas** Health and care (1)
-- **Demo types** Web app or dashboard (1)
-- **Projects with a listed demo video** 3 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [MedBot](../by-hackathon/hack-the-north-2026.md#project-medbot-2e40oh) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | GPTZero: Best Use of GPTZero API | — | MedBot compares a video's claim with the product label and relevant scientific evidence. | 1 |
-| [Sham](../by-hackathon/hack-the-north-2026.md#project-cool-ppl-from-amplify) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | GPTZero: Best Use of GPTZero API | — | It also checks the reviews sitting right on the product page and flags whether they read like they were written by an AI instead of a real customer using GPTZero. | 1 |
-| [Snitch](../by-hackathon/hack-the-north-2026.md#project-snitch-ldyzh9) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | GPTZero: Best Use of GPTZero API | — | The project lists gptzero among its Built With tags. | 1 |
+</details>

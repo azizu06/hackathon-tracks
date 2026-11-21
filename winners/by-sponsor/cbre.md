@@ -1,10 +1,34 @@
 # CBRE
 
+**9 projects · 3 editions · 9 prize rows**
+
 [Winners index](../README.md)
 
-9 projects across 3 editions, with 9 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (5), next.js (4), typescript (4)
+- **Common project areas** Climate and environment (2), Finance and commerce (1)
+- **Common demo formats** Web app or dashboard (4), Hardware or robotics (1), Mobile app (1)
+- **Projects with a listed demo video** 9 of 9
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [BluePrint](https://devpost.com/software/blueprint-ozq9hy) · [code](https://github.com/adhigithub/BluePrint-HackUTD_2026) · [demo](https://www.youtube.com/watch?v=Bvyfo08BG3w) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · CBRE Track · [details](../by-hackathon/hackutd-2026.md#project-blueprint-ozq9hy) | Data centers and commercial buildings run on siloed systems, leaving gaps threats slip through. BluePrint… | eas, expo.io, postgresql |
+| [Canary](https://devpost.com/software/crbe-jr) · [code](https://github.com/anothergrind/hackutd-2026) · [demo](https://www.youtube.com/watch?v=va6dAmJMIG4) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · CBRE Track · [details](../by-hackathon/hackutd-2026.md#project-crbe-jr) | Canary catches small building warnings before they become expensive outages: AI agents price the risk and… | ai-agents, brev, docker |
+| [Riskalytics](https://devpost.com/software/our-second-track) · [demo](https://www.youtube.com/watch?v=sJX_GgbqtNI) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · CBRE Track · [details](../by-hackathon/hackutd-2026.md#project-our-second-track) | Turn real-estate data into explainable infrastructure risk insights and prioritized investigations. | html, javascript, python |
+| [Cura](https://devpost.com/software/tbd-58ftpr) · [code](https://github.com/armaanamatya/HackUTD2025) · [demo](https://www.youtube.com/watch?v=lFJVLqDG710) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) · CBRE · [details](../by-hackathon/hackutd-2025.md#project-tbd-58ftpr) | Cura provides forecasting and analytical insights, commercial real estate properties, pros and cons analysis,… | ai, crewai, fastapi |
+| [Pact](https://devpost.com/software/autotract) · [demo](https://www.youtube.com/watch?v=OgYibmNNUD8) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) · CBRE · [details](../by-hackathon/hackutd-2025.md#project-autotract) | Expediting the contracts and document signings process between vendors and clients by bringing clarity,… | anchor, gemini, node.js |
+| [TrustEstate AI](https://devpost.com/software/cbre-project) · [demo](https://www.youtube.com/watch?v=SQlAZdMoI2k) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) · CBRE · [details](../by-hackathon/hackutd-2025.md#project-cbre-project) | The app is a full-featured real estate helper that helps you find and trust properties. | google-gemini, google-maps, react |
+| [Eco Fast Track](https://devpost.com/software/apartment-monitoring) · [code](https://github.com/Fernando4242/HackUTD24-EcoFastTrack) · [demo](https://www.youtube.com/watch?v=StRry54qZMs) | [HackUTD 2024](../by-hackathon/hackutd-2024.md) · CBRE · [details](../by-hackathon/hackutd-2024.md#project-apartment-monitoring) | A smart water management tool that helps households and property managers optimize water usage, save on… | 3d-printer, arduino, c++ |
+| [EcoVerse](https://devpost.com/software/ecoverse-5dczmp) · [code](https://github.com/FireboltLegend/HackUTD-2024) · [demo](https://www.youtube.com/watch?v=V73-WMFlnqU) | [HackUTD 2024](../by-hackathon/hackutd-2024.md) · CBRE · [details](../by-hackathon/hackutd-2024.md#project-ecoverse-5dczmp) | Efficiency that Saves, Sustainability that Lasts. | blender, c#, haptics |
+| [Greenify](https://devpost.com/software/greenwise-y6o4bu) · [code](https://github.com/SaadMakda/Greenify-Test) · [demo](https://www.youtube.com/watch?v=W2zu9af2O0o) | [HackUTD 2024](../by-hackathon/hackutd-2024.md) · CBRE · [details](../by-hackathon/hackutd-2024.md#project-greenwise-y6o4bu) | A Sustainability Platform for a Greener Future. | chart.js, d3.js, flask |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -12,32 +36,4 @@
 | [HackUTD 2025](../by-hackathon/hackutd-2025.md) | CBRE | No specific requirement captured | [Event prize rules](https://hackutd-2025.devpost.com/) |
 | [HackUTD 2024](../by-hackathon/hackutd-2024.md) | CBRE | No specific requirement captured | [Event prize rules](https://hackutd-ripple.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (5), next.js (4), typescript (4), node.js (3), gemini (2), google-maps (2)
-- **Problem areas** Climate and environment (2), Finance and commerce (1)
-- **Demo types** Web app or dashboard (4), Hardware or robotics (1), Mobile app (1)
-- **Projects with a listed demo video** 9 of 9
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Eco Fast Track](../by-hackathon/hackutd-2024.md#project-apartment-monitoring) | HackUTD 2024 | 2 | 2 | CBRE, Veolia |
-| [Pact](../by-hackathon/hackutd-2025.md#project-autotract) | HackUTD 2025 | 2 | 2 | CBRE, Solana |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [BluePrint](../by-hackathon/hackutd-2026.md#project-blueprint-ozq9hy) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | CBRE Track | — | BluePrint connects building systems into one app to reduce confusion for users. | 1 |
-| [Canary](../by-hackathon/hackutd-2026.md#project-crbe-jr) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | CBRE Track | — | Canary is a crew of AI agents for building operations. | 1 |
-| [Riskalytics](../by-hackathon/hackutd-2026.md#project-our-second-track) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | CBRE Track | — | Riskalytics is able to use real fragmented data sources to display a dashboard that displays all the instances from those datasets. | 1 |
-| [Cura](../by-hackathon/hackutd-2025.md#project-tbd-58ftpr) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) | CBRE | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Pact](../by-hackathon/hackutd-2025.md#project-autotract) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) | CBRE | — | Pact is a comprehensive blockchain-powered contract management system that revolutionizes how organizations create, collaborate on, and enforce legal agreements. | 2 |
-| [TrustEstate AI](../by-hackathon/hackutd-2025.md#project-cbre-project) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) | CBRE | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Eco Fast Track](../by-hackathon/hackutd-2024.md#project-apartment-monitoring) | [HackUTD 2024](../by-hackathon/hackutd-2024.md) | CBRE | — | The tool uses smart gauge sensors to monitor water temperature and flow, providing real-time insights into usage. | 2 |
-| [EcoVerse](../by-hackathon/hackutd-2024.md#project-ecoverse-5dczmp) | [HackUTD 2024](../by-hackathon/hackutd-2024.md) | CBRE | — | The project reimagines property management through an immersive VR platform that uses real-time data and advanced technology to drive sustainability. | 1 |
-| [Greenify](../by-hackathon/hackutd-2024.md#project-greenwise-y6o4bu) | [HackUTD 2024](../by-hackathon/hackutd-2024.md) | CBRE | — | Greenify is an all-in-one platform designed to provide businesses with comprehensive insights into their sustainability practices. | 1 |
+</details>

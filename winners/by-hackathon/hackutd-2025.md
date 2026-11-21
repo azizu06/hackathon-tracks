@@ -1,53 +1,63 @@
 # HackUTD 2025
 
-[Devpost gallery](https://hackutd-2025.devpost.com/project-gallery) · [Official prize rules](https://hackutd-2025.devpost.com/) · [Winners index](../README.md)
+**30 projects · 17 sponsors · 34 prize rows**
 
-30 projects and 34 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://hackutd-2025.devpost.com/project-gallery) · [Official prize rules](https://hackutd-2025.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** react (19), python (14), typescript (11)
+- **Common project areas** Finance and commerce (4), Education and learning (1)
+- **Common demo formats** Web app or dashboard (9), Mobile app (3), Hardware or robotics (2)
+- **Projects with a listed demo video** 30 of 30
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [HarmoniQ](#project-x-yiqm81) | [Auth0](../by-sponsor/auth0.md) | Best Use of Auth0 | — | HarmoniQ is an AI-driven dashboard that integrates live network performance analytics, social sentiment streams, resource allocation and predictive insights into a single workspace. | 2 |
-| [SpendingWithSpendy](#project-spendingwithspendy) | [Capital One](../by-sponsor/capital-one.md) | Capital One | — | Kids will have a Spendy card that can be spend on their favorite games. | 2 |
-| [Cura](#project-tbd-58ftpr) | [CBRE](../by-sponsor/cbre.md) | CBRE | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Pact](#project-autotract) | [CBRE](../by-sponsor/cbre.md) | CBRE | — | Pact is a comprehensive blockchain-powered contract management system that revolutionizes how organizations create, collaborate on, and enforce legal agreements. | 2 |
-| [TrustEstate AI](#project-cbre-project) | [CBRE](../by-sponsor/cbre.md) | CBRE | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [bevinAI](#project-bevinai) | [DigitalOcean](../by-sponsor/digitalocean.md) | Best Use of DigitalOcean Gradient AI by MLH | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Relay](#project-tbd-v8pqbk) | [ElevenLabs](../by-sponsor/elevenlabs.md) | Best Use of ElevenLabs by MLH | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Enchantress](#project-enchantress-w2li90) | [EOG Resources](../by-sponsor/eog-resources.md) | EOG Resources | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [PoyoLabs](#project-poyolabs-47n0fz) | [EOG Resources](../by-sponsor/eog-resources.md) | EOG Resources | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [hyperlynx](#project-hyperlynx) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | Best Domain Name from GoDaddy Registry | — | The project lists godaddy among its Built With tags. | 1 |
-| [AutoBoard](#project-404-not-found-us43mg) | [Goldman Sachs](../by-sponsor/goldman-sachs.md) | Goldman Sachs | — | AutoBoard transforms the vendor lifecycle into a streamlined, automated workflow:. | 1 |
-| [Stamped](#project-stamped-6hnl4w) | [Goldman Sachs](../by-sponsor/goldman-sachs.md) | Goldman Sachs | — | Stamped is an intelligent onboarding platform that manages the entire client lifecycle from lead prospecting to full onboarding. | 1 |
-| [TrustIssues.AI](#project-coffee-overflow) | [Goldman Sachs](../by-sponsor/goldman-sachs.md) | Goldman Sachs | — | The team learned a shocking amount about the power and pitfalls of agentic AI, in equally shocking amount of time. | 1 |
-| [Kori](#project-kori) | [Google](../by-sponsor/google.md) | Best Use of Gemini API by MLH | — | Additionally the mobile app uses Gemini to process data to create helpful insights for the user. | 1 |
-| [DataDriver](#project-datadriver) | [Northmark Compute &amp; Cloud](../by-sponsor/northmark-compute-cloud.md) | Northmark Compute &amp; Cloud | — | DataDriver is an Agentic AI-powered copilot for data center technicians. | 2 |
-| [DCDaddy](#project-fun-dashboard) | [Northmark Compute &amp; Cloud](../by-sponsor/northmark-compute-cloud.md) | Northmark Compute &amp; Cloud | — | DC Daddy is a comprehensive data center operations platform that solves five critical pain points through an integrated ecosystem:. | 1 |
-| [TaskFlow](#project-d-68uye4) | [Northmark Compute &amp; Cloud](../by-sponsor/northmark-compute-cloud.md) | Northmark Compute &amp; Cloud | — | Some of learned react for the first time, other got to work on their design skills in high stakes discussions. | 1 |
-| [Alchemetrics](#project-abc-xapnio) | [NVIDIA](../by-sponsor/nvidia.md) | Nvidia | — | The team built a multi-agent system orchestrated by Nemotron (NVIDIA’s LLM planner). | 1 |
-| [DataDriver](#project-datadriver) | [NVIDIA](../by-sponsor/nvidia.md) | Nvidia | — | DataDriver is an Agentic AI-powered copilot for data center technicians. | 2 |
-| [Toyotron](#project-toyotron) | [NVIDIA](../by-sponsor/nvidia.md) | Nvidia | — | It conducts an onboarding survey to understand a shopper’s budget, lifestyle, and preferences, then recommends vehicles that truly fit. | 2 |
-| [AutoPM](#project-autopm-2tjzu8) | [PNC Bank](../by-sponsor/pnc-bank.md) | PNC Bank | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [ProdPlex](#project-prodify-94vbpk) | [PNC Bank](../by-sponsor/pnc-bank.md) | PNC Bank | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [ProDuh! - The “duh” way to ship smarter](#project-produh) | [PNC Bank](../by-sponsor/pnc-bank.md) | PNC Bank | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Pact](#project-autotract) | [Solana](../by-sponsor/solana.md) | Best Use of Solana | — | Pact runs on three Solana programs written in Rust with Anchor. | 2 |
-| [MirrorAPI](#project-mirror-api) | [State Farm](../by-sponsor/state-farm.md) | StateFarm | — | The team learned countless industry best practices when it came to API design and version control. | 1 |
-| [qAPIbara](#project-in-progress-2awbie) | [State Farm](../by-sponsor/state-farm.md) | StateFarm | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [UpGuardian](#project-upguard) | [State Farm](../by-sponsor/state-farm.md) | StateFarm | — | UpGuardian helps developers with the process of updating their codebases to handle upgraded versions of the APIs they rely on. | 1 |
-| [Beacon](#project-na-504rkg) | [T-Mobile](../by-sponsor/t-mobile.md) | T-Mobile | — | A real-time, multimodal Customer Happiness Index built to detect, understand, and improve how people feel about T-Mobile. | 1 |
-| [HarmoniQ](#project-x-yiqm81) | [T-Mobile](../by-sponsor/t-mobile.md) | T-Mobile | — | HarmoniQ is an AI-driven dashboard that integrates live network performance analytics, social sentiment streams, resource allocation and predictive insights into a single workspace. | 2 |
-| [InsighT](#project-t-insights) | [T-Mobile](../by-sponsor/t-mobile.md) | T-Mobile | — | Consolidates multi‑source customer signals (Reddit, outage trackers, community forums, internal feedback) into a unified timeline. | 1 |
-| [Hingine](#project-hingine) | [Toyota Financial Services](../by-sponsor/toyota-financial-services.md) | Toyota Financial Services | — | Hingine helps students find cars that fit their budget and credit profile through a swipe interface connected to Toyota Financial Services. | 1 |
-| [Kachow](#project-car-thing-1dsxyk) | [Toyota Financial Services](../by-sponsor/toyota-financial-services.md) | Toyota Financial Services | — | With no AI hallucinations , Kachow eliminates the headache of purchasing a car. | 1 |
-| [Toyotron](#project-toyotron) | [Toyota Financial Services](../by-sponsor/toyota-financial-services.md) | Toyota Financial Services | — | It conducts an onboarding survey to understand a shopper’s budget, lifestyle, and preferences, then recommends vehicles that truly fit. | 2 |
-| [HealthSense](#project-healthsense-0qxrs4) | [Vultr](../by-sponsor/vultr.md) | Best Use of Vultr | — | Vultr is used to hold the Redis database and runs the Nemotron Agentic AI. | 1 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [HarmoniQ](https://devpost.com/software/x-yiqm81) · [code](https://github.com/Siriapps/HarmoniQ) · [demo](https://www.youtube.com/watch?v=rJU3_Fffqnc) | [Auth0](../by-sponsor/auth0.md) · Best Use of Auth0 · [details](#project-x-yiqm81) | A command-center for T-Mobile product managers to anticipate customer needs. See sentiment in real time,… | fastapi, flask, gemini |
+| [SpendingWithSpendy](https://devpost.com/software/spendingwithspendy) · [code](https://github.com/brendanshen24/SpendWithSpendy) · [demo](https://www.youtube.com/watch?v=EK8jEkWBTbg) | [Capital One](../by-sponsor/capital-one.md) · Capital One · [details](#project-spendingwithspendy) | Let kids learn how to manage their own finances with Spendy. | expo.io, react, tailwind |
+| [Cura](https://devpost.com/software/tbd-58ftpr) · [code](https://github.com/armaanamatya/HackUTD2025) · [demo](https://www.youtube.com/watch?v=lFJVLqDG710) | [CBRE](../by-sponsor/cbre.md) · CBRE · [details](#project-tbd-58ftpr) | Cura provides forecasting and analytical insights, commercial real estate properties, pros and cons analysis,… | ai, crewai, fastapi |
+| [Pact](https://devpost.com/software/autotract) · [demo](https://www.youtube.com/watch?v=OgYibmNNUD8) | [CBRE](../by-sponsor/cbre.md) · CBRE · [details](#project-autotract) | Expediting the contracts and document signings process between vendors and clients by bringing clarity,… | anchor, gemini, node.js |
+| [TrustEstate AI](https://devpost.com/software/cbre-project) · [demo](https://www.youtube.com/watch?v=SQlAZdMoI2k) | [CBRE](../by-sponsor/cbre.md) · CBRE · [details](#project-cbre-project) | The app is a full-featured real estate helper that helps you find and trust properties. | google-gemini, google-maps, react |
+| [bevinAI](https://devpost.com/software/bevinai) · [demo](https://www.youtube.com/watch?v=a4IBdqUq1vI) | [DigitalOcean](../by-sponsor/digitalocean.md) · Best Use of DigitalOcean Gradient AI by MLH · [details](#project-bevinai) | bevinAI is an AI powered orchestration engine that acts as the central nervous system for your development… | api, confluence, css |
+| [Relay](https://devpost.com/software/tbd-v8pqbk) · [demo](https://www.youtube.com/watch?v=-osJDI2GaQE) | [ElevenLabs](../by-sponsor/elevenlabs.md) · Best Use of ElevenLabs by MLH · [details](#project-tbd-v8pqbk) | Agentic assistant for data center technicians to streamline repairs and improve efficiency with automated… | . |
+| [Enchantress](https://devpost.com/software/enchantress-w2li90) · [code](https://github.com/LegendaryPenguin/Enchantress) · [demo](https://www.youtube.com/watch?v=wmMVLoRToEE) | [EOG Resources](../by-sponsor/eog-resources.md) · EOG Resources · [details](#project-enchantress-w2li90) | The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at varying fill and drain… | css, html, javascript |
+| [PoyoLabs](https://devpost.com/software/poyolabs-47n0fz) · [demo](https://www.youtube.com/watch?v=ah0ZCHMdz_8) | [EOG Resources](../by-sponsor/eog-resources.md) · EOG Resources · [details](#project-poyolabs-47n0fz) | PoyoLabs is a gamified dashboard that allows users to track and monitor multiple cauldrons (data points) from… | auth0, css, flask |
+| [hyperlynx](https://devpost.com/software/hyperlynx) · [code](https://github.com/zekestephens/hyperlynx) · [demo](https://www.youtube.com/watch?v=wL78va-T-Ug) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) · Best Domain Name from GoDaddy Registry · [details](#project-hyperlynx) | The team set out to solve the often ineffective ticket-to-response systems present in data centers. | godaddy, auth0, bootstrap |
+| [AutoBoard](https://devpost.com/software/404-not-found-us43mg) · [code](https://github.com/Rabib001/HackUTD_2025) · [demo](https://www.youtube.com/watch?v=L-hYahgOGGk) | [Goldman Sachs](../by-sponsor/goldman-sachs.md) · Goldman Sachs · [details](#project-404-not-found-us43mg) | Vendor onboarding at light speed using AWS. | amazon-rds-relational-database-service, amazon-web-services, api-gateway |
+| [Stamped](https://devpost.com/software/stamped-6hnl4w) · [demo](https://www.youtube.com/watch?v=umt6t5bXJXo) | [Goldman Sachs](../by-sponsor/goldman-sachs.md) · Goldman Sachs · [details](#project-stamped-6hnl4w) | Stamped is a secure and intelligent onboarding platform designed for financial institutions. It streamlines… | next.js, react, supabase |
+| [TrustIssues.AI](https://devpost.com/software/coffee-overflow) · [code](https://github.com/ybavgito/TrustIssues.AI-HackUTD-2025-Winner-Goldman-Sachs-Track) · [demo](https://www.youtube.com/watch?v=6aPw8P9URv0) | [Goldman Sachs](../by-sponsor/goldman-sachs.md) · Goldman Sachs · [details](#project-coffee-overflow) | TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract data, verify identity, and… | nemotron, openaisdk, python |
+| [Kori](https://devpost.com/software/kori) · [code](https://github.com/DuckyDaBucky/Kori.Study) · [demo](https://www.youtube.com/watch?v=K17fqD58JhA) | [Google](../by-sponsor/google.md) · Best Use of Gemini API by MLH · [details](#project-kori) | A little pixel companion who studies with you, works with you, rests with you, and helps you take care of… | 3d, ai-vision, audio-analysis |
+| [DataDriver](https://devpost.com/software/datadriver) · [code](https://github.com/Jeanpascal-Gauthier/Data-Driver) · [demo](https://www.youtube.com/watch?v=w0YteTzoGc4) | [Northmark Compute &amp; Cloud](../by-sponsor/northmark-compute-cloud.md) · Northmark Compute &amp; Cloud · [details](#project-datadriver) | DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to generate detailed step by step… | agents, ai, flask |
+| [DCDaddy](https://devpost.com/software/fun-dashboard) · [code](https://github.com/anishalle/hackutd2025) · [demo](https://www.youtube.com/watch?v=sbdnZRNmm8o) | [Northmark Compute &amp; Cloud](../by-sponsor/northmark-compute-cloud.md) · Northmark Compute &amp; Cloud · [details](#project-fun-dashboard) | A platform that supports data center technicians in a multitude of daily tasks, from planning out optimal… | amazon-web-services, gemini, javascript |
+| [TaskFlow](https://devpost.com/software/d-68uye4) · [code](https://github.com/NEjim2001/hackutd-2025) · [demo](https://www.youtube.com/watch?v=sQVzqluIUdQ) | [Northmark Compute &amp; Cloud](../by-sponsor/northmark-compute-cloud.md) · Northmark Compute &amp; Cloud · [details](#project-d-68uye4) | A tool for helping Engineers and on-site technicians communicate and organize their datacenter work. | javascript, next.js, python |
+| [Alchemetrics](https://devpost.com/software/abc-xapnio) · [code](https://github.com/Lanisha20/Alchemetrics) · [demo](https://www.youtube.com/watch?v=_XkRiy9jCP8) | [NVIDIA](../by-sponsor/nvidia.md) · Nvidia · [details](#project-abc-xapnio) | Alchemetrics is a real-time AI dashboard that tracks cauldrons, matches tickets, and forecasts overflows,… | css, fastapi, nemotron |
+| [DataDriver](https://devpost.com/software/datadriver) · [code](https://github.com/Jeanpascal-Gauthier/Data-Driver) · [demo](https://www.youtube.com/watch?v=w0YteTzoGc4) | [NVIDIA](../by-sponsor/nvidia.md) · Nvidia · [details](#project-datadriver) | DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to generate detailed step by step… | agents, ai, flask |
+| [Toyotron](https://devpost.com/software/toyotron) · [code](https://github.com/anbguye/hackutd-Toyota-Toyotron) · [demo](https://www.youtube.com/watch?v=CSc6zKQRxIY) | [NVIDIA](../by-sponsor/nvidia.md) · Nvidia · [details](#project-toyotron) | Toyotron is a solution that allows users to easily find their dream Toyota through agentic AI powered by… | ai, css, nemotron |
+| [AutoPM](https://devpost.com/software/autopm-2tjzu8) · [code](https://github.com/hrishinave/HackUTD2) · [demo](https://www.youtube.com/watch?v=sNpusFMyFoI) | [PNC Bank](../by-sponsor/pnc-bank.md) · PNC Bank · [details](#project-autopm-2tjzu8) | AutoPM runs an end-to-end PM workflow inside a “Space” (one project), powered by LangGraph agents:. | html |
+| [ProdPlex](https://devpost.com/software/prodify-94vbpk) · [code](https://github.com/Ka2507/hackutd2025) · [demo](https://www.youtube.com/watch?v=pX8h4Dt-67c) | [PNC Bank](../by-sponsor/pnc-bank.md) · PNC Bank · [details](#project-prodify-94vbpk) | Prodplex acts like a team of intelligent assistants, each powered by a different Nemotron model. | javascript, nemotron, react |
+| [ProDuh! - The “duh” way to ship smarter](https://devpost.com/software/produh) · [code](https://github.com/christinaduthie/produh) · [demo](https://www.youtube.com/watch?v=0nwymM2ZtSw) | [PNC Bank](../by-sponsor/pnc-bank.md) · PNC Bank · [details](#project-produh) | ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discovery→Operate, works with… | adk, agentic-architecture, ai-agent |
+| [Pact](https://devpost.com/software/autotract) · [demo](https://www.youtube.com/watch?v=OgYibmNNUD8) | [Solana](../by-sponsor/solana.md) · Best Use of Solana · [details](#project-autotract) | Expediting the contracts and document signings process between vendors and clients by bringing clarity,… | anchor, gemini, node.js |
+| [MirrorAPI](https://devpost.com/software/mirror-api) · [code](https://github.com/ParsaBazrpash/MirrorAPI) · [demo](https://www.youtube.com/watch?v=zJ3Deft3lVo) | [State Farm](../by-sponsor/state-farm.md) · StateFarm · [details](#project-mirror-api) | Compare Your API Versions with Confidence. | react, typescript |
+| [qAPIbara](https://devpost.com/software/in-progress-2awbie) · [code](https://github.com/nathanhanxp/qAPIbara) · [demo](https://www.youtube.com/watch?v=TCHkbt_CPrM) | [State Farm](../by-sponsor/state-farm.md) · StateFarm · [details](#project-in-progress-2awbie) | qAPIbara is an AI-powered regression analysis platform that automatically compares, tests, and explains API… | javascript, python, react |
+| [UpGuardian](https://devpost.com/software/upguard) · [code](https://github.com/Arian04/UpGuardian) · [demo](https://www.youtube.com/watch?v=VLvWZeT5NOk) | [State Farm](../by-sponsor/state-farm.md) · StateFarm · [details](#project-upguard) | Struggling with accidentally making subtle breaking changes to your APIs? Are those sensitive unit tests… | fastapi, flutter, nemotron |
+| [Beacon](https://devpost.com/software/na-504rkg) · [code](https://github.com/iampritisee/hackutd) · [demo](https://www.youtube.com/watch?v=VelZ-2xXLAw) | [T-Mobile](../by-sponsor/t-mobile.md) · T-Mobile · [details](#project-na-504rkg) | A real-time, cross-domain Customer Happiness Index that detects, tracks, and helps act on customer sentiment… | downdetector, figma, flask |
+| [HarmoniQ](https://devpost.com/software/x-yiqm81) · [code](https://github.com/Siriapps/HarmoniQ) · [demo](https://www.youtube.com/watch?v=rJU3_Fffqnc) | [T-Mobile](../by-sponsor/t-mobile.md) · T-Mobile · [details](#project-x-yiqm81) | A command-center for T-Mobile product managers to anticipate customer needs. See sentiment in real time,… | fastapi, flask, gemini |
+| [InsighT](https://devpost.com/software/t-insights) · [code](https://github.com/AbdullahMoghal/t-insight-hack2025) · [demo](https://www.youtube.com/watch?v=4c7uRVxoJfc) | [T-Mobile](../by-sponsor/t-mobile.md) · T-Mobile · [details](#project-t-insights) | Unified dashboard for T-Mobile PMs to track real-time customer sentiment, performance, and operational data,… | cheerio, css, gemini |
+| [Hingine](https://devpost.com/software/hingine) · [code](https://github.com/Pancakemix31/Hingine) · [demo](https://www.youtube.com/watch?v=7elxs86J_xQ) | [Toyota Financial Services](../by-sponsor/toyota-financial-services.md) · Toyota Financial Services · [details](#project-hingine) | Discover the perfect car with a swipe. As students learn finance, Hingine uses gamified learning to guide… | expo.io, react, typescript |
+| [Kachow](https://devpost.com/software/car-thing-1dsxyk) · [code](https://github.com/adamFabsa/Kachow) · [demo](https://www.youtube.com/watch?v=ebR9JQ7yu48) | [Toyota Financial Services](../by-sponsor/toyota-financial-services.md) · Toyota Financial Services · [details](#project-car-thing-1dsxyk) | 🚗 Don't want to end up in a financial tow-up? ⚡ 🚗 Select a car that truly maters 🛻 Avoid hidden costs, such… | javascript, mongodb, nemotron |
+| [Toyotron](https://devpost.com/software/toyotron) · [code](https://github.com/anbguye/hackutd-Toyota-Toyotron) · [demo](https://www.youtube.com/watch?v=CSc6zKQRxIY) | [Toyota Financial Services](../by-sponsor/toyota-financial-services.md) · Toyota Financial Services · [details](#project-toyotron) | Toyotron is a solution that allows users to easily find their dream Toyota through agentic AI powered by… | ai, css, nemotron |
+| [HealthSense](https://devpost.com/software/healthsense-0qxrs4) · [code](https://github.com/delster1/utdproj) · [demo](https://www.youtube.com/watch?v=cGhp6i-jCCk) | [Vultr](../by-sponsor/vultr.md) · Best Use of Vultr · [details](#project-healthsense-0qxrs4) | In a stressful, hot, overwhelming datacenter, you need reminders of when to relax. HealthSense tracks vitals… | vultr, arduino, c++ |
 
 ## Project details
 
 <a name="project-abc-xapnio"></a>
 
-### [Alchemetrics](https://devpost.com/software/abc-xapnio)
+<details>
+<summary>Alchemetrics</summary>
 
 Alchemetrics is a real-time AI dashboard that tracks cauldrons, matches tickets, and forecasts overflows, bringing automation and clarity to Poyo’s Potion Factory’s magical chaos.
 
@@ -57,11 +67,14 @@ Alchemetrics is a real-time AI dashboard that tracks cauldrons, matches tickets,
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=_XkRiy9jCP8)
 - **All event prizes (1)** Nvidia
 - **Devpost checked** 2026-11-21 UTC
-- **NVIDIA** The team built a multi-agent system orchestrated by Nemotron (NVIDIA’s LLM planner).
+- **NVIDIA · Nvidia** The team built a multi-agent system orchestrated by Nemotron (NVIDIA’s LLM planner).
+
+</details>
 
 <a name="project-404-not-found-us43mg"></a>
 
-### [AutoBoard](https://devpost.com/software/404-not-found-us43mg)
+<details>
+<summary>AutoBoard</summary>
 
 Vendor onboarding at light speed using AWS.
 
@@ -71,11 +84,14 @@ Vendor onboarding at light speed using AWS.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=L-hYahgOGGk)
 - **All event prizes (1)** Goldman Sachs
 - **Devpost checked** 2026-11-21 UTC
-- **Goldman Sachs** AutoBoard transforms the vendor lifecycle into a streamlined, automated workflow:. Devpost gives no specific sponsor integration detail.
+- **Goldman Sachs · Goldman Sachs** AutoBoard transforms the vendor lifecycle into a streamlined, automated workflow:.
+
+</details>
 
 <a name="project-autopm-2tjzu8"></a>
 
-### [AutoPM](https://devpost.com/software/autopm-2tjzu8)
+<details>
+<summary>AutoPM</summary>
 
 AutoPM runs an end-to-end PM workflow inside a “Space” (one project), powered by LangGraph agents:.
 
@@ -85,11 +101,14 @@ AutoPM runs an end-to-end PM workflow inside a “Space” (one project), powere
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=sNpusFMyFoI)
 - **All event prizes (1)** PNC Bank
 - **Devpost checked** 2026-11-21 UTC
-- **PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
+- **PNC Bank · PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-na-504rkg"></a>
 
-### [Beacon](https://devpost.com/software/na-504rkg)
+<details>
+<summary>Beacon</summary>
 
 A real-time, cross-domain Customer Happiness Index that detects, tracks, and helps act on customer sentiment for T-Mobile.
 
@@ -99,11 +118,14 @@ A real-time, cross-domain Customer Happiness Index that detects, tracks, and hel
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=VelZ-2xXLAw)
 - **All event prizes (1)** T-Mobile
 - **Devpost checked** 2026-11-21 UTC
-- **T-Mobile** A real-time, multimodal Customer Happiness Index built to detect, understand, and improve how people feel about T-Mobile.
+- **T-Mobile · T-Mobile** A real-time, multimodal Customer Happiness Index built to detect, understand, and improve how people feel about T-Mobile.
+
+</details>
 
 <a name="project-bevinai"></a>
 
-### [bevinAI](https://devpost.com/software/bevinai)
+<details>
+<summary>bevinAI</summary>
 
 bevinAI is an AI powered orchestration engine that acts as the central nervous system for your development lifecycle.
 
@@ -113,11 +135,14 @@ bevinAI is an AI powered orchestration engine that acts as the central nervous s
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=a4IBdqUq1vI)
 - **All event prizes (1)** Best Use of DigitalOcean Gradient AI by MLH
 - **Devpost checked** 2026-11-21 UTC
-- **DigitalOcean** The project page provides no specific sponsor integration detail in the indexed fields.
+- **DigitalOcean · Best Use of DigitalOcean Gradient AI by MLH** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-tbd-58ftpr"></a>
 
-### [Cura](https://devpost.com/software/tbd-58ftpr)
+<details>
+<summary>Cura</summary>
 
 Cura provides forecasting and analytical insights, commercial real estate properties, pros and cons analysis, and market sentiment.
 
@@ -127,11 +152,14 @@ Cura provides forecasting and analytical insights, commercial real estate proper
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=lFJVLqDG710)
 - **All event prizes (1)** CBRE
 - **Devpost checked** 2026-11-21 UTC
-- **CBRE** The project page provides no specific sponsor integration detail in the indexed fields.
+- **CBRE · CBRE** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-datadriver"></a>
 
-### [DataDriver](https://devpost.com/software/datadriver)
+<details>
+<summary>DataDriver</summary>
 
 DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to generate detailed step by step work plans, inspect real time inventory availability, and replan tasks when issues arise.
 
@@ -141,12 +169,15 @@ DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to ge
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=w0YteTzoGc4)
 - **All event prizes (2)** Northmark Compute &amp; Cloud · Nvidia
 - **Devpost checked** 2026-11-21 UTC
-- **Northmark Compute &amp; Cloud** DataDriver is an Agentic AI-powered copilot for data center technicians. Devpost gives no specific sponsor integration detail.
-- **NVIDIA** DataDriver is an Agentic AI-powered copilot for data center technicians. Devpost gives no specific sponsor integration detail.
+- **Northmark Compute &amp; Cloud · Northmark Compute &amp; Cloud** DataDriver is an Agentic AI-powered copilot for data center technicians.
+- **NVIDIA · Nvidia** DataDriver is an Agentic AI-powered copilot for data center technicians.
+
+</details>
 
 <a name="project-fun-dashboard"></a>
 
-### [DCDaddy](https://devpost.com/software/fun-dashboard)
+<details>
+<summary>DCDaddy</summary>
 
 A platform that supports data center technicians in a multitude of daily tasks, from planning out optimal routes to complete work orders, generating tickets from emails of incidents, and more.
 
@@ -156,11 +187,14 @@ A platform that supports data center technicians in a multitude of daily tasks, 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=sbdnZRNmm8o)
 - **All event prizes (1)** Northmark Compute &amp; Cloud
 - **Devpost checked** 2026-11-21 UTC
-- **Northmark Compute &amp; Cloud** DC Daddy is a comprehensive data center operations platform that solves five critical pain points through an integrated ecosystem:. Devpost gives no specific sponsor integration detail.
+- **Northmark Compute &amp; Cloud · Northmark Compute &amp; Cloud** DC Daddy is a comprehensive data center operations platform that solves five critical pain points through an integrated ecosystem:.
+
+</details>
 
 <a name="project-enchantress-w2li90"></a>
 
-### [Enchantress](https://devpost.com/software/enchantress-w2li90)
+<details>
+<summary>Enchantress</summary>
 
 The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at varying fill and drain rates, with witches randomly collecting their contents.
 
@@ -170,11 +204,14 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=wmMVLoRToEE)
 - **All event prizes (1)** EOG Resources
 - **Devpost checked** 2026-11-21 UTC
-- **EOG Resources** The project page provides no specific sponsor integration detail in the indexed fields.
+- **EOG Resources · EOG Resources** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-x-yiqm81"></a>
 
-### [HarmoniQ](https://devpost.com/software/x-yiqm81)
+<details>
+<summary>HarmoniQ</summary>
 
 A command-center for T-Mobile product managers to anticipate customer needs. See sentiment in real time, predict outages, and allocate resources—all to strengthen every customer connection.
 
@@ -184,12 +221,15 @@ A command-center for T-Mobile product managers to anticipate customer needs. See
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=rJU3_Fffqnc)
 - **All event prizes (2)** Best Use of Auth0 · T-Mobile
 - **Devpost checked** 2026-11-21 UTC
-- **Auth0** HarmoniQ is an AI-driven dashboard that integrates live network performance analytics, social sentiment streams, resource allocation and predictive insights into a single workspace. Devpost gives no specific sponsor integration detail.
-- **T-Mobile** HarmoniQ is an AI-driven dashboard that integrates live network performance analytics, social sentiment streams, resource allocation and predictive insights into a single workspace. Devpost gives no specific sponsor integration detail.
+- **Auth0 · Best Use of Auth0** HarmoniQ is an AI-driven dashboard that integrates live network performance analytics, social sentiment streams, resource allocation and predictive insights into a single workspace.
+- **T-Mobile · T-Mobile** HarmoniQ is an AI-driven dashboard that integrates live network performance analytics, social sentiment streams, resource allocation and predictive insights into a single workspace.
+
+</details>
 
 <a name="project-healthsense-0qxrs4"></a>
 
-### [HealthSense](https://devpost.com/software/healthsense-0qxrs4)
+<details>
+<summary>HealthSense</summary>
 
 In a stressful, hot, overwhelming datacenter, you need reminders of when to relax. HealthSense tracks vitals and helps you understand when you might be in trouble or need to take a break.
 
@@ -199,11 +239,14 @@ In a stressful, hot, overwhelming datacenter, you need reminders of when to rela
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=cGhp6i-jCCk)
 - **All event prizes (1)** Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
-- **Vultr** Vultr is used to hold the Redis database and runs the Nemotron Agentic AI.
+- **Vultr · Best Use of Vultr** Vultr is used to hold the Redis database and runs the Nemotron Agentic AI.
+
+</details>
 
 <a name="project-hingine"></a>
 
-### [Hingine](https://devpost.com/software/hingine)
+<details>
+<summary>Hingine</summary>
 
 Discover the perfect car with a swipe. As students learn finance, Hingine uses gamified learning to guide smarter choices and unlock incentives for financing or leasing.
 
@@ -213,11 +256,14 @@ Discover the perfect car with a swipe. As students learn finance, Hingine uses g
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=7elxs86J_xQ)
 - **All event prizes (1)** Toyota Financial Services
 - **Devpost checked** 2026-11-21 UTC
-- **Toyota Financial Services** Hingine helps students find cars that fit their budget and credit profile through a swipe interface connected to Toyota Financial Services. Devpost gives no specific sponsor integration detail.
+- **Toyota Financial Services · Toyota Financial Services** Hingine helps students find cars that fit their budget and credit profile through a swipe interface connected to Toyota Financial Services.
+
+</details>
 
 <a name="project-hyperlynx"></a>
 
-### [hyperlynx](https://devpost.com/software/hyperlynx)
+<details>
+<summary>hyperlynx</summary>
 
 The team set out to solve the often ineffective ticket-to-response systems present in data centers.
 
@@ -227,11 +273,14 @@ The team set out to solve the often ineffective ticket-to-response systems prese
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=wL78va-T-Ug)
 - **All event prizes (1)** Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
-- **GoDaddy Registry** The project lists godaddy among its Built With tags.
+- **GoDaddy Registry · Best Domain Name from GoDaddy Registry** The project lists godaddy among its Built With tags.
+
+</details>
 
 <a name="project-t-insights"></a>
 
-### [InsighT](https://devpost.com/software/t-insights)
+<details>
+<summary>InsighT</summary>
 
 Unified dashboard for T-Mobile PMs to track real-time customer sentiment, performance, and operational data, driving smarter, data-driven decisions and improved customer satisfaction.
 
@@ -241,11 +290,14 @@ Unified dashboard for T-Mobile PMs to track real-time customer sentiment, perfor
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=4c7uRVxoJfc)
 - **All event prizes (1)** T-Mobile
 - **Devpost checked** 2026-11-21 UTC
-- **T-Mobile** Consolidates multi‑source customer signals (Reddit, outage trackers, community forums, internal feedback) into a unified timeline. Devpost gives no specific sponsor integration detail.
+- **T-Mobile · T-Mobile** Consolidates multi‑source customer signals (Reddit, outage trackers, community forums, internal feedback) into a unified timeline.
+
+</details>
 
 <a name="project-car-thing-1dsxyk"></a>
 
-### [Kachow](https://devpost.com/software/car-thing-1dsxyk)
+<details>
+<summary>Kachow</summary>
 
 🚗 Don't want to end up in a financial tow-up? ⚡ 🚗 Select a car that truly maters 🛻 Avoid hidden costs, such as APRs, gas, and insurance, with no buyers remorse.
 
@@ -255,11 +307,14 @@ Unified dashboard for T-Mobile PMs to track real-time customer sentiment, perfor
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ebR9JQ7yu48)
 - **All event prizes (1)** Toyota Financial Services
 - **Devpost checked** 2026-11-21 UTC
-- **Toyota Financial Services** With no AI hallucinations , Kachow eliminates the headache of purchasing a car. Devpost gives no specific sponsor integration detail.
+- **Toyota Financial Services · Toyota Financial Services** With no AI hallucinations , Kachow eliminates the headache of purchasing a car.
+
+</details>
 
 <a name="project-kori"></a>
 
-### [Kori](https://devpost.com/software/kori)
+<details>
+<summary>Kori</summary>
 
 A little pixel companion who studies with you, works with you, rests with you, and helps you take care of your space.
 
@@ -269,11 +324,14 @@ A little pixel companion who studies with you, works with you, rests with you, a
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=K17fqD58JhA)
 - **All event prizes (1)** Best Use of Gemini API by MLH
 - **Devpost checked** 2026-11-21 UTC
-- **Google** Additionally the mobile app uses Gemini to process data to create helpful insights for the user.
+- **Google · Best Use of Gemini API by MLH** Additionally the mobile app uses Gemini to process data to create helpful insights for the user.
+
+</details>
 
 <a name="project-mirror-api"></a>
 
-### [MirrorAPI](https://devpost.com/software/mirror-api)
+<details>
+<summary>MirrorAPI</summary>
 
 Compare Your API Versions with Confidence.
 
@@ -283,11 +341,14 @@ Compare Your API Versions with Confidence.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=zJ3Deft3lVo)
 - **All event prizes (1)** StateFarm
 - **Devpost checked** 2026-11-21 UTC
-- **State Farm** The team learned countless industry best practices when it came to API design and version control. Devpost gives no specific sponsor integration detail.
+- **State Farm · StateFarm** The team learned countless industry best practices when it came to API design and version control.
+
+</details>
 
 <a name="project-autotract"></a>
 
-### [Pact](https://devpost.com/software/autotract)
+<details>
+<summary>Pact</summary>
 
 Expediting the contracts and document signings process between vendors and clients by bringing clarity, transparency, and accountability.
 
@@ -297,12 +358,15 @@ Expediting the contracts and document signings process between vendors and clien
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=OgYibmNNUD8)
 - **All event prizes (2)** Best Use of Solana · CBRE
 - **Devpost checked** 2026-11-21 UTC
-- **CBRE** Pact is a comprehensive blockchain-powered contract management system that revolutionizes how organizations create, collaborate on, and enforce legal agreements. Devpost gives no specific sponsor integration detail.
-- **Solana** Pact runs on three Solana programs written in Rust with Anchor.
+- **CBRE · CBRE** Pact is a comprehensive blockchain-powered contract management system that revolutionizes how organizations create, collaborate on, and enforce legal agreements.
+- **Solana · Best Use of Solana** Pact runs on three Solana programs written in Rust with Anchor.
+
+</details>
 
 <a name="project-poyolabs-47n0fz"></a>
 
-### [PoyoLabs](https://devpost.com/software/poyolabs-47n0fz)
+<details>
+<summary>PoyoLabs</summary>
 
 PoyoLabs is a gamified dashboard that allows users to track and monitor multiple cauldrons (data points) from one hand-designed interface.
 
@@ -312,11 +376,14 @@ PoyoLabs is a gamified dashboard that allows users to track and monitor multiple
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ah0ZCHMdz_8)
 - **All event prizes (1)** EOG Resources
 - **Devpost checked** 2026-11-21 UTC
-- **EOG Resources** The project page provides no specific sponsor integration detail in the indexed fields.
+- **EOG Resources · EOG Resources** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-prodify-94vbpk"></a>
 
-### [ProdPlex](https://devpost.com/software/prodify-94vbpk)
+<details>
+<summary>ProdPlex</summary>
 
 Prodplex acts like a team of intelligent assistants, each powered by a different Nemotron model.
 
@@ -326,11 +393,14 @@ Prodplex acts like a team of intelligent assistants, each powered by a different
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=pX8h4Dt-67c)
 - **All event prizes (1)** PNC Bank
 - **Devpost checked** 2026-11-21 UTC
-- **PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
+- **PNC Bank · PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-produh"></a>
 
-### [ProDuh! - The “duh” way to ship smarter](https://devpost.com/software/produh)
+<details>
+<summary>ProDuh! - The “duh” way to ship smarter</summary>
 
 ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discovery→Operate, works with Jira/ADO, automates busywork, and turns strategy into shippable stories—fast.
 
@@ -340,11 +410,14 @@ ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discove
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=0nwymM2ZtSw)
 - **All event prizes (1)** PNC Bank
 - **Devpost checked** 2026-11-21 UTC
-- **PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
+- **PNC Bank · PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-in-progress-2awbie"></a>
 
-### [qAPIbara](https://devpost.com/software/in-progress-2awbie)
+<details>
+<summary>qAPIbara</summary>
 
 qAPIbara is an AI-powered regression analysis platform that automatically compares, tests, and explains API version differences.
 
@@ -354,11 +427,14 @@ qAPIbara is an AI-powered regression analysis platform that automatically compar
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=TCHkbt_CPrM)
 - **All event prizes (1)** StateFarm
 - **Devpost checked** 2026-11-21 UTC
-- **State Farm** The project page provides no specific sponsor integration detail in the indexed fields.
+- **State Farm · StateFarm** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-tbd-v8pqbk"></a>
 
-### [Relay](https://devpost.com/software/tbd-v8pqbk)
+<details>
+<summary>Relay</summary>
 
 Agentic assistant for data center technicians to streamline repairs and improve efficiency with automated tests and ticket management.
 
@@ -368,11 +444,14 @@ Agentic assistant for data center technicians to streamline repairs and improve 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=-osJDI2GaQE)
 - **All event prizes (1)** Best Use of ElevenLabs by MLH
 - **Devpost checked** 2026-11-21 UTC
-- **ElevenLabs** The project page provides no specific sponsor integration detail in the indexed fields.
+- **ElevenLabs · Best Use of ElevenLabs by MLH** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-spendingwithspendy"></a>
 
-### [SpendingWithSpendy](https://devpost.com/software/spendingwithspendy)
+<details>
+<summary>SpendingWithSpendy</summary>
 
 Let kids learn how to manage their own finances with Spendy.
 
@@ -382,11 +461,14 @@ Let kids learn how to manage their own finances with Spendy.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=EK8jEkWBTbg)
 - **All event prizes (2)** Best Design · Capital One
 - **Devpost checked** 2026-11-21 UTC
-- **Capital One** Kids will have a Spendy card that can be spend on their favorite games. Devpost gives no specific sponsor integration detail.
+- **Capital One · Capital One** Kids will have a Spendy card that can be spend on their favorite games.
+
+</details>
 
 <a name="project-stamped-6hnl4w"></a>
 
-### [Stamped](https://devpost.com/software/stamped-6hnl4w)
+<details>
+<summary>Stamped</summary>
 
 Stamped is a secure and intelligent onboarding platform designed for financial institutions. It streamlines client and vendor onboarding with AI-powered features, and comprehensive compliance tools.
 
@@ -396,11 +478,14 @@ Stamped is a secure and intelligent onboarding platform designed for financial i
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=umt6t5bXJXo)
 - **All event prizes (1)** Goldman Sachs
 - **Devpost checked** 2026-11-21 UTC
-- **Goldman Sachs** Stamped is an intelligent onboarding platform that manages the entire client lifecycle from lead prospecting to full onboarding. Devpost gives no specific sponsor integration detail.
+- **Goldman Sachs · Goldman Sachs** Stamped is an intelligent onboarding platform that manages the entire client lifecycle from lead prospecting to full onboarding.
+
+</details>
 
 <a name="project-d-68uye4"></a>
 
-### [TaskFlow](https://devpost.com/software/d-68uye4)
+<details>
+<summary>TaskFlow</summary>
 
 A tool for helping Engineers and on-site technicians communicate and organize their datacenter work.
 
@@ -410,11 +495,14 @@ A tool for helping Engineers and on-site technicians communicate and organize th
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=sQVzqluIUdQ)
 - **All event prizes (1)** Northmark Compute &amp; Cloud
 - **Devpost checked** 2026-11-21 UTC
-- **Northmark Compute &amp; Cloud** Some of learned react for the first time, other got to work on their design skills in high stakes discussions. Devpost gives no specific sponsor integration detail.
+- **Northmark Compute &amp; Cloud · Northmark Compute &amp; Cloud** Some of learned react for the first time, other got to work on their design skills in high stakes discussions.
+
+</details>
 
 <a name="project-toyotron"></a>
 
-### [Toyotron](https://devpost.com/software/toyotron)
+<details>
+<summary>Toyotron</summary>
 
 Toyotron is a solution that allows users to easily find their dream Toyota through agentic AI powered by NVIDIA's intelligent open source foundational model, Nemotron.
 
@@ -424,12 +512,15 @@ Toyotron is a solution that allows users to easily find their dream Toyota throu
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=CSc6zKQRxIY)
 - **All event prizes (2)** Nvidia · Toyota Financial Services
 - **Devpost checked** 2026-11-21 UTC
-- **NVIDIA** It conducts an onboarding survey to understand a shopper’s budget, lifestyle, and preferences, then recommends vehicles that truly fit. Devpost gives no specific sponsor integration detail.
-- **Toyota Financial Services** It conducts an onboarding survey to understand a shopper’s budget, lifestyle, and preferences, then recommends vehicles that truly fit. Devpost gives no specific sponsor integration detail.
+- **NVIDIA · Nvidia** It conducts an onboarding survey to understand a shopper’s budget, lifestyle, and preferences, then recommends vehicles that truly fit.
+- **Toyota Financial Services · Toyota Financial Services** It conducts an onboarding survey to understand a shopper’s budget, lifestyle, and preferences, then recommends vehicles that truly fit.
+
+</details>
 
 <a name="project-cbre-project"></a>
 
-### [TrustEstate AI](https://devpost.com/software/cbre-project)
+<details>
+<summary>TrustEstate AI</summary>
 
 The app is a full-featured real estate helper that helps you find and trust properties.
 
@@ -439,11 +530,14 @@ The app is a full-featured real estate helper that helps you find and trust prop
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=SQlAZdMoI2k)
 - **All event prizes (1)** CBRE
 - **Devpost checked** 2026-11-21 UTC
-- **CBRE** The project page provides no specific sponsor integration detail in the indexed fields.
+- **CBRE · CBRE** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-coffee-overflow"></a>
 
-### [TrustIssues.AI](https://devpost.com/software/coffee-overflow)
+<details>
+<summary>TrustIssues.AI</summary>
 
 TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract data, verify identity, and score risk, blending AI speed with human approval for secure, fast compliance.
 
@@ -453,11 +547,14 @@ TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=6aPw8P9URv0)
 - **All event prizes (1)** Goldman Sachs
 - **Devpost checked** 2026-11-21 UTC
-- **Goldman Sachs** The team learned a shocking amount about the power and pitfalls of agentic AI, in equally shocking amount of time. Devpost gives no specific sponsor integration detail.
+- **Goldman Sachs · Goldman Sachs** The team learned a shocking amount about the power and pitfalls of agentic AI, in equally shocking amount of time.
+
+</details>
 
 <a name="project-upguard"></a>
 
-### [UpGuardian](https://devpost.com/software/upguard)
+<details>
+<summary>UpGuardian</summary>
 
 Struggling with accidentally making subtle breaking changes to your APIs? Are those sensitive unit tests failing all of the time even though unimportant things have changed.
 
@@ -467,4 +564,6 @@ Struggling with accidentally making subtle breaking changes to your APIs? Are th
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=VLvWZeT5NOk)
 - **All event prizes (1)** StateFarm
 - **Devpost checked** 2026-11-21 UTC
-- **State Farm** UpGuardian helps developers with the process of updating their codebases to handle upgraded versions of the APIs they rely on. Devpost gives no specific sponsor integration detail.
+- **State Farm · StateFarm** UpGuardian helps developers with the process of updating their codebases to handle upgraded versions of the APIs they rely on.
+
+</details>

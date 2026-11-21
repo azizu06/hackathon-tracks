@@ -1,58 +1,68 @@
 # ShellHacks 2024
 
-[Devpost gallery](https://shellhacks2024.devpost.com/project-gallery) · [Official prize rules](https://shellhacks2024.devpost.com/) · [Winners index](../README.md)
+**36 projects · 19 sponsors · 39 prize rows**
 
-36 projects and 39 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://shellhacks2024.devpost.com/project-gallery) · [Official prize rules](https://shellhacks2024.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** python (15), javascript (11), typescript (10)
+- **Common project areas** Finance and commerce (9), Security and privacy (3), Accessibility and assistive tools (2)
+- **Common demo formats** Mobile app (5), Web app or dashboard (3), Voice or conversational interface (2)
+- **Projects with a listed demo video** 11 of 36
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Epileptic Seizure Prevention and Early Response (ESPER)](#project-esper-fy6xeh) | [Assurant](../by-sponsor/assurant.md) | Assurant | — | ESPER dynamically processes image frames from video HTML elements and analyzes their perceived luminosity. | 2 |
-| [Jet Setter](#project-jet-setter) | [Assurant](../by-sponsor/assurant.md) | Assurant | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Lotion AI/AR](#project-lotion-ai-ar) | [Assurant](../by-sponsor/assurant.md) | Assurant | — | ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking. | 3 |
-| [WatchDog](#project-watchdog-vz03q8) | [Auth0](../by-sponsor/auth0.md) | &#91;MLH&#93; Best Use of Auth0 | — | WatchDog is like having your own superhero security guard who never sleeps. | 1 |
-| [FraudGuard](#project-fraudguard-3gxd0w) | [BNY](../by-sponsor/bny.md) | BNY AI-powered Financial Fraud Detection System | — | FraudGuard is an AI-powered fraud detection system that uses advanced machine learning algorithms and data analysis to identify outliers and detect potential financial fraud in transactions. | 1 |
-| [H2A Bank](#project-h2a-bank) | [BNY](../by-sponsor/bny.md) | BNY AI-powered Financial Fraud Detection System | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [ShellHacked](#project-shellhacked) | [Break Through Tech](../by-sponsor/break-through-tech.md) | Break Through Tech | — | ShellHacked is a command-line tool designed to boost your digital security literacy through interactive lessons and real-world challenges. | 1 |
-| [Latinnect](#project-latinconnect) | [Cafe Cultura](../by-sponsor/cafe-cultura.md) | Cafe Cultura Latine' Heritage Month Digital Divide Challenge | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Mercado](#project-mercado) | [Cafe Cultura](../by-sponsor/cafe-cultura.md) | Cafe Cultura Latine' Heritage Month Digital Divide Challenge | — | Mercado is a micro-investment platform that allows users to browse and invest in Latino-owned small businesses. | 1 |
-| [TasteLatino](#project-tastelatino) | [Cafe Cultura](../by-sponsor/cafe-cultura.md) | Cafe Cultura Latine' Heritage Month Digital Divide Challenge | — | The mobile app has multiple features, the main one being a camera that captures a picture of an ingredient and uses a machine learning model to recognize the item. | 1 |
-| [Lease Saving Plan](#project-lease-saving-plan) | [Capital One](../by-sponsor/capital-one.md) | Capital One | — | Lease Saving Plan calculates monthly lease payments based on user inputs like down payment, lease term, and car selection. | 1 |
-| [SmartCards](#project-smartcards-qxdusb) | [Capital One](../by-sponsor/capital-one.md) | Capital One | — | SmartCards is a user-friendly addon for budgeting apps that helps users better categorize their transactions and discover investing opportunities from each purchase. | 1 |
-| [AI Image Recognition](#project-ai-image-recognition) | [Chainguard](../by-sponsor/chainguard.md) | Wolfi OS Container Security Hackathon | — | The team built the project based on the pytorch-dev image from chainguard to develop a secure application free of CVEs. | 1 |
-| [Cloud Vault](#project-cloud-vault) | [Chainguard](../by-sponsor/chainguard.md) | Wolfi OS Container Security Hackathon | — | These files are stored in a secure Docker container, using Chainguard's Wolfi OS and SSL certificates with HTTPS to minimize vulnerabilities and increase security during file transmission and storage. | 1 |
-| [Lootcode 10](#project-lootcode-10) | [Chainguard](../by-sponsor/chainguard.md) | Wolfi OS Container Security Hackathon | — | The project lists chainguard among its Built With tags. | 1 |
-| [FIU Financial Education - Scholarship Plug](#project-financial-education-for-women-at-fiu) | [Defang](../by-sponsor/defang.md) | &#91;MLH&#93; Best Use of Defang | — | The project lists defang among its Built With tags. | 1 |
-| [BlockchainAIED](#project-blockchainaied) | [ETH Miami](../by-sponsor/eth-miami.md) | ETH Miami | — | BlockchainAIED allows university and job institutions to verify credentials securely using blockchain technology. | 1 |
-| [LevelUp](#project-levelup-m95ou8) | [ETH Miami](../by-sponsor/eth-miami.md) | ETH Miami | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [FairShare](#project-fair-share-nt0qx7) | [Fidelity](../by-sponsor/fidelity.md) | &#91;MLH&#93; Best DEI Hack | — | Working on FairShare has been an incredible learning experience for the team. | 1 |
-| [Lotion AI/AR](#project-lotion-ai-ar) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | &#91;MLH&#93; Best Domain Name from GoDaddy Registry | — | ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking. | 3 |
-| [ARSL - Augmented Reality Sign Language](#project-arsl-vr-asl-learning) | [Google](../by-sponsor/google.md) | Google | — | ARSL uses Computer Vision to detect objects through your Quest headset passthrough and translate detected objects into ASL alphabet. | 3 |
-| [DrowsyDriver](#project-drowsydriver-e31tn6) | [Google](../by-sponsor/google.md) | Google | — | The system monitors and detects signs of drowsiness in the driver by analyzing facial landmarks and expressions. | 1 |
-| [Voiceboard](#project-voiceboard-83vn1e) | [Google](../by-sponsor/google.md) | Google | — | The project lists gemini among its Built With tags. | 1 |
-| [Around the World in 70 Frames](#project-around-the-world-in-70-frames) | [Microsoft](../by-sponsor/microsoft.md) | Microsoft | — | Its VR game that allows the player to be immersive into the country of their choosing and go through scenarios that feel natural to that country's landscape. | 1 |
-| [ARSL - Augmented Reality Sign Language](#project-arsl-vr-asl-learning) | [Microsoft](../by-sponsor/microsoft.md) | Microsoft | — | ARSL uses Computer Vision to detect objects through your Quest headset passthrough and translate detected objects into ASL alphabet. | 3 |
-| [Lotion AI/AR](#project-lotion-ai-ar) | [Microsoft](../by-sponsor/microsoft.md) | Microsoft | — | ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking. | 3 |
-| [Medicine Dispensary](#project-bigback) | [Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) | Patient Safety Technology | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Pellet Panic](#project-pellet-panic) | [Snap](../by-sponsor/snap.md) | Snap AR Dream it. Build it. | — | The team built it in Snapchat's Lens Studio using JavaScript and TypeScript. | 1 |
-| [Shuttle Run](#project-shuttle-run) | [Snap](../by-sponsor/snap.md) | Snap AR Dream it. Build it. | — | The project lists lensstudio among its Built With tags. | 1 |
-| [Snapchat AR Tower Defense](#project-snapchat-ar-tower-defense) | [Snap](../by-sponsor/snap.md) | Snap AR Dream it. Build it. | — | Created using Lens Studio 5, using scripts made with Typescript and Javascript . | 1 |
-| [FiveHacks](#project-fivehacks) | [State Farm](../by-sponsor/state-farm.md) | Statefarm | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Treasure Keepers](#project-treasure-keepers) | [State Farm](../by-sponsor/state-farm.md) | Statefarm | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [FlowCast: Real-Time Water Monitoring and Prediction](#project-water-quality-predictor-with-ml-and-data-visualizatio) | [Streamlit](../by-sponsor/streamlit.md) | &#91;MLH&#93; Best Use of Streamlit | — | The team developed FlowCast using Streamlit for web application development, Python for data processing, machine learning, and storing historical data. | 1 |
-| [Clarifina](#project-clarifina) | [Vanguard](../by-sponsor/vanguard.md) | Vanguard | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [financio](#project-financio-xg15bp) | [Vanguard](../by-sponsor/vanguard.md) | Vanguard | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Prospera](#project-prospera-1bpnya) | [Vanguard](../by-sponsor/vanguard.md) | Vanguard | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [EmergencyAct](#project-emergencyact) | [Waymo](../by-sponsor/waymo.md) | Waymo | — | EmergencyAct is a real-time, video-based fall detection system designed specifically for public transport. | 1 |
-| [hurrycane](#project-evac-for-all) | [Waymo](../by-sponsor/waymo.md) | Waymo | — | hurrycane is a disaster evacuation ride-sharing app that connects people in need with volunteer drivers during emergencies. | 1 |
-| [LocalPulse](#project-localpulse-uwr83x) | [Waymo](../by-sponsor/waymo.md) | Waymo | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Epileptic Seizure Prevention and Early Response (ESPER)](https://devpost.com/software/esper-fy6xeh) · [code](https://github.com/LumaDevelopment/ESPER) | [Assurant](../by-sponsor/assurant.md) · Assurant · [details](#project-esper-fy6xeh) | ESPER makes the Internet a safer place for those with epilepsy by dynamically adjusting the brightness of… | chrome, digitalocean, java |
+| [Jet Setter](https://devpost.com/software/jet-setter) · [code](https://github.com/JessicaDLN811/Jetsetter) · [demo](https://www.youtube.com/watch?v=fXF7-o58v5s) | [Assurant](../by-sponsor/assurant.md) · Assurant · [details](#project-jet-setter) | Jet Setter traverses through a 2D array to access the different rows of seats and their section letter to… | amazon-web-services, java, terraform |
+| [Lotion AI/AR](https://devpost.com/software/lotion-ai-ar) · [code](https://github.com/kgand/shellhacks2024) | [Assurant](../by-sponsor/assurant.md) · Assurant · [details](#project-lotion-ai-ar) | Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR. | axios, chatgpt, computer-vision |
+| [WatchDog](https://devpost.com/software/watchdog-vz03q8) · [code](https://github.com/nikil1506/ShellHacks-WatchDog) | [Auth0](../by-sponsor/auth0.md) · Best Use of Auth0 · [details](#project-watchdog-vz03q8) | A real time LLM based threat identification application. | cv2, firebase, flutter |
+| [FraudGuard](https://devpost.com/software/fraudguard-3gxd0w) · [code](https://github.com/alimuhammad-creator/ShellHacksFIU) | [BNY](../by-sponsor/bny.md) · BNY AI-powered Financial Fraud Detection System · [details](#project-fraudguard-3gxd0w) | AI-driven solution designed to detect and prevent fraudulent financial transactions in real time. With… | eda, github, google-colab |
+| [H2A Bank](https://devpost.com/software/h2a-bank) · [code](https://github.com/z3nL/h2a) · [demo](https://www.youtube.com/watch?v=rIAGdBaJAVE) | [BNY](../by-sponsor/bny.md) · BNY AI-powered Financial Fraud Detection System · [details](#project-h2a-bank) | Using SQL, OpenAI, Flask to detect and report suspicious transactions. | css, flask, html |
+| [ShellHacked](https://devpost.com/software/shellhacked) | [Break Through Tech](../by-sponsor/break-through-tech.md) · Break Through Tech · [details](#project-shellhacked) | Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay… | charm.sh, go, ngrok |
+| [Latinnect](https://devpost.com/software/latinconnect) · [code](https://github.com/hlee18lee46/shellhacks) | [Cafe Cultura](../by-sponsor/cafe-cultura.md) · Cafe Cultura Latine' Heritage Month Digital Divide Challenge · [details](#project-latinconnect) | Latinnect is a digital marketplace that connects Latine vendors with customers, allowing vendors to easily… | supabase, swift, swiftui |
+| [Mercado](https://devpost.com/software/mercado) · [demo](https://www.youtube.com/watch?v=bONR9Nu1-Cw) | [Cafe Cultura](../by-sponsor/cafe-cultura.md) · Cafe Cultura Latine' Heritage Month Digital Divide Challenge · [details](#project-mercado) | "Empowering Latino Businesses, One Investment at a Time.". | ai, firebase, python |
+| [TasteLatino](https://devpost.com/software/tastelatino) | [Cafe Cultura](../by-sponsor/cafe-cultura.md) · Cafe Cultura Latine' Heritage Month Digital Divide Challenge · [details](#project-tastelatino) | Ever wondered what delicious dish you could create with the ingredients you have on hand? TasteLatino uses… | coreml, openai, swift |
+| [Lease Saving Plan](https://devpost.com/software/lease-saving-plan) · [code](https://github.com/Jackal-HQ/Lease-Saving-Guide) | [Capital One](../by-sponsor/capital-one.md) · Capital One · [details](#project-lease-saving-plan) | Calculate car lease payments, insurance, and track savings in one tool! Tailored for your budget, with… | customtkinter, matplotlib, python |
+| [SmartCards](https://devpost.com/software/smartcards-qxdusb) · [code](https://github.com/chasereyn/smart-cards) | [Capital One](../by-sponsor/capital-one.md) · Capital One · [details](#project-smartcards-qxdusb) | SmartCards is a user-friendly addon for your budgeting app to help you better categorize your transactions… | express.js, flask, kaggle |
+| [AI Image Recognition](https://devpost.com/software/ai-image-recognition) · [code](https://github.com/Rodrigo-Munoz-Salas/AI_Image_Recognition) | [Chainguard](../by-sponsor/chainguard.md) · Wolfi OS Container Security Hackathon · [details](#project-ai-image-recognition) | The team have learned how to build applications based on an initial image. | docker, github, numpy |
+| [Cloud Vault](https://devpost.com/software/cloud-vault) · [code](https://github.com/lain561/CloudVault) | [Chainguard](../by-sponsor/chainguard.md) · Wolfi OS Container Security Hackathon · [details](#project-cloud-vault) | Cloud Vault is a containerized file uploader using Chainguard Images for secure environments. It secures data… | chainguard, css3, docker |
+| [Lootcode 10](https://devpost.com/software/lootcode-10) · [code](https://github.com/brianush1/leetcode-ai) · [demo](https://www.youtube.com/watch?v=_Cjp8x99bII) | [Chainguard](../by-sponsor/chainguard.md) · Wolfi OS Container Security Hackathon · [details](#project-lootcode-10) | Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting/Searching, Math, DP, Trees,… | chainguard, svelte, typescript |
+| [FIU Financial Education - Scholarship Plug](https://devpost.com/software/financial-education-for-women-at-fiu) | [Defang](../by-sponsor/defang.md) · Best Use of Defang · [details](#project-financial-education-for-women-at-fiu) | FIU Scholarship Plug helps students find relevant scholarships by assessing demographics. It gathers data on… | defang, auth0, bash |
+| [BlockchainAIED](https://devpost.com/software/blockchainaied) | [ETH Miami](../by-sponsor/eth-miami.md) · ETH Miami · [details](#project-blockchainaied) | Blockchain and AI Based Verification for a Fraud-Free Future. | css, ganache, google-cloud |
+| [LevelUp](https://devpost.com/software/levelup-m95ou8) · [code](https://github.com/npastrami/lvlupmiami) | [ETH Miami](../by-sponsor/eth-miami.md) · ETH Miami · [details](#project-levelup-m95ou8) | The inspiration came from FIU's passion for hospitality and the potential of blockchain technology to empower… | hardat, ipfs, metamaskapi |
+| [FairShare](https://devpost.com/software/fair-share-nt0qx7) | [Fidelity](../by-sponsor/fidelity.md) · Best DEI Hack · [details](#project-fair-share-nt0qx7) | FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting. | css, javascript, react-native |
+| [Lotion AI/AR](https://devpost.com/software/lotion-ai-ar) · [code](https://github.com/kgand/shellhacks2024) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) · Best Domain Name from GoDaddy Registry · [details](#project-lotion-ai-ar) | Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR. | axios, chatgpt, computer-vision |
+| [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning) · [code](https://github.com/August-Druzgal/ShellHacks2024) · [demo](https://www.youtube.com/watch?v=7rRxLXnresk) | [Google](../by-sponsor/google.md) · Google · [details](#project-arsl-vr-asl-learning) | Learn ASL in AR through Computer Vision and Hand Tracking. | c, c-sharp, embedded |
+| [DrowsyDriver](https://devpost.com/software/drowsydriver-e31tn6) · [code](https://github.com/Alans44/DrowsyDriver) · [demo](https://www.youtube.com/watch?v=OK4mCpxNzVs) | [Google](../by-sponsor/google.md) · Google · [details](#project-drowsydriver-e31tn6) | Real-time computer vision software with fatigue detection system to improve accessibility of the technology… | azure, dlib, flask |
+| [Voiceboard](https://devpost.com/software/voiceboard-83vn1e) · [code](https://github.com/DVidal1205/voiceboard) | [Google](../by-sponsor/google.md) · Google · [details](#project-voiceboard-83vn1e) | An accessible white-boarding app to voice your ideas into existence. | gemini, google, next |
+| [Around the World in 70 Frames](https://devpost.com/software/around-the-world-in-70-frames) | [Microsoft](../by-sponsor/microsoft.md) · Microsoft · [details](#project-around-the-world-in-70-frames) | Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of… | .net, apis, c# |
+| [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning) · [code](https://github.com/August-Druzgal/ShellHacks2024) · [demo](https://www.youtube.com/watch?v=7rRxLXnresk) | [Microsoft](../by-sponsor/microsoft.md) · Microsoft · [details](#project-arsl-vr-asl-learning) | Learn ASL in AR through Computer Vision and Hand Tracking. | c, c-sharp, embedded |
+| [Lotion AI/AR](https://devpost.com/software/lotion-ai-ar) · [code](https://github.com/kgand/shellhacks2024) | [Microsoft](../by-sponsor/microsoft.md) · Microsoft · [details](#project-lotion-ai-ar) | Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR. | axios, chatgpt, computer-vision |
+| [Medicine Dispensary](https://devpost.com/software/bigback) · [code](https://github.com/Cantinadream/Big_Back_ShellHack2024) · [demo](https://www.youtube.com/watch?v=4qyCfR1vNoE) | [Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) · Patient Safety Technology · [details](#project-bigback) | The inspiration for this project stems from a deep commitment to support the loved ones and the wider… | flask, micropython, python |
+| [Pellet Panic](https://devpost.com/software/pellet-panic) | [Snap](../by-sponsor/snap.md) · Snap AR Dream it. Build it. · [details](#project-pellet-panic) | Encouraging physical activity with an thrilling experience where individuals must collect pellets while… | lens-studio, javascript, typescript |
+| [Shuttle Run](https://devpost.com/software/shuttle-run) · [demo](https://www.youtube.com/watch?v=fIQ6sltKv1w) | [Snap](../by-sponsor/snap.md) · Snap AR Dream it. Build it. · [details](#project-shuttle-run) | The AR app reinvents the classic shuttle run by having users chase randomly spawning stars in their… | lensstudio, javascript, snapchat |
+| [Snapchat AR Tower Defense](https://devpost.com/software/snapchat-ar-tower-defense) · [code](https://github.com/wakens/spectacles-tower-defense) · [demo](https://www.youtube.com/watch?v=rfoBo7SyMh4) | [Snap](../by-sponsor/snap.md) · Snap AR Dream it. Build it. · [details](#project-snapchat-ar-tower-defense) | AR Game created in Snapchat's Lens Studio 5 using Javascript, Typescript, and Github Copilot that aims to… | lens-studio, snapchat-spectacles, ar |
+| [FiveHacks](https://devpost.com/software/fivehacks) | [State Farm](../by-sponsor/state-farm.md) · Statefarm · [details](#project-fivehacks) | The goal is to educate and guide students in a simple and fun way. | css, html |
+| [Treasure Keepers](https://devpost.com/software/treasure-keepers) · [code](https://github.com/Juuicee/ShellHacks-2024) | [State Farm](../by-sponsor/state-farm.md) · Statefarm · [details](#project-treasure-keepers) | The team offer many different ways for people to improve their finances. | css, html, openai |
+| [FlowCast: Real-Time Water Monitoring and Prediction](https://devpost.com/software/water-quality-predictor-with-ml-and-data-visualizatio) · [code](https://github.com/amart0513/flowcast-web-app) | [Streamlit](../by-sponsor/streamlit.md) · Best Use of Streamlit · [details](#project-water-quality-predictor-with-ml-and-data-visualizatio) | FlowCast is an innovative web application that visualizes and analyzes water quality data in real-time. | streamlit, noaa-climate-data-online, pycharm |
+| [Clarifina](https://devpost.com/software/clarifina) | [Vanguard](../by-sponsor/vanguard.md) · Vanguard · [details](#project-clarifina) | Understanding that the answer cannot be found in one location, but rather a harmony of several became a huge… | amazon-web-services, axios, cloudwatch |
+| [financio](https://devpost.com/software/financio-xg15bp) | [Vanguard](../by-sponsor/vanguard.md) · Vanguard · [details](#project-financio-xg15bp) | The web application is designed to help train the users in common economic situations they might face to get… | cloud-computing, database-management, git |
+| [Prospera](https://devpost.com/software/prospera-1bpnya) · [code](https://github.com/IsmailAbousalem/Prospera) | [Vanguard](../by-sponsor/vanguard.md) · Vanguard · [details](#project-prospera-1bpnya) | Personalized Financial Score: Based on income, spending, and dependents to track progress. | figma, javascript, openai |
+| [EmergencyAct](https://devpost.com/software/emergencyact) · [code](https://github.com/JocelynVelarde/Shell-Hacks-2024) · [demo](https://www.youtube.com/watch?v=Z_LuQ_Ecl8Q) | [Waymo](../by-sponsor/waymo.md) · Waymo · [details](#project-emergencyact) | Creating an aware and safer world by identifying emergencies which can improve mobility, public spaces, open… | aiohttp, base64, collections |
+| [hurrycane](https://devpost.com/software/evac-for-all) · [code](https://github.com/keshavbabu/shellhacks) · [demo](https://www.youtube.com/watch?v=RhdyCijiCcE) | [Waymo](../by-sponsor/waymo.md) · Waymo · [details](#project-evac-for-all) | Evacuate disaster safely with seamless ride sharing. | docker, firebase, go |
+| [LocalPulse](https://devpost.com/software/localpulse-uwr83x) · [code](https://github.com/SquizAI/fiu_hack) | [Waymo](../by-sponsor/waymo.md) · Waymo · [details](#project-localpulse-uwr83x) | LocalPulse is an innovative app that allows users to connect with their community by providing instant access… | api, claude, computer-vision |
 
 ## Project details
 
 <a name="project-ai-image-recognition"></a>
 
-### [AI Image Recognition](https://devpost.com/software/ai-image-recognition)
+<details>
+<summary>AI Image Recognition</summary>
 
 The team have learned how to build applications based on an initial image.
 
@@ -62,11 +72,14 @@ The team have learned how to build applications based on an initial image.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Wolfi OS Container Security Hackathon
 - **Devpost checked** 2026-11-21 UTC
-- **Chainguard** The team built the project based on the pytorch-dev image from chainguard to develop a secure application free of CVEs.
+- **Chainguard · Wolfi OS Container Security Hackathon** The team built the project based on the pytorch-dev image from chainguard to develop a secure application free of CVEs.
+
+</details>
 
 <a name="project-around-the-world-in-70-frames"></a>
 
-### [Around the World in 70 Frames](https://devpost.com/software/around-the-world-in-70-frames)
+<details>
+<summary>Around the World in 70 Frames</summary>
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
@@ -76,11 +89,14 @@ Around the World in 70 Frames is language learning platform designed with intell
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Microsoft
 - **Devpost checked** 2026-11-21 UTC
-- **Microsoft** Its VR game that allows the player to be immersive into the country of their choosing and go through scenarios that feel natural to that country's landscape. Devpost gives no specific sponsor integration detail.
+- **Microsoft · Microsoft** Its VR game that allows the player to be immersive into the country of their choosing and go through scenarios that feel natural to that country's landscape.
+
+</details>
 
 <a name="project-arsl-vr-asl-learning"></a>
 
-### [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning)
+<details>
+<summary>ARSL - Augmented Reality Sign Language</summary>
 
 Learn ASL in AR through Computer Vision and Hand Tracking.
 
@@ -90,12 +106,15 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=7rRxLXnresk)
 - **All event prizes (3)** Google · Microsoft · Second Best Overall
 - **Devpost checked** 2026-11-21 UTC
-- **Google** ARSL uses Computer Vision to detect objects through your Quest headset passthrough and translate detected objects into ASL alphabet. Devpost gives no specific sponsor integration detail.
-- **Microsoft** ARSL uses Computer Vision to detect objects through your Quest headset passthrough and translate detected objects into ASL alphabet. Devpost gives no specific sponsor integration detail.
+- **Google · Google** ARSL uses Computer Vision to detect objects through your Quest headset passthrough and translate detected objects into ASL alphabet.
+- **Microsoft · Microsoft** ARSL uses Computer Vision to detect objects through your Quest headset passthrough and translate detected objects into ASL alphabet.
+
+</details>
 
 <a name="project-blockchainaied"></a>
 
-### [BlockchainAIED](https://devpost.com/software/blockchainaied)
+<details>
+<summary>BlockchainAIED</summary>
 
 Blockchain and AI Based Verification for a Fraud-Free Future.
 
@@ -105,11 +124,14 @@ Blockchain and AI Based Verification for a Fraud-Free Future.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** ETH Miami
 - **Devpost checked** 2026-11-21 UTC
-- **ETH Miami** BlockchainAIED allows university and job institutions to verify credentials securely using blockchain technology. Devpost gives no specific sponsor integration detail.
+- **ETH Miami · ETH Miami** BlockchainAIED allows university and job institutions to verify credentials securely using blockchain technology.
+
+</details>
 
 <a name="project-clarifina"></a>
 
-### [Clarifina](https://devpost.com/software/clarifina)
+<details>
+<summary>Clarifina</summary>
 
 Understanding that the answer cannot be found in one location, but rather a harmony of several became a huge growth point in this hackathon.
 
@@ -119,11 +141,14 @@ Understanding that the answer cannot be found in one location, but rather a harm
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Vanguard
 - **Devpost checked** 2026-11-21 UTC
-- **Vanguard** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Vanguard · Vanguard** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-cloud-vault"></a>
 
-### [Cloud Vault](https://devpost.com/software/cloud-vault)
+<details>
+<summary>Cloud Vault</summary>
 
 Cloud Vault is a containerized file uploader using Chainguard Images for secure environments. It secures data with HTTPS, SSL certs, and persistent storage, ensuring safer file management with Docker.
 
@@ -133,11 +158,14 @@ Cloud Vault is a containerized file uploader using Chainguard Images for secure 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Wolfi OS Container Security Hackathon
 - **Devpost checked** 2026-11-21 UTC
-- **Chainguard** These files are stored in a secure Docker container, using Chainguard's Wolfi OS and SSL certificates with HTTPS to minimize vulnerabilities and increase security during file transmission and storage.
+- **Chainguard · Wolfi OS Container Security Hackathon** These files are stored in a secure Docker container, using Chainguard's Wolfi OS and SSL certificates with HTTPS to minimize vulnerabilities and increase security during file transmission and storage.
+
+</details>
 
 <a name="project-drowsydriver-e31tn6"></a>
 
-### [DrowsyDriver](https://devpost.com/software/drowsydriver-e31tn6)
+<details>
+<summary>DrowsyDriver</summary>
 
 Real-time computer vision software with fatigue detection system to improve accessibility of the technology and alert drivers in danger of sleepy driving, preventing accidents.
 
@@ -147,11 +175,14 @@ Real-time computer vision software with fatigue detection system to improve acce
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=OK4mCpxNzVs)
 - **All event prizes (1)** Google
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The system monitors and detects signs of drowsiness in the driver by analyzing facial landmarks and expressions. Devpost gives no specific sponsor integration detail.
+- **Google · Google** The system monitors and detects signs of drowsiness in the driver by analyzing facial landmarks and expressions.
+
+</details>
 
 <a name="project-emergencyact"></a>
 
-### [EmergencyAct](https://devpost.com/software/emergencyact)
+<details>
+<summary>EmergencyAct</summary>
 
 Creating an aware and safer world by identifying emergencies which can improve mobility, public spaces, open areas, school buildings and more.
 
@@ -161,11 +192,14 @@ Creating an aware and safer world by identifying emergencies which can improve m
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Z_LuQ_Ecl8Q)
 - **All event prizes (1)** Waymo
 - **Devpost checked** 2026-11-21 UTC
-- **Waymo** EmergencyAct is a real-time, video-based fall detection system designed specifically for public transport. Devpost gives no specific sponsor integration detail.
+- **Waymo · Waymo** EmergencyAct is a real-time, video-based fall detection system designed specifically for public transport.
+
+</details>
 
 <a name="project-esper-fy6xeh"></a>
 
-### [Epileptic Seizure Prevention and Early Response (ESPER)](https://devpost.com/software/esper-fy6xeh)
+<details>
+<summary>Epileptic Seizure Prevention and Early Response (ESPER)</summary>
 
 ESPER makes the Internet a safer place for those with epilepsy by dynamically adjusting the brightness of videos on the web to make rapid changes more gradual.
 
@@ -175,11 +209,14 @@ ESPER makes the Internet a safer place for those with epilepsy by dynamically ad
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Assurant · Best Overall
 - **Devpost checked** 2026-11-21 UTC
-- **Assurant** ESPER dynamically processes image frames from video HTML elements and analyzes their perceived luminosity. Devpost gives no specific sponsor integration detail.
+- **Assurant · Assurant** ESPER dynamically processes image frames from video HTML elements and analyzes their perceived luminosity.
+
+</details>
 
 <a name="project-fair-share-nt0qx7"></a>
 
-### [FairShare](https://devpost.com/software/fair-share-nt0qx7)
+<details>
+<summary>FairShare</summary>
 
 FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting.
 
@@ -189,11 +226,14 @@ FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best DEI Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Fidelity** Working on FairShare has been an incredible learning experience for the team. Devpost gives no specific sponsor integration detail.
+- **Fidelity · &#91;MLH&#93; Best DEI Hack** Working on FairShare has been an incredible learning experience for the team.
+
+</details>
 
 <a name="project-financio-xg15bp"></a>
 
-### [financio](https://devpost.com/software/financio-xg15bp)
+<details>
+<summary>financio</summary>
 
 The web application is designed to help train the users in common economic situations they might face to get a better grip on their finances.
 
@@ -203,11 +243,14 @@ The web application is designed to help train the users in common economic situa
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Vanguard
 - **Devpost checked** 2026-11-21 UTC
-- **Vanguard** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Vanguard · Vanguard** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-financial-education-for-women-at-fiu"></a>
 
-### [FIU Financial Education - Scholarship Plug](https://devpost.com/software/financial-education-for-women-at-fiu)
+<details>
+<summary>FIU Financial Education - Scholarship Plug</summary>
 
 FIU Scholarship Plug helps students find relevant scholarships by assessing demographics. It gathers data on academic background, financial status, and career goals for personalized recommendations.
 
@@ -217,11 +260,14 @@ FIU Scholarship Plug helps students find relevant scholarships by assessing demo
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Defang
 - **Devpost checked** 2026-11-21 UTC
-- **Defang** The project lists defang among its Built With tags.
+- **Defang · &#91;MLH&#93; Best Use of Defang** The project lists defang among its Built With tags.
+
+</details>
 
 <a name="project-fivehacks"></a>
 
-### [FiveHacks](https://devpost.com/software/fivehacks)
+<details>
+<summary>FiveHacks</summary>
 
 The goal is to educate and guide students in a simple and fun way.
 
@@ -231,11 +277,14 @@ The goal is to educate and guide students in a simple and fun way.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Statefarm
 - **Devpost checked** 2026-11-21 UTC
-- **State Farm** The project page provides no specific sponsor integration detail in the indexed fields.
+- **State Farm · Statefarm** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-water-quality-predictor-with-ml-and-data-visualizatio"></a>
 
-### [FlowCast: Real-Time Water Monitoring and Prediction](https://devpost.com/software/water-quality-predictor-with-ml-and-data-visualizatio)
+<details>
+<summary>FlowCast: Real-Time Water Monitoring and Prediction</summary>
 
 FlowCast is an innovative web application that visualizes and analyzes water quality data in real-time.
 
@@ -245,11 +294,14 @@ FlowCast is an innovative web application that visualizes and analyzes water qua
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Streamlit
 - **Devpost checked** 2026-11-21 UTC
-- **Streamlit** The team developed FlowCast using Streamlit for web application development, Python for data processing, machine learning, and storing historical data.
+- **Streamlit · &#91;MLH&#93; Best Use of Streamlit** The team developed FlowCast using Streamlit for web application development, Python for data processing, machine learning, and storing historical data.
+
+</details>
 
 <a name="project-fraudguard-3gxd0w"></a>
 
-### [FraudGuard](https://devpost.com/software/fraudguard-3gxd0w)
+<details>
+<summary>FraudGuard</summary>
 
 AI-driven solution designed to detect and prevent fraudulent financial transactions in real time. With cutting-edge machine learning models, it ensures secure and reliable fraud detection.
 
@@ -259,11 +311,14 @@ AI-driven solution designed to detect and prevent fraudulent financial transacti
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** BNY AI-powered Financial Fraud Detection System
 - **Devpost checked** 2026-11-21 UTC
-- **BNY** FraudGuard is an AI-powered fraud detection system that uses advanced machine learning algorithms and data analysis to identify outliers and detect potential financial fraud in transactions. Devpost gives no specific sponsor integration detail.
+- **BNY · BNY AI-powered Financial Fraud Detection System** FraudGuard is an AI-powered fraud detection system that uses advanced machine learning algorithms and data analysis to identify outliers and detect potential financial fraud in transactions.
+
+</details>
 
 <a name="project-h2a-bank"></a>
 
-### [H2A Bank](https://devpost.com/software/h2a-bank)
+<details>
+<summary>H2A Bank</summary>
 
 Using SQL, OpenAI, Flask to detect and report suspicious transactions.
 
@@ -273,11 +328,14 @@ Using SQL, OpenAI, Flask to detect and report suspicious transactions.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=rIAGdBaJAVE)
 - **All event prizes (1)** BNY AI-powered Financial Fraud Detection System
 - **Devpost checked** 2026-11-21 UTC
-- **BNY** The project page provides no specific sponsor integration detail in the indexed fields.
+- **BNY · BNY AI-powered Financial Fraud Detection System** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-evac-for-all"></a>
 
-### [hurrycane](https://devpost.com/software/evac-for-all)
+<details>
+<summary>hurrycane</summary>
 
 Evacuate disaster safely with seamless ride sharing.
 
@@ -287,11 +345,14 @@ Evacuate disaster safely with seamless ride sharing.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=RhdyCijiCcE)
 - **All event prizes (1)** Waymo
 - **Devpost checked** 2026-11-21 UTC
-- **Waymo** hurrycane is a disaster evacuation ride-sharing app that connects people in need with volunteer drivers during emergencies. Devpost gives no specific sponsor integration detail.
+- **Waymo · Waymo** hurrycane is a disaster evacuation ride-sharing app that connects people in need with volunteer drivers during emergencies.
+
+</details>
 
 <a name="project-jet-setter"></a>
 
-### [Jet Setter](https://devpost.com/software/jet-setter)
+<details>
+<summary>Jet Setter</summary>
 
 Jet Setter traverses through a 2D array to access the different rows of seats and their section letter to reserve the users' desired seat(s).
 
@@ -301,11 +362,14 @@ Jet Setter traverses through a 2D array to access the different rows of seats an
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=fXF7-o58v5s)
 - **All event prizes (1)** Assurant
 - **Devpost checked** 2026-11-21 UTC
-- **Assurant** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Assurant · Assurant** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-latinconnect"></a>
 
-### [Latinnect](https://devpost.com/software/latinconnect)
+<details>
+<summary>Latinnect</summary>
 
 Latinnect is a digital marketplace that connects Latine vendors with customers, allowing vendors to easily list and manage their products, and customers to browse, filter, and purchase goods.
 
@@ -315,11 +379,14 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
 - **Devpost checked** 2026-11-21 UTC
-- **Cafe Cultura** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Cafe Cultura · Cafe Cultura Latine' Heritage Month Digital Divide Challenge** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-lease-saving-plan"></a>
 
-### [Lease Saving Plan](https://devpost.com/software/lease-saving-plan)
+<details>
+<summary>Lease Saving Plan</summary>
 
 Calculate car lease payments, insurance, and track savings in one tool! Tailored for your budget, with support for English/Spanish.
 
@@ -329,11 +396,14 @@ Calculate car lease payments, insurance, and track savings in one tool! Tailored
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Capital One
 - **Devpost checked** 2026-11-21 UTC
-- **Capital One** Lease Saving Plan calculates monthly lease payments based on user inputs like down payment, lease term, and car selection. Devpost gives no specific sponsor integration detail.
+- **Capital One · Capital One** Lease Saving Plan calculates monthly lease payments based on user inputs like down payment, lease term, and car selection.
+
+</details>
 
 <a name="project-levelup-m95ou8"></a>
 
-### [LevelUp](https://devpost.com/software/levelup-m95ou8)
+<details>
+<summary>LevelUp</summary>
 
 The inspiration came from FIU's passion for hospitality and the potential of blockchain technology to empower individuals through decentralized solutions.
 
@@ -343,11 +413,14 @@ The inspiration came from FIU's passion for hospitality and the potential of blo
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** ETH Miami
 - **Devpost checked** 2026-11-21 UTC
-- **ETH Miami** The project page provides no specific sponsor integration detail in the indexed fields.
+- **ETH Miami · ETH Miami** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-localpulse-uwr83x"></a>
 
-### [LocalPulse](https://devpost.com/software/localpulse-uwr83x)
+<details>
+<summary>LocalPulse</summary>
 
 LocalPulse is an innovative app that allows users to connect with their community by providing instant access to comprehensive data and insights.
 
@@ -357,11 +430,14 @@ LocalPulse is an innovative app that allows users to connect with their communit
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Waymo
 - **Devpost checked** 2026-11-21 UTC
-- **Waymo** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Waymo · Waymo** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-lootcode-10"></a>
 
-### [Lootcode 10](https://devpost.com/software/lootcode-10)
+<details>
+<summary>Lootcode 10</summary>
 
 Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting/Searching, Math, DP, Trees, Graph Algorithms, and Strings), each of which offer a set of problems to be solved.
 
@@ -371,11 +447,14 @@ Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=_Cjp8x99bII)
 - **All event prizes (1)** Wolfi OS Container Security Hackathon
 - **Devpost checked** 2026-11-21 UTC
-- **Chainguard** The project lists chainguard among its Built With tags.
+- **Chainguard · Wolfi OS Container Security Hackathon** The project lists chainguard among its Built With tags.
+
+</details>
 
 <a name="project-lotion-ai-ar"></a>
 
-### [Lotion AI/AR](https://devpost.com/software/lotion-ai-ar)
+<details>
+<summary>Lotion AI/AR</summary>
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
 
@@ -385,13 +464,16 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (3)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Assurant · Microsoft
 - **Devpost checked** 2026-11-21 UTC
-- **Assurant** ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking. Devpost gives no specific sponsor integration detail.
-- **GoDaddy Registry** ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking. Devpost gives no specific sponsor integration detail.
-- **Microsoft** ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking. Devpost gives no specific sponsor integration detail.
+- **Assurant · Assurant** ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking.
+- **GoDaddy Registry · &#91;MLH&#93; Best Domain Name from GoDaddy Registry** ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking.
+- **Microsoft · Microsoft** ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking.
+
+</details>
 
 <a name="project-bigback"></a>
 
-### [Medicine Dispensary](https://devpost.com/software/bigback)
+<details>
+<summary>Medicine Dispensary</summary>
 
 The inspiration for this project stems from a deep commitment to support the loved ones and the wider community.
 
@@ -401,11 +483,14 @@ The inspiration for this project stems from a deep commitment to support the lov
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=4qyCfR1vNoE)
 - **All event prizes (1)** Patient Safety Technology
 - **Devpost checked** 2026-11-21 UTC
-- **Patient Safety Technology Challenge** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Patient Safety Technology Challenge · Patient Safety Technology** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-mercado"></a>
 
-### [Mercado](https://devpost.com/software/mercado)
+<details>
+<summary>Mercado</summary>
 
 "Empowering Latino Businesses, One Investment at a Time.".
 
@@ -415,11 +500,14 @@ The inspiration for this project stems from a deep commitment to support the lov
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=bONR9Nu1-Cw)
 - **All event prizes (1)** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
 - **Devpost checked** 2026-11-21 UTC
-- **Cafe Cultura** Mercado is a micro-investment platform that allows users to browse and invest in Latino-owned small businesses. Devpost gives no specific sponsor integration detail.
+- **Cafe Cultura · Cafe Cultura Latine' Heritage Month Digital Divide Challenge** Mercado is a micro-investment platform that allows users to browse and invest in Latino-owned small businesses.
+
+</details>
 
 <a name="project-pellet-panic"></a>
 
-### [Pellet Panic](https://devpost.com/software/pellet-panic)
+<details>
+<summary>Pellet Panic</summary>
 
 Encouraging physical activity with an thrilling experience where individuals must collect pellets while escaping a persistent ghost.
 
@@ -429,11 +517,14 @@ Encouraging physical activity with an thrilling experience where individuals mus
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Snap AR Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
-- **Snap** The team built it in Snapchat's Lens Studio using JavaScript and TypeScript.
+- **Snap · Snap AR Dream it. Build it.** The team built it in Snapchat's Lens Studio using JavaScript and TypeScript.
+
+</details>
 
 <a name="project-prospera-1bpnya"></a>
 
-### [Prospera](https://devpost.com/software/prospera-1bpnya)
+<details>
+<summary>Prospera</summary>
 
 Personalized Financial Score: Based on income, spending, and dependents to track progress.
 
@@ -443,11 +534,14 @@ Personalized Financial Score: Based on income, spending, and dependents to track
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Vanguard
 - **Devpost checked** 2026-11-21 UTC
-- **Vanguard** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Vanguard · Vanguard** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-shellhacked"></a>
 
-### [ShellHacked](https://devpost.com/software/shellhacked)
+<details>
+<summary>ShellHacked</summary>
 
 Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay smart, and learn to protect your online world effortlessly.
 
@@ -457,11 +551,14 @@ Refresh on digital security with hands-on challenges and tips, all from your com
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Break Through Tech
 - **Devpost checked** 2026-11-21 UTC
-- **Break Through Tech** ShellHacked is a command-line tool designed to boost your digital security literacy through interactive lessons and real-world challenges. Devpost gives no specific sponsor integration detail.
+- **Break Through Tech · Break Through Tech** ShellHacked is a command-line tool designed to boost your digital security literacy through interactive lessons and real-world challenges.
+
+</details>
 
 <a name="project-shuttle-run"></a>
 
-### [Shuttle Run](https://devpost.com/software/shuttle-run)
+<details>
+<summary>Shuttle Run</summary>
 
 The AR app reinvents the classic shuttle run by having users chase randomly spawning stars in their surroundings.
 
@@ -471,11 +568,14 @@ The AR app reinvents the classic shuttle run by having users chase randomly spaw
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=fIQ6sltKv1w)
 - **All event prizes (1)** Snap AR Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
-- **Snap** The project lists lensstudio among its Built With tags.
+- **Snap · Snap AR Dream it. Build it.** The project lists lensstudio among its Built With tags.
+
+</details>
 
 <a name="project-smartcards-qxdusb"></a>
 
-### [SmartCards](https://devpost.com/software/smartcards-qxdusb)
+<details>
+<summary>SmartCards</summary>
 
 SmartCards is a user-friendly addon for your budgeting app to help you better categorize your transactions and find investing opportunities from each purchase.
 
@@ -485,11 +585,14 @@ SmartCards is a user-friendly addon for your budgeting app to help you better ca
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Capital One
 - **Devpost checked** 2026-11-21 UTC
-- **Capital One** SmartCards is a user-friendly addon for budgeting apps that helps users better categorize their transactions and discover investing opportunities from each purchase. Devpost gives no specific sponsor integration detail.
+- **Capital One · Capital One** SmartCards is a user-friendly addon for budgeting apps that helps users better categorize their transactions and discover investing opportunities from each purchase.
+
+</details>
 
 <a name="project-snapchat-ar-tower-defense"></a>
 
-### [Snapchat AR Tower Defense](https://devpost.com/software/snapchat-ar-tower-defense)
+<details>
+<summary>Snapchat AR Tower Defense</summary>
 
 AR Game created in Snapchat's Lens Studio 5 using Javascript, Typescript, and Github Copilot that aims to create a tower defense experience inside of someone's surroundings using Snapchat Spectacles.
 
@@ -499,11 +602,14 @@ AR Game created in Snapchat's Lens Studio 5 using Javascript, Typescript, and Gi
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=rfoBo7SyMh4)
 - **All event prizes (1)** Snap AR Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
-- **Snap** Created using Lens Studio 5, using scripts made with Typescript and Javascript .
+- **Snap · Snap AR Dream it. Build it.** Created using Lens Studio 5, using scripts made with Typescript and Javascript .
+
+</details>
 
 <a name="project-tastelatino"></a>
 
-### [TasteLatino](https://devpost.com/software/tastelatino)
+<details>
+<summary>TasteLatino</summary>
 
 Ever wondered what delicious dish you could create with the ingredients you have on hand? TasteLatino uses image recognition tech to identify your ingredients and generate latin recipes in seconds.
 
@@ -513,11 +619,14 @@ Ever wondered what delicious dish you could create with the ingredients you have
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
 - **Devpost checked** 2026-11-21 UTC
-- **Cafe Cultura** The mobile app has multiple features, the main one being a camera that captures a picture of an ingredient and uses a machine learning model to recognize the item. Devpost gives no specific sponsor integration detail.
+- **Cafe Cultura · Cafe Cultura Latine' Heritage Month Digital Divide Challenge** The mobile app has multiple features, the main one being a camera that captures a picture of an ingredient and uses a machine learning model to recognize the item.
+
+</details>
 
 <a name="project-treasure-keepers"></a>
 
-### [Treasure Keepers](https://devpost.com/software/treasure-keepers)
+<details>
+<summary>Treasure Keepers</summary>
 
 The team offer many different ways for people to improve their finances.
 
@@ -527,11 +636,14 @@ The team offer many different ways for people to improve their finances.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Statefarm
 - **Devpost checked** 2026-11-21 UTC
-- **State Farm** The project page provides no specific sponsor integration detail in the indexed fields.
+- **State Farm · Statefarm** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-voiceboard-83vn1e"></a>
 
-### [Voiceboard](https://devpost.com/software/voiceboard-83vn1e)
+<details>
+<summary>Voiceboard</summary>
 
 An accessible white-boarding app to voice your ideas into existence.
 
@@ -541,11 +653,14 @@ An accessible white-boarding app to voice your ideas into existence.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Google
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The project lists gemini among its Built With tags.
+- **Google · Google** The project lists gemini among its Built With tags.
+
+</details>
 
 <a name="project-watchdog-vz03q8"></a>
 
-### [WatchDog](https://devpost.com/software/watchdog-vz03q8)
+<details>
+<summary>WatchDog</summary>
 
 A real time LLM based threat identification application.
 
@@ -555,4 +670,6 @@ A real time LLM based threat identification application.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Auth0
 - **Devpost checked** 2026-11-21 UTC
-- **Auth0** WatchDog is like having your own superhero security guard who never sleeps. Devpost gives no specific sponsor integration detail.
+- **Auth0 · &#91;MLH&#93; Best Use of Auth0** WatchDog is like having your own superhero security guard who never sleeps.
+
+</details>

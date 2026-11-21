@@ -1,10 +1,31 @@
 # Cerebras
 
+**6 projects · 3 editions · 6 prize rows**
+
 [Winners index](../README.md)
 
-6 projects across 3 editions, with 6 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** cerebras (5), javascript (3), python (3)
+- **Common project areas** Accessibility and assistive tools (1)
+- **Common demo formats** Game (1), Mobile app (1), Voice or conversational interface (1)
+- **Projects with a listed demo video** 6 of 6
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [RepoStory](https://devpost.com/software/placeholder-it3zq7) · [code](https://github.com/zjteachen/RepoStory) · [demo](https://www.youtube.com/watch?v=PFAQEJIiuBQ) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Best Use of Cerebras · [details](../by-hackathon/hack-the-north-2025.md#project-placeholder-it3zq7) | Learn about the process of how any GitHub project came to be! Get a timeline of the project construction… | cerebras, fastapi, git |
+| [Sandbox EDU](https://devpost.com/software/sandboxed) · [code](https://github.com/camelCasedAditya/PennApps) · [demo](https://www.youtube.com/watch?v=0yEQR8HrBoE) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) · Cerebus - Best use of Cerebras · [details](../by-hackathon/pennapps-xxvi-2025.md#project-sandboxed) | Learn programming through personalized project-focused AI-guided courses. Designed to help new coders build a… | cerebras, code-server, css |
+| [Terminator](https://devpost.com/software/terminator-g02u6t) · [code](https://github.com/V-prajit/Terminator) · [demo](https://www.youtube.com/watch?v=5CZHU31kQrs) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) · Cerebus - Best use of Cerebras · [details](../by-hackathon/pennapps-xxvi-2025.md#project-terminator-g02u6t) | A mixture of agents expert running on cutting edge inference hardware, that in practise can lead to… | cerebras, express.js, game-engine |
+| [Electra](https://devpost.com/software/advisory-iq) · [code](https://github.com/SahraMohamad/Electra) · [demo](https://www.youtube.com/watch?v=c6X9n7o9Zjk) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Super Fast AI · [details](../by-hackathon/pennapps-xxv-2024.md#project-advisory-iq) | Predict Elections Way Better With LLM Agents. | cerebras, css, d3.js |
+| [muni](https://devpost.com/software/muni-5t9jih) · [demo](https://www.youtube.com/watch?v=uR7UlKGjseE) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Super Fast AI · [details](../by-hackathon/pennapps-xxv-2024.md#project-muni-5t9jih) | The app allows users to have on-demand check-ins with a chatbot. | typescript |
+| [Optica](https://devpost.com/software/optica-gar7hw) · [code](https://github.com/ddiyas/OpticaV2) · [demo](https://www.youtube.com/watch?v=ZD9LP6MjzG8) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Super Fast AI · [details](../by-hackathon/pennapps-xxv-2024.md#project-optica-gar7hw) | A gateway for blind/visually impaired people to experience the world independently through computer vision. | cerebras, android-studio, java |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -12,26 +33,4 @@
 | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) | Cerebus - Best use of Cerebras | Cerebras | [Track label](https://pennapps-xxvi.devpost.com/) |
 | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Super Fast AI | Build a project with Cerebras Inference that leverages the speed of our API. | [Devpost prize description](https://pennapps-xxv.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** cerebras (5), javascript (3), python (3), css (2), html (2), android-studio (1)
-- **Problem areas** Accessibility and assistive tools (1)
-- **Demo types** Game (1), Mobile app (1), Voice or conversational interface (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 6 of 6
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [RepoStory](../by-hackathon/hack-the-north-2025.md#project-placeholder-it3zq7) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Cerebras: Best Use of Cerebras | — | Cerebras was especially important; it was significantly faster than every other model, which let the team provide a seamless timeline streaming interface. | 1 |
-| [Sandbox EDU](../by-hackathon/pennapps-xxvi-2025.md#project-sandboxed) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) | Cerebus - Best use of Cerebras | — | The project lists cerebras among its Built With tags. | 1 |
-| [Terminator](../by-hackathon/pennapps-xxvi-2025.md#project-terminator-g02u6t) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) | Cerebus - Best use of Cerebras | — | The project lists cerebras among its Built With tags. | 1 |
-| [Electra](../by-hackathon/pennapps-xxv-2024.md#project-advisory-iq) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Super Fast AI | — | The project lists cerebras among its Built With tags. | 1 |
-| [muni](../by-hackathon/pennapps-xxv-2024.md#project-muni-5t9jih) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Super Fast AI | — | The team used Cerebras for the chatbot to ensure fast and efficient inference. | 1 |
-| [Optica](../by-hackathon/pennapps-xxv-2024.md#project-optica-gar7hw) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Super Fast AI | — | The project lists cerebras among its Built With tags. | 1 |
+</details>

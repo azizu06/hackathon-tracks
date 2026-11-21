@@ -1,32 +1,31 @@
 # Chainguard
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** chainguard (2), docker (2), python (2)
+- **Common project areas** None listed
+- **Common demo formats** Web app or dashboard (1)
+- **Projects with a listed demo video** 1 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [AI Image Recognition](https://devpost.com/software/ai-image-recognition) · [code](https://github.com/Rodrigo-Munoz-Salas/AI_Image_Recognition) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Wolfi OS Container Security Hackathon · [details](../by-hackathon/shellhacks-2024.md#project-ai-image-recognition) | The team have learned how to build applications based on an initial image. | docker, github, numpy |
+| [Cloud Vault](https://devpost.com/software/cloud-vault) · [code](https://github.com/lain561/CloudVault) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Wolfi OS Container Security Hackathon · [details](../by-hackathon/shellhacks-2024.md#project-cloud-vault) | Cloud Vault is a containerized file uploader using Chainguard Images for secure environments. It secures data… | chainguard, css3, docker |
+| [Lootcode 10](https://devpost.com/software/lootcode-10) · [code](https://github.com/brianush1/leetcode-ai) · [demo](https://www.youtube.com/watch?v=_Cjp8x99bII) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Wolfi OS Container Security Hackathon · [details](../by-hackathon/shellhacks-2024.md#project-lootcode-10) | Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting/Searching, Math, DP, Trees,… | chainguard, svelte, typescript |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | Wolfi OS Container Security Hackathon | No specific requirement captured | [Event prize rules](https://shellhacks2024.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** chainguard (2), docker (2), python (2), css3 (1), flask (1), github (1)
-- **Problem areas** None listed
-- **Demo types** Web app or dashboard (1)
-- **Projects with a listed demo video** 1 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [AI Image Recognition](../by-hackathon/shellhacks-2024.md#project-ai-image-recognition) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | Wolfi OS Container Security Hackathon | — | The team built the project based on the pytorch-dev image from chainguard to develop a secure application free of CVEs. | 1 |
-| [Cloud Vault](../by-hackathon/shellhacks-2024.md#project-cloud-vault) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | Wolfi OS Container Security Hackathon | — | These files are stored in a secure Docker container, using Chainguard's Wolfi OS and SSL certificates with HTTPS to minimize vulnerabilities and increase security during file transmission and storage. | 1 |
-| [Lootcode 10](../by-hackathon/shellhacks-2024.md#project-lootcode-10) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | Wolfi OS Container Security Hackathon | — | The project lists chainguard among its Built With tags. | 1 |
+</details>

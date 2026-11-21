@@ -1,30 +1,29 @@
 # Philips
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** arduino (1), c++ (1), google-cloud (1)
+- **Common project areas** None listed
+- **Common demo formats** Hardware or robotics (1)
+- **Projects with a listed demo video** 0 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Augmented Paper](https://devpost.com/software/augmented-paper) · [code](https://github.com/adityavishwanath/augmented_paper) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Focus based document summarization (Philips) · [details](../by-hackathon/hackmit-2016.md#project-augmented-paper) | Augmenting ordinary paper with new interactive experiences. | arduino, c++, google-cloud |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Focus based document summarization (Philips) | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** arduino (1), c++ (1), google-cloud (1), python (1)
-- **Problem areas** None listed
-- **Demo types** Hardware or robotics (1)
-- **Projects with a listed demo video** 0 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Augmented Paper](../by-hackathon/hackmit-2016.md#project-augmented-paper) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Focus based document summarization (Philips) | — | A user places any piece of paper with text/images on it on the clipboard and they can now work with the text on the paper as if it were hyperlinks. | 1 |
+</details>

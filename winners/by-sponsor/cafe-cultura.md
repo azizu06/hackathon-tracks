@@ -1,32 +1,31 @@
 # Cafe Cultura
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** swift (2), ai (1), coreml (1)
+- **Common project areas** Finance and commerce (1)
+- **Common demo formats** Mobile app (1)
+- **Projects with a listed demo video** 1 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Latinnect](https://devpost.com/software/latinconnect) · [code](https://github.com/hlee18lee46/shellhacks) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Cafe Cultura Latine' Heritage Month Digital Divide Challenge · [details](../by-hackathon/shellhacks-2024.md#project-latinconnect) | Latinnect is a digital marketplace that connects Latine vendors with customers, allowing vendors to easily… | supabase, swift, swiftui |
+| [Mercado](https://devpost.com/software/mercado) · [demo](https://www.youtube.com/watch?v=bONR9Nu1-Cw) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Cafe Cultura Latine' Heritage Month Digital Divide Challenge · [details](../by-hackathon/shellhacks-2024.md#project-mercado) | "Empowering Latino Businesses, One Investment at a Time.". | ai, firebase, python |
+| [TasteLatino](https://devpost.com/software/tastelatino) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Cafe Cultura Latine' Heritage Month Digital Divide Challenge · [details](../by-hackathon/shellhacks-2024.md#project-tastelatino) | Ever wondered what delicious dish you could create with the ingredients you have on hand? TasteLatino uses… | coreml, openai, swift |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | Cafe Cultura Latine' Heritage Month Digital Divide Challenge | No specific requirement captured | [Event prize rules](https://shellhacks2024.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** swift (2), ai (1), coreml (1), firebase (1), openai (1), python (1)
-- **Problem areas** Finance and commerce (1)
-- **Demo types** Mobile app (1)
-- **Projects with a listed demo video** 1 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Latinnect](../by-hackathon/shellhacks-2024.md#project-latinconnect) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | Cafe Cultura Latine' Heritage Month Digital Divide Challenge | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Mercado](../by-hackathon/shellhacks-2024.md#project-mercado) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | Cafe Cultura Latine' Heritage Month Digital Divide Challenge | — | Mercado is a micro-investment platform that allows users to browse and invest in Latino-owned small businesses. | 1 |
-| [TasteLatino](../by-hackathon/shellhacks-2024.md#project-tastelatino) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | Cafe Cultura Latine' Heritage Month Digital Divide Challenge | — | The mobile app has multiple features, the main one being a camera that captures a picture of an ingredient and uses a machine learning model to recognize the item. | 1 |
+</details>

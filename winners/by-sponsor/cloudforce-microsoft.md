@@ -1,38 +1,35 @@
 # Cloudforce / Microsoft
 
+**6 projects · 2 editions · 6 prize rows**
+
 [Winners index](../README.md)
 
-6 projects across 2 editions, with 6 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** react (4), terpai (4), python (3)
+- **Common project areas** Climate and environment (1), Education and learning (1), Health and care (1)
+- **Common demo formats** Web app or dashboard (2), Mobile app (1)
+- **Projects with a listed demo video** 5 of 6
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Aether](https://devpost.com/software/aether-d4v6sb) · [code](https://github.com/purabshah12/bitcamp2026) · [demo](https://www.youtube.com/watch?v=eRcqv4_pCCQ) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft · [details](../by-hackathon/bitcamp-2026.md#project-aether-d4v6sb) | The autonomous command center for your academic life. | css, elevenlabs-tts, fastapi |
+| [EcoBuddy](https://devpost.com/software/ecobuddy-i4dyre) · [code](https://github.com/KaushalGorla/eco-buddy-voice) · [demo](https://www.youtube.com/watch?v=r4HnScF_29w) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft · [details](../by-hackathon/bitcamp-2026.md#project-ecobuddy-i4dyre) | EcoBuddy gamifies sustainability—track your actions, level up your buddy, and earn real rewards for making… | api, idempotent-pipelines, languages:-javascript |
+| [TerpWallet AI](https://devpost.com/software/terpwallet-ai) · [code](https://github.com/rishikathakre/terpwallet-ai) · [demo](https://www.youtube.com/watch?v=vD4VIui3jSs) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft · [details](../by-hackathon/bitcamp-2026.md#project-terpwallet-ai) | An AI safety net for UMD students. TerpWallet watches your bank account and connects you to free campus… | auth0, azure, capital-one-nessie-api |
+| [MedSave](https://devpost.com/software/medsave) · [code](https://github.com/arsh-goenka/MedSave) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Use of GenAI in Business - Cloudforce/Microsoft · [details](../by-hackathon/bitcamp-2025.md#project-medsave) | Fighting Drug Waste, Fueling Health Equity. | css, flask, googleauth |
+| [Roameo](https://devpost.com/software/roameo-dtrzau) · [code](https://github.com/Vitthal-Agarwal/travel) · [demo](https://www.youtube.com/watch?v=dqq1xoLwDOY) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Use of GenAI in Business - Cloudforce/Microsoft · [details](../by-hackathon/bitcamp-2025.md#project-roameo-dtrzau) | Complex API management and integration, especially in dynamic, real-time scenarios. | browser-use, elevenlabs, flask |
+| [SkinForReal](https://devpost.com/software/skinforreal) · [demo](https://www.youtube.com/watch?v=hbxiwaTTwiw) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Use of GenAI in Business - Cloudforce/Microsoft · [details](../by-hackathon/bitcamp-2025.md#project-skinforreal) | SkinForReal is a GenAI skincare app that uses daily selfies to detect skin issues, track product impact, and… | azure, cloudforce, faceai |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft | No specific requirement captured | [Event prize rules](https://bitcamp-2026.devpost.com/) |
 | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) | Best Use of GenAI in Business - Cloudforce/Microsoft | GenAI in Business - Cloudforce/Microsoft | [Track label](https://bitcamp2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** react (4), terpai (4), python (3), azure (2), cloudforce (2), css (2)
-- **Problem areas** Climate and environment (1), Education and learning (1), Health and care (1), Safety and emergency response (1)
-- **Demo types** Web app or dashboard (2), Mobile app (1)
-- **Projects with a listed demo video** 5 of 6
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Aether](../by-hackathon/bitcamp-2026.md#project-aether-d4v6sb) | Bitcamp 2026 | 1 | 2 | Cloudforce / Microsoft |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Aether](../by-hackathon/bitcamp-2026.md#project-aether-d4v6sb) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft | — | Aether is an intelligent command center designed to turn academic chaos into autonomous clarity:. | 2 |
-| [EcoBuddy](../by-hackathon/bitcamp-2026.md#project-ecobuddy-i4dyre) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft | — | EcoBuddy is an AI-powered sustainability companion that:. | 1 |
-| [TerpWallet AI](../by-hackathon/bitcamp-2026.md#project-terpwallet-ai) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft | — | TerpWallet AI connects to a UMD student's bank account and monitors their financial health continuously. | 1 |
-| [MedSave](../by-hackathon/bitcamp-2025.md#project-medsave) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) | Best Use of GenAI in Business - Cloudforce/Microsoft | — | MedSave bridges the gap between surplus medications and communities in need. | 1 |
-| [Roameo](../by-hackathon/bitcamp-2025.md#project-roameo-dtrzau) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) | Best Use of GenAI in Business - Cloudforce/Microsoft | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [SkinForReal](../by-hackathon/bitcamp-2025.md#project-skinforreal) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) | Best Use of GenAI in Business - Cloudforce/Microsoft | — | SkinForReal analyzes your skin using a daily post-wash selfie and delivers real-time, personalized feedback on your skin’s condition — powered by TerpAI and Microsoft Azure Face API. | 1 |
+</details>

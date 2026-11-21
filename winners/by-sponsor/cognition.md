@@ -1,10 +1,35 @@
 # Cognition
 
+**10 projects · 3 editions · 10 prize rows**
+
 [Winners index](../README.md)
 
-10 projects across 3 editions, with 10 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (8), typescript (7), devin (5)
+- **Common project areas** Developer tools (2)
+- **Common demo formats** Web app or dashboard (5)
+- **Projects with a listed demo video** 10 of 10
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [AlphaResearch](https://devpost.com/software/alpharesearch-9fwk4m) · [code](https://github.com/JasonLai150/AlphaResearch) · [demo](https://www.youtube.com/watch?v=LcH4rdKbF6Y) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of Cognition · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-alpharesearch-9fwk4m) | Recursive Sandboxed Agents for Autonomous Research at Scale. | anthropic, browserbase, fastapi |
+| [BrowserDelta](https://devpost.com/software/browserdelta) · [code](https://github.com/jaykbpark/browser-use-compaction-co) · [demo](https://www.youtube.com/watch?v=rEbSwp6_rc8) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of Cognition · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-browserdelta) | BrowserDelta cuts browser-agent context by &#126;78% while matching the vision-full-state baseline on 12/12 next-… | arize, browserbase, browsergym |
+| [Refactorika](https://devpost.com/software/refactorika) · [code](https://github.com/Tanush-A/Refactorika) · [demo](https://www.youtube.com/watch?v=uu6amcmRtzg) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of Cognition · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-refactorika) | Agentic harness for efficient codebase refactoring. | claude, devin, python |
+| [Gods Plan](https://devpost.com/software/shift-t15x3m) · [code](https://github.com/ManagementMO/shift) · [demo](https://www.youtube.com/watch?v=BNam7MmXBsM) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Devin · [details](../by-hackathon/hack-the-north-2026.md#project-shift-t15x3m) | A 3D god-mode sandbox for real cities, where physics and thousands of AI agents let you break, rebuild and… | babylon.js, cloudflarer2, elasticsearch |
+| [ACG](https://devpost.com/software/acg) · [demo](https://www.youtube.com/watch?v=eoTO5TZJbNQ) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Cognition Company Challenge · [details](../by-hackathon/la-hacks-2026.md#project-acg) | ACG helps AI coding agents work in parallel without stepping on each other. | html, python, typescript |
+| [Autopsy](https://devpost.com/software/autopsy-zq5d84) · [code](https://github.com/balebbae/Autopsy) · [demo](https://www.youtube.com/watch?v=2bgq8hvJ32s) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Cognition Company Challenge · [details](../by-hackathon/la-hacks-2026.md#project-autopsy-zq5d84) | Autopsy records every action your AI coding agent takes, autopsies the failures, builds a graph of why they… | claude, cloudflare, codex |
+| [codebreaker](https://devpost.com/software/codebreaker-la) · [code](https://github.com/KevinWu098/codebreaker) · [demo](https://www.youtube.com/watch?v=CIyWH6rkN9c) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Cognition Company Challenge · [details](../by-hackathon/la-hacks-2026.md#project-codebreaker-la) | AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent intelligence, powered by an open… | cloudflare, devin, github |
+| [Litho](https://devpost.com/software/ai-rtl-agent) · [code](https://github.com/rtsmc/lahacks2026) · [demo](https://www.youtube.com/watch?v=R-_vN2aiRW4) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Cognition Company Challenge · [details](../by-hackathon/la-hacks-2026.md#project-ai-rtl-agent) | Ai Agent that designs computer chips in VSCode. | python, typescript, verilator |
+| [Lore IDE - The First IDE for Agentic Code](https://devpost.com/software/lore-ide-the-first-ide-for-agentic-code) · [demo](https://www.youtube.com/watch?v=8-gmVsRSW2c) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Cognition Company Challenge · [details](../by-hackathon/la-hacks-2026.md#project-lore-ide-the-first-ide-for-agentic-code) | GitHub stores your code. Lore stores your reasons. | anthropic, claude, deepseek |
+| [MultiEval](https://devpost.com/software/multival) · [code](https://github.com/AlfredSjoqvist/multieval) · [demo](https://www.youtube.com/watch?v=__OU7Ftl4EM) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Cognition Company Challenge · [details](../by-hackathon/la-hacks-2026.md#project-multival) | An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces. | agentverse, anthropic, asi:one |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -12,34 +37,4 @@
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Cognition: Best Use of Devin | Devin | [Track label](https://hackthenorth2026.devpost.com/) |
 | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Cognition Company Challenge | No specific requirement captured | [Event prize rules](https://la-hacks-2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (8), typescript (7), devin (5), claude (4), fastapi (4), react (4)
-- **Problem areas** Developer tools (2)
-- **Demo types** Web app or dashboard (5)
-- **Projects with a listed demo video** 10 of 10
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [MultiEval](../by-hackathon/la-hacks-2026.md#project-multival) | LA Hacks 2026 | 2 | 2 | Cognition, Fetch.ai |
-| [Autopsy](../by-hackathon/la-hacks-2026.md#project-autopsy-zq5d84) | LA Hacks 2026 | 1 | 2 | Cognition |
-| [codebreaker](../by-hackathon/la-hacks-2026.md#project-codebreaker-la) | LA Hacks 2026 | 1 | 2 | Cognition |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [AlphaResearch](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-alpharesearch-9fwk4m) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Cognition | — | The team use agent harnesses and sandbox environments (w/ root level access) to run research experiments in parallel in a systematic way. | 1 |
-| [BrowserDelta](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-browserdelta) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Cognition | — | BrowserDelta is an intermediate layer between BrowserBase / Playwright and your agent. | 1 |
-| [Refactorika](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-refactorika) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Cognition | — | Refactorika is an agent harness delivered as an MCP server, riding on a deterministic, graph-driven refactoring engine. | 1 |
-| [Gods Plan](../by-hackathon/hack-the-north-2026.md#project-shift-t15x3m) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Cognition: Best Use of Devin | — | The team used Cognition Devin to help review the codebase, deploy the frontend to Vercel, configure single-page application routing, connect the custom domain, and verify DNS. | 1 |
-| [ACG](../by-hackathon/la-hacks-2026.md#project-acg) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Cognition Company Challenge | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Autopsy](../by-hackathon/la-hacks-2026.md#project-autopsy-zq5d84) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Cognition Company Challenge | — | Autopsy is a diagnostic and prevention layer for AI coding agents. | 2 |
-| [codebreaker](../by-hackathon/la-hacks-2026.md#project-codebreaker-la) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Cognition Company Challenge | — | Codebreaker is an end-to-end cybersecurity platform that pushes the frontier of what AI agents can do in security workflows. | 2 |
-| [Litho](../by-hackathon/la-hacks-2026.md#project-ai-rtl-agent) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Cognition Company Challenge | — | The team built an AI assistant that designs computer chips, packaged directly into a seamless plugin for VSCode. | 1 |
-| [Lore IDE - The First IDE for Agentic Code](../by-hackathon/la-hacks-2026.md#project-lore-ide-the-first-ide-for-agentic-code) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Cognition Company Challenge | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [MultiEval](../by-hackathon/la-hacks-2026.md#project-multival) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Cognition Company Challenge | — | MultiEval is an end-to-end platform for measuring, comparing, debugging, and autonomously evolving multi-agent orchestration patterns. | 2 |
+</details>

@@ -1,32 +1,29 @@
 # Zoom / Render
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** elevenlabs (1), grok (1), heygen (1)
+- **Common project areas** None listed
+- **Common demo formats** CLI or developer tool (1)
+- **Projects with a listed demo video** 1 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [jiggle wiggle](https://devpost.com/software/jiggle-wiggle) · [code](https://github.com/cindyzli/jigglewiggle) · [demo](https://www.youtube.com/watch?v=kL3udtWY1EE) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · &#91;Zoom x Render&#93; Best use of Zoom APIs + Render: (Bose Headphones x 4 Zoom Ocean Bottle x… · [details](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle) | Jiggle Wiggle is a real-time AI movement coach that works with three input modes:. | elevenlabs, grok, heygen |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Zoom x Render&#93; Best use of Zoom APIs + Render: (Bose Headphones x 4 Zoom Ocean Bottle x 4$2000 Render Credits) | Zoom APIs + Render: | [Track label](https://treehacks-2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** elevenlabs (1), grok (1), heygen (1), mediapipe (1), openai (1), perplexity (1)
-- **Problem areas** None listed
-- **Demo types** CLI or developer tool (1)
-- **Projects with a listed demo video** 1 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [jiggle wiggle](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle) | TreeHacks 2026 | 2 | 2 | Modal, Zoom / Render |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [jiggle wiggle](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Zoom x Render&#93; Best use of Zoom APIs + Render: (Bose Headphones x 4 Zoom Ocean Bottle x 4$2000 Render Credits) | Bose Headphones x 4 Zoom Ocean Bottle x 4$2000 Render Credits | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
+</details>

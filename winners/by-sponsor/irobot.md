@@ -1,33 +1,30 @@
 # iRobot
 
+**2 projects · 1 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 1 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (2), azure (1), facebook-live-api (1)
+- **Common project areas** None listed
+- **Common demo formats** Hardware or robotics (2)
+- **Projects with a listed demo video** 0 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Cueball's New Pet](https://devpost.com/software/cueball-s-new-pet) · [code](https://github.com/dratini0/Roomba4E) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack · [details](../by-hackathon/hackmit-2017.md#project-cueball-s-new-pet) | A roomba uses machine learning and a raspberry pi with a pi camera to search for objects. | irobot-create, azure, json |
+| [PlotRoomba](https://devpost.com/software/plotroomba) · [code](https://github.com/cyanophycean314-zz/plot_roomba) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack · [details](../by-hackathon/hackmit-2017.md#project-plotroomba) | Use your favorite cleaning robot to transform the floor into a canvas for Mathematica plots. | irobot-create2, facebook-live-api, python |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (2), azure (1), facebook-live-api (1), irobot-create (1), irobot-create2 (1), json (1)
-- **Problem areas** None listed
-- **Demo types** Hardware or robotics (2)
-- **Projects with a listed demo video** 0 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [PlotRoomba](../by-hackathon/hackmit-2017.md#project-plotroomba) | HackMIT 2017 | 2 | 3 | iRobot, Wolfram |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Cueball's New Pet](../by-hackathon/hackmit-2017.md#project-cueball-s-new-pet) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack | — | The project lists irobot-create among its Built With tags. | 1 |
-| [PlotRoomba](../by-hackathon/hackmit-2017.md#project-plotroomba) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack | — | The project lists irobot-create2 among its Built With tags. | 3 |
+</details>

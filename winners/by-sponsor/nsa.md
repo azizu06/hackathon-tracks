@@ -1,10 +1,28 @@
 # NSA
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (3), librosa (2), numpy (2)
+- **Common project areas** Security and privacy (1)
+- **Common demo formats** Voice or conversational interface (1)
+- **Projects with a listed demo video** 1 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Athena](https://devpost.com/software/callguard) · [code](https://github.com/danmano411/hearsay) · [demo](https://www.youtube.com/watch?v=FCmJMZv8baE) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · Hearsay: The Audio Authentication Challenge - 2nd Place · [details](../by-hackathon/hackgt-13-2026.md#project-callguard) | Athena is an AI call-security engine that dynamically protects your calls in 3 ways: it detects AI voices,… | backboard, fastapi, gemini |
+| [hearsay&#95;hgt13](https://devpost.com/software/hearsay_hgt13) · [code](https://github.com/malachiwang/hearsay_hgt13) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · Hearsay: The Audio Authentication Challenge - 3rd Place · [details](../by-hackathon/hackgt-13-2026.md#project-hearsay_hgt13) | Catching synthetic speech before it fools you. | bash, huggingface-transformer, librosa |
+| [SideQuests-HearsaySubmission](https://devpost.com/software/sidequests-hearsaysubmission) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · Hearsay: The Audio Authentication Challenge - 1st Place · [details](../by-hackathon/hackgt-13-2026.md#project-sidequests-hearsaysubmission) | The team describes the project as “------”. | ai, ml, python |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -12,23 +30,4 @@
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | NSA: Hearsay: The Audio Authentication Challenge - 2nd Place | No specific requirement captured | [Event prize rules](https://hackgt13.devpost.com/) |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | NSA: Hearsay: The Audio Authentication Challenge - 3rd Place | No specific requirement captured | [Event prize rules](https://hackgt13.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (3), librosa (2), numpy (2), pytorch (2), ai (1), backboard (1)
-- **Problem areas** Security and privacy (1)
-- **Demo types** Voice or conversational interface (1)
-- **Projects with a listed demo video** 1 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Athena](../by-hackathon/hackgt-13-2026.md#project-callguard) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | NSA: Hearsay: The Audio Authentication Challenge - 2nd Place | — | Athena is a desktop agent that sits between you and Google Meet. | 1 |
-| [hearsay_hgt13](../by-hackathon/hackgt-13-2026.md#project-hearsay_hgt13) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | NSA: Hearsay: The Audio Authentication Challenge - 3rd Place | — | HEARSAY classifies audio files as genuine human speech or AI-generated/synthetic speech. | 1 |
-| [SideQuests-HearsaySubmission](../by-hackathon/hackgt-13-2026.md#project-sidequests-hearsaysubmission) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | NSA: Hearsay: The Audio Authentication Challenge - 1st Place | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

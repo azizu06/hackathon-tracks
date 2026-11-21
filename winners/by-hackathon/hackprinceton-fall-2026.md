@@ -1,50 +1,60 @@
 # HackPrinceton Fall 2026
 
-[Devpost gallery](https://hackprinceton-fall-26.devpost.com/project-gallery) · [Official prize rules](https://hackprinceton-fall-26.devpost.com/) · [Winners index](../README.md)
+**26 projects · 15 sponsors · 31 prize rows**
 
-26 projects and 31 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://hackprinceton-fall-26.devpost.com/project-gallery) · [Official prize rules](https://hackprinceton-fall-26.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** python (20), typescript (15), langchain (13)
+- **Common project areas** Health and care (3), Accessibility and assistive tools (1), Developer tools (1)
+- **Common demo formats** Web app or dashboard (9), Hardware or robotics (7), Voice or conversational interface (3)
+- **Projects with a listed demo video** 25 of 26
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [A hand for my aunt](#project-a-hand-for-my-aunt) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) | &#91;Amazon&#93; Best Practical AI Innovation | — | The project lists amazon-bedrock among its Built With tags. | 1 |
-| [Lucid](#project-lucid-k078qt) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) | &#91;Amazon&#93; Best Practical AI Innovation | — | The project page provides no specific sponsor integration detail in the indexed fields. | 4 |
-| [Meridies](#project-meridies) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) | &#91;Amazon&#93; Best Practical AI Innovation | — | Meridies is a wearable hat with four parts, all controlled by voice through Meri , the AI assistant ("Hi Meri"):. | 2 |
-| [Vantage](#project-vantage-w0poi6) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) | &#91;Amazon&#93; Best Practical AI Innovation | — | Vantage turns any event into an interactive documentary: history, current events, science, sports, anything that happened to real people. | 1 |
-| [MapleTrace](#project-mapletrace) | [Arlequin AI](../by-sponsor/arlequin-ai.md) | &#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI | — | MapleTrace takes a ZIP of case evidence and produces an interactive investigation board:. | 1 |
-| [Tangents](#project-tangents-6xezla) | [Arlequin AI](../by-sponsor/arlequin-ai.md) | &#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns | — | Tangents is the conception of what media and entertainment can look like in the AI era. | 1 |
-| [Play It First](#project-hackprinceton26) | [Capital One](../by-sponsor/capital-one.md) | &#91;Capital One&#93; Best Usage of Nessie | — | Financial integration: Nessie V2 connects the authoritative game ledger to sandbox accounts, deposits, merchant purchases, bills, and read-only reconciliation. | 1 |
-| [Agni](#project-fireflop) | [ChatOverflow](../by-sponsor/chatoverflow.md) | &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard | — | The solution uses Matterport and Costar data to find the layout and materials of a house. | 1 |
-| [FarCare](#project-winners-u6keqj) | [ChatOverflow](../by-sponsor/chatoverflow.md) | &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [FlameScout](#project-flamescout) | [ChatOverflow](../by-sponsor/chatoverflow.md) | &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard | — | FlameScout turns live fire-dispatch calls into a building-specific advisory brief on the crew's tablet before arrival. | 2 |
-| [ReWire](#project-high-wire) | [ChatOverflow](../by-sponsor/chatoverflow.md) | &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard | — | Rewire is an operator co-pilot for the real Los Angeles grid (829 power lines, 66 kV and up). | 1 |
-| [asclepieion](#project-asclepieion) | [CoStar Group](../by-sponsor/costar-group.md) | &#91;CoStar Group&#93; Inside and Out: AI for the Built World | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Siteline](#project-siteline-vus4jl) | [CoStar Group](../by-sponsor/costar-group.md) | &#91;CoStar Group&#93; Inside and Out: AI for the Built World | — | It figures out what matters for your practice. | 1 |
-| [Stagehand](#project-stagehand-241isj) | [CoStar Group](../by-sponsor/costar-group.md) | &#91;CoStar Group&#93; Inside and Out: AI for the Built World | — | Pick a scanned room and press play. | 1 |
-| [One in Three](#project-one-in-three) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | &#91;MLH&#93; Best Domain Name from GoDaddy Registry | — | The project lists godaddy among its Built With tags. | 1 |
-| [Meridies](#project-meridies) | [Google](../by-sponsor/google.md) | &#91;MLH&#93; Best Use of Gemini API | — | The project lists gemini among its Built With tags. | 2 |
-| [Lincoln](#project-bouy-7tofbl) | [Justin Bojarski](../by-sponsor/justin-bojarski.md) | &#91;Justin Bojarski&#93; Best Physical AI Hack | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Lucid](#project-lucid-k078qt) | [Justin Bojarski](../by-sponsor/justin-bojarski.md) | &#91;Justin Bojarski&#93; Best Physical AI Hack | — | The project page provides no specific sponsor integration detail in the indexed fields. | 4 |
-| [Project Xavier](#project-project-xavier-tbd) | [Justin Bojarski](../by-sponsor/justin-bojarski.md) | &#91;Justin Bojarski&#93; Best Physical AI Hack | — | The project allows those who cannot use their hands to navigate using only their eyes. | 2 |
-| [Lucid](#project-lucid-k078qt) | [LangChain](../by-sponsor/langchain.md) | &#91;LangChain&#93; Best use of deepagents | — | The project lists langchain among its Built With tags. | 4 |
-| [GeoStar](#project-geostar-5engd7) | [MongoDB](../by-sponsor/mongodb.md) | &#91;MLH&#93; Best Use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [Boomer](#project-boomer) | [Peri](../by-sponsor/peri.md) | &#91;Peri&#93; Forward Deployed Engineer | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Mise](#project-mise-3kjnqz) | [Peri](../by-sponsor/peri.md) | &#91;Peri&#93; Forward Deployed Engineer | — | Mise is a tool box for FDE’s to integrate, build, and transform business problems in hours versus what would normally be weeks. | 1 |
-| [Restock](#project-restock-v3pkq8) | [Peri](../by-sponsor/peri.md) | &#91;Peri&#93; Forward Deployed Engineer | — | Every time a hand reaches in, Restock cuts a short clip and a vision model (Liquid d1) says what was taken and how many. | 2 |
-| [LifeLine](#project-lifeline-forswd) | [Photon](../by-sponsor/photon.md) | &#91;Photon&#93; Best Voice Agent | — | The project lists photon among its Built With tags. | 1 |
-| [Restock](#project-restock-v3pkq8) | [Photon](../by-sponsor/photon.md) | &#91;Photon&#93; Build a Messaging Agent using Photon 2.0 | — | The project lists photon among its Built With tags. | 2 |
-| [Syllabus Crew](#project-syllabus-crew) | [Photon](../by-sponsor/photon.md) | &#91;Photon&#93; Build a Messaging Agent using Photon 2.0 | — | The project lists photon among its Built With tags. | 1 |
-| [KinFold](#project-kinfold) | [Solana](../by-sponsor/solana.md) | &#91;MLH&#93; Best Use of Solana | — | Gemini, LangChain, MongoDB and Solana all working in one weekend, and the demo still runs offline. | 1 |
-| [Rewind](#project-rewind-7ir2hn) | [SpaceXSI](../by-sponsor/spacexsi.md) | &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI | — | Rewind puts you inside a moment from a video, using just your phone and a Google Cardboard viewer. | 1 |
-| [Clarity](#project-clarity-d7smby) | [Tiger Data](../by-sponsor/tiger-data.md) | &#91;MLH&#93; Best Use of Tiger Data | — | The backend evaluates measurements against configured thresholds, tracks filter life using manufacturer-specific guidelines, and manages historical water quality data through Tiger Data. | 1 |
-| [FlameScout](#project-flamescout) | [Vultr](../by-sponsor/vultr.md) | &#91;MLH&#93; Best Use of Vultr | — | The project lists vultr among its Built With tags. | 2 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [A hand for my aunt](https://devpost.com/software/a-hand-for-my-aunt) · [code](https://github.com/aditya-baniya-ai/hack_princeton) · [demo](https://www.youtube.com/watch?v=nPXe5ZIrOiY) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) · &#91;Amazon&#93; Best Practical AI Innovation · [details](#project-a-hand-for-my-aunt) | Ahandformyaunt is a robot arm you control with your eyes and your voice:. | amazon-bedrock, amazon-nova-2-lite, amazon-nova-2-sonic |
+| [Lucid](https://devpost.com/software/lucid-k078qt) · [code](https://github.com/at350/hackprinceton-fall-2026) · [demo](https://www.youtube.com/watch?v=IY0Rr7l58Eg) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) · &#91;Amazon&#93; Best Practical AI Innovation · [details](#project-lucid-k078qt) | Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a… | anthropic, arduino, claude |
+| [Meridies](https://devpost.com/software/meridies) · [code](https://github.com/Aliceeia/Meridies) · [demo](https://www.youtube.com/watch?v=eoBT5CGjsPA) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) · &#91;Amazon&#93; Best Practical AI Innovation · [details](#project-meridies) | A wearable combines spoken assistance with spatial audio to help people with vision loss navigate. | api, costar, css |
+| [Vantage](https://devpost.com/software/vantage-w0poi6) · [code](https://github.com/riavadhavkar/vantage) · [demo](https://www.youtube.com/watch?v=Atkd0YpaIMc) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) · &#91;Amazon&#93; Best Practical AI Innovation · [details](#project-vantage-w0poi6) | Step inside the past, see it through every view, with every line sourced and true. | chromadb, cloudflare, deepagents |
+| [MapleTrace](https://devpost.com/software/mapletrace) · [code](https://github.com/meizuflux/hackprinceton-f26) · [demo](https://www.youtube.com/watch?v=OyYZ1CdiKOg) | [Arlequin AI](../by-sponsor/arlequin-ai.md) · AI-Driven Forensics — by Arlequin AI · [details](#project-mapletrace) | MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case evidence, flags contradictions, and… | ai, claude, fastapi |
+| [Tangents](https://devpost.com/software/tangents-6xezla) · [demo](https://www.youtube.com/watch?v=FgR3QLEW5Kc) | [Arlequin AI](../by-sponsor/arlequin-ai.md) · Social Media Analysis: Combining Content &amp; Connectivity Patterns · [details](#project-tangents-6xezla) | A satirical social media simulator and world builder. | agents, claude, multi-agent |
+| [Play It First](https://devpost.com/software/hackprinceton26) · [code](https://github.com/farhanmir/playitfirst) · [demo](https://www.youtube.com/watch?v=xamUK8so4zI) | [Capital One](../by-sponsor/capital-one.md) · Best Usage of Nessie · [details](#project-hackprinceton26) | A simulator lets prospective business owners test how they could operate in an actual commercial space. | nessie-api, anthropic-claude, costar |
+| [Agni](https://devpost.com/software/fireflop) · [code](https://github.com/tanaydonde/agni) · [demo](https://www.youtube.com/watch?v=rfisjmBsxcM) | [ChatOverflow](../by-sponsor/chatoverflow.md) · The ChatOverflow Agent Leaderboard · [details](#project-fireflop) | Fight the fire before you get there. | glsl, rust, three.js |
+| [FarCare](https://devpost.com/software/winners-u6keqj) · [demo](https://www.youtube.com/watch?v=d90HW1Gm-HY) | [ChatOverflow](../by-sponsor/chatoverflow.md) · The ChatOverflow Agent Leaderboard · [details](#project-winners-u6keqj) | FarCare connects three roles around one parent. | bleak, bluetooth, corebluetooth |
+| [FlameScout](https://devpost.com/software/flamescout) · [code](https://github.com/param-mans/FlameScout) · [demo](https://www.youtube.com/watch?v=LlK6Ls93_Ys) | [ChatOverflow](../by-sponsor/chatoverflow.md) · The ChatOverflow Agent Leaderboard · [details](#project-flamescout) | A dashboard supplies incident information to fire dispatchers. | caddy, costar, docker |
+| [ReWire](https://devpost.com/software/high-wire) · [demo](https://www.youtube.com/watch?v=QIxE59QN_GA) | [ChatOverflow](../by-sponsor/chatoverflow.md) · The ChatOverflow Agent Leaderboard · [details](#project-high-wire) | An interface powered by deep AI agents to help operators manage electrical grids during crisis. | census, costar, css |
+| [asclepieion](https://devpost.com/software/asclepieion) · [code](https://github.com/alisx255/asclepieion-public) · [demo](https://www.youtube.com/watch?v=llLSV0W6s7c) | [CoStar Group](../by-sponsor/costar-group.md) · Inside and Out: AI for the Built World · [details](#project-asclepieion) | Every census tract is shaded by a need score built from HRSA shortage designations and CDC PLACES health data. | anthropic, cdc-open-data, costar |
+| [Siteline](https://devpost.com/software/siteline-vus4jl) · [code](https://github.com/archit2901/siteline) · [demo](https://www.youtube.com/watch?v=uoMErki4yTk) | [CoStar Group](../by-sponsor/costar-group.md) · Inside and Out: AI for the Built World · [details](#project-siteline-vus4jl) | Siteline tells clinics where to open. It learns what drives each practice, pulls the public data that… | agents, amazon-bedrock, amazon-nova |
+| [Stagehand](https://devpost.com/software/stagehand-241isj) · [code](https://github.com/sofiagrimm/hackprinceton) · [demo](https://vimeo.com/1246959819) | [CoStar Group](../by-sponsor/costar-group.md) · Inside and Out: AI for the Built World · [details](#project-stagehand-241isj) | Find your space with Stagehand! For creatives wanting to visualize before booking. | capital-one-nessie, costar, deepagents |
+| [One in Three](https://devpost.com/software/one-in-three) · [code](https://github.com/limjiayi21/oneinthree) · [demo](https://www.youtube.com/watch?v=dFNiASxPbck) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) · Best Domain Name from GoDaddy Registry · [details](#project-one-in-three) | One in Three is an interactive and fully immersive AI simulation that puts men in a woman’s shoes to raise… | godaddy, cloudflare, cloudflare-d1 |
+| [Meridies](https://devpost.com/software/meridies) · [code](https://github.com/Aliceeia/Meridies) · [demo](https://www.youtube.com/watch?v=eoBT5CGjsPA) | [Google](../by-sponsor/google.md) · Best Use of Gemini API · [details](#project-meridies) | A wearable combines spoken assistance with spatial audio to help people with vision loss navigate. | gemini, api, costar |
+| [Lucid](https://devpost.com/software/lucid-k078qt) · [code](https://github.com/at350/hackprinceton-fall-2026) · [demo](https://www.youtube.com/watch?v=IY0Rr7l58Eg) | [LangChain](../by-sponsor/langchain.md) · Best use of deepagents · [details](#project-lucid-k078qt) | Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a… | langchain, anthropic, arduino |
+| [GeoStar](https://devpost.com/software/geostar-5engd7) · [code](https://github.com/sudarshan-krishnan/GeoStar_PtonHacks_2026) · [demo](https://www.youtube.com/watch?v=0TEguSxAemc) | [MongoDB](../by-sponsor/mongodb.md) · Best Use of MongoDB Atlas · [details](#project-geostar-5engd7) | A property planning tool helps developers evaluate sites and visualize them in 3D. | mongodb, chatoverflow, costar |
+| [Lincoln](https://devpost.com/software/bouy-7tofbl) · [code](https://github.com/3arii/hackprinceton-2026) · [demo](https://www.youtube.com/watch?v=Q-0arEQO5fQ) | [Other](../by-sponsor/other.md) · Best Physical AI Hack · [details](#project-bouy-7tofbl) | Solar powered buoys that track water quality 200x cheaper than the next closest instrument. | 3d-printing, amazon-dynamodb, amazon-web-services |
+| [Lucid](https://devpost.com/software/lucid-k078qt) · [code](https://github.com/at350/hackprinceton-fall-2026) · [demo](https://www.youtube.com/watch?v=IY0Rr7l58Eg) | [Other](../by-sponsor/other.md) · Best Physical AI Hack · [details](#project-lucid-k078qt) | Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a… | anthropic, arduino, claude |
+| [Project Xavier](https://devpost.com/software/project-xavier-tbd) · [code](https://github.com/RoboDurden/Hoverboard-Firmware-Hack-Gen2.x) · [demo](https://www.youtube.com/watch?v=bIt_TQ2hsBU) | [Other](../by-sponsor/other.md) · Best Physical AI Hack · [details](#project-project-xavier-tbd) | Using brain activity to make the world more accessible to those with mobility disorders. | arduino, brainflow, bytetrack |
+| [Boomer](https://devpost.com/software/boomer) · [code](https://github.com/Svanik-Palvai/Boomer) · [demo](https://www.youtube.com/watch?v=dKs6uc-Ands) | [Peri](../by-sponsor/peri.md) · Forward Deployed Engineer · [details](#project-boomer) | Boomer helps electricians throughout an entire job, from understanding the task and navigating local… | 3d-printing, computer-vision, elevenlabs |
+| [Mise](https://devpost.com/software/mise-3kjnqz) · [demo](https://www.youtube.com/watch?v=v2oRRCjdOkc) | [Peri](../by-sponsor/peri.md) · Forward Deployed Engineer · [details](#project-mise-3kjnqz) | Lightweight, AI-powered tools built for forward-deployed engineers to adapt and deploy quickly. | anthropic-api, claude, claude-code |
+| [Restock](https://devpost.com/software/restock-v3pkq8) · [code](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton) · [demo](https://www.youtube.com/watch?v=tsmOwUs_G00) | [Peri](../by-sponsor/peri.md) · Forward Deployed Engineer · [details](#project-restock-v3pkq8) | A camera watches the ingredients, AI counts every item taken, and texts the owner to reorder before anything… | arduino-uno-q, d1, deepagents |
+| [LifeLine](https://devpost.com/software/lifeline-forswd) · [code](https://github.com/ben-du1/LifeLine) · [demo](https://www.youtube.com/watch?v=Sw2sJuAJ5v8) | [Photon](../by-sponsor/photon.md) · Best Voice Agent · [details](#project-lifeline-forswd) | Turn an emergency call into an indoor rescue map. With CoStar’s 3D building data and Photon's voice agent,… | photon, cloudflare-tunnel, costar |
+| [Restock](https://devpost.com/software/restock-v3pkq8) · [code](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton) · [demo](https://www.youtube.com/watch?v=tsmOwUs_G00) | [Photon](../by-sponsor/photon.md) · Build a Messaging Agent using Photon 2.0 · [details](#project-restock-v3pkq8) | A camera watches the ingredients, AI counts every item taken, and texts the owner to reorder before anything… | photon, arduino-uno-q, d1 |
+| [Syllabus Crew](https://devpost.com/software/syllabus-crew) · [code](https://github.com/zhoulinhua0-star/hackprinceton-2026) · [demo](https://www.youtube.com/watch?v=frTz_ULVTXY) | [Photon](../by-sponsor/photon.md) · Build a Messaging Agent using Photon 2.0 · [details](#project-syllabus-crew) | Personal agent for college students that lives in iMessage - text it your syllabus and get ready for the… | photon, agentic-framework, amazon-bedrock |
+| [KinFold](https://devpost.com/software/kinfold) · [demo](https://www.youtube.com/watch?v=DKfr1q-T7UU) | [Solana](../by-sponsor/solana.md) · Best Use of Solana · [details](#project-kinfold) | 16,000 people in the U.S. are still waiting for their names. One wrong branch can point to the wrong person. | solana, deepagents, gemini |
+| [Rewind](https://devpost.com/software/rewind-7ir2hn) · [code](https://github.com/SriSrik123/HackPrinceton) | [SpaceXSI](../by-sponsor/spacexsi.md) · Build Your Hackathon A-Team with SpaceXSI · [details](#project-rewind-7ir2hn) | Ever wanted to relive a moment in time? With Rewind, step inside your old videos and live events using just… | colmap, cursor, ffmpeg |
+| [Clarity](https://devpost.com/software/clarity-d7smby) · [demo](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) | [Tiger Data](../by-sponsor/tiger-data.md) · Best Use of Tiger Data · [details](#project-clarity-d7smby) | What you deserve in your drinking water. | tiger-data/timescaledb, arduino-uno, deck.gl |
+| [FlameScout](https://devpost.com/software/flamescout) · [code](https://github.com/param-mans/FlameScout) · [demo](https://www.youtube.com/watch?v=LlK6Ls93_Ys) | [Vultr](../by-sponsor/vultr.md) · Best Use of Vultr · [details](#project-flamescout) | A dashboard supplies incident information to fire dispatchers. | vultr, caddy, costar |
 
 ## Project details
 
 <a name="project-a-hand-for-my-aunt"></a>
 
-### [A hand for my aunt](https://devpost.com/software/a-hand-for-my-aunt)
+<details>
+<summary>A hand for my aunt</summary>
 
 Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 
@@ -54,11 +64,14 @@ Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=nPXe5ZIrOiY)
 - **All event prizes (1)** &#91;Amazon&#93; Best Practical AI Innovation
 - **Devpost checked** 2026-11-21 UTC
-- **Amazon Web Services** The project lists amazon-bedrock among its Built With tags.
+- **Amazon Web Services · &#91;Amazon&#93; Best Practical AI Innovation** The project lists amazon-bedrock among its Built With tags.
+
+</details>
 
 <a name="project-fireflop"></a>
 
-### [Agni](https://devpost.com/software/fireflop)
+<details>
+<summary>Agni</summary>
 
 Fight the fire before you get there.
 
@@ -68,11 +81,14 @@ Fight the fire before you get there.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=rfisjmBsxcM)
 - **All event prizes (1)** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
 - **Devpost checked** 2026-11-21 UTC
-- **ChatOverflow** The solution uses Matterport and Costar data to find the layout and materials of a house. Devpost gives no specific sponsor integration detail.
+- **ChatOverflow · &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard** The solution uses Matterport and Costar data to find the layout and materials of a house.
+
+</details>
 
 <a name="project-asclepieion"></a>
 
-### [asclepieion](https://devpost.com/software/asclepieion)
+<details>
+<summary>asclepieion</summary>
 
 Every census tract is shaded by a need score built from HRSA shortage designations and CDC PLACES health data.
 
@@ -82,11 +98,14 @@ Every census tract is shaded by a need score built from HRSA shortage designatio
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=llLSV0W6s7c)
 - **All event prizes (2)** &#91;CoStar Group&#93; Inside and Out: AI for the Built World · Best Rookie Hack
 - **Devpost checked** 2026-11-21 UTC
-- **CoStar Group** The project page provides no specific sponsor integration detail in the indexed fields.
+- **CoStar Group · &#91;CoStar Group&#93; Inside and Out: AI for the Built World** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-boomer"></a>
 
-### [Boomer](https://devpost.com/software/boomer)
+<details>
+<summary>Boomer</summary>
 
 Boomer helps electricians throughout an entire job, from understanding the task and navigating local requirements to coordinating supervisor approval, checking their work, and documenting the results.
 
@@ -96,11 +115,14 @@ Boomer helps electricians throughout an entire job, from understanding the task 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=dKs6uc-Ands)
 - **All event prizes (1)** &#91;Peri&#93; Forward Deployed Engineer
 - **Devpost checked** 2026-11-21 UTC
-- **Peri** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Peri · &#91;Peri&#93; Forward Deployed Engineer** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-clarity-d7smby"></a>
 
-### [Clarity](https://devpost.com/software/clarity-d7smby)
+<details>
+<summary>Clarity</summary>
 
 What you deserve in your drinking water.
 
@@ -110,11 +132,14 @@ What you deserve in your drinking water.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Ud5rvpX2Ixw)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Tiger Data
 - **Devpost checked** 2026-11-21 UTC
-- **Tiger Data** The backend evaluates measurements against configured thresholds, tracks filter life using manufacturer-specific guidelines, and manages historical water quality data through Tiger Data.
+- **Tiger Data · &#91;MLH&#93; Best Use of Tiger Data** The backend evaluates measurements against configured thresholds, tracks filter life using manufacturer-specific guidelines, and manages historical water quality data through Tiger Data.
+
+</details>
 
 <a name="project-winners-u6keqj"></a>
 
-### [FarCare](https://devpost.com/software/winners-u6keqj)
+<details>
+<summary>FarCare</summary>
 
 FarCare connects three roles around one parent.
 
@@ -124,11 +149,14 @@ FarCare connects three roles around one parent.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=d90HW1Gm-HY)
 - **All event prizes (1)** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
 - **Devpost checked** 2026-11-21 UTC
-- **ChatOverflow** The project page provides no specific sponsor integration detail in the indexed fields.
+- **ChatOverflow · &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-flamescout"></a>
 
-### [FlameScout](https://devpost.com/software/flamescout)
+<details>
+<summary>FlameScout</summary>
 
 A dashboard supplies incident information to fire dispatchers.
 
@@ -138,12 +166,15 @@ A dashboard supplies incident information to fire dispatchers.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=LlK6Ls93_Ys)
 - **All event prizes (2)** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard · &#91;MLH&#93; Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
-- **ChatOverflow** FlameScout turns live fire-dispatch calls into a building-specific advisory brief on the crew's tablet before arrival. Devpost gives no specific sponsor integration detail.
-- **Vultr** The project lists vultr among its Built With tags.
+- **ChatOverflow · &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard** FlameScout turns live fire-dispatch calls into a building-specific advisory brief on the crew's tablet before arrival.
+- **Vultr · &#91;MLH&#93; Best Use of Vultr** The project lists vultr among its Built With tags.
+
+</details>
 
 <a name="project-geostar-5engd7"></a>
 
-### [GeoStar](https://devpost.com/software/geostar-5engd7)
+<details>
+<summary>GeoStar</summary>
 
 A property planning tool helps developers evaluate sites and visualize them in 3D.
 
@@ -153,11 +184,14 @@ A property planning tool helps developers evaluate sites and visualize them in 3
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=0TEguSxAemc)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
-- **MongoDB** The project lists mongodb among its Built With tags.
+- **MongoDB · &#91;MLH&#93; Best Use of MongoDB Atlas** The project lists mongodb among its Built With tags.
+
+</details>
 
 <a name="project-kinfold"></a>
 
-### [KinFold](https://devpost.com/software/kinfold)
+<details>
+<summary>KinFold</summary>
 
 16,000 people in the U.S. are still waiting for their names. One wrong branch can point to the wrong person.
 
@@ -167,11 +201,14 @@ A property planning tool helps developers evaluate sites and visualize them in 3
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=DKfr1q-T7UU)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
-- **Solana** Gemini, LangChain, MongoDB and Solana all working in one weekend, and the demo still runs offline.
+- **Solana · &#91;MLH&#93; Best Use of Solana** Gemini, LangChain, MongoDB and Solana all working in one weekend, and the demo still runs offline.
+
+</details>
 
 <a name="project-lifeline-forswd"></a>
 
-### [LifeLine](https://devpost.com/software/lifeline-forswd)
+<details>
+<summary>LifeLine</summary>
 
 Turn an emergency call into an indoor rescue map. With CoStar’s 3D building data and Photon's voice agent, LifeLine guides first responders to the caller, down to the room.
 
@@ -181,11 +218,14 @@ Turn an emergency call into an indoor rescue map. With CoStar’s 3D building da
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Sw2sJuAJ5v8)
 - **All event prizes (1)** &#91;Photon&#93; Best Voice Agent
 - **Devpost checked** 2026-11-21 UTC
-- **Photon** The project lists photon among its Built With tags.
+- **Photon · &#91;Photon&#93; Best Voice Agent** The project lists photon among its Built With tags.
+
+</details>
 
 <a name="project-bouy-7tofbl"></a>
 
-### [Lincoln](https://devpost.com/software/bouy-7tofbl)
+<details>
+<summary>Lincoln</summary>
 
 Solar powered buoys that track water quality 200x cheaper than the next closest instrument.
 
@@ -195,11 +235,14 @@ Solar powered buoys that track water quality 200x cheaper than the next closest 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Q-0arEQO5fQ)
 - **All event prizes (2)** &#91;Justin Bojarski&#93; Best Physical AI Hack · Best Sustainability Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Justin Bojarski** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Other · &#91;Justin Bojarski&#93; Best Physical AI Hack** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-lucid-k078qt"></a>
 
-### [Lucid](https://devpost.com/software/lucid-k078qt)
+<details>
+<summary>Lucid</summary>
 
 Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a live map of where a bleed is likely.
 
@@ -209,13 +252,16 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=IY0Rr7l58Eg)
 - **All event prizes (4)** &#91;Amazon&#93; Best Practical AI Innovation · &#91;Justin Bojarski&#93; Best Physical AI Hack · &#91;LangChain&#93; Best use of deepagents · Best Overall Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Amazon Web Services** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Justin Bojarski** The project page provides no specific sponsor integration detail in the indexed fields.
-- **LangChain** The project lists langchain among its Built With tags.
+- **Amazon Web Services · &#91;Amazon&#93; Best Practical AI Innovation** The project page provides no specific sponsor integration detail in the indexed fields.
+- **LangChain · &#91;LangChain&#93; Best use of deepagents** The project lists langchain among its Built With tags.
+- **Other · &#91;Justin Bojarski&#93; Best Physical AI Hack** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-mapletrace"></a>
 
-### [MapleTrace](https://devpost.com/software/mapletrace)
+<details>
+<summary>MapleTrace</summary>
 
 MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case evidence, flags contradictions, and ranks what to collect next, with every connection linked to its source.
 
@@ -225,11 +271,14 @@ MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case eviden
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=OyYZ1CdiKOg)
 - **All event prizes (1)** &#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI
 - **Devpost checked** 2026-11-21 UTC
-- **Arlequin AI** MapleTrace takes a ZIP of case evidence and produces an interactive investigation board:. Devpost gives no specific sponsor integration detail.
+- **Arlequin AI · &#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI** MapleTrace takes a ZIP of case evidence and produces an interactive investigation board:.
+
+</details>
 
 <a name="project-meridies"></a>
 
-### [Meridies](https://devpost.com/software/meridies)
+<details>
+<summary>Meridies</summary>
 
 A wearable combines spoken assistance with spatial audio to help people with vision loss navigate.
 
@@ -239,12 +288,15 @@ A wearable combines spoken assistance with spatial audio to help people with vis
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=eoBT5CGjsPA)
 - **All event prizes (2)** &#91;Amazon&#93; Best Practical AI Innovation · &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
-- **Amazon Web Services** Meridies is a wearable hat with four parts, all controlled by voice through Meri , the AI assistant ("Hi Meri"):. Devpost gives no specific sponsor integration detail.
-- **Google** The project lists gemini among its Built With tags.
+- **Amazon Web Services · &#91;Amazon&#93; Best Practical AI Innovation** Meridies is a wearable hat with four parts, all controlled by voice through Meri , the AI assistant ("Hi Meri"):.
+- **Google · &#91;MLH&#93; Best Use of Gemini API** The project lists gemini among its Built With tags.
+
+</details>
 
 <a name="project-mise-3kjnqz"></a>
 
-### [Mise](https://devpost.com/software/mise-3kjnqz)
+<details>
+<summary>Mise</summary>
 
 Lightweight, AI-powered tools built for forward-deployed engineers to adapt and deploy quickly.
 
@@ -254,11 +306,14 @@ Lightweight, AI-powered tools built for forward-deployed engineers to adapt and 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=v2oRRCjdOkc)
 - **All event prizes (1)** &#91;Peri&#93; Forward Deployed Engineer
 - **Devpost checked** 2026-11-21 UTC
-- **Peri** Mise is a tool box for FDE’s to integrate, build, and transform business problems in hours versus what would normally be weeks. Devpost gives no specific sponsor integration detail.
+- **Peri · &#91;Peri&#93; Forward Deployed Engineer** Mise is a tool box for FDE’s to integrate, build, and transform business problems in hours versus what would normally be weeks.
+
+</details>
 
 <a name="project-one-in-three"></a>
 
-### [One in Three](https://devpost.com/software/one-in-three)
+<details>
+<summary>One in Three</summary>
 
 One in Three is an interactive and fully immersive AI simulation that puts men in a woman’s shoes to raise awareness of sexual harassment and practise stepping in as bystanders.
 
@@ -268,11 +323,14 @@ One in Three is an interactive and fully immersive AI simulation that puts men i
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=dFNiASxPbck)
 - **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
-- **GoDaddy Registry** The project lists godaddy among its Built With tags.
+- **GoDaddy Registry · &#91;MLH&#93; Best Domain Name from GoDaddy Registry** The project lists godaddy among its Built With tags.
+
+</details>
 
 <a name="project-hackprinceton26"></a>
 
-### [Play It First](https://devpost.com/software/hackprinceton26)
+<details>
+<summary>Play It First</summary>
 
 A simulator lets prospective business owners test how they could operate in an actual commercial space.
 
@@ -282,11 +340,14 @@ A simulator lets prospective business owners test how they could operate in an a
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=xamUK8so4zI)
 - **All event prizes (1)** &#91;Capital One&#93; Best Usage of Nessie
 - **Devpost checked** 2026-11-21 UTC
-- **Capital One** Financial integration: Nessie V2 connects the authoritative game ledger to sandbox accounts, deposits, merchant purchases, bills, and read-only reconciliation.
+- **Capital One · &#91;Capital One&#93; Best Usage of Nessie** Financial integration: Nessie V2 connects the authoritative game ledger to sandbox accounts, deposits, merchant purchases, bills, and read-only reconciliation.
+
+</details>
 
 <a name="project-project-xavier-tbd"></a>
 
-### [Project Xavier](https://devpost.com/software/project-xavier-tbd)
+<details>
+<summary>Project Xavier</summary>
 
 Using brain activity to make the world more accessible to those with mobility disorders.
 
@@ -296,11 +357,14 @@ Using brain activity to make the world more accessible to those with mobility di
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=bIt_TQ2hsBU)
 - **All event prizes (2)** &#91;Justin Bojarski&#93; Best Physical AI Hack · Best Healthcare Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Justin Bojarski** The project allows those who cannot use their hands to navigate using only their eyes. Devpost gives no specific sponsor integration detail.
+- **Other · &#91;Justin Bojarski&#93; Best Physical AI Hack** The project allows those who cannot use their hands to navigate using only their eyes.
+
+</details>
 
 <a name="project-restock-v3pkq8"></a>
 
-### [Restock](https://devpost.com/software/restock-v3pkq8)
+<details>
+<summary>Restock</summary>
 
 A camera watches the ingredients, AI counts every item taken, and texts the owner to reorder before anything runs out. Tested live at Casa Piada in Greenwich.
 
@@ -310,12 +374,15 @@ A camera watches the ingredients, AI counts every item taken, and texts the owne
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=tsmOwUs_G00)
 - **All event prizes (2)** &#91;Peri&#93; Forward Deployed Engineer · &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
 - **Devpost checked** 2026-11-21 UTC
-- **Peri** Every time a hand reaches in, Restock cuts a short clip and a vision model (Liquid d1) says what was taken and how many. Devpost gives no specific sponsor integration detail.
-- **Photon** The project lists photon among its Built With tags.
+- **Peri · &#91;Peri&#93; Forward Deployed Engineer** Every time a hand reaches in, Restock cuts a short clip and a vision model (Liquid d1) says what was taken and how many.
+- **Photon · &#91;Photon&#93; Build a Messaging Agent using Photon 2.0** The project lists photon among its Built With tags.
+
+</details>
 
 <a name="project-rewind-7ir2hn"></a>
 
-### [Rewind](https://devpost.com/software/rewind-7ir2hn)
+<details>
+<summary>Rewind</summary>
 
 Ever wanted to relive a moment in time? With Rewind, step inside your old videos and live events using just your phone.
 
@@ -325,11 +392,14 @@ Ever wanted to relive a moment in time? With Rewind, step inside your old videos
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
 - **Devpost checked** 2026-11-21 UTC
-- **SpaceXSI** Rewind puts you inside a moment from a video, using just your phone and a Google Cardboard viewer. Devpost gives no specific sponsor integration detail.
+- **SpaceXSI · &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI** Rewind puts you inside a moment from a video, using just your phone and a Google Cardboard viewer.
+
+</details>
 
 <a name="project-high-wire"></a>
 
-### [ReWire](https://devpost.com/software/high-wire)
+<details>
+<summary>ReWire</summary>
 
 An interface powered by deep AI agents to help operators manage electrical grids during crisis.
 
@@ -339,11 +409,14 @@ An interface powered by deep AI agents to help operators manage electrical grids
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=QIxE59QN_GA)
 - **All event prizes (1)** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
 - **Devpost checked** 2026-11-21 UTC
-- **ChatOverflow** Rewire is an operator co-pilot for the real Los Angeles grid (829 power lines, 66 kV and up). Devpost gives no specific sponsor integration detail.
+- **ChatOverflow · &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard** Rewire is an operator co-pilot for the real Los Angeles grid (829 power lines, 66 kV and up).
+
+</details>
 
 <a name="project-siteline-vus4jl"></a>
 
-### [Siteline](https://devpost.com/software/siteline-vus4jl)
+<details>
+<summary>Siteline</summary>
 
 Siteline tells clinics where to open. It learns what drives each practice, pulls the public data that measures it, and ranks real lease spaces by the patients they’d win and the care gaps they’d fill.
 
@@ -353,11 +426,14 @@ Siteline tells clinics where to open. It learns what drives each practice, pulls
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=uoMErki4yTk)
 - **All event prizes (1)** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
 - **Devpost checked** 2026-11-21 UTC
-- **CoStar Group** It figures out what matters for your practice. Devpost gives no specific sponsor integration detail.
+- **CoStar Group · &#91;CoStar Group&#93; Inside and Out: AI for the Built World** It figures out what matters for your practice.
+
+</details>
 
 <a name="project-stagehand-241isj"></a>
 
-### [Stagehand](https://devpost.com/software/stagehand-241isj)
+<details>
+<summary>Stagehand</summary>
 
 Find your space with Stagehand! For creatives wanting to visualize before booking.
 
@@ -367,11 +443,14 @@ Find your space with Stagehand! For creatives wanting to visualize before bookin
 - **Demo video** [Video 1](https://vimeo.com/1246959819)
 - **All event prizes (1)** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
 - **Devpost checked** 2026-11-21 UTC
-- **CoStar Group** Pick a scanned room and press play. Devpost gives no specific sponsor integration detail.
+- **CoStar Group · &#91;CoStar Group&#93; Inside and Out: AI for the Built World** Pick a scanned room and press play.
+
+</details>
 
 <a name="project-syllabus-crew"></a>
 
-### [Syllabus Crew](https://devpost.com/software/syllabus-crew)
+<details>
+<summary>Syllabus Crew</summary>
 
 Personal agent for college students that lives in iMessage - text it your syllabus and get ready for the semester.
 
@@ -381,11 +460,14 @@ Personal agent for college students that lives in iMessage - text it your syllab
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=frTz_ULVTXY)
 - **All event prizes (1)** &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
 - **Devpost checked** 2026-11-21 UTC
-- **Photon** The project lists photon among its Built With tags.
+- **Photon · &#91;Photon&#93; Build a Messaging Agent using Photon 2.0** The project lists photon among its Built With tags.
+
+</details>
 
 <a name="project-tangents-6xezla"></a>
 
-### [Tangents](https://devpost.com/software/tangents-6xezla)
+<details>
+<summary>Tangents</summary>
 
 A satirical social media simulator and world builder.
 
@@ -395,11 +477,14 @@ A satirical social media simulator and world builder.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=FgR3QLEW5Kc)
 - **All event prizes (1)** &#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns
 - **Devpost checked** 2026-11-21 UTC
-- **Arlequin AI** Tangents is the conception of what media and entertainment can look like in the AI era. Devpost gives no specific sponsor integration detail.
+- **Arlequin AI · &#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns** Tangents is the conception of what media and entertainment can look like in the AI era.
+
+</details>
 
 <a name="project-vantage-w0poi6"></a>
 
-### [Vantage](https://devpost.com/software/vantage-w0poi6)
+<details>
+<summary>Vantage</summary>
 
 Step inside the past, see it through every view, with every line sourced and true.
 
@@ -409,4 +494,6 @@ Step inside the past, see it through every view, with every line sourced and tru
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Atkd0YpaIMc)
 - **All event prizes (1)** &#91;Amazon&#93; Best Practical AI Innovation
 - **Devpost checked** 2026-11-21 UTC
-- **Amazon Web Services** Vantage turns any event into an interactive documentary: history, current events, science, sports, anything that happened to real people. Devpost gives no specific sponsor integration detail.
+- **Amazon Web Services · &#91;Amazon&#93; Best Practical AI Innovation** Vantage turns any event into an interactive documentary: history, current events, science, sports, anything that happened to real people.
+
+</details>

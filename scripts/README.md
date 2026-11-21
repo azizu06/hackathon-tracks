@@ -18,7 +18,7 @@ The JSON and CSV share one row per project, edition and sponsor prize. The five 
 
 ## Reproduce or add coverage
 
-- Rebuild twice from one cache with `python3 scripts/publish.py --output <directory>` and compare the output trees. For a public checkout without the cache, `python3 scripts/verify.py` rebuilds the Markdown, CSV and receipt manifest offline from the committed snapshot and compares bytes.
+- Rebuild twice from one cache with `python3 scripts/publish.py --output <directory>` and compare the output trees. Use `python3 scripts/publish.py --readme README.md` to refresh the root README badges and indexes with the directory. In a checkout without the cache, `python3 scripts/verify.py --readme README.md` reproduces the exports, Markdown, and generated README sections offline and compares bytes.
 - Add an edition and year to [events.tsv](events.tsv). Use `python3 scripts/fetch.py galleries slugs.txt` to inspect its winner labels in `.devpost-cache/galleries.json`. [gallery-probes.txt](gallery-probes.txt) records the alternate slugs investigated for the coverage report.
-- Add each exact gallery label to [tracks.tsv](tracks.tsv). The columns are event slug, Devpost label and sponsor. Use `-` for event or unattributed prizes. Use the event prize description when the label does not explicitly name the sponsor.
+- Add each exact gallery label to [tracks.tsv](tracks.tsv). The columns are event slug, Devpost label and sponsor. Use `Other` for prizes attributed to an individual instead of a sponsoring organization. Use `-` to exclude general event prizes and unattributed labels. Use the event prize description when the label does not explicitly name the sponsor.
 - Run the three commands above. Inspect unresolved evidence. Use [projects.tsv](projects.tsv) for edited project descriptions and [summaries.tsv](summaries.tsv) for edited explanations of specific sponsor integrations.

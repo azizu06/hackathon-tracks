@@ -1,25 +1,35 @@
 # Hack@Brown 2024
 
-[Devpost gallery](https://hack-brown-2024.devpost.com/project-gallery) · [Official prize rules](https://hack-brown-2024.devpost.com/) · [Winners index](../README.md)
+**6 projects · 6 sponsors · 6 prize rows**
 
-6 projects and 6 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://hack-brown-2024.devpost.com/project-gallery) · [Official prize rules](https://hack-brown-2024.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** react (3), typescript (3), css (2)
+- **Common project areas** Education and learning (1)
+- **Common demo formats** Web app or dashboard (1)
+- **Projects with a listed demo video** 0 of 6
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [TelePhoto](#project-telephoto) | [.Tech Domains](../by-sponsor/tech-domains.md) | Best .Tech Domain Name | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Bathrooms @ Brown](#project-bathrooms-brown) | [Fidelity](../by-sponsor/fidelity.md) | Best DEI Hack sponsored by Fidelity | — | The team have a map in a website and pins representing bathrooms placed on this map. | 1 |
-| [blank&#91;space&#93;](#project-blank-space-s40j1g) | [MongoDB](../by-sponsor/mongodb.md) | Best Use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [Bruno](#project-dlm) | [Schmidt Futures](../by-sponsor/schmidt-futures.md) | Best Use of AI in Education by Schmidt Futures | — | Best Use of AI in Education by Schmidt Futures. | 1 |
-| [BlockBetChain](#project-blockbetchain) | [Starknet](../by-sponsor/starknet.md) | Best Use of Starknet | — | The team also used React and the React-Starknet library to create a friendly user interface for interacting and viewing these contracts. | 1 |
-| [Napkin AI](#project-napkin-ymh5f4) | [Warp](../by-sponsor/warp.md) | Best Developer Tool sponsored by Warp | — | Napkin is a graph retrieval-augmented generation tool that converts a codebase into a knowledge graph containing detailed relationships between all files, functions, and classes. | 1 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [TelePhoto](https://devpost.com/software/telephoto) · [code](https://github.com/NuoWenLei/ai-image-telephone) | [.Tech Domains](../by-sponsor/tech-domains.md) · Best .Tech Domain Name · [details](#project-telephoto) | After your guess on what the image represents, a gallery will be presented with the history of all past… | firebase, getimg.ai, github |
+| [Bathrooms @ Brown](https://devpost.com/software/bathrooms-brown) · [code](https://github.com/katieli1/bathroomsatbrown) | [Fidelity](../by-sponsor/fidelity.md) · Best DEI Hack sponsored by Fidelity · [details](#project-bathrooms-brown) | Helping everyone at Brown find the perfect bathroom &lt;3. | css, html, java |
+| [blank&#91;space&#93;](https://devpost.com/software/blank-space-s40j1g) · [code](https://github.com/AnnieWang314/blankspace) | [MongoDB](../by-sponsor/mongodb.md) · Best Use of MongoDB Atlas · [details](#project-blank-space-s40j1g) | After logging in, users are directed to a page requesting the title of the paper they want to write, along… | mongodb, css, express.js |
+| [Bruno](https://devpost.com/software/dlm) | [Schmidt Futures](../by-sponsor/schmidt-futures.md) · Best Use of AI in Education by Schmidt Futures · [details](#project-dlm) | An LLM-powered TA that adapts to course material to help guide and engage students through conceptual and… | chatgpt, dspy, openai |
+| [BlockBetChain](https://devpost.com/software/blockbetchain) · [code](https://github.com/jahaskell53/starknet-hackathon-3) | [Starknet](../by-sponsor/starknet.md) · Best Use of Starknet · [details](#project-blockbetchain) | Make accountable long-term wagers using the blockchain. | starknet, cairo, react |
+| [Napkin AI](https://devpost.com/software/napkin-ymh5f4) · [code](https://github.com/Sharwin24/HackAtBrown) | [Warp](../by-sponsor/warp.md) · Best Developer Tool sponsored by Warp · [details](#project-napkin-ymh5f4) | A devtool for understanding codebases faster and easier. | machine-learning, natural-language-processing, python |
 
 ## Project details
 
 <a name="project-bathrooms-brown"></a>
 
-### [Bathrooms @ Brown](https://devpost.com/software/bathrooms-brown)
+<details>
+<summary>Bathrooms @ Brown</summary>
 
 Helping everyone at Brown find the perfect bathroom &lt;3.
 
@@ -29,11 +39,14 @@ Helping everyone at Brown find the perfect bathroom &lt;3.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best DEI Hack sponsored by Fidelity
 - **Devpost checked** 2026-11-21 UTC
-- **Fidelity** The team have a map in a website and pins representing bathrooms placed on this map. Devpost gives no specific sponsor integration detail.
+- **Fidelity · Best DEI Hack sponsored by Fidelity** The team have a map in a website and pins representing bathrooms placed on this map.
+
+</details>
 
 <a name="project-blank-space-s40j1g"></a>
 
-### [blank&#91;space&#93;](https://devpost.com/software/blank-space-s40j1g)
+<details>
+<summary>blank&#91;space&#93;</summary>
 
 After logging in, users are directed to a page requesting the title of the paper they want to write, along with a question about the paper's topic.
 
@@ -43,11 +56,14 @@ After logging in, users are directed to a page requesting the title of the paper
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
-- **MongoDB** The project lists mongodb among its Built With tags.
+- **MongoDB · Best Use of MongoDB Atlas** The project lists mongodb among its Built With tags.
+
+</details>
 
 <a name="project-blockbetchain"></a>
 
-### [BlockBetChain](https://devpost.com/software/blockbetchain)
+<details>
+<summary>BlockBetChain</summary>
 
 Make accountable long-term wagers using the blockchain.
 
@@ -57,11 +73,14 @@ Make accountable long-term wagers using the blockchain.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Starknet
 - **Devpost checked** 2026-11-21 UTC
-- **Starknet** The team also used React and the React-Starknet library to create a friendly user interface for interacting and viewing these contracts.
+- **Starknet · Best Use of Starknet** The team also used React and the React-Starknet library to create a friendly user interface for interacting and viewing these contracts.
+
+</details>
 
 <a name="project-dlm"></a>
 
-### [Bruno](https://devpost.com/software/dlm)
+<details>
+<summary>Bruno</summary>
 
 An LLM-powered TA that adapts to course material to help guide and engage students through conceptual and technical questions, focusing on reducing redundant questions and addressing overworked TAs.
 
@@ -71,11 +90,14 @@ An LLM-powered TA that adapts to course material to help guide and engage studen
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of AI in Education by Schmidt Futures
 - **Devpost checked** 2026-11-21 UTC
-- **Schmidt Futures** Best Use of AI in Education by Schmidt Futures.
+- **Schmidt Futures · Best Use of AI in Education by Schmidt Futures** Best Use of AI in Education by Schmidt Futures.
+
+</details>
 
 <a name="project-napkin-ymh5f4"></a>
 
-### [Napkin AI](https://devpost.com/software/napkin-ymh5f4)
+<details>
+<summary>Napkin AI</summary>
 
 A devtool for understanding codebases faster and easier.
 
@@ -85,11 +107,14 @@ A devtool for understanding codebases faster and easier.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Developer Tool sponsored by Warp
 - **Devpost checked** 2026-11-21 UTC
-- **Warp** Napkin is a graph retrieval-augmented generation tool that converts a codebase into a knowledge graph containing detailed relationships between all files, functions, and classes. Devpost gives no specific sponsor integration detail.
+- **Warp · Best Developer Tool sponsored by Warp** Napkin is a graph retrieval-augmented generation tool that converts a codebase into a knowledge graph containing detailed relationships between all files, functions, and classes.
+
+</details>
 
 <a name="project-telephoto"></a>
 
-### [TelePhoto](https://devpost.com/software/telephoto)
+<details>
+<summary>TelePhoto</summary>
 
 After your guess on what the image represents, a gallery will be presented with the history of all past players before you.
 
@@ -99,4 +124,6 @@ After your guess on what the image represents, a gallery will be presented with 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC
-- **.Tech Domains** The project page provides no specific sponsor integration detail in the indexed fields.
+- **.Tech Domains · Best .Tech Domain Name** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>

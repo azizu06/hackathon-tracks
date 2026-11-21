@@ -1,54 +1,64 @@
 # HackMIT 2016
 
-[Devpost gallery](https://hackmit-2016.devpost.com/project-gallery) · [Official prize rules](https://hackmit-2016.devpost.com/) · [Winners index](../README.md)
+**31 projects · 21 sponsors · 35 prize rows**
 
-31 projects and 35 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://hackmit-2016.devpost.com/project-gallery) · [Official prize rules](https://hackmit-2016.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** javascript (13), python (13), css (6)
+- **Common project areas** Games and entertainment (2), Accessibility and assistive tools (1), Finance and commerce (1)
+- **Common demo formats** Hardware or robotics (7), Mobile app (6), AR, VR or spatial (2)
+- **Projects with a listed demo video** 3 of 31
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Kinvest](#project-kinvest) | [BNP Paribas](../by-sponsor/bnp-paribas.md) | Most Insightful Hack (BNP Paribas) | — | Kinvest is trained on Kiva's large datasets. | 1 |
-| [Bitcard](#project-bitcard-backend) | [Capital One](../by-sponsor/capital-one.md) | Best use of Capital One's API - Nessie | — | The team use the coinbase and Nessie APIs to handle the money, and deliver the app via a chrome extension. | 1 |
-| [Ethereum Piggy](#project-e) | [Coinbase](../by-sponsor/coinbase.md) | Best use of Coinbase API | — | The project lists coinbase among its Built With tags. | 1 |
-| [Gaze](#project-gaze-09xkmb) | [Disney](../by-sponsor/disney.md) | Best Use of Emerging Technology (Disney) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Game of Drones](#project-game-of-drones-rsafv0) | [Ford](../by-sponsor/ford.md) | Best Creative Car Hack (Ford) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [ColoVR](#project-colovr) | [Google](../by-sponsor/google.md) | Google Cardboard Development Prize | — | ColoVR is a virtual experience allowing users to modify their environment with colors and models. | 1 |
-| [Crowd Search](#project-crowd-search-zjq3ro) | [Google](../by-sponsor/google.md) | Best use of Firebase | — | Crowd Search makes heavy use of Firebase, and is because of this a completely front-end based application, hosted on Firebase Hosting. | 1 |
-| [DronAR](#project-dronar) | [Google](../by-sponsor/google.md) | Google Cardboard Development Prize | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [TourDeMarsVR](#project-tourdemarsvr) | [Google](../by-sponsor/google.md) | Google Cardboard Development Prize | — | The project lists firebase among its Built With tags. | 1 |
-| [VR DJ](#project-vr-dj) | [Google](../by-sponsor/google.md) | Google Cardboard Development Prize | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [JS Policy](#project-js-policy) | [Hudson River Trading](../by-sponsor/hudson-river-trading.md) | Best Low Level / High Performance Hack (Hudson River Trading) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Termibox](#project-termibox) | [KCG](../by-sponsor/kcg.md) | KCG Prize | — | Termibox brings the functionality of the Terminal into the web - and then some. | 1 |
-| [AskTheCandidates](#project-askthecandidates) | [Kensho](../by-sponsor/kensho.md) | Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [xkcd For America](#project-xkcd-for-america) | [Kensho](../by-sponsor/kensho.md) | Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho) | — | The users visit the site to find what appears to be a very simple quiz. | 2 |
-| [DronAR](#project-dronar) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) | Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Drones For Humanity - Second-Order Autonomy](#project-second-order-autonomy) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) | Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) | — | The drone is fully autonomous, given a set of GPS coordinates, it will be able to deliver a package without human intervention. | 1 |
-| [Flight Aid](#project-flight-aid) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) | Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Game of Drones](#project-game-of-drones-rsafv0) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) | Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [LeapLock](#project-leaplock-piof9q) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) | Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) | — | LeapLock allows users to use 3D hand gestures to unlock a safe or any kind of lock. | 1 |
-| [Skycart](#project-skycart) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) | Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Smart Drone Delivery Planning](#project-smart-drone-delivery-planning) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) | Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) | — | Once the locations are specified, a path planning algorithm determines how to assign each of the drones to delivery tasks, and a simulation is performed. | 1 |
-| [BlackBox](#project-blackbox-ct4my1) | [Meta](../by-sponsor/meta.md) | Facebook Hackathon Finals Trip | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [VR DJ](#project-vr-dj) | [Meta](../by-sponsor/meta.md) | Oculus Prize (Facebook) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Gaze](#project-gaze-09xkmb) | [Microsoft](../by-sponsor/microsoft.md) | Best Use of Microsoft Technology | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Logo Lens](#project-logo-locator) | [Nasdaq](../by-sponsor/nasdaq.md) | Nasdaq MarketSite Prize | — | If a logo is detected, the company of the logo is found and the NASDAQ API is used to determine the recent performance of the company’s stock. | 1 |
-| [Augmented Paper](#project-augmented-paper) | [Philips](../by-sponsor/philips.md) | Focus based document summarization (Philips) | — | A user places any piece of paper with text/images on it on the clipboard and they can now work with the text on the paper as if it were hyperlinks. | 1 |
-| [Pusheen Sell](#project-pusheen-sell) | [Postmates](../by-sponsor/postmates.md) | Best On-Demand Hack (Postmates) | — | Pusheen Sell allows users to browse items currently for sale and sell items of their own. | 2 |
-| [Picky Pusheen](#project-picky-pusheen) | [Progress](../by-sponsor/progress.md) | Best NativeScript App for IOT (Progress) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Pusheats](#project-pusheats) | [Progress](../by-sponsor/progress.md) | Best NativeScript App (Progress) | — | The team wrote an iOS/Android mobile application based on psychology/neuroscience lab research dialogues that have been demonstrated to help people to improve their eating habits. | 1 |
-| [SplitPay](#project-splitpay-qdibxt) | [Rough Draft Ventures](../by-sponsor/rough-draft-ventures.md) | Rough Draft Ventures Prize | — | The team also learned about implementing communication between two web frameworks and about the reactivity used to build Meteor. | 1 |
-| [HomeBites](#project-homebites-84byd3) | [SAP Concur](../by-sponsor/sap-concur.md) | Concur Prize for Best Travel Hack | — | Homebites connects guests to local hosts/residents who are willing to make a home-cooked meal. | 1 |
-| [ControlGeek](#project-controlgeek) | [Synaptics](../by-sponsor/synaptics.md) | Most Innovative use of Synaptics Large Touch Sensor | — | The project lists synaptics among its Built With tags. | 1 |
-| [Tinderprint](#project-tinderprint) | [Synaptics](../by-sponsor/synaptics.md) | Most Innovative use of Synaptics Fingerprint Sensor | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Amicable](#project-amicable) | [Two Sigma](../by-sponsor/two-sigma.md) | Two Sigma Prize | — | Ami creates a planner for what you should do while on vacation. | 1 |
-| [Breast Cancer Detection](#project-detection-of-breast-cancer-based-on-image-analysis) | [Wolfram](../by-sponsor/wolfram.md) | Best Use of Wolfram Technologies | — | The project lists wolfram-technologies among its Built With tags. | 1 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Kinvest](https://devpost.com/software/kinvest) | [BNP Paribas](../by-sponsor/bnp-paribas.md) · Most Insightful Hack (BNP Paribas) · [details](#project-kinvest) | Kiva + Invest. Kinvest allows Lenders to leverage machine learning to maximize impact in developing nations. | firebase, flask, machine-learning |
+| [Bitcard](https://devpost.com/software/bitcard-backend) · [code](https://github.com/ravirahman/bitcard-backend) | [Capital One](../by-sponsor/capital-one.md) · Best use of Capital One's API - Nessie · [details](#project-bitcard-backend) | Want to shop online on a site that doesn't accept bitcoin? Now you can -- via the Coinbase and Nessie APIs. | html, javascript |
+| [Ethereum Piggy](https://devpost.com/software/e) | [Coinbase](../by-sponsor/coinbase.md) · Best use of Coinbase API · [details](#project-e) | Ethereum Piggy lets you save money with a virtual Piggy Bank. | coinbase, ethereum, ios |
+| [Gaze](https://devpost.com/software/gaze-09xkmb) | [Disney](../by-sponsor/disney.md) · Best Use of Emerging Technology (Disney) · [details](#project-gaze-09xkmb) | Gaze organizes un-organized videos to help the user interpret and navigate visual information. | — |
+| [Game of Drones](https://devpost.com/software/game-of-drones-rsafv0) | [Ford](../by-sponsor/ford.md) · Best Creative Car Hack (Ford) · [details](#project-game-of-drones-rsafv0) | Advanced route planning for drone deliveries to moving targets, with tracking and control suite. | google-streetview, javascript, leaflet.js |
+| [ColoVR](https://devpost.com/software/colovr) · [code](https://github.com/ascn/ColoVR) · [demo](https://www.youtube.com/watch?v=HldNqLBlTgc) | [Google](../by-sponsor/google.md) · Google Cardboard Development Prize · [details](#project-colovr) | Virtual reality 3D coloring/painting experience for Google Daydream. | daydream, unity |
+| [Crowd Search](https://devpost.com/software/crowd-search-zjq3ro) · [code](https://github.com/ekmartin/hackmit-crowdsearch) | [Google](../by-sponsor/google.md) · Best use of Firebase · [details](#project-crowd-search-zjq3ro) | A platform that helps people collaborate towards finding missing people. | firebase, babel, javascript |
+| [DronAR](https://devpost.com/software/dronar) | [Google](../by-sponsor/google.md) · Google Cardboard Development Prize · [details](#project-dronar) | DronAR allows users to view realtime information about their drones such as positional data and status. | azure, express.js, mongodb |
+| [TourDeMarsVR](https://devpost.com/software/tourdemarsvr) | [Google](../by-sponsor/google.md) · Google Cardboard Development Prize · [details](#project-tourdemarsvr) | A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices. | firebase, arduino, c++ |
+| [VR DJ](https://devpost.com/software/vr-dj) | [Google](../by-sponsor/google.md) · Google Cardboard Development Prize · [details](#project-vr-dj) | VR DJ allows you to visualize and manipulate music. | c#, unity, vive |
+| [JS Policy](https://devpost.com/software/js-policy) | [Hudson River Trading](../by-sponsor/hudson-river-trading.md) · Best Low Level / High Performance Hack (Hudson River Trading) · [details](#project-js-policy) | JS Policy allows web devs to keep user data safe by subjecting 3rd party Javascript to rich runtime policies. | javascript |
+| [Termibox](https://devpost.com/software/termibox) · [code](https://github.com/manna/url-term) | [KCG](../by-sponsor/kcg.md) · KCG Prize · [details](#project-termibox) | Turn the Chrome URL bar into a bash terminal. | css, html, jade |
+| [AskTheCandidates](https://devpost.com/software/askthecandidates) · [code](https://github.com/alexwolson/AskTheCandidates) | [Kensho](../by-sponsor/kensho.md) · Most interesting use of Wikipedia data around the US presidential candidates, campaigns… · [details](#project-askthecandidates) | Finally ask Donald Trump and Hillary Clinton your burning questions - the catch is that they're actually… | css, flask, html |
+| [xkcd For America](https://devpost.com/software/xkcd-for-america) · [code](https://github.com/exsmiley/xkcd-for-america) | [Kensho](../by-sponsor/kensho.md) · Most interesting use of Wikipedia data around the US presidential candidates, campaigns… · [details](#project-xkcd-for-america) | Determine which candidate to vote for by throwing away your pre-conceived notions – using the art of xkcd. | angular.js, css, firebase |
+| [DronAR](https://devpost.com/software/dronar) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · [details](#project-dronar) | DronAR allows users to view realtime information about their drones such as positional data and status. | azure, express.js, mongodb |
+| [Drones For Humanity - Second-Order Autonomy](https://devpost.com/software/second-order-autonomy) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · [details](#project-second-order-autonomy) | A drone platform that not only knows how to fly itself, but also knows where to deliver aid after a natural… | arduino, c++, raspberry-pi |
+| [Flight Aid](https://devpost.com/software/flight-aid) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · [details](#project-flight-aid) | This is a user-facing web app that allows the user to pick a delivery location and follow the delivery… | css, dronekit, html |
+| [Game of Drones](https://devpost.com/software/game-of-drones-rsafv0) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · [details](#project-game-of-drones-rsafv0) | Advanced route planning for drone deliveries to moving targets, with tracking and control suite. | google-streetview, javascript, leaflet.js |
+| [LeapLock](https://devpost.com/software/leaplock-piof9q) · [code](https://github.com/Howon/LeapLock) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · [details](#project-leaplock-piof9q) | LeapLock is a 3D-gesture based locking mechanism. | arduino, beaker, firebase |
+| [Skycart](https://devpost.com/software/skycart) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · [details](#project-skycart) | With more and more advancements in drone technology, drones are becoming accessible by everyone. | flask, javascript |
+| [Smart Drone Delivery Planning](https://devpost.com/software/smart-drone-delivery-planning) | [Local Motors Labs](../by-sponsor/local-motors-labs.md) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · [details](#project-smart-drone-delivery-planning) | An iOS app for multi-drone multi-package planning, that supports variable drone capacity and package weights. | apple-maps, swift |
+| [BlackBox](https://devpost.com/software/blackbox-ct4my1) · [code](https://github.com/96imranahmed/blackbox-public) · [demo](https://www.youtube.com/watch?v=7KcSXuQXCng) | [Meta](../by-sponsor/meta.md) · Facebook Hackathon Finals Trip · [details](#project-blackbox-ct4my1) | AI-powered Chatbot which give you curated dating advice - while you're on your date. | machine-learning, python |
+| [VR DJ](https://devpost.com/software/vr-dj) | [Meta](../by-sponsor/meta.md) · Oculus Prize (Facebook) · [details](#project-vr-dj) | VR DJ allows you to visualize and manipulate music. | c#, unity, vive |
+| [Gaze](https://devpost.com/software/gaze-09xkmb) | [Microsoft](../by-sponsor/microsoft.md) · Best Use of Microsoft Technology · [details](#project-gaze-09xkmb) | Gaze organizes un-organized videos to help the user interpret and navigate visual information. | — |
+| [Logo Lens](https://devpost.com/software/logo-locator) · [code](https://github.com/ChenJonathan/Logo-Lens) · [demo](https://www.youtube.com/watch?v=AI54o8onLBA) | [Nasdaq](../by-sponsor/nasdaq.md) · Nasdaq MarketSite Prize · [details](#project-logo-locator) | LogoLens presents relevant stock quote data when a user sees a company logo while wearing the HoloLens. | nasdaq-data-on-demand, c#, google-cloud-vision |
+| [Augmented Paper](https://devpost.com/software/augmented-paper) · [code](https://github.com/adityavishwanath/augmented_paper) | [Philips](../by-sponsor/philips.md) · Focus based document summarization (Philips) · [details](#project-augmented-paper) | Augmenting ordinary paper with new interactive experiences. | arduino, c++, google-cloud |
+| [Pusheen Sell](https://devpost.com/software/pusheen-sell) | [Postmates](../by-sponsor/postmates.md) · Best On-Demand Hack (Postmates) · [details](#project-pusheen-sell) | An easy way to sell your stuff – just push, and sell. | firebase, ios, pusheen |
+| [Picky Pusheen](https://devpost.com/software/picky-pusheen) · [code](https://github.com/TheMichaelHu/PickyPusheen) | [Progress](../by-sponsor/progress.md) · Best NativeScript App for IOT (Progress) · [details](#project-picky-pusheen) | A mobile app that pairs friends together for everyday activities such as eating or jogging seamlessly. | 3dprinting, arduino, nativescript |
+| [Pusheats](https://devpost.com/software/pusheats) | [Progress](../by-sponsor/progress.md) · Best NativeScript App (Progress) · [details](#project-pusheats) | Pusheen + psychology research = healthier eating habits via mobile app. | css, flask, javascript |
+| [SplitPay](https://devpost.com/software/splitpay-qdibxt) | [Rough Draft Ventures](../by-sponsor/rough-draft-ventures.md) · Rough Draft Ventures Prize · [details](#project-splitpay-qdibxt) | Receipts are hard; automation is easy. | capital-one, flask, meteor.js |
+| [HomeBites](https://devpost.com/software/homebites-84byd3) | [SAP Concur](../by-sponsor/sap-concur.md) · Concur Prize for Best Travel Hack · [details](#project-homebites-84byd3) | Home-cooked meals for anyone. Share a dinner and an experience. | api.ai, azure, capital-one |
+| [ControlGeek](https://devpost.com/software/controlgeek) | [Synaptics](../by-sponsor/synaptics.md) · Most Innovative use of Synaptics Large Touch Sensor · [details](#project-controlgeek) | Unlock the full potential of the electronics you love by controlling them wirelessly through easy hand… | synaptics, javascript, love |
+| [Tinderprint](https://devpost.com/software/tinderprint) · [code](https://github.com/vinaymayar/tinderprint) | [Synaptics](../by-sponsor/synaptics.md) · Most Innovative use of Synaptics Fingerprint Sensor · [details](#project-tinderprint) | Tinderprint is a dating app that matches you with people based on true physical and spiritual compatibility. | convolutional-neural-network, css, ejs |
+| [Amicable](https://devpost.com/software/amicable) | [Two Sigma](../by-sponsor/two-sigma.md) · Two Sigma Prize · [details](#project-amicable) | Ami creates a planner for what you should do on vacation! Just tell it what you want to do, and it will plan… | beaker, java, javascript |
+| [Breast Cancer Detection](https://devpost.com/software/detection-of-breast-cancer-based-on-image-analysis) | [Wolfram](../by-sponsor/wolfram.md) · Best Use of Wolfram Technologies · [details](#project-detection-of-breast-cancer-based-on-image-analysis) | Detecting breast cancer cells using image analysis. | wolfram-technologies, machine-learning |
 
 ## Project details
 
 <a name="project-amicable"></a>
 
-### [Amicable](https://devpost.com/software/amicable)
+<details>
+<summary>Amicable</summary>
 
 Ami creates a planner for what you should do on vacation! Just tell it what you want to do, and it will plan your day.
 
@@ -58,11 +68,14 @@ Ami creates a planner for what you should do on vacation! Just tell it what you 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Two Sigma Prize
 - **Devpost checked** 2026-11-21 UTC
-- **Two Sigma** Ami creates a planner for what you should do while on vacation. Devpost gives no specific sponsor integration detail.
+- **Two Sigma · Two Sigma Prize** Ami creates a planner for what you should do while on vacation.
+
+</details>
 
 <a name="project-askthecandidates"></a>
 
-### [AskTheCandidates](https://devpost.com/software/askthecandidates)
+<details>
+<summary>AskTheCandidates</summary>
 
 Finally ask Donald Trump and Hillary Clinton your burning questions - the catch is that they're actually robots.
 
@@ -72,11 +85,14 @@ Finally ask Donald Trump and Hillary Clinton your burning questions - the catch 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho)
 - **Devpost checked** 2026-11-21 UTC
-- **Kensho** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Kensho · Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho)** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-augmented-paper"></a>
 
-### [Augmented Paper](https://devpost.com/software/augmented-paper)
+<details>
+<summary>Augmented Paper</summary>
 
 Augmenting ordinary paper with new interactive experiences.
 
@@ -86,11 +102,14 @@ Augmenting ordinary paper with new interactive experiences.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Focus based document summarization (Philips)
 - **Devpost checked** 2026-11-21 UTC
-- **Philips** A user places any piece of paper with text/images on it on the clipboard and they can now work with the text on the paper as if it were hyperlinks. Devpost gives no specific sponsor integration detail.
+- **Philips · Focus based document summarization (Philips)** A user places any piece of paper with text/images on it on the clipboard and they can now work with the text on the paper as if it were hyperlinks.
+
+</details>
 
 <a name="project-bitcard-backend"></a>
 
-### [Bitcard](https://devpost.com/software/bitcard-backend)
+<details>
+<summary>Bitcard</summary>
 
 Want to shop online on a site that doesn't accept bitcoin? Now you can -- via the Coinbase and Nessie APIs.
 
@@ -100,11 +119,14 @@ Want to shop online on a site that doesn't accept bitcoin? Now you can -- via th
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best use of Capital One's API - Nessie
 - **Devpost checked** 2026-11-21 UTC
-- **Capital One** The team use the coinbase and Nessie APIs to handle the money, and deliver the app via a chrome extension.
+- **Capital One · Best use of Capital One's API - Nessie** The team use the coinbase and Nessie APIs to handle the money, and deliver the app via a chrome extension.
+
+</details>
 
 <a name="project-blackbox-ct4my1"></a>
 
-### [BlackBox](https://devpost.com/software/blackbox-ct4my1)
+<details>
+<summary>BlackBox</summary>
 
 AI-powered Chatbot which give you curated dating advice - while you're on your date.
 
@@ -114,11 +136,14 @@ AI-powered Chatbot which give you curated dating advice - while you're on your d
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=7KcSXuQXCng)
 - **All event prizes (1)** Facebook Hackathon Finals Trip
 - **Devpost checked** 2026-11-21 UTC
-- **Meta** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Meta · Facebook Hackathon Finals Trip** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-detection-of-breast-cancer-based-on-image-analysis"></a>
 
-### [Breast Cancer Detection](https://devpost.com/software/detection-of-breast-cancer-based-on-image-analysis)
+<details>
+<summary>Breast Cancer Detection</summary>
 
 Detecting breast cancer cells using image analysis.
 
@@ -128,11 +153,14 @@ Detecting breast cancer cells using image analysis.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Wolfram Technologies
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project lists wolfram-technologies among its Built With tags.
+- **Wolfram · Best Use of Wolfram Technologies** The project lists wolfram-technologies among its Built With tags.
+
+</details>
 
 <a name="project-colovr"></a>
 
-### [ColoVR](https://devpost.com/software/colovr)
+<details>
+<summary>ColoVR</summary>
 
 Virtual reality 3D coloring/painting experience for Google Daydream.
 
@@ -142,11 +170,14 @@ Virtual reality 3D coloring/painting experience for Google Daydream.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=HldNqLBlTgc)
 - **All event prizes (1)** Google Cardboard Development Prize
 - **Devpost checked** 2026-11-21 UTC
-- **Google** ColoVR is a virtual experience allowing users to modify their environment with colors and models. Devpost gives no specific sponsor integration detail.
+- **Google · Google Cardboard Development Prize** ColoVR is a virtual experience allowing users to modify their environment with colors and models.
+
+</details>
 
 <a name="project-controlgeek"></a>
 
-### [ControlGeek](https://devpost.com/software/controlgeek)
+<details>
+<summary>ControlGeek</summary>
 
 Unlock the full potential of the electronics you love by controlling them wirelessly through easy hand gestures.
 
@@ -156,11 +187,14 @@ Unlock the full potential of the electronics you love by controlling them wirele
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Most Innovative use of Synaptics Large Touch Sensor
 - **Devpost checked** 2026-11-21 UTC
-- **Synaptics** The project lists synaptics among its Built With tags.
+- **Synaptics · Most Innovative use of Synaptics Large Touch Sensor** The project lists synaptics among its Built With tags.
+
+</details>
 
 <a name="project-crowd-search-zjq3ro"></a>
 
-### [Crowd Search](https://devpost.com/software/crowd-search-zjq3ro)
+<details>
+<summary>Crowd Search</summary>
 
 A platform that helps people collaborate towards finding missing people.
 
@@ -170,11 +204,14 @@ A platform that helps people collaborate towards finding missing people.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best use of Firebase
 - **Devpost checked** 2026-11-21 UTC
-- **Google** Crowd Search makes heavy use of Firebase, and is because of this a completely front-end based application, hosted on Firebase Hosting.
+- **Google · Best use of Firebase** Crowd Search makes heavy use of Firebase, and is because of this a completely front-end based application, hosted on Firebase Hosting.
+
+</details>
 
 <a name="project-dronar"></a>
 
-### [DronAR](https://devpost.com/software/dronar)
+<details>
+<summary>DronAR</summary>
 
 DronAR allows users to view realtime information about their drones such as positional data and status.
 
@@ -184,12 +221,15 @@ DronAR allows users to view realtime information about their drones such as posi
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · Google Cardboard Development Prize
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Local Motors Labs** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Google · Google Cardboard Development Prize** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Local Motors Labs · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-second-order-autonomy"></a>
 
-### [Drones For Humanity - Second-Order Autonomy](https://devpost.com/software/second-order-autonomy)
+<details>
+<summary>Drones For Humanity - Second-Order Autonomy</summary>
 
 A drone platform that not only knows how to fly itself, but also knows where to deliver aid after a natural disaster.
 
@@ -199,11 +239,14 @@ A drone platform that not only knows how to fly itself, but also knows where to 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Devpost checked** 2026-11-21 UTC
-- **Local Motors Labs** The drone is fully autonomous, given a set of GPS coordinates, it will be able to deliver a package without human intervention. Devpost gives no specific sponsor integration detail.
+- **Local Motors Labs · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)** The drone is fully autonomous, given a set of GPS coordinates, it will be able to deliver a package without human intervention.
+
+</details>
 
 <a name="project-e"></a>
 
-### [Ethereum Piggy](https://devpost.com/software/e)
+<details>
+<summary>Ethereum Piggy</summary>
 
 Ethereum Piggy lets you save money with a virtual Piggy Bank.
 
@@ -213,11 +256,14 @@ Ethereum Piggy lets you save money with a virtual Piggy Bank.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best use of Coinbase API
 - **Devpost checked** 2026-11-21 UTC
-- **Coinbase** The project lists coinbase among its Built With tags.
+- **Coinbase · Best use of Coinbase API** The project lists coinbase among its Built With tags.
+
+</details>
 
 <a name="project-flight-aid"></a>
 
-### [Flight Aid](https://devpost.com/software/flight-aid)
+<details>
+<summary>Flight Aid</summary>
 
 This is a user-facing web app that allows the user to pick a delivery location and follow the delivery through real-time tracking.
 
@@ -227,11 +273,14 @@ This is a user-facing web app that allows the user to pick a delivery location a
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Devpost checked** 2026-11-21 UTC
-- **Local Motors Labs** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Local Motors Labs · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-game-of-drones-rsafv0"></a>
 
-### [Game of Drones](https://devpost.com/software/game-of-drones-rsafv0)
+<details>
+<summary>Game of Drones</summary>
 
 Advanced route planning for drone deliveries to moving targets, with tracking and control suite.
 
@@ -241,12 +290,15 @@ Advanced route planning for drone deliveries to moving targets, with tracking an
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Best Creative Car Hack (Ford) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Devpost checked** 2026-11-21 UTC
-- **Ford** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Local Motors Labs** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Ford · Best Creative Car Hack (Ford)** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Local Motors Labs · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-gaze-09xkmb"></a>
 
-### [Gaze](https://devpost.com/software/gaze-09xkmb)
+<details>
+<summary>Gaze</summary>
 
 Gaze organizes un-organized videos to help the user interpret and navigate visual information.
 
@@ -256,12 +308,15 @@ Gaze organizes un-organized videos to help the user interpret and navigate visua
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Best Use of Emerging Technology (Disney) · Best Use of Microsoft Technology
 - **Devpost checked** 2026-11-21 UTC
-- **Disney** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Microsoft** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Disney · Best Use of Emerging Technology (Disney)** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Microsoft · Best Use of Microsoft Technology** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-homebites-84byd3"></a>
 
-### [HomeBites](https://devpost.com/software/homebites-84byd3)
+<details>
+<summary>HomeBites</summary>
 
 Home-cooked meals for anyone. Share a dinner and an experience.
 
@@ -271,11 +326,14 @@ Home-cooked meals for anyone. Share a dinner and an experience.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Concur Prize for Best Travel Hack
 - **Devpost checked** 2026-11-21 UTC
-- **SAP Concur** Homebites connects guests to local hosts/residents who are willing to make a home-cooked meal. Devpost gives no specific sponsor integration detail.
+- **SAP Concur · Concur Prize for Best Travel Hack** Homebites connects guests to local hosts/residents who are willing to make a home-cooked meal.
+
+</details>
 
 <a name="project-js-policy"></a>
 
-### [JS Policy](https://devpost.com/software/js-policy)
+<details>
+<summary>JS Policy</summary>
 
 JS Policy allows web devs to keep user data safe by subjecting 3rd party Javascript to rich runtime policies.
 
@@ -285,11 +343,14 @@ JS Policy allows web devs to keep user data safe by subjecting 3rd party Javascr
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Low Level / High Performance Hack (Hudson River Trading)
 - **Devpost checked** 2026-11-21 UTC
-- **Hudson River Trading** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Hudson River Trading · Best Low Level / High Performance Hack (Hudson River Trading)** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-kinvest"></a>
 
-### [Kinvest](https://devpost.com/software/kinvest)
+<details>
+<summary>Kinvest</summary>
 
 Kiva + Invest. Kinvest allows Lenders to leverage machine learning to maximize impact in developing nations.
 
@@ -299,11 +360,14 @@ Kiva + Invest. Kinvest allows Lenders to leverage machine learning to maximize i
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Most Insightful Hack (BNP Paribas)
 - **Devpost checked** 2026-11-21 UTC
-- **BNP Paribas** Kinvest is trained on Kiva's large datasets. Devpost gives no specific sponsor integration detail.
+- **BNP Paribas · Most Insightful Hack (BNP Paribas)** Kinvest is trained on Kiva's large datasets.
+
+</details>
 
 <a name="project-leaplock-piof9q"></a>
 
-### [LeapLock](https://devpost.com/software/leaplock-piof9q)
+<details>
+<summary>LeapLock</summary>
 
 LeapLock is a 3D-gesture based locking mechanism.
 
@@ -313,11 +377,14 @@ LeapLock is a 3D-gesture based locking mechanism.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Devpost checked** 2026-11-21 UTC
-- **Local Motors Labs** LeapLock allows users to use 3D hand gestures to unlock a safe or any kind of lock. Devpost gives no specific sponsor integration detail.
+- **Local Motors Labs · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)** LeapLock allows users to use 3D hand gestures to unlock a safe or any kind of lock.
+
+</details>
 
 <a name="project-logo-locator"></a>
 
-### [Logo Lens](https://devpost.com/software/logo-locator)
+<details>
+<summary>Logo Lens</summary>
 
 LogoLens presents relevant stock quote data when a user sees a company logo while wearing the HoloLens.
 
@@ -327,11 +394,14 @@ LogoLens presents relevant stock quote data when a user sees a company logo whil
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=AI54o8onLBA)
 - **All event prizes (1)** Nasdaq MarketSite Prize
 - **Devpost checked** 2026-11-21 UTC
-- **Nasdaq** If a logo is detected, the company of the logo is found and the NASDAQ API is used to determine the recent performance of the company’s stock.
+- **Nasdaq · Nasdaq MarketSite Prize** If a logo is detected, the company of the logo is found and the NASDAQ API is used to determine the recent performance of the company’s stock.
+
+</details>
 
 <a name="project-picky-pusheen"></a>
 
-### [Picky Pusheen](https://devpost.com/software/picky-pusheen)
+<details>
+<summary>Picky Pusheen</summary>
 
 A mobile app that pairs friends together for everyday activities such as eating or jogging seamlessly.
 
@@ -341,11 +411,14 @@ A mobile app that pairs friends together for everyday activities such as eating 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best NativeScript App for IOT (Progress)
 - **Devpost checked** 2026-11-21 UTC
-- **Progress** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Progress · Best NativeScript App for IOT (Progress)** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-pusheats"></a>
 
-### [Pusheats](https://devpost.com/software/pusheats)
+<details>
+<summary>Pusheats</summary>
 
 Pusheen + psychology research = healthier eating habits via mobile app.
 
@@ -355,11 +428,14 @@ Pusheen + psychology research = healthier eating habits via mobile app.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best NativeScript App (Progress)
 - **Devpost checked** 2026-11-21 UTC
-- **Progress** The team wrote an iOS/Android mobile application based on psychology/neuroscience lab research dialogues that have been demonstrated to help people to improve their eating habits. Devpost gives no specific sponsor integration detail.
+- **Progress · Best NativeScript App (Progress)** The team wrote an iOS/Android mobile application based on psychology/neuroscience lab research dialogues that have been demonstrated to help people to improve their eating habits.
+
+</details>
 
 <a name="project-pusheen-sell"></a>
 
-### [Pusheen Sell](https://devpost.com/software/pusheen-sell)
+<details>
+<summary>Pusheen Sell</summary>
 
 An easy way to sell your stuff – just push, and sell.
 
@@ -369,11 +445,14 @@ An easy way to sell your stuff – just push, and sell.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Best On-Demand Hack (Postmates) · Best Pusheen Reference
 - **Devpost checked** 2026-11-21 UTC
-- **Postmates** Pusheen Sell allows users to browse items currently for sale and sell items of their own. Devpost gives no specific sponsor integration detail.
+- **Postmates · Best On-Demand Hack (Postmates)** Pusheen Sell allows users to browse items currently for sale and sell items of their own.
+
+</details>
 
 <a name="project-skycart"></a>
 
-### [Skycart](https://devpost.com/software/skycart)
+<details>
+<summary>Skycart</summary>
 
 With more and more advancements in drone technology, drones are becoming accessible by everyone.
 
@@ -383,11 +462,14 @@ With more and more advancements in drone technology, drones are becoming accessi
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Devpost checked** 2026-11-21 UTC
-- **Local Motors Labs** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Local Motors Labs · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-smart-drone-delivery-planning"></a>
 
-### [Smart Drone Delivery Planning](https://devpost.com/software/smart-drone-delivery-planning)
+<details>
+<summary>Smart Drone Delivery Planning</summary>
 
 An iOS app for multi-drone multi-package planning, that supports variable drone capacity and package weights.
 
@@ -397,11 +479,14 @@ An iOS app for multi-drone multi-package planning, that supports variable drone 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Devpost checked** 2026-11-21 UTC
-- **Local Motors Labs** Once the locations are specified, a path planning algorithm determines how to assign each of the drones to delivery tasks, and a simulation is performed. Devpost gives no specific sponsor integration detail.
+- **Local Motors Labs · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)** Once the locations are specified, a path planning algorithm determines how to assign each of the drones to delivery tasks, and a simulation is performed.
+
+</details>
 
 <a name="project-splitpay-qdibxt"></a>
 
-### [SplitPay](https://devpost.com/software/splitpay-qdibxt)
+<details>
+<summary>SplitPay</summary>
 
 Receipts are hard; automation is easy.
 
@@ -411,11 +496,14 @@ Receipts are hard; automation is easy.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Rough Draft Ventures Prize
 - **Devpost checked** 2026-11-21 UTC
-- **Rough Draft Ventures** The team also learned about implementing communication between two web frameworks and about the reactivity used to build Meteor. Devpost gives no specific sponsor integration detail.
+- **Rough Draft Ventures · Rough Draft Ventures Prize** The team also learned about implementing communication between two web frameworks and about the reactivity used to build Meteor.
+
+</details>
 
 <a name="project-termibox"></a>
 
-### [Termibox](https://devpost.com/software/termibox)
+<details>
+<summary>Termibox</summary>
 
 Turn the Chrome URL bar into a bash terminal.
 
@@ -425,11 +513,14 @@ Turn the Chrome URL bar into a bash terminal.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** KCG Prize
 - **Devpost checked** 2026-11-21 UTC
-- **KCG** Termibox brings the functionality of the Terminal into the web - and then some. Devpost gives no specific sponsor integration detail.
+- **KCG · KCG Prize** Termibox brings the functionality of the Terminal into the web - and then some.
+
+</details>
 
 <a name="project-tinderprint"></a>
 
-### [Tinderprint](https://devpost.com/software/tinderprint)
+<details>
+<summary>Tinderprint</summary>
 
 Tinderprint is a dating app that matches you with people based on true physical and spiritual compatibility.
 
@@ -439,11 +530,14 @@ Tinderprint is a dating app that matches you with people based on true physical 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Most Innovative use of Synaptics Fingerprint Sensor
 - **Devpost checked** 2026-11-21 UTC
-- **Synaptics** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Synaptics · Most Innovative use of Synaptics Fingerprint Sensor** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-tourdemarsvr"></a>
 
-### [TourDeMarsVR](https://devpost.com/software/tourdemarsvr)
+<details>
+<summary>TourDeMarsVR</summary>
 
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
@@ -453,11 +547,14 @@ A collaborative virtual reality game that encourages exercise and runs wirelessl
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Google Cardboard Development Prize
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The project lists firebase among its Built With tags.
+- **Google · Google Cardboard Development Prize** The project lists firebase among its Built With tags.
+
+</details>
 
 <a name="project-vr-dj"></a>
 
-### [VR DJ](https://devpost.com/software/vr-dj)
+<details>
+<summary>VR DJ</summary>
 
 VR DJ allows you to visualize and manipulate music.
 
@@ -467,12 +564,15 @@ VR DJ allows you to visualize and manipulate music.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Google Cardboard Development Prize · Oculus Prize (Facebook)
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Meta** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Google · Google Cardboard Development Prize** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Meta · Oculus Prize (Facebook)** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-xkcd-for-america"></a>
 
-### [xkcd For America](https://devpost.com/software/xkcd-for-america)
+<details>
+<summary>xkcd For America</summary>
 
 Determine which candidate to vote for by throwing away your pre-conceived notions – using the art of xkcd.
 
@@ -482,4 +582,6 @@ Determine which candidate to vote for by throwing away your pre-conceived notion
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Best xkcd Reference · Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho)
 - **Devpost checked** 2026-11-21 UTC
-- **Kensho** The users visit the site to find what appears to be a very simple quiz. Devpost gives no specific sponsor integration detail.
+- **Kensho · Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho)** The users visit the site to find what appears to be a very simple quiz.
+
+</details>

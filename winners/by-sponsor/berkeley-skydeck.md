@@ -1,32 +1,29 @@
 # Berkeley SkyDeck
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** anthropic-claude (1), arduino (1), bluetooth (1)
+- **Common project areas** None listed
+- **Common demo formats** Hardware or robotics (1)
+- **Projects with a listed demo video** 1 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Theracat](https://devpost.com/software/theracat) · [code](https://github.com/emilyLi2020/Theracat) · [demo](https://vimeo.com/1203255610) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · SkyDeck Grand Prize Winner · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-theracat) | A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There's no app… | anthropic-claude, arduino, bluetooth |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | SkyDeck Grand Prize Winner | No specific requirement captured | [Event prize rules](https://ai-hackathon-2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** anthropic-claude (1), arduino (1), bluetooth (1), elevenlabs (1), esp32 (1), mpu6050 (1)
-- **Problem areas** None listed
-- **Demo types** Hardware or robotics (1)
-- **Projects with a listed demo video** 1 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Theracat](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-theracat) | UC Berkeley AI Hackathon 2026 | 1 | 3 | Berkeley SkyDeck |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Theracat](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-theracat) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | SkyDeck Grand Prize Winner | — | TheraCat is a two-part companion: a wristband and a soft plush cat. | 3 |
+</details>

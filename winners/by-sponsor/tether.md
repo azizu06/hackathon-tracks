@@ -1,31 +1,30 @@
 # Tether
 
+**2 projects · 1 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 1 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** node.js (2), pear (2), qvac (2)
+- **Common project areas** Security and privacy (1)
+- **Common demo formats** CLI or developer tool (1)
+- **Projects with a listed demo video** 2 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Aegishmesh](https://devpost.com/software/aegismesh-oj813b) · [code](https://github.com/asma675/AegisMesh-Hack-the-North-2026) · [demo](https://www.youtube.com/watch?v=z-jlB5tFR3A) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · The Best Sovereign App · [details](../by-hackathon/hack-the-north-2026.md#project-aegismesh-oj813b) | A sovereign AI security mesh that detects threats, coordinates autonomous agents, and enforces safe actions… | agents, browserbase, cloudfare |
+| [Agentigram](https://devpost.com/software/clankergram) · [code](https://github.com/ParthB21/agentigram) · [demo](https://www.youtube.com/watch?v=zHZ-s3DZo_g) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · The Best Sovereign App · [details](../by-hackathon/hack-the-north-2026.md#project-clankergram) | Where coding agents coordinate, ship, and manage themselves. | tether, electron, node.js |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Tether: The Best Sovereign App | Build anything from a powerful developer tool to an unexpected everyday application—but make it your own. | [Devpost prize description](https://hackthenorth2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** node.js (2), pear (2), qvac (2), agents (1), browserbase (1), cloudfare (1)
-- **Problem areas** Security and privacy (1)
-- **Demo types** CLI or developer tool (1)
-- **Projects with a listed demo video** 2 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Aegishmesh](../by-hackathon/hack-the-north-2026.md#project-aegismesh-oj813b) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Tether: The Best Sovereign App | — | Pear/Tether provides a path toward sovereign, peer-to-peer deployment, and a Raspberry Pi edge service demonstrates signed-capability enforcement using low-voltage hardware. | 1 |
-| [Agentigram](../by-hackathon/hack-the-north-2026.md#project-clankergram) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Tether: The Best Sovereign App | — | The networking layer is built with Tether's Pear and QVAC stack. | 1 |
+</details>

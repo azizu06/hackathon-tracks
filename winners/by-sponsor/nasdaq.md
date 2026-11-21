@@ -1,10 +1,31 @@
 # Nasdaq
 
+**6 projects · 4 editions · 6 prize rows**
+
 [Winners index](../README.md)
 
-6 projects across 4 editions, with 6 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (3), flask (2), google-cloud-vision (2)
+- **Common project areas** Accessibility and assistive tools (1)
+- **Common demo formats** Mobile app (2)
+- **Projects with a listed demo video** 2 of 6
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [1DB: One Database to rule them all](https://devpost.com/software/1db) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Use of Nasdaq/Quandl Datasets · [details](../by-hackathon/hackmit-2019.md#project-1db) | Automatically benefit from the optimizations of many databases, while only working with a single interface. | azure, cosmos-db, druid |
+| [Driversity](https://devpost.com/software/driversity) · [demo](https://www.youtube.com/watch?v=Su83aPedkx4) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Use of Nasdaq/Quandl Datasets · [details](../by-hackathon/hackmit-2019.md#project-driversity) | Making ridesharing safer and more accessible. | amadeus, android-studio, docusign |
+| [HomeUp](https://devpost.com/software/homeup) · [code](https://github.com/siuryan/homeup) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Use of Nasdaq/Quandl Datasets · [details](../by-hackathon/hackmit-2019.md#project-homeup) | Buying a new house but can't decide on a neighborhood? Check out HomeUp for data and interactive charts on… | flask, python, quandl |
+| [Dorm Market](https://devpost.com/software/dorm-market) · [code](https://github.com/m-99/dorm-market) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · Nasdaq Best "Markets Everywhere" Hack · [details](../by-hackathon/hackmit-2018.md#project-dorm-market) | Sell dorm supplies in a seasonal market-style setting with prices determined by supply and demand. | nasdaq-markets-everywhere, css, django |
+| [Jiffy Market Stories](https://devpost.com/software/jiffy-market-stories) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Nasdaq - Best Re-imagination of Market · [details](../by-hackathon/hackmit-2017.md#project-jiffy-market-stories) | Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs. | flask, giphy-api, google-cloud-vision |
+| [Logo Lens](https://devpost.com/software/logo-locator) · [code](https://github.com/ChenJonathan/Logo-Lens) · [demo](https://www.youtube.com/watch?v=AI54o8onLBA) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Nasdaq MarketSite Prize · [details](../by-hackathon/hackmit-2016.md#project-logo-locator) | LogoLens presents relevant stock quote data when a user sees a company logo while wearing the HoloLens. | nasdaq-data-on-demand, c#, google-cloud-vision |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -13,28 +34,4 @@
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Nasdaq - Best Re-imagination of Market | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Nasdaq MarketSite Prize | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (3), flask (2), google-cloud-vision (2), amadeus (1), android-studio (1), azure (1)
-- **Problem areas** Accessibility and assistive tools (1)
-- **Demo types** Mobile app (2)
-- **Projects with a listed demo video** 2 of 6
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [1DB: One Database to rule them all](../by-hackathon/hackmit-2019.md#project-1db) | HackMIT 2019 | 2 | 2 | Kensho, Nasdaq |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [1DB: One Database to rule them all](../by-hackathon/hackmit-2019.md#project-1db) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best Use of Nasdaq/Quandl Datasets | — | The team set up a simple database auto-selector that makes the decision of whether to use Druid or MySQL. | 2 |
-| [Driversity](../by-hackathon/hackmit-2019.md#project-driversity) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best Use of Nasdaq/Quandl Datasets | — | The app, Driversity (stylized DRiveristy), works similarly to other ridesharing apps, with features put in place to assure that both riders and drivers feel safe. | 1 |
-| [HomeUp](../by-hackathon/hackmit-2019.md#project-homeup) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best Use of Nasdaq/Quandl Datasets | — | The team sought to use real estate data made available through Nasdaq datasets to make this decision easier and better informed. | 1 |
-| [Dorm Market](../by-hackathon/hackmit-2018.md#project-dorm-market) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Nasdaq Best "Markets Everywhere" Hack | — | The team used Nasdaq's Markets Everywhere API to handle transactions and set prices for assets in item markets. | 1 |
-| [Jiffy Market Stories](../by-hackathon/hackmit-2017.md#project-jiffy-market-stories) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Nasdaq - Best Re-imagination of Market | — | A user opens the app, takes a picture of a company's logo, and the company's brand name will be recognized. | 1 |
-| [Logo Lens](../by-hackathon/hackmit-2016.md#project-logo-locator) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Nasdaq MarketSite Prize | — | If a logo is detected, the company of the logo is found and the NASDAQ API is used to determine the recent performance of the company’s stock. | 1 |
+</details>

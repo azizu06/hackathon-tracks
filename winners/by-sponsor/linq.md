@@ -1,33 +1,30 @@
 # Linq
 
+**2 projects · 1 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 1 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** linq (2), typescript (2), browse.sh (1)
+- **Common project areas** Games and entertainment (2)
+- **Common demo formats** Game (2), Mobile app (1)
+- **Projects with a listed demo video** 1 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [messageMAFIA](https://devpost.com/software/robot-mt8uxc) · [code](https://github.com/lolasanchezz/text-mafia) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Linq · [details](../by-hackathon/hack-the-north-2026.md#project-robot-mt8uxc) | Social deduction game Mafia played in your iMessages group chat; AI story narration, roles &amp; actions managed… | linq, express.js, supabase |
+| [Whim](https://devpost.com/software/idk-man-794g6v) · [code](https://github.com/chang-07/htn-26) · [demo](https://www.youtube.com/watch?v=5nbMa-0Q6Io) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Linq · [details](../by-hackathon/hack-the-north-2026.md#project-idk-man-794g6v) | Play a game, shop for the party, or book an entire trip end to end. Whim puts custom AI-powered widgets right… | linq, browse.sh, browserbase |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Linq: Best Use of Linq | Linq | [Track label](https://hackthenorth2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** linq (2), typescript (2), browse.sh (1), browserbase (1), cloudflare-d1 (1), cloudflare-durable-objects (1)
-- **Problem areas** Games and entertainment (2)
-- **Demo types** Game (2), Mobile app (1)
-- **Projects with a listed demo video** 1 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Whim](../by-hackathon/hack-the-north-2026.md#project-idk-man-794g6v) | Hack the North 2026 | 2 | 2 | Cloudflare, Linq |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [messageMAFIA](../by-hackathon/hack-the-north-2026.md#project-robot-mt8uxc) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Linq: Best Use of Linq | — | The project lists linq among its Built With tags. | 1 |
-| [Whim](../by-hackathon/hack-the-north-2026.md#project-idk-man-794g6v) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Linq: Best Use of Linq | — | The project lists linq among its Built With tags. | 2 |
+</details>

@@ -1,30 +1,29 @@
 # SafetyKit
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** flask (1), geminiaistudio (1), html (1)
+- **Common project areas** None listed
+- **Common demo formats** Web app or dashboard (1)
+- **Projects with a listed demo video** 1 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [ATLRisk](https://devpost.com/software/atlrisk) · [code](https://github.com/IshaMadanu/hacklytics-atl-risk) · [demo](https://www.youtube.com/watch?v=5gWB9hfDggA) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) · Best AI for Human Safety by SafetyKit · [details](../by-hackathon/hacklytics-2026.md#project-atlrisk) | A website to help Atlanta residents and visitors stay safe during first-time meetups. | flask, geminiaistudio, html |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) | Best AI for Human Safety by SafetyKit | No specific requirement captured | [Event prize rules](https://hacklytics-2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** flask (1), geminiaistudio (1), html (1), intellij-idea (1), pandas (1), python (1)
-- **Problem areas** None listed
-- **Demo types** Web app or dashboard (1)
-- **Projects with a listed demo video** 1 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [ATLRisk](../by-hackathon/hacklytics-2026.md#project-atlrisk) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) | Best AI for Human Safety by SafetyKit | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

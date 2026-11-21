@@ -1,10 +1,34 @@
 # Bright Data
 
+**9 projects · 3 editions · 9 prize rows**
+
 [Winners index](../README.md)
 
-9 projects across 3 editions, with 9 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (6), claude (5), bright-data (4)
+- **Common project areas** Health and care (1)
+- **Common demo formats** Mobile app (2), Voice or conversational interface (2), Web app or dashboard (2)
+- **Projects with a listed demo video** 9 of 9
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [dibs](https://devpost.com/software/dibs-8upsd4) · [code](https://github.com/azh05/dibs-app) · [demo](https://www.youtube.com/watch?v=YFD5S7mlP5E) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Agent/App Using Public Web Data sponsored by Bright Data · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-dibs-8upsd4) | An app where AI agents read every nearby store's Instagram, TikTok, and website 24/7, from cafes, gyms, to… | anthropic-api, apify, bright-data |
+| [Remy](https://devpost.com/software/remy-h9dbx1) · [code](https://github.com/gsonntag/calhacks) · [demo](https://www.youtube.com/watch?v=sja3NhjxxBM) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Agent/App Using Public Web Data sponsored by Bright Data · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-remy-h9dbx1) | Drop in your hospital bill and insurance statement. | bright-data, capital-one-nessie, cartesia |
+| [Show Before](https://devpost.com/software/show-before) · [demo](https://www.youtube.com/watch?v=aRcpU5eLNJc) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Agent/App Using Public Web Data sponsored by Bright Data · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-show-before) | One iPhone walkthrough builds a complete listing. Renters speed-tour real homes in VR, say what they love or… | apify, arduino, arkit |
+| [kiru](https://devpost.com/software/kiru) · [code](https://github.com/Pranav-Karra-3301/treehacks-26) · [demo](https://www.youtube.com/watch?v=73PZw1LwPow) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits… · [details](../by-hackathon/treehacks-2026.md#project-kiru) | Hate waiting on hold? kiru is a voice agent that actually calls companies, talks to customer support, and… | asyncio, fast-api, nextjs |
+| [NextOp](https://devpost.com/software/nextop) · [demo](https://www.youtube.com/watch?v=WwUi08k8dG4) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits… · [details](../by-hackathon/treehacks-2026.md#project-nextop) | 200K veterans transition out every year — most without real support. NextOp is a private AI coach that… | anthropic, anthropic-sdk, brightdata |
+| [ShotSpot](https://devpost.com/software/shotspot-kfvp1n) · [code](https://github.com/aedutta/shot-spot-treehacks-26) · [demo](https://www.youtube.com/watch?v=Tgwt2pgQVXs) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits… · [details](../by-hackathon/treehacks-2026.md#project-shotspot-kfvp1n) | Stop scrubbing videos. Start training models. | bright-data, clip, modal |
+| [ChatRealm](https://devpost.com/software/chatrealm) · [code](https://github.com/saurabh98s/calhacks24) · [demo](https://www.youtube.com/watch?v=huHLto3601A) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · The Bright Data: Best Use of Bright Data · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-chatrealm) | ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Specialized… | anthropic-claude-api, asi-one, brightdata-api |
+| [FairVal](https://devpost.com/software/reclaim-ai) · [demo](https://www.youtube.com/watch?v=JZJVVK4-EEU) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · The Bright Data: Best Use of Bright Data · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-reclaim-ai) | Your post-purchase autopilot that automatically tracks online price changes and writes emails to give you… | claude, react, typescript |
+| [Guardian: AI-powered Scam and Fraud Prevention](https://devpost.com/software/guardian-ai-powered-fraud-prevention-for-your-money) · [code](https://github.com/aryan-gupta123/Guardian) · [demo](https://www.youtube.com/watch?v=dWRFXnRT234) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · The Bright Data: Best Use of Bright Data · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-guardian-ai-powered-fraud-prevention-for-your-money) | Defend against suspicious charges before they even reach your account, utilizing voice alerts, agentic… | anthropic, brightdata, claude |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -12,32 +36,4 @@
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Bright Data&#93; Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | The Bright Data: Best Use of Bright Data | Bright Data | [Track label](https://cal-hacks-12-0.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (6), claude (5), bright-data (4), fastapi (4), react (4), typescript (4)
-- **Problem areas** Health and care (1)
-- **Demo types** Mobile app (2), Voice or conversational interface (2), Web app or dashboard (2), AR, VR or spatial (1), CLI or developer tool (1), Hardware or robotics (1)
-- **Projects with a listed demo video** 9 of 9
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Remy](../by-hackathon/cal-hacks-13-0-2026.md#project-remy-h9dbx1) | Cal Hacks 13.0 2026 | 2 | 2 | Bright Data, Notability |
-| [ShotSpot](../by-hackathon/treehacks-2026.md#project-shotspot-kfvp1n) | TreeHacks 2026 | 2 | 2 | Bright Data, Modal |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [dibs](../by-hackathon/cal-hacks-13-0-2026.md#project-dibs-8upsd4) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data | — | Choose from 72 store types (boba, cafés, gyms, barbershops, nails, grocery, nightlife and more) and how far you'll go. | 1 |
-| [Remy](../by-hackathon/cal-hacks-13-0-2026.md#project-remy-h9dbx1) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Show Before](../by-hackathon/cal-hacks-13-0-2026.md#project-show-before) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data | — | Show Before turns one iPhone walkthrough into an ordered photo gallery, a measured floor plan, a listing description, a narrated highlight video, and a 3D tour. | 1 |
-| [kiru](../by-hackathon/treehacks-2026.md#project-kiru) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Bright Data&#93; Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;) | $500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93; | Before the call even starts, it does its homework: researching the company, pulling competitor pricing, finding leverage. | 1 |
-| [NextOp](../by-hackathon/treehacks-2026.md#project-nextop) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Bright Data&#93; Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;) | $500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93; | NextOp is an end-to-end AI-powered transition coach with five core capabilities:. | 1 |
-| [ShotSpot](../by-hackathon/treehacks-2026.md#project-shotspot-kfvp1n) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Bright Data&#93; Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;) | $500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93; | Multi-product Bright Data integration – Web Scraper API, SERP API, and Web Unlocker working seamlessly. | 2 |
-| [ChatRealm](../by-hackathon/cal-hacks-12-0-2025.md#project-chatrealm) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | The Bright Data: Best Use of Bright Data | — | ChatRealm is a safe space where AI doesn't replace human connection, it protects and nurtures it. | 1 |
-| [FairVal](../by-hackathon/cal-hacks-12-0-2025.md#project-reclaim-ai) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | The Bright Data: Best Use of Bright Data | — | The application employs Vercel Analytics for performance monitoring and uses Axios for HTTP requests to external APIs, including Bright Data's dataset triggers for structured product data collection. | 1 |
-| [Guardian: AI-powered Scam and Fraud Prevention](../by-hackathon/cal-hacks-12-0-2025.md#project-guardian-ai-powered-fraud-prevention-for-your-money) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | The Bright Data: Best Use of Bright Data | — | The team learned that designing for financial security isn’t just a data problem, it’s an intrinsically human one. | 1 |
+</details>

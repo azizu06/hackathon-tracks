@@ -1,10 +1,40 @@
 # Meta
 
+**15 projects · 8 editions · 15 prize rows**
+
 [Winners index](../README.md)
 
-15 projects across 8 editions, with 15 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** typescript (6), node.js (5), python (5)
+- **Common project areas** Games and entertainment (3)
+- **Common demo formats** Mobile app (5), Voice or conversational interface (4), Game (2)
+- **Projects with a listed demo video** 11 of 15
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [dor](https://devpost.com/software/dor) · [code](https://github.com/rishibagri/dor-calhacks) · [demo](https://www.youtube.com/watch?v=LXBGN2EFTMo) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Meta/Facebook: Bringing People Closer Together with AI · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-dor) | Life opens new doors. dor keeps old ones from closing, and helps you find your way into new ones with AI-… | apify, cartesia, claude |
+| [HUSH](https://devpost.com/software/hush-k0jdb6) · [demo](https://www.youtube.com/watch?v=vZC8I7Vy1TM) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Meta/Facebook: Bringing People Closer Together with AI · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-hush-k0jdb6) | A webcam-powered horror game where your vitals shapes an AI creature’s hunt. Fix equipment, broadcast false… | canvas, css3, electron |
+| [Re:collection](https://devpost.com/software/re-collection) · [code](https://github.com/shividoge/re-collection) · [demo](https://www.youtube.com/watch?v=FQ0vPIS4VM8) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Meta/Facebook: Bringing People Closer Together with AI · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-re-collection) | Re:Collection turns a family visit or an old home video into a 3D Memory Palace someone with Alzheimer’s can… | anthropic, arkit, bun |
+| [HeirLoom](https://devpost.com/software/heirloom-3q2bn9) · [code](https://github.com/Adalo-Gusa/SPIRE_GT_Hacks) · [demo](https://www.youtube.com/watch?v=2HFSy_1dndI) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · Bringing People Closer Together with AI - Winner · [details](../by-hackathon/hackgt-13-2026.md#project-heirloom-3q2bn9) | At the heart of HeirLoom is Loomie, an empathetic voice AI companion. | backboard.io, figma, grok |
+| [Nudge](https://devpost.com/software/nudge-hcvxfq) · [code](https://github.com/AlanRoybal/hackgt) · [demo](https://www.youtube.com/watch?v=IqrNMV-T1MQ) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · Bringing People Closer Together with AI - Winner · [details](../by-hackathon/hackgt-13-2026.md#project-nudge-hcvxfq) | The Nudge loop: every call seeds the next one. | amazon-bedrock, amazon-chime-sdk, amazon-cognito |
+| [TedTime](https://devpost.com/software/teddy-42km8n) · [demo](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · Bringing People Closer Together with AI - Winner · [details](../by-hackathon/hackgt-13-2026.md#project-teddy-42km8n) | A cozy bear that families can use to share stories with their loved ones. | esp32, expo.io, family |
+| [CloseMates](https://devpost.com/software/working-hacktx-2026) · [code](https://github.com/sendtovishnu/hacktx26) · [demo](https://www.youtube.com/watch?v=dcHFqio6nO0) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI · [details](../by-hackathon/hacktx-2026.md#project-working-hacktx-2026) | Your friends shouldn't have to ask. CloseMates gives everyone a FirstMate, an AI twin that reads your week… | meta-muse-spark, cloudflare, express.js |
+| [Destina](https://devpost.com/software/destina) · [code](https://github.com/Dhivyeshp/hacktx_26) · [demo](https://www.youtube.com/watch?v=V9zV0iFYMNA) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI · [details](../by-hackathon/hacktx-2026.md#project-destina) | Physical Robot Icebreaker Game; Fate, with a little help from Tina. | 3d-printing, anchor, apple-vision-pro |
+| [Myst](https://devpost.com/software/myst-78dz52) · [code](https://github.com/harshaldhaduk/myst) · [demo](https://www.youtube.com/watch?v=3lROw3SQE4s) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI · [details](../by-hackathon/hacktx-2026.md#project-myst-78dz52) | A quiet voice in your ear that remembers the people you love. | meta, meta-ai, meta-wearables-device-access-toolkit |
+| [Rap Scorer](https://devpost.com/software/rap-scorer) · [code](https://github.com/jenniferlai43/rapscorer) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Hack for Building Community with Facebook · [details](../by-hackathon/hackmit-2019.md#project-rap-scorer) | The pen is mightier than the sword, nothing is more powerful than the word. | css3, datamuse, html5 |
+| [Core](https://devpost.com/software/core-fh4pvs) · [code](https://github.com/the-flying-circus/HackMIT2018) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · Best Use of Facebook API · [details](../by-hackathon/hackmit-2018.md#project-core-fh4pvs) | Helping individuals as they overcome opioid dependency by providing them with volunteer mentors. | facebook-graph, facebook-login-api, flask |
+| [NSAR](https://devpost.com/software/nsar) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Facebook - Best Use of Facebook API · [details](../by-hackathon/hackmit-2017.md#project-nsar) | Get personal details of someone just by looking at them with the magic of a HoloLens, face recognition, and… | bottle, c++, facebook |
+| [BlackBox](https://devpost.com/software/blackbox-ct4my1) · [code](https://github.com/96imranahmed/blackbox-public) · [demo](https://www.youtube.com/watch?v=7KcSXuQXCng) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Facebook Hackathon Finals Trip · [details](../by-hackathon/hackmit-2016.md#project-blackbox-ct4my1) | AI-powered Chatbot which give you curated dating advice - while you're on your date. | machine-learning, python |
+| [VR DJ](https://devpost.com/software/vr-dj) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Oculus Prize (Facebook) · [details](../by-hackathon/hackmit-2016.md#project-vr-dj) | VR DJ allows you to visualize and manipulate music. | c#, unity, vive |
+| [NextSlide](https://devpost.com/software/nextslide) · [demo](https://www.youtube.com/watch?v=6cKSB5mMAFo) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) · Facebook · [details](../by-hackathon/hackmit-2013.md#project-nextslide) | An online collection and viewer of PowerPoint presentations for large events/conferences with many speakers. | — |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -18,37 +48,4 @@
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Oculus Prize (Facebook) | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Facebook | No specific requirement captured | [Event prize rules](https://hackmit.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** typescript (6), node.js (5), python (5), swift (5), react (4), swiftui (3)
-- **Problem areas** Games and entertainment (3)
-- **Demo types** Mobile app (5), Voice or conversational interface (4), Game (2), Hardware or robotics (2), AR, VR or spatial (1), CLI or developer tool (1)
-- **Projects with a listed demo video** 11 of 15
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [VR DJ](../by-hackathon/hackmit-2016.md#project-vr-dj) | HackMIT 2016 | 2 | 2 | Google, Meta |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [dor](../by-hackathon/cal-hacks-13-0-2026.md#project-dor) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [HUSH](../by-hackathon/cal-hacks-13-0-2026.md#project-hush-k0jdb6) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI | — | You are a researcher trapped in a sealed, windowless shelter after a blind creature escapes containment. | 1 |
-| [Re:collection](../by-hackathon/cal-hacks-13-0-2026.md#project-re-collection) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI | — | Re:Collection turns a family visit, or an old home video, into a 3D memory someone with Alzheimer's can step back into. | 1 |
-| [HeirLoom](../by-hackathon/hackgt-13-2026.md#project-heirloom-3q2bn9) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | Meta: Bringing People Closer Together with AI - Winner | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Nudge](../by-hackathon/hackgt-13-2026.md#project-nudge-hcvxfq) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | Meta: Bringing People Closer Together with AI - Winner | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [TedTime](../by-hackathon/hackgt-13-2026.md#project-teddy-42km8n) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | Meta: Bringing People Closer Together with AI - Winner | — | The bear serves as a way for families to share stories in an immersive way even if they may be far apart. | 1 |
-| [CloseMates](../by-hackathon/hacktx-2026.md#project-working-hacktx-2026) | [HackTX 2026](../by-hackathon/hacktx-2026.md) | &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI | — | The project lists meta-muse-spark among its Built With tags. | 1 |
-| [Destina](../by-hackathon/hacktx-2026.md#project-destina) | [HackTX 2026](../by-hackathon/hacktx-2026.md) | &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI | — | Destina is a tabletop party game for a group of friends, hosted by Tina. | 1 |
-| [Myst](../by-hackathon/hacktx-2026.md#project-myst-78dz52) | [HackTX 2026](../by-hackathon/hacktx-2026.md) | &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI | — | 🛣️ Next: testing with strangers and with no one in view, timed end-to-end runs, Meta's accessibility approval, alerts for remote family, and testing the voice with real caregivers. | 1 |
-| [Rap Scorer](../by-hackathon/hackmit-2019.md#project-rap-scorer) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best Hack for Building Community with Facebook | — | Battle your friends in a game of wits, who shall be the first to call it quits. | 1 |
-| [Core](../by-hackathon/hackmit-2018.md#project-core-fh4pvs) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best Use of Facebook API | — | Core seeks to provide individuals looking to overcome opiate and other drug addictions with strong and supportive connections with volunteer mentors. | 1 |
-| [NSAR](../by-hackathon/hackmit-2017.md#project-nsar) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Facebook - Best Use of Facebook API | — | NSAR shows names and other details next to the faces of people you look at with a HoloLens. | 1 |
-| [BlackBox](../by-hackathon/hackmit-2016.md#project-blackbox-ct4my1) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Facebook Hackathon Finals Trip | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [VR DJ](../by-hackathon/hackmit-2016.md#project-vr-dj) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Oculus Prize (Facebook) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [NextSlide](../by-hackathon/hackmit-2013.md#project-nextslide) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Facebook | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

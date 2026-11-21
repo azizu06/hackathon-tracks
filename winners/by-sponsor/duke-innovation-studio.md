@@ -1,32 +1,29 @@
 # Duke Innovation Studio
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** alexa (1), cockroachdb (1), deepaffects (1)
+- **Common project areas** None listed
+- **Common demo formats** None listed
+- **Projects with a listed demo video** 1 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Ketchup](https://devpost.com/software/ketchup-396ntm) · [code](https://github.com/sanhalim/ketchup) · [demo](https://www.youtube.com/watch?v=iT3uq3vS_PE) | [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md) · Next Big Innovation Award · [details](../by-hackathon/hackduke-code-for-good-2020.md#project-ketchup-396ntm) | "Alexa, let's catchup". Ketchup is an Alexa Skill that asks you how you're doing everyday, using sentiment… | alexa, cockroachdb, deepaffects |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md) | Duke Innovation Studio: Next Big Innovation Award | No specific requirement captured | [Event prize rules](https://code-for-good.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** alexa (1), cockroachdb (1), deepaffects (1), flask (1), google-cloud (1), node.js (1)
-- **Problem areas** None listed
-- **Demo types** None listed
-- **Projects with a listed demo video** 1 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Ketchup](../by-hackathon/hackduke-code-for-good-2020.md#project-ketchup-396ntm) | HackDuke Code for Good 2020 | 2 | 2 | Duke Innovation Studio, Wolfram |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Ketchup](../by-hackathon/hackduke-code-for-good-2020.md#project-ketchup-396ntm) | [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md) | Duke Innovation Studio: Next Big Innovation Award | — | ketchup is a custom-built Alexa skill that asks the user how they’re feeling everyday. | 2 |
+</details>

@@ -1,31 +1,30 @@
 # PepsiCo / Berkeley SCET
 
+**2 projects · 1 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 1 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** css (1), express.js (1), html (1)
+- **Common project areas** Climate and environment (2)
+- **Common demo formats** Web app or dashboard (1)
+- **Projects with a listed demo video** 0 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Peps Towards Sustainability](https://devpost.com/software/peps-towards-sustainability) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · SCET/Pepsico: PEP+ Sustainability Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-peps-towards-sustainability) | PepsiCo has many sustainability practices, but there’s no centralized metric to assess progress across goals.… | css, html, javascript |
+| [TrashToTreasure - Sustainable Showcase](https://devpost.com/software/trashtotreasure-sustainable-showcase) · [code](https://github.com/garvcodes/sustainableshowcase) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · SCET/Pepsico: PEP+ Sustainability Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-trashtotreasure-sustainable-showcase) | Improvements in Pepsi's Global Value chain end with consumers but so does waste. Imagine if customers were… | express.js, mongodb, nextjs |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | SCET/Pepsico: PEP+ Sustainability Prize | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** css (1), express.js (1), html (1), javascript (1), mongodb (1), nextjs (1)
-- **Problem areas** Climate and environment (2)
-- **Demo types** Web app or dashboard (1)
-- **Projects with a listed demo video** 0 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Peps Towards Sustainability](../by-hackathon/cal-hacks-11-0-2024.md#project-peps-towards-sustainability) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | SCET/Pepsico: PEP+ Sustainability Prize | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [TrashToTreasure - Sustainable Showcase](../by-hackathon/cal-hacks-11-0-2024.md#project-trashtotreasure-sustainable-showcase) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | SCET/Pepsico: PEP+ Sustainability Prize | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

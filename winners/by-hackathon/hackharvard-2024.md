@@ -1,31 +1,41 @@
 # HackHarvard 2024
 
-[Devpost gallery](https://hackharvard-2024.devpost.com/project-gallery) · [Official prize rules](https://hackharvard-2024.devpost.com/) · [Winners index](../README.md)
+**12 projects · 10 sponsors · 12 prize rows**
 
-12 projects and 12 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://hackharvard-2024.devpost.com/project-gallery) · [Official prize rules](https://hackharvard-2024.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** python (8), react (7), javascript (5)
+- **Common project areas** Games and entertainment (2), Health and care (2), Accessibility and assistive tools (1)
+- **Common demo formats** Game (2), Mobile app (2), Web app or dashboard (2)
+- **Projects with a listed demo video** 10 of 12
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Flexy (And I Know It)](#project-flexy-and-i-know-it) | [AllHealth](../by-sponsor/allhealth.md) | AllHealth Track Prize | — | The team use an advanced posture detection algorithm to identify key body joints and landmarks in real-time videos. | 1 |
-| [Open Context](#project-open-context) | [Cloudflare](../by-sponsor/cloudflare.md) | Best AI Application Built with Cloudflare | — | The project lists cloudflare among its Built With tags. | 1 |
-| [citewise](#project-citewise) | [Databricks](../by-sponsor/databricks.md) | Best AI Project with Databricks Open Source | — | The tool transforms legal research by offering AI-powered legal case search. | 1 |
-| [FootPrint Mayhem](#project-footprint-mayhem) | [Defang](../by-sponsor/defang.md) | Best Use of Defang | — | FootPrint Mayhem makes sustainability part of your daily routine with these features:. | 1 |
-| [Clean Sweep](#project-cleansweep-tjq36w) | [HashiCorp](../by-sponsor/hashicorp.md) | Best Use of Terraform | — | The project lists terraform among its Built With tags. | 1 |
-| [Invaders](#project-invaders-uq02re) | [MathWorks](../by-sponsor/mathworks.md) | Best Use of MATLAB | — | Interfaced with the native sound libraries for audio playback (example being PulseAudio for Linux!). | 1 |
-| [TradeREC](#project-energy-trading) | [Midnight](../by-sponsor/midnight.md) | Best Use of Midnight | — | Blockchain for Transparency : TradeREC uses Hedera and Midnight blockchain technology to provide secure, transparent records of every transaction . | 1 |
-| [Althea](#project-althea) | [Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) | Patient Safety Challenge: Sunrise (Hatch) Alarm Clock | — | Althea allows users to enter which prescriptions drugs they are taking so that they can have a checklist to remember what they have taken on a certain day. | 1 |
-| [CognitiveKeyboard](#project-cognitivekeyboard) | [Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) | Patient Safety Challenge: Sunrise (Hatch) Alarm Clock | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [SimplySign](#project-simplysign) | [Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) | Patient Safety Challenge: Sunrise (Hatch) Alarm Clock | — | The web app captures hand gestures using a webcam, processes the images, and then translates the detected signs into text displayed on the screen. | 1 |
-| [Embeddit](#project-embeddit) | [Sauce Labs](../by-sponsor/sauce-labs.md) | Sauce Labs Hot Sauce Raffle | — | Embeddit allows users to ask questions about a specific subreddit. | 1 |
-| [T-Error](#project-terror) | [Warp](../by-sponsor/warp.md) | Best Developer Tool | — | T-Error is a terminal error-monitoring tool that captures and logs errors as developers run commands. | 1 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Flexy (And I Know It)](https://devpost.com/software/flexy-and-i-know-it) · [code](https://github.com/Shameed4/Flexy) · [demo](https://www.youtube.com/watch?v=l7krRFZL9R8) | [AllHealth](../by-sponsor/allhealth.md) · AllHealth Track Prize · [details](#project-flexy-and-i-know-it) | Transforming arthritis rehabilitation by advanced posture detection ensures correct movements. Gamify your… | blockchain, cloudflare, cosine |
+| [Open Context](https://devpost.com/software/open-context) · [code](https://github.com/SunfishTK1/open-context) · [demo](https://www.youtube.com/watch?v=q9SSeZdKo4U) | [Cloudflare](../by-sponsor/cloudflare.md) · Best AI Application Built with Cloudflare · [details](#project-open-context) | A platform for open-source course data collection, and quiz generation. | cloudflare, defang, fastapi |
+| [citewise](https://devpost.com/software/citewise) · [code](https://github.com/FelixNgFender/HackHarvard24) · [demo](https://www.youtube.com/watch?v=VuqHDqgFIkg) | [Databricks](../by-sponsor/databricks.md) · Best AI Project with Databricks Open Source · [details](#project-citewise) | Transform legal research with an AI-powered tool that delivers precise case matches from open-source… | cloudflare, courtlistener, fastapi |
+| [FootPrint Mayhem](https://devpost.com/software/footprint-mayhem) · [code](https://github.com/Jshot117/HackHarvard) | [Defang](../by-sponsor/defang.md) · Best Use of Defang · [details](#project-footprint-mayhem) | A platform to minimize carbon footprint by encouraging users to reduce their daily waste through streaks,… | defan.io, express.js, firebase |
+| [Clean Sweep](https://devpost.com/software/cleansweep-tjq36w) · [code](https://github.com/DPulavarthy/HackHarvard) · [demo](https://www.youtube.com/watch?v=iU_6u-RygyQ) | [HashiCorp](../by-sponsor/hashicorp.md) · Best Use of Terraform · [details](#project-cleansweep-tjq36w) | Clean Sweep — Smart city waste management using real-time data. | terraform, databricks, google-cloud |
+| [Invaders](https://devpost.com/software/invaders-uq02re) · [code](https://github.com/ttran134/invaders) · [demo](https://vimeo.com/1019066017) | [MathWorks](../by-sponsor/mathworks.md) · Best Use of MATLAB · [details](#project-invaders-uq02re) | Using MATLAB to make a Galaga-style game. | c++, freetype, matlab |
+| [TradeREC](https://devpost.com/software/energy-trading) · [code](https://github.com/eshansinghal14/hack-harvard-24) · [demo](https://www.youtube.com/watch?v=kejAyXxu1fU) | [Midnight](../by-sponsor/midnight.md) · Best Use of Midnight · [details](#project-energy-trading) | Powering a Greener Future, One Trade at a Time. A Blockchain-Powered Marketplace for Trading Clean Energy… | midnight, hedera, mongodb |
+| [Althea](https://devpost.com/software/althea) · [code](https://github.com/Givikap/Althea) · [demo](https://www.youtube.com/watch?v=y12QLSdo0zs) | [Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) · Patient Safety Challenge: Sunrise (Hatch) Alarm Clock · [details](#project-althea) | Your personal prescription and medical symptom tracking companion. | amazon-web-services, django, flutter |
+| [CognitiveKeyboard](https://devpost.com/software/cognitivekeyboard) · [demo](https://www.youtube.com/watch?v=dRKB-PcvrnU) | [Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) · Patient Safety Challenge: Sunrise (Hatch) Alarm Clock · [details](#project-cognitivekeyboard) | CognitiveKeyboard is an alternative Android keyboard that updates a user’s typing statistics every 30 seconds. | adb, android-studio, github |
+| [SimplySign](https://devpost.com/software/simplysign) | [Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) · Patient Safety Challenge: Sunrise (Hatch) Alarm Clock · [details](#project-simplysign) | SimplySign aims to make ASL more accessible and bring people together, whether by facilitating communication… | css, github, html |
+| [Embeddit](https://devpost.com/software/embeddit) · [code](https://github.com/sethmorton/embeddit) · [demo](https://www.youtube.com/watch?v=E9kUUpfn7_g) | [Sauce Labs](../by-sponsor/sauce-labs.md) · Sauce Labs Hot Sauce Raffle · [details](#project-embeddit) | Find useful information about subreddits with a few clicks. | chatgpt, css, daisyui |
+| [T-Error](https://devpost.com/software/terror) · [code](https://github.com/denniwang/t-error) · [demo](https://www.youtube.com/watch?v=MNrN6I0-H-A) | [Warp](../by-sponsor/warp.md) · Best Developer Tool · [details](#project-terror) | Real-time error monitoring from the terminal, helping developers spend less time solving common problems. | c++, javascript, mongodb |
 
 ## Project details
 
 <a name="project-althea"></a>
 
-### [Althea](https://devpost.com/software/althea)
+<details>
+<summary>Althea</summary>
 
 Your personal prescription and medical symptom tracking companion.
 
@@ -35,11 +45,14 @@ Your personal prescription and medical symptom tracking companion.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=y12QLSdo0zs)
 - **All event prizes (1)** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
 - **Devpost checked** 2026-11-21 UTC
-- **Patient Safety Technology Challenge** Althea allows users to enter which prescriptions drugs they are taking so that they can have a checklist to remember what they have taken on a certain day. Devpost gives no specific sponsor integration detail.
+- **Patient Safety Technology Challenge · Patient Safety Challenge: Sunrise (Hatch) Alarm Clock** Althea allows users to enter which prescriptions drugs they are taking so that they can have a checklist to remember what they have taken on a certain day.
+
+</details>
 
 <a name="project-citewise"></a>
 
-### [citewise](https://devpost.com/software/citewise)
+<details>
+<summary>citewise</summary>
 
 Transform legal research with an AI-powered tool that delivers precise case matches from open-source databases. Streamline workflows and make research faster.
 
@@ -49,11 +62,14 @@ Transform legal research with an AI-powered tool that delivers precise case matc
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=VuqHDqgFIkg)
 - **All event prizes (1)** Best AI Project with Databricks Open Source
 - **Devpost checked** 2026-11-21 UTC
-- **Databricks** The tool transforms legal research by offering AI-powered legal case search. Devpost gives no specific sponsor integration detail.
+- **Databricks · Best AI Project with Databricks Open Source** The tool transforms legal research by offering AI-powered legal case search.
+
+</details>
 
 <a name="project-cleansweep-tjq36w"></a>
 
-### [Clean Sweep](https://devpost.com/software/cleansweep-tjq36w)
+<details>
+<summary>Clean Sweep</summary>
 
 Clean Sweep — Smart city waste management using real-time data.
 
@@ -63,11 +79,14 @@ Clean Sweep — Smart city waste management using real-time data.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=iU_6u-RygyQ)
 - **All event prizes (1)** Best Use of Terraform
 - **Devpost checked** 2026-11-21 UTC
-- **HashiCorp** The project lists terraform among its Built With tags.
+- **HashiCorp · Best Use of Terraform** The project lists terraform among its Built With tags.
+
+</details>
 
 <a name="project-cognitivekeyboard"></a>
 
-### [CognitiveKeyboard](https://devpost.com/software/cognitivekeyboard)
+<details>
+<summary>CognitiveKeyboard</summary>
 
 CognitiveKeyboard is an alternative Android keyboard that updates a user’s typing statistics every 30 seconds.
 
@@ -77,11 +96,14 @@ CognitiveKeyboard is an alternative Android keyboard that updates a user’s typ
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=dRKB-PcvrnU)
 - **All event prizes (1)** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
 - **Devpost checked** 2026-11-21 UTC
-- **Patient Safety Technology Challenge** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Patient Safety Technology Challenge · Patient Safety Challenge: Sunrise (Hatch) Alarm Clock** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-embeddit"></a>
 
-### [Embeddit](https://devpost.com/software/embeddit)
+<details>
+<summary>Embeddit</summary>
 
 Find useful information about subreddits with a few clicks.
 
@@ -91,11 +113,14 @@ Find useful information about subreddits with a few clicks.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=E9kUUpfn7_g)
 - **All event prizes (1)** Sauce Labs Hot Sauce Raffle
 - **Devpost checked** 2026-11-21 UTC
-- **Sauce Labs** Embeddit allows users to ask questions about a specific subreddit. Devpost gives no specific sponsor integration detail.
+- **Sauce Labs · Sauce Labs Hot Sauce Raffle** Embeddit allows users to ask questions about a specific subreddit.
+
+</details>
 
 <a name="project-flexy-and-i-know-it"></a>
 
-### [Flexy (And I Know It)](https://devpost.com/software/flexy-and-i-know-it)
+<details>
+<summary>Flexy (And I Know It)</summary>
 
 Transforming arthritis rehabilitation by advanced posture detection ensures correct movements. Gamify your recovery by drawing shapes with your body—making recovery fun and accelerating healing.
 
@@ -105,11 +130,14 @@ Transforming arthritis rehabilitation by advanced posture detection ensures corr
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=l7krRFZL9R8)
 - **All event prizes (1)** AllHealth Track Prize
 - **Devpost checked** 2026-11-21 UTC
-- **AllHealth** The team use an advanced posture detection algorithm to identify key body joints and landmarks in real-time videos. Devpost gives no specific sponsor integration detail.
+- **AllHealth · AllHealth Track Prize** The team use an advanced posture detection algorithm to identify key body joints and landmarks in real-time videos.
+
+</details>
 
 <a name="project-footprint-mayhem"></a>
 
-### [FootPrint Mayhem](https://devpost.com/software/footprint-mayhem)
+<details>
+<summary>FootPrint Mayhem</summary>
 
 A platform to minimize carbon footprint by encouraging users to reduce their daily waste through streaks, games, and points.
 
@@ -119,11 +147,14 @@ A platform to minimize carbon footprint by encouraging users to reduce their dai
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Defang
 - **Devpost checked** 2026-11-21 UTC
-- **Defang** FootPrint Mayhem makes sustainability part of your daily routine with these features:. Devpost gives no specific sponsor integration detail.
+- **Defang · Best Use of Defang** FootPrint Mayhem makes sustainability part of your daily routine with these features:.
+
+</details>
 
 <a name="project-invaders-uq02re"></a>
 
-### [Invaders](https://devpost.com/software/invaders-uq02re)
+<details>
+<summary>Invaders</summary>
 
 Using MATLAB to make a Galaga-style game.
 
@@ -133,11 +164,14 @@ Using MATLAB to make a Galaga-style game.
 - **Demo video** [Video 1](https://vimeo.com/1019066017)
 - **All event prizes (1)** Best Use of MATLAB
 - **Devpost checked** 2026-11-21 UTC
-- **MathWorks** Interfaced with the native sound libraries for audio playback (example being PulseAudio for Linux!). Devpost gives no specific sponsor integration detail.
+- **MathWorks · Best Use of MATLAB** Interfaced with the native sound libraries for audio playback (example being PulseAudio for Linux!).
+
+</details>
 
 <a name="project-open-context"></a>
 
-### [Open Context](https://devpost.com/software/open-context)
+<details>
+<summary>Open Context</summary>
 
 A platform for open-source course data collection, and quiz generation.
 
@@ -147,11 +181,14 @@ A platform for open-source course data collection, and quiz generation.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=q9SSeZdKo4U)
 - **All event prizes (1)** Best AI Application Built with Cloudflare
 - **Devpost checked** 2026-11-21 UTC
-- **Cloudflare** The project lists cloudflare among its Built With tags.
+- **Cloudflare · Best AI Application Built with Cloudflare** The project lists cloudflare among its Built With tags.
+
+</details>
 
 <a name="project-simplysign"></a>
 
-### [SimplySign](https://devpost.com/software/simplysign)
+<details>
+<summary>SimplySign</summary>
 
 SimplySign aims to make ASL more accessible and bring people together, whether by facilitating communication between patients and healthcare providers, or simply giving students a tool to practice.
 
@@ -161,11 +198,14 @@ SimplySign aims to make ASL more accessible and bring people together, whether b
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
 - **Devpost checked** 2026-11-21 UTC
-- **Patient Safety Technology Challenge** The web app captures hand gestures using a webcam, processes the images, and then translates the detected signs into text displayed on the screen. Devpost gives no specific sponsor integration detail.
+- **Patient Safety Technology Challenge · Patient Safety Challenge: Sunrise (Hatch) Alarm Clock** The web app captures hand gestures using a webcam, processes the images, and then translates the detected signs into text displayed on the screen.
+
+</details>
 
 <a name="project-terror"></a>
 
-### [T-Error](https://devpost.com/software/terror)
+<details>
+<summary>T-Error</summary>
 
 Real-time error monitoring from the terminal, helping developers spend less time solving common problems.
 
@@ -175,11 +215,14 @@ Real-time error monitoring from the terminal, helping developers spend less time
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=MNrN6I0-H-A)
 - **All event prizes (1)** Best Developer Tool
 - **Devpost checked** 2026-11-21 UTC
-- **Warp** T-Error is a terminal error-monitoring tool that captures and logs errors as developers run commands. Devpost gives no specific sponsor integration detail.
+- **Warp · Best Developer Tool** T-Error is a terminal error-monitoring tool that captures and logs errors as developers run commands.
+
+</details>
 
 <a name="project-energy-trading"></a>
 
-### [TradeREC](https://devpost.com/software/energy-trading)
+<details>
+<summary>TradeREC</summary>
 
 Powering a Greener Future, One Trade at a Time. A Blockchain-Powered Marketplace for Trading Clean Energy Contracts.
 
@@ -189,4 +232,6 @@ Powering a Greener Future, One Trade at a Time. A Blockchain-Powered Marketplace
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=kejAyXxu1fU)
 - **All event prizes (1)** Best Use of Midnight
 - **Devpost checked** 2026-11-21 UTC
-- **Midnight** Blockchain for Transparency : TradeREC uses Hedera and Midnight blockchain technology to provide secure, transparent records of every transaction .
+- **Midnight · Best Use of Midnight** Blockchain for Transparency : TradeREC uses Hedera and Midnight blockchain technology to provide secure, transparent records of every transaction .
+
+</details>

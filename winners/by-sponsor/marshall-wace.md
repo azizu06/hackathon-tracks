@@ -1,34 +1,31 @@
 # Marshall Wace
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** gemini (2), python (2), amazon-web-services (1)
+- **Common project areas** Finance and commerce (1)
+- **Common demo formats** None listed
+- **Projects with a listed demo video** 1 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Rent-Swarm](https://devpost.com/software/rentswarm) · [code](https://github.com/optimusbuilder/Rent-Swarm) · [demo](https://www.youtube.com/watch?v=xCzTYc7mIIg) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Beyond the Prompt: Building Intelligent Generative Systems · [details](../by-hackathon/hack-brown-2026.md#project-rentswarm) | An agentic AI system that fights back for renters—scouting real listings, exposing hidden lease risks,… | amazon-web-services, browserbase, gemini |
+| [Stopify](https://devpost.com/software/stopify) · [code](https://github.com/calebellenberg/hackAtBrown2026) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Beyond the Prompt: Building Intelligent Generative Systems · [details](../by-hackathon/hack-brown-2026.md#project-stopify) | Whenever you're on a shopping site, Stopify tracks your vital signs and your activity on the site. | c++, css, html |
+| [unserious](https://devpost.com/software/unserious) · [code](https://github.com/oliviaaheng/unserious) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Beyond the Prompt: Building Intelligent Generative Systems · [details](../by-hackathon/hack-brown-2026.md#project-unserious) | Unserious is an AI trip planner learning your style via "This or That" choices to generate personalized… | gemini, python, sqlite |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems | No specific requirement captured | [Event prize rules](https://hack-brown-2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** gemini (2), python (2), amazon-web-services (1), browserbase (1), c++ (1), css (1)
-- **Problem areas** Finance and commerce (1)
-- **Demo types** None listed
-- **Projects with a listed demo video** 1 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Rent-Swarm](../by-hackathon/hack-brown-2026.md#project-rentswarm) | Hack@Brown 2026 | 2 | 2 | Google, Marshall Wace |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Rent-Swarm](../by-hackathon/hack-brown-2026.md#project-rentswarm) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems | — | Rent-Swarm is an agentic AI platform that acts on behalf of tenants. | 2 |
-| [Stopify](../by-hackathon/hack-brown-2026.md#project-stopify) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [unserious](../by-hackathon/hack-brown-2026.md#project-unserious) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems | — | Brown University Community Hub : Students can share local Providence recommendations, creating a curated guide by students, for students. | 1 |
+</details>

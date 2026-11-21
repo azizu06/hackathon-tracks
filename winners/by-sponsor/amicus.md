@@ -1,32 +1,29 @@
 # Amicus
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** alchemyapi (1), facebook (1), firebase (1)
+- **Common project areas** None listed
+- **Common demo formats** None listed
+- **Projects with a listed demo video** 0 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Sharity](https://devpost.com/software/sharity) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) · What Does The Fox Say? Award · [details](../by-hackathon/hackmit-2013.md#project-sharity) | Sharity is a micro-donation platform where users share why they donate. | alchemyapi, facebook, firebase |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Amicus - What Does The Fox Say? Award | No specific requirement captured | [Event prize rules](https://hackmit.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** alchemyapi (1), facebook (1), firebase (1), fleksy (1), venmo (1)
-- **Problem areas** None listed
-- **Demo types** None listed
-- **Projects with a listed demo video** 0 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Sharity](../by-hackathon/hackmit-2013.md#project-sharity) | HackMIT 2013 | 2 | 2 | Amicus, Square |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Sharity](../by-hackathon/hackmit-2013.md#project-sharity) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Amicus - What Does The Fox Say? Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
+</details>

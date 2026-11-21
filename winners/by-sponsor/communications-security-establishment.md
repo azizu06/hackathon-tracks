@@ -1,10 +1,33 @@
 # Communications Security Establishment
 
+**8 projects · 4 editions · 8 prize rows**
+
 [Winners index](../README.md)
 
-8 projects across 4 editions, with 8 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (6), fastapi (4), javascript (3)
+- **Common project areas** Security and privacy (2), Accessibility and assistive tools (1)
+- **Common demo formats** Hardware or robotics (1)
+- **Projects with a listed demo video** 3 of 8
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Minny](https://devpost.com/software/minny) · [code](https://github.com/Ch33zig/Minny) · [demo](https://www.youtube.com/watch?v=EaLT4MyxxX4) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · CSE: Log &amp; Order · [details](../by-hackathon/hack-the-north-2026.md#project-minny) | Cover your blind spots. Model behaviour, correlate anomalies. | anthropic-claude, composio, elasticsearch |
+| [Trace](https://devpost.com/software/loggr) · [code](https://github.com/JeremyFriesenGitHub/htn26) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · CSE: Log &amp; Order · [details](../by-hackathon/hack-the-north-2026.md#project-loggr) | Doing this is tedious work, which is why automation and AI for completing these kinds of tasks is really… | css, flask, html |
+| [WatchTower](https://devpost.com/software/cadify) · [code](https://github.com/Hayden9898/WatchTower) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · CSE: Log &amp; Order · [details](../by-hackathon/hack-the-north-2026.md#project-cadify) | Turn HTTP logs into provable, safe incident response. | alembic, docker, fastapi |
+| [Network Threat Explorer](https://devpost.com/software/network-threat-explorer) · [code](https://github.com/JeremyFriesenGitHub/nte) · [demo](https://www.youtube.com/watch?v=ZuAKIEh6PcA) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · CSE: Network Traffic Exploration · [details](../by-hackathon/hack-the-north-2025.md#project-network-threat-explorer) | Insightful Network Traffic Visualization and Analysis. | arkime, cohere, duckdb |
+| [Pew Pew](https://devpost.com/software/pew-pew-9mi8pb) · [code](https://github.com/stony-su/network-traffic-ai) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · CSE: Network Traffic Exploration · [details](../by-hackathon/hack-the-north-2025.md#project-pew-pew-9mi8pb) | Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into a forensic-ready narrative by… | css, fastapi, html5 |
+| [YeetThePacket](https://devpost.com/software/nocapnethack) · [code](https://github.com/ashokcpg/YeetThePacket) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · CSE: Network Traffic Exploration · [details](../by-hackathon/hack-the-north-2025.md#project-nocapnethack) | From packets to plain‑English, actionable security narratives. | bash, cohere, docker |
+| [Scandium](https://devpost.com/software/scandium) · [demo](https://www.youtube.com/watch?v=sHfQ85ScFNA) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) · Communications Security Establishment Sponsor Prize · [details](../by-hackathon/nwhacks-2025.md#project-scandium) | Scandium is local AI code secret scanning. Rather than being notified after you've uploaded your secrets,… | node.js, ollama, qwen |
+| [Vanguard](https://devpost.com/software/vanguard-lm40dt) · [code](https://github.com/ACCISA/Vanguard) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · CSE: Working in an Air-Gapped Environment · [details](../by-hackathon/hack-the-north-2024.md#project-vanguard-lm40dt) | A vulnerability scanner and WiFi penetration tool, using Raspberry Pi. Designed for blue and purple team… | convex, next, react |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -13,28 +36,4 @@
 | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Communications Security Establishment Sponsor Prize | No specific requirement captured | [Event prize rules](https://nwhacks-2025.devpost.com/) |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | CSE: Working in an Air-Gapped Environment | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (6), fastapi (4), javascript (3), typescript (3), uvicorn (3), cohere (2)
-- **Problem areas** Security and privacy (2), Accessibility and assistive tools (1)
-- **Demo types** Hardware or robotics (1)
-- **Projects with a listed demo video** 3 of 8
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Minny](../by-hackathon/hack-the-north-2026.md#project-minny) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | CSE: Log &amp; Order | — | Minny takes raw web access logs and produces three things that share one evidence base. | 1 |
-| [Trace](../by-hackathon/hack-the-north-2026.md#project-loggr) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | CSE: Log &amp; Order | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [WatchTower](../by-hackathon/hack-the-north-2026.md#project-cadify) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | CSE: Log &amp; Order | — | WatchTower ingests chronological HTTP logs and analyzes historical baselines to uncover multi-stage attacks. | 1 |
-| [Network Threat Explorer](../by-hackathon/hack-the-north-2025.md#project-network-threat-explorer) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | CSE: Network Traffic Exploration | — | The project is made to help analyze threats and anomalies within network traffic. | 1 |
-| [Pew Pew](../by-hackathon/hack-the-north-2025.md#project-pew-pew-9mi8pb) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | CSE: Network Traffic Exploration | — | Parses full Suricata fast.log once at startup Builds force-directed network graph (hosts + alert signature nodes) Simple z-score based anomaly detection on per-source alert volume Pure FastAPI + D3.js frontend. | 1 |
-| [YeetThePacket](../by-hackathon/hack-the-north-2025.md#project-nocapnethack) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | CSE: Network Traffic Exploration | — | Detects events like port scans, brute-force attempts, beaconing/C2, suspicious connections, and data exfiltration from PCAPs. | 1 |
-| [Scandium](../by-hackathon/nwhacks-2025.md#project-scandium) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Communications Security Establishment Sponsor Prize | — | Instead, Scandium takes a proactive approach, identifying security issues far before they ever get pushed to a repository. | 1 |
-| [Vanguard](../by-hackathon/hack-the-north-2024.md#project-vanguard-lm40dt) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | CSE: Working in an Air-Gapped Environment | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

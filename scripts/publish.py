@@ -12,6 +12,7 @@ from fetch import Fetcher, cache_path, gallery_winners, prize_label, verified_li
 
 
 HERE = Path(__file__).resolve().parent
+OTHER_SPONSOR = "Other"
 FEATURED_URL = "https://devpost.com/software/backrooms-h4o783"
 FEATURED_EVENT = "cal-hacks-13-0"
 FEATURED_PRIZE = "[Hyphenate] The Hyphenated Enterprise: Autonomous Systems for Finance"
@@ -133,7 +134,7 @@ def sponsor_pattern(sponsor):
 
 def describe(project, sponsor, curated, authored):
     pattern = sponsor_pattern(sponsor)
-    tags = [tag for tag in project.built_with if pattern.search(tag)]
+    tags = [tag for tag in project.built_with if sponsor != OTHER_SPONSOR and pattern.search(tag)]
     if authored:
         evidence = "Project write-up without a specific integration" if project.data["url"] == FEATURED_URL else "Edited from project page"
         return (*authored, tags, evidence)
@@ -159,7 +160,7 @@ def describe(project, sponsor, curated, authored):
         s for heading, text in project.story
         if not re.search(r"inspiration|(?:what.s|up) next|learned|future|challenges", heading)
         for s in evidence_sentences(text)
-        if pattern.search(s) and s.casefold() not in description.casefold()
+        if sponsor != OTHER_SPONSOR and pattern.search(s) and s.casefold() not in description.casefold()
         and re.search(r"\b(?:us(?:e[sd]?|ing)|powers?|runs?|built|train(?:s|ed)?|generate[sd]?|integrat\w+|provide[sd]?)\b", s, re.I)
         and not re.search(r"\b(?:never|will|plan to|wanted to|could|would|did not)\b", s, re.I)
     ), "")
@@ -343,6 +344,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--cache", type=Path, default=Path(".devpost-cache"))
     parser.add_argument("--output", type=Path, default=HERE.parent / "winners")
+    parser.add_argument("--readme", type=Path, help="Refresh the generated sections in the root README")
     parser.add_argument("--result", type=Path)
     parser.add_argument("--commit", default="")
     parser.add_argument("--list-links", action="store_true")
@@ -355,8 +357,10 @@ def main():
         return
     if not rows:
         parser.error("No award rows have both a matching gallery and project receipt")
-    from render import render, report
+    from render import render, report, update_readme
     render(args.output, rows, fetcher.receipts)
+    if args.readme:
+        update_readme(args.readme, rows)
     if args.result:
         report(args.result, rows, candidates, missing, links, fetcher.receipts, args.commit)
     print(f"Rendered {len(rows)} award rows across {len(dedup_project_rows(rows))} project editions")

@@ -1,10 +1,28 @@
 # Starknet
 
+**3 projects · 3 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 3 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** starknet (3), cairo (2), react (2)
+- **Common project areas** Climate and environment (1)
+- **Common demo formats** None listed
+- **Projects with a listed demo video** 1 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Experience Points](https://devpost.com/software/experience-points) · [code](https://github.com/adventuringsociety/Starknetproject) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best Use of Starknet - MLH · [details](../by-hackathon/bitcamp-2024.md#project-experience-points) | The project creates a fungible blockchain token (a cryptocurrency) called "Experience Points". | starknet, cairo |
+| [BlockBetChain](https://devpost.com/software/blockbetchain) · [code](https://github.com/jahaskell53/starknet-hackathon-3) | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) · Best Use of Starknet · [details](../by-hackathon/hack-brown-2024.md#project-blockbetchain) | Make accountable long-term wagers using the blockchain. | starknet, cairo, react |
+| [EnviroChain](https://devpost.com/software/envirochain) · [demo](https://www.youtube.com/watch?v=pJKejAEEwkU) | [SB Hacks X 2024](../by-hackathon/sb-hacks-x-2024.md) · MLH - Best Use of Starknet · [details](../by-hackathon/sb-hacks-x-2024.md#project-envirochain) | Calculate carbon emissions from travel expense reports and verify thresholds using smart contracts. | starknet, css, flask |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -12,23 +30,4 @@
 | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) | Best Use of Starknet | Starknet | [Track label](https://hack-brown-2024.devpost.com/) |
 | [SB Hacks X 2024](../by-hackathon/sb-hacks-x-2024.md) | MLH - Best Use of Starknet | Starknet | [Track label](https://sb-hacks-x.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** starknet (3), cairo (2), react (2), css (1), flask (1), google-directions (1)
-- **Problem areas** Climate and environment (1)
-- **Demo types** None listed
-- **Projects with a listed demo video** 1 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Experience Points](../by-hackathon/bitcamp-2024.md#project-experience-points) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best Use of Starknet - MLH | — | The team used the Cairo programming language to write and deploy a Smart Contract on the Starknet developer blockchain. | 1 |
-| [BlockBetChain](../by-hackathon/hack-brown-2024.md#project-blockbetchain) | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) | Best Use of Starknet | — | The team also used React and the React-Starknet library to create a friendly user interface for interacting and viewing these contracts. | 1 |
-| [EnviroChain](../by-hackathon/sb-hacks-x-2024.md#project-envirochain) | [SB Hacks X 2024](../by-hackathon/sb-hacks-x-2024.md) | MLH - Best Use of Starknet | — | The project lists starknet among its Built With tags. | 1 |
+</details>

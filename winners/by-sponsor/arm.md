@@ -1,10 +1,29 @@
 # Arm
 
+**4 projects · 4 editions · 4 prize rows**
+
 [Winners index](../README.md)
 
-4 projects across 4 editions, with 4 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** arduino (2), flask (2), python (2)
+- **Common project areas** Security and privacy (1)
+- **Common demo formats** Hardware or robotics (2), Mobile app (2)
+- **Projects with a listed demo video** 3 of 4
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [ProxyPay](https://devpost.com/software/proxypay-rutqac) · [code](https://github.com/eiyer28/HackHarvard) · [demo](https://www.youtube.com/watch?v=0aO7TBcvifA) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) · Best Use of Arm · [details](../by-hackathon/hackharvard-2025.md#project-proxypay-rutqac) | Location-based transaction validation using arm-based cloud computing for end-to-end security; features a… | arm, amazon-web-services, flask |
+| [NodalCLI](https://devpost.com/software/hacknyu-v3nyx1) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · MLH - Best Use of Arm · [details](../by-hackathon/hacknyu-fall-2025.md#project-hacknyu-v3nyx1) | The team describes the project as “Nodal”. | test |
+| [LongHorn Guide](https://devpost.com/software/cool-project-omanx6) · [code](https://github.com/Ahnaf-Muizz/Longhorns-Guide) · [demo](https://www.youtube.com/watch?v=YRbaXEND_-M) | [HackTX 2025](../by-hackathon/hacktx-2025.md) · Best Use of ARM · [details](../by-hackathon/hacktx-2025.md#project-cool-project-omanx6) | Your AI-powered campus companion and navigation app with an autonomous robotic UT tour guide. | arduino, css, elevenlabs |
+| [HeliosAI](https://devpost.com/software/heliosai) · [demo](https://www.youtube.com/watch?v=mZV5om5oVVE) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · MLH - Best Use of Arm · [details](../by-hackathon/knight-hacks-viii-2025.md#project-heliosai) | HeliosAI uses a solar cell connected to an Arduino with light sensors and servo motors. | agent-to-agent-architecture, arduino, flask |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -13,26 +32,4 @@
 | [HackTX 2025](../by-hackathon/hacktx-2025.md) | &#91;MLH&#93; Best Use of ARM | ARM | [Track label](https://hacktx2025.devpost.com/) |
 | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | MLH - Best Use of Arm | Arm | [Track label](https://knighthacksviii.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** arduino (2), flask (2), python (2), react-native (2), agent-to-agent-architecture (1), amazon-web-services (1)
-- **Problem areas** Security and privacy (1)
-- **Demo types** Hardware or robotics (2), Mobile app (2)
-- **Projects with a listed demo video** 3 of 4
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [NodalCLI](../by-hackathon/hacknyu-fall-2025.md#project-hacknyu-v3nyx1) | HackNYU Fall 2025 | 3 | 3 | Arm, Nodal, Qualcomm |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [ProxyPay](../by-hackathon/hackharvard-2025.md#project-proxypay-rutqac) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Best Use of Arm | — | The project lists arm among its Built With tags. | 1 |
-| [NodalCLI](../by-hackathon/hacknyu-fall-2025.md#project-hacknyu-v3nyx1) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | MLH - Best Use of Arm | — | The project page provides no specific sponsor integration detail in the indexed fields. | 3 |
-| [LongHorn Guide](../by-hackathon/hacktx-2025.md#project-cool-project-omanx6) | [HackTX 2025](../by-hackathon/hacktx-2025.md) | &#91;MLH&#93; Best Use of ARM | — | The team built an intelligent, multilingual campus assistant that meets students wherever they are — on their phones, through chat, or even with a physical robot escort. | 1 |
-| [HeliosAI](../by-hackathon/knight-hacks-viii-2025.md#project-heliosai) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | MLH - Best Use of Arm | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

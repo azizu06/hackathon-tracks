@@ -1,10 +1,29 @@
 # Cipher Tech Solutions
 
+**4 projects · 3 editions · 4 prize rows**
+
 [Winners index](../README.md)
 
-4 projects across 3 editions, with 4 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (3), fastapi (2), numpy (2)
+- **Common project areas** None listed
+- **Common demo formats** Mobile app (1), Web app or dashboard (1)
+- **Projects with a listed demo video** 1 of 4
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Clarify](https://devpost.com/software/clarify-ztm49p) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Best Digital Forensics Related Hack - Cipher Tech Solutions · [details](../by-hackathon/bitcamp-2026.md#project-clarify-ztm49p) | Revolutionizing Digital Forensics through Novel Data Modeling. | fastapi, next.js, react |
+| [QWave](https://devpost.com/software/quanterp) · [code](https://github.com/shreya222mishra/bitcamp-2026) · [demo](https://www.youtube.com/watch?v=dgCAY-YG5rw) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Best Digital Forensics Related Hack - Cipher Tech Solutions · [details](../by-hackathon/bitcamp-2026.md#project-quanterp) | Detect hidden cyber attacks in audio. Not all noise is natural—some is malicious in disguise. | docker, ffmpeg/pydub, gmail-smtp/imap |
+| [Forens.tech](https://devpost.com/software/forens-tech) · [code](https://github.com/AHumanMaybe/forens-tech) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Digital Forensics Related Hack - Cipher Tech Solutions · [details](../by-hackathon/bitcamp-2025.md#project-forens-tech) | Accelerating Digital Forensics with Friendly UI and Emerging Tech. | css, fastapi, figma |
+| [KeyCatchAI](https://devpost.com/software/keycatchai) · [code](https://github.com/3752V/KeyCatchAI) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best Digital Forensics Related Hack - Cipher Tech · [details](../by-hackathon/bitcamp-2024.md#project-keycatchai) | The app records audio secretly, and, using a deep-learning ML model, transcribes the audio into a keystroke… | dart, devtunnel, flask |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -12,24 +31,4 @@
 | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) | Best Digital Forensics Related Hack - Cipher Tech Solutions | No specific requirement captured | [Event prize rules](https://bitcamp2025.devpost.com/) |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best Digital Forensics Related Hack - Cipher Tech | No specific requirement captured | [Event prize rules](https://bitcamp2024.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (3), fastapi (2), numpy (2), react (2), css (1), dart (1)
-- **Problem areas** None listed
-- **Demo types** Mobile app (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 1 of 4
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Clarify](../by-hackathon/bitcamp-2026.md#project-clarify-ztm49p) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | Best Digital Forensics Related Hack - Cipher Tech Solutions | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [QWave](../by-hackathon/bitcamp-2026.md#project-quanterp) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | Best Digital Forensics Related Hack - Cipher Tech Solutions | — | Quanterp is a hybrid quantum-classical audio security system that detects suspicious noise and malicious manipulation in audio files. | 1 |
-| [Forens.tech](../by-hackathon/bitcamp-2025.md#project-forens-tech) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) | Best Digital Forensics Related Hack - Cipher Tech Solutions | — | Forens.tech takes an innovative approach to common digital forensics techniques—combining a fresh, well-planned, and deliberate user experience with reliable methods to quickly parse and display memory dump data. | 1 |
-| [KeyCatchAI](../by-hackathon/bitcamp-2024.md#project-keycatchai) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best Digital Forensics Related Hack - Cipher Tech | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

@@ -1,30 +1,29 @@
 # Hume
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** fastapi (1), fetch.ai (1), figma (1)
+- **Common project areas** Health and care (1)
+- **Common demo formats** Web app or dashboard (1)
+- **Projects with a listed demo video** 1 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Healora](https://devpost.com/software/helora) · [demo](https://www.youtube.com/watch?v=0LENXMAW3Cs) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Best use of emotionally intelligent voice AI · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-helora) | "Healora, powered by Nurse Joy, uses empathetic AI for symptom tracking and predictive analysis, helping… | hume.ai, fastapi, fetch.ai |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Hume: Best use of emotionally intelligent voice AI | emotionally intelligent voice AI | [Track label](https://cal-hacks-11-0.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** fastapi (1), fetch.ai (1), figma (1), framermotion (1), github (1), groq (1)
-- **Problem areas** Health and care (1)
-- **Demo types** Web app or dashboard (1)
-- **Projects with a listed demo video** 1 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Healora](../by-hackathon/cal-hacks-11-0-2024.md#project-helora) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Hume: Best use of emotionally intelligent voice AI | — | Empathetic AI : Helora incorporates emotional intelligence to provide compassionate, context-aware responses, ensuring that patients feel understood and supported during their care, powered by Hume AI. | 1 |
+</details>

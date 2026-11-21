@@ -1,32 +1,31 @@
 # Progress
 
+**2 projects · 1 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 1 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** nativescript (2), 3dprinting (1), arduino (1)
+- **Common project areas** None listed
+- **Common demo formats** Mobile app (2), Hardware or robotics (1)
+- **Projects with a listed demo video** 0 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Picky Pusheen](https://devpost.com/software/picky-pusheen) · [code](https://github.com/TheMichaelHu/PickyPusheen) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Best NativeScript App for IOT (Progress) · [details](../by-hackathon/hackmit-2016.md#project-picky-pusheen) | A mobile app that pairs friends together for everyday activities such as eating or jogging seamlessly. | 3dprinting, arduino, nativescript |
+| [Pusheats](https://devpost.com/software/pusheats) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Best NativeScript App (Progress) · [details](../by-hackathon/hackmit-2016.md#project-pusheats) | Pusheen + psychology research = healthier eating habits via mobile app. | css, flask, javascript |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best NativeScript App (Progress) | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best NativeScript App for IOT (Progress) | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** nativescript (2), 3dprinting (1), arduino (1), css (1), flask (1), javascript (1)
-- **Problem areas** None listed
-- **Demo types** Mobile app (2), Hardware or robotics (1)
-- **Projects with a listed demo video** 0 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Picky Pusheen](../by-hackathon/hackmit-2016.md#project-picky-pusheen) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best NativeScript App for IOT (Progress) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Pusheats](../by-hackathon/hackmit-2016.md#project-pusheats) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best NativeScript App (Progress) | — | The team wrote an iOS/Android mobile application based on psychology/neuroscience lab research dialogues that have been demonstrated to help people to improve their eating habits. | 1 |
+</details>

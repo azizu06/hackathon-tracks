@@ -1,32 +1,31 @@
 # 1Password
 
+**2 projects · 2 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 2 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** next.js (2), chakraui (1), ethereum (1)
+- **Common project areas** Security and privacy (1)
+- **Common demo formats** Web app or dashboard (2)
+- **Projects with a listed demo video** 1 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Trojan](https://devpost.com/software/trojan) · [code](https://github.com/jkuo630/Trojan) · [demo](https://www.youtube.com/watch?v=4-LN6P5TIFk) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) · Best Security Hack · [details](../by-hackathon/nwhacks-2026.md#project-trojan) | Agentic security testing for vibe-coded apps — before you ship. | javascript, langgraph, next.js |
+| [b.env](https://devpost.com/software/b-env) · [code](https://github.com/bradeu/b.env) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) · 1Password Sponsor Prize · [details](../by-hackathon/nwhacks-2025.md#project-b-env) | The team are a decentralized API key sharing intermediary service. | chakraui, ethereum, fiber |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) | &#91;1Password&#93; Best Security Hack | No specific requirement captured | [Event prize rules](https://nwhacks-2026.devpost.com/) |
 | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | 1Password Sponsor Prize | Build a creative security-focused hackathon project that keeps simplicity and usability at its core. | [Devpost prize description](https://nwhacks-2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** next.js (2), chakraui (1), ethereum (1), fiber (1), go (1), gsap (1)
-- **Problem areas** Security and privacy (1)
-- **Demo types** Web app or dashboard (2)
-- **Projects with a listed demo video** 1 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Trojan](../by-hackathon/nwhacks-2026.md#project-trojan) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) | &#91;1Password&#93; Best Security Hack | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [b.env](../by-hackathon/nwhacks-2025.md#project-b-env) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | 1Password Sponsor Prize | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

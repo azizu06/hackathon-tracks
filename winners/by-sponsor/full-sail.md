@@ -1,32 +1,29 @@
 # Full Sail
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** arduino (1), arkit (1), depth-anything (1)
+- **Common project areas** Safety and emergency response (1)
+- **Common demo formats** AR, VR or spatial (1), Hardware or robotics (1), Mobile app (1)
+- **Projects with a listed demo video** 1 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Farsight](https://devpost.com/software/farsight-t4qyli) · [code](https://github.com/azizu06/farsight) · [demo](https://www.youtube.com/watch?v=AmrOGcTBTKU) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge · [details](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | Farsight presents a search-and-rescue drill through a headset, with a live driving view and a 3D replay of… | meta-quest, three.js, webxr |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge | No specific requirement captured | [Event prize rules](https://knight-hacks-ix.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** arduino (1), arkit (1), depth-anything (1), fastapi (1), ffmpeg (1), h.264 (1)
-- **Problem areas** Safety and emergency response (1)
-- **Demo types** AR, VR or spatial (1), Hardware or robotics (1), Mobile app (1)
-- **Projects with a listed demo video** 1 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Farsight](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | Knight Hacks IX 2026 | 4 | 4 | Encompass, Full Sail, Hugging Face, NVIDIA |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Farsight](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge | — | The simulation-track demo combines route scoring, person detection and a WebXR walkthrough. | 4 |
+</details>

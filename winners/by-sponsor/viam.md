@@ -1,32 +1,29 @@
 # Viam
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** a&#42; (1), arduino (1), elevenlabs (1)
+- **Common project areas** Accessibility and assistive tools (1), Health and care (1)
+- **Common demo formats** Hardware or robotics (1)
+- **Projects with a listed demo video** 1 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Omni-Assist](https://devpost.com/software/omni-assist) · [code](https://github.com/ryanli222/yHack) · [demo](https://www.youtube.com/watch?v=RzqbO86LRXQ) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) · Best Use of Viam · [details](../by-hackathon/yhack-spring-2026.md#project-omni-assist) | Making mobility accessible, cheap, simple. and modular to the health sector and the public. | viam, a&#42;, arduino |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) | Best Use of Viam | Viam | [Track label](https://yhack-2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** a* (1), arduino (1), elevenlabs (1), foxglove (1), lidar (1), numpy (1)
-- **Problem areas** Accessibility and assistive tools (1), Health and care (1)
-- **Demo types** Hardware or robotics (1)
-- **Projects with a listed demo video** 1 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Omni-Assist](../by-hackathon/yhack-spring-2026.md#project-omni-assist) | YHack Spring 2026 | 1 | 2 | Viam |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Omni-Assist](../by-hackathon/yhack-spring-2026.md#project-omni-assist) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) | Best Use of Viam | — | The project lists viam among its Built With tags. | 2 |
+</details>

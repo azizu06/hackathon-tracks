@@ -1,32 +1,31 @@
 # Winstead PC
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** typescript (3), next.js (2), node.js (2)
+- **Common project areas** None listed
+- **Common demo formats** Web app or dashboard (2)
+- **Projects with a listed demo video** 3 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [AEGIS](https://devpost.com/software/aegis-gs5a8q) · [code](https://github.com/ly-sona/aegis) · [demo](https://www.youtube.com/watch?v=mnBnFZBSIoU) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Winstead PC Track · [details](../by-hackathon/hackutd-2026.md#project-aegis-gs5a8q) | From What Happened To What Happens Next. | next.js, node.js, openai |
+| [Haven](https://devpost.com/software/haven-u7hvab) · [code](https://github.com/ParsaBazrpash/Haven) · [demo](https://www.youtube.com/watch?v=2RkAbB0j9Tg) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Winstead PC Track · [details](../by-hackathon/hackutd-2026.md#project-haven-u7hvab) | A secure war room for ransomware response. | d3.js, github-actions, gitleaks |
+| [LyfeLine](https://devpost.com/software/lyfeline) · [demo](https://www.youtube.com/watch?v=s6qzeIHrdKc) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Winstead PC Track · [details](../by-hackathon/hackutd-2026.md#project-lyfeline) | When your systems go down, your response stays up. | canva, figma, javascript |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | Winstead PC Track | No specific requirement captured | [Event prize rules](https://hackutd-zeroday.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** typescript (3), next.js (2), node.js (2), spacetimedb (2), zod (2), canva (1)
-- **Problem areas** None listed
-- **Demo types** Web app or dashboard (2)
-- **Projects with a listed demo video** 3 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [AEGIS](../by-hackathon/hackutd-2026.md#project-aegis-gs5a8q) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | Winstead PC Track | — | Building AEGIS taught the team how much an investigation depends on handling uncertainty correctly. | 1 |
-| [Haven](../by-hackathon/hackutd-2026.md#project-haven-u7hvab) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | Winstead PC Track | — | Haven is a sealed incident command center for the first 72 hours of a ransomware response. | 1 |
-| [LyfeLine](../by-hackathon/hackutd-2026.md#project-lyfeline) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | Winstead PC Track | — | Lyfeline is a real-time cyber incident response command center designed to help organizations coordinate, document, and recover from cyberattacks. | 1 |
+</details>

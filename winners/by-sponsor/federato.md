@@ -1,35 +1,31 @@
 # Federato
 
+**2 projects · 2 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 2 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** next.js (2), python (2), amazon-dynamodb (1)
+- **Common project areas** None listed
+- **Common demo formats** Web app or dashboard (2)
+- **Projects with a listed demo video** 2 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Pixie](https://devpost.com/software/pixie-8vlj7g) · [code](https://github.com/benz16107/pixie-htn2026) · [demo](https://www.youtube.com/watch?v=O47V32zbv20) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Building the Federato Insurance Agent · [details](../by-hackathon/hack-the-north-2026.md#project-pixie-8vlj7g) | Pixie is one inspectable risk engine presented as two products: a commercial underwriting desk and a consumer… | federato, elastic, expo.io |
+| [Optimate](https://devpost.com/software/optimate) · [code](https://github.com/jruttan1/Optimate) · [demo](https://www.youtube.com/watch?v=R8M0fgPcW_Y) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Best RiskOps Solution for Underwriters · [details](../by-hackathon/hack-the-north-2025.md#project-optimate) | Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning. | federato-api, amazon-dynamodb, auth0 |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Federato: Building the Federato Insurance Agent | No specific requirement captured | [Event prize rules](https://hackthenorth2026.devpost.com/) |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Federato: Best RiskOps Solution for Underwriters | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** next.js (2), python (2), amazon-dynamodb (1), auth0 (1), aws-dynamodb (1), cohere (1)
-- **Problem areas** None listed
-- **Demo types** Web app or dashboard (2)
-- **Projects with a listed demo video** 2 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Optimate](../by-hackathon/hack-the-north-2025.md#project-optimate) | Hack the North 2025 | 2 | 2 | Federato, Y Combinator |
-| [Pixie](../by-hackathon/hack-the-north-2026.md#project-pixie-8vlj7g) | Hack the North 2026 | 2 | 2 | Federato, Intact |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Pixie](../by-hackathon/hack-the-north-2026.md#project-pixie-8vlj7g) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Federato: Building the Federato Insurance Agent | — | Federato provided the insurance-shaped data and the language needed to interpret it. | 2 |
-| [Optimate](../by-hackathon/hack-the-north-2025.md#project-optimate) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Federato: Best RiskOps Solution for Underwriters | — | The project lists federato-api among its Built With tags. | 2 |
+</details>

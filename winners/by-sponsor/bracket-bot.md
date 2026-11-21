@@ -1,33 +1,32 @@
 # Bracket Bot
 
+**4 projects · 1 editions · 4 prize rows**
+
 [Winners index](../README.md)
 
-4 projects across 1 editions, with 4 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** bracketbot (4), python (3), fastapi (2)
+- **Common project areas** None listed
+- **Common demo formats** Hardware or robotics (2)
+- **Projects with a listed demo video** 4 of 4
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Badminbuddy](https://devpost.com/software/badminbuddy) · [demo](https://www.youtube.com/watch?v=4XYj7Ok1-_Y) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Bracket Bot Hardware · [details](../by-hackathon/hack-the-north-2026.md#project-badminbuddy) | Pick up birdies and stack them autonomously. | bracketbot, python, pytorch |
+| [GitIRL Bot](https://devpost.com/software/house-bot) · [demo](https://www.youtube.com/watch?v=FEGR3mJmXMg) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Bracket Bot Hardware · [details](../by-hackathon/hack-the-north-2026.md#project-house-bot) | Version control for the physical world. | bracketbot, elasticsearch, fastapi |
+| [PrintDnD](https://devpost.com/software/printdnd) · [demo](https://www.youtube.com/watch?v=HfM9EMc2IQs) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Bracket Bot Hardware · [details](../by-hackathon/hack-the-north-2026.md#project-printdnd) | Introducing PrintDND , a robot that is able to autonomously clear the printers from their previous job and… | bracketbot |
+| [Realbot](https://devpost.com/software/realbot) · [code](https://github.com/ariobarin/RealBot) · [demo](https://www.youtube.com/watch?v=EkgG5Q7dZB0) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Bracket Bot Hardware · [details](../by-hackathon/hack-the-north-2026.md#project-realbot) | Realbot allows landlords and realtors to easily set up autonomous virtual tours for prospective tenants and… | bracketbot, fastapi, livekit |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Bracket Bot: Best Use of Bracket Bot Hardware | Bracket Bot Hardware | [Track label](https://hackthenorth2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** bracketbot (4), python (3), fastapi (2), numpy (2), pytorch (2), react (2)
-- **Problem areas** None listed
-- **Demo types** Hardware or robotics (2)
-- **Projects with a listed demo video** 4 of 4
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Badminbuddy](../by-hackathon/hack-the-north-2026.md#project-badminbuddy) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Bracket Bot: Best Use of Bracket Bot Hardware | — | This autonomous BracketBot robot finds badminton birdies scattered on the floor, picks them up and stacks them to hand back to people. | 1 |
-| [GitIRL Bot](../by-hackathon/hack-the-north-2026.md#project-house-bot) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Bracket Bot: Best Use of Bracket Bot Hardware | — | GitIRL puts a room under real version control. | 1 |
-| [PrintDnD](../by-hackathon/hack-the-north-2026.md#project-printdnd) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Bracket Bot: Best Use of Bracket Bot Hardware | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Realbot](../by-hackathon/hack-the-north-2026.md#project-realbot) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Bracket Bot: Best Use of Bracket Bot Hardware | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

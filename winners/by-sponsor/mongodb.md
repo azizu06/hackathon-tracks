@@ -1,10 +1,47 @@
 # MongoDB
 
+**22 projects · 22 editions · 22 prize rows**
+
 [Winners index](../README.md)
 
-22 projects across 22 editions, with 22 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** mongodb (16), react (12), python (9)
+- **Common project areas** Developer tools (2), Games and entertainment (1), Health and care (1)
+- **Common demo formats** Web app or dashboard (5), AR, VR or spatial (1), Game (1)
+- **Projects with a listed demo video** 19 of 22
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [What's Up, New York!](https://devpost.com/software/what-s-up-new-york) · [code](https://github.com/z1ros/planneeer) · [demo](https://www.youtube.com/watch?v=ag7kS5ZL1D0) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Best Use of MongoDB · [details](../by-hackathon/hack-brown-2026.md#project-what-s-up-new-york) | What’s Up, New York! is a data driven platform that converts natural language requests into complete,… | mongodbvectorsearh, 11labs, express.js |
+| [SideQuests](https://devpost.com/software/sidequestz) · [code](https://github.com/karthiksing05/HackGT-13-Proj) · [demo](https://www.youtube.com/watch?v=uPllwgXpkpY) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · MLH: Best Use of MongoDB Atlas · [details](../by-hackathon/hackgt-13-2026.md#project-sidequestz) | Turn waiting into wandering: tell SideQuests your free window and mood, and get a timed plan of nearby events… | mongodb, antigravity, claude |
+| [GeoStar](https://devpost.com/software/geostar-5engd7) · [code](https://github.com/sudarshan-krishnan/GeoStar_PtonHacks_2026) · [demo](https://www.youtube.com/watch?v=0TEguSxAemc) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/hackprinceton-fall-2026.md#project-geostar-5engd7) | A property planning tool helps developers evaluate sites and visualize them in 3D. | mongodb, chatoverflow, costar |
+| [Project Orion](https://devpost.com/software/project-atlas-icfow4) · [code](https://github.com/Feiyang0303/Orion_HTN26) · [demo](https://www.youtube.com/watch?v=1InwD73Dmjo) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · MLH: Best Use of MongoDB Atlas · [details](../by-hackathon/hack-the-north-2026.md#project-project-atlas-icfow4) | Name a city. An AI crew plans your days on real streets, and then a magic goose flies you through them in… | mongodb, codex, elevenlabs |
+| [RescueMEsh](https://devpost.com/software/rescuemesh-93owy7) · [demo](https://www.youtube.com/watch?v=cqpzf7NP9gY) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/hackutd-2026.md#project-rescuemesh-93owy7) | RescueMEsh is a low-cost device for SOS communication when disasters disrupt cellular networks. Nemotron… | mongodb, c++, core-location |
+| [J.I.T.](https://devpost.com/software/j-i-t) · [code](https://github.com/AntonK0/lahacks26) · [demo](https://www.youtube.com/watch?v=5XL32aCzCJg) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · MLH: Best Use of MongoDB Atlas · [details](../by-hackathon/la-hacks-2026.md#project-j-i-t) | A study app turns a textbook scan into an interactive learning session. | arkit, cloudinary, elevenlabs |
+| [Thrift Tinder](https://devpost.com/software/thrift-tinder) · [code](https://github.com/trevordodge/sbhacks-project) · [demo](https://www.youtube.com/watch?v=_WCacm2iJ_s) | [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/sb-hacks-xii-2026.md#project-thrift-tinder) | Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfect recs in minutes—not hours. | mongodb-atlas, dart, flask |
+| [Grep](https://devpost.com/software/cortisol) · [code](https://github.com/DinhPhucLe/grep) · [demo](https://www.youtube.com/watch?v=mru6d0wAI-k) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/shellhacks-2026.md#project-cortisol) | Grep is your organization’s intelligence layer - turning AI coding into shared knowledge, developer insights,… | mongodb, amazon-web-services, golang |
+| [Sift](https://devpost.com/software/sift-b7ctar) · [code](https://github.com/whuang06/yhacks_s26) · [demo](https://www.youtube.com/watch?v=e-kfnXJfcwQ) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/yhack-spring-2026.md#project-sift-b7ctar) | Sift indexes all your files into the same optimized embedding space. | mongodb, mongodb-atlas, fastapi |
+| [Tariffix](https://devpost.com/software/tariffix) · [code](https://github.com/Adr1an04/Tariffix) · [demo](https://www.youtube.com/watch?v=OPF4dyn6LrM) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/bitcamp-2025.md#project-tariffix) | Tariffs made simple — track, compare, and calculate in seconds. | mongodb, cheerio, chrome-extension-api |
+| [Paw &amp; Order](https://devpost.com/software/paw-order) · [code](https://github.com/alfardil/Hack-at-Brown-2025) · [demo](https://www.youtube.com/watch?v=MbhPdRFqeb4) | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/hack-brown-2025.md#project-paw-order) | An LLM-powered web game curated for children to improve their debate and conversation skills. | mongodb, openai, react |
+| [Vesalius](https://devpost.com/software/vesalius) · [code](https://github.com/mikeiioo/Vesalius) · [demo](https://www.youtube.com/watch?v=DN6NTqMk2cE) | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) · MLH - Best Use of MongoDB Atlas · [details](../by-hackathon/hacklytics-2025.md#project-vesalius) | Countless public health datasets have been taken down. Vesalius scrubs the Internet Archive, stores metadata,… | flask, llm, python |
+| [SolMate](https://devpost.com/software/solmate-kal94m) · [code](https://github.com/yusufsallam64/solmate) · [demo](https://www.youtube.com/watch?v=WdXHG4r3xuk) | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/hacknyu-2025.md#project-solmate-kal94m) | SolMate – the AI agent that turns crypto talk into action. Voice-powered trading, round-the-clock monitoring,… | mongodb, eleven-labs, embedding-model |
+| [Morph](https://devpost.com/software/morph-jcot4m) · [demo](https://www.youtube.com/watch?v=32oY_iV8jRo) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · MLH: Best Use of MongoDB Atlas · [details](../by-hackathon/hack-the-north-2025.md#project-morph-jcot4m) | Vibe CAD to 3D print the solutions to everyday problems in your environment, Tony Stark style, no design… | mongodb, fastapi, javascript |
+| [Munchkin](https://devpost.com/software/munchkin) · [code](https://github.com/alex-szy/munchkin) · [demo](https://www.youtube.com/watch?v=qM3muuWOKmg) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · MLH: Best Use of MongoDB Atlas · [details](../by-hackathon/la-hacks-2025.md#project-munchkin) | A desktop assistant watches for new files and sorts them based on their contents. | mongodb, mongodb-atlas, click |
+| [MovieMind](https://devpost.com/software/moviemind-85pfcw) · [code](https://github.com/amheuer/moviemind) · [demo](https://www.youtube.com/watch?v=etUSOAJqu00) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) · MLH - Best use of MongoDB Atlas · [details](../by-hackathon/pennapps-xxvi-2025.md#project-moviemind-85pfcw) | A movie recommender finds reviews that match the reasons a viewer enjoys a film. | mongodb, cerebras, gemini |
+| [blank&#91;space&#93;](https://devpost.com/software/blank-space-s40j1g) · [code](https://github.com/AnnieWang314/blankspace) | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/hack-brown-2024.md#project-blank-space-s40j1g) | After logging in, users are directed to a page requesting the title of the paper they want to write, along… | mongodb, css, express.js |
+| [MedEase: AI-Assisted Diagnostic Workflow](https://devpost.com/software/medease-ai-assisted-diagnostic-workflow) · [demo](https://www.youtube.com/watch?v=2s-sg1melAo) | [HackGT 11 2024](../by-hackathon/hackgt-11-2024.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/hackgt-11-2024.md#project-medease-ai-assisted-diagnostic-workflow) | Intelligent data processing and diagnosis for doctors. | mongodb, astro, llama-index |
+| [LipsLips Revolution](https://devpost.com/software/lipslips-revolution) · [code](https://github.com/KaranChawlaD/lipslipsrevolution) · [demo](https://www.youtube.com/watch?v=C_vZ8xYM-pw) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/hack-the-north-2024.md#project-lipslips-revolution) | Fight for the top position in a HackTheNorth lip-syncing challenge. | mongodb, nextjs, symphonic-labs |
+| [FoundAI](https://devpost.com/software/foundai) · [code](https://github.com/g3npar/FoundAI) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · MLH - Best use of MongoDB Atlas · [details](../by-hackathon/mhacks-2024.md#project-foundai) | Revolutionizing the campuses' lost and found with smart image recognition. | mongodb, amazon-web-services, flask |
+| [MatchTube](https://devpost.com/software/matchtube) · [code](https://github.com/EerierGosling/MatchTube) · [demo](https://www.youtube.com/watch?v=I-dwiFZ3P1A) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Best Use of MongoDB Atlas · [details](../by-hackathon/pennapps-xxv-2024.md#project-matchtube) | The team had never used Flask, Hugging Face, PropelAuth, vector databases, or deployed the backend for a… | mongodb-atlas, javascript, propelauth |
+| [News Neutrality](https://devpost.com/software/news-neutrality) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) · MongoDB - Best Use of MongoDB · [details](../by-hackathon/hackmit-2013.md#project-news-neutrality) | The team correlate this data with data regarding which sentences from each article are related and then… | — |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -31,44 +68,4 @@
 | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of MongoDB Atlas | MongoDB Atlas | [Track label](https://pennapps-xxv.devpost.com/) |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | MongoDB - Best Use of MongoDB | MongoDB | [Track label](https://hackmit.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** mongodb (16), react (12), python (9), gemini (6), javascript (6), typescript (5)
-- **Problem areas** Developer tools (2), Games and entertainment (1), Health and care (1), Safety and emergency response (1)
-- **Demo types** Web app or dashboard (5), AR, VR or spatial (1), Game (1), Hardware or robotics (1), Mobile app (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 19 of 22
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [LipsLips Revolution](../by-hackathon/hack-the-north-2024.md#project-lipslips-revolution) | Hack the North 2024 | 2 | 2 | MongoDB, Symphonic Labs |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [What's Up, New York!](../by-hackathon/hack-brown-2026.md#project-what-s-up-new-york) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | &#91;MLH&#93; Best Use of MongoDB | — | The project lists mongodbvectorsearh among its Built With tags. | 1 |
-| [SideQuests](../by-hackathon/hackgt-13-2026.md#project-sidequestz) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | MLH: Best Use of MongoDB Atlas | — | Vultr: the whole production stack (API, ML inference, MongoDB, WebSockets) runs on one Vultr VPS. | 1 |
-| [GeoStar](../by-hackathon/hackprinceton-fall-2026.md#project-geostar-5engd7) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) | &#91;MLH&#93; Best Use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [Project Orion](../by-hackathon/hack-the-north-2026.md#project-project-atlas-icfow4) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | MLH: Best Use of MongoDB Atlas | — | The team also use Atlas to get a trip onto the headset. "Send to VR" writes one small document and the Quest reads it. | 1 |
-| [RescueMEsh](../by-hackathon/hackutd-2026.md#project-rescuemesh-93owy7) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | &#91;MLH&#93; Best Use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [J.I.T.](../by-hackathon/la-hacks-2026.md#project-j-i-t) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | MLH: Best Use of MongoDB Atlas | — | Users simply scan the ISBN barcode of any supported textbook. | 1 |
-| [Thrift Tinder](../by-hackathon/sb-hacks-xii-2026.md#project-thrift-tinder) | [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md) | &#91;MLH&#93; Best Use of MongoDB Atlas | — | The project lists mongodb-atlas among its Built With tags. | 1 |
-| [Grep](../by-hackathon/shellhacks-2026.md#project-cortisol) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) | &#91;MLH&#93; Best Use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [Sift](../by-hackathon/yhack-spring-2026.md#project-sift-b7ctar) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) | &#91;MLH&#93; Best Use of MongoDB Atlas | — | The team built backend functionality first in Python, which includes embedding generation through Gemini Embedding 2 Preview, database storage and vector search through MongoDB Atlas, and chatbot functionality through LangChain. | 1 |
-| [Tariffix](../by-hackathon/bitcamp-2025.md#project-tariffix) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) | &#91;MLH&#93; Best Use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [Paw &amp; Order](../by-hackathon/hack-brown-2025.md#project-paw-order) | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) | Best Use of MongoDB Atlas | — | React for frontend MongoDB backend Used OpenAI API. | 1 |
-| [Vesalius](../by-hackathon/hacklytics-2025.md#project-vesalius) | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) | MLH - Best Use of MongoDB Atlas | — | The application takes in a user query for datasets they want. | 1 |
-| [SolMate](../by-hackathon/hacknyu-2025.md#project-solmate-kal94m) | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) | Best Use of MongoDB Atlas | — | Built RAG system using bge-large-en-v1.5 embeddings and MongoDB vector search. | 1 |
-| [Morph](../by-hackathon/hack-the-north-2025.md#project-morph-jcot4m) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | MLH: Best Use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [Munchkin](../by-hackathon/la-hacks-2025.md#project-munchkin) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | MLH: Best Use of MongoDB Atlas | — | The project lists mongodb, mongodb-atlas among its Built With tags. | 1 |
-| [MovieMind](../by-hackathon/pennapps-xxvi-2025.md#project-moviemind-85pfcw) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) | MLH - Best use of MongoDB Atlas | — | The team use MongoDB for the vector database and semantic search. | 1 |
-| [blank&#91;space&#93;](../by-hackathon/hack-brown-2024.md#project-blank-space-s40j1g) | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) | Best Use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [MedEase: AI-Assisted Diagnostic Workflow](../by-hackathon/hackgt-11-2024.md#project-medease-ai-assisted-diagnostic-workflow) | [HackGT 11 2024](../by-hackathon/hackgt-11-2024.md) | Best Use of MongoDB Atlas | — | The team used MongoDb to store user information, RAG vector database, and PDF storage. | 1 |
-| [LipsLips Revolution](../by-hackathon/hack-the-north-2024.md#project-lipslips-revolution) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Best Use of MongoDB Atlas | — | The team’re using OpenAI’s embedding models to determine the lip sync’s accuracy/similarity and MongoDB as the database for score data. | 2 |
-| [FoundAI](../by-hackathon/mhacks-2024.md#project-foundai) | [MHacks 2024](../by-hackathon/mhacks-2024.md) | MLH - Best use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [MatchTube](../by-hackathon/pennapps-xxv-2024.md#project-matchtube) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of MongoDB Atlas | — | The backend (built with python, sentence transformers, Youtube API, PropelAuth, and MongoDB Atlas) takes in a Google takeout of a user's Youtube watch and search history. | 1 |
-| [News Neutrality](../by-hackathon/hackmit-2013.md#project-news-neutrality) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | MongoDB - Best Use of MongoDB | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

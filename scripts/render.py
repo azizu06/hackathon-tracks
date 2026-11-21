@@ -4,10 +4,11 @@ import csv
 import json
 from pathlib import Path
 import re
+from textwrap import shorten
 from urllib.parse import urlsplit
 
 from fetch import verified_link
-from publish import HERE, dedup_project_rows, events, gallery_url
+from publish import HERE, OTHER_SPONSOR, dedup_project_rows, events, gallery_url
 
 
 LIST_FIELDS = (
@@ -47,6 +48,7 @@ def md(value):
     return (
         " ".join(str(value).split()).replace("&", "&amp;")
         .replace("[", "&#91;").replace("]", "&#93;").replace("|", "&#124;")
+        .replace("*", "&#42;").replace("_", "&#95;").replace("~", "&#126;")
         .replace("<", "&lt;").replace(">", "&gt;").replace("`", "&#96;")
     )
 
@@ -111,51 +113,191 @@ def data_table(headings, records):
     return [header, divider, *("| " + " | ".join(map(str, record)) + " |" for record in records)]
 
 
+def compact(value, width):
+    normalized = " ".join(value.split())
+    if not normalized:
+        return "—"
+    shortened = shorten(normalized, width, placeholder="…")
+    return md(normalized[:width - 1] + "…" if shortened == "…" else shortened)
+
+
+def award_title(row):
+    # The exact Devpost label is preserved in the exports and project details.
+    title = row["prize"]
+    sponsor = row["sponsor"]
+    bracket, closing, rest = title.partition("] ")
+    if closing and bracket.startswith("[") and bracket[1:] in {sponsor, "MLH"}:
+        return rest
+    if sponsor == OTHER_SPONSOR and closing and bracket.startswith("["):
+        return rest
+    for separator in (": ", " - "):
+        if title.casefold().startswith(sponsor.casefold() + separator):
+            return title[len(sponsor + separator):]
+    return title
+
+
+def sponsor_link(sponsor, prefix=""):
+    return f"[{md(sponsor)}]({prefix}by-sponsor/{slugify(sponsor)}.md)"
+
+
+def edition_link(row, prefix=""):
+    return f"[{md(event_name(row))}]({prefix}by-hackathon/{event_file(row)})"
+
+
 def award_table(rows, event_view):
     records = []
     for row in rows:
-        sponsor = row["sponsor"]
-        if event_view:
-            project = f'[{md(row["project"])}](#{project_anchor(row)})'
-            group = f'[{md(sponsor)}](../by-sponsor/{slugify(sponsor)}.md)'
-        else:
-            project = project_ref(row, "../")
-            group = f'[{md(event_name(row))}](../by-hackathon/{event_file(row)})'
-        label = md(row["prize"])
+        project = f'[{md(row["project"])}]({row["url"]})'
+        if row["source_urls"]:
+            project += f' · [code]({row["source_urls"][0]})'
+        if row["demo_video_urls"]:
+            project += f' · [demo]({row["demo_video_urls"][0]})'
+        details = f"#{project_anchor(row)}" if event_view else (
+            f"../by-hackathon/{event_file(row)}#{project_anchor(row)}"
+        )
+        group = sponsor_link(row["sponsor"], "../") if event_view else edition_link(row, "../")
+        label = compact(award_title(row), 90)
         if row["award_evidence"] == "Sponsor-reported prize":
             label += " (sponsor-reported)"
-        prize_value = row["prize_value"]
-        if prize_value == row["prize"]:
-            prize_value = "See track label"
+        tech = list(dict.fromkeys(row["sponsor_tech"] + row["built_with"]))
         records.append((
-            project, group, label, md(prize_value or "—"), md(row["sponsor_integration"]),
-            row["event_prize_count"],
+            project, f"{group} · {label} · [details]({details})",
+            compact(row["description"], 110), ", ".join(md(tag) for tag in tech[:3]) or "—",
         ))
     return data_table(
-        ["Project", "Sponsor" if event_view else "Hackathon", "Winning track", "Listed prize", "Sponsor integration or project detail", "Event prizes"],
+        ["Project", "Sponsor prize" if event_view else "Edition and prize", "What it built", "Tech"],
         records,
     )
 
 
-def leaderboard(groups, limit=None, prefix="", include_event_prizes=False):
-    winners = sorted(groups.values(), key=lambda entries: (
+def leaderboard(groups, limit=10, prefix=""):
+    named = [[row for row in entries if row["sponsor"] != OTHER_SPONSOR] for entries in groups.values()]
+    winners = sorted((entries for entries in named if len(entries) > 1), key=lambda entries: (
         -len(entries), -entries[0]["event_prize_count"], entries[0]["project"].casefold(),
         entries[0]["event_slug"], entries[0]["url"],
     ))
-    winners = [
-        entries for entries in winners
-        if len(entries) > 1 or (include_event_prizes and entries[0]["event_prize_count"] > 1)
-    ][:limit]
-    if not winners:
-        return ["This group has no projects with multiple qualifying prize labels at one edition."]
     return data_table(
-        ["Project", "Hackathon", "Sponsor tracks", "All event prizes", "Sponsors"],
+        ["Project", "Edition", "Tracks"],
         (
-            (project_ref(row, prefix), md(event_name(row)), len(entries), row["event_prize_count"],
-             ", ".join(md(sponsor) for sponsor in sorted({item["sponsor"] for item in entries}, key=str.casefold)))
-            for entries in winners for row in entries[:1]
+            (project_ref(row, prefix), edition_link(row, prefix), len(entries))
+            for entries in winners[:limit] for row in entries[:1]
         ),
     )
+
+
+def details(label, body):
+    return ["<details>", f"<summary>{label}</summary>", "", *body, "", "</details>"]
+
+
+def common_patterns(rows):
+    projects = len(dedup_project_rows(rows))
+    return [
+        "## What winners have in common", "",
+        f"- **Most listed tech** {tally_text(common_tech(rows), 3)}",
+        f"- **Common project areas** {tally_text(occurrences(rows, AREA_PATTERNS), 3)}",
+        f"- **Common demo formats** {tally_text(occurrences(rows, DEMO_PATTERNS, include_tags=True), 3)}",
+        f"- **Projects with a listed demo video** {sum(r['demo_video_count_listed'] > 0 for r in dedup_project_rows(rows))} of {projects}",
+        "",
+        "Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.",
+    ]
+
+
+def split_directory(rows):
+    sponsors, editions = defaultdict(list), defaultdict(list)
+    for row in rows:
+        sponsors[row["sponsor"]].append(row)
+        editions[row["event_slug"]].append(row)
+    return sponsors, editions
+
+
+def sponsor_index(sponsors, prefix=""):
+    named = {sponsor: len(rows) for sponsor, rows in sponsors.items() if sponsor != OTHER_SPONSOR}
+    top = ranked(named)[:40]
+    halfway = (len(top) + 1) // 2
+    cells = [f"{sponsor_link(name, prefix)} ({count})" for name, count in top]
+    columns = [
+        (cell, cells[index + halfway] if index + halfway < len(cells) else "")
+        for index, cell in enumerate(cells[:halfway])
+    ]
+    alphabet = defaultdict(list)
+    for name in sorted(named, key=str.casefold):
+        initial = name[0].upper()
+        alphabet[initial if "A" <= initial <= "Z" else "0-9 / symbols"].append(
+            f"{sponsor_link(name, prefix)} ({named[name]})"
+        )
+    return [
+        "## Sponsor index", "",
+        "Most-awarded sponsors in this directory. Counts show prize rows.", "",
+        *data_table(["Sponsor (rows)", "Sponsor (rows)"], columns), "",
+        *details(f"All {len(named):,} sponsors A-Z", [
+            f"- **{letter}** " + " · ".join(links) for letter, links in alphabet.items()
+        ]),
+        *(
+            ["", f"{sponsor_link(OTHER_SPONSOR, prefix)} · {len(sponsors[OTHER_SPONSOR])} prize rows without a sponsoring organization."]
+            if OTHER_SPONSOR in sponsors else []
+        ),
+    ]
+
+
+def event_series(name):
+    for series in ("Cal Hacks", "HackGT", "HackNYU", "HackPrinceton", "Knight Hacks", "PennApps", "SB Hacks", "YHack"):
+        if name == series or name.startswith(series + " "):
+            return series
+    return name
+
+
+def edition_index(editions, prefix=""):
+    series = defaultdict(list)
+    for rows in editions.values():
+        series[event_series(rows[0]["hackathon"])].append(rows)
+    records = [
+        (md(name), " · ".join(
+            f"{edition_link(rows[0], prefix)} ({len(rows)})"
+            for rows in sorted(groups, key=lambda rows: (-rows[0]["year"], rows[0]["hackathon"].casefold()))
+        ))
+        for name, groups in sorted(series.items(), key=lambda item: item[0].casefold())
+    ]
+    return [
+        "## Hackathon index", "",
+        *details(f"Browse {len(editions)} editions across {len(series)} event series", [
+            "Pick an edition to see its winning projects and sponsors. Counts show prize rows.", "",
+            *data_table(["Event series", "Editions (rows)"], records),
+        ]),
+    ]
+
+
+def directory_sections(rows, sponsors, editions, prefix=""):
+    return [
+        "## Leaderboard", "",
+        "The ten projects that won the most sponsor tracks at one edition. "
+        "Ties use total event prizes, then project name.", "",
+        *leaderboard(pairs(rows), prefix=prefix), "",
+        *sponsor_index(sponsors, prefix), "",
+        *edition_index(editions, prefix),
+    ]
+
+
+def update_readme(path, rows):
+    sponsors, editions = split_directory(rows)
+    badges = [
+        ("Projects", len({row["url"] for row in rows}), "6D4FA3"),
+        ("Hackathon editions", len(editions), "356A8A"),
+        ("Sponsors", len(sponsors.keys() - {OTHER_SPONSOR}), "377662"),
+        ("Prize rows", len(rows), "90613D"),
+    ]
+    lines = path.read_text(encoding="utf-8")
+    for name, section in (
+        ("coverage", [" ".join(
+            f"![{count:,} {label.lower()}](https://img.shields.io/badge/{label.replace(' ', '%20')}-{count:,}-{color})"
+            for label, count, color in badges
+        )]),
+        ("directory", directory_sections(rows, sponsors, editions, "winners/")),
+    ):
+        start, end = f"<!-- BEGIN {name} -->", f"<!-- END {name} -->"
+        before, rest = lines.split(start, 1)
+        _, after = rest.split(end, 1)
+        lines = before + start + "\n\n" + "\n".join(section) + "\n\n" + end + after
+    path.write_text(lines, encoding="utf-8")
 
 
 def write_lines(path, lines):
@@ -173,9 +315,10 @@ def render_event(path, rows):
     rules = f' · [Official prize rules]({row["rules_url"]})' if row["rules_url"] else ""
     groups = pairs(rows)
     intro = [
-        f"# {event_name(row)}", "",
-        f'[Devpost gallery]({row["gallery_url"]}){rules} · [Winners index](../README.md)', "",
-        f"{len(groups)} projects and {len(rows)} sponsor-track awards.", "",
+        f"# {md(event_name(row))}", "",
+        f"**{len(groups):,} projects · {len({r['sponsor'] for r in rows} - {OTHER_SPONSOR})} sponsors · {len(rows):,} prize rows**", "",
+        f'[Winners index](../README.md) · [Devpost gallery]({row["gallery_url"]}){rules}', "",
+        *common_patterns(rows), "",
         "## Sponsor awards", "",
         *award_table(rows, event_view=True), "", "## Project details",
     ]
@@ -185,9 +328,7 @@ def render_event(path, rows):
         row = entries[0]
         source = publish_links(row["source_urls"], row["source_link_count_listed"], "Source")
         demo = publish_links(row["demo_video_urls"], row["demo_video_count_listed"], "Video")
-        intro.extend([
-            "", f'<a name="{project_anchor(row)}"></a>', "",
-            f'### [{md(row["project"])}]({row["url"]})', "",
+        project_details = [
             md(row["description"]), "",
             f'- **Team size** {row["team_size"] or "Unlisted"}',
             f'- **Built With** {", ".join(map(md, row["built_with"])) or "No tags listed"}',
@@ -195,45 +336,44 @@ def render_event(path, rows):
             f'- **All event prizes ({row["event_prize_count"]})** '
             + " · ".join(md(label) for label in row["event_prizes"]),
             f'- **Devpost checked** {row["fetched_on"]} UTC',
-        ])
+        ]
         for item in entries:
-            note = ""
-            if item["summary_evidence"] == "Project write-up without a specific integration":
-                note = " Devpost gives no specific sponsor integration detail."
-            intro.append(f'- **{md(item["sponsor"])}** {md(item["sponsor_integration"])}{note}')
+            project_details.append(
+                f'- **{md(item["sponsor"])} · {md(item["prize"])}** {md(item["sponsor_integration"])}'
+                + (f' Listed prize: {md(item["prize_value"])}' if item["prize_value"] and item["prize_value"] != item["prize"] else "")
+            )
+        intro.extend([
+            "", f'<a name="{project_anchor(row)}"></a>', "",
+            *details(md(row["project"]), project_details),
+        ])
     write_lines(path, intro)
 
 
-def render_sponsor(path, sponsor, rows, all_groups):
+def render_sponsor(path, sponsor, rows):
     projects = len(dedup_project_rows(rows))
     tracks = {(row["event_slug"], row["prize"]): row for row in rows}
-    groups = {key: all_groups[key] for key in pairs(rows)}
-    intro = [
-        f"# {sponsor}", "", "[Winners index](../README.md)", "",
-        f"{projects} projects across {len({r['event_slug'] for r in rows})} editions, with {len(rows)} sponsor award rows.",
-        "", "## Tracks and required technology", "",
-        *data_table(
+    notes = (
+        ["Prizes credited to an individual or with no identified sponsoring organization.", ""]
+        if sponsor == OTHER_SPONSOR else []
+    )
+    write_lines(path, [
+        f"# {md(sponsor)}", "",
+        f"**{projects:,} projects · {len({r['event_slug'] for r in rows})} editions · {len(rows):,} prize rows**", "",
+        "[Winners index](../README.md)", "", *notes,
+        *common_patterns(rows), "",
+        "## Sponsor awards", "",
+        *award_table(rows, event_view=False), "",
+        *details("Track labels, requirements and rules", data_table(
             ["Edition", "Devpost track name", "Required tech or brief", "Source"],
             (
-                (f"[{md(event_name(row))}](../by-hackathon/{event_file(row)})", md(row["prize"]),
+                (edition_link(row, "../"), md(row["prize"]),
                  md(row["required_tech"] or "No specific requirement captured"),
                  f'[{row["requirement_source"] or "Event prize rules"}]({row["rules_url"]})'
                  if row["rules_url"] else f'[Devpost gallery]({row["gallery_url"]})')
                 for row in sorted(tracks.values(), key=lambda r: (-r["year"], r["event_slug"], r["prize"].casefold()))
             ),
-        ),
-        "", "## What winners have in common", "",
-        f"- **Top Built With tags** {tally_text(common_tech(rows))}",
-        f"- **Problem areas** {tally_text(occurrences(rows, AREA_PATTERNS))}",
-        f"- **Demo types** {tally_text(occurrences(rows, DEMO_PATTERNS, include_tags=True))}",
-        f"- **Projects with a listed demo video** {sum(r['demo_video_count_listed'] > 0 for r in dedup_project_rows(rows))} of {projects}",
-        "",
-        "Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.",
-        "", "## Multi-track winners", "",
-        *leaderboard(groups, prefix="../", include_event_prizes=True),
-        "", "## Sponsor awards", "", *award_table(rows, event_view=False),
-    ]
-    write_lines(path, intro)
+        )),
+    ])
 
 
 def render(output, rows, receipts):
@@ -255,42 +395,26 @@ def render(output, rows, receipts):
         json.dumps({key: receipts[url][key] for key in ("url", "status", "fetched_at")}, ensure_ascii=False)
         for url in sorted(urls)
     ])
-    by_sponsor, by_edition = defaultdict(list), defaultdict(list)
-    for row in rows:
-        by_sponsor[row["sponsor"]].append(row)
-        by_edition[row["event_slug"]].append(row)
-    groups = pairs(rows)
-    intro = [
+    sponsors, editions = split_directory(rows)
+    write_lines(output / "README.md", [
         "# Sponsor-track hackathon winners", "",
-        f"**{len({r['url'] for r in rows}):,} projects · {len(by_edition)} editions · "
-        f"{len(by_sponsor)} sponsors · {len(rows):,} sponsor prize rows**", "",
-        "[CSV](winners.csv) · [JSON](winners.json) · [HTTP receipts](fetch-receipts.jsonl) · [Track-first method](../README.md) · [Coverage report](../result.md)",
-        "",
-        "One row records one project and one sponsor prize. Event pages show the complete Devpost Built With tags, team size, verified links and all listed prizes for that project at that edition. "
-        "A sponsor row links to the implementation detail and Devpost evidence. Backrooms includes a separately attributed sponsor-reported prize.",
-        "", "## Most sponsor tracks won at one event", "",
-        *leaderboard(groups, 20),
-        "", "## Most-awarded sponsors", "",
-        *data_table(["Sponsor", "Award rows", "Projects"], [
-            (f"[{md(sponsor)}](by-sponsor/{slugify(sponsor)}.md)", count, len(dedup_project_rows(by_sponsor[sponsor])))
-            for sponsor, count in ranked({key: len(entries) for key, entries in by_sponsor.items()})[:15]
-        ]),
-        "", "## Most common Built With tags", "",
-        *data_table(["Tag", "Projects per edition"], common_tech(rows)[:20]),
-        "", "## Find a sponsor", "",
-    ]
-    for sponsor, entries in sorted(by_sponsor.items(), key=lambda item: item[0].casefold()):
+        f"**{len({r['url'] for r in rows}):,} projects · {len(editions)} editions · "
+        f"{len(sponsors.keys() - {OTHER_SPONSOR})} sponsors · {len(rows):,} prize rows**", "",
+        "[Leaderboard](#leaderboard) · [Sponsors](#sponsor-index) · [Hackathons](#hackathon-index) · [Track-first guide](../README.md)", "",
+        "[CSV](winners.csv) · [JSON](winners.json) · [HTTP receipts](fetch-receipts.jsonl) · [Coverage report](../result.md)", "",
+        "Each row records one project and one prize. Open a row's details on its edition page to see the full tech stack, links and all listed event prizes. "
+        "Backrooms includes a separately attributed sponsor-reported prize.", "",
+        *common_patterns(rows), "",
+        *directory_sections(rows, sponsors, editions),
+    ])
+    for sponsor, entries in sponsors.items():
         path = output / "by-sponsor" / (slugify(sponsor) + ".md")
         path.parent.mkdir(exist_ok=True)
-        render_sponsor(path, sponsor, entries, groups)
-        intro.append(f"- [{md(sponsor)}](by-sponsor/{path.name}) · {len(entries)} awards")
-    intro.extend(["", "## Browse by hackathon edition", ""])
-    for event, entries in sorted(by_edition.items(), key=lambda item: (-item[1][0]["year"], event_name(item[1][0]).casefold())):
+        render_sponsor(path, sponsor, entries)
+    for entries in editions.values():
         path = output / "by-hackathon" / event_file(entries[0])
         path.parent.mkdir(exist_ok=True)
         render_event(path, entries)
-        intro.append(f"- [{md(event_name(entries[0]))}](by-hackathon/{path.name}) · {len(entries)} awards")
-    write_lines(output / "README.md", intro)
 
 
 def report(path, rows, candidates, missing, links, receipts, commit):
@@ -308,9 +432,9 @@ def report(path, rows, candidates, missing, links, receipts, commit):
     lines = [
         "# Sponsor-track directory build report", "",
         f"Indexed **{covered_projects:,} distinct projects**, **{len(event_groups)} editions**, "
-        f"**{len(sponsor_groups)} sponsors** and **{len(rows):,} sponsor prize rows**.",
+        f"**{len(sponsor_groups.keys() - {OTHER_SPONSOR})} sponsors** and **{len(rows):,} prize rows**.",
         "",
-        f"{sum(len(value) for value in candidates.values()):,} candidate award rows with named sponsors were found in the audited galleries. "
+        f"{sum(len(value) for value in candidates.values()):,} candidate award rows were found in the audited galleries. "
         "The candidate total includes Backrooms, whose Hyphenate prize was sponsor-reported. "
         "Each indexed Devpost Winner label was confirmed on both the gallery and its project page.",
         "",
@@ -371,7 +495,7 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         "- The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.",
         "- Project summaries use edited notes, Devpost project captions and short evidence sentences. "
         "When the project supplies only a stack tag or omits an integration description, the row labels that evidence.",
-        "- Sponsor names come from the exact track label or its event prize description. "
+        "- Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. "
         "General event awards remain visible in project prize lists.",
         "- HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. "
         "The public prize entry supplies no sponsor identity, so those two awards fall outside the named-sponsor index.",

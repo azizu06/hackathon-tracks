@@ -1,33 +1,30 @@
 # Suno
 
+**2 projects · 1 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 1 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** perplexity (2), vercel (2), claude (1)
+- **Common project areas** Games and entertainment (1)
+- **Common demo formats** Web app or dashboard (1)
+- **Projects with a listed demo video** 2 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [ChromaChord](https://devpost.com/software/chromachord) · [code](https://github.com/J4Joshua/JASS-APP) · [demo](https://www.youtube.com/watch?v=niFOu62-IwU) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best Musical Hack · [details](../by-hackathon/treehacks-2026.md#project-chromachord) | Real-time music chord suggestions based on the elegant theory of 24D chroma vectors, enhanced with track… | claude, nextjs, perplexity |
+| [Maestro](https://devpost.com/software/maestro-n0uqyz) · [code](https://github.com/markmusic27/treehacks-26) · [demo](https://www.youtube.com/watch?v=7tlVRvY_3n8) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best Musical Hack · [details](../by-hackathon/treehacks-2026.md#project-maestro-n0uqyz) | Turn an everyday object into infinite instruments. | suno, gx10, nvidia |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Suno&#93; Best Musical Hack | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** perplexity (2), vercel (2), claude (1), gx10 (1), nextjs (1), nvidia (1)
-- **Problem areas** Games and entertainment (1)
-- **Demo types** Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [ChromaChord](../by-hackathon/treehacks-2026.md#project-chromachord) | TreeHacks 2026 | 1 | 2 | Suno |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [ChromaChord](../by-hackathon/treehacks-2026.md#project-chromachord) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Suno&#93; Best Musical Hack | — | ChromaChord is a real-time AI jazz assistant that listens to your improvisation and helps you navigate harmony. | 2 |
-| [Maestro](../by-hackathon/treehacks-2026.md#project-maestro-n0uqyz) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Suno&#93; Best Musical Hack | — | The output is passed to a Suno API pipeline to generate a full track based on what you played. | 1 |
+</details>

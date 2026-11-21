@@ -1,10 +1,33 @@
 # Rox
 
+**8 projects · 4 editions · 8 prize rows**
+
 [Winners index](../README.md)
 
-8 projects across 4 editions, with 8 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** elevenlabs (3), openai (3), python (3)
+- **Common project areas** Health and care (1)
+- **Common demo formats** Web app or dashboard (4), CLI or developer tool (1), Voice or conversational interface (1)
+- **Projects with a listed demo video** 6 of 8
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [AdLib](https://devpost.com/software/living-canvas-gz360v) · [code](https://github.com/Marcus990/adlib) · [demo](https://www.youtube.com/watch?v=7rFWjY7Ly7k) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best AI Agent · [details](../by-hackathon/hack-the-north-2026.md#project-living-canvas-gz360v) | Live voice and action reactive canvas for the future of presentations. | baseten, codex, openai |
+| [Jevis](https://devpost.com/software/skillweaver) · [code](https://github.com/evanzyang91/jevis) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best AI Agent · [details](../by-hackathon/hack-the-north-2026.md#project-skillweaver) | Run your browser agents faster-- at a fraction of the cost. | chrome, jev, openai |
+| [DIAL(&#42;)](https://devpost.com/software/dial-4rqzc3) · [demo](https://www.youtube.com/watch?v=32DSdO1V-z0) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of Rox · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-dial-4rqzc3) | DIAL (&#42;) is an optimized customer service agent designed for data-heavy use cases. | duckdb, elevenlabs, express.js |
+| [Harmoniq](https://devpost.com/software/harmoniq-06o1e9) · [code](https://github.com/vardhanshorewala/harmoniq) · [demo](https://www.youtube.com/watch?v=mIZSg8rKyew) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of Rox · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-harmoniq-06o1e9) | Harmoniq is an AI agent system that continuously monitors clinical trial protocols for regulatory compliance:. | agents, chroma, llms |
+| [PitchLab](https://devpost.com/software/pitchlab-clxhuj) · [code](https://github.com/Kevinxygu/calhacks.12.0) · [demo](https://www.youtube.com/watch?v=MiJudXabmlQ) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of Rox · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-pitchlab-clxhuj) | PitchLab generates catered mock sales pitch calls for sales reps to learn, practice, and apply before the… | rox, claude, elevenlabs |
+| [Lavoe](https://devpost.com/software/lavoe) · [code](https://github.com/Leonardomontesqui/Lavoe) · [demo](https://www.youtube.com/watch?v=ISKuDB2s1jM) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Best AI Agent · [details](../by-hackathon/hack-the-north-2025.md#project-lavoe) | Lavoe provides an intuitive and AI-augmented DAW interface with features designed to streamline creativity:. | ai-sdk, claude, cohere |
+| [socialCRM](https://devpost.com/software/socialcrm) · [code](https://github.com/ochen1/creator-intelligence) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Best AI Agent · [details](../by-hackathon/hack-the-north-2025.md#project-socialcrm) | Turning creators into data-driven businesses through the power of AI. | javascript, node.js, openai |
+| [Spielberg AI](https://devpost.com/software/spielburg-ai) · [code](https://github.com/adeng27/treehacks-25) · [demo](https://www.youtube.com/watch?v=EWgFPhaG48E) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Agents Hack ($7k Cash) · [details](../by-hackathon/treehacks-2025.md#project-spielburg-ai) | Spielberg AI is an AI-powered video editor that allows creators to edit videos using only natural language. | cuda, elevenlabs, fastapi |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -13,32 +36,4 @@
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Rox: Best AI Agent | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Rox: Best Agents Hack ($7k Cash) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** elevenlabs (3), openai (3), python (3), react (3), claude (2), nextjs (2)
-- **Problem areas** Health and care (1)
-- **Demo types** Web app or dashboard (4), CLI or developer tool (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 6 of 8
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [DIAL(*)](../by-hackathon/cal-hacks-12-0-2025.md#project-dial-4rqzc3) | Cal Hacks 12.0 2025 | 3 | 3 | Conversion, Crater, Rox |
-| [Harmoniq](../by-hackathon/cal-hacks-12-0-2025.md#project-harmoniq-06o1e9) | Cal Hacks 12.0 2025 | 2 | 2 | Regeneron, Rox |
-| [Lavoe](../by-hackathon/hack-the-north-2025.md#project-lavoe) | Hack the North 2025 | 2 | 2 | Rox, Windsurf |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [AdLib](../by-hackathon/hack-the-north-2026.md#project-living-canvas-gz360v) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Rox: Best AI Agent | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Jevis](../by-hackathon/hack-the-north-2026.md#project-skillweaver) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Rox: Best AI Agent | — | The first time, it explores the site step by step. | 1 |
-| [DIAL(*)](../by-hackathon/cal-hacks-12-0-2025.md#project-dial-4rqzc3) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Rox: Best Use of Rox | — | The project page provides no specific sponsor integration detail in the indexed fields. | 3 |
-| [Harmoniq](../by-hackathon/cal-hacks-12-0-2025.md#project-harmoniq-06o1e9) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Rox: Best Use of Rox | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [PitchLab](../by-hackathon/cal-hacks-12-0-2025.md#project-pitchlab-clxhuj) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Rox: Best Use of Rox | — | The project lists rox among its Built With tags. | 1 |
-| [Lavoe](../by-hackathon/hack-the-north-2025.md#project-lavoe) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Rox: Best AI Agent | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [socialCRM](../by-hackathon/hack-the-north-2025.md#project-socialcrm) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Rox: Best AI Agent | — | Creator Intelligence is a platform that brings Agentic CRM vision to the content creation world. | 1 |
-| [Spielberg AI](../by-hackathon/treehacks-2025.md#project-spielburg-ai) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Rox: Best Agents Hack ($7k Cash) | $7k Cash | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

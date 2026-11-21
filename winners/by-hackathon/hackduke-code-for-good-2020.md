@@ -1,56 +1,66 @@
 # HackDuke Code for Good 2020
 
-[Devpost gallery](https://code-for-good.devpost.com/project-gallery) · [Official prize rules](https://code-for-good.devpost.com/) · [Winners index](../README.md)
+**34 projects · 7 sponsors · 37 prize rows**
 
-34 projects and 37 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://code-for-good.devpost.com/project-gallery) · [Official prize rules](https://code-for-good.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** javascript (19), python (18), google-cloud (11)
+- **Common project areas** Health and care (8), Education and learning (3), Climate and environment (2)
+- **Common demo formats** Mobile app (5), Web app or dashboard (5), Voice or conversational interface (4)
+- **Projects with a listed demo video** 34 of 34
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Quizzo: AR Jeopardy](#project-quizzo) | [DataStax](../by-sponsor/datastax.md) | Best use of DataStax Astra | — | You finished studying for your big exam but you're still not sure if you're ready. | 1 |
-| [OxyControl](#project-oxycontrol) | [Digi-Key](../by-sponsor/digi-key.md) | Best Hardware Hack Sponsored by Digi-Key | — | OxyControl is a secure dispenser for narcotics that enforces a strict dosing schedule and locks out if the dosing schedule is violated. | 3 |
-| [Sink Saver](#project-sink-saver) | [Digi-Key](../by-sponsor/digi-key.md) | Best Hardware Hack Sponsored by Digi-Key | — | The project is titled Sink Saver , a hardware-based solution that aims to reduce the amount of water wasted in households by leaky faucets. | 3 |
-| [SPCH](#project-spch) | [Domain.com](../by-sponsor/domain-com.md) | Best Domain Registered with Domain.com | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Ketchup](#project-ketchup-396ntm) | [Duke Innovation Studio](../by-sponsor/duke-innovation-studio.md) | Duke Innovation Studio: Next Big Innovation Award | — | ketchup is a custom-built Alexa skill that asks the user how they’re feeling everyday. | 2 |
-| [SelfLoving.us](#project-selfloving-us-xy3oc7) | [echoAR](../by-sponsor/echoar.md) | Best AR/VR App using echoAR | — | Certain fun elements are built with echoAR. | 1 |
-| [The Remote University Experience](#project-the-remote-university-experience) | [Google](../by-sponsor/google.md) | Best use of Google Cloud | — | The project lists google-cloud among its Built With tags. | 1 |
-| [.pom; Timer for Students](#project-pomodoro-timer-for-kids) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | Every 4 Pomodoros, users take a longer break, usually 15-30 minutes. | 1 |
-| [CelestialMed](#project-celestialmed) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Charitable](#project-charitable-65vqbd) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [CheckUp](#project-checkup-cjrbs3) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Conduct exams safely](#project-safety-before-exam-during-covid19) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The data is transferred to a cloud server, Thingpeak where it can be monitored and analyzed. | 1 |
-| [CONSERVATIONIST](#project-conservationist) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [conServe](#project-conserve) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | First, you enter the groceries that you have in your fridge. | 2 |
-| [Coral](#project-coral) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [CovHub](#project-coronavirus-website) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The website is divided into eight main sections, each of which presents a central topic relevant to COVID-19. | 1 |
-| [COVID-19 Cluster Detection App](#project-covid-19-cluster-detection-app) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [EcoConscious Tech](#project-spaghetti) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | EcoConscious Tech has three main components: the Carbon Emissions Monitor VSCode extension, the Green Web Google Chrome Extension, and the EcoConscious Tech Web App. | 2 |
-| [EcoEats](#project-ecoeats-8vb6tg) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Ensemble](#project-ensemble-un4pjb) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | Ensemble is a web app that allows users to listen to music in real time with one another. | 2 |
-| [Extinguish](#project-extinguish-8yjl97) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [eyeSafe](#project-eyesafe) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [gauge](#project-testing-rvlt9k) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | This will be done by analyzing every student’s incoming feed, recognizing facial expressions, and calculating how many people are confused vs not confused. | 2 |
-| [gram-pal](#project-gram-pal) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [GuideDog](#project-guidedog-uoeft8) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | GuideDog is a mobile application that utilizes machine learning to perform image recognition in real-time from the user's mobile phone camera. | 2 |
-| [Kaizen](#project-kaizen-journal) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | Kaizen allows patients to journal down their thoughts, whether it be via text or the old fashioned way. | 2 |
-| [Ketchup](#project-ketchup-396ntm) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | ketchup is a custom-built Alexa skill that asks the user how they’re feeling everyday. | 2 |
-| [Mindful Me](#project-mindful-me-867jeq) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The team created the project, Mindful Me, for the Health track. | 1 |
-| [OxyControl](#project-oxycontrol) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | OxyControl is a secure dispenser for narcotics that enforces a strict dosing schedule and locks out if the dosing schedule is violated. | 3 |
-| [Plan Your Homestead](#project-plan-your-homestead) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [pupil](#project-pupil-3sctez) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | pupil is a desktop application that provides an efficient way of communication through eye tracking and movement for people that have their physical movement challenged by cerebral palsy. | 1 |
-| [Putta Mask On It](#project-putta-mask-on-it) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Shareapy](#project-t-0j4rl7) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | Shareapy (pronounced like “share” and “therapy”) lets PWS post accomplishments of what speech techniques they have practiced in order to motivate themselves and one another to practice more. | 2 |
-| [Sink Saver](#project-sink-saver) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | The project is titled Sink Saver , a hardware-based solution that aims to reduce the amount of water wasted in households by leaky faucets. | 3 |
-| [Syllabus Parser (Education Track)](#project-syllabus-parser) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | It takes a pdf or text file and parses it to find the assignment name, and date. | 1 |
-| [TheraMatch](#project-therapists) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | Additionally, each preference is given a sliding bar that the user can adjust to indicate the importance of the selection. | 1 |
-| [UniversalLanguage](#project-universallanguage) | [Wolfram](../by-sponsor/wolfram.md) | Wolfram Award | — | Users can either enter their Duolingo login information, or enter a list of vocabulary words in the language they're learning and indicate the language. | 2 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Quizzo: AR Jeopardy](https://devpost.com/software/quizzo) · [code](https://github.com/apangasa/hackduke-quizzo) · [demo](https://www.youtube.com/watch?v=lfjNs9mp4sM) | [DataStax](../by-sponsor/datastax.md) · Best use of DataStax Astra · [details](#project-quizzo) | Quizzo uses OCR, AR, and voice commands to gamify the learning process, increase your engagement with the… | aframe, ar.js, azure |
+| [OxyControl](https://devpost.com/software/oxycontrol) · [code](https://github.com/blucifer22/oxycontrol) · [demo](https://www.youtube.com/watch?v=Ucm68nm7ov4) | [Digi-Key](../by-sponsor/digi-key.md) · Best Hardware Hack Sponsored by Digi-Key · [details](#project-oxycontrol) | OxyControl is a novel, low-cost device designed to prevent the abuse of prescription narcotics in post-… | arduino, c, c++ |
+| [Sink Saver](https://devpost.com/software/sink-saver) · [code](https://github.com/tamablevirus/HackDuke2020-SinkSaver) · [demo](https://www.youtube.com/watch?v=59taEK-VP0A) | [Digi-Key](../by-sponsor/digi-key.md) · Best Hardware Hack Sponsored by Digi-Key · [details](#project-sink-saver) | A machine learning application that alerts users of unattended leaky or running faucets in their homes to… | arduino, c++, flask |
+| [SPCH](https://devpost.com/software/spch) · [code](https://github.com/BryantH24/SPCH) · [demo](https://www.youtube.com/watch?v=ejlorFZdnkA) | [Domain.com](../by-sponsor/domain-com.md) · Best Domain Registered with Domain.com · [details](#project-spch) | The project “SPCH” involves a text editor and Google Chrome extension that scans for hate speech and… | chrome, datastax-astra, docker |
+| [Ketchup](https://devpost.com/software/ketchup-396ntm) · [code](https://github.com/sanhalim/ketchup) · [demo](https://www.youtube.com/watch?v=iT3uq3vS_PE) | [Duke Innovation Studio](../by-sponsor/duke-innovation-studio.md) · Next Big Innovation Award · [details](#project-ketchup-396ntm) | "Alexa, let's catchup". Ketchup is an Alexa Skill that asks you how you're doing everyday, using sentiment… | alexa, cockroachdb, deepaffects |
+| [SelfLoving.us](https://devpost.com/software/selfloving-us-xy3oc7) · [code](https://github.com/Sushreesatarupa/selfloving.github.io) · [demo](https://www.youtube.com/watch?v=rYGHLqQsp-o) | [echoAR](../by-sponsor/echoar.md) · Best AR/VR App using echoAR · [details](#project-selfloving-us-xy3oc7) | Website with self-care discord bot that provides daily self care missions,helps dealing with mental health… | echoar, bootstrap, bot |
+| [The Remote University Experience](https://devpost.com/software/the-remote-university-experience) · [code](https://github.com/cindyxu20/hackathon2020) · [demo](https://www.youtube.com/watch?v=uE2RPC_NKzs) | [Google](../by-sponsor/google.md) · Best use of Google Cloud · [details](#project-the-remote-university-experience) | Revolutionizing education, orientations, and the remote college experience for the digital future. | google-cloud, css, git |
+| [.pom; Timer for Students](https://devpost.com/software/pomodoro-timer-for-kids) · [code](https://github.com/ACK101101/pomo-plugin) · [demo](https://www.youtube.com/watch?v=CW_fn_HNLTI) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-pomodoro-timer-for-kids) | A Pomodoro timer with virtual rewards and a hidden timer to encourage kids with ADHD/attention deficit issues… | github, html, javascript |
+| [CelestialMed](https://devpost.com/software/celestialmed) · [code](https://github.com/Zenyi1/HackDuke_project) · [demo](https://www.youtube.com/watch?v=J8TgUdlwKwU) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-celestialmed) | Workflow of the coding for the covid prediction. | express.js, javascript, keras |
+| [Charitable](https://devpost.com/software/charitable-65vqbd) · [code](https://github.com/2018ayee/charitiesforgood) · [demo](https://www.youtube.com/watch?v=ddlyORKBy20) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-charitable-65vqbd) | These charity portfolios can be managed by users, and charity information pages are generated for each… | css3, firebase, firestore |
+| [CheckUp](https://devpost.com/software/checkup-cjrbs3) · [code](https://github.com/bluqiu001/CheckUp) · [demo](https://www.youtube.com/watch?v=oOjFjfD9rbc) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-checkup-cjrbs3) | CheckUp allows doctors to monitor patients for coronavirus symptoms before and after an appointment. | firebase, swift, xcode |
+| [Conduct exams safely](https://devpost.com/software/safety-before-exam-during-covid19) · [demo](https://www.youtube.com/watch?v=Awg5byHF0B8) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-safety-before-exam-during-covid19) | Fingerprint based Exam hall registration, authentication system with temperature sensing of the candidate,… | arduino, c, ifttt |
+| [CONSERVATIONIST](https://devpost.com/software/conservationist) · [code](https://github.com/prernasawhney/conservationalist) · [demo](https://www.youtube.com/watch?v=vjgo308ZF1Y) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-conservationist) | The team introduce Envokart to solve this problem, Envokart picks up the waste from your doorstep according… | amazon-web-services, api, api-(google-javascript-api-and-google-geolocation-api) |
+| [conServe](https://devpost.com/software/conserve) · [code](https://github.com/QiuhongAnnaWei/ConServe) · [demo](https://www.youtube.com/watch?v=2O3fDAM8grI) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-conserve) | Serve delicious food while conserving groceries! Keep track of the expiration dates of your food and get… | bootstrap, html, javascript |
+| [Coral](https://devpost.com/software/coral) · [code](https://github.com/sahilmahendrakar/TranslationExtension) · [demo](https://www.youtube.com/watch?v=ESSUAiiXdIA) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-coral) | Learn new languages as you browse! Coral is a chrome extension that immerses you in foreign vocabulary. | css, html, javascript |
+| [CovHub](https://devpost.com/software/coronavirus-website) · [demo](https://www.youtube.com/watch?v=9ekGMGMFSVg) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-coronavirus-website) | CovHub makes it effortless to find up to date information on topics related to the ongoing pandemic,… | bootstrap, css3, embedly |
+| [COVID-19 Cluster Detection App](https://devpost.com/software/covid-19-cluster-detection-app) · [code](https://github.com/ameysunu/hackduke) · [demo](https://www.youtube.com/watch?v=rF8mlTzNVbk) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-covid-19-cluster-detection-app) | The app provides users with a real-time COVID-19 risk assessment on any of their location search queries. | dart, firebase, flutter |
+| [EcoConscious Tech](https://devpost.com/software/spaghetti) · [code](https://github.com/catherinedparnell/ecoconscious-tech-chrome) · [demo](https://www.youtube.com/watch?v=hG0lLAeQx9E) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-spaghetti) | A VSCode extension, Chrome extension, and web app to help developers and internet users become more conscious… | css, figma, firestore |
+| [EcoEats](https://devpost.com/software/ecoeats-8vb6tg) · [code](https://github.com/BenCrespoDuke/HackDuke) · [demo](https://www.youtube.com/watch?v=NQBg9TyCiTM) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-ecoeats-8vb6tg) | EcoEats helps to provide a quick and easy way to look at how much carbon emissions are produced from your… | android-studio, firebase |
+| [Ensemble](https://devpost.com/software/ensemble-un4pjb) · [code](https://github.com/jeffreyluoxlvii/ensemble) · [demo](https://www.youtube.com/watch?v=_-nXS1JCzkY) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-ensemble-un4pjb) | Especially during COVID, people have never been more disconnected. Ensemble hopes to bring people back… | firebase, react, youtube |
+| [Extinguish](https://devpost.com/software/extinguish-8yjl97) · [demo](https://www.youtube.com/watch?v=I-1iUyfoR4E) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-extinguish-8yjl97) | Extinguish uses machine learning to provide helpful insights about fires. | css3, flask, html5 |
+| [eyeSafe](https://devpost.com/software/eyesafe) · [code](https://github.com/alexquach/eyeSafe) · [demo](https://www.youtube.com/watch?v=fJ4aXA5IY6Q) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-eyesafe) | eyeSafe uses your computer webcam to detect how often you blink. | chrome, computer-vision, javascript |
+| [gauge](https://devpost.com/software/testing-rvlt9k) · [code](https://github.com/Sharad100/Vision-Based-Classroom-AI-Assistant) · [demo](https://www.youtube.com/watch?v=clv6Quh8H-8) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-testing-rvlt9k) | Gauge -- a zoom add-on for teachers to gauge if their students are understanding content. | keras, matplotlib, numpy |
+| [gram-pal](https://devpost.com/software/gram-pal) · [code](https://github.com/erikmnovak/duke-hackathon-2020) · [demo](https://www.youtube.com/watch?v=MLnl9rUTj6A) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-gram-pal) | The team describes the project as “Social media are an important way for people to stay connected with… | css3, flask, html5 |
+| [GuideDog](https://devpost.com/software/guidedog-uoeft8) · [code](https://github.com/samarthlamba/DukeHackathon2020) · [demo](https://www.youtube.com/watch?v=t95O0PvCC_I) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-guidedog-uoeft8) | AI-Based Narration Camera for the Visually Impaired. | figma, flutter, gtts |
+| [Kaizen](https://devpost.com/software/kaizen-journal) · [code](https://github.com/akhatua2/Kaizen) · [demo](https://www.youtube.com/watch?v=v32u9aC71s0) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-kaizen-journal) | Kaizen is a therapeutic journal for patients with a focus on privacy. Patients can freely express their… | bootstrap, canvas.js, firebase |
+| [Ketchup](https://devpost.com/software/ketchup-396ntm) · [code](https://github.com/sanhalim/ketchup) · [demo](https://www.youtube.com/watch?v=iT3uq3vS_PE) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-ketchup-396ntm) | "Alexa, let's catchup". Ketchup is an Alexa Skill that asks you how you're doing everyday, using sentiment… | alexa, cockroachdb, deepaffects |
+| [Mindful Me](https://devpost.com/software/mindful-me-867jeq) · [demo](https://www.youtube.com/watch?v=dF6Cx_b8CjA) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-mindful-me-867jeq) | Mindful Me is a website that allows and encourages users to complete daily mental health checks in and… | cassandra, css, datastax-astra |
+| [OxyControl](https://devpost.com/software/oxycontrol) · [code](https://github.com/blucifer22/oxycontrol) · [demo](https://www.youtube.com/watch?v=Ucm68nm7ov4) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-oxycontrol) | OxyControl is a novel, low-cost device designed to prevent the abuse of prescription narcotics in post-… | arduino, c, c++ |
+| [Plan Your Homestead](https://devpost.com/software/plan-your-homestead) · [code](https://github.com/chardorn/homestead_planner) · [demo](https://www.youtube.com/watch?v=yiXvsZiMCDo) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-plan-your-homestead) | This application allows an individual to outline a property, and work through major costs, such as energy… | api, bootstrap, css |
+| [pupil](https://devpost.com/software/pupil-3sctez) · [code](https://github.com/alvii147/pupil) · [demo](https://www.youtube.com/watch?v=_9XTW2mqdjo) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-pupil-3sctez) | Eye-tracking based communication for cerebral palsy patients. | opencv, pyqt5, python |
+| [Putta Mask On It](https://devpost.com/software/putta-mask-on-it) · [code](https://github.com/saiccoumar/PMOI) · [demo](https://www.youtube.com/watch?v=UK3-xYVyPlM) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-putta-mask-on-it) | The automation of mask security for stores. | css, html, javascript |
+| [Shareapy](https://devpost.com/software/t-0j4rl7) · [code](https://github.com/HackDuke-2020/Shareapy) · [demo](https://www.youtube.com/watch?v=04SFGBYGA2I) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-t-0j4rl7) | A community that encourages and challenges people who stutter to practice speech therapy. | firebase, javascript, react-native |
+| [Sink Saver](https://devpost.com/software/sink-saver) · [code](https://github.com/tamablevirus/HackDuke2020-SinkSaver) · [demo](https://www.youtube.com/watch?v=59taEK-VP0A) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-sink-saver) | A machine learning application that alerts users of unattended leaky or running faucets in their homes to… | arduino, c++, flask |
+| [Syllabus Parser (Education Track)](https://devpost.com/software/syllabus-parser) · [code](https://github.com/rosiesr/syllabusparser) · [demo](https://www.youtube.com/watch?v=Sa93iEYx7Hk) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-syllabus-parser) | Automatically add events to GCal, just by uploading your class syllabus. | flask, google, google-calendar |
+| [TheraMatch](https://devpost.com/software/therapists) · [code](https://github.com/sasymer/hackduke2020) · [demo](https://www.youtube.com/watch?v=m_ZnZd6Kcho) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-therapists) | A web app that matches people with mental health therapists best suited for their care. | figma, javascript, react |
+| [UniversalLanguage](https://devpost.com/software/universallanguage) · [code](https://github.com/samaocarpenter/UniversalLanguage) · [demo](https://www.youtube.com/watch?v=7l-3FMcaKMU) | [Wolfram](../by-sponsor/wolfram.md) · Wolfram Award · [details](#project-universallanguage) | An app to match foreign language learners with songs that reinforce their vocabularies. | duolingo, musixmatch, python |
 
 ## Project details
 
 <a name="project-pomodoro-timer-for-kids"></a>
 
-### [.pom; Timer for Students](https://devpost.com/software/pomodoro-timer-for-kids)
+<details>
+<summary>.pom; Timer for Students</summary>
 
 A Pomodoro timer with virtual rewards and a hidden timer to encourage kids with ADHD/attention deficit issues during online learning. Focus is rewarded with short videos provided by teachers.
 
@@ -60,11 +70,14 @@ A Pomodoro timer with virtual rewards and a hidden timer to encourage kids with 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=CW_fn_HNLTI)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** Every 4 Pomodoros, users take a longer break, usually 15-30 minutes. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** Every 4 Pomodoros, users take a longer break, usually 15-30 minutes.
+
+</details>
 
 <a name="project-celestialmed"></a>
 
-### [CelestialMed](https://devpost.com/software/celestialmed)
+<details>
+<summary>CelestialMed</summary>
 
 Workflow of the coding for the covid prediction.
 
@@ -74,11 +87,14 @@ Workflow of the coding for the covid prediction.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=J8TgUdlwKwU)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-charitable-65vqbd"></a>
 
-### [Charitable](https://devpost.com/software/charitable-65vqbd)
+<details>
+<summary>Charitable</summary>
 
 These charity portfolios can be managed by users, and charity information pages are generated for each charity in the database for users to discover new charities.
 
@@ -88,11 +104,14 @@ These charity portfolios can be managed by users, and charity information pages 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ddlyORKBy20)
 - **All event prizes (2)** Best Inequality Track Hack · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-checkup-cjrbs3"></a>
 
-### [CheckUp](https://devpost.com/software/checkup-cjrbs3)
+<details>
+<summary>CheckUp</summary>
 
 CheckUp allows doctors to monitor patients for coronavirus symptoms before and after an appointment.
 
@@ -102,11 +121,14 @@ CheckUp allows doctors to monitor patients for coronavirus symptoms before and a
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=oOjFjfD9rbc)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-safety-before-exam-during-covid19"></a>
 
-### [Conduct exams safely](https://devpost.com/software/safety-before-exam-during-covid19)
+<details>
+<summary>Conduct exams safely</summary>
 
 Fingerprint based Exam hall registration, authentication system with temperature sensing of the candidate, recording it on Thingspeak plus sending email alert to authorities when temperature is high.
 
@@ -116,11 +138,14 @@ Fingerprint based Exam hall registration, authentication system with temperature
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Awg5byHF0B8)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The data is transferred to a cloud server, Thingpeak where it can be monitored and analyzed. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** The data is transferred to a cloud server, Thingpeak where it can be monitored and analyzed.
+
+</details>
 
 <a name="project-conservationist"></a>
 
-### [CONSERVATIONIST](https://devpost.com/software/conservationist)
+<details>
+<summary>CONSERVATIONIST</summary>
 
 The team introduce Envokart to solve this problem, Envokart picks up the waste from your doorstep according to your scheduled date and time.
 
@@ -130,11 +155,14 @@ The team introduce Envokart to solve this problem, Envokart picks up the waste f
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=vjgo308ZF1Y)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-conserve"></a>
 
-### [conServe](https://devpost.com/software/conserve)
+<details>
+<summary>conServe</summary>
 
 Serve delicious food while conserving groceries! Keep track of the expiration dates of your food and get inspired by recipes from around the world.
 
@@ -144,11 +172,14 @@ Serve delicious food while conserving groceries! Keep track of the expiration da
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=2O3fDAM8grI)
 - **All event prizes (2)** Best Energy and Environment Track Hack · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** First, you enter the groceries that you have in your fridge. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** First, you enter the groceries that you have in your fridge.
+
+</details>
 
 <a name="project-coral"></a>
 
-### [Coral](https://devpost.com/software/coral)
+<details>
+<summary>Coral</summary>
 
 Learn new languages as you browse! Coral is a chrome extension that immerses you in foreign vocabulary.
 
@@ -158,11 +189,14 @@ Learn new languages as you browse! Coral is a chrome extension that immerses you
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ESSUAiiXdIA)
 - **All event prizes (2)** Best Education Track Hack · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-coronavirus-website"></a>
 
-### [CovHub](https://devpost.com/software/coronavirus-website)
+<details>
+<summary>CovHub</summary>
 
 CovHub makes it effortless to find up to date information on topics related to the ongoing pandemic, including forecast, simulations, news, research, policy, market, live charts, and much more.
 
@@ -172,11 +206,14 @@ CovHub makes it effortless to find up to date information on topics related to t
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=9ekGMGMFSVg)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The website is divided into eight main sections, each of which presents a central topic relevant to COVID-19. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** The website is divided into eight main sections, each of which presents a central topic relevant to COVID-19.
+
+</details>
 
 <a name="project-covid-19-cluster-detection-app"></a>
 
-### [COVID-19 Cluster Detection App](https://devpost.com/software/covid-19-cluster-detection-app)
+<details>
+<summary>COVID-19 Cluster Detection App</summary>
 
 The app provides users with a real-time COVID-19 risk assessment on any of their location search queries.
 
@@ -186,11 +223,14 @@ The app provides users with a real-time COVID-19 risk assessment on any of their
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=rF8mlTzNVbk)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-spaghetti"></a>
 
-### [EcoConscious Tech](https://devpost.com/software/spaghetti)
+<details>
+<summary>EcoConscious Tech</summary>
 
 A VSCode extension, Chrome extension, and web app to help developers and internet users become more conscious about their environmental impact.
 
@@ -200,11 +240,14 @@ A VSCode extension, Chrome extension, and web app to help developers and interne
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=hG0lLAeQx9E)
 - **All event prizes (2)** Best Energy and Environment Track Hack · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** EcoConscious Tech has three main components: the Carbon Emissions Monitor VSCode extension, the Green Web Google Chrome Extension, and the EcoConscious Tech Web App. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** EcoConscious Tech has three main components: the Carbon Emissions Monitor VSCode extension, the Green Web Google Chrome Extension, and the EcoConscious Tech Web App.
+
+</details>
 
 <a name="project-ecoeats-8vb6tg"></a>
 
-### [EcoEats](https://devpost.com/software/ecoeats-8vb6tg)
+<details>
+<summary>EcoEats</summary>
 
 EcoEats helps to provide a quick and easy way to look at how much carbon emissions are produced from your everyday meals through just a snap of a camera.
 
@@ -214,11 +257,14 @@ EcoEats helps to provide a quick and easy way to look at how much carbon emissio
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=NQBg9TyCiTM)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-ensemble-un4pjb"></a>
 
-### [Ensemble](https://devpost.com/software/ensemble-un4pjb)
+<details>
+<summary>Ensemble</summary>
 
 Especially during COVID, people have never been more disconnected. Ensemble hopes to bring people back together by being a platform on which users can listen to music together.
 
@@ -228,11 +274,14 @@ Especially during COVID, people have never been more disconnected. Ensemble hope
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=_-nXS1JCzkY)
 - **All event prizes (2)** Best Health Track Hack · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** Ensemble is a web app that allows users to listen to music in real time with one another. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** Ensemble is a web app that allows users to listen to music in real time with one another.
+
+</details>
 
 <a name="project-extinguish-8yjl97"></a>
 
-### [Extinguish](https://devpost.com/software/extinguish-8yjl97)
+<details>
+<summary>Extinguish</summary>
 
 Extinguish uses machine learning to provide helpful insights about fires.
 
@@ -242,11 +291,14 @@ Extinguish uses machine learning to provide helpful insights about fires.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=I-1iUyfoR4E)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-eyesafe"></a>
 
-### [eyeSafe](https://devpost.com/software/eyesafe)
+<details>
+<summary>eyeSafe</summary>
 
 eyeSafe uses your computer webcam to detect how often you blink.
 
@@ -256,11 +308,14 @@ eyeSafe uses your computer webcam to detect how often you blink.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=fJ4aXA5IY6Q)
 - **All event prizes (2)** Best Health Track Hack · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-testing-rvlt9k"></a>
 
-### [gauge](https://devpost.com/software/testing-rvlt9k)
+<details>
+<summary>gauge</summary>
 
 Gauge -- a zoom add-on for teachers to gauge if their students are understanding content.
 
@@ -270,11 +325,14 @@ Gauge -- a zoom add-on for teachers to gauge if their students are understanding
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=clv6Quh8H-8)
 - **All event prizes (2)** Best Education Track Hack · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** This will be done by analyzing every student’s incoming feed, recognizing facial expressions, and calculating how many people are confused vs not confused. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** This will be done by analyzing every student’s incoming feed, recognizing facial expressions, and calculating how many people are confused vs not confused.
+
+</details>
 
 <a name="project-gram-pal"></a>
 
-### [gram-pal](https://devpost.com/software/gram-pal)
+<details>
+<summary>gram-pal</summary>
 
 The team describes the project as “Social media are an important way for people to stay connected with friends and family during COVID. Our website allows seniors to stay connected by providing customized recommendations and tutorials”.
 
@@ -284,11 +342,14 @@ The team describes the project as “Social media are an important way for peopl
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=MLnl9rUTj6A)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-guidedog-uoeft8"></a>
 
-### [GuideDog](https://devpost.com/software/guidedog-uoeft8)
+<details>
+<summary>GuideDog</summary>
 
 AI-Based Narration Camera for the Visually Impaired.
 
@@ -298,11 +359,14 @@ AI-Based Narration Camera for the Visually Impaired.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=t95O0PvCC_I)
 - **All event prizes (2)** Best Inequality Track Hack · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** GuideDog is a mobile application that utilizes machine learning to perform image recognition in real-time from the user's mobile phone camera. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** GuideDog is a mobile application that utilizes machine learning to perform image recognition in real-time from the user's mobile phone camera.
+
+</details>
 
 <a name="project-kaizen-journal"></a>
 
-### [Kaizen](https://devpost.com/software/kaizen-journal)
+<details>
+<summary>Kaizen</summary>
 
 Kaizen is a therapeutic journal for patients with a focus on privacy. Patients can freely express their thoughts, while allowing healthcare practitioners to get an abstracted look at their progress.
 
@@ -312,11 +376,14 @@ Kaizen is a therapeutic journal for patients with a focus on privacy. Patients c
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=v32u9aC71s0)
 - **All event prizes (2)** Best Health Track Hack · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** Kaizen allows patients to journal down their thoughts, whether it be via text or the old fashioned way. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** Kaizen allows patients to journal down their thoughts, whether it be via text or the old fashioned way.
+
+</details>
 
 <a name="project-ketchup-396ntm"></a>
 
-### [Ketchup](https://devpost.com/software/ketchup-396ntm)
+<details>
+<summary>Ketchup</summary>
 
 "Alexa, let's catchup". Ketchup is an Alexa Skill that asks you how you're doing everyday, using sentiment and emotion analysis to give appropriate responses and track your mood over time.
 
@@ -326,12 +393,15 @@ Kaizen is a therapeutic journal for patients with a focus on privacy. Patients c
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=iT3uq3vS_PE)
 - **All event prizes (2)** Duke Innovation Studio: Next Big Innovation Award · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Duke Innovation Studio** ketchup is a custom-built Alexa skill that asks the user how they’re feeling everyday. Devpost gives no specific sponsor integration detail.
-- **Wolfram** ketchup is a custom-built Alexa skill that asks the user how they’re feeling everyday. Devpost gives no specific sponsor integration detail.
+- **Duke Innovation Studio · Duke Innovation Studio: Next Big Innovation Award** ketchup is a custom-built Alexa skill that asks the user how they’re feeling everyday.
+- **Wolfram · Wolfram Award** ketchup is a custom-built Alexa skill that asks the user how they’re feeling everyday.
+
+</details>
 
 <a name="project-mindful-me-867jeq"></a>
 
-### [Mindful Me](https://devpost.com/software/mindful-me-867jeq)
+<details>
+<summary>Mindful Me</summary>
 
 Mindful Me is a website that allows and encourages users to complete daily mental health checks in and provides tailored mental health resources based on a user's identity.
 
@@ -341,11 +411,14 @@ Mindful Me is a website that allows and encourages users to complete daily menta
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=dF6Cx_b8CjA)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The team created the project, Mindful Me, for the Health track. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** The team created the project, Mindful Me, for the Health track.
+
+</details>
 
 <a name="project-oxycontrol"></a>
 
-### [OxyControl](https://devpost.com/software/oxycontrol)
+<details>
+<summary>OxyControl</summary>
 
 OxyControl is a novel, low-cost device designed to prevent the abuse of prescription narcotics in post-operative and chronic pain patients.
 
@@ -355,12 +428,15 @@ OxyControl is a novel, low-cost device designed to prevent the abuse of prescrip
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Ucm68nm7ov4)
 - **All event prizes (3)** Best Hardware Hack Sponsored by Digi-Key · Health Track - Best Beginner Project · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Digi-Key** OxyControl is a secure dispenser for narcotics that enforces a strict dosing schedule and locks out if the dosing schedule is violated. Devpost gives no specific sponsor integration detail.
-- **Wolfram** OxyControl is a secure dispenser for narcotics that enforces a strict dosing schedule and locks out if the dosing schedule is violated. Devpost gives no specific sponsor integration detail.
+- **Digi-Key · Best Hardware Hack Sponsored by Digi-Key** OxyControl is a secure dispenser for narcotics that enforces a strict dosing schedule and locks out if the dosing schedule is violated.
+- **Wolfram · Wolfram Award** OxyControl is a secure dispenser for narcotics that enforces a strict dosing schedule and locks out if the dosing schedule is violated.
+
+</details>
 
 <a name="project-plan-your-homestead"></a>
 
-### [Plan Your Homestead](https://devpost.com/software/plan-your-homestead)
+<details>
+<summary>Plan Your Homestead</summary>
 
 This application allows an individual to outline a property, and work through major costs, such as energy infrastructure and animal enclosures, in an easy to use graphical interface.
 
@@ -370,11 +446,14 @@ This application allows an individual to outline a property, and work through ma
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=yiXvsZiMCDo)
 - **All event prizes (2)** Energy and Environment Track - Best Beginner Project · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-pupil-3sctez"></a>
 
-### [pupil](https://devpost.com/software/pupil-3sctez)
+<details>
+<summary>pupil</summary>
 
 Eye-tracking based communication for cerebral palsy patients.
 
@@ -384,11 +463,14 @@ Eye-tracking based communication for cerebral palsy patients.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=_9XTW2mqdjo)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** pupil is a desktop application that provides an efficient way of communication through eye tracking and movement for people that have their physical movement challenged by cerebral palsy. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** pupil is a desktop application that provides an efficient way of communication through eye tracking and movement for people that have their physical movement challenged by cerebral palsy.
+
+</details>
 
 <a name="project-putta-mask-on-it"></a>
 
-### [Putta Mask On It](https://devpost.com/software/putta-mask-on-it)
+<details>
+<summary>Putta Mask On It</summary>
 
 The automation of mask security for stores.
 
@@ -398,11 +480,14 @@ The automation of mask security for stores.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=UK3-xYVyPlM)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Wolfram · Wolfram Award** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-quizzo"></a>
 
-### [Quizzo: AR Jeopardy](https://devpost.com/software/quizzo)
+<details>
+<summary>Quizzo: AR Jeopardy</summary>
 
 Quizzo uses OCR, AR, and voice commands to gamify the learning process, increase your engagement with the content, and enrich your online studying experience.
 
@@ -412,11 +497,14 @@ Quizzo uses OCR, AR, and voice commands to gamify the learning process, increase
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=lfjNs9mp4sM)
 - **All event prizes (1)** Best use of DataStax Astra
 - **Devpost checked** 2026-11-21 UTC
-- **DataStax** You finished studying for your big exam but you're still not sure if you're ready. Devpost gives no specific sponsor integration detail.
+- **DataStax · Best use of DataStax Astra** You finished studying for your big exam but you're still not sure if you're ready.
+
+</details>
 
 <a name="project-selfloving-us-xy3oc7"></a>
 
-### [SelfLoving.us](https://devpost.com/software/selfloving-us-xy3oc7)
+<details>
+<summary>SelfLoving.us</summary>
 
 Website with self-care discord bot that provides daily self care missions,helps dealing with mental health issues with supportive messages.
 
@@ -426,11 +514,14 @@ Website with self-care discord bot that provides daily self care missions,helps 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=rYGHLqQsp-o)
 - **All event prizes (1)** Best AR/VR App using echoAR
 - **Devpost checked** 2026-11-21 UTC
-- **echoAR** Certain fun elements are built with echoAR.
+- **echoAR · Best AR/VR App using echoAR** Certain fun elements are built with echoAR.
+
+</details>
 
 <a name="project-t-0j4rl7"></a>
 
-### [Shareapy](https://devpost.com/software/t-0j4rl7)
+<details>
+<summary>Shareapy</summary>
 
 A community that encourages and challenges people who stutter to practice speech therapy.
 
@@ -440,11 +531,14 @@ A community that encourages and challenges people who stutter to practice speech
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=04SFGBYGA2I)
 - **All event prizes (2)** Best Education Track Hack · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** Shareapy (pronounced like “share” and “therapy”) lets PWS post accomplishments of what speech techniques they have practiced in order to motivate themselves and one another to practice more. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** Shareapy (pronounced like “share” and “therapy”) lets PWS post accomplishments of what speech techniques they have practiced in order to motivate themselves and one another to practice more.
+
+</details>
 
 <a name="project-sink-saver"></a>
 
-### [Sink Saver](https://devpost.com/software/sink-saver)
+<details>
+<summary>Sink Saver</summary>
 
 A machine learning application that alerts users of unattended leaky or running faucets in their homes to minimize water waste and overuse.
 
@@ -454,12 +548,15 @@ A machine learning application that alerts users of unattended leaky or running 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=59taEK-VP0A)
 - **All event prizes (3)** Best Energy and Environment Track Hack · Best Hardware Hack Sponsored by Digi-Key · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Digi-Key** The project is titled Sink Saver , a hardware-based solution that aims to reduce the amount of water wasted in households by leaky faucets. Devpost gives no specific sponsor integration detail.
-- **Wolfram** The project is titled Sink Saver , a hardware-based solution that aims to reduce the amount of water wasted in households by leaky faucets. Devpost gives no specific sponsor integration detail.
+- **Digi-Key · Best Hardware Hack Sponsored by Digi-Key** The project is titled Sink Saver , a hardware-based solution that aims to reduce the amount of water wasted in households by leaky faucets.
+- **Wolfram · Wolfram Award** The project is titled Sink Saver , a hardware-based solution that aims to reduce the amount of water wasted in households by leaky faucets.
+
+</details>
 
 <a name="project-spch"></a>
 
-### [SPCH](https://devpost.com/software/spch)
+<details>
+<summary>SPCH</summary>
 
 The project “SPCH” involves a text editor and Google Chrome extension that scans for hate speech and offensive language within a block of text.
 
@@ -469,11 +566,14 @@ The project “SPCH” involves a text editor and Google Chrome extension that s
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ejlorFZdnkA)
 - **All event prizes (1)** Best Domain Registered with Domain.com
 - **Devpost checked** 2026-11-21 UTC
-- **Domain.com** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Domain.com · Best Domain Registered with Domain.com** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-syllabus-parser"></a>
 
-### [Syllabus Parser (Education Track)](https://devpost.com/software/syllabus-parser)
+<details>
+<summary>Syllabus Parser (Education Track)</summary>
 
 Automatically add events to GCal, just by uploading your class syllabus.
 
@@ -483,11 +583,14 @@ Automatically add events to GCal, just by uploading your class syllabus.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Sa93iEYx7Hk)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** It takes a pdf or text file and parses it to find the assignment name, and date. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** It takes a pdf or text file and parses it to find the assignment name, and date.
+
+</details>
 
 <a name="project-the-remote-university-experience"></a>
 
-### [The Remote University Experience](https://devpost.com/software/the-remote-university-experience)
+<details>
+<summary>The Remote University Experience</summary>
 
 Revolutionizing education, orientations, and the remote college experience for the digital future.
 
@@ -497,11 +600,14 @@ Revolutionizing education, orientations, and the remote college experience for t
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=uE2RPC_NKzs)
 - **All event prizes (1)** Best use of Google Cloud
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The project lists google-cloud among its Built With tags.
+- **Google · Best use of Google Cloud** The project lists google-cloud among its Built With tags.
+
+</details>
 
 <a name="project-therapists"></a>
 
-### [TheraMatch](https://devpost.com/software/therapists)
+<details>
+<summary>TheraMatch</summary>
 
 A web app that matches people with mental health therapists best suited for their care.
 
@@ -511,11 +617,14 @@ A web app that matches people with mental health therapists best suited for thei
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=m_ZnZd6Kcho)
 - **All event prizes (1)** Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** Additionally, each preference is given a sliding bar that the user can adjust to indicate the importance of the selection. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** Additionally, each preference is given a sliding bar that the user can adjust to indicate the importance of the selection.
+
+</details>
 
 <a name="project-universallanguage"></a>
 
-### [UniversalLanguage](https://devpost.com/software/universallanguage)
+<details>
+<summary>UniversalLanguage</summary>
 
 An app to match foreign language learners with songs that reinforce their vocabularies.
 
@@ -525,4 +634,6 @@ An app to match foreign language learners with songs that reinforce their vocabu
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=7l-3FMcaKMU)
 - **All event prizes (2)** Education Track - Best Beginner Project · Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
-- **Wolfram** Users can either enter their Duolingo login information, or enter a list of vocabulary words in the language they're learning and indicate the language. Devpost gives no specific sponsor integration detail.
+- **Wolfram · Wolfram Award** Users can either enter their Duolingo login information, or enter a list of vocabulary words in the language they're learning and indicate the language.
+
+</details>

@@ -1,39 +1,49 @@
 # HackNYU Fall 2025
 
-[Devpost gallery](https://hacknyu-fall-2025.devpost.com/project-gallery) · [Official prize rules](https://hacknyu-fall-2025.devpost.com/) · [Winners index](../README.md)
+**16 projects · 11 sponsors · 20 prize rows**
 
-16 projects and 20 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://hacknyu-fall-2025.devpost.com/project-gallery) · [Official prize rules](https://hacknyu-fall-2025.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** python (7), typescript (7), react (6)
+- **Common project areas** Finance and commerce (2), Games and entertainment (2), Climate and environment (1)
+- **Common demo formats** Web app or dashboard (3), Voice or conversational interface (2), Game (1)
+- **Projects with a listed demo video** 9 of 16
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [SATistics](#project-saturday-usdbjn) | [.Tech Domains](../by-sponsor/tech-domains.md) | MLH - Best .Tech Domain Name | — | Get surprised by quick SAT questions integrated into gameplay. | 2 |
-| [BOBUX BARGAINS](#project-bobux-bargains) | [Aristotle](../by-sponsor/aristotle.md) | Aristotle Challenge: Most Cutting-Edge AI Agent | — | Bobux bargains simulates a real world economy including supply and demand and financial transactions, on Roblox. | 2 |
-| [BuckBounty](#project-buckbounty) | [Aristotle](../by-sponsor/aristotle.md) | Aristotle Challenge: Most Cutting-Edge AI Agent | — | BuckBounty is an AI-powered personal finance assistant that:. | 2 |
-| [StationScope](#project-stationscope) | [Aristotle](../by-sponsor/aristotle.md) | Aristotle Challenge: Most Cutting-Edge AI Agent | — | You can type in a desired address on the StationScope landing screen, and a geolocation API helps you find a valid address. | 2 |
-| [NodalCLI](#project-hacknyu-v3nyx1) | [Arm](../by-sponsor/arm.md) | MLH - Best Use of Arm | — | The project page provides no specific sponsor integration detail in the indexed fields. | 3 |
-| [FaceyBuk](#project-faceybuk) | [ElevenLabs](../by-sponsor/elevenlabs.md) | MLH - Best Use of ElevenLabs | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [NodalCLI](#project-hacknyu-v3nyx1) | [Nodal](../by-sponsor/nodal.md) | Best Use of Nodal CLI | — | The project page provides no specific sponsor integration detail in the indexed fields. | 3 |
-| [TorqIt](#project-torqit) | [Nodal](../by-sponsor/nodal.md) | Best Use of Nodal CLI | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Tuffr](#project-tuffr) | [Nodal](../by-sponsor/nodal.md) | Best Use of Nodal CLI | — | Tuffr lets you choose a workout and sends that information to the AI agent. | 2 |
-| [LeetCourt](#project-leetcourt) | [OpenRouter](../by-sponsor/openrouter.md) | Best Use of OpenRouter | — | The project lists openrouter among its Built With tags. | 3 |
-| [Arbitrage](#project-multi-agent-marketplace-simulator) | [Qualcomm](../by-sponsor/qualcomm.md) | Best Use of Qualcomm EdgeAI | — | A Session stores buyer configuration and seller profiles. | 2 |
-| [Insight Loop](#project-insight-loop) | [Qualcomm](../by-sponsor/qualcomm.md) | Best Use of Qualcomm EdgeAI | — | The system lets students upload their own learning materials and transforms their study session into a live, interactive experience. | 1 |
-| [NodalCLI](#project-hacknyu-v3nyx1) | [Qualcomm](../by-sponsor/qualcomm.md) | Best Use of Qualcomm EdgeAI | — | The project page provides no specific sponsor integration detail in the indexed fields. | 3 |
-| [Tuffr](#project-tuffr) | [Qualcomm](../by-sponsor/qualcomm.md) | Best Use of Qualcomm EdgeAI | — | Tuffr lets you choose a workout and sends that information to the AI agent. | 2 |
-| [Eco-Nexus](#project-eco-nexus-pluwok) | [Snowflake](../by-sponsor/snowflake.md) | MLH - Best Use of Snowflake | — | Analytics &amp; ML : Snowflake integration for data warehousing, analytics scoring system:. | 2 |
-| [HypeChain](#project-hypechain) | [Solana](../by-sponsor/solana.md) | Solana Challenge - Best Project Built on Solana | — | The team built HypeChain on the Solana stack for its high speed, low transaction fees, and robust developer ecosystem. | 1 |
-| [Insta-Relief](#project-insta-relief) | [Solana](../by-sponsor/solana.md) | MLH - Best Use of Solana | — | The project lists solana among its Built With tags. | 1 |
-| [Arbitrage](#project-multi-agent-marketplace-simulator) | [Visa](../by-sponsor/visa.md) | Visa Challenge - Agent Marketplace Simulation | — | A Session stores buyer configuration and seller profiles. | 2 |
-| [TicketTrade AI](#project-tickettrade-ai) | [Visa](../by-sponsor/visa.md) | Visa Challenge - Agent Marketplace Simulation | — | TicketTrade AI is an agent-driven ticket marketplace . | 1 |
-| [Agora Socrates](#project-agora-socrates) | [Vultr](../by-sponsor/vultr.md) | MLH - Best Use of Vultr Cloud | — | Agora is a voice-first, multimodal AI tutor that you study with. | 2 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [SATistics](https://devpost.com/software/saturday-usdbjn) · [code](https://github.com/shivvyas2/SATistics) · [demo](https://www.youtube.com/watch?v=AErgCTfmmbw) | [.Tech Domains](../by-sponsor/tech-domains.md) · MLH - Best .Tech Domain Name · [details](#project-saturday-usdbjn) | 'SATistics' is an arcade-inspired web app where classic games are blend with AI-powered SAT quiz challenges,… | claude, fastapi, nextjs |
+| [BOBUX BARGAINS](https://devpost.com/software/bobux-bargains) · [code](https://github.com/jennnniferkuang/Bobux-Bargains) · [demo](https://www.youtube.com/watch?v=xkyIFGGAyg0) | [Aristotle](../by-sponsor/aristotle.md) · Aristotle Challenge: Most Cutting-Edge AI Agent · [details](#project-bobux-bargains) | Are YOU a finance bro!? Do YOU want to learn how to negotiate. | luau, openrouter, roblox |
+| [BuckBounty](https://devpost.com/software/buckbounty) · [code](https://github.com/NandanHemanth/BuckBounty) · [demo](https://www.youtube.com/watch?v=rCsw2WkivC0) | [Aristotle](../by-sponsor/aristotle.md) · Aristotle Challenge: Most Cutting-Edge AI Agent · [details](#project-buckbounty) | Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, maximizes rewards, and builds… | beautiful-soup, elevenlabs-api, faiss-vector-database |
+| [StationScope](https://devpost.com/software/stationscope) | [Aristotle](../by-sponsor/aristotle.md) · Aristotle Challenge: Most Cutting-Edge AI Agent · [details](#project-stationscope) | StationScope turns a work address into a personalized, data-driven NYC housing guide—mapped stations, census… | css, geocoding, google-maps |
+| [NodalCLI](https://devpost.com/software/hacknyu-v3nyx1) | [Arm](../by-sponsor/arm.md) · MLH - Best Use of Arm · [details](#project-hacknyu-v3nyx1) | The team describes the project as “Nodal”. | test |
+| [FaceyBuk](https://devpost.com/software/faceybuk) · [code](https://github.com/KeiraJames/nyu-hacks) | [ElevenLabs](../by-sponsor/elevenlabs.md) · MLH - Best Use of ElevenLabs · [details](#project-faceybuk) | The team created On The Go Storyteller , an interactive reading platform that bridges the distance between… | css, express.js, firebase |
+| [NodalCLI](https://devpost.com/software/hacknyu-v3nyx1) | [Nodal](../by-sponsor/nodal.md) · Best Use of Nodal CLI · [details](#project-hacknyu-v3nyx1) | The team describes the project as “Nodal”. | test |
+| [TorqIt](https://devpost.com/software/torqit) | [Nodal](../by-sponsor/nodal.md) · Best Use of Nodal CLI · [details](#project-torqit) | Building TorqIt was an intensive learning experience that spanned multiple domains:. | adafruit-icm20948, arduino-uno-r3, cors |
+| [Tuffr](https://devpost.com/software/tuffr) · [demo](https://www.youtube.com/watch?v=ZHPY_1P-ulU) | [Nodal](../by-sponsor/nodal.md) · Best Use of Nodal CLI · [details](#project-tuffr) | Increase your strength with cutting-edge computer vision and agentic AI. | adafruit, cloudflare, opencv |
+| [LeetCourt](https://devpost.com/software/leetcourt) | [OpenRouter](../by-sponsor/openrouter.md) · Best Use of OpenRouter · [details](#project-leetcourt) | Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you… | openrouter, elevenlabs, react |
+| [Arbitrage](https://devpost.com/software/multi-agent-marketplace-simulator) · [code](https://github.com/rohan-g0re/Hack_NYU_Arbitrage) · [demo](https://www.youtube.com/watch?v=z2_8AWR_qU8) | [Qualcomm](../by-sponsor/qualcomm.md) · Best Use of Qualcomm EdgeAI · [details](#project-multi-agent-marketplace-simulator) | A multi-agent simulator where buyer negotiates with opaque seller agents in realistic, chat-based bargaining.… | docker, fastapi, git |
+| [Insight Loop](https://devpost.com/software/insight-loop) · [code](https://github.com/Baozzz04/insight-loop) · [demo](https://www.youtube.com/watch?v=0WAUHLDkyHI) | [Qualcomm](../by-sponsor/qualcomm.md) · Best Use of Qualcomm EdgeAI · [details](#project-insight-loop) | An edge-AI tutoring agent that listens in real time and guides you the moment confusion appears. | fastapi, ffpmeg, indexeddb |
+| [NodalCLI](https://devpost.com/software/hacknyu-v3nyx1) | [Qualcomm](../by-sponsor/qualcomm.md) · Best Use of Qualcomm EdgeAI · [details](#project-hacknyu-v3nyx1) | The team describes the project as “Nodal”. | test |
+| [Tuffr](https://devpost.com/software/tuffr) · [demo](https://www.youtube.com/watch?v=ZHPY_1P-ulU) | [Qualcomm](../by-sponsor/qualcomm.md) · Best Use of Qualcomm EdgeAI · [details](#project-tuffr) | Increase your strength with cutting-edge computer vision and agentic AI. | adafruit, cloudflare, opencv |
+| [Eco-Nexus](https://devpost.com/software/eco-nexus-pluwok) · [demo](https://www.youtube.com/watch?v=5qtlaak3W9Y) | [Snowflake](../by-sponsor/snowflake.md) · MLH - Best Use of Snowflake · [details](#project-eco-nexus-pluwok) | Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions. | snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios |
+| [HypeChain](https://devpost.com/software/hypechain) · [code](https://github.com/alin9661/HypeChain) | [Solana](../by-sponsor/solana.md) · Solana Challenge - Best Project Built on Solana · [details](#project-hypechain) | HypeChain is a decentralized marketplace for physical goods, secured by on-chain escrow and tokenization. | solana, openrouter |
+| [Insta-Relief](https://devpost.com/software/insta-relief) · [code](https://github.com/aakash2060/insta-relief) · [demo](https://www.youtube.com/watch?v=friog1wMYu8) | [Solana](../by-sponsor/solana.md) · MLH - Best Use of Solana · [details](#project-insta-relief) | When disasters strike, traditional insurance is slow.InstaRelief delivers instant USD payouts using Solana-… | solana, claude, firebase |
+| [Arbitrage](https://devpost.com/software/multi-agent-marketplace-simulator) · [code](https://github.com/rohan-g0re/Hack_NYU_Arbitrage) · [demo](https://www.youtube.com/watch?v=z2_8AWR_qU8) | [Visa](../by-sponsor/visa.md) · Visa Challenge - Agent Marketplace Simulation · [details](#project-multi-agent-marketplace-simulator) | A multi-agent simulator where buyer negotiates with opaque seller agents in realistic, chat-based bargaining.… | docker, fastapi, git |
+| [TicketTrade AI](https://devpost.com/software/tickettrade-ai) · [code](https://github.com/praveen-bandla/agent-ticket-marketplace) | [Visa](../by-sponsor/visa.md) · Visa Challenge - Agent Marketplace Simulation · [details](#project-tickettrade-ai) | AI agents represent buyers and sellers, negotiating ticket deals automatically. Faster, fairer, and more… | javascript, node.js, openrouter |
+| [Agora Socrates](https://devpost.com/software/agora-socrates) · [code](https://github.com/Ashish-Reddy-T/hackNYUEducation) · [demo](https://www.youtube.com/watch?v=hNmpppkJaBo) | [Vultr](../by-sponsor/vultr.md) · MLH - Best Use of Vultr Cloud · [details](#project-agora-socrates) | No more passive reading, just active chats! - AGORA. | python |
 
 ## Project details
 
 <a name="project-agora-socrates"></a>
 
-### [Agora Socrates](https://devpost.com/software/agora-socrates)
+<details>
+<summary>Agora Socrates</summary>
 
 No more passive reading, just active chats! - AGORA.
 
@@ -43,11 +53,14 @@ No more passive reading, just active chats! - AGORA.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=hNmpppkJaBo)
 - **All event prizes (2)** Best First Time Hack · MLH - Best Use of Vultr Cloud
 - **Devpost checked** 2026-11-21 UTC
-- **Vultr** Agora is a voice-first, multimodal AI tutor that you study with. Devpost gives no specific sponsor integration detail.
+- **Vultr · MLH - Best Use of Vultr Cloud** Agora is a voice-first, multimodal AI tutor that you study with.
+
+</details>
 
 <a name="project-multi-agent-marketplace-simulator"></a>
 
-### [Arbitrage](https://devpost.com/software/multi-agent-marketplace-simulator)
+<details>
+<summary>Arbitrage</summary>
 
 A multi-agent simulator where buyer negotiates with opaque seller agents in realistic, chat-based bargaining. No scoring rules - just LLM-driven reasoning, hidden motives, and emergent market behavior.
 
@@ -57,12 +70,15 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=z2_8AWR_qU8)
 - **All event prizes (2)** Best Use of Qualcomm EdgeAI · Visa Challenge - Agent Marketplace Simulation
 - **Devpost checked** 2026-11-21 UTC
-- **Qualcomm** A Session stores buyer configuration and seller profiles. Devpost gives no specific sponsor integration detail.
-- **Visa** A Session stores buyer configuration and seller profiles. Devpost gives no specific sponsor integration detail.
+- **Qualcomm · Best Use of Qualcomm EdgeAI** A Session stores buyer configuration and seller profiles.
+- **Visa · Visa Challenge - Agent Marketplace Simulation** A Session stores buyer configuration and seller profiles.
+
+</details>
 
 <a name="project-bobux-bargains"></a>
 
-### [BOBUX BARGAINS](https://devpost.com/software/bobux-bargains)
+<details>
+<summary>BOBUX BARGAINS</summary>
 
 Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 
@@ -72,11 +88,14 @@ Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=xkyIFGGAyg0)
 - **All event prizes (2)** Aristotle Challenge: Most Cutting-Edge AI Agent · Best Funny Haha Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Aristotle** Bobux bargains simulates a real world economy including supply and demand and financial transactions, on Roblox. Devpost gives no specific sponsor integration detail.
+- **Aristotle · Aristotle Challenge: Most Cutting-Edge AI Agent** Bobux bargains simulates a real world economy including supply and demand and financial transactions, on Roblox.
+
+</details>
 
 <a name="project-buckbounty"></a>
 
-### [BuckBounty](https://devpost.com/software/buckbounty)
+<details>
+<summary>BuckBounty</summary>
 
 Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, maximizes rewards, and builds your path to financial freedom.
 
@@ -86,11 +105,14 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=rCsw2WkivC0)
 - **All event prizes (2)** Aristotle Challenge: Most Cutting-Edge AI Agent · Fintech
 - **Devpost checked** 2026-11-21 UTC
-- **Aristotle** BuckBounty is an AI-powered personal finance assistant that:. Devpost gives no specific sponsor integration detail.
+- **Aristotle · Aristotle Challenge: Most Cutting-Edge AI Agent** BuckBounty is an AI-powered personal finance assistant that:.
+
+</details>
 
 <a name="project-eco-nexus-pluwok"></a>
 
-### [Eco-Nexus](https://devpost.com/software/eco-nexus-pluwok)
+<details>
+<summary>Eco-Nexus</summary>
 
 Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
 
@@ -100,11 +122,14 @@ Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=5qtlaak3W9Y)
 - **All event prizes (2)** MLH - Best Use of Snowflake · Sustainability
 - **Devpost checked** 2026-11-21 UTC
-- **Snowflake** Analytics &amp; ML : Snowflake integration for data warehousing, analytics scoring system:.
+- **Snowflake · MLH - Best Use of Snowflake** Analytics &amp; ML : Snowflake integration for data warehousing, analytics scoring system:.
+
+</details>
 
 <a name="project-faceybuk"></a>
 
-### [FaceyBuk](https://devpost.com/software/faceybuk)
+<details>
+<summary>FaceyBuk</summary>
 
 The team created On The Go Storyteller , an interactive reading platform that bridges the distance between parents and children.
 
@@ -114,11 +139,14 @@ The team created On The Go Storyteller , an interactive reading platform that br
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Interactive Media Arts/Entertainment · MLH - Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
-- **ElevenLabs** The project page provides no specific sponsor integration detail in the indexed fields.
+- **ElevenLabs · MLH - Best Use of ElevenLabs** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-hypechain"></a>
 
-### [HypeChain](https://devpost.com/software/hypechain)
+<details>
+<summary>HypeChain</summary>
 
 HypeChain is a decentralized marketplace for physical goods, secured by on-chain escrow and tokenization.
 
@@ -128,11 +156,14 @@ HypeChain is a decentralized marketplace for physical goods, secured by on-chain
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Solana Challenge - Best Project Built on Solana
 - **Devpost checked** 2026-11-21 UTC
-- **Solana** The team built HypeChain on the Solana stack for its high speed, low transaction fees, and robust developer ecosystem.
+- **Solana · Solana Challenge - Best Project Built on Solana** The team built HypeChain on the Solana stack for its high speed, low transaction fees, and robust developer ecosystem.
+
+</details>
 
 <a name="project-insight-loop"></a>
 
-### [Insight Loop](https://devpost.com/software/insight-loop)
+<details>
+<summary>Insight Loop</summary>
 
 An edge-AI tutoring agent that listens in real time and guides you the moment confusion appears.
 
@@ -142,11 +173,14 @@ An edge-AI tutoring agent that listens in real time and guides you the moment co
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=0WAUHLDkyHI)
 - **All event prizes (1)** Best Use of Qualcomm EdgeAI
 - **Devpost checked** 2026-11-21 UTC
-- **Qualcomm** The system lets students upload their own learning materials and transforms their study session into a live, interactive experience. Devpost gives no specific sponsor integration detail.
+- **Qualcomm · Best Use of Qualcomm EdgeAI** The system lets students upload their own learning materials and transforms their study session into a live, interactive experience.
+
+</details>
 
 <a name="project-insta-relief"></a>
 
-### [Insta-Relief](https://devpost.com/software/insta-relief)
+<details>
+<summary>Insta-Relief</summary>
 
 When disasters strike, traditional insurance is slow.InstaRelief delivers instant USD payouts using Solana-powered parametric triggers the moment your ZIP is impacted. Relief in seconds, not weeks.
 
@@ -156,11 +190,14 @@ When disasters strike, traditional insurance is slow.InstaRelief delivers instan
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=friog1wMYu8)
 - **All event prizes (1)** MLH - Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
-- **Solana** The project lists solana among its Built With tags.
+- **Solana · MLH - Best Use of Solana** The project lists solana among its Built With tags.
+
+</details>
 
 <a name="project-leetcourt"></a>
 
-### [LeetCourt](https://devpost.com/software/leetcourt)
+<details>
+<summary>LeetCourt</summary>
 
 Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you learn the language of the law.
 
@@ -170,11 +207,14 @@ Leetcode for Lawyers! An interactive courtroom simulation powered by a network o
 - **Demo video** None listed in recognized formats.
 - **All event prizes (3)** Best AI Wrapper Hack · Best Use of OpenRouter · Education
 - **Devpost checked** 2026-11-21 UTC
-- **OpenRouter** The project lists openrouter among its Built With tags.
+- **OpenRouter · Best Use of OpenRouter** The project lists openrouter among its Built With tags.
+
+</details>
 
 <a name="project-hacknyu-v3nyx1"></a>
 
-### [NodalCLI](https://devpost.com/software/hacknyu-v3nyx1)
+<details>
+<summary>NodalCLI</summary>
 
 The team describes the project as “Nodal”.
 
@@ -184,13 +224,16 @@ The team describes the project as “Nodal”.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (3)** Best Use of Nodal CLI · Best Use of Qualcomm EdgeAI · MLH - Best Use of Arm
 - **Devpost checked** 2026-11-21 UTC
-- **Arm** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Nodal** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Qualcomm** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Arm · MLH - Best Use of Arm** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Nodal · Best Use of Nodal CLI** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Qualcomm · Best Use of Qualcomm EdgeAI** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-saturday-usdbjn"></a>
 
-### [SATistics](https://devpost.com/software/saturday-usdbjn)
+<details>
+<summary>SATistics</summary>
 
 'SATistics' is an arcade-inspired web app where classic games are blend with AI-powered SAT quiz challenges, making learning fun and impactful for students preparing for SATs.
 
@@ -200,11 +243,14 @@ The team describes the project as “Nodal”.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=AErgCTfmmbw)
 - **All event prizes (2)** Education · MLH - Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC
-- **.Tech Domains** Get surprised by quick SAT questions integrated into gameplay. Devpost gives no specific sponsor integration detail.
+- **.Tech Domains · MLH - Best .Tech Domain Name** Get surprised by quick SAT questions integrated into gameplay.
+
+</details>
 
 <a name="project-stationscope"></a>
 
-### [StationScope](https://devpost.com/software/stationscope)
+<details>
+<summary>StationScope</summary>
 
 StationScope turns a work address into a personalized, data-driven NYC housing guide—mapped stations, census insights, and a tailored AI report in minutes.
 
@@ -214,11 +260,14 @@ StationScope turns a work address into a personalized, data-driven NYC housing g
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Aristotle Challenge: Most Cutting-Edge AI Agent · Education
 - **Devpost checked** 2026-11-21 UTC
-- **Aristotle** You can type in a desired address on the StationScope landing screen, and a geolocation API helps you find a valid address. Devpost gives no specific sponsor integration detail.
+- **Aristotle · Aristotle Challenge: Most Cutting-Edge AI Agent** You can type in a desired address on the StationScope landing screen, and a geolocation API helps you find a valid address.
+
+</details>
 
 <a name="project-tickettrade-ai"></a>
 
-### [TicketTrade AI](https://devpost.com/software/tickettrade-ai)
+<details>
+<summary>TicketTrade AI</summary>
 
 AI agents represent buyers and sellers, negotiating ticket deals automatically. Faster, fairer, and more dynamic than StubHub/TicketSwap — with real-time matching and transparent pricing.
 
@@ -228,25 +277,31 @@ AI agents represent buyers and sellers, negotiating ticket deals automatically. 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Visa Challenge - Agent Marketplace Simulation
 - **Devpost checked** 2026-11-21 UTC
-- **Visa** TicketTrade AI is an agent-driven ticket marketplace . Devpost gives no specific sponsor integration detail.
+- **Visa · Visa Challenge - Agent Marketplace Simulation** TicketTrade AI is an agent-driven ticket marketplace .
+
+</details>
 
 <a name="project-torqit"></a>
 
-### [TorqIt](https://devpost.com/software/torqit)
+<details>
+<summary>TorqIt</summary>
 
 Building TorqIt was an intensive learning experience that spanned multiple domains:.
 
 - **Team size** 3
-- **Built With** adafruit-icm20948, arduino-uno-r3, cors, eslint, express.js, filtering)-**matplotlib**-data-visualization-and-plotting-##-hardware-**arduino-uno-r3**-microcontroller-**adafruit-icm20948**-9-dof-imu-sensors-(accelerometer, framer-motion, git, gyroscope, i2c, matplotlib, node.js, numpy, pandas, postcss, python, radix-ui, react, react-router, react-three-fiber, scipy, serialport, shadcn/ui, tailwind-css, three.js, typescript, vite, websocket
+- **Built With** adafruit-icm20948, arduino-uno-r3, cors, eslint, express.js, filtering)-&#42;&#42;matplotlib&#42;&#42;-data-visualization-and-plotting-##-hardware-&#42;&#42;arduino-uno-r3&#42;&#42;-microcontroller-&#42;&#42;adafruit-icm20948&#42;&#42;-9-dof-imu-sensors-(accelerometer, framer-motion, git, gyroscope, i2c, matplotlib, node.js, numpy, pandas, postcss, python, radix-ui, react, react-router, react-three-fiber, scipy, serialport, shadcn/ui, tailwind-css, three.js, typescript, vite, websocket
 - **Code** Listed on Devpost. HTTP 200 unverified.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Best Use of Nodal CLI · Healthcare
 - **Devpost checked** 2026-11-21 UTC
-- **Nodal** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Nodal · Best Use of Nodal CLI** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-tuffr"></a>
 
-### [Tuffr](https://devpost.com/software/tuffr)
+<details>
+<summary>Tuffr</summary>
 
 Increase your strength with cutting-edge computer vision and agentic AI.
 
@@ -256,5 +311,7 @@ Increase your strength with cutting-edge computer vision and agentic AI.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ZHPY_1P-ulU)
 - **All event prizes (2)** Best Use of Nodal CLI · Best Use of Qualcomm EdgeAI
 - **Devpost checked** 2026-11-21 UTC
-- **Nodal** Tuffr lets you choose a workout and sends that information to the AI agent. Devpost gives no specific sponsor integration detail.
-- **Qualcomm** Tuffr lets you choose a workout and sends that information to the AI agent. Devpost gives no specific sponsor integration detail.
+- **Nodal · Best Use of Nodal CLI** Tuffr lets you choose a workout and sends that information to the AI agent.
+- **Qualcomm · Best Use of Qualcomm EdgeAI** Tuffr lets you choose a workout and sends that information to the AI agent.
+
+</details>

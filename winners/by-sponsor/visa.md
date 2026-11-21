@@ -1,10 +1,35 @@
 # Visa
 
+**10 projects · 7 editions · 10 prize rows**
+
 [Winners index](../README.md)
 
-10 projects across 7 editions, with 10 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** react (6), typescript (6), node.js (5)
+- **Common project areas** Finance and commerce (3), Security and privacy (1)
+- **Common demo formats** Mobile app (2), Web app or dashboard (2)
+- **Projects with a listed demo video** 7 of 10
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Hunter](https://devpost.com/software/hunter-8mbuv5) · [code](https://github.com/micahtid/calhacks) · [demo](https://www.youtube.com/watch?v=qRmaXwDlp8c) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best use of Reimagining Shopping sponsored by Visa · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-hunter-8mbuv5) | The shopping agent that doesn't compromise on speed or safety. | apify, bitdeer, coinbase |
+| ["ME"chelin Guide](https://devpost.com/software/me-chelin-guide) · [code](https://github.com/MUNDANE-MONDAYS/MEchelin_Guide) · [demo](https://www.youtube.com/watch?v=-rXiF6k6-8Y) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Custom Track · [details](../by-hackathon/hack-brown-2026.md#project-me-chelin-guide) | "ME"chelin Guide hates tourist traps. Locals share hidden gems, you discover them on a map, and AI helps you… | expo.io, javascript, openai |
+| [SpaceShare](https://devpost.com/software/spacesquare) · [code](https://github.com/Vigneshpeddi/SpaceShare) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Custom Track · [details](../by-hackathon/hack-brown-2026.md#project-spacesquare) | SpaceShare is a peer-to-peer marketplace for urban micro-spaces. | amazon-web-services, react, tailwind |
+| [Lullabuy](https://devpost.com/software/lullabuy) · [code](https://github.com/StephenSook/secondhand-safe) · [demo](https://www.youtube.com/watch?v=bLZc5eh2kqc) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · Reimagine Shopping - Winner · [details](../by-hackathon/hackgt-13-2026.md#project-lullabuy) | See the recall before your money moves. Lullabuy holds a Visa payment until a camera reads the baby gear's… | visa-acceptance, visa-microform, visa-token-management-service |
+| [Mira Mira on Da Wall](https://devpost.com/software/mira-3xqlos) · [code](https://github.com/23jmo/mirrorless) · [demo](https://www.youtube.com/watch?v=ki_rh4TUoOQ) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · The Generative Edge: Future of Commerce ($10,000 total) · [details](../by-hackathon/treehacks-2026.md#project-mira-3xqlos) | MIRA is an AI powered smart mirror that helps you decide what to wear and what to buy. "Mira Mira On The… | 11labs-api, cloud-deployment-services, elevenlabs |
+| [Kasha](https://devpost.com/software/kasha) · [demo](https://www.youtube.com/watch?v=0Hnd_ZntowM) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Visa · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-kasha) | Tired of doing mental math and nudging someone who owes you money? Kasha is an AI chat bot that tracks real… | visa-developer-apis, anthropic, claude-ai |
+| [Veritas](https://devpost.com/software/veritas-2v5uxc) · [code](https://github.com/achneerov/HackHarvard) · [demo](https://www.youtube.com/watch?v=inDMZF5X79Q) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) · Visa Truth and Trust Track Prize · [details](../by-hackathon/hackharvard-2025.md#project-veritas-2v5uxc) | Inspiration Chargebacks cost merchants up to 3x the transaction amount. | ai, node.js, react |
+| [Visa Verify](https://devpost.com/software/visa-verify) · [code](https://github.com/HaoChiBao/hackharvard2025) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) · Visa Truth and Trust Track Prize · [details](../by-hackathon/hackharvard-2025.md#project-visa-verify) | Visa Verify brings multi-factor fraud detection to online payments using behavioural biometrics, device… | chrome, css, express.js |
+| [Arbitrage](https://devpost.com/software/multi-agent-marketplace-simulator) · [code](https://github.com/rohan-g0re/Hack_NYU_Arbitrage) · [demo](https://www.youtube.com/watch?v=z2_8AWR_qU8) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Visa Challenge - Agent Marketplace Simulation · [details](../by-hackathon/hacknyu-fall-2025.md#project-multi-agent-marketplace-simulator) | A multi-agent simulator where buyer negotiates with opaque seller agents in realistic, chat-based bargaining.… | docker, fastapi, git |
+| [TicketTrade AI](https://devpost.com/software/tickettrade-ai) · [code](https://github.com/praveen-bandla/agent-ticket-marketplace) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Visa Challenge - Agent Marketplace Simulation · [details](../by-hackathon/hacknyu-fall-2025.md#project-tickettrade-ai) | AI agents represent buyers and sellers, negotiating ticket deals automatically. Faster, fairer, and more… | javascript, node.js, openrouter |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -16,33 +41,4 @@
 | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Visa Truth and Trust Track Prize | No specific requirement captured | [Event prize rules](https://hackharvard-2025.devpost.com/) |
 | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Visa Challenge - Agent Marketplace Simulation | No specific requirement captured | [Event prize rules](https://hacknyu-fall-2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** react (6), typescript (6), node.js (5), python (5), javascript (4), elevenlabs (2)
-- **Problem areas** Finance and commerce (3), Security and privacy (1)
-- **Demo types** Mobile app (2), Web app or dashboard (2)
-- **Projects with a listed demo video** 7 of 10
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Arbitrage](../by-hackathon/hacknyu-fall-2025.md#project-multi-agent-marketplace-simulator) | HackNYU Fall 2025 | 2 | 2 | Qualcomm, Visa |
-| [SpaceShare](../by-hackathon/hack-brown-2026.md#project-spacesquare) | Hack@Brown 2026 | 2 | 2 | Capital One, Visa |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Hunter](../by-hackathon/cal-hacks-13-0-2026.md#project-hunter-8mbuv5) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Visa&#93; Best use of Reimagining Shopping sponsored by Visa | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| ["ME"chelin Guide](../by-hackathon/hack-brown-2026.md#project-me-chelin-guide) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | Visa - Custom Track | — | "ME"chelin guide lets people monetize from sharing their knowledge about their neighborhood. | 1 |
-| [SpaceShare](../by-hackathon/hack-brown-2026.md#project-spacesquare) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | Visa - Custom Track | — | The team integrated payouts to homeowners and used Visa Direct APIs to push funds to lister's cards. | 2 |
-| [Lullabuy](../by-hackathon/hackgt-13-2026.md#project-lullabuy) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | VISA: Reimagine Shopping - Winner | — | The project lists visa-acceptance, visa-microform, visa-token-management-service among its Built With tags. | 1 |
-| [Mira Mira on Da Wall](../by-hackathon/treehacks-2026.md#project-mira-3xqlos) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Visa&#93; The Generative Edge: Future of Commerce ($10,000 total) | $10,000 total | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Kasha](../by-hackathon/cal-hacks-12-0-2025.md#project-kasha) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Visa | — | Integration of APIs via Visa for Merchant Search, Visa Offers, Transaction Controls, Foreign Exchange Rates, and ATM Locater bring transparency and reality about finances and savings opportunities to students. | 1 |
-| [Veritas](../by-hackathon/hackharvard-2025.md#project-veritas-2v5uxc) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Visa Truth and Trust Track Prize | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Visa Verify](../by-hackathon/hackharvard-2025.md#project-visa-verify) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Visa Truth and Trust Track Prize | — | The team built Visa Verify using a combination of web technologies and API integrations :. | 1 |
-| [Arbitrage](../by-hackathon/hacknyu-fall-2025.md#project-multi-agent-marketplace-simulator) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Visa Challenge - Agent Marketplace Simulation | — | A Session stores buyer configuration and seller profiles. | 2 |
-| [TicketTrade AI](../by-hackathon/hacknyu-fall-2025.md#project-tickettrade-ai) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Visa Challenge - Agent Marketplace Simulation | — | TicketTrade AI is an agent-driven ticket marketplace . | 1 |
+</details>

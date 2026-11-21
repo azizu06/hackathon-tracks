@@ -1,35 +1,31 @@
 # Hugging Face
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (3), arduino (2), arkit (2)
+- **Common project areas** Accessibility and assistive tools (1)
+- **Common demo formats** Hardware or robotics (3), AR, VR or spatial (2), Mobile app (1)
+- **Projects with a listed demo video** 3 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Farsight](https://devpost.com/software/farsight-t4qyli) · [code](https://github.com/azizu06/farsight) · [demo](https://www.youtube.com/watch?v=AmrOGcTBTKU) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Open Source AI · [details](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | Farsight lets a rescuer drive a rover remotely, inspect its live camera, and revisit a scan of the room in VR. | hugging-face, qwen, arduino |
+| [Here](https://devpost.com/software/here-vqlrhg) · [code](https://github.com/Korirussell/Here) · [demo](https://www.youtube.com/watch?v=2gRH8oV8e80) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Open Source AI · [details](../by-hackathon/knight-hacks-ix-2026.md#project-here-vqlrhg) | A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from. | huggingface, arkit, jev |
+| [Permanence](https://devpost.com/software/permanence) · [code](https://github.com/billpquach/permanence) · [demo](https://www.youtube.com/watch?v=GexOIHp7s1w) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Open Source AI · [details](../by-hackathon/knight-hacks-ix-2026.md#project-permanence) | A spatial awareness tool tracks objects and remembers their locations when they move out of view. | qwen-3d, arduino, c++ |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Hugging Face: Best Use of Open Source AI | Open-source AI | [Track label](https://knight-hacks-ix.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (3), arduino (2), arkit (2), swift (2), three.js (2), c++ (1)
-- **Problem areas** Accessibility and assistive tools (1)
-- **Demo types** Hardware or robotics (3), AR, VR or spatial (2), Mobile app (1)
-- **Projects with a listed demo video** 3 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Farsight](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | Knight Hacks IX 2026 | 4 | 4 | Encompass, Full Sail, Hugging Face, NVIDIA |
-| [Permanence](../by-hackathon/knight-hacks-ix-2026.md#project-permanence) | Knight Hacks IX 2026 | 2 | 3 | Hugging Face, NVIDIA |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Farsight](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Hugging Face: Best Use of Open Source AI | — | Hugging Face model artifacts power the on-device voice and vision assistant, which can draft notes from field observations. | 4 |
-| [Here](../by-hackathon/knight-hacks-ix-2026.md#project-here-vqlrhg) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Hugging Face: Best Use of Open Source AI | — | The project lists huggingface among its Built With tags. | 1 |
-| [Permanence](../by-hackathon/knight-hacks-ix-2026.md#project-permanence) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Hugging Face: Best Use of Open Source AI | — | The project lists qwen-3d among its Built With tags. | 3 |
+</details>

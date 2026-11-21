@@ -1,33 +1,32 @@
 # Baseten
 
+**3 projects · 2 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 2 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** baseten (2), python (2), amazon-web-services (1)
+- **Common project areas** None listed
+- **Common demo formats** Voice or conversational interface (1)
+- **Projects with a listed demo video** 2 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [neoKernel](https://devpost.com/software/neokernel) · [code](https://github.com/cogniera/neoKernel) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Baseten · [details](../by-hackathon/hack-the-north-2026.md#project-neokernel) | An agent loop that searches fusions, layouts and launch structure trying to approach the memory bandwidth… | claude, codex, cuda |
+| [VoiceBridge](https://devpost.com/software/voicebridge-xh0nv9) · [code](https://github.com/rickytang666/hackthenorth) · [demo](https://www.youtube.com/watch?v=e1tZalE6_i8) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Baseten · [details](../by-hackathon/hack-the-north-2026.md#project-voicebridge-xh0nv9) | Dysarthric speech recovery, in your own voice. | baseten, audio, cohere |
+| [Salient Labs](https://devpost.com/software/salient-9ohv4q) · [code](https://github.com/k-kochhar/Salient) · [demo](https://www.youtube.com/watch?v=bSFhoFY6hIY) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of Open Source Models · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-salient-9ohv4q) | The system rethinks video compression by mirroring how the human eye perceives importance in a scene. | baseten, amazon-web-services, ffmeg |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Baseten: Best Use of Baseten | Baseten | [Track label](https://hackthenorth2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | BaseTen: Best Use of Open Source Models | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** baseten (2), python (2), amazon-web-services (1), audio (1), claude (1), codex (1)
-- **Problem areas** None listed
-- **Demo types** Voice or conversational interface (1)
-- **Projects with a listed demo video** 2 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [neoKernel](../by-hackathon/hack-the-north-2026.md#project-neokernel) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Baseten: Best Use of Baseten | — | neoKernel is an autoresearch harness for LLM inference engines, and the Qwen3-4B engine it produced. | 1 |
-| [VoiceBridge](../by-hackathon/hack-the-north-2026.md#project-voicebridge-xh0nv9) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Baseten: Best Use of Baseten | — | The adapted Cohere model is hosted on Baseten, and the demo’s speech recognition inference runs on Baseten. | 1 |
-| [Salient Labs](../by-hackathon/cal-hacks-12-0-2025.md#project-salient-9ohv4q) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | BaseTen: Best Use of Open Source Models | — | The project lists baseten among its Built With tags. | 1 |
+</details>

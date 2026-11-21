@@ -1,33 +1,30 @@
 # Reflex
 
+**2 projects · 1 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 1 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** gemini (2), reflex (2), amazon-web-services (1)
+- **Common project areas** Finance and commerce (1)
+- **Common demo formats** Hardware or robotics (1)
+- **Projects with a listed demo video** 0 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Memento](https://devpost.com/software/memento-1p0jel) · [code](https://github.com/AlexLuu1/Memento) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Best app built using reflex.dev · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-memento-1p0jel) | Memento helps elderly people connect with their families by reflecting on and sharing cherished memories,… | reflex, chroma, deepgram |
+| [TAShopping](https://devpost.com/software/tashopping) · [code](https://github.com/Turtdle/TAS-Frontend) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Best app built using reflex.dev · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-tashopping) | Tool Assisted Shopping; Accelerate your shopping to robot-like efficiency. | reflex, amazon-web-services, firebase |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Reflex: Best app built using reflex.dev | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** gemini (2), reflex (2), amazon-web-services (1), chroma (1), deepgram (1), firebase (1)
-- **Problem areas** Finance and commerce (1)
-- **Demo types** Hardware or robotics (1)
-- **Projects with a listed demo video** 0 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Memento](../by-hackathon/cal-hacks-11-0-2024.md#project-memento-1p0jel) | Cal Hacks 11.0 2024 | 2 | 2 | Reflex, Ripple |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Memento](../by-hackathon/cal-hacks-11-0-2024.md#project-memento-1p0jel) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Reflex: Best app built using reflex.dev | — | The project lists reflex among its Built With tags. | 2 |
-| [TAShopping](../by-hackathon/cal-hacks-11-0-2024.md#project-tashopping) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Reflex: Best app built using reflex.dev | — | Webapp: The web application is developed using Reflex , providing a responsive and modern interface for users. | 1 |
+</details>

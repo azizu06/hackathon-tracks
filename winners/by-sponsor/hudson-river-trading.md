@@ -1,10 +1,29 @@
 # Hudson River Trading
 
+**4 projects · 4 editions · 4 prize rows**
+
 [Winners index](../README.md)
 
-4 projects across 4 editions, with 4 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (3), javascript (2), azure (1)
+- **Common project areas** None listed
+- **Common demo formats** None listed
+- **Projects with a listed demo video** 1 of 4
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Spheroid Tumor Invasion Kinetics (STIK) GUI](https://devpost.com/software/tumor-invasion-kinetics-gui) · [code](https://github.com/ellielin23/STIK_GUI) · [demo](https://www.youtube.com/watch?v=WknE6hNdmEc) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of Data Hack (HRT-branded JBL earbuds per team member) · [details](../by-hackathon/treehacks-2025.md#project-tumor-invasion-kinetics-gui) | An AI-powered tool for tracking and predicting spheroid tumor invasion kinetics that eliminates the need for… | conda, cvat, pyqt |
+| [ensemble&#95;factory](https://devpost.com/software/ensemble_factory) · [code](https://github.com/lhirschfeld/ensemble_factory) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Most Interesting Use of Data with HRT · [details](../by-hackathon/hackmit-2019.md#project-ensemble_factory) | automl for heterogeneous model ensembling, giving automagical state-of-the-art statistical inference. | networkx, python, scikit-learn |
+| [Fake Bananas](https://devpost.com/software/fakebananas) · [code](https://github.com/likeaj6/FakeBananas) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Hudson River Trading - Most Interesting Use of Data · [details](../by-hackathon/hackmit-2017.md#project-fakebananas) | Robust fake news detection made simple and scalable for real people. | azure, css, flask |
+| [JS Policy](https://devpost.com/software/js-policy) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Best Low Level / High Performance Hack (Hudson River Trading) · [details](../by-hackathon/hackmit-2016.md#project-js-policy) | JS Policy allows web devs to keep user data safe by subjecting 3rd party Javascript to rich runtime policies. | javascript |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -13,26 +32,4 @@
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Hudson River Trading - Most Interesting Use of Data | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best Low Level / High Performance Hack (Hudson River Trading) | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (3), javascript (2), azure (1), conda (1), css (1), cvat (1)
-- **Problem areas** None listed
-- **Demo types** None listed
-- **Projects with a listed demo video** 1 of 4
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Fake Bananas](../by-hackathon/hackmit-2017.md#project-fakebananas) | HackMIT 2017 | 2 | 2 | Baidu, Hudson River Trading |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Spheroid Tumor Invasion Kinetics (STIK) GUI](../by-hackathon/treehacks-2025.md#project-tumor-invasion-kinetics-gui) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Hudson River Trading: Best Use of Data Hack (HRT-branded JBL earbuds per team member) | HRT-branded JBL earbuds per team member | STIK_GUI (Spheroid Tumor Invasion Kinetics GUI) is an AI-powered tool designed to automate the tracking and prediction of tumor spheroid invasion. | 1 |
-| [ensemble_factory](../by-hackathon/hackmit-2019.md#project-ensemble_factory) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Most Interesting Use of Data with HRT | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Fake Bananas](../by-hackathon/hackmit-2017.md#project-fakebananas) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Hudson River Trading - Most Interesting Use of Data | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [JS Policy](../by-hackathon/hackmit-2016.md#project-js-policy) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best Low Level / High Performance Hack (Hudson River Trading) | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

@@ -4,11 +4,12 @@ import argparse
 from collections import Counter
 import csv
 import json
+from itertools import takewhile
 from pathlib import Path
 import re
 import tempfile
 
-from render import INT_FIELDS, LIST_FIELDS, event_file, project_anchor, render, slugify
+from render import INT_FIELDS, LIST_FIELDS, event_file, project_anchor, render, slugify, update_readme
 
 
 def decode_csv(row, nullable):
@@ -23,11 +24,10 @@ def decode_csv(row, nullable):
 
 def read_awards(path):
     award_lines = path.read_text(encoding="utf-8").split("## Sponsor awards\n", 1)[1]
-    award_lines = award_lines.split("\n## ", 1)[0].strip().splitlines()
-    return award_lines[2:]
+    return list(takewhile(lambda line: line.startswith("|"), award_lines.strip().splitlines()))[2:]
 
 
-def verify(root):
+def verify(root, readme=None):
     rows = json.loads((root / "winners.json").read_text(encoding="utf-8"))
     receipts = {
         record["url"]: record
@@ -73,7 +73,13 @@ def verify(root):
         assert file_set == {p.relative_to(replay) for p in replay.rglob("*") if p.is_file()}
         for relative_path in file_set:
             assert (root / relative_path).read_bytes() == (replay / relative_path).read_bytes(), relative_path
+        if readme:
+            preview = replay / "root-readme.md"
+            preview.write_bytes(readme.read_bytes())
+            update_readme(preview, rows)
+            assert readme.read_bytes() == preview.read_bytes(), "Root README indexes or badges are stale"
     valid_anchors = {event_file(row) + "#" + project_anchor(row) for row in rows}
+    valid_anchors.update(f"README.md#{name}" for name in ("leaderboard", "sponsor-index", "hackathon-index"))
     checked_links = 0
     for path in root.rglob("*.md"):
         for destination in re.findall(r"\]\(([^ )]+)\)", path.read_text(encoding="utf-8")):
@@ -94,4 +100,6 @@ def verify(root):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, default=Path("winners"))
-    verify(parser.parse_args().output)
+    parser.add_argument("--readme", type=Path, help="Check the generated sections in the root README")
+    args = parser.parse_args()
+    verify(args.output, args.readme)

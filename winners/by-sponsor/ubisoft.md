@@ -1,35 +1,32 @@
 # Ubisoft
 
+**4 projects · 1 editions · 4 prize rows**
+
 [Winners index](../README.md)
 
-4 projects across 1 editions, with 4 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** unity (4), c# (3), blender (2)
+- **Common project areas** Finance and commerce (1), Games and entertainment (1)
+- **Common demo formats** Game (1)
+- **Projects with a listed demo video** 3 of 4
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Geese Love Merch](https://devpost.com/software/gesse-love-merch) · [code](https://github.com/nayanmapara/GeeseLoveMerch) · [demo](https://www.youtube.com/watch?v=cepJ_1Lz2-g) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Ubisoft Game Dev Challenge · [details](../by-hackathon/hack-the-north-2024.md#project-gesse-love-merch) | The team describes the project as “But Gesse get no merch”. | ai-assets, blender, c |
+| [Hack the Bomb](https://devpost.com/software/hack-the-bomb) · [code](https://github.com/Greb-the-awesome/hack-the-bomb) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Ubisoft Game Dev Challenge · [details](../by-hackathon/hack-the-north-2024.md#project-hack-the-bomb) | Hackathons aren't always about improving the world. Sometimes they're about saving the world. | blender, c#, unity |
+| [One in the Chamber](https://devpost.com/software/one-in-the-chamber) · [demo](https://www.youtube.com/watch?v=VMygnUvt998) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Ubisoft Game Dev Challenge · [details](../by-hackathon/hack-the-north-2024.md#project-one-in-the-chamber) | A VR game about catching and firing arrows to delay the inevitable. | c#, oculus, unity |
+| [Shop The North](https://devpost.com/software/shop-the-north) · [code](https://github.com/BenBoguslavsky18/HTN_VR) · [demo](https://www.youtube.com/watch?v=igOuQHgEvto) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Ubisoft Game Dev Challenge · [details](../by-hackathon/hack-the-north-2024.md#project-shop-the-north) | Sometimes online shopping can be dull, and most of all, turn away customers who are unsure about buying… | c#, github, json |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Ubisoft: Ubisoft Game Dev Challenge | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** unity (4), c# (3), blender (2), github (2), ai-assets (1), c (1)
-- **Problem areas** Finance and commerce (1), Games and entertainment (1)
-- **Demo types** Game (1)
-- **Projects with a listed demo video** 3 of 4
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Shop The North](../by-hackathon/hack-the-north-2024.md#project-shop-the-north) | Hack the North 2024 | 2 | 2 | Shopify, Ubisoft |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Geese Love Merch](../by-hackathon/hack-the-north-2024.md#project-gesse-love-merch) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Ubisoft: Ubisoft Game Dev Challenge | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Hack the Bomb](../by-hackathon/hack-the-north-2024.md#project-hack-the-bomb) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Ubisoft: Ubisoft Game Dev Challenge | — | Hack the Bomb is a scavenger hunt game where the player goes around the E7 building solving puzzles and getting codes to defuse the bomb. | 1 |
-| [One in the Chamber](../by-hackathon/hack-the-north-2024.md#project-one-in-the-chamber) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Ubisoft: Ubisoft Game Dev Challenge | — | It entertains (and it's good at it too!). | 1 |
-| [Shop The North](../by-hackathon/hack-the-north-2024.md#project-shop-the-north) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Ubisoft: Ubisoft Game Dev Challenge | — | The user that enters the virtual clothing store may choose between a black/yellow shirt, and black/tropical pants which are products from an online Shopify store (see screenshots). | 2 |
+</details>

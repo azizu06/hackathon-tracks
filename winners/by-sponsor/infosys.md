@@ -1,32 +1,31 @@
 # Infosys
 
+**2 projects · 2 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 2 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** arkit (1), autogen (1), chromadb (1)
+- **Common project areas** Education and learning (1), Finance and commerce (1)
+- **Common demo formats** Web app or dashboard (2), AR, VR or spatial (1), Voice or conversational interface (1)
+- **Projects with a listed demo video** 1 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Halo](https://devpost.com/software/halo-2syeh9) · [code](https://github.com/Harpith2/Halo) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) · Infosys Human Augmentation Track Prize · [details](../by-hackathon/hackharvard-2025.md#project-halo-2syeh9) | Augmenting ordinary people into heroic responders by giving them the knowledge, confidence &amp; clarity to save… | arkit, chromadb, cloudflare-pages |
+| [InvestIQ](https://devpost.com/software/investiq-1b0cio) · [code](https://github.com/krish-shar/InvestIQ) · [demo](https://www.youtube.com/watch?v=LAvZvJE8MMA) | [HackUTD 2024](../by-hackathon/hackutd-2024.md) · Infosys · [details](../by-hackathon/hackutd-2024.md#project-investiq-1b0cio) | InvestIQ simplifies investing for everyone, offering real-time insights, educational chatbot support, and… | autogen, cohere, flask |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Infosys Human Augmentation Track Prize | No specific requirement captured | [Event prize rules](https://hackharvard-2025.devpost.com/) |
 | [HackUTD 2024](../by-hackathon/hackutd-2024.md) | Infosys | No specific requirement captured | [Event prize rules](https://hackutd-ripple.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** arkit (1), autogen (1), chromadb (1), cloudflare-pages (1), cloudflare-workers-ai (1), cohere (1)
-- **Problem areas** Education and learning (1), Finance and commerce (1)
-- **Demo types** Web app or dashboard (2), AR, VR or spatial (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 1 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Halo](../by-hackathon/hackharvard-2025.md#project-halo-2syeh9) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Infosys Human Augmentation Track Prize | — | Halo is a Swift-native iOS application for iPhone and iPad that fuses Augmented Reality (AR) with an empathetic AI voice agent . | 1 |
-| [InvestIQ](../by-hackathon/hackutd-2024.md#project-investiq-1b0cio) | [HackUTD 2024](../by-hackathon/hackutd-2024.md) | Infosys | — | InvestIQ is a powerful financial insights platform designed to cater to:. | 1 |
+</details>

@@ -1,35 +1,31 @@
 # LiveKit
 
+**2 projects · 1 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 1 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** openai (2), amazon-web-services (1), arduino (1)
+- **Common project areas** Health and care (1)
+- **Common demo formats** Hardware or robotics (1), Web app or dashboard (1)
+- **Projects with a listed demo video** 2 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Haven](https://devpost.com/software/haven-536r1q) · [code](https://github.com/scrappydevs/haven) · [demo](https://www.youtube.com/watch?v=sxdgpbTRsMs) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Start-up Idea · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-haven-536r1q) | A hospital coordination dashboard combines record data, nursing alerts, and patient questions. | livekit, claude, fetch.ai |
+| [Ted.AI](https://devpost.com/software/ted-ai-x8537t) · [demo](https://www.youtube.com/watch?v=3bj86ky1eAc) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Most Creative Project · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-ted-ai-x8537t) | A multimodal AI companion that fuses emotion sensing, language understanding, and real-time biofeedback to… | amazon-web-services, arduino, docker |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | LiveKit: Best Start-up Idea | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | LiveKit: Most Creative Project | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** openai (2), amazon-web-services (1), arduino (1), claude (1), docker (1), fetch.ai (1)
-- **Problem areas** Health and care (1)
-- **Demo types** Hardware or robotics (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Haven](../by-hackathon/cal-hacks-12-0-2025.md#project-haven-536r1q) | Cal Hacks 12.0 2025 | 3 | 3 | Fetch.ai, LiveKit, Y Combinator |
-| [Ted.AI](../by-hackathon/cal-hacks-12-0-2025.md#project-ted-ai-x8537t) | Cal Hacks 12.0 2025 | 1 | 2 | LiveKit |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Haven](../by-hackathon/cal-hacks-12-0-2025.md#project-haven-536r1q) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | LiveKit: Best Start-up Idea | — | HavenAI Voice Assistant via LiveKit Patients and families speak naturally to Haven using LiveKit and OpenAI's realtime voice API. | 3 |
-| [Ted.AI](../by-hackathon/cal-hacks-12-0-2025.md#project-ted-ai-x8537t) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | LiveKit: Most Creative Project | — | Ted.AI is an emotionally intelligent teddy bear powered by multimodal AI. | 2 |
+</details>

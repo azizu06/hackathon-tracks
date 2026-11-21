@@ -1,30 +1,29 @@
 # Bloomberg Industry Group
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** amazon-dynamodb (1), amazon-web-services (1), beautiful-soup (1)
+- **Common project areas** None listed
+- **Common demo formats** None listed
+- **Projects with a listed demo video** 1 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [ContractScope](https://devpost.com/software/contractscope) · [code](https://github.com/TylerK4832/ContractScope) · [demo](https://www.youtube.com/watch?v=_HmigEf25Q4) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group · [details](../by-hackathon/bitcamp-2024.md#project-contractscope) | The team experimented with different NLP architectures and fine-tuning strategies to ensure the accuracy and… | amazon-dynamodb, amazon-web-services, beautiful-soup |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group | No specific requirement captured | [Event prize rules](https://bitcamp2024.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** amazon-dynamodb (1), amazon-web-services (1), beautiful-soup (1), eventbridge (1), lambda (1), python (1)
-- **Problem areas** None listed
-- **Demo types** None listed
-- **Projects with a listed demo video** 1 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [ContractScope](../by-hackathon/bitcamp-2024.md#project-contractscope) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

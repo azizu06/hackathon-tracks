@@ -1,31 +1,30 @@
 # Relay
 
+**2 projects · 1 editions · 2 prize rows**
+
 [Winners index](../README.md)
 
-2 projects across 1 editions, with 2 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** relay (2), agentverse (1), asi-one (1)
+- **Common project areas** Health and care (1)
+- **Common demo formats** Hardware or robotics (1), Voice or conversational interface (1)
+- **Projects with a listed demo video** 1 of 2
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [:Peeki](https://devpost.com/software/peeki) · [demo](https://www.youtube.com/watch?v=iHHdCwF_NRU) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Relay Interactive Agents Track Winner · [details](../by-hackathon/mhacks-2026.md#project-peeki) | The wireless camera bear that watches, remembers, and answers when you ask. | relay, esp32, figma |
+| [Amyna](https://devpost.com/software/billdozer) · [code](https://github.com/tiwari-ira/amyna) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Relay Interactive Agents Track Winner · [details](../by-hackathon/mhacks-2026.md#project-billdozer) | An AI agent crew that checks your medical bill against what actually happened at your visit, flags charges… | relay, agentverse, asi-one |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Relay Interactive Agents Track Winner | No specific requirement captured | [Event prize rules](https://mhacks-2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** relay (2), agentverse (1), asi-one (1), esp32 (1), fastapi (1), fetch-ai (1)
-- **Problem areas** Health and care (1)
-- **Demo types** Hardware or robotics (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 1 of 2
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [:Peeki](../by-hackathon/mhacks-2026.md#project-peeki) | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Relay Interactive Agents Track Winner | — | The project lists relay among its Built With tags. | 1 |
-| [Amyna](../by-hackathon/mhacks-2026.md#project-billdozer) | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Relay Interactive Agents Track Winner | — | The project lists relay among its Built With tags. | 1 |
+</details>

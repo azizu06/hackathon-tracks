@@ -1,10 +1,49 @@
 # Figma
 
+**24 projects · 6 editions · 24 prize rows**
+
 [Winners index](../README.md)
 
-24 projects across 6 editions, with 24 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** typescript (18), react (12), python (10)
+- **Common project areas** Finance and commerce (5), Health and care (3), Games and entertainment (2)
+- **Common demo formats** Mobile app (7), Web app or dashboard (7), CLI or developer tool (1)
+- **Projects with a listed demo video** 23 of 24
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Baseland](https://devpost.com/software/baseland) · [code](https://github.com/adylagad/baseland) · [demo](https://www.youtube.com/watch?v=wzT5thvdSHw) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Stage Log · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-baseland) | A mobile finance prototype turns market events into short research tasks and waits for confirmation before… | activitykit, anthropic, app-intents |
+| [Ghostphone](https://devpost.com/software/ghostphone) · [demo](https://www.youtube.com/watch?v=fmnPOpoLz6E) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Most Creative · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-ghostphone) | A game tells the story of a ghost through passes in Apple Wallet. | figma, apple-wallet, claude-code |
+| [moa](https://devpost.com/software/moa) · [code](https://github.com/petersenmatthew/moa) · [demo](https://www.youtube.com/watch?v=K_pESfSqoDQ) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Design · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-moa) | A finance workspace helps AI labs automate bookkeeping and related financial tasks. | agents, nextjs, typescript |
+| [Two Figma](https://devpost.com/software/2-figma) · [code](https://github.com/ericchen356/figma-cpu) · [demo](https://www.youtube.com/watch?v=KERFsr0ZBOg) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use Case · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-2-figma) | A working design editor inside Figma uses variables to implement a processor, compiler, and operating system. | figma, assembly, cpu |
+| [Forage](https://devpost.com/software/gaia-r3jwo5) · [code](https://github.com/EzequielBaltierra/HackDuke26) · [demo](https://www.youtube.com/watch?v=ZdNEc66V0Zg) | [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md) · Best Design · [details](../by-hackathon/hackduke-code-for-good-2026.md#project-gaia-r3jwo5) | Help people go outside more often by making nature exploration social, rewarding, and habit-forming. | auth0, expo.io, openai |
+| [BraceML](https://devpost.com/software/braceml) · [code](https://github.com/jiekaitao/BRACE) · [demo](https://www.youtube.com/watch?v=DvQncQ3JfmE) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) · Figma Make Most Creative Data Visualization · [details](../by-hackathon/hacklytics-2026.md#project-braceml) | A camera-based biomechanics tool tracks movement and fatigue to give athletes feedback while they train. | figma-make, actian-vectorai-db, avfoundation |
+| [FarmCast](https://devpost.com/software/the-last-human-internet) · [demo](https://www.youtube.com/watch?v=TLGly6WWBwQ) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) · Figma Make Most Creative Data Visualization · [details](../by-hackathon/hacklytics-2026.md#project-the-last-human-internet) | A local weather app gives gardeners and small farmers forecasts tailored to growing decisions. | react, tailwind, typescript |
+| [Fobo](https://devpost.com/software/fobo-fear-of-burning-out) · [demo](https://www.youtube.com/watch?v=RWAbxd6hSjE) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Design · [details](../by-hackathon/knight-hacks-ix-2026.md#project-fobo-fear-of-burning-out) | A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking. | expo.io, gemini, neon |
+| [Accent](https://devpost.com/software/accent-cdw2qi) · [code](https://github.com/RyloRiz/accent) · [demo](https://www.youtube.com/watch?v=XmlBhFCtorw) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-accent-cdw2qi) | A macOS assistant takes a spoken question and highlights the relevant control for the user. | appkit, claudecode, codex |
+| [autoGear](https://devpost.com/software/autogear) · [code](https://github.com/Dirtblob/AutoGear) · [demo](https://www.youtube.com/watch?v=RYnkUSRhRUk) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-autogear) | How to combine AI with deterministic logic. | best-buy, clerk, coco-ssd |
+| [GoTrail](https://devpost.com/software/gotrail) · [demo](https://www.youtube.com/watch?v=0ANuoizXoxE) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-gotrail) | A hiking app gives users activities to complete outside and helps clinicians suggest walks. | figma-make, avfoundation, core-location |
+| [Grouper](https://devpost.com/software/grouper-fr2h1q) · [demo](https://www.youtube.com/watch?v=mNkgHS3Sgk0) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-grouper-fr2h1q) | A shared app helps friend groups coordinate rides, plans, and payments. | figma, framer, godaddy |
+| [IMPULSE](https://devpost.com/software/erewhon) · [code](https://github.com/MarcDasilva/Impulse) · [demo](https://www.youtube.com/watch?v=FwS_lDUnjMY) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-erewhon) | EMTs deserve better than a radio and a clipboard. | asus-gx10, cloudinary, colmap |
+| [MAVN](https://devpost.com/software/mavn) · [demo](https://www.youtube.com/watch?v=rHKdiMtREt0) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-mavn) | One who understands: your healthcare, handled. | elevenlabs, expo.io, fastapi |
+| [NeighborFridge](https://devpost.com/software/neighborfridge) · [code](https://github.com/sinaghadimi9081/LaHacks2026) · [demo](https://www.youtube.com/watch?v=NNhaTmYLjwI) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-neighborfridge) | A grocery tracker reads receipts and flags food that may expire soon. | figma, figma-make, amazon-web-services |
+| [Obi](https://devpost.com/software/obi-mise-en-place-for-your-data) · [code](https://github.com/LAHacks2026/Obi_Laptop) · [demo](https://www.youtube.com/watch?v=r7eSFDm4Wd4) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-obi-mise-en-place-for-your-data) | A desktop assistant finds local files and gathers context for the user's current task. | better-sqlite3, chokidar, electron |
+| [Scaena OS](https://devpost.com/software/scaena-os) · [code](https://github.com/RC3371/Scaena-LAHacks2026) · [demo](https://www.youtube.com/watch?v=DCTjE99embY) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-scaena-os) | A booking workspace helps performers find venues and manage pitches and follow-ups. | figma, agentverse, asi-1-mini |
+| [Sera](https://devpost.com/software/sera-lvthzo) · [demo](https://www.youtube.com/watch?v=M60_I4LMtPM) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-sera-lvthzo) | Because good music gives us sera-tonin :). | colab, python, spotify |
+| [Snitch](https://devpost.com/software/snitch-ackp1s) · [code](https://github.com/EfinZhao/Snitch) · [demo](https://www.youtube.com/watch?v=vLm0LcqmDr0) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-snitch-ackp1s) | Snitch is an accountability platform built for students without something on the line. | discord.py, fastapi, gemini |
+| [Talantis](https://devpost.com/software/talantis) · [demo](https://www.youtube.com/watch?v=2_2BNhwoFno) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-talantis) | A dashboard shows how internship pipelines connect employers and schools. | agentverse, claude, fastapi |
+| [WebMedica](https://devpost.com/software/luma-ai-powered-personalized-health-context) · [demo](https://www.youtube.com/watch?v=TyN5sk7KFns) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Figma Make Challenge · [details](../by-hackathon/la-hacks-2026.md#project-luma-ai-powered-personalized-health-context) | A browser extension helps users find and understand medical research relevant to women's health. | figma, canva, chrome |
+| [Bounty](https://devpost.com/software/bounty-hkz38e) · [code](https://github.com/AlanRoybal/mhacks2026) · [demo](https://www.youtube.com/watch?v=vXkbfQ2L-Gc) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Figma Best Design Track · [details](../by-hackathon/mhacks-2026.md#project-bounty-hkz38e) | A job board holds payment in escrow until a worker submits the agreed proof of completion. | activitykit, amazon-bedrock, amazon-dynamodb |
+| [Gaze](https://devpost.com/software/gaze-pn0fmq) · [code](https://github.com/dakshshahani/mhacks) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Figma Best Design Track · [details](../by-hackathon/mhacks-2026.md#project-gaze-pn0fmq) | A computer control interface uses eye tracking to point and speech to issue commands. | elevenlabs-api, gemini-3.5-flash-lite-api, git |
+| [Orbit](https://devpost.com/software/orbit-qrgmd8) · [code](https://github.com/daniel3606/Orbit_MHacks26) · [demo](https://www.youtube.com/watch?v=Mj4wTCKH8oE) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Figma Best Design Track · [details](../by-hackathon/mhacks-2026.md#project-orbit-qrgmd8) | A learning app helps users explore stock movements and practice investment decisions. | alpaca, eas, expo.io |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -18,50 +57,4 @@
 | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | No specific requirement captured | [Event prize rules](https://la-hacks-2026.devpost.com/) |
 | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Figma Best Design Track | No specific requirement captured | [Event prize rules](https://mhacks-2026.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** typescript (18), react (12), python (10), fastapi (6), figma (6), sqlite (6)
-- **Problem areas** Finance and commerce (5), Health and care (3), Games and entertainment (2), Education and learning (1)
-- **Demo types** Mobile app (7), Web app or dashboard (7), CLI or developer tool (1), Game (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 23 of 24
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Fobo](../by-hackathon/knight-hacks-ix-2026.md#project-fobo-fear-of-burning-out) | Knight Hacks IX 2026 | 2 | 2 | Adobe, Figma |
-| [moa](../by-hackathon/cal-hacks-13-0-2026.md#project-moa) | Cal Hacks 13.0 2026 | 2 | 2 | Figma, Hyphenate |
-| [Accent](../by-hackathon/la-hacks-2026.md#project-accent-cdw2qi) | LA Hacks 2026 | 1 | 2 | Figma |
-| [BraceML](../by-hackathon/hacklytics-2026.md#project-braceml) | Hacklytics 2026 | 1 | 2 | Figma |
-| [NeighborFridge](../by-hackathon/la-hacks-2026.md#project-neighborfridge) | LA Hacks 2026 | 1 | 2 | Figma |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Baseland](../by-hackathon/cal-hacks-13-0-2026.md#project-baseland) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Figma&#93; Best Stage Log | — | Baseland turns a market event into a Play : a short mission with a trigger, a window, an order, exits and a Leash of hard limits. | 1 |
-| [Ghostphone](../by-hackathon/cal-hacks-13-0-2026.md#project-ghostphone) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Figma&#93; Most Creative | — | The project lists figma among its Built With tags. | 1 |
-| [moa](../by-hackathon/cal-hacks-13-0-2026.md#project-moa) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Figma&#93; Best Design | — | The team built a design system, mapped flows in FigJam, made a clickable version in Figma Make, and animated the outro in Figma Motion. | 2 |
-| [Two Figma](../by-hackathon/cal-hacks-13-0-2026.md#project-2-figma) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Figma&#93; Best Use Case | — | Two Figma is a working Figma editor built inside Figma, running on logic gates that Figma's own prototype engine computes. | 1 |
-| [Forage](../by-hackathon/hackduke-code-for-good-2026.md#project-gaia-r3jwo5) | [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md) | &#91;Figma&#93; Best Design | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [BraceML](../by-hackathon/hacklytics-2026.md#project-braceml) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) | Figma Make Most Creative Data Visualization | — | The project lists figma-make among its Built With tags. | 2 |
-| [FarmCast](../by-hackathon/hacklytics-2026.md#project-the-last-human-internet) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) | Figma Make Most Creative Data Visualization | — | FarmCast is the weather app that actually gets it. | 1 |
-| [Fobo](../by-hackathon/knight-hacks-ix-2026.md#project-fobo-fear-of-burning-out) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Figma: Best Design | — | It shows when you're full, not just when you're free, and helps you decide what to do about it. | 2 |
-| [Accent](../by-hackathon/la-hacks-2026.md#project-accent-cdw2qi) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | Accent is a local macOS assistant that lets you press a keyboard shortcut, ask what you want to do on screen, and get a highlighted UI element plus verbal directions. | 2 |
-| [autoGear](../by-hackathon/la-hacks-2026.md#project-autogear) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [GoTrail](../by-hackathon/la-hacks-2026.md#project-gotrail) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | The project lists figma-make among its Built With tags. | 1 |
-| [Grouper](../by-hackathon/la-hacks-2026.md#project-grouper-fr2h1q) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | The project lists figma among its Built With tags. | 1 |
-| [IMPULSE](../by-hackathon/la-hacks-2026.md#project-erewhon) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | IMPULSE is a real-time incident response platform that turns any iPhone into a smart body camera and gives commanders a live, intelligent picture of what's happening on the ground. | 1 |
-| [MAVN](../by-hackathon/la-hacks-2026.md#project-mavn) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | The app is a voice-controlled healthcare assistant that:. | 1 |
-| [NeighborFridge](../by-hackathon/la-hacks-2026.md#project-neighborfridge) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | It was mostly prototyped between using ChatGPT Codex and Figma Make, mostly using Figma to help ideate during the process. | 2 |
-| [Obi](../by-hackathon/la-hacks-2026.md#project-obi-mise-en-place-for-your-data) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | Retrieval matters more than generation The quality of search has a bigger impact than model size. | 1 |
-| [Scaena OS](../by-hackathon/la-hacks-2026.md#project-scaena-os) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | The project lists figma among its Built With tags. | 1 |
-| [Sera](../by-hackathon/la-hacks-2026.md#project-sera-lvthzo) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | You bring Sera a playlist or a few songs. | 1 |
-| [Snitch](../by-hackathon/la-hacks-2026.md#project-snitch-ackp1s) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | The team used Figma Make to give the team inspiration for the frontend, specifically with A/B style testing. | 1 |
-| [Talantis](../by-hackathon/la-hacks-2026.md#project-talantis) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | Using Figma Make to experiment with the hero section designs. | 1 |
-| [WebMedica](../by-hackathon/la-hacks-2026.md#project-luma-ai-powered-personalized-health-context) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Figma Make Challenge | — | Using Figma Make for the first full flow. | 1 |
-| [Bounty](../by-hackathon/mhacks-2026.md#project-bounty-hkz38e) | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Figma Best Design Track | — | Post a job with a price, location and deadline. | 1 |
-| [Gaze](../by-hackathon/mhacks-2026.md#project-gaze-pn0fmq) | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Figma Best Design Track | — | Gaze allows a user to build and modify frontend interfaces by steering an on-screen pointer with their head and describing a change aloud. | 1 |
-| [Orbit](../by-hackathon/mhacks-2026.md#project-orbit-qrgmd8) | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Figma Best Design Track | — | Orbit is an AI-powered stock discovery and paper-trading app designed for people who are new to investing. | 1 |
+</details>

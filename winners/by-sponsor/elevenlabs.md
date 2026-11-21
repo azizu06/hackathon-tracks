@@ -1,10 +1,46 @@
 # ElevenLabs
 
+**21 projects · 20 editions · 21 prize rows**
+
 [Winners index](../README.md)
 
-21 projects across 20 editions, with 21 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** elevenlabs (17), python (12), gemini (9)
+- **Common project areas** Games and entertainment (2), Accessibility and assistive tools (1), Health and care (1)
+- **Common demo formats** Web app or dashboard (5), Hardware or robotics (4), Voice or conversational interface (4)
+- **Projects with a listed demo video** 20 of 21
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [DoortectiveAI](https://devpost.com/software/doortective) · [demo](https://www.youtube.com/watch?v=S6FTw6NNaa4) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Best Use of ElevenLabs · [details](../by-hackathon/bitcamp-2026.md#project-doortective) | Your doorbell doesn’t just ring anymore… it sees, thinks, and talks in any language while judging who’s at… | elevenlabs, fastapi, gemini |
+| [HandyDaddy](https://devpost.com/software/dad-on-call) · [code](https://github.com/ponita05/hack-brown) · [demo](https://www.youtube.com/watch?v=xD_QGRqzkvo) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Best Use of ElevenLabs · [details](../by-hackathon/hack-brown-2026.md#project-dad-on-call) | Facetime your dad for home repair advice at anytime. | elevenlabs, async, base64 |
+| [Runway](https://devpost.com/software/runway-fgqxhy) · [code](https://github.com/naasanov/runway) · [demo](https://www.youtube.com/watch?v=KBSkARA8Rf4) | [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md) · Best Use of ElevenLabs · [details](../by-hackathon/hackduke-code-for-good-2026.md#project-runway-fgqxhy) | Solving cashflow as an AI CFO for small/medium sized businesses. | elevenlabs, auth0, azure |
+| [Hey Buddy](https://devpost.com/software/hey-buddy-3e4utl) · [demo](https://www.youtube.com/watch?v=QRPmRg4-4KU) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · MLH: Best Use of ElevenLabs · [details](../by-hackathon/hackgt-13-2026.md#project-hey-buddy-3e4utl) | Language shouldn't cut anyone off. Buddy joins any phone call to interpret both sides live and warn people… | elevenlabs, express.js, grok |
+| [Janulus.ai](https://devpost.com/software/janulus-ai) · [code](https://github.com/ConicalDrupe/janulus.ai) · [demo](https://www.youtube.com/watch?v=5NwICUGROWw) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) · Best Use of ElevenLabs · [details](../by-hackathon/hacklytics-2026.md#project-janulus-ai) | A language-learning tool combines speech and translation exercises to help users practice pronunciation and… | eleven-labs-text-to-speech, clean-architecture, google-gemini |
+| [Squawk](https://devpost.com/software/atc) · [demo](https://www.youtube.com/watch?v=kBiB2bNY1BI) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · MLH: Best Use of ElevenLabs · [details](../by-hackathon/hack-the-north-2026.md#project-atc) | An AI copilot for air traffic controllers. It plans conflict-free routes, listens to the radio with a model… | elevenlabs, baseten, deck.gl |
+| [Incantation](https://devpost.com/software/incantation) · [code](https://github.com/blazin-blaze/kh9-rblx-project) · [demo](https://www.youtube.com/watch?v=4Qf5VMHLx8U) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of ElevenLabs · [details](../by-hackathon/knight-hacks-ix-2026.md#project-incantation) | Players speak spell ideas aloud and cast the generated spells against each other in a Roblox arena. | elevenlabs, gemini, lua |
+| [A-Eye](https://devpost.com/software/a-eye-pk9sdw) · [code](https://github.com/AK20202007/A-Eye) · [demo](https://www.youtube.com/watch?v=m7Ee3nlPFwQ) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · MLH: Best Use of ElevenLabs · [details](../by-hackathon/la-hacks-2026.md#project-a-eye-pk9sdw) | A navigation aid turns the live camera view into spoken directions for people with visual impairments. | elevenlabs, asyncio, bytetrack |
+| [DoodleFFA](https://devpost.com/software/doodleffa) · [code](https://github.com/mayozoz/mhacks26) · [demo](https://www.youtube.com/watch?v=B1xxp1ZwI_0) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best Project Built with ElevenLabs Winner · [details](../by-hackathon/mhacks-2026.md#project-doodleffa) | A multiplayer battle game turns drawings submitted from phones into in-game weapons. | elevenlabs, asi:one, fetch.ai |
+| [HUDson](https://devpost.com/software/hudson-uw5kn7) · [code](https://github.com/iancdev/hudglasses) · [demo](https://www.youtube.com/watch?v=4YbXLKoHIKk) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) · Best Use of Elevenlabs · [details](../by-hackathon/nwhacks-2026.md#project-hudson-uw5kn7) | A wearable gives deaf and hard-of-hearing users visual and tactile cues about surrounding sounds. | elevenlabs, 3dprinting, c++ |
+| [flow.](https://devpost.com/software/flow-8pgm1k) · [code](https://github.com/stephenhungg/flow) · [demo](https://www.youtube.com/watch?v=m0bSZZ2EIdg) | [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md) · Best Use of ElevenLabs · [details](../by-hackathon/sb-hacks-xii-2026.md#project-flow-8pgm1k) | speak a concept, step inside it in 3d. | elevenlabs, css, deepgram |
+| [Public City Announcements (PCA)](https://devpost.com/software/public-city-announcements-pcl) · [code](https://github.com/Alans44/public-city-announcements) · [demo](https://www.youtube.com/watch?v=D6od6VAIAPM) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · Best Use of ElevenLabs · [details](../by-hackathon/shellhacks-2026.md#project-public-city-announcements-pcl) | The neighbor who reads every city agenda and calls you when it matters. | cloudflare-tunnel, fastapi, framer-motion |
+| [Imposture](https://devpost.com/software/imposture-krvg9h) · [code](https://github.com/argsdio/imposture) · [demo](https://www.youtube.com/watch?v=plD5TCyZjgI) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) · Best Use of ElevenLabs · [details](../by-hackathon/yhack-spring-2026.md#project-imposture-krvg9h) | Imposture is an AI desk pet that tracks your posture and focus use via computer vision, reacts with emotions… | elevenlabs, adafruit, arduino |
+| [Jarvis: An agentic AI operator that does everything for you.](https://devpost.com/software/jarvis-an-agentic-voice-assistant-that-does-things-for-you) · [demo](https://www.youtube.com/watch?v=u0eB0bQYs2o) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of ElevenLabs · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-jarvis-an-agentic-voice-assistant-that-does-things-for-you) | A voice-controlled assistant reads the screen and operates desktop apps on the user's behalf. | elevenlabs, claude, gemini |
+| [Lingua Spatial](https://devpost.com/software/lingua-spatial) · [code](https://github.com/SaketR3/Lingua-Spatial-Gemini-API) · [demo](https://www.youtube.com/watch?v=FVoM-Fj_TL8) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) · Best Use of ElevenLabs · [details](../by-hackathon/hackharvard-2025.md#project-lingua-spatial) | An Apple Vision Pro application that immerses you in different languages and cultures. | elevenlabs, apple-vision-pro, arkit |
+| [FaceyBuk](https://devpost.com/software/faceybuk) · [code](https://github.com/KeiraJames/nyu-hacks) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · MLH - Best Use of ElevenLabs · [details](../by-hackathon/hacknyu-fall-2025.md#project-faceybuk) | The team created On The Go Storyteller , an interactive reading platform that bridges the distance between… | css, express.js, firebase |
+| [Vigilant](https://devpost.com/software/project-wu4vkiag5yd9) · [code](https://github.com/rajpatel923/goonbytes) · [demo](https://www.youtube.com/watch?v=uu312-oYY3c) | [HackTX 2025](../by-hackathon/hacktx-2025.md) · Best Use of ElevenLabs · [details](../by-hackathon/hacktx-2025.md#project-project-wu4vkiag5yd9) | Vigilant watches live campus cameras, detects visible weapons, and computes risk factors (computer vision). | elevenlabs, gemini, gen-ai |
+| [Relay](https://devpost.com/software/tbd-v8pqbk) · [demo](https://www.youtube.com/watch?v=-osJDI2GaQE) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) · Best Use of ElevenLabs by MLH · [details](../by-hackathon/hackutd-2025.md#project-tbd-v8pqbk) | Agentic assistant for data center technicians to streamline repairs and improve efficiency with automated… | . |
+| [iPalo](https://devpost.com/software/ipalo) · [code](https://github.com/4dandev/iPalo) · [demo](https://www.youtube.com/watch?v=9j8EzahHBIk) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · MLH - Best Use of ElevenLabs · [details](../by-hackathon/knight-hacks-viii-2025.md#project-ipalo) | A modern walking aid powered by LiDAR sensing and haptic force feedback, a system that simulates the tactile… | elevenlabs, arduino, arkit |
+| [CodeCrack](https://devpost.com/software/codecrack) · [code](https://github.com/kkarenvoo/TreeHacks2025) · [demo](https://www.youtube.com/watch?v=dz0O5mzjFH0) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of ElevenLabs (11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits +… · [details](../by-hackathon/treehacks-2025.md#project-codecrack) | A voice interviewer asks practice coding questions and gives feedback on the answers. | elevenlabs, javascript, node.js |
+| [The Duck You Mean?](https://devpost.com/software/the-duck-you-mean) · [code](https://github.com/joycechen721/duck-you-mean) · [demo](https://www.youtube.com/watch?v=eDDO_p1X9e8) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of ElevenLabs (11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits +… · [details](../by-hackathon/treehacks-2025.md#project-the-duck-you-mean) | - if you can explain it to a duck, you can explain it to anyone. | elevenlabs, luma, mistralai |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -29,46 +65,4 @@
 | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | MLH - Best Use of ElevenLabs | ElevenLabs | [Track label](https://knighthacksviii.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | ElevenLabs: Best Use of ElevenLabs (11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93;) | ElevenLabs | [Track label](https://treehacks-2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** elevenlabs (17), python (12), gemini (9), typescript (8), react (6), fastapi (5)
-- **Problem areas** Games and entertainment (2), Accessibility and assistive tools (1), Health and care (1)
-- **Demo types** Web app or dashboard (5), Hardware or robotics (4), Voice or conversational interface (4), AR, VR or spatial (2), Game (1)
-- **Projects with a listed demo video** 20 of 21
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [DoortectiveAI](../by-hackathon/bitcamp-2026.md#project-doortective) | Bitcamp 2026 | 1 | 2 | ElevenLabs |
-| [FaceyBuk](../by-hackathon/hacknyu-fall-2025.md#project-faceybuk) | HackNYU Fall 2025 | 1 | 2 | ElevenLabs |
-| [flow.](../by-hackathon/sb-hacks-xii-2026.md#project-flow-8pgm1k) | SB Hacks XII 2026 | 1 | 2 | ElevenLabs |
-| [Imposture](../by-hackathon/yhack-spring-2026.md#project-imposture-krvg9h) | YHack Spring 2026 | 1 | 2 | ElevenLabs |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [DoortectiveAI](../by-hackathon/bitcamp-2026.md#project-doortective) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | The team integrated ElevenLabs conversational agents to generate low-latency, natural voice responses. | 2 |
-| [HandyDaddy](../by-hackathon/hack-brown-2026.md#project-dad-on-call) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | The project lists elevenlabs among its Built With tags. | 1 |
-| [Runway](../by-hackathon/hackduke-code-for-good-2026.md#project-runway-fgqxhy) | [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | The project lists elevenlabs among its Built With tags. | 1 |
-| [Hey Buddy](../by-hackathon/hackgt-13-2026.md#project-hey-buddy-3e4utl) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | MLH: Best Use of ElevenLabs | — | The project lists elevenlabs among its Built With tags. | 1 |
-| [Janulus.ai](../by-hackathon/hacklytics-2026.md#project-janulus-ai) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | The project lists eleven-labs-text-to-speech among its Built With tags. | 1 |
-| [Squawk](../by-hackathon/hack-the-north-2026.md#project-atc) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | MLH: Best Use of ElevenLabs | — | The project lists elevenlabs among its Built With tags. | 1 |
-| [Incantation](../by-hackathon/knight-hacks-ix-2026.md#project-incantation) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | Incantation uses the built in Roblox Studio’s microphone to take in audio, which is then sent to Elevenlabs API for speech to text translation via a local HTTP connection. | 1 |
-| [A-Eye](../by-hackathon/la-hacks-2026.md#project-a-eye-pk9sdw) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | MLH: Best Use of ElevenLabs | — | The project lists elevenlabs among its Built With tags. | 1 |
-| [DoodleFFA](../by-hackathon/mhacks-2026.md#project-doodleffa) | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Best Project Built with ElevenLabs Winner | — | Gemini transforms submitted doodles into weapon artwork, while ElevenLabs provides custom weapon sounds and spoken announcements. | 1 |
-| [HUDson](../by-hackathon/nwhacks-2026.md#project-hudson-uw5kn7) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) | &#91;MLH&#93; Best Use of Elevenlabs | — | The project lists elevenlabs among its Built With tags. | 1 |
-| [flow.](../by-hackathon/sb-hacks-xii-2026.md#project-flow-8pgm1k) | [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | elevenlabs : educational narration, voice q&amp;a responses, integrated real-time audio. | 2 |
-| [Public City Announcements (PCA)](../by-hackathon/shellhacks-2026.md#project-public-city-announcements-pcl) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | PCA reads City of Miami and Miami-Dade agendas, finds the residents each decision affects, and calls them before the vote, in English or Spanish. | 1 |
-| [Imposture](../by-hackathon/yhack-spring-2026.md#project-imposture-krvg9h) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | The project lists elevenlabs among its Built With tags. | 2 |
-| [Jarvis: An agentic AI operator that does everything for you.](../by-hackathon/cal-hacks-12-0-2025.md#project-jarvis-an-agentic-voice-assistant-that-does-things-for-you) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | The project lists elevenlabs among its Built With tags. | 1 |
-| [Lingua Spatial](../by-hackathon/hackharvard-2025.md#project-lingua-spatial) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Best Use of ElevenLabs | — | The project lists elevenlabs among its Built With tags. | 1 |
-| [FaceyBuk](../by-hackathon/hacknyu-fall-2025.md#project-faceybuk) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | MLH - Best Use of ElevenLabs | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Vigilant](../by-hackathon/hacktx-2025.md#project-project-wu4vkiag5yd9) | [HackTX 2025](../by-hackathon/hacktx-2025.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | The project lists elevenlabs among its Built With tags. | 1 |
-| [Relay](../by-hackathon/hackutd-2025.md#project-tbd-v8pqbk) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) | Best Use of ElevenLabs by MLH | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [iPalo](../by-hackathon/knight-hacks-viii-2025.md#project-ipalo) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | MLH - Best Use of ElevenLabs | — | The captured image was processed through Google Gemini for scene description, and ElevenLabs provided real-time text-to-speech output. | 1 |
-| [CodeCrack](../by-hackathon/treehacks-2025.md#project-codecrack) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | ElevenLabs: Best Use of ElevenLabs (11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93;) | 11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93; | The project lists elevenlabs among its Built With tags. | 1 |
-| [The Duck You Mean?](../by-hackathon/treehacks-2025.md#project-the-duck-you-mean) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | ElevenLabs: Best Use of ElevenLabs (11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93;) | 11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93; | The project lists elevenlabs among its Built With tags. | 1 |
+</details>

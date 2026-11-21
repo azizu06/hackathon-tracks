@@ -1,30 +1,40 @@
 # SB Hacks XII 2026
 
-[Devpost gallery](https://sb-hacks-xii.devpost.com/project-gallery) · [Official prize rules](https://sb-hacks-xii.devpost.com/) · [Winners index](../README.md)
+**9 projects · 7 sponsors · 11 prize rows**
 
-9 projects and 11 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://sb-hacks-xii.devpost.com/project-gallery) · [Official prize rules](https://sb-hacks-xii.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** typescript (7), deepgram (6), python (5)
+- **Common project areas** Finance and commerce (1), Games and entertainment (1)
+- **Common demo formats** Web app or dashboard (4), Game (1), Mobile app (1)
+- **Projects with a listed demo video** 9 of 9
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Cartify](#project-cartify-10bjse) | [Deepgram](../by-sponsor/deepgram.md) | Deepgram API Challenge | — | The project lists deepgram among its Built With tags. | 1 |
-| [DispatchIQ](#project-dispatchiq-usn87o) | [Deepgram](../by-sponsor/deepgram.md) | Deepgram API Challenge | — | Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface. | 2 |
-| [Nomad](#project-nomad-ha90qx) | [Deepgram](../by-sponsor/deepgram.md) | Deepgram API Challenge | — | The project lists deepgram among its Built With tags. | 2 |
-| [flow.](#project-flow-8pgm1k) | [ElevenLabs](../by-sponsor/elevenlabs.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | elevenlabs : educational narration, voice q&amp;a responses, integrated real-time audio. | 2 |
-| [DispatchIQ](#project-dispatchiq-usn87o) | [Google](../by-sponsor/google.md) | &#91;MLH&#93; Best Use of Gemini API | — | Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface. | 2 |
-| [Thrift Tinder](#project-thrift-tinder) | [MongoDB](../by-sponsor/mongodb.md) | &#91;MLH&#93; Best Use of MongoDB Atlas | — | The project lists mongodb-atlas among its Built With tags. | 1 |
-| [Nomad](#project-nomad-ha90qx) | [Solana](../by-sponsor/solana.md) | &#91;MLH&#93; Best Use of Solana | — | Payments: Solana Web3.js integrates with Phantom wallet for devnet transactions. | 2 |
-| [Buildr](#project-ezpc) | [TwelveLabs](../by-sponsor/twelvelabs.md) | TwelveLabs API Challenge | — | PC Part data using data scraping (Firecrawl (PC Part Picker), TwelveLabs (YT)). | 1 |
-| [Owngoal](#project-owngoal) | [TwelveLabs](../by-sponsor/twelvelabs.md) | TwelveLabs API Challenge | — | The team learned how to make recommendation system that acts like a real-time director with the help of Foundation models. | 1 |
-| [Reel-To-Real](#project-reel-to-real) | [TwelveLabs](../by-sponsor/twelvelabs.md) | TwelveLabs API Challenge | — | The system concurrently scrapes live travel data, extracts venues using NLP, parses videos for location and attractions using TwelveLabs, and validates them for quality using Google Gemini. | 1 |
-| [GradeMeIn](#project-grademein) | [Vultr](../by-sponsor/vultr.md) | &#91;MLH&#93; Best Use of Vultr | — | The project lists vultr among its Built With tags. | 1 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Cartify](https://devpost.com/software/cartify-10bjse) · [demo](https://www.youtube.com/watch?v=VV_kdMY3P4A) | [Deepgram](../by-sponsor/deepgram.md) · Deepgram API Challenge · [details](#project-cartify-10bjse) | Cartify: Your AI voice assistant for personalized grocery lists and automated shopping. | deepgram, gemini, next.js |
+| [DispatchIQ](https://devpost.com/software/dispatchiq-usn87o) · [code](https://github.com/declanhogg100/dispatchiq) · [demo](https://www.youtube.com/watch?v=phR1pTLS3JY) | [Deepgram](../by-sponsor/deepgram.md) · Deepgram API Challenge · [details](#project-dispatchiq-usn87o) | An AI copilot for dispatchers that calmly guides them through urgent situations, reduces stress, and helps… | deepgram, gemini, next.js |
+| [Nomad](https://devpost.com/software/nomad-ha90qx) · [code](https://github.com/SanjayMarathe/nomad) · [demo](https://www.youtube.com/watch?v=JQJX066AJHk) | [Deepgram](../by-sponsor/deepgram.md) · Deepgram API Challenge · [details](#project-nomad-ha90qx) | Turn live conversations into a shared itinerary—maps, places, and bookings update as you talk. | deepgram, gemini, livekit |
+| [flow.](https://devpost.com/software/flow-8pgm1k) · [code](https://github.com/stephenhungg/flow) · [demo](https://www.youtube.com/watch?v=m0bSZZ2EIdg) | [ElevenLabs](../by-sponsor/elevenlabs.md) · Best Use of ElevenLabs · [details](#project-flow-8pgm1k) | speak a concept, step inside it in 3d. | elevenlabs, css, deepgram |
+| [DispatchIQ](https://devpost.com/software/dispatchiq-usn87o) · [code](https://github.com/declanhogg100/dispatchiq) · [demo](https://www.youtube.com/watch?v=phR1pTLS3JY) | [Google](../by-sponsor/google.md) · Best Use of Gemini API · [details](#project-dispatchiq-usn87o) | An AI copilot for dispatchers that calmly guides them through urgent situations, reduces stress, and helps… | gemini, deepgram, next.js |
+| [Thrift Tinder](https://devpost.com/software/thrift-tinder) · [code](https://github.com/trevordodge/sbhacks-project) · [demo](https://www.youtube.com/watch?v=_WCacm2iJ_s) | [MongoDB](../by-sponsor/mongodb.md) · Best Use of MongoDB Atlas · [details](#project-thrift-tinder) | Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfect recs in minutes—not hours. | mongodb-atlas, dart, flask |
+| [Nomad](https://devpost.com/software/nomad-ha90qx) · [code](https://github.com/SanjayMarathe/nomad) · [demo](https://www.youtube.com/watch?v=JQJX066AJHk) | [Solana](../by-sponsor/solana.md) · Best Use of Solana · [details](#project-nomad-ha90qx) | Turn live conversations into a shared itinerary—maps, places, and bookings update as you talk. | solana, deepgram, gemini |
+| [Buildr](https://devpost.com/software/ezpc) · [code](https://github.com/kevinwu098/buildr) · [demo](https://www.youtube.com/watch?v=lfB2SNkqhy4) | [TwelveLabs](../by-sponsor/twelvelabs.md) · TwelveLabs API Challenge · [details](#project-ezpc) | PC building made easy — ask questions, identify parts, and build confidently. | twelvelabs, chatgpt, deepgram |
+| [Owngoal](https://devpost.com/software/owngoal) · [demo](https://www.youtube.com/watch?v=pOvZoBC0Bf0) | [TwelveLabs](../by-sponsor/twelvelabs.md) · TwelveLabs API Challenge · [details](#project-owngoal) | Every fan watches the same basketball game, but for different moments. Some track tactics, others chase the… | javascript, node.js, python |
+| [Reel-To-Real](https://devpost.com/software/reel-to-real) · [code](https://github.com/pranavgowrish/reeltoreal) · [demo](https://www.youtube.com/watch?v=_LCzIzWPdRM) | [TwelveLabs](../by-sponsor/twelvelabs.md) · TwelveLabs API Challenge · [details](#project-reel-to-real) | Reel-To-Real is an end-to-end autonomous travel agent. | twelvelabs, beautiful-soup, ddgs |
+| [GradeMeIn](https://devpost.com/software/grademein) · [code](https://github.com/SBHacks-26/lms-sbhacks) · [demo](https://www.youtube.com/watch?v=dgrnQoidl2A) | [Vultr](../by-sponsor/vultr.md) · Best Use of Vultr · [details](#project-grademein) | GradeMeIn uses a new method to detect AI plagiarism, it works through intelligent prompt mutation and then… | vultr, cursor, deepgram |
 
 ## Project details
 
 <a name="project-ezpc"></a>
 
-### [Buildr](https://devpost.com/software/ezpc)
+<details>
+<summary>Buildr</summary>
 
 PC building made easy — ask questions, identify parts, and build confidently.
 
@@ -34,11 +44,14 @@ PC building made easy — ask questions, identify parts, and build confidently.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=lfB2SNkqhy4)
 - **All event prizes (1)** TwelveLabs API Challenge
 - **Devpost checked** 2026-11-21 UTC
-- **TwelveLabs** PC Part data using data scraping (Firecrawl (PC Part Picker), TwelveLabs (YT)).
+- **TwelveLabs · TwelveLabs API Challenge** PC Part data using data scraping (Firecrawl (PC Part Picker), TwelveLabs (YT)).
+
+</details>
 
 <a name="project-cartify-10bjse"></a>
 
-### [Cartify](https://devpost.com/software/cartify-10bjse)
+<details>
+<summary>Cartify</summary>
 
 Cartify: Your AI voice assistant for personalized grocery lists and automated shopping.
 
@@ -48,11 +61,14 @@ Cartify: Your AI voice assistant for personalized grocery lists and automated sh
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=VV_kdMY3P4A)
 - **All event prizes (1)** Deepgram API Challenge
 - **Devpost checked** 2026-11-21 UTC
-- **Deepgram** The project lists deepgram among its Built With tags.
+- **Deepgram · Deepgram API Challenge** The project lists deepgram among its Built With tags.
+
+</details>
 
 <a name="project-dispatchiq-usn87o"></a>
 
-### [DispatchIQ](https://devpost.com/software/dispatchiq-usn87o)
+<details>
+<summary>DispatchIQ</summary>
 
 An AI copilot for dispatchers that calmly guides them through urgent situations, reduces stress, and helps overwhelmed responders and dispatchers act faster.
 
@@ -62,12 +78,15 @@ An AI copilot for dispatchers that calmly guides them through urgent situations,
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=phR1pTLS3JY)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Gemini API · Deepgram API Challenge
 - **Devpost checked** 2026-11-21 UTC
-- **Deepgram** Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface.
-- **Google** Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface.
+- **Deepgram · Deepgram API Challenge** Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface.
+- **Google · &#91;MLH&#93; Best Use of Gemini API** Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface.
+
+</details>
 
 <a name="project-flow-8pgm1k"></a>
 
-### [flow.](https://devpost.com/software/flow-8pgm1k)
+<details>
+<summary>flow.</summary>
 
 speak a concept, step inside it in 3d.
 
@@ -77,11 +96,14 @@ speak a concept, step inside it in 3d.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=m0bSZZ2EIdg)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of ElevenLabs · President's Pick
 - **Devpost checked** 2026-11-21 UTC
-- **ElevenLabs** elevenlabs : educational narration, voice q&amp;a responses, integrated real-time audio.
+- **ElevenLabs · &#91;MLH&#93; Best Use of ElevenLabs** elevenlabs : educational narration, voice q&amp;a responses, integrated real-time audio.
+
+</details>
 
 <a name="project-grademein"></a>
 
-### [GradeMeIn](https://devpost.com/software/grademein)
+<details>
+<summary>GradeMeIn</summary>
 
 GradeMeIn uses a new method to detect AI plagiarism, it works through intelligent prompt mutation and then verification.
 
@@ -91,11 +113,14 @@ GradeMeIn uses a new method to detect AI plagiarism, it works through intelligen
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=dgrnQoidl2A)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
-- **Vultr** The project lists vultr among its Built With tags.
+- **Vultr · &#91;MLH&#93; Best Use of Vultr** The project lists vultr among its Built With tags.
+
+</details>
 
 <a name="project-nomad-ha90qx"></a>
 
-### [Nomad](https://devpost.com/software/nomad-ha90qx)
+<details>
+<summary>Nomad</summary>
 
 Turn live conversations into a shared itinerary—maps, places, and bookings update as you talk.
 
@@ -105,12 +130,15 @@ Turn live conversations into a shared itinerary—maps, places, and bookings upd
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=JQJX066AJHk)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Solana · Deepgram API Challenge
 - **Devpost checked** 2026-11-21 UTC
-- **Deepgram** The project lists deepgram among its Built With tags.
-- **Solana** Payments: Solana Web3.js integrates with Phantom wallet for devnet transactions.
+- **Deepgram · Deepgram API Challenge** The project lists deepgram among its Built With tags.
+- **Solana · &#91;MLH&#93; Best Use of Solana** Payments: Solana Web3.js integrates with Phantom wallet for devnet transactions.
+
+</details>
 
 <a name="project-owngoal"></a>
 
-### [Owngoal](https://devpost.com/software/owngoal)
+<details>
+<summary>Owngoal</summary>
 
 Every fan watches the same basketball game, but for different moments. Some track tactics, others chase the star’s reaction after a dunk.
 
@@ -120,11 +148,14 @@ Every fan watches the same basketball game, but for different moments. Some trac
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=pOvZoBC0Bf0)
 - **All event prizes (1)** TwelveLabs API Challenge
 - **Devpost checked** 2026-11-21 UTC
-- **TwelveLabs** The team learned how to make recommendation system that acts like a real-time director with the help of Foundation models. Devpost gives no specific sponsor integration detail.
+- **TwelveLabs · TwelveLabs API Challenge** The team learned how to make recommendation system that acts like a real-time director with the help of Foundation models.
+
+</details>
 
 <a name="project-reel-to-real"></a>
 
-### [Reel-To-Real](https://devpost.com/software/reel-to-real)
+<details>
+<summary>Reel-To-Real</summary>
 
 Reel-To-Real is an end-to-end autonomous travel agent.
 
@@ -134,11 +165,14 @@ Reel-To-Real is an end-to-end autonomous travel agent.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=_LCzIzWPdRM)
 - **All event prizes (1)** TwelveLabs API Challenge
 - **Devpost checked** 2026-11-21 UTC
-- **TwelveLabs** The system concurrently scrapes live travel data, extracts venues using NLP, parses videos for location and attractions using TwelveLabs, and validates them for quality using Google Gemini.
+- **TwelveLabs · TwelveLabs API Challenge** The system concurrently scrapes live travel data, extracts venues using NLP, parses videos for location and attractions using TwelveLabs, and validates them for quality using Google Gemini.
+
+</details>
 
 <a name="project-thrift-tinder"></a>
 
-### [Thrift Tinder](https://devpost.com/software/thrift-tinder)
+<details>
+<summary>Thrift Tinder</summary>
 
 Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfect recs in minutes—not hours.
 
@@ -148,4 +182,6 @@ Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfe
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=_WCacm2iJ_s)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
-- **MongoDB** The project lists mongodb-atlas among its Built With tags.
+- **MongoDB · &#91;MLH&#93; Best Use of MongoDB Atlas** The project lists mongodb-atlas among its Built With tags.
+
+</details>

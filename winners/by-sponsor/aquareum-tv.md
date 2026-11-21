@@ -1,37 +1,34 @@
 # Aquareum.tv
 
+**6 projects · 1 editions · 6 prize rows**
+
 [Winners index](../README.md)
 
-6 projects across 1 editions, with 6 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** react (5), livepeer (4), javascript (3)
+- **Common project areas** None listed
+- **Common demo formats** None listed
+- **Projects with a listed demo video** 0 of 6
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [CrisisLens](https://devpost.com/software/crisislens) · [code](https://github.com/bpbrianpark/CrisisLens) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) · Aquareum.tv Sponsor Prize · [details](../by-hackathon/nwhacks-2025.md#project-crisislens) | A dynamic platform for mapping real-time crisis events through peer-shared videos, empowering communities to… | algorithms, css, firebase |
+| [Eventis](https://devpost.com/software/converge-u31fqw) · [code](https://github.com/Axzyl/nwhacks-official) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) · Aquareum.tv Sponsor Prize · [details](../by-hackathon/nwhacks-2025.md#project-converge-u31fqw) | VR Conferences, Concerts, &amp; Events powered by Streamspace. | faiss, llama, oculus |
+| [LifeBeacon](https://devpost.com/software/lifebeacon) · [code](https://github.com/eshuaiii/nwhacks-2025) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) · Aquareum.tv Sponsor Prize · [details](../by-hackathon/nwhacks-2025.md#project-lifebeacon) | The Story To build a community, you must first protect it. | flask, livepeer, postgresql |
+| [Meet.Point](https://devpost.com/software/meet-point) · [code](https://github.com/gracetownland/NwHacks2025) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) · Aquareum.tv Sponsor Prize · [details](../by-hackathon/nwhacks-2025.md#project-meet-point) | Meet in person, point in virtual. | geojson, react, turf.js |
+| [Spotlight](https://devpost.com/software/spotlight-fx9bgu) · [code](https://github.com/romansinkus/spotlight) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) · Aquareum.tv Sponsor Prize · [details](../by-hackathon/nwhacks-2025.md#project-spotlight-fx9bgu) | Helping you find the perfect study spot or gym time on campus. | figma, flask, javascript |
+| [Sum-up Sundae](https://devpost.com/software/sum-up-sundae) · [code](https://github.com/tyin76/sum-up-sundae) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) · Aquareum.tv Sponsor Prize · [details](../by-hackathon/nwhacks-2025.md#project-sum-up-sundae) | "Stay connected with Sum-Up Sundae! Share quick weekly video updates with your group and catch everyone’s… | bahnmi, bigwayhotpot, express.js |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Aquareum.tv Sponsor Prize | No specific requirement captured | [Event prize rules](https://nwhacks-2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** react (5), livepeer (4), javascript (3), figma (2), firebase (2), flask (2)
-- **Problem areas** None listed
-- **Demo types** None listed
-- **Projects with a listed demo video** 0 of 6
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [CrisisLens](../by-hackathon/nwhacks-2025.md#project-crisislens) | nwHacks 2025 | 2 | 2 | Aquareum.tv, TELUS |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [CrisisLens](../by-hackathon/nwhacks-2025.md#project-crisislens) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Aquareum.tv Sponsor Prize | — | Creating CrisisLens offered the team incredible insights across technology, design, and human-centered problem-solving:. | 2 |
-| [Eventis](../by-hackathon/nwhacks-2025.md#project-converge-u31fqw) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Aquareum.tv Sponsor Prize | — | Eventis is a decentralized platform that creates immersive and interactive 3D environments for virtual conferences, events, and concerts. | 1 |
-| [LifeBeacon](../by-hackathon/nwhacks-2025.md#project-lifebeacon) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Aquareum.tv Sponsor Prize | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Meet.Point](../by-hackathon/nwhacks-2025.md#project-meet-point) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Aquareum.tv Sponsor Prize | — | The app provides users with gamified reward based incentives which motivates users to attend more events. | 1 |
-| [Spotlight](../by-hackathon/nwhacks-2025.md#project-spotlight-fx9bgu) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Aquareum.tv Sponsor Prize | — | Spotlight is a real-time campus assistant designed to help students find study spots and check gym availability with ease. | 1 |
-| [Sum-up Sundae](../by-hackathon/nwhacks-2025.md#project-sum-up-sundae) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Aquareum.tv Sponsor Prize | — | Sum-Up Sundae lets users upload a short video to their group once a week, every Sunday. | 1 |
+</details>

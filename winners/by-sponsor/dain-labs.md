@@ -1,39 +1,35 @@
 # DAIN Labs
 
+**6 projects · 2 editions · 6 prize rows**
+
 [Winners index](../README.md)
 
-6 projects across 2 editions, with 6 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** dain (6), typescript (4), python (3)
+- **Common project areas** Health and care (2), Safety and emergency response (1)
+- **Common demo formats** None listed
+- **Projects with a listed demo video** 5 of 6
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Devin &amp; Kevin](https://devpost.com/software/kevin-4m6rbf) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · DAIN Challenge: AI Agent Excellence &amp; Innovation Awards · [details](../by-hackathon/la-hacks-2025.md#project-kevin-4m6rbf) | Devin, AI Software Engineer &amp; Kevin, AI Product Manager. | dain, typescript |
+| [project dave](https://devpost.com/software/test-n23quv) · [code](https://github.com/KARTIK-PANDEY-KP/Project-Dave) · [demo](https://www.youtube.com/watch?v=aS2-N1W5mjk) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · DAIN Challenge: AI Agent Excellence &amp; Innovation Awards · [details](../by-hackathon/la-hacks-2025.md#project-test-n23quv) | Cut the crap. Focus on real human interactions. | apollo.io, browserbase, container |
+| [Solar Flair ☀️](https://devpost.com/software/solar-flair-rkxz0f) · [code](https://github.com/ymorsi7/solar-flair) · [demo](https://www.youtube.com/watch?v=rRz-idbllX8) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · DAIN Challenge: AI Agent Excellence &amp; Innovation Awards · [details](../by-hackathon/la-hacks-2025.md#project-solar-flair-rkxz0f) | Determining both how much the environment can be impacted, and how money can be saved by installing solar… | apis, css, dain |
+| [Agent Ricky](https://devpost.com/software/jarvis-mhfy78) · [code](https://github.com/nipunbatra8/healthbot) · [demo](https://www.youtube.com/watch?v=H3TpX43lDUs) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash… · [details](../by-hackathon/treehacks-2025.md#project-jarvis-mhfy78) | Monitoring the Health and Safety of First Responders and Military Personnel. | brev.dev, dain, python |
+| [FlowPilot: Your Agentic Co-Pilot](https://devpost.com/software/flowpilot-zoom-agent-that-automates-your-workflows) · [code](https://github.com/CarterCote/flow-pilot) · [demo](https://www.youtube.com/watch?v=d9pkeKJIGRg) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash… · [details](../by-hackathon/treehacks-2025.md#project-flowpilot-zoom-agent-that-automates-your-workflows) | FlowPilot listens, understands, and executes, transforming Zoom meetings into Slide decks and Notion… | dain, docker, express.js |
+| [TheraMind](https://devpost.com/software/theramind) · [code](https://github.com/cherylwu834/treehacks25) · [demo](https://www.youtube.com/watch?v=q_3Y3kjbpZ0) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash… · [details](../by-hackathon/treehacks-2025.md#project-theramind) | Less paperwork, more patient care: the AI therapist's assistant. | dain, python, scrapybara |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | DAIN Challenge: AI Agent Excellence &amp; Innovation Awards | Use the DAIN platform and Butterfly client app to rapidly develop and deploy AI agent services for consumers or businesses. | [Devpost prize description](https://la-hacks-2025.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** dain (6), typescript (4), python (3), docker (2), gemini (2), apis (1)
-- **Problem areas** Health and care (2), Safety and emergency response (1)
-- **Demo types** None listed
-- **Projects with a listed demo video** 5 of 6
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [FlowPilot: Your Agentic Co-Pilot](../by-hackathon/treehacks-2025.md#project-flowpilot-zoom-agent-that-automates-your-workflows) | TreeHacks 2025 | 3 | 3 | DAIN Labs, Perplexity, Zoom |
-| [Devin &amp; Kevin](../by-hackathon/la-hacks-2025.md#project-kevin-4m6rbf) | LA Hacks 2025 | 1 | 2 | DAIN Labs |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Devin &amp; Kevin](../by-hackathon/la-hacks-2025.md#project-kevin-4m6rbf) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | DAIN Challenge: AI Agent Excellence &amp; Innovation Awards | — | Devin &amp; Kevin provides many functions that augment the role of the product manager:. | 2 |
-| [project dave](../by-hackathon/la-hacks-2025.md#project-test-n23quv) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | DAIN Challenge: AI Agent Excellence &amp; Innovation Awards | — | Project Dave helps you find , organize , and deepen your professional and personal relationships — across LinkedIn, Twitter (X), Email, and DMs on any platform. | 1 |
-| [Solar Flair ☀️](../by-hackathon/la-hacks-2025.md#project-solar-flair-rkxz0f) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | DAIN Challenge: AI Agent Excellence &amp; Innovation Awards | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Agent Ricky](../by-hackathon/treehacks-2025.md#project-jarvis-mhfy78) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation) | $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation | It is essentially another member of the team. | 1 |
-| [FlowPilot: Your Agentic Co-Pilot](../by-hackathon/treehacks-2025.md#project-flowpilot-zoom-agent-that-automates-your-workflows) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation) | $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation | FlowPilot transforms Zoom meetings into an autonomous productivity engine. | 3 |
-| [TheraMind](../by-hackathon/treehacks-2025.md#project-theramind) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation) | $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation | These agents can optimize decision-making and provide real-time insights, improving both productivity and well-being. | 1 |
+</details>

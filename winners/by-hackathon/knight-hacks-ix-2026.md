@@ -1,53 +1,63 @@
 # Knight Hacks IX 2026
 
-[Devpost gallery](https://knight-hacks-ix.devpost.com/project-gallery) · [Official prize rules](https://knight-hacks-ix.devpost.com/) · [Winners index](../README.md)
+**25 projects · 19 sponsors · 34 prize rows**
 
-25 projects and 34 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://knight-hacks-ix.devpost.com/project-gallery) · [Official prize rules](https://knight-hacks-ix.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** python (19), react (10), javascript (9)
+- **Common project areas** Accessibility and assistive tools (5), Climate and environment (1), Developer tools (1)
+- **Common demo formats** Hardware or robotics (9), Mobile app (6), Web app or dashboard (6)
+- **Projects with a listed demo video** 24 of 25
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Fobo](#project-fobo-fear-of-burning-out) | [Adobe](../by-sponsor/adobe.md) | Adobe: Prettiest Hack | — | It shows when you're full, not just when you're free, and helps you decide what to do about it. | 2 |
-| [PeaHeads](#project-peaheads) | [Adobe](../by-sponsor/adobe.md) | Adobe: Prettiest Hack | — | Up to four players join a match and get split evenly into Bloom (yellow) and Blight (purple). | 2 |
-| [Plu's Sanctuary](#project-plu-s-sanctuary) | [Adobe](../by-sponsor/adobe.md) | Adobe: Prettiest Hack | — | Plu's Sanctuary is a digital, point-and-click storybook that follows a little plush plant creature named Plu as it navigates through a corrupted forest. | 1 |
-| [fpga_LangModel](#project-fpga_langmodel) | [AMD](../by-sponsor/amd.md) | AMD: Best Use of AMD Technologies | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [GEarth](#project-diarockets) | [AMD](../by-sponsor/amd.md) | AMD: Best Use of AMD Technologies | — | Python workers run Qwen models across an AMD GPU and two NVIDIA systems to supply agent decisions to the shared simulation. | 3 |
-| [Swarm](#project-swarm-oqg6l4) | [AMD](../by-sponsor/amd.md) | AMD: Best Use of AMD Technologies | — | A counter-drone defense trainer where the enemy swarm taught itself to attack, trained on an AMD Radeon GPU. | 1 |
-| [GEarth](#project-diarockets) | [BNY](../by-sponsor/bny.md) | BNY: Financial Services Challenge | — | The project page provides no specific sponsor integration detail in the indexed fields. | 3 |
-| [Sophro Shoppers](#project-shopping-cart-yvkgd2) | [BNY](../by-sponsor/bny.md) | BNY: Financial Services Challenge | — | Sophro Shoppers allows shoppers to get a more in-depth analysis of the items in their cart, while keeping track of needs catered to them. | 1 |
-| [Bin-It](#project-bin-it-yg2xb7) | [Databricks](../by-sponsor/databricks.md) | Databricks: Best Use of Databricks | — | Databricks processes locations, bin inventory and 311 complaints to estimate where trash accumulates and rank potential sites. | 2 |
-| [Paralassist](#project-paralassist) | [Databricks](../by-sponsor/databricks.md) | Databricks: Best Use of Databricks | — | Paralassist uses an electroencephalogram (EEG) with a visual stimulus to convert a user's brain signals into messages. | 1 |
-| [SteadyForum: A Form-Correcting, Gym Journey, Social Media](#project-steadyflow-a-form-correction-gym-journey-social-media) | [Databricks](../by-sponsor/databricks.md) | Databricks: Best Use of Databricks | — | The project lists databricks among its Built With tags. | 1 |
-| [Incantation](#project-incantation) | [ElevenLabs](../by-sponsor/elevenlabs.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | Incantation uses the built in Roblox Studio’s microphone to take in audio, which is then sent to Elevenlabs API for speech to text translation via a local HTTP connection. | 1 |
-| [Doorway](#project-doorway-0eysjv) | [Encompass](../by-sponsor/encompass.md) | Encompass: Data Capturing Hardware | — | Doorway is built in Unity 6 with C# , using AR Foundation and ARCore on Android. | 1 |
-| [Dronautics](#project-dronautics) | [Encompass](../by-sponsor/encompass.md) | Encompass: Data Capturing Hardware | — | The project lists arduino, esp-now, esp32, u-blox among its Built With tags. | 1 |
-| [Farsight](#project-farsight-t4qyli) | [Encompass](../by-sponsor/encompass.md) | Encompass: Data Capturing Hardware | — | A LiDAR-equipped phone on the rover records aligned camera frames, depth and pose for the reconstruction and encounter records. | 4 |
-| [Fobo](#project-fobo-fear-of-burning-out) | [Figma](../by-sponsor/figma.md) | Figma: Best Design | — | It shows when you're full, not just when you're free, and helps you decide what to do about it. | 2 |
-| [Farsight](#project-farsight-t4qyli) | [Full Sail](../by-sponsor/full-sail.md) | Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge | — | The simulation-track demo combines route scoring, person detection and a WebXR walkthrough. | 4 |
-| [SpotAtWork](#project-spot-mission-control) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | &#91;MLH&#93; Best Domain Name from GoDaddy Registry | — | spotat.work helps operators monitor inspections, investigate findings, and track performance over time. | 1 |
-| [Nod &amp; Read](#project-nod-read) | [Google](../by-sponsor/google.md) | &#91;MLH&#93; Best Use of Gemini API | — | The project lists google-gemini among its Built With tags. | 1 |
-| [Farsight](#project-farsight-t4qyli) | [Hugging Face](../by-sponsor/hugging-face.md) | Hugging Face: Best Use of Open Source AI | — | Hugging Face model artifacts power the on-device voice and vision assistant, which can draft notes from field observations. | 4 |
-| [Here](#project-here-vqlrhg) | [Hugging Face](../by-sponsor/hugging-face.md) | Hugging Face: Best Use of Open Source AI | — | The project lists huggingface among its Built With tags. | 1 |
-| [Permanence](#project-permanence) | [Hugging Face](../by-sponsor/hugging-face.md) | Hugging Face: Best Use of Open Source AI | — | The project lists qwen-3d among its Built With tags. | 3 |
-| [GEarth](#project-diarockets) | [Neon](../by-sponsor/neon.md) | Neon: Best Use of Neon | — | Neon PostgreSQL stores checkpoints and event history so viewers can revisit recorded worlds. | 3 |
-| [Spotlight](#project-spotlight-d5tr9l) | [NextEra Energy](../by-sponsor/nextera-energy.md) | NextEra Energy: SPOT Management Dashboard | — | Spotlight is an intelligent monitoring and visualization platform that transforms Boston Dynamics Spot's inspection data into meaningful, actionable insights. | 1 |
-| [Farsight](#project-farsight-t4qyli) | [NVIDIA](../by-sponsor/nvidia.md) | NVIDIA: Best Use of Jetson Nano | — | An NVIDIA Jetson runs TensorRT inference, the camera stream and the navigation and motor interfaces on the rover. | 4 |
-| [Fireline](#project-fireline-764nir) | [NVIDIA](../by-sponsor/nvidia.md) | NVIDIA: Best Use of Jetson Nano | — | Smoke detection on the device: Pyronear's open YOLO smoke model runs on the Jetson's GPU. | 2 |
-| [Permanence](#project-permanence) | [NVIDIA](../by-sponsor/nvidia.md) | NVIDIA: Best Use of Jetson Nano | — | Everything runs on an NVIDIA Jetson Orin Nano (8 GB) . | 3 |
-| [Bin-It](#project-bin-it-yg2xb7) | [OneEthos](../by-sponsor/oneethos.md) | OneEthos: Innovation for Good | — | Citizens can take pictures of overflowing trash that they want to be cleaned up in the app and make a report. | 2 |
-| [Fireline](#project-fireline-764nir) | [OneEthos](../by-sponsor/oneethos.md) | OneEthos: Innovation for Good | — | Fireline is a flock of tree-mounted camera units and a live console for the crew that manages them. | 2 |
-| [Jolteon](#project-jolteon) | [OneEthos](../by-sponsor/oneethos.md) | OneEthos: Innovation for Good | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [CrowdClear](#project-crowdclear) | [Presage](../by-sponsor/presage.md) | &#91;MLH&#93; Best Use of Presage | — | CrowdClear is an evacuation training game that runs in a laptop browser or in VR through WebXR . | 1 |
-| [solGPU](#project-solgpu) | [Solana](../by-sponsor/solana.md) | &#91;MLH&#93; Best Use of Solana | — | The project lists solana among its Built With tags. | 1 |
-| [Hakit](#project-hakit-1qejr3) | [Tiger Data](../by-sponsor/tiger-data.md) | &#91;MLH&#93; Best Use of Tiger Data | — | Sign up with your GitHub account, and invite everyone the same way. | 1 |
-| [Spotlight](#project-spotlight-fxqamj) | [Vultr](../by-sponsor/vultr.md) | &#91;MLH&#93; Best Use of Vultr | — | The project lists vultr among its Built With tags. | 1 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Fobo](https://devpost.com/software/fobo-fear-of-burning-out) · [demo](https://www.youtube.com/watch?v=RWAbxd6hSjE) | [Adobe](../by-sponsor/adobe.md) · Prettiest Hack · [details](#project-fobo-fear-of-burning-out) | A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking. | expo.io, gemini, neon |
+| [PeaHeads](https://devpost.com/software/peaheads) · [code](https://github.com/Ilan101/peaheads) · [demo](https://www.youtube.com/watch?v=chAkjLDZ9Hk) | [Adobe](../by-sponsor/adobe.md) · Prettiest Hack · [details](#project-peaheads) | PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is the controller: you dodge… | c#, netcode, python |
+| [Plu's Sanctuary](https://devpost.com/software/plu-s-sanctuary) · [code](https://github.com/NiDesai08/Plu-s-Sanctuary) · [demo](https://vimeo.com/1234804142) | [Adobe](../by-sponsor/adobe.md) · Prettiest Hack · [details](#project-plu-s-sanctuary) | An interactive, hand-illustrated, digital storybook featuring point-and-click progression and branching… | css, html, ibispaintx |
+| [fpga&#95;LangModel](https://devpost.com/software/fpga_langmodel) · [code](https://github.com/techcolly/fpga_LM) | [AMD](../by-sponsor/amd.md) · Best Use of AMD Technologies · [details](#project-fpga_langmodel) | A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-100T. | claude, fpga, python |
+| [GEarth](https://devpost.com/software/diarockets) · [code](https://github.com/liangricky7/GEarth) · [demo](https://www.youtube.com/watch?v=7h_nXEkdgIM) | [AMD](../by-sponsor/amd.md) · Best Use of AMD Technologies · [details](#project-diarockets) | GEarth simulates how citizens, institutions, and governments interact across a fictional world that viewers… | c#, c++, distributed-computation |
+| [Swarm](https://devpost.com/software/swarm-oqg6l4) · [code](https://github.com/ian-kr/Swarm) · [demo](https://vimeo.com/1234778075) | [AMD](../by-sponsor/amd.md) · Best Use of AMD Technologies · [details](#project-swarm-oqg6l4) | Cheap attack drones are now one of the biggest threats to bases and infrastructure. Operators practice… | amd, css3, html5 |
+| [GEarth](https://devpost.com/software/diarockets) · [code](https://github.com/liangricky7/GEarth) · [demo](https://www.youtube.com/watch?v=7h_nXEkdgIM) | [BNY](../by-sponsor/bny.md) · Financial Services Challenge · [details](#project-diarockets) | GEarth is a generated and simulated Earth where AI agents represent countries, institutions, and citizens,… | c#, c++, distributed-computation |
+| [Sophro Shoppers](https://devpost.com/software/shopping-cart-yvkgd2) · [code](https://github.com/Dove0Day/knighthacks2026) · [demo](https://www.youtube.com/watch?v=WCmblC_Qs0o) | [BNY](../by-sponsor/bny.md) · Financial Services Challenge · [details](#project-shopping-cart-yvkgd2) | Make shopping easier through the art of accessibility. | css, cv, easyocr |
+| [Bin-It](https://devpost.com/software/bin-it-yg2xb7) · [demo](https://www.youtube.com/watch?v=zmApNlPyh9I) | [Databricks](../by-sponsor/databricks.md) · Best Use of Databricks · [details](#project-bin-it-yg2xb7) | Bin-It lets residents report overflowing bins from a phone while a dashboard helps city staff compare… | databricks, clip, docker |
+| [Paralassist](https://devpost.com/software/paralassist) · [code](https://github.com/shashankshaga/Paralassist) · [demo](https://www.youtube.com/watch?v=hmhprJgUFRA) | [Databricks](../by-sponsor/databricks.md) · Best Use of Databricks · [details](#project-paralassist) | An accessibility prototype uses EEG readings from a visual interface to let people with paralysis select… | css, html, javascript |
+| [SteadyForum: A Form-Correcting, Gym Journey, Social Media](https://devpost.com/software/steadyflow-a-form-correction-gym-journey-social-media) · [code](https://github.com/Del0m/KnightHacks2026) · [demo](https://www.youtube.com/watch?v=PPEBBCLeCrA) | [Databricks](../by-sponsor/databricks.md) · Best Use of Databricks · [details](#project-steadyflow-a-form-correction-gym-journey-social-media) | A gym app uses phone-based exercise feedback to help people learn proper form. | databricks, chatgpt, cv |
+| [Incantation](https://devpost.com/software/incantation) · [code](https://github.com/blazin-blaze/kh9-rblx-project) · [demo](https://www.youtube.com/watch?v=4Qf5VMHLx8U) | [ElevenLabs](../by-sponsor/elevenlabs.md) · Best Use of ElevenLabs · [details](#project-incantation) | Players speak spell ideas aloud and cast the generated spells against each other in a Roblox arena. | elevenlabs, gemini, lua |
+| [Doorway](https://devpost.com/software/doorway-0eysjv) · [demo](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) | [Encompass](../by-sponsor/encompass.md) · Data Capturing Hardware · [details](#project-doorway-0eysjv) | A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet… | ar-foundation, arcore, android |
+| [Dronautics](https://devpost.com/software/dronautics) · [code](https://github.com/FrLagoSoft/Dronautics) · [demo](https://www.youtube.com/watch?v=pPoEXRLnYJc) | [Encompass](../by-sponsor/encompass.md) · Data Capturing Hardware · [details](#project-dronautics) | A drone control system combines local detection and GPS tracking using low-cost hardware. | arduino, esp-now, esp32 |
+| [Farsight](https://devpost.com/software/farsight-t4qyli) · [code](https://github.com/azizu06/farsight) · [demo](https://www.youtube.com/watch?v=AmrOGcTBTKU) | [Encompass](../by-sponsor/encompass.md) · Data Capturing Hardware · [details](#project-farsight-t4qyli) | Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored. | arduino, arkit, lidar |
+| [Fobo](https://devpost.com/software/fobo-fear-of-burning-out) · [demo](https://www.youtube.com/watch?v=RWAbxd6hSjE) | [Figma](../by-sponsor/figma.md) · Best Design · [details](#project-fobo-fear-of-burning-out) | A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking. | expo.io, gemini, neon |
+| [Farsight](https://devpost.com/software/farsight-t4qyli) · [code](https://github.com/azizu06/farsight) · [demo](https://www.youtube.com/watch?v=AmrOGcTBTKU) | [Full Sail](../by-sponsor/full-sail.md) · Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge · [details](#project-farsight-t4qyli) | Farsight presents a search-and-rescue drill through a headset, with a live driving view and a 3D replay of… | meta-quest, three.js, webxr |
+| [SpotAtWork](https://devpost.com/software/spot-mission-control) · [code](https://github.com/Monisha-Repos/spot-mission-dashboard) · [demo](https://www.youtube.com/watch?v=UN3DJZA4GO8) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) · Best Domain Name from GoDaddy Registry · [details](#project-spot-mission-control) | An operations dashboard summarizes the sensor data collected by a Spot robot on recent missions. | anthropic, caddy, claude |
+| [Nod &amp; Read](https://devpost.com/software/nod-read) · [code](https://github.com/PinedaMiguel/panel-reader) · [demo](https://www.youtube.com/watch?v=CLpOsb9VDGU) | [Google](../by-sponsor/google.md) · Best Use of Gemini API · [details](#project-nod-read) | An accessible comic reader plays panels aloud and lets readers advance them with facial input. | google-gemini, caddy, docker |
+| [Farsight](https://devpost.com/software/farsight-t4qyli) · [code](https://github.com/azizu06/farsight) · [demo](https://www.youtube.com/watch?v=AmrOGcTBTKU) | [Hugging Face](../by-sponsor/hugging-face.md) · Best Use of Open Source AI · [details](#project-farsight-t4qyli) | Farsight lets a rescuer drive a rover remotely, inspect its live camera, and revisit a scan of the room in VR. | hugging-face, qwen, arduino |
+| [Here](https://devpost.com/software/here-vqlrhg) · [code](https://github.com/Korirussell/Here) · [demo](https://www.youtube.com/watch?v=2gRH8oV8e80) | [Hugging Face](../by-sponsor/hugging-face.md) · Best Use of Open Source AI · [details](#project-here-vqlrhg) | A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from. | huggingface, arkit, jev |
+| [Permanence](https://devpost.com/software/permanence) · [code](https://github.com/billpquach/permanence) · [demo](https://www.youtube.com/watch?v=GexOIHp7s1w) | [Hugging Face](../by-sponsor/hugging-face.md) · Best Use of Open Source AI · [details](#project-permanence) | A spatial awareness tool tracks objects and remembers their locations when they move out of view. | qwen-3d, arduino, c++ |
+| [GEarth](https://devpost.com/software/diarockets) · [code](https://github.com/liangricky7/GEarth) · [demo](https://www.youtube.com/watch?v=7h_nXEkdgIM) | [Neon](../by-sponsor/neon.md) · Best Use of Neon · [details](#project-diarockets) | GEarth simulates how citizens, institutions, and governments interact across a fictional world that viewers… | c#, c++, distributed-computation |
+| [Spotlight](https://devpost.com/software/spotlight-d5tr9l) · [code](https://github.com/doberto6/SpotLight) · [demo](https://www.youtube.com/watch?v=76OSgHFP13s) | [NextEra Energy](../by-sponsor/nextera-energy.md) · SPOT Management Dashboard · [details](#project-spotlight-d5tr9l) | Spotlight transforms Boston Dynamics Spot data into actionable insights using AI, real-time monitoring,… | blender, css3, databricks |
+| [Farsight](https://devpost.com/software/farsight-t4qyli) · [code](https://github.com/azizu06/farsight) · [demo](https://www.youtube.com/watch?v=AmrOGcTBTKU) | [NVIDIA](../by-sponsor/nvidia.md) · Best Use of Jetson Nano · [details](#project-farsight-t4qyli) | Farsight is a rescue rover that streams its surroundings to an operator and turns measured room captures into… | nvidia-jetson, tensorrt, arduino |
+| [Fireline](https://devpost.com/software/fireline-764nir) · [code](https://github.com/kateye31/fireline) · [demo](https://www.youtube.com/watch?v=vhKG4MiWa9A) | [NVIDIA](../by-sponsor/nvidia.md) · Best Use of Jetson Nano · [details](#project-fireline-764nir) | An edge device identifies early signs of wildfire smoke and reports them to a dashboard. | jetson-nano, tensorrt, arduino |
+| [Permanence](https://devpost.com/software/permanence) · [code](https://github.com/billpquach/permanence) · [demo](https://www.youtube.com/watch?v=GexOIHp7s1w) | [NVIDIA](../by-sponsor/nvidia.md) · Best Use of Jetson Nano · [details](#project-permanence) | A spatial awareness tool tracks objects and remembers their locations when they move out of view. | cuda, jetson-nano, arduino |
+| [Bin-It](https://devpost.com/software/bin-it-yg2xb7) · [demo](https://www.youtube.com/watch?v=zmApNlPyh9I) | [OneEthos](../by-sponsor/oneethos.md) · Innovation for Good · [details](#project-bin-it-yg2xb7) | A city dashboard adjusts for biases in residents' reports of overflowing bins and ranks where to add bins. | clip, databricks, docker |
+| [Fireline](https://devpost.com/software/fireline-764nir) · [code](https://github.com/kateye31/fireline) · [demo](https://www.youtube.com/watch?v=vhKG4MiWa9A) | [OneEthos](../by-sponsor/oneethos.md) · Innovation for Good · [details](#project-fireline-764nir) | An edge device identifies early signs of wildfire smoke and reports them to a dashboard. | arduino, azure, dht11 |
+| [Jolteon](https://devpost.com/software/jolteon) · [code](https://github.com/TomasTorrado/Jolteon) · [demo](https://www.youtube.com/watch?v=8vnv30qKB9w) | [OneEthos](../by-sponsor/oneethos.md) · Innovation for Good · [details](#project-jolteon) | Jolteon captures waste heat, turns it into stored electricity, and shows you exactly how much it has… | c++, esp32, fastapi |
+| [CrowdClear](https://devpost.com/software/crowdclear) · [code](https://github.com/lyanisbarreto-mercado/crowdclear) · [demo](https://www.youtube.com/watch?v=pNp_bZqdGGw) | [Presage](../by-sponsor/presage.md) · Best Use of Presage · [details](#project-crowdclear) | An interactive evacuation simulator lets trainees clear exits and redirect crowds in a building. | a-frame, css3, elevenlabs |
+| [solGPU](https://devpost.com/software/solgpu) · [code](https://github.com/OzBoz-Dev/knighthacks-2026) · [demo](https://www.youtube.com/watch?v=EDPen_Iu5QY) | [Solana](../by-sponsor/solana.md) · Best Use of Solana · [details](#project-solgpu) | A marketplace lets developers browse GPU capacity and reserve it through a blockchain transaction. | solana, databricks, devin |
+| [Hakit](https://devpost.com/software/hakit-1qejr3) · [code](https://github.com/maxjb-xyz/hakit) · [demo](https://www.youtube.com/watch?v=X3Ex2pmvqaU) | [Tiger Data](../by-sponsor/tiger-data.md) · Best Use of Tiger Data · [details](#project-hakit-1qejr3) | A workspace matches hackathon tasks to teammates and tracks progress through GitHub. | cloudflare, gemini, github |
+| [Spotlight](https://devpost.com/software/spotlight-fxqamj) · [code](https://github.com/teafany/spotlight) · [demo](https://www.youtube.com/watch?v=WguR9jFeBeo) | [Vultr](../by-sponsor/vultr.md) · Best Use of Vultr · [details](#project-spotlight-fxqamj) | A dashboard turns telemetry from robots into reports operators can use. | vultr, django, postgresql |
 
 ## Project details
 
 <a name="project-bin-it-yg2xb7"></a>
 
-### [Bin-It](https://devpost.com/software/bin-it-yg2xb7)
+<details>
+<summary>Bin-It</summary>
 
 Bin-It lets residents report overflowing bins from a phone while a dashboard helps city staff compare candidate locations for new bins.
 
@@ -57,12 +67,15 @@ Bin-It lets residents report overflowing bins from a phone while a dashboard hel
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=zmApNlPyh9I)
 - **All event prizes (2)** Databricks: Best Use of Databricks · OneEthos: Innovation for Good
 - **Devpost checked** 2026-11-21 UTC
-- **Databricks** Databricks processes locations, bin inventory and 311 complaints to estimate where trash accumulates and rank potential sites.
-- **OneEthos** Citizens can take pictures of overflowing trash that they want to be cleaned up in the app and make a report. Devpost gives no specific sponsor integration detail.
+- **Databricks · Databricks: Best Use of Databricks** Databricks processes locations, bin inventory and 311 complaints to estimate where trash accumulates and rank potential sites.
+- **OneEthos · OneEthos: Innovation for Good** Citizens can take pictures of overflowing trash that they want to be cleaned up in the app and make a report.
+
+</details>
 
 <a name="project-crowdclear"></a>
 
-### [CrowdClear](https://devpost.com/software/crowdclear)
+<details>
+<summary>CrowdClear</summary>
 
 An interactive evacuation simulator lets trainees clear exits and redirect crowds in a building.
 
@@ -72,11 +85,14 @@ An interactive evacuation simulator lets trainees clear exits and redirect crowd
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=pNp_bZqdGGw)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Presage
 - **Devpost checked** 2026-11-21 UTC
-- **Presage** CrowdClear is an evacuation training game that runs in a laptop browser or in VR through WebXR . Devpost gives no specific sponsor integration detail.
+- **Presage · &#91;MLH&#93; Best Use of Presage** CrowdClear is an evacuation training game that runs in a laptop browser or in VR through WebXR .
+
+</details>
 
 <a name="project-doorway-0eysjv"></a>
 
-### [Doorway](https://devpost.com/software/doorway-0eysjv)
+<details>
+<summary>Doorway</summary>
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
@@ -86,11 +102,14 @@ A mobile accessibility tool uses walls and room signs to place an indoor AR rout
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=zb3Xrg7Hfq4)
 - **All event prizes (1)** Encompass: Data Capturing Hardware
 - **Devpost checked** 2026-11-21 UTC
-- **Encompass** Doorway is built in Unity 6 with C# , using AR Foundation and ARCore on Android.
+- **Encompass · Encompass: Data Capturing Hardware** Doorway is built in Unity 6 with C# , using AR Foundation and ARCore on Android.
+
+</details>
 
 <a name="project-dronautics"></a>
 
-### [Dronautics](https://devpost.com/software/dronautics)
+<details>
+<summary>Dronautics</summary>
 
 A drone control system combines local detection and GPS tracking using low-cost hardware.
 
@@ -100,11 +119,14 @@ A drone control system combines local detection and GPS tracking using low-cost 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=pPoEXRLnYJc)
 - **All event prizes (1)** Encompass: Data Capturing Hardware
 - **Devpost checked** 2026-11-21 UTC
-- **Encompass** The project lists arduino, esp-now, esp32, u-blox among its Built With tags.
+- **Encompass · Encompass: Data Capturing Hardware** The project lists arduino, esp-now, esp32, u-blox among its Built With tags.
+
+</details>
 
 <a name="project-farsight-t4qyli"></a>
 
-### [Farsight](https://devpost.com/software/farsight-t4qyli)
+<details>
+<summary>Farsight</summary>
 
 Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored.
 
@@ -114,14 +136,17 @@ Farsight combines a remotely operated rescue rover with a walkable reconstructio
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=AmrOGcTBTKU) · [Video 2](https://www.youtube.com/watch?v=Km9CGWip4h4)
 - **All event prizes (4)** Encompass: Data Capturing Hardware · Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
 - **Devpost checked** 2026-11-21 UTC
-- **Encompass** A LiDAR-equipped phone on the rover records aligned camera frames, depth and pose for the reconstruction and encounter records.
-- **Full Sail** The simulation-track demo combines route scoring, person detection and a WebXR walkthrough.
-- **Hugging Face** Hugging Face model artifacts power the on-device voice and vision assistant, which can draft notes from field observations.
-- **NVIDIA** An NVIDIA Jetson runs TensorRT inference, the camera stream and the navigation and motor interfaces on the rover.
+- **Encompass · Encompass: Data Capturing Hardware** A LiDAR-equipped phone on the rover records aligned camera frames, depth and pose for the reconstruction and encounter records.
+- **Full Sail · Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge** The simulation-track demo combines route scoring, person detection and a WebXR walkthrough.
+- **Hugging Face · Hugging Face: Best Use of Open Source AI** Hugging Face model artifacts power the on-device voice and vision assistant, which can draft notes from field observations.
+- **NVIDIA · NVIDIA: Best Use of Jetson Nano** An NVIDIA Jetson runs TensorRT inference, the camera stream and the navigation and motor interfaces on the rover.
+
+</details>
 
 <a name="project-fireline-764nir"></a>
 
-### [Fireline](https://devpost.com/software/fireline-764nir)
+<details>
+<summary>Fireline</summary>
 
 An edge device identifies early signs of wildfire smoke and reports them to a dashboard.
 
@@ -131,12 +156,15 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=vhKG4MiWa9A)
 - **All event prizes (2)** NVIDIA: Best Use of Jetson Nano · OneEthos: Innovation for Good
 - **Devpost checked** 2026-11-21 UTC
-- **NVIDIA** Smoke detection on the device: Pyronear's open YOLO smoke model runs on the Jetson's GPU.
-- **OneEthos** Fireline is a flock of tree-mounted camera units and a live console for the crew that manages them. Devpost gives no specific sponsor integration detail.
+- **NVIDIA · NVIDIA: Best Use of Jetson Nano** Smoke detection on the device: Pyronear's open YOLO smoke model runs on the Jetson's GPU.
+- **OneEthos · OneEthos: Innovation for Good** Fireline is a flock of tree-mounted camera units and a live console for the crew that manages them.
+
+</details>
 
 <a name="project-fobo-fear-of-burning-out"></a>
 
-### [Fobo](https://devpost.com/software/fobo-fear-of-burning-out)
+<details>
+<summary>Fobo</summary>
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
@@ -146,12 +174,15 @@ A calendar app weighs upcoming commitments against the user's energy level to he
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=RWAbxd6hSjE)
 - **All event prizes (2)** Adobe: Prettiest Hack · Figma: Best Design
 - **Devpost checked** 2026-11-21 UTC
-- **Adobe** It shows when you're full, not just when you're free, and helps you decide what to do about it. Devpost gives no specific sponsor integration detail.
-- **Figma** It shows when you're full, not just when you're free, and helps you decide what to do about it. Devpost gives no specific sponsor integration detail.
+- **Adobe · Adobe: Prettiest Hack** It shows when you're full, not just when you're free, and helps you decide what to do about it.
+- **Figma · Figma: Best Design** It shows when you're full, not just when you're free, and helps you decide what to do about it.
+
+</details>
 
 <a name="project-fpga_langmodel"></a>
 
-### [fpga_LangModel](https://devpost.com/software/fpga_langmodel)
+<details>
+<summary>fpga&#95;LangModel</summary>
 
 A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-100T.
 
@@ -161,11 +192,14 @@ A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-10
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** AMD: Best Use of AMD Technologies
 - **Devpost checked** 2026-11-21 UTC
-- **AMD** The project page provides no specific sponsor integration detail in the indexed fields.
+- **AMD · AMD: Best Use of AMD Technologies** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-diarockets"></a>
 
-### [GEarth](https://devpost.com/software/diarockets)
+<details>
+<summary>GEarth</summary>
 
 GEarth simulates how citizens, institutions, and governments interact across a fictional world that viewers can explore from a browser dashboard.
 
@@ -175,13 +209,16 @@ GEarth simulates how citizens, institutions, and governments interact across a f
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=7h_nXEkdgIM)
 - **All event prizes (3)** AMD: Best Use of AMD Technologies · BNY: Financial Services Challenge · Neon: Best Use of Neon
 - **Devpost checked** 2026-11-21 UTC
-- **AMD** Python workers run Qwen models across an AMD GPU and two NVIDIA systems to supply agent decisions to the shared simulation.
-- **BNY** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Neon** Neon PostgreSQL stores checkpoints and event history so viewers can revisit recorded worlds.
+- **AMD · AMD: Best Use of AMD Technologies** Python workers run Qwen models across an AMD GPU and two NVIDIA systems to supply agent decisions to the shared simulation.
+- **BNY · BNY: Financial Services Challenge** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Neon · Neon: Best Use of Neon** Neon PostgreSQL stores checkpoints and event history so viewers can revisit recorded worlds.
+
+</details>
 
 <a name="project-hakit-1qejr3"></a>
 
-### [Hakit](https://devpost.com/software/hakit-1qejr3)
+<details>
+<summary>Hakit</summary>
 
 A workspace matches hackathon tasks to teammates and tracks progress through GitHub.
 
@@ -191,11 +228,14 @@ A workspace matches hackathon tasks to teammates and tracks progress through Git
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=X3Ex2pmvqaU)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Tiger Data
 - **Devpost checked** 2026-11-21 UTC
-- **Tiger Data** Sign up with your GitHub account, and invite everyone the same way. Devpost gives no specific sponsor integration detail.
+- **Tiger Data · &#91;MLH&#93; Best Use of Tiger Data** Sign up with your GitHub account, and invite everyone the same way.
+
+</details>
 
 <a name="project-here-vqlrhg"></a>
 
-### [Here](https://devpost.com/software/here-vqlrhg)
+<details>
+<summary>Here</summary>
 
 A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from.
 
@@ -205,11 +245,14 @@ A wearable uses directional vibrations to tell deaf and hard-of-hearing users wh
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=2gRH8oV8e80)
 - **All event prizes (1)** Hugging Face: Best Use of Open Source AI
 - **Devpost checked** 2026-11-21 UTC
-- **Hugging Face** The project lists huggingface among its Built With tags.
+- **Hugging Face · Hugging Face: Best Use of Open Source AI** The project lists huggingface among its Built With tags.
+
+</details>
 
 <a name="project-incantation"></a>
 
-### [Incantation](https://devpost.com/software/incantation)
+<details>
+<summary>Incantation</summary>
 
 Players speak spell ideas aloud and cast the generated spells against each other in a Roblox arena.
 
@@ -219,11 +262,14 @@ Players speak spell ideas aloud and cast the generated spells against each other
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=4Qf5VMHLx8U)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
-- **ElevenLabs** Incantation uses the built in Roblox Studio’s microphone to take in audio, which is then sent to Elevenlabs API for speech to text translation via a local HTTP connection.
+- **ElevenLabs · &#91;MLH&#93; Best Use of ElevenLabs** Incantation uses the built in Roblox Studio’s microphone to take in audio, which is then sent to Elevenlabs API for speech to text translation via a local HTTP connection.
+
+</details>
 
 <a name="project-jolteon"></a>
 
-### [Jolteon](https://devpost.com/software/jolteon)
+<details>
+<summary>Jolteon</summary>
 
 Jolteon captures waste heat, turns it into stored electricity, and shows you exactly how much it has collected, live.
 
@@ -233,11 +279,14 @@ Jolteon captures waste heat, turns it into stored electricity, and shows you exa
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=8vnv30qKB9w)
 - **All event prizes (1)** OneEthos: Innovation for Good
 - **Devpost checked** 2026-11-21 UTC
-- **OneEthos** The project page provides no specific sponsor integration detail in the indexed fields.
+- **OneEthos · OneEthos: Innovation for Good** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-nod-read"></a>
 
-### [Nod &amp; Read](https://devpost.com/software/nod-read)
+<details>
+<summary>Nod &amp; Read</summary>
 
 An accessible comic reader plays panels aloud and lets readers advance them with facial input.
 
@@ -247,11 +296,14 @@ An accessible comic reader plays panels aloud and lets readers advance them with
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=CLpOsb9VDGU)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The project lists google-gemini among its Built With tags.
+- **Google · &#91;MLH&#93; Best Use of Gemini API** The project lists google-gemini among its Built With tags.
+
+</details>
 
 <a name="project-paralassist"></a>
 
-### [Paralassist](https://devpost.com/software/paralassist)
+<details>
+<summary>Paralassist</summary>
 
 An accessibility prototype uses EEG readings from a visual interface to let people with paralysis select messages.
 
@@ -261,11 +313,14 @@ An accessibility prototype uses EEG readings from a visual interface to let peop
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=hmhprJgUFRA)
 - **All event prizes (1)** Databricks: Best Use of Databricks
 - **Devpost checked** 2026-11-21 UTC
-- **Databricks** Paralassist uses an electroencephalogram (EEG) with a visual stimulus to convert a user's brain signals into messages. Devpost gives no specific sponsor integration detail.
+- **Databricks · Databricks: Best Use of Databricks** Paralassist uses an electroencephalogram (EEG) with a visual stimulus to convert a user's brain signals into messages.
+
+</details>
 
 <a name="project-peaheads"></a>
 
-### [PeaHeads](https://devpost.com/software/peaheads)
+<details>
+<summary>PeaHeads</summary>
 
 PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is the controller: you dodge with your real head, open your mouth to spit peas, and wink to zoom.
 
@@ -275,11 +330,14 @@ PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=chAkjLDZ9Hk)
 - **All event prizes (2)** Adobe: Prettiest Hack · Best Game Dev Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Adobe** Up to four players join a match and get split evenly into Bloom (yellow) and Blight (purple). Devpost gives no specific sponsor integration detail.
+- **Adobe · Adobe: Prettiest Hack** Up to four players join a match and get split evenly into Bloom (yellow) and Blight (purple).
+
+</details>
 
 <a name="project-permanence"></a>
 
-### [Permanence](https://devpost.com/software/permanence)
+<details>
+<summary>Permanence</summary>
 
 A spatial awareness tool tracks objects and remembers their locations when they move out of view.
 
@@ -289,12 +347,15 @@ A spatial awareness tool tracks objects and remembers their locations when they 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=GexOIHp7s1w)
 - **All event prizes (3)** Best Overall Hack (1st) · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
 - **Devpost checked** 2026-11-21 UTC
-- **Hugging Face** The project lists qwen-3d among its Built With tags.
-- **NVIDIA** Everything runs on an NVIDIA Jetson Orin Nano (8 GB) .
+- **Hugging Face · Hugging Face: Best Use of Open Source AI** The project lists qwen-3d among its Built With tags.
+- **NVIDIA · NVIDIA: Best Use of Jetson Nano** Everything runs on an NVIDIA Jetson Orin Nano (8 GB) .
+
+</details>
 
 <a name="project-plu-s-sanctuary"></a>
 
-### [Plu's Sanctuary](https://devpost.com/software/plu-s-sanctuary)
+<details>
+<summary>Plu's Sanctuary</summary>
 
 An interactive, hand-illustrated, digital storybook featuring point-and-click progression and branching cinematic endings.
 
@@ -304,11 +365,14 @@ An interactive, hand-illustrated, digital storybook featuring point-and-click pr
 - **Demo video** [Video 1](https://vimeo.com/1234804142)
 - **All event prizes (1)** Adobe: Prettiest Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Adobe** Plu's Sanctuary is a digital, point-and-click storybook that follows a little plush plant creature named Plu as it navigates through a corrupted forest. Devpost gives no specific sponsor integration detail.
+- **Adobe · Adobe: Prettiest Hack** Plu's Sanctuary is a digital, point-and-click storybook that follows a little plush plant creature named Plu as it navigates through a corrupted forest.
+
+</details>
 
 <a name="project-solgpu"></a>
 
-### [solGPU](https://devpost.com/software/solgpu)
+<details>
+<summary>solGPU</summary>
 
 A marketplace lets developers browse GPU capacity and reserve it through a blockchain transaction.
 
@@ -318,11 +382,14 @@ A marketplace lets developers browse GPU capacity and reserve it through a block
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=EDPen_Iu5QY)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
-- **Solana** The project lists solana among its Built With tags.
+- **Solana · &#91;MLH&#93; Best Use of Solana** The project lists solana among its Built With tags.
+
+</details>
 
 <a name="project-shopping-cart-yvkgd2"></a>
 
-### [Sophro Shoppers](https://devpost.com/software/shopping-cart-yvkgd2)
+<details>
+<summary>Sophro Shoppers</summary>
 
 Make shopping easier through the art of accessibility.
 
@@ -332,11 +399,14 @@ Make shopping easier through the art of accessibility.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=WCmblC_Qs0o)
 - **All event prizes (1)** BNY: Financial Services Challenge
 - **Devpost checked** 2026-11-21 UTC
-- **BNY** Sophro Shoppers allows shoppers to get a more in-depth analysis of the items in their cart, while keeping track of needs catered to them. Devpost gives no specific sponsor integration detail.
+- **BNY · BNY: Financial Services Challenge** Sophro Shoppers allows shoppers to get a more in-depth analysis of the items in their cart, while keeping track of needs catered to them.
+
+</details>
 
 <a name="project-spot-mission-control"></a>
 
-### [SpotAtWork](https://devpost.com/software/spot-mission-control)
+<details>
+<summary>SpotAtWork</summary>
 
 An operations dashboard summarizes the sensor data collected by a Spot robot on recent missions.
 
@@ -346,11 +416,14 @@ An operations dashboard summarizes the sensor data collected by a Spot robot on 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=UN3DJZA4GO8)
 - **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
-- **GoDaddy Registry** spotat.work helps operators monitor inspections, investigate findings, and track performance over time. Devpost gives no specific sponsor integration detail.
+- **GoDaddy Registry · &#91;MLH&#93; Best Domain Name from GoDaddy Registry** spotat.work helps operators monitor inspections, investigate findings, and track performance over time.
+
+</details>
 
 <a name="project-spotlight-d5tr9l"></a>
 
-### [Spotlight](https://devpost.com/software/spotlight-d5tr9l)
+<details>
+<summary>Spotlight</summary>
 
 Spotlight transforms Boston Dynamics Spot data into actionable insights using AI, real-time monitoring, predictive analytics, and 3D visualization to make power plant operations safer and smarter.
 
@@ -360,11 +433,14 @@ Spotlight transforms Boston Dynamics Spot data into actionable insights using AI
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=76OSgHFP13s)
 - **All event prizes (1)** NextEra Energy: SPOT Management Dashboard
 - **Devpost checked** 2026-11-21 UTC
-- **NextEra Energy** Spotlight is an intelligent monitoring and visualization platform that transforms Boston Dynamics Spot's inspection data into meaningful, actionable insights. Devpost gives no specific sponsor integration detail.
+- **NextEra Energy · NextEra Energy: SPOT Management Dashboard** Spotlight is an intelligent monitoring and visualization platform that transforms Boston Dynamics Spot's inspection data into meaningful, actionable insights.
+
+</details>
 
 <a name="project-spotlight-fxqamj"></a>
 
-### [Spotlight](https://devpost.com/software/spotlight-fxqamj)
+<details>
+<summary>Spotlight</summary>
 
 A dashboard turns telemetry from robots into reports operators can use.
 
@@ -374,11 +450,14 @@ A dashboard turns telemetry from robots into reports operators can use.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=WguR9jFeBeo)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
-- **Vultr** The project lists vultr among its Built With tags.
+- **Vultr · &#91;MLH&#93; Best Use of Vultr** The project lists vultr among its Built With tags.
+
+</details>
 
 <a name="project-steadyflow-a-form-correction-gym-journey-social-media"></a>
 
-### [SteadyForum: A Form-Correcting, Gym Journey, Social Media](https://devpost.com/software/steadyflow-a-form-correction-gym-journey-social-media)
+<details>
+<summary>SteadyForum: A Form-Correcting, Gym Journey, Social Media</summary>
 
 A gym app uses phone-based exercise feedback to help people learn proper form.
 
@@ -388,11 +467,14 @@ A gym app uses phone-based exercise feedback to help people learn proper form.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=PPEBBCLeCrA)
 - **All event prizes (1)** Databricks: Best Use of Databricks
 - **Devpost checked** 2026-11-21 UTC
-- **Databricks** The project lists databricks among its Built With tags.
+- **Databricks · Databricks: Best Use of Databricks** The project lists databricks among its Built With tags.
+
+</details>
 
 <a name="project-swarm-oqg6l4"></a>
 
-### [Swarm](https://devpost.com/software/swarm-oqg6l4)
+<details>
+<summary>Swarm</summary>
 
 Cheap attack drones are now one of the biggest threats to bases and infrastructure. Operators practice against scripted enemies.
 
@@ -402,4 +484,6 @@ Cheap attack drones are now one of the biggest threats to bases and infrastructu
 - **Demo video** [Video 1](https://vimeo.com/1234778075)
 - **All event prizes (1)** AMD: Best Use of AMD Technologies
 - **Devpost checked** 2026-11-21 UTC
-- **AMD** A counter-drone defense trainer where the enemy swarm taught itself to attack, trained on an AMD Radeon GPU.
+- **AMD · AMD: Best Use of AMD Technologies** A counter-drone defense trainer where the enemy swarm taught itself to attack, trained on an AMD Radeon GPU.
+
+</details>

@@ -1,10 +1,41 @@
 # NVIDIA
 
+**16 projects · 6 editions · 16 prize rows**
+
 [Winners index](../README.md)
 
-16 projects across 6 editions, with 16 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** python (12), arduino (5), typescript (5)
+- **Common project areas** Safety and emergency response (2), Accessibility and assistive tools (1), Climate and environment (1)
+- **Common demo formats** Hardware or robotics (8), Web app or dashboard (4), Mobile app (2)
+- **Projects with a listed demo video** 16 of 16
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [KennyCraft](https://devpost.com/software/kennycraft) · [code](https://github.com/Sweet-Rice/kennycraft-alpha) · [demo](https://www.youtube.com/watch?v=Qakh5g6futU) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Nvidia Track · [details](../by-hackathon/hackutd-2026.md#project-kennycraft) | Custom voxel engine on a ARTY A7-100T FPGA with a realistic trading sim. | arty-a7-100t-fpga, assembly, c |
+| [TripWir3](https://devpost.com/software/test-l3i74h) · [code](https://github.com/mukherjeeabhirup/tripwir3) · [demo](https://www.youtube.com/watch?v=vPMd6Ijjr3M) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Nvidia Track · [details](../by-hackathon/hackutd-2026.md#project-test-l3i74h) | Introducing TripWir3! Powered by NVIDIA Nemotron™ agents, this weight-provenance framework audits a given… | nvidia-api, nvidia-brev, nvidia-nemotron |
+| [Farsight](https://devpost.com/software/farsight-t4qyli) · [code](https://github.com/azizu06/farsight) · [demo](https://www.youtube.com/watch?v=AmrOGcTBTKU) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Jetson Nano · [details](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | Farsight is a rescue rover that streams its surroundings to an operator and turns measured room captures into… | nvidia-jetson, tensorrt, arduino |
+| [Fireline](https://devpost.com/software/fireline-764nir) · [code](https://github.com/kateye31/fireline) · [demo](https://www.youtube.com/watch?v=vhKG4MiWa9A) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Jetson Nano · [details](../by-hackathon/knight-hacks-ix-2026.md#project-fireline-764nir) | An edge device identifies early signs of wildfire smoke and reports them to a dashboard. | jetson-nano, tensorrt, arduino |
+| [Permanence](https://devpost.com/software/permanence) · [code](https://github.com/billpquach/permanence) · [demo](https://www.youtube.com/watch?v=GexOIHp7s1w) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Jetson Nano · [details](../by-hackathon/knight-hacks-ix-2026.md#project-permanence) | A spatial awareness tool tracks objects and remembers their locations when they move out of view. | cuda, jetson-nano, arduino |
+| [CalTrack](https://devpost.com/software/caltrack-i0pq3n) · [code](https://github.com/alangrewco/treehacks) · [demo](https://www.youtube.com/watch?v=51RLdw6FQOg) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Edge AI Track · [details](../by-hackathon/treehacks-2026.md#project-caltrack-i0pq3n) | Using mass surveillance to keep people safe - predicting impact, affected areas, and coordinating faster… | nvidia, docker, earth2studio |
+| [Detour](https://devpost.com/software/detour-64kpds) · [code](https://github.com/keanucz/detour) · [demo](https://www.youtube.com/watch?v=XTLts_t78IQ) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Edge AI Track · [details](../by-hackathon/treehacks-2026.md#project-detour-64kpds) | An onboard satellite agent evaluates possible debris collisions and proposes an avoidance maneuver. | dgx-spark, nvidia, agents |
+| [Sprout](https://devpost.com/software/greenguardian-microfarm) · [code](https://github.com/lethan3/cactushacks) · [demo](https://www.youtube.com/watch?v=PbnM8TVgxBQ) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Edge AI Track · [details](../by-hackathon/treehacks-2026.md#project-greenguardian-microfarm) | A miniature robotic growing system monitors and tends a small farm. | cuda, jetson-nano, arduino |
+| [TORQ](https://devpost.com/software/torq) · [code](https://github.com/JoelGrayson/Treehacks2026) · [demo](https://www.youtube.com/watch?v=zEDVGfCVhaw) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Edge AI Track · [details](../by-hackathon/treehacks-2026.md#project-torq) | A Jetson-based retrofit tests autonomous driving functions in vehicles that were built without them. | cuda, nvidia, c++ |
+| [Alchemetrics](https://devpost.com/software/abc-xapnio) · [code](https://github.com/Lanisha20/Alchemetrics) · [demo](https://www.youtube.com/watch?v=_XkRiy9jCP8) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) · Nvidia · [details](../by-hackathon/hackutd-2025.md#project-abc-xapnio) | Alchemetrics is a real-time AI dashboard that tracks cauldrons, matches tickets, and forecasts overflows,… | css, fastapi, nemotron |
+| [DataDriver](https://devpost.com/software/datadriver) · [code](https://github.com/Jeanpascal-Gauthier/Data-Driver) · [demo](https://www.youtube.com/watch?v=w0YteTzoGc4) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) · Nvidia · [details](../by-hackathon/hackutd-2025.md#project-datadriver) | DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to generate detailed step by step… | agents, ai, flask |
+| [Toyotron](https://devpost.com/software/toyotron) · [code](https://github.com/anbguye/hackutd-Toyota-Toyotron) · [demo](https://www.youtube.com/watch?v=CSc6zKQRxIY) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) · Nvidia · [details](../by-hackathon/hackutd-2025.md#project-toyotron) | Toyotron is a solution that allows users to easily find their dream Toyota through agentic AI powered by… | ai, css, nemotron |
+| [VL-ADK](https://devpost.com/software/vl-adk) · [demo](https://www.youtube.com/watch?v=0t4X0DoKbsc) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · NVIDIA · [details](../by-hackathon/shellhacks-2025.md#project-vl-adk) | A "psuedo" VLA model leveraging a fleet of autonomous ADK agents. | jetson-orin, gemini, google-adk |
+| [Portable Braille](https://devpost.com/software/portable-braille-cdq8v5) · [code](https://github.com/Adil-Jussupov/PortableBraille) · [demo](https://www.youtube.com/watch?v=0vI_fjJIOsE) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Robo Prize (Jetson Dev kit per team member) · [details](../by-hackathon/treehacks-2025.md#project-portable-braille-cdq8v5) | A portable teaching device helps children with visual impairments practice Braille. | arduino, bluetooth, braille |
+| [Ranger](https://devpost.com/software/ranger-6jkv5s) · [code](https://github.com/YuanSamuel/Treehacks2025) · [demo](https://www.youtube.com/watch?v=dUlzwdfdT2U) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Accelerated Compute (5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team… · [details](../by-hackathon/treehacks-2025.md#project-ranger-6jkv5s) | An AR wearable displays cues about nearby sounds to deaf and hard-of-hearing users. | jetson-nano, adb, edge |
+| [WiiWork](https://devpost.com/software/wiiwork-8u1x62) · [code](https://github.com/Alezander9/WiiWork) · [demo](https://www.youtube.com/watch?v=rkLqYKocnNc) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Accelerated Compute (5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team… · [details](../by-hackathon/treehacks-2025.md#project-wiiwork-8u1x62) | Real-time voice interaction using ElevenLabs for speech synthesis and Open AI whisper for speech regognition. | nvidia, anthropic, convex |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
@@ -16,44 +47,4 @@
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | NVIDIA: Best Accelerated Compute (5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93;) | Best use of NVIDIA AI or accelerated computing. | [Devpost prize description](https://treehacks-2025.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | NVIDIA: Robo Prize (Jetson Dev kit per team member) | Best use of NVIDIA tech in robotics, computer vision or edge AI. | [Devpost prize description](https://treehacks-2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** python (12), arduino (5), typescript (5), fastapi (4), jetson-nano (4), nvidia (4)
-- **Problem areas** Safety and emergency response (2), Accessibility and assistive tools (1), Climate and environment (1), Education and learning (1)
-- **Demo types** Hardware or robotics (8), Web app or dashboard (4), Mobile app (2), AR, VR or spatial (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 16 of 16
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [Farsight](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | Knight Hacks IX 2026 | 4 | 4 | Encompass, Full Sail, Hugging Face, NVIDIA |
-| [VL-ADK](../by-hackathon/shellhacks-2025.md#project-vl-adk) | ShellHacks 2025 | 3 | 3 | Microsoft, NVIDIA, Waymo |
-| [Permanence](../by-hackathon/knight-hacks-ix-2026.md#project-permanence) | Knight Hacks IX 2026 | 2 | 3 | Hugging Face, NVIDIA |
-| [DataDriver](../by-hackathon/hackutd-2025.md#project-datadriver) | HackUTD 2025 | 2 | 2 | Northmark Compute &amp; Cloud, NVIDIA |
-| [Fireline](../by-hackathon/knight-hacks-ix-2026.md#project-fireline-764nir) | Knight Hacks IX 2026 | 2 | 2 | NVIDIA, OneEthos |
-| [Toyotron](../by-hackathon/hackutd-2025.md#project-toyotron) | HackUTD 2025 | 2 | 2 | NVIDIA, Toyota Financial Services |
-| [Portable Braille](../by-hackathon/treehacks-2025.md#project-portable-braille-cdq8v5) | TreeHacks 2025 | 1 | 2 | NVIDIA |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [KennyCraft](../by-hackathon/hackutd-2026.md#project-kennycraft) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | Nvidia Track | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [TripWir3](../by-hackathon/hackutd-2026.md#project-test-l3i74h) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | Nvidia Track | — | The project lists nvidia-api, nvidia-brev, nvidia-nemotron among its Built With tags. | 1 |
-| [Farsight](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | NVIDIA: Best Use of Jetson Nano | — | An NVIDIA Jetson runs TensorRT inference, the camera stream and the navigation and motor interfaces on the rover. | 4 |
-| [Fireline](../by-hackathon/knight-hacks-ix-2026.md#project-fireline-764nir) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | NVIDIA: Best Use of Jetson Nano | — | Smoke detection on the device: Pyronear's open YOLO smoke model runs on the Jetson's GPU. | 2 |
-| [Permanence](../by-hackathon/knight-hacks-ix-2026.md#project-permanence) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | NVIDIA: Best Use of Jetson Nano | — | Everything runs on an NVIDIA Jetson Orin Nano (8 GB) . | 3 |
-| [CalTrack](../by-hackathon/treehacks-2026.md#project-caltrack-i0pq3n) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;NVIDIA&#93; Edge AI Track | — | The fire-risk overlay is powered by NVIDIA Earth-2, which provides predictive weather patterns that indicate conditions conducive to forest fires. | 1 |
-| [Detour](../by-hackathon/treehacks-2026.md#project-detour-64kpds) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;NVIDIA&#93; Edge AI Track | — | The project lists dgx-spark, nvidia among its Built With tags. | 1 |
-| [Sprout](../by-hackathon/treehacks-2026.md#project-greenguardian-microfarm) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;NVIDIA&#93; Edge AI Track | — | Edge AI Implementation: Successfully deploying a health-assessment model on the Jetson Nano that runs entirely offline/on-device. | 1 |
-| [TORQ](../by-hackathon/treehacks-2026.md#project-torq) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;NVIDIA&#93; Edge AI Track | — | The high-level reasoning layer runs NVIDIA's Alpamayo R1, a 10.5-billion parameter vision-language-action model. | 1 |
-| [Alchemetrics](../by-hackathon/hackutd-2025.md#project-abc-xapnio) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) | Nvidia | — | The team built a multi-agent system orchestrated by Nemotron (NVIDIA’s LLM planner). | 1 |
-| [DataDriver](../by-hackathon/hackutd-2025.md#project-datadriver) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) | Nvidia | — | DataDriver is an Agentic AI-powered copilot for data center technicians. | 2 |
-| [Toyotron](../by-hackathon/hackutd-2025.md#project-toyotron) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) | Nvidia | — | It conducts an onboarding survey to understand a shopper’s budget, lifestyle, and preferences, then recommends vehicles that truly fit. | 2 |
-| [VL-ADK](../by-hackathon/shellhacks-2025.md#project-vl-adk) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) | NVIDIA | — | The team used SSH tunnels to connect between the hosts and the Jetson Orin mounted on top of the Jetbot. | 3 |
-| [Portable Braille](../by-hackathon/treehacks-2025.md#project-portable-braille-cdq8v5) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | NVIDIA: Robo Prize (Jetson Dev kit per team member) | Jetson Dev kit per team member | Also device allows to "read" face expressions while talking to people, by face expression recognition using RayBan&#124;Meta glasses and doing computing on the Jetson Orin Nano. | 2 |
-| [Ranger](../by-hackathon/treehacks-2025.md#project-ranger-6jkv5s) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | NVIDIA: Best Accelerated Compute (5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93;) | 5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93; | The wild (west) setup - Jetson Orin Nano on the left, power bank on the right, and a mic array in the middle, all hooked up to a Meta Quest. | 1 |
-| [WiiWork](../by-hackathon/treehacks-2025.md#project-wiiwork-8u1x62) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | NVIDIA: Best Accelerated Compute (5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93;) | 5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93; | The project lists nvidia among its Built With tags. | 1 |
+</details>

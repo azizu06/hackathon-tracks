@@ -1,34 +1,31 @@
 # Symphonic Labs
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** ffmpeg (1), figma (1), flask (1)
+- **Common project areas** None listed
+- **Common demo formats** Web app or dashboard (1)
+- **Projects with a listed demo video** 2 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [LipsLips Revolution](https://devpost.com/software/lipslips-revolution) · [code](https://github.com/KaranChawlaD/lipslipsrevolution) · [demo](https://www.youtube.com/watch?v=C_vZ8xYM-pw) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Best use of Symphonic Labs API · [details](../by-hackathon/hack-the-north-2024.md#project-lipslips-revolution) | Fight for the top position in a HackTheNorth lip-syncing challenge. | mongodb, nextjs, symphonic-labs |
+| [SpyWatch](https://devpost.com/software/spywatch) · [code](https://github.com/k429wang/SpyWatch) · [demo](https://www.youtube.com/watch?v=0UUyHWlevrA) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Best use of Symphonic Labs API · [details](../by-hackathon/hack-the-north-2024.md#project-spywatch) | Spy on your enemies (or your friends) by reading their lips through a live drone video feed. | ffmpeg, python, symphonic-labs-api |
+| [Unmute: Speak, Even When You Can’t.](https://devpost.com/software/unmute-speak-even-when-you-can-t) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Best use of Symphonic Labs API · [details](../by-hackathon/hack-the-north-2024.md#project-unmute-speak-even-when-you-can-t) | Unmute is designed for those private moments during video calls when you can't speak out loud, yet still want… | figma, flask, react |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Symphonic Labs: Best use of Symphonic Labs API | Symphonic Labs API | [Track label](https://hackthenorth2024.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** ffmpeg (1), figma (1), flask (1), mongodb (1), nextjs (1), python (1)
-- **Problem areas** None listed
-- **Demo types** Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [LipsLips Revolution](../by-hackathon/hack-the-north-2024.md#project-lipslips-revolution) | Hack the North 2024 | 2 | 2 | MongoDB, Symphonic Labs |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [LipsLips Revolution](../by-hackathon/hack-the-north-2024.md#project-lipslips-revolution) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Symphonic Labs: Best use of Symphonic Labs API | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [SpyWatch](../by-hackathon/hack-the-north-2024.md#project-spywatch) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Symphonic Labs: Best use of Symphonic Labs API | — | Spy's on conversations using a live drone video feed and the Symphonic Labs lip reading technology. | 1 |
-| [Unmute: Speak, Even When You Can’t.](../by-hackathon/hack-the-north-2024.md#project-unmute-speak-even-when-you-can-t) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Symphonic Labs: Best use of Symphonic Labs API | — | The team like to introduce you to Unmute, your solution to clear and efficient virtual communication. | 1 |
+</details>

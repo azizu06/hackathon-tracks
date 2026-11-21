@@ -1,32 +1,29 @@
 # Susquehanna International Group
 
+**1 projects · 1 editions · 1 prize rows**
+
 [Winners index](../README.md)
 
-1 projects across 1 editions, with 1 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** cerebras (1), chroma (1), google-maps (1)
+- **Common project areas** None listed
+- **Common demo formats** Mobile app (1)
+- **Projects with a listed demo video** 1 of 1
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [DriveWise](https://devpost.com/software/drivewise-g09s5y) · [code](https://github.com/pranavponnusamy/Drivewise) · [demo](https://www.youtube.com/watch?v=A9ToFxCVF9c) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Best Use of Statistics · [details](../by-hackathon/pennapps-xxv-2024.md#project-drivewise-g09s5y) | DriveWise: Your personalized, safety-first navigation app, using 22 years of accident data to guide you on… | cerebras, chroma, google-maps |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of Statistics | Statistics | [Track label](https://pennapps-xxv.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** cerebras (1), chroma (1), google-maps (1), mapquest (1), node.js (1), openai (1)
-- **Problem areas** None listed
-- **Demo types** Mobile app (1)
-- **Projects with a listed demo video** 1 of 1
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
-| --- | --- | --- | --- | --- |
-| [DriveWise](../by-hackathon/pennapps-xxv-2024.md#project-drivewise-g09s5y) | PennApps XXV 2024 | 2 | 2 | Perpay, Susquehanna International Group |
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [DriveWise](../by-hackathon/pennapps-xxv-2024.md#project-drivewise-g09s5y) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of Statistics | — | The team developed DriveWise , a route-planning app that empowers users to make informed decisions about the safest routes. | 2 |
+</details>

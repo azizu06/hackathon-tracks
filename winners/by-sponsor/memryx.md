@@ -1,32 +1,31 @@
 # MemryX
 
+**3 projects · 1 editions · 3 prize rows**
+
 [Winners index](../README.md)
 
-3 projects across 1 editions, with 3 sponsor award rows.
+## What winners have in common
 
-## Tracks and required technology
+- **Most listed tech** memryx (2), python (2), flask (1)
+- **Common project areas** Accessibility and assistive tools (1), Games and entertainment (1)
+- **Common demo formats** Hardware or robotics (1)
+- **Projects with a listed demo video** 2 of 3
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+
+## Sponsor awards
+
+| Project | Edition and prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [SoundSage](https://devpost.com/software/soundsage) · [code](https://github.com/Kart-ing/EQ_AI) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · Best Use of MemryX Edge AI Accelerator · [details](../by-hackathon/mhacks-2025.md#project-soundsage) | SoundSage: World's first real-time music intelligence. Instantly identifies genres and auto-optimizes EQ… | memryx, onnx, python |
+| [SoundSense](https://devpost.com/software/soundsense-jvz6yx) · [code](https://github.com/Novapool/sound_sense) · [demo](https://www.youtube.com/watch?v=mK7UuQE1cZw) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · Best Use of MemryX Edge AI Accelerator · [details](../by-hackathon/mhacks-2025.md#project-soundsense-jvz6yx) | Digital ears for the deaf community - AI that turns critical sounds into instant visual alerts. | memryx, flask, tensorflow |
+| [Wordhawk](https://devpost.com/software/wordhawk) · [code](https://github.com/TSKoduru/mhacks-gamehawk) · [demo](https://www.youtube.com/watch?v=WktVaFtu6HE) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · Best Use of MemryX Edge AI Accelerator · [details](../by-hackathon/mhacks-2025.md#project-wordhawk) | A robot that plays Word Hunt on its own—powered by a jury-rigged 3D printer, computer vision, and distributed… | gemini, opencv, python |
+
+<details>
+<summary>Track labels, requirements and rules</summary>
 
 | Edition | Devpost track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2025](../by-hackathon/mhacks-2025.md) | Best Use of MemryX Edge AI Accelerator | MemryX Edge AI Accelerator | [Track label](https://mhacks-2025.devpost.com/) |
 
-## What winners have in common
-
-- **Top Built With tags** memryx (2), python (2), flask (1), gemini (1), onnx (1), opencv (1)
-- **Problem areas** Accessibility and assistive tools (1), Games and entertainment (1)
-- **Demo types** Hardware or robotics (1)
-- **Projects with a listed demo video** 2 of 3
-
-Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
-
-## Multi-track winners
-
-This group has no projects with multiple qualifying prize labels at one edition.
-
-## Sponsor awards
-
-| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [SoundSage](../by-hackathon/mhacks-2025.md#project-soundsage) | [MHacks 2025](../by-hackathon/mhacks-2025.md) | Best Use of MemryX Edge AI Accelerator | — | Everything runs locally on MemryX NPU hardware, delivering studio-quality audio enhancement without cloud dependency or privacy concerns. | 1 |
-| [SoundSense](../by-hackathon/mhacks-2025.md#project-soundsense-jvz6yx) | [MHacks 2025](../by-hackathon/mhacks-2025.md) | Best Use of MemryX Edge AI Accelerator | — | The core of SoundSense is built around the MemryX Raspberry Pi AI accelerator, which provides the computational power needed for real-time audio inference in a compact form factor. | 1 |
-| [Wordhawk](../by-hackathon/mhacks-2025.md#project-wordhawk) | [MHacks 2025](../by-hackathon/mhacks-2025.md) | Best Use of MemryX Edge AI Accelerator | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
+</details>

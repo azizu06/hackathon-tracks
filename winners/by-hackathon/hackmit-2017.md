@@ -1,45 +1,55 @@
 # HackMIT 2017
 
-[Devpost gallery](https://hackmit2017.devpost.com/project-gallery) · [Official prize rules](https://hackmit2017.devpost.com/) · [Winners index](../README.md)
+**22 projects · 19 sponsors · 26 prize rows**
 
-22 projects and 26 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://hackmit2017.devpost.com/project-gallery) · [Official prize rules](https://hackmit2017.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** python (14), javascript (6), flask (5)
+- **Common project areas** Games and entertainment (1)
+- **Common demo formats** Hardware or robotics (4), Mobile app (4), AR, VR or spatial (1)
+- **Projects with a listed demo video** 2 of 22
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [TravelAR](#project-travelar-g4sq6y) | [Amadeus](../by-sponsor/amadeus.md) | Sponsor Prize - Amadeus - Best Use of Amadeus APIs | — | The project lists amadeus among its Built With tags. | 2 |
-| [Accentuate](#project-accenture) | [Baidu](../by-sponsor/baidu.md) | Sponsor Prize - Baidu - Best Paddle Hack: Second Place | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [ezPaddle](#project-ezpaddle) | [Baidu](../by-sponsor/baidu.md) | Sponsor Prize - Baidu - Machine Learning Community Prize | — | Since setup is extracted away, it's possible to quickly use and iterate upon various models. | 1 |
-| [Fake Bananas](#project-fakebananas) | [Baidu](../by-sponsor/baidu.md) | Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Resent(i)ment Analysis](#project-news-sentiment) | [Baidu](../by-sponsor/baidu.md) | Sponsor Prize - Baidu - Best Paddle Hack: First Place | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [DecentPass](#project-decentralized-password-manager) | [ConsenSys](../by-sponsor/consensys.md) | Sponsor Prize - ConsenSys - Best Use of Ethereum | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Brainfreeze](#project-frainbuck) | [Datto](../by-sponsor/datto.md) | Sponsor Prize - Datto - Best Use of Encryption | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Nova](#project-nova-ytczl4) | [Disney](../by-sponsor/disney.md) | Sponsor Prize - Disney - Best Use of Storytelling | — | Nova communicates with the user through lights and sound. | 2 |
-| [Ad BlockAR](#project-ad-block-ar) | [GIPHY](../by-sponsor/giphy.md) | Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate | — | The project lists giphy among its Built With tags. | 1 |
-| [NewsMap](#project-newsmap-zl5f0r) | [Goldman Sachs](../by-sponsor/goldman-sachs.md) | Sponsor Prize - Goldman Sachs - Second Best Data Visualization | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [SmartPaths](#project-smartpaths-5d6mzq) | [Goldman Sachs](../by-sponsor/goldman-sachs.md) | Sponsor Prize - Goldman Sachs - Best Data Visualization | — | Moreover, using fictional crowd data, it avoids big crowds so that it is safer and faster to walk inside buildings. | 1 |
-| [Band Together](#project-band-together) | [Google](../by-sponsor/google.md) | Sponsor Prize - Firebase/Google - Best Use of Firebase | — | Used firebase for server and database/storage as well as to sync up sessions. | 1 |
-| [Heart of Gold](#project-heart-of-gold-bmydin) | [Google](../by-sponsor/google.md) | Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up | — | The project lists firebase among its Built With tags. | 1 |
-| [SeQR Scanner and Generator](#project-seqr-scanner-and-generator) | [Google](../by-sponsor/google.md) | Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up | — | This was built using cloud functions and Firebase as the back end and a Native-react front end. | 1 |
-| [Fake Bananas](#project-fakebananas) | [Hudson River Trading](../by-sponsor/hudson-river-trading.md) | Sponsor Prize - Hudson River Trading - Most Interesting Use of Data | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Pixelator](#project-pixelator) | [IBM](../by-sponsor/ibm.md) | Sponsor Prize - IBM - Most Innovative Use of IBM Technology | — | The team used python3 and the IBM Watson library. | 2 |
-| [Brainfreeze](#project-frainbuck) | [Illumio](../by-sponsor/illumio.md) | Sponsor Prize - Illumio - Best Security Hack | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [Cueball's New Pet](#project-cueball-s-new-pet) | [iRobot](../by-sponsor/irobot.md) | Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack | — | The project lists irobot-create among its Built With tags. | 1 |
-| [PlotRoomba](#project-plotroomba) | [iRobot](../by-sponsor/irobot.md) | Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack | — | The project lists irobot-create2 among its Built With tags. | 3 |
-| [SAJE Planning - Spice up your plans](#project-saje-planning) | [Jumpstart](../by-sponsor/jumpstart.md) | Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up | — | The team are an easy-to-use website that will take your current location, interests, and generate a custom itinerary that will fill the time you have to kill. | 1 |
-| [NSAR](#project-nsar) | [Meta](../by-sponsor/meta.md) | Sponsor Prize - Facebook - Best Use of Facebook API | — | NSAR shows names and other details next to the faces of people you look at with a HoloLens. | 1 |
-| [Pure Interaction](#project-pure-interact) | [Microsoft](../by-sponsor/microsoft.md) | Sponsor Prize - Microsoft - Best Microsoft Hack | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Jiffy Market Stories](#project-jiffy-market-stories) | [Nasdaq](../by-sponsor/nasdaq.md) | Sponsor Prize - Nasdaq - Best Re-imagination of Market | — | A user opens the app, takes a picture of a company's logo, and the company's brand name will be recognized. | 1 |
-| [MIT Sorting Hat, Harry Potter Style](#project-mit-sorting-hat) | [Samsara](../by-sponsor/samsara.md) | Sponsor Prize - Samsara - Best IoT Hack | — | This sorting hat imitates the Harry Potter experience. | 1 |
-| [TravelAR](#project-travelar-g4sq6y) | [SAP Concur](../by-sponsor/sap-concur.md) | Sponsor Prize - Concur - Best Travel Hack | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [PlotRoomba](#project-plotroomba) | [Wolfram](../by-sponsor/wolfram.md) | Sponsor Prize - Wolfram Alpha - Best Use of Wolfram Technologies | — | The project lists wolfram-development-platform, wolfram-mathematica among its Built With tags. | 3 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [TravelAR](https://devpost.com/software/travelar-g4sq6y) · [code](https://github.com/Averylamp/TravelAR) · [demo](https://www.youtube.com/watch?v=ACneUIVByaY) | [Amadeus](../by-sponsor/amadeus.md) · Sponsor Prize - Amadeus - Best Use of Amadeus APIs · [details](#project-travelar-g4sq6y) | TravelAR is an iOS travel application built using Apple's ARKit. | amadeus, arkit, azure |
+| [Accentuate](https://devpost.com/software/accenture) · [code](https://github.com/alvinzz/models) | [Baidu](../by-sponsor/baidu.md) · Sponsor Prize - Baidu - Best Paddle Hack: Second Place · [details](#project-accenture) | Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pronunciations. | paddlepaddle, python, tears |
+| [ezPaddle](https://devpost.com/software/ezpaddle) · [code](https://github.com/fervorarc/PaddleBois) | [Baidu](../by-sponsor/baidu.md) · Sponsor Prize - Baidu - Machine Learning Community Prize · [details](#project-ezpaddle) | ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line of code. | paddle, python |
+| [Fake Bananas](https://devpost.com/software/fakebananas) · [code](https://github.com/likeaj6/FakeBananas) | [Baidu](../by-sponsor/baidu.md) · Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good · [details](#project-fakebananas) | Robust fake news detection made simple and scalable for real people. | azure, css, flask |
+| [Resent(i)ment Analysis](https://devpost.com/software/news-sentiment) · [code](https://github.com/rfblue2/resentiment-analysis) | [Baidu](../by-sponsor/baidu.md) · Sponsor Prize - Baidu - Best Paddle Hack: First Place · [details](#project-news-sentiment) | The team describes the project as “We use Baidu's Paddle Deep Learning framework to uncover and call… | css, facebook, flask |
+| [DecentPass](https://devpost.com/software/decentralized-password-manager) | [ConsenSys](../by-sponsor/consensys.md) · Sponsor Prize - ConsenSys - Best Use of Ethereum · [details](#project-decentralized-password-manager) | DecentPass is a decentralized application that stores your passwords securely on the Ethereum blockchain. | ethereum, metamask, node.js |
+| [Brainfreeze](https://devpost.com/software/frainbuck) · [code](https://github.com/joeltg/brainfreeze) | [Datto](../by-sponsor/datto.md) · Sponsor Prize - Datto - Best Use of Encryption · [details](#project-frainbuck) | The world's first fully homomorphic runtime for a Turing-complete language. | python, tfhe |
+| [Nova](https://devpost.com/software/nova-ytczl4) · [code](https://github.com/tedmyers/hackMIT) | [Disney](../by-sponsor/disney.md) · Sponsor Prize - Disney - Best Use of Storytelling · [details](#project-nova-ytczl4) | An interactive community game with wearable devices that harness storytelling and emotive design. | arduino |
+| [Ad BlockAR](https://devpost.com/software/ad-block-ar) · [code](https://github.com/negitoromaki/ad-blockAR) | [GIPHY](../by-sponsor/giphy.md) · Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate · [details](#project-ad-block-ar) | While Unity and Microsoft's UWP are powerful platforms, sometimes there can be powerful issues that can… | giphy, c#, microsoft-hololens |
+| [NewsMap](https://devpost.com/software/newsmap-zl5f0r) | [Goldman Sachs](../by-sponsor/goldman-sachs.md) · Sponsor Prize - Goldman Sachs - Second Best Data Visualization · [details](#project-newsmap-zl5f0r) | NewsMap utilizes global market visualization software to provide a real-time visualization of news reports… | carto, mapbox |
+| [SmartPaths](https://devpost.com/software/smartpaths-5d6mzq) · [code](https://github.com/jjgarau/HackMIT2017) | [Goldman Sachs](../by-sponsor/goldman-sachs.md) · Sponsor Prize - Goldman Sachs - Best Data Visualization · [details](#project-smartpaths-5d6mzq) | Determine the best path from two inside-building points scanning automatically the maps and based on crowd… | flask, python, scikit |
+| [Band Together](https://devpost.com/software/band-together) · [code](https://github.com/sbower213/band-together) | [Google](../by-sponsor/google.md) · Sponsor Prize - Firebase/Google - Best Use of Firebase · [details](#project-band-together) | Allows people to join up in a "room" to work on tracks to make beats for a song. | firebase, css, html5 |
+| [Heart of Gold](https://devpost.com/software/heart-of-gold-bmydin) | [Google](../by-sponsor/google.md) · Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up · [details](#project-heart-of-gold-bmydin) | Automatic purchase detection and rounding up to make donating to charity easy and habitual for any user. | firebase, ajax, css |
+| [SeQR Scanner and Generator](https://devpost.com/software/seqr-scanner-and-generator) | [Google](../by-sponsor/google.md) · Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up · [details](#project-seqr-scanner-and-generator) | The product encrypts QR codes such that, if scanned by someone who is not authorized to see them, they… | firebase, crypto, express.js |
+| [Fake Bananas](https://devpost.com/software/fakebananas) · [code](https://github.com/likeaj6/FakeBananas) | [Hudson River Trading](../by-sponsor/hudson-river-trading.md) · Sponsor Prize - Hudson River Trading - Most Interesting Use of Data · [details](#project-fakebananas) | Robust fake news detection made simple and scalable for real people. | azure, css, flask |
+| [Pixelator](https://devpost.com/software/pixelator) | [IBM](../by-sponsor/ibm.md) · Sponsor Prize - IBM - Most Innovative Use of IBM Technology · [details](#project-pixelator) | The product takes blurry images and makes them more readable. | ibm, ibm-watson, bluemix |
+| [Brainfreeze](https://devpost.com/software/frainbuck) · [code](https://github.com/joeltg/brainfreeze) | [Illumio](../by-sponsor/illumio.md) · Sponsor Prize - Illumio - Best Security Hack · [details](#project-frainbuck) | The world's first fully homomorphic runtime for a Turing-complete language. | python, tfhe |
+| [Cueball's New Pet](https://devpost.com/software/cueball-s-new-pet) · [code](https://github.com/dratini0/Roomba4E) | [iRobot](../by-sponsor/irobot.md) · Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack · [details](#project-cueball-s-new-pet) | A roomba uses machine learning and a raspberry pi with a pi camera to search for objects. | irobot-create, azure, json |
+| [PlotRoomba](https://devpost.com/software/plotroomba) · [code](https://github.com/cyanophycean314-zz/plot_roomba) | [iRobot](../by-sponsor/irobot.md) · Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack · [details](#project-plotroomba) | Use your favorite cleaning robot to transform the floor into a canvas for Mathematica plots. | irobot-create2, facebook-live-api, python |
+| [SAJE Planning - Spice up your plans](https://devpost.com/software/saje-planning) · [demo](https://www.youtube.com/watch?v=kAxDxnKp8_s) | [Jumpstart](../by-sponsor/jumpstart.md) · Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up · [details](#project-saje-planning) | A travel itinerary generator for all major cities. | amadeus, express.js, google-directions |
+| [NSAR](https://devpost.com/software/nsar) | [Meta](../by-sponsor/meta.md) · Sponsor Prize - Facebook - Best Use of Facebook API · [details](#project-nsar) | Get personal details of someone just by looking at them with the magic of a HoloLens, face recognition, and… | bottle, c++, facebook |
+| [Pure Interaction](https://devpost.com/software/pure-interact) · [code](https://github.com/96imranahmed/pure-interaction) | [Microsoft](../by-sponsor/microsoft.md) · Sponsor Prize - Microsoft - Best Microsoft Hack · [details](#project-pure-interact) | Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Learning. | cntk, css3, html5 |
+| [Jiffy Market Stories](https://devpost.com/software/jiffy-market-stories) | [Nasdaq](../by-sponsor/nasdaq.md) · Sponsor Prize - Nasdaq - Best Re-imagination of Market · [details](#project-jiffy-market-stories) | Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs. | flask, giphy-api, google-cloud-vision |
+| [MIT Sorting Hat, Harry Potter Style](https://devpost.com/software/mit-sorting-hat) | [Samsara](../by-sponsor/samsara.md) · Sponsor Prize - Samsara - Best IoT Hack · [details](#project-mit-sorting-hat) | Find your dorm culture fit Harry Potter Style. | android, arduino, c++ |
+| [TravelAR](https://devpost.com/software/travelar-g4sq6y) · [code](https://github.com/Averylamp/TravelAR) · [demo](https://www.youtube.com/watch?v=ACneUIVByaY) | [SAP Concur](../by-sponsor/sap-concur.md) · Sponsor Prize - Concur - Best Travel Hack · [details](#project-travelar-g4sq6y) | TravelAR is an iOS travel application built using Apple's ARKit. | amadeus, arkit, azure |
+| [PlotRoomba](https://devpost.com/software/plotroomba) · [code](https://github.com/cyanophycean314-zz/plot_roomba) | [Wolfram](../by-sponsor/wolfram.md) · Sponsor Prize - Wolfram Alpha - Best Use of Wolfram Technologies · [details](#project-plotroomba) | Use your favorite cleaning robot to transform the floor into a canvas for Mathematica plots. | wolfram-development-platform, wolfram-mathematica, facebook-live-api |
 
 ## Project details
 
 <a name="project-accenture"></a>
 
-### [Accentuate](https://devpost.com/software/accenture)
+<details>
+<summary>Accentuate</summary>
 
 Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pronunciations.
 
@@ -49,11 +59,14 @@ Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pr
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Baidu - Best Paddle Hack: Second Place
 - **Devpost checked** 2026-11-21 UTC
-- **Baidu** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Baidu · Sponsor Prize - Baidu - Best Paddle Hack: Second Place** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-ad-block-ar"></a>
 
-### [Ad BlockAR](https://devpost.com/software/ad-block-ar)
+<details>
+<summary>Ad BlockAR</summary>
 
 While Unity and Microsoft's UWP are powerful platforms, sometimes there can be powerful issues that can hinder development in a big way.
 
@@ -63,11 +76,14 @@ While Unity and Microsoft's UWP are powerful platforms, sometimes there can be p
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate
 - **Devpost checked** 2026-11-21 UTC
-- **GIPHY** The project lists giphy among its Built With tags.
+- **GIPHY · Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate** The project lists giphy among its Built With tags.
+
+</details>
 
 <a name="project-band-together"></a>
 
-### [Band Together](https://devpost.com/software/band-together)
+<details>
+<summary>Band Together</summary>
 
 Allows people to join up in a "room" to work on tracks to make beats for a song.
 
@@ -77,11 +93,14 @@ Allows people to join up in a "room" to work on tracks to make beats for a song.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Firebase/Google - Best Use of Firebase
 - **Devpost checked** 2026-11-21 UTC
-- **Google** Used firebase for server and database/storage as well as to sync up sessions.
+- **Google · Sponsor Prize - Firebase/Google - Best Use of Firebase** Used firebase for server and database/storage as well as to sync up sessions.
+
+</details>
 
 <a name="project-frainbuck"></a>
 
-### [Brainfreeze](https://devpost.com/software/frainbuck)
+<details>
+<summary>Brainfreeze</summary>
 
 The world's first fully homomorphic runtime for a Turing-complete language.
 
@@ -91,12 +110,15 @@ The world's first fully homomorphic runtime for a Turing-complete language.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Sponsor Prize - Datto - Best Use of Encryption · Sponsor Prize - Illumio - Best Security Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Datto** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Illumio** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Datto · Sponsor Prize - Datto - Best Use of Encryption** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Illumio · Sponsor Prize - Illumio - Best Security Hack** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-cueball-s-new-pet"></a>
 
-### [Cueball's New Pet](https://devpost.com/software/cueball-s-new-pet)
+<details>
+<summary>Cueball's New Pet</summary>
 
 A roomba uses machine learning and a raspberry pi with a pi camera to search for objects.
 
@@ -106,11 +128,14 @@ A roomba uses machine learning and a raspberry pi with a pi camera to search for
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack
 - **Devpost checked** 2026-11-21 UTC
-- **iRobot** The project lists irobot-create among its Built With tags.
+- **iRobot · Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack** The project lists irobot-create among its Built With tags.
+
+</details>
 
 <a name="project-decentralized-password-manager"></a>
 
-### [DecentPass](https://devpost.com/software/decentralized-password-manager)
+<details>
+<summary>DecentPass</summary>
 
 DecentPass is a decentralized application that stores your passwords securely on the Ethereum blockchain.
 
@@ -120,11 +145,14 @@ DecentPass is a decentralized application that stores your passwords securely on
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - ConsenSys - Best Use of Ethereum
 - **Devpost checked** 2026-11-21 UTC
-- **ConsenSys** The project page provides no specific sponsor integration detail in the indexed fields.
+- **ConsenSys · Sponsor Prize - ConsenSys - Best Use of Ethereum** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-ezpaddle"></a>
 
-### [ezPaddle](https://devpost.com/software/ezpaddle)
+<details>
+<summary>ezPaddle</summary>
 
 ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line of code.
 
@@ -134,11 +162,14 @@ ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Baidu - Machine Learning Community Prize
 - **Devpost checked** 2026-11-21 UTC
-- **Baidu** Since setup is extracted away, it's possible to quickly use and iterate upon various models. Devpost gives no specific sponsor integration detail.
+- **Baidu · Sponsor Prize - Baidu - Machine Learning Community Prize** Since setup is extracted away, it's possible to quickly use and iterate upon various models.
+
+</details>
 
 <a name="project-fakebananas"></a>
 
-### [Fake Bananas](https://devpost.com/software/fakebananas)
+<details>
+<summary>Fake Bananas</summary>
 
 Robust fake news detection made simple and scalable for real people.
 
@@ -148,12 +179,15 @@ Robust fake news detection made simple and scalable for real people.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good · Sponsor Prize - Hudson River Trading - Most Interesting Use of Data
 - **Devpost checked** 2026-11-21 UTC
-- **Baidu** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Hudson River Trading** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Baidu · Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Hudson River Trading · Sponsor Prize - Hudson River Trading - Most Interesting Use of Data** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-heart-of-gold-bmydin"></a>
 
-### [Heart of Gold](https://devpost.com/software/heart-of-gold-bmydin)
+<details>
+<summary>Heart of Gold</summary>
 
 Automatic purchase detection and rounding up to make donating to charity easy and habitual for any user.
 
@@ -163,11 +197,14 @@ Automatic purchase detection and rounding up to make donating to charity easy an
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The project lists firebase among its Built With tags.
+- **Google · Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up** The project lists firebase among its Built With tags.
+
+</details>
 
 <a name="project-jiffy-market-stories"></a>
 
-### [Jiffy Market Stories](https://devpost.com/software/jiffy-market-stories)
+<details>
+<summary>Jiffy Market Stories</summary>
 
 Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs.
 
@@ -177,11 +214,14 @@ Make the experience of keeping tracking stock performance fun and interactive wi
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Nasdaq - Best Re-imagination of Market
 - **Devpost checked** 2026-11-21 UTC
-- **Nasdaq** A user opens the app, takes a picture of a company's logo, and the company's brand name will be recognized. Devpost gives no specific sponsor integration detail.
+- **Nasdaq · Sponsor Prize - Nasdaq - Best Re-imagination of Market** A user opens the app, takes a picture of a company's logo, and the company's brand name will be recognized.
+
+</details>
 
 <a name="project-mit-sorting-hat"></a>
 
-### [MIT Sorting Hat, Harry Potter Style](https://devpost.com/software/mit-sorting-hat)
+<details>
+<summary>MIT Sorting Hat, Harry Potter Style</summary>
 
 Find your dorm culture fit Harry Potter Style.
 
@@ -191,11 +231,14 @@ Find your dorm culture fit Harry Potter Style.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Samsara - Best IoT Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Samsara** This sorting hat imitates the Harry Potter experience. Devpost gives no specific sponsor integration detail.
+- **Samsara · Sponsor Prize - Samsara - Best IoT Hack** This sorting hat imitates the Harry Potter experience.
+
+</details>
 
 <a name="project-newsmap-zl5f0r"></a>
 
-### [NewsMap](https://devpost.com/software/newsmap-zl5f0r)
+<details>
+<summary>NewsMap</summary>
 
 NewsMap utilizes global market visualization software to provide a real-time visualization of news reports mentioning companies across the world in over 65 languages.
 
@@ -205,11 +248,14 @@ NewsMap utilizes global market visualization software to provide a real-time vis
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Goldman Sachs - Second Best Data Visualization
 - **Devpost checked** 2026-11-21 UTC
-- **Goldman Sachs** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Goldman Sachs · Sponsor Prize - Goldman Sachs - Second Best Data Visualization** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-nova-ytczl4"></a>
 
-### [Nova](https://devpost.com/software/nova-ytczl4)
+<details>
+<summary>Nova</summary>
 
 An interactive community game with wearable devices that harness storytelling and emotive design.
 
@@ -219,11 +265,14 @@ An interactive community game with wearable devices that harness storytelling an
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Category Prize - Master of Both Worlds · Sponsor Prize - Disney - Best Use of Storytelling
 - **Devpost checked** 2026-11-21 UTC
-- **Disney** Nova communicates with the user through lights and sound. Devpost gives no specific sponsor integration detail.
+- **Disney · Sponsor Prize - Disney - Best Use of Storytelling** Nova communicates with the user through lights and sound.
+
+</details>
 
 <a name="project-nsar"></a>
 
-### [NSAR](https://devpost.com/software/nsar)
+<details>
+<summary>NSAR</summary>
 
 Get personal details of someone just by looking at them with the magic of a HoloLens, face recognition, and Facebook.
 
@@ -233,11 +282,14 @@ Get personal details of someone just by looking at them with the magic of a Holo
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Facebook - Best Use of Facebook API
 - **Devpost checked** 2026-11-21 UTC
-- **Meta** NSAR shows names and other details next to the faces of people you look at with a HoloLens. Devpost gives no specific sponsor integration detail.
+- **Meta · Sponsor Prize - Facebook - Best Use of Facebook API** NSAR shows names and other details next to the faces of people you look at with a HoloLens.
+
+</details>
 
 <a name="project-pixelator"></a>
 
-### [Pixelator](https://devpost.com/software/pixelator)
+<details>
+<summary>Pixelator</summary>
 
 The product takes blurry images and makes them more readable.
 
@@ -247,11 +299,14 @@ The product takes blurry images and makes them more readable.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** General Prize - First Place · Sponsor Prize - IBM - Most Innovative Use of IBM Technology
 - **Devpost checked** 2026-11-21 UTC
-- **IBM** The team used python3 and the IBM Watson library.
+- **IBM · Sponsor Prize - IBM - Most Innovative Use of IBM Technology** The team used python3 and the IBM Watson library.
+
+</details>
 
 <a name="project-plotroomba"></a>
 
-### [PlotRoomba](https://devpost.com/software/plotroomba)
+<details>
+<summary>PlotRoomba</summary>
 
 Use your favorite cleaning robot to transform the floor into a canvas for Mathematica plots.
 
@@ -261,12 +316,15 @@ Use your favorite cleaning robot to transform the floor into a canvas for Mathem
 - **Demo video** None listed in recognized formats.
 - **All event prizes (3)** General Prize - Runner Up · Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack · Sponsor Prize - Wolfram Alpha - Best Use of Wolfram Technologies
 - **Devpost checked** 2026-11-21 UTC
-- **iRobot** The project lists irobot-create2 among its Built With tags.
-- **Wolfram** The project lists wolfram-development-platform, wolfram-mathematica among its Built With tags.
+- **iRobot · Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack** The project lists irobot-create2 among its Built With tags.
+- **Wolfram · Sponsor Prize - Wolfram Alpha - Best Use of Wolfram Technologies** The project lists wolfram-development-platform, wolfram-mathematica among its Built With tags.
+
+</details>
 
 <a name="project-pure-interact"></a>
 
-### [Pure Interaction](https://devpost.com/software/pure-interact)
+<details>
+<summary>Pure Interaction</summary>
 
 Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Learning.
 
@@ -276,11 +334,14 @@ Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Lear
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Microsoft - Best Microsoft Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Microsoft** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Microsoft · Sponsor Prize - Microsoft - Best Microsoft Hack** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-news-sentiment"></a>
 
-### [Resent(i)ment Analysis](https://devpost.com/software/news-sentiment)
+<details>
+<summary>Resent(i)ment Analysis</summary>
 
 The team describes the project as “We use Baidu's Paddle Deep Learning framework to uncover and call attention to online harassment and its biases”.
 
@@ -290,11 +351,14 @@ The team describes the project as “We use Baidu's Paddle Deep Learning framewo
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Baidu - Best Paddle Hack: First Place
 - **Devpost checked** 2026-11-21 UTC
-- **Baidu** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Baidu · Sponsor Prize - Baidu - Best Paddle Hack: First Place** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-saje-planning"></a>
 
-### [SAJE Planning - Spice up your plans](https://devpost.com/software/saje-planning)
+<details>
+<summary>SAJE Planning - Spice up your plans</summary>
 
 A travel itinerary generator for all major cities.
 
@@ -304,11 +368,14 @@ A travel itinerary generator for all major cities.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=kAxDxnKp8_s)
 - **All event prizes (1)** Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up
 - **Devpost checked** 2026-11-21 UTC
-- **Jumpstart** The team are an easy-to-use website that will take your current location, interests, and generate a custom itinerary that will fill the time you have to kill. Devpost gives no specific sponsor integration detail.
+- **Jumpstart · Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up** The team are an easy-to-use website that will take your current location, interests, and generate a custom itinerary that will fill the time you have to kill.
+
+</details>
 
 <a name="project-seqr-scanner-and-generator"></a>
 
-### [SeQR Scanner and Generator](https://devpost.com/software/seqr-scanner-and-generator)
+<details>
+<summary>SeQR Scanner and Generator</summary>
 
 The product encrypts QR codes such that, if scanned by someone who is not authorized to see them, they present an incomprehensible amalgamation of symbols.
 
@@ -318,11 +385,14 @@ The product encrypts QR codes such that, if scanned by someone who is not author
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up
 - **Devpost checked** 2026-11-21 UTC
-- **Google** This was built using cloud functions and Firebase as the back end and a Native-react front end.
+- **Google · Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up** This was built using cloud functions and Firebase as the back end and a Native-react front end.
+
+</details>
 
 <a name="project-smartpaths-5d6mzq"></a>
 
-### [SmartPaths](https://devpost.com/software/smartpaths-5d6mzq)
+<details>
+<summary>SmartPaths</summary>
 
 Determine the best path from two inside-building points scanning automatically the maps and based on crowd movements.
 
@@ -332,11 +402,14 @@ Determine the best path from two inside-building points scanning automatically t
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Goldman Sachs - Best Data Visualization
 - **Devpost checked** 2026-11-21 UTC
-- **Goldman Sachs** Moreover, using fictional crowd data, it avoids big crowds so that it is safer and faster to walk inside buildings. Devpost gives no specific sponsor integration detail.
+- **Goldman Sachs · Sponsor Prize - Goldman Sachs - Best Data Visualization** Moreover, using fictional crowd data, it avoids big crowds so that it is safer and faster to walk inside buildings.
+
+</details>
 
 <a name="project-travelar-g4sq6y"></a>
 
-### [TravelAR](https://devpost.com/software/travelar-g4sq6y)
+<details>
+<summary>TravelAR</summary>
 
 TravelAR is an iOS travel application built using Apple's ARKit.
 
@@ -346,5 +419,7 @@ TravelAR is an iOS travel application built using Apple's ARKit.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ACneUIVByaY)
 - **All event prizes (2)** Sponsor Prize - Amadeus - Best Use of Amadeus APIs · Sponsor Prize - Concur - Best Travel Hack
 - **Devpost checked** 2026-11-21 UTC
-- **Amadeus** The project lists amadeus among its Built With tags.
-- **SAP Concur** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Amadeus · Sponsor Prize - Amadeus - Best Use of Amadeus APIs** The project lists amadeus among its Built With tags.
+- **SAP Concur · Sponsor Prize - Concur - Best Travel Hack** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>

@@ -1,69 +1,79 @@
 # Hack the North 2025
 
-[Devpost gallery](https://hackthenorth2025.devpost.com/project-gallery) · [Official prize rules](https://hackthenorth2025.devpost.com/) · [Winners index](../README.md)
+**44 projects · 27 sponsors · 50 prize rows**
 
-44 projects and 50 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://hackthenorth2025.devpost.com/project-gallery) · [Official prize rules](https://hackthenorth2025.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** python (29), typescript (16), javascript (14)
+- **Common project areas** Education and learning (4), Accessibility and assistive tools (3), Finance and commerce (3)
+- **Common demo formats** Web app or dashboard (13), AR, VR or spatial (4), Voice or conversational interface (4)
+- **Projects with a listed demo video** 31 of 44
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Fragments](#project-fragments-gmleoj) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) | Amazon: AWS Campus Champions - Best Use of DynamoDB Streams | — | Format Optimization : The original WebM video files are converted using FFmpeg to GIFs &amp; MP4s, stored in S3, and then stored with the video metadata in DynamoDB. | 2 |
-| [Sematic](#project-diaframe) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) | Amazon: AWS Campus Champions - Best Use of DynamoDB Streams | — | The team built Sematic on AWS Amplify Gen 2, with AWS Lambda functions orchestrating calls to Google's Gemini 2.0 Flash API. | 1 |
-| [TradeOff](#project-tradeoff-c24mwv) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) | Amazon: AWS Campus Champions - Best Use of DynamoDB Streams | — | The project lists dynamodb among its Built With tags. | 1 |
-| [Tunnel](#project-tunnel-dqv1k4) | [Auth0](../by-sponsor/auth0.md) | MLH: Best Use of Auth0 | — | Multi-Tenant Isolation Each user's workspace is completely isolated using Auth0's tenant features. | 2 |
-| [RepoStory](#project-placeholder-it3zq7) | [Cerebras](../by-sponsor/cerebras.md) | Cerebras: Best Use of Cerebras | — | Cerebras was especially important; it was significantly faster than every other model, which let the team provide a seamless timeline streaming interface. | 1 |
-| [CompOnion](#project-componion-7bpaxc) | [Cloudflare](../by-sponsor/cloudflare.md) | MLH: Best AI Application Built with Cloudflare | — | The project lists cloudflare among its Built With tags. | 1 |
-| [Deepsint](#project-deepsint) | [Cohere](../by-sponsor/cohere.md) | Cohere: Best Use of Cohere API | — | The project lists cohere among its Built With tags. | 1 |
-| [Fragments](#project-fragments-gmleoj) | [Cohere](../by-sponsor/cohere.md) | Cohere: Best Use of Cohere API | — | Cohere Vision AI Integration : Based on extracted frames, Cohere's vision AI model generates video summaries and intelligent tags. | 2 |
-| [Solshare](#project-solshare-cmxous) | [Cohere](../by-sponsor/cohere.md) | Cohere: Best Use of Cohere API | — | Cohere API – Handles receipt scanning and item parsing using a self-criticism learning process, reducing errors and automating item assignment. | 2 |
-| [Network Threat Explorer](#project-network-threat-explorer) | [Communications Security Establishment](../by-sponsor/communications-security-establishment.md) | CSE: Network Traffic Exploration | — | The project is made to help analyze threats and anomalies within network traffic. | 1 |
-| [Pew Pew](#project-pew-pew-9mi8pb) | [Communications Security Establishment](../by-sponsor/communications-security-establishment.md) | CSE: Network Traffic Exploration | — | Parses full Suricata fast.log once at startup Builds force-directed network graph (hosts + alert signature nodes) Simple z-score based anomaly detection on per-source alert volume Pure FastAPI + D3.js frontend. | 1 |
-| [YeetThePacket](#project-nocapnethack) | [Communications Security Establishment](../by-sponsor/communications-security-establishment.md) | CSE: Network Traffic Exploration | — | Detects events like port scans, brute-force attempts, beaconing/C2, suspicious connections, and data exfiltration from PCAPs. | 1 |
-| [SOTA Computer use agent challenge](#project-sota-computer-use-agent-challenge) | [Cua](../by-sponsor/cua.md) | Cua: Best State-of-the-Art Computer-Use Agent | — | The project lists cua among its Built With tags. | 1 |
-| [CourseIntelligence](#project-courseinteligence) | [Databricks](../by-sponsor/databricks.md) | Databricks: Best Use of Databricks | — | The project lists databricks among its Built With tags. | 1 |
-| [ScholarMarket](#project-scholarmarket) | [ETHGlobal](../by-sponsor/ethglobal.md) | ETHGlobal: Ethereum's Infinite Garden | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [TrueCount](#project-truecount) | [ETHGlobal](../by-sponsor/ethglobal.md) | ETHGlobal: Ethereum's Infinite Garden | — | The team're incredibly proud that True Count isn't just a technical demo—it's a solution with genuine real-world impact. | 1 |
-| [Optimate](#project-optimate) | [Federato](../by-sponsor/federato.md) | Federato: Best RiskOps Solution for Underwriters | — | The project lists federato-api among its Built With tags. | 2 |
-| [BeyondSight](#project-beyondsight-589mh7) | [Genesys](../by-sponsor/genesys.md) | Genesys: Empathy in Action with Genesys Cloud APIs | — | The project lists genesys among its Built With tags. | 1 |
-| [VibeMovie](#project-promptmotion) | [Google](../by-sponsor/google.md) | MLH: Best Use of Gemini API | — | The project lists gemini among its Built With tags. | 1 |
-| [Tango](#project-tango-q37d4z) | [Graphite](../by-sponsor/graphite.md) | Graphite: Engineering Dream Team | — | The team used Graphite to collaborate on this project and work asynchronously. | 2 |
-| [LeafPilot](#project-leafpilot) | [Groq](../by-sponsor/groq.md) | Groq | — | AI Integration : Groq as the inference engine powering LaTeX generation, file summarization, mp3 transcription, and embedding-based retrieval. | 1 |
-| [One Take](#project-one-take) | [Groq](../by-sponsor/groq.md) | Groq | — | The project lists groq among its Built With tags. | 1 |
-| [Orbit](#project-orbit-59jths) | [Groq](../by-sponsor/groq.md) | Groq | — | The project lists groq among its Built With tags. | 2 |
-| [SpeakEasy](#project-speakeasy-arzjmb) | [Groq](../by-sponsor/groq.md) | Groq | — | The team integrated Gemini’s object detection model to understand the user’s surroundings and ran it through Groq for ultra-fast language generation. | 1 |
-| [LangSketch](#project-langsketch) | [Martian](../by-sponsor/martian.md) | Martian: LLM Routing with Martian | — | LangSketch is a comprehensive platform that democratizes agentic AI development through a visual, no-code interface. | 1 |
-| [Morph](#project-morph-jcot4m) | [MongoDB](../by-sponsor/mongodb.md) | MLH: Best Use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [QNX-RasPi-Setup-Util](#project-qnx-raspi-setup-util) | [QNX](../by-sponsor/qnx.md) | QNX: Best Use of QNX: Hardware and Software Prizes | — | QNX Software Development Platform 8.0, QNX Toolkit, and Docker Build Environment for QNX on macOS are used to power the program development and building environment. | 1 |
-| [QNXMobility](#project-canqnx) | [QNX](../by-sponsor/qnx.md) | QNX: Best Use of QNX: Hardware and Software Prizes | — | The project lists qnx among its Built With tags. | 1 |
-| [Honkanomics](#project-honkanomics) | [RBC](../by-sponsor/rbc.md) | RBC: RBC InvestEase - Investing for the Future | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Money Talks](#project-money-talks-d93izn) | [RBC](../by-sponsor/rbc.md) | RBC: RBC InvestEase - Investing for the Future | — | RBC API integration for realistic investment projections. | 1 |
-| [Help Me If You Can](#project-help-me-if-you-can) | [Ripple](../by-sponsor/ripple.md) | Ripple: Best in Ledger Award | — | The project lists ripple among its Built With tags. | 1 |
-| [RippleRelief](#project-ripplerelief) | [Ripple](../by-sponsor/ripple.md) | Ripple: Best in Ledger Award | — | The project lists ripple among its Built With tags. | 1 |
-| [Token Turrets](#project-token-turrets) | [Ripple](../by-sponsor/ripple.md) | Ripple: Best in Ledger Award | — | Token Turrets is a real-time multiplayer tank battle where anyone can create a room, start a tournament pot, and let the players fight it out. | 1 |
-| [Lavoe](#project-lavoe) | [Rox](../by-sponsor/rox.md) | Rox: Best AI Agent | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [socialCRM](#project-socialcrm) | [Rox](../by-sponsor/rox.md) | Rox: Best AI Agent | — | Creator Intelligence is a platform that brings Agentic CRM vision to the content creation world. | 1 |
-| [Tarazoo](#project-tarazoo) | [Shopify](../by-sponsor/shopify.md) | Shopify: Hack Shopping with AI | — | The project lists shopify among its Built With tags. | 1 |
-| [ARchemy](#project-archemy) | [Snap](../by-sponsor/snap.md) | Snap: Spectacles AR Hackathon: Game On! | — | Using Snap Spectacles and Snap3D, players can pick up, merge, and transform objects around them into entirely new creations. | 1 |
-| [CRASH OUT!](#project-crash-out-bte6q0) | [Snap](../by-sponsor/snap.md) | Snap: Spectacles AR Hackathon: Game On! | — | The project lists spectacle among its Built With tags. | 1 |
-| [SpectraSphere](#project-htn-zq6138) | [Snap](../by-sponsor/snap.md) | Snap: Spectacles AR Hackathon: Game On! | — | SpectraSphere turns your prompts and images into immersive AR stories 🌌 that you can step inside using Snapchat Spectacles. | 1 |
-| [Solshare](#project-solshare-cmxous) | [Solana](../by-sponsor/solana.md) | Solana: Best Consumer Payment Experience with Solana Pay | — | Settle payments instantly via blockchain (Solana): Payments are trustless and immediate, without relying on traditional bank integration. | 2 |
-| [Stacy](#project-stacy-g7zptj) | [Vapi](../by-sponsor/vapi.md) | VAPI: Best Voice AI Application | — | The project lists vapi among its Built With tags. | 1 |
-| [Tunnel](#project-tunnel-dqv1k4) | [Vapi](../by-sponsor/vapi.md) | VAPI: Best Voice AI Application | — | The project lists vapi among its Built With tags. | 2 |
-| [Vraille](#project-vraille) | [Vapi](../by-sponsor/vapi.md) | VAPI: Best Voice AI Application | — | The project lists vapi among its Built With tags. | 1 |
-| [Puppeteer](#project-puppeteer-7429qv) | [Warp](../by-sponsor/warp.md) | Warp: Best Developer Tool by Warp | — | Puppeteer looks deeper into the runtime by probing into variables. | 2 |
-| [Aircraft Studio](#project-aircraft-studio) | [Windsurf](../by-sponsor/windsurf.md) | Windsurf: Best Project built with Windsurf | — | Windsurf: Built and iterated entirely in an AI‑native IDE workflow to accelerate feature delivery. | 1 |
-| [Lavoe](#project-lavoe) | [Windsurf](../by-sponsor/windsurf.md) | Windsurf: Best Project built with Windsurf | — | The project lists windsurf among its Built With tags. | 2 |
-| [Orbit](#project-orbit-59jths) | [Windsurf](../by-sponsor/windsurf.md) | Windsurf: Best Project built with Windsurf | — | Instant face recognition pulls public profiles the moment someone enters your view. | 2 |
-| [Evident AI](#project-evident-ai) | [Y Combinator](../by-sponsor/y-combinator.md) | Y Combinator: Unicorn Prize | — | Evident AI orchestrates specialized AI agents across the full evidence lifecycle:. | 1 |
-| [Optimate](#project-optimate) | [Y Combinator](../by-sponsor/y-combinator.md) | Y Combinator: Unicorn Prize | — | Optimate is an AI-powered underwriting dashboard designed to make risk assessment smarter, faster, and more transparent. | 2 |
-| [ShapeShift](#project-shapeshift-kvhjxr) | [Y Combinator](../by-sponsor/y-combinator.md) | Y Combinator: Unicorn Prize | — | ShapeShift is an innovative, browser-based 3D modeling platform that transforms your webcam into a powerful creation tool. | 1 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Fragments](https://devpost.com/software/fragments-gmleoj) · [demo](https://www.youtube.com/watch?v=rs7uaWL67tQ) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) · Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · [details](#project-fragments-gmleoj) | Clip, save, and organize the exact moments that spark your ideas. | amazon-web-services, cohere, css |
+| [Sematic](https://devpost.com/software/diaframe) · [code](https://github.com/koralkulacoglu/sematic) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) · Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · [details](#project-diaframe) | AI Powered Voice-Based Systems Design Tool. | amazon-dynamodb, amazon-web-services, amplify |
+| [TradeOff](https://devpost.com/software/tradeoff-c24mwv) · [code](https://github.com/redmac135/TradeOff) · [demo](https://www.youtube.com/watch?v=KtQ0IwOUMy4) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) · Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · [details](#project-tradeoff-c24mwv) | Stock market simulation game where students race to beat the market. | dynamodb, api, cerebras |
+| [Tunnel](https://devpost.com/software/tunnel-dqv1k4) · [code](https://github.com/krish1905/tunnel) · [demo](https://www.youtube.com/watch?v=d6M5oSDxqxw) | [Auth0](../by-sponsor/auth0.md) · MLH: Best Use of Auth0 · [details](#project-tunnel-dqv1k4) | AI Agents for Simulated Market Research. | auth0, cloudflare, cohere |
+| [RepoStory](https://devpost.com/software/placeholder-it3zq7) · [code](https://github.com/zjteachen/RepoStory) · [demo](https://www.youtube.com/watch?v=PFAQEJIiuBQ) | [Cerebras](../by-sponsor/cerebras.md) · Best Use of Cerebras · [details](#project-placeholder-it3zq7) | Learn about the process of how any GitHub project came to be! Get a timeline of the project construction… | cerebras, fastapi, git |
+| [CompOnion](https://devpost.com/software/componion-7bpaxc) | [Cloudflare](../by-sponsor/cloudflare.md) · MLH: Best AI Application Built with Cloudflare · [details](#project-componion-7bpaxc) | Friend asking you silly questions mid-show-dialogue during the climax? No fear, CompOnion (a play on words… | cloudflare, gemini, javascript |
+| [Deepsint](https://devpost.com/software/deepsint) · [code](https://github.com/Sai-sys-cmd/Deepsint) | [Cohere](../by-sponsor/cohere.md) · Best Use of Cohere API · [details](#project-deepsint) | An OSINT tool specializes in generating an accurate profile card from a username by leveraging artificial… | cohere, python, sqlite |
+| [Fragments](https://devpost.com/software/fragments-gmleoj) · [demo](https://www.youtube.com/watch?v=rs7uaWL67tQ) | [Cohere](../by-sponsor/cohere.md) · Best Use of Cohere API · [details](#project-fragments-gmleoj) | Clip, save, and organize the exact moments that spark your ideas. | cohere, amazon-web-services, css |
+| [Solshare](https://devpost.com/software/solshare-cmxous) | [Cohere](../by-sponsor/cohere.md) · Best Use of Cohere API · [details](#project-solshare-cmxous) | Splitting bills with friends is messy—receipts get lost, people forget to pay, and tracking balances is a… | cohere, firebase, gcp |
+| [Network Threat Explorer](https://devpost.com/software/network-threat-explorer) · [code](https://github.com/JeremyFriesenGitHub/nte) · [demo](https://www.youtube.com/watch?v=ZuAKIEh6PcA) | [Communications Security Establishment](../by-sponsor/communications-security-establishment.md) · CSE: Network Traffic Exploration · [details](#project-network-threat-explorer) | Insightful Network Traffic Visualization and Analysis. | arkime, cohere, duckdb |
+| [Pew Pew](https://devpost.com/software/pew-pew-9mi8pb) · [code](https://github.com/stony-su/network-traffic-ai) | [Communications Security Establishment](../by-sponsor/communications-security-establishment.md) · CSE: Network Traffic Exploration · [details](#project-pew-pew-9mi8pb) | Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into a forensic-ready narrative by… | css, fastapi, html5 |
+| [YeetThePacket](https://devpost.com/software/nocapnethack) · [code](https://github.com/ashokcpg/YeetThePacket) | [Communications Security Establishment](../by-sponsor/communications-security-establishment.md) · CSE: Network Traffic Exploration · [details](#project-nocapnethack) | From packets to plain‑English, actionable security narratives. | bash, cohere, docker |
+| [SOTA Computer use agent challenge](https://devpost.com/software/sota-computer-use-agent-challenge) · [code](https://github.com/Ram-Raghav-S/cua) | [Cua](../by-sponsor/cua.md) · Best State-of-the-Art Computer-Use Agent · [details](#project-sota-computer-use-agent-challenge) | Competing to build a SOTA computer use agent (Cua + Hud + Ollama). | cua, hud, ollama |
+| [CourseIntelligence](https://devpost.com/software/courseinteligence) · [code](https://github.com/SultanAlzoghaibi/Hack-the-North-2025) | [Databricks](../by-sponsor/databricks.md) · Best Use of Databricks · [details](#project-courseinteligence) | The team describes the project as “Making academic and professional lives easier for students around the… | databricks, css, html |
+| [ScholarMarket](https://devpost.com/software/scholarmarket) · [code](https://github.com/joshua-z-zheng/hack-the-north-2025) · [demo](https://www.youtube.com/watch?v=a8MW0_Mg53o) | [ETHGlobal](../by-sponsor/ethglobal.md) · Ethereum's Infinite Garden · [details](#project-scholarmarket) | ScholarMarket is essentially Polymarket for students to bet on their grades. | auth0, express.js, mongodb |
+| [TrueCount](https://devpost.com/software/truecount) · [code](https://github.com/MartinPatr/TrueCount) · [demo](https://www.youtube.com/watch?v=DhhBWVDUrU4) | [ETHGlobal](../by-sponsor/ethglobal.md) · Ethereum's Infinite Garden · [details](#project-truecount) | Voting outcomes often face backlash. That’s why trust matters. | hardhat, rainbowkit, react |
+| [Optimate](https://devpost.com/software/optimate) · [code](https://github.com/jruttan1/Optimate) · [demo](https://www.youtube.com/watch?v=R8M0fgPcW_Y) | [Federato](../by-sponsor/federato.md) · Best RiskOps Solution for Underwriters · [details](#project-optimate) | Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning. | federato-api, amazon-dynamodb, auth0 |
+| [BeyondSight](https://devpost.com/software/beyondsight-589mh7) · [code](https://github.com/WhyILived/BeyondSight) · [demo](https://www.youtube.com/watch?v=tEvHlx3xCRA) | [Genesys](../by-sponsor/genesys.md) · Empathy in Action with Genesys Cloud APIs · [details](#project-beyondsight-589mh7) | BeyondSight is a full wearable ecosystem designed to empower DeafBlind individuals with independence,… | genesys, docker, elevenlabs |
+| [VibeMovie](https://devpost.com/software/promptmotion) · [code](https://github.com/EvanJYHe/vibe-movie) · [demo](https://www.youtube.com/watch?v=CYJZUQVHnmU) | [Google](../by-sponsor/google.md) · MLH: Best Use of Gemini API · [details](#project-promptmotion) | VibeMovie is an AI-native video editor that turns natural language into a rendered video. | gemini, docker, express.js |
+| [Tango](https://devpost.com/software/tango-q37d4z) · [code](https://github.com/demanr/tango) · [demo](https://www.youtube.com/watch?v=sK-WvZZubcc) | [Graphite](../by-sponsor/graphite.md) · Engineering Dream Team · [details](#project-tango-q37d4z) | Siri if it actually worked on your Mac. | agent, ai, gemini |
+| [LeafPilot](https://devpost.com/software/leafpilot) · [code](https://github.com/jbauerko/LeafPilot) · [demo](https://www.youtube.com/watch?v=NnTAQ1qyRsg) | [Groq](../by-sponsor/groq.md) · Groq · [details](#project-leafpilot) | LeafPilot is an AI-powered LaTeX editor, built for education. Ask about a concept, upload rough notes or… | groq, fastapi, manim |
+| [One Take](https://devpost.com/software/one-take) · [code](https://github.com/NikhilHooda/One-Take) · [demo](https://www.youtube.com/watch?v=pDBiWdD8Y8M) | [Groq](../by-sponsor/groq.md) · Groq · [details](#project-one-take) | One Take generates professional product demos in minutes. Provide your GitHub or website URL, One Take… | groq, chromium, cohere |
+| [Orbit](https://devpost.com/software/orbit-59jths) · [code](https://github.com/qiuethan/Orbit) · [demo](https://www.youtube.com/watch?v=-XV-iJZak3I) | [Groq](../by-sponsor/groq.md) · Groq · [details](#project-orbit-59jths) | Real-time facial recognition that identifies connections, remembers conversations, and maps your professional… | groq, cerebras, deepface |
+| [SpeakEasy](https://devpost.com/software/speakeasy-arzjmb) · [code](https://github.com/ammiellewb/SpeakEasy-public) · [demo](https://www.youtube.com/watch?v=8TX48L2IG18) | [Groq](../by-sponsor/groq.md) · Groq · [details](#project-speakeasy-arzjmb) | SpeakEasy gives nonverbal users a voice. Built on Snap Spectacles, it detects the world around them, offers… | groq, bluetooth, gemini |
+| [LangSketch](https://devpost.com/software/langsketch) · [code](https://github.com/rajshah6/langsketch) · [demo](https://www.youtube.com/watch?v=L6CZgvak0hQ) | [Martian](../by-sponsor/martian.md) · LLM Routing with Martian · [details](#project-langsketch) | LangSketch is a visual agent builder that leverages Databricks for data processing and Martian rule routing… | appimage, asteval, chart.js |
+| [Morph](https://devpost.com/software/morph-jcot4m) · [demo](https://www.youtube.com/watch?v=32oY_iV8jRo) | [MongoDB](../by-sponsor/mongodb.md) · MLH: Best Use of MongoDB Atlas · [details](#project-morph-jcot4m) | Vibe CAD to 3D print the solutions to everyday problems in your environment, Tony Stark style, no design… | mongodb, fastapi, javascript |
+| [QNX-RasPi-Setup-Util](https://devpost.com/software/qnx-raspi-setup-util) · [code](https://github.com/Qubik65536/QNX-RasPi-Setup-Util) | [QNX](../by-sponsor/qnx.md) · Best Use of QNX: Hardware and Software Prizes · [details](#project-qnx-raspi-setup-util) | Configuring your QNX Raspberry Pi can be a long and boring process. Accelerate it with QNX-RasPi-Setup-Util,… | qnx, c++, cmake |
+| [QNXMobility](https://devpost.com/software/canqnx) | [QNX](../by-sponsor/qnx.md) · Best Use of QNX: Hardware and Software Prizes · [details](#project-canqnx) | In a world where productivity is everything, every second counts, time spent away from the desk is time… | qnx, o-drive, python |
+| [Honkanomics](https://devpost.com/software/honkanomics) · [code](https://github.com/svn05/v2webhonkonomics) | [RBC](../by-sponsor/rbc.md) · RBC InvestEase - Investing for the Future · [details](#project-honkanomics) | Learn investing through AI-tailored lessons, playful goose gamification, and real portfolio simulations… | gemeni, investease, next.js |
+| [Money Talks](https://devpost.com/software/money-talks-d93izn) · [code](https://github.com/KadenDaya/Money-Talks-HTN-2025-Winner) · [demo](https://www.youtube.com/watch?v=Y2xe-7n20gI) | [RBC](../by-sponsor/rbc.md) · RBC InvestEase - Investing for the Future · [details](#project-money-talks-d93izn) | Money Talks transforms raw bank statements into actionable financial insights through:. | fastapi, investeasyapi, martian |
+| [Help Me If You Can](https://devpost.com/software/help-me-if-you-can) · [code](https://github.com/Afformativ/HackTheNorth) · [demo](https://www.youtube.com/watch?v=s_kBH_H0Pmw) | [Ripple](../by-sponsor/ripple.md) · Best in Ledger Award · [details](#project-help-me-if-you-can) | A task &amp; reward hub with AI-powered candidate matching and XRPL payments. | ripple, flask, gemini |
+| [RippleRelief](https://devpost.com/software/ripplerelief) · [code](https://github.com/peterson-htn252/PulseRelief) | [Ripple](../by-sponsor/ripple.md) · Best in Ledger Award · [details](#project-ripplerelief) | RippleRelief is a web app that connects donors, NGOs, recipients, and merchants in a transparent aid… | ripple, flask, javascript |
+| [Token Turrets](https://devpost.com/software/token-turrets) · [code](https://github.com/KlausMikhaelson/hackthenorth) · [demo](https://www.youtube.com/watch?v=PfwjjiSaMgU) | [Ripple](../by-sponsor/ripple.md) · Best in Ledger Award · [details](#project-token-turrets) | Play, Pay, Pulverize - on chain! ⛓️‍💥. | escrow, express.js, ipfs |
+| [Lavoe](https://devpost.com/software/lavoe) · [code](https://github.com/Leonardomontesqui/Lavoe) · [demo](https://www.youtube.com/watch?v=ISKuDB2s1jM) | [Rox](../by-sponsor/rox.md) · Best AI Agent · [details](#project-lavoe) | Lavoe provides an intuitive and AI-augmented DAW interface with features designed to streamline creativity:. | ai-sdk, claude, cohere |
+| [socialCRM](https://devpost.com/software/socialcrm) · [code](https://github.com/ochen1/creator-intelligence) | [Rox](../by-sponsor/rox.md) · Best AI Agent · [details](#project-socialcrm) | Turning creators into data-driven businesses through the power of AI. | javascript, node.js, openai |
+| [Tarazoo](https://devpost.com/software/tarazoo) · [code](https://github.com/MeharPro/Tarazoo) · [demo](https://www.youtube.com/watch?v=6TfBS77bEAU) | [Shopify](../by-sponsor/shopify.md) · Hack Shopping with AI · [details](#project-tarazoo) | An e-commerce platform with two faces: customers checkout by camera no barcode, just the item’s look while… | shopify, claude, cohere |
+| [ARchemy](https://devpost.com/software/archemy) · [code](https://github.com/jasonnpan/ARchemy) · [demo](https://www.youtube.com/watch?v=-qdRSClgbJA) | [Snap](../by-sponsor/snap.md) · Spectacles AR Hackathon: Game On! · [details](#project-archemy) | Did you ever want to learn alchemy, but you were limited by the laws of physics? Well, fret no more. | spectacles, ar, cloudflare |
+| [CRASH OUT!](https://devpost.com/software/crash-out-bte6q0) · [code](https://github.com/dagsion/HTN25_CRASHOUT) · [demo](https://www.youtube.com/watch?v=222g1xCWzGk) | [Snap](../by-sponsor/snap.md) · Spectacles AR Hackathon: Game On! · [details](#project-crash-out-bte6q0) | lets you crash out, whenever, wherever, whatever (on the drums). | spectacle, adc, ar |
+| [SpectraSphere](https://devpost.com/software/htn-zq6138) · [code](https://github.com/tyseer2335/SpectraSphere) · [demo](https://vimeo.com/1118489387) | [Snap](../by-sponsor/snap.md) · Spectacles AR Hackathon: Game On! · [details](#project-htn-zq6138) | Turning snapshots into spaces you can actually explore. | lens-studio-sdk, snap-spectacles, cohere |
+| [Solshare](https://devpost.com/software/solshare-cmxous) | [Solana](../by-sponsor/solana.md) · Best Consumer Payment Experience with Solana Pay · [details](#project-solshare-cmxous) | Splitting bills with friends is messy—receipts get lost, people forget to pay, and tracking balances is a… | solana, cohere, firebase |
+| [Stacy](https://devpost.com/software/stacy-g7zptj) · [code](https://github.com/apollo-ullah/HackTheNorth2025) · [demo](https://www.youtube.com/watch?v=nHx5KazGawQ) | [Vapi](../by-sponsor/vapi.md) · Best Voice AI Application · [details](#project-stacy-g7zptj) | Stacy is a voice safety companion. Stacy logs incidents, your live location, alerts your loved ones, and… | vapi, openai, swift |
+| [Tunnel](https://devpost.com/software/tunnel-dqv1k4) · [code](https://github.com/krish1905/tunnel) · [demo](https://www.youtube.com/watch?v=d6M5oSDxqxw) | [Vapi](../by-sponsor/vapi.md) · Best Voice AI Application · [details](#project-tunnel-dqv1k4) | AI Agents for Simulated Market Research. | vapi, auth0, cloudflare |
+| [Vraille](https://devpost.com/software/vraille) · [code](https://github.com/KaivalSShah/vraille-htn2025) · [demo](https://www.youtube.com/watch?v=4gdPROUsaRw) | [Vapi](../by-sponsor/vapi.md) · Best Voice AI Application · [details](#project-vraille) | Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gemini-Powered Glasses &amp; Dynamic… | vapi, arduino, c++ |
+| [Puppeteer](https://devpost.com/software/puppeteer-7429qv) · [code](https://github.com/BrianLi23/puppeteer) · [demo](https://www.youtube.com/watch?v=_AtQyyInhEY) | [Warp](../by-sponsor/warp.md) · Best Developer Tool by Warp · [details](#project-puppeteer-7429qv) | Bring your code to life. Orchestrate your code in the runtime. | agents, ai, cohere |
+| [Aircraft Studio](https://devpost.com/software/aircraft-studio) · [code](https://github.com/YehyunLee/aircraft-studio) · [demo](https://www.youtube.com/watch?v=QkZTAo8Ba2k) | [Windsurf](../by-sponsor/windsurf.md) · Best Project built with Windsurf · [details](#project-aircraft-studio) | Design 3D aircraft using AI, and simulate piloting them in AR. On mobile browser--no app needed. | windsurf, auth0, flux |
+| [Lavoe](https://devpost.com/software/lavoe) · [code](https://github.com/Leonardomontesqui/Lavoe) · [demo](https://www.youtube.com/watch?v=ISKuDB2s1jM) | [Windsurf](../by-sponsor/windsurf.md) · Best Project built with Windsurf · [details](#project-lavoe) | Lavoe provides an intuitive and AI-augmented DAW interface with features designed to streamline creativity:. | windsurf, ai-sdk, claude |
+| [Orbit](https://devpost.com/software/orbit-59jths) · [code](https://github.com/qiuethan/Orbit) · [demo](https://www.youtube.com/watch?v=-XV-iJZak3I) | [Windsurf](../by-sponsor/windsurf.md) · Best Project built with Windsurf · [details](#project-orbit-59jths) | Real-time facial recognition that identifies connections, remembers conversations, and maps your professional… | cerebras, deepface, fastapi |
+| [Evident AI](https://devpost.com/software/evident-ai) · [code](https://github.com/asalsali/evidentai-main) · [demo](https://www.youtube.com/watch?v=q6GD46dyJok) | [Y Combinator](../by-sponsor/y-combinator.md) · Unicorn Prize · [details](#project-evident-ai) | Automatically transforms bodycam footage into professional evidence reports using AI. | css, django, javascript |
+| [Optimate](https://devpost.com/software/optimate) · [code](https://github.com/jruttan1/Optimate) · [demo](https://www.youtube.com/watch?v=R8M0fgPcW_Y) | [Y Combinator](../by-sponsor/y-combinator.md) · Unicorn Prize · [details](#project-optimate) | Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning. | amazon-dynamodb, auth0, aws-dynamodb |
+| [ShapeShift](https://devpost.com/software/shapeshift-kvhjxr) · [code](https://github.com/itsmarsss/shapeshift) · [demo](https://www.youtube.com/watch?v=X7lMr9bwjqM) | [Y Combinator](../by-sponsor/y-combinator.md) · Unicorn Prize · [details](#project-shapeshift-kvhjxr) | A gesture-first, AI-assisted 3D workspace where your hands craft the scene. | express.js, fal, flask |
 
 ## Project details
 
 <a name="project-aircraft-studio"></a>
 
-### [Aircraft Studio](https://devpost.com/software/aircraft-studio)
+<details>
+<summary>Aircraft Studio</summary>
 
 Design 3D aircraft using AI, and simulate piloting them in AR. On mobile browser--no app needed.
 
@@ -73,11 +83,14 @@ Design 3D aircraft using AI, and simulate piloting them in AR. On mobile browser
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=QkZTAo8Ba2k)
 - **All event prizes (1)** Windsurf: Best Project built with Windsurf
 - **Devpost checked** 2026-11-21 UTC
-- **Windsurf** Windsurf: Built and iterated entirely in an AI‑native IDE workflow to accelerate feature delivery.
+- **Windsurf · Windsurf: Best Project built with Windsurf** Windsurf: Built and iterated entirely in an AI‑native IDE workflow to accelerate feature delivery.
+
+</details>
 
 <a name="project-archemy"></a>
 
-### [ARchemy](https://devpost.com/software/archemy)
+<details>
+<summary>ARchemy</summary>
 
 Did you ever want to learn alchemy, but you were limited by the laws of physics? Well, fret no more.
 
@@ -87,11 +100,14 @@ Did you ever want to learn alchemy, but you were limited by the laws of physics?
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=-qdRSClgbJA)
 - **All event prizes (1)** Snap: Spectacles AR Hackathon: Game On!
 - **Devpost checked** 2026-11-21 UTC
-- **Snap** Using Snap Spectacles and Snap3D, players can pick up, merge, and transform objects around them into entirely new creations.
+- **Snap · Snap: Spectacles AR Hackathon: Game On!** Using Snap Spectacles and Snap3D, players can pick up, merge, and transform objects around them into entirely new creations.
+
+</details>
 
 <a name="project-beyondsight-589mh7"></a>
 
-### [BeyondSight](https://devpost.com/software/beyondsight-589mh7)
+<details>
+<summary>BeyondSight</summary>
 
 BeyondSight is a full wearable ecosystem designed to empower DeafBlind individuals with independence, communication, and safety.
 
@@ -101,11 +117,14 @@ BeyondSight is a full wearable ecosystem designed to empower DeafBlind individua
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=tEvHlx3xCRA)
 - **All event prizes (1)** Genesys: Empathy in Action with Genesys Cloud APIs
 - **Devpost checked** 2026-11-21 UTC
-- **Genesys** The project lists genesys among its Built With tags.
+- **Genesys · Genesys: Empathy in Action with Genesys Cloud APIs** The project lists genesys among its Built With tags.
+
+</details>
 
 <a name="project-componion-7bpaxc"></a>
 
-### [CompOnion](https://devpost.com/software/componion-7bpaxc)
+<details>
+<summary>CompOnion</summary>
 
 Friend asking you silly questions mid-show-dialogue during the climax? No fear, CompOnion (a play on words for Companion) is here.
 
@@ -115,11 +134,14 @@ Friend asking you silly questions mid-show-dialogue during the climax? No fear, 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** MLH: Best AI Application Built with Cloudflare
 - **Devpost checked** 2026-11-21 UTC
-- **Cloudflare** The project lists cloudflare among its Built With tags.
+- **Cloudflare · MLH: Best AI Application Built with Cloudflare** The project lists cloudflare among its Built With tags.
+
+</details>
 
 <a name="project-courseinteligence"></a>
 
-### [CourseIntelligence](https://devpost.com/software/courseinteligence)
+<details>
+<summary>CourseIntelligence</summary>
 
 The team describes the project as “Making academic and professional lives easier for students around the world! Our project scrapes community data to provide students with valuable information to simplify the course selection process”.
 
@@ -129,11 +151,14 @@ The team describes the project as “Making academic and professional lives easi
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Databricks: Best Use of Databricks
 - **Devpost checked** 2026-11-21 UTC
-- **Databricks** The project lists databricks among its Built With tags.
+- **Databricks · Databricks: Best Use of Databricks** The project lists databricks among its Built With tags.
+
+</details>
 
 <a name="project-crash-out-bte6q0"></a>
 
-### [CRASH OUT!](https://devpost.com/software/crash-out-bte6q0)
+<details>
+<summary>CRASH OUT!</summary>
 
 lets you crash out, whenever, wherever, whatever (on the drums).
 
@@ -143,11 +168,14 @@ lets you crash out, whenever, wherever, whatever (on the drums).
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=222g1xCWzGk)
 - **All event prizes (1)** Snap: Spectacles AR Hackathon: Game On!
 - **Devpost checked** 2026-11-21 UTC
-- **Snap** The project lists spectacle among its Built With tags.
+- **Snap · Snap: Spectacles AR Hackathon: Game On!** The project lists spectacle among its Built With tags.
+
+</details>
 
 <a name="project-deepsint"></a>
 
-### [Deepsint](https://devpost.com/software/deepsint)
+<details>
+<summary>Deepsint</summary>
 
 An OSINT tool specializes in generating an accurate profile card from a username by leveraging artificial intelligence.
 
@@ -157,11 +185,14 @@ An OSINT tool specializes in generating an accurate profile card from a username
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Cohere: Best Use of Cohere API
 - **Devpost checked** 2026-11-21 UTC
-- **Cohere** The project lists cohere among its Built With tags.
+- **Cohere · Cohere: Best Use of Cohere API** The project lists cohere among its Built With tags.
+
+</details>
 
 <a name="project-evident-ai"></a>
 
-### [Evident AI](https://devpost.com/software/evident-ai)
+<details>
+<summary>Evident AI</summary>
 
 Automatically transforms bodycam footage into professional evidence reports using AI.
 
@@ -171,11 +202,14 @@ Automatically transforms bodycam footage into professional evidence reports usin
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=q6GD46dyJok)
 - **All event prizes (1)** Y Combinator: Unicorn Prize
 - **Devpost checked** 2026-11-21 UTC
-- **Y Combinator** Evident AI orchestrates specialized AI agents across the full evidence lifecycle:. Devpost gives no specific sponsor integration detail.
+- **Y Combinator · Y Combinator: Unicorn Prize** Evident AI orchestrates specialized AI agents across the full evidence lifecycle:.
+
+</details>
 
 <a name="project-fragments-gmleoj"></a>
 
-### [Fragments](https://devpost.com/software/fragments-gmleoj)
+<details>
+<summary>Fragments</summary>
 
 Clip, save, and organize the exact moments that spark your ideas.
 
@@ -185,12 +219,15 @@ Clip, save, and organize the exact moments that spark your ideas.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=rs7uaWL67tQ)
 - **All event prizes (2)** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · Cohere: Best Use of Cohere API
 - **Devpost checked** 2026-11-21 UTC
-- **Amazon Web Services** Format Optimization : The original WebM video files are converted using FFmpeg to GIFs &amp; MP4s, stored in S3, and then stored with the video metadata in DynamoDB.
-- **Cohere** Cohere Vision AI Integration : Based on extracted frames, Cohere's vision AI model generates video summaries and intelligent tags.
+- **Amazon Web Services · Amazon: AWS Campus Champions - Best Use of DynamoDB Streams** Format Optimization : The original WebM video files are converted using FFmpeg to GIFs &amp; MP4s, stored in S3, and then stored with the video metadata in DynamoDB.
+- **Cohere · Cohere: Best Use of Cohere API** Cohere Vision AI Integration : Based on extracted frames, Cohere's vision AI model generates video summaries and intelligent tags.
+
+</details>
 
 <a name="project-help-me-if-you-can"></a>
 
-### [Help Me If You Can](https://devpost.com/software/help-me-if-you-can)
+<details>
+<summary>Help Me If You Can</summary>
 
 A task &amp; reward hub with AI-powered candidate matching and XRPL payments.
 
@@ -200,11 +237,14 @@ A task &amp; reward hub with AI-powered candidate matching and XRPL payments.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=s_kBH_H0Pmw)
 - **All event prizes (1)** Ripple: Best in Ledger Award
 - **Devpost checked** 2026-11-21 UTC
-- **Ripple** The project lists ripple among its Built With tags.
+- **Ripple · Ripple: Best in Ledger Award** The project lists ripple among its Built With tags.
+
+</details>
 
 <a name="project-honkanomics"></a>
 
-### [Honkanomics](https://devpost.com/software/honkanomics)
+<details>
+<summary>Honkanomics</summary>
 
 Learn investing through AI-tailored lessons, playful goose gamification, and real portfolio simulations linked to RBC InvestEase.
 
@@ -214,11 +254,14 @@ Learn investing through AI-tailored lessons, playful goose gamification, and rea
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** RBC: RBC InvestEase - Investing for the Future
 - **Devpost checked** 2026-11-21 UTC
-- **RBC** The project page provides no specific sponsor integration detail in the indexed fields.
+- **RBC · RBC: RBC InvestEase - Investing for the Future** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-langsketch"></a>
 
-### [LangSketch](https://devpost.com/software/langsketch)
+<details>
+<summary>LangSketch</summary>
 
 LangSketch is a visual agent builder that leverages Databricks for data processing and Martian rule routing for affordable drag-and-drop agent creation, making agentic workflows accessible for all.
 
@@ -228,11 +271,14 @@ LangSketch is a visual agent builder that leverages Databricks for data processi
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=L6CZgvak0hQ)
 - **All event prizes (1)** Martian: LLM Routing with Martian
 - **Devpost checked** 2026-11-21 UTC
-- **Martian** LangSketch is a comprehensive platform that democratizes agentic AI development through a visual, no-code interface. Devpost gives no specific sponsor integration detail.
+- **Martian · Martian: LLM Routing with Martian** LangSketch is a comprehensive platform that democratizes agentic AI development through a visual, no-code interface.
+
+</details>
 
 <a name="project-lavoe"></a>
 
-### [Lavoe](https://devpost.com/software/lavoe)
+<details>
+<summary>Lavoe</summary>
 
 Lavoe provides an intuitive and AI-augmented DAW interface with features designed to streamline creativity:.
 
@@ -242,12 +288,15 @@ Lavoe provides an intuitive and AI-augmented DAW interface with features designe
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ISKuDB2s1jM)
 - **All event prizes (2)** Rox: Best AI Agent · Windsurf: Best Project built with Windsurf
 - **Devpost checked** 2026-11-21 UTC
-- **Rox** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Windsurf** The project lists windsurf among its Built With tags.
+- **Rox · Rox: Best AI Agent** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Windsurf · Windsurf: Best Project built with Windsurf** The project lists windsurf among its Built With tags.
+
+</details>
 
 <a name="project-leafpilot"></a>
 
-### [LeafPilot](https://devpost.com/software/leafpilot)
+<details>
+<summary>LeafPilot</summary>
 
 LeafPilot is an AI-powered LaTeX editor, built for education. Ask about a concept, upload rough notes or record your lecture's audio, and you'll receive clean PDF results with embedded animations.
 
@@ -257,11 +306,14 @@ LeafPilot is an AI-powered LaTeX editor, built for education. Ask about a concep
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=NnTAQ1qyRsg)
 - **All event prizes (1)** Groq
 - **Devpost checked** 2026-11-21 UTC
-- **Groq** AI Integration : Groq as the inference engine powering LaTeX generation, file summarization, mp3 transcription, and embedding-based retrieval.
+- **Groq · Groq** AI Integration : Groq as the inference engine powering LaTeX generation, file summarization, mp3 transcription, and embedding-based retrieval.
+
+</details>
 
 <a name="project-money-talks-d93izn"></a>
 
-### [Money Talks](https://devpost.com/software/money-talks-d93izn)
+<details>
+<summary>Money Talks</summary>
 
 Money Talks transforms raw bank statements into actionable financial insights through:.
 
@@ -271,11 +323,14 @@ Money Talks transforms raw bank statements into actionable financial insights th
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Y2xe-7n20gI)
 - **All event prizes (1)** RBC: RBC InvestEase - Investing for the Future
 - **Devpost checked** 2026-11-21 UTC
-- **RBC** RBC API integration for realistic investment projections.
+- **RBC · RBC: RBC InvestEase - Investing for the Future** RBC API integration for realistic investment projections.
+
+</details>
 
 <a name="project-morph-jcot4m"></a>
 
-### [Morph](https://devpost.com/software/morph-jcot4m)
+<details>
+<summary>Morph</summary>
 
 Vibe CAD to 3D print the solutions to everyday problems in your environment, Tony Stark style, no design experience required.
 
@@ -285,11 +340,14 @@ Vibe CAD to 3D print the solutions to everyday problems in your environment, Ton
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=32oY_iV8jRo) · [Video 2](https://www.youtube.com/watch?v=AeguwtHqEjc)
 - **All event prizes (1)** MLH: Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
-- **MongoDB** The project lists mongodb among its Built With tags.
+- **MongoDB · MLH: Best Use of MongoDB Atlas** The project lists mongodb among its Built With tags.
+
+</details>
 
 <a name="project-network-threat-explorer"></a>
 
-### [Network Threat Explorer](https://devpost.com/software/network-threat-explorer)
+<details>
+<summary>Network Threat Explorer</summary>
 
 Insightful Network Traffic Visualization and Analysis.
 
@@ -299,11 +357,14 @@ Insightful Network Traffic Visualization and Analysis.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ZuAKIEh6PcA)
 - **All event prizes (1)** CSE: Network Traffic Exploration
 - **Devpost checked** 2026-11-21 UTC
-- **Communications Security Establishment** The project is made to help analyze threats and anomalies within network traffic. Devpost gives no specific sponsor integration detail.
+- **Communications Security Establishment · CSE: Network Traffic Exploration** The project is made to help analyze threats and anomalies within network traffic.
+
+</details>
 
 <a name="project-one-take"></a>
 
-### [One Take](https://devpost.com/software/one-take)
+<details>
+<summary>One Take</summary>
 
 One Take generates professional product demos in minutes. Provide your GitHub or website URL, One Take navigates your product, captures the perfect shots, and adds an authentic AI voiceover.
 
@@ -313,11 +374,14 @@ One Take generates professional product demos in minutes. Provide your GitHub or
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=pDBiWdD8Y8M)
 - **All event prizes (1)** Groq
 - **Devpost checked** 2026-11-21 UTC
-- **Groq** The project lists groq among its Built With tags.
+- **Groq · Groq** The project lists groq among its Built With tags.
+
+</details>
 
 <a name="project-optimate"></a>
 
-### [Optimate](https://devpost.com/software/optimate)
+<details>
+<summary>Optimate</summary>
 
 Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning.
 
@@ -327,12 +391,15 @@ Smarter underwriting through AI-powered dashboards, deep insights, and reinforce
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=R8M0fgPcW_Y)
 - **All event prizes (2)** Federato: Best RiskOps Solution for Underwriters · Y Combinator: Unicorn Prize
 - **Devpost checked** 2026-11-21 UTC
-- **Federato** The project lists federato-api among its Built With tags.
-- **Y Combinator** Optimate is an AI-powered underwriting dashboard designed to make risk assessment smarter, faster, and more transparent. Devpost gives no specific sponsor integration detail.
+- **Federato · Federato: Best RiskOps Solution for Underwriters** The project lists federato-api among its Built With tags.
+- **Y Combinator · Y Combinator: Unicorn Prize** Optimate is an AI-powered underwriting dashboard designed to make risk assessment smarter, faster, and more transparent.
+
+</details>
 
 <a name="project-orbit-59jths"></a>
 
-### [Orbit](https://devpost.com/software/orbit-59jths)
+<details>
+<summary>Orbit</summary>
 
 Real-time facial recognition that identifies connections, remembers conversations, and maps your professional network.
 
@@ -342,12 +409,15 @@ Real-time facial recognition that identifies connections, remembers conversation
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=-XV-iJZak3I)
 - **All event prizes (2)** Groq · Windsurf: Best Project built with Windsurf
 - **Devpost checked** 2026-11-21 UTC
-- **Groq** The project lists groq among its Built With tags.
-- **Windsurf** Instant face recognition pulls public profiles the moment someone enters your view. Devpost gives no specific sponsor integration detail.
+- **Groq · Groq** The project lists groq among its Built With tags.
+- **Windsurf · Windsurf: Best Project built with Windsurf** Instant face recognition pulls public profiles the moment someone enters your view.
+
+</details>
 
 <a name="project-pew-pew-9mi8pb"></a>
 
-### [Pew Pew](https://devpost.com/software/pew-pew-9mi8pb)
+<details>
+<summary>Pew Pew</summary>
 
 Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into a forensic-ready narrative by auto-mapping hosts, aggressive attackers, targeted victims, and an attack timeline.
 
@@ -357,11 +427,14 @@ Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** CSE: Network Traffic Exploration
 - **Devpost checked** 2026-11-21 UTC
-- **Communications Security Establishment** Parses full Suricata fast.log once at startup Builds force-directed network graph (hosts + alert signature nodes) Simple z-score based anomaly detection on per-source alert volume Pure FastAPI + D3.js frontend. Devpost gives no specific sponsor integration detail.
+- **Communications Security Establishment · CSE: Network Traffic Exploration** Parses full Suricata fast.log once at startup Builds force-directed network graph (hosts + alert signature nodes) Simple z-score based anomaly detection on per-source alert volume Pure FastAPI + D3.js frontend.
+
+</details>
 
 <a name="project-puppeteer-7429qv"></a>
 
-### [Puppeteer](https://devpost.com/software/puppeteer-7429qv)
+<details>
+<summary>Puppeteer</summary>
 
 Bring your code to life. Orchestrate your code in the runtime.
 
@@ -371,11 +444,14 @@ Bring your code to life. Orchestrate your code in the runtime.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=_AtQyyInhEY)
 - **All event prizes (2)** Hack the North 2025: Finalists · Warp: Best Developer Tool by Warp
 - **Devpost checked** 2026-11-21 UTC
-- **Warp** Puppeteer looks deeper into the runtime by probing into variables. Devpost gives no specific sponsor integration detail.
+- **Warp · Warp: Best Developer Tool by Warp** Puppeteer looks deeper into the runtime by probing into variables.
+
+</details>
 
 <a name="project-qnx-raspi-setup-util"></a>
 
-### [QNX-RasPi-Setup-Util](https://devpost.com/software/qnx-raspi-setup-util)
+<details>
+<summary>QNX-RasPi-Setup-Util</summary>
 
 Configuring your QNX Raspberry Pi can be a long and boring process. Accelerate it with QNX-RasPi-Setup-Util, do all the essential steps through an interactive program in the simple way.
 
@@ -385,11 +461,14 @@ Configuring your QNX Raspberry Pi can be a long and boring process. Accelerate i
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** QNX: Best Use of QNX: Hardware and Software Prizes
 - **Devpost checked** 2026-11-21 UTC
-- **QNX** QNX Software Development Platform 8.0, QNX Toolkit, and Docker Build Environment for QNX on macOS are used to power the program development and building environment.
+- **QNX · QNX: Best Use of QNX: Hardware and Software Prizes** QNX Software Development Platform 8.0, QNX Toolkit, and Docker Build Environment for QNX on macOS are used to power the program development and building environment.
+
+</details>
 
 <a name="project-canqnx"></a>
 
-### [QNXMobility](https://devpost.com/software/canqnx)
+<details>
+<summary>QNXMobility</summary>
 
 In a world where productivity is everything, every second counts, time spent away from the desk is time wasted. With, QNXMobility move around your workspace with ease, speed and greater efficiency.
 
@@ -399,11 +478,14 @@ In a world where productivity is everything, every second counts, time spent awa
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** QNX: Best Use of QNX: Hardware and Software Prizes
 - **Devpost checked** 2026-11-21 UTC
-- **QNX** The project lists qnx among its Built With tags.
+- **QNX · QNX: Best Use of QNX: Hardware and Software Prizes** The project lists qnx among its Built With tags.
+
+</details>
 
 <a name="project-placeholder-it3zq7"></a>
 
-### [RepoStory](https://devpost.com/software/placeholder-it3zq7)
+<details>
+<summary>RepoStory</summary>
 
 Learn about the process of how any GitHub project came to be! Get a timeline of the project construction process, learn about the technologies used, and gain insights to the development process.
 
@@ -413,11 +495,14 @@ Learn about the process of how any GitHub project came to be! Get a timeline of 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=PFAQEJIiuBQ)
 - **All event prizes (1)** Cerebras: Best Use of Cerebras
 - **Devpost checked** 2026-11-21 UTC
-- **Cerebras** Cerebras was especially important; it was significantly faster than every other model, which let the team provide a seamless timeline streaming interface.
+- **Cerebras · Cerebras: Best Use of Cerebras** Cerebras was especially important; it was significantly faster than every other model, which let the team provide a seamless timeline streaming interface.
+
+</details>
 
 <a name="project-ripplerelief"></a>
 
-### [RippleRelief](https://devpost.com/software/ripplerelief)
+<details>
+<summary>RippleRelief</summary>
 
 RippleRelief is a web app that connects donors, NGOs, recipients, and merchants in a transparent aid ecosystem:.
 
@@ -427,11 +512,14 @@ RippleRelief is a web app that connects donors, NGOs, recipients, and merchants 
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Ripple: Best in Ledger Award
 - **Devpost checked** 2026-11-21 UTC
-- **Ripple** The project lists ripple among its Built With tags.
+- **Ripple · Ripple: Best in Ledger Award** The project lists ripple among its Built With tags.
+
+</details>
 
 <a name="project-scholarmarket"></a>
 
-### [ScholarMarket](https://devpost.com/software/scholarmarket)
+<details>
+<summary>ScholarMarket</summary>
 
 ScholarMarket is essentially Polymarket for students to bet on their grades.
 
@@ -441,11 +529,14 @@ ScholarMarket is essentially Polymarket for students to bet on their grades.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=a8MW0_Mg53o)
 - **All event prizes (1)** ETHGlobal: Ethereum's Infinite Garden
 - **Devpost checked** 2026-11-21 UTC
-- **ETHGlobal** The project page provides no specific sponsor integration detail in the indexed fields.
+- **ETHGlobal · ETHGlobal: Ethereum's Infinite Garden** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-diaframe"></a>
 
-### [Sematic](https://devpost.com/software/diaframe)
+<details>
+<summary>Sematic</summary>
 
 AI Powered Voice-Based Systems Design Tool.
 
@@ -455,11 +546,14 @@ AI Powered Voice-Based Systems Design Tool.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams
 - **Devpost checked** 2026-11-21 UTC
-- **Amazon Web Services** The team built Sematic on AWS Amplify Gen 2, with AWS Lambda functions orchestrating calls to Google's Gemini 2.0 Flash API.
+- **Amazon Web Services · Amazon: AWS Campus Champions - Best Use of DynamoDB Streams** The team built Sematic on AWS Amplify Gen 2, with AWS Lambda functions orchestrating calls to Google's Gemini 2.0 Flash API.
+
+</details>
 
 <a name="project-shapeshift-kvhjxr"></a>
 
-### [ShapeShift](https://devpost.com/software/shapeshift-kvhjxr)
+<details>
+<summary>ShapeShift</summary>
 
 A gesture-first, AI-assisted 3D workspace where your hands craft the scene.
 
@@ -469,11 +563,14 @@ A gesture-first, AI-assisted 3D workspace where your hands craft the scene.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=X7lMr9bwjqM)
 - **All event prizes (1)** Y Combinator: Unicorn Prize
 - **Devpost checked** 2026-11-21 UTC
-- **Y Combinator** ShapeShift is an innovative, browser-based 3D modeling platform that transforms your webcam into a powerful creation tool. Devpost gives no specific sponsor integration detail.
+- **Y Combinator · Y Combinator: Unicorn Prize** ShapeShift is an innovative, browser-based 3D modeling platform that transforms your webcam into a powerful creation tool.
+
+</details>
 
 <a name="project-socialcrm"></a>
 
-### [socialCRM](https://devpost.com/software/socialcrm)
+<details>
+<summary>socialCRM</summary>
 
 Turning creators into data-driven businesses through the power of AI.
 
@@ -483,11 +580,14 @@ Turning creators into data-driven businesses through the power of AI.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Rox: Best AI Agent
 - **Devpost checked** 2026-11-21 UTC
-- **Rox** Creator Intelligence is a platform that brings Agentic CRM vision to the content creation world. Devpost gives no specific sponsor integration detail.
+- **Rox · Rox: Best AI Agent** Creator Intelligence is a platform that brings Agentic CRM vision to the content creation world.
+
+</details>
 
 <a name="project-solshare-cmxous"></a>
 
-### [Solshare](https://devpost.com/software/solshare-cmxous)
+<details>
+<summary>Solshare</summary>
 
 Splitting bills with friends is messy—receipts get lost, people forget to pay, and tracking balances is a headache. SolShare fixes this: scan, assign, and settle instantly on Solana.
 
@@ -497,12 +597,15 @@ Splitting bills with friends is messy—receipts get lost, people forget to pay,
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Cohere: Best Use of Cohere API · Solana: Best Consumer Payment Experience with Solana Pay
 - **Devpost checked** 2026-11-21 UTC
-- **Cohere** Cohere API – Handles receipt scanning and item parsing using a self-criticism learning process, reducing errors and automating item assignment.
-- **Solana** Settle payments instantly via blockchain (Solana): Payments are trustless and immediate, without relying on traditional bank integration.
+- **Cohere · Cohere: Best Use of Cohere API** Cohere API – Handles receipt scanning and item parsing using a self-criticism learning process, reducing errors and automating item assignment.
+- **Solana · Solana: Best Consumer Payment Experience with Solana Pay** Settle payments instantly via blockchain (Solana): Payments are trustless and immediate, without relying on traditional bank integration.
+
+</details>
 
 <a name="project-sota-computer-use-agent-challenge"></a>
 
-### [SOTA Computer use agent challenge](https://devpost.com/software/sota-computer-use-agent-challenge)
+<details>
+<summary>SOTA Computer use agent challenge</summary>
 
 Competing to build a SOTA computer use agent (Cua + Hud + Ollama).
 
@@ -512,11 +615,14 @@ Competing to build a SOTA computer use agent (Cua + Hud + Ollama).
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Cua: Best State-of-the-Art Computer-Use Agent
 - **Devpost checked** 2026-11-21 UTC
-- **Cua** The project lists cua among its Built With tags.
+- **Cua · Cua: Best State-of-the-Art Computer-Use Agent** The project lists cua among its Built With tags.
+
+</details>
 
 <a name="project-speakeasy-arzjmb"></a>
 
-### [SpeakEasy](https://devpost.com/software/speakeasy-arzjmb)
+<details>
+<summary>SpeakEasy</summary>
 
 SpeakEasy gives nonverbal users a voice. Built on Snap Spectacles, it detects the world around them, offers smart prompts, and speaks responses instantly.
 
@@ -526,11 +632,14 @@ SpeakEasy gives nonverbal users a voice. Built on Snap Spectacles, it detects th
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=8TX48L2IG18)
 - **All event prizes (1)** Groq
 - **Devpost checked** 2026-11-21 UTC
-- **Groq** The team integrated Gemini’s object detection model to understand the user’s surroundings and ran it through Groq for ultra-fast language generation.
+- **Groq · Groq** The team integrated Gemini’s object detection model to understand the user’s surroundings and ran it through Groq for ultra-fast language generation.
+
+</details>
 
 <a name="project-htn-zq6138"></a>
 
-### [SpectraSphere](https://devpost.com/software/htn-zq6138)
+<details>
+<summary>SpectraSphere</summary>
 
 Turning snapshots into spaces you can actually explore.
 
@@ -540,11 +649,14 @@ Turning snapshots into spaces you can actually explore.
 - **Demo video** [Video 1](https://vimeo.com/1118489387)
 - **All event prizes (1)** Snap: Spectacles AR Hackathon: Game On!
 - **Devpost checked** 2026-11-21 UTC
-- **Snap** SpectraSphere turns your prompts and images into immersive AR stories 🌌 that you can step inside using Snapchat Spectacles.
+- **Snap · Snap: Spectacles AR Hackathon: Game On!** SpectraSphere turns your prompts and images into immersive AR stories 🌌 that you can step inside using Snapchat Spectacles.
+
+</details>
 
 <a name="project-stacy-g7zptj"></a>
 
-### [Stacy](https://devpost.com/software/stacy-g7zptj)
+<details>
+<summary>Stacy</summary>
 
 Stacy is a voice safety companion. Stacy logs incidents, your live location, alerts your loved ones, and dispatches to the police.
 
@@ -554,11 +666,14 @@ Stacy is a voice safety companion. Stacy logs incidents, your live location, ale
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=nHx5KazGawQ)
 - **All event prizes (1)** VAPI: Best Voice AI Application
 - **Devpost checked** 2026-11-21 UTC
-- **Vapi** The project lists vapi among its Built With tags.
+- **Vapi · VAPI: Best Voice AI Application** The project lists vapi among its Built With tags.
+
+</details>
 
 <a name="project-tango-q37d4z"></a>
 
-### [Tango](https://devpost.com/software/tango-q37d4z)
+<details>
+<summary>Tango</summary>
 
 Siri if it actually worked on your Mac.
 
@@ -568,11 +683,14 @@ Siri if it actually worked on your Mac.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=sK-WvZZubcc)
 - **All event prizes (2)** Graphite: Engineering Dream Team · Hack the North 2025: Finalists
 - **Devpost checked** 2026-11-21 UTC
-- **Graphite** The team used Graphite to collaborate on this project and work asynchronously.
+- **Graphite · Graphite: Engineering Dream Team** The team used Graphite to collaborate on this project and work asynchronously.
+
+</details>
 
 <a name="project-tarazoo"></a>
 
-### [Tarazoo](https://devpost.com/software/tarazoo)
+<details>
+<summary>Tarazoo</summary>
 
 An e-commerce platform with two faces: customers checkout by camera no barcode, just the item’s look while businesses get catalog, inventory, sales, forecasting &amp; intelligent procurement.
 
@@ -582,11 +700,14 @@ An e-commerce platform with two faces: customers checkout by camera no barcode, 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=6TfBS77bEAU)
 - **All event prizes (1)** Shopify: Hack Shopping with AI
 - **Devpost checked** 2026-11-21 UTC
-- **Shopify** The project lists shopify among its Built With tags.
+- **Shopify · Shopify: Hack Shopping with AI** The project lists shopify among its Built With tags.
+
+</details>
 
 <a name="project-token-turrets"></a>
 
-### [Token Turrets](https://devpost.com/software/token-turrets)
+<details>
+<summary>Token Turrets</summary>
 
 Play, Pay, Pulverize - on chain! ⛓️‍💥.
 
@@ -596,11 +717,14 @@ Play, Pay, Pulverize - on chain! ⛓️‍💥.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=PfwjjiSaMgU)
 - **All event prizes (1)** Ripple: Best in Ledger Award
 - **Devpost checked** 2026-11-21 UTC
-- **Ripple** Token Turrets is a real-time multiplayer tank battle where anyone can create a room, start a tournament pot, and let the players fight it out. Devpost gives no specific sponsor integration detail.
+- **Ripple · Ripple: Best in Ledger Award** Token Turrets is a real-time multiplayer tank battle where anyone can create a room, start a tournament pot, and let the players fight it out.
+
+</details>
 
 <a name="project-tradeoff-c24mwv"></a>
 
-### [TradeOff](https://devpost.com/software/tradeoff-c24mwv)
+<details>
+<summary>TradeOff</summary>
 
 Stock market simulation game where students race to beat the market.
 
@@ -610,11 +734,14 @@ Stock market simulation game where students race to beat the market.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=KtQ0IwOUMy4)
 - **All event prizes (1)** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams
 - **Devpost checked** 2026-11-21 UTC
-- **Amazon Web Services** The project lists dynamodb among its Built With tags.
+- **Amazon Web Services · Amazon: AWS Campus Champions - Best Use of DynamoDB Streams** The project lists dynamodb among its Built With tags.
+
+</details>
 
 <a name="project-truecount"></a>
 
-### [TrueCount](https://devpost.com/software/truecount)
+<details>
+<summary>TrueCount</summary>
 
 Voting outcomes often face backlash. That’s why trust matters.
 
@@ -624,11 +751,14 @@ Voting outcomes often face backlash. That’s why trust matters.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=DhhBWVDUrU4)
 - **All event prizes (1)** ETHGlobal: Ethereum's Infinite Garden
 - **Devpost checked** 2026-11-21 UTC
-- **ETHGlobal** The team're incredibly proud that True Count isn't just a technical demo—it's a solution with genuine real-world impact. Devpost gives no specific sponsor integration detail.
+- **ETHGlobal · ETHGlobal: Ethereum's Infinite Garden** The team're incredibly proud that True Count isn't just a technical demo—it's a solution with genuine real-world impact.
+
+</details>
 
 <a name="project-tunnel-dqv1k4"></a>
 
-### [Tunnel](https://devpost.com/software/tunnel-dqv1k4)
+<details>
+<summary>Tunnel</summary>
 
 AI Agents for Simulated Market Research.
 
@@ -638,12 +768,15 @@ AI Agents for Simulated Market Research.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=d6M5oSDxqxw)
 - **All event prizes (2)** MLH: Best Use of Auth0 · VAPI: Best Voice AI Application
 - **Devpost checked** 2026-11-21 UTC
-- **Auth0** Multi-Tenant Isolation Each user's workspace is completely isolated using Auth0's tenant features.
-- **Vapi** The project lists vapi among its Built With tags.
+- **Auth0 · MLH: Best Use of Auth0** Multi-Tenant Isolation Each user's workspace is completely isolated using Auth0's tenant features.
+- **Vapi · VAPI: Best Voice AI Application** The project lists vapi among its Built With tags.
+
+</details>
 
 <a name="project-promptmotion"></a>
 
-### [VibeMovie](https://devpost.com/software/promptmotion)
+<details>
+<summary>VibeMovie</summary>
 
 VibeMovie is an AI-native video editor that turns natural language into a rendered video.
 
@@ -653,11 +786,14 @@ VibeMovie is an AI-native video editor that turns natural language into a render
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=CYJZUQVHnmU)
 - **All event prizes (1)** MLH: Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The project lists gemini among its Built With tags.
+- **Google · MLH: Best Use of Gemini API** The project lists gemini among its Built With tags.
+
+</details>
 
 <a name="project-vraille"></a>
 
-### [Vraille](https://devpost.com/software/vraille)
+<details>
+<summary>Vraille</summary>
 
 Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gemini-Powered Glasses &amp; Dynamic Braille.
 
@@ -667,11 +803,14 @@ Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gem
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=4gdPROUsaRw)
 - **All event prizes (1)** VAPI: Best Voice AI Application
 - **Devpost checked** 2026-11-21 UTC
-- **Vapi** The project lists vapi among its Built With tags.
+- **Vapi · VAPI: Best Voice AI Application** The project lists vapi among its Built With tags.
+
+</details>
 
 <a name="project-nocapnethack"></a>
 
-### [YeetThePacket](https://devpost.com/software/nocapnethack)
+<details>
+<summary>YeetThePacket</summary>
 
 From packets to plain‑English, actionable security narratives.
 
@@ -681,4 +820,6 @@ From packets to plain‑English, actionable security narratives.
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** CSE: Network Traffic Exploration
 - **Devpost checked** 2026-11-21 UTC
-- **Communications Security Establishment** Detects events like port scans, brute-force attempts, beaconing/C2, suspicious connections, and data exfiltration from PCAPs. Devpost gives no specific sponsor integration detail.
+- **Communications Security Establishment · CSE: Network Traffic Exploration** Detects events like port scans, brute-force attempts, beaconing/C2, suspicious connections, and data exfiltration from PCAPs.
+
+</details>

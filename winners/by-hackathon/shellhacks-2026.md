@@ -1,46 +1,56 @@
 # ShellHacks 2026
 
-[Devpost gallery](https://shellhacks-2026.devpost.com/project-gallery) · [Official prize rules](https://shellhacks-2026.devpost.com/) · [Winners index](../README.md)
+**25 projects · 16 sponsors · 27 prize rows**
 
-25 projects and 27 sponsor-track awards.
+[Winners index](../README.md) · [Devpost gallery](https://shellhacks-2026.devpost.com/project-gallery) · [Official prize rules](https://shellhacks-2026.devpost.com/)
+
+## What winners have in common
+
+- **Most listed tech** react (17), python (16), typescript (15)
+- **Common project areas** Finance and commerce (3), Developer tools (2), Education and learning (1)
+- **Common demo formats** Web app or dashboard (9), Hardware or robotics (2), CLI or developer tool (1)
+- **Projects with a listed demo video** 25 of 25
+
+Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
 
 ## Sponsor awards
 
-| Project | Sponsor | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
-| --- | --- | --- | --- | --- | --- |
-| [Budgie On A Budget](#project-budgie-on-a-budget) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) | &#91;AWS&#93; Best Use of AWS | — | Budgie on a Budget is a housing and neighborhood discovery platform designed to make moving easier and more affordable. | 1 |
-| [transPEAKtation](#project-transpeaktation) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) | &#91;AWS&#93; Best Use of AWS | — | The team used AWS services to generate data and train all of the model before deploying them onto DigitalOcean. | 2 |
-| [Guardian Loop](#project-guardian-loop) | [Assurant](../by-sponsor/assurant.md) | Assurant | — | Guardian Loop is a second pair of ears on a loved one's phone calls. | 1 |
-| [Mind Your Prompt](#project-mind-your-prompt-prompt-shield) | [Assurant](../by-sponsor/assurant.md) | Assurant | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [reigns](#project-reigns) | [Assurant](../by-sponsor/assurant.md) | Assurant | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [PortfolioFit](#project-portfoliofit) | [Blackstone](../by-sponsor/blackstone.md) | Blackstone | — | PortfolioFit is an investing companion built around three things:. | 1 |
-| [T-Cell](#project-t-cell) | [DigitalOcean](../by-sponsor/digitalocean.md) | &#91;MLH&#93; Best Use of DigitalOcean | — | The project lists digitalocean among its Built With tags. | 1 |
-| [Public City Announcements (PCA)](#project-public-city-announcements-pcl) | [ElevenLabs](../by-sponsor/elevenlabs.md) | &#91;MLH&#93; Best Use of ElevenLabs | — | PCA reads City of Miami and Miami-Dade agendas, finds the residents each decision affects, and calls them before the vote, in English or Spanish. | 1 |
-| [Shaadiest](#project-shaadiest) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | &#91;MLH&#93; Best Domain Name from GoDaddy Registry | — | The team built Shaadiest with JavaScript, Codex, Vite, Leaflet, Node.js, and Express, with deployment support for GoDaddy. | 1 |
-| [Clarity - SmartGlasses](#project-clarity-smartglasses) | [Google](../by-sponsor/google.md) | &#91;MLH&#93; Best Use of Gemini API | — | The team use the Gemini API to give Clarity multimodal AI capabilities. | 1 |
-| [benchlog](#project-benchlog) | [INIT National](../by-sponsor/init-national.md) | INIT National | — | One command: benchlog init opens a hardware project to collaboration the same way git init opens a codebase. | 1 |
-| [CrunchHack](#project-crunchhack) | [INIT National](../by-sponsor/init-national.md) | INIT National | — | CrunchHack serves as a central survival console that strips away hackathon chaos and keeps developers locked onto what actually matters:. | 1 |
-| [CADVision](#project-cadvision) | [Microsoft](../by-sponsor/microsoft.md) | Microsoft | — | CADVision takes a SolidWorks assembly and converts it into two connected pieces of information:. | 1 |
-| [Repro](#project-repro-h6gq70) | [Microsoft](../by-sponsor/microsoft.md) | Microsoft | — | Repro points AI agents at a codebase, grounds every finding in evidence you can re-run, and repairs the code with proof that the fix actually holds. | 1 |
-| [Spitball](#project-spitball) | [Microsoft](../by-sponsor/microsoft.md) | Microsoft | — | Paste a public GitHub repo URL, and Spitball reads the file tree and key files. | 1 |
-| [Grep](#project-cortisol) | [MongoDB](../by-sponsor/mongodb.md) | &#91;MLH&#93; Best Use of MongoDB Atlas | — | The project lists mongodb among its Built With tags. | 1 |
-| [Hurricane Week](#project-hurricane-week) | [Snowflake](../by-sponsor/snowflake.md) | &#91;MLH&#93; Best Use of Snowflake API | — | The project lists snowflake among its Built With tags. | 1 |
-| [MomentumX](#project-momentumx-er2kg9) | [Solana](../by-sponsor/solana.md) | &#91;MLH&#93; Best Use of Solana | — | The project lists solana-sdk among its Built With tags. | 1 |
-| [Common Ground](#project-common-ground-a6rfoc) | [Sperry Tech](../by-sponsor/sperry-tech.md) | Sperry Tech | — | Common Ground helps transmission planners and project managers find nearby planned power-line projects that may be worth coordinating around. | 1 |
-| [ContractMap](#project-contractmap) | [Sperry Tech](../by-sponsor/sperry-tech.md) | Sperry Tech | — | The project page provides no specific sponsor integration detail in the indexed fields. | 1 |
-| [Mr.Gridy](#project-mr-gridy) | [Sperry Tech](../by-sponsor/sperry-tech.md) | Sperry Tech | — | Before they build: find where the plans overlap. | 1 |
-| [UtiliTies - Utility Coordination](#project-utilities-utility-coordination) | [Sperry Tech](../by-sponsor/sperry-tech.md) | Sperry Tech | — | UtiliTies reads two neighboring utilities' public construction plans, Dominion Energy South Carolina and Georgia Power, and finds where they could coordinate. | 1 |
-| [Halo](#project-halo-1q59hf) | [State Farm](../by-sponsor/state-farm.md) | State Farm | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [transPEAKtation](#project-transpeaktation) | [Tiger Data](../by-sponsor/tiger-data.md) | &#91;MLH&#93; Best Use of Tiger Data | — | The project lists tiger-data among its Built With tags. | 2 |
-| [Halo](#project-halo-1q59hf) | [Waymo](../by-sponsor/waymo.md) | Waymo | — | The project page provides no specific sponsor integration detail in the indexed fields. | 2 |
-| [ODDyssey](#project-oddyssey) | [Waymo](../by-sponsor/waymo.md) | Waymo | — | ODDyssey combines public data about population, commuting, climate, charging access, and roads to rank candidate markets. | 1 |
-| [Syren](#project-syren-piz0qc) | [Waymo](../by-sponsor/waymo.md) | Waymo | — | Syren is a real-time and historical flight tracking platform with an integrated AI copilot:. | 1 |
+| Project | Sponsor prize | What it built | Tech |
+| --- | --- | --- | --- |
+| [Budgie On A Budget](https://devpost.com/software/budgie-on-a-budget) · [code](https://github.com/veronica-lab/shellhacks2026-Budgie-on-a-Budget) · [demo](https://www.youtube.com/watch?v=rStyASEtwMQ) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) · &#91;AWS&#93; Best Use of AWS · [details](#project-budgie-on-a-budget) | Budgie on a Budget helps you find a home that fits both your budget and your lifestyle. | apis, claude, code/zip |
+| [transPEAKtation](https://devpost.com/software/transpeaktation) · [code](https://github.com/No-Way-Mo/transpeaktation) · [demo](https://www.youtube.com/watch?v=maBHLULKMVc) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) · &#91;AWS&#93; Best Use of AWS · [details](#project-transpeaktation) | By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming. | claude, digitalocean, elevenlabs |
+| [Guardian Loop](https://devpost.com/software/guardian-loop) · [demo](https://www.youtube.com/watch?v=VnigEnYfZt8) | [Assurant](../by-sponsor/assurant.md) · Assurant · [details](#project-guardian-loop) | You're always in the loop. Never out of reach. | audioworklet, deepgram, elderly |
+| [Mind Your Prompt](https://devpost.com/software/mind-your-prompt-prompt-shield) · [code](https://github.com/krishnatejasai/ShellHacks_2026) · [demo](https://www.youtube.com/watch?v=FzibFbr4i2s) | [Assurant](../by-sponsor/assurant.md) · Assurant · [details](#project-mind-your-prompt-prompt-shield) | Mind Your Prompt combines a website dashboard with a Chrome extension. | bert, chrome, faker |
+| [reigns](https://devpost.com/software/reigns) · [demo](https://www.youtube.com/watch?v=64wOp2kXgB4) | [Assurant](../by-sponsor/assurant.md) · Assurant · [details](#project-reigns) | Don't let your AI run wild. | elevenlabs, fastapi, mongodb |
+| [PortfolioFit](https://devpost.com/software/portfoliofit) · [demo](https://www.youtube.com/watch?v=OPOzUj3IXuM) | [Blackstone](../by-sponsor/blackstone.md) · Blackstone · [details](#project-portfoliofit) | Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new… | elevenlabs, eslint, finnhub |
+| [T-Cell](https://devpost.com/software/t-cell) · [code](https://github.com/Joshua-Song007/Shellhacks) · [demo](https://www.youtube.com/watch?v=swDZNF3l3KU) | [DigitalOcean](../by-sponsor/digitalocean.md) · Best Use of DigitalOcean · [details](#project-t-cell) | The Soldier isolates the threat, evolves a working "cure" (a sandboxed containment payload), and applies it,… | digitalocean, applescript, c |
+| [Public City Announcements (PCA)](https://devpost.com/software/public-city-announcements-pcl) · [code](https://github.com/Alans44/public-city-announcements) · [demo](https://www.youtube.com/watch?v=D6od6VAIAPM) | [ElevenLabs](../by-sponsor/elevenlabs.md) · Best Use of ElevenLabs · [details](#project-public-city-announcements-pcl) | The neighbor who reads every city agenda and calls you when it matters. | cloudflare-tunnel, fastapi, framer-motion |
+| [Shaadiest](https://devpost.com/software/shaadiest) · [demo](https://www.youtube.com/watch?v=IRjQ7plFcqE) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) · Best Domain Name from GoDaddy Registry · [details](#project-shaadiest) | No more sweat in your walk. Take the Shaadiest path. | godaddy, codex, express.js |
+| [Clarity - SmartGlasses](https://devpost.com/software/clarity-smartglasses) · [code](https://github.com/abhiwasabi/Clarity) · [demo](https://vimeo.com/1230684959) | [Google](../by-sponsor/google.md) · Best Use of Gemini API · [details](#project-clarity-smartglasses) | Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay aware, and handle what happens… | google-gemini, elevenlabs, esp-32-cam |
+| [benchlog](https://devpost.com/software/benchlog) · [code](https://github.com/Jrodd1203/benchlog) · [demo](https://www.youtube.com/watch?v=BhbKYBc4kMM) | [INIT National](../by-sponsor/init-national.md) · INIT National · [details](#project-benchlog) | benchlog brings version control to hardware. | aruco, c++, computervision |
+| [CrunchHack](https://devpost.com/software/crunchhack) · [demo](https://www.youtube.com/watch?v=FdCHXdTUIdM) | [INIT National](../by-sponsor/init-national.md) · INIT National · [details](#project-crunchhack) | Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern" with scope locking, visual… | css3, git, github |
+| [CADVision](https://devpost.com/software/cadvision) · [code](https://github.com/BAAA-Hacks/cad-vision) · [demo](https://www.youtube.com/watch?v=0-bYjncKWIs) | [Microsoft](../by-sponsor/microsoft.md) · Microsoft · [details](#project-cadvision) | CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN AI helps engineers inspect… | c#, elevenlabs, geminiapi |
+| [Repro](https://devpost.com/software/repro-h6gq70) · [demo](https://www.youtube.com/watch?v=4GTQH27oGOs) | [Microsoft](../by-sponsor/microsoft.md) · Microsoft · [details](#project-repro-h6gq70) | A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic… | docker, fastify, framer-motion |
+| [Spitball](https://devpost.com/software/spitball) · [demo](https://www.youtube.com/watch?v=uLmimTFwauM) | [Microsoft](../by-sponsor/microsoft.md) · Microsoft · [details](#project-spitball) | Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then… | claude, css, digitalocean |
+| [Grep](https://devpost.com/software/cortisol) · [code](https://github.com/DinhPhucLe/grep) · [demo](https://www.youtube.com/watch?v=mru6d0wAI-k) | [MongoDB](../by-sponsor/mongodb.md) · Best Use of MongoDB Atlas · [details](#project-cortisol) | Grep is your organization’s intelligence layer - turning AI coding into shared knowledge, developer insights,… | mongodb, amazon-web-services, golang |
+| [Hurricane Week](https://devpost.com/software/hurricane-week) · [code](https://github.com/varshith-k/hurricaneweek) · [demo](https://www.youtube.com/watch?v=Y_qwLNbf1Cg) | [Snowflake](../by-sponsor/snowflake.md) · Best Use of Snowflake API · [details](#project-hurricane-week) | Practice hurricane prep decisions under real financial pressure (before the real storm hits). | snowflake, cortex, css |
+| [MomentumX](https://devpost.com/software/momentumx-er2kg9) · [code](https://github.com/FastMartini/Shellhacks-2026) · [demo](https://vimeo.com/1230689653) | [Solana](../by-sponsor/solana.md) · Best Use of Solana · [details](#project-momentumx-er2kg9) | MomentumX gives global traders an edge by pairing tokenized stocks with real-time momentum scanners built for… | solana-sdk, css, fastapi |
+| [Common Ground](https://devpost.com/software/common-ground-a6rfoc) · [code](https://github.com/fradicus/Shellhacks-2026) · [demo](https://www.youtube.com/watch?v=Y5_c-f20ky4) | [Sperry Tech](../by-sponsor/sperry-tech.md) · Sperry Tech · [details](#project-common-ground-a6rfoc) | The cross-utility intelligence platform that aggressively optimizes overlapping construction plans and fleet… | atlas, chatgpt, claude |
+| [ContractMap](https://devpost.com/software/contractmap) · [demo](https://www.youtube.com/watch?v=ovVV4Ca8QVs) | [Sperry Tech](../by-sponsor/sperry-tech.md) · Sperry Tech · [details](#project-contractmap) | It then ranks those overlaps by how much coordination is actually worth. | css, fastapi, gemini |
+| [Mr.Gridy](https://devpost.com/software/mr-gridy) · [code](https://github.com/VelvetDragon/gridsight) · [demo](https://www.youtube.com/watch?v=sr1lKaowknU) | [Sperry Tech](../by-sponsor/sperry-tech.md) · Sperry Tech · [details](#project-mr-gridy) | Mr.Gridy helps neighbouring power companies share the work: it finds where their construction plans overlap,… | digitalocean, elevenlabs, gemini |
+| [UtiliTies - Utility Coordination](https://devpost.com/software/utilities-utility-coordination) · [demo](https://www.youtube.com/watch?v=Supupux7vtA) | [Sperry Tech](../by-sponsor/sperry-tech.md) · Sperry Tech · [details](#project-utilities-utility-coordination) | AI agents that read utilities' public construction filings, map every planned project, and find where… | claude, digitalocean, docker |
+| [Halo](https://devpost.com/software/halo-1q59hf) · [code](https://github.com/billpquach/halo) · [demo](https://www.youtube.com/watch?v=rlAuXaz6g6s) | [State Farm](../by-sponsor/state-farm.md) · State Farm · [details](#project-halo-1q59hf) | Halo is a smart bike helmet that watches the road behind you and warns you about what's coming before it… | adk, arduino, javascript |
+| [transPEAKtation](https://devpost.com/software/transpeaktation) · [code](https://github.com/No-Way-Mo/transpeaktation) · [demo](https://www.youtube.com/watch?v=maBHLULKMVc) | [Tiger Data](../by-sponsor/tiger-data.md) · Best Use of Tiger Data · [details](#project-transpeaktation) | By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming. | tiger-data, claude, digitalocean |
+| [Halo](https://devpost.com/software/halo-1q59hf) · [code](https://github.com/billpquach/halo) · [demo](https://www.youtube.com/watch?v=rlAuXaz6g6s) | [Waymo](../by-sponsor/waymo.md) · Waymo · [details](#project-halo-1q59hf) | Halo is a smart bike helmet that watches the road behind you and warns you about what's coming before it… | adk, arduino, javascript |
+| [ODDyssey](https://devpost.com/software/oddyssey) · [demo](https://www.youtube.com/watch?v=EakXPzNH4ww) | [Waymo](../by-sponsor/waymo.md) · Waymo · [details](#project-oddyssey) | Map the possibilities for electric autonomous fleets with data-driven market insights and simulation. | fastapi, gemini, mapbox |
+| [Syren](https://devpost.com/software/syren-piz0qc) · [demo](https://www.youtube.com/watch?v=DAqYyY9iVos) | [Waymo](../by-sponsor/waymo.md) · Waymo · [details](#project-syren-piz0qc) | Decode the skies in real time: Live radar tracking powered by custom AI that detects anomalies before… | absd, api, deck.gl |
 
 ## Project details
 
 <a name="project-benchlog"></a>
 
-### [benchlog](https://devpost.com/software/benchlog)
+<details>
+<summary>benchlog</summary>
 
 benchlog brings version control to hardware.
 
@@ -50,11 +60,14 @@ benchlog brings version control to hardware.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=BhbKYBc4kMM)
 - **All event prizes (1)** INIT National
 - **Devpost checked** 2026-11-21 UTC
-- **INIT National** One command: benchlog init opens a hardware project to collaboration the same way git init opens a codebase. Devpost gives no specific sponsor integration detail.
+- **INIT National · INIT National** One command: benchlog init opens a hardware project to collaboration the same way git init opens a codebase.
+
+</details>
 
 <a name="project-budgie-on-a-budget"></a>
 
-### [Budgie On A Budget](https://devpost.com/software/budgie-on-a-budget)
+<details>
+<summary>Budgie On A Budget</summary>
 
 Budgie on a Budget helps you find a home that fits both your budget and your lifestyle.
 
@@ -64,11 +77,14 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=rStyASEtwMQ)
 - **All event prizes (1)** &#91;AWS&#93; Best Use of AWS
 - **Devpost checked** 2026-11-21 UTC
-- **Amazon Web Services** Budgie on a Budget is a housing and neighborhood discovery platform designed to make moving easier and more affordable. Devpost gives no specific sponsor integration detail.
+- **Amazon Web Services · &#91;AWS&#93; Best Use of AWS** Budgie on a Budget is a housing and neighborhood discovery platform designed to make moving easier and more affordable.
+
+</details>
 
 <a name="project-cadvision"></a>
 
-### [CADVision](https://devpost.com/software/cadvision)
+<details>
+<summary>CADVision</summary>
 
 CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN AI helps engineers inspect designs, surface issues, and understand complex assemblies faster.
 
@@ -78,11 +94,14 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=0-bYjncKWIs)
 - **All event prizes (1)** Microsoft
 - **Devpost checked** 2026-11-21 UTC
-- **Microsoft** CADVision takes a SolidWorks assembly and converts it into two connected pieces of information:. Devpost gives no specific sponsor integration detail.
+- **Microsoft · Microsoft** CADVision takes a SolidWorks assembly and converts it into two connected pieces of information:.
+
+</details>
 
 <a name="project-clarity-smartglasses"></a>
 
-### [Clarity - SmartGlasses](https://devpost.com/software/clarity-smartglasses)
+<details>
+<summary>Clarity - SmartGlasses</summary>
 
 Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay aware, and handle what happens next.
 
@@ -92,11 +111,14 @@ Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay a
 - **Demo video** [Video 1](https://vimeo.com/1230684959)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
-- **Google** The team use the Gemini API to give Clarity multimodal AI capabilities.
+- **Google · &#91;MLH&#93; Best Use of Gemini API** The team use the Gemini API to give Clarity multimodal AI capabilities.
+
+</details>
 
 <a name="project-common-ground-a6rfoc"></a>
 
-### [Common Ground](https://devpost.com/software/common-ground-a6rfoc)
+<details>
+<summary>Common Ground</summary>
 
 The cross-utility intelligence platform that aggressively optimizes overlapping construction plans and fleet routes to slash millions in wasted time and capital.
 
@@ -106,11 +128,14 @@ The cross-utility intelligence platform that aggressively optimizes overlapping 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Y5_c-f20ky4)
 - **All event prizes (1)** Sperry Tech
 - **Devpost checked** 2026-11-21 UTC
-- **Sperry Tech** Common Ground helps transmission planners and project managers find nearby planned power-line projects that may be worth coordinating around. Devpost gives no specific sponsor integration detail.
+- **Sperry Tech · Sperry Tech** Common Ground helps transmission planners and project managers find nearby planned power-line projects that may be worth coordinating around.
+
+</details>
 
 <a name="project-contractmap"></a>
 
-### [ContractMap](https://devpost.com/software/contractmap)
+<details>
+<summary>ContractMap</summary>
 
 It then ranks those overlaps by how much coordination is actually worth.
 
@@ -120,11 +145,14 @@ It then ranks those overlaps by how much coordination is actually worth.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=ovVV4Ca8QVs)
 - **All event prizes (1)** Sperry Tech
 - **Devpost checked** 2026-11-21 UTC
-- **Sperry Tech** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Sperry Tech · Sperry Tech** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-crunchhack"></a>
 
-### [CrunchHack](https://devpost.com/software/crunchhack)
+<details>
+<summary>CrunchHack</summary>
 
 Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern" with scope locking, visual system topology, and sprint tracking to take teams from zero to a live Devpost demo.
 
@@ -134,11 +162,14 @@ Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=FdCHXdTUIdM)
 - **All event prizes (1)** INIT National
 - **Devpost checked** 2026-11-21 UTC
-- **INIT National** CrunchHack serves as a central survival console that strips away hackathon chaos and keeps developers locked onto what actually matters:. Devpost gives no specific sponsor integration detail.
+- **INIT National · INIT National** CrunchHack serves as a central survival console that strips away hackathon chaos and keeps developers locked onto what actually matters:.
+
+</details>
 
 <a name="project-cortisol"></a>
 
-### [Grep](https://devpost.com/software/cortisol)
+<details>
+<summary>Grep</summary>
 
 Grep is your organization’s intelligence layer - turning AI coding into shared knowledge, developer insights, and personalized guidance.
 
@@ -148,11 +179,14 @@ Grep is your organization’s intelligence layer - turning AI coding into shared
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=mru6d0wAI-k)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
-- **MongoDB** The project lists mongodb among its Built With tags.
+- **MongoDB · &#91;MLH&#93; Best Use of MongoDB Atlas** The project lists mongodb among its Built With tags.
+
+</details>
 
 <a name="project-guardian-loop"></a>
 
-### [Guardian Loop](https://devpost.com/software/guardian-loop)
+<details>
+<summary>Guardian Loop</summary>
 
 You're always in the loop. Never out of reach.
 
@@ -162,11 +196,14 @@ You're always in the loop. Never out of reach.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=VnigEnYfZt8)
 - **All event prizes (1)** Assurant
 - **Devpost checked** 2026-11-21 UTC
-- **Assurant** Guardian Loop is a second pair of ears on a loved one's phone calls. Devpost gives no specific sponsor integration detail.
+- **Assurant · Assurant** Guardian Loop is a second pair of ears on a loved one's phone calls.
+
+</details>
 
 <a name="project-halo-1q59hf"></a>
 
-### [Halo](https://devpost.com/software/halo-1q59hf)
+<details>
+<summary>Halo</summary>
 
 Halo is a smart bike helmet that watches the road behind you and warns you about what's coming before it reaches you, so you don't have to turn your head.
 
@@ -176,12 +213,15 @@ Halo is a smart bike helmet that watches the road behind you and warns you about
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=rlAuXaz6g6s)
 - **All event prizes (2)** State Farm · Waymo
 - **Devpost checked** 2026-11-21 UTC
-- **State Farm** The project page provides no specific sponsor integration detail in the indexed fields.
-- **Waymo** The project page provides no specific sponsor integration detail in the indexed fields.
+- **State Farm · State Farm** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Waymo · Waymo** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-hurricane-week"></a>
 
-### [Hurricane Week](https://devpost.com/software/hurricane-week)
+<details>
+<summary>Hurricane Week</summary>
 
 Practice hurricane prep decisions under real financial pressure (before the real storm hits).
 
@@ -191,11 +231,14 @@ Practice hurricane prep decisions under real financial pressure (before the real
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Y_qwLNbf1Cg)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Snowflake API
 - **Devpost checked** 2026-11-21 UTC
-- **Snowflake** The project lists snowflake among its Built With tags.
+- **Snowflake · &#91;MLH&#93; Best Use of Snowflake API** The project lists snowflake among its Built With tags.
+
+</details>
 
 <a name="project-mind-your-prompt-prompt-shield"></a>
 
-### [Mind Your Prompt](https://devpost.com/software/mind-your-prompt-prompt-shield)
+<details>
+<summary>Mind Your Prompt</summary>
 
 Mind Your Prompt combines a website dashboard with a Chrome extension.
 
@@ -205,11 +248,14 @@ Mind Your Prompt combines a website dashboard with a Chrome extension.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=FzibFbr4i2s)
 - **All event prizes (1)** Assurant
 - **Devpost checked** 2026-11-21 UTC
-- **Assurant** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Assurant · Assurant** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-momentumx-er2kg9"></a>
 
-### [MomentumX](https://devpost.com/software/momentumx-er2kg9)
+<details>
+<summary>MomentumX</summary>
 
 MomentumX gives global traders an edge by pairing tokenized stocks with real-time momentum scanners built for faster day and swing trading decisions.
 
@@ -219,11 +265,14 @@ MomentumX gives global traders an edge by pairing tokenized stocks with real-tim
 - **Demo video** [Video 1](https://vimeo.com/1230689653)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
-- **Solana** The project lists solana-sdk among its Built With tags.
+- **Solana · &#91;MLH&#93; Best Use of Solana** The project lists solana-sdk among its Built With tags.
+
+</details>
 
 <a name="project-mr-gridy"></a>
 
-### [Mr.Gridy](https://devpost.com/software/mr-gridy)
+<details>
+<summary>Mr.Gridy</summary>
 
 Mr.Gridy helps neighbouring power companies share the work: it finds where their construction plans overlap, and when a hurricane hits, predicts which lines break and who should help whom.
 
@@ -233,11 +282,14 @@ Mr.Gridy helps neighbouring power companies share the work: it finds where their
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=sr1lKaowknU)
 - **All event prizes (1)** Sperry Tech
 - **Devpost checked** 2026-11-21 UTC
-- **Sperry Tech** Before they build: find where the plans overlap. Devpost gives no specific sponsor integration detail.
+- **Sperry Tech · Sperry Tech** Before they build: find where the plans overlap.
+
+</details>
 
 <a name="project-oddyssey"></a>
 
-### [ODDyssey](https://devpost.com/software/oddyssey)
+<details>
+<summary>ODDyssey</summary>
 
 Map the possibilities for electric autonomous fleets with data-driven market insights and simulation.
 
@@ -247,11 +299,14 @@ Map the possibilities for electric autonomous fleets with data-driven market ins
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=EakXPzNH4ww)
 - **All event prizes (1)** Waymo
 - **Devpost checked** 2026-11-21 UTC
-- **Waymo** ODDyssey combines public data about population, commuting, climate, charging access, and roads to rank candidate markets. Devpost gives no specific sponsor integration detail.
+- **Waymo · Waymo** ODDyssey combines public data about population, commuting, climate, charging access, and roads to rank candidate markets.
+
+</details>
 
 <a name="project-portfoliofit"></a>
 
-### [PortfolioFit](https://devpost.com/software/portfoliofit)
+<details>
+<summary>PortfolioFit</summary>
 
 Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new investment opportunities that actually fit it.
 
@@ -261,11 +316,14 @@ Your portfolio, explained: Chat with your portfolio, understand what you already
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=OPOzUj3IXuM)
 - **All event prizes (1)** Blackstone
 - **Devpost checked** 2026-11-21 UTC
-- **Blackstone** PortfolioFit is an investing companion built around three things:. Devpost gives no specific sponsor integration detail.
+- **Blackstone · Blackstone** PortfolioFit is an investing companion built around three things:.
+
+</details>
 
 <a name="project-public-city-announcements-pcl"></a>
 
-### [Public City Announcements (PCA)](https://devpost.com/software/public-city-announcements-pcl)
+<details>
+<summary>Public City Announcements (PCA)</summary>
 
 The neighbor who reads every city agenda and calls you when it matters.
 
@@ -275,11 +333,14 @@ The neighbor who reads every city agenda and calls you when it matters.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=D6od6VAIAPM)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
-- **ElevenLabs** PCA reads City of Miami and Miami-Dade agendas, finds the residents each decision affects, and calls them before the vote, in English or Spanish. Devpost gives no specific sponsor integration detail.
+- **ElevenLabs · &#91;MLH&#93; Best Use of ElevenLabs** PCA reads City of Miami and Miami-Dade agendas, finds the residents each decision affects, and calls them before the vote, in English or Spanish.
+
+</details>
 
 <a name="project-reigns"></a>
 
-### [reigns](https://devpost.com/software/reigns)
+<details>
+<summary>reigns</summary>
 
 Don't let your AI run wild.
 
@@ -289,11 +350,14 @@ Don't let your AI run wild.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=64wOp2kXgB4)
 - **All event prizes (1)** Assurant
 - **Devpost checked** 2026-11-21 UTC
-- **Assurant** The project page provides no specific sponsor integration detail in the indexed fields.
+- **Assurant · Assurant** The project page provides no specific sponsor integration detail in the indexed fields.
+
+</details>
 
 <a name="project-repro-h6gq70"></a>
 
-### [Repro](https://devpost.com/software/repro-h6gq70)
+<details>
+<summary>Repro</summary>
 
 A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
 
@@ -303,11 +367,14 @@ A project designed to be an open-source repository diagnostic and repair platfor
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=4GTQH27oGOs)
 - **All event prizes (1)** Microsoft
 - **Devpost checked** 2026-11-21 UTC
-- **Microsoft** Repro points AI agents at a codebase, grounds every finding in evidence you can re-run, and repairs the code with proof that the fix actually holds. Devpost gives no specific sponsor integration detail.
+- **Microsoft · Microsoft** Repro points AI agents at a codebase, grounds every finding in evidence you can re-run, and repairs the code with proof that the fix actually holds.
+
+</details>
 
 <a name="project-shaadiest"></a>
 
-### [Shaadiest](https://devpost.com/software/shaadiest)
+<details>
+<summary>Shaadiest</summary>
 
 No more sweat in your walk. Take the Shaadiest path.
 
@@ -317,11 +384,14 @@ No more sweat in your walk. Take the Shaadiest path.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=IRjQ7plFcqE)
 - **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
-- **GoDaddy Registry** The team built Shaadiest with JavaScript, Codex, Vite, Leaflet, Node.js, and Express, with deployment support for GoDaddy.
+- **GoDaddy Registry · &#91;MLH&#93; Best Domain Name from GoDaddy Registry** The team built Shaadiest with JavaScript, Codex, Vite, Leaflet, Node.js, and Express, with deployment support for GoDaddy.
+
+</details>
 
 <a name="project-spitball"></a>
 
-### [Spitball](https://devpost.com/software/spitball)
+<details>
+<summary>Spitball</summary>
 
 Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
 
@@ -331,11 +401,14 @@ Understand any codebase with confidence. Spitball's AI maps how your code works 
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=uLmimTFwauM)
 - **All event prizes (1)** Microsoft
 - **Devpost checked** 2026-11-21 UTC
-- **Microsoft** Paste a public GitHub repo URL, and Spitball reads the file tree and key files. Devpost gives no specific sponsor integration detail.
+- **Microsoft · Microsoft** Paste a public GitHub repo URL, and Spitball reads the file tree and key files.
+
+</details>
 
 <a name="project-syren-piz0qc"></a>
 
-### [Syren](https://devpost.com/software/syren-piz0qc)
+<details>
+<summary>Syren</summary>
 
 Decode the skies in real time: Live radar tracking powered by custom AI that detects anomalies before official reports.
 
@@ -345,11 +418,14 @@ Decode the skies in real time: Live radar tracking powered by custom AI that det
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=DAqYyY9iVos)
 - **All event prizes (1)** Waymo
 - **Devpost checked** 2026-11-21 UTC
-- **Waymo** Syren is a real-time and historical flight tracking platform with an integrated AI copilot:. Devpost gives no specific sponsor integration detail.
+- **Waymo · Waymo** Syren is a real-time and historical flight tracking platform with an integrated AI copilot:.
+
+</details>
 
 <a name="project-t-cell"></a>
 
-### [T-Cell](https://devpost.com/software/t-cell)
+<details>
+<summary>T-Cell</summary>
 
 The Soldier isolates the threat, evolves a working "cure" (a sandboxed containment payload), and applies it, then self-terminates.
 
@@ -359,11 +435,14 @@ The Soldier isolates the threat, evolves a working "cure" (a sandboxed containme
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=swDZNF3l3KU)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of DigitalOcean
 - **Devpost checked** 2026-11-21 UTC
-- **DigitalOcean** The project lists digitalocean among its Built With tags.
+- **DigitalOcean · &#91;MLH&#93; Best Use of DigitalOcean** The project lists digitalocean among its Built With tags.
+
+</details>
 
 <a name="project-transpeaktation"></a>
 
-### [transPEAKtation](https://devpost.com/software/transpeaktation)
+<details>
+<summary>transPEAKtation</summary>
 
 By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
 
@@ -373,12 +452,15 @@ By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=maBHLULKMVc)
 - **All event prizes (2)** &#91;AWS&#93; Best Use of AWS · &#91;MLH&#93; Best Use of Tiger Data
 - **Devpost checked** 2026-11-21 UTC
-- **Amazon Web Services** The team used AWS services to generate data and train all of the model before deploying them onto DigitalOcean.
-- **Tiger Data** The project lists tiger-data among its Built With tags.
+- **Amazon Web Services · &#91;AWS&#93; Best Use of AWS** The team used AWS services to generate data and train all of the model before deploying them onto DigitalOcean.
+- **Tiger Data · &#91;MLH&#93; Best Use of Tiger Data** The project lists tiger-data among its Built With tags.
+
+</details>
 
 <a name="project-utilities-utility-coordination"></a>
 
-### [UtiliTies - Utility Coordination](https://devpost.com/software/utilities-utility-coordination)
+<details>
+<summary>UtiliTies - Utility Coordination</summary>
 
 AI agents that read utilities' public construction filings, map every planned project, and find where neighbors could share crews, equipment, and outages.
 
@@ -388,4 +470,6 @@ AI agents that read utilities' public construction filings, map every planned pr
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=Supupux7vtA)
 - **All event prizes (1)** Sperry Tech
 - **Devpost checked** 2026-11-21 UTC
-- **Sperry Tech** UtiliTies reads two neighboring utilities' public construction plans, Dominion Energy South Carolina and Georgia Power, and finds where they could coordinate. Devpost gives no specific sponsor integration detail.
+- **Sperry Tech · Sperry Tech** UtiliTies reads two neighboring utilities' public construction plans, Dominion Energy South Carolina and Georgia Power, and finds where they could coordinate.
+
+</details>
