@@ -81,8 +81,8 @@ A navigation aid turns the live camera view into spoken directions for people wi
 
 - **Team size** 4
 - **Built With** asyncio, bytetrack, cloudflare, elevenlabs, fastapi, mongodb, opencv, python, typescript, ultralytics
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AK20202007/A-Eye)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=m7Ee3nlPFwQ)
 - **All event prizes (1)** MLH: Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The project lists elevenlabs among its Built With tags.
@@ -95,8 +95,8 @@ A macOS assistant takes a spoken question and highlights the relevant control fo
 
 - **Team size** 3
 - **Built With** appkit, claudecode, codex, elevenlabs, figmamake, gemini, google-cloud, gradio, huggingface, langchain, macos, matplotlib, numpy, ollama, onnx, opencv, pandas, pycuda, pydantic, python, pytorch, rf-detr, roboflow-cloud, swift, tensorrt
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/RyloRiz/accent)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=XmlBhFCtorw)
 - **All event prizes (2)** Figma Make Challenge · Track: Light The Way
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** Accent is a local macOS assistant that lets you press a keyboard shortcut, ask what you want to do on screen, and get a highlighted UI element plus verbal directions. Devpost gives no specific sponsor integration detail.
@@ -110,7 +110,7 @@ ACG helps AI coding agents work in parallel without stepping on each other.
 - **Team size** 2
 - **Built With** html, python, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=eoTO5TZJbNQ)
 - **All event prizes (1)** Cognition Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cognition** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -123,8 +123,8 @@ Zero-trust autonomous triage for networked medical hardware. Localized frontier 
 
 - **Team size** 2
 - **Built With** arduino, c, flipper, javascript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jackdeye/LAHACKS2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=v-JXrRFZ2OM)
 - **All event prizes (1)** ASUS Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **ASUS** Aegis Edge is an air-gapped autonomous defense for embedded hardware. Devpost gives no specific sponsor integration detail.
@@ -137,8 +137,8 @@ AgriMind combines a robotic guardian with live farm sensors and AI video/image a
 
 - **Team size** 4
 - **Built With** auth0, cloudinary, elevenlabs, fast-api, fetch.ai, gemma, langgraph, ngrok, node.js, npm, opencv, python, react, twelvelabs, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ClosetCoderSad/AgriMind-LAHacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Y-L3LzDw2ig)
 - **All event prizes (1)** Cloudinary Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudinary** Run an image analysis pipeline using Cloudinary for uploaded farm photos with cloud storage + annotation of sustainability metrics (CO2 impact, water usage, and risk insights).
@@ -151,8 +151,8 @@ How to combine AI with deterministic logic.
 
 - **Team size** 1
 - **Built With** best-buy, clerk, coco-ssd, css, gemma, html, mongodb, next.js, node.js, prices-api, prisma, react, tailwind-css, tensorflow.js, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Dirtblob/AutoGear)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=RYnkUSRhRUk)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -165,8 +165,8 @@ Autopsy records every action your AI coding agent takes, autopsies the failures,
 
 - **Team size** 4
 - **Built With** claude, cloudflare, codex, devin, docker, fastapi, gemma, godaddy, next.js, opencode, pgvector, python, react, sqlalchemy, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/balebbae/Autopsy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=2bgq8hvJ32s)
 - **All event prizes (2)** 3rd Overall · Cognition Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cognition** Autopsy is a diagnostic and prevention layer for AI coding agents. Devpost gives no specific sponsor integration detail.
@@ -179,8 +179,8 @@ Online marketplaces in 2026: Bots are everywhere.
 
 - **Team size** 4
 - **Built With** css, gemini, react, supabase, supabase-edge-functions, viem, vite, world, world-minikit, worldcoin-agentkit, worldid
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aryank09/banter-mart)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=hn_EWcW0pX0)
 - **All event prizes (1)** World U: Build for the future of the internet with World
 - **Devpost checked** 2026-11-21 UTC
 - **World U** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -194,7 +194,7 @@ A caregiver assistant coordinates appointments, calendar updates, and over-the-c
 - **Team size** 1
 - **Built With** agentverse, asi:one, browser-use, fet, fetch.ai, ocr, python, telegram, uagents
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4RKYgNmFiSM)
 - **All event prizes (1)** Fetch.ai: OmegaClaw Skill Forge powered by Agentverse
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** In ASI:One, CareLoop uses native Fetch.ai payment protocol cards for FET service fees.
@@ -207,8 +207,8 @@ Using Cloudinary’s efficient processing and delivery, Cloudcam makes video mes
 
 - **Team size** 3
 - **Built With** claude, cloudinary, java, mediarecorder, three.js, windsurf
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/erikshen128/cloudcam)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=l77n1NEQqxI)
 - **All event prizes (1)** Cloudinary Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudinary** When the recording is finished, the video blob is uploaded directly to Cloudinary using an unsigned preset.
@@ -221,8 +221,8 @@ AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent inte
 
 - **Team size** 2
 - **Built With** cloudflare, devin, github, modal, react, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KevinWu098/codebreaker)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CIyWH6rkN9c)
 - **All event prizes (2)** 1st Overall · Cognition Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cognition** Codebreaker is an end-to-end cybersecurity platform that pushes the frontier of what AI agents can do in security workflows. Devpost gives no specific sponsor integration detail.
@@ -235,8 +235,8 @@ A 3D scene builder turns a text prompt into an environment the user can walk thr
 
 - **Team size** 3
 - **Built With** agentverse, fastapi, fetch.ai, fetch.ai-agentverse, google-gemini-api, next.js, npm, pydantic, pytest, python, react, react-three-fiber, tailwind-css, three.js, typescript, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pauligwe/Conjure)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=x404jLbdaVs)
 - **All event prizes (1)** Track: Agentverse - Search &amp; Discovery of Agents
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The team make heavy use of Fetch.AI and Agentverse agents for orchestration and task completion.
@@ -249,8 +249,8 @@ Cropt: AI-powered crop disease detector that works completely offline. Snap a ph
 
 - **Team size** 4
 - **Built With** 11elevenlabs, auth0, expo.io, gemma, mlange, react, react-native, supabase, tailwind, twilio, typescript, vite, whatsapp, zertic
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Camillalalala/Cropt)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=2VeyoazaKkI)
 - **All event prizes (1)** Zetic Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Zetic** The team leveraged Zetic’s NPU technology to run heavy analysis models locally on low-cost mobile phones without requiring internet or cloud processing.
@@ -263,8 +263,8 @@ A tool converts building floor plans into tactile maps for accessible indoor nav
 
 - **Team size** 4
 - **Built With** elevenlabs, fastapi, fetch.ai, gemini, python, sqlite, swift, uvicorn
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aryanmudgal-tech/dots)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=gWNJgLeBlTY)
 - **All event prizes (2)** Track: Agentverse - Search &amp; Discovery of Agents · Track: Catalyst For Care
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Fetch.ai ASI:One for fast text-based Q&amp;A using the per-map context as the system prompt.
@@ -277,8 +277,8 @@ Edith is a real-time multimodal AI assistant that runs on Meta Ray-Ban glasses.
 
 - **Team size** 4
 - **Built With** agentverse, fastapi, gemini, meta-wearables-dat, omegaclaw, python, swift
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rishi-golla/lahacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Be9H4JvpBDg)
 - **All event prizes (1)** Fetch.ai: OmegaClaw Skill Forge powered by Agentverse
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The team defined skills in OmegaClaw, built bridge functions to connect them into the runtime, and exposed actual executable capabilities through Agentverse.
@@ -292,7 +292,7 @@ A hiking app gives users activities to complete outside and helps clinicians sug
 - **Team size** 3
 - **Built With** avfoundation, core-location, figma-make, mapkit, onnx, plantnet-300k, sqlite, supabase, swift, swiftui, zetic-melange
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0ANuoizXoxE)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** The project lists figma-make among its Built With tags.
@@ -306,7 +306,7 @@ A shared app helps friend groups coordinate rides, plans, and payments.
 - **Team size** 2
 - **Built With** figma, framer, godaddy, react, supabase, typescript, vercel, vite
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=mNkgHS3Sgk0)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** The project lists figma among its Built With tags.
@@ -320,7 +320,7 @@ Play as a hacker taking advantage of a data breach to crack as many accounts as 
 - **Team size** 3
 - **Built With** lua, roblox
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=jMh-X4L-k2U)
 - **All event prizes (1)** ROBLOX Civility Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Roblox** This project was built entirely in Roblox Studio using Lua.
@@ -333,8 +333,8 @@ EMTs deserve better than a radio and a clipboard.
 
 - **Team size** 3
 - **Built With** asus-gx10, cloudinary, colmap, docker, next.js, python, react, typescript, websocket, zetic-melange
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/MarcDasilva/Impulse)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=FwS_lDUnjMY)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** IMPULSE is a real-time incident response platform that turns any iPhone into a smart body camera and gives commanders a live, intelligent picture of what's happening on the ground. Devpost gives no specific sponsor integration detail.
@@ -348,7 +348,7 @@ Agent-powered hiring built for humans, using each applicant’s unique applicati
 - **Team size** 4
 - **Built With** express.js, gcp, gemini, node.js, react, worldu
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=avU8l6qmFD4)
 - **All event prizes (1)** World U: Build for the future of the internet with World
 - **Devpost checked** 2026-11-21 UTC
 - **World U** The team learned that real-world feedback is everything. Devpost gives no specific sponsor integration detail.
@@ -362,7 +362,7 @@ A Roblox tower-defense game teaches players to recognize phishing messages and m
 - **Team size** 4
 - **Built With** claudeapi, luau, robloxstudio
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=jjYTbE1EEbk)
 - **All event prizes (1)** ROBLOX Civility Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Roblox** The team built the project in Roblox Studio using Luau for gameplay systems, UI interactions, scoring, mini-games, player progression, and storyline.
@@ -375,8 +375,8 @@ A study app turns a textbook scan into an interactive learning session.
 
 - **Team size** 4
 - **Built With** arkit, cloudinary, elevenlabs, embeddingsgemma-300m, fastapi, python, react, swift, upstash-redis
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AntonK0/lahacks26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5XL32aCzCJg)
 - **All event prizes (1)** MLH: Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** Users simply scan the ISBN barcode of any supported textbook. Devpost gives no specific sponsor integration detail.
@@ -389,8 +389,8 @@ Your proactive AI copilot — lives in your browser, reads your world, acts befo
 
 - **Team size** 4
 - **Built With** 2.0, agent, agentverse, api, asi:one, bridge, calendar, chrome.alarms, chrome.identity), chrome.storage, css-chrome-extensions-api-(shadow-dom, fastapi, fetch.ai, gmail, google, html, javascript-(chrome-extension-mv3), oauth, python, service-workers, v1, v3
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/saigudisa6/jarvis)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=cpjTxFlSH58)
 - **All event prizes (1)** Track: Agentverse - Search &amp; Discovery of Agents
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists agentverse, asi:one, fetch.ai among its Built With tags.
@@ -404,7 +404,7 @@ A guided movement app helps older adults with limited mobility practice activiti
 - **Team size** 4
 - **Built With** css, html, javascript, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=EXR-oseYXUs)
 - **All event prizes (1)** MLH: Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** Just Replay starts off with intaking user information on their age and mobility limits to generate a safe, personalized session with a guiding video demo. Devpost gives no specific sponsor integration detail.
@@ -417,8 +417,8 @@ A guided movement app helps older adults with limited mobility practice activiti
 
 - **Team size** 3
 - **Built With** apple-push-notifications, elevenlabs, gemini, gemma, swift, xcode, zetic
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/JacobScheff/Knova)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Tn3k2QwK0Hk)
 - **All event prizes (1)** Zetic Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Zetic** Dynamically adapts content based on prior interactions. → All computed locally using Zetic , enabling fully offline intelligence.
@@ -431,8 +431,8 @@ Ai Agent that designs computer chips in VSCode.
 
 - **Team size** 2
 - **Built With** python, typescript, verilator
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rtsmc/lahacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=R-_vN2aiRW4)
 - **All event prizes (1)** Cognition Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cognition** The team built an AI assistant that designs computer chips, packaged directly into a seamless plugin for VSCode. Devpost gives no specific sponsor integration detail.
@@ -446,7 +446,7 @@ GitHub stores your code. Lore stores your reasons.
 - **Team size** 2
 - **Built With** anthropic, claude, deepseek, devin, gemma, tauri, windsurf
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8-gmVsRSW2c)
 - **All event prizes (1)** Cognition Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cognition** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -459,8 +459,8 @@ A coding tool maps relationships between files and passes the graph to a coding 
 
 - **Team size** 4
 - **Built With** agentverse, claude, css, docker, fastapi, fetch.ai, figma, figma-make, gemini, git, github, mcp, mongodb, next.js, omegaclaw, python, react, typescript, uagents, vscode
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/michelllinstar/MarkCodePolo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DNzF3zk9gi4)
 - **All event prizes (1)** MLH: Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** MarkCodePolo is a website that generates diagrams for both user and agent. Devpost gives no specific sponsor integration detail.
@@ -474,7 +474,7 @@ One who understands: your healthcare, handled.
 - **Team size** 4
 - **Built With** elevenlabs, expo.io, fastapi, playwright, python, railway, react-native, tavily-api, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rHKdiMtREt0)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** The app is a voice-controlled healthcare assistant that:. Devpost gives no specific sponsor integration detail.
@@ -487,8 +487,8 @@ A Roblox game uses a growing egg companion to reward rest, journaling, and other
 
 - **Team size** 2
 - **Built With** codex, luau, roblox
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/mishphantom/Mindful-Egg)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DLuGDKtVvls)
 - **All event prizes (1)** ROBLOX Civility Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Roblox** The team built Mindful Egg in Roblox Studio, combining simple game mechanics with meaningful habits.
@@ -501,8 +501,8 @@ An evaluation dashboard compares multi-agent workflows and lets developers inspe
 
 - **Team size** 4
 - **Built With** agentverse, anthropic, asi:one, claude, devin, fetch.ai, gemini, inspect-ai, mcp, openhands, pytest, python, react, typescript, vite, windsurf
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AlfredSjoqvist/multieval)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=__OU7Ftl4EM)
 - **All event prizes (2)** Cognition Company Challenge · Track: Agentverse - Search &amp; Discovery of Agents
 - **Devpost checked** 2026-11-21 UTC
 - **Cognition** MultiEval is an end-to-end platform for measuring, comparing, debugging, and autonomously evolving multi-agent orchestration patterns. Devpost gives no specific sponsor integration detail.
@@ -516,8 +516,8 @@ By mapping the user's eye movements to an on-screen cursor, individuals can navi
 
 - **Team size** 3
 - **Built With** css, elevenlabs, gemma, html, javascript, mediapipe, python, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/chrisconnell7/My-Voice-LA-HACKS)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=IZJ1qQYpXeE)
 - **All event prizes (1)** MLH: Best Use of Gemma
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemma among its Built With tags.
@@ -530,8 +530,8 @@ A grocery tracker reads receipts and flags food that may expire soon.
 
 - **Team size** 4
 - **Built With** amazon-web-services, django, figma, figma-make, javascript, python, react, sqlite, tailwindcss
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sinaghadimi9081/LaHacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NNhaTmYLjwI)
 - **All event prizes (2)** Best UI/UX · Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** It was mostly prototyped between using ChatGPT Codex and Figma Make, mostly using Figma to help ideate during the process.
@@ -544,8 +544,8 @@ A content tool evaluates where viewers may focus their attention and uses that f
 
 - **Team size** 3
 - **Built With** claudinary, colab, fetch.ai, ngrok, python, react, replicate, runpod, stripe, tribe
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/anirudhmazumder/NeuralLens)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Bf8ngLD5BEY)
 - **All event prizes (1)** Track: Agentverse - Search &amp; Discovery of Agents
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Multi-Agent Pipeline on Fetch.ai NeuralLens runs as a six-agent system on Fetch.ai's Agentverse, discoverable and invocable through ASI:One:.
@@ -558,8 +558,8 @@ Nimbus is an open-source VM provisioning platform that gives you the EC2 experie
 
 - **Team size** 4
 - **Built With** bash, golang, proxmox, react, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/smalex-z/nimbus)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=mk75Ryr81Y8)
 - **All event prizes (2)** Arista Networks: Connect the Dots Challenge · High Quality Sponsormaxxing
 - **Devpost checked** 2026-11-21 UTC
 - **Arista Networks** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -572,8 +572,8 @@ The light that guides you home.
 
 - **Team size** 3
 - **Built With** elevenlabs, expo.io, fetch.ai, melange, react-native, twilio, zetic
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/continuitylabs/lahacks26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UO3zezz21EY)
 - **All event prizes (2)** Track: Agentverse - Search &amp; Discovery of Agents · Zetic Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The agent swarm was done using a series of fetch.ai agentverse agents, each customized to have a specific speciality.
@@ -587,8 +587,8 @@ A desktop assistant finds local files and gathers context for the user's current
 
 - **Team size** 4
 - **Built With** better-sqlite3, chokidar, electron, embeddings, gemma, gemma-4, gguf, llama-server, llama.cpp, local-first, material-ui, mui, nomic, nomic-embed, on-device-ai, rag, react, retrieval-augmented-generation, sqlite, sqlite-vec, typescript, vector-search, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/LAHacks2026/Obi_Laptop)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=r7eSFDm4Wd4)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** Retrieval matters more than generation The quality of search has a bigger impact than model size. Devpost gives no specific sponsor integration detail.
@@ -601,8 +601,8 @@ The command center for ocean climate intervention. Simulate alkalinity deploymen
 
 - **Team size** 3
 - **Built With** ais-stream, asyncio, autoprefixer, calcofi, class-variance-authority, clsx, css3, cuda, esbuild, fastapi, framer-motion, github, google-adk, google-gemma-2, html5, julia-(1.10+), lucide-react, mapbox-gl-js, noaa, node.js, npm, numpy, nvidia-gb10-grace-blackwell, oceananigans.jl, ollama, openai-python-client-(for-local-ollama-bridge), postcss, progress, pydantic, python-(3.11+), radix-ui-(slider, react, react-map-gl, select, separator, tabs, tailwind-css, tailwind-merge, tanstack-query, three.js, tooltip), typescript, uvicorn, vite, websockets-(aisstream.io-integration)
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/A-Choudhari/LaHacks26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=gyvOeVgc2KM)
 - **All event prizes (1)** ASUS Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **ASUS** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -615,8 +615,8 @@ A Roblox safety game teaches players to identify grooming and scams in chat.
 
 - **Team size** 2
 - **Built With** gemini, httpservice, humanoiddescription, luau, openrouter-api, proximitypromptservice, remoteevent, replicatedstorage, roblox-engine, roblox-studio, runservice, tweenservice, userinputservice, viewportframe
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Anthony-Yangg/overseer)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aoXezdkHLYc)
 - **All event prizes (1)** ROBLOX Civility Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Roblox** The project lists roblox-engine, roblox-studio among its Built With tags.
@@ -629,8 +629,8 @@ Physical therapy fails at home because no one's watching. PhysioPal fixes that �
 
 - **Team size** 2
 - **Built With** applehealthkit, melange, ngrok, swift, twilio, xcode, zeticai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rutujanemane/PhysioPal)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4mJqV782Fp0)
 - **All event prizes (1)** Zetic Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Zetic** PhysioPal is a fully on-device iOS app with three engines working together:. Devpost gives no specific sponsor integration detail.
@@ -643,8 +643,8 @@ A Roblox detective game asks players to verify news stories by interviewing witn
 
 - **Team size** 3
 - **Built With** lua, luau, roblox, robloxstudio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/s9kt/LA-HACKS-2026-PIXEL-TRUTH)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=D64lghRLjOw)
 - **All event prizes (1)** ROBLOX Civility Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Roblox** The team developed the experience entirely in Roblox Studio using the Luau scripting language.
@@ -657,8 +657,8 @@ toolbox for aspiring politicians to campaign, stress-test their policies, and ru
 
 - **Team size** 1
 - **Built With** agentverse, asi, fetch
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/PranAD-dev/pols-15)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pVwl8clqHy4)
 - **All event prizes (1)** Track: Agentverse - Search &amp; Discovery of Agents
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists agentverse among its Built With tags.
@@ -671,8 +671,8 @@ A study tool helps users understand their focus habits and find a study partner.
 
 - **Team size** 4
 - **Built With** next.js, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/MaanPatel2005/Residue)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dgqo7zdmHD0)
 - **All event prizes (1)** Track: Agentverse - Search &amp; Discovery of Agents
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Residue is a personalized acoustic intelligence app for studying. Devpost gives no specific sponsor integration detail.
@@ -685,8 +685,8 @@ An incident response system organizes information quickly for people coordinatin
 
 - **Team size** 4
 - **Built With** fastapi, fetch, javascript, python, pytorch, raspberry-pi, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/srinisriram/RIIS)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=juhHSR9_-UE)
 - **All event prizes (2)** 2nd Overall · Fetch.ai: Best Use of ASI:One
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** RIIS sends a ground robot into collapsed structures ahead of human responders. Devpost gives no specific sponsor integration detail.
@@ -699,8 +699,8 @@ Type faster with less mistakes using bigram latency data.
 
 - **Team size** 1
 - **Built With** claude, next.js, node.js, react19, typescript, windsurf
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/eedwardkim/Roman-Road)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All event prizes (1)** Happy Hacking Keyboard: Type Beyond - Rethinking Interaction Through the Keyboard
 - **Devpost checked** 2026-11-21 UTC
 - **Happy Hacking Keyboard** Roman Road is the most attentive typing tutor on the internet. Devpost gives no specific sponsor integration detail.
@@ -713,8 +713,8 @@ Grounded AI tutoring, built on your curriculum, Interactive Learning.
 
 - **Team size** 4
 - **Built With** cloudinary, cognition, elevenlabs, fastapi, fetch, fetchai, groq, katex, mermaid, nextjs, python, railway, react, react-three-fiber, sqlite, sqlmodel, supabase, tailwind, tavily, typescript, vercel, webllm
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Preet37/SAGE)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Zubxeygcx_E)
 - **All event prizes (1)** Cloudinary Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudinary** Groq is used in LLM-related paths, ElevenLabs powers voice, Tavily supports research search, and Cloudinary powers major media/document upload and delivery flows.
@@ -727,8 +727,8 @@ A booking workspace helps performers find venues and manage pitches and follow-u
 
 - **Team size** 2
 - **Built With** agentverse, asi-1-mini, css, eventbrite, fastapi, figma, gemini, godaddy, google-gmail-oauth, mongodb, peerspace, python, react, recharts, sonnet, sqlite, tailwind, typescript, uagents, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/RC3371/Scaena-LAHacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DCTjE99embY)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** The project lists figma among its Built With tags.
@@ -741,8 +741,8 @@ Scrubs is an iPhone app that auto-redacts PHI — names, MRNs, faces — from he
 
 - **Team size** 4
 - **Built With** coreml, swift, swiftui, vision
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Dvlta/medimask)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=L_9q2m4YNkE)
 - **All event prizes (1)** Zetic Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Zetic** On-device OCR to read text from healthcare photos without a network round-trip. Devpost gives no specific sponsor integration detail.
@@ -756,7 +756,7 @@ Sentinel.ai monitors live camera streams and flags important activity.
 - **Team size** 3
 - **Built With** api, atlas, cloud, cloudinary, compute, dlib, elevenlabs, embeddings), face-recognition, fastapi, gemini, gemma, git, github, google, mongodb, opencv, python, pytorch, react, solana, stream/event, torchvision, transaction, typescript, ultralytics, vite, vultr, websockets, yolov8
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8iKrZ4sSS_I)
 - **All event prizes (1)** MLH: Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** The project lists solana among its Built With tags.
@@ -770,7 +770,7 @@ Because good music gives us sera-tonin :).
 - **Team size** 4
 - **Built With** colab, python, spotify, supabase, tribev2, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=M60_I4LMtPM)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** You bring Sera a playlist or a few songs. Devpost gives no specific sponsor integration detail.
@@ -783,8 +783,8 @@ Snitch is an accountability platform built for students without something on the
 
 - **Team size** 4
 - **Built With** discord.py, fastapi, gemini, mediapipe, python, react, sqlite, sqlmodel, stripe, tailwindcss, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/EfinZhao/Snitch)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vLm0LcqmDr0)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** The team used Figma Make to give the team inspiration for the frontend, specifically with A/B style testing.
@@ -798,7 +798,7 @@ Turning iPhone's $25 LiDAR into industrial-grade dense depth maps. On-device, re
 - **Team size** 4
 - **Built With** css, fastapi, gx10, html, javascript, python, pytorch, swift
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=M_QiPFWFkys)
 - **All event prizes (2)** Track: Flicker To Flow · Zetic Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Zetic** SPECTRA turns the iPhone Pro's sparse 192×256 LiDAR signal into a dense 768×1024 metric depth map, in real time, on-device. Devpost gives no specific sponsor integration detail.
@@ -811,8 +811,8 @@ The team describes the project as “StandIn on Business”.
 
 - **Team size** 4
 - **Built With** asusgx10, auth0, fetch.ai, gemini, gemma, mongodb, python, uagent, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Boroshilov03/StandIn)
+- **Demo video** [Video 1](https://vimeo.com/1186688249)
 - **All event prizes (1)** MLH: Best Use of Auth0 AI Agents
 - **Devpost checked** 2026-11-21 UTC
 - **Auth0** The project lists auth0 among its Built With tags.
@@ -826,7 +826,7 @@ Scale your business with faster authentic hiring and real outbound, not ai.
 - **Team size** 1
 - **Built With** typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=baX5qnjcYcc)
 - **All event prizes (1)** World U: Build for the future of the internet with World
 - **Devpost checked** 2026-11-21 UTC
 - **World U** startupOS helps small businesses create and manage jobs, campaigns, projects, and chat channels from one workspace. Devpost gives no specific sponsor integration detail.
@@ -839,8 +839,8 @@ Your tabs, turned into a study session.
 
 - **Team size** 3
 - **Built With** cloudnary, elevenlabs, mongodb
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sudarshan-krishnan/StudyO_LAHacks_2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=jQ3Fq21-e_k)
 - **All event prizes (1)** Cloudinary Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudinary** StudyO is a personalized AI learning workspace built around three core loops:. Devpost gives no specific sponsor integration detail.
@@ -854,7 +854,7 @@ A dashboard shows how internship pipelines connect employers and schools.
 - **Team size** 3
 - **Built With** agentverse, claude, fastapi, figmamake, javascript, next.js, python, react, render, supabase, tailwindcss, uagents, vercel
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=2_2BNhwoFno)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** Using Figma Make to experiment with the hero section designs.
@@ -867,8 +867,8 @@ A smart productivity proxy that uses AI to filter away distractions while allowi
 
 - **Team size** 3
 - **Built With** css, dns, express.js, gemini, html, http, javascript, mongodb, node.js, python, react, ssl, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Drime648/lahacks-timehole)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pVpUcCo96SI)
 - **All event prizes (1)** Arista Networks: Connect the Dots Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Arista Networks** TimeHole is a network-level productivity filter that combines a DNS server and a web proxy to analyze and control internet traffic in real time. Devpost gives no specific sponsor integration detail.
@@ -881,8 +881,8 @@ Veritas is a Chrome extension that fact-checks YouTube videos in real time. It e
 
 - **Team size** 3
 - **Built With** agentverse, chrome, extensions, fastapi, fetch.ai, gemma, javascript, pydantic, python, sqlite, uagents, websockets, wikipedia
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/riteshkasa/veritas)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CuinBraRAlk)
 - **All event prizes (1)** Arista Networks: Connect the Dots Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Arista Networks** Veritas is a minimalistic Chrome extension that fact-checks YouTube videos in real time. Devpost gives no specific sponsor integration detail.
@@ -896,7 +896,7 @@ Turn trash into cash: report litter, clean it up, get paid in Solana.
 - **Team size** 4
 - **Built With** cloudinary, react-native, solana, supabase, world-u
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=D_P7spBpfyQ)
 - **All event prizes (1)** Cloudinary Company Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudinary** The project lists cloudinary among its Built With tags.
@@ -910,7 +910,7 @@ A browser extension helps users find and understand medical research relevant to
 - **Team size** 4
 - **Built With** canva, chrome, css, express.js, figma, figmamake, gemma, git, github, html, javascript, node.js, ollama, postgresql, react, resend, sql, supabase, typescript, vite, vultr
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=TyN5sk7KFns)
 - **All event prizes (1)** Figma Make Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** Using Figma Make for the first full flow.

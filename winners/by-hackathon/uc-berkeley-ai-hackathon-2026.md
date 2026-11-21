@@ -65,7 +65,7 @@ AI-powered 311 for non-emergencies. Voice-to-dispatch in less than a minute with
 - **Team size** 1
 - **Built With** arize-phoeniz, band-ai, browserbase, deepgram, mapbox, python, redis, redis-search, websockets
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=jzAeXCgLafw)
 - **All event prizes (1)** Best Use of TokenRouter by PaleBlueDot AI
 - **Devpost checked** 2026-11-21 UTC
 - **PaleBlueDot AI** 311.ai is an AI-native municipal command center that transforms voice calls into dispatched work orders in under 60 seconds . Devpost gives no specific sponsor integration detail.
@@ -78,8 +78,8 @@ Context management you can trust - Say goodbye to /compact.
 
 - **Team size** 4
 - **Built With** claude, javascript, jiti, node.js, pi, qwen2.5-0.5b, rust, svelte-5, sveltekit, tauri-2, typescript, vite, vitest, websocket
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/a-Fig/Accordion)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=T1omrI2VjLA)
 - **All event prizes (1)** Best Compression Model for The Token Company
 - **Devpost checked** 2026-11-21 UTC
 - **The Token Company** Accordion shows you your entire context window at a glance using a series of blocks in a grid. Devpost gives no specific sponsor integration detail.
@@ -92,7 +92,7 @@ A real-time 911 dispatch co-pilot that transcribes, translates, and protocol-gro
 
 - **Team size** 1
 - **Built With** armoriq, carto, claude, cloudfair, deepgram, leaflet.js, nextjs, node.js, osrm, react, redis, sentry, tailwindcss, the-token-company, typescript, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ARP-source/aegis-dispatch)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of ArmorIQ Platform to Build Secure Agents
 - **Devpost checked** 2026-11-21 UTC
@@ -106,8 +106,8 @@ A logistics planner compares air and sea options for international shipments.
 
 - **Team size** 4
 - **Built With** asi-one, bureau, claude, fetchai, gcp, pydantic, python, stripe, uagents, vscode
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aniketggg/AeroFreight-AI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5XbmtxZjauw)
 - **All event prizes (1)** Best Use of The Agentverse by Fetch AI
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Using AeroFreight agent on FetchAI's ASI 1 platform.
@@ -120,8 +120,8 @@ A purchasing tool uses agents to match produce buyers with available supply at a
 
 - **Team size** 4
 - **Built With** agentverse, asi, fetch.ai, multi-agent, python, stripe
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ai-Hackathon-2026-Berk/AgriBroker)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=oDr4soAX2kM)
 - **All event prizes (1)** Best Use of The Agentverse by Fetch AI
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** AgriBroker is an autonomous produce procurement marketplace built on the Fetch.ai ecosystem.
@@ -134,8 +134,8 @@ Recursive Sandboxed Agents for Autonomous Research at Scale.
 
 - **Team size** 4
 - **Built With** anthropic, browserbase, fastapi, gcp, modal, next.js, python, redis, sentry
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/JasonLai150/AlphaResearch)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=LcH4rdKbF6Y)
 - **All event prizes (1)** Best Use of Cognition
 - **Devpost checked** 2026-11-21 UTC
 - **Cognition** The team use agent harnesses and sandbox environments (w/ root level access) to run research experiments in parallel in a systematic way. Devpost gives no specific sponsor integration detail.
@@ -148,8 +148,8 @@ It's a wearable narrator AI that watches your day and announces it out loud in a
 
 - **Team size** 4
 - **Built With** libjpeg-turbo, python, raspberry-pi, tcp, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Da0t/AsideAI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3NdMEDV5Ews)
 - **All event prizes (1)** Best Use of Deepgram
 - **Devpost checked** 2026-11-21 UTC
 - **Deepgram** Aside is a clip-on camera + mic that watches the world around you and narrates it out loud in real time in a personality you choose. Devpost gives no specific sponsor integration detail.
@@ -163,7 +163,7 @@ AxisGen turns one robot-task prompt into simulation-ready Physical AI prompts by
 - **Team size** 3
 - **Built With** ai, cli, cloud, configuration, dataset, generation, github, gpu, gr00t-compatible, json, lerobot, llm, nebius, npa, nvidia, physical, planning, python, sim, structured, templates, yaml
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vdUR6xzem4s)
 - **All event prizes (1)** Best Physical AI Hack by UFB
 - **Devpost checked** 2026-11-21 UTC
 - **UFB** AxisGen takes one robot-task prompt and expands it across environmental axes such as lighting, object placement, clutter, camera viewpoint, distractors, task difficulty, robot embodiment, and safety constraints. Devpost gives no specific sponsor integration detail.
@@ -176,8 +176,8 @@ A network of hospital assistants forecasts supply pressure and helps hospitals c
 
 - **Team size** 4
 - **Built With** arize, claude, fetch.ai, html5, javascript, poke, python, redis
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/apollo-ullah/Baymax)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=uRPyS_SuhiA)
 - **All event prizes (1)** Best Use of The Agentverse by Fetch AI
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Baymax is a network of hospital AI agents built on Fetch.ai that sees crises coming by fusing live weather, disease, and inventory signals.
@@ -190,8 +190,8 @@ BrailleAI gives DeafBlind people a voice. Type by touch to speak out loud, and f
 
 - **Team size** 4
 - **Built With** 3d-printing, annapurna, anthropic-claude, c++, cognition, deepgram, devin-cloud-agent, devin-desktop, embedded, esp32, google-cloud, google-cloud-tts, groq, ngrok, orkes, python, qnx, raspberry-pi, sai, simular, unify
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/lili1501/Refreshable_Braille_Display)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=iX5XIWncCkA)
 - **All event prizes (1)** Best Use of Orkes
 - **Devpost checked** 2026-11-21 UTC
 - **Orkes** The project lists orkes among its Built With tags.
@@ -204,8 +204,8 @@ BrowserDelta cuts browser-agent context by ~78% while matching the vision-full-s
 
 - **Team size** 1
 - **Built With** arize, browserbase, browsergym, fastapi, gpt-4.1-mini, miniwob++, openai-responses-api, opencv, pillow, playwright, pytest, python, react, tesseract-ocr, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jaykbpark/browser-use-compaction-co)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rEbSwp6_rc8)
 - **All event prizes (1)** Best Use of Cognition
 - **Devpost checked** 2026-11-21 UTC
 - **Cognition** BrowserDelta is an intermediate layer between BrowserBase / Playwright and your agent. Devpost gives no specific sponsor integration detail.
@@ -218,7 +218,7 @@ An autonomous agent that catches the silent bugs your tests and Sentry both miss
 
 - **Team size** 3
 - **Built With** anthropic, browserbase, claude, next.js, node.js, playwright, react, redis, sentry, typescript, vitest
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/vikashftw/Canary)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Sentry API
 - **Devpost checked** 2026-11-21 UTC
@@ -233,7 +233,7 @@ Captain Ddoski gives AI finance agents instant source trust scores, risk tags, a
 - **Team size** 3
 - **Built With** arize, bear-2-api, claude, fastapi, fastmcp/mcp, firecrawl, next.js, python, react, render, sentry, shadcn, supabase, tailwind-css, terac, the-token-company-api, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=nkR6ym0lYnw)
 - **All event prizes (1)** Best Use of Terac
 - **Devpost checked** 2026-11-21 UTC
 - **Terac** The project lists terac among its Built With tags.
@@ -246,7 +246,7 @@ CareLoop is a voice-first healthcare concierge that triages urgency, finds nearb
 
 - **Team size** 2
 - **Built With** agentverse, and, asi:one, cms-nppes-api, css, deepgram, fastapi, fetch.ai-uagents, html, javascript, openai-compatible-api-client, pydantic, python, python-dotenv, redis, requests, stripe, uvicorn, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/VishalDani1602/AIHACK26)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of The Agentverse by Fetch AI
 - **Devpost checked** 2026-11-21 UTC
@@ -260,8 +260,8 @@ A property planning tool lets builders compare potential sites, visualize projec
 
 - **Team size** 4
 - **Built With** agentverse, anthropic-claude-sdk, arize-(observability), browserbase-(headless-scraping), built-with-languages:?typescript, css-frontend:?react-19, d3-geo, data-&amp;-cache:?redis-(ioredis), deck.gl, drei, gsap-backend:?node.js, hono-(api-routes-inside-tanstack-start), javascript, maplibre-gl, optional-python-fastapi-microservice-(agent-service)-3d-/-maps:?three.js, pdfs:?pdf-lib-(permit-form-auto-fill), playwright-(image-verification-with-browserbase), python, react-three-fiber, tailwind-css, tanstack-query, tanstack-router, tanstack-start, topojson-ai-&amp;-agents:?fetch.ai-asi:one, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shubhaych/Constructa)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Wa2UlZcN85A)
 - **All event prizes (2)** Best Use of Browserbase · Best Use of The Agentverse by Fetch AI
 - **Devpost checked** 2026-11-21 UTC
 - **Browserbase** The project lists browserbase-(headless-scraping), playwright-(image-verification-with-browserbase) among its Built With tags.
@@ -275,8 +275,8 @@ Fetch Health is a hospital-staff-facing donor and recipient intake and matching 
 
 - **Team size** 4
 - **Built With** anthropic, claude, deepgram, fetchai, midjourney, react, redis, sentry
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/abhinavprkash/Fetch-Health)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=1Fm5qSy5vFM)
 - **All event prizes (1)** Best Use of The Agentverse by Fetch AI
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Fetch.ai agents act as the public agent layer, while the heavy processing runs on the local backend infrastructure.
@@ -290,7 +290,7 @@ A multi agent AI tool for fire fighters.
 - **Team size** 3
 - **Built With** arize, aura, browserbase, deepgram, fetchai
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aVl0IdfeYtE)
 - **All event prizes (1)** Best Use of The Agentverse by Fetch AI
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists fetchai among its Built With tags.
@@ -303,8 +303,8 @@ A multi agent AI tool for fire fighters.
 
 - **Team size** 2
 - **Built With** anthropic-api, arize, asyncpg, claude-code, claude-opus-4, claude-sonnet-4.6, fastapi, openai-text-embedding-3-small, opentelemetry, postgresql, python, react-18, redis-(redisvl, redis-streams), redisjson, synthea, tailwind-css, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/arjvnv/forge-1st-Place-UC-Berkeley-AI-Hackathon-2026-Redis-track)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4K3G6_XONPU)
 - **All event prizes (1)** Using Redis Beyond Caching, Best Creativity and Originality, Best Technical Implementation
 - **Devpost checked** 2026-11-21 UTC
 - **Redis** Every incoming intent is embedded using OpenAI's text-embedding-3-small model and compared against the clinic's existing capability library via HNSW vector similarity search in Redis.
@@ -317,8 +317,8 @@ JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives e
 
 - **Team size** 4
 - **Built With** anthropic, arize, browserbase, claude-code, claude-sonnet-4-6, deepgram, fastapi, fetch-ai, microsoft-band, next.js, python, railway, redis, stagehand, supabase, tailwind-css, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nergisRahimzade/jugaad)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=18ggunYZ8iM)
 - **All event prizes (1)** Best Use of Arize
 - **Devpost checked** 2026-11-21 UTC
 - **Arize** A Claude-as-judge evaluator runs automated quality scoring across 4 criteria (relevance, actionability, persona adherence, safety) and logs results to Arize.
@@ -332,7 +332,7 @@ Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents fi
 - **Team size** 2
 - **Built With** aevs, agentverse, asi:one, fetch.ai, mcp, mongodb-atlas, pydantic-ai, python, react, stripe, typescript, uagents, ucp, vite
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=2rR3Mup_OXU)
 - **All event prizes (1)** Best Use of The Agentverse by Fetch AI
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** LifeLink is a multi-agent blood coordination network built on Fetch.ai .
@@ -345,7 +345,7 @@ Empowering blind and low-vision fans to follow the action, context, and emotion 
 
 - **Team size** 3
 - **Built With** claude, deepgram, mcp, node.js, redis, terac, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/bbioren/match-vision)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Terac
 - **Devpost checked** 2026-11-21 UTC
@@ -359,8 +359,8 @@ QNX-powered, computer-vision-driven viral arcade system. Compete in instant 1v1 
 
 - **Team size** 4
 - **Built With** mediapipe, opencv, pika, pygame, python, qnx, raspberry-pi, redis, sdl2
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/BeanyZoldyck/moggie)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YuO-1lJqAFQ)
 - **All event prizes (2)** Best Use of QNX · Most Creative Use of Pika
 - **Devpost checked** 2026-11-21 UTC
 - **Pika** Also, Moggie auto-clips and generates fun UGC-ready videos using Pika to increase virality.
@@ -374,8 +374,8 @@ An AI undercover agent to detect and intercept online drug advertising.
 
 - **Team size** 4
 - **Built With** browserbase, claude-code, docker, javascript, llama, next.js, nomic, react, redis-stack, shadcn/ui, stagehand, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/cibarbia05/narcore)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=r2Dl7fKbcsU)
 - **All event prizes (1)** Best Use of Browserbase
 - **Devpost checked** 2026-11-21 UTC
 - **Browserbase** Narcore was created to help law enforcement officials by using multiple Browserbase instances to scrape through synthetic feeds on a virtual machine.
@@ -388,8 +388,8 @@ Supervision layer for robot fleets. A VLM watches each robot against its task an
 
 - **Team size** 4
 - **Built With** act, antropicstructuredoutput, claude, depthanythingv2, esp32, espidf, fastapi, lerobot, mediapipe, pca9685, piperx, pydantic, python, three.js, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/matthehzhang/hackcal)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=uvKU0ZPAZa4)
 - **All event prizes (1)** Best Physical AI Hack by UFB
 - **Devpost checked** 2026-11-21 UTC
 - **UFB** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -417,8 +417,8 @@ Quorum is a validation layer for multi-agent AI systems, running on platforms li
 
 - **Team size** 3
 - **Built With** agentverse, asi:one, browserbase, claude, devin, fastapi, fetch.ai, python, redis, typescript, uagents
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/mohiitt/Quorum)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8BivgXe7MMM)
 - **All event prizes (1)** Best Use of The Agentverse by Fetch AI
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Quorum was built from the ground up to live in the Fetch.ai ecosystem.
@@ -431,8 +431,8 @@ A query-aware rewriting layer that extends compression into the regime deletion 
 
 - **Team size** 2
 - **Built With** 2wikimultihop, deepseek-api, h100, hotpotqa, huggingface-datasets, lora, modal, ms-marco, musique, python, qwen2.5-1.5b, squad, the-token-company-sdk, unsloth
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Kart-ing/ReCompress)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=2cx1czVpz8I)
 - **All event prizes (1)** Best Compression Model for The Token Company
 - **Devpost checked** 2026-11-21 UTC
 - **The Token Company** ReCompress is one system in two acts. Devpost gives no specific sponsor integration detail.
@@ -445,8 +445,8 @@ Agentic harness for efficient codebase refactoring.
 
 - **Team size** 4
 - **Built With** claude, devin, python, redis, sentry
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Tanush-A/Refactorika)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=uu6amcmRtzg)
 - **All event prizes (1)** Best Use of Cognition
 - **Devpost checked** 2026-11-21 UTC
 - **Cognition** Refactorika is an agent harness delivered as an MCP server, riding on a deterministic, graph-driven refactoring engine. Devpost gives no specific sponsor integration detail.
@@ -460,7 +460,7 @@ End to End AGENT BASED RE-Selling.
 - **Team size** 2
 - **Built With** typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=2RdGKlS07a8)
 - **All event prizes (1)** Most Creative Use of Pika
 - **Devpost checked** 2026-11-21 UTC
 - **Pika** Studio writes the title, description, and tags. Devpost gives no specific sponsor integration detail.
@@ -474,7 +474,7 @@ Retention uses Meta's brain-simulation model to optimize educational videos for 
 - **Team size** 4
 - **Built With** claude, deepgram, lightningai, microsoft-band, pika, python, react, tokenrouter
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=AMhMTYLi8js)
 - **All event prizes (1)** Best Use of TokenRouter by PaleBlueDot AI
 - **Devpost checked** 2026-11-21 UTC
 - **PaleBlueDot AI** Retention takes an instructional video and makes it more engaging, automatically, by treating a simulated brain as the judge:. Devpost gives no specific sponsor integration detail.
@@ -487,8 +487,8 @@ The project is a full pipeline that takes ordinary monocular phone videos of a p
 
 - **Team size** 4
 - **Built With** bash, cuda, ffmpeg, gmr, gvhmr, hmr2, hugging-face, isaac-lab, mujoco, numpy, onnx, python, pytorch, runpod, smpl-x, ubuntu, unitree-g1, vitpose, windows, wsl2, yolov8
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/abtonmoy/ai_hackathon_calhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=XCrEp2mOd_s)
 - **All event prizes (1)** Best Physical AI Hack by UFB
 - **Devpost checked** 2026-11-21 UTC
 - **UFB** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -502,7 +502,7 @@ A civic reporting tool flags street hazards in images and pairs them with city r
 - **Team size** 4
 - **Built With** browserbase, fastapi, fetch.ai, gemini-imagen-4, mapbox, react, redis, typescript, uagents
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=SIy97mAQ4YY)
 - **All event prizes (1)** Best Use of Claude
 - **Devpost checked** 2026-11-21 UTC
 - **Anthropic** Claude (Haiku) runs the two-stage vision pipeline.
@@ -529,7 +529,7 @@ Making music something you can feel, see, and sign.
 
 - **Team size** 3
 - **Built With** claude, lifeprint, numpy, opencv, pika, pillow, python, torch, whispr
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Deeksha-Vaidyanathan/senya)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Most Creative Use of Pika
 - **Devpost checked** 2026-11-21 UTC
@@ -543,8 +543,8 @@ Runs YOLOv10n (NMS-free) at 640×640, 80-class COCO entirely on-chip — no DRAM
 
 - **Team size** 3
 - **Built With** claude-code, cognichip, digilent-genesys-2(kintex-7-xc7k325t), int8/csd-multiplier-less-arithmetic, pycocotools, python, pytorch(cuda), rtl, simulang, simular(hyperframes), simular(sai), systemverilog, torch-pruning, verilog, xilinx-vivado, yolov10n
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kejiwuxian/SiliconYOLO)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0lajMaVrj0A)
 - **All event prizes (1)** Best Use of Cognichip
 - **Devpost checked** 2026-11-21 UTC
 - **Cognichip** The project lists cognichip among its Built With tags.
@@ -558,7 +558,7 @@ STING is AI anti-scam protection that protects elderly and naive users from phis
 - **Team size** 1
 - **Built With** anthropic, anthropic-claude, anthropic-claude-for-plain-english-scam-explanations, arize, arize-/-phoenix-for-ai-evaluation-and-tracing, asi:one, browserbase, browserbase-for-isolated-suspicious-link-inspection, chrome-extension-apis, chrome-mv3-extension-apis, claude, codex, cognition, css, deepgram, deepgram-for-voice-scam-transcription, devin, fetch.ai, fetch.ai-/-asi:one-for-agent-coordination, html, javascript, midjourney, node.js, openai, phoenix, pika, react, redis, redis-/-upstash-for-scam-memory-and-case-persistence, sentry, sentry-for-reliability-monitoring, simular, simular-for-autonomous-qa-testing, upstash, vercel, vite
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YHRKJ472k7k) · [Video 2](https://www.youtube.com/watch?v=k_h54gNTzgk)
 - **All event prizes (1)** Best Use of Simular
 - **Devpost checked** 2026-11-21 UTC
 - **Simular** The project lists simular, simular-for-autonomous-qa-testing among its Built With tags.
@@ -572,7 +572,7 @@ Tendly gives elderly patients one button to speak any need. Claude triages it in
 - **Team size** 4
 - **Built With** claude, css, fastapi, html, javascript, next.js, pydantic, python, react, redis, typescript, uvicorn
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YVdjN4_6iEU)
 - **All event prizes (1)** Best Use of Simular
 - **Devpost checked** 2026-11-21 UTC
 - **Simular** For digital tasks (play music, look up a recipe, send a message), Tendly generates a TypeScript Simulang script and executes it directly on the desktop via Simular, no caregiver required.
@@ -585,8 +585,8 @@ A band and a plush cat that catch anxiety in how you move — and interrupt it b
 
 - **Team size** 4
 - **Built With** anthropic-claude, arduino, bluetooth, elevenlabs, esp32, mpu6050, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/emilyLi2020/Theracat)
+- **Demo video** [Video 1](https://vimeo.com/1203255610)
 - **All event prizes (3)** Finalist · GRAND PRIZE - Ddoski's Lab Track · SkyDeck Grand Prize Winner
 - **Devpost checked** 2026-11-21 UTC
 - **Berkeley SkyDeck** TheraCat is a two-part companion: a wristband and a soft plush cat. Devpost gives no specific sponsor integration detail.
@@ -599,8 +599,8 @@ TrAIde is the AI agent that sells your stuff for you. Just text a photo and pric
 
 - **Team size** 3
 - **Built With** browserbase, claude, cloudflare, javascript, orkes, poke, python, redis, stagehand, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rishabhroyy/traide)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VgXrJ3nY2rY)
 - **All event prizes (1)** Best Use of Browserbase
 - **Devpost checked** 2026-11-21 UTC
 - **Browserbase** Every integration, from Poke to Orkes to Browserbase to Redis, earns its place in the workflow.
@@ -613,8 +613,8 @@ An agent that reproduces your bugs by actually using your app.
 
 - **Team size** 1
 - **Built With** arize, browserbase, claude, fastapi, microsoft-band, python, stagehand
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/HansChundekad/Triage)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Q-ArgjSnVzw)
 - **All event prizes (1)** Best use of Band for agent to agent communication
 - **Devpost checked** 2026-11-21 UTC
 - **Band** The team built the agent message schema around this constraint from the start rather than retrofitting it, which meant locking the Band module interface before any agent logic was written.
@@ -627,8 +627,8 @@ Fire truck crash? Radio too slow.
 
 - **Team size** 5
 - **Built With** deepgram, fastapi, framer-motion, motionfx, openai, python, qnx, raspberry-pi-5, react, recharts, redis, stm32-(nucleo-f401re), stmicroelectronics-iks5a1, three.js-(react-three-fiber/drei), uagents, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/bencejdanko/VanguardTelematics)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6oMx5WiXiPE)
 - **All event prizes (2)** Best Use of QNX · Best Use of The Agentverse by Fetch AI
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists uagents among its Built With tags.

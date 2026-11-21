@@ -43,8 +43,8 @@ Physical AI for low-pesticide agriculture to help farmers spray less and grow mo
 
 - **Team size** 4
 - **Built With** javascript, mujoco, python, solidworks
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/mraruziev/cropscout-live-tomato)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=nkYR_oS4BKQ)
 - **All event prizes (1)** ASUS Sustainability: Save the Earth
 - **Devpost checked** 2026-11-21 UTC
 - **ASUS** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -57,8 +57,8 @@ Andi helps people quitting alcohol stay sober. It texts them in iMessage when th
 
 - **Team size** 1
 - **Built With** anthropic, capital-one-nessie, chalk, claude, daytona, docker, elevenlabs, factory, fly.io, hono, imessage, ios, node.js, photon, python, swift, swiftui, typescript, widgetkit
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kushmirchandani/andi)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=N-oXvhoNrzw)
 - **All event prizes (1)** Build a Messaging Agent with Photon 2.0
 - **Devpost checked** 2026-11-21 UTC
 - **Photon** The project lists photon among its Built With tags.
@@ -71,8 +71,8 @@ An immune system for vibe-coded apps. It finds the holes AI coding tools leave b
 
 - **Team size** 3
 - **Built With** chalk, next.js, photon, react, supabase, tailwind, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/antibody-hq/Antibody)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=spl0ptVzQsw)
 - **All event prizes (1)** Best Use of Factory Droid SDK
 - **Devpost checked** 2026-11-21 UTC
 - **Factory** Antibody scans your live app URL for security flaws to give you an idea of what risks you could be facing if no changes are made. Devpost gives no specific sponsor integration detail.
@@ -85,8 +85,8 @@ Trash in the recycling? Compost in the trash.
 
 - **Team size** 4
 - **Built With** chalk, claude, clip, css, docker, elevenlabs, fastsam, jev, neon, next.js, numpy, opencv, postgresql, python, react, typescript, vercel, yolo11n-pose
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ishan-Wakade/Caught_in_4K)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3-jCaqzQ2cg)
 - **All event prizes (1)** ASUS Sustainability: Save the Earth
 - **Devpost checked** 2026-11-21 UTC
 - **ASUS** Whenever a customer or employee walks towards a set of trash, recycling, and/or compost bins, CAUGHT_IN_4K notices them approaching and tells them where to drop their waste. Devpost gives no specific sponsor integration detail.
@@ -99,8 +99,8 @@ ClearPath spots clinical-trial drug shipments at risk of delay, proposes fixes a
 
 - **Team size** 4
 - **Built With** and-grok-and-grok-imagine-for-building-the-app-and-making-the-demo-video-**messaging:**-photon-(imessage)-**maps-and-data:**-google-maps-javascript-api, chalk, claude, css, gdacs, google-maps, google-routes-api, grok, html, javascript, map-and-fire-monitor, nasa-firms, nasa-lance-and-gdacs-**testing:**-python-&#96;unittest&#96;, node.js, photon, playwright-with-chromium, pytest, python, sql, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/oliverywu/ClearPath)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=yicXCW7Uulg)
 - **All event prizes (1)** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** ClearPath keeps clinical-trial drug shipments on track from the warehouse to the patient:. Devpost gives no specific sponsor integration detail.
@@ -113,8 +113,8 @@ Turn a clinical trial protocol into a site budget both sides can check: procedur
 
 - **Team size** 3
 - **Built With** clinicaltrials.gov-api, cms-clinical-laboratory-fee-schedule, cms-physician-fee-schedule, fastapi, ffmpeg, leaflet.js, numpy, puppeteer, pydantic, pytest, python, react, scipy, sqlite, typescript, uvicorn, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/CosmicOdyssey/concord)
+- **Demo video** [Video 1](https://vimeo.com/1236934994)
 - **All event prizes (1)** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** Protocol to terms turns a trial's schedule of assessments into a budget both sides can check:. Devpost gives no specific sponsor integration detail.
@@ -127,8 +127,8 @@ Remember the elves who finished the shoemaker’s work overnight? Elfie brings t
 
 - **Team size** 4
 - **Built With** browserbase, claude, nessie, photon, railway, retell, stagehand, supabase
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/arshiyasharma/hackharvard)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=GTRrbq8RdjU) · [Video 2](https://www.youtube.com/watch?v=h2k7D7NcFDU)
 - **All event prizes (1)** Best Use of Nessie
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** The project lists nessie among its Built With tags.
@@ -141,8 +141,8 @@ Disaster plans go stale in minutes. EMBER turns texts and calls into a new perso
 
 - **Team size** 4
 - **Built With** anthropic, chalk, claude, daytona, deck.gl, elevenlabs, fastapi, github-actions, imessage, maplibre, numpy, openstreetmap, osmnx, photon, pixijs, python, react, scipy, shapely, socket.io, sqlite, typescript, usgs, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/soham-k-sinha/Ember)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YbEaTgA91rU)
 - **All event prizes (1)** Build a Messaging Agent with Photon 2.0
 - **Devpost checked** 2026-11-21 UTC
 - **Photon** Calls run through ElevenLabs on the Photon number, with the backend acting as the agent's language model.
@@ -155,8 +155,8 @@ A LiDAR iPhone and a 24-pin palm puck that turn the room into touch. Feel what�
 
 - **Team size** 4
 - **Built With** 3d-printing, arduino, arkit, bambu-lab, bluetooth, c++, chalk, coreml, esp32, feetech-fs0307, lidar, nimble, node.js, openai-realtime, openscad, pla, platformio, postgresql, python, supabase, swift, swiftui, vercel, vision
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/MartinPuli/feel)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NzBkQcUejH0)
 - **All event prizes (3)** Best Data-Driven Agent Built on Chalk · First Place Overall · Hardware for Good
 - **Devpost checked** 2026-11-21 UTC
 - **Chalk** The project lists chalk among its Built With tags.
@@ -169,8 +169,8 @@ FirstLight recruits, consents and retains trial participants over iMessage, and 
 
 - **Team size** 2
 - **Built With** anthropic, caddy, claude, daytona, docker, grok, imessage, node.js, photon, postgresql, react, resend, swift, typescript, vite, webauthn, xai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SunfishTK1/hackharvard-2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=BNi3T0CI5m4)
 - **All event prizes (2)** Build a Messaging Agent with Photon 2.0 · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Photon** The project lists photon among its Built With tags.
@@ -184,8 +184,8 @@ Leash makes group bookings secure and debt-free. Everyone pays their share up fr
 
 - **Team size** 4
 - **Built With** capital, css, daytona, express.js, html, javascript, nessie, node.js, one, photon, playwright, sqlite, stripe
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AtinaRuv/HackHarvard)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=AAtB_lrDVhg)
 - **All event prizes (1)** Best Use of Daytona
 - **Devpost checked** 2026-11-21 UTC
 - **Daytona** Every browser pass runs in a throwaway Daytona sandbox that's deleted afterward.
@@ -198,8 +198,8 @@ a parking garage map for orbit: find the spot where your satellites do the least
 
 - **Team size** 4
 - **Built With** chalk, cursor, fastapi, globe.gl, grok, grok-imagine, grok-voice, numpy, pandas, python, react, satellite.js, skyfield, three.js, typescript, uvicorn, vite, webgl, xai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/candpixie/hackharvard26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=x_iGKuHw0B0)
 - **All event prizes (1)** SpaceXAI Make it Legendary
 - **Devpost checked** 2026-11-21 UTC
 - **SpaceXAI** About 20,000 satellites, debris and rocket bodies with public orbits, positioned live and colored by type. Devpost gives no specific sponsor integration detail.
@@ -212,8 +212,8 @@ Don't just block a rogue AI agent. Trap it.
 
 - **Team size** 4
 - **Built With** chalk, css3, daytona, elevenlabs, express.js, factory-droid, html5, imessage, javascript, model-context-protocol, ngrok, node.js, openai, photon, sip, spectrum-ts, typescript, websockets, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/MrFiscus/Mirage)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=k3fzKzdrOyA)
 - **All event prizes (1)** Best Use of Daytona
 - **Devpost checked** 2026-11-21 UTC
 - **Daytona** The project lists daytona among its Built With tags.
@@ -226,8 +226,8 @@ Nemo combines a webcam tank experiment, ocean-current data and transparent physi
 
 - **Team size** 4
 - **Built With** chalk, cursor, docker, fastapi, github-actions, grok, hycom, imessage, logitech-c270, next.js, noaa-coral-reef-watch, noaa-global-drifter-program, numpy, opencv, pacioos, photon, pydantic, python, react, render, scipy, sqlite, three.js, typescript, uvicorn
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/cjxsez/Nemo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Xcj1ZIWv9gU)
 - **All event prizes (2)** ASUS Sustainability: Save the Earth · Third Place Overall
 - **Devpost checked** 2026-11-21 UTC
 - **ASUS** Nemo brings observation, modeling and explanation into one workspace, with three distinct evidence paths:. Devpost gives no specific sponsor integration detail.
@@ -240,8 +240,8 @@ Clinical trials are complex, and mistakes can delay new treatments and cost mill
 
 - **Team size** 2
 - **Built With** chalk, clinicaltrials.gov, css, docker, fastapi, html, javascript, next.js, python, railway, react, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rinatrizvanov/ProtocolOS)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WkWDWfHbal4)
 - **All event prizes (1)** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** ProtocolOS helps pharmaceutical companies review, verify, and draft clinical trial eligibility requirements while keeping medical experts responsible for the decisions. Devpost gives no specific sponsor integration detail.
@@ -255,7 +255,7 @@ Find sanctioned investigators, not their namesakes.
 - **Team size** 1
 - **Built With** cloudflare, docker, fastapi, google-cloud, javascript, lightgbm, matplotlib, metaphone, nginx, pandas, pydantic, pytest, python, rapidfuzz, react, recharts, reportlab, scikit-learn, shap, sqlalchemy, sqlite, tailwindcss, vite
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OY-HqXfXzR8)
 - **All event prizes (1)** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** Upload a CSV of investigators (name, city, state, specialty, NPI if known) — or use the 300-investigator demo set. Devpost gives no specific sponsor integration detail.
@@ -268,8 +268,8 @@ Turn your past clinical trial agreements into a central intelligence playbook th
 
 - **Team size** 4
 - **Built With** chalk, css, daytona, html5, javascript, love, photon, python, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/duna-akin/SiteLine)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=p0ZqxplwPwU)
 - **All event prizes (1)** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** Siteline turns a sponsor's past negotiating positions into a central playbook and applies it to every redline that comes in. Devpost gives no specific sponsor integration detail.
@@ -282,8 +282,8 @@ StreamCare is an all-in-one longitudinal research tool that allows study partici
 
 - **Team size** 3
 - **Built With** anthropic-claude, cursor, daytona, factory-droid, fastapi, mediapipe, next.js, node.js, numpy, opencv, postgresql, python, react, recharts, scipy, supabase, tailwind-css, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/CarstenMacosko/HackHarvard2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ItVIDKM9HO8)
 - **All event prizes (1)** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** StreamCare enables researchers to create a tighter data loop with participants, receiving more data. Devpost gives no specific sponsor integration detail.
@@ -297,7 +297,7 @@ Gamified clinical trials with computer vision.
 - **Team size** 2
 - **Built With** computervision, react
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=mTHAhDZ4RGs)
 - **All event prizes (1)** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** Telekinesis turns standard clinical motor tests into short games you play at home with a webcam. Devpost gives no specific sponsor integration detail.
@@ -310,8 +310,8 @@ While official evacuation orders often come late and cover whole zones, Trace is
 
 - **Team size** 4
 - **Built With** chalk, elevenlabs, mapbox, nasa, noaa, openstreetmap, photon, python, react, three.js, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Berny-ft/HackHarvard2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=jfoYqBbt6T4)
 - **All event prizes (1)** Best Data-Driven Agent Built on Chalk
 - **Devpost checked** 2026-11-21 UTC
 - **Chalk** Evaluations: fire alerts (600 households) and surge alerts run as Chalk Evaluations.
@@ -324,8 +324,8 @@ A texting companion for clinical trials: it finds trials, answers participants a
 
 - **Team size** 1
 - **Built With** anthropic, claude, clinicaltrials.gov, css, factory-droid-sdk, html, imessage, javascript, photon, python, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/egornikot/trialmate)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Q-O1BSkJvRI)
 - **All event prizes (1)** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** TrialMate is a text-message agent for clinical trials, with a console for the study team. Devpost gives no specific sponsor integration detail.
@@ -338,8 +338,8 @@ TrialMax shows researchers why trial recruitment fails and helps them find safer
 
 - **Team size** 4
 - **Built With** chalk, clinical, clinicaltrials.gov, d3.js, diseases, fastapi, healthcare, numpy, orphadata, orphanet, pydantic, pytest, python, rare, react, render, synthea, synthetic, topojson, trials, typescript, visualization, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Arnavvvkumar/TrialMax)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5BlGfMiELQc)
 - **All event prizes (1)** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** TrialMax turns a public ClinicalTrials.gov protocol into an interactive eligibility and recruitment analysis. Devpost gives no specific sponsor integration detail.
@@ -352,8 +352,8 @@ TrialPilot helps teams compare clinical trial designs across cost, site workload
 
 - **Team size** 1
 - **Built With** c++, claude, grox, json, python, typescript, visual-studio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KryptonNii/YANZHENG_NI_HACKHARVARD2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=KLeeAnTy4M8)
 - **All event prizes (1)** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** The built-in trial library uses public ClinicalTrials.gov records of trials of Regeneron medicines:.

@@ -12,6 +12,8 @@ The fetcher reads public Devpost galleries, event prize descriptions and project
 
 The build joins each sponsor award to its exact gallery label and requires the same Devpost project to confirm the prize and edition. Backrooms uses a separately attributed sponsor report with the track label confirmed in the Cal Hacks gallery. The result report identifies gaps where public sources differ or are unavailable. The generated [HTTP receipts](../winners/fetch-receipts.jsonl) cover every linked external URL in the winners directory. A status check on a video link cannot establish playback.
 
+The link checker follows recognized same-host redirects and records the HTTP 200 destination used in the directory. The site catalog can be refreshed locally with `python3 site/build.py` after a rebuild.
+
 The JSON and CSV share one row per project, edition and sponsor prize. The five list fields are JSON arrays in both formats. `event_prizes` includes general event prizes and each recorded sponsor award for that project. `prize_value` preserves prize wording stated in the track label, including placement and scope. Summaries draw on edited project notes, Devpost captions and implementation details. `summary_evidence` records the level of support for the sponsor integration. Team information is limited to the member count.
 
 ## Reproduce or add coverage

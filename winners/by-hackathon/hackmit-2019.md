@@ -82,7 +82,7 @@ An ethical marketplace for commute and transit data.
 
 - **Team size** 4
 - **Built With** algorand, node.js, python, react, webgl
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/bharatkashyap/argonaut-be)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Build the Financial Revolution on Algorand
 - **Devpost checked** 2026-11-21 UTC
@@ -96,7 +96,7 @@ An enhancement for white canes to help the blind navigate their surroundings wit
 
 - **Team size** 4
 - **Built With** arduino, dialog-flow, raspberry-pi
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Monterrey-Dynamics/CaneAssist)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of IBM Visual Recognition
 - **Devpost checked** 2026-11-21 UTC
@@ -110,7 +110,7 @@ Exit the echo chamber with the help of AI.
 
 - **Team size** 2
 - **Built With** css, google-cloud, html, natural-language-processing, python, shell
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/arytonhoi/hackmit2019)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Google Cloud
 - **Devpost checked** 2026-11-21 UTC
@@ -124,7 +124,7 @@ A map that shows where the nearest natural disasters are located.
 
 - **Team size** 3
 - **Built With** amazon-web-services, google-cloud
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tyl21938/crisisMap)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best IBM Disaster Preparedness &amp; Relief Solutions
 - **Devpost checked** 2026-11-21 UTC
@@ -138,7 +138,7 @@ Choose between a private insurance system, a national model, or something else e
 
 - **Team size** 4
 - **Built With** amadeus, css, django, html, javascript, jquery, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/lyronctk/DHEA)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Amadeus APIs
 - **Devpost checked** 2026-11-21 UTC
@@ -152,7 +152,7 @@ Helping terrible men control the consequences of their actions.
 
 - **Team size** 3
 - **Built With** docusign, flask, html, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SreyaV/memory)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of the DocuSign Agreement Cloud APIs
 - **Devpost checked** 2026-11-21 UTC
@@ -167,7 +167,7 @@ Making ridesharing safer and more accessible.
 - **Team size** 4
 - **Built With** amadeus, android-studio, docusign, firebase, firebase-storage, google-maps, java, openxc
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Su83aPedkx4)
 - **All event prizes (1)** Best Use of Nasdaq/Quandl Datasets
 - **Devpost checked** 2026-11-21 UTC
 - **Nasdaq** The app, Driversity (stylized DRiveristy), works similarly to other ridesharing apps, with features put in place to assure that both riders and drivers feel safe. Devpost gives no specific sponsor integration detail.
@@ -180,7 +180,7 @@ automl for heterogeneous model ensembling, giving automagical state-of-the-art s
 
 - **Team size** 4
 - **Built With** networkx, python, scikit-learn, tensorflow
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/lhirschfeld/ensemble_factory)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Most Interesting Use of Data with HRT
 - **Devpost checked** 2026-11-21 UTC
@@ -208,7 +208,7 @@ Efficient and impactful supply chain management platform to prevent food waste w
 
 - **Team size** 4
 - **Built With** arduino, azure, azure-cosmos-db, flask, google-cloud, hardware, iot, javascript, mongodb, python, raspberry-pi
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/lizzij/HackMIT)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best IBM Disaster Preparedness &amp; Relief Solutions
 - **Devpost checked** 2026-11-21 UTC
@@ -222,7 +222,7 @@ You have too many GitHub repos that are all out of date, and you're all out of p
 
 - **Team size** 3
 - **Built With** bash, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jordynlm/GitGud)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Command Line Tool with LightStep
 - **Devpost checked** 2026-11-21 UTC
@@ -236,7 +236,7 @@ Share underutilized GPU power for machine learning education.
 
 - **Team size** 3
 - **Built With** No tags listed
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/as-com/gpuppy)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of the DocuSign Agreement Cloud APIs
 - **Devpost checked** 2026-11-21 UTC
@@ -250,7 +250,7 @@ Housing inequality, the disparity in housing due to socioeconomic factors, is a 
 
 - **Team size** 4
 - **Built With** azure, css, google-cloud, google-maps, html, html5, javascript, jquery, node.js, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ShashvatS/HappyHome)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Hack to Help the Housing Inequality Crisis with Wayfair
 - **Devpost checked** 2026-11-21 UTC
@@ -264,7 +264,7 @@ Buying a new house but can't decide on a neighborhood? Check out HomeUp for data
 
 - **Team size** 3
 - **Built With** flask, python, quandl
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/siuryan/homeup)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Nasdaq/Quandl Datasets
 - **Devpost checked** 2026-11-21 UTC
@@ -307,7 +307,7 @@ The team often go out with a lot of amazing friends for trips, restaurants, tour
 - **Team size** 1
 - **Built With** algocoin, algorand, amazon-web-services, facebook-messenger, google-cloud, ibm-watson, python, rev.ai
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=yy6YSp-quu4)
 - **All event prizes (1)** Build the Financial Revolution on Algorand
 - **Devpost checked** 2026-11-21 UTC
 - **Algorand** The team complete the payment using the blockchain set up with Algorand API.
@@ -320,7 +320,7 @@ The team strip the noise in raw data to find the important trends and present th
 
 - **Team size** 4
 - **Built With** ford, html, javascript, openxc, pandas, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kdu4108/hackmit19)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Kensho Data Usability Challenge
 - **Devpost checked** 2026-11-21 UTC
@@ -349,7 +349,7 @@ The web app allows a user to verify their identity to unlock a box storing all t
 - **Team size** 4
 - **Built With** ibm-watson, javascript, node-red, raspberry-pi, visual-recognition
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=R4zeNen51FQ)
 - **All event prizes (1)** Best Use of IBM Visual Recognition
 - **Devpost checked** 2026-11-21 UTC
 - **IBM** The team used IBM's node-red cloud platform to construct a node flow which utilizes IBM Watson's Visual Recognition service.
@@ -362,7 +362,7 @@ Pilot encourages individuals to fill out their mood tracker, and it helps them d
 
 - **Team size** 4
 - **Built With** amadeus, css, django, google-cloud, html, ibm-watson, javascript, mapbox, python, react.js, rev.ai, wikipedia
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/the-flying-circus/hackmit-2019)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** DRW: Best Data Visualization Hack · Rev.ai Speech API Challenge
 - **Devpost checked** 2026-11-21 UTC
@@ -377,7 +377,7 @@ The application uses Optical Character Recognition (OCR) to capture items and th
 
 - **Team size** 3
 - **Built With** amazon-web-services, css, html, instabase, numpy, pandas, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/avgupta456/HackMIT-2019)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Best Use of Instabase API · Track Prizes
 - **Devpost checked** 2026-11-21 UTC
@@ -391,7 +391,7 @@ The pen is mightier than the sword, nothing is more powerful than the word.
 
 - **Team size** 3
 - **Built With** css3, datamuse, html5, javascript, node.js, rev.ai, socket.io
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jenniferlai43/rapscorer)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Hack for Building Community with Facebook
 - **Devpost checked** 2026-11-21 UTC
@@ -419,7 +419,7 @@ Using Machine Learning to process a person's speech and determine if they are in
 
 - **Team size** 4
 - **Built With** docusign, google-cloud, python, rev-ai
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/johancc/LGTM)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of the DocuSign Agreement Cloud APIs
 - **Devpost checked** 2026-11-21 UTC
@@ -461,7 +461,7 @@ A website that creates customized tests based on students' notes.
 
 - **Team size** 4
 - **Built With** adobe-creative-suite, amazon-web-services, comprehend, gateway, lambda, python, ruby, sketch
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/juliustao/text2test-aws) · [Source 2](https://github.com/nampham148/text2test-server)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of AWS AI / ML Services
 - **Devpost checked** 2026-11-21 UTC
@@ -489,7 +489,7 @@ Your future for knowing what's in your water.
 
 - **Team size** 4
 - **Built With** arduino, esp32, ibm-watson, node-red
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/maywu89/Water-Crusader)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (3)** 2nd Place Prize · Best IBM Disaster Preparedness &amp; Relief Solutions · Track Prizes
 - **Devpost checked** 2026-11-21 UTC

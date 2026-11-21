@@ -30,8 +30,8 @@ PC building made easy — ask questions, identify parts, and build confidently.
 
 - **Team size** 4
 - **Built With** chatgpt, deepgram, lancedb, livekit, next.js, python, react, sam, twelvelabs, typescript, yolov11
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kevinwu098/buildr)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=lfB2SNkqhy4)
 - **All event prizes (1)** TwelveLabs API Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **TwelveLabs** PC Part data using data scraping (Firecrawl (PC Part Picker), TwelveLabs (YT)).
@@ -45,7 +45,7 @@ Cartify: Your AI voice assistant for personalized grocery lists and automated sh
 - **Team size** 3
 - **Built With** deepgram, gemini, next.js, playwright, react, tailwind, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VV_kdMY3P4A)
 - **All event prizes (1)** Deepgram API Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Deepgram** The project lists deepgram among its Built With tags.
@@ -58,8 +58,8 @@ An AI copilot for dispatchers that calmly guides them through urgent situations,
 
 - **Team size** 2
 - **Built With** deepgram, gemini, next.js, openai-realtime-api, openstreetmap, supabase, twilio, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/declanhogg100/dispatchiq)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=phR1pTLS3JY)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Gemini API · Deepgram API Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Deepgram** Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface.
@@ -73,8 +73,8 @@ speak a concept, step inside it in 3d.
 
 - **Team size** 4
 - **Built With** css, deepgram, elevenlabs, express.js, firebase, framer, gemini, google, html, javascript, mongodb, motion, node.js, react, socket.io, sparkjs, tailwind, three.js, typescript, vite, vultr, webgl, websocket, worldlabsmarble
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/stephenhungg/flow)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=m0bSZZ2EIdg)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of ElevenLabs · President's Pick
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** elevenlabs : educational narration, voice q&amp;a responses, integrated real-time audio.
@@ -87,8 +87,8 @@ GradeMeIn uses a new method to detect AI plagiarism, it works through intelligen
 
 - **Team size** 4
 - **Built With** cursor, deepgram, geminiapi, javascript, mongodb, mongoose, next.js, python, react, typescript, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SBHacks-26/lms-sbhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dgrnQoidl2A)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** The project lists vultr among its Built With tags.
@@ -101,8 +101,8 @@ Turn live conversations into a shared itinerary—maps, places, and bookings upd
 
 - **Team size** 2
 - **Built With** deepgram, gemini, livekit, mapbox, next, solana
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SanjayMarathe/nomad)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=JQJX066AJHk)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Solana · Deepgram API Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Deepgram** The project lists deepgram among its Built With tags.
@@ -117,7 +117,7 @@ Every fan watches the same basketball game, but for different moments. Some trac
 - **Team size** 2
 - **Built With** javascript, node.js, python, react, typescript, video-foundation-model
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pOvZoBC0Bf0)
 - **All event prizes (1)** TwelveLabs API Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **TwelveLabs** The team learned how to make recommendation system that acts like a real-time director with the help of Foundation models. Devpost gives no specific sponsor integration detail.
@@ -130,8 +130,8 @@ Reel-To-Real is an end-to-end autonomous travel agent.
 
 - **Team size** 4
 - **Built With** beautiful-soup, ddgs, fastapi, geminiapi, geoapify, openstreetmap, python, react.js, spacy, tailwindcss, twelvelabs, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pranavgowrish/reeltoreal)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_LCzIzWPdRM)
 - **All event prizes (1)** TwelveLabs API Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **TwelveLabs** The system concurrently scrapes live travel data, extracts venues using NLP, parses videos for location and attractions using TwelveLabs, and validates them for quality using Google Gemini.
@@ -144,8 +144,8 @@ Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfe
 
 - **Team size** 3
 - **Built With** dart, flask, flutter, gemini-api, github, material3, mongodb-atlas, openai-api, python, webscraping
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/trevordodge/sbhacks-project)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_WCacm2iJ_s)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** The project lists mongodb-atlas among its Built With tags.

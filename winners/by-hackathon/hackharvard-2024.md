@@ -31,8 +31,8 @@ Your personal prescription and medical symptom tracking companion.
 
 - **Team size** 4
 - **Built With** amazon-web-services, django, flutter, gemini, javascript, postgresql, postman, python, react, sqlite, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Givikap/Althea)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=y12QLSdo0zs)
 - **All event prizes (1)** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
 - **Devpost checked** 2026-11-21 UTC
 - **Patient Safety Technology Challenge** Althea allows users to enter which prescriptions drugs they are taking so that they can have a checklist to remember what they have taken on a certain day. Devpost gives no specific sponsor integration detail.
@@ -45,8 +45,8 @@ Transform legal research with an AI-powered tool that delivers precise case matc
 
 - **Team size** 4
 - **Built With** cloudflare, courtlistener, fastapi, gpt-4o-mini, huggingface, javascript, lancedb, python, react, text-embedding-3-small
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/FelixNgFender/HackHarvard24)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VuqHDqgFIkg)
 - **All event prizes (1)** Best AI Project with Databricks Open Source
 - **Devpost checked** 2026-11-21 UTC
 - **Databricks** The tool transforms legal research by offering AI-powered legal case search. Devpost gives no specific sponsor integration detail.
@@ -59,8 +59,8 @@ Clean Sweep — Smart city waste management using real-time data.
 
 - **Team size** 4
 - **Built With** databricks, google-cloud, google-maps, node.js, opencv, python, raspberry-pi, react, tailwindcss, terraform
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/DPulavarthy/HackHarvard)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=iU_6u-RygyQ)
 - **All event prizes (1)** Best Use of Terraform
 - **Devpost checked** 2026-11-21 UTC
 - **HashiCorp** The project lists terraform among its Built With tags.
@@ -74,7 +74,7 @@ CognitiveKeyboard is an alternative Android keyboard that updates a user’s typ
 - **Team size** 4
 - **Built With** adb, android-studio, github, java, linode, mongodb, python
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dRKB-PcvrnU)
 - **All event prizes (1)** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
 - **Devpost checked** 2026-11-21 UTC
 - **Patient Safety Technology Challenge** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -87,8 +87,8 @@ Find useful information about subreddits with a few clicks.
 
 - **Team size** 4
 - **Built With** chatgpt, css, daisyui, nextjs, openai, pinecone, react, redditapi, tailwind, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sethmorton/embeddit)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=E9kUUpfn7_g)
 - **All event prizes (1)** Sauce Labs Hot Sauce Raffle
 - **Devpost checked** 2026-11-21 UTC
 - **Sauce Labs** Embeddit allows users to ask questions about a specific subreddit. Devpost gives no specific sponsor integration detail.
@@ -101,8 +101,8 @@ Transforming arthritis rehabilitation by advanced posture detection ensures corr
 
 - **Team size** 4
 - **Built With** blockchain, cloudflare, cosine, flask, mediapipe, midnight, opencv, python, react, sqlalchemy
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Shameed4/Flexy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=l7krRFZL9R8)
 - **All event prizes (1)** AllHealth Track Prize
 - **Devpost checked** 2026-11-21 UTC
 - **AllHealth** The team use an advanced posture detection algorithm to identify key body joints and landmarks in real-time videos. Devpost gives no specific sponsor integration detail.
@@ -115,7 +115,7 @@ A platform to minimize carbon footprint by encouraging users to reduce their dai
 
 - **Team size** 4
 - **Built With** defan.io, express.js, firebase, javascript, node.js, react, tailwindcss
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Jshot117/HackHarvard)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Defang
 - **Devpost checked** 2026-11-21 UTC
@@ -129,7 +129,7 @@ Using MATLAB to make a Galaga-style game.
 
 - **Team size** 3
 - **Built With** c++, freetype, matlab, miniaudio, opengl
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ttran134/invaders)
 - **Demo video** [Video 1](https://vimeo.com/1019066017)
 - **All event prizes (1)** Best Use of MATLAB
 - **Devpost checked** 2026-11-21 UTC
@@ -143,8 +143,8 @@ A platform for open-source course data collection, and quiz generation.
 
 - **Team size** 4
 - **Built With** cloudflare, defang, fastapi, nginx, openai, pinecone, python, react, terraform, tesseract
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SunfishTK1/open-context)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=q9SSeZdKo4U)
 - **All event prizes (1)** Best AI Application Built with Cloudflare
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudflare** The project lists cloudflare among its Built With tags.
@@ -171,8 +171,8 @@ Real-time error monitoring from the terminal, helping developers spend less time
 
 - **Team size** 4
 - **Built With** c++, javascript, mongodb, nextjs, node.js, react.js, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/denniwang/t-error)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=MNrN6I0-H-A)
 - **All event prizes (1)** Best Developer Tool
 - **Devpost checked** 2026-11-21 UTC
 - **Warp** T-Error is a terminal error-monitoring tool that captures and logs errors as developers run commands. Devpost gives no specific sponsor integration detail.
@@ -185,8 +185,8 @@ Powering a Greener Future, One Trade at a Time. A Blockchain-Powered Marketplace
 
 - **Team size** 3
 - **Built With** hedera, midnight, mongodb, ocr, openai, python, streamlit
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/eshansinghal14/hack-harvard-24)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=kejAyXxu1fU)
 - **All event prizes (1)** Best Use of Midnight
 - **Devpost checked** 2026-11-21 UTC
 - **Midnight** Blockchain for Transparency : TradeREC uses Hedera and Midnight blockchain technology to provide secure, transparent records of every transaction .

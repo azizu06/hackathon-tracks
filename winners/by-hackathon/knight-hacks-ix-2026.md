@@ -54,7 +54,7 @@ Bin-It lets residents report overflowing bins from a phone while a dashboard hel
 - **Team size** 2
 - **Built With** clip, databricks, docker, expo.io, fastapi, hugging-face, neon, next.js, ngrok, python, react, react-native, typescript, vercel
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=zmApNlPyh9I)
 - **All event prizes (2)** Databricks: Best Use of Databricks · OneEthos: Innovation for Good
 - **Devpost checked** 2026-11-21 UTC
 - **Databricks** Databricks processes locations, bin inventory and 311 complaints to estimate where trash accumulates and rank potential sites.
@@ -68,8 +68,8 @@ An interactive evacuation simulator lets trainees clear exits and redirect crowd
 
 - **Team size** 2
 - **Built With** a-frame, css3, elevenlabs, express.js, html5, javascript, neon, node.js, postgresql, render, three.js, webxr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/lyanisbarreto-mercado/crowdclear)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pNp_bZqdGGw)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Presage
 - **Devpost checked** 2026-11-21 UTC
 - **Presage** CrowdClear is an evacuation training game that runs in a laptop browser or in VR through WebXR . Devpost gives no specific sponsor integration detail.
@@ -83,7 +83,7 @@ A mobile accessibility tool uses walls and room signs to place an indoor AR rout
 - **Team size** 3
 - **Built With** android, android-speech-recognizer, android-text-to-speech, ar-foundation, arcore, c#, hugging-face, java, ml-kit, numpy, opencv, openstreetmap, python, unity
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=zb3Xrg7Hfq4)
 - **All event prizes (1)** Encompass: Data Capturing Hardware
 - **Devpost checked** 2026-11-21 UTC
 - **Encompass** Doorway is built in Unity 6 with C# , using AR Foundation and ARCore on Android.
@@ -96,8 +96,8 @@ A drone control system combines local detection and GPS tracking using low-cost 
 
 - **Team size** 1
 - **Built With** arduino, bytetrack, c++, cuda, djitellopy, drv2605l, esp-now, esp32, expo-router, figma, git, haptics, i2c, python, pytorch, react-native-reanimated, react-native-svg, spi, tello, typescript, u-blox, ultralytics, yolo
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/FrLagoSoft/Dronautics)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pPoEXRLnYJc)
 - **All event prizes (1)** Encompass: Data Capturing Hardware
 - **Devpost checked** 2026-11-21 UTC
 - **Encompass** The project lists arduino, esp-now, esp32, u-blox among its Built With tags.
@@ -127,8 +127,8 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 
 - **Team size** 4
 - **Built With** arduino, azure, dht11, docker, esp32, gemma, hugging-face, jetson-nano, ollama, python, react, tensorrt, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kateye31/fireline)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vhKG4MiWa9A)
 - **All event prizes (2)** NVIDIA: Best Use of Jetson Nano · OneEthos: Innovation for Good
 - **Devpost checked** 2026-11-21 UTC
 - **NVIDIA** Smoke detection on the device: Pyronear's open YOLO smoke model runs on the Jetson's GPU.
@@ -143,7 +143,7 @@ A calendar app weighs upcoming commitments against the user's energy level to he
 - **Team size** 4
 - **Built With** expo.io, gemini, neon, react-native
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=RWAbxd6hSjE)
 - **All event prizes (2)** Adobe: Prettiest Hack · Figma: Best Design
 - **Devpost checked** 2026-11-21 UTC
 - **Adobe** It shows when you're full, not just when you're free, and helps you decide what to do about it. Devpost gives no specific sponsor integration detail.
@@ -157,7 +157,7 @@ A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-10
 
 - **Team size** 2
 - **Built With** claude, fpga, python, pytorch, verilog, vivado
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/techcolly/fpga_LM)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** AMD: Best Use of AMD Technologies
 - **Devpost checked** 2026-11-21 UTC
@@ -171,8 +171,8 @@ GEarth simulates how citizens, institutions, and governments interact across a f
 
 - **Team size** 4
 - **Built With** c#, c++, distributed-computation, python, vulkan
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/liangricky7/GEarth)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7h_nXEkdgIM)
 - **All event prizes (3)** AMD: Best Use of AMD Technologies · BNY: Financial Services Challenge · Neon: Best Use of Neon
 - **Devpost checked** 2026-11-21 UTC
 - **AMD** Python workers run Qwen models across an AMD GPU and two NVIDIA systems to supply agent decisions to the shared simulation.
@@ -187,8 +187,8 @@ A workspace matches hackathon tasks to teammates and tracks progress through Git
 
 - **Team size** 4
 - **Built With** cloudflare, gemini, github, huggingface, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/maxjb-xyz/hakit)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=X3Ex2pmvqaU)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Tiger Data
 - **Devpost checked** 2026-11-21 UTC
 - **Tiger Data** Sign up with your GitHub account, and invite everyone the same way. Devpost gives no specific sponsor integration detail.
@@ -201,8 +201,8 @@ A wearable uses directional vibrations to tell deaf and hard-of-hearing users wh
 
 - **Team size** 4
 - **Built With** arkit, huggingface, jev, python, swift
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Korirussell/Here)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=2gRH8oV8e80)
 - **All event prizes (1)** Hugging Face: Best Use of Open Source AI
 - **Devpost checked** 2026-11-21 UTC
 - **Hugging Face** The project lists huggingface among its Built With tags.
@@ -215,8 +215,8 @@ Players speak spell ideas aloud and cast the generated spells against each other
 
 - **Team size** 4
 - **Built With** elevenlabs, gemini, lua, luau, roblox
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/blazin-blaze/kh9-rblx-project)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4Qf5VMHLx8U)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** Incantation uses the built in Roblox Studio’s microphone to take in audio, which is then sent to Elevenlabs API for speech to text translation via a local HTTP connection.
@@ -229,8 +229,8 @@ Jolteon captures waste heat, turns it into stored electricity, and shows you exa
 
 - **Team size** 4
 - **Built With** c++, esp32, fastapi, ina219, javascript, pyserial, python, react, recharts, sql, supabase, thermoelectric-generator, vercel, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/TomasTorrado/Jolteon)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8vnv30qKB9w)
 - **All event prizes (1)** OneEthos: Innovation for Good
 - **Devpost checked** 2026-11-21 UTC
 - **OneEthos** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -243,8 +243,8 @@ An accessible comic reader plays panels aloud and lets readers advance them with
 
 - **Team size** 2
 - **Built With** caddy, docker, edge-tts, elevenlabs, fastapi, google-gemini, hugging-face, magi-v2, mediapipe, neon, object-storage, postgresql, python, pytorch, react, render, three.js, typescript, uv, vite, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/PinedaMiguel/panel-reader)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CLpOsb9VDGU)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists google-gemini among its Built With tags.
@@ -257,8 +257,8 @@ An accessibility prototype uses EEG readings from a visual interface to let peop
 
 - **Team size** 4
 - **Built With** css, html, javascript, python, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shashankshaga/Paralassist)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=hmhprJgUFRA)
 - **All event prizes (1)** Databricks: Best Use of Databricks
 - **Devpost checked** 2026-11-21 UTC
 - **Databricks** Paralassist uses an electroencephalogram (EEG) with a visual stimulus to convert a user's brain signals into messages. Devpost gives no specific sponsor integration detail.
@@ -271,8 +271,8 @@ PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is 
 
 - **Team size** 3
 - **Built With** c#, netcode, python, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ilan101/peaheads)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=chAkjLDZ9Hk)
 - **All event prizes (2)** Adobe: Prettiest Hack · Best Game Dev Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Adobe** Up to four players join a match and get split evenly into Bloom (yellow) and Blight (purple). Devpost gives no specific sponsor integration detail.
@@ -285,8 +285,8 @@ A spatial awareness tool tracks objects and remembers their locations when they 
 
 - **Team size** 4
 - **Built With** arduino, c++, cuda, javascript, jetson-nano, opencv, python, pytorch, qwen-3d, raspberry-pi, three.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/billpquach/permanence)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=GexOIHp7s1w)
 - **All event prizes (3)** Best Overall Hack (1st) · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
 - **Devpost checked** 2026-11-21 UTC
 - **Hugging Face** The project lists qwen-3d among its Built With tags.
@@ -300,8 +300,8 @@ An interactive, hand-illustrated, digital storybook featuring point-and-click pr
 
 - **Team size** 1
 - **Built With** css, html, ibispaintx, javascript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/NiDesai08/Plu-s-Sanctuary)
+- **Demo video** [Video 1](https://vimeo.com/1234804142)
 - **All event prizes (1)** Adobe: Prettiest Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Adobe** Plu's Sanctuary is a digital, point-and-click storybook that follows a little plush plant creature named Plu as it navigates through a corrupted forest. Devpost gives no specific sponsor integration detail.
@@ -314,8 +314,8 @@ A marketplace lets developers browse GPU capacity and reserve it through a block
 
 - **Team size** 4
 - **Built With** databricks, devin, golang, mantine, nextjs, python, react, solana, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/OzBoz-Dev/knighthacks-2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=EDPen_Iu5QY)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** The project lists solana among its Built With tags.
@@ -328,8 +328,8 @@ Make shopping easier through the art of accessibility.
 
 - **Team size** 4
 - **Built With** css, cv, easyocr, flask, gemini, html, javascript, jetson-nano, json, python, pytorch, react, typescript, vite, yolov8
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Dove0Day/knighthacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WCmblC_Qs0o)
 - **All event prizes (1)** BNY: Financial Services Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **BNY** Sophro Shoppers allows shoppers to get a more in-depth analysis of the items in their cart, while keeping track of needs catered to them. Devpost gives no specific sponsor integration detail.
@@ -342,8 +342,8 @@ An operations dashboard summarizes the sensor data collected by a Spot robot on 
 
 - **Team size** 4
 - **Built With** anthropic, caddy, claude, css, databricks, delta-lake, docker, fastapi, figma, github, hugging-face, java, javascript, jspdf, pypdf, python, qwen, react, render, scikit-learn, server-sent-events, sqlite, three.js, vercel, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Monisha-Repos/spot-mission-dashboard)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UN3DJZA4GO8)
 - **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** spotat.work helps operators monitor inspections, investigate findings, and track performance over time. Devpost gives no specific sponsor integration detail.
@@ -356,8 +356,8 @@ Spotlight transforms Boston Dynamics Spot data into actionable insights using AI
 
 - **Team size** 2
 - **Built With** blender, css3, databricks, github, html5, javascript, node.js, numpy, pandas, python, react, scikit-learn, sql, three.js, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/doberto6/SpotLight)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=76OSgHFP13s)
 - **All event prizes (1)** NextEra Energy: SPOT Management Dashboard
 - **Devpost checked** 2026-11-21 UTC
 - **NextEra Energy** Spotlight is an intelligent monitoring and visualization platform that transforms Boston Dynamics Spot's inspection data into meaningful, actionable insights. Devpost gives no specific sponsor integration detail.
@@ -370,8 +370,8 @@ A dashboard turns telemetry from robots into reports operators can use.
 
 - **Team size** 4
 - **Built With** django, postgresql, python, react, three.js, typescript, vite, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/teafany/spotlight)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WguR9jFeBeo)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** The project lists vultr among its Built With tags.
@@ -384,8 +384,8 @@ A gym app uses phone-based exercise feedback to help people learn proper form.
 
 - **Team size** 4
 - **Built With** chatgpt, cv, databricks, expo.io, figma, frontend, huggingface, machine-learning, neon, node.js, rag, react, react-native, swift
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Del0m/KnightHacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PPEBBCLeCrA)
 - **All event prizes (1)** Databricks: Best Use of Databricks
 - **Devpost checked** 2026-11-21 UTC
 - **Databricks** The project lists databricks among its Built With tags.
@@ -398,8 +398,8 @@ Cheap attack drones are now one of the biggest threats to bases and infrastructu
 
 - **Team size** 4
 - **Built With** amd, css3, html5, javascript, python, pytorch, rocm, three.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ian-kr/Swarm)
+- **Demo video** [Video 1](https://vimeo.com/1234778075)
 - **All event prizes (1)** AMD: Best Use of AMD Technologies
 - **Devpost checked** 2026-11-21 UTC
 - **AMD** A counter-drone defense trainer where the enemy swarm taught itself to attack, trained on an AMD Radeon GPU.

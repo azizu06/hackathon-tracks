@@ -69,8 +69,8 @@ Design 3D aircraft using AI, and simulate piloting them in AR. On mobile browser
 
 - **Team size** 1
 - **Built With** auth0, flux, groq, mongodb, stability, webxr, windsurf
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/YehyunLee/aircraft-studio)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=QkZTAo8Ba2k)
 - **All event prizes (1)** Windsurf: Best Project built with Windsurf
 - **Devpost checked** 2026-11-21 UTC
 - **Windsurf** Windsurf: Built and iterated entirely in an AI‑native IDE workflow to accelerate feature delivery.
@@ -83,8 +83,8 @@ Did you ever want to learn alchemy, but you were limited by the laws of physics?
 
 - **Team size** 4
 - **Built With** ar, cloudflare, gpt, python, snap3d, spectacles, sql, sqlite, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jasonnpan/ARchemy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=-qdRSClgbJA)
 - **All event prizes (1)** Snap: Spectacles AR Hackathon: Game On!
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** Using Snap Spectacles and Snap3D, players can pick up, merge, and transform objects around them into entirely new creations.
@@ -97,8 +97,8 @@ BeyondSight is a full wearable ecosystem designed to empower DeafBlind individua
 
 - **Team size** 4
 - **Built With** docker, elevenlabs, genesys, python, slam
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/WhyILived/BeyondSight)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=tEvHlx3xCRA)
 - **All event prizes (1)** Genesys: Empathy in Action with Genesys Cloud APIs
 - **Devpost checked** 2026-11-21 UTC
 - **Genesys** The project lists genesys among its Built With tags.
@@ -125,7 +125,7 @@ The team describes the project as “Making academic and professional lives easi
 
 - **Team size** 3
 - **Built With** css, databricks, html, llama, openai, python, sql
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SultanAlzoghaibi/Hack-the-North-2025)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Databricks: Best Use of Databricks
 - **Devpost checked** 2026-11-21 UTC
@@ -139,8 +139,8 @@ lets you crash out, whenever, wherever, whatever (on the drums).
 
 - **Team size** 4
 - **Built With** adc, ar, audacity, blender, chatgpt, circuits, embedded, javascript, lego, python, qnx, raspberry, redbull, rtos, spectacle, sugar, ts, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dagsion/HTN25_CRASHOUT)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=222g1xCWzGk)
 - **All event prizes (1)** Snap: Spectacles AR Hackathon: Game On!
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** The project lists spectacle among its Built With tags.
@@ -153,7 +153,7 @@ An OSINT tool specializes in generating an accurate profile card from a username
 
 - **Team size** 4
 - **Built With** cohere, python, sqlite, streamlit
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Sai-sys-cmd/Deepsint)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Cohere: Best Use of Cohere API
 - **Devpost checked** 2026-11-21 UTC
@@ -167,8 +167,8 @@ Automatically transforms bodycam footage into professional evidence reports usin
 
 - **Team size** 1
 - **Built With** css, django, javascript, openai, openai-agents-sdk, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/asalsali/evidentai-main)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=q6GD46dyJok)
 - **All event prizes (1)** Y Combinator: Unicorn Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Y Combinator** Evident AI orchestrates specialized AI agents across the full evidence lifecycle:. Devpost gives no specific sponsor integration detail.
@@ -182,7 +182,7 @@ Clip, save, and organize the exact moments that spark your ideas.
 - **Team size** 4
 - **Built With** amazon-web-services, cohere, css, figma, html, javascript, nextjs, opencv, python
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rs7uaWL67tQ)
 - **All event prizes (2)** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · Cohere: Best Use of Cohere API
 - **Devpost checked** 2026-11-21 UTC
 - **Amazon Web Services** Format Optimization : The original WebM video files are converted using FFmpeg to GIFs &amp; MP4s, stored in S3, and then stored with the video metadata in DynamoDB.
@@ -196,8 +196,8 @@ A task &amp; reward hub with AI-powered candidate matching and XRPL payments.
 
 - **Team size** 1
 - **Built With** flask, gemini, mongodb, python, react, ripple, rlusd
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Afformativ/HackTheNorth)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=s_kBH_H0Pmw)
 - **All event prizes (1)** Ripple: Best in Ledger Award
 - **Devpost checked** 2026-11-21 UTC
 - **Ripple** The project lists ripple among its Built With tags.
@@ -210,7 +210,7 @@ Learn investing through AI-tailored lessons, playful goose gamification, and rea
 
 - **Team size** 4
 - **Built With** gemeni, investease, next.js, openai, radix, react, shadcn, supabase, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/svn05/v2webhonkonomics)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** RBC: RBC InvestEase - Investing for the Future
 - **Devpost checked** 2026-11-21 UTC
@@ -224,8 +224,8 @@ LangSketch is a visual agent builder that leverages Databricks for data processi
 
 - **Team size** 5
 - **Built With** appimage, asteval, chart.js, css, databricks, databricks-vector-search, dateparser, deimos-router, dmg, dotenv, electron, fastapi, font-awesome, git, google-fonts, html, javascript, json, langchain, langgraph, linux, macos, node.js, nsis, openai-gpt, pydantic, pypdf2, python, requests, sqlite, uvicorn, windows
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rajshah6/langsketch)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=L6CZgvak0hQ)
 - **All event prizes (1)** Martian: LLM Routing with Martian
 - **Devpost checked** 2026-11-21 UTC
 - **Martian** LangSketch is a comprehensive platform that democratizes agentic AI development through a visual, no-code interface. Devpost gives no specific sponsor integration detail.
@@ -238,8 +238,8 @@ Lavoe provides an intuitive and AI-augmented DAW interface with features designe
 
 - **Team size** 4
 - **Built With** ai-sdk, claude, cohere, python, react, vercel, windsurf
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Leonardomontesqui/Lavoe)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ISKuDB2s1jM)
 - **All event prizes (2)** Rox: Best AI Agent · Windsurf: Best Project built with Windsurf
 - **Devpost checked** 2026-11-21 UTC
 - **Rox** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -253,8 +253,8 @@ LeafPilot is an AI-powered LaTeX editor, built for education. Ask about a concep
 
 - **Team size** 3
 - **Built With** fastapi, groq, manim, next.js, python, shadcn, tailwind, typescript, zustand
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jbauerko/LeafPilot)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NnTAQ1qyRsg)
 - **All event prizes (1)** Groq
 - **Devpost checked** 2026-11-21 UTC
 - **Groq** AI Integration : Groq as the inference engine powering LaTeX generation, file summarization, mp3 transcription, and embedding-based retrieval.
@@ -267,8 +267,8 @@ Money Talks transforms raw bank statements into actionable financial insights th
 
 - **Team size** 2
 - **Built With** fastapi, investeasyapi, martian, next.js, python, typescript, zillow
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KadenDaya/Money-Talks-HTN-2025-Winner)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Y2xe-7n20gI)
 - **All event prizes (1)** RBC: RBC InvestEase - Investing for the Future
 - **Devpost checked** 2026-11-21 UTC
 - **RBC** RBC API integration for realistic investment projections.
@@ -282,7 +282,7 @@ Vibe CAD to 3D print the solutions to everyday problems in your environment, Ton
 - **Team size** 4
 - **Built With** fastapi, javascript, mongodb, next.js, python, snapos, typescript, vercel
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=32oY_iV8jRo) · [Video 2](https://www.youtube.com/watch?v=AeguwtHqEjc)
 - **All event prizes (1)** MLH: Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** The project lists mongodb among its Built With tags.
@@ -295,8 +295,8 @@ Insightful Network Traffic Visualization and Analysis.
 
 - **Team size** 2
 - **Built With** arkime, cohere, duckdb, flask, malcolm, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/JeremyFriesenGitHub/nte)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZuAKIEh6PcA)
 - **All event prizes (1)** CSE: Network Traffic Exploration
 - **Devpost checked** 2026-11-21 UTC
 - **Communications Security Establishment** The project is made to help analyze threats and anomalies within network traffic. Devpost gives no specific sponsor integration detail.
@@ -309,8 +309,8 @@ One Take generates professional product demos in minutes. Provide your GitHub or
 
 - **Team size** 4
 - **Built With** chromium, cohere, ffmpeg, groq, javascript, json, python, react, typescript, windsurf
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/NikhilHooda/One-Take)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pDBiWdD8Y8M)
 - **All event prizes (1)** Groq
 - **Devpost checked** 2026-11-21 UTC
 - **Groq** The project lists groq among its Built With tags.
@@ -323,8 +323,8 @@ Smarter underwriting through AI-powered dashboards, deep insights, and reinforce
 
 - **Team size** 4
 - **Built With** amazon-dynamodb, auth0, aws-dynamodb, cohere, cohereai, d3.js, federato-api, next, next.js, oauth, python, recharts, reinforcement-learning, retrieval-augmented-generation-(rag), shacdn, shadcn/ui, tailwind, tailwindcss, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jruttan1/Optimate)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=R8M0fgPcW_Y)
 - **All event prizes (2)** Federato: Best RiskOps Solution for Underwriters · Y Combinator: Unicorn Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Federato** The project lists federato-api among its Built With tags.
@@ -338,8 +338,8 @@ Real-time facial recognition that identifies connections, remembers conversation
 
 - **Team size** 4
 - **Built With** cerebras, deepface, fastapi, groq, langchain, opencv, python, react, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/qiuethan/Orbit)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=-XV-iJZak3I)
 - **All event prizes (2)** Groq · Windsurf: Best Project built with Windsurf
 - **Devpost checked** 2026-11-21 UTC
 - **Groq** The project lists groq among its Built With tags.
@@ -353,7 +353,7 @@ Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into 
 
 - **Team size** 4
 - **Built With** css, fastapi, html5, javascript, python, uvicorn
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/stony-su/network-traffic-ai)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** CSE: Network Traffic Exploration
 - **Devpost checked** 2026-11-21 UTC
@@ -367,8 +367,8 @@ Bring your code to life. Orchestrate your code in the runtime.
 
 - **Team size** 4
 - **Built With** agents, ai, cohere, gemini, martian, python, react, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/BrianLi23/puppeteer)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_AtQyyInhEY)
 - **All event prizes (2)** Hack the North 2025: Finalists · Warp: Best Developer Tool by Warp
 - **Devpost checked** 2026-11-21 UTC
 - **Warp** Puppeteer looks deeper into the runtime by probing into variables. Devpost gives no specific sponsor integration detail.
@@ -381,7 +381,7 @@ Configuring your QNX Raspberry Pi can be a long and boring process. Accelerate i
 
 - **Team size** 1
 - **Built With** c++, cmake, ftxui, qnx
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Qubik65536/QNX-RasPi-Setup-Util)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** QNX: Best Use of QNX: Hardware and Software Prizes
 - **Devpost checked** 2026-11-21 UTC
@@ -409,8 +409,8 @@ Learn about the process of how any GitHub project came to be! Get a timeline of 
 
 - **Team size** 2
 - **Built With** cerebras, fastapi, git, nextjs, openai-agent, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/zjteachen/RepoStory)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PFAQEJIiuBQ)
 - **All event prizes (1)** Cerebras: Best Use of Cerebras
 - **Devpost checked** 2026-11-21 UTC
 - **Cerebras** Cerebras was especially important; it was significantly faster than every other model, which let the team provide a seamless timeline streaming interface.
@@ -423,7 +423,7 @@ RippleRelief is a web app that connects donors, NGOs, recipients, and merchants 
 
 - **Team size** 4
 - **Built With** flask, javascript, node.js, python, react-native, ripple, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/peterson-htn252/PulseRelief)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Ripple: Best in Ledger Award
 - **Devpost checked** 2026-11-21 UTC
@@ -437,8 +437,8 @@ ScholarMarket is essentially Polymarket for students to bet on their grades.
 
 - **Team size** 3
 - **Built With** auth0, express.js, mongodb, next.js, pytorch, solidity, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/joshua-z-zheng/hack-the-north-2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=a8MW0_Mg53o)
 - **All event prizes (1)** ETHGlobal: Ethereum's Infinite Garden
 - **Devpost checked** 2026-11-21 UTC
 - **ETHGlobal** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -451,7 +451,7 @@ AI Powered Voice-Based Systems Design Tool.
 
 - **Team size** 4
 - **Built With** amazon-dynamodb, amazon-web-services, amplify, auth0, gemini, reactflow, windsurf
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/koralkulacoglu/sematic)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams
 - **Devpost checked** 2026-11-21 UTC
@@ -465,8 +465,8 @@ A gesture-first, AI-assisted 3D workspace where your hands craft the scene.
 
 - **Team size** 4
 - **Built With** express.js, fal, flask, martian, node.js, opencv, python, react, rodin, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/itsmarsss/shapeshift)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=X7lMr9bwjqM)
 - **All event prizes (1)** Y Combinator: Unicorn Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Y Combinator** ShapeShift is an innovative, browser-based 3D modeling platform that transforms your webcam into a powerful creation tool. Devpost gives no specific sponsor integration detail.
@@ -479,7 +479,7 @@ Turning creators into data-driven businesses through the power of AI.
 
 - **Team size** 4
 - **Built With** javascript, node.js, openai, prisma, puppetlabs, react, shadcn, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ochen1/creator-intelligence)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Rox: Best AI Agent
 - **Devpost checked** 2026-11-21 UTC
@@ -508,7 +508,7 @@ Competing to build a SOTA computer use agent (Cua + Hud + Ollama).
 
 - **Team size** 1
 - **Built With** cua, hud, ollama
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ram-Raghav-S/cua)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Cua: Best State-of-the-Art Computer-Use Agent
 - **Devpost checked** 2026-11-21 UTC
@@ -522,8 +522,8 @@ SpeakEasy gives nonverbal users a voice. Built on Snap Spectacles, it detects th
 
 - **Team size** 4
 - **Built With** bluetooth, gemini, groq, lensstudio, spectacles, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ammiellewb/SpeakEasy-public)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8TX48L2IG18)
 - **All event prizes (1)** Groq
 - **Devpost checked** 2026-11-21 UTC
 - **Groq** The team integrated Gemini’s object detection model to understand the user’s surroundings and ran it through Groq for ultra-fast language generation.
@@ -536,8 +536,8 @@ Turning snapshots into spaces you can actually explore.
 
 - **Team size** 4
 - **Built With** cohere, gemini, google-cloud, json, lens-studio-sdk, postman, remote-service-gateway, snap-spectacles, snapchat, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tyseer2335/SpectraSphere)
+- **Demo video** [Video 1](https://vimeo.com/1118489387)
 - **All event prizes (1)** Snap: Spectacles AR Hackathon: Game On!
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** SpectraSphere turns your prompts and images into immersive AR stories 🌌 that you can step inside using Snapchat Spectacles.
@@ -550,8 +550,8 @@ Stacy is a voice safety companion. Stacy logs incidents, your live location, ale
 
 - **Team size** 2
 - **Built With** openai, swift, twilio, typescript, vapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/apollo-ullah/HackTheNorth2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=nHx5KazGawQ)
 - **All event prizes (1)** VAPI: Best Voice AI Application
 - **Devpost checked** 2026-11-21 UTC
 - **Vapi** The project lists vapi among its Built With tags.
@@ -564,8 +564,8 @@ Siri if it actually worked on your Mac.
 
 - **Team size** 2
 - **Built With** agent, ai, gemini, groq, openai, python, voice
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/demanr/tango)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sK-WvZZubcc)
 - **All event prizes (2)** Graphite: Engineering Dream Team · Hack the North 2025: Finalists
 - **Devpost checked** 2026-11-21 UTC
 - **Graphite** The team used Graphite to collaborate on this project and work asynchronously.
@@ -578,8 +578,8 @@ An e-commerce platform with two faces: customers checkout by camera no barcode, 
 
 - **Team size** 2
 - **Built With** claude, cohere, cplex, minlp, next.js, pyomo, python, pytorch, scip, shopify, superbase, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/MeharPro/Tarazoo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6TfBS77bEAU)
 - **All event prizes (1)** Shopify: Hack Shopping with AI
 - **Devpost checked** 2026-11-21 UTC
 - **Shopify** The project lists shopify among its Built With tags.
@@ -592,8 +592,8 @@ Play, Pay, Pulverize - on chain! ⛓️‍💥.
 
 - **Team size** 2
 - **Built With** escrow, express.js, ipfs, javascript, mongodb, nft, nfts), node.js, tcp, three.js, typescript, webgl, websockets, xrpl, xrpl-(rlusd
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KlausMikhaelson/hackthenorth)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PfwjjiSaMgU)
 - **All event prizes (1)** Ripple: Best in Ledger Award
 - **Devpost checked** 2026-11-21 UTC
 - **Ripple** Token Turrets is a real-time multiplayer tank battle where anyone can create a room, start a tournament pot, and let the players fight it out. Devpost gives no specific sponsor integration detail.
@@ -606,8 +606,8 @@ Stock market simulation game where students race to beat the market.
 
 - **Team size** 4
 - **Built With** api, cerebras, dynamodb, english, graphite, javascript, python, react, tailwindcss
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/redmac135/TradeOff)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=KtQ0IwOUMy4)
 - **All event prizes (1)** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams
 - **Devpost checked** 2026-11-21 UTC
 - **Amazon Web Services** The project lists dynamodb among its Built With tags.
@@ -620,8 +620,8 @@ Voting outcomes often face backlash. That’s why trust matters.
 
 - **Team size** 4
 - **Built With** hardhat, rainbowkit, react, solidity, typescript, wagmi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/MartinPatr/TrueCount)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DhhBWVDUrU4)
 - **All event prizes (1)** ETHGlobal: Ethereum's Infinite Garden
 - **Devpost checked** 2026-11-21 UTC
 - **ETHGlobal** The team're incredibly proud that True Count isn't just a technical demo—it's a solution with genuine real-world impact. Devpost gives no specific sponsor integration detail.
@@ -634,8 +634,8 @@ AI Agents for Simulated Market Research.
 
 - **Team size** 4
 - **Built With** auth0, cloudflare, cohere, dagre, javascript, mongodb, next.js, radix, react, three.js, typescript, vapi, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/krish1905/tunnel)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=d6M5oSDxqxw)
 - **All event prizes (2)** MLH: Best Use of Auth0 · VAPI: Best Voice AI Application
 - **Devpost checked** 2026-11-21 UTC
 - **Auth0** Multi-Tenant Isolation Each user's workspace is completely isolated using Auth0's tenant features.
@@ -649,8 +649,8 @@ VibeMovie is an AI-native video editor that turns natural language into a render
 
 - **Team size** 4
 - **Built With** docker, express.js, gemini, javascript, node.js, react, remotion, typescript, vite, zustand
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/EvanJYHe/vibe-movie)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CYJZUQVHnmU)
 - **All event prizes (1)** MLH: Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemini among its Built With tags.
@@ -663,8 +663,8 @@ Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gem
 
 - **Team size** 3
 - **Built With** arduino, c++, cohere, facedetection, gemini, meta, multimodal, python, solidworks, supabase, vapi, websockets, windsurf
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KaivalSShah/vraille-htn2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4gdPROUsaRw)
 - **All event prizes (1)** VAPI: Best Voice AI Application
 - **Devpost checked** 2026-11-21 UTC
 - **Vapi** The project lists vapi among its Built With tags.
@@ -677,7 +677,7 @@ From packets to plain‑English, actionable security narratives.
 
 - **Team size** 1
 - **Built With** bash, cohere, docker, fastapi, python, streamlit, uvicorn
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ashokcpg/YeetThePacket)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** CSE: Network Traffic Exploration
 - **Devpost checked** 2026-11-21 UTC

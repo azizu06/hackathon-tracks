@@ -21,8 +21,8 @@ SunlightSavings is a sophisticated yet user-friendly tool that empowers users to
 
 - **Team size** 4
 - **Built With** google-maps, numpy, python, react.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Kriti-Negi/DukeHacks2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=9F4FJOiGohM)
 - **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** The project page provides no specific sponsor integration detail in the indexed fields.

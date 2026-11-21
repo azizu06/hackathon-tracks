@@ -68,7 +68,7 @@ Finally ask Donald Trump and Hillary Clinton your burning questions - the catch 
 
 - **Team size** 4
 - **Built With** css, flask, html, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alexwolson/AskTheCandidates)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho)
 - **Devpost checked** 2026-11-21 UTC
@@ -82,7 +82,7 @@ Augmenting ordinary paper with new interactive experiences.
 
 - **Team size** 2
 - **Built With** arduino, c++, google-cloud, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/adityavishwanath/augmented_paper)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Focus based document summarization (Philips)
 - **Devpost checked** 2026-11-21 UTC
@@ -96,7 +96,7 @@ Want to shop online on a site that doesn't accept bitcoin? Now you can -- via th
 
 - **Team size** 3
 - **Built With** html, javascript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ravirahman/bitcard-backend)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best use of Capital One's API - Nessie
 - **Devpost checked** 2026-11-21 UTC
@@ -110,8 +110,8 @@ AI-powered Chatbot which give you curated dating advice - while you're on your d
 
 - **Team size** 4
 - **Built With** machine-learning, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/96imranahmed/blackbox-public)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7KcSXuQXCng)
 - **All event prizes (1)** Facebook Hackathon Finals Trip
 - **Devpost checked** 2026-11-21 UTC
 - **Meta** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -138,8 +138,8 @@ Virtual reality 3D coloring/painting experience for Google Daydream.
 
 - **Team size** 3
 - **Built With** daydream, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ascn/ColoVR)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HldNqLBlTgc)
 - **All event prizes (1)** Google Cardboard Development Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Google** ColoVR is a virtual experience allowing users to modify their environment with colors and models. Devpost gives no specific sponsor integration detail.
@@ -166,7 +166,7 @@ A platform that helps people collaborate towards finding missing people.
 
 - **Team size** 4
 - **Built With** babel, firebase, javascript, react, sass, webpack
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ekmartin/hackmit-crowdsearch)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best use of Firebase
 - **Devpost checked** 2026-11-21 UTC
@@ -309,7 +309,7 @@ LeapLock is a 3D-gesture based locking mechanism.
 
 - **Team size** 3
 - **Built With** arduino, beaker, firebase, javascript, leap-motion, node.js, python, socket.io
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Howon/LeapLock)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Devpost checked** 2026-11-21 UTC
@@ -323,8 +323,8 @@ LogoLens presents relevant stock quote data when a user sees a company logo whil
 
 - **Team size** 4
 - **Built With** c#, google-cloud-vision, microsoft-hololens, nasdaq-data-on-demand, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ChenJonathan/Logo-Lens)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=AI54o8onLBA)
 - **All event prizes (1)** Nasdaq MarketSite Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Nasdaq** If a logo is detected, the company of the logo is found and the NASDAQ API is used to determine the recent performance of the company’s stock.
@@ -337,7 +337,7 @@ A mobile app that pairs friends together for everyday activities such as eating 
 
 - **Team size** 4
 - **Built With** 3dprinting, arduino, nativescript, photon, ruby-on-rails
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/TheMichaelHu/PickyPusheen)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best NativeScript App for IOT (Progress)
 - **Devpost checked** 2026-11-21 UTC
@@ -421,7 +421,7 @@ Turn the Chrome URL bar into a bash terminal.
 
 - **Team size** 3
 - **Built With** css, html, jade, javascript, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/manna/url-term)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** KCG Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -435,7 +435,7 @@ Tinderprint is a dating app that matches you with people based on true physical 
 
 - **Team size** 4
 - **Built With** convolutional-neural-network, css, ejs, html, javascript, keras, machine-learning, mobile-web, mongodb, nist-dataset, node.js, python, scipy
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/vinaymayar/tinderprint)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Most Innovative use of Synaptics Fingerprint Sensor
 - **Devpost checked** 2026-11-21 UTC
@@ -478,7 +478,7 @@ Determine which candidate to vote for by throwing away your pre-conceived notion
 
 - **Team size** 3
 - **Built With** angular.js, css, firebase, gensim, html, nltk, node.js, python, scikit-learn
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/exsmiley/xkcd-for-america)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Best xkcd Reference · Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho)
 - **Devpost checked** 2026-11-21 UTC

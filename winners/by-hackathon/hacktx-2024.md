@@ -29,8 +29,8 @@ ANGEL'S PROTECTION processes live video feeds, storing data based on individuals
 
 - **Team size** 4
 - **Built With** computer-vision, fast, intel, iris-database, javascript, llama, llama3.2, openvision, python, react, roboflow, supervision, tailwind, typescript, ultralytics, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/phamleduy04/hacktx24)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=wCfq8UI903w)
 - **All event prizes (3)** Best Ground-Up Model · Best use of GenAI using InterSystems IRIS Vector Search · Best Use of Intel AI
 - **Devpost checked** 2026-11-21 UTC
 - **Intel** The project lists intel among its Built With tags.
@@ -58,8 +58,8 @@ Revolutionizing accessibility through natural-sounding TTS and insightful image 
 
 - **Team size** 4
 - **Built With** css, express.js, fastapi, html, javascript, node.js, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Prasad-Katkade/AI-Screen-Reader)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=kf5yGIl9vkg)
 - **All event prizes (1)** Best AI Project with Databricks Open Source
 - **Devpost checked** 2026-11-21 UTC
 - **Databricks** Capture Screen: Users can capture their screen and receive summarized content. Devpost gives no specific sponsor integration detail.
@@ -72,7 +72,7 @@ Staying updated with tech news is crucial. When looking at news sites, articles 
 
 - **Team size** 3
 - **Built With** node.js, python, react, tiber
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/natemillner/ArticleScraper)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC
@@ -86,7 +86,7 @@ Introducing PrimeTime—an advanced productivity app that uses AI to track engag
 
 - **Team size** 4
 - **Built With** javascript, llms, next.js, npus, openvino, python, redis, typescript, vectors
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/HackTX-2024-RAAA/PrimeTime)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Intel AI
 - **Devpost checked** 2026-11-21 UTC
@@ -101,7 +101,7 @@ It's a glasses addon that takes video and audio input to answer a blind person's
 - **Team size** 4
 - **Built With** arduino, c/c++, flash, gradio, grok, intersystems, moondream, python
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=-vkagQDbMck)
 - **All event prizes (1)** Best use of GenAI using InterSystems IRIS Vector Search
 - **Devpost checked** 2026-11-21 UTC
 - **InterSystems** The team used Intersystems IRIS Vector Search to save and identify people.
@@ -114,8 +114,8 @@ Unlock the power of the command line with superMAN, an AI assistant that convert
 
 - **Team size** 4
 - **Built With** cloudflare, intel-aipc, intel-gpu, ipex-llm, llama3.2, ollama, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/praneelseth/superMAN)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=53opgxjzhr8)
 - **All event prizes (3)** Best LLM Hack · Best Pitch · Best Use of Intel AI
 - **Devpost checked** 2026-11-21 UTC
 - **Intel** LLM inference acceleration: IPEX-LLM( Intel® Extension for PyTorch* Large Language Models) helped superMAN run faster and more efficiently by optimizing model performance on Intel hardware.
@@ -128,7 +128,7 @@ Automating AWS environments for efficiency! Terraform-based solution schedules a
 
 - **Team size** 2
 - **Built With** amazon-web-services, javascript, terraform
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/IamAryanDubey/TempTerra)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Terraform
 - **Devpost checked** 2026-11-21 UTC
@@ -142,8 +142,8 @@ Therable offers a safe, smart way to track moods, recognize patterns, and provid
 
 - **Team size** 4
 - **Built With** flask, javascript, next.js, python, react, retrieval-augmented-generation, sql, tailwindcss, vector-search
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Jaehoonoo/therable)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=nkdaUeRp0Dw)
 - **All event prizes (1)** Best use of GenAI using InterSystems IRIS Vector Search
 - **Devpost checked** 2026-11-21 UTC
 - **InterSystems** With every entry you make – whether it’s a thought, feeling, or mood – Therable analyzes your notes using Intersystems IRIS vector search technology.

@@ -36,8 +36,8 @@
 
 - **Team size** 2
 - **Built With** expo.io, javascript, openai, react-native, supabase
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/MUNDANE-MONDAYS/MEchelin_Guide)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=-rXiF6k6-8Y)
 - **All event prizes (1)** Visa - Custom Track
 - **Devpost checked** 2026-11-21 UTC
 - **Visa** "ME"chelin guide lets people monetize from sharing their knowledge about their neighborhood. Devpost gives no specific sponsor integration detail.
@@ -50,8 +50,8 @@ AdVantage lets you build entire ad campaigns with one prompt. It runs comprehens
 
 - **Team size** 2
 - **Built With** agentverse, asi:one, elevenlabs, fetch.ai, ffmpeg, gemini, google, google-cloud, google-places, imagen, lyria, mcp, opencv, python, reportlab, serpapi, uagents, veo-3, vertex-ai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/BABTUNA/marky)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=iRTw5n2BYqI)
 - **All event prizes (1)** Fetch.ai Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists agentverse, asi:one, fetch.ai, uagents among its Built With tags.
@@ -64,8 +64,8 @@ EstateAI is an AI-driven platform that tells you whether a property is a good in
 
 - **Team size** 4
 - **Built With** fastapi, fetch.ai, mongodb, next.js, python, python3.12, react, tailwind.css
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AquaDWota/v0-EstateAI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=EswK5dt4I34)
 - **All event prizes (1)** Fetch.ai Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Backend -FastAPI -MongoDB -A2A backend using Fetch.AI -Python -Hosted on Vercel.
@@ -78,8 +78,8 @@ Facetime your dad for home repair advice at anytime.
 
 - **Team size** 3
 - **Built With** async, base64, canvas, cosinesimilarity, elevenlabs, gemini, json, llamaindex, next.js, node.js, pillow, pydantic, python, rag, react, redis, restapi, semanticsearch, tailwind, tts, typescript, uvicorn, vectorembeddings, webaudio, webspeech
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ponita05/hack-brown)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=xD_QGRqzkvo)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The project lists elevenlabs among its Built With tags.
@@ -92,8 +92,8 @@ Gene+Drug+Drug interaction app with live computer vision made for patients.
 
 - **Team size** 4
 - **Built With** swift, xcode
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/yaznzee/MedGuard)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=qSndyrIHC8Y)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Presage
 - **Devpost checked** 2026-11-21 UTC
 - **Presage** The team integrated the Presage SDK to measure heart rate and breathing rate via the iPhone camera.
@@ -106,7 +106,7 @@ Search up a city and Munchy Munchy will create a food tour through it, taking yo
 
 - **Team size** 4
 - **Built With** .tech, chatgpt, claude, css, figmamake, gemini, github, google-directions, google-geocoding, google-places, google-routes, html, javascript, react, tailwind-css, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jessiiishin/munchymunchy)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC
@@ -120,8 +120,8 @@ An agentic AI system that fights back for renters—scouting real listings, expo
 
 - **Team size** 4
 - **Built With** amazon-web-services, browserbase, gemini, langchain, llamaindex, rag, react, tailwindcss, typescript, v0
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/optimusbuilder/Rent-Swarm)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=xCzTYc7mIIg)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Gemini API · Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemini among its Built With tags.
@@ -135,7 +135,7 @@ Walking alone at night on campus? SafePulse is here to walk you home safe.
 
 - **Team size** 4
 - **Built With** amazon-web-services, expo.io, go, react-native, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/danielzhu04/SafePulse)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of AWS
 - **Devpost checked** 2026-11-21 UTC
@@ -149,8 +149,8 @@ crowdsourced diffusion data for world models on solana.
 
 - **Team size** 4
 - **Built With** amazon-web-services, decart, langgraph, langsmith, solana, three, webrtc, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/theodorechapman/scale-diffusion)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_E0CEj3cWFg)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** The project lists solana among its Built With tags.
@@ -163,8 +163,8 @@ Sortacle is an autonomous smart waste bin that identifies and sorts items in rea
 
 - **Team size** 4
 - **Built With** adafruit-circuitpython-servokit, chart.js, fastapi, flask, leaflet.js, opencv, picamera2, raspberry-pi, sqlite, torch, ultralytics-(yolo-world), vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/flxnaf/sortacle)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=g5Y1oJZ6-ws)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Vultr · Best Overall Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** The project lists vultr among its Built With tags.
@@ -177,7 +177,7 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 
 - **Team size** 4
 - **Built With** amazon-web-services, react, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Vigneshpeddi/SpaceShare)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Capital One - Best Financial Hack · Visa - Custom Track
 - **Devpost checked** 2026-11-21 UTC
@@ -192,7 +192,7 @@ Whenever you're on a shopping site, Stopify tracks your vital signs and your act
 
 - **Team size** 4
 - **Built With** c++, css, html, javascript, presage, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/calebellenberg/hackAtBrown2026)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
 - **Devpost checked** 2026-11-21 UTC
@@ -206,8 +206,8 @@ Providing an AI powered safety layer for cars that never had one.
 
 - **Team size** 4
 - **Built With** elevenlabs, presage, python, swift, yolo
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Aditya100907/HackBrown)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Y6IJaTW2l84)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Presage
 - **Devpost checked** 2026-11-21 UTC
 - **Presage** The project lists presage among its Built With tags.
@@ -220,7 +220,7 @@ Unserious is an AI trip planner learning your style via "This or That" choices t
 
 - **Team size** 3
 - **Built With** gemini, python, sqlite, uv
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/oliviaaheng/unserious)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
 - **Devpost checked** 2026-11-21 UTC
@@ -234,8 +234,8 @@ What’s Up, New York! is a data driven platform that converts natural language 
 
 - **Team size** 4
 - **Built With** 11labs, express.js, fetchai, framer, gemin, geminitextembedings, github, javascript, matbox, mongdbatlass, mongodbvectorsearh, node.js, playwright, react, restapi, tailwind, treejs, typescritp, vite, wespeechai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/z1ros/planneeer)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ag7kS5ZL1D0)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of MongoDB
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** The project lists mongodbvectorsearh among its Built With tags.

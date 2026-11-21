@@ -31,8 +31,8 @@ People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device t
 
 - **Team size** 4
 - **Built With** bit-manipulation, c2pa, decryption, encryption, expo.io, hashing, react-native, stripe, tee, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sofiaal1/C2Pay)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=gnQvp3OVYmE)
 - **All event prizes (1)** Best Financial Hack by Capital One
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** C2Pay is a mobile SDK that provides risk-based, adaptive multi-factor authentication (MFA) for payments. Devpost gives no specific sponsor integration detail.
@@ -45,8 +45,8 @@ See your business’s footprint before you leave it. EcoSpirit finds the best ne
 
 - **Team size** 3
 - **Built With** api, blender, cloudflare, d1, gaussian, gemini, gl, javascript, json, lidar, mapbox, r2, react, tailwindcss, typescript, workers
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/PratGit1606/CarbonCompass)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=MVzm-lyhBgc)
 - **All event prizes (1)** Coolant Climate Tech Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Coolant** CarbonCompass analyzes cities and recommends the most sustainable neighborhoods for starting a business. Devpost gives no specific sponsor integration detail.
@@ -59,7 +59,7 @@ Preventing crowd crush before it happens.
 
 - **Team size** 3
 - **Built With** cloudflare, gemini, godaddy, nextjs, python, typescript, webrtc, yolo-v8
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/treehill05/eyrie)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best AI Application Built with Cloudflare
 - **Devpost checked** 2026-11-21 UTC
@@ -73,7 +73,7 @@ Augmenting ordinary people into heroic responders by giving them the knowledge, 
 
 - **Team size** 2
 - **Built With** arkit, chromadb, cloudflare-pages, cloudflare-workers-ai, coreml, elevenlabs, ffmpeg, llava, mediarecorder, openai, python, redis, sentencetransformers, speechrecognition, sqlite, svelte, swift, typescript, webm
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Harpith2/Halo)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Infosys Human Augmentation Track Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -87,8 +87,8 @@ AI-powered auditor that lives at the top of your screen. Instantly scan files fo
 
 - **Team size** 3
 - **Built With** cloudflare, electron, gemini-api, javascript, langgraph, next.js, python, react, swift, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Evandabest/Hackharvard2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WgSNcEAPhr8)
 - **All event prizes (1)** Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The team built HaloAudit using Next.js, Cloudflare, Gemini API, Electron, Swift, LangGraph, TypeScript, React, JavaScript, and Python.
@@ -101,8 +101,8 @@ Item2Art — Save memories and culture in real objects.Turn any item into a livi
 
 - **Team size** 2
 - **Built With** api, dart, elevenlabs, flutter, gemini-ai, github, json, nfc-chips, sql, suno, suno-api, supabase, xml
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/meulencv/item2art)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Rmd5dRmqMEw)
 - **All event prizes (1)** Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** Item2Art lets anyone save memories and culture in real objects using NFC technology . Devpost gives no specific sponsor integration detail.
@@ -115,8 +115,8 @@ An Apple Vision Pro application that immerses you in different languages and cul
 
 - **Team size** 4
 - **Built With** apple-vision-pro, arkit, create-ml, elevenlabs, figma, flask, gemini, text-to-speech
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SaketR3/Lingua-Spatial-Gemini-API) · [Source 2](https://github.com/SaketR3/Vision-Pro-Language-Immersion)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=FVoM-Fj_TL8)
 - **All event prizes (1)** Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The project lists elevenlabs among its Built With tags.
@@ -129,8 +129,8 @@ Oversight is a political transparency platform that turns complex government dat
 
 - **Team size** 4
 - **Built With** cloudflare, elevenlabs, gemini, llama, nextjs, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dilzafer/oversightusa)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZYPj0qvPgrA)
 - **All event prizes (1)** Best Consumer Hack by Terac
 - **Devpost checked** 2026-11-21 UTC
 - **Terac** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -143,8 +143,8 @@ Location-based transaction validation using arm-based cloud computing for end-to
 
 - **Team size** 4
 - **Built With** amazon-web-services, arm, flask, python, react, react-native, socket.io, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/eiyer28/HackHarvard)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0aO7TBcvifA)
 - **All event prizes (1)** Best Use of Arm
 - **Devpost checked** 2026-11-21 UTC
 - **Arm** The project lists arm among its Built With tags.
@@ -157,7 +157,7 @@ The team describes the project as ““Real-Time Control for Safer Construction
 
 - **Team size** 1
 - **Built With** bytetrack, bytetrack-(object-tracking)-ai/ml:-google-gemini-2.5-flash-(rag-based-chat-assistant-and-autonomous-site-monitoring-agent)-infrastructure:-supabase-for-database-and-storage, coco-ssd, fastapi, github, google-gemini-2.5-flash, google-generative-ai-api-development-tools:-github, midas, midas-(depth-estimation), next.js-15, npm, opencv, postgresql, python, react-19, shadcn/ui, shadcn/ui-components, supabase, supabase-(postgresql-+-storage-+-real-time-subscriptions)-computer-vision:-yolov8n-(ultralytics), tailwindcss, tensorflow.js, tensorflow.js-(coco-ssd-for-browser-based-object-detection)-backend:-python, turbopack, typescript, vercel-ready-deployment-apis:-supabase-rest-api, websocket, yolov8n
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rajvratzoom/siteops-final)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Aramco Power the Future Track Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -171,8 +171,8 @@ Inspiration Chargebacks cost merchants up to 3x the transaction amount.
 
 - **Team size** 4
 - **Built With** ai, node.js, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/achneerov/HackHarvard)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=inDMZF5X79Q)
 - **All event prizes (1)** Visa Truth and Trust Track Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Visa** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -185,7 +185,7 @@ Visa Verify brings multi-factor fraud detection to online payments using behavio
 
 - **Team size** 3
 - **Built With** chrome, css, express.js, extension, html, javascript, node.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/HaoChiBao/hackharvard2025)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Visa Truth and Trust Track Prize
 - **Devpost checked** 2026-11-21 UTC

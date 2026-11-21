@@ -45,7 +45,7 @@ Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pr
 
 - **Team size** 4
 - **Built With** paddlepaddle, python, tears, the-biggest-data, the-deepest-learning
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alvinzz/models)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Baidu - Best Paddle Hack: Second Place
 - **Devpost checked** 2026-11-21 UTC
@@ -59,7 +59,7 @@ While Unity and Microsoft's UWP are powerful platforms, sometimes there can be p
 
 - **Team size** 3
 - **Built With** c#, giphy, microsoft-hololens, unity, uwp, vuforia
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/negitoromaki/ad-blockAR)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate
 - **Devpost checked** 2026-11-21 UTC
@@ -73,7 +73,7 @@ Allows people to join up in a "room" to work on tracks to make beats for a song.
 
 - **Team size** 4
 - **Built With** css, firebase, html5, javascript, jquery
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sbower213/band-together)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Firebase/Google - Best Use of Firebase
 - **Devpost checked** 2026-11-21 UTC
@@ -87,7 +87,7 @@ The world's first fully homomorphic runtime for a Turing-complete language.
 
 - **Team size** 1
 - **Built With** python, tfhe
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/joeltg/brainfreeze)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Sponsor Prize - Datto - Best Use of Encryption · Sponsor Prize - Illumio - Best Security Hack
 - **Devpost checked** 2026-11-21 UTC
@@ -102,7 +102,7 @@ A roomba uses machine learning and a raspberry pi with a pi camera to search for
 
 - **Team size** 4
 - **Built With** azure, irobot-create, json, machine-learning, microsoft-custom-vision, networking, picam, pyserial, python, raspberry-pi, roomba
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dratini0/Roomba4E)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack
 - **Devpost checked** 2026-11-21 UTC
@@ -130,7 +130,7 @@ ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line
 
 - **Team size** 4
 - **Built With** paddle, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/fervorarc/PaddleBois)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Baidu - Machine Learning Community Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -144,7 +144,7 @@ Robust fake news detection made simple and scalable for real people.
 
 - **Team size** 4
 - **Built With** azure, css, flask, html, ibm-watson, javascript, jupyter-notebook, machine-learning, node.js, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/likeaj6/FakeBananas)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good · Sponsor Prize - Hudson River Trading - Most Interesting Use of Data
 - **Devpost checked** 2026-11-21 UTC
@@ -215,7 +215,7 @@ An interactive community game with wearable devices that harness storytelling an
 
 - **Team size** 4
 - **Built With** arduino
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tedmyers/hackMIT)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Category Prize - Master of Both Worlds · Sponsor Prize - Disney - Best Use of Storytelling
 - **Devpost checked** 2026-11-21 UTC
@@ -257,7 +257,7 @@ Use your favorite cleaning robot to transform the floor into a canvas for Mathem
 
 - **Team size** 4
 - **Built With** facebook-live-api, irobot-create2, python, wolfram-development-platform, wolfram-mathematica
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/cyanophycean314-zz/plot_roomba)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (3)** General Prize - Runner Up · Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack · Sponsor Prize - Wolfram Alpha - Best Use of Wolfram Technologies
 - **Devpost checked** 2026-11-21 UTC
@@ -272,7 +272,7 @@ Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Lear
 
 - **Team size** 4
 - **Built With** cntk, css3, html5, javascript, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/96imranahmed/pure-interaction)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Microsoft - Best Microsoft Hack
 - **Devpost checked** 2026-11-21 UTC
@@ -286,7 +286,7 @@ The team describes the project as “We use Baidu's Paddle Deep Learning framewo
 
 - **Team size** 4
 - **Built With** css, facebook, flask, html, javascript, mongodb, paddle, python, twitter
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rfblue2/resentiment-analysis)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Baidu - Best Paddle Hack: First Place
 - **Devpost checked** 2026-11-21 UTC
@@ -301,7 +301,7 @@ A travel itinerary generator for all major cities.
 - **Team size** 4
 - **Built With** amadeus, express.js, google-directions, mongodb, node.js, yelp
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=kAxDxnKp8_s)
 - **All event prizes (1)** Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up
 - **Devpost checked** 2026-11-21 UTC
 - **Jumpstart** The team are an easy-to-use website that will take your current location, interests, and generate a custom itinerary that will fill the time you have to kill. Devpost gives no specific sponsor integration detail.
@@ -328,7 +328,7 @@ Determine the best path from two inside-building points scanning automatically t
 
 - **Team size** 4
 - **Built With** flask, python, scikit
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jjgarau/HackMIT2017)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sponsor Prize - Goldman Sachs - Best Data Visualization
 - **Devpost checked** 2026-11-21 UTC
@@ -342,8 +342,8 @@ TravelAR is an iOS travel application built using Apple's ARKit.
 
 - **Team size** 4
 - **Built With** amadeus, arkit, azure, bing-search-api, flask, microsoft-cognative-apis, microsoft-cognitive-apis, python, sketch, swift
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Averylamp/TravelAR)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ACneUIVByaY)
 - **All event prizes (2)** Sponsor Prize - Amadeus - Best Use of Amadeus APIs · Sponsor Prize - Concur - Best Travel Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Amadeus** The project lists amadeus among its Built With tags.

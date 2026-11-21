@@ -46,8 +46,8 @@ An emergency response prototype uses drones to map hazards and help responders c
 
 - **Team size** 4
 - **Built With** butterfly, dain, docker, fastapi, ffmpeg, groq, leaflet.js, llama, next.js, nginx, shadcn, supabase, tailwind, twilio, yolov8
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Jeffuz/AERIS)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_vMgX7R_PX0)
 - **All event prizes (1)** Best of Groq
 - **Devpost checked** 2026-11-21 UTC
 - **Groq** 🚀 CV Pipeline Pipeline: FastAPI server exposing REST endpoints to ingest frames, run YOLOv8 object detection, invoke Groq LLaMA for victim triage, and persist results to Supabase.
@@ -75,7 +75,7 @@ Find, Fix, and Deploy Mobile Bug Fixes - Autonomously, in Minutes.
 - **Team size** 2
 - **Built With** asi-1, flask, gemini, github, instabug, maestro, python, react-native, slack, uagents
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=qFEYKyMW6tA)
 - **All event prizes (2)** Overall: 1st Place · Track: AI Agents League (Fetch.ai)
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Alto is developed as a multi-agent system using Fetch.ai’s uagents framework, integrated with Agentverse for agent management:.
@@ -88,8 +88,8 @@ A classroom assistant answers student questions and helps them find support.
 
 - **Team size** 4
 - **Built With** amazon-web-services, ci/cd, fastapi, fetch, genai, google, httpx, javascript, mongodb, pydantic, pymupdf, python, python-dotenv, react, tiktoken, uagents, uvicorn
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/amirkhabaza/Askademia)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Mnitbx_xcjw)
 - **All event prizes (1)** MLH: Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** Uploads course PDFs, chunks and embeds them in MongoDB Atlas Vector Search, then lets students chat with an LLM-augmented interface that returns precise answers. Devpost gives no specific sponsor integration detail.
@@ -102,8 +102,8 @@ Bandaid Maps is a real-time, AI-powered healthcare navigation tool that assesses
 
 - **Team size** 4
 - **Built With** fastapi, gemini, leaflet.js, mellisa, mongodb, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/GovindKurapati/bandaid-maps)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3-WHXSlJYEA)
 - **All event prizes (1)** Melissa Data Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Melissa Data** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -117,7 +117,7 @@ A Roblox game lets players shape their surroundings through what they say and do
 - **Team size** 4
 - **Built With** flask, gemini, nextjs, python, roblox, tailwindcss
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NOM7RPY7HZc)
 - **All event prizes (1)** ROBLOX Civility Challenge: Building A Better Digital World
 - **Devpost checked** 2026-11-21 UTC
 - **Roblox** Bloom.AI’s Roblox game was architected using the PriorityEngine , a simple yet powerful modular framework designed to streamline and organize the initialization and management of game components.
@@ -130,8 +130,8 @@ With just the press of a button, Brew will agentically send those messages via L
 
 - **Team size** 2
 - **Built With** gemini, linkd, next.js, stagehand, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/EvanAd7/la-hacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=B_Y5jwKfNPo)
 - **All event prizes (1)** Linkd Challenge: Best Use of Linkd People Search
 - **Devpost checked** 2026-11-21 UTC
 - **Linkd** The team built Brew with the LINKD API, the Google Gemini LLM API, as well as Stagehand.
@@ -144,8 +144,8 @@ A robot uses what it sees to attempt everyday tasks without training separately 
 
 - **Team size** 2
 - **Built With** c++, javascript, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/mahanthesh0r/Cena_Humanoid_Robot)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=r0KGeCe9QDk)
 - **All event prizes (1)** Google Gemini: Chase the Future!
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The robot processes multimodal inputs through Gemini's API, accepting both voice commands and visual information from its built-in RGB camera and microphone.
@@ -172,8 +172,8 @@ Embers may mark the end of a fire, but with us, it's just the beginning.
 
 - **Team size** 4
 - **Built With** gemini, nextjs, python, restapi, supabase, tailwind, typescript, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/twistyyb/insurefire)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=t9eNwyadORQ)
 - **All event prizes (2)** Google Gemini: Chase the Future! · Track: Cold Hard Cache
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemini among its Built With tags.
@@ -187,7 +187,7 @@ AI-Powered Curation : Agentic AIs crawl multiple e-commerce platforms to gather 
 - **Team size** 4
 - **Built With** butterfly, dain, fetchai, gemini, javascript, nextjs, python, react, snapchat, tensorflow, typescript
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=1aWK25E4rro)
 - **All event prizes (1)** Track: AI Agents League (Fetch.ai)
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Successfully integrated Fetch.ai agents with live e-commerce data streams.
@@ -200,8 +200,8 @@ Snap Spectacles show recipe steps and let cooks advance them by voice.
 
 - **Team size** 4
 - **Built With** gemini, groq, openai, snapchat, typescript, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/joycechen721/lahacks25-spectacles)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4e_Vf_I_t9A)
 - **All event prizes (1)** Snap Inc. Challenge: Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** Ghostface Cookah provides an interactive video player, recipe directions with timestamps based off the video transcript, and a manual timer that can all follow the user's head movements. Devpost gives no specific sponsor integration detail.
@@ -214,8 +214,8 @@ An AI-powered email assistant that automatically processes, analyzes, and respon
 
 - **Team size** 4
 - **Built With** chrome, fast-api, gemini, gmail-api, python, selenium, supabase, textbelt, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aroy23/GMax)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HjPrTQSjSwo)
 - **All event prizes (1)** MSI Lucky's Hackening
 - **Devpost checked** 2026-11-21 UTC
 - **MSI** GMax is a sophisticated email management system that uses AI to automatically process Gmail messages in real-time:. Devpost gives no specific sponsor integration detail.
@@ -228,8 +228,8 @@ Automated alumni outreach to land the next awesome internship.
 
 - **Team size** 3
 - **Built With** express.js, fastapi, gemini, linkd, mongodb, node.js, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pgunhal/kairos)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=AGEZTOmoB64)
 - **All event prizes (1)** MLH: Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemini among its Built With tags.
@@ -257,7 +257,7 @@ Plan and host events smarter &amp; faster. Leadify helps event organizers automa
 - **Team size** 1
 - **Built With** asyncio, fetch.ai, gemini, linkd, next.js, node.js, python, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vFeyw8tJbWA)
 - **All event prizes (1)** Linkd Challenge: Best Use of Linkd People Search
 - **Devpost checked** 2026-11-21 UTC
 - **Linkd** The project lists linkd among its Built With tags.
@@ -270,8 +270,8 @@ A language tutor adapts practice activities to the learner.
 
 - **Team size** 4
 - **Built With** fastapi, google-gemini, multimodal, next.js, speech-to-text, supabase, text-to-speech, uvicorn
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sebjohannessen/lingobuddy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=-gNoVWcP2x8)
 - **All event prizes (1)** Google Gemini: Chase the Future!
 - **Devpost checked** 2026-11-21 UTC
 - **Google** A Gemini AI-powered, customizable, language learning platform that balances the importance of language immersion with having a strong vocabulary to provide context for realistic conversations.
@@ -284,8 +284,8 @@ Smart glasses help people with Alzheimer's recognize familiar people and recall 
 
 - **Team size** 4
 - **Built With** ar, butterfly, css3, dain, expo.io, express.js, fetchai, flask, geofencing, html5, javascript, melissa, mongodb, node.js, python, react, reactnative, snap, snapchat, snapos, spectacle, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pb2323/Lumos)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HCTG-WGNxQM)
 - **All event prizes (2)** Overall: 2nd Place · Track: AI Agents League (Fetch.ai)
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists fetchai among its Built With tags.
@@ -298,8 +298,8 @@ A desktop assistant watches for new files and sorts them based on their contents
 
 - **Team size** 4
 - **Built With** click, faiss-cpu, gemini, mongodb, mongodb-atlas, numpy, pillow, pymupdf, pyside, pystray, python-3.11, python-docx, python-dotenv, requests, sbert-encoders, sentence-transformers, setuptools, shutil, torch, watchdog
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alex-szy/munchkin)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=qM3muuWOKmg)
 - **All event prizes (1)** MLH: Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** The project lists mongodb, mongodb-atlas among its Built With tags.
@@ -312,8 +312,8 @@ Empowering every university student to find the people they want to surround the
 
 - **Team size** 4
 - **Built With** api, cloudflare, css, dain, html, javascript, linkd, node.js, openai, rag, typescript, vapi, vector-database
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rami-maalouf/dain-orbit)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Ksm0Xa9MfkU)
 - **All event prizes (1)** MLH: Best AI Application Built with Cloudflare
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudflare** The project lists cloudflare among its Built With tags.
@@ -326,8 +326,8 @@ Cut the crap. Focus on real human interactions.
 
 - **Team size** 4
 - **Built With** apollo.io, browserbase, container, dain, docker, fetch-ai, firestore, flask, gcp-artifact, gemini, google-dork, google-oauth, ingress, kubernetes, langchain, linkd, mongodb, nginx, ngrok, novnc, playwright, python, react, rest-api, selenium, vercel, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KARTIK-PANDEY-KP/Project-Dave)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aS2-N1W5mjk)
 - **All event prizes (1)** DAIN Challenge: AI Agent Excellence &amp; Innovation Awards
 - **Devpost checked** 2026-11-21 UTC
 - **DAIN Labs** Project Dave helps you find , organize , and deepen your professional and personal relationships — across LinkedIn, Twitter (X), Email, and DMs on any platform. Devpost gives no specific sponsor integration detail.
@@ -340,8 +340,8 @@ An AR prototype displays audiovisual CPR guidance in Snap Spectacles.
 
 - **Team size** 3
 - **Built With** lensstudio, msi, snapapi, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jackyydai/LAHack2025-Pulse)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VuOMCP1uGJM)
 - **All event prizes (1)** Snap Inc. Challenge: Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** Pulse is an AR application for the Snap Spectacles that provides step-by-step CPR guidance in real time.
@@ -354,8 +354,8 @@ A wearable wardrobe tool catalogs clothes the user already owns and suggests out
 
 - **Team size** 3
 - **Built With** amazon-dynamodb, fetchai, geminiapi, lensstudio, openweather, python, render.com, spectecleinteractionkit, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/venkatnikhilm/SnapDrobeAPI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rRQtAgtb2U4)
 - **All event prizes (1)** Snap Inc. Challenge: Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** The team used the Spectacles Interaction Kit to capture user inputs like the “Add to wardrobe” or “Ask for outfit” commands.
@@ -368,8 +368,8 @@ Determining both how much the environment can be impacted, and how money can be 
 
 - **Team size** 2
 - **Built With** apis, css, dain, gemini, google-cloud, html, javascript, mapbox, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ymorsi7/solar-flair)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rRz-idbllX8)
 - **All event prizes (1)** DAIN Challenge: AI Agent Excellence &amp; Innovation Awards
 - **Devpost checked** 2026-11-21 UTC
 - **DAIN Labs** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -383,7 +383,7 @@ A planning tool turns a written software idea into an editable architecture grap
 - **Team size** 4
 - **Built With** flask, gemini, next.js, python, railway, react, typescript, vercel, vite
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VxB-7LZu1D0)
 - **All event prizes (1)** Warp Challenge: Best Developer Tool
 - **Devpost checked** 2026-11-21 UTC
 - **Warp** Stackwise lets users generate full tech stacks just by describing their project in plain English. Devpost gives no specific sponsor integration detail.
@@ -396,8 +396,8 @@ Pitch your startup idea and watch your agentic board brainstorm. Featuring the U
 
 - **Team size** 3
 - **Built With** api, fetchai, flask, gemini, javascript, jsx, python, react, uagents
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/srikondapalli1/startup-sim)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=IH_bbZ4oxDE)
 - **All event prizes (1)** Track: AI Agents League (Fetch.ai)
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** ASI:One Mini Integration: FetchAI’s ASI:One Mini LLM powers the brains behind each agent, guiding their tone, responses, and decision-making processes based on their assigned roles.
@@ -411,7 +411,7 @@ UncBlox is a multiplayer action-arena game where players embody celebrated elder
 - **Team size** 2
 - **Built With** roblox
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7WwD1cOzm5k)
 - **All event prizes (1)** ROBLOX Civility Challenge: Building A Better Digital World
 - **Devpost checked** 2026-11-21 UTC
 - **Roblox** Using only the Roblox Studio and assets, the team developed combat and quizzes, iterating through playtests to fine-tune stats, a meaningful map design, and an action-packed time.

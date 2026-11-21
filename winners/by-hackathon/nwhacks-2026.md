@@ -33,8 +33,8 @@ Argus is a dev tool that integrates models/dataset workflows with seamless and s
 
 - **Team size** 3
 - **Built With** gemini, python, rust, solana, textual, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/JohnsonL111/argus)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=p849nn0xS1k)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** The project lists solana among its Built With tags.
@@ -47,8 +47,8 @@ A robot event photographer that captures moments, curates the best frames, and p
 
 - **Team size** 4
 - **Built With** arduino, fastapi, gemini, opencv, pytorch, supabase, yolo
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/elijahzhao24/BizBot)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=-nSwDxqMe5E)
 - **All event prizes (1)** &#91;Block&#93; Best Real-World Ready AI Product
 - **Devpost checked** 2026-11-21 UTC
 - **Block** BIZBOT is a robot “event photographer” designed for real environments: crowded rooms, messy backgrounds, unpredictable lighting, and lots of motion. Devpost gives no specific sponsor integration detail.
@@ -61,7 +61,7 @@ A code research tool indexes commit history so developers can search for earlier
 
 - **Team size** 4
 - **Built With** 1password, cortex, fastapi, gemini, github, oauth, python, rag, react, snowflake, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/OM200401/nwHacks-2026)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Snowflake API · &#91;Warp&#93; Best Developer Tool
 - **Devpost checked** 2026-11-21 UTC
@@ -76,8 +76,8 @@ Turn any smartphone into a live emergency camera, providing first responders wit
 
 - **Team size** 3
 - **Built With** api, leaflet.js, loveable, python, react, render, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dave22r/emergency-eye)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Xgd0_N_PSHc)
 - **All event prizes (1)** &#91;Lovable&#93; Best use of Lovable
 - **Devpost checked** 2026-11-21 UTC
 - **Lovable** Emergency Eye transforms smartphones into live emergency broadcast cameras. Devpost gives no specific sponsor integration detail.
@@ -90,8 +90,8 @@ A wearable gives deaf and hard-of-hearing users visual and tactile cues about su
 
 - **Team size** 4
 - **Built With** 3dprinting, c++, elevenlabs, esp32, kotlin, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/iancdev/hudglasses)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4YbXLKoHIKk)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Elevenlabs
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The project lists elevenlabs among its Built With tags.
@@ -104,7 +104,7 @@ A voice tool suggests words to stroke survivors based on how they describe the w
 
 - **Team size** 4
 - **Built With** fastapi, firebase, google-gemini-live-api, indexeddb, oauth, react, tailwind-css, typescript, vercel, vite, web-audio-api
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Bardia-Masudy/nwHacks-listen.me)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
@@ -118,8 +118,8 @@ Sandbox world of financial AI agents to help you learn trading.
 
 - **Team size** 3
 - **Built With** fastapi, gemini, lovable, openrouter, python, react, recharts, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dewgong5/nwhacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Qcazd8EwHQ0)
 - **All event prizes (1)** &#91;Connor, Clark &amp; Lunn&#93; Best Financial Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Connor, Clark &amp; Lunn** The team learned how to build a full web app, including front-end, back-end, and making them work together. Devpost gives no specific sponsor integration detail.
@@ -132,8 +132,8 @@ MelaNone is a limb-scanning system designed to help detect melanoma early on.
 
 - **Team size** 3
 - **Built With** c, cv, flask, python, pytorch, react, solidworks, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jasonkwok475/MelaNone)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=z7EJEKKdNtc)
 - **All event prizes (1)** &#91;Telus&#93; The Edge of Innovation
 - **Devpost checked** 2026-11-21 UTC
 - **TELUS** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -147,7 +147,7 @@ A planning app connects student clubs' communication, spreadsheets, and code too
 - **Team size** 4
 - **Built With** asyncio, fastapi, httpx, langchain, langgraph, lucide, mongodb, motor, next.js, python, radix, react, redis, shadcn, tailwind, typescript, uvicorn, voltr
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=TmAf5cKU6G4)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** Seamless integration between Vultr using their serverless inference, Gemini, and ChatGPT.
@@ -160,7 +160,7 @@ Play It Forward pairs families in need of toys with households that have more th
 
 - **Team size** 4
 - **Built With** css, docker, express.js, firebase, gemini, github, html, javascript, lovable, node.js, react.js, recaptcha, scp, snowflake, tailwind-css, typescript, vite, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/vvictort/nwhacks-2026)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC
@@ -174,8 +174,8 @@ A smart biofeedback pen and web app that guides users through quick exercises to
 
 - **Team size** 4
 - **Built With** arduino, c++, fastapi, opencv, python, react, real-time, tailwind, typescript, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SteadyScript/SteadyScript)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=QCpoyvr15rE)
 - **All event prizes (2)** &#91;PCCA&#93; Best Wellness Related Hack · Best Beginner Project
 - **Devpost checked** 2026-11-21 UTC
 - **Pacific Canadian Chinese Association** SteadyScript makes fine-motor therapy more accessible, using real-time biofeedback to help users build steadier, more controlled movements. Devpost gives no specific sponsor integration detail.
@@ -188,8 +188,8 @@ Agentic security testing for vibe-coded apps — before you ship.
 
 - **Team size** 4
 - **Built With** javascript, langgraph, next.js, oauth, openai, python, supabase, vercel, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jkuo630/Trojan)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4-LN6P5TIFk)
 - **All event prizes (1)** &#91;1Password&#93; Best Security Hack
 - **Devpost checked** 2026-11-21 UTC
 - **1Password** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -202,8 +202,8 @@ An accessibility tool converts facial expressions into audio cues for blind user
 
 - **Team size** 4
 - **Built With** arduino, deepface, flask, presage, python, sdk, swift
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/havido/VibeSense)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=tY2O1hSmsxo)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Presage
 - **Devpost checked** 2026-11-21 UTC
 - **Presage** Biometric Integration: The system integrates with Presage technology to collect heartbeat and breathing rate data, providing additional physiological context that supports and enhances emotion detection accuracy.

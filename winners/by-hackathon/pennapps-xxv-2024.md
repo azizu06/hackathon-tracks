@@ -40,8 +40,8 @@ Philadelphia’s heat is rising! Enter your address to see how chill your area i
 
 - **Team size** 4
 - **Built With** express.js, javascript, mongodb, node.js, python, tailwindcss
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/carolinecummings19/Chilladelphia)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=H4WKPl8tdaI)
 - **All event prizes (1)** Track: Best Sustainability Hack (Sponsored by Bloomberg)
 - **Devpost checked** 2026-11-21 UTC
 - **Bloomberg** The main page features a heat map that visually highlights the hottest and coolest areas around Philadelphia. Devpost gives no specific sponsor integration detail.
@@ -54,8 +54,8 @@ CoffeeStarter is the ultimate networking tool. It leverages your resume to craft
 
 - **Team size** 4
 - **Built With** css, figma, html, javascript, mysql, python, tune
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sutharsikakumar/PennApps-XXV)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=-Sh9W3QzrO4)
 - **All event prizes (1)** Best Next-Gen LLM-Powered Application (Sponsored by Tune)
 - **Devpost checked** 2026-11-21 UTC
 - **Tune** The project lists tune among its Built With tags.
@@ -68,8 +68,8 @@ DriveWise: Your personalized, safety-first navigation app, using 22 years of acc
 
 - **Team size** 4
 - **Built With** cerebras, chroma, google-maps, mapquest, node.js, openai, openstreetmap, pinecone, python, react-native, tune.ai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pranavponnusamy/Drivewise)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=A9ToFxCVF9c)
 - **All event prizes (2)** Best Use of Statistics · Track: Best Community Impact Hack (Sponsored by Perpay)
 - **Devpost checked** 2026-11-21 UTC
 - **Perpay** The team developed DriveWise , a route-planning app that empowers users to make informed decisions about the safest routes. Devpost gives no specific sponsor integration detail.
@@ -83,8 +83,8 @@ Predict Elections Way Better With LLM Agents.
 
 - **Team size** 4
 - **Built With** cerebras, css, d3.js, geojson, html, javascript, llms, node.js, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SahraMohamad/Electra)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=c6X9n7o9Zjk)
 - **All event prizes (1)** Super Fast AI
 - **Devpost checked** 2026-11-21 UTC
 - **Cerebras** The project lists cerebras among its Built With tags.
@@ -97,7 +97,7 @@ Empowering students to collectively build smarter, interactive lessons for a bet
 
 - **Team size** 4
 - **Built With** cerebras, chatgpt, chroma, codeium, copilot, django, djangorestframework, github, langchain, openai, python, pytorch, react, tensorflow, tuneai, vscode
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/danielodicho/upenn)
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=-HKme-4BvmY)
 - **All event prizes (1)** Best Next-Gen LLM-Powered Application (Sponsored by Tune)
 - **Devpost checked** 2026-11-21 UTC
@@ -111,8 +111,8 @@ Then everyone with access can choose which times work best for them.
 
 - **Team size** 2
 - **Built With** amazon-dynamodb, amazon-web-services, amplify, ant-design, css, html, lambda, python, react, terraform, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tbwrigh/PennAppsXXV)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vbNhfhMT3vs)
 - **All event prizes (1)** Best Use of Terraform
 - **Devpost checked** 2026-11-21 UTC
 - **HashiCorp** The team used a lot of Terraform.
@@ -125,8 +125,8 @@ The team had never used Flask, Hugging Face, PropelAuth, vector databases, or de
 
 - **Team size** 3
 - **Built With** javascript, mongodb-atlas, propelauth, python, react, sentence-transformers, tailwindcss, youtube
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/EerierGosling/MatchTube)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=I-dwiFZ3P1A)
 - **All event prizes (1)** Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** The backend (built with python, sentence transformers, Youtube API, PropelAuth, and MongoDB Atlas) takes in a Google takeout of a user's Youtube watch and search history.
@@ -140,7 +140,7 @@ The app allows users to have on-demand check-ins with a chatbot.
 - **Team size** 1
 - **Built With** typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=uR7UlKGjseE)
 - **All event prizes (1)** Super Fast AI
 - **Devpost checked** 2026-11-21 UTC
 - **Cerebras** The team used Cerebras for the chatbot to ensure fast and efficient inference.
@@ -153,8 +153,8 @@ A gateway for blind/visually impaired people to experience the world independent
 
 - **Team size** 4
 - **Built With** android-studio, cerebras, java, kotlin, mlkit, purebasic, tunestudio, volley
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ddiyas/OpticaV2)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZD9LP6MjzG8)
 - **All event prizes (1)** Super Fast AI
 - **Devpost checked** 2026-11-21 UTC
 - **Cerebras** The project lists cerebras among its Built With tags.
@@ -167,8 +167,8 @@ Revolutionize your takeout habits — get financially savvy meal choices and ide
 
 - **Team size** 4
 - **Built With** atlas, defang, docker, fastapi, json, llama, math, mongodb, python, tune
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pennapps-w/plate-o)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aZ8MMSoKCXc)
 - **All event prizes (1)** Track: Best Financial Hack (Sponsored by Capital One)
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** By integrating the Capital One API, Plate-O can analyze your income, expenses, and savings to calculate an ideal takeout budget—maximizing enjoyment while minimizing financial strain. 💵📈.
@@ -181,8 +181,8 @@ Bringing politicians and voters closer, one personalized ad at a time.
 
 - **Team size** 3
 - **Built With** cartesia, ffmpeg, firecrawl, nextjs, openai, postgresql, python, supabase, synclab, tune, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pr28416/rally)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OfkKmmvT_OY)
 - **All event prizes (3)** Best Design · Best Overall 2nd · The Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
 - **Wolfram** Rally helps politicians meet voters where they are – in a figurative and digital sense. Devpost gives no specific sponsor integration detail.
@@ -195,8 +195,8 @@ ScholarFlow makes it easy to find research papers and professors.
 
 - **Team size** 3
 - **Built With** beautiful-soup, bulma, cerebras, css3, flask, html5, huggingface, javascript, llama3, llm, mongodb, python, rag
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AjayAvasi/ScholarFlow)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_Yydo6lTc5s)
 - **All event prizes (1)** Best Beginner Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Penn Labs** Additionally, you can talk to the chatbot, "Scholar Chat" 🤖. Devpost gives no specific sponsor integration detail.
@@ -210,7 +210,7 @@ Sera helps people with limited banking experience take control of their money. N
 - **Team size** 4
 - **Built With** atlas, cerebras, express.js, javascript, mongdb, nextjs, node.js, roboflow, tailwind, tailwindcss, tune
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=E-Cg1Y2ALKc)
 - **All event prizes (1)** Best DEI Hack sponsored by Fidelity
 - **Devpost checked** 2026-11-21 UTC
 - **Fidelity** Sera simplifies financial management by providing users with an intuitive dashboard where they can track their recent transactions, bills, budgets, and overall balances - all in one place. Devpost gives no specific sponsor integration detail.
@@ -223,7 +223,7 @@ Automated Medication Scanner and Tracker Powered by Computer Vision.
 
 - **Team size** 3
 - **Built With** expo.io, firebase, flask, heroku, npm, opencv, python, react-native, roboflow
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Srinikal/Snapill)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Best Use of Computer Vision (Sponsored by Roboflow) · Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)
 - **Devpost checked** 2026-11-21 UTC
@@ -239,7 +239,7 @@ A wearable headphone that dynamically adapts audio for individuals with autism, 
 - **Team size** 2
 - **Built With** librosa, numpy, opencv, python, raspberrypi, scipy
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6jjXlH3dni0)
 - **All event prizes (2)** Best Overall 1st · The Wolfram Award
 - **Devpost checked** 2026-11-21 UTC
 - **Wolfram** SoundShield is a wearable device that adapts to noisy environments by automatically adjusting calming background audio and applying noise reduction. Devpost gives no specific sponsor integration detail.
@@ -252,8 +252,8 @@ Real-time infection monitoring with moisture, temperature, and pH sensors.
 
 - **Team size** 4
 - **Built With** adafruit, arduino, autodesk-fusion-360
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/katelynkywong/SurgiSafe)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=RFui9r2ybFU)
 - **All event prizes (2)** The Wolfram Award · Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)
 - **Devpost checked** 2026-11-21 UTC
 - **Patient Safety Technology Challenge** SurgiSafe is a wearable device designed to monitor wounds by detecting moisture, temperature, and pH levels in real time. Devpost gives no specific sponsor integration detail.
@@ -267,8 +267,8 @@ Minimize your tech stack's developmental cost.
 
 - **Team size** 4
 - **Built With** amazon-web-services, cli, fastapi, mysql, nextjs, openai, python, react, shadcn/ui
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/stevensusas/Underflow)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=lGFKiZR0MNk)
 - **All event prizes (1)** Best Use of Defang
 - **Devpost checked** 2026-11-21 UTC
 - **Defang** Underflow is a command-line tool that helps developers optimize their tech stack by analyzing the codebase and identifying opportunities to reduce costs while maintaining performance. Devpost gives no specific sponsor integration detail.
@@ -281,8 +281,8 @@ Unified Electronic Health Record featuring an AI- and RAG-powered search bot for
 
 - **Team size** 4
 - **Built With** langchain, next-js, propel-auth, supabase, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/gibranoderenz/unifymd)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=c1NckGLl0TI)
 - **All event prizes (1)** Best Use of PropelAuth
 - **Devpost checked** 2026-11-21 UTC
 - **PropelAuth** UnifyMD is a unified health record system that aggregates patient data and historical health records. Devpost gives no specific sponsor integration detail.

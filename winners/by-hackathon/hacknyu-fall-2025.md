@@ -39,8 +39,8 @@ No more passive reading, just active chats! - AGORA.
 
 - **Team size** 2
 - **Built With** python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ashish-Reddy-T/hackNYUEducation)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=hNmpppkJaBo)
 - **All event prizes (2)** Best First Time Hack · MLH - Best Use of Vultr Cloud
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** Agora is a voice-first, multimodal AI tutor that you study with. Devpost gives no specific sponsor integration detail.
@@ -53,8 +53,8 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 
 - **Team size** 4
 - **Built With** docker, fastapi, git, lm-studio, openrouter, postgresql, python, react, sqlalchemy, typescript, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rohan-g0re/Hack_NYU_Arbitrage)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=z2_8AWR_qU8)
 - **All event prizes (2)** Best Use of Qualcomm EdgeAI · Visa Challenge - Agent Marketplace Simulation
 - **Devpost checked** 2026-11-21 UTC
 - **Qualcomm** A Session stores buyer configuration and seller profiles. Devpost gives no specific sponsor integration detail.
@@ -68,8 +68,8 @@ Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 
 - **Team size** 4
 - **Built With** luau, openrouter, roblox, robloxstudio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jennnniferkuang/Bobux-Bargains)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=xkyIFGGAyg0)
 - **All event prizes (2)** Aristotle Challenge: Most Cutting-Edge AI Agent · Best Funny Haha Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Aristotle** Bobux bargains simulates a real world economy including supply and demand and financial transactions, on Roblox. Devpost gives no specific sponsor integration detail.
@@ -82,8 +82,8 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 
 - **Team size** 1
 - **Built With** beautiful-soup, elevenlabs-api, faiss-vector-database, fastapi, google-gemini-api, next.js-14, plaid-api, polymarket-api, python, react-18, recharts, redis, selenium, sentence-transformers, shadcn-ui, stripe, tailwind-css, typescript, vanta.js, web-speech-api, yahoo-finance-api, zustand
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/NandanHemanth/BuckBounty)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rCsw2WkivC0)
 - **All event prizes (2)** Aristotle Challenge: Most Cutting-Edge AI Agent · Fintech
 - **Devpost checked** 2026-11-21 UTC
 - **Aristotle** BuckBounty is an AI-powered personal finance assistant that:. Devpost gives no specific sponsor integration detail.
@@ -97,7 +97,7 @@ Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
 - **Team size** 4
 - **Built With** axios, bcryptjs, built-with-##-languages-javascript, express.js, framer-motion, joblib-##-blockchain-solana-web3.js, jwt, meta-llama-3.2-3b-instruct, mongodb-##-databases-mongodb, mongodb-atlas, mongodb-atlas-##-apis-openrouter-api, numpy, pandas, python, react-18, recharts, render, scikit-learn, snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, socket.io, socket.io-client, solana-devnet-##-cloud-&amp;-hosting-vercel, solana-rpc, solana/spl-token, sql-##-frontend-next.js-14, tailwindcss, typescript, zustand-##-backend-node.js
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5qtlaak3W9Y)
 - **All event prizes (2)** MLH - Best Use of Snowflake · Sustainability
 - **Devpost checked** 2026-11-21 UTC
 - **Snowflake** Analytics &amp; ML : Snowflake integration for data warehousing, analytics scoring system:.
@@ -110,7 +110,7 @@ The team created On The Go Storyteller , an interactive reading platform that br
 
 - **Team size** 4
 - **Built With** css, express.js, firebase, gemini, html5, javascript, ngrok, node.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KeiraJames/nyu-hacks)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Interactive Media Arts/Entertainment · MLH - Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
@@ -124,7 +124,7 @@ HypeChain is a decentralized marketplace for physical goods, secured by on-chain
 
 - **Team size** 1
 - **Built With** openrouter, solana
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alin9661/HypeChain)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Solana Challenge - Best Project Built on Solana
 - **Devpost checked** 2026-11-21 UTC
@@ -138,8 +138,8 @@ An edge-AI tutoring agent that listens in real time and guides you the moment co
 
 - **Team size** 2
 - **Built With** fastapi, ffpmeg, indexeddb, llama, node.js, numpy, onnx, pytorch, qnn, react, tailwind, vite, webrtc, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Baozzz04/insight-loop)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0WAUHLDkyHI)
 - **All event prizes (1)** Best Use of Qualcomm EdgeAI
 - **Devpost checked** 2026-11-21 UTC
 - **Qualcomm** The system lets students upload their own learning materials and transforms their study session into a live, interactive experience. Devpost gives no specific sponsor integration detail.
@@ -152,8 +152,8 @@ When disasters strike, traditional insurance is slow.InstaRelief delivers instan
 
 - **Team size** 4
 - **Built With** claude, firebase, noaa, react, solana, typescript, web3
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aakash2060/insta-relief)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=friog1wMYu8)
 - **All event prizes (1)** MLH - Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** The project lists solana among its Built With tags.
@@ -196,8 +196,8 @@ The team describes the project as “Nodal”.
 
 - **Team size** 4
 - **Built With** claude, fastapi, nextjs, supabase, three.js, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shivvyas2/SATistics)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=AErgCTfmmbw)
 - **All event prizes (2)** Education · MLH - Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC
 - **.Tech Domains** Get surprised by quick SAT questions integrated into gameplay. Devpost gives no specific sponsor integration detail.
@@ -224,7 +224,7 @@ AI agents represent buyers and sellers, negotiating ticket deals automatically. 
 
 - **Team size** 2
 - **Built With** javascript, node.js, openrouter, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/praveen-bandla/agent-ticket-marketplace)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Visa Challenge - Agent Marketplace Simulation
 - **Devpost checked** 2026-11-21 UTC
@@ -253,7 +253,7 @@ Increase your strength with cutting-edge computer vision and agentic AI.
 - **Team size** 4
 - **Built With** adafruit, cloudflare, opencv, openserver, platformio, react
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZHPY_1P-ulU)
 - **All event prizes (2)** Best Use of Nodal CLI · Best Use of Qualcomm EdgeAI
 - **Devpost checked** 2026-11-21 UTC
 - **Nodal** Tuffr lets you choose a workout and sends that information to the AI agent. Devpost gives no specific sponsor integration detail.

@@ -53,8 +53,8 @@ Alchemetrics is a real-time AI dashboard that tracks cauldrons, matches tickets,
 
 - **Team size** 3
 - **Built With** css, fastapi, nemotron, nextjs, numpy, pandas, python, sqlalchemy, sqlite, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Lanisha20/Alchemetrics)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_XkRiy9jCP8)
 - **All event prizes (1)** Nvidia
 - **Devpost checked** 2026-11-21 UTC
 - **NVIDIA** The team built a multi-agent system orchestrated by Nemotron (NVIDIA’s LLM planner).
@@ -67,8 +67,8 @@ Vendor onboarding at light speed using AWS.
 
 - **Team size** 4
 - **Built With** amazon-rds-relational-database-service, amazon-web-services, api-gateway, gemini, lambda, python, react, vpcs
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Rabib001/HackUTD_2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=L-hYahgOGGk)
 - **All event prizes (1)** Goldman Sachs
 - **Devpost checked** 2026-11-21 UTC
 - **Goldman Sachs** AutoBoard transforms the vendor lifecycle into a streamlined, automated workflow:. Devpost gives no specific sponsor integration detail.
@@ -81,8 +81,8 @@ AutoPM runs an end-to-end PM workflow inside a “Space” (one project), powere
 
 - **Team size** 4
 - **Built With** html
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/hrishinave/HackUTD2)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sNpusFMyFoI)
 - **All event prizes (1)** PNC Bank
 - **Devpost checked** 2026-11-21 UTC
 - **PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -95,8 +95,8 @@ A real-time, cross-domain Customer Happiness Index that detects, tracks, and hel
 
 - **Team size** 4
 - **Built With** downdetector, figma, flask, forumscout, llama, mongodb, next.js, ngrok, tailwindcss, twilio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/iampritisee/hackutd)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VelZ-2xXLAw)
 - **All event prizes (1)** T-Mobile
 - **Devpost checked** 2026-11-21 UTC
 - **T-Mobile** A real-time, multimodal Customer Happiness Index built to detect, understand, and improve how people feel about T-Mobile.
@@ -110,7 +110,7 @@ bevinAI is an AI powered orchestration engine that acts as the central nervous s
 - **Team size** 4
 - **Built With** api, confluence, css, django, express.js, html5, javascript, jira, mcp, mysql, node.js, npm, nvidia, pnc, python, react, server, slack, solana
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=a4IBdqUq1vI)
 - **All event prizes (1)** Best Use of DigitalOcean Gradient AI by MLH
 - **Devpost checked** 2026-11-21 UTC
 - **DigitalOcean** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -123,8 +123,8 @@ Cura provides forecasting and analytical insights, commercial real estate proper
 
 - **Team size** 4
 - **Built With** ai, crewai, fastapi, mcp, ml, mongodb, next.js, nvidia, ollama, python, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/armaanamatya/HackUTD2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=lFJVLqDG710)
 - **All event prizes (1)** CBRE
 - **Devpost checked** 2026-11-21 UTC
 - **CBRE** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -137,8 +137,8 @@ DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to ge
 
 - **Team size** 4
 - **Built With** agents, ai, flask, langchain, mongodb, nemo, nemotron, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Jeanpascal-Gauthier/Data-Driver)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=w0YteTzoGc4)
 - **All event prizes (2)** Northmark Compute &amp; Cloud · Nvidia
 - **Devpost checked** 2026-11-21 UTC
 - **Northmark Compute &amp; Cloud** DataDriver is an Agentic AI-powered copilot for data center technicians. Devpost gives no specific sponsor integration detail.
@@ -152,8 +152,8 @@ A platform that supports data center technicians in a multitude of daily tasks, 
 
 - **Team size** 4
 - **Built With** amazon-web-services, gemini, javascript, mongodb, next.js, react, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/anishalle/hackutd2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sbdnZRNmm8o)
 - **All event prizes (1)** Northmark Compute &amp; Cloud
 - **Devpost checked** 2026-11-21 UTC
 - **Northmark Compute &amp; Cloud** DC Daddy is a comprehensive data center operations platform that solves five critical pain points through an integrated ecosystem:. Devpost gives no specific sponsor integration detail.
@@ -166,8 +166,8 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 
 - **Team size** 4
 - **Built With** css, html, javascript, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/LegendaryPenguin/Enchantress)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=wmMVLoRToEE)
 - **All event prizes (1)** EOG Resources
 - **Devpost checked** 2026-11-21 UTC
 - **EOG Resources** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -180,8 +180,8 @@ A command-center for T-Mobile product managers to anticipate customer needs. See
 
 - **Team size** 4
 - **Built With** fastapi, flask, gemini, python, react, scikitlearn, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Siriapps/HarmoniQ)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rJU3_Fffqnc)
 - **All event prizes (2)** Best Use of Auth0 · T-Mobile
 - **Devpost checked** 2026-11-21 UTC
 - **Auth0** HarmoniQ is an AI-driven dashboard that integrates live network performance analytics, social sentiment streams, resource allocation and predictive insights into a single workspace. Devpost gives no specific sponsor integration detail.
@@ -195,8 +195,8 @@ In a stressful, hot, overwhelming datacenter, you need reminders of when to rela
 
 - **Team size** 4
 - **Built With** arduino, c++, javascript, json, nemotron, python, raspberry-pi, sensors, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/delster1/utdproj)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=cGhp6i-jCCk)
 - **All event prizes (1)** Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** Vultr is used to hold the Redis database and runs the Nemotron Agentic AI.
@@ -209,8 +209,8 @@ Discover the perfect car with a swipe. As students learn finance, Hingine uses g
 
 - **Team size** 3
 - **Built With** expo.io, react, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Pancakemix31/Hingine)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7elxs86J_xQ)
 - **All event prizes (1)** Toyota Financial Services
 - **Devpost checked** 2026-11-21 UTC
 - **Toyota Financial Services** Hingine helps students find cars that fit their budget and credit profile through a swipe interface connected to Toyota Financial Services. Devpost gives no specific sponsor integration detail.
@@ -223,8 +223,8 @@ The team set out to solve the often ineffective ticket-to-response systems prese
 
 - **Team size** 4
 - **Built With** auth0, bootstrap, css, django, gemini, godaddy, html, javascript, jira, python, react, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/zekestephens/hyperlynx)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=wL78va-T-Ug)
 - **All event prizes (1)** Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** The project lists godaddy among its Built With tags.
@@ -237,8 +237,8 @@ Unified dashboard for T-Mobile PMs to track real-time customer sentiment, perfor
 
 - **Team size** 3
 - **Built With** cheerio, css, gemini, next.js, node.js, postgresql, radix, react, redditapi, supabase, tailwind, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AbdullahMoghal/t-insight-hack2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4c7uRVxoJfc)
 - **All event prizes (1)** T-Mobile
 - **Devpost checked** 2026-11-21 UTC
 - **T-Mobile** Consolidates multi‑source customer signals (Reddit, outage trackers, community forums, internal feedback) into a unified timeline. Devpost gives no specific sponsor integration detail.
@@ -251,8 +251,8 @@ Unified dashboard for T-Mobile PMs to track real-time customer sentiment, perfor
 
 - **Team size** 4
 - **Built With** javascript, mongodb, nemotron, node.js, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/adamFabsa/Kachow)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ebR9JQ7yu48)
 - **All event prizes (1)** Toyota Financial Services
 - **Devpost checked** 2026-11-21 UTC
 - **Toyota Financial Services** With no AI hallucinations , Kachow eliminates the headache of purchasing a car. Devpost gives no specific sponsor integration detail.
@@ -265,8 +265,8 @@ A little pixel companion who studies with you, works with you, rests with you, a
 
 - **Team size** 4
 - **Built With** 3d, ai-vision, audio-analysis, axios, bme, electron, expo.io, express.js, gpio, graphic, i2c, javascript, metro, raspberry, raspberry-pi, react, react-native, sensor, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/DuckyDaBucky/Kori.Study)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=K17fqD58JhA)
 - **All event prizes (1)** Best Use of Gemini API by MLH
 - **Devpost checked** 2026-11-21 UTC
 - **Google** Additionally the mobile app uses Gemini to process data to create helpful insights for the user.
@@ -279,8 +279,8 @@ Compare Your API Versions with Confidence.
 
 - **Team size** 4
 - **Built With** react, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ParsaBazrpash/MirrorAPI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=zJ3Deft3lVo)
 - **All event prizes (1)** StateFarm
 - **Devpost checked** 2026-11-21 UTC
 - **State Farm** The team learned countless industry best practices when it came to API design and version control. Devpost gives no specific sponsor integration detail.
@@ -294,7 +294,7 @@ Expediting the contracts and document signings process between vendors and clien
 - **Team size** 3
 - **Built With** anchor, gemini, node.js, react, rust
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OgYibmNNUD8)
 - **All event prizes (2)** Best Use of Solana · CBRE
 - **Devpost checked** 2026-11-21 UTC
 - **CBRE** Pact is a comprehensive blockchain-powered contract management system that revolutionizes how organizations create, collaborate on, and enforce legal agreements. Devpost gives no specific sponsor integration detail.
@@ -309,7 +309,7 @@ PoyoLabs is a gamified dashboard that allows users to track and monitor multiple
 - **Team size** 4
 - **Built With** auth0, css, flask, godaddy, html, nemotron, python
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ah0ZCHMdz_8)
 - **All event prizes (1)** EOG Resources
 - **Devpost checked** 2026-11-21 UTC
 - **EOG Resources** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -322,8 +322,8 @@ Prodplex acts like a team of intelligent assistants, each powered by a different
 
 - **Team size** 4
 - **Built With** javascript, nemotron, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ka2507/hackutd2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pX8h4Dt-67c)
 - **All event prizes (1)** PNC Bank
 - **Devpost checked** 2026-11-21 UTC
 - **PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -336,8 +336,8 @@ ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discove
 
 - **Team size** 2
 - **Built With** adk, agentic-architecture, ai-agent, gemini, google, google-cloud, llm, openai, postgresql, prompt-engineering, react, sql
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/christinaduthie/produh)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0nwymM2ZtSw)
 - **All event prizes (1)** PNC Bank
 - **Devpost checked** 2026-11-21 UTC
 - **PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -350,8 +350,8 @@ qAPIbara is an AI-powered regression analysis platform that automatically compar
 
 - **Team size** 1
 - **Built With** javascript, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nathanhanxp/qAPIbara)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=TCHkbt_CPrM)
 - **All event prizes (1)** StateFarm
 - **Devpost checked** 2026-11-21 UTC
 - **State Farm** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -365,7 +365,7 @@ Agentic assistant for data center technicians to streamline repairs and improve 
 - **Team size** 4
 - **Built With** .
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=-osJDI2GaQE)
 - **All event prizes (1)** Best Use of ElevenLabs by MLH
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -378,8 +378,8 @@ Let kids learn how to manage their own finances with Spendy.
 
 - **Team size** 4
 - **Built With** expo.io, react, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/brendanshen24/SpendWithSpendy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=EK8jEkWBTbg)
 - **All event prizes (2)** Best Design · Capital One
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** Kids will have a Spendy card that can be spend on their favorite games. Devpost gives no specific sponsor integration detail.
@@ -393,7 +393,7 @@ Stamped is a secure and intelligent onboarding platform designed for financial i
 - **Team size** 2
 - **Built With** next.js, react, supabase, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=umt6t5bXJXo)
 - **All event prizes (1)** Goldman Sachs
 - **Devpost checked** 2026-11-21 UTC
 - **Goldman Sachs** Stamped is an intelligent onboarding platform that manages the entire client lifecycle from lead prospecting to full onboarding. Devpost gives no specific sponsor integration detail.
@@ -406,8 +406,8 @@ A tool for helping Engineers and on-site technicians communicate and organize th
 
 - **Team size** 4
 - **Built With** javascript, next.js, python, react, realitykit, supabase, swiftui, typescript, usdz
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/NEjim2001/hackutd-2025) · [Source 2](https://github.com/stardestro/Hackutd2025IOSapp)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sQVzqluIUdQ)
 - **All event prizes (1)** Northmark Compute &amp; Cloud
 - **Devpost checked** 2026-11-21 UTC
 - **Northmark Compute &amp; Cloud** Some of learned react for the first time, other got to work on their design skills in high stakes discussions. Devpost gives no specific sponsor integration detail.
@@ -420,8 +420,8 @@ Toyotron is a solution that allows users to easily find their dream Toyota throu
 
 - **Team size** 4
 - **Built With** ai, css, nemotron, next.js, openrouter, resend, retell, supabase, tailwind, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/anbguye/hackutd-Toyota-Toyotron)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CSc6zKQRxIY)
 - **All event prizes (2)** Nvidia · Toyota Financial Services
 - **Devpost checked** 2026-11-21 UTC
 - **NVIDIA** It conducts an onboarding survey to understand a shopper’s budget, lifestyle, and preferences, then recommends vehicles that truly fit. Devpost gives no specific sponsor integration detail.
@@ -436,7 +436,7 @@ The app is a full-featured real estate helper that helps you find and trust prop
 - **Team size** 4
 - **Built With** google-gemini, google-maps, react, recharts, shadn, sonner, tailwind, typescript, vite
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=SQlAZdMoI2k)
 - **All event prizes (1)** CBRE
 - **Devpost checked** 2026-11-21 UTC
 - **CBRE** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -449,8 +449,8 @@ TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract
 
 - **Team size** 3
 - **Built With** nemotron, openaisdk, python, streamlit
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ybavgito/TrustIssues.AI-HackUTD-2025-Winner-Goldman-Sachs-Track)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6aPw8P9URv0)
 - **All event prizes (1)** Goldman Sachs
 - **Devpost checked** 2026-11-21 UTC
 - **Goldman Sachs** The team learned a shocking amount about the power and pitfalls of agentic AI, in equally shocking amount of time. Devpost gives no specific sponsor integration detail.
@@ -463,8 +463,8 @@ Struggling with accidentally making subtle breaking changes to your APIs? Are th
 
 - **Team size** 4
 - **Built With** fastapi, flutter, nemotron, python, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Arian04/UpGuardian)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VLvWZeT5NOk)
 - **All event prizes (1)** StateFarm
 - **Devpost checked** 2026-11-21 UTC
 - **State Farm** UpGuardian helps developers with the process of updating their codebases to handle upgraded versions of the APIs they rely on. Devpost gives no specific sponsor integration detail.

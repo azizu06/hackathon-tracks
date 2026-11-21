@@ -50,7 +50,7 @@ A Pebble Smartwatch app which uses the Intuit Customer Account Data API to monit
 
 - **Team size** 1
 - **Built With** No tags listed
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ajwootto/Alerta)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Intuit - API Innovation Award
 - **Devpost checked** 2026-11-21 UTC
@@ -149,8 +149,8 @@ This app aims to make taking pictures and video more intuitive.
 
 - **Team size** 4
 - **Built With** No tags listed
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dianeyang/hackmit)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pongityping)
 - **All event prizes (1)** Synaptics, Inc. - Most Innovative project with Hover - 1st Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Synaptics** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -191,7 +191,7 @@ Turn on your phone's (flash) light and and use the handy touch controls to produ
 
 - **Team size** 2
 - **Built With** firebase
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/vsiao/Lightboard)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Firebase - Best use of Firebase · Grand Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -220,7 +220,7 @@ An online collection and viewer of PowerPoint presentations for large events/con
 - **Team size** 3
 - **Built With** No tags listed
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6cKSB5mMAFo)
 - **All event prizes (1)** Facebook
 - **Devpost checked** 2026-11-21 UTC
 - **Meta** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -391,7 +391,7 @@ Use Synaptics ForcePad to play a rhythm game - not a mundane one but with slidin
 - **Team size** 1
 - **Built With** No tags listed
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=mRfVJjCFLfY)
 - **All event prizes (1)** Synaptics, Inc. - Most Innovative project with ForcePad - 1st Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Synaptics** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -405,7 +405,7 @@ Vidego offers users the ability to perform text searches on the content of video
 - **Team size** 4
 - **Built With** No tags listed
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sXedTRAG5rU)
 - **All event prizes (1)** AlchemyAPI - Best Use of AlchemyAPI Award
 - **Devpost checked** 2026-11-21 UTC
 - **AlchemyAPI** The project page provides no specific sponsor integration detail in the indexed fields.

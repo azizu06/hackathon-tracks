@@ -38,7 +38,7 @@ For households across the United States, the single greatest usage of water is i
 
 - **Team size** 4
 - **Built With** desmos, esri, flask, national-weather-service-api, nextjs, nominatim, postgresql, python, supabase, typescript, wolfram-technologies
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/VSandwar74/evergreen-yhack-s24)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** ActualFood · Sustainability Award
 - **Devpost checked** 2026-11-21 UTC
@@ -52,8 +52,8 @@ Users can create a host profile and post their room on the map, along with detai
 
 - **Team size** 4
 - **Built With** figjam, figma, supabase, swift, swiftui
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ldang04/futon)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ckPW4HWQE9Q)
 - **All event prizes (1)** ActualFood
 - **Devpost checked** 2026-11-21 UTC
 - **Actual Food** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -66,7 +66,7 @@ AI Chatbot that helps bridge the gap between healthcare providers and patients b
 
 - **Team size** 4
 - **Built With** flask, html, huggingface, java, openai, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/reiyi-lai/yhacks-repro-health)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** ActualFood
 - **Devpost checked** 2026-11-21 UTC
@@ -80,8 +80,8 @@ Imagine if Person A speaks English and Person B speaks German.
 
 - **Team size** 2
 - **Built With** chakraui, gcloud, huggingface, mistral, nextjs, ngrok, openvoice, peerjs, python, react, supabase, typescript, webrtc
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/NandVinchhi/reslate)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=LU7aPZCt5uI)
 - **All event prizes (2)** ActualFood · Entertainment &amp; Media
 - **Devpost checked** 2026-11-21 UTC
 - **Actual Food** The project page provides no specific sponsor integration detail in the indexed fields.

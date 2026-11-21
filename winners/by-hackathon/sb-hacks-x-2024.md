@@ -23,7 +23,7 @@ Calculate carbon emissions from travel expense reports and verify thresholds usi
 - **Team size** 3
 - **Built With** css, flask, google-directions, javascript, python, react, starknet
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pJKejAEEwkU)
 - **All event prizes (1)** MLH - Best Use of Starknet
 - **Devpost checked** 2026-11-21 UTC
 - **Starknet** The project lists starknet among its Built With tags.
@@ -36,8 +36,8 @@ GotchuGaucho is a platform designed to connect party hosts with party-goers at U
 
 - **Team size** 4
 - **Built With** css, html, javascript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sanilkatula/GotchuGaucho)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_XnOOqrw9dc)
 - **All event prizes (1)** MLH - Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -50,8 +50,8 @@ ReadEasy: An AI-powered Google Docs add-on that transforms documents into access
 
 - **Team size** 2
 - **Built With** css, google-apps-script, html, javascript, openai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/byrencheema/ReadEasy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=wyKA449dB8w)
 - **All event prizes (1)** MLH - Best Use of Google Cloud
 - **Devpost checked** 2026-11-21 UTC
 - **Google** ReadEasy is an AI-powered Google Docs add-on that automatically reformats text, optimizes layouts, and ensures documents are screen-reader-friendly. Devpost gives no specific sponsor integration detail.

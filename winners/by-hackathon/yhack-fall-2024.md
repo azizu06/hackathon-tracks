@@ -31,7 +31,7 @@ ConvSim is not just another chatbot or simulation tool – it's a window into a 
 
 - **Team size** 2
 - **Built With** fastapi, fetchai, javascript, multi-agent, multithreading, openai, python, react, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/apurvagyan/conv-sim)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** FetchAI · Media/entertainment Track
 - **Devpost checked** 2026-11-21 UTC
@@ -45,7 +45,7 @@ Your AI learning assistant. Input topic, level, and duration for a tailored cour
 
 - **Team size** 2
 - **Built With** express.js, mern, mongodb, node.js, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/meetgandhii/CourseAI)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** ActualFood Award
 - **Devpost checked** 2026-11-21 UTC
@@ -59,7 +59,7 @@ courselrns is a full-stack project that takes in a user’s major and academic i
 
 - **Team size** 4
 - **Built With** docker, flask, intersystems, iris-intersystems, next.js, python, react, typescript, yaledeveloperapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/niksaitov/courselrns)
 - **Demo video** [Video 1](https://www.loom.com/share/49f9738af8f249c7879ba9f879e8962a)
 - **All event prizes (1)** Best DEI Hack sponsored by Fidelity
 - **Devpost checked** 2026-11-21 UTC
@@ -73,8 +73,8 @@ Cropscape analyzes location-specific soil, climate, and hardiness data to provid
 
 - **Team size** 4
 - **Built With** css, express.js, html, lightbox, node.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Superhero1015/YHack2024-25_Proj)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=iuZZZnOtsdk)
 - **All event prizes (1)** LightBox
 - **Devpost checked** 2026-11-21 UTC
 - **LightBox** The project lists lightbox among its Built With tags.
@@ -101,7 +101,7 @@ An accessible, interactive map of every county tract in the United States, with 
 
 - **Team size** 4
 - **Built With** javascript, lightbox, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dimaa-b/future_cities_index)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** LightBox
 - **Devpost checked** 2026-11-21 UTC
@@ -116,7 +116,7 @@ An Adobe add-on that generates a Reel/Short video from prompt.
 - **Team size** 4
 - **Built With** adobe-ad-on, ai, cloudflare, flask, gemini, javascript, tts
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dZgIqzT754Y)
 - **All event prizes (1)** Most Creative Adobe Express Add-On
 - **Devpost checked** 2026-11-21 UTC
 - **Adobe** The team built an Adobe Express add-on that helps user make educational or awareness reels/shorts faster by generating half of the work for them.
@@ -129,8 +129,8 @@ Struggling to catch up after missing classes? Tired of going through boring lect
 
 - **Team size** 4
 - **Built With** drizzleorm, flask, next.js, openai, postgresql, python, uagents, vercel, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kiriland/YHack2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=9G3IMeVYQMo)
 - **All event prizes (1)** FetchAI
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists uagents among its Built With tags.
@@ -143,8 +143,8 @@ Now, learning is made interactive and engaging, more than ever.
 
 - **Team size** 4
 - **Built With** fetch.ai, flask, llms, moviepy, openai, python, react, text-to-speech
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pulkitkalra28/yhack_frontend)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=F_PwJoNvFsM)
 - **All event prizes (1)** FetchAI
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Also used fetch.ai ai agents to deploy on test net - blockchain.
@@ -171,8 +171,8 @@ Want practice problems but LeetCode and HackerRank aren't enough? Sit Down and S
 
 - **Team size** 2
 - **Built With** caddy, cloudflare, docker, express.js, javascript, judge0, mongodb, openai-api, react, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/trentwiles/SitDownAndStudy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=XHelkVvScNQ)
 - **All event prizes (1)** Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** Sit Down and Study is a platform designed to help you improve your programming skills through LeetCode-style questions. Devpost gives no specific sponsor integration detail.

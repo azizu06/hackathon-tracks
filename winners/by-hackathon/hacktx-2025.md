@@ -34,7 +34,7 @@ Website that allows small business owners to create and manage their business's 
 - **Team size** 4
 - **Built With** digitalocean, javascript, next.js, react
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=9gLRo36z474)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of DigitalOcean Gradient™ AI
 - **Devpost checked** 2026-11-21 UTC
 - **DigitalOcean** The team built Agentify Web on DigitalOcean Gradient , leveraging its infrastructure to host and manage the AI agents.
@@ -47,8 +47,8 @@ An AI-powered space odyssey that transforms car buying into an interstellar adve
 
 - **Team size** 4
 - **Built With** css3, firebase, gemini, javascript, react, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/applea12X/Astraeus)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6AkRiYIPX7o)
 - **All event prizes (1)** Best Toyota Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Toyota Financial Services** Simplicity wins: Users prefer clear, guardrailed defaults, then progressively deeper control. Devpost gives no specific sponsor integration detail.
@@ -61,8 +61,8 @@ Giving AI coding agents the power to see by letting them visually explore the we
 
 - **Team size** 4
 - **Built With** fastapi, gemeniapi, gemenicomputeruse, openrouter, playwright?, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aabel4206/CodeUse)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pLatsP3nFF0)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini 2.5 Computer Use Model
 - **Devpost checked** 2026-11-21 UTC
 - **Google** So far, Ayn can take a developer’s natural-language request, parse it, and autonomously explore a live web app using the Gemini 2.5 Computer Use API.
@@ -75,8 +75,8 @@ Live Space-to-Sound (or any video): Pick an ISS/telescope livestream or paste a 
 
 - **Team size** 4
 - **Built With** gemini, nextjs, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/emw8105/hacktx-25)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=cLJeS1mnDq8)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** MLH Best Use of Gemini API: multimodal reasoning + optional Vertex SFT.
@@ -89,8 +89,8 @@ FiYota — data visualization tool to find your ideal Toyota financing options.
 
 - **Team size** 3
 - **Built With** next.js, react, recharts, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Abhijith-utla/Fiyota)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Zb64HnzlmBk)
 - **All event prizes (1)** Best Toyota Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Toyota Financial Services** FiYota is your friendly car-financing companion that helps you find the right Toyota and the right plan. Devpost gives no specific sponsor integration detail.
@@ -103,8 +103,8 @@ Multi-agent simulation platform for 2026 F1 strategy discovery and prediction. M
 
 - **Team size** 4
 - **Built With** gemini, javascript, node.js, python, react, tailwind, typescript, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/V-prajit/Guido)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=MhMhjy2-0aE)
 - **All event prizes (1)** Best NorthMark Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Northmark Compute &amp; Cloud** The system runs 1000+ realistic F1 races in 5 seconds, analyzes patterns with AI Agents, and provides a visual decision recommendation and opportunity cost analysis for every decision. Devpost gives no specific sponsor integration detail.
@@ -117,8 +117,8 @@ EcoFin Carbon calculates and visualizes the carbon footprint of your financial t
 
 - **Team size** 4
 - **Built With** auth0, ci/cd, express.js, gemini, javascript, mongodb, nessie, node.js, react, tailwind, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/arnavvalvekar/hacktx)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=QrL9U7CnT8Y)
 - **All event prizes (1)** Best Capital One Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** The project lists nessie among its Built With tags.
@@ -131,8 +131,8 @@ LapSynk: The AI copilot for race engineers. Using Gemini, Cloudflare, and Eleven
 
 - **Team size** 3
 - **Built With** autoprefixer, cloudflare, gemini, postcss, tailwind, typescript, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/csakilan/HackTX)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_g0CfT5yGKw)
 - **All event prizes (1)** Best NorthMark Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Northmark Compute &amp; Cloud** LapSynk is an AI-powered dashboard that gives race engineers real-time awareness of driver communication, telemetry, and AI reasoning. Devpost gives no specific sponsor integration detail.
@@ -145,8 +145,8 @@ Your AI-powered campus companion and navigation app with an autonomous robotic U
 
 - **Team size** 4
 - **Built With** arduino, css, elevenlabs, expo.io, firebase, gemini, lilypad, n8n, raspberry-pi, react-native, twilio, webhooks
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ahnaf-Muizz/Longhorns-Guide) · [Source 2](https://github.com/notzabir/HackTX)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YRbaXEND_-M)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of ARM
 - **Devpost checked** 2026-11-21 UTC
 - **Arm** The team built an intelligent, multilingual campus assistant that meets students wherever they are — on their phones, through chat, or even with a physical robot escort. Devpost gives no specific sponsor integration detail.
@@ -159,8 +159,8 @@ MyToyota simplifies car financing by matching users’ income, credit, and prefe
 
 - **Team size** 4
 - **Built With** css, express.js, html, javascript, mongodb, node.js, rag, react, tailwind, toyota, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/avishparekh06/my-toyota)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=t3-Gc6rqFt8)
 - **All event prizes (1)** Best Toyota Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Toyota Financial Services** MyToyota is an AI-driven platform that helps users find their perfect Toyota vehicle through intelligent recommendations and interactive experiences. Devpost gives no specific sponsor integration detail.
@@ -173,8 +173,8 @@ PitPerfect is an AI-powered F1 platform that detects car damage from footage and
 
 - **Team size** 4
 - **Built With** css, gemini, google-gemini-api, next.js, node.js, numpy, opencv, python, react, tailwind, three.js, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/CodyGargar/PitPerfect)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HPvYgMUh-NI)
 - **All event prizes (1)** &#91;MLH&#93; Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC
 - **.Tech Domains** PitPerfect analyzes race footage and telemetry data to detect car damage, assess severity, and recommend pit stop strategies in real time. Devpost gives no specific sponsor integration detail.
@@ -187,8 +187,8 @@ Instant, data-driven race strategy suggestions for teams.
 
 - **Team size** 4
 - **Built With** convex, digitalocean, flask, python, react, scikit-learn, terraform, three.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/phamleduy04/hacktx-25)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4SxP2n9fwpM)
 - **All event prizes (1)** &#91;MLH&#93; Best AI Application Built with Cloudflare
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudflare** This is deployed using Terraform to Cloudflare Workers .
@@ -201,8 +201,8 @@ Vigilant watches live campus cameras, detects visible weapons, and computes risk
 
 - **Team size** 4
 - **Built With** elevenlabs, gemini, gen-ai, python, react, roboflow, supabase
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rajpatel923/goonbytes)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=uu312-oYY3c)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The project lists elevenlabs among its Built With tags.
@@ -215,8 +215,8 @@ Bridging new F1 drivers and engineers with algorithmic strategy planning, real-t
 
 - **Team size** 4
 - **Built With** css3, html5, javascript, lucide, python, react, tailwindcss
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/iampritisee/hacktx)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=uKgWc20DsCs)
 - **All event prizes (1)** Best NorthMark Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Northmark Compute &amp; Cloud** Wheel Be Fine is a comprehensive driver-team integration and health monitoring platform that helps F1 teams reduce the learning curve with new drivers while promoting racer longevity through physiological analysis. Devpost gives no specific sponsor integration detail.

@@ -58,7 +58,7 @@ The team have learned how to build applications based on an initial image.
 
 - **Team size** 3
 - **Built With** docker, github, numpy, pillow, python, streamlit, streamlit-drawable-canvas, torch, torchvision
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Rodrigo-Munoz-Salas/AI_Image_Recognition)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Wolfi OS Container Security Hackathon
 - **Devpost checked** 2026-11-21 UTC
@@ -86,8 +86,8 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 
 - **Team size** 4
 - **Built With** c, c-sharp, embedded, hardware, metaxr, ngrok, opencv, python, pytorch, tcp, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/August-Druzgal/ShellHacks2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7rRxLXnresk)
 - **All event prizes (3)** Google · Microsoft · Second Best Overall
 - **Devpost checked** 2026-11-21 UTC
 - **Google** ARSL uses Computer Vision to detect objects through your Quest headset passthrough and translate detected objects into ASL alphabet. Devpost gives no specific sponsor integration detail.
@@ -129,7 +129,7 @@ Cloud Vault is a containerized file uploader using Chainguard Images for secure 
 
 - **Team size** 4
 - **Built With** chainguard, css3, docker, flask, html5, javascript, pip, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/lain561/CloudVault)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Wolfi OS Container Security Hackathon
 - **Devpost checked** 2026-11-21 UTC
@@ -143,8 +143,8 @@ Real-time computer vision software with fatigue detection system to improve acce
 
 - **Team size** 4
 - **Built With** azure, dlib, flask, opencv, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Alans44/DrowsyDriver) · [Source 2](https://github.com/javiiicz/drowsydriver-app)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OK4mCpxNzVs)
 - **All event prizes (1)** Google
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The system monitors and detects signs of drowsiness in the driver by analyzing facial landmarks and expressions. Devpost gives no specific sponsor integration detail.
@@ -157,8 +157,8 @@ Creating an aware and safer world by identifying emergencies which can improve m
 
 - **Team size** 4
 - **Built With** aiohttp, base64, collections, cv2, datetime, fastapi, gridfs, joblib, json, mongodb, numpy, openai, os, pandas, pickle, pil, pymongo, requests, shutil, sklearn, streamlit, torch, ultralytics, urllib
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/JocelynVelarde/Shell-Hacks-2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Z_LuQ_Ecl8Q)
 - **All event prizes (1)** Waymo
 - **Devpost checked** 2026-11-21 UTC
 - **Waymo** EmergencyAct is a real-time, video-based fall detection system designed specifically for public transport. Devpost gives no specific sponsor integration detail.
@@ -171,7 +171,7 @@ ESPER makes the Internet a safer place for those with epilepsy by dynamically ad
 
 - **Team size** 4
 - **Built With** chrome, digitalocean, java, javascript, snowflake, snowpark, streamlit, vert.x, youtube
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/LumaDevelopment/ESPER)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Assurant · Best Overall
 - **Devpost checked** 2026-11-21 UTC
@@ -241,7 +241,7 @@ FlowCast is an innovative web application that visualizes and analyzes water qua
 
 - **Team size** 2
 - **Built With** noaa-climate-data-online, pycharm, python, streamlit
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/amart0513/flowcast-web-app)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Streamlit
 - **Devpost checked** 2026-11-21 UTC
@@ -255,7 +255,7 @@ AI-driven solution designed to detect and prevent fraudulent financial transacti
 
 - **Team size** 2
 - **Built With** eda, github, google-colab, machine-learning, python, streamlit
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alimuhammad-creator/ShellHacksFIU)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** BNY AI-powered Financial Fraud Detection System
 - **Devpost checked** 2026-11-21 UTC
@@ -269,8 +269,8 @@ Using SQL, OpenAI, Flask to detect and report suspicious transactions.
 
 - **Team size** 3
 - **Built With** css, flask, html, javascript, openai, python, sql
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/z3nL/h2a)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rIAGdBaJAVE)
 - **All event prizes (1)** BNY AI-powered Financial Fraud Detection System
 - **Devpost checked** 2026-11-21 UTC
 - **BNY** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -283,8 +283,8 @@ Evacuate disaster safely with seamless ride sharing.
 
 - **Team size** 3
 - **Built With** docker, firebase, go, maps, mongodb, swift, swiftui, uikit
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/keshavbabu/shellhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=RhdyCijiCcE)
 - **All event prizes (1)** Waymo
 - **Devpost checked** 2026-11-21 UTC
 - **Waymo** hurrycane is a disaster evacuation ride-sharing app that connects people in need with volunteer drivers during emergencies. Devpost gives no specific sponsor integration detail.
@@ -297,8 +297,8 @@ Jet Setter traverses through a 2D array to access the different rows of seats an
 
 - **Team size** 3
 - **Built With** amazon-web-services, java, terraform
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/JessicaDLN811/Jetsetter)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=fXF7-o58v5s)
 - **All event prizes (1)** Assurant
 - **Devpost checked** 2026-11-21 UTC
 - **Assurant** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -311,7 +311,7 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 
 - **Team size** 1
 - **Built With** supabase, swift, swiftui
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/hlee18lee46/shellhacks)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
 - **Devpost checked** 2026-11-21 UTC
@@ -325,7 +325,7 @@ Calculate car lease payments, insurance, and track savings in one tool! Tailored
 
 - **Team size** 1
 - **Built With** customtkinter, matplotlib, python, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Jackal-HQ/Lease-Saving-Guide)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Capital One
 - **Devpost checked** 2026-11-21 UTC
@@ -339,7 +339,7 @@ The inspiration came from FIU's passion for hospitality and the potential of blo
 
 - **Team size** 4
 - **Built With** hardat, ipfs, metamaskapi, nextjs, react, scaffoldeth, speedruneth, sqlite, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/npastrami/lvlupmiami)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** ETH Miami
 - **Devpost checked** 2026-11-21 UTC
@@ -353,7 +353,7 @@ LocalPulse is an innovative app that allows users to connect with their communit
 
 - **Team size** 4
 - **Built With** api, claude, computer-vision, deep-translator, docker, gemini, gis, google, google-cloud, google-generativeai, google-maps, google-sql, langchain, langchainn, lucidchart, matplotlib, natural-language-processing, numpy, openai, pandas, plotly, postgresql, pydantic, pytorch, scikit-learn, smarthub, streamlit, systems-design, textblob
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SquizAI/fiu_hack)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Waymo
 - **Devpost checked** 2026-11-21 UTC
@@ -367,8 +367,8 @@ Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting
 
 - **Team size** 3
 - **Built With** chainguard, svelte, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/brianush1/leetcode-ai)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_Cjp8x99bII)
 - **All event prizes (1)** Wolfi OS Container Security Hackathon
 - **Devpost checked** 2026-11-21 UTC
 - **Chainguard** The project lists chainguard among its Built With tags.
@@ -381,7 +381,7 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 
 - **Team size** 4
 - **Built With** axios, chatgpt, computer-vision, expo.io, firebase, flask, google-vision, huggingface, javascript, mongodb, python, react-native, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kgand/shellhacks2024)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (3)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Assurant · Microsoft
 - **Devpost checked** 2026-11-21 UTC
@@ -397,8 +397,8 @@ The inspiration for this project stems from a deep commitment to support the lov
 
 - **Team size** 4
 - **Built With** flask, micropython, python, raspberry-pi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Cantinadream/Big_Back_ShellHack2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4qyCfR1vNoE)
 - **All event prizes (1)** Patient Safety Technology
 - **Devpost checked** 2026-11-21 UTC
 - **Patient Safety Technology Challenge** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -412,7 +412,7 @@ The inspiration for this project stems from a deep commitment to support the lov
 - **Team size** 2
 - **Built With** ai, firebase, python, streamlit
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=bONR9Nu1-Cw)
 - **All event prizes (1)** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cafe Cultura** Mercado is a micro-investment platform that allows users to browse and invest in Latino-owned small businesses. Devpost gives no specific sponsor integration detail.
@@ -439,7 +439,7 @@ Personalized Financial Score: Based on income, spending, and dependents to track
 
 - **Team size** 4
 - **Built With** figma, javascript, openai, react, tailwind, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/IsmailAbousalem/Prospera)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Vanguard
 - **Devpost checked** 2026-11-21 UTC
@@ -468,7 +468,7 @@ The AR app reinvents the classic shuttle run by having users chase randomly spaw
 - **Team size** 2
 - **Built With** javascript, lensstudio, snapchat, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=fIQ6sltKv1w)
 - **All event prizes (1)** Snap AR Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** The project lists lensstudio among its Built With tags.
@@ -481,7 +481,7 @@ SmartCards is a user-friendly addon for your budgeting app to help you better ca
 
 - **Team size** 3
 - **Built With** express.js, flask, kaggle, node.js, openai, react, tailwindcss, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/chasereyn/smart-cards)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Capital One
 - **Devpost checked** 2026-11-21 UTC
@@ -495,8 +495,8 @@ AR Game created in Snapchat's Lens Studio 5 using Javascript, Typescript, and Gi
 
 - **Team size** 4
 - **Built With** ar, genai, github, javascript, lens-studio, snapchat, snapchat-spectacles, typescript, visual-studio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/wakens/spectacles-tower-defense)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rfoBo7SyMh4)
 - **All event prizes (1)** Snap AR Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** Created using Lens Studio 5, using scripts made with Typescript and Javascript .
@@ -523,7 +523,7 @@ The team offer many different ways for people to improve their finances.
 
 - **Team size** 4
 - **Built With** css, html, openai, python, streamlit
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Juuicee/ShellHacks-2024)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Statefarm
 - **Devpost checked** 2026-11-21 UTC
@@ -537,7 +537,7 @@ An accessible white-boarding app to voice your ideas into existence.
 
 - **Team size** 3
 - **Built With** gemini, google, next, react, tailwind, trpc, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/DVidal1205/voiceboard)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Google
 - **Devpost checked** 2026-11-21 UTC
@@ -551,7 +551,7 @@ A real time LLM based threat identification application.
 
 - **Team size** 2
 - **Built With** cv2, firebase, flutter, gemini, promptengineering, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nikil1506/ShellHacks-WatchDog)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Auth0
 - **Devpost checked** 2026-11-21 UTC

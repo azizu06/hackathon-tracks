@@ -28,7 +28,7 @@ Anticipate and respond to supply chain disruptions by analyzing current events, 
 
 - **Team size** 4
 - **Built With** aryn, firebase, singlestore, terraform
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SBHacksXI/ml-backend) · [Source 2](https://github.com/SBHacksXI/terraform_aws)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** MLH - Best Use of Terraform
 - **Devpost checked** 2026-11-21 UTC
@@ -42,8 +42,8 @@ Helps UCSB and SBCC students in IV locate housing. Powered by a data ingestion p
 
 - **Team size** 4
 - **Built With** aryn, claude, django, google-maps, maplibre, pnpm, python, scoop, svelte, sveltekit, sycamore, typescript, uv
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/youwen5/gauchohousing)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NNIs7zczSBQ)
 - **All event prizes (1)** Best use of Sycamore (Aryn)
 - **Devpost checked** 2026-11-21 UTC
 - **Aryn** The team don't generate anything new with Claude, and all of the actual information comes from Aryn's parsing.
@@ -57,7 +57,7 @@ In addition, the live scraping of academic databases and the future goals of scr
 - **Team size** 4
 - **Built With** aryn, firebase, flask, gpt, nextjs, python, react, singlestore, sycamore
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=L52sdmP66Yo)
 - **All event prizes (1)** Best use of Sycamore (Aryn)
 - **Devpost checked** 2026-11-21 UTC
 - **Aryn** The project lists aryn among its Built With tags.
@@ -70,8 +70,8 @@ Building NetZero was an incredible journey of growth and innovation.
 
 - **Team size** 3
 - **Built With** css, html, javascript, sql
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SagnikBiswasDL/SBHacksShared2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3oaDyCyiX6o)
 - **All event prizes (1)** MLH - Sauce Labs Hot Sauce Raffle
 - **Devpost checked** 2026-11-21 UTC
 - **Sauce Labs** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -84,8 +84,8 @@ ReCapture: Unlock the World, One Memory at a Time.
 
 - **Team size** 4
 - **Built With** express.js, react-native, singlestore
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/NathanRLiu/reCapture)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=BBudE_SngUo)
 - **All event prizes (1)** Snag Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Snag** Familiar areas (your immediate radius) are not grayed, while darker areas with pins mark uncharted spots—places your friends have explored but you haven’t… yet. Devpost gives no specific sponsor integration detail.
@@ -112,8 +112,8 @@ Matching students at college dining halls together for friendships.
 
 - **Team size** 4
 - **Built With** bootstrap, flask, javascript, python, react, singlestore, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KPawar0629/matchup-sbhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=40n7d0nfOBU)
 - **All event prizes (1)** Best use of SingleStore
 - **Devpost checked** 2026-11-21 UTC
 - **SingleStore** The team used React, Bootstrap, Vite for the frontend and Flask/Singlestore for the backend.
@@ -126,8 +126,8 @@ Anonymous voting platform powered by the Midnight Blockchain. Students can now v
 
 - **Team size** 3
 - **Built With** anchor, midnight, next.js, npm, react, rust, solana, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Edwin-Yee/SBHacks-XI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Bm5nX9-Txrg)
 - **All event prizes (2)** MLH - Best .Tech Domain Name · MLH - Best Use of Midnight
 - **Devpost checked** 2026-11-21 UTC
 - **.Tech Domains** VotEdu uses Google's Authentication platform to validate that the user's profile is coming from an educational domain (.edu). Devpost gives no specific sponsor integration detail.

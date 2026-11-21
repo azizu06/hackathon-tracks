@@ -39,8 +39,8 @@ The practice audience that helps you show up for the real one.
 
 - **Team size** 4
 - **Built With** arduino, c++, css, deepgram, fastapi, git, google-gemini, html, javascript, mediapipe, postgresql, psycopg, pyserial, python, react, sqlalchemy, supabase, typescript, uvicorn, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Shimal-Tajale/DevilsAdvocatesSpeechBot)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sCO3z-yDLLk)
 - **All event prizes (1)** &#91;SerpApi&#93; Best Use of SerpApi
 - **Devpost checked** 2026-11-21 UTC
 - **SerpApi** Audience question: Gemini picks a claim, SerpApi runs one Google search (with social media filtered out), and Gemini writes a sourced question.
@@ -54,7 +54,7 @@ Once you describe a job, Astronom builds a budgeted, permission-checked AI agent
 - **Team size** 4
 - **Built With** composio, drizzle-orm, meta-muse-spark-1.3, muse, next.js, react, serpapi, sqlite, supabase, tailwind-css, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Xa1DizYqCy0)
 - **All event prizes (1)** &#91;NMC2&#93; Build the Platform Behind the Agent
 - **Devpost checked** 2026-11-21 UTC
 - **Northmark Compute &amp; Cloud** Astronom is a platform for creating and managing teams of AI agents. Devpost gives no specific sponsor integration detail.
@@ -67,8 +67,8 @@ Every attacker leaves a trail! Breadcrumbs traps real hackers in a fake server, 
 
 - **Team size** 4
 - **Built With** anthropic, asyncssh, caddy, claude, docker, fastapi, figma, framer-motion, next.js, openapi, postgresql, pydantic, python, react, react-three-fiber, redis, serpapi, three.js, tiger-data, timescaledb, typescript, vercel, vultr, websockets, zustand
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aryansvt/hacktx2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=SOlFxgQSVgk)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** The project lists vultr among its Built With tags.
@@ -81,8 +81,8 @@ One unexpected expense can trigger a chain of financial crisis. BreakingPoint bu
 
 - **Team size** 3
 - **Built With** fastapi, gemini, nessie, next.js, python, react, react-flow, serpapi, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/MMehta45/hacktx26)
+- **Demo video** [Video 1](https://vimeo.com/1239255718)
 - **All event prizes (1)** &#91;Capital One&#93; The Best Use of Nessie
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** The project lists nessie among its Built With tags.
@@ -95,8 +95,8 @@ Your friends shouldn't have to ask. CloseMates gives everyone a FirstMate, an AI
 
 - **Team size** 3
 - **Built With** cloudflare, express.js, gemini, gmail-api, google-calendar-api, google-maps, google-oauth, meta-muse-spark, node.js, postgresql, render, serpapi, swift, swiftui, timescale, typescript, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sendtovishnu/hacktx26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dcHFqio6nO0)
 - **All event prizes (1)** &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI
 - **Devpost checked** 2026-11-21 UTC
 - **Meta** The project lists meta-muse-spark among its Built With tags.
@@ -109,8 +109,8 @@ Dance Fantasy turns any song into an original dance routine, taught by a 3D danc
 
 - **Team size** 4
 - **Built With** aist++, claude-code, cursor, fastapi, gemini-tts, google-gemini, grok, librosa, mediapipe, meta-muse, numpy, postgresql, python, react, serpapi, three.js, tiger-data, timescaledb, typescript, vercel, vercel-blob, vite, web-audio-api
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/luvudeshi/dance-fantasy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DB1vOln3nSA)
 - **All event prizes (2)** &#91;Best Overall&#93; Cinderella's Castle · &#91;SerpApi&#93; Best Use of SerpApi
 - **Devpost checked** 2026-11-21 UTC
 - **SerpApi** The project lists serpapi among its Built With tags.
@@ -123,8 +123,8 @@ Physical Robot Icebreaker Game; Fate, with a little help from Tina.
 
 - **Team size** 4
 - **Built With** 3d-printing, anchor, apple-vision-pro, c++, esp32, express.js, instagram-graph-api, muse-spark, nfc, node.js, opencv, platformio, python, raspberry-pi, react, render, rust, solana, sqlite, swift, tigerdb, token-2022, typescript, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Dhivyeshp/hacktx_26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=V9zV0iFYMNA)
 - **All event prizes (1)** &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI
 - **Devpost checked** 2026-11-21 UTC
 - **Meta** Destina is a tabletop party game for a group of friends, hosted by Tina. Devpost gives no specific sponsor integration detail.
@@ -137,8 +137,8 @@ Diagnosis, coverage and care in one.
 
 - **Team size** 4
 - **Built With** ai-agent, blender, javascript, python, react, three.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/buildingBuild/HackTX-Project)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=itEdbNrkp0M)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Snowflake API · &#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Snowflake** Low severity: repair guides and videos for that exact car and fault code. Devpost gives no specific sponsor integration detail.
@@ -152,8 +152,8 @@ New city, used car, nobody to ask? Junction finds owners who’ve had your probl
 
 - **Team size** 4
 - **Built With** django, gemini, google-adk, javascript, muse-ai, python, react, serp-api, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/madmax-10/junction)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=kixGH1NAsAo)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The team designed Junction around a multi-agent architecture using Google Agent Development Kit (ADK) and Gemini .
@@ -166,8 +166,8 @@ A quiet voice in your ear that remembers the people you love.
 
 - **Team size** 4
 - **Built With** alarmmanager, android, android-keystore, android-studio, bluetooth, computer-vision, gradle, jetpack-compose, kotlin, llm, material-design, meta, meta-ai, meta-wearables-device-access-toolkit, muse, muse-spark, muse-voice-transcribe, ray-ban-meta, speech-recognition, text-to-speech
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/harshaldhaduk/myst)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3lROw3SQE4s)
 - **All event prizes (1)** &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI
 - **Devpost checked** 2026-11-21 UTC
 - **Meta** 🛣️ Next: testing with strangers and with no one in view, timed end-to-end runs, Meta's accessibility approval, alerts for remote family, and testing the voice with real caregivers.
@@ -180,8 +180,8 @@ Repair, Replace or Wait? NextMove lets you know.
 
 - **Team size** 4
 - **Built With** muse, next.js, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ryandherb/hacktx-26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aazkUzhLwqo)
 - **All event prizes (1)** &#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Toyota Financial Services** NextMove helps Toyota owners explore whether to repair and keep their current vehicle, trade it in for a newer Toyota, or refinance an existing auto loan. Devpost gives no specific sponsor integration detail.
@@ -194,8 +194,8 @@ NextMove has two surfaces running on one decision engine.
 
 - **Team size** 4
 - **Built With** claude-agent-sdk, fastapi, framer-motion, gemini, mcp, msw, next.js, openapi, pnpm, postgresql, pydantic, pytest, python, react, react-three-fiber, recharts, serpapi, shadcn-ui, supabase, tailwindcss, tanstack-table, three.js, typescript, uv, web-speech-api
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Vswashah/toyota-next)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dPjd3_zd6So)
 - **All event prizes (1)** &#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Toyota Financial Services** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -209,7 +209,7 @@ Orkis makes it easy for people and enterprise teams to launch and manage AI agen
 - **Team size** 2
 - **Built With** alembic, better-auth, caddy, claude, docker, fastapi, firecracker, hermes-agent, mcp, meta-muse, next.js, postgresql, pydantic, python, react, react-flow, serpapi, shadcn/ui, sqlalchemy, tailwind-css, typescript, vultr
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=GxNBCI4yyYI)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** Building an agent shouldn't become another IT ticket. Devpost gives no specific sponsor integration detail.
@@ -222,8 +222,8 @@ A world of stories. A story only you can tell.
 
 - **Team size** 4
 - **Built With** anime.js, d3-geo, docker, fastapi, gemini-api, github, leaflet.js, meta-model-api, numpy, postgresql, python, railway, react, serpapi, sqlite, tailwind-css, three.js, tiger-data, topojson, typescript, uvicorn, vite, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/TanishC4444/ParaMyth)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=nDaxrcF-xis)
 - **All event prizes (1)** &#91;SerpApi&#93; Best Use of SerpApi
 - **Devpost checked** 2026-11-21 UTC
 - **SerpApi** The project lists serpapi among its Built With tags.
@@ -236,8 +236,8 @@ Reagent is a platform that helps teams build, test, and deploy reusable AI agent
 
 - **Team size** 4
 - **Built With** api, claude, data, fastapi, github, json, langchain, langgraph, next.js, node.js, openapi, openrouter, postgresql, psycopg, pydantic, pytest, python, react, tiger, timescaledb, typescript, uvicorn, yaml
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/hanhg/Reagent)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=1d5MmQX5EGY)
 - **All event prizes (1)** &#91;NMC2&#93; Build the Platform Behind the Agent
 - **Devpost checked** 2026-11-21 UTC
 - **Northmark Compute &amp; Cloud** Reagent is an enterprise AI agent platform that standardizes how agents are created, configured, tested, deployed, and monitored. Devpost gives no specific sponsor integration detail.
@@ -250,8 +250,8 @@ Helping employee ideas get off the ground.
 
 - **Team size** 2
 - **Built With** capital-one, claude, clerk, docker, eve, fastify, google-gemini, javascript, next.js, node.js, python, react, serpapi, sqlite, tailwind, typescript, vercel, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/malki-aal/MalakaiSaleh_H26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=RvQH93zIyyM)
 - **All event prizes (1)** &#91;MLH&#93; Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC
 - **.Tech Domains** An employee describes an item, quantity, budget, deadline, and required specifications. Devpost gives no specific sponsor integration detail.
@@ -264,8 +264,8 @@ The full-lifecycle platform for enterprise AI agents: build from shared parts, c
 
 - **Team size** 1
 - **Built With** claude-code, github-actions, google-gemini, groq, javascript, mcp-handler, model-context-protocol, next.js, node.js, pglite, postgres.js, postgresql, react, shadcn-ui, supabase, tailwindcss, typescript, vercel, vercel-ai-sdk, vitest, webassembly, yaml, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Suvan8806/shipyard)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=kCbge5WdPYM)
 - **All event prizes (1)** &#91;NMC2&#93; Build the Platform Behind the Agent
 - **Devpost checked** 2026-11-21 UTC
 - **Northmark Compute &amp; Cloud** Shipyard is the platform behind the agent. Devpost gives no specific sponsor integration detail.
@@ -279,7 +279,7 @@ AI-native workflows, built straight from your existing SOPs.
 - **Team size** 2
 - **Built With** caddy, capital-one-nessie, docker, fastapi, google-finance, google-gemini, google-oauth, lucide, next.js, postgresql, pytest, python, react, sec-edgar, serp-api, simpleeval, tailwind-css, tiger-data, timescaledb, typescript, uvicorn, vultr
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=v9erU_vIlWk)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Tiger Data
 - **Devpost checked** 2026-11-21 UTC
 - **Tiger Data** Tiger Data stores SOPs and their versions, along with a full trace of every run.
@@ -292,8 +292,8 @@ Every one of the team has struggled with being the "new kid" at school, or just 
 
 - **Team size** 4
 - **Built With** claude, css, gemini, grok, postgresql, python, react, serpapi, snowflake, tigerdata, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ethanwashere1/HackTX-Project)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=gzq8r-Xo2YY)
 - **All event prizes (1)** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
 - **Devpost checked** 2026-11-21 UTC
 - **SpaceXSI** The project page provides no specific sponsor integration detail in the indexed fields.

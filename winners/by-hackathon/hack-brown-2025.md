@@ -41,7 +41,7 @@ An all-in-one app for understanding medical documentation and tracking medicatio
 - **Team size** 4
 - **Built With** augmented-reality, express.js, firebase, javascript, mongodb, node.js, openai, swift, terraform
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=hecJHlorSy0)
 - **All event prizes (1)** Best Use of Terraform
 - **Devpost checked** 2026-11-21 UTC
 - **HashiCorp** The project lists terraform among its Built With tags.
@@ -54,8 +54,8 @@ Accelerating clinical decision-making with AI-driven patient simulations, real-t
 
 - **Team size** 2
 - **Built With** amazon-web-services, css, javascript, node.js, openai, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/CharlesJoseph2003/Hack-Brown2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VQALHk_1ff0)
 - **All event prizes (1)** Best Use of AI powered by Reach Capital
 - **Devpost checked** 2026-11-21 UTC
 - **Reach Capital** MediSim is an dynamic medical education simulation platform that empowers medical professionals to enhance patient care through life like avatar interactions. Devpost gives no specific sponsor integration detail.
@@ -68,8 +68,8 @@ An LLM-powered web game curated for children to improve their debate and convers
 
 - **Team size** 4
 - **Built With** mongodb, openai, react, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alfardil/Hack-at-Brown-2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=MbhPdRFqeb4)
 - **All event prizes (1)** Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** React for frontend MongoDB backend Used OpenAI API.
@@ -97,7 +97,7 @@ Signify brings AI into the web accessibility space.
 - **Team size** 4
 - **Built With** amazon-bedrock, amazon-ec2, amazon-media-convert, amazon-transcribe, amazon-web-services, dynamodb, lambda, natural-language-processing, nextjs, node.js, python, react
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=b_AvCD3fC-I)
 - **All event prizes (1)** Best Use of AWS
 - **Devpost checked** 2026-11-21 UTC
 - **Amazon Web Services** Text-to-ASL conversion using AWS Bedrock Speech-to-Text using Amazon Transcribe Real-time processing via Lambda functions.

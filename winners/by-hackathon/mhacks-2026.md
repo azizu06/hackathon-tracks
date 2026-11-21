@@ -55,7 +55,7 @@ The wireless camera bear that watches, remembers, and answers when you ask.
 - **Team size** 1
 - **Built With** esp32, figma, grok, neon, relay
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=iHHdCwF_NRU)
 - **All event prizes (1)** Relay Interactive Agents Track Winner
 - **Devpost checked** 2026-11-21 UTC
 - **Relay** The project lists relay among its Built With tags.
@@ -68,7 +68,7 @@ An AI agent crew that checks your medical bill against what actually happened at
 
 - **Team size** 4
 - **Built With** agentverse, asi-one, fastapi, fetch-ai, finchnode, grok-realtime, notability, postgresql, python, relay, telnyx, uagents, websockets, xai-voice
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tiwari-ira/amyna)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Relay Interactive Agents Track Winner
 - **Devpost checked** 2026-11-21 UTC
@@ -83,7 +83,7 @@ Elevated and autonomous security for the vibe coded world. Argus deploys five sp
 - **Team size** 2
 - **Built With** asi:one, browserbase, elevenlabs, fetch.ai, figma, neon, notability, photon, relay, spacetimedb
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=P7_du8KrKDo)
 - **All event prizes (1)** Best Use of Neon Backend
 - **Devpost checked** 2026-11-21 UTC
 - **Neon** The project lists neon among its Built With tags.
@@ -96,8 +96,8 @@ A job board holds payment in escrow until a worker submits the agreed proof of c
 
 - **Team size** 4
 - **Built With** activitykit, amazon-bedrock, amazon-dynamodb, amazon-web-services, apns, apple-pay, aws-cdk, aws-lambda, base, claude, coinbase, foundry, hono, node.js, solidity, spacetimedb, sqlite, stripe, stripe-connect, swift, swiftui, typescript, usdc
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AlanRoybal/mhacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vXkbfQ2L-Gc)
 - **All event prizes (1)** Figma Best Design Track
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** Post a job with a price, location and deadline. Devpost gives no specific sponsor integration detail.
@@ -110,8 +110,8 @@ Everyday glasses that watch high-risk hearts and speak up before an emergency.
 
 - **Team size** 3
 - **Built With** c++, elevenlabs, esp32, fastapi, finchnode, gemini, imu, machine-learning, photon, ppg, python, railway
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tTong32/CardioGlasses)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=-MuYmrTTWag)
 - **All event prizes (1)** FinchNode (HealthTech)
 - **Devpost checked** 2026-11-21 UTC
 - **FinchNode** The project lists finchnode among its Built With tags.
@@ -124,8 +124,8 @@ A shared editor lets teammates work on a video together with help from AI assist
 
 - **Team size** 4
 - **Built With** gemini, google, json, spacetimedb, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/anuragsk05/CoClip)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0Oz84yuXpbE)
 - **All event prizes (1)** Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** CoClip is essentially Google Docs for video editing . Devpost gives no specific sponsor integration detail.
@@ -138,8 +138,8 @@ Amex Concierge on steroids for small businesses: text a problem, AI agents and r
 
 - **Team size** 3
 - **Built With** cursor, eleven-labs, openai, photon
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sszz01/zero-knowledge-team)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=9dYmaWoG2a8)
 - **All event prizes (1)** Photon iMessage Agents Track Winner
 - **Devpost checked** 2026-11-21 UTC
 - **Photon** The project lists photon among its Built With tags.
@@ -152,8 +152,8 @@ A multiplayer battle game turns drawings submitted from phones into in-game weap
 
 - **Team size** 3
 - **Built With** asi:one, elevenlabs, fetch.ai, gemini-api, javascript, pixijs, python, spacetimedb, three.js, typescript, uagents, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/mayozoz/mhacks26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=B1xxp1ZwI_0)
 - **All event prizes (1)** Best Project Built with ElevenLabs Winner
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** Gemini transforms submitted doodles into weapon artwork, while ElevenLabs provides custom weapon sounds and spoken announcements.
@@ -166,7 +166,7 @@ A computer control interface uses eye tracking to point and speech to issue comm
 
 - **Team size** 4
 - **Built With** elevenlabs-api, gemini-3.5-flash-lite-api, git, javascript, jev-/-typesafe-ai-api, next.js, react, tailwind-css, typescript, vercel, web-speech-api, webgazer.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dakshshahani/mhacks)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Figma Best Design Track
 - **Devpost checked** 2026-11-21 UTC
@@ -180,8 +180,8 @@ A billing assistant reviews medical bills and organizes evidence that patients c
 
 - **Team size** 4
 - **Built With** anime.js, capital-one-nessie, finchnode, fish-audio, next.js, node.js, openai-api, photon-spectrum, react, sqlite, three.js, typescript, unpdf, vitest
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SNBest1/medical-bill-guardian)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WQIiy8kV0qI)
 - **All event prizes (1)** Best Use of Nessie @ Capital One
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** The project lists capital-one-nessie among its Built With tags.
@@ -194,8 +194,8 @@ Two exes, two agents, zero awkward conversations.
 
 - **Team size** 2
 - **Built With** anthropic, aws-lightsail, caddy, claude, css, docker, framer-motion, html, imessage, neon, node.js, photon, postgresql, react, spectrum-ts, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/PRANAVMAHALINGAM/gudtrms)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8O_62JRIgR4)
 - **All event prizes (1)** &#91;MLH&#93; Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC
 - **.Tech Domains** gudtrms ("good terms") is a breakup mediator that lives in iMessage. Devpost gives no specific sponsor integration detail.
@@ -208,8 +208,8 @@ A robotics team collects human skiing and hiking motions to train a humanoid on 
 
 - **Team size** 4
 - **Built With** cloudflare, core-location, coremotion, gear-sonic, huggingface, imessage, mediapipe, modal, mujoco, node.js, openstreetmap, photon, presage, python, pytorch, spacetimedb, spectrum, swiftui, three.js, typescript, unitree-g1, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/RyanRana/skibot)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OutFnDuQV00)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Presage
 - **Devpost checked** 2026-11-21 UTC
 - **Presage** Using Presage’s SmartSpectra, the webcam reads heart rate and breathing to identify, on average, the more physically demanding parts of the path.
@@ -222,8 +222,8 @@ An apartment search assistant helps people moving to the US find listings, conta
 
 - **Team size** 2
 - **Built With** agentverse, asi:one, browser-use, css, elevenlabs, fastapi, fetch.ai, gemini, google-cloud-run, google-places, html, javascript, jev, mapi, notability, pipecat, playwright, python, relay, twilio, typesafe, uagents, veo, vertex-ai, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kbhatnagar1506/homie)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=zl_fpA4hX9Q)
 - **All event prizes (2)** Best Use of Notability Winner · FetchAI ASI:One Agent Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The whole workflow runs inside an ASI:One conversation: request, pick buildings by replying with numbers, live progress, the held deal, the application, and the Payment Protocol fee.
@@ -238,7 +238,7 @@ Clinical trials lose millions recruiting, while patients miss life-saving treatm
 - **Team size** 4
 - **Built With** css3, fhir, finchnode, gemini, google-gemini-api, html5, javascript, loinc, mammoth.js, mcp, neon, node.js, notability, pdf.js, postgresql, rest-api, serverless, vercel, vercel-serverless-functions
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Fg-wfUvkk1U)
 - **All event prizes (1)** FinchNode (HealthTech)
 - **Devpost checked** 2026-11-21 UTC
 - **FinchNode** The project lists finchnode among its Built With tags.
@@ -251,8 +251,8 @@ Smart glasses for the glasses you already own.
 
 - **Team size** 4
 - **Built With** agentverse, anthropic, arduino, asi:one, cloudflare, elevenlabs, esp32, fastapi, fetch.ai, figma, gemini, neon, openai, pgvector, postgresql, python, react, react-three-fiber, tailwindcss, three.js, transformers.js, typescript, vite, webxr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/MxvsAtv321/iris)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Kj8Vx696fQY)
 - **All event prizes (1)** Best Use of Neon Backend
 - **Devpost checked** 2026-11-21 UTC
 - **Neon** Memory runs as a Neon Function right next to a Postgres database.
@@ -265,8 +265,8 @@ A wearable AI agent that detects patterns in elder patients to provide life-savi
 
 - **Team size** 2
 - **Built With** airpods, blender, cloudflare-pages, core-motion, css, elevenlabs, finchnode, free-wili, html, javascript, node.js, notability, ollama, photon, python, qwen, spectrum, sqlite, swift, three.js, typescript, websockets, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Taz33m/mhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ETHa01jEUWA)
 - **All event prizes (2)** Best Use of FREE-WILi · FinchNode (HealthTech)
 - **Devpost checked** 2026-11-21 UTC
 - **FinchNode** The project lists finchnode among its Built With tags.
@@ -280,8 +280,8 @@ Meet the right people. Only when it's mutual.
 
 - **Team size** 4
 - **Built With** c, c++, claude, freewili, spacexai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/maiaPaperTowns/mutuals)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UMzRICNUTBQ)
 - **All event prizes (1)** Best Use of FREE-WILi
 - **Devpost checked** 2026-11-21 UTC
 - **FREE-WILi** Mutuals is a networking agent that lives on the web, with a live map and a physical badge as companions. Devpost gives no specific sponsor integration detail.
@@ -294,8 +294,8 @@ A hardware wallet shows who will receive a payment and what the user is about to
 
 - **Team size** 3
 - **Built With** arduino, bluetooth, c++, capital-one-nessie, docker, esp-now, esp32, javascript, lua, monocypher, node.js, postgresql, python, react, solana, solana-attestation-service, spl-token, timescaledb, vite, wifi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ayushmk7/NoBadgeActors)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZWM99jsHEmQ)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Solana · Judged by an LLM
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** The project lists solana, solana-attestation-service among its Built With tags.
@@ -308,8 +308,8 @@ A learning app helps users explore stock movements and practice investment decis
 
 - **Team size** 1
 - **Built With** alpaca, eas, expo.io, fastapi, finnhub, jev, native, openai, openrouter, python, railway, react, spacetimedb, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/daniel3606/Orbit_MHacks26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Mj4wTCKH8oE)
 - **All event prizes (1)** Figma Best Design Track
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** Orbit is an AI-powered stock discovery and paper-trading app designed for people who are new to investing. Devpost gives no specific sponsor integration detail.
@@ -322,8 +322,8 @@ Space traffic control for the 99% of operators without a control room. Orbit Wat
 
 - **Team size** 1
 - **Built With** celestrak, cesiumjs, cursor, cursor-cloud-agents, grok, grok-bot, grok-imagine, grok-voice, next.js, react, resium, satellite.js, sgp4, socrates, spacetimedb, tailwindcss, typescript, vercel, vitest, xai-api
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ArunimaV/orbit-watch)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=eroKaUhp6zY)
 - **All event prizes (1)** SpaceXAI Make it Legendary Track Winner
 - **Devpost checked** 2026-11-21 UTC
 - **SpaceXAI** Orbit Watch is a Grok voice copilot for space traffic. Devpost gives no specific sponsor integration detail.
@@ -336,8 +336,8 @@ A rehab-game station where four agents filter, fact-check, decide and act, and s
 
 - **Team size** 1
 - **Built With** agentverse, asi:one, c, fetch.ai-uagents, freewili-og, python, rp2040, supabase, tkinter
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Dee-1862/Ocra)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=x5cxIVRhaSU)
 - **All event prizes (1)** Best Use of FREE-WILi
 - **Devpost checked** 2026-11-21 UTC
 - **FREE-WILi** Orca turns FreeWili OG devices into a two-handed rehab game station. Devpost gives no specific sponsor integration detail.
@@ -350,8 +350,8 @@ Your car already knows what's wrong. Otto uses a FREE-WILi and AI to turn its tr
 
 - **Team size** 4
 - **Built With** anthropic-api, can-bus, claude, css, fastapi, free-wili, html, iso-tp, javascript, neptune, nhtsa-vpic, obd-ii, pillow, pytest, python, uds, uvicorn, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ahmedokab/Otto)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=xWVCFWSz0_4)
 - **All event prizes (1)** Best Use of FREE-WILi
 - **Devpost checked** 2026-11-21 UTC
 - **FREE-WILi** The Otto assistant lives on the FREE-WILi: the FREE-WILi's own screen runs the Otto assistant.
@@ -364,8 +364,8 @@ A content planning tool simulates how an audience might respond to competing pos
 
 - **Team size** 2
 - **Built With** agentverse, anthropic, asi:one, claude, clerk, codex, elevenlabs, fetch.ai, ffmpeg, figma, grok-imagine, openai, pydantic, python, radix-ui, react, spacetimedb, typescript, uagents, vercel, vite, x-api
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/irfan-firosh/ripple)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=T5fnHDuklZo)
 - **All event prizes (1)** FetchAI ASI:One Agent Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists agentverse, asi:one, fetch.ai, uagents among its Built With tags.
@@ -392,8 +392,8 @@ Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from 
 
 - **Team size** 4
 - **Built With** .tech, blender, c#, cloudflare, elevenlabs, finchnode, github, hono, ios, javascript, meta, mintlify, motion, next.js, node.js, opencv, presage, python, pytorch, react, spacetimedb, typescript, unity, vercel, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/stephenhungg/scalpal)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=9m1Pt74R2lY)
 - **All event prizes (1)** Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -406,7 +406,7 @@ A finance app helps people moving to a new city plan expenses with their roommat
 
 - **Team size** 1
 - **Built With** css, html, javascript, nessieapi, notability, python, spacetimedb, svelte, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/andrew-oriti18/settlr-mhack26)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Nessie @ Capital One
 - **Devpost checked** 2026-11-21 UTC
@@ -420,8 +420,8 @@ Commute used to be dead time. Shotgun turns your car into an AI agent that rides
 
 - **Team size** 1
 - **Built With** anthropic-api, carplay, claude, composio, eleven-labs, fastapi, github-actions, github-api, google-cloud, html, httpx, ios-shortcuts, javascript, neon, postgresql, psycopg, python, railway, twilio, uvicorn
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/25danielc/shotgun)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=P9eiu86cmdE)
 - **All event prizes (1)** Best Use of Neon Backend
 - **Devpost checked** 2026-11-21 UTC
 - **Neon** The project lists neon among its Built With tags.
@@ -434,8 +434,8 @@ A study agent makes practice quizzes and games and tracks progress in a virtual 
 
 - **Team size** 4
 - **Built With** agentverse, asi1-mini, asi:one, bayesian-knowledge-tracing, fetch.ai, kaplay, next.js, python, react, sm-2, spacetimedb, typescript, uagents, vercel, vercel-og
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ArushNo1/sprout)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=awIq0XC38zQ)
 - **All event prizes (1)** FetchAI ASI:One Agent Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Sprout is built with Fetch.ai's uAgents framework, hosted on Agentverse, and talks to students through the Agent Chat Protocol in ASI:One.
@@ -449,7 +449,7 @@ Tab is a friend in your iMessage group chat who keeps track of shared expenses. 
 - **Team size** 3
 - **Built With** capital-one-nessie-api, github, github-actions, grok-(xai-api), grok-vision, imessage, node.js, react, react-flow, spacetimedb, typesafe-jev, typescript, vercel, vite, vitest, zod
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4GrYcrm64tg)
 - **All event prizes (1)** Photon iMessage Agents Track Winner
 - **Devpost checked** 2026-11-21 UTC
 - **Photon** Tab is a member of your iMessage group chat. Devpost gives no specific sponsor integration detail.
@@ -462,8 +462,8 @@ TapTrack PD is a wrist-worn Parkinson's tracker built on a FREE-WILi strapped to
 
 - **Team size** 2
 - **Built With** agentverse, asi-one, css, elevenlabs, fastapi, fetch.ai, fhir, figma, finchnode, free-wili, gemini, github, html, javascript, neon, node.js, notability, numpy, photon, postgresql, python, scipy, timescaledb, uagents, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ahansoty/taptrack-pd)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NyzD97cP5SY)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Tiger Data
 - **Devpost checked** 2026-11-21 UTC
 - **Tiger Data** The project lists timescaledb among its Built With tags.
@@ -476,7 +476,7 @@ An offline guide helps survivors find state compensation programs and trace elig
 
 - **Team size** 1
 - **Built With** agentverse, asi-one, c++, capital-one-nessie, emscripten, fastapi, fetch.ai, figma, gemini-api, gemini-nano, indexeddb, neon, next.js, pdf-lib, pdf.js, playwright, postgresql, python, react, typescript, uagents, vercel, web-crypto-api, webassembly, webauthn
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/thesanatt/tend)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Nessie @ Capital One
 - **Devpost checked** 2026-11-21 UTC
@@ -490,8 +490,8 @@ A food-waste dashboard shows what gets thrown away so kitchens can decide what t
 
 - **Team size** 3
 - **Built With** elevenlabs, fastapi, gemini, google-gemini-api, html/css, javascript, node.js, notability, openai-api, opencv, pipecat, python, react, react-three-fiber, relay-sdk, spacetimedb, sqlite, three.js, typescript, ultralytics-yolo-world, vercel, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/anton-3/traycer)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ueDxreMXbMQ)
 - **All event prizes (1)** Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** Traycer turns the trash bin into data. Devpost gives no specific sponsor integration detail.
@@ -505,7 +505,7 @@ Similar to a piano tiles game where the tiles come towards the player, the tiles
 - **Team size** 4
 - **Built With** c, free-wili, python
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DdY-U816Krw)
 - **All event prizes (1)** Best Use of FREE-WILi
 - **Devpost checked** 2026-11-21 UTC
 - **FREE-WILi** The team used the FREE-WILi API, wrote the display and main files in C, and used the board's built-in accelerometer to measure positional data as the player moved their wrist.

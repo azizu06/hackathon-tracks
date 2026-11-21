@@ -42,8 +42,8 @@ The autonomous command center for your academic life.
 
 - **Team size** 4
 - **Built With** css, elevenlabs-tts, fastapi, framer-motion, google-gemini-api, pdfplumber, playwright, python, radix-ui, react, react-force-graph, tailwind-css, terpai, three.js, typescript, vite, zustand
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/purabshah12/bitcamp2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=eRcqv4_pCCQ)
 - **All event prizes (2)** Best Bitcamp Hack - Bitcamp · TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudforce / Microsoft** Aether is an intelligent command center designed to turn academic chaos into autonomous clarity:. Devpost gives no specific sponsor integration detail.
@@ -57,7 +57,7 @@ The team built AGastIa because medical reports are often full of information but
 - **Team size** 4
 - **Built With** alembic, auth0, bio-clinicalbert, celery, fastapi, geminiapi, huggingfacetransformer, javascript, medgemma, medsam, paddleocr, postgresql, python, pytorch, react, redis, sqlalchemy, tailwindcss, typescript, vite
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WyRockA-COA)
 - **All event prizes (1)** Best Champion of Open Source w/ Featherless - Featherless
 - **Devpost checked** 2026-11-21 UTC
 - **Featherless** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -70,8 +70,8 @@ From script to scene in minutes.
 
 - **Team size** 4
 - **Built With** auth0, claude, css, elevenlabs, firebase, gemini, javascript, next.js, python, react, terpai, typescript, uv-managed, yarn
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/zlyuan9/ani.mate)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=hPwpqFpdsEk)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists firebase, gemini among its Built With tags.
@@ -84,8 +84,8 @@ Real-time satellite collision risk dashboard that ingests live conjunction scree
 
 - **Team size** 2
 - **Built With** anthropic-claude-api-(claude-sonnet-4-6), beautifulsoup4, celestrak-gp-api, celestrak-socrates-api, cesium.js, claudecode, codex, eslint, fastapi, jina.ai-proxy, next.js-15, pandas, postcss, pydantic, python, python-dotenv, react-19, recharts, requests, sgp4, tailwind-css, typescript, uvicorn, vscode
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/po-aditya/Apsora-Brief)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OPAUEUN1UG4)
 - **All event prizes (1)** Best Data Visualization Experience - Peraton
 - **Devpost checked** 2026-11-21 UTC
 - **Peraton** It then calls Claude to generate a plain-language situational brief that an operator can read in 30 seconds and act on. Devpost gives no specific sponsor integration detail.
@@ -112,8 +112,8 @@ is a reverse-engineered hardware ledger for the Solana blockchain, with custom P
 
 - **Team size** 4
 - **Built With** arduino, bs58, gemini, hashing, mongodb, next.js, react, solana, tailwindcss, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/navincodesalot/cryptx)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ckU2XB6r1WQ)
 - **All event prizes (2)** Best App Dev Track Hack - Bitcamp · Best Financial Hack - Capital One
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** cryptX is a fully functional hardware crypto wallet built on top of the Solana network, designed to bring real security to blockchain transactions without the $150 price tag. Devpost gives no specific sponsor integration detail.
@@ -127,7 +127,7 @@ Docket is a web app that gives developers a visual, AI-summarized history of the
 - **Team size** 2
 - **Built With** auth0, gemini, next.js, supabase, terpai, typescript, vercel
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=coq8SSweYCs)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Auth0
 - **Devpost checked** 2026-11-21 UTC
 - **Auth0** Building a working GitHub authentication service using auth0, allowing anyone to sign in and use the app right away using their GitHub information.
@@ -141,7 +141,7 @@ Your doorbell doesn’t just ring anymore… it sees, thinks, and talks in any l
 - **Team size** 4
 - **Built With** elevenlabs, fastapi, gemini, multimap, next.js, opencv, python, raspberry-pi, wbp-systems-torch, yolo
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=S6FTw6NNaa4)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of ElevenLabs · People's Choice Hack - Bitcamp
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The team integrated ElevenLabs conversational agents to generate low-latency, natural voice responses.
@@ -154,8 +154,8 @@ EcoBuddy gamifies sustainability—track your actions, level up your buddy, and 
 
 - **Team size** 4
 - **Built With** api, idempotent-pipelines, languages:-javascript, modular, python-frontend:-react-backend:-node.js-/-express-ai-&amp;-ml:-google-gemini-(natural-language-understanding)-hugging-face-(image-classification-models)-ml-libraries:-pytorch, requests-(web-scraping-&amp;-data-ingestion)-visualization:-matplotlib-/-graphing-libraries-for-analyzing-model-performance-apis:-google-maps-api-(location-based-insights)-system-design:-asynchronous-processing, scikit-learn-(model-training-&amp;-evaluation)-data-processing-&amp;-scraping:-beautifulsoup
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KaushalGorla/eco-buddy-voice)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=r4HnScF_29w)
 - **All event prizes (1)** TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudforce / Microsoft** EcoBuddy is an AI-powered sustainability companion that:. Devpost gives no specific sponsor integration detail.
@@ -168,8 +168,8 @@ Real vanilla, real proof. Extract is a digital trust system for the vanilla indu
 
 - **Team size** 4
 - **Built With** anchor, express.js, leaflet.js, mapbox, next.js, node-cron, postgresql, react, recharts, rust, solana, spl-memo, tailwind, typescript, web3
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SujanPoudel23/Extract)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=AUpQ-0V719o)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** The project lists anchor, solana among its Built With tags.
@@ -182,7 +182,7 @@ FundingFlow uses AI to automatically discover funding programs from government w
 
 - **Team size** 1
 - **Built With** cheerio, express.js, featherless.ai, html, javascript, node.js, openai-sdk, pdf-lib, qwen3-32b(llm)
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/xROBERTINOx/bitcamp2026)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Real World Prize - Ambrook
 - **Devpost checked** 2026-11-21 UTC
@@ -196,7 +196,7 @@ Because a fall shouldn’t go unnoticed — real-time monitoring for safer indep
 
 - **Team size** 1
 - **Built With** arduino, c++, css, embedded-systems, esp32, flask, html, iot, javascript, logistic-regression, machine-learning, python, real-time-systems, sensor-processing
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Schugh26/GaitGuard)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Most Philanthropic Hack - Bloomberg
 - **Devpost checked** 2026-11-21 UTC
@@ -210,8 +210,8 @@ GhostKode uses your Git history to identify the most unstable lines in your code
 
 - **Team size** 1
 - **Built With** ast, embeddings, gemini, github, next.js, openai, streaming, tailwind.css
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/bbmullen72/ghostkode)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=H6tUjbQjOkg)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Auth0 AI Agents
 - **Devpost checked** 2026-11-21 UTC
 - **Auth0** Built with @auth0/nextjs-auth0 v4 and Next.js 16 App Router.
@@ -224,8 +224,8 @@ Pick a cancer type and protein target. Helix screens thousands of compounds and 
 
 - **Team size** 3
 - **Built With** python, qiskit, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Reyzz00/helix)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VqTClY4_A5k)
 - **All event prizes (1)** Most Philanthropic Hack - Bloomberg
 - **Devpost checked** 2026-11-21 UTC
 - **Bloomberg** Quantum computing is a very specific tool and knowing where it fits matters more than using it everywhere. Devpost gives no specific sponsor integration detail.
@@ -238,8 +238,8 @@ NARA is an autonomous penetration testing CLI that orchestrates four AI agents a
 
 - **Team size** 4
 - **Built With** anthropic-claude-api, bandit, docker, featherless-ai-(phi-4-mini), flask, novnc, ollama-(qwen2.5), prompt-toolkit, python, rich, semgrep, terpai-(umd), tigervnc, ubuntu-22.04, xfce
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/HackedRico/obv-nara-box)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=a8ESQUSft0c)
 - **All event prizes (2)** Best Champion of Open Source w/ Featherless - Featherless · Neelbauer Agentic Revolution Award (NARA) - Alumni Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Featherless** The project lists featherless-ai-(phi-4-mini) among its Built With tags.
@@ -252,8 +252,8 @@ Detect hidden cyber attacks in audio. Not all noise is natural—some is malicio
 
 - **Team size** 3
 - **Built With** docker, ffmpeg/pydub, gmail-smtp/imap, google-cloud-run, jensen-shannon-divergence, matplotlib, numpy, pandas, python, qiskit, qiskit-aer, quantum-noise-channel-simulation, scipy, streamlit, zzfeaturemap
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shreya222mishra/bitcamp-2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dgCAY-YG5rw)
 - **All event prizes (1)** Best Digital Forensics Related Hack - Cipher Tech Solutions
 - **Devpost checked** 2026-11-21 UTC
 - **Cipher Tech Solutions** Quanterp is a hybrid quantum-classical audio security system that detects suspicious noise and malicious manipulation in audio files. Devpost gives no specific sponsor integration detail.
@@ -266,8 +266,8 @@ Recall helps dementia patients identify faces, recall past conversations, and pr
 
 - **Team size** 3
 - **Built With** flask, insightface, ollama, python, swift, xcode
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/akhilapnuri/RecallMobileApp)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WDXfbc8DIpw)
 - **All event prizes (1)** Most Philanthropic Hack - Bloomberg
 - **Devpost checked** 2026-11-21 UTC
 - **Bloomberg** The app is designed to help individuals with dementia recognize and recall important people in their lives. Devpost gives no specific sponsor integration detail.
@@ -281,7 +281,7 @@ Miss a daily tap, and your people get notified. Still Here is the safety net for
 - **Team size** 1
 - **Built With** aws-sns, celery, docker, fastapi, firebase-fcm, python, redis, sqlalchemy, supabase, vanilla-js
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://vimeo.com/1182382881)
 - **All event prizes (1)** Best Use of Netcore - Netcore
 - **Devpost checked** 2026-11-21 UTC
 - **Netcore Cloud** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -294,8 +294,8 @@ Power line faults often go undetected until they escalate catastrophically. Tele
 
 - **Team size** 3
 - **Built With** c++, javascript, mongodb, node.js, python, react, socket.io, three.js, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Snek3471/VoltVigil)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=JhbR0K8B5p8)
 - **All event prizes (1)** Real World Prize - Ambrook
 - **Devpost checked** 2026-11-21 UTC
 - **Ambrook** TeleGrid is a real-time, affordable monitoring system that detects corona discharge * , an early indicator of power line faults. Devpost gives no specific sponsor integration detail.
@@ -308,8 +308,8 @@ An AI safety net for UMD students. TerpWallet watches your bank account and conn
 
 - **Team size** 1
 - **Built With** auth0, azure, capital-one-nessie-api, cloudforce, framer-motion, github, gpt-5.2, next.js, node.js, react, tailwindcss, terpai, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rishikathakre/terpwallet-ai)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vD4VIui3jSs)
 - **All event prizes (1)** TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudforce / Microsoft** TerpWallet AI connects to a UMD student's bank account and monitors their financial health continuously. Devpost gives no specific sponsor integration detail.
@@ -323,7 +323,7 @@ Terrametric: an AI-powered plantation stress detection platform that gives Live 
 - **Team size** 3
 - **Built With** fastapi, glsl, javascript, next.js, python, react-native, sqlite, typescript, uvicorn, vercel, xgboost
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=qjTX93HKRNE)
 - **All event prizes (3)** Best Champion of Open Source w/ Featherless - Featherless · Best Intermediate Data Science Track Hack - Bitcamp · Real World Prize - Ambrook
 - **Devpost checked** 2026-11-21 UTC
 - **Ambrook** Terrametric delivers a personalized console of the farm's live stress score, a 14-day yield forecast, and a prescription for what needs to be done, with all the math already done. Devpost gives no specific sponsor integration detail.
@@ -337,8 +337,8 @@ A 2D platformer where you leave interactive echoes of yourself that replay your 
 
 - **Team size** 4
 - **Built With** c#, freeform, love, photoshop, procreate, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Parth12358/ThatsMyEcho)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OGyCVrdRYaw)
 - **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** ThatsMyEcho is a 2D platformer where you play as a breath, a sound born from wind cutting through ancient mountains. Devpost gives no specific sponsor integration detail.

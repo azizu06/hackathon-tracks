@@ -45,8 +45,8 @@ Most people do not know how their scattered data points connect.
 
 - **Team size** 1
 - **Built With** fastapi, hermes, hexapi, instaloader, next.js, numpy, pillow, pytesseract, python, scikit-learn, tailwindcss, typescript, uvicorn, zed
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/danielkwan-dev/aegis)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Nf_50lff9Rc)
 - **All event prizes (1)** Best Use of Hermes -- Nous Research
 - **Devpost checked** 2026-11-21 UTC
 - **Nous Research** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -60,7 +60,7 @@ Ambient sits on your desktop, learns how you work, and handles the busywork befo
 - **Team size** 1
 - **Built With** anthropic-api, electron, google-calendar-api, hex-api, lava-api, node.js, openai-api, pnpm, react, sqlite, tailwind-css, turborepo, typescript
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=lX8BuX64JwI)
 - **All event prizes (1)** Best use of Lava API
 - **Devpost checked** 2026-11-21 UTC
 - **Lava** The project lists lava-api among its Built With tags.
@@ -73,8 +73,8 @@ Explore the world through an cinematic AI-guided journey — just speak, and the
 
 - **Team size** 4
 - **Built With** fastapi, gemini-2.5-flash-(itinerary-generation), gemini-live-api-/-gemini-2.5-flash-native-audio-preview-(real-time-voice-agent), google-agent-development-kit-(adk), google-maps-elevationservice, google-maps-javascript-api-3d-(alpha), google-places-api-(new), grok-grok-3-mini-by-xai-(recap-extraction), lens-studio, mediapipe-hand-landmarker, next.js-15, python, snap, street-view-static-api, tflite, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/prith27/Ayana)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4lwFH0fWW0E)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** Ayana's prep engine then generates three curated itineraries tailored to your personality using Gemini 2.5 Flash .
@@ -87,8 +87,8 @@ CareCost is a map-first GI care shopper: AI turns symptoms into the right proced
 
 - **Team size** 4
 - **Built With** auth0, elevenlabs, lava, mongodb, python, typescrypt
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Kedylind/carecost)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UKChab_e1Hc)
 - **All event prizes (1)** Best use of Lava API
 - **Devpost checked** 2026-11-21 UTC
 - **Lava** The project lists lava among its Built With tags.
@@ -101,8 +101,8 @@ agentic peer review citation verification for research papers.
 
 - **Team size** 3
 - **Built With** fastapi, hermes, langgraph, lava, python, semanticscholar
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/suryar2007/peer-review-system)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=am-y6yt0Ais)
 - **All event prizes (2)** Best Use of Hermes -- Nous Research · Best use of Lava API
 - **Devpost checked** 2026-11-21 UTC
 - **Lava** The project lists lava among its Built With tags.
@@ -116,8 +116,8 @@ Commons is a map-first community coordination platform.
 
 - **Team size** 4
 - **Built With** express.js, k2thinkv2, maplibre, react, solana, sqlite, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/candpixie/yhack-commons)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=-yewvVRouq4)
 - **All event prizes (2)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Best use of Hex API
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -131,8 +131,8 @@ Raw watts or joules-per-token misses the carbon picture entirely.
 
 - **Team size** 4
 - **Built With** claude, gemini
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/bdavidzhang/eco_router) · [Source 2](https://github.com/bdavidzhang/yhack-eco-bench)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=W3opaZ9Rub4)
 - **All event prizes (1)** Built With Zed
 - **Devpost checked** 2026-11-21 UTC
 - **Zed** Zed extension (Rust → WASM) provides /eco slash command.
@@ -145,8 +145,8 @@ Food banks today find out about crises when the line gets longer. CrisisGrid det
 
 - **Team size** 2
 - **Built With** anthropic-claude-api, fastapi, framer-motion, haversine, hex, langgraph, lava, mapbox-gl-js, next.js, oracle, postgresql, python, recharts, server-sent-events, supabase, tailwind-css, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/richykim7/YHack2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=KBmjbQHAL_0)
 - **All event prizes (1)** Best use of Hex API
 - **Devpost checked** 2026-11-21 UTC
 - **Hex** The project lists hex among its Built With tags.
@@ -159,8 +159,8 @@ Your guided path through regulatory complexity.
 
 - **Team size** 4
 - **Built With** beautiful-soup, docker, fastapi, framer-motion, hermes, huggingface, javascript, k2thinkv2, mongodb, openai, pymongo, python, react, tailwind-css, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/xyaei/forseen)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=S-HOp3EjmWo)
 - **All event prizes (1)** Best Use of Hermes -- Nous Research
 - **Devpost checked** 2026-11-21 UTC
 - **Nous Research** Forseen is a compliance intelligence platform that transforms a company's profile into actionable regulatory insights. Devpost gives no specific sponsor integration detail.
@@ -174,7 +174,7 @@ GaitGuard is a wearable sensor system that measures a patient's gait against a p
 - **Team size** 4
 - **Built With** claude, python, qnx, raspberry-pi, zed
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VRsa9P1m8z0)
 - **All event prizes (2)** Built With Zed · Third Place Overall
 - **Devpost checked** 2026-11-21 UTC
 - **Zed** The project lists zed among its Built With tags.
@@ -188,7 +188,7 @@ Compose electronic music just by wiggling your fingers, hand positions swapping 
 - **Team size** 2
 - **Built With** snap
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=cohE1Eti1dU)
 - **All event prizes (1)** Best use of Snap Lens Studio
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** The project lists snap among its Built With tags.
@@ -201,8 +201,8 @@ An agentic AI incident resolution platform that ingests service incidents and or
 
 - **Team size** 4
 - **Built With** anthropic, fastapi, gemini, hex-api, lava-api, node.js, pydantic, python, react, sql, supabase, tailwindcss, tenacity, typescript, uvicorn, vercel, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aumghelani/HiveOps-NatomaSub)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Wgevevl1hTY)
 - **All event prizes (1)** Best use of Hex API
 - **Devpost checked** 2026-11-21 UTC
 - **Hex** The team are using Hex as a Long-term incident memory bank.
@@ -215,8 +215,8 @@ Imposture is an AI desk pet that tracks your posture and focus use via computer 
 
 - **Team size** 4
 - **Built With** adafruit, arduino, deepgram, elevenlabs, fastapi, jinja, liquidcrystal, mediapipe, opencv, picovoice, raspberry-pi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/argsdio/imposture)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=plD5TCyZjgI)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of ElevenLabs · Most Useless Hack
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The project lists elevenlabs among its Built With tags.
@@ -229,8 +229,8 @@ A prediction market for physical goods and services.
 
 - **Team size** 2
 - **Built With** anthropic, python, react, solana, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/darthmaulsw/KiwiMarket)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=fTe_Vp-uYDk)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** The project lists solana among its Built With tags.
@@ -243,8 +243,8 @@ Leaf keeps AI usage sustainable, accurate, and fast by pairing powerful subagent
 
 - **Team size** 4
 - **Built With** lava, mongodb, next.js, railway, tailwind, three.js, zed
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/marotta-j/yhack2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=bwRvVmqe6zg)
 - **All event prizes (1)** Built With Zed
 - **Devpost checked** 2026-11-21 UTC
 - **Zed** The team used Zed as the IDE.
@@ -257,8 +257,8 @@ fMRI-enhanced swarm simulations for prediction markets.
 
 - **Team size** 3
 - **Built With** camel-ai-oasis, d3.js, docker, fastapi, flask, meta-tribe-v2, mirofish, neo4j, nilearn, nimare, nltools, openai-agents-sdk, polymarket-api, python, pytorch, sqlite, vite, vue.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/cicinel/YNeurotrading)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WmDdycsx_a0)
 - **All event prizes (1)** Best Use of Hermes -- Nous Research
 - **Devpost checked** 2026-11-21 UTC
 - **Nous Research** Simulation quality depends more on persona diversity than agent count. 50 carefully generated personas with distinct backgrounds produce richer discourse than 200 generic ones. Devpost gives no specific sponsor integration detail.
@@ -271,8 +271,8 @@ Making mobility accessible, cheap, simple. and modular to the health sector and 
 
 - **Team size** 4
 - **Built With** a*, arduino, elevenlabs, foxglove, lidar, numpy, opencv, python, viam
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ryanli222/yHack)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=RzqbO86LRXQ)
 - **All event prizes (2)** Best Use of Viam · Hardware
 - **Devpost checked** 2026-11-21 UTC
 - **Viam** The project lists viam among its Built With tags.
@@ -285,8 +285,8 @@ track pain and symptoms of chronic conditions like endometriosis in a machine le
 
 - **Team size** 4
 - **Built With** android-studio, cloud-computing, firebase, galaxy-watch, jupyter, kotlin, matplotlib, numpy, pandas, python, pytorch, samsung, samsung-health-sdk, scikit, scikit-learn
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ZacharyYW/perennial)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=71_IR5COyFY)
 - **All event prizes (1)** ActualFoods
 - **Devpost checked** 2026-11-21 UTC
 - **Actual Food** wearos integration: Seamlessly pulls in continuous health data from your smartwatch to automatically detect and log potential pain sessions, reducing the cognitive load on high-pain days. Devpost gives no specific sponsor integration detail.
@@ -300,7 +300,7 @@ Second Self is a digital twin that runs as a parallel user session on your very 
 - **Team size** 4
 - **Built With** agentation, appkit, auth0, beautifulsoup4, browser-use, cdp-use, claude, claude-agent-sdk, codesign, cryptography, dynamicnotchkit, elevenlabs, eslint, fastapi, filelock, firebase, firebase-admin, firebase-auth, firebase-firestore, github-actions, gmail-api, google, google-auth, google-auth-oauthlib, google-calendar-api, google-oauth-2.0, hex, httpx, launchagents, mongodb, motion, next.js, oauth, pillow, pkgbuild, postcss, productbuild, productsign, pyautogui, pydantic, pyjwt, pyobjc-framework-quartz, pytest, pytest-asyncio, python, python-build-standalone, python-dotenv, react, requests, swift, swift-package-manager, swiftui, tailwind, tailwind-css, tavily-api, typescript, uvicorn, vercel, vnc, xcrun-notarytool, zed
 - **Code** [Source 1](https://github.com/23jmo/second-self)
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZpCst-PS7t0)
 - **All event prizes (2)** Best Use of Hermes -- Nous Research · Personal AI Agent
 - **Devpost checked** 2026-11-21 UTC
 - **Nous Research** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -313,8 +313,8 @@ Sift indexes all your files into the same optimized embedding space.
 
 - **Team size** 3
 - **Built With** fastapi, gemini, gemini-embedding, mongodb, mongodb-atlas, python, rust
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/whuang06/yhacks_s26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=e-kfnXJfcwQ)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** The team built backend functionality first in Python, which includes embedding generation through Gemini Embedding 2 Preview, database storage and vector search through MongoDB Atlas, and chatbot functionality through LangChain.
@@ -327,8 +327,8 @@ Burned $300 running a 100-agent swarm to launch Simulacra and headstart the futu
 
 - **Team size** 3
 - **Built With** bun, fastapi, k2-think, langgraph, phaser.js, tiled, xai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/0xABAN/simulacra)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=fPZQB1WaVC4)
 - **All event prizes (1)** Best Use of K2 Think V2
 - **Devpost checked** 2026-11-21 UTC
 - **K2 Think** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -341,8 +341,8 @@ Learn any dance head-to-head in AR with full-body tracking and scoring in real-t
 
 - **Team size** 4
 - **Built With** lens-studio, snap-ml, snapchat, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/YHack-Project/dance)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=D44gx8M5m84)
 - **All event prizes (2)** Best use of Snap Lens Studio · Entertainment
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** Tracks 18 skeletal landmarks (nose, ears, shoulders, elbows, wrists, hips, knees, ankles) plus composite points like the hip center, using Snap's ObjectTracking ML pipeline.
@@ -356,7 +356,7 @@ Act it out. Guess it right.
 - **Team size** 4
 - **Built With** javascript, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=c4J5046t_68)
 - **All event prizes (1)** Best use of Snap Lens Studio
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** The team built Split World in Lens Studio using its scripting framework and AR capabilities.
@@ -369,8 +369,8 @@ Voice-first local farm marketplace — farmers list by talking, consumers shop w
 
 - **Team size** 1
 - **Built With** claude-ai, doordash-drive-api, elevenlabs, express.js, godaddy, lava-api, mongodb-atlas, node.js, nodemailer, react, vite, web-speech-api
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alexanderlapratt/trust-your-food)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=srIbSfnjMU8)
 - **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** The project lists godaddy among its Built With tags.

@@ -41,7 +41,7 @@ AI-powered DJ: Enhancing live performances by analyzing crowd energy and adjusti
 
 - **Team size** 4
 - **Built With** flask, mangodb, openvino
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tesims/mhacks)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Intel - 1st Place Best Use of Intel AI
 - **Devpost checked** 2026-11-21 UTC
@@ -55,7 +55,7 @@ Atom Suika is an innovative merge dropper chemistry learning experience. It uses
 
 - **Team size** 2
 - **Built With** breadboard, mongodb, node.js, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/evelynpa1/AtomSeiko)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Google - 1st Place Best Google AI Breadboard Application
 - **Devpost checked** 2026-11-21 UTC
@@ -69,8 +69,8 @@ Dive into intense 3D dance-offs! Use simple gestures to animate a 3D version of 
 
 - **Team size** 4
 - **Built With** c#, cartesia, groq, opencv, python, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ishaan-arya/boogie-battle) · [Source 2](https://github.com/shxjames/motion_capture_commentator)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Jslk5cH8ezo)
 - **All event prizes (1)** Cartesia - Best Use of Sonic
 - **Devpost checked** 2026-11-21 UTC
 - **Cartesia** The project lists cartesia among its Built With tags.
@@ -83,8 +83,8 @@ Cascade provides a sleek, efficient interface for practicing CSS.
 
 - **Team size** 3
 - **Built With** breadboard, flask, itdc, mongodb, next.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/albonwu/cascade)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=BapICN7GPYI)
 - **All event prizes (1)** Magic Loops - Best use of Generative UI
 - **Devpost checked** 2026-11-21 UTC
 - **Magic Loops** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -97,8 +97,8 @@ Cybersecurity done right. Cyberwright leverages AI to automate the process of id
 
 - **Team size** 3
 - **Built With** lucide, mantine, next, react, rust, tauri
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jaydns/cyberwright)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_6fZPsObiIw)
 - **All event prizes (1)** BoundaryML - Best use of LLM Agents
 - **Devpost checked** 2026-11-21 UTC
 - **BoundaryML** Cyberwright leverages Llama 3.1 to analyze developer's code, find relevant bugs, categorize them based on severity, provide a synopsis, and suggest remediation techniques. Devpost gives no specific sponsor integration detail.
@@ -111,8 +111,8 @@ The team use this metric to weight the load-balancing algorithm so that it optim
 
 - **Team size** 2
 - **Built With** github, json, keras, numpy, openmeteo-requests, pandas, python, pytz, requests, scikit-learn, scipy, streamlit, tensorflow
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rohitramaswamy/mhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=MJQIQJYxey4)
 - **All event prizes (1)** MLH - Best use of Streamlit
 - **Devpost checked** 2026-11-21 UTC
 - **Streamlit** The team chose a Python-Streamlit frontend due to its variety of input and output widgets, which provide a high degree of user interaction.
@@ -139,8 +139,8 @@ A hierarchal multi-agent framework built from scratch. Transforms complex goals 
 
 - **Team size** 3
 - **Built With** amazon-web-services, docker, json, openai, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/slainhedden/mhacks-ensemble)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=LuE2RwMGqi4)
 - **All event prizes (1)** Warp - Best Developer Tool
 - **Devpost checked** 2026-11-21 UTC
 - **Warp** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -153,7 +153,7 @@ Revolutionizing the campuses' lost and found with smart image recognition.
 
 - **Team size** 4
 - **Built With** amazon-web-services, flask, html5, javascript, mongodb, python, pytorch, react, restapi, s3
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/g3npar/FoundAI)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** MLH - Best use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
@@ -167,8 +167,8 @@ Review : Once your code is complete, GenHint reviews it, checking for accuracy a
 
 - **Team size** 4
 - **Built With** azure, git, github, groq, javascript, json, llama3, llm, microsoft, node.js, typescript, vscode, warp
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/zichenzhang04/GenHint)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=72yeRx4773o)
 - **All event prizes (1)** Warp - Honorable Mention Best Developer Tool
 - **Devpost checked** 2026-11-21 UTC
 - **Warp** The project lists warp among its Built With tags.
@@ -181,8 +181,8 @@ The doctor can view this before a patient visit and gain more information to bet
 
 - **Team size** 4
 - **Built With** cartesia-sonic, flask, google-ai-breadboard, html, python, react, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/qwopp/healthcare-helper)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=JMK3KGh9Wr8)
 - **All event prizes (1)** Google - 2nd Place Best Google AI Breadboard Application
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -196,7 +196,7 @@ monitoring dashboards, uniquely effective to each problem.
 - **Team size** 1
 - **Built With** typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HIYSX7clnl8)
 - **All event prizes (1)** MLH - Best use of Midnight
 - **Devpost checked** 2026-11-21 UTC
 - **Midnight** MonoMonitor integrates multiple development platforms such as Vercel and GitHub, fetching and displaying logs in real-time. Devpost gives no specific sponsor integration detail.
@@ -209,8 +209,8 @@ If the Wii taught the team anything, it’s that flailing your arms around is fu
 
 - **Team size** 4
 - **Built With** matlab, roboflow, streamlit
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/elise-yz/osulation)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=K2KA6qnFeVE)
 - **All event prizes (1)** Roboflow - Best Use of Roboflow Workflows
 - **Devpost checked** 2026-11-21 UTC
 - **Roboflow** The team then used Roboflow to train a model on this dataset, achieving an mAP of 0.995 over 200 epochs.
@@ -223,8 +223,8 @@ The webcam will recognize food that is in frame (using a Computer Vision model) 
 
 - **Team size** 4
 - **Built With** openai, python, streamlit, usda-nutrition-data
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Orbital-Web/plaite)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ODBwwHjMowQ)
 - **All event prizes (1)** Intel - 2st Place Best Use of Intel AI
 - **Devpost checked** 2026-11-21 UTC
 - **Intel** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -237,8 +237,8 @@ PlzFix.ai is an all-in-one AI platform designed to provide devs with tailored an
 
 - **Team size** 3
 - **Built With** baml, c, docker, flask, node.js, openai, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aliceli465/MHacks24)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aK9hMI6NKJY)
 - **All event prizes (1)** BoundaryML - Best use of Agents using BAML
 - **Devpost checked** 2026-11-21 UTC
 - **BoundaryML** The user uploads their C program to the platform. Devpost gives no specific sponsor integration detail.
@@ -252,7 +252,7 @@ Democratizing pro-level Poker play in real-time with computer vision.
 - **Team size** 4
 - **Built With** async-storage, endpoint-api, fastapi, firestore, flask, gemini, google-breadboard, open-cv, react, react-native, sse, streaming, web-socket, yolov8
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=RsqhOLFsGEw)
 - **All event prizes (1)** Google - 3nd Place Best Google AI Breadboard Application
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemini among its Built With tags.
@@ -265,7 +265,7 @@ The Bloomberg Terminal of Prediction Markets.
 
 - **Team size** 4
 - **Built With** docker, flask, github, gpt4, groq, huggingface, intel, llm, nv-embed-v2, openai, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rcookie777/guava)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** CAT Digital - Best Use of API
 - **Devpost checked** 2026-11-21 UTC
@@ -280,7 +280,7 @@ Empowering Communities with Data-Driven Solar Solutions.
 - **Team size** 4
 - **Built With** apis, css3, flask, html5, llm, nextjs, python, supabase, typescript, vercel
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PxOkQkR-ghM)
 - **All event prizes (1)** MLH - Best use of MATLAB
 - **Devpost checked** 2026-11-21 UTC
 - **MathWorks** A platform designed to help NGOs, governments, and energy planners identify optimal locations for solar power installations in areas with high . Devpost gives no specific sponsor integration detail.
@@ -294,7 +294,7 @@ Search for the song on the tip of your tongue.
 - **Team size** 3
 - **Built With** bootstrap, flask, mongodb, node.js, react, scikit-learn, spotifyapi
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=70ziSQVSEqI)
 - **All event prizes (1)** Intel - 3st Place Best Use of Intel AI
 - **Devpost checked** 2026-11-21 UTC
 - **Intel** This was built using Intel AI PCs, with the remote desktop.
@@ -307,8 +307,8 @@ The WiLi Watch is an innovative, interactive wearable wristband designed to enab
 
 - **Team size** 4
 - **Built With** arduino-nano, cartesia, freewili, groq, llama, orange-pi, python, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ethanmckean/The-WiLi-Watch-mhacks24)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UYSAEgx3lSQ)
 - **All event prizes (1)** Groq - Best App Built on Groq
 - **Devpost checked** 2026-11-21 UTC
 - **Groq** The project lists groq among its Built With tags.
@@ -321,7 +321,7 @@ An AI-backed solution for improving the U.S. visa experience for non-English-spe
 
 - **Team size** 3
 - **Built With** chatgpt, google-translate, javascript, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ayeahmed/visa-friend)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** MLH - Best DEI Hack sponsored by Fidelity
 - **Devpost checked** 2026-11-21 UTC
@@ -336,7 +336,7 @@ Gives users the ability to play four 1v1 games.
 - **Team size** 2
 - **Built With** c++, freewili, pygame, python, time
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7VzAm0KVVoo)
 - **All event prizes (1)** Free-WILi - Best Use of Free-WILi
 - **Devpost checked** 2026-11-21 UTC
 - **FREE-WILi** The project page provides no specific sponsor integration detail in the indexed fields.

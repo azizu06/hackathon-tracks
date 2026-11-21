@@ -25,7 +25,7 @@ Helping everyone at Brown find the perfect bathroom &lt;3.
 
 - **Team size** 2
 - **Built With** css, html, java, mongodb, react, spring, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/katieli1/bathroomsatbrown)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best DEI Hack sponsored by Fidelity
 - **Devpost checked** 2026-11-21 UTC
@@ -39,7 +39,7 @@ After logging in, users are directed to a page requesting the title of the paper
 
 - **Team size** 4
 - **Built With** css, express.js, github, html, javascript, mongodb, node.js, openai, react, terminal
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AnnieWang314/blankspace)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
@@ -53,7 +53,7 @@ Make accountable long-term wagers using the blockchain.
 
 - **Team size** 3
 - **Built With** cairo, react, starknet, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jahaskell53/starknet-hackathon-3)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Starknet
 - **Devpost checked** 2026-11-21 UTC
@@ -81,7 +81,7 @@ A devtool for understanding codebases faster and easier.
 
 - **Team size** 4
 - **Built With** machine-learning, natural-language-processing, python, torch, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Sharwin24/HackAtBrown)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Developer Tool sponsored by Warp
 - **Devpost checked** 2026-11-21 UTC
@@ -95,7 +95,7 @@ After your guess on what the image represents, a gallery will be presented with 
 
 - **Team size** 4
 - **Built With** firebase, getimg.ai, github, google-cloud, next.js, node.js, react.js, tailwind, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/NuoWenLei/ai-image-telephone)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC

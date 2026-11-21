@@ -8,7 +8,7 @@ from pathlib import Path
 import re
 
 from evidence import clean, overview_tracks, project_details
-from fetch import Fetcher, cache_path, gallery_winners, prize_label
+from fetch import Fetcher, cache_path, gallery_winners, prize_label, verified_link
 
 
 HERE = Path(__file__).resolve().parent
@@ -251,7 +251,7 @@ def stated_value(label):
 
 
 def verified(links, receipts):
-    return [link for link in links if receipts.get(link, {}).get("status") == 200]
+    return sorted({target for link in links if (target := verified_link(link, receipts))})
 
 
 def dedup_project_rows(rows):

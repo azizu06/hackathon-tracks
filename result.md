@@ -2,7 +2,7 @@
 
 Indexed **1,553 distinct projects**, **60 editions**, **380 sponsors** and **1,697 sponsor prize rows**.
 
-1,697 candidate sponsor award rows were found in the audited galleries. The candidate total includes Backrooms, whose Hyphenate prize was sponsor-reported. Each indexed Devpost Winner label was confirmed on both the gallery and its project page.
+1,697 candidate award rows with named sponsors were found in the audited galleries. The candidate total includes Backrooms, whose Hyphenate prize was sponsor-reported. Each indexed Devpost Winner label was confirmed on both the gallery and its project page.
 
 ## Editions
 
@@ -527,17 +527,18 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 - Built With tags are available for 1,536 of 1,553 project editions.
 - Team counts are available for 1,553 project editions.
 - Summary evidence by award row: Project write-up without a specific integration (611), Project write-up (396), Built With tags (370), Integration detail unavailable (306), Edited from project page (14).
-- Source code links verified HTTP 200 for 9 of 1349 unique recognized links.
-- Demo video links verified HTTP 200 for 19 of 1251 unique recognized links.
+- Source code links verified HTTP 200 for 1219 of 1349 unique recognized links.
+- Demo video links verified HTTP 200 for 1251 of 1251 unique recognized links.
 - The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.
 - Project summaries use edited notes, Devpost project captions and short evidence sentences. When the project supplies only a stack tag or omits an integration description, the row labels that evidence.
 - Sponsor names come from the exact track label or its event prize description. General event awards remain visible in project prize lists.
-- The HackMIT 2017 label `Sponsor Prize - Best FinTech Related Prize` has no sponsor identity in its public prize entry.
+- HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. The public prize entry supplies no sponsor identity, so those two awards fall outside the named-sponsor index.
 - Prize values come from the track label. Multiple placements, team totals, and service credits stay in the source wording.
 
-- Demo link check results by status: unverified (1232), 200 (19).
-- Source link check results by status: unverified (1338), 200 (9), 404 (2).
+- Demo link check results by status: 200 (1251).
+- Source link check results by status: 200 (1067), redirect landed on HTTP 200 (152), 404 (123), 302 (7).
 
 ## Local commits
 
-- Expand the sponsor-track winners directory (this commit)
+- 648a1ac Expand the sponsor-track winners directory
+- Verify public source and demo links (this commit)

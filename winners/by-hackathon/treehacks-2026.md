@@ -91,8 +91,8 @@ Agentified personal in-home care for the elderly. Multimodal S2S agent system ha
 
 - **Team size** 4
 - **Built With** anthropic, arduino, barcode-scanner, browserbase, claude-code, jetson-nano, jupyter-notebooks, microphone, openai, perplexity, python, react, shell, speaker, typescript, vercel, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/o-bm/dot)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ziUp2ybO3vc)
 - **All event prizes (1)** &#91;Zingage&#93; Best Voice AI for Healthcare (Airpods Max + fast-track to superday with Zingage)
 - **Devpost checked** 2026-11-21 UTC
 - **Zingage** .dot is an AI-powered healthcare companion that lets elderly patients interact with their full medical records through natural voice conversation. Devpost gives no specific sponsor integration detail.
@@ -105,8 +105,8 @@ AI-powered biometric and visual monitoring that predicts when you’re prone to 
 
 - **Team size** 4
 - **Built With** bangle.js, cloudflare-containers, cloudflare-d1, cloudflare-durable-objects, cloudflare-workers, expo.io, fastapi, gemma-3-4b(vlm), github-actions, gpt-4o-mini, meta-ray-ban-smart-glasses, modal, poke, python, react-native, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kl527/4sight)
+- **Demo video** [Video 1](https://vimeo.com/1165159968)
 - **All event prizes (1)** &#91;Cloudflare&#93; Best Use of Cloudflare Developer Platform (1st Place - $250K Cloudflare credits + Cloudflare swag bag for each team member. 2nd Place - $100k Cloudflare credits)
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudflare** The project lists cloudflare-containers, cloudflare-d1, cloudflare-durable-objects, cloudflare-workers among its Built With tags.
@@ -119,8 +119,8 @@ One ad. Every market.AI-localized in seconds.
 
 - **Team size** 4
 - **Built With** elasticsearch, fastapi, ffmpeg, graphite, greylock, jwt, model-context-protocol-(mcp), next.js, numpy, openai-gpt-5, openai-whisper, perplexity-sonar-api, pil, poke, python, react, runpod, sqlite, tailwind-css, typescript, visa
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ssiddhantsood/treehacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=C3_5c9b4zxg)
 - **All event prizes (1)** &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).)
 - **Devpost checked** 2026-11-21 UTC
 - **Runpod** The project lists runpod among its Built With tags.
@@ -133,8 +133,8 @@ You’re walking down the street and someone passes you wearing your exact ideal
 
 - **Team size** 4
 - **Built With** fastapi/uvicorn/websockets, next.js/react, postgresql-(supabase)-+-sqlalchemy/alembic, python, redis/celery, tailwind/radix-ui, tensorflow.js-(bodypix-+-movenet-pose), typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/socratesosorio/aesthetica)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZhqUDfSZVuw)
 - **All event prizes (1)** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
 - **Devpost checked** 2026-11-21 UTC
 - **Y Combinator** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -147,8 +147,8 @@ A digital marketplace uses agents to negotiate between buyers and sellers.
 
 - **Team size** 4
 - **Built With** asi:one, fetch.ai, python, typescript, uagents
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/patidararnav/agentplace)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7Eab9ryB9I8)
 - **All event prizes (1)** &#91;Fetch.ai&#93; Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. (Best Overall AI Agent Solution - $2500 Best Multi-Agent Workflow - $1500 Best Monetised Agent - $1000)
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The team built the multi-agent system on top of Fetch.ai’s uAgents framework.
@@ -161,8 +161,8 @@ Can AI agents in multi-agent systems deceive, deduce, and stay aligned.
 
 - **Team size** 4
 - **Built With** flask, modal, openrouter, python, pytorch, transformers, wandb
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/samarth-bhargav/treehacks-amogus)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=xhi-_4qUExg)
 - **All event prizes (1)** &#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)
 - **Devpost checked** 2026-11-21 UTC
 - **Greylock** Capabilities evals: win-rate, deception/deduction ELO, persuasion benchmarks. Devpost gives no specific sponsor integration detail.
@@ -175,8 +175,8 @@ A software development tool compares solutions created by competing coding agent
 
 - **Team size** 3
 - **Built With** express.js, github-api, next.js, node.js, probot, smee.io, typescript, vercel, vercel-api, warp-oz-agent-sdk
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/TomBinford/treehacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=SbgnbmP28Js)
 - **All event prizes (1)** &#91;Warp&#93; Best Use of Warp Agents (Keychron Mechanical Keyboard for each team member)
 - **Devpost checked** 2026-11-21 UTC
 - **Warp** Agent execution: Warp Oz SDK to spawn and monitor parallel agent runs.
@@ -189,8 +189,8 @@ A home assistant supports older adults with daily routines and keeps their famil
 
 - **Team size** 4
 - **Built With** browserbase, claude, elevenlabs, fastapi, fluid-compute, mongodb, nextjs, node.js, openevidence, python, react, react-native, typescript, v0, vercel, vercel-ai-gateway, vercel-ai-sdk
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Kevinxygu/treehacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vFU1GSWrbRk)
 - **All event prizes (2)** &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro) · &#91;Decagon&#93; Best Conversation Assistant (Nintendo Switch 2 Mario Kart World Bundle Guaranteed onsite interviews for internship)
 - **Devpost checked** 2026-11-21 UTC
 - **Anthropic** The team used Browserbase's Stagehand, Claude, and ElevenLabs to automate web navigation across pharmacy websites, insurance portals, Uber, and healthcare systems.
@@ -204,8 +204,8 @@ Buy! is an AI agent marketplace that sells your stuff for you.
 
 - **Team size** 2
 - **Built With** browserbase, claude, fastapi, nextjs, openai, python, sqlite, stripe, tailwindcss, uv
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jpsingaraju/bye-buy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Dv-Bqklp-RE)
 - **All event prizes (2)** &#91;Browserbase&#93; Best Web Automation with Stagehand ($1,000) · &#91;Google&#93; Cloud AI Track
 - **Devpost checked** 2026-11-21 UTC
 - **Browserbase** Cloud browser sessions via Browserbase + Stagehand give the agents real browser access to Facebook Marketplace, and GPT models power the negotiation intelligence.
@@ -219,8 +219,8 @@ Using mass surveillance to keep people safe - predicting impact, affected areas,
 
 - **Team size** 4
 - **Built With** docker, earth2studio, fastapi, nvidia, python, pytorch, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alangrewco/treehacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=51RLdw6FQOg)
 - **All event prizes (1)** &#91;NVIDIA&#93; Edge AI Track
 - **Devpost checked** 2026-11-21 UTC
 - **NVIDIA** The fire-risk overlay is powered by NVIDIA Earth-2, which provides predictive weather patterns that indicate conditions conducive to forest fires.
@@ -233,8 +233,8 @@ Voice AI with RAG-powered clinical reasoning that proactively detects post-surgi
 
 - **Team size** 4
 - **Built With** claude-sdk, elasticsearch, elevenlabs, esql, express.js, html, javascript, perplexity-sonar, rag, react, tailwind-css, twilio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/JoyZhuoz/carelink)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=C60iv-taFpQ)
 - **All event prizes (1)** &#91;Elastic&#93; Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd Place: $1,000 (split across team members))
 - **Devpost checked** 2026-11-21 UTC
 - **Elastic** 1) Automate patient post-surgical follow-up through agentic and adaptive voice call. Devpost gives no specific sponsor integration detail.
@@ -247,8 +247,8 @@ Real-time music chord suggestions based on the elegant theory of 24D chroma vect
 
 - **Team size** 4
 - **Built With** claude, nextjs, perplexity, python, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/J4Joshua/JASS-APP)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=niFOu62-IwU)
 - **All event prizes (2)** &#91;Suno&#93; Best Musical Hack · Treehacks Grand Prize (3rd)
 - **Devpost checked** 2026-11-21 UTC
 - **Suno** ChromaChord is a real-time AI jazz assistant that listens to your improvisation and helps you navigate harmony. Devpost gives no specific sponsor integration detail.
@@ -261,8 +261,8 @@ Stop guessing gifts! Concierge lets 2 Poke agents collaborate with shared contex
 
 - **Team size** 4
 - **Built With** browserbase, bun, fastmcp, next.js, openai-platform, poke, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/andaero/treehacks26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=fjbazc6t0t4)
 - **All event prizes (2)** &#91;Browserbase&#93; Best Web Automation with Stagehand ($1,000) · &#91;The Interaction Company of California&#93; Build with Poke (Challenge 1: iPhone Air for everyone in the team Challenge 2: iPhone 17 Pro for everyone in the team Challenge 3: iPhone Air for everyone in the team Bonus: up to $100k in cash)
 - **Devpost checked** 2026-11-21 UTC
 - **Browserbase** The project lists browserbase among its Built With tags.
@@ -276,8 +276,8 @@ A wildfire response tool uses agent workflows and physical models to help evalua
 
 - **Team size** 4
 - **Built With** claude, codex, css, fastapi, google-gemini, gpt-4o, html, indexeddb, javascript, json, json-react-19, leaflet.js, node.js, openai, pydantic, python, react-19, react-leaflet, react-leaflet-fastapi-websockets-openai, vercel, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/maanitg/containment)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=EZNfc-7HeEc)
 - **All event prizes (1)** &#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)
 - **Devpost checked** 2026-11-21 UTC
 - **OpenAI** The system uses four coordinated GPT-4o reasoning agents that operate as a structured agent graph for fire behavior, risk assessment, notifications, and recommendations, alongside a Gemini-powered historical context component.
@@ -290,8 +290,8 @@ An onboard satellite agent evaluates possible debris collisions and proposes an 
 
 - **Team size** 4
 - **Built With** agents, cdm, cloudflare, dgx-spark, llm, nextjs, nvidia, shadcn, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/keanucz/detour)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=XTLts_t78IQ)
 - **All event prizes (1)** &#91;NVIDIA&#93; Edge AI Track
 - **Devpost checked** 2026-11-21 UTC
 - **NVIDIA** The project lists dgx-spark, nvidia among its Built With tags.
@@ -304,8 +304,8 @@ You can take a picture and choose from a range of filters to apply to your image
 
 - **Team size** 4
 - **Built With** python, raspberry-pi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alexkranias/diffuji)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=JiRth1HCIag)
 - **All event prizes (2)** &#91;Neo&#93; Most Likely to Become a Product · Most Creative
 - **Devpost checked** 2026-11-21 UTC
 - **Neo** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -318,8 +318,8 @@ Edamame creates AI clones of every employee by ingesting their Slack messages, G
 
 - **Team size** 4
 - **Built With** css, google, gpt-5.3, mem0, next.js, notion, octokit, react, slack, supabase, tailwind, tts, typescript, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/angelinaquan/edamame-treehacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6HlN98ilkzc)
 - **All event prizes (1)** &#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)
 - **Devpost checked** 2026-11-21 UTC
 - **Greylock** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -332,8 +332,8 @@ The self-modifying browser for maximizing productivity.
 
 - **Team size** 2
 - **Built With** aiohttp, chrome-extensions-api, fastapi, graph-rag, langchain, langsmith, manifest-v3, networkx, numpy, nvidia, nvidia-nim, nvidia-open-models, openai, openai-gpt-5, pydantic, python, react, sqlite, typescript, uvicorn, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/adeng27/evolve-browser)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=tJDPK8Kg8XE)
 - **All event prizes (1)** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
 - **Devpost checked** 2026-11-21 UTC
 - **Y Combinator** evolve(browser) pairs an advanced coding agent with complete browser context. Devpost gives no specific sponsor integration detail.
@@ -346,8 +346,8 @@ The hot new LLVM backend: compile your code to a spreadsheet.
 
 - **Team size** 3
 - **Built With** c, c++, javascript, llvm
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kognise/freak-in-the-sheets)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5Sb-QcEFHwg)
 - **All event prizes (2)** &#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total)) · Most Technically Complex
 - **Devpost checked** 2026-11-21 UTC
 - **Human Capital** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -360,8 +360,8 @@ Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity con
 
 - **Team size** 2
 - **Built With** codex, ebpf, elastic, elasticcloud, elasticsearch, framer, jina, lucide, next-themes, next.js, openai, radix, react, recharts, rust, shadcn, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Eth007/gallop)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=QRSf0SUPioM)
 - **All event prizes (1)** &#91;Elastic&#93; Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd Place: $1,000 (split across team members))
 - **Devpost checked** 2026-11-21 UTC
 - **Elastic** Essentially, Elastic provides the necessary retrieval and sensing system, and Gallop provides the reflexes and operational control plane, compressing detection-to-action cycles from human to operational timescales.
@@ -374,8 +374,8 @@ GridVeda gives powerline operators predictive failure detection at edge. Ensembl
 
 - **Team size** 4
 - **Built With** gpt-oss, html, jetson-nano, nemotron, node.js, perplexity, python, react, sonar, three.js, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/TheRaven5520/GridVeda)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=xun8Srjo-jY)
 - **All event prizes (1)** &#91;Stanford Ecopreneurship&#93; Sustainability: Best prototyping process
 - **Devpost checked** 2026-11-21 UTC
 - **Stanford Ecopreneurship** GridVeda is an AI-powered early warning system for electrical transformers that runs on-site at substations, predicting failures before blackouts occur. Devpost gives no specific sponsor integration detail.
@@ -388,8 +388,8 @@ A shared question-and-answer system lets AI agents reuse solutions and escalate 
 
 - **Team size** 4
 - **Built With** claude, cursor, elasticsearch, fetch.ai, modal, node.js, runpod, v0, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/IshaanChamoli/treehacks26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=K3BJroCnpJ8)
 - **All event prizes (2)** &#91;Fetch.ai&#93; Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. (Best Overall AI Agent Solution - $2500 Best Multi-Agent Workflow - $1500 Best Monetised Agent - $1000) · &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).)
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Cross-Agent Collaboration: Using Fetch.ai, agents can autonomously discover and utilize specialized logic developed by other agents in the network.
@@ -403,8 +403,8 @@ Left the doctor confused or worried you forgot something? Your grandparents prob
 
 - **Team size** 3
 - **Built With** assemblyai, claude, firebase, nextjs, openai, react, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/smallboar/HelloCare)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=45H1t7bpw9U)
 - **All event prizes (1)** &#91;Google&#93; Cloud AI Track
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists firebase among its Built With tags.
@@ -417,8 +417,8 @@ Match with the best applicants, powered by AI agents and TikTok's recommendation
 
 - **Team size** 3
 - **Built With** fastapi, html, numpy, openai, python, react, sqlite, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pahu2353/HireUp)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=a03VWeouYsk)
 - **All event prizes (1)** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
 - **Devpost checked** 2026-11-21 UTC
 - **Y Combinator** HireUp turns hiring from a volume game into a quality and fit game. Devpost gives no specific sponsor integration detail.
@@ -431,8 +431,8 @@ HIVE is your personal workforce that makes digital busywork obsolete. Launch a s
 
 - **Team size** 2
 - **Built With** browserbase, claude, fetch.ai, modal
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/bossbobster/hive)
+- **Demo video** [Video 1](https://vimeo.com/1165157193)
 - **All event prizes (1)** &#91;Browserbase&#93; Best Web Automation with Stagehand ($1,000)
 - **Devpost checked** 2026-11-21 UTC
 - **Browserbase** Context and session management while using a sandboxed VM (Browserbase): cookies and login info are saved so the agent knows what to do in the future.
@@ -445,8 +445,8 @@ Jiggle Wiggle is a real-time AI movement coach that works with three input modes
 
 - **Team size** 4
 - **Built With** elevenlabs, grok, heygen, mediapipe, openai, perplexity, python, render, typescript, zoom-sdk
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/cindyzli/jigglewiggle)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=kL3udtWY1EE)
 - **All event prizes (2)** &#91;Modal&#93; Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp; hotel) to SF or NY Office with lunch with Modal team,. Inference Track Runner Up Prize: $1K in Modal credits, airpods for each team member.) · &#91;Zoom x Render&#93; Best use of Zoom APIs + Render: (Bose Headphones x 4 Zoom Ocean Bottle x 4$2000 Render Credits)
 - **Devpost checked** 2026-11-21 UTC
 - **Modal** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -461,7 +461,7 @@ Drones map real buildings in minutes, creating AI-operable world models where as
 - **Team size** 4
 - **Built With** apple-depth-pro, css, css-frontend-react-18, csv, debian, debian-data-csv, dict), drones, eslint, fastapi, git, google-fonts, google-fonts-(inter)-backend/api-fastapi, heif, html, hub), hugging-face-(transformers, hugging-face-hub, inter, json, lucide-react, matplotlib, modal, modal-(serverless), mp4, mp4-databases-none-dev-eslint, numpy, numpy-platform/cloud-modal-(gpu, opencv, pil, pillow, pillow-heif, poke, pyright, pytest, python, pytorch, qwen-vl, qwen-vl-utils, react, react-router, rest, rest-ml/ai-pytorch, ruff, setuptools, timm, torchvision, transformers, typescript, vite, vllm, volumes
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rzGvQOiOc8c)
 - **All event prizes (1)** &#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))
 - **Devpost checked** 2026-11-21 UTC
 - **Human Capital** Keryx turns a real building into an AI-operable world. Devpost gives no specific sponsor integration detail.
@@ -474,8 +474,8 @@ Hate waiting on hold? kiru is a voice agent that actually calls companies, talks
 
 - **Team size** 3
 - **Built With** asyncio, fast-api, nextjs, node.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Pranav-Karra-3301/treehacks-26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=73PZw1LwPow)
 - **All event prizes (1)** &#91;Bright Data&#93; Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;)
 - **Devpost checked** 2026-11-21 UTC
 - **Bright Data** Before the call even starts, it does its homework: researching the company, pulling competitor pricing, finding leverage. Devpost gives no specific sponsor integration detail.
@@ -489,7 +489,7 @@ Built Minecraft in one shot - Burned $5500 running 100+ coding agents pushing at
 - **Team size** 4
 - **Built With** chatgpt, claude, cursor, modal, pidev, poke
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5oxXfazBcaQ)
 - **All event prizes (1)** &#91;Modal&#93; Sandbox Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Modal** Modal: Serverless GPU backend that runs each sandboxed agent at scale with high-performance compute and automatic resource provisioning.
@@ -502,8 +502,8 @@ Turn an everyday object into infinite instruments.
 
 - **Team size** 4
 - **Built With** gx10, nvidia, perplexity, qwen2.5-vl, suno, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/markmusic27/treehacks-26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7tlVRvY_3n8)
 - **All event prizes (1)** &#91;Suno&#93; Best Musical Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Suno** The output is passed to a Suno API pipeline to generate a full track based on what you played.
@@ -516,8 +516,8 @@ Minerva is an AI-powered virtual educator designed to provide structured, person
 
 - **Team size** 4
 - **Built With** claude, heygen, next, react, render, zoom
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/anton-3/minerva)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vK0Tob8xZKE)
 - **All event prizes (2)** &#91;HeyGen&#93; Best creation with HeyGen Avatar API (4 Airpod Pros 3, 1 year of HeyGen Creator license, guaranteed onsite interviews for FTE or intern roles) · &#91;Zoom&#93; Education Track
 - **Devpost checked** 2026-11-21 UTC
 - **HeyGen** The team used Next.js/React as the web framework, and connected HeyGen LiveAvatar to the Zoom Video SDK to display the avatar in the browser.
@@ -531,8 +531,8 @@ A voice and vision assistant maps rooms, helps older adults find misplaced objec
 
 - **Team size** 4
 - **Built With** depth-anything-v2, elevenlabs, fastapi, ffmpeg, google-cloud, google-gemini, gpt-5-mini, grounded-sam-2, grounding-dino, hloc, kotlin, lightglue, mapanything, mediamtx, meta-ray-ban-gen-3, modal, next.js, onnx-runtime, openai, openai-whisper, perplexity-sonar, postgresql, python, react, rtmp, supabase, superpoint, tailscale, tailwindcss, tts, twilio, typescript, viser, webrtc, yolov8
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nathanjzhao/treehacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UdgzCapZGrc)
 - **All event prizes (2)** &#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag) · Most Impactful
 - **Devpost checked** 2026-11-21 UTC
 - **OpenAI** The project lists gpt-5-mini, openai, openai-whisper among its Built With tags.
@@ -546,7 +546,7 @@ MIRA is an AI powered smart mirror that helps you decide what to wear and what t
 - **Team size** 4
 - **Built With** 11labs-api, cloud-deployment-services, elevenlabs, embedded, firecrawl, google-oauth, google-shopping-apis, heygen, javascript, mcp-server, mediapipe, node.js, openai-api, perplexity-sonar, pikalabs, poke-api, python, react, serp-api, two-way-mirror-hardware, typescript, vercel, vertical-monitor, vs-code
 - **Code** [Source 1](https://github.com/23jmo/mirrorless)
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ki_rh4TUoOQ)
 - **All event prizes (1)** &#91;Visa&#93; The Generative Edge: Future of Commerce ($10,000 total)
 - **Devpost checked** 2026-11-21 UTC
 - **Visa** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -559,7 +559,7 @@ Robots and self-driving cars need training data. Mirage synthesizes 3D world-mod
 
 - **Team size** 4
 - **Built With** gpu, modal, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kyan-yang/Mirage)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;Modal&#93; Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp; hotel) to SF or NY Office with lunch with Modal team,. Inference Track Runner Up Prize: $1K in Modal credits, airpods for each team member.)
 - **Devpost checked** 2026-11-21 UTC
@@ -574,7 +574,7 @@ Mobius runs for very long periods of time completely autonomously to complete al
 - **Team size** 4
 - **Built With** ai, anthropic, chatgpt, claude, elastic, jinai, modal, python, vercel
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=KB5vgGlufa4)
 - **All event prizes (2)** &#91;Modal&#93; Sandbox Challenge · &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
 - **Devpost checked** 2026-11-21 UTC
 - **Modal** Run on a modal sandbox for privacy and asynchronous running.
@@ -588,8 +588,8 @@ Shared coding agent context powered by RLMs. One Context, Run Everywhere.
 
 - **Team size** 4
 - **Built With** claude, cloudflare, mcp, modal, openai, python, uv
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/WingchunSiu/Monolith)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Ie0ZMGYPhS8)
 - **All event prizes (1)** &#91;Modal&#93; Sandbox Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Modal** The project lists modal among its Built With tags.
@@ -603,7 +603,7 @@ The geoengineering operating system for climate renewal. Predict natural disaste
 - **Team size** 3
 - **Built With** chatgpt, claude-code, earth2studio, gemini, graphcast, matplotlib, pandas, python, random-forest-classifier, v0, vercel, warp, xarray, zarr
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=BBR3-OXCjtU)
 - **All event prizes (1)** &#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability
 - **Devpost checked** 2026-11-21 UTC
 - **Stanford Ecopreneurship** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -616,8 +616,8 @@ NeuroBlocks is a visual, drag-and-drop educational platform for building and und
 
 - **Team size** 4
 - **Built With** anthropic, claude, fastapi, google-cloud, next.js, openai, postgresql, python, pytorch, runpod, supabase, tailwindcss, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tupdaily/NeuroBlocks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=kGlmRMJCSdg)
 - **All event prizes (1)** &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).)
 - **Devpost checked** 2026-11-21 UTC
 - **Runpod** The project lists runpod among its Built With tags.
@@ -631,7 +631,7 @@ NeuroBlocks is a visual, drag-and-drop educational platform for building and und
 - **Team size** 2
 - **Built With** anthropic, anthropic-sdk, brightdata, embedding, fastapi, hume, python, react, sqlite, tailwind, typescript, vite
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WwUi08k8dG4)
 - **All event prizes (1)** &#91;Bright Data&#93; Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;)
 - **Devpost checked** 2026-11-21 UTC
 - **Bright Data** NextOp is an end-to-end AI-powered transition coach with five core capabilities:. Devpost gives no specific sponsor integration detail.
@@ -644,8 +644,8 @@ The biggest lesson was that the right level of AI autonomy depends on the domain
 
 - **Team size** 4
 - **Built With** anthropic, fastapi, huggingface, javascript, modal, onnx, openai, plasmo, python, pytorch, react, stagehand, webgpu, webllm
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/csaye/ontab)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=76gxlzWBOzY)
 - **All event prizes (1)** &#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))
 - **Devpost checked** 2026-11-21 UTC
 - **Human Capital** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -659,7 +659,7 @@ The team introduce three core technical contributions:.
 - **Team size** 3
 - **Built With** claude, fastapi, modal, node.js, openai, vercel, vllm
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=p0ruAH5erME)
 - **All event prizes (1)** &#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)
 - **Devpost checked** 2026-11-21 UTC
 - **Greylock** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -672,8 +672,8 @@ Real-time knowledge graphs that make every lecture impossible to fall behind in.
 
 - **Team size** 4
 - **Built With** claude, claudehaiku, claudesonnet, express.js, flask, next.js, perplexity, postgresql, python, react, react-force-graph-2d, render, socket.io, supabase, tailwind, tailwindcss, typescript, zoom, zoomrtms
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jasonyi33/prereq)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Xaod8It2Wko)
 - **All event prizes (1)** &#91;Zoom&#93; Education Track
 - **Devpost checked** 2026-11-21 UTC
 - **Zoom** The project lists zoom among its Built With tags.
@@ -686,8 +686,8 @@ A prototype food-bank workflow pairs AI and robotics to collect and distribute f
 
 - **Team size** 2
 - **Built With** claude-agent-sdk, claude-code, claude-vision-api-(haiku-3.5), computer-vision, fetch.ai, html/css, poke-by-interaction-company, python, react, warp-ide
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/PranavViswanath/project-lend)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=hBcCNg_U3t4)
 - **All event prizes (1)** &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)
 - **Devpost checked** 2026-11-21 UTC
 - **Anthropic** The team basically replicated the entire front and back office of a traditional food rescue operation using the Claude Agent SDK as the brain:.
@@ -700,8 +700,8 @@ AI-native research engine to discover FDA-approved drug repurposing candidates f
 
 - **Team size** 4
 - **Built With** arxiv, diffdock, docker, fetch.ai, next.js, pdb, perplexity, pubchem, rcsb-protein-data-bank, rdkit, runpod, tailwind, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ezou1/tree26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rBBftD6zOhM)
 - **All event prizes (2)** &#91;Fetch.ai&#93; Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. (Best Overall AI Agent Solution - $2500 Best Multi-Agent Workflow - $1500 Best Monetised Agent - $1000) · &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).)
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Orchestrated agent flows using Fetch.ai – registered an agent on AgentVerse where it can be used in ASI:One, an alternative UI to the platform.
@@ -715,8 +715,8 @@ RescueRX is a multi-agent AI system that uncovers pre-existing drugs that could 
 
 - **Team size** 4
 - **Built With** knowledge-graph, machine-learning, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Donglomur/TreeHacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=bNT22FCYhoA)
 - **All event prizes (1)** &#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches)
 - **Devpost checked** 2026-11-21 UTC
 - **OpenEvidence** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -729,8 +729,8 @@ ShadowGuard is a network-layer AI firewall that detects and redacts sensitive pa
 
 - **Team size** 1
 - **Built With** css, d3.js, html, javascript, mitmproxy, node.js, openai, python, vapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shamanthak-hegde/ShadowGuard)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=n0ntGM6gGk8)
 - **All event prizes (1)** &#91;OpenEvidence&#93; Healthcare Track Grand Prize
 - **Devpost checked** 2026-11-21 UTC
 - **OpenEvidence** ShadowGuard is a real-time AI-powered PII firewall for hospitals. Devpost gives no specific sponsor integration detail.
@@ -743,8 +743,8 @@ A smart cane that guides indoor and outdoor navigation for blind people, costing
 
 - **Team size** 4
 - **Built With** accelerate, arduino, arkit, avfoundation, ble, c++, combine, corebluetooth, corehaptics, coreml, deeplabv3, freertos, gcp, nimble, swift, swiftui, vapi, vision
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tonywangs/shepherd)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=nJ5YjK1-0c0)
 - **All event prizes (3)** &#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches) · &#91;OpenEvidence&#93; Healthcare Track Grand Prize · Treehacks Grand Prize (1st)
 - **Devpost checked** 2026-11-21 UTC
 - **OpenEvidence** A small motor on the cane applies lateral force, nudging the cane left or right, so the user feels which direction is clear without needing audio cues or screen interaction. Devpost gives no specific sponsor integration detail.
@@ -758,8 +758,8 @@ Stop scrubbing videos. Start training models.
 
 - **Team size** 4
 - **Built With** bright-data, clip, modal, mongodb, react, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aedutta/shot-spot-treehacks-26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Tgwt2pgQVXs)
 - **All event prizes (2)** &#91;Bright Data&#93; Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;) · &#91;Modal&#93; Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp; hotel) to SF or NY Office with lunch with Modal team,. Inference Track Runner Up Prize: $1K in Modal credits, airpods for each team member.)
 - **Devpost checked** 2026-11-21 UTC
 - **Bright Data** Multi-product Bright Data integration – Web Scraper API, SERP API, and Web Unlocker working seamlessly.
@@ -773,8 +773,8 @@ Show Snappier your workflow once by recording your screen. AI figures out what y
 
 - **Team size** 2
 - **Built With** ai, anthropic-claude-(workflow-planning-&amp;-execution), api, chrome, clerk, cloudflare, composio, extensions, framer-motion-ai/llm:-google-gemini-(video-understanding), gemini, openai-whisper-(transcription), r2, react-19, react-flow, saas, sdk, tailwind-css, typescript, vercel, vitest, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nintang/snappier)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Mi4oWY_EkYc)
 - **All event prizes (2)** &#91;Graphite&#93; Most Likely to get Acquired by a Sponsor (OB–4 black bluetooth speaker) · &#91;Vercel&#93; Best Use of Vercel/Best Deployed on Vercel (2k cash prize + $2.4k in Pro-level access credits ($100/month for 4 winners, access for 6 months.)
 - **Devpost checked** 2026-11-21 UTC
 - **Graphite** Snappier turns screen recordings into automated workflows in 3 steps:. Devpost gives no specific sponsor integration detail.
@@ -788,8 +788,8 @@ A miniature robotic growing system monitors and tends a small farm.
 
 - **Team size** 4
 - **Built With** arduino, claude, cuda, disk-paging, gpio, gpio/i2c, i2c, jetson-nano, linux, memory-management, ollama, python, qwen
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/lethan3/cactushacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PbnM8TVgxBQ)
 - **All event prizes (1)** &#91;NVIDIA&#93; Edge AI Track
 - **Devpost checked** 2026-11-21 UTC
 - **NVIDIA** Edge AI Implementation: Successfully deploying a health-assessment model on the Jetson Nano that runs entirely offline/on-device.
@@ -802,7 +802,7 @@ A group chat assistant coordinates dinner plans and other errands.
 
 - **Team size** 2
 - **Built With** anthropic-api, browserbase, browserbase-stagehand, claude-agent-sdk, next.js, node.js, partiful, perplexity, perplexity-sonar, supermemory, tailwind, typescript, vapi, vercel, vercel-ai-sdk
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/priyanshbhatter24/sunday)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;Anthropic&#93; Best Use of Claude Agent SDK ($2,500 in Claude Developer Platform credits)
 - **Devpost checked** 2026-11-21 UTC
@@ -816,8 +816,8 @@ Claim-level truth forensics–trace any idea back to its origin and know what's 
 
 - **Team size** 2
 - **Built With** anthropic-claude-api, css, deepgram-api, fastapi, html, httpx, networkx, perplexity-sonar-api, pydantic, python, railway, react, react-router-dom, semantic-sonar-api, typescript, vercel, vite, x-api-v2
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/yravipati/TreeHacks-2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8encAO9qYUY)
 - **All event prizes (1)** &#91;Perplexity&#93; Best Use of Perplexity's Sonar API ($500 per team member and trip to Perplexity office)
 - **Devpost checked** 2026-11-21 UTC
 - **Perplexity** The team run an iterative reasoning loop pairing Perplexity's search capabilities with Claude's extended thinking for deep analytical reasoning.
@@ -830,8 +830,8 @@ Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching
 
 - **Team size** 2
 - **Built With** elasticsearch, fetch.ai, javascript, langchain, llms, python, rmts, zoom
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pb2323/TA-da)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=GuiFFxdgUZA)
 - **All event prizes (1)** &#91;Zoom&#93; Education Track
 - **Devpost checked** 2026-11-21 UTC
 - **Zoom** TA-DA is an AI-powered teaching assistant built natively into Zoom using the Real-Time Meeting SDK (RTMS).
@@ -844,8 +844,8 @@ OS of tomorrow, Claude Code of today.
 
 - **Team size** 4
 - **Built With** browserbase, claude, cloudflare, docker, elevenlabs, express.js, fastapi, groq, javascript, mcp, modal, next.js, openai, python, realitykit, sqlite, swift, swiftui, typescript, vercel, visionos
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/FO214/treehacks) · [Source 2](https://github.com/soooooooot/treehacks-agent-repo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=imelOPlGLgQ)
 - **All event prizes (1)** &#91;The Interaction Company of California&#93; Build with Poke (Challenge 1: iPhone Air for everyone in the team Challenge 2: iPhone 17 Pro for everyone in the team Challenge 3: iPhone Air for everyone in the team Bonus: up to $100k in cash)
 - **Devpost checked** 2026-11-21 UTC
 - **Interaction Company** The team allow you to manage all of your coding agents through a brand-new AR interface. Devpost gives no specific sponsor integration detail.
@@ -858,8 +858,8 @@ Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that c
 
 - **Team size** 1
 - **Built With** anthropic-claude-api, brightdata-mcp, browserbase/stagehand, cheerio, cloudflare-r2-+-kv, d3.js, elasticsearch-(serverless), express-5, framer-motion, heygen, jina-ai, leaflet.js, next.js-16, node.js, perplexity-sonar-api, python/fastapi, radix-ui, railway, react-19, react-force-graph-2d, recharts, shadcn/ui, socket.io, tailwind-css-4, tanstack-table, typescript, vercel, whisper, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/lourdrickvalsote/tonguekeeper)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=nCSd-ZjfpkI)
 - **All event prizes (1)** &#91;Perplexity&#93; Best Use of Perplexity's Sonar API ($500 per team member and trip to Perplexity office)
 - **Devpost checked** 2026-11-21 UTC
 - **Perplexity** The project lists perplexity-sonar-api among its Built With tags.
@@ -872,8 +872,8 @@ A Jetson-based retrofit tests autonomous driving functions in vehicles that were
 
 - **Team size** 4
 - **Built With** c++, cuda, holoscan, mqtt, nvidia, python, swift, thor
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/JoelGrayson/Treehacks2026) · [Source 2](https://github.com/bryandong24/treehacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=zEDVGfCVhaw)
 - **All event prizes (1)** &#91;NVIDIA&#93; Edge AI Track
 - **Devpost checked** 2026-11-21 UTC
 - **NVIDIA** The high-level reasoning layer runs NVIDIA's Alpamayo R1, a 10.5-billion parameter vision-language-action model.
@@ -886,8 +886,8 @@ AI-Native Infrastructure that Reimagines Trade Work for Blue-Collar Careers.
 
 - **Team size** 3
 - **Built With** c#, chatgpt, claude, css, git, github, javascript, metaxr, next.js, openxr, perplexity, shaders, stripe, supabase, tailwind, textmeshpro, typescript, unity, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Yaga-Yoink/tradeproof)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=087da__L-74)
 - **All event prizes (1)** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
 - **Devpost checked** 2026-11-21 UTC
 - **Y Combinator** The team also learned that local codes matter enormously. Devpost gives no specific sponsor integration detail.
@@ -900,8 +900,8 @@ A civic discussion tool connects proposed policy changes to the public input beh
 
 - **Team size** 2
 - **Built With** anthropic-claude, elasticsearch, fastapi, framer-motion, gemini, jina, mapbox, nextjs, openai-realtime, python, react, shadcn-ui, sqlite, tailwindcss, twilio, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/arihantjain4/Tribune)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CNRvU4jK34c)
 - **All event prizes (1)** &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)
 - **Devpost checked** 2026-11-21 UTC
 - **Anthropic** Integrated 5 AI providers (Gemini, OpenAI, Anthropic Claude, JINA, Elasticsearch) into a coherent pipeline.
@@ -914,8 +914,8 @@ A programming environment gives blind developers an accessible way to write and 
 
 - **Team size** 3
 - **Built With** agentverse, elasticsearch, electron, langgraph, perplexity, stagehand, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ledaniel0/treehacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aL9MrpwJXOA)
 - **All event prizes (1)** &#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)
 - **Devpost checked** 2026-11-21 UTC
 - **OpenAI** The system is fully conversational agentic operating system for visually-impaired users. Devpost gives no specific sponsor integration detail.
@@ -928,8 +928,8 @@ A voice shopping tool compares prices across stores and coordinates payments thr
 
 - **Team size** 4
 - **Built With** claude, elastic, fetch.ai, langchain, mcp, nextjs, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Sohamiscurious/TreeHacks2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZoUQvbh24mM)
 - **All event prizes (1)** &#91;Fetch.ai&#93; Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. (Best Overall AI Agent Solution - $2500 Best Multi-Agent Workflow - $1500 Best Monetised Agent - $1000)
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists fetch.ai among its Built With tags.
@@ -942,8 +942,8 @@ The team learned that translation from informal mathematics to formal language i
 
 - **Team size** 4
 - **Built With** amazon-web-services, fastapi, lean4, lora, modal, peft, pytorch, vllm, wandb
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aryans-15/zeta)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=RJV8a8PWkxQ)
 - **All event prizes (1)** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
 - **Devpost checked** 2026-11-21 UTC
 - **Y Combinator** The project page provides no specific sponsor integration detail in the indexed fields.

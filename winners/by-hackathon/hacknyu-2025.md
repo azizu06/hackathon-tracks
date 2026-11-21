@@ -31,8 +31,8 @@ AutoCPT automates medical billing by extracting CPT codes from doctor-patient ta
 
 - **Team size** 4
 - **Built With** capital-one, groq, python, react, react-native
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Techdude01/AutoCPT)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YdkI37ASM9w)
 - **All event prizes (1)** Best Use of AI powered by Reach Capital
 - **Devpost checked** 2026-11-21 UTC
 - **Reach Capital** AutoCPT listens to live speech, transcribes medical conversations, and extracts the most relevant CPT codes. Devpost gives no specific sponsor integration detail.
@@ -45,8 +45,8 @@ A decentralized car marketplace operating on the Solana block chain. No middleme
 
 - **Team size** 4
 - **Built With** anchor, blockchain, fastapi, llm, mongodb, nextjs, node.js, python, rust
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/HassanZafar-2021/AutoTrust)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=lWGJleFYmqM)
 - **All event prizes (1)** Track: Solana &amp; Blockchain Innovation
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** The project lists anchor among its Built With tags.
@@ -60,7 +60,7 @@ Have you ever imagined a world where navigation is effortless, safety is guarant
 - **Team size** 3
 - **Built With** c++, geopy, hardware, libraries, mediapipe, opencv, python, pyttx3, sensors, threading
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=gz_HUX_mEYY)
 - **All event prizes (1)** Track: Security and Privacy
 - **Devpost checked** 2026-11-21 UTC
 - **Nord Security** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -73,8 +73,8 @@ FirstWave transforms your organization’s approach to cybersecurity by simulati
 
 - **Team size** 2
 - **Built With** gpt-4o, mongodb, next.js, node.js, puppeteer, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Laphatize/firstwave)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=oLO9dA-NBEQ)
 - **All event prizes (1)** Track: Security and Privacy
 - **Devpost checked** 2026-11-21 UTC
 - **Nord Security** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -87,8 +87,8 @@ Giveo is a swipe-based app, built to connect users with a feed of charities pers
 
 - **Team size** 4
 - **Built With** fastapi, firebase, godaddy, h5, html, python, swift
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/spcoughlin/Giveo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=KTbUzU5nbEg)
 - **All event prizes (1)** Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** The project lists godaddy among its Built With tags.
@@ -116,7 +116,7 @@ An application that leverages Quantum Computing and Superposition to simulate mu
 - **Team size** 4
 - **Built With** ai/ml, bootstrap, css, flask, html, javascript, numpy, python, quantum
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=w15F0oFqkak)
 - **All event prizes (1)** Track: Fintech - Best Financial Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** QuStoch utilizes quantum computing principles to enhance financial market simulations. Devpost gives no specific sponsor integration detail.
@@ -129,7 +129,7 @@ Solana based game with a goal of winning an argument against a LLM.
 
 - **Team size** 1
 - **Built With** amazon-web-services, anchor, llm, mysql, node.js, openai, prisma, react, rust, solana
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/lawaldemur/HackNYU)
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=-JSJSiqH1JE)
 - **All event prizes (1)** Track: Solana &amp; Blockchain Innovation
 - **Devpost checked** 2026-11-21 UTC
@@ -144,7 +144,7 @@ SolHive is a platform to navigate NFT Markets &amp; Network Congestion with AI. 
 - **Team size** 4
 - **Built With** alchemyapi, graph, javascript, openai, pinata, python, react
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=anMExD1-qms)
 - **All event prizes (1)** Track: Solana &amp; Blockchain Innovation
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** The application provides real-time insights into Solana’s network performance by analyzing key metrics such as TPS, transaction fees, failed transactions, NFT trading volume, and minting activity.
@@ -157,8 +157,8 @@ SolMate – the AI agent that turns crypto talk into action. Voice-powered tradi
 
 - **Team size** 2
 - **Built With** eleven-labs, embedding-model, llama, mongodb, nextjs, phantom, smtp, solana, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/yusufsallam64/solmate)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WdXHG4r3xuk)
 - **All event prizes (1)** Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** Built RAG system using bge-large-en-v1.5 embeddings and MongoDB vector search.
@@ -171,7 +171,7 @@ Yes, you read that right – not just devnet, but mainnet-beta.
 
 - **Team size** 4
 - **Built With** python, react, realtime, rust, selenium, solana, twilio
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Loldude0/hacknyu)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Track: Solana &amp; Blockchain Innovation
 - **Devpost checked** 2026-11-21 UTC
@@ -186,7 +186,7 @@ Your Vision, Reborn. A complex collection of pipelines, all working in tandem to
 - **Team size** 3
 - **Built With** mongodb, opencv, python, solana, streamlit, transformers
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=kDdEKuB_Qy4)
 - **All event prizes (1)** Best Use of Streamlit
 - **Devpost checked** 2026-11-21 UTC
 - **Streamlit** The project lists streamlit among its Built With tags.

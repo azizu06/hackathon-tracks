@@ -6,6 +6,7 @@ from pathlib import Path
 import re
 from urllib.parse import urlsplit
 
+from fetch import verified_link
 from publish import HERE, dedup_project_rows, events, gallery_url
 
 
@@ -164,10 +165,7 @@ def write_lines(path, lines):
 def publish_links(urls, listed, label):
     if not urls:
         return "Listed on Devpost. HTTP 200 unverified." if listed else "None listed in recognized formats."
-    result = [f"[{label} {i}]({url})" for i, url in enumerate(urls, 1)]
-    if listed > len(urls):
-        result.append(f"{listed - len(urls)} additional listed links without HTTP 200 receipts")
-    return " · ".join(result)
+    return " · ".join(f"[{label} {i}]({url})" for i, url in enumerate(urls, 1))
 
 
 def render_event(path, rows):
@@ -303,13 +301,16 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         sponsor_groups[row["sponsor"]].append(row)
     covered_projects = len({r["url"] for r in rows})
     unique_projects = dedup_project_rows(rows)
-    verified_links = {kind: {url for url in urls if receipts.get(url, {}).get("status") == 200} for kind, urls in links.items()}
+    verified_links = {
+        kind: {url for url in urls if verified_link(url, receipts)}
+        for kind, urls in links.items()
+    }
     lines = [
         "# Sponsor-track directory build report", "",
         f"Indexed **{covered_projects:,} distinct projects**, **{len(event_groups)} editions**, "
         f"**{len(sponsor_groups)} sponsors** and **{len(rows):,} sponsor prize rows**.",
         "",
-        f"{sum(len(value) for value in candidates.values()):,} candidate sponsor award rows were found in the audited galleries. "
+        f"{sum(len(value) for value in candidates.values()):,} candidate award rows with named sponsors were found in the audited galleries. "
         "The candidate total includes Backrooms, whose Hyphenate prize was sponsor-reported. "
         "Each indexed Devpost Winner label was confirmed on both the gallery and its project page.",
         "",
@@ -372,13 +373,15 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         "When the project supplies only a stack tag or omits an integration description, the row labels that evidence.",
         "- Sponsor names come from the exact track label or its event prize description. "
         "General event awards remain visible in project prize lists.",
-        "- The HackMIT 2017 label `Sponsor Prize - Best FinTech Related Prize` has no sponsor identity in its public prize entry.",
+        "- HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. "
+        "The public prize entry supplies no sponsor identity, so those two awards fall outside the named-sponsor index.",
         "- Prize values come from the track label. Multiple placements, team totals, and service credits stay in the source wording.",
         "",
     ])
     for kind, urls in sorted(links.items()):
         status_counts = Counter(
-            str(receipts.get(url, {}).get("status") or receipts.get(url, {}).get("reason") or "unverified")
+            "redirect landed on HTTP 200" if url in verified_links[kind] and receipts[url]["status"] != 200
+            else str(receipts.get(url, {}).get("status") or receipts.get(url, {}).get("reason") or "unverified")
             for url in urls
         )
         lines.append(f"- {kind.capitalize()} link check results by status: {tally_text(ranked(status_counts))}.")

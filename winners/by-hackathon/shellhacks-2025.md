@@ -50,8 +50,8 @@ A Google Chrome extension that elevates the limitations of people with disabilit
 
 - **Team size** 3
 - **Built With** agent-based, css, fastapi, gemini, google-cloud-ai, googleadk, html, javascript, python, restapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ibraouh/a11y-tools)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=evGVk7XjDH4)
 - **All event prizes (1)** Google Cloud
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemini, google-cloud-ai among its Built With tags.
@@ -64,8 +64,8 @@ Depending on the task, an orchestrator agent decided which specialized agents to
 
 - **Team size** 4
 - **Built With** bigquery, express.js, fastapi, gemini, node.js, pyarrow, react, tensorflow, typescript, yolov11
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dominickdupuy/InvoiceFraudDetector)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aegOE2791Ow)
 - **All event prizes (1)** Capital One
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -92,8 +92,8 @@ Beacon is a smart navigation app that helps users plan safe routes by having rea
 
 - **Team size** 4
 - **Built With** expo-go, expo.io, express.js, figma, firebase, firestore, google-cloud, google-directions, google-maps, javascript, json, nativewind, node.js, postman, reactnative, realtime-database, typescript.jsx
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Bashguy/Beacon)
+- **Demo video** [Video 1](https://vimeo.com/1123425305)
 - **All event prizes (1)** Google
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists firebase, google-cloud among its Built With tags.
@@ -106,8 +106,8 @@ The hack provides the user a navigational interface similar to other popular nav
 
 - **Team size** 4
 - **Built With** css, ec2, ffmpeg, flask, git, github, html, javascript, json, opencv, python, react, react-native, typescript, yolo
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/davidrobinson05/birds-eye)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=lzUBJfDPxwM)
 - **All event prizes (2)** Assurant · Waymo
 - **Devpost checked** 2026-11-21 UTC
 - **Assurant** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -121,8 +121,8 @@ AI-powered browser extension that protects infant brain development by detecting
 
 - **Team size** 2
 - **Built With** adk, django, gcp, gemini, javascript, multimodalaiagents, openai, promptengineering, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/abbasidaniyal/BrainSafe)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aABEnFQ2MPE)
 - **All event prizes (1)** Google Cloud
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gcp, gemini among its Built With tags.
@@ -136,7 +136,7 @@ Meet ClariTA, your late-night study partner! Make studying easier by uploading y
 - **Team size** 4
 - **Built With** drizzle, express.js, javascript, node.js, postgresql, react, supabase, typescript, vite
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=lab8c8u5a7M)
 - **All event prizes (1)** Assurant
 - **Devpost checked** 2026-11-21 UTC
 - **Assurant** ClariTA is an AI-powered teaching assistant that transforms lecture slides into interactive learning experiences. Devpost gives no specific sponsor integration detail.
@@ -149,8 +149,8 @@ Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body 
 
 - **Team size** 4
 - **Built With** css3, electron, gemini, google-a2a, google-adk, html5, matplotlib, myoware-2.0, numpy, pandas, python, react, scikit-learn, tensorflow, typescript, vite, whisper, xiao-sense
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/DanielJEfres/ctrl-arm)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=81FJv9Wgcoo)
 - **All event prizes (1)** Microsoft
 - **Devpost checked** 2026-11-21 UTC
 - **Microsoft** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -164,7 +164,7 @@ The app EcoSort makes sustainability simple by helping people build better recyc
 - **Team size** 4
 - **Built With** base44, css, github, javascript
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=p3F8s9jy8qk)
 - **All event prizes (2)** 1st, 2nd, &amp; 3rd Best Overall · Wix.com &amp; Base44
 - **Devpost checked** 2026-11-21 UTC
 - **Wix / Base44** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -177,8 +177,8 @@ Breaking language barriers, one word at a time.
 
 - **Team size** 3
 - **Built With** azure, azurecognitiveservices, chrome, chromeextensionapi, css, html, javascript, webaudioapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/EzSpeak-development/EzSpeak-frontend)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0lh1fenJgQw)
 - **All event prizes (1)** Google
 - **Devpost checked** 2026-11-21 UTC
 - **Google** EzSpeak listens to the audio from your current browser tab. Devpost gives no specific sponsor integration detail.
@@ -191,8 +191,8 @@ Transform any GitHub repository into an interactive, visual tree structure. AI-p
 
 - **Team size** 4
 - **Built With** docker, elevenlabs, express.js, fastapi, gemini, githubapi, godaddy, javascript, openai, python, react, reactflow, vercel, voice-delivery-system
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/hieunguyent12/shellhacks25)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=oo69VDuMhTU)
 - **All event prizes (1)** Github
 - **Devpost checked** 2026-11-21 UTC
 - **GitHub** GitFlow is a full-stack web application that revolutionizes how developers explore and understand GitHub repositories. Devpost gives no specific sponsor integration detail.
@@ -205,8 +205,8 @@ GreenLight turns dashcam footage into a learning tool. Incidents become 3D simul
 
 - **Team size** 4
 - **Built With** adk, firebase, gemini, google, python, react, shadcn, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/thashin04/GreenLight-Driving)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WQnBQUI-LtE)
 - **All event prizes (1)** State Farm
 - **Devpost checked** 2026-11-21 UTC
 - **State Farm** GreenLight is an AI-powered educational platform that helps users become safer drivers through immersive, personalized learning. Devpost gives no specific sponsor integration detail.
@@ -219,8 +219,8 @@ AI powered ergonomic for healthier minds and bodies.
 
 - **Team size** 4
 - **Built With** google-adk, google-cloud, mediapipe, python, supabase, uv, yolov11
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/abrown33914/iMPOSTURE)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=MXY6PnkB3dA)
 - **All event prizes (1)** Google Cloud
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists google-cloud among its Built With tags.
@@ -233,8 +233,8 @@ AI powered ergonomic for healthier minds and bodies.
 
 - **Team size** 4
 - **Built With** django, git, github, postgresql, python, react, tailwindcss, wolfram-technologies
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/npastrami/IntelligentPokerLeague)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=mRHBn9dJj4c)
 - **All event prizes (1)** Wolfram
 - **Devpost checked** 2026-11-21 UTC
 - **Wolfram** The project lists wolfram-technologies among its Built With tags.
@@ -247,8 +247,8 @@ Memory just moved from your brain to your frames. Your memories are getting a fi
 
 - **Team size** 4
 - **Built With** api, expo.io, express.js, fastapi, firebase, googlea2a, googleadk, metaglasses, ollamaai, python, reactnative, typescript, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kgand/shellhacks25)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=L-pTiP87G1A)
 - **All event prizes (1)** MLH &#124;&#124; Best Domain Name from GoDaddy Registry &#124;&#124; Digital Gift Card
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -262,7 +262,7 @@ Smart student budgeting app that gives students from monthly financial plans to 
 - **Team size** 2
 - **Built With** base44, javascript, react
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=59egQoVTbTw)
 - **All event prizes (1)** Wix.com &amp; Base44
 - **Devpost checked** 2026-11-21 UTC
 - **Wix / Base44** Money Sensei converts a student’s monthly transaction PDF into clear, actionable insight. Devpost gives no specific sponsor integration detail.
@@ -276,7 +276,7 @@ Learn how to take your Next Step in insurance education by practicing in high pr
 - **Team size** 4
 - **Built With** flask, nextjs, python, react, tailwind-css, typescript, vapi
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=72e2HA9fW8Y)
 - **All event prizes (1)** State Farm
 - **Devpost checked** 2026-11-21 UTC
 - **State Farm** The team learned even more about git and github, especially the first time hackers in the team. Devpost gives no specific sponsor integration detail.
@@ -289,8 +289,8 @@ Leverages computer vision, GPS, and crowdsourcing to detect potholes, warn drive
 
 - **Team size** 4
 - **Built With** ai, express.js, gcp, github-actions, google, google-maps, mongodb, node.js, react, roboflow, shadcn, tailwindcss, typescript, vite, yolov8
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/OpenPotholeMap/open-pothole-map-repo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=anqbJP1ct0A)
 - **All event prizes (1)** Waymo
 - **Devpost checked** 2026-11-21 UTC
 - **Waymo** OpenPotholeMap is a crowdsourced pothole mapping system. Devpost gives no specific sponsor integration detail.
@@ -303,8 +303,8 @@ A web-app developed to help prep students for their technical interviews through
 
 - **Team size** 4
 - **Built With** gemini, javascript, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Albertoh16/Bear-Necessities)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=uNDWa84R2Aw)
 - **All event prizes (2)** Assurant · Microsoft
 - **Devpost checked** 2026-11-21 UTC
 - **Assurant** Company Research Tool 🏢 Enter a company’s website, and PrepBear digs up insights about its history, culture, and values. Devpost gives no specific sponsor integration detail.
@@ -318,8 +318,8 @@ An original choose-your-own-adventure story born in VR: tabletop storytelling tu
 
 - **Team size** 4
 - **Built With** c#, oculus-gear-vr, quest3, unity, vr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/hverd004/Quest_and_Conflicts_VR)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rvIY5CLoFOE)
 - **All event prizes (1)** Netflix
 - **Devpost checked** 2026-11-21 UTC
 - **Netflix** And even some cool blender and animation tricks. Devpost gives no specific sponsor integration detail.
@@ -332,8 +332,8 @@ Text-to-speech is a near-essential tool for the legally blind; However, normal t
 
 - **Team size** 4
 - **Built With** ai, easyocr, flask, gemini-api, git, github, html, javascript, mediapipe, next.js, python, react, tailwind-css, text-to-speech-api
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/groffbo/sight-to-speech)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=LW55VXFaXiE)
 - **All event prizes (1)** MLH &#124;&#124; Best Use of Gemini API &#124;&#124; Mechanical Keyboards
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemini-api among its Built With tags.
@@ -346,8 +346,8 @@ Sylly is a smart academic organizer that centralizes courses, assignments, and s
 
 - **Team size** 4
 - **Built With** auth0, node.js, prisma, react, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alejandro0955/sylly-backend)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=j3aqd9J_kWA)
 - **All event prizes (1)** MLH &#124;&#124; Best Use of Auth0 &#124;&#124; Wireless Headphones
 - **Devpost checked** 2026-11-21 UTC
 - **Auth0** Auth0 integration actually worked end to end.
@@ -361,7 +361,7 @@ Gamified Experience: Players engage in quirky yet educational tasks, from fetchi
 - **Team size** 4
 - **Built With** adobe, next.js, react
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=LhTFg3cLcq8)
 - **All event prizes (2)** Netflix · State Farm
 - **Devpost checked** 2026-11-21 UTC
 - **Netflix** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -376,7 +376,7 @@ Tyodor is a 10-year-old AI that students teach to, reinforcing learning while gi
 - **Team size** 2
 - **Built With** css, flask, googleai, html, javascript, openai, python
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=55OuqH7E-lA)
 - **All event prizes (1)** Google
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The team integrated Google Gemini AI via its OpenAI-compatible interface to power the AI learning assistant, with sophisticated prompts and NLP capabilities to ensure context-aware student interactions.
@@ -390,7 +390,7 @@ A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 - **Team size** 3
 - **Built With** gemini, google-adk, jetson-orin, python, react, typescript, yolo
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0t4X0DoKbsc)
 - **All event prizes (3)** Microsoft · NVIDIA · Waymo
 - **Devpost checked** 2026-11-21 UTC
 - **Microsoft** A robot, a control panel, and a group of Google ADK AI agents controlling its every move. Devpost gives no specific sponsor integration detail.
@@ -405,7 +405,7 @@ The team describes the project as “Math Visuals Made Simple”.
 
 - **Team size** 1
 - **Built With** manim, numpy, python, wolfram-technologies, wolframscript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Alans44/wolfranimation)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Wolfram
 - **Devpost checked** 2026-11-21 UTC

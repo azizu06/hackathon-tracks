@@ -33,8 +33,8 @@ A virtual pet whose physical wellness depends on your financial wellness.
 
 - **Team size** 4
 - **Built With** css, flask, gemini, html, isolationforest, mongodb, nessie, python, react, scikit-learn, tanstack, vite, zustand
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/team-moondust/BudgetBuddy-backend) · [Source 2](https://github.com/team-moondust/BudgetBuddy-frontend) · [Source 3](https://github.com/team-moondust/BudgetBuddy-notifications-api)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4BS5oXi7l7U)
 - **All event prizes (2)** Best Bitcamp Hack - Bitcamp · Best Financial Hack - Capital One
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** Integrated the Nessie API to simulate real-world financial transactions.
@@ -47,7 +47,7 @@ Burnout Buddy watches your steps, commits, and eye bags to decide if you need a 
 
 - **Team size** 3
 - **Built With** chart.js, conda, cors, dlib, fitbitapi, flask, gemini, githubapi, mediapipe, mongodb, openai, opencv, pymongo, python, react, restapi, spline, spotifyapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/CSin007/Bitcamp2025)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
@@ -62,7 +62,7 @@ This project integrates quantum simulation and machine learning to:.
 - **Team size** 4
 - **Built With** cuda, javascript, numpy, os, pandas, pennylane, python, pytorch, react
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DdIYIRiyi7E)
 - **All event prizes (1)** Best Hack Promoting Public Health - Bloomberg
 - **Devpost checked** 2026-11-21 UTC
 - **Bloomberg** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -75,8 +75,8 @@ Mobile app for users to find and share recipes. Allows for automatic calculation
 
 - **Team size** 4
 - **Built With** cheerio, cooklang, css, expo.io, figma, firebase, github, html, puppeteer, react-native, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/anhatthezoo/bitcamp2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=yF3dHHbZJn8)
 - **All event prizes (1)** Best Web Hack Using React - Peraton
 - **Devpost checked** 2026-11-21 UTC
 - **Peraton** CookHub supports many features, including the following:. Devpost gives no specific sponsor integration detail.
@@ -103,7 +103,7 @@ Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 
 - **Team size** 3
 - **Built With** css, fastapi, figma, python, react, volatility
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AHumanMaybe/forens-tech)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Digital Forensics Related Hack - Cipher Tech Solutions
 - **Devpost checked** 2026-11-21 UTC
@@ -117,8 +117,8 @@ Jesture is a magical gesture-based drawing experience where your hands become th
 
 - **Team size** 1
 - **Built With** gemini, google, google-genai, mediapipe, opencv, python, raylib, tensorflow
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jinson-j/jesture)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=K0joSJFCJzc)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemini among its Built With tags.
@@ -132,7 +132,7 @@ Jesture is a magical gesture-based drawing experience where your hands become th
 - **Team size** 3
 - **Built With** express.js, materialui, mongodb, node.js, photoshop, postman, react
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=hJH72qWVECM)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of .Tech
 - **Devpost checked** 2026-11-21 UTC
 - **.Tech Domains** Enter Koalafied , a gamified way to keep track of your job applications and important information like interviews and offers. Devpost gives no specific sponsor integration detail.
@@ -145,7 +145,7 @@ Fighting Drug Waste, Fueling Health Equity.
 
 - **Team size** 4
 - **Built With** css, flask, googleauth, html, javascript, mapbox, openfda, python, react, sqlite, tailwind, terpai
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/arsh-goenka/MedSave)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of GenAI in Business - Cloudforce/Microsoft
 - **Devpost checked** 2026-11-21 UTC
@@ -173,8 +173,8 @@ Complex API management and integration, especially in dynamic, real-time scenari
 
 - **Team size** 4
 - **Built With** browser-use, elevenlabs, flask, gemini, google-flights, google-hotels, google-map-tiles, google-maps, mongodb, n8n, openai, python, react, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Vitthal-Agarwal/travel)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dqq1xoLwDOY)
 - **All event prizes (1)** Best Use of GenAI in Business - Cloudforce/Microsoft
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudforce / Microsoft** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -188,7 +188,7 @@ SkinForReal is a GenAI skincare app that uses daily selfies to detect skin issue
 - **Team size** 2
 - **Built With** azure, cloudforce, faceai, flutter, terpai, vscode
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=hbxiwaTTwiw)
 - **All event prizes (1)** Best Use of GenAI in Business - Cloudforce/Microsoft
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudforce / Microsoft** SkinForReal analyzes your skin using a daily post-wash selfie and delivers real-time, personalized feedback on your skin’s condition — powered by TerpAI and Microsoft Azure Face API. Devpost gives no specific sponsor integration detail.
@@ -201,8 +201,8 @@ Tariffs made simple — track, compare, and calculate in seconds.
 
 - **Team size** 4
 - **Built With** cheerio, chrome-extension-api, chrome-extension-types, gemini, mongodb, next.js, react, tailwind, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Adr1an04/Tariffix)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OPF4dyn6LrM)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** The project lists mongodb among its Built With tags.
@@ -216,7 +216,7 @@ The team describes the project as “Speak worlds into reality”.
 - **Team size** 3
 - **Built With** gemini, glsl, google-gemini, google-web-speech-api, graphics, next, react, tailwind, three.js, webgl
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HXS_7HzJmYo)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Gemini API · Prettiest Hack - Alumni Team
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The team then embedded it all using OpenAI's embedding models to a RAG database using ChromaDB to make Gemini even more powerful.

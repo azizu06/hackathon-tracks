@@ -115,8 +115,8 @@ Independent Agentic AI oversight that tracks every dollar from owner to manageme
 
 - **Team size** 4
 - **Built With** .md, agent, agentic, ai, fintech, github, hacker, python, readme, typescript, ux/ui, visual-studio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ozr0013/AccountableAI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3eNnbQb081M)
 - **All event prizes (1)** &#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)
 - **Devpost checked** 2026-11-21 UTC
 - **Microsoft** AccountableAI is an AI-powered financial visibility and payment tracking platform connecting property owners, management companies, and vendors. Devpost gives no specific sponsor integration detail.
@@ -129,8 +129,8 @@ A loan marketplace where AI agents negotiate for you but can't be tricked: a ref
 
 - **Team size** 3
 - **Built With** accurateappend, anthropic, atdata-fraudfinder, claude, claude-code, crs-credit-api, css3, equifax, experian, fastapi, github, html5, javascript, postman, pydantic, pytest, python, requests, server-sent-events, transunion, uvicorn
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/karanpdx/calhacks-13)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_F54ewxZ2YY)
 - **All event prizes (1)** &#91;CRS&#93; Best Use of CRS API
 - **Devpost checked** 2026-11-21 UTC
 - **CRS** It runs on the live CRS sandbox, falls back to saved data one product at a time, and says so on screen when it does.
@@ -144,7 +144,7 @@ Anima Labs is an agentic development environment for computational neuroscience.
 - **Team size** 4
 - **Built With** arxiv, creao, docker, europe-pmc, fastapi, modworm, motion, next.js, numpy, openworm, pandas, postgresql, pydantic, python, react, redis, rq, scipy, sqlalchemy, supabase, tailwindcss, three.js, typescript, webgpu
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UBaKKoPopSg)
 - **All event prizes (2)** &#91;Creao AI&#93; Best AI-First Disruptor · &#91;MLH&#93; Commit Fellowship
 - **Devpost checked** 2026-11-21 UTC
 - **Creao** Study analyst: Interprets saved simulation measurements and generates figures, cited manuscripts, and downloadable LaTeX PDFs inside CREAO.
@@ -158,8 +158,8 @@ A motorsport asset manager automates work on vehicle hardware and sends novel de
 
 - **Team size** 4
 - **Built With** apify, azure-container-apps, azure-key-vault, azure-openai, bicep, claude, docker, fastapi, jolpica-f1-api, microsoft-dynamics-365-business-central, microsoft-outlook, microsoft-teams, node.js, numpy, openf1, pydantic, python, react, spacetimedb, three.js, typesafe, typescript, vite, vitest
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/gaviiin/calhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=x9xjdEn8OcE)
 - **All event prizes (1)** &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
 - **Devpost checked** 2026-11-21 UTC
 - **Hyphenate** Most of what happens after a crash is routine: the same parts, booked the same way. Devpost gives no specific sponsor integration detail.
@@ -172,8 +172,8 @@ Argo is your real-time Jira assistant for meetings. Don't worry about managing J
 
 - **Team size** 3
 - **Built With** atlassian, cartesia, claude, codex, forge, jira, node.js, python, shell, spacetimedb, swift, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Babagesh/Argo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Drz3VmP_8tU)
 - **All event prizes (1)** &#91;Atlassian&#93; Best Agent / Best Security Solution for Agents
 - **Devpost checked** 2026-11-21 UTC
 - **Atlassian** The project lists atlassian among its Built With tags.
@@ -200,8 +200,8 @@ A wearable tracks crowd conditions and helps attendees reconnect with their grou
 
 - **Team size** 4
 - **Built With** bright-data, c++, capital-one-nessie, claude, elastic-agent-builder, elastic-workflows, elasticsearch, kibana, opencv, python, react, rust, spacetimedb, sql, three.js, typescript, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/viktorinkov/cal-hacks-13)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=K7r8HDhk8a4)
 - **All event prizes (1)** &#91;Spacetime&#93; Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** Every attendee gets a BandIt band at the door. Devpost gives no specific sponsor integration detail.
@@ -214,8 +214,8 @@ A mobile finance prototype turns market events into short research tasks and wai
 
 - **Team size** 2
 - **Built With** activitykit, anthropic, app-intents, base, claude, coinbase-advanced-trade, coinbase-cli, fastify, github-actions, model-context-protocol, node.js, postgresql, render, supabase, swift, swiftui, typescript, usdc, x402, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/adylagad/baseland)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=wzT5thvdSHw)
 - **All event prizes (1)** &#91;Figma&#93; Best Stage Log
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** Baseland turns a market event into a Play : a short mission with a trigger, a window, an order, exits and a Leash of hard limits. Devpost gives no specific sponsor integration detail.
@@ -228,8 +228,8 @@ Bellhop uses voice agents to help victims of fraud receive timely, structured as
 
 - **Team size** 2
 - **Built With** bitdeer, cartesia, claude, convex, crs, git, nessie, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Happy-Key/Bellhop)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=h9w0MqiIO4o)
 - **All event prizes (1)** &#91;Bitdeer AI&#93; Best Use of Bitdeer AI Model Studio
 - **Devpost checked** 2026-11-21 UTC
 - **Bitdeer AI** Bellhop deploys voice agents to process fraud claims for banks and card issuers. Devpost gives no specific sponsor integration detail.
@@ -242,8 +242,8 @@ BrickBots lets you plan and assemble a robot from real parts in your browser.
 
 - **Team size** 3
 - **Built With** apify, bitdeer, claude, context.dev, convex, drei, fastapi, gemini, opencascade, python, react, react-three-fiber, three-mesh-bvh, three.js, typescript, vercel, vite, webassembly, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nnapper/calhacks-13.0-brickbots)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NaJhNkEO_Bk)
 - **All event prizes (1)** &#91;Apify&#93; 1st Customer Award
 - **Devpost checked** 2026-11-21 UTC
 - **Apify** The project lists apify among its Built With tags.
@@ -256,8 +256,8 @@ An autonomous finance team where nothing moves without proof: Creao agents pick 
 
 - **Team size** 3
 - **Built With** anthropic-claude, creao, crs-credit-api, fastify, framer-motion, nessie, node.js, react, react-three-fiber, recharts, sqlite, tailwindcss, three.js, typescript, vite, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/anagpal18/CalHacks13.0)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NeESl1hYsCw)
 - **All event prizes (2)** &#91;Creao AI&#93; Best Team Empowerment · &#91;CRS&#93; Best Use of CRS API
 - **Devpost checked** 2026-11-21 UTC
 - **Creao** Every decision-making agent runs on Creao .
@@ -272,7 +272,7 @@ Campanion turns college wellness into a game. Your pet avatar reflects how you s
 - **Team size** 4
 - **Built With** firebase, google-calendar-api, javascript, mana, oauth, react, svg, tailwind-css
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=c00p0ouf_hw)
 - **All event prizes (1)** &#91;Mana&#93; Best Use of Mana
 - **Devpost checked** 2026-11-21 UTC
 - **Mana** The team built Campanion with Mana, using React for the interface and Firebase for persistent data and real-time updates.
@@ -285,8 +285,8 @@ Solo founder doesn't mean solo employee. Cofounder is your entire AI staff—it 
 
 - **Team size** 1
 - **Built With** apify, capital-one, convex, creao, nessie
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/princymaheshwari/CoFounder)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=GWiMsCl8rP4)
 - **All event prizes (1)** &#91;Apify&#93; Best Use of Apify
 - **Devpost checked** 2026-11-21 UTC
 - **Apify** Marketing runs on what's happening right now, using Apify and LinkedIn.
@@ -299,8 +299,8 @@ Don’t take its word for it. Watch it.
 
 - **Team size** 2
 - **Built With** atlassian-forge, azure, caddy, confluence, docker, factory-droid, fastify, github-api, greptile, jira, node.js, playwright, postgresql, rovo, typescript, websockets, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jadenmli/credo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NZFvDoftuiY)
 - **All event prizes (1)** &#91;Atlassian&#93; Best Agent / Best Security Solution for Agents
 - **Devpost checked** 2026-11-21 UTC
 - **Atlassian** The project lists atlassian-forge among its Built With tags.
@@ -313,8 +313,8 @@ A platform helps students stay connected to class during medical care.
 
 - **Team size** 2
 - **Built With** anthropic, cartesia, claude, convex, css, fastapi, figmamake, notability, pydantic, react, sqlalchemy, sqlite, typescript, vercel, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Samvidab/CuraLink)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=P6o2dWYYxjU)
 - **All event prizes (1)** &#91;Notability&#93; Best Use of Notability
 - **Devpost checked** 2026-11-21 UTC
 - **Notability** The project lists notability among its Built With tags.
@@ -327,8 +327,8 @@ A shopping assistant flags product recommendations that may be based on manipula
 
 - **Team size** 3
 - **Built With** anthropic, apify, chrome, claude, convex, creao, godaddy, javascript, openapi, react, three.js, typescript, vercel, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/deadinternettheory-calhacks/dead-internet-theory)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6chLVx2E-yM)
 - **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** The project lists godaddy among its Built With tags.
@@ -341,8 +341,8 @@ A risk-aware debt autopilot for people whose income changes every week: it finds
 
 - **Team size** 1
 - **Built With** anthropic, capital-one-nessie, claude, convex, crs-credit-api, next.js, node.js, react, typescript, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/thebreezyguy1/debtpilot)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=QQd0eGK-NIQ)
 - **All event prizes (1)** &#91;CRS&#93; Best Use of CRS API
 - **Devpost checked** 2026-11-21 UTC
 - **CRS** Real sandbox, synthetic people: CRS reports are for CRS's provided test identities; the Nessie account and deposits are created by DebtPilot.
@@ -355,8 +355,8 @@ An interface lets users assign keyboard actions to physical surfaces.
 
 - **Team size** 4
 - **Built With** agentverse, anthropic, asi-one, claude, computer-vision, fastapi, fetch.ai, html, javascript, mana, mediapipe, one-euro-filter, opencv, pynput, pytest, python, uagents, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Shrithan/DESK)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UpsJVbuEsIU)
 - **All event prizes (1)** &#91;Fetch.ai&#93; Best Use of ASI:One
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists agentverse, asi-one, fetch.ai, uagents among its Built With tags.
@@ -369,8 +369,8 @@ An app where AI agents read every nearby store's Instagram, TikTok, and website 
 
 - **Team size** 3
 - **Built With** anthropic-api, apify, bright-data, claude, clerk, convex, elasticsearch, expo-notifications, expo-router, expo.io, fastapi, figma, github-actions, jina-ai, kibana, pydantic, pytest, python, react-native, react-native-maps, reanimated, render, typescript, vitest
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/azh05/dibs-app)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YFD5S7mlP5E)
 - **All event prizes (1)** &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data
 - **Devpost checked** 2026-11-21 UTC
 - **Bright Data** Choose from 72 store types (boba, cafés, gyms, barbershops, nails, grocery, nightlife and more) and how far you'll go. Devpost gives no specific sponsor integration detail.
@@ -383,8 +383,8 @@ A student caseworker looks up immigration and finance rules and asks the student
 
 - **Team size** 4
 - **Built With** agentverse, anthropic, apify, asi-one, capital-one-nessie, cartesia, claude, convex, fetch.ai, mana, pydantic, python, react, reportlab, typescript, uagents
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AnushaAgarwal27/Docket)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=nAIJZyXKaSo)
 - **All event prizes (2)** &#91;Fetch.ai&#93; Best Use of Fetch.ai · &#91;Mana&#93; Best Use of Mana
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists agentverse, asi-one, fetch.ai, uagents among its Built With tags.
@@ -398,8 +398,8 @@ Life opens new doors. dor keeps old ones from closing, and helps you find your w
 
 - **Team size** 4
 - **Built With** apify, cartesia, claude, clerk, css, factory, figma, indexeddb, next.js, react, spacetimedb, tailwind, typescript, web, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rishibagri/dor-calhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=LXBGN2EFTMo)
 - **All event prizes (1)** &#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI
 - **Devpost checked** 2026-11-21 UTC
 - **Meta** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -412,8 +412,8 @@ Smart glasses coach workers with intellectual and developmental disabilities thr
 
 - **Team size** 3
 - **Built With** 3d-printing, accessibility, anthropic, arduino, bitdeer, cartesia, claude, fastapi, gemini, mediapipe, moss, notability, openai-api, opencv, python, raspberry-pi, react, react-router, spacetimedb, typescript, usb-webcam, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shraddha11-408/CalHacks-13.0)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=f2uZQ9IpAVU)
 - **All event prizes (1)** &#91;Anthropic&#93; Claude for Public Benefit
 - **Devpost checked** 2026-11-21 UTC
 - **Anthropic** The project lists anthropic, claude among its Built With tags.
@@ -427,7 +427,7 @@ A research platform pairs an evidence workspace with tools for patients to revie
 - **Team size** 4
 - **Built With** 3dmol, amazon-bedrock, anthropic-claude, apify, cartesia, clinicaltrials, crs-credit-api, fastapi, godaddy, javascript, next, notability, openfda, pubchem, pubmed, python, rdkit, react, rust, solana, spacetimedb, sqlite, three, twilio, typescript
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=9DtLgJCZ3oQ)
 - **All event prizes (1)** &#91;Notability&#93; Best Use of Notability
 - **Devpost checked** 2026-11-21 UTC
 - **Notability** The project lists notability among its Built With tags.
@@ -440,8 +440,8 @@ Helping ALS patients do simple tasks by using their mind to run AI Agents.
 
 - **Team size** 3
 - **Built With** apify, cartesia, claude, eeg, machine-learning, moss, neural-network, pytorch, react, rnn, spacetime, tigerdata, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/StephenSook/say-when)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HHcyu21N99Y)
 - **All event prizes (1)** &#91;Apify&#93; Best Use of Apify
 - **Devpost checked** 2026-11-21 UTC
 - **Apify** Apify — Web research, maps, and task execution: Provides the RAG Web Browser and Google Maps integrations for retrieving relevant live information.
@@ -454,8 +454,8 @@ A benchmark lets users watch how AI agents make decisions and inspect the measur
 
 - **Team size** 4
 - **Built With** anthropic-api, css, cuda, html, hugging-face-transformers, javascript, llama-factory, llama.cpp, lora, node.js, nvidia-dgx-spark, openai-compatible-api, playwright, python, pytorch, qwen, react, react-three-fiber, spacetimedb, three.js, typescript, vite, vitest, webgl
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/BeanyZoldyck/endersbench)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=tvfnVoL_0-o) · [Video 2](https://www.youtube.com/watch?v=wfW4pbF57nE)
 - **All event prizes (1)** &#91;Spacetime&#93; Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** Ender's Bench tests AI behavior under pressure through a live survival simulation and a separate finance benchmark. Devpost gives no specific sponsor integration detail.
@@ -468,8 +468,8 @@ An event finance assistant handles post-event accounting tasks.
 
 - **Team size** 3
 - **Built With** anthropic, better-auth, claude, drizzle, e2b, next.js, postgresql, python, react, tailwindcss, typescript, vercel, vercel-workflow
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/uijincho/eve)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_XlnhRrZf8M)
 - **All event prizes (1)** &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
 - **Devpost checked** 2026-11-21 UTC
 - **Hyphenate** Eve handles the money side of a hackathon or any large-scale event: travel reimbursements, expenses, cash and physical prizes, and even the cross-border tax work. Devpost gives no specific sponsor integration detail.
@@ -482,8 +482,8 @@ A family safety tool uses agents to verify a money request with the actual famil
 
 - **Team size** 4
 - **Built With** agentverse, apify, asi-one, cartesia, claude, cloudflare, fastapi, fetch.ai, moss, python, supabase, uagents
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/khuzaymaa918/family-shield)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dENdqjMubLI)
 - **All event prizes (1)** &#91;Fetch.ai&#93; Best Use of ASI:One
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists agentverse, asi-one, fetch.ai, uagents among its Built With tags.
@@ -496,8 +496,8 @@ Fire Drill runs invoice fraud against an accounts-payable agent as a drill , by 
 
 - **Team size** 1
 - **Built With** anthropic, apify, capital-one-nessie, cartesia, claude, claude-code, crs-credit-api, deepseek, droid-sdk, elastic-agent-builder, elasticsearch, factory-droid, github, github-actions, openai, openrouter, pytest, python, rdap, react, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shokhabbos-mukhammatov/calhacks13)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=TZ16uPUPuRw)
 - **All event prizes (1)** &#91;Apify&#93; 1st Customer Award
 - **Devpost checked** 2026-11-21 UTC
 - **Apify** The project lists apify among its Built With tags.
@@ -510,8 +510,8 @@ Buyer and seller agents negotiate the price of PC parts through sealed bids.
 
 - **Team size** 4
 - **Built With** agentverse, anthropic, apify, asi:one, bright-data, cartesia, claude, crs, fastapi, fetch.ai, next.js, postgresql, python, react, spacetimedb, stripe, tailwindcss, three.js, tiger-data, typescript, uagents, vercel, visa-trusted-agent-protocol
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/vs-githjk/fish-market-nothing-fishy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=kv0vo8mmN5U) · [Video 2](https://www.youtube.com/watch?v=r7fuf_UPoa8)
 - **All event prizes (1)** &#91;Fetch.ai&#93; Best Use of Fetch.ai
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The Buyer takes goals in ASI:One over the Agent Chat Protocol, remembers the parts you own, runs the sealed round, and asks for approval before any payment.
@@ -524,8 +524,8 @@ The autonomous back office for freight finance.
 
 - **Team size** 4
 - **Built With** a2a-sdk, apify, asus-ascent-gx10, asus-gx10, cartesia, elastic-cloud, elasticsearch, fastapi, fmcsa, nemotron, next.js, notability, openai, postgresql, python, qwen, react, redis, spacetimedb, typescript, vllm
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rishi-golla/calhacks-26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=TkP7p4THipM)
 - **All event prizes (1)** &#91;Apify&#93; 1st Customer Award
 - **Devpost checked** 2026-11-21 UTC
 - **Apify** The project lists apify among its Built With tags.
@@ -538,8 +538,8 @@ A robotics workflow coordinates collection of demonstrations and uses them to fi
 
 - **Team size** 1
 - **Built With** anthropic, claude, claude-code, cloudflare, discord, factory-droid, fastapi, i2rt-yam, imessage, lerobot, mcp, modal, mujoco, next.js, nvidia-jetson, openpi, pi0.5, python, react, spacetimedb, stripe, tailwindcss, three.js, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jaximus808/GeonosisAI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HToL9LhmV2s)
 - **All event prizes (1)** &#91;Spacetime&#93; Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** You register a robot and file a ticket: "Put the cube in the bin, 80% reliable, $50 budget." The ticket moves down a line of agent stations:. Devpost gives no specific sponsor integration detail.
@@ -553,7 +553,7 @@ A game tells the story of a ghost through passes in Apple Wallet.
 - **Team size** 1
 - **Built With** apple-wallet, claude-code, cloudflare, cloudflare-worker, convex, figma, ios, node.js, passkit, pkpass, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=fmnPOpoLz6E)
 - **All event prizes (1)** &#91;Figma&#93; Most Creative
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** The project lists figma among its Built With tags.
@@ -566,8 +566,8 @@ GRIDPILOT: Your 3 a.m. on-call crew that fixes the data center and closes the bo
 
 - **Team size** 2
 - **Built With** agentic, cartesia, digital-twin, hyphenate, javascript, python, reactive, self-improving-ai, spacetimedb, voice-agents
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pateldhruv1672/gridpilot)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=KgQwf55Fm-M)
 - **All event prizes (1)** &#91;Mana&#93; Best Use of Mana
 - **Devpost checked** 2026-11-21 UTC
 - **Mana** The spec, backend, 3D control room, finance desk, agent integrations, tests and these docs were planned, written, deployed and debugged in a single Mana conversation.
@@ -580,8 +580,8 @@ A system analyzes billing disputes for operators of satellite ground stations.
 
 - **Team size** 1
 - **Built With** amazon-web-services, cedar, celestrak, llm, machine-learning, python, react, rust, sgp4, shap, spacetimedb, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AamirAbatiyow/CalHacks26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=JWtViWhBq-w)
 - **All event prizes (1)** &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
 - **Devpost checked** 2026-11-21 UTC
 - **Hyphenate** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -594,8 +594,8 @@ An operating environment isolates each AI agent task in a separate Linux user an
 
 - **Team size** 1
 - **Built With** apify, asi-one, claude, coinbase-cdp, crs-credit-api, elasticsearch, factory-droid, fetch.ai, figma, forge, jira, linux, mana, moss, overlayfs, solana, spacetimedb, stripe, systemd, typescript, uagents, ubuntu, visa-trusted-agent-protocol, vultr, x402
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/benz16107/gurtos)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3hDnLuUqmjM) · [Video 2](https://www.youtube.com/watch?v=691r_JcBD0c) · [Video 3](https://www.youtube.com/watch?v=90iEnbJtJoU) · [Video 4](https://www.youtube.com/watch?v=BrA67CzIOYg) · [Video 5](https://www.youtube.com/watch?v=DnD78KAapMo) · [Video 6](https://www.youtube.com/watch?v=EH7kyUofUOs) · [Video 7](https://www.youtube.com/watch?v=JI8PBEVwaCw) · [Video 8](https://www.youtube.com/watch?v=Jypa31_HdrM) · [Video 9](https://www.youtube.com/watch?v=VEFBW-LRM94) · [Video 10](https://www.youtube.com/watch?v=VRVofDW0668) · [Video 11](https://www.youtube.com/watch?v=a2nhBj9DhbI) · [Video 12](https://www.youtube.com/watch?v=gGdqKNtvopw) · [Video 13](https://www.youtube.com/watch?v=hRFm65ZLO-g) · [Video 14](https://www.youtube.com/watch?v=iYQ-_am3c2g) · [Video 15](https://www.youtube.com/watch?v=j6_SIkMPQYw) · [Video 16](https://www.youtube.com/watch?v=rREjU2ddIyo) · [Video 17](https://www.youtube.com/watch?v=riaswviHD50) · [Video 18](https://www.youtube.com/watch?v=tcNbHb6XZuc) · [Video 19](https://www.youtube.com/watch?v=xH2J2BOVlK8)
 - **All event prizes (3)** &#91;Atlassian&#93; Best Agent / Best Security Solution for Agents · &#91;Fetch.ai&#93; Best Use of Fetch.ai · &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Atlassian** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -611,7 +611,7 @@ A building safety prototype combines live sensors, evacuation planning, and oper
 - **Team size** 2
 - **Built With** agentverse, anthropic, arduino, asi-one, cartesia, claude, claude-code, clerk, convex, esp32, fastapi, fetch.ai, micropython, next.js, playwright, python, react, react-three-fiber, three.js, typescript, vercel, web-push, websockets
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=KuYTNZz49ZM)
 - **All event prizes (2)** &#91;Convex&#93; Best use of Convex · &#91;Fetch.ai&#93; Best Use of Fetch.ai
 - **Devpost checked** 2026-11-21 UTC
 - **Convex** The project lists convex among its Built With tags.
@@ -626,7 +626,7 @@ A party game uses group conversations to make plans for an in-person hangout.
 - **Team size** 4
 - **Built With** apify, ffmpeg, framer-motion, google-maps, meta-muse, muse-image, muse-spark, muse-voice-transcribe, node.js, openai-sdk, pnpm, react, spacetimedb, tailwindcss, three.js, typescript, vercel, vite, vitest, whatsapp, zod
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=euyaNV9gb2U)
 - **All event prizes (1)** &#91;Notability&#93; Best Use of Notability
 - **Devpost checked** 2026-11-21 UTC
 - **Notability** With friends: one person opens a room on a laptop or TV, and everyone joins from their phone with a four-letter room code. Devpost gives no specific sponsor integration detail.
@@ -639,8 +639,8 @@ A hands-free recipe player lets families cook along to recordings made by their 
 
 - **Team size** 4
 - **Built With** anthropic, cartesia, cartesia-ink, cartesia-sonic, claude, convex, esp32, expo-router, expo.io, ffmpeg, gemini, google-cloud, google-cloud-run, google-compute-engine, meta-model-api, moss, muse-spark, next.js, python, react-native, smart-glasses, supabase, typescript, vercel, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/calebwang26/homecookd)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8Ibl2QnL9dw)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** Uploads and storage: A small upload signer on Google Cloud Run gives the phone a safe one-time link to upload each video to Google Cloud Storage.
@@ -653,8 +653,8 @@ The shopping agent that doesn't compromise on speed or safety.
 
 - **Team size** 3
 - **Built With** apify, bitdeer, coinbase, factory, fastapi, mongodb, next.js, pydantic, python, react, typescript, voyage
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/micahtid/calhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=qRmaXwDlp8c)
 - **All event prizes (1)** &#91;Visa&#93; Best use of Reimagining Shopping sponsored by Visa
 - **Devpost checked** 2026-11-21 UTC
 - **Visa** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -668,7 +668,7 @@ A webcam-powered horror game where your vitals shapes an AI creature’s hunt. F
 - **Team size** 4
 - **Built With** canvas, css3, electron, elevenlabs, espeak-ng, gemini, google-genai, html5, node.js, playwright, presage, react, rppg, smartspectra, spacetimedb, three.js, typescript, vercel, vite, web-audio-api, webrtc
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vZC8I7Vy1TM)
 - **All event prizes (1)** &#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI
 - **Devpost checked** 2026-11-21 UTC
 - **Meta** You are a researcher trapped in a sealed, windowless shelter after a blind creature escapes containment. Devpost gives no specific sponsor integration detail.
@@ -681,8 +681,8 @@ Unfamiliar callers reach InterHoot before the phone rings.
 
 - **Team size** 5
 - **Built With** apns-push, call-directory-extension, cartesia-ink-2, cartesia-ink-whisper, cartesia-sonic-3, cloudflare-tunnel, crs-credit-api, express.js, fraud-finder, google-gemini, ios, mulaw-audio, node.js, playwright, reverse-phone-lookup, spacetimedb, swift, swiftui, time-sensitive-notifications, transunion-tradelines, twilio, twilio-media-streams, typescript, vitest, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nelsonli0409/InterHoot)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=1aBhaf3elns)
 - **All event prizes (1)** &#91;CRS&#93; Best Use of CRS API
 - **Devpost checked** 2026-11-21 UTC
 - **CRS** The project lists crs-credit-api among its Built With tags.
@@ -695,8 +695,8 @@ Interlude is a companion for the whole care cycle: before, during, and after eve
 
 - **Team size** 4
 - **Built With** anthropic-claude-api, cartesia, cartesia-ink, cartesia-line, cartesia-sonic, convex, convex-workflow, elastic, elastic-agent-builder, elastic-workflows, expo.io, jina-embeddings, kibana, node.js, react, react-native, recharts, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/cwanggang/Interlude)
+- **Demo video** [Video 1](https://vimeo.com/1239254895)
 - **All event prizes (1)** &#91;Elastic&#93; Best use of the Elastic Agent Builder on a Serverless Instance
 - **Devpost checked** 2026-11-21 UTC
 - **Elastic** The project lists elastic, elastic-agent-builder, elastic-workflows among its Built With tags.
@@ -709,8 +709,8 @@ The team built a live dashboard so that any scientist/lab technician can view th
 
 - **Team size** 4
 - **Built With** anthropic, asi:one, cartesia, claude, convex, fetch.ai, mana, numpy, onnx, opencv, postgresql, python-can, tiger-data, timescaledb, uagents
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Omm2005/laminar)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CZ1orYlswwY)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Tiger Data
 - **Devpost checked** 2026-11-21 UTC
 - **Tiger Data** SQL functions in Tiger (run_smoothness, run_trace) compute per-joint tracking error, jerk and stick-slip, and the console's Tiger Data tab charts and replays any real run on the 3D arm.
@@ -723,8 +723,8 @@ Lobe lets students explore brain MRI scans together in 3D. Reveal tumor outlines
 
 - **Team size** 3
 - **Built With** agentmail, claude-api, convex, docker, fastapi, livekit, monai, niivue, python, pytorch, react, runpod, three.js, typescript, vitereact
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/DuongAnh1201/Lobe)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Az7_46Kvptc)
 - **All event prizes (1)** &#91;Convex&#93; Best use of Convex
 - **Devpost checked** 2026-11-21 UTC
 - **Convex** GitHub Actions runs the Convex, frontend and backend test suites on every push.
@@ -737,8 +737,8 @@ A finance workflow uses agents for month-end close tasks and waits for human app
 
 - **Team size** 3
 - **Built With** anthropic, apify, bright-data, claude-agent-sdk, crs-credit-api, fetch.ai, gemini, grok, mcp, moss, node.js, open-webui, openai, spacetimedb, sveltekit, typescript, vercel-ai-sdk, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/3nvyx/luyten)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=is1IP042_v8)
 - **All event prizes (1)** &#91;Spacetime&#93; Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** Luyten is automated finance for 10x growth startups , built first for SaaS companies. Devpost gives no specific sponsor integration detail.
@@ -751,8 +751,8 @@ A trust accounting tool reviews ledger entries and documents and escalates discr
 
 - **Team size** 2
 - **Built With** chromium, claude-api, convex, creao, fish-audio, next.js, node.js, playwright, python, radix-ui, react, sqlite, typescript, vitest
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jweng121/mangekyo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=BtL7Z_5xcDw)
 - **All event prizes (1)** &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
 - **Devpost checked** 2026-11-21 UTC
 - **Hyphenate** Mangekyo is an autonomous trust-account management platform combining specialized financial agents with an independent visual auditing agent. Devpost gives no specific sponsor integration detail.
@@ -765,8 +765,8 @@ A marketing simulation lets a team explore how a proposed launch might perform b
 
 - **Team size** 1
 - **Built With** anthropic-claude, apify, brightdata, fetch.ai, google-gemini, googlefonts, knowledge-graph, react, react-three-fiber, runpod, spacetimedb, three.js, vercel, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/RoboX2020/Mark-Et-GTM)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=EQXDrC-5XXs)
 - **All event prizes (1)** &#91;Fetch.ai&#93; Best Use of ASI:One
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists fetch.ai among its Built With tags.
@@ -779,8 +779,8 @@ A finance workspace helps AI labs automate bookkeeping and related financial tas
 
 - **Team size** 2
 - **Built With** agents, nextjs, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/petersenmatthew/moa)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=K_pESfSqoDQ)
 - **All event prizes (2)** &#91;Figma&#93; Best Design · &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** The team built a design system, mapped flows in FigJam, made a clickable version in Figma Make, and animated the outro in Figma Motion.
@@ -794,8 +794,8 @@ A shopping tool learns someone's style from photos and searches across retailers
 
 - **Team size** 2
 - **Built With** apify, bright-data, capital-one-nessie, cartesia, claude, fastapi, figma, gemini, httpx, moss, next.js, node.js, pillow, pydantic, python, react, snowflake, spacetimedb, sqlite, tailwindcss, typescript, vultr, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/arissazheng/niche)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OPB7mJICaS4)
 - **All event prizes (1)** &#91;Capital One&#93; Best Use of Nessie
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** The project lists capital-one-nessie among its Built With tags.
@@ -808,8 +808,8 @@ NightFall is an AI-powered safety companion that detects and prevents dementia-r
 
 - **Team size** 4
 - **Built With** apify, cartesia, claude, computer-vision, css, fastapi, html, javascript, microsoft, mobile, ngrok, opencv, python, rest-apis, twilio, uvicorn, voice-ai, web
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/evanoctave/calhack-)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=yO55LLLEIVI)
 - **All event prizes (1)** &#91;Apify&#93; Best Use of Apify
 - **Devpost checked** 2026-11-21 UTC
 - **Apify** Using Apify and map data, it finds nearby hazards, places that are open all night, and spots that matter to the person.
@@ -823,7 +823,7 @@ an ai teammate in your cursor.
 - **Team size** 2
 - **Built With** accessibility-api, anthropic, apify, appkit, bonjour, bun, cartesia, claude, convex, convex-auth, launchd, mcp, moss, react, screencapturekit, swift, swiftui, typescript, virtualization-framework, vite, webkit, xctest
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=joNnooTosPs)
 - **All event prizes (2)** &#91;Apify&#93; 1st Customer Award · &#91;Moss&#93; Long Horizon Agent
 - **Devpost checked** 2026-11-21 UTC
 - **Apify** The project lists apify among its Built With tags.
@@ -837,8 +837,8 @@ A shared coding workspace coordinates AI agents working across devices.
 
 - **Team size** 4
 - **Built With** claude-api, claude-code, css, factory-droid-sdk, git, github, html, javascript, model-context-protocol-(mcp), node.js, react, spacetimedb, typescript, vite, vitest
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/chuddrw/CalHacks26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8ImPqzqmFgQ)
 - **All event prizes (1)** &#91;Spacetime&#93; Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** Orkio connects AI coding agents across different laptops through a shared coordination system. Devpost gives no specific sponsor integration detail.
@@ -851,8 +851,8 @@ A collaborative canvas gives a team a shared place to do its accounting.
 
 - **Team size** 2
 - **Built With** droidsdk, factoryai, figma, nessie, next.js, spacetimedb
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Rahuchpred/Pacilio)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=F4qrINg8msw)
 - **All event prizes (1)** &#91;Spacetime&#93; Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** Pacioli takes in your bank (Capital One’s Nessie), Stripe and QuickBooks (bills you owe and invoices owed to you) and runs the back office on one live canvas. Devpost gives no specific sponsor integration detail.
@@ -865,8 +865,8 @@ Autonomous security for the medical devices hospitals can't patch.
 
 - **Team size** 4
 - **Built With** agentverse, anthropic, arduino, asi-one, bandit, bitdeer, claude, deepseek, factory, featherless, fetch.ai, flask, mana, mcp, node.js, pixijs, python, react, semgrep, serialport, spacetimedb, tailwind, three.js, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Sanjavan7/PreVent)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5u1bG7nEzvI)
 - **All event prizes (2)** &#91;Armadin&#93; Best Security Hack · &#91;Bitdeer AI&#93; Best Use of Bitdeer AI Model Studio
 - **Devpost checked** 2026-11-21 UTC
 - **Armadin** You point PreVent at a device's code and plug in the device. Devpost gives no specific sponsor integration detail.
@@ -880,8 +880,8 @@ Ingests supernova / high-energy neutrino alerts (cached IceCube &amp; galactic C
 
 - **Team size** 4
 - **Built With** claude, css, cursor, dockerfile, grok, grok-bot, html, javascript, python, shell, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kejiwuxian/Breakout)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ttrXTT7N31Y)
 - **All event prizes (1)** &#91;SpaceXSI&#93; Make it Legendary with SpaceXSI
 - **Devpost checked** 2026-11-21 UTC
 - **SpaceXSI** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -894,8 +894,8 @@ Hands-free computer control with eye tracking, voice and an AI agent.
 
 - **Team size** 4
 - **Built With** apify, claude, mcp, mediapipe, python, react, three.js, typescript, websocket
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/itsmarsss/pupil)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6Uv1twCgDMY)
 - **All event prizes (1)** &#91;Apify&#93; Best Use of Apify
 - **Devpost checked** 2026-11-21 UTC
 - **Apify** Pupil turns your webcam into an eye tracker and your voice into the keyboard, using Cartesia for speech-to-text, and pairs them with an AI agent and Apify.
@@ -908,8 +908,8 @@ A web app that works out how much commission each sales rep has earned, catches 
 
 - **Team size** 1
 - **Built With** elastic, python, stripe
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aaditisinghal/Quota)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=iVvCbKBY73w)
 - **All event prizes (1)** &#91;Elastic&#93; Best use of the Elastic Agent Builder on a Serverless Instance
 - **Devpost checked** 2026-11-21 UTC
 - **Elastic** python, fastapi, sqlite, react, vite, typescript, elasticsearch, elastic-agent-builder, elastic-workflows, esql, jina-embeddings, mcp, stripe, stripe-test-clocks, claude, anthropic, computer-use, bun, prisma, asc-340-40, sec-edgar, pytest, playwright.
@@ -922,8 +922,8 @@ Players use their phones as motion controllers to play racket sports on a laptop
 
 - **Team size** 2
 - **Built With** cloudflare-tunnel, cloudlfare, css, devicemotion-api, deviceorientation-api, game-ai, html5, javascript, localstorage, mobile, node.js, npm, qrcode, real-time-multiplayer, screen-wake-lock-api, spacetimedb, sql, three.js, typescript, unreal-bloom, vibration-api, vite, web-audio-api, webgl, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/JacobQuion/Cal-Hacks-Final-Project)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=czPDelomrt4)
 - **All event prizes (1)** &#91;Spacetime&#93; Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** Rally turns your laptop into a badminton court and your phone into a motion-controlled racket, so you can play 1v1 across two laptops or against the CPU. Devpost gives no specific sponsor integration detail.
@@ -936,8 +936,8 @@ Re:Collection turns a family visit or an old home video into a 3D Memory Palace 
 
 - **Team size** 3
 - **Built With** anthropic, arkit, bun, cartesia, claude, cloudflare-r2, convex, depth-anything-3, gaussian-splatting, lidar, mediapipe, metal, moss, python, pytorch, react, react-three-fiber, swift, swiftui, three.js, typescript, vite, webgl, webrtc
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shividoge/re-collection)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=FQ0vPIS4VM8)
 - **All event prizes (1)** &#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI
 - **Devpost checked** 2026-11-21 UTC
 - **Meta** Re:Collection turns a family visit, or an old home video, into a 3D memory someone with Alzheimer's can step back into. Devpost gives no specific sponsor integration detail.
@@ -950,8 +950,8 @@ Stop hand-building robot simulations. Film your table on a phone, and RealiSIM t
 
 - **Team size** 4
 - **Built With** aiohttp, apify, apriltag, birefnet, claude, coacd, colmap, elasticsearch, gymnasium, huggingface, mana, mujoco, numpy, open3d, opencv, python, react, so-101, spacetimedb, stable-baselines3, three.js, trellis, trimesh, typescript, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ChampCNV/RealiSIM)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_4b_uGPmwYI)
 - **All event prizes (1)** &#91;Mana&#93; Best Use of Mana
 - **Devpost checked** 2026-11-21 UTC
 - **Mana** The team also used Notability to design the AI-agent interactions, multi-robot coordination workflows, Mana website layouts, and final demo storyboard.
@@ -964,8 +964,8 @@ Scan your ER bill. See which charges don't match the hospital's own prices, whet
 
 - **Team size** 1
 - **Built With** anthropic-api, apify, azure-ai-content-safety, azure-ai-document-intelligence, azure-ai-search, azure-openai, beautiful-soup, claude, convex, expo.io, httpx, ijson, mcp, next.js, numpy, pypdf, python, react, react-native, rust, tailwindcss, typescript, vercel, vitest, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/VolodymyrLinuxovich/recount)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=24TXyeufQPs)
 - **All event prizes (1)** &#91;Apify&#93; Best Actor sponsored by Apify
 - **Devpost checked** 2026-11-21 UTC
 - **Apify** The project lists apify among its Built With tags.
@@ -978,8 +978,8 @@ A live fraud agent attacks an AI accounts-payable clerk while a controller gates
 
 - **Team size** 4
 - **Built With** asyncpg, caddy, cloudflare, docker, docker-compose, factory-droid-sdk, fastapi, github-actions, gpt-5.4-mini, httpx, mcp, next.js, postgresql, pydantic, pytest, python, react, react-three-fiber, tailwindcss, three.js, timescaledb, typescript, vultr, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/md-racc/redledger)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YSVCM4_Lzrc)
 - **All event prizes (1)** &#91;CRS&#93; Best Use of CRS API
 - **Devpost checked** 2026-11-21 UTC
 - **CRS** Red Ledger runs a seeded synthetic company (60 vendors, 40 employees, 90 days of clean payment history, new legitimate vendors and bank changes every few days), through simulated business days. Devpost gives no specific sponsor integration detail.
@@ -992,8 +992,8 @@ A shopping tool follows prices after a purchase and flags potential refunds when
 
 - **Team size** 3
 - **Built With** agentverse, asi:one, bright-data, fetch.ai, gmail-api, python, uagents, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/vnnphm/RefundHunter)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=S4-WSQmkzrE)
 - **All event prizes (1)** &#91;Fetch.ai&#93; Best Use of ASI:One
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists agentverse, asi:one, fetch.ai, uagents among its Built With tags.
@@ -1006,8 +1006,8 @@ Drop in your hospital bill and insurance statement.
 
 - **Team size** 4
 - **Built With** bright-data, capital-one-nessie, cartesia, claude, fastapi, notability, postgresql, python, sqlite, tiger-data, twilio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/gsonntag/calhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sja3NhjxxBM)
 - **All event prizes (2)** &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data · &#91;Notability&#93; Best Use of Notability
 - **Devpost checked** 2026-11-21 UTC
 - **Bright Data** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -1021,8 +1021,8 @@ A pillow checks in by voice when an older adult has not returned to bed and can 
 
 - **Team size** 4
 - **Built With** agentverse, anthropic, arduino, asi-one, cartesia, claude, esp-now, esp32, expo.io, fastapi, fetch.ai, github-actions, photon, postgresql, python, react-native, supabase, twilio, typescript, uagents
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/keanucz/resteasy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ztKIyriEbZc)
 - **All event prizes (1)** &#91;Fetch.ai&#93; Best Use of Fetch.ai
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists agentverse, asi-one, fetch.ai, uagents among its Built With tags.
@@ -1036,7 +1036,7 @@ One iPhone walkthrough builds a complete listing. Renters speed-tour real homes 
 - **Team size** 2
 - **Built With** apify, arduino, arkit, bright-data, cartesia, claude, cloudflare-workers, creao, factory-droid, gaussian-splatting, javascript, lidar, meta-quest, microsoft-agent-framework, moss, python, pytorch, raspberry-pi, roomplan, solana, spacetimedb, swift, swiftui, three.js, webxr
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aRcpU5eLNJc)
 - **All event prizes (1)** &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data
 - **Devpost checked** 2026-11-21 UTC
 - **Bright Data** Show Before turns one iPhone walkthrough into an ordered photo gallery, a measured floor plan, a listing description, a narrated highlight video, and a 3D tour. Devpost gives no specific sponsor integration detail.
@@ -1049,8 +1049,8 @@ A voice project helps people affected by cancer communicate using synthesized sp
 
 - **Team size** 4
 - **Built With** arduino, auto-avsr, bioamp-exg-pill, cartesia, claude, claude-code, cuda, emg, hsemotion, hugging-face, kenlm, mediapipe, python, pytorch, twilio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/thaimtl/Silent-Voice)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=n129qcT64Og)
 - **All event prizes (2)** &#91;Cartesia&#93; Best Use of Cartesia · Cal Hacks Second Overall
 - **Devpost checked** 2026-11-21 UTC
 - **Cartesia** The team cloned Austin's voice with Cartesia and streamed it to Sonic 3.6, using both his expression and his facial muscles to portray his emotions.
@@ -1063,8 +1063,8 @@ Real-world data, verified by AI, paid out instantly.
 
 - **Team size** 4
 - **Built With** atlassian-forge, base, capital-one-nessie, claude, coinbase-developer-platform, convex, convex-auth, ethereum-attestation-service, expo.io, ffmpeg, gemini, google-oauth, jira, model-context-protocol, next.js, pnpm, react, react-native, solana, tailwindcss, typescript, usdc, vercel, viem, x402
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/stephenhungg/skarl)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=mSNAkI_mGPY)
 - **All event prizes (1)** &#91;Coinbase&#93; Best Use of x402 by Coinbase
 - **Devpost checked** 2026-11-21 UTC
 - **Coinbase** The project lists coinbase-developer-platform among its Built With tags.
@@ -1077,8 +1077,8 @@ Robots fail on anything new. Instead of retraining a VLA, Skillsmith has Factory
 
 - **Team size** 4
 - **Built With** aruco, claude, claude-code, droid, factory-droid-sdk, fastapi, feetech, github-actions, javascript, lerobot, mujoco, opencv, placo, python, so-101, three.js, uv, yolo-world
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/VikramKaramsetty/skillsmith)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Ut2CdytFdAQ)
 - **All event prizes (1)** &#91;Factory&#93; Best Use of the Factory Droid SDK
 - **Devpost checked** 2026-11-21 UTC
 - **Factory** The project lists factory-droid-sdk among its Built With tags.
@@ -1091,8 +1091,8 @@ A satellite-tracking dashboard estimates where debris from reentry might land.
 
 - **Team size** 4
 - **Built With** claude, css, cursor, grok, python, spacetimedb, typescript, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/bobbybendola/skyFall)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=m9VnLBoztKQ)
 - **All event prizes (1)** &#91;Spacetime&#93; Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** SKYFALL runs that analysis openly and continuously, on live public data:. Devpost gives no specific sponsor integration detail.
@@ -1105,8 +1105,8 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 
 - **Team size** 4
 - **Built With** anthropic, apify, cartesia, claude, convex, digitalocean, fly.io, mana, moss, next.js, node.js, numpy, openstreetmap, or-tools, osmnx, python, react, simpy, tailwindcss, twilio, typescript, vercel, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Imhaohao/Standard-Response)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=eNsAGHFnFJY)
 - **All event prizes (6)** &#91;Anthropic&#93; Claude for Public Benefit · &#91;Apify&#93; Best Use of Apify · &#91;Convex&#93; Best use of Convex · &#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd) · &#91;Moss&#93; Best Use of Moss · Cal Hacks Best People-First Social Impact Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Anthropic** Claude turns callers' responses into dispatch fields and drafts short replies in the reviewed languages.
@@ -1123,8 +1123,8 @@ Make trading intuitive, fun, and physically rewarding.
 
 - **Team size** 4
 - **Built With** coinbase, creao, mana, node.js, react, spacetimedb, vite, zinc
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sarah-min/StockUp)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7Vt0G7edMeM)
 - **All event prizes (1)** &#91;Coinbase&#93; Best Use of x402 by Coinbase
 - **Devpost checked** 2026-11-21 UTC
 - **Coinbase** The project lists coinbase among its Built With tags.
@@ -1138,7 +1138,7 @@ An autonomous finance desk that tracks automotive tariffs from imported parts to
 - **Team size** 3
 - **Built With** anthropic-api, beancount, claude, claude-code, fava, git, openai-api, pytest, python, python-dotenv, pyyaml, sqlite
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=zwbd8wDYVz0)
 - **All event prizes (1)** &#91;Creao AI&#93; Best One-Person Company
 - **Devpost checked** 2026-11-21 UTC
 - **Creao** Tariffic AI fills three finance seats for an importer. Devpost gives no specific sponsor integration detail.
@@ -1151,8 +1151,8 @@ A mapping tool turns real spaces into tactile and audio guides for blind and low
 
 - **Team size** 3
 - **Built With** arkit, avfoundation, claude, fastapi, ios, lidar, pydantic, python, react, roomplan, shapely, sqlite, swift, swiftui, tailwindcss, typescript, uvicorn, vite, web-audio-api, web-speech-api
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/holokcheung/touchspace)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=zCSkCPO-3cc)
 - **All event prizes (1)** &#91;Anthropic&#93; Claude for Public Benefit
 - **Devpost checked** 2026-11-21 UTC
 - **Anthropic** The project lists claude among its Built With tags.
@@ -1165,8 +1165,8 @@ A group trip assistant collects votes in chat and builds an itinerary everyone c
 
 - **Team size** 2
 - **Built With** agentverse, apify, asi-one, cartesia, convex, factory-droid, fetch.ai, google-maps, google-places, json, next.js, node.js, python, react, splitwise, stripe, tailwindcss, typescript, uagents, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aj1575/detour)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=M3fWzGOPadU)
 - **All event prizes (1)** &#91;Fetch.ai&#93; Best Use of Fetch.ai
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists agentverse, asi-one, fetch.ai, uagents among its Built With tags.
@@ -1179,8 +1179,8 @@ A working design editor inside Figma uses variables to implement a processor, co
 
 - **Team size** 4
 - **Built With** assembly, cpu, figma, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ericchen356/figma-cpu)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=KERFsr0ZBOg)
 - **All event prizes (1)** &#91;Figma&#93; Best Use Case
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** Two Figma is a working Figma editor built inside Figma, running on logic gates that Figma's own prototype engine computes.
@@ -1193,8 +1193,8 @@ A second set of ears for every air traffic controller: AI agents that catch miss
 
 - **Team size** 2
 - **Built With** cartesia, cartesia-ink, cartesia-sonic, cloudflare-tunnel, elastic, elastic-agent-builder, elastic-workflows, elasticsearch, es&#124;ql, fastapi, javascript, kibana, mcp, moss, moss-inference, playwright, pydantic, python, react, remotion, three.js, typescript, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Dee-1862/unstep)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HQD8kuxBE3U)
 - **All event prizes (1)** &#91;Moss&#93; Long Horizon Agent
 - **Devpost checked** 2026-11-21 UTC
 - **Moss** The project lists moss, moss-inference among its Built With tags.
@@ -1207,8 +1207,8 @@ A nursing-home monitoring system learns each resident's baseline and flags chang
 
 - **Team size** 1
 - **Built With** caddy, claude, cortex-analyst, cortex-search, docker, echarts, fast-api, ffmpeg, ios, next.js, playwright, polar, postgresql, python, react, snowflake, snowflake-cortex, snowflake-ml, tailwindcss, tiger-data, timescaledb, typescript, web-bluetooth, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/snr2753423/Vigil_calhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=R6qeykXL17Q)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Snowflake API
 - **Devpost checked** 2026-11-21 UTC
 - **Snowflake** Two integrations, two jobs: Tiger Data is the live layer ("what is happening now"); Snowflake is the intelligence layer ("what it means, and what to do").
@@ -1221,8 +1221,8 @@ A navigation aid gives visually impaired users real-time scene feedback through 
 
 - **Team size** 4
 - **Built With** anthropic, arduino, ble, canva, cartesia, convex, coreml, css, gemini, godaddy, hapticlink, javascript, mediapipe, microsoft, notability, numpy, opencv-vittrack, powershell, python, pytorch, swift, typescript, ultralytics, xcode, yolo11s
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/yukevindai/VisionOS)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7-MghH5U9Ss)
 - **All event prizes (1)** &#91;Notability&#93; Best Use of Notability
 - **Devpost checked** 2026-11-21 UTC
 - **Notability** The project lists notability among its Built With tags.
@@ -1235,8 +1235,8 @@ A commerce tool lets merchants review AI-organized evidence when investigating r
 
 - **Team size** 3
 - **Built With** creao, duckdb, factory-droid-sdk, faster-whisper, fastify, ffmpeg, motion, next.js, node.js, playwright, python, react, react-globe.gl, recharts, spacetimedb, tailwind-css, three.js, typescript, vitest, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shubhaych/vouch)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pf4iXxd5D_o)
 - **All event prizes (1)** &#91;Spacetime&#93; Best Use of Spacetime
 - **Devpost checked** 2026-11-21 UTC
 - **Spacetime** For customers, the product offers an accessible, phone-ready claim flow across product categories and refund reasons. Devpost gives no specific sponsor integration detail.
@@ -1249,8 +1249,8 @@ The hardware guardian for software you can't trust.
 
 - **Team size** 2
 - **Built With** arduino, blender, python, pytorch, spacetimedb, three.js, typescript, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/share-a-byte/warden)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ahTiwQ9xVaE)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** The project lists vultr among its Built With tags.
@@ -1263,8 +1263,8 @@ A resale tool uses photos to generate listings and agents to negotiate within a 
 
 - **Team size** 3
 - **Built With** agent-chat-protocol, agent-payment-protocol, agentverse, aiohttp, anthropic, apify, apify-actors, asi:one, claude, cloudflared, fetch-business, fetch.ai, google-maps, interactive-cards, mypy, openapi, pillow, pytest, python, ruff, sqlite, stripe, uagents, uv, visa-acceptance
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kevinjylin/Yardsale)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sJ1U9u8AtUo)
 - **All event prizes (1)** &#91;Fetch.ai&#93; Best Use of Fetch.ai
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The first few are hosted on Agentverse with their own profile page; the rest run in the server, with no cap.

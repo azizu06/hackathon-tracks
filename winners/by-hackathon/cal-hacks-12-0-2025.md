@@ -127,8 +127,8 @@ An AI prototype that processes ad creatives, both images and videos, to extract 
 
 - **Team size** 4
 - **Built With** chromadb, claude, clip, easyocr, hugging-face, numpy, python, react, scikit-learn, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SisuKah/calhacks2) · [Source 2](https://github.com/abtonmoy/calhacks12)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=yLyytqlP2Ik)
 - **All event prizes (1)** AppLovin: Ad Intelligence Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **AppLovin** ADLOVIN Media Intelligence processes ad creatives, both images and videos, and extracts high-value multimodal features such as visual composition, text sentiment, and audio mood. Devpost gives no specific sponsor integration detail.
@@ -142,7 +142,7 @@ Upload ads, get clear scores, one-line reasons, and precise fixes—then a ranke
 - **Team size** 2
 - **Built With** amazon-web-services, creaoai, lava, llm, node.js, render, s3
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DBU3ta6-2BA)
 - **All event prizes (1)** Creao: Best MCP Integration
 - **Devpost checked** 2026-11-21 UTC
 - **Creao** AdSensei converts a folder of ad creatives into a clear, prioritized playbook :. Devpost gives no specific sponsor integration detail.
@@ -155,8 +155,8 @@ Agent Santa is a multi-agent system where personality-based agents connect, unde
 
 - **Team size** 3
 - **Built With** fetchai, github, html, python, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ParthPatel00/SantAI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=QHjqIXtylhY)
 - **All event prizes (1)** Fetch AI: Best Use of ASI:One
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Deployment: Fully on Agentverse with seamless integration via ASI.one.
@@ -169,8 +169,8 @@ Stack Overflow 2.0: break the prompt spiral-&gt; jump straight to the proven fix
 
 - **Team size** 4
 - **Built With** chrome, gemini, javascript, node.js, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ishaannarang22/agentoverflow)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=GIcHKhtuh74)
 - **All event prizes (1)** Elastic: Best use of the Elastic Agent Builder on a Serverless instance
 - **Devpost checked** 2026-11-21 UTC
 - **Elastic** The team scrape your current conversation, build a “query JSON,” and run a hybrid Elastic search over validated fixes.
@@ -184,7 +184,7 @@ Autonomous AI marketplace for agents: save time, money, and trees by working wit
 - **Team size** 4
 - **Built With** css, javascript, move, plpg, shell, sql, typescript
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=lu_9YbU01pY)
 - **All event prizes (1)** Lava: Best Use of Lava Gateway
 - **Devpost checked** 2026-11-21 UTC
 - **Lava** Blockchain payments via Sui (Lava Payments integration).
@@ -197,8 +197,8 @@ Making Google Docs (file storage, text editor) better with AI.
 
 - **Team size** 3
 - **Built With** react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/joonyoo181/dropbox-ai)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=vyKOyChcsCw)
 - **All event prizes (1)** Y Combinator: Build an Iconic YC Company - 2nd Place
 - **Devpost checked** 2026-11-21 UTC
 - **Y Combinator** AI Docs is an all-in-one file system that allows you to organize your files and edit them. Devpost gives no specific sponsor integration detail.
@@ -211,8 +211,8 @@ Talking to users early changed the entire direction.
 
 - **Team size** 4
 - **Built With** creao, flask, gemini, node.js, openfoodfacts, python, react, typescript, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ericrcwu001/calhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rw9_SdR0mUo)
 - **All event prizes (1)** Creao: Best Designed Web App
 - **Devpost checked** 2026-11-21 UTC
 - **Creao** The project lists creao among its Built With tags.
@@ -225,8 +225,8 @@ Argus combines AI, computer vision, and real-time streaming to deliver intellige
 
 - **Team size** 2
 - **Built With** claude, elasticsearch, gemini, groq, letta, mux, nextjs, rtmp, supabase
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/GodPuffin/argus)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=enZRqW1eOOM)
 - **All event prizes (2)** A37: Best Use of A37 · Conway: Most Data-Intensive Application
 - **Devpost checked** 2026-11-21 UTC
 - **A37** The team learnt a lot about many of the tools provided by CalHacks' sponsors. Devpost gives no specific sponsor integration detail.
@@ -240,8 +240,8 @@ AI-native interior design platform that learns your taste and generates personal
 
 - **Team size** 4
 - **Built With** amazon-web-scraping, anthropic-sdk, chromadb, chromadb-cloud, claude-api, clip, embeddings, fastapi, flask, framer-motion, glb, gltf, javascript, lucide-react, nerf, neural-radiance-fields, next-js, openai-api, python, react, react-three-fiber, sentence-transformers, tailwindcss, three-js, typescript, vector-database, vercel, webgl
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/MurtazaKafka/artki)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=klPlCoSgnOA)
 - **All event prizes (1)** Chroma: Best AI application using Chroma
 - **Devpost checked** 2026-11-21 UTC
 - **Chroma** Artki.tech is an AI-powered interior design platform that creates personalized 3D room visualizations with real, purchasable furniture based on your unique taste profile. Devpost gives no specific sponsor integration detail.
@@ -254,8 +254,8 @@ Unite AR and electro-stimulation to perfect your beer pong game.
 
 - **Team size** 3
 - **Built With** arduino, esp32, gemini, lensstudio, snapchatspectacles, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/YetSquire/BallAR)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Kqn162iM-P0)
 - **All event prizes (1)** Snap: Best Use of Snap Spectacles
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** The AR component is built for Snap Spectacles.
@@ -268,8 +268,8 @@ Presenting Brydge: the AI orchestration platform that turns scattered engineerin
 
 - **Team size** 1
 - **Built With** claude, confluence, github, jira, nemotron, nvidia, oauth, python, slack, typescript, weaviate
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aprabu/BrydgeCalhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=I7pkua3iYAs)
 - **All event prizes (1)** Y Combinator: Build an Iconic YC Company - 1st Place
 - **Devpost checked** 2026-11-21 UTC
 - **Y Combinator** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -283,7 +283,7 @@ AI-powered organizational tool for your communication platforms.
 - **Team size** 4
 - **Built With** beeper-mcp, claude-api, claude-sdk, dotenv, google-console-cloud-api, google-oauth, javascript, next.js, node-cron, node.js, sqlite-3
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HqscSvOJMzA)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of AI powered by Reach Capital
 - **Devpost checked** 2026-11-21 UTC
 - **Reach Capital** The team gained hands-on experience with Claude SDK , ChatGPT , Windsurf , and other AI-assisted development tools , deepening the understanding of how multiple AI agents can work collaboratively. Devpost gives no specific sponsor integration detail.
@@ -296,8 +296,8 @@ AI-powered discharge coordination connecting hospitals, shelters, and social wor
 
 - **Team size** 2
 - **Built With** brightdata, fetchai, gemini, python, react, vapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/altran03/calhacks12)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=EZo7LiU-GUY)
 - **All event prizes (1)** Vapi: Best Use of Vapi
 - **Devpost checked** 2026-11-21 UTC
 - **Vapi** Vapi Voice Integration - Successfully automated shelter verification and social worker outreach calls.
@@ -310,8 +310,8 @@ ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn s
 
 - **Team size** 4
 - **Built With** anthropic-claude-api, asi-one, brightdata-api, docker, fastapi, fetch.ai-uagents, framer, javascript, nginx, phaser.js, postgresql, python, react, redis, socket.io, sqlalchemy, tailwindcss, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/saurabh98s/calhacks24)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=huHLto3601A)
 - **All event prizes (1)** The Bright Data: Best Use of Bright Data
 - **Devpost checked** 2026-11-21 UTC
 - **Bright Data** ChatRealm is a safe space where AI doesn't replace human connection, it protects and nurtures it. Devpost gives no specific sponsor integration detail.
@@ -324,8 +324,8 @@ CivitasX turns cities into autonomous digital ecosystems—AI agents that unders
 
 - **Team size** 2
 - **Built With** creao, creaofileupload-mcp, creaosearch-mcp, docker, docker-compose, fastmcp, fishaudio, livekit, python, railway, render, typescript, vapi, x-mcp, xrpl
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rajashekarcs2023/calhacks-12)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Fu-sYqMotpg)
 - **All event prizes (2)** Creao: Best MCP Integration · Ripple: Best Use of XRP Ledger
 - **Devpost checked** 2026-11-21 UTC
 - **Creao** CivitasX was built entirely on the Creao agentic platform , which allows AI systems to design and deploy other AI systems.
@@ -353,8 +353,8 @@ Multiplayer Agentic AI NPCs with shared conversational memory across all players
 
 - **Team size** 2
 - **Built With** express.js, fishaudio, janitorai, jllm, react, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/iOliver678/calhacks12)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=2yZ_ZxMO7cY)
 - **All event prizes (1)** JanitorAI: Most Functional, Novel, and Fun Project
 - **Devpost checked** 2026-11-21 UTC
 - **JanitorAI** The project lists janitorai among its Built With tags.
@@ -368,7 +368,7 @@ Put your money where your goals are. Complete your commitments to earn it back, 
 - **Team size** 2
 - **Built With** blockchain, ethereum, next.js, reka
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All event prizes (1)** Ethereum Foundation: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Ethereum Foundation** Covenant lets users create commitments to complete a goal by a deadline, with real money on the line. Devpost gives no specific sponsor integration detail.
@@ -381,8 +381,8 @@ Analyzes crypto portfolios and generates smart liquidation strategies based on r
 
 - **Team size** 1
 - **Built With** python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/yuktaablitz/cryptoagent-cfo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6Pv9YAOo3Ic)
 - **All event prizes (1)** Postman
 - **Devpost checked** 2026-11-21 UTC
 - **Postman** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -396,7 +396,7 @@ Cryptobot is a humanoid robot that is FULLY voice-controlled.
 - **Team size** 2
 - **Built With** c++, conversion, next.js, openai, postman, python, sui, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Ag8dQyVADrI)
 - **All event prizes (1)** Postman
 - **Devpost checked** 2026-11-21 UTC
 - **Postman** The team used Sui, Postman, and Booster K1 humanoid to power this.
@@ -409,8 +409,8 @@ AI Medical Assistant: Intelligent Symptom Checker and Care Connector.
 
 - **Team size** 4
 - **Built With** chromadb, creao, fastapi, livekit, mongodb, python, swift
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/hongdnn/healthcare_ai_backend) · [Source 2](https://github.com/s-akhtar-dev/cura-ai-ios-app)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DM4mWK8XNcI)
 - **All event prizes (1)** Regeneron: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -423,8 +423,8 @@ Introducing Curserve: a fast and scalable server-side engine for agentic coding.
 
 - **Team size** 5
 - **Built With** python, qwen, rust, shell, typescript, vast, vllm
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alexkranias/curserve)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=30VpcKWD0MU)
 - **All event prizes (1)** Crater: Play-Do Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Crater** Curserve essentially is a high-performance serving engine that enables hundreds of users to run coding agents simultaneously with near-zero latency for file operations. Devpost gives no specific sponsor integration detail.
@@ -437,8 +437,8 @@ evolve coding agents through pvp and reinforcement on web3.
 
 - **Team size** 4
 - **Built With** claude, claude-code, elevenlabs, gemini-cli, google-cloud, letta, livekit, react, sui, three.js, vercel, vite, webgl
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/qtzx06/darwin)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8Z5D-vZgShg)
 - **All event prizes (1)** Letta: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Letta** letta cloud - true cross-agent communication via send_message_to_agent_async, agents literally rewrite their own context blocks through tool calling, orchestrator uses run_code to validate execution.
@@ -452,7 +452,7 @@ DIAL (*) is an optimized customer service agent designed for data-heavy use case
 - **Team size** 5
 - **Built With** duckdb, elevenlabs, express.js, ngrok, node.js, sql, twilio
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=32DSdO1V-z0)
 - **All event prizes (3)** Conversion: Best Use of Conversion · Crater: Play-Do Prize · Rox: Best Use of Rox
 - **Devpost checked** 2026-11-21 UTC
 - **Conversion** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -467,8 +467,8 @@ A fast, intelligent query engine built on DuckDB.
 
 - **Team size** 1
 - **Built With** python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KevinL10/applovin-query)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_QnZ6bNqfr4)
 - **All event prizes (1)** AppLovin: Query Planner Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **AppLovin** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -482,7 +482,7 @@ A coordination tool delegates emergency room tasks to agents responsible for bed
 - **Team size** 4
 - **Built With** claude, langchain, langgraph, python, uagent
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YaeFUbzgQFc)
 - **All event prizes (1)** Fetch AI: Best Deployment of Agentverse
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** EDFlow AI is an autonomous multi-agent system that coordinates emergency department preparation in under 10 seconds using Fetch.ai's uAgents framework and Claude AI.
@@ -509,8 +509,8 @@ an ai tool for making reel outfits real.
 
 - **Team size** 2
 - **Built With** claude, next.js, react, reka, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/reenu-kutty/elle)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PlOx9obQ2yg)
 - **All event prizes (1)** Reka: Best Use of Reka
 - **Devpost checked** 2026-11-21 UTC
 - **Reka** The team used Reka's Vision + Research APIs to facilitate visual analysis &amp; web scraping + Claude Compute to expedite the work processes.
@@ -523,8 +523,8 @@ Turn research papers into living knowledge graphs. Agentic AI finds papers, buil
 
 - **Team size** 3
 - **Built With** amazon-web-services, axios, claude, fastapi, networkx, pymupdf, python, rag, react, scispacy, sentence-transformers, sqlalchemy, sqlite, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jalenfran/empirica)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=xpLYIeUccAw)
 - **All event prizes (1)** Regeneron: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** Empirica transforms biomedical research with three core capabilities:. Devpost gives no specific sponsor integration detail.
@@ -538,7 +538,7 @@ Making expungement simple and accessible for all.
 - **Team size** 4
 - **Built With** chromadb, fastapi, google-gemini-api, httpx, lang-chain, live-kit-sdk, next.js, open-ai-gpt-4-api, pydantic, python, tailwindcss, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=SS9HQw-BFXU)
 - **All event prizes (2)** Cal Hacks: Greatest Social Impact · Promise: Public Impact Prize (sponsored by Promise)
 - **Devpost checked** 2026-11-21 UTC
 - **Promise** Expungo is an AI-powered platform that simplifies and automates the criminal record expungement process by analyzing uploaded documents to determine eligibility. Devpost gives no specific sponsor integration detail.
@@ -552,7 +552,7 @@ Your post-purchase autopilot that automatically tracks online price changes and 
 - **Team size** 3
 - **Built With** claude, react, typescript, vercel
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=JZJVVK4-EEU)
 - **All event prizes (1)** The Bright Data: Best Use of Bright Data
 - **Devpost checked** 2026-11-21 UTC
 - **Bright Data** The application employs Vercel Analytics for performance monitoring and uses Axios for HTTP requests to external APIs, including Bright Data's dataset triggers for structured product data collection.
@@ -566,7 +566,7 @@ A charming game about persuading fish to get out of the pond :).
 - **Team size** 2
 - **Built With** audio, fish, fishaudio, gemini, godot
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=P2L0ae516pY)
 - **All event prizes (1)** fish.audio: Best use of Fish Audio
 - **Devpost checked** 2026-11-21 UTC
 - **fish.audio** In the game, you can move around the player and shout into a pond. Devpost gives no specific sponsor integration detail.
@@ -580,7 +580,7 @@ Using agentic AI to reinvent compliance.
 - **Team size** 3
 - **Built With** fastapi, gemini, html, javascript, python, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=SdEoVMPPPDg)
 - **All event prizes (1)** Regeneron: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -594,7 +594,7 @@ You create a smart application form and share it anywhere — LinkedIn, Handshak
 - **Team size** 3
 - **Built With** brightdata, chromadb, claude, letta, nextjs, python, react, typescript, vercel
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=bajCGzs3QBk)
 - **All event prizes (1)** Composio: Best Use of Composio Toolrouter
 - **Devpost checked** 2026-11-21 UTC
 - **Composio** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -607,8 +607,8 @@ Defend against suspicious charges before they even reach your account, utilizing
 
 - **Team size** 4
 - **Built With** anthropic, brightdata, claude, coderabbit, css3, django, fetch, figma, fish, github, html5, javascript, machine-learning, numpy, python, react18, render, sql, whitenoise
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aryan-gupta123/Guardian)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dWRFXnRT234)
 - **All event prizes (1)** The Bright Data: Best Use of Bright Data
 - **Devpost checked** 2026-11-21 UTC
 - **Bright Data** The team learned that designing for financial security isn’t just a data problem, it’s an intrinsically human one. Devpost gives no specific sponsor integration detail.
@@ -621,8 +621,8 @@ Giving AI a physical embodiment for the world. Control multiple hardware platfor
 
 - **Team size** 4
 - **Built With** asi:one, cv, flask, inverse-kinematics, json, python, tcp
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/danielzyy/calhacks2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Zj-G-9aPG8w)
 - **All event prizes (2)** Cal Hacks: Best Hardware Hack · Crater: Play-Do Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Crater** Model Context Protocol (MCP) revolutionized the capabilities of LLMs by offering a radically new way of creating software for the everyday lives. Devpost gives no specific sponsor integration detail.
@@ -635,8 +635,8 @@ Harmoniq is an AI agent system that continuously monitors clinical trial protoco
 
 - **Team size** 2
 - **Built With** agents, chroma, llms, nextjs, python, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/vardhanshorewala/harmoniq)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=mIZSg8rKyew)
 - **All event prizes (2)** Regeneron: Runner-Up · Rox: Best Use of Rox
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -650,8 +650,8 @@ A hospital coordination dashboard combines record data, nursing alerts, and pati
 
 - **Team size** 4
 - **Built With** claude, fetch.ai, grok, livekit, openai, opencv, photoplethsymography, websocket, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/scrappydevs/haven)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sxdgpbTRsMs)
 - **All event prizes (3)** Fetch AI: Best Use of Fetch AI · LiveKit: Best Start-up Idea · Y Combinator: Build an Iconic YC Company - 1st Place
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Haven is a multi-agent hospital intelligence platform built on three core systems using LiveKit, Fetch.ai, and Claude agents :.
@@ -667,7 +667,7 @@ Time is money: literally. Sell your day away in 15-minute blocks.
 - **Team size** 4
 - **Built With** ai, chromadb, claude, livekit, next.js, sui
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=t7M319EIn4k)
 - **All event prizes (1)** Sui: Best Use of Sui
 - **Devpost checked** 2026-11-21 UTC
 - **Sui** Bidders place bids on time slots using Sui blockchain NFT auctions.
@@ -680,8 +680,8 @@ Intelligent IRL Meeting Organizer - A conversational AI agent designed with the 
 
 - **Team size** 4
 - **Built With** chromadb, convex, digtalocean, express.js, fastapi, groq, openai, react, shadcn, tailwind, typescript, vite, yolo
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/satvikprasad/calhacks25-imo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=fTmvGxSzU3I)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of DigitalOcean Gradient™ AIOpt
 - **Devpost checked** 2026-11-21 UTC
 - **DigitalOcean** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -695,7 +695,7 @@ Insight uses Meta Ray-Bans to record your every interaction, creating an AI clon
 - **Team size** 4
 - **Built With** dlib, ffmpeg, mcp, opencv, pillow, postgress, pyannote, pyav, python, pytorch, smithery, typescript, whisper, wordware
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=fq3KNSE-kns)
 - **All event prizes (1)** Conway: Most Data-Intensive Application
 - **Devpost checked** 2026-11-21 UTC
 - **Conway** InSight is your personal memory engine, a virtual clone that captures everything you see, say, and do. Devpost gives no specific sponsor integration detail.
@@ -709,7 +709,7 @@ InterViewAR: Empathy-Driven Hiring Through ARHelping interviewers detect stress,
 - **Team size** 3
 - **Built With** asi:one, augmented-reality, chroma, conversion.ai, groq, html, javascript, llama, python, react, three.js, whisper
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pU3Ep86LdjM)
 - **All event prizes (1)** Fetch AI: Best Use of ASI:One
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists asi:one among its Built With tags.
@@ -722,8 +722,8 @@ Changing lives, one blink at a time :).
 
 - **Team size** 4
 - **Built With** electron, eyetrax, fastapi, git, javascript, kalman, letta, letta-client, letta-cloud, manifest-v3, node.js, numpy, opencv, pydantic, python, tensorflow-lite, uvicorn, websockets, windsurf
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tgondil/iris)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=T3Psh8Hm7so)
 - **All event prizes (1)** Crater: Play-Do Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Crater** Hands-Free Control Using Eye Tracking, Voice, and AI. Devpost gives no specific sponsor integration detail.
@@ -736,8 +736,8 @@ A data analysis assistant helps users explore and ask questions about their data
 
 - **Team size** 4
 - **Built With** chart.js, fastapi, groq, pandas, python, react, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/erik-ksth/jade-ai)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NeEhUii2XYk)
 - **All event prizes (1)** Groq: Best Use of Groq
 - **Devpost checked** 2026-11-21 UTC
 - **Groq** The project lists groq among its Built With tags.
@@ -750,8 +750,8 @@ It guarantees you the best line for your sales pitch, the smoothest rizz for you
 
 - **Team size** 4
 - **Built With** meta, opencv, python, react, selenium
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dgne58/jarvis)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=L_MScy52fvc) · [Video 2](https://www.youtube.com/watch?v=VQDHUFmHNZA) · [Video 3](https://www.youtube.com/watch?v=wGPBxhYchgQ)
 - **All event prizes (1)** Most Wacky Hack (presented by Wordware)
 - **Devpost checked** 2026-11-21 UTC
 - **Wordware** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -765,7 +765,7 @@ A voice-controlled assistant reads the screen and operates desktop apps on the u
 - **Team size** 2
 - **Built With** claude, elevenlabs, gemini, httpx, openai, pillow(pil), pyautogui, pyobjc, pyperclip, pyscreeze, python, sounddevice, soundfile
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=u0eB0bQYs2o)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The project lists elevenlabs among its Built With tags.
@@ -779,7 +779,7 @@ Tired of doing mental math and nudging someone who owes you money? Kasha is an A
 - **Team size** 3
 - **Built With** anthropic, claude-ai, express.js, fintech, janitorai, leaflet.js, node.js, postgresql, react, socket-io, supabase, typescript, visa-developer-apis
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0Hnd_ZntowM)
 - **All event prizes (1)** Visa
 - **Devpost checked** 2026-11-21 UTC
 - **Visa** Integration of APIs via Visa for Merchant Search, Visa Offers, Transaction Controls, Foreign Exchange Rates, and ATM Locater bring transparency and reality about finances and savings opportunities to students.
@@ -793,7 +793,7 @@ Krates is the DevOps engineer you need before you can afford to hire one—AI th
 - **Team size** 3
 - **Built With** anthropic-claude-api, docker, electron, electronjs, express.js, fastapi, flask, javascript/typescript, kubernetes, next.js, node.js, python3.11
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aWgkmn3V2og)
 - **All event prizes (1)** Y Combinator: Build an Iconic YC Company - 1st Place
 - **Devpost checked** 2026-11-21 UTC
 - **Y Combinator** Krates is an AI-powered platform that automatically analyzes your codebase and generates production-ready Docker and Kubernetes configurations. Devpost gives no specific sponsor integration detail.
@@ -807,7 +807,7 @@ An AI-powered Web IDE where you can vibe code with your team and share context e
 - **Team size** 3
 - **Built With** claude, coderabbit, elasticsearch, letta, python, react
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WtCWy65nESM)
 - **All event prizes (1)** Letta: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Letta** The project lists letta among its Built With tags.
@@ -821,7 +821,7 @@ Making SMB lending transparent and efficient with on-chain loan tracking on the 
 - **Team size** 3
 - **Built With** auth0, fastapi, python, ripple, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6GD9fiZIC9I)
 - **All event prizes (1)** Ripple: Best Use of XRP Ledger
 - **Devpost checked** 2026-11-21 UTC
 - **Ripple** The project lists ripple among its Built With tags.
@@ -834,8 +834,8 @@ You thought you were off to enjoy a fun, exciting dating show experience... but 
 
 - **Team size** 4
 - **Built With** janitor.ai, next.js, python, react, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/syenko/calhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=IU9fKa8SrCQ)
 - **All event prizes (1)** JanitorAI: Most Functional, Novel, and Fun Project
 - **Devpost checked** 2026-11-21 UTC
 - **JanitorAI** The backend uses JanitorAI's LLM API to power dynamic, context-aware character responses that are finetuned perfectly for immersive storytelling.
@@ -848,8 +848,8 @@ Mantis provides real time threat detection to help retail businesses identify an
 
 - **Team size** 4
 - **Built With** baseten, convex, fastapi, fetch.ai, huggingface, livekit, next.js, opencv, python, react, tailwindcss
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/oviozz/mantis)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=JJ5pMXaB2X4)
 - **All event prizes (1)** Reka: Best Use of Reka
 - **Devpost checked** 2026-11-21 UTC
 - **Reka** Real-time AI demands millisecond-level optimization—batch processing principles don’t apply. Devpost gives no specific sponsor integration detail.
@@ -862,8 +862,8 @@ Meet MARC, the robot that turns text prompts into crisp drawings. In minutes, MA
 
 - **Team size** 4
 - **Built With** hugging-face, lerobot, opencv, python, pytorch, stable-diffusion
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/yyardi/cal-hacks-marc)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=qy0NNvkc4do)
 - **All event prizes (1)** BitRobot Network: Best Robotics Hack - 2nd Place
 - **Devpost checked** 2026-11-21 UTC
 - **BitRobot Network** The system takes natural language text prompts and optional image references to generate original artwork, then automatically translates these digital creations into precise physical drawings executed by a robotic arm. Devpost gives no specific sponsor integration detail.
@@ -876,8 +876,8 @@ Real-time stock market visualization application with AI-powered agent analysis.
 
 - **Team size** 2
 - **Built With** elasticagentbuilder, elasticsearch, lava, next.js, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AlexLuu1/MarketMind)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=fEeDajzAcTY)
 - **All event prizes (1)** Elastic: Best use of the Elastic Agent Builder on a Serverless instance
 - **Devpost checked** 2026-11-21 UTC
 - **Elastic** Six agents, each built with Elastic Agent Builder, analyze a different layer of the market: price movement, company fundamentals, news sentiment, volatility, etc.
@@ -891,7 +891,7 @@ MedChain: A blockchain-powered app for secure, verifiable prescriptions. Built o
 - **Team size** 4
 - **Built With** base, coinbase, html, javascript, react, reka, solidity, tailwind, typescript
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7xqTMnFAi6U)
 - **All event prizes (1)** Ethereum Foundation: Best App Built on Ethereum, or an Ethereum L2
 - **Devpost checked** 2026-11-21 UTC
 - **Ethereum Foundation** MedChain transforms how prescriptions are created, shared, and verified across the healthcare ecosystem without a centralized database or server. Devpost gives no specific sponsor integration detail.
@@ -904,8 +904,8 @@ Smart glasses let clinicians call up visual information with voice commands.
 
 - **Team size** 3
 - **Built With** express.js, fish-audio, gemini, javascript, lens-studio, letta, next.js, snap, snap-spectacles, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/DT-0907/medisnap)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PTfQ6G_CJhs)
 - **All event prizes (1)** Snap: Best Use of Snap Spectacles
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** The team pushed Snap Spectacles beyond standard AR filters by using the computer vision model MediaPipe Hands to detect body landmarks in real-time.
@@ -919,7 +919,7 @@ AR glasses provide memory cues for people with Alzheimer's disease.
 - **Team size** 4
 - **Built With** chatgpt, chromadb, fastapi, gemini, lensstudio, livekit, llama, pokemcp, postman, python, react, reka, snapar, spectacle, typescript, vercel
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=1LMXyNN5t1U)
 - **All event prizes (1)** Snap: Best Use of Snap Spectacles
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** The project lists lensstudio, snapar, spectacle among its Built With tags.
@@ -932,8 +932,8 @@ Rewriting the stereotypes of AI with a human-first mentor built to assist you li
 
 - **Team size** 4
 - **Built With** letta, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/EugeneVuong/calhacks12)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CDGuY-KRXOc)
 - **All event prizes (1)** Letta: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Letta** The team make use of Letta to create a persistent memory for the AI assistant that collects data trends and uses them to craft responses or provide suggestions.
@@ -946,8 +946,8 @@ Merj is your AI-powered merge copilot. It reviews both branches, understands int
 
 - **Team size** 4
 - **Built With** bash, chromadb, claude, coderabbit, javascript, python, voyageai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Anay-jo/merj)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=R1SPVzI1epU)
 - **All event prizes (1)** CodeRabbit: Best Use of CodeRabbit AI
 - **Devpost checked** 2026-11-21 UTC
 - **CodeRabbit** The project lists coderabbit among its Built With tags.
@@ -974,8 +974,8 @@ Teaching robots to see, listen, and move like us. MIRAI is an experimental human
 
 - **Team size** 4
 - **Built With** mediapipe, opencv, pinocchio, python, sdk2, speechrecognition, unitree
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/A-Mundanilkunathil/Unitree-G1)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rB6KpJc6uoU)
 - **All event prizes (1)** BitRobot Network: Best Robotics Hack - 1st Place
 - **Devpost checked** 2026-11-21 UTC
 - **BitRobot Network** MIRAI allows a Unitree G1 humanoid robot to perceive, imitate, and respond to human behavior in real time. Devpost gives no specific sponsor integration detail.
@@ -988,8 +988,8 @@ Automating clinical trial verification to cut costs, save time, bring life-savin
 
 - **Team size** 1
 - **Built With** chroma, chromadb, claude, css3, fetch.ai, flask, gemini, github, google, html, javascript, python, react, react.js, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sulabhkatila/MonitorMachine)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=BOXuzT-mpNw)
 - **All event prizes (1)** Regeneron: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** Once attached to a study, this plan enables autonomous monitoring by AI agents that follow the defined schedule, retrieve data, and execute tasks automatically. Devpost gives no specific sponsor integration detail.
@@ -1003,7 +1003,7 @@ Movement is the disruptive blockchain crowdfunding platform - no fees, no middle
 - **Team size** 4
 - **Built With** css, move, next.js, sui, tailwind
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=QtNbxY7WupE)
 - **All event prizes (1)** Sui: Best Use of Sui
 - **Devpost checked** 2026-11-21 UTC
 - **Sui** The project lists sui among its Built With tags.
@@ -1016,8 +1016,8 @@ automate onboarding and training + realtime coaching.
 
 - **Team size** 3
 - **Built With** ai, api, chrome, extension, flask, gooogle, groq, ics, jira, jora, manifest, node.js, react, react-native, rest, sendgrid, slack, vision, vllm
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Preet37/Onboardly)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ufnTHSQetfM)
 - **All event prizes (1)** Conversion: Best Use of Conversion
 - **Devpost checked** 2026-11-21 UTC
 - **Conversion** Onboardly is a Full-Stack, AI-Powered Onboarding Orchestrator that seamlessly bridges IT provisioning and user coaching. Devpost gives no specific sponsor integration detail.
@@ -1030,7 +1030,7 @@ The team describes the project as “From “I should” to “I did.”Our work
 
 - **Team size** 4
 - **Built With** agents, ai, composio, fetch.ai, mcp, omi, python, sim.ai
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ganeshmohank/orbit)
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=-H-pOgb0LvM)
 - **All event prizes (1)** Fetch AI: Best Use of Fetch AI
 - **Devpost checked** 2026-11-21 UTC
@@ -1044,8 +1044,8 @@ A wildfire operations dashboard brings live video and voice controls into the in
 
 - **Team size** 4
 - **Built With** amazon-web-services, clsx, composio, date-fns, eslint, fetch-ai, lightning-css, lucide-react, mapbox, mapbox-directions-api, mapbox-gl-js, next.js, open-meteo, postcss, postgresql, python, radix-ui, react, react-hook-form, react-map-gl, recharts, shadcn-ui, sonner, supabase, tailwind-css, tailwind-merge, telegram-bot-api, typescript, uagents, vapi, vaul, vercel, voice-ai, websockets, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SupratikPanuganti/CalHacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=MX_pJRwUJjU)
 - **All event prizes (2)** Vapi: Best Use of Vapi · Warp: Best Use of Warp
 - **Devpost checked** 2026-11-21 UTC
 - **Vapi** The project lists vapi among its Built With tags.
@@ -1059,8 +1059,8 @@ Decentralizing how humans communicate using SUI.
 
 - **Team size** 3
 - **Built With** css, dapp, fetch.ai, lucide, move, node.js, postgresql, radix, react, smart-contracts, sui, supabase, tailwind, typescript, vite, vue
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/haotianli24/sui-otter)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=a123pX0egfc)
 - **All event prizes (1)** Sui: Best Use of Sui
 - **Devpost checked** 2026-11-21 UTC
 - **Sui** Secure Messaging : Features end-to-end encrypted messaging for private communication between users and within communities, built on the Sui Messaging protocol.
@@ -1073,8 +1073,8 @@ PaperTrail is an AI research assistant that uses deep memory architectures to le
 
 - **Team size** 1
 - **Built With** claude, css, jina, letta, next.js, postgresql, react, shadcn, sonnet4.5, supabase, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/thorchh/CalHacks-PaperTrail)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CLcbFt-lo4I)
 - **All event prizes (1)** Letta: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Letta** Multi-agent orchestration (Letta): supervisor agent generates targeted queries; workers fetch papers via Jina AI and evaluate in parallel.
@@ -1088,7 +1088,7 @@ A decentralized peer-to-peer lending platform built on the XRP Ledger (XRPL), en
 - **Team size** 4
 - **Built With** blockchain, firebase, nextjs, xrpl
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=i8pdWnesvh0)
 - **All event prizes (1)** Ripple: Best Use of XRP Ledger
 - **Devpost checked** 2026-11-21 UTC
 - **Ripple** PeerFund is a peer-to-peer lending platform built on the XRP Ledger that:. Devpost gives no specific sponsor integration detail.
@@ -1101,8 +1101,8 @@ PitchLab generates catered mock sales pitch calls for sales reps to learn, pract
 
 - **Team size** 1
 - **Built With** claude, elevenlabs, go, nextjs, react, rox, tailwindcss, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Kevinxygu/calhacks.12.0)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=MiJudXabmlQ)
 - **All event prizes (1)** Rox: Best Use of Rox
 - **Devpost checked** 2026-11-21 UTC
 - **Rox** The project lists rox among its Built With tags.
@@ -1116,7 +1116,7 @@ Imagine your mouse pointer, but upgraded and with agentic capabilities.
 - **Team size** 2
 - **Built With** asi:one, fetch.ai, gemini, groq, python, react, rust, tauri, vite, yc
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ub4chFUHhtw)
 - **All event prizes (1)** Fetch AI: Best Deployment of Agentverse
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists asi:one, fetch.ai among its Built With tags.
@@ -1129,8 +1129,8 @@ AI sales assistant you text like a coworker. 6 MCP tools handle enrichment, emai
 
 - **Team size** 1
 - **Built With** fastmcp, github, langchain, lavapayments, ngrok, openai, poke, python, react18, render, sqlite, tailwind, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/araikar08/poke-sdr)
+- **Demo video** [Video 1](https://vimeo.com/1130627301)
 - **All event prizes (1)** Lava: Best Use of Lava Gateway
 - **Devpost checked** 2026-11-21 UTC
 - **Lava** Poke SDR is a conversational AI sales assistant you control entirely through text messages. Devpost gives no specific sponsor integration detail.
@@ -1144,7 +1144,7 @@ Turning one photo into civic action.
 - **Team size** 4
 - **Built With** brightdata, fastapi, groq, javascript, nextjs, playwright, python, react, supabase, twitter
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PoeRdtQU7hg)
 - **All event prizes (1)** SnapDev
 - **Devpost checked** 2026-11-21 UTC
 - **SnapDev** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -1157,7 +1157,7 @@ Imagine an ad network that actually respects your privacy.
 
 - **Team size** 4
 - **Built With** agents, anthropic, brightdata, gemini, javascript, python, reka, torch, transformers, transformers-js
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ACMCMC/privads)
 - **Demo video** [Video 1](https://www.loom.com/share/e830ebef76b2495dbfd9d899350b7d61)
 - **All event prizes (1)** Reka: Best Use of Reka
 - **Devpost checked** 2026-11-21 UTC
@@ -1171,8 +1171,8 @@ A smart AI lecture chatbot that follows along in class, lets you ask questions l
 
 - **Team size** 4
 - **Built With** flask, letta, livekit, react, reka
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nightowl23/calhacks-2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DPN2NaGX0sA)
 - **All event prizes (1)** Letta: Build Your First Stateful AI Agent with Letta Cloud
 - **Devpost checked** 2026-11-21 UTC
 - **Letta** The project lists letta among its Built With tags.
@@ -1185,7 +1185,7 @@ Postman AI Agent Automation that transforms vague and slow product requirements 
 
 - **Team size** 3
 - **Built With** digitalocean, fastapi, node.js, postman, postman-ai-agent, postman-flows, python, ripgrep, slack-api, snowflake, snowflake-cortex
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/V-prajit/relay)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Snowflake API · Postman
 - **Devpost checked** 2026-11-21 UTC
@@ -1200,8 +1200,8 @@ Remixify is an innovative platform that transforms traditional advertising into 
 
 - **Team size** 3
 - **Built With** claude, css, gemini, javascript, letta, python, supabase, typescript, veo3
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nidhigaonkar/calhacks25)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3p9rziCgl7s)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** Integration with Google's Gemini API extensively for image editing (Nano Banana 🍌).
@@ -1215,7 +1215,7 @@ Practice sales calls with AI prospects. Get real-time coaching and detailed perf
 - **Team size** 3
 - **Built With** chromadb, claude, gemini, next.js, python, vapi
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YVRF7clpMIY)
 - **All event prizes (1)** Vapi: Best Use of Vapi
 - **Devpost checked** 2026-11-21 UTC
 - **Vapi** The team integrated Vapi to handle the entire voice pipeline:.
@@ -1229,7 +1229,7 @@ Stop hunting, start researching: AI that finds opportunities and opens doors.
 - **Team size** 4
 - **Built With** alembic-(database-migrations), brightdatamcp, claude, composiotoolrouter, creao.ai, docker-(for-postgresql-with-pgvector), fastapi, javascript/react, openai-api-(embeddings-&amp;-text-generation), openai-embeddings-(text-embedding-3-large-or-similar), pydantic, python, python-dotenv, react, render, sql, sqlalchemy, tailwind-css, vite
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aX6u9S8C7Co)
 - **All event prizes (1)** Creao: Smartest AI agent prize
 - **Devpost checked** 2026-11-21 UTC
 - **Creao** The project lists creao.ai among its Built With tags.
@@ -1242,8 +1242,8 @@ Ever stuck procrastinating on important tasks? Roominate breaks down your tasks 
 
 - **Team size** 4
 - **Built With** asi:one, claude, godot, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/XitoAliferis/calhacks12)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0LMzgVUCBIg)
 - **All event prizes (1)** &#91;MLH&#93; Best .Tech Domain Name
 - **Devpost checked** 2026-11-21 UTC
 - **.Tech Domains** Roominate gamifies and offers incentives for completing your tasks by rewarding completion with the ability to decorate a cozy home. Devpost gives no specific sponsor integration detail.
@@ -1256,8 +1256,8 @@ The system rethinks video compression by mirroring how the human eye perceives i
 
 - **Team size** 4
 - **Built With** amazon-web-services, baseten, ffmeg, next, opengl
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/k-kochhar/Salient)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=bSFhoFY6hIY)
 - **All event prizes (1)** BaseTen: Best Use of Open Source Models
 - **Devpost checked** 2026-11-21 UTC
 - **Baseten** The project lists baseten among its Built With tags.
@@ -1270,8 +1270,8 @@ Do you have a laptop? You're potentially losing on making at least $10/day side 
 
 - **Team size** 1
 - **Built With** swift, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/atharvalade/Shard)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=umudwop1TdY)
 - **All event prizes (1)** Sui: Best Use of Sui
 - **Devpost checked** 2026-11-21 UTC
 - **Sui** Shard is a decentralized compute network built on the Sui blockchain that transforms idle Mac computers into a distributed supercomputer.
@@ -1284,8 +1284,8 @@ Rescue failed clinical trials by discovering hidden responder subgroups using AI
 
 - **Team size** 3
 - **Built With** matplotlib, numpy, pandas, python, scikit, seaborn, streamlit
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aarnavin/calhacks25)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=R1TChJgZMsE)
 - **All event prizes (1)** Regeneron: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** Sublytics is an AI-powered clinical trial analytics platform that discovers patient subgroups who respond to treatments in "failed" trials. Devpost gives no specific sponsor integration detail.
@@ -1298,8 +1298,8 @@ Sui-powered blockchain-based ticketing and loyalty platform with policy-enforced
 
 - **Team size** 4
 - **Built With** blockchain, github, next.js, nft, react, sui, sui-kiosk, sui-move, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/RohanChintakindi/sui-tix)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Whz3DoW8TeI)
 - **All event prizes (1)** Sui: Best Use of Sui
 - **Devpost checked** 2026-11-21 UTC
 - **Sui** The project lists sui, sui-kiosk, sui-move among its Built With tags.
@@ -1312,8 +1312,8 @@ Sweet is an iMessage native diabetes management AI assistant.
 
 - **Team size** 2
 - **Built With** dexcomshareapi, fastmcp, geminiapi, poke, python, twilioapi, uvicorn
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/hemanthkapa/Sweet)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=bO0LeXn3RPY)
 - **All event prizes (1)** Interaction Company: Best MCP Automation
 - **Devpost checked** 2026-11-21 UTC
 - **Interaction Company** Sweet lets users manage diabetes through conversational text messages with an AI assistant. Devpost gives no specific sponsor integration detail.
@@ -1327,7 +1327,7 @@ The architecture is based off of deep generative models such as GAIN and conditi
 - **Team size** 2
 - **Built With** numpy, pandas, python, tensorflow
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3lCcMqWGx2k)
 - **All event prizes (1)** Regeneron: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -1340,8 +1340,8 @@ Real-time map for community events around you.
 
 - **Team size** 3
 - **Built With** creao, google-maps, maps, react, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/valerie-cal/tapped-in)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=L0yhuJi-Qkk)
 - **All event prizes (1)** Creao: Best Real-World Productivity Tool
 - **Devpost checked** 2026-11-21 UTC
 - **Creao** The team used Creao, an AI-native tool building platform and implemented both built-in and custom API and MCP servers.
@@ -1355,7 +1355,7 @@ A multimodal AI companion that fuses emotion sensing, language understanding, an
 - **Team size** 4
 - **Built With** amazon-web-services, arduino, docker, fetchai, firebase, flask, gemini, neurolinq, openai, python, react
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3bj86ky1eAc)
 - **All event prizes (2)** Cal Hacks: 2nd Overall · LiveKit: Most Creative Project
 - **Devpost checked** 2026-11-21 UTC
 - **LiveKit** Ted.AI is an emotionally intelligent teddy bear powered by multimodal AI. Devpost gives no specific sponsor integration detail.
@@ -1369,7 +1369,7 @@ Rebuilding donation trust through transparent giving.
 - **Team size** 3
 - **Built With** base, claude, erc-20, ethereum, ethers.js, express.js, hardhat, next.js, node.js, open-zeppelin, react, solidity, tailwind.css, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=4rg1B0A5sAA)
 - **All event prizes (1)** Ethereum Foundation: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Ethereum Foundation** The team built TraceFund, an AI-gated donation platform on blockchain. Devpost gives no specific sponsor integration detail.
@@ -1383,7 +1383,7 @@ Rebuilding donation trust through transparent giving.
 - **Team size** 4
 - **Built With** creao, google-calendar-api, google-gmail-oauth, react, tailwindcss, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=cCJElQkixLE)
 - **All event prizes (1)** Regeneron: Runner-Up
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -1397,7 +1397,7 @@ TrialGuideAI uses AI to distill dense clinical trial protocols into accessible s
 - **Team size** 3
 - **Built With** css, gemini, git, html, javascript, json, python
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=GWE_4Eq-oaY)
 - **All event prizes (1)** Regeneron: Runner-Up
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** TrialGuideAI is an open-source tool catered for academic clinical research institutions to improve patient's knowledge and awareness of the scientific studies they can partake in. Devpost gives no specific sponsor integration detail.
@@ -1410,8 +1410,8 @@ Agentic pattern AI that actively searches for and identifies trial-qualified pat
 
 - **Team size** 3
 - **Built With** agentverse, fetch, python, react, synthea, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Calhacks-12-0/Trialmatch.ai)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ffKEoZwoR6c)
 - **All event prizes (1)** Regeneron: Runner-Up
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** Unsupervised machine learning discovers 20-30 clinically meaningful patient cohorts automatically. Devpost gives no specific sponsor integration detail.
@@ -1424,8 +1424,8 @@ Your AI-driven clinical trial intelligence platform that reviews, benchmarks, an
 
 - **Team size** 3
 - **Built With** anthropic, css, html, next.js, postgresql, python, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Hilo-Hilo/Trialscope-AI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=FNYlGTxhrr4)
 - **All event prizes (1)** Regeneron: Grand Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** TrialScope AI transforms messy, unstructured trial drafts into structured and regulator-aligned designs, followed by regenerating improved versions using AI. Devpost gives no specific sponsor integration detail.
@@ -1438,8 +1438,8 @@ Turning tangled, time-consuming clinical trial data chaos into seamless, protoco
 
 - **Team size** 4
 - **Built With** admiral, amazon-web-services, aws-deep-learning-ami, aws-ec2, chart.js, cloudformation, cuda, docker, framer-motion, json-schema, next-api-routes, next.js, numpy, nvidia-l40s-gpu, pandas, pharmaverse, postgresql, prisma, pyreadstat, python, qwen3-8b, r, radix-ui, react, react-dropzone, rpy2, shadcn-ui, supabase, supabase-ssr, tailwindcss, tanstack-query, trpc, trpc-server, typescript, vercel-ai-sdk, vllm, zod
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ShauryaJ1/trialytics)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=mKz1m1JFRIQ)
 - **All event prizes (1)** Regeneron: Runner-Up
 - **Devpost checked** 2026-11-21 UTC
 - **Regeneron** Enter Trialytics : a purpose-built solution to take the mountain of raw trial data and transform it into a fully protocol-compliant workflow . Devpost gives no specific sponsor integration detail.
@@ -1453,7 +1453,7 @@ Interoporable Trust, bring your ratings everywhere you go.
 - **Team size** 2
 - **Built With** canva, ethereum, figma, nextjs
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=lMsNXfb3Fns)
 - **All event prizes (1)** Ethereum Foundation: Honorable Mention
 - **Devpost checked** 2026-11-21 UTC
 - **Ethereum Foundation** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -1466,8 +1466,8 @@ Real-time conversation assistant with AI-powered response suggestions and emotio
 
 - **Team size** 4
 - **Built With** elevenlabs, fastapi, javascript, lava, openai, python, react, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ianalin123/few-word-do-trick)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=MEH357zinV4)
 - **All event prizes (1)** Lava: Best Use of Lava Gateway
 - **Devpost checked** 2026-11-21 UTC
 - **Lava** The Intelligent Backend Layer handles speech-to-text and sentence generation using Lava and OpenAI’s GPT-5, as well as text-to-speech synthesis with ElevenLabs (more specifically, Whisper model) for customizable, emotion-aware voices.
@@ -1481,7 +1481,7 @@ A user wearing Snap Spectacles can point to steer a robot and gesture to operate
 - **Team size** 4
 - **Built With** fastapi, snap, websocket
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aqoKeFthpqQ)
 - **All event prizes (2)** BitRobot Network: Best Robotics Hack - 3rd Place · Snap: Best Use of Snap Spectacles
 - **Devpost checked** 2026-11-21 UTC
 - **BitRobot Network** Wingman is a Snap Spectacles–controlled robot that brings human intuition into robotics. Devpost gives no specific sponsor integration detail.

@@ -12,7 +12,7 @@ from pathlib import Path
 import re
 import subprocess
 import time
-from urllib.parse import quote, urlsplit
+from urllib.parse import quote, urljoin, urlsplit
 from urllib.robotparser import RobotFileParser
 
 
@@ -25,6 +25,21 @@ LINK_HOSTS = frozenset({
 
 def write_json(path, data):
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
+
+
+def link_chain(url, receipts):
+    seen = set()
+    while url and url not in seen and len(seen) < 4:
+        seen.add(url)
+        yield url
+        url = receipts.get(url, {}).get("redirect_to")
+
+
+def verified_link(url, receipts):
+    return next(
+        (step for step in link_chain(url, receipts) if receipts.get(step, {}).get("status") == 200),
+        None,
+    )
 
 
 class Fetcher:
@@ -75,6 +90,10 @@ class Fetcher:
             log.write(json.dumps(record) + "\n")
         self.receipts[record["url"]] = record
 
+    def check_link(self, url):
+        for step in link_chain(url, self.receipts):
+            self.get(step)
+
     def get(self, url):
         parts = urlsplit(url)
         devpost = parts.hostname and (
@@ -114,13 +133,20 @@ class Fetcher:
         record["fetched_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
         response = subprocess.run(
             ["curl", "--disable", "--silent", "--show-error", "--max-time", "18",
-             "--user-agent", USER_AGENT, "--write-out", "\n%{http_code}\n%header{retry-after}",
+             "--user-agent", USER_AGENT, "--write-out", "\n%{http_code}\n%header{retry-after}\n%header{location}",
              *(["--head"] if head_only else []), "--", url],
             capture_output=True,
             check=False,
         )
-        body, status, retry_after = response.stdout.rsplit(b"\n", 2)
+        body, status, retry_after, location = response.stdout.rsplit(b"\n", 3)
         record["status"] = int(status) or None
+        if head_only and record["status"] in (301, 302, 303, 307, 308) and location:
+            from evidence import normalized_link
+
+            redirect = urljoin(url, location.decode("utf-8", errors="replace"))
+            _, canonical = normalized_link(redirect)
+            if canonical and canonical != url and urlsplit(canonical).hostname == parts.hostname:
+                record["redirect_to"] = canonical
         if record["status"] in (403, 429):
             now = time.time()
             resume = now + (300 if record["status"] == 429 else 600)
@@ -220,7 +246,7 @@ def run(args):
             for batch in zip_longest(*hosts.values()):
                 for url in batch:
                     if url:
-                        fetcher.get(url)
+                        fetcher.check_link(url)
         return
     galleries = {}
     for entry in args.input.read_text().splitlines():

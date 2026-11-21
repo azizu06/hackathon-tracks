@@ -47,7 +47,7 @@ Data to thrive, keeping Toyota’s edge alive.
 - **Team size** 4
 - **Built With** nextjs, numpy, openai, pandas, pinata, seaborn, sentencetransformers, streamlit
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=P7VKxnk-iFQ)
 - **All event prizes (1)** Toyota
 - **Devpost checked** 2026-11-21 UTC
 - **Toyota Financial Services** KaizenData offers multiple customizations and services for engineers to use. Devpost gives no specific sponsor integration detail.
@@ -60,8 +60,8 @@ AI-Banking is the ultimate financial companion for the unbanked, underbanked, an
 
 - **Team size** 3
 - **Built With** firebase, gemini, react-native
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aprajita27/AllBank)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PpnAEd4Dwek)
 - **All event prizes (1)** Goldman Sachs
 - **Devpost checked** 2026-11-21 UTC
 - **Goldman Sachs** AllBank offers a holistic financial management experience:. Devpost gives no specific sponsor integration detail.
@@ -74,8 +74,8 @@ Backtracc reminds you of forgotten valuables when you leave rideshare vehicles b
 
 - **Team size** 4
 - **Built With** cloudflare, express.js, pinata, python, raspberry-pi, samba-nova, terraform
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/phamleduy04/hackutd24)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Rae562RAkhU)
 - **All event prizes (3)** &#91;MLH&#93; Best AI Application Built with Cloudflare · Hardware · Samba Nova
 - **Devpost checked** 2026-11-21 UTC
 - **Cloudflare** The team used Terraform to deploy the frontend and manage the DNS on Cloudflare.
@@ -90,7 +90,7 @@ Capsule, allows you to upload data into a "capsule" and retrieve it very quickly
 - **Team size** 2
 - **Built With** nextjs, pinata, shadcn, tailwind
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sh2B0vi0H2c)
 - **All event prizes (1)** Pinata
 - **Devpost checked** 2026-11-21 UTC
 - **Pinata** The team built it using Next.JS, TailwindCSS, ShadCN, Pinata, and QRCode.
@@ -103,8 +103,8 @@ It's a social cheese rating and sharing website.
 
 - **Team size** 1
 - **Built With** pinata, sveltekit, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/joemmalatesta/CheddarBoxd)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ijk-pzGl-H0)
 - **All event prizes (2)** Best Solo Hack · Pinata
 - **Devpost checked** 2026-11-21 UTC
 - **Pinata** The project lists pinata among its Built With tags.
@@ -117,8 +117,8 @@ Data Pattern Observatory combines real-time data tracking with statistical model
 
 - **Team size** 2
 - **Built With** elasticsearch, mongodb, python, redis
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/siddhu-pikachu/data-observability)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All event prizes (1)** PNC Bank
 - **Devpost checked** 2026-11-21 UTC
 - **PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -131,8 +131,8 @@ It takes in data about a well and tries to detect anomalies to predict when hydr
 
 - **Team size** 4
 - **Built With** flask, pandas, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/zekestephens/dhy-n0)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=u_p-SZjQW9U) · [Video 2](https://www.youtube.com/watch?v=yX_HXU2jF9s)
 - **All event prizes (2)** &#91;MLH&#93; Best .Tech Domain Name · EOG Resources
 - **Devpost checked** 2026-11-21 UTC
 - **.Tech Domains** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -146,8 +146,8 @@ A smart water management tool that helps households and property managers optimi
 
 - **Team size** 4
 - **Built With** 3d-printer, arduino, c++, cad, canva, figma, gemini, iot, next.js, node.js, pinata, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Fernando4242/HackUTD24-EcoFastTrack)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=StRry54qZMs)
 - **All event prizes (2)** CBRE · Veolia
 - **Devpost checked** 2026-11-21 UTC
 - **CBRE** The tool uses smart gauge sensors to monitor water temperature and flow, providing real-time insights into usage. Devpost gives no specific sponsor integration detail.
@@ -161,7 +161,7 @@ A sustainability project to help manage buildings from afar.
 
 - **Team size** 3
 - **Built With** flask, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Sami-ul/Sustainable-Building-Manager)
 - **Demo video** [Video 1](https://vimeo.com/1030515570)
 - **All event prizes (1)** Veolia
 - **Devpost checked** 2026-11-21 UTC
@@ -175,8 +175,8 @@ Efficiency that Saves, Sustainability that Lasts.
 
 - **Team size** 4
 - **Built With** blender, c#, haptics, hardware, llama, proton, python, sambanova, streamlit, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/FireboltLegend/HackUTD-2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=V73-WMFlnqU)
 - **All event prizes (1)** CBRE
 - **Devpost checked** 2026-11-21 UTC
 - **CBRE** The project reimagines property management through an immersive VR platform that uses real-time data and advanced technology to drive sustainability. Devpost gives no specific sponsor integration detail.
@@ -190,7 +190,7 @@ Inspiration Managing personal finances can often feel daunting, with budgeting a
 - **Team size** 4
 - **Built With** firebase, python, streamlit
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=eX-9qLLoR2E)
 - **All event prizes (1)** PNC Bank
 - **Devpost checked** 2026-11-21 UTC
 - **PNC Bank** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -204,7 +204,7 @@ FUELICIENT gives a clean UI for Toyota fuel-efficiency data exploration, coupled
 - **Team size** 4
 - **Built With** dns, firebase, github, github.io, markdown, pandas, pinata, pip, python, streamlit
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=fIVCgdzMGAA)
 - **All event prizes (1)** Toyota
 - **Devpost checked** 2026-11-21 UTC
 - **Toyota Financial Services** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -217,8 +217,8 @@ Git for ANY file type - Reducing storage costs by 500x, streamlining version con
 
 - **Team size** 4
 - **Built With** azure, c, cloudfare, express.js, git, iframe, nextjs, node.js, pdf.js, pinata, ssh, terraform
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ssaniya-dev/GitFile)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5T_aJ0k165M)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Terraform
 - **Devpost checked** 2026-11-21 UTC
 - **HashiCorp** The project lists terraform among its Built With tags.
@@ -231,8 +231,8 @@ A Sustainability Platform for a Greener Future.
 
 - **Team size** 4
 - **Built With** chart.js, d3.js, flask, framer-motion, google-maps, gpt-4, llama-3, mongodb, next.js, pinecone, python, rag, react.js, tailwind, three.js, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SaadMakda/Greenify-Test) · [Source 2](https://github.com/yfshaikh/greenify) · [Source 3](https://github.com/yfshaikh/greenify-scripts)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=W2zu9af2O0o)
 - **All event prizes (1)** CBRE
 - **Devpost checked** 2026-11-21 UTC
 - **CBRE** Greenify is an all-in-one platform designed to provide businesses with comprehensive insights into their sustainability practices. Devpost gives no specific sponsor integration detail.
@@ -245,8 +245,8 @@ Providing investment and banking opportunities to overlooked individuals who are
 
 - **Team size** 3
 - **Built With** ai, crypto, fastapi, geckocoin, javascript, ml, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AndrewG4404/HackUTD)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DVqZ3ahW_lI)
 - **All event prizes (1)** PNC Bank
 - **Devpost checked** 2026-11-21 UTC
 - **PNC Bank** It also, shows current predictions for certain cryptocurrency and risk analysis to help users understand their investments. Devpost gives no specific sponsor integration detail.
@@ -259,8 +259,8 @@ InvestIQ simplifies investing for everyone, offering real-time insights, educati
 
 - **Team size** 4
 - **Built With** autogen, cohere, flask, next.js, perplexity, sambanova
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/krish-shar/InvestIQ)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=LAvZvJE8MMA)
 - **All event prizes (1)** Infosys
 - **Devpost checked** 2026-11-21 UTC
 - **Infosys** InvestIQ is a powerful financial insights platform designed to cater to:. Devpost gives no specific sponsor integration detail.
@@ -273,8 +273,8 @@ Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-t
 
 - **Team size** 4
 - **Built With** angular.js, axios, javascript, mongoose, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/danielodicho/lumo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=SXQl53rMZ6Q)
 - **All event prizes (2)** General · Goldman Sachs
 - **Devpost checked** 2026-11-21 UTC
 - **Goldman Sachs** Lumo directly divides payments among participants by charging the cards the users put on file. Devpost gives no specific sponsor integration detail.
@@ -288,7 +288,7 @@ Meet Monch – the AI-powered app that uses photos of your food to instantly rec
 - **Team size** 4
 - **Built With** clerk, next, pinata, react
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZkMzkzsfklo)
 - **All event prizes (1)** Pinata
 - **Devpost checked** 2026-11-21 UTC
 - **Pinata** The project lists pinata among its Built With tags.
@@ -302,7 +302,7 @@ Capture Ideas, Create Clarity, Powered by AI.
 - **Team size** 4
 - **Built With** databricks, fastapi, llama, python, react, sambanova, supabase, tailwind, terraform
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=f8wzQW5T_cQ)
 - **All event prizes (1)** Samba Nova
 - **Devpost checked** 2026-11-21 UTC
 - **SambaNova** The backend is powered by FastAPI and crucially integrates with SambaNova's API, whose exceptional inference speed was vital for the real-time transcription feature.
@@ -315,8 +315,8 @@ Monitor your pipes and and the likelihood that there is a hydrate.
 
 - **Team size** 4
 - **Built With** css, firebase, html, javascript, numpy, pandas, python, scikit
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/lightningbolt7/HackUTD-XI)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=A-HWoCepzhw)
 - **All event prizes (1)** EOG Resources
 - **Devpost checked** 2026-11-21 UTC
 - **EOG Resources** The project, PipeBrains, was trained using a machine learning algorithm from Scikit on the given datasets by EOG. Devpost gives no specific sponsor integration detail.
@@ -329,8 +329,8 @@ Where YOU can talk to your own personalized bank.
 
 - **Team size** 3
 - **Built With** latex, nextjs, openai, pinata, python, retell, swarm, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aurelisajuan/TalkTuahBank)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YsH_z1azXSA)
 - **All event prizes (2)** General · Goldman Sachs
 - **Devpost checked** 2026-11-21 UTC
 - **Goldman Sachs** TalkTuahBank revolutionizes the banking experience by offering a fully conversational AI assistant accessible through simple phone calls. Devpost gives no specific sponsor integration detail.
@@ -344,7 +344,7 @@ ToyoTrends is a powerful web application designed for Toyota engineers to visual
 - **Team size** 4
 - **Built With** carsxe, chart.js, css, html, javascript, openai, react, sambanova
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=lEvVw3Qg834)
 - **All event prizes (1)** Toyota
 - **Devpost checked** 2026-11-21 UTC
 - **Toyota Financial Services** Immersive Intro Animation : Engages users with a visually appealing introduction. Devpost gives no specific sponsor integration detail.
@@ -357,8 +357,8 @@ Vestique, your AI wardrobe assistant, tracks your style and ensures no clothes g
 
 - **Team size** 2
 - **Built With** brevo, llama, opencv, sambdanova, streamlit
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rChwiecko/Vestique)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZASINIB-IOM)
 - **All event prizes (2)** &#91;MLH&#93; Best Use of Streamlit · Samba Nova
 - **Devpost checked** 2026-11-21 UTC
 - **SambaNova** It provides users with a platform to maintain their wardrobes. Devpost gives no specific sponsor integration detail.

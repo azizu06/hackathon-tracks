@@ -93,7 +93,7 @@ AngelShot simulates a realistic phone call a variety of user-customizable AI-bas
 
 - **Team size** 4
 - **Built With** deepgram, elevenlabs, nextjs, react, tailwind, vapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/mikieyx/SafeTalk)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Vapi: Show us your Voice AI
 - **Devpost checked** 2026-11-21 UTC
@@ -107,7 +107,7 @@ Have you ever written insecure code? Probably, but how do you know.
 
 - **Team size** 1
 - **Built With** gin, go, javascript, postgresql, svelte, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tbwrigh/CalHacks)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Terraform
 - **Devpost checked** 2026-11-21 UTC
@@ -121,8 +121,8 @@ An autonomous system of AI agents performing an intelligent disaster response fr
 
 - **Team size** 1
 - **Built With** express.js, fetch.ai, groq, hyperbolic, javascript, llama, node.js, python, react, vapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rajashekarcs2023/Autonomous-AI-Society)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3K3OB0o3TD8)
 - **All event prizes (1)** Fetch.ai: Agentic Track Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Drone Dispatch : The distress analyzer agent communicates with the drone agent (built using Fetch.ai) to dispatch drones to specific locations, assisting with flood and rescue operations.
@@ -135,8 +135,8 @@ Empowering Artists with Blockchain: Seamless Royalty Payments and Ownership Cont
 
 - **Team size** 2
 - **Built With** blockchain, move, node.js, react.js, spotify, sui
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ChiragSeth14/Blockify)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=bKVkiuuv-uM)
 - **All event prizes (2)** Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize · Sui: Reimagine the internet with Sui
 - **Devpost checked** 2026-11-21 UTC
 - **Berkeley RDI** This would allow artists to have full ownership over their work and receive a fair compensation from streams which is currently far from the reality. Devpost gives no specific sponsor integration detail.
@@ -150,8 +150,8 @@ A browser assistant helps blind users interact with websites through an accessib
 
 - **Team size** 1
 - **Built With** agenticframework, browsers, deepgram, fetch, gemini, gemini-bounding-box, groq, pyqt5, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/RoyceAroc/browseblind)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=39JkocXmKnA)
 - **All event prizes (1)** Fetch.ai: Agentic Track Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** A user can ask the browser to click on any element/part of the page and also fill in information on the page via true NLP. Devpost gives no specific sponsor integration detail.
@@ -165,7 +165,7 @@ Create and deploy audited smart contracts on the XRPL EVM side chain using easy 
 - **Team size** 2
 - **Built With** evm, nextjs, rainbowkit, ripple, sidechain, tailwind, typescript, wagmi
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Tjbo1wRPeVU)
 - **All event prizes (1)** Ripple: Best App by Ripple
 - **Devpost checked** 2026-11-21 UTC
 - **Ripple** The project lists ripple among its Built With tags.
@@ -178,8 +178,8 @@ Satellite-enabled wireless sensor network for early wildfire detection.
 
 - **Team size** 4
 - **Built With** arduino, esp8266, gcp, iot, monogoto, murata, pandas, python, skylo, streamlit, udp, wifi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tsai-henry/canary)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OwAMRadd5Y8)
 - **All event prizes (1)** Skylo: Seamlessly Switch from Cellular to Satellite
 - **Devpost checked** 2026-11-21 UTC
 - **Skylo** The project lists skylo among its Built With tags.
@@ -192,8 +192,8 @@ Automatically file home insurance claims after natural disasters.
 
 - **Team size** 4
 - **Built With** amazon-ec2, amazon-web-services, chromadb, flask, nextjs, python, s3, segment-anything, sqlite, yolo
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SonavAgarwal/calhacks-24)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=2fkQlLvGIrQ)
 - **All event prizes (1)** Hyperbolic: AI Inference Application Bounty
 - **Devpost checked** 2026-11-21 UTC
 - **Hyperbolic** The team use Hyperbolic's inference (Qwen2 VL7B) to analyze each area and decide if it is an object to record and find its estimated monetary value.
@@ -207,7 +207,7 @@ Companion is a voice-powered web AI agent that can autonomously execute web task
 - **Team size** 3
 - **Built With** flask, gpt, openai, opencv, pinecone, python, react, selenium, vapi
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=gFd_lrVoTtQ)
 - **All event prizes (1)** Vapi: Show us your Voice AI
 - **Devpost checked** 2026-11-21 UTC
 - **Vapi** The project lists vapi among its Built With tags.
@@ -220,8 +220,8 @@ CryptoWise is an all-in-one platform designed to revolutionize the cryptocurrenc
 
 - **Team size** 4
 - **Built With** express.js, fast, fetch, groq, javascript, kraken, machine-learning, metamask, node.js, python, react, single-store, smart-contract, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Dev-Varshith/crypto-analysis-ml) · [Source 2](https://github.com/Mahendra-Chittupolu/kraken-frontend) · [Source 3](https://github.com/sohail-coder/kraken-analytics-backend)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OMBlUbdAGMg)
 - **All event prizes (1)** Singlestore: Best Real-Time App
 - **Devpost checked** 2026-11-21 UTC
 - **SingleStore** Data Acquisition: Integrated WebSocket APIs to fetch real-time cryptocurrency data, which is stored in SingleStore Database for fast retrieval and analytics.
@@ -234,8 +234,8 @@ Let's introduce you to your new friend, Databae.
 
 - **Team size** 4
 - **Built With** fastapi, gcp, google, groq, llm, next.js, pandas, python, react, uagents, visualizations
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/trungtran1234/databae)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=b37oVjFhQ5s)
 - **All event prizes (1)** Fetch.ai: Agentic Track Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The project lists uagents among its Built With tags.
@@ -249,7 +249,7 @@ A travel planner suggests destinations and builds itineraries from user preferen
 - **Team size** 4
 - **Built With** css, google-calendar, google-maps, javascript, large-language-model, natural-language-processing, python, reddit
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=anM8nKAcNgM)
 - **All event prizes (1)** Fetch.ai: Agentic Track Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The team used Fetch AI to facilitate conversations and communication between the agents.
@@ -262,8 +262,8 @@ Deep Retention of Concepts using research-backed techniques.
 
 - **Team size** 1
 - **Built With** cartesia, chromadb, deepgram, fastapi, gemini, groq, hume, hyperbolic, llama, nextjs, python, tailwindcss, typescript, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Priyansh4444/DeeR)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=1LN9q6boel8)
 - **All event prizes (1)** Agora: Best Practice of TEN
 - **Devpost checked** 2026-11-21 UTC
 - **Agora** DeeR is an AI-powered study companion that:. Devpost gives no specific sponsor integration detail.
@@ -276,7 +276,7 @@ An LLM Rubber Ducky. Never worry about being unprepared for a presentation ever 
 
 - **Team size** 3
 - **Built With** amazon-web-services, deno, docker, mongodb, nginx, pulumi, rabbitmq, redis, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/adit-bala/ducky.ai)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** The House Fund: "Cal" Track
 - **Devpost checked** 2026-11-21 UTC
@@ -290,8 +290,8 @@ Echocare is an intuitive platform designed to assist users in locating and conne
 
 - **Team size** 2
 - **Built With** aceternity-ui, ant-design, axios, cartesia, clerk, framer-motion, google-gemini-flash, google-maps, google-places, groq, gsap, lucide-react, neondb, next.js, react, tailwindcss, three.js, typescript, vapi-ai, vercel-postgres
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rishitx/echocare)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CMhPyazI5N4)
 - **All event prizes (1)** Vapi: Show us your Voice AI
 - **Devpost checked** 2026-11-21 UTC
 - **Vapi** The project lists vapi-ai among its Built With tags.
@@ -318,7 +318,7 @@ Elevyn empowers creators to monetize exclusive content and fundraisers through b
 
 - **Team size** 1
 - **Built With** eluv.io, midnight, node.js, react, ripple, sui, web3
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Yash-kumar7/Elevyn)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Midnight
 - **Devpost checked** 2026-11-21 UTC
@@ -333,7 +333,7 @@ Welcome to the JARVIS for first responders.
 - **Team size** 4
 - **Built With** face-recognition, flask, javascript, lens-studio, pil, python, snapchat, spectacles, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=iVBfLWnqzRc)
 - **All event prizes (1)** Snap: Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
 - **Snap** The team built EYEdentity using a combination of advanced facial recognition and facial tracking algorithms and the new Snap Spectacles.
@@ -346,8 +346,8 @@ Clients talk to the AI, explaining the type of candidate they need and any speci
 
 - **Team size** 4
 - **Built With** deepgram, express.js, fetch.ai, flask, move, next.js, python, singlestore, sui, terraform
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/DPulavarthy/CalHacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0uHPTtYydYI)
 - **All event prizes (1)** Sui: Reimagine the internet with Sui
 - **Devpost checked** 2026-11-21 UTC
 - **Sui** The project lists sui among its Built With tags.
@@ -375,7 +375,7 @@ The website serves as a decentralized gift card trading marketplace .
 - **Team size** 2
 - **Built With** express.js, node.js, react, sui
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=W1QGVNJGV7g)
 - **All event prizes (1)** Sui: Reimagine the internet with Sui
 - **Devpost checked** 2026-11-21 UTC
 - **Sui** The project lists sui among its Built With tags.
@@ -388,8 +388,8 @@ A kitchen planner uses pantry inventory and dietary preferences to suggest recip
 
 - **Team size** 2
 - **Built With** barcodelookup, digitalocean, flask, groq, javascript, mongodb, nginx, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Sachin-dot-py/Grocify)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3mnrfpyawdU)
 - **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** Grocify is like having a personal grocery assistant in your pocket, making food management easy. Devpost gives no specific sponsor integration detail.
@@ -402,7 +402,7 @@ Remove the need to manually update your docs. When you make a PR, Doc's are auto
 
 - **Team size** 3
 - **Built With** chromadb, groq, python, rag, reflex
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Hassanmushtaq524/groundtruth)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Chroma: Build your project with Chroma in an AI application
 - **Devpost checked** 2026-11-21 UTC
@@ -416,7 +416,7 @@ Guardian Angel, always by your side.
 
 - **Team size** 4
 - **Built With** deepgram, expo.io, fastapi, google-gemini, node.js, python, react-native, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ArianaJohnson/GuardianAngel_calhacks_2024)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Google: Most impactful app
 - **Devpost checked** 2026-11-21 UTC
@@ -431,7 +431,7 @@ Guardian Angel, always by your side.
 - **Team size** 3
 - **Built With** fastapi, fetch.ai, figma, framermotion, github, groq, hume.ai, next.js, shadcn, supabase, tailwindcss
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0LENXMAW3Cs)
 - **All event prizes (1)** Hume: Best use of emotionally intelligent voice AI
 - **Devpost checked** 2026-11-21 UTC
 - **Hume** Empathetic AI : Helora incorporates emotional intelligence to provide compassionate, context-aware responses, ensuring that patients feel understood and supported during their care, powered by Hume AI.
@@ -444,7 +444,7 @@ Video chat web app powered with real-time ASL transcription.
 
 - **Team size** 2
 - **Built With** agora, deepgram, gemini, heroku, hume, hyperbolic, react, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/hoyso48/Google---American-Sign-Language-Fingerspelling-Recognition-2nd-place-solution)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Deepgram: Deepgram Voice Agent Quest
 - **Devpost checked** 2026-11-21 UTC
@@ -472,8 +472,8 @@ Are you anxious about speaking a foreign language or don't know where to start? 
 
 - **Team size** 4
 - **Built With** deepgram, express.js, firebase, gemini, javascript, node.js, openai, react, tailwind, vapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SrimanCode/CalHacks-11.0)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sJRIEn7pzM4)
 - **All event prizes (1)** Vapi: Show us your Voice AI
 - **Devpost checked** 2026-11-21 UTC
 - **Vapi** The project lists vapi among its Built With tags.
@@ -486,7 +486,7 @@ The system includes a form where clients can enter their name, phone number, and
 
 - **Team size** 4
 - **Built With** html, node.js, react, react-router-dom, vapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ConnectAI-CalHacks/Letmetalktoahuman-AI)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Vapi: Show us your Voice AI
 - **Devpost checked** 2026-11-21 UTC
@@ -501,7 +501,7 @@ An AI email assistant that automates form-filling, summarizes messages, and stre
 - **Team size** 1
 - **Built With** drizzle, google-cloud, groq, nextjs, shadcn, supabase, tailwind, typescript
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=aPkajwX18lQ)
 - **All event prizes (1)** Interaction Company: Build AI Agents that Proactively Handle Your Email!
 - **Devpost checked** 2026-11-21 UTC
 - **Interaction Company** Leyline connects to your Gmail account and parses incoming emails. Devpost gives no specific sponsor integration detail.
@@ -514,8 +514,8 @@ Talk to the characters in your favourite story.
 
 - **Team size** 3
 - **Built With** 11labs, deepgram, groq, javascript, lottie, python, react, reflex, vapi
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pranavbedi/LiveStory)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=E7Z3YmKI0LI)
 - **All event prizes (1)** Vapi: Show us your Voice AI
 - **Devpost checked** 2026-11-21 UTC
 - **Vapi** The project lists vapi among its Built With tags.
@@ -528,8 +528,8 @@ Military personnel will utilize Lucy to identify potential threats during field 
 
 - **Team size** 2
 - **Built With** arduino, chromadb, deepgram, groq, lmnt, python, spotrobot
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Jinash-Rouniyar/SpotDog)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Qpsvuxynwek)
 - **All event prizes (1)** Chroma: Build your project with Chroma in an AI application
 - **Devpost checked** 2026-11-21 UTC
 - **Chroma** Lucy uses the capabilities of Spot Robot Dog to help identify potentially threatening elements in a surrounding through computer vision and advanced wave sensing capabilities. Devpost gives no specific sponsor integration detail.
@@ -542,8 +542,8 @@ Truth in the Digital Age: Mastering Information Literacy.
 
 - **Team size** 4
 - **Built With** ai-agent, ai-engine, chrome, css, fetch.ai, figma, flask, front-end, html, javascript, llm, python, social-media, web
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/courtofdreams/md-fact-farm-api) · [Source 2](https://github.com/courtofdreams/md-fact-farm-extenstion)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Rcab4yp58jQ)
 - **All event prizes (1)** Fetch.ai: Agentic Track Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** The team integrated an AI agent using Fetch.ai and built services and APIs to enable seamless communication with the agent.
@@ -556,8 +556,8 @@ A one-of-a-kind, AR assistant medical system is made to guide first emergency fi
 
 - **Team size** 4
 - **Built With** agents, ar, c#, deepgram, fetch.ai, flask, large-language-models, meta, oculus, openai, opencv, python, quest, singlestore, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/amanpdesai/calhacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=q3oeRe1I9VY)
 - **All event prizes (1)** Fetch.ai: Agentic Track Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Fetch.ai** Fetch.ai provided the framework that powered the agents driving the entire system design.
@@ -570,7 +570,7 @@ Memento helps elderly people connect with their families by reflecting on and sh
 
 - **Team size** 4
 - **Built With** chroma, deepgram, gemini, groq, python, reflex
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/AlexLuu1/Memento)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Reflex: Best app built using reflex.dev · Ripple: Best App by Ripple
 - **Devpost checked** 2026-11-21 UTC
@@ -585,8 +585,8 @@ A note taker turns live audio into written notes.
 
 - **Team size** 3
 - **Built With** chromadb, groq, next.js, tailwind, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/pnavab/calhacks11)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=NWODx14Z6pw)
 - **All event prizes (1)** Groq: The Best on Groq
 - **Devpost checked** 2026-11-21 UTC
 - **Groq** The project lists groq among its Built With tags.
@@ -599,8 +599,8 @@ Notefly is your real time online meeting note taker. See meeting transcript and 
 
 - **Team size** 4
 - **Built With** agora, fetch.ai, gemini, mongodb, next.js, react, tailwid, zustand
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Almasx/calhack)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=8wdY5N1KWZE)
 - **All event prizes (1)** Agora: Best Innovation of TEN
 - **Devpost checked** 2026-11-21 UTC
 - **Agora** Started by using agora's SDK to create a basic web conferencing software using next.js for the frontend.
@@ -613,8 +613,8 @@ The blockchain solution for content creators offering a decentralized platform f
 
 - **Team size** 4
 - **Built With** move, next.js, sui, tailwindcss, typescript, walrus
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kevinru2023/notic3)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=t1BEB-irnqU)
 - **All event prizes (1)** Sui: Reimagine the internet with Sui
 - **Devpost checked** 2026-11-21 UTC
 - **Sui** The team utilized Sui's newest Data Storage solution, Walrus, to store encrypted files on the chain using blobs allowing creators to leverage the chain for distribution of their content.
@@ -627,7 +627,7 @@ Nova is an automated email assistant that intelligently processes incoming email
 
 - **Team size** 4
 - **Built With** flask, gmail, google, google-calendar, gpt, json, openai, pickle, python, sinch
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jpsingaraju/nova-ai)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Interaction Company: Build AI Agents that Proactively Handle Your Email!
 - **Devpost checked** 2026-11-21 UTC
@@ -641,7 +641,7 @@ Pawn Up: Your Personal AI Chess Coach—Analyze, Train, and Master Chess on Your
 
 - **Team size** 3
 - **Built With** chroma, css3, docker, flask, gemini, git, github, groq, html5, javascript, llama, node.js, oauth, python, rapidapi, react, tailwindcss, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/satwikug25/calhacks)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Chroma: Build your project with Chroma in an AI application
 - **Devpost checked** 2026-11-21 UTC
@@ -669,7 +669,7 @@ An augmented reality tool guides stroke survivors through physical therapy exerc
 
 - **Team size** 4
 - **Built With** fetch.ai, groq, lensstudio, react, snapincspectacles, xano
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ppilli1/RecovARy) · [Source 2](https://github.com/pranavi-ch/recovARy-agents)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Fetch.ai: Agentic Track Prize · Snap: Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
@@ -684,8 +684,8 @@ A kitchen assistant suggests recipes that use available ingredients before they 
 
 - **Team size** 1
 - **Built With** fastapi, gemini-ai, hume-evi, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sherwinvishesh/Refrigerator-Ramsay)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=bNv-EJtd40s)
 - **All event prizes (1)** Google: Most useful app
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The team used Google Gemini AI for image recognition to identify ingredients from photos. and then, to come up with creative meal ideas.
@@ -699,7 +699,7 @@ A Lifeline When It Matters Most.
 - **Team size** 2
 - **Built With** lora, modem, python, radio, raspberry-pi, react, skylo, vite
 - **Code** [Source 1](https://github.com/12458/calhacks)
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=W8BvOO4-qPs)
 - **All event prizes (2)** Cal Hacks: Hack for Impact · Skylo: Seamlessly Switch from Cellular to Satellite
 - **Devpost checked** 2026-11-21 UTC
 - **Skylo** The core hardware components include LoRa radios, which provide long-range communication, and Skylo satellite connectivity, enabling nodes to transmit data to the internet using the MQTT protocol.
@@ -712,7 +712,7 @@ A treasure hunt uses Snap Spectacles to show clues and phone vibrations to guide
 
 - **Team size** 4
 - **Built With** figma, github, javascript, lens-studio, spectacles, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dawoon19/treasure-hunt-spectacles)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Snap: Dream it. Build it.
 - **Devpost checked** 2026-11-21 UTC
@@ -726,7 +726,7 @@ decentralizing music by empowering artists to create &amp; monetize their music 
 
 - **Team size** 3
 - **Built With** enoki, google-auth, materialui, next.js, react, sui, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/m20arcusk/soundchain)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Sui: Reimagine the internet with Sui
 - **Devpost checked** 2026-11-21 UTC
@@ -740,7 +740,7 @@ A speaking coach helps language learners practice pronunciation and hear example
 
 - **Team size** 4
 - **Built With** ai, cartesia, ffmpeg, flask, javascript, python, react, sqlalchemy, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Boomaa23/speak-easy)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Cartesia: Best AI Voice Project
 - **Devpost checked** 2026-11-21 UTC
@@ -754,7 +754,7 @@ An interactive story gives schoolchildren branching choices while they practice 
 
 - **Team size** 2
 - **Built With** css, firebase, gemini, github, html, hume, nextjs, react, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/catfeeshing/storyscape)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Google: Most creative app
 - **Devpost checked** 2026-11-21 UTC
@@ -768,7 +768,7 @@ Ever struggled in social settings? Not knowing what to say next.
 
 - **Team size** 4
 - **Built With** ar, arduino, c, deepgram, flask, hume, javascript, ngrok, python, raspberry-pi, react-native
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/steven-mu12/talk-tuah)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Cal Hacks: Best Beginner Hack · Deepgram: Deepgram Voice Agent Quest
 - **Devpost checked** 2026-11-21 UTC
@@ -782,7 +782,7 @@ Tool Assisted Shopping; Accelerate your shopping to robot-like efficiency.
 
 - **Team size** 4
 - **Built With** amazon-web-services, firebase, gemini, google-cloud, lambda, reflex, s3, selenium
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Turtdle/TAS-Frontend) · [Source 2](https://github.com/Turtdle/TAShopping-Backend) · [Source 3](https://github.com/s-akhtar-dev/TAS-Shopping-App)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Reflex: Best app built using reflex.dev
 - **Devpost checked** 2026-11-21 UTC
@@ -796,8 +796,8 @@ World's First AI Study Assistant in Extended Reality.
 
 - **Team size** 4
 - **Built With** cartesia, deepgram, gemini, javascript, mediapipe, ocr, react, singlestore, tailwind, vapi, xr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/VietRocHack/TeachXR-backend-dataflow) · [Source 2](https://github.com/VietRocHack/TeachXR-backend-gesture) · [Source 3](https://github.com/VietRocHack/TeachXR-frontend)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=qVoCHS9BaIc)
 - **All event prizes (2)** Cal Hacks: Hackers' Choice · Vapi: Show us your Voice AI
 - **Devpost checked** 2026-11-21 UTC
 - **Vapi** There are many excellent pre-built solutions available, such as Vapi , which has been invaluable in helping the team implement a voice interface.
@@ -811,7 +811,7 @@ Talk to your toys with Teddy.AI; the worlds first AI powered teddy bear that can
 - **Team size** 2
 - **Built With** gemini, generativeai, hume, hyperbolic, javascript, large-language-models, node.js, raspberry-pi
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PFFHGMIax6E)
 - **All event prizes (1)** Hyperbolic: AI Inference Application Bounty
 - **Devpost checked** 2026-11-21 UTC
 - **Hyperbolic** The project lists hyperbolic among its Built With tags.
@@ -824,7 +824,7 @@ Real time translation from text to braille.
 
 - **Team size** 4
 - **Built With** cartesia, deepgram, groq, hyperbolic
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/rami-maalouf/text2dot)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Deepgram: Deepgram Voice Agent Quest
 - **Devpost checked** 2026-11-21 UTC
@@ -838,7 +838,7 @@ Improvements in Pepsi's Global Value chain end with consumers but so does waste.
 
 - **Team size** 3
 - **Built With** express.js, mongodb, nextjs, node.js, react, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/garvcodes/sustainableshowcase)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** SCET/Pepsico: PEP+ Sustainability Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -852,8 +852,8 @@ A prototype implements a programming language and game engine inside Figma.
 
 - **Team size** 2
 - **Built With** figma, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/kognise/aldente)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=765IiE3aNFA)
 - **All event prizes (2)** Cal Hacks: Most Entertaining Hack · Warp: Best Developer Tool by Warp
 - **Devpost checked** 2026-11-21 UTC
 - **Warp** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -866,7 +866,7 @@ The product leverages advanced AI technology to enhance school safety by detecti
 
 - **Team size** 4
 - **Built With** chroma, convex, deepgram, express.js, fetch.ai, groq, hyperbolic, javascript, next.js, python, tailwindcss
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/oviozz/watchDog-UC-Berkeley-2025-)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Hyperbolic: AI Inference Application Bounty
 - **Devpost checked** 2026-11-21 UTC

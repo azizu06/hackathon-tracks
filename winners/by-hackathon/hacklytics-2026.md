@@ -36,8 +36,8 @@ A website to help Atlanta residents and visitors stay safe during first-time mee
 
 - **Team size** 3
 - **Built With** flask, geminiaistudio, html, intellij-idea, pandas, python, vs-code
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/IshaMadanu/hacklytics-atl-risk)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5gWB9hfDggA)
 - **All event prizes (1)** Best AI for Human Safety by SafetyKit
 - **Devpost checked** 2026-11-21 UTC
 - **SafetyKit** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -50,8 +50,8 @@ The team admit a machine learning model shouldn't be the only frontier for diagn
 
 - **Team size** 4
 - **Built With** actain, databricks, figma, python, rag, react-native, sklearn, vectorai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dominickdupuy/Aura)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7oUk6SBtJcA)
 - **All event prizes (1)** Best Use of Actian VectorAI DB
 - **Devpost checked** 2026-11-21 UTC
 - **Actian** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -64,8 +64,8 @@ A camera-based biomechanics tool tracks movement and fatigue to give athletes fe
 
 - **Team size** 4
 - **Built With** actian-vectorai-db, avfoundation, c#, caddy, clip-reid, docker, elevenlabs, fastapi, figma-make, gemini-2.0-flash, grpc, hybrik, javascript, mongodb, next.js-15, one-euro-filter, python, react-19, scikit-learn, swiftui, tailscale, tensorrt, three.js, typescript, umap, unity, websocket, yolo11
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jiekaitao/BRACE)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DvQncQ3JfmE)
 - **All event prizes (2)** Figma Make Most Creative Data Visualization · First in Sports
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** The project lists figma-make among its Built With tags.
@@ -78,8 +78,8 @@ CitySpot uses deep learning on satellite imagery to detect and map every parking
 
 - **Team size** 3
 - **Built With** css, html, javascript, python, shell
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Kairavparikh/CitySpot)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=67cCz4yv9Kc)
 - **All event prizes (1)** GrowthFactor Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **GrowthFactor** CitySpot uses deep learning on NAIP satellite imagery to automatically detect and map every surface parking lot in Atlanta. Devpost gives no specific sponsor integration detail.
@@ -106,8 +106,8 @@ A dashboard maps humanitarian funding against local needs to identify crises tha
 
 - **Team size** 4
 - **Built With** databricks, fastapi, html, javascript, pandas, python, react, sql
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Angelr327/DSL-Hackalytics) · [Source 2](https://github.com/Icygamer5/DSLFrontend)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=jn_rcXjV_zw)
 - **All event prizes (1)** Databricks Geo-Insight Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Databricks** The project lists databricks among its Built With tags.
@@ -121,7 +121,7 @@ A local weather app gives gardeners and small farmers forecasts tailored to grow
 - **Team size** 3
 - **Built With** react, tailwind, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=TLGly6WWBwQ)
 - **All event prizes (1)** Figma Make Most Creative Data Visualization
 - **Devpost checked** 2026-11-21 UTC
 - **Figma** FarmCast is the weather app that actually gets it. Devpost gives no specific sponsor integration detail.
@@ -134,8 +134,8 @@ A group conversation tool places live captions to help deaf participants follow 
 
 - **Team size** 4
 - **Built With** elevenlabs, numpy, python, snowflake, swift, websocket
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Dinofish32/hacklytics-2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ttvh5SJoVfU)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Snowflake API
 - **Devpost checked** 2026-11-21 UTC
 - **Snowflake** The team are proud of integrating so many different models like ARVision, Snowflake, ElevenLabs, and the fine tuned Wav2Vec.
@@ -148,8 +148,8 @@ A language-learning tool combines speech and translation exercises to help users
 
 - **Team size** 2
 - **Built With** clean-architecture, eleven-labs-text-to-speech, google-gemini, google-translate, google-web-speech-api, python, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ConicalDrupe/janulus.ai)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5NwICUGROWw)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The project lists eleven-labs-text-to-speech among its Built With tags.
@@ -162,8 +162,8 @@ PatchLab tracks what players feel during playtests, not just what they click. It
 
 - **Team size** 4
 - **Built With** actian, fastapi, google-gemini, javascript, mediapipe, numpy, opencv, pandas, python, react, recharts, snowflake, tailwind, vite, vultr, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/NSang22/PatchLab)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=IrHYcadESSk)
 - **All event prizes (1)** Most Unique Application of Sphinx
 - **Devpost checked** 2026-11-21 UTC
 - **Sphinx** PatchLab is a playtesting platform that captures player emotion in real time. Devpost gives no specific sponsor integration detail.
@@ -176,8 +176,8 @@ AI that fights your hospital bill.
 
 - **Team size** 4
 - **Built With** actian, fastapi, langgraph, mongodb, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Itz-Viggy/payBack)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=5uq6HO8El3I)
 - **All event prizes (1)** Best Use of Actian VectorAI DB
 - **Devpost checked** 2026-11-21 UTC
 - **Actian** The project lists actian among its Built With tags.
@@ -190,8 +190,8 @@ A filmmaker can turn a screenplay into video previews and storyboard frames.
 
 - **Team size** 4
 - **Built With** colab, databricks, elevenlabs, fastapi, figma, gemini, google, huggingface, javascript, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/akabandaru/Playwright)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=W5MAby_ONxk)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The team use the Gemini API to segment the script into narrative beats.
@@ -204,8 +204,8 @@ North Star that guides retailers to their best location.
 
 - **Team size** 3
 - **Built With** fastapi, python, react, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/V-prajit/Polaris)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=zUk49IYrOuw)
 - **All event prizes (1)** GrowthFactor Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **GrowthFactor** Polaris is a scalable ML platform that quantifies parking inventory from space. Devpost gives no specific sponsor integration detail.
@@ -218,8 +218,8 @@ RxGuard is a semantic engine that uses vector embeddings to bridge "vocabulary g
 
 - **Team size** 4
 - **Built With** actian, gemini, python, rag, react, sphinx
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/gt12889/hacklytics2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dwmhyQ5ZIQA)
 - **All event prizes (1)** Best Use of Actian VectorAI DB
 - **Devpost checked** 2026-11-21 UTC
 - **Actian** The project lists actian among its Built With tags.
@@ -232,8 +232,8 @@ Synaptix is an AI-powered drug repurposing platform.
 
 - **Team size** 4
 - **Built With** actian-vectorai-db, axios, clinicaltrials.gov-api, docker, drkg, fastapi, framer-motion, gemini, javascript, networkx, numpy, pubchem-api, pubchempy, pubmed-api, python, rdkit, react, react-force-graph-3d, scikit-learn, sqlite, tailwind-css, three.js, transe, uvicorn, vite, vultr-cloud
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Sanjavan7/Drugreuse)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=QKEs6iViyJc)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** The project lists vultr-cloud among its Built With tags.
@@ -246,8 +246,8 @@ A camera estimates a player's state and changes the game in response.
 
 - **Team size** 3
 - **Built With** elevenlabs, facemesh, gemini, presage, python, react, swift, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ethernetvan/UnderPressure)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UIsO8ZmOv4Y)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Presage
 - **Devpost checked** 2026-11-21 UTC
 - **Presage** The team built an iOS data collection app using the Presage SDK for iOS.
@@ -260,8 +260,8 @@ A lender can screen potential properties for environmental risks before approvin
 
 - **Team size** 1
 - **Built With** actian, alpine.js, css, devnet, faiss, fastapi, ollama, python, qwen2.5:3b, solana, solana-py, solders, sqlite, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/9nesh/VERA)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=62N696AcAkE)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** It serializes the payload, computes a SHA-256 fingerprint, and submits a compact summary and fingerprint through Solana's SPL Memo program , using solders and solana-py .

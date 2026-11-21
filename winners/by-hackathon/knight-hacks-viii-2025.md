@@ -47,8 +47,8 @@ AgentNow is a Gemini-powered assistant that listens to customers and instantly r
 
 - **Team size** 2
 - **Built With** elevenlabs, gemini, next.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/must108/agentnow)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=IMv4cc_kS_c)
 - **All event prizes (1)** ServiceNow: Knowledge Gap Request Agent Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **ServiceNow** AgentNow is a Gemini-powered assistant that listens to customer conversations and, in real time, recommends the most relevant ServiceNow accelerators. Devpost gives no specific sponsor integration detail.
@@ -61,8 +61,8 @@ Turn your live performances into real time digital sheet music or challenge frie
 
 - **Team size** 3
 - **Built With** fastapi, gemini, librosa, music21, react, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/viannahuynh/CanesChicken)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=bMZOmNP666s)
 - **All event prizes (1)** MLH - Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** What doesn’t it do, Awww Sheet is an interaction violin performance and training platform that combines real time music transcription, learning and gaming. Devpost gives no specific sponsor integration detail.
@@ -75,8 +75,8 @@ An AI assistant to help Lawyers manage clients.
 
 - **Team size** 4
 - **Built With** adobe, cursor, digitalocean, flask, gemini-2.5-pro, google-adk, next.js, openrouter, python, salesforce-tools, snowflake-api, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/iihatem/knighthacks2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=L_cQ5aC_p5E)
 - **All event prizes (1)** MLH - Best Use of Snowflake API
 - **Devpost checked** 2026-11-21 UTC
 - **Snowflake** The team integrated Salesforce for case management and Snowflake for data warehousing.
@@ -89,8 +89,8 @@ CloseCalls uses the CARLA simulator in Unreal Engine 4 to generate realistic tra
 
 - **Team size** 3
 - **Built With** amd, carla, gemini, opentad, python, rocm, unreal-engine
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/RBuck8339/kh2025CVTrafficSynth)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=pNB4n_KeTZQ)
 - **All event prizes (1)** ACM UCF
 - **Devpost checked** 2026-11-21 UTC
 - **ACM UCF** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -104,7 +104,7 @@ Simply lay out the ingredients you already have, take a quick screenshot with th
 - **Team size** 4
 - **Built With** ar, digitalocean, elevenlabs, fastapi, figma, gemini, geminiapi, github, metaquest, metasdk, python, unity, vr
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=QAaYWL-Mr1g)
 - **All event prizes (2)** MLH - Best Use of Vultr · Most "Useful" Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Vultr** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -117,8 +117,8 @@ The perfect drone optimization algorithm that you'd ever need.
 
 - **Team size** 3
 - **Built With** git, github, googleortools, numpy, plotly, python, shapely, visual-studio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/a1vcm/knighthacks2025)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=qbOgZGTl13M)
 - **All event prizes (1)** NextEra Energy: Drone Optimization Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **NextEra Energy** Uses the given sample flight data from drones provided and converts this data into latitude/longitude coordinates. Devpost gives no specific sponsor integration detail.
@@ -131,8 +131,8 @@ See the world through sound and LiDAR. Inspired by echolocation, EchoAI is a han
 
 - **Team size** 3
 - **Built With** computer-vision, fastapi, lidar, machine-learning, python, swift, yolo
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jaehoonoo/echoai)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=P4SIQhh_1LY)
 - **All event prizes (2)** AMD: Best use of AMD Hardware/Software Challenge · Best AI Hack
 - **Devpost checked** 2026-11-21 UTC
 - **AMD** The system is built on a high-performance client-server architecture, where an iPhone captures the world, and a powerful AMD-hosted server does the heavy lifting.
@@ -145,8 +145,8 @@ AI Agents for complex human disaster dynamics simulation.
 
 - **Team size** 4
 - **Built With** gemini, google-adk, nextjs, python, react, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/myr124/emergent) · [Source 2](https://github.com/myr124/knighthacks2025backend)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=LQdMwBeeswU)
 - **All event prizes (2)** Best Overall Hack · Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Google** Dynamic, AI-Powered Scenarios Generative Events: Utilizes Google Gemini to generate realistic disaster scenarios and narrative injects, creating a unique exercise every time.
@@ -159,8 +159,8 @@ Get daily financial news and insights tailored to your interests.
 
 - **Team size** 2
 - **Built With** express.js, fastapi, javascript, node.js, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jordanrobbedthesun/FinScope)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WxBUaohIQVI)
 - **All event prizes (1)** OneEthos: AI for Financial Empowerment Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **OneEthos** Gathers and summarizes financial news from trusted global sources every morning. Devpost gives no specific sponsor integration detail.
@@ -173,8 +173,8 @@ The solution uses Google OR-Tools to solve the Vehicle Routing Problem by assign
 
 - **Team size** 3
 - **Built With** flask, ortools, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Bvqlz/GridWatch)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=AEEQjJ4ilyA)
 - **All event prizes (1)** NextEra Energy: Drone Optimization Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **NextEra Energy** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -188,7 +188,7 @@ HeliosAI uses a solar cell connected to an Arduino with light sensors and servo 
 - **Team size** 4
 - **Built With** agent-to-agent-architecture, arduino, flask, flask-sock, flask-socketio, gemini-live-api, google-gemeni-ai, googlegeminiapi, html/css, javascript, openweathermapapi, pyserial, python, webaudioapi, websocket
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=mZV5om5oVVE)
 - **All event prizes (1)** MLH - Best Use of Arm
 - **Devpost checked** 2026-11-21 UTC
 - **Arm** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -201,8 +201,8 @@ See the world. Speak its stories.
 
 - **Team size** 4
 - **Built With** fastapi, firestore, gemini-vision, google-adk, langchain, python, react-native, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/skatari172/Hermes)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DD6ZQVk9QJE)
 - **All event prizes (1)** Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemini-vision among its Built With tags.
@@ -215,8 +215,8 @@ A modern walking aid powered by LiDAR sensing and haptic force feedback, a syste
 
 - **Team size** 5
 - **Built With** arduino, arkit, bluetooth, c++, elevenlabs, esp32-microcontroller, google-gemini, i2c, lidar, linear-resonance-actuator, python, swift
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/4dandev/iPalo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=9j8EzahHBIk)
 - **All event prizes (1)** MLH - Best Use of ElevenLabs
 - **Devpost checked** 2026-11-21 UTC
 - **ElevenLabs** The captured image was processed through Google Gemini for scene description, and ElevenLabs provided real-time text-to-speech output.
@@ -229,8 +229,8 @@ This program is a Python-based tool designed to read, parse, and export SAP bina
 
 - **Team size** 4
 - **Built With** csv, gzip, lz4, openai, os, python, struct, zstandard, zstd
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Britjit/hackathon)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Xzq6eSaBh2o)
 - **All event prizes (1)** Auritas: Data Visualization and Algorithm Reconstruction Challenges
 - **Devpost checked** 2026-11-21 UTC
 - **Auritas** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -243,8 +243,8 @@ Agentic AI-Driven Financial Advisor for UCF Students.
 
 - **Team size** 4
 - **Built With** fastapi, gemini, geminicomputeruse, googleadk, next.js, node.js, python, react, vertexai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Adammouedden/KnightSource)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UHDxC3MaZVk)
 - **All event prizes (2)** Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge · MLH - Best Use of Gemini 2.5 Computer Use
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The AI features included RAG through VertexAI, Google's Embedding Models, Gemini API's structured output, Gemini Computer Use, and Google ADK.
@@ -258,8 +258,8 @@ AI Legal Tender transforms messy legal data into structured, cited intelligence 
 
 - **Team size** 4
 - **Built With** amd, chatgpt-whisper, flask, google-adk, huggingface, node.js, postgresql, python, react, rocm, smtp, twilio, typescript, vllm
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dominickdupuy/Paralegal)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=toI8_0oCX8Y)
 - **All event prizes (2)** AMD: Best use of AMD Hardware/Software Challenge · Morgan &amp; Morgan: AI Legal Tender Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **AMD** The project lists amd among its Built With tags.
@@ -274,7 +274,7 @@ Money Mentor AI: your stress-free path to financial freedom - one confident step
 - **Team size** 3
 - **Built With** css3, flask, html5, node.js, python, react, typescript
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=J5wnACnaZdY)
 - **All event prizes (1)** OneEthos: AI for Financial Empowerment Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **OneEthos** Money Mentor.ai is your personal financial coach - calm, private, and ruthlessly practical. Devpost gives no specific sponsor integration detail.
@@ -287,8 +287,8 @@ Optimizing autonomous drone missions for efficient, battery-aware inspection of 
 
 - **Team size** 2
 - **Built With** geopandas, google-colab, matplotlib, numpy, ortools, python, shapely
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/saniddhyaDubey/next-era-Drone-Routing-Problem)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=2L7jpEtnFr4)
 - **All event prizes (1)** NextEra Energy: Drone Optimization Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **NextEra Energy** The team created a smart algorithm which helps the team plan the drone missions making sure it is cost effective in terms of time/distance and battery usage. Devpost gives no specific sponsor integration detail.
@@ -301,8 +301,8 @@ PowerLegal is a sophisticated multi-agent legal case management system that coor
 
 - **Team size** 3
 - **Built With** adk, gemini, next.js, openai, react, supabase, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Kavipatel0/KnightHacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=SRItaUWZ1nc)
 - **All event prizes (1)** Morgan &amp; Morgan: AI Legal Tender Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Morgan &amp; Morgan** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -315,8 +315,8 @@ A new energy behind world-building. Where imagination meets energy, Scenergy tur
 
 - **Team size** 3
 - **Built With** amd, amd-rocm, fastapi, javascript, node.js, python, pytorch, render, rocm, three.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Niwant/KNIGHTHACKS)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=PQAzobRVGgU)
 - **All event prizes (1)** MLH - Best Use of DigitalOcean Gradient™ AI
 - **Devpost checked** 2026-11-21 UTC
 - **DigitalOcean** Scenergy turns a single prompt (or a reference image) into a playable, editable 3D scene—live in your browser. Devpost gives no specific sponsor integration detail.
@@ -329,8 +329,8 @@ ServiceLater turns ServiceNow feedback into accelerator roadmaps, using AI to sp
 
 - **Team size** 4
 - **Built With** fast-api, google-gemini-api, javascript, react, typescript, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/NagelPoulose/KnighHacksVIII-Project)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=1cckS4RC1tM)
 - **All event prizes (1)** ServiceNow: Knowledge Gap Request Agent Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **ServiceNow** ServiceLater analyzes customer needs and recommends accelerators with a Pattern Analysis Agent that surfaces trends and an Accelerator Recommendation Agent that proposes new accelerators with justification. Devpost gives no specific sponsor integration detail.
@@ -343,7 +343,7 @@ Simply Law automates the legal workflow with AI agents that extract key informat
 
 - **Team size** 4
 - **Built With** fastapi, google-adk, google-gemini, next.js, opencv, postgresql, prisma, pydub, pytesseract, python, react, speech-recognition, tailwind-css, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ballinyouup/morgan-ai-sdk)
 - **Demo video** [Video 1](https://www.youtube.com/watch?v=-925V5YOfWs)
 - **All event prizes (1)** Morgan &amp; Morgan: AI Legal Tender Challenge
 - **Devpost checked** 2026-11-21 UTC
@@ -357,8 +357,8 @@ In an age where AI-generated media is indistinguishable from reality, Sora2Detec
 
 - **Team size** 1
 - **Built With** ai, amd, html5, ml, python, rocm
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/LeeMarshall1113/Sora2Detector)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=GPhHIwjohe4)
 - **All event prizes (1)** AMD: Best use of AMD Hardware/Software Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **AMD** The project lists amd among its Built With tags.
@@ -372,7 +372,7 @@ Synapse isn’t another assistant — it’s the nervous system of AI itself, wh
 - **Team size** 4
 - **Built With** No tags listed
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=irFW-f8mvoE)
 - **All event prizes (1)** ServiceNow: Knowledge Gap Request Agent Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **ServiceNow** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -385,8 +385,8 @@ Transforming system design interviews from holistic, expensive evaluations into 
 
 - **Team size** 4
 - **Built With** elevenlabs, gemini, next, postgresql, react, supabase, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ethan-dean/sherm-team-6)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=IMPi_oKzPc8)
 - **All event prizes (1)** MLH - Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Google** The project lists gemini among its Built With tags.
@@ -400,7 +400,7 @@ In life-or-death moments, guessing isn’t an option. Deploy a robot swarm that 
 - **Team size** 4
 - **Built With** arduino, elevenlabs, flask, flutter, gemini, python, pytorch, ros
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=m-iLFeIfq-s)
 - **All event prizes (1)** Pheratech Systems: ROS2 Autonomy Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Pheratech Systems** ZPM acts as an autonomous evacuation assistant deployed by building administrators. Devpost gives no specific sponsor integration detail.

@@ -36,7 +36,7 @@ The team are a decentralized API key sharing intermediary service.
 
 - **Team size** 3
 - **Built With** chakraui, ethereum, fiber, go, gsap, metamask, next.js, rabbitmq, solidity, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/bradeu/b.env)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** 1Password Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -50,8 +50,8 @@ Patients over paperwork- physicians want make meaningful impact on patients but 
 
 - **Team size** 4
 - **Built With** fastapi, netlify, react.js, supabase
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/zelalemka/nwhacks_2025_chit_chart)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=1tHKeyLVZSA)
 - **All event prizes (2)** Glaive Any Open-Source LLM Prize ($2000) · Most Likely to Become a Successful Startup
 - **Devpost checked** 2026-11-21 UTC
 - **Glaive** The team did so many cool things. Devpost gives no specific sponsor integration detail.
@@ -64,7 +64,7 @@ A dynamic platform for mapping real-time crisis events through peer-shared video
 
 - **Team size** 4
 - **Built With** algorithms, css, firebase, github, html, javascript, livepeer, mapbox, node.js, postman, react, thenewsapi, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/bpbrianpark/CrisisLens)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** Aquareum.tv Sponsor Prize · TELUS Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -79,7 +79,7 @@ A menu companion translates unfamiliar menus and helps diners visualize the dish
 
 - **Team size** 4
 - **Built With** amazon-web-services, css, mongodb, mui, openai, react, replicate, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/stevenxu27/Dishcovery)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
@@ -93,7 +93,7 @@ VR Conferences, Concerts, &amp; Events powered by Streamspace.
 
 - **Team size** 1
 - **Built With** faiss, llama, oculus, python, streamspace, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Axzyl/nwhacks-official)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Aquareum.tv Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -107,7 +107,7 @@ HeartTalk is your senior care companion, combining AI chat support with health m
 
 - **Team size** 4
 - **Built With** 1password, defang, express.js, javascript, llm, mongodb, node.js, python, raspberry-pi, react, stt, tailwindcss, tts
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Carol-cs/nwhacks2025)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Defang.io Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -121,7 +121,7 @@ Say Hi to PT 👋. A Hip Interactive Physical Therapy Application where you can 
 
 - **Team size** 4
 - **Built With** defang, express.js, javascript, mongodb, mongoose, node.js, react, tailwind, tensorflow
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/TrabLimit/nwHacks-2025)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Defang.io Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -135,7 +135,7 @@ The Story To build a community, you must first protect it.
 
 - **Team size** 4
 - **Built With** flask, livepeer, postgresql, react, websock
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/eshuaiii/nwhacks-2025)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Aquareum.tv Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -149,7 +149,7 @@ Meet in person, point in virtual.
 
 - **Team size** 3
 - **Built With** geojson, react, turf.js, typscript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/gracetownland/NwHacks2025)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Aquareum.tv Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -163,8 +163,8 @@ Nuggetmon is a desktop application designed to gamify productivity! With the hel
 
 - **Team size** 4
 - **Built With** css, electron, github, html, javascript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/asnbl/nuggetmon-productivity-app)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=9VkhzWEAR-g)
 - **All event prizes (1)** Wondershare Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Wondershare** Nuggetmon is your personal productivity companion that helps you stay focused and on task. Devpost gives no specific sponsor integration detail.
@@ -178,7 +178,7 @@ Scandium is local AI code secret scanning. Rather than being notified after you'
 - **Team size** 4
 - **Built With** node.js, ollama, qwen, typescript, vsc-extensions
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=sHfQ85ScFNA)
 - **All event prizes (1)** Communications Security Establishment Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Communications Security Establishment** Instead, Scandium takes a proactive approach, identifying security issues far before they ever get pushed to a repository. Devpost gives no specific sponsor integration detail.
@@ -191,8 +191,8 @@ Challenge friends to webcam slap battles, dodge hits like Neo, and win egos—no
 
 - **Team size** 3
 - **Built With** ai, express.js, hardhat, machine-learning, mediapipe, nextjs, socket.io, solidity, streamplace, vision, webrtc
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/devnull03/nwhacks25-nameTBA)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=CQN2vw13LlA)
 - **All event prizes (1)** Best Use of Midnight
 - **Devpost checked** 2026-11-21 UTC
 - **Midnight** Building Virtual Power Slap taught the team valuable lessons:. Devpost gives no specific sponsor integration detail.
@@ -205,7 +205,7 @@ A group sleep scheduling app that combines accountability and competition to bui
 
 - **Team size** 4
 - **Built With** expo.io, fast-api, figma, pytorch, react-native, supabase, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/terwo/snuz)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Defang.io Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -219,7 +219,7 @@ Helping you find the perfect study spot or gym time on campus.
 
 - **Team size** 4
 - **Built With** figma, flask, javascript, livepeer, opencv, python, pytorch, react, tailwindcss
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/romansinkus/spotlight)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Aquareum.tv Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -233,7 +233,7 @@ Helping you find the perfect study spot or gym time on campus.
 
 - **Team size** 4
 - **Built With** bahnmi, bigwayhotpot, express.js, figma, firebase, google-web-authentication, javascript, livepeer, mongodb, mui, node.js, railway, react, sundae, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tyin76/sum-up-sundae)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Aquareum.tv Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -247,7 +247,7 @@ A terminal search tool runs user-defined commands against selected databases.
 
 - **Team size** 4
 - **Built With** chromadb, python, rich, textual, warp
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/zhangLily2020/nwhacks2025)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** nwHacks 2025 Finalists · Warp Sponsor Prize
 - **Devpost checked** 2026-11-21 UTC

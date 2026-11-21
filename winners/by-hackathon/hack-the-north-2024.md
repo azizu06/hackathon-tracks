@@ -63,7 +63,7 @@ Take a picture, get a 3D print of it.
 - **Team size** 1
 - **Built With** 3dprinting, ai, cohere, groq, masv, meta, python, rbc, react, voiceflow
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=1F65Qt2n9g0)
 - **All event prizes (2)** Groq: Best App Built on Groq · MASV
 - **Devpost checked** 2026-11-21 UTC
 - **Groq** The project lists groq among its Built With tags.
@@ -77,8 +77,8 @@ Empowering Founder and VC Discovery and with You and Your Voice.
 
 - **Team size** 4
 - **Built With** auth0, chromadb, cohere, fastapi, groq, llama, next, openai, python, react, websummit, whisper
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/dannyl1u/aligned.ai)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=IsymCVWdaI0)
 - **All event prizes (1)** Web Summit: Web Summit challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Web Summit** Aligned.ai is a matchmaking platform designed to connect individuals in the startup ecosystem based on deep personality and goal alignment. Devpost gives no specific sponsor integration detail.
@@ -91,8 +91,8 @@ Schema generation : users provide a website URL and an empty JSON schema, which 
 
 - **Team size** 4
 - **Built With** cohere, eth, next.js, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Zackydout101/htn)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=uMJXzlMF9NI)
 - **All event prizes (1)** Warp: Best Developer Tool by Warp
 - **Devpost checked** 2026-11-21 UTC
 - **Warp** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -106,7 +106,7 @@ What your heart and mind really have to say.
 - **Team size** 3
 - **Built With** amazon-web-services, databricks, fastapi, groq, python, react, react-native, render, swift, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=AEJ2ikDVvMo)
 - **All event prizes (1)** Databricks: Best Use of Databricks
 - **Devpost checked** 2026-11-21 UTC
 - **Databricks** There is also an opportunity for future extension in collecting streaming data of the user’s brain waves / heart rate information for more intensive processing using Databricks’ pipelines.
@@ -119,8 +119,8 @@ Empowering startups and small investors through a decentralized, transparent, an
 
 - **Team size** 4
 - **Built With** blockchain, decentralized, ethereum, hardhat, metamask, nextjs, node.js, react, solidity, tailwindcss, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shardaishwak/htn-2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=HjSpr-ZNBmM)
 - **All event prizes (1)** ETHGlobal: Ethereum's Infinite Garden
 - **Devpost checked** 2026-11-21 UTC
 - **ETHGlobal** To achieve this, the platform leverages blockchain technology and the DAO structure. Devpost gives no specific sponsor integration detail.
@@ -133,8 +133,8 @@ Earn and burn rewards points by making green choices 🔥.
 
 - **Team size** 4
 - **Built With** agi, express.js, friendship, jacklyn-biggin, jeremysu, kindness, nfc, node.js, overheating-macbooks, peace, porter-robinson, postgresql, rbc-avion-api, react, remix, shadcn, sustainability, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jeffrey-zang/ecorewards)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=xUVjvFS3gB4)
 - **All event prizes (1)** RBC: RBC Avion Rewards – Making Your Point with Our Points
 - **Devpost checked** 2026-11-21 UTC
 - **RBC** The project lists rbc-avion-api among its Built With tags.
@@ -147,8 +147,8 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 
 - **Team size** 1
 - **Built With** chroma, claude, cloudflare, cohere, convex, cursor, databricks, defang, fastapi, flutter, groq, nextjs
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/justrach/hackthenorth)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=EAe7YApMNT0) · [Video 2](https://www.youtube.com/watch?v=bUv7c2fkmm0)
 - **All event prizes (3)** Cohere: Best Use of Cohere · Convex: Best App and Startup Idea Built on Convex · Web Summit: Web Summit challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Cohere** Cohere embeds attendee bios and interests so the matching pipeline can compare profiles and suggest connections.
@@ -164,7 +164,7 @@ Flashback is a VR experience that transforms your cherished memories into immers
 - **Team size** 4
 - **Built With** c#, convex, express.js, figma, materialui, node.js, react, spotifyapi, unity
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=heeJFvhzwao)
 - **All event prizes (2)** Hack the North 2024 Finalists · Intuit: Win a VR Headset!
 - **Devpost checked** 2026-11-21 UTC
 - **Intuit** Flashback is a VR experience that transforms your personal memories and achievements into interactive, immersive museum exhibits. Devpost gives no specific sponsor integration detail.
@@ -177,8 +177,8 @@ The team describes the project as “But Gesse get no merch”.
 
 - **Team size** 4
 - **Built With** ai-assets, blender, c, github, unity, vscode
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nayanmapara/GeeseLoveMerch)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=cepJ_1Lz2-g)
 - **All event prizes (1)** Ubisoft: Ubisoft Game Dev Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Ubisoft** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -191,7 +191,7 @@ GenomIQ streamlines plasmid engineering by combining AI-powered gene generation 
 
 - **Team size** 1
 - **Built With** alphafold, chroma, cohere, flask, llm, python, vector-db
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/nomitchell/genomiq)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Chroma: Retrieval for AI
 - **Devpost checked** 2026-11-21 UTC
@@ -205,7 +205,7 @@ Seeing geese all over campus? Well now you can befriend and study with them.
 
 - **Team size** 4
 - **Built With** cohere, mongodb, next.js, react, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/eyevyl/gooseontheloose)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
@@ -219,7 +219,7 @@ Hackathons aren't always about improving the world. Sometimes they're about savi
 
 - **Team size** 4
 - **Built With** blender, c#, unity, visual-studio
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Greb-the-awesome/hack-the-bomb)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Ubisoft: Ubisoft Game Dev Challenge
 - **Devpost checked** 2026-11-21 UTC
@@ -233,8 +233,8 @@ Fight for the top position in a HackTheNorth lip-syncing challenge.
 
 - **Team size** 3
 - **Built With** mongodb, nextjs, symphonic-labs, web
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/KaranChawlaD/lipslipsrevolution)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=C_vZ8xYM-pw)
 - **All event prizes (2)** Best Use of MongoDB Atlas · Symphonic Labs: Best use of Symphonic Labs API
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** The team’re using OpenAI’s embedding models to determine the lip sync’s accuracy/similarity and MongoDB as the database for score data.
@@ -248,8 +248,8 @@ Tired of character limits on ChatGPT? Look no further than LLM Pro Max.
 
 - **Team size** 5
 - **Built With** auth0, chromadb, cohere, convex, fastapi, github-auth, javascript, langchain, networkx, python, pyvis, rag, react.js, tailwindcss, typescript, vanta.js, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/gigabite-pro/LLM-pro-max)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Bm1PYdzCPac)
 - **All event prizes (1)** Codegen: Build an Iron Man suit for ChatGPT
 - **Devpost checked** 2026-11-21 UTC
 - **Codegen** LLM Pro Max intelligently breaks a codebase into manageable chunks and feeds only the relevant information to the LLM, ensuring token efficiency and improved response accuracy. Devpost gives no specific sponsor integration detail.
@@ -262,7 +262,7 @@ A social app for uncovering university locations and competing with friends.
 
 - **Team size** 4
 - **Built With** express.js, mapped-in, mongodb, node.js, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/HTN-2024-LooGuessr/LooGuessr)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK
 - **Devpost checked** 2026-11-21 UTC
@@ -276,8 +276,8 @@ The team gained valuable experience in integrating proximity detection systems w
 
 - **Team size** 4
 - **Built With** bluetooth, css, html, node.js, react, typescript, vite, yaml
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/qiz-li/loolooloo)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=z4kfvKR1sek)
 - **All event prizes (1)** Defang: Best Use of Defang
 - **Devpost checked** 2026-11-21 UTC
 - **Defang** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -290,7 +290,7 @@ Personalized stock insights scraped from your favourite websites.
 
 - **Team size** 3
 - **Built With** amazon-web-services, beautiful-soup, express.js, next.js, numpy, pandas, react, tensorflow
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jnathan02222/htn-project)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best DEI Hack sponsored by Fidelity
 - **Devpost checked** 2026-11-21 UTC
@@ -304,8 +304,8 @@ Automate your notes so that you can focus on listening :).
 
 - **Team size** 4
 - **Built With** convex, groq, openai, opencv
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/HTN-2024-AI-App/NoteHacks)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=6Eo_dfUz-wI)
 - **All event prizes (1)** Groq: Best App Built on Groq
 - **Devpost checked** 2026-11-21 UTC
 - **Groq** The project lists groq among its Built With tags.
@@ -319,7 +319,7 @@ A VR game about catching and firing arrows to delay the inevitable.
 - **Team size** 1
 - **Built With** c#, oculus, unity
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=VMygnUvt998)
 - **All event prizes (1)** Ubisoft: Ubisoft Game Dev Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Ubisoft** It entertains (and it's good at it too!). Devpost gives no specific sponsor integration detail.
@@ -332,8 +332,8 @@ Empowering Vision Through Voice. Revolutionizing indoor mobility with real-time,
 
 - **Team size** 4
 - **Built With** auth0, cohere, convex, detectron2, dpt, git, gpt-4, groq, javascript, json, jwt, kubernetes, mappedin, ngrok, node.js, opencv, postman, python, pytorch, react, rest-api, tailwind-css, tapo-cameras, tensorflow, typescript, unreal-engine, vercel, voiceflow, whisper, yolo
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/akjadhav/hackthenorth-2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=wdksaTAZA7A)
 - **All event prizes (2)** Cohere: Best Use of Cohere · Hack the North 2024 Finalists
 - **Devpost checked** 2026-11-21 UTC
 - **Cohere** The project lists cohere among its Built With tags.
@@ -346,8 +346,8 @@ Empowering Vision Through Voice. Revolutionizing indoor mobility with real-time,
 
 - **Team size** 4
 - **Built With** convex, groq, javascript, python, raspberry-pi, react, ssh
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ddynamix/HackTheNorth2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=spMJ8vr8XnA)
 - **All event prizes (1)** Convex: Best App and Startup Idea Built on Convex
 - **Devpost checked** 2026-11-21 UTC
 - **Convex** The project lists convex among its Built With tags.
@@ -360,8 +360,8 @@ Ever lost your keys? Forgot if you turned off the oven.
 
 - **Team size** 2
 - **Built With** express.js, firebase, javascript, node.js, openai, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/darryltanzil/reCall)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=WPjF2uRGGKA)
 - **All event prizes (1)** Codegen: Build an Iron Man suit for ChatGPT
 - **Devpost checked** 2026-11-21 UTC
 - **Codegen** This can help with knowing where you placed your keys, if you locked your door/garage, and other day to day life. Devpost gives no specific sponsor integration detail.
@@ -374,8 +374,8 @@ If you can dream it, Rex will find it.
 
 - **Team size** 4
 - **Built With** 3d-printing, cad, elevenlabs, mappedin, python, raspberry-pi, react, supabase, typescript, voiceflow
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jshan9078/Rex) · [Source 2](https://github.com/jshan9078/Rex-Web-App)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=A5594U-kSKc)
 - **All event prizes (2)** MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK · Voiceflow: Best Non-Chatbot AI Agent Built on Voiceflow
 - **Devpost checked** 2026-11-21 UTC
 - **MappedIn** Supabase was used to connect the Raspberry Pi, VoiceFlow Agent, and Mappedin wayfinding.
@@ -389,8 +389,8 @@ Your #1 financial advisor that knows everything about your current spending, you
 
 - **Team size** 4
 - **Built With** cohere, firebase, javascript, rbc, react, tailwind
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/asavy79/hack-the-north-budget-tracker)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=3O8A6GM1vic)
 - **All event prizes (1)** RBC: RBC Avion Rewards – Making Your Point with Our Points
 - **Devpost checked** 2026-11-21 UTC
 - **RBC** The project lists rbc among its Built With tags.
@@ -403,8 +403,8 @@ SecureStep is a smart walking cane designed for seniors in old age homes, respon
 
 - **Team size** 3
 - **Built With** 3dprinting, c, caffeine, esp8266, friendship, github, google-cloud, javascript, mappedin, react, solidworks, unix
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Aidan-Hynes/SecureStep)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=qb31FZBE7Ng)
 - **All event prizes (1)** MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK
 - **Devpost checked** 2026-11-21 UTC
 - **MappedIn** The project lists mappedin among its Built With tags.
@@ -417,8 +417,8 @@ Sometimes online shopping can be dull, and most of all, turn away customers who 
 
 - **Team size** 4
 - **Built With** c#, github, json, oculus-gear-vr, shopify, unity
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/BenBoguslavsky18/HTN_VR)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=igOuQHgEvto)
 - **All event prizes (2)** Shopify API Challenge · Ubisoft: Ubisoft Game Dev Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Shopify** The project lists shopify among its Built With tags.
@@ -432,7 +432,7 @@ When you're at Hack the North... but still want pizza.
 
 - **Team size** 3
 - **Built With** commander.js, next.js, node.js, slack, terraform, vercel
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Ri-Hong/SkipTheWalk)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Terraform
 - **Devpost checked** 2026-11-21 UTC
@@ -446,8 +446,8 @@ Spy on your enemies (or your friends) by reading their lips through a live drone
 
 - **Team size** 2
 - **Built With** ffmpeg, python, symphonic-labs-api, tello, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/k429wang/SpyWatch)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0UUyHWlevrA)
 - **All event prizes (1)** Symphonic Labs: Best use of Symphonic Labs API
 - **Devpost checked** 2026-11-21 UTC
 - **Symphonic Labs** Spy's on conversations using a live drone video feed and the Symphonic Labs lip reading technology.
@@ -460,8 +460,8 @@ A Pomodoro timer that keeps you on track, summarizes your browsing, and turns st
 
 - **Team size** 4
 - **Built With** cohere, defang, fastapi, javascript, mongodb, python, react, vite
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jrang188/hack-the-north-2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=7Msy0SZR9cY)
 - **All event prizes (2)** Cohere: Best Use of Cohere · Defang: Best Use of Defang
 - **Devpost checked** 2026-11-21 UTC
 - **Cohere** The project lists cohere among its Built With tags.
@@ -475,8 +475,8 @@ The project reads your lips and puts it into text, creating notes for the video 
 
 - **Team size** 4
 - **Built With** auth0, cohere, css, hakra, html, javascript, mongodb, openai, python, symphonic
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/VidsterBroyo/StudySync-HTN)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=UjZkxe2AP7w) · [Video 2](https://www.youtube.com/watch?v=lBXxwMM9gcE)
 - **All event prizes (1)** Best Use of Auth0
 - **Devpost checked** 2026-11-21 UTC
 - **Auth0** The team used Auth0 to create an account system for the project.
@@ -490,7 +490,7 @@ The team saw an opportunity to reimagine how people connect by creating a more d
 - **Team size** 4
 - **Built With** ai, cohere, convex, figma, git, node.js, react, semantic-search, typescript, vectorization, vite
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=tUX08bXxr2I)
 - **All event prizes (1)** Web Summit: Web Summit challenge
 - **Devpost checked** 2026-11-21 UTC
 - **Web Summit** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -503,8 +503,8 @@ the.right.(and.intelligent).new.training method for customers and support agents
 
 - **Team size** 4
 - **Built With** css, genesys, groq, html, javascript, next.js, react, shadcn, tailwind, voiceflow
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/efliu7/hackthenorth2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=27zgZ8F4CUA)
 - **All event prizes (2)** Genesys: Empowering Empathetic Experiences - Unleashing the Power of Genesys Cloud APIs · Voiceflow: Best Non-Chatbot AI Agent Built on Voiceflow
 - **Devpost checked** 2026-11-21 UTC
 - **Genesys** traint was built using the following technologies: Next.js React, Tailwind and shadcn/ui Voiceflow API Groq API Genesys API.
@@ -532,7 +532,7 @@ A vulnerability scanner and WiFi penetration tool, using Raspberry Pi. Designed 
 
 - **Team size** 4
 - **Built With** convex, next, react, shadcn/ui, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ACCISA/Vanguard)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** CSE: Working in an Air-Gapped Environment
 - **Devpost checked** 2026-11-21 UTC
@@ -546,7 +546,7 @@ LaTeX made easy. Speech to code in real time.
 
 - **Team size** 3
 - **Built With** amazon-web-services, chatgpt, defang, firebase, flask, python, react, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/leozhang14/VerbaTeX)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Defang: Best Use of Defang
 - **Devpost checked** 2026-11-21 UTC

@@ -51,7 +51,7 @@ An Augmented Reality Powered Checkers Assistant.
 
 - **Team size** 3
 - **Built With** ai, android, augmented-reality, computer-vision, java, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/abeakkas/Augmented-Checkers)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Niantic Augmented Reality Prize
 - **Devpost checked** 2026-11-21 UTC
@@ -79,7 +79,7 @@ Helping individuals as they overcome opioid dependency by providing them with vo
 
 - **Team size** 4
 - **Built With** facebook-graph, facebook-login-api, flask, giphy, ibm-watson, jquery
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/the-flying-circus/HackMIT2018)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Facebook API
 - **Devpost checked** 2026-11-21 UTC
@@ -93,7 +93,7 @@ Objectively quantifying reactions to media using EEG data and signal processing.
 
 - **Team size** 3
 - **Built With** arduino, matlab, neurosky, processing, python, serial
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/adampotter0105/DeterMind)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best "Impossible" Hack
 - **Devpost checked** 2026-11-21 UTC
@@ -108,7 +108,7 @@ The pharmacy of the future: an automated medicine dispenser &amp; streamlined me
 - **Team size** 5
 - **Built With** arduino, azure, flask, html, mit-app-inventor, python, qr-codes, rigetti
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=YzvRMnlJ91Q)
 - **All event prizes (1)** Rigetti Quantum Prize
 - **Devpost checked** 2026-11-21 UTC
 - **Rigetti** Next, this authorization is piped into Rigetti’s quantum computing platform, in which an entangled pair of quantum bits is generated as highly secure authorization tokens.
@@ -121,7 +121,7 @@ Sell dorm supplies in a seasonal market-style setting with prices determined by 
 
 - **Team size** 4
 - **Built With** css, django, html, javascript, jquery, nasdaq-markets-everywhere, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/m-99/dorm-market)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Nasdaq Best "Markets Everywhere" Hack
 - **Devpost checked** 2026-11-21 UTC
@@ -135,7 +135,7 @@ Plenty of people hope to travel and explore the world, and it's no surprise that
 
 - **Team size** 4
 - **Built With** amadeus, css, html, javascript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/PaliC/Dream-Flight)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Data
 - **Devpost checked** 2026-11-21 UTC
@@ -164,7 +164,7 @@ Visualize, modify, and deploy neural networks either locally on the cloud to gai
 - **Team size** 2
 - **Built With** docker, javascript, keras, kubernetes, machine-learning, python
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=9v1aXlQLu_w)
 - **All event prizes (2)** 1st Place · Best Use of Deep Neural Networks
 - **Devpost checked** 2026-11-21 UTC
 - **Spell** ENNUI allows for fast iteration of neural network architectures. Devpost gives no specific sponsor integration detail.
@@ -178,7 +178,7 @@ An intergalactic battle for the ages.
 - **Team size** 3
 - **Built With** c#, htc-vive, unity
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=M4C3eRrB2W8)
 - **All event prizes (1)** VR Zone by Google
 - **Devpost checked** 2026-11-21 UTC
 - **Google** You are spawned in a world that has randomly generated asteroids and must approach one of four green asteroids to beat the stage. Devpost gives no specific sponsor integration detail.
@@ -205,7 +205,7 @@ A web app to help you track your money and where you're spending it.
 
 - **Team size** 2
 - **Built With** express.js, google-maps, javascript, meteor.js, plaid, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shawnaness/geocash)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best use of the Plaid API
 - **Devpost checked** 2026-11-21 UTC
@@ -219,7 +219,7 @@ A real-time, mobile-based, distributed WiFi heatmap.
 
 - **Team size** 3
 - **Built With** core-location, coremotion, firebase, flask, ios, kernel-density-estimation, python, swift
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/thkim1011/hotspot)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (3)** Best Use of Location Data · Finalist · Take Us On an Adventure
 - **Devpost checked** 2026-11-21 UTC
@@ -276,7 +276,7 @@ A natural language processing framework for collecting data and statistics relev
 
 - **Team size** 4
 - **Built With** angular.js, flask, machine-learning, mathematica, natural-language-processing, node.js, python, rest
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/shiftsayan/nemo)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Kensho Knowledge Graph API
 - **Devpost checked** 2026-11-21 UTC
@@ -290,7 +290,7 @@ Distributed mobile cloud computing, harnessing the power of idle devices to perf
 
 - **Team size** 4
 - **Built With** css, docker, express.js, html, ios, javascript, node.js, react-native, vagrant-script
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/cwu2020/nimbus)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Most Novel Data Mobility Hack by Dell
 - **Devpost checked** 2026-11-21 UTC
@@ -318,7 +318,7 @@ A Mathematica notebook that converts online lecture videos into LaTeX code, for 
 
 - **Team size** 4
 - **Built With** api, mathematica, mathpix, unix, wolfram-technologies
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jautung/r00t)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Wolfram Technologies
 - **Devpost checked** 2026-11-21 UTC
@@ -332,8 +332,8 @@ Are you prepared for the worst.
 
 - **Team size** 4
 - **Built With** ajax, bootstrap, css, firebase, html, ibm-watson, javascript, node.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/disaster-rescue/disaster-rescue.github.io)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=o8giqAKmIZw)
 - **All event prizes (1)** Best Disaster Preparedness &amp; Relief Solutions for IBM Call for Code Challenge
 - **Devpost checked** 2026-11-21 UTC
 - **IBM** The project lists ibm-watson among its Built With tags.
@@ -360,7 +360,7 @@ Quick Relief uses blockchain technology to enable faster, secure, and transparen
 
 - **Team size** 1
 - **Built With** azure, docusign, express.js, microsoft, mit-ibm, node.js, plaid, stellar
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/wcordelo/mit-hack-2018)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Stellar Network
 - **Devpost checked** 2026-11-21 UTC
@@ -374,7 +374,7 @@ SOS Squad is a platform for connecting good Samaritans to disaster victims.
 
 - **Team size** 3
 - **Built With** amadeus, bootstrap, flask, geopy, html, ibm, python, sqlite, weather-api.net
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sabrinatseng/SOS-Squad)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best in Show
 - **Devpost checked** 2026-11-21 UTC
@@ -417,7 +417,7 @@ Summarizing Youtube Videos to Meaningful Gifs.
 - **Team size** 3
 - **Built With** flask, giphy, nltk, python, react, redux, rev, revspeech
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=L_SCo0XBZ58)
 - **All event prizes (1)** Best Use of GIPHY API
 - **Devpost checked** 2026-11-21 UTC
 - **GIPHY** The project lists giphy among its Built With tags.
@@ -444,7 +444,7 @@ Troomba is a friendly robot that carries your drinks.
 
 - **Team size** 4
 - **Built With** arduino, c++, python, raspberry-pi, webcam
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/patil215/soomba)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** element14 Presents a Robotics Kit
 - **Devpost checked** 2026-11-21 UTC
@@ -458,8 +458,8 @@ ViGCam spots active shooters and tracks them through buildings.
 
 - **Team size** 4
 - **Built With** django, google-vision, mysql, picam, python, raspberry-pi, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/xTEddie/HackMIT2018)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=ZCWxii9Kp-k)
 - **All event prizes (2)** 3rd Place · Best Use of Google Cloud Platform or Firebase
 - **Devpost checked** 2026-11-21 UTC
 - **Google** ViGCam spots and tracks weapons as they move through buildings. Devpost gives no specific sponsor integration detail.
@@ -472,7 +472,7 @@ An accessible Google StreetView for the visually impaired through visceral scene
 
 - **Team size** 2
 - **Built With** deep-learning, google-streetview, javascript, machine-learning, python, spell, web-speech-api
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/R0bk/image_captioning) · [Source 2](https://github.com/mitchmcdee/yeetview)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (2)** 2nd Place · Best Spell API hack
 - **Devpost checked** 2026-11-21 UTC

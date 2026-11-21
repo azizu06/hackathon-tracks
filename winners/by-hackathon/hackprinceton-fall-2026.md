@@ -50,8 +50,8 @@ Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 
 - **Team size** 3
 - **Built With** amazon-bedrock, amazon-nova-2-lite, amazon-nova-2-sonic, amazon-web-services, arduino, boto3, dynamixel, github, github-actions, mediapipe, numpy, nvidia-jetson-orin-nx, opencr, opencv, python, robotis-openmanipulator-x, ros2, ubuntu, vosk
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/aditya-baniya-ai/hack_princeton)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=nPXe5ZIrOiY)
 - **All event prizes (1)** &#91;Amazon&#93; Best Practical AI Innovation
 - **Devpost checked** 2026-11-21 UTC
 - **Amazon Web Services** The project lists amazon-bedrock among its Built With tags.
@@ -64,8 +64,8 @@ Fight the fire before you get there.
 
 - **Team size** 3
 - **Built With** glsl, rust, three.js, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/tanaydonde/agni)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=rfisjmBsxcM)
 - **All event prizes (1)** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
 - **Devpost checked** 2026-11-21 UTC
 - **ChatOverflow** The solution uses Matterport and Costar data to find the layout and materials of a house. Devpost gives no specific sponsor integration detail.
@@ -78,8 +78,8 @@ Every census tract is shaded by a need score built from HRSA shortage designatio
 
 - **Team size** 4
 - **Built With** anthropic, cdc-open-data, costar, fastapi, gemini, hrsa-data-warehouse, javascript, langchain, matterport, node.js, numpy, pandas, photon, playwright, render, shapely, vercel, vexcel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/alisx255/asclepieion-public)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=llLSV0W6s7c)
 - **All event prizes (2)** &#91;CoStar Group&#93; Inside and Out: AI for the Built World · Best Rookie Hack
 - **Devpost checked** 2026-11-21 UTC
 - **CoStar Group** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -92,8 +92,8 @@ Boomer helps electricians throughout an entire job, from understanding the task 
 
 - **Team size** 4
 - **Built With** 3d-printing, computer-vision, elevenlabs, ffmpeg, gemini, godaddy-registry, google-gemini-api, gps, imessage, manifold3d, mini-apps, multi-agent-systems, next.js, photon, photon-imessage, python, react, sip, spectrum, supabase, trimesh, typescript, vercel, voice-ai, webhooks
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Svanik-Palvai/Boomer)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dKs6uc-Ands)
 - **All event prizes (1)** &#91;Peri&#93; Forward Deployed Engineer
 - **Devpost checked** 2026-11-21 UTC
 - **Peri** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -107,7 +107,7 @@ What you deserve in your drinking water.
 - **Team size** 4
 - **Built With** arduino-uno, deck.gl, esp-now, esp32, fastapi, gemini-api, langchain-deepagents, langgraph, maplibre, overture, photon, python, raspberry-pi, sensors, sqlite, three.js, tiger-data/timescaledb, vite, water-filtration
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Ud5rvpX2Ixw)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Tiger Data
 - **Devpost checked** 2026-11-21 UTC
 - **Tiger Data** The backend evaluates measurements against configured thresholds, tracks filter life using manufacturer-specific guidelines, and manages historical water quality data through Tiger Data.
@@ -121,7 +121,7 @@ FarCare connects three roles around one parent.
 - **Team size** 3
 - **Built With** bleak, bluetooth, corebluetooth, fastapi, fitbit, google-gemini, google-health-api, langchain, next.js, node.js, oauth2, photon, pkce, postgresql, pytest, python, react, sqlite, tiger-data, timescaledb, typescript, vercel
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=d90HW1Gm-HY)
 - **All event prizes (1)** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
 - **Devpost checked** 2026-11-21 UTC
 - **ChatOverflow** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -134,8 +134,8 @@ A dashboard supplies incident information to fire dispatchers.
 
 - **Team size** 4
 - **Built With** caddy, costar, docker, fastapi, gemini, langchain-deepagents, langsmith, matterport, mongodb-atlas, python, react, tailwind, three.js., tiger-data-(timescaledb), vexcel, vite, vultr, xai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/param-mans/FlameScout)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=LlK6Ls93_Ys)
 - **All event prizes (2)** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard · &#91;MLH&#93; Best Use of Vultr
 - **Devpost checked** 2026-11-21 UTC
 - **ChatOverflow** FlameScout turns live fire-dispatch calls into a building-specific advisory brief on the crew's tablet before arrival. Devpost gives no specific sponsor integration detail.
@@ -149,8 +149,8 @@ A property planning tool helps developers evaluate sites and visualize them in 3
 
 - **Team size** 4
 - **Built With** chatoverflow, costar, gemini, langchain, mongodb, scale.ai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sudarshan-krishnan/GeoStar_PtonHacks_2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=0TEguSxAemc)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of MongoDB Atlas
 - **Devpost checked** 2026-11-21 UTC
 - **MongoDB** The project lists mongodb among its Built With tags.
@@ -164,7 +164,7 @@ A property planning tool helps developers evaluate sites and visualize them in 3
 - **Team size** 2
 - **Built With** deepagents, gemini, google-ai-studio, langchain, mongodb-atlas, node.js, playwright, python, solana, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=DKfr1q-T7UU)
 - **All event prizes (1)** &#91;MLH&#93; Best Use of Solana
 - **Devpost checked** 2026-11-21 UTC
 - **Solana** Gemini, LangChain, MongoDB and Solana all working in one weekend, and the demo still runs offline.
@@ -177,8 +177,8 @@ Turn an emergency call into an indoor rescue map. With CoStar’s 3D building da
 
 - **Team size** 4
 - **Built With** cloudflare-tunnel, costar, elevenlabs, fastapi, javascript, matterport-api, node.js, numpy, openclip, photon, python, pytorch, react, sentence-transformers, sip, vexcel, vite, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ben-du1/LifeLine)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Sw2sJuAJ5v8)
 - **All event prizes (1)** &#91;Photon&#93; Best Voice Agent
 - **Devpost checked** 2026-11-21 UTC
 - **Photon** The project lists photon among its Built With tags.
@@ -191,8 +191,8 @@ Solar powered buoys that track water quality 200x cheaper than the next closest 
 
 - **Team size** 4
 - **Built With** 3d-printing, amazon-dynamodb, amazon-web-services, aws-lambda, claude, deepagents, esp-idf, esp32, langchain, langgraph, maplibre, next.js, photon, python, raspberry-pi, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/3arii/hackprinceton-2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Q-0arEQO5fQ)
 - **All event prizes (2)** &#91;Justin Bojarski&#93; Best Physical AI Hack · Best Sustainability Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Justin Bojarski** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -205,8 +205,8 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 
 - **Team size** 4
 - **Built With** anthropic, arduino, claude, deepagents, html5, imessage, langchain, langgraph, langsmith, mongodb, next.js, numpy, photon, pyeit, python, react, scipy, sqlite, tailwindcss, three.js, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/at350/hackprinceton-fall-2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=IY0Rr7l58Eg)
 - **All event prizes (4)** &#91;Amazon&#93; Best Practical AI Innovation · &#91;Justin Bojarski&#93; Best Physical AI Hack · &#91;LangChain&#93; Best use of deepagents · Best Overall Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Amazon Web Services** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -221,8 +221,8 @@ MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case eviden
 
 - **Team size** 3
 - **Built With** ai, claude, fastapi, godaddy, ml, python, react, typescript, vite, vultr
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/meizuflux/hackprinceton-f26)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=OyYZ1CdiKOg)
 - **All event prizes (1)** &#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI
 - **Devpost checked** 2026-11-21 UTC
 - **Arlequin AI** MapleTrace takes a ZIP of case evidence and produces an interactive investigation board:. Devpost gives no specific sponsor integration detail.
@@ -235,8 +235,8 @@ A wearable combines spoken assistance with spatial audio to help people with vis
 
 - **Team size** 3
 - **Built With** api, costar, css, gemini, html, javascript, mongodb, python, raspberry-pi, spatial-audio
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Aliceeia/Meridies)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=eoBT5CGjsPA)
 - **All event prizes (2)** &#91;Amazon&#93; Best Practical AI Innovation · &#91;MLH&#93; Best Use of Gemini API
 - **Devpost checked** 2026-11-21 UTC
 - **Amazon Web Services** Meridies is a wearable hat with four parts, all controlled by voice through Meri , the AI assistant ("Hi Meri"):. Devpost gives no specific sponsor integration detail.
@@ -251,7 +251,7 @@ Lightweight, AI-powered tools built for forward-deployed engineers to adapt and 
 - **Team size** 2
 - **Built With** anthropic-api, claude, claude-code, fastapi, github, google-cloud-run, linear, next.js, photon, postgresql, pytest, python, react, supabase, supabase-auth, tailwind-css, typescript, vercel, vitest, zod
 - **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=v2oRRCjdOkc)
 - **All event prizes (1)** &#91;Peri&#93; Forward Deployed Engineer
 - **Devpost checked** 2026-11-21 UTC
 - **Peri** Mise is a tool box for FDE’s to integrate, build, and transform business problems in hours versus what would normally be weeks. Devpost gives no specific sponsor integration detail.
@@ -264,8 +264,8 @@ One in Three is an interactive and fully immersive AI simulation that puts men i
 
 - **Team size** 4
 - **Built With** cloudflare, cloudflare-d1, cloudflare-workers, coremotion, deepagents, durable-objects, elevenlabs, ffmpeg, gemini, godaddy, langchain, langgraph, llama, mediapipe, mongodb-atlas, swift, three.js, typescript, veo, vite, vitest, web-audio-api, websockets, workers-ai
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/limjiayi21/oneinthree)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=dFNiASxPbck)
 - **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **Devpost checked** 2026-11-21 UTC
 - **GoDaddy Registry** The project lists godaddy among its Built With tags.
@@ -278,8 +278,8 @@ A simulator lets prospective business owners test how they could operate in an a
 
 - **Team size** 4
 - **Built With** anthropic-claude, costar, deepagents, google-gemini, langchain, matterport, nessie-api, node.js, photon-2.0, progressive, python, react, react-three-fiber, render, three.js, typescript, vite, web, websockets, xai-grok, zod, zustand
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/farhanmir/playitfirst)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=xamUK8so4zI)
 - **All event prizes (1)** &#91;Capital One&#93; Best Usage of Nessie
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** Financial integration: Nessie V2 connects the authoritative game ledger to sandbox accounts, deposits, merchant purchases, bills, and read-only reconciliation.
@@ -292,8 +292,8 @@ Using brain activity to make the world more accessible to those with mobility di
 
 - **Team size** 4
 - **Built With** arduino, brainflow, bytetrack, costar, esp32-s3, eyetrax, gd32, mediapipe, numpy, openbci-cyton, opencv, openocd, pygame, python, robodurden-firmware, scipy, ultralytics-yolo
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/RoboDurden/Hoverboard-Firmware-Hack-Gen2.x)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=bIt_TQ2hsBU)
 - **All event prizes (2)** &#91;Justin Bojarski&#93; Best Physical AI Hack · Best Healthcare Hack
 - **Devpost checked** 2026-11-21 UTC
 - **Justin Bojarski** The project allows those who cannot use their hands to navigate using only their eyes. Devpost gives no specific sponsor integration detail.
@@ -306,8 +306,8 @@ A camera watches the ingredients, AI counts every item taken, and texts the owne
 
 - **Team size** 3
 - **Built With** arduino-uno-q, d1, deepagents, fastapi, gpt-oss, imessage, langchain, langgraph, langsmith, liquid-ai, node.js, opencv, openpyxl, openrouter, photon, postgresql, python, streamlit, typescript, yolo-world
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=tsmOwUs_G00)
 - **All event prizes (2)** &#91;Peri&#93; Forward Deployed Engineer · &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
 - **Devpost checked** 2026-11-21 UTC
 - **Peri** Every time a hand reaches in, Restock cuts a short clip and a vision model (Liquid d1) says what was taken and how many. Devpost gives no specific sponsor integration detail.
@@ -321,7 +321,7 @@ Ever wanted to relive a moment in time? With Rewind, step inside your old videos
 
 - **Team size** 4
 - **Built With** colmap, cursor, ffmpeg, gaussian, google-cardboard, grokbot, gsplat, nerfstudio, node.js, numpy, particle, python, scipy, splatfacto, three.js, vite, webxr, world-labs-marble
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/SriSrik123/HackPrinceton)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
 - **Devpost checked** 2026-11-21 UTC
@@ -336,7 +336,7 @@ An interface powered by deep AI agents to help operators manage electrical grids
 - **Team size** 4
 - **Built With** census, costar, css, deepagents, fastapi, google-gemini, hifld, landfire, langchain, langgraph, open-meteo, openstreetmap, pydantic, pytest, python, react, three.js, typescript, vexcel, vite
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=QIxE59QN_GA)
 - **All event prizes (1)** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
 - **Devpost checked** 2026-11-21 UTC
 - **ChatOverflow** Rewire is an operator co-pilot for the real Los Angeles grid (829 power lines, 66 kV and up). Devpost gives no specific sponsor integration detail.
@@ -349,8 +349,8 @@ Siteline tells clinics where to open. It learns what drives each practice, pulls
 
 - **Team size** 4
 - **Built With** agents, amazon-bedrock, amazon-nova, amazon-web-services, costar, deck.gl, deepagents, fastapi, h3, langchain, langgraph, langsmith, llm, matterport, openstreetmap, pydantic, python, react, sqlite, typescript, vexcel
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/archit2901/siteline)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=uoMErki4yTk)
 - **All event prizes (1)** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
 - **Devpost checked** 2026-11-21 UTC
 - **CoStar Group** It figures out what matters for your practice. Devpost gives no specific sponsor integration detail.
@@ -363,8 +363,8 @@ Find your space with Stagehand! For creatives wanting to visualize before bookin
 
 - **Team size** 2
 - **Built With** capital-one-nessie, costar, deepagents, fastapi, javascript, langchain, matterport, numpy, openrouter, openstreetmap, photon, python, retell, three.js, vexcel, web-audio-api
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/sofiagrimm/hackprinceton)
+- **Demo video** [Video 1](https://vimeo.com/1246959819)
 - **All event prizes (1)** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
 - **Devpost checked** 2026-11-21 UTC
 - **CoStar Group** Pick a scanned room and press play. Devpost gives no specific sponsor integration detail.
@@ -377,8 +377,8 @@ Personal agent for college students that lives in iMessage - text it your syllab
 
 - **Team size** 1
 - **Built With** agentic-framework, amazon-bedrock, amazon-dynamodb, anthropic-sdk, aws-iam, bedrock, claude, elevenlabs, google-calendar-api, imessage, multi-agent, next.js, node.js, oauth, photon, react, react-native, tool-use, typescript, vcard, vercel, vercel-blob, websockets
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/zhoulinhua0-star/hackprinceton-2026)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=frTz_ULVTXY)
 - **All event prizes (1)** &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
 - **Devpost checked** 2026-11-21 UTC
 - **Photon** The project lists photon among its Built With tags.
@@ -392,7 +392,7 @@ A satirical social media simulator and world builder.
 - **Team size** 2
 - **Built With** agents, claude, multi-agent, next.js, prompt-engineering, react, simulation, synthtetic-data, typescript
 - **Code** None listed in recognized formats.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=FgR3QLEW5Kc)
 - **All event prizes (1)** &#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns
 - **Devpost checked** 2026-11-21 UTC
 - **Arlequin AI** Tangents is the conception of what media and entertainment can look like in the AI era. Devpost gives no specific sponsor integration detail.
@@ -405,8 +405,8 @@ Step inside the past, see it through every view, with every line sourced and tru
 
 - **Team size** 3
 - **Built With** chromadb, cloudflare, deepagents, elevenlabs, fastapi, gemini, google-gemini, google-gemini-api, grok, imessage, javascript, langchain, leaflet.js, photon, python, react, react-flow, tailwindcss, vercel, vite, wikipedia, wolfram-technologies, xai, xai-grok
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/riavadhavkar/vantage)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=Atkd0YpaIMc)
 - **All event prizes (1)** &#91;Amazon&#93; Best Practical AI Innovation
 - **Devpost checked** 2026-11-21 UTC
 - **Amazon Web Services** Vantage turns any event into an interactive documentary: history, current events, science, sports, anything that happened to real people. Devpost gives no specific sponsor integration detail.

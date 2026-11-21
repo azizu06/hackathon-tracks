@@ -36,7 +36,7 @@ The web application allows a user to understand the prevalence of certain natura
 
 - **Team size** 5
 - **Built With** fastapi, python, react, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/jasonyih/BitcampBackend) · [Source 2](https://github.com/madelineanson/Bitcamp-Brawlers)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of APIs related to Housing/Climate Change - Fannie Mae
 - **Devpost checked** 2026-11-21 UTC
@@ -50,7 +50,7 @@ Copilot for support fieldOps teams to aid reconstruction of the Francis Scott Ke
 
 - **Team size** 1
 - **Built With** ai, astro, azure, github, ml, openai, python, streamlit
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/urstrulykkr/BuildKey-AI)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce
 - **Devpost checked** 2026-11-21 UTC
@@ -64,8 +64,8 @@ The team experimented with different NLP architectures and fine-tuning strategie
 
 - **Team size** 4
 - **Built With** amazon-dynamodb, amazon-web-services, beautiful-soup, eventbridge, lambda, python, react, s3, sagemaker, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/TylerK4832/ContractScope)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=_HmigEf25Q4)
 - **All event prizes (1)** Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group
 - **Devpost checked** 2026-11-21 UTC
 - **Bloomberg Industry Group** The project page provides no specific sponsor integration detail in the indexed fields.
@@ -92,7 +92,7 @@ The project creates a fungible blockchain token (a cryptocurrency) called "Exper
 
 - **Team size** 2
 - **Built With** cairo, starknet
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/adventuringsociety/Starknetproject)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of Starknet - MLH
 - **Devpost checked** 2026-11-21 UTC
@@ -106,7 +106,7 @@ This app uses visualizations from analysis of various datasets relating to weath
 
 - **Team size** 2
 - **Built With** figma, git, github, jupyter, kaggle, matplotlib, pandas, python
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/RachelK23/Forecasts-by-the-Campfire)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best DEI Hack sponsored by Fidelity - MLH
 - **Devpost checked** 2026-11-21 UTC
@@ -120,7 +120,7 @@ The app records audio secretly, and, using a deep-learning ML model, transcribes
 
 - **Team size** 3
 - **Built With** dart, devtunnel, flask, flutter, git, github, google-colab, librosa, numpy, python, pytorch
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/3752V/KeyCatchAI) · [Source 2](https://github.com/V-Coding/Bitcamp2024)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Digital Forensics Related Hack - Cipher Tech
 - **Devpost checked** 2026-11-21 UTC
@@ -134,7 +134,7 @@ A fun interactive way to track and pay your bills on time while competing with f
 
 - **Team size** 4
 - **Built With** express.js, javascript, node.js
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/CChiang3/bitcamp2024)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Domain Name from GoDaddy Registry - MLH
 - **Devpost checked** 2026-11-21 UTC
@@ -148,7 +148,7 @@ Insights for Tomorrow: Navigating Climate Challenges with Data.
 
 - **Team size** 4
 - **Built With** javascript, node.js, numpy, pandas, python, react, sqlite
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/amantalreja/Fannnie-Mae-Challenge)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best Use of APIs related to Housing/Climate Change - Fannie Mae
 - **Devpost checked** 2026-11-21 UTC
@@ -190,8 +190,8 @@ A large part of the weekend was spent exploring the various quantum algorithms.
 
 - **Team size** 3
 - **Built With** cirq, css, openai, python, taipy
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/leemzius/whseurddy)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=wGPTKrjOgko)
 - **All event prizes (2)** Best Advanced Quantum Track Hack - Bitcamp · Best Use of Taipy - MLH
 - **Devpost checked** 2026-11-21 UTC
 - **Taipy** Developed using Taipy for frontend and backend functionality.
@@ -204,8 +204,8 @@ Puddle brings an "every drop matters" approach to your everyday spending, allowi
 
 - **Team size** 4
 - **Built With** css3, figma, firebase, firestore, html5, http, javascript, propelauth, sveltekit, tailwind, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/TigerHacks-Competition-Team/Bitcamp-2024)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=iI8CfmVSa98)
 - **All event prizes (2)** Best Financial Hack - Capital One · Best UI/UX Hack - Bitcamp
 - **Devpost checked** 2026-11-21 UTC
 - **Capital One** Puddle is an app that makes the process of pooling money easier. Devpost gives no specific sponsor integration detail.
@@ -218,7 +218,7 @@ Using AI/ML to enhance rescuing and rebuilding processes after a disaster.
 
 - **Team size** 4
 - **Built With** css, flask, html, javascript, mongodb, node.js, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/NSP909/cmdfmydebris)
 - **Demo video** None listed in recognized formats.
 - **All event prizes (1)** Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce
 - **Devpost checked** 2026-11-21 UTC
@@ -246,8 +246,8 @@ Vistra puts the power in the EYES of the user.
 
 - **Team size** 4
 - **Built With** figma, gazeflow, gazerecorder, html, javascript, openweathermap, python, spotify
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** Listed on Devpost. HTTP 200 unverified.
+- **Code** [Source 1](https://github.com/ahere84/Vistra-Smart-Mirror)
+- **Demo video** [Video 1](https://www.youtube.com/watch?v=wjHxAu6g3js)
 - **All event prizes (1)** Most Philanthropic Hack - Bloomberg
 - **Devpost checked** 2026-11-21 UTC
 - **Bloomberg** Vistra is designed to cater to the diverse needs and abilities of people with disabilities, offering a range of features and functionalities that allow for seamless interaction. Devpost gives no specific sponsor integration detail.
