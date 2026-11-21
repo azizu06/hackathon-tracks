@@ -1,17 +1,45 @@
 # Anthropic
 
-Bloom and Drigil put assistance inside a daily care or work routine, while Tribune connects policy changes to public input. The projects show an assistant doing a specific job for a specific audience.
+[Winners index](../README.md)
 
-[All winners](../README.md)
+9 projects across 4 editions, with 9 sponsor award rows.
 
-| Project | Hackathon | Devpost track label | What it does | Relevant Built With tags | Fetched (UTC) |
+## Tracks and required technology
+
+| Edition | Devpost track name | Required tech or brief | Source |
+| --- | --- | --- | --- |
+| [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Claude | Claude | [Track label](https://ai-hackathon-2026.devpost.com/) |
+| [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | Claude | [Track label](https://cal-hacks-13-0.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Best Use of Claude Agent SDK ($2,500 in Claude Developer Platform credits) | Claude Agent SDK | [Track label](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
+| [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Claude: Best Use of Claude | Claude | [Track label](https://cal-hacks-12-0.devpost.com/) |
+
+## What winners have in common
+
+- **Top Built With tags** typescript (8), python (7), react (7), fastapi (5), claude (4), browserbase (3)
+- **Problem areas** Accessibility and assistive tools (3), Health and care (1)
+- **Demo types** Web app or dashboard (4), CLI or developer tool (3), Hardware or robotics (2), Mobile app (2), Voice or conversational interface (2), AR, VR or spatial (1)
+- **Projects with a listed demo video** 7 of 9
+
+Counts use one project per edition. Problem areas and demo types reflect keywords in project descriptions and stack tags. A project can appear in multiple categories.
+
+## Multi-track winners
+
+| Project | Hackathon | Sponsor tracks | All event prizes | Sponsors |
+| --- | --- | --- | --- | --- |
+| [Standard Response](../by-hackathon/cal-hacks-13-0-2026.md#project-standard-response) | Cal Hacks 13.0 2026 | 5 | 6 | Anthropic, Apify, Convex, Microsoft, Moss |
+| [Bloom](../by-hackathon/treehacks-2026.md#project-bloom-dvjpea) | TreeHacks 2026 | 2 | 2 | Anthropic, Decagon |
+
+## Sponsor awards
+
+| Project | Hackathon | Winning track | Listed prize | Sponsor integration or project detail | Event prizes |
 | --- | --- | --- | --- | --- | --- |
-| [Bloom](https://devpost.com/software/bloom-dvjpea) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes   2nd Place: 1 year of Claude Pro   3rd Place: 6 months of Claude Pro) | A home assistant supports older adults with daily routines and keeps their families informed. | claude | 2026-11-21 |
-| [Drigil](https://devpost.com/software/drigil) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | Smart glasses coach workers with intellectual and developmental disabilities through job tasks using their supervisor's voice. | anthropic, claude | 2026-11-21 |
-| [Project Lend](https://devpost.com/software/project-lend) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes   2nd Place: 1 year of Claude Pro   3rd Place: 6 months of Claude Pro) | A prototype food-bank workflow pairs AI and robotics to collect and distribute food to local shelters. | claude-agent-sdk, claude-code, claude-vision-api-(haiku-3.5) | 2026-11-21 |
-| [SafeStreets](https://devpost.com/software/safestreets-h6yprx) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Claude | A civic reporting tool flags street hazards in images and pairs them with city records and potential fixes. | No matching tag listed | 2026-11-21 |
-| [Standard Response](https://devpost.com/software/standard-response) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | An emergency response dashboard helps teams coordinate mass evacuation and identify people who need help leaving. | anthropic, claude | 2026-11-21 |
-| [Sunday](https://devpost.com/software/sunday-94odas) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Best Use of Claude Agent SDK ($2,500 in Claude Developer Platform credits) | A group chat assistant coordinates dinner plans and other errands. | anthropic-api, claude-agent-sdk | 2026-11-21 |
-| [TouchSpace](https://devpost.com/software/touchspace) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | A mapping tool turns real spaces into tactile and audio guides for blind and low-vision people. | claude | 2026-11-21 |
-| [Tribune](https://devpost.com/software/tribune) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes   2nd Place: 1 year of Claude Pro   3rd Place: 6 months of Claude Pro) | A civic discussion tool connects proposed policy changes to the public input behind them. | anthropic-claude | 2026-11-21 |
-| [Elda AI](https://devpost.com/software/elda-ai) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Claude: Best Use of Claude | An eldercare assistant identifies changes in daily behavior and surfaces them to caregivers. | No matching tag listed | 2026-11-21 |
+| [SafeStreets](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-safestreets-h6yprx) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Claude | — | Claude (Haiku) runs the two-stage vision pipeline. | 1 |
+| [Drigil](../by-hackathon/cal-hacks-13-0-2026.md#project-drigil) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | — | The project lists anthropic, claude among its Built With tags. | 1 |
+| [Standard Response](../by-hackathon/cal-hacks-13-0-2026.md#project-standard-response) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | — | Claude turns callers' responses into dispatch fields and drafts short replies in the reviewed languages. | 6 |
+| [TouchSpace](../by-hackathon/cal-hacks-13-0-2026.md#project-touchspace) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | — | The project lists claude among its Built With tags. | 1 |
+| [Bloom](../by-hackathon/treehacks-2026.md#project-bloom-dvjpea) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro) | — | The team used Browserbase's Stagehand, Claude, and ElevenLabs to automate web navigation across pharmacy websites, insurance portals, Uber, and healthcare systems. | 2 |
+| [Project Lend](../by-hackathon/treehacks-2026.md#project-project-lend) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro) | — | The team basically replicated the entire front and back office of a traditional food rescue operation using the Claude Agent SDK as the brain:. | 1 |
+| [Sunday](../by-hackathon/treehacks-2026.md#project-sunday-94odas) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Best Use of Claude Agent SDK ($2,500 in Claude Developer Platform credits) | $2,500 in Claude Developer Platform credits | The Agent runs an HTTP server powered by the Claude Agent SDK with 17 custom MCP tools:. | 1 |
+| [Tribune](../by-hackathon/treehacks-2026.md#project-tribune) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro) | — | Integrated 5 AI providers (Gemini, OpenAI, Anthropic Claude, JINA, Elasticsearch) into a coherent pipeline. | 1 |
+| [Elda AI](../by-hackathon/cal-hacks-12-0-2025.md#project-elda-ai) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Claude: Best Use of Claude | — | It listens, learns, and detects using Claude to understand speech and emotion, Letta to learn daily behavior patterns, and Chroma to detect changes over time. | 1 |

@@ -3,7 +3,7 @@
 
 See what won past hackathon sponsor tracks and use those projects to plan what to build next.
 
-`178 projects` · `27 sponsors` · `16 hackathon editions`
+`1,553 projects` · `380 sponsors` · `60 hackathon editions`
 
 - **[Open the site](LIVE_SITE_URL)** to search projects or pick the sponsors at your next event.
 - **[Browse by sponsor](winners/README.md)** to explore the GitHub index.
