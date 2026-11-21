@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore projects that won hackathon sponsor tracks and pick tracks for your next hackathon.">
+  <meta name="color-scheme" content="light dark">
+  <title>Hackathon Tracks</title>
+  <script>
+    try {
+      const savedTheme = localStorage.getItem("tracks-theme");
+      if (savedTheme === "dark" || savedTheme === "light") {
+        document.documentElement.dataset.theme = savedTheme;
+      }
+    } catch {
+      // The theme can still be changed for this visit.
+    }
+  </script>
+  <link rel="icon" href="./favicon.png" type="image/png">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./catalog.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="#browse"><span class="brand-mark" aria-hidden="true"></span> Hackathon Tracks</a>
+      <label class="theme">
+        <span class="sr-only">Theme</span>
+        <select id="theme" aria-label="Theme">
+          <option value="system">Theme: System</option>
+          <option value="light">Theme: Light</option>
+          <option value="dark">Theme: Dark</option>
+        </select>
+      </label>
+    </div>
+  </header>
+  <main id="main" class="shell" tabindex="-1">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-art" aria-hidden="true">
+        <i></i><i></i><i></i><i></i><i></i>
+      </div>
+      <div class="hero-content">
+        <h1 id="hero-title">Pick the track<br>before the idea.</h1>
+        <p>See what won sponsor prizes. Find tracks that fit your next hackathon build.</p>
+        <ul id="catalog-stats" class="hero-stats" aria-label="Catalog coverage"></ul>
+      </div>
+    </section>
+    <nav class="section-nav" aria-label="Explore the catalog">
+      <a href="#browse" data-view="browse">Winners</a>
+      <a href="#sponsors" data-view="sponsors">Sponsors</a>
+      <a href="#champions" data-view="champions">Champions</a>
+      <a href="#picker" data-view="picker">Track picker</a>
+    </nav>
+    <section class="workspace" aria-labelledby="view-title">
+      <h2 id="view-title" tabindex="-1">Winning projects</h2>
+      <p id="view-intro" class="view-intro" hidden></p>
+      <div id="context" hidden></div>
+      <div id="catalog-controls" hidden>
+        <label class="search">
+          <span class="search-icon" aria-hidden="true"></span>
+          <span class="sr-only">Search winners</span>
+          <input type="search" id="search" placeholder="Search projects, descriptions, tech…">
+        </label>
+        <div class="filters" aria-label="Filters">
+          <select id="filter-sponsor" aria-label="Sponsor filter"></select>
+          <select id="filter-event" aria-label="Hackathon filter"></select>
+          <select id="filter-year" aria-label="Year filter"></select>
+          <select id="filter-tech" aria-label="Tech filter"></select>
+          <button id="clear" type="button" hidden>Clear filters</button>
+        </div>
+      </div>
+      <div id="result-toolbar" class="result-toolbar" hidden>
+        <p id="result-status" role="status"></p>
+        <label class="sort">
+          <span>Sort by</span>
+          <select id="sort">
+            <option value="match" hidden>Best match</option>
+            <option value="recent">Newest</option>
+            <option value="awards">Most prizes</option>
+            <option value="name">Project name</option>
+          </select>
+        </label>
+      </div>
+      <div id="results" class="project-grid"></div>
+      <div class="more"><button id="more" type="button" hidden></button></div>
+      <p id="load-error" hidden>The winners catalog could not load. Rebuild it with <code>python3 site/build.py</code>.</p>
+      <noscript><p>Enable JavaScript to explore the catalog.</p></noscript>
+    </section>
+    <footer class="site-footer">Award records and project details are drawn from Devpost. The catalog covers selected hackathons.</footer>
+  </main>
+</body>
+</html>
