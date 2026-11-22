@@ -23,9 +23,9 @@
 
 Most people do not know how their scattered data points connect.
 
-**Nous Research:** Built with hermes (listed on Devpost)
+**How it used Nous Research:** Runs Hermes locally as the intelligence engine.
 
-[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with hermes, fastapi, hexapi, instaloader
+[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with fastapi, hermes, hexapi, instaloader
 
 ### [CiteSite](https://devpost.com/software/citesite-i80hlo)
 

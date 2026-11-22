@@ -371,7 +371,7 @@ Also won this track: [CiteSite](#project-citesite-i80hlo) (listed above)
 
 Most people do not know how their scattered data points connect.
 
-[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with hermes, fastapi, hexapi, instaloader
+[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with fastapi, hermes, hexapi, instaloader
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -381,7 +381,7 @@ Most people do not know how their scattered data points connect.
 - **Code:** [Source 1](https://github.com/danielkwan-dev/aegis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Nf_50lff9Rc)
 - **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **Nous Research:** Built with hermes (listed on Devpost)
+- **How it used Nous Research:** Runs Hermes locally as the intelligence engine.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

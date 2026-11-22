@@ -1413,7 +1413,7 @@ Also won this track: [Therms - Thermoregulation Wearables with AI-powered Insigh
 
 The team describes the project as “For leaders in high-performance environments, we aggregate real-time wearable data from teams, providing LLM-driven insights, detecting arrhythmias, and reconstructing ECGs—no medical…
 
-[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with terraapi, cuda, python, pytorch
+[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with cuda, python, pytorch, react-native
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -1423,7 +1423,7 @@ The team describes the project as “For leaders in high-performance environment
 - **Code:** [Source 1](https://github.com/shafink11/ppg_project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z_tsDhHi2Fs)
 - **All prizes at this hackathon (1):** Terra API: Health Command Center (Ultrahuman Air Ring per team member)
-- **Terra API:** Built with terraapi (listed on Devpost) Prize: Ultrahuman Air Ring per team member
+- **How it used Terra API:** Uses the Terra API to aggregate biometric data from multiple group members. Prize: Ultrahuman Air Ring per team member
 - **Checked on Devpost:** 2026-11-21
 
 </details>

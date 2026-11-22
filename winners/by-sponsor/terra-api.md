@@ -23,9 +23,9 @@
 
 The team describes the project as “For leaders in high-performance environments, we aggregate real-time wearable data from teams, providing LLM-driven insights, detecting arrhythmias, and reconstructing ECGs—no medical…
 
-**Terra API:** Built with terraapi (listed on Devpost)
+**How it used Terra API:** Uses the Terra API to aggregate biometric data from multiple group members.
 
-[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with terraapi, cuda, python, pytorch
+[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with cuda, python, pytorch, react-native
 
 ### [Project AVIA](https://devpost.com/software/project-avia-autonomous-vigilance-insights-for-aviation)
 

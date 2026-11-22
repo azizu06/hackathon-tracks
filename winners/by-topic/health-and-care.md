@@ -483,7 +483,7 @@ Bandaid Maps is a real-time, AI-powered healthcare navigation tool that assesses
 
 The team describes the project as “For leaders in high-performance environments, we aggregate real-time wearable data from teams, providing LLM-driven insights, detecting arrhythmias, and reconstructing ECGs—no medical…
 
-[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with terraapi, cuda, python, pytorch
+[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with cuda, python, pytorch, react-native
 
 ### [Caduceo](https://devpost.com/software/caduceus-n4jqzs)
 

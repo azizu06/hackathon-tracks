@@ -33,7 +33,7 @@ Physical AI for low-pesticide agriculture to help farmers spray less and grow mo
 
 Zero-trust autonomous triage for networked medical hardware. Localized frontier intelligence detects sensor tampering and patches embedded firmware in real time, without ever leaving the device.
 
-**ASUS:** Sponsor use not stated on Devpost
+**How it used ASUS:** The orchestrator agent is running on an ASUS supercomputer.
 
 [Code](https://github.com/jackdeye/LAHACKS2026) · [Demo video](https://www.youtube.com/watch?v=v-JXrRFZ2OM) · Built with arduino, c, flipper, javascript
 

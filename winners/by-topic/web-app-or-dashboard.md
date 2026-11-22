@@ -209,7 +209,7 @@ From What Happened To What Happens Next.
 
 Most people do not know how their scattered data points connect.
 
-[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with hermes, fastapi, hexapi, instaloader
+[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with fastapi, hermes, hexapi, instaloader
 
 ### [aesthetica](https://devpost.com/software/aesthetica)
 

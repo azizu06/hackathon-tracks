@@ -188,7 +188,7 @@ Zero-trust autonomous triage for networked medical hardware. Localized frontier 
 - **Code:** [Source 1](https://github.com/jackdeye/LAHACKS2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=v-JXrRFZ2OM)
 - **All prizes at this hackathon (1):** ASUS Company Challenge
-- **ASUS:** Sponsor use not stated on Devpost
+- **How it used ASUS:** The orchestrator agent is running on an ASUS supercomputer.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1352,7 +1352,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=avU8l6qmFD4)
 - **All prizes at this hackathon (1):** World U: Build for the future of the internet with World
-- **World U:** Sponsor use not stated on Devpost
+- **How it used World U:** The project can require a minimum World ID level to apply.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
