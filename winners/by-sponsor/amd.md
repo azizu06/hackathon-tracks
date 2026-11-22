@@ -4,6 +4,8 @@
 
 **6 winning projects** · 2 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=AMD)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (6), amd (3), rocm (3), html5 (2), pytorch (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [fpga&#95;LangModel](https://devpost.com/software/fpga_langmodel)
 
@@ -44,6 +44,8 @@ Cheap attack drones are now one of the biggest threats to bases and infrastructu
 **How it used AMD:** A counter-drone defense trainer where the enemy swarm taught itself to attack, trained on an AMD Radeon GPU.
 
 [Code](https://github.com/ian-kr/Swarm) · [Demo video](https://vimeo.com/1234778075) · Built with amd, css3, html5, javascript
+
+## 2025 winners
 
 ### [EchoAI](https://devpost.com/software/echoai-bmqf45)
 

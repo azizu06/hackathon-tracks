@@ -4,6 +4,8 @@
 
 **6 winning projects** · 6 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Streamlit)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** streamlit (6), python (5), opencv (3), numpy (2), openai (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [DIVE-DE.TECH](https://devpost.com/software/dive-de-tech)
 
@@ -42,6 +42,8 @@ Wildfires is a platform offering real-time wildfire updates with live data, inte
 **How it used Streamlit:** The team then used Streamlit to plot them onto a map.
 
 Built with streamlit, altair, openai, pydeck
+
+## 2024 winners
 
 ### [Dynamic Load Balancing for Energy-Efficient Cloud Computing](https://devpost.com/software/dynamic-load-balancing-for-energy-efficient-cloud-computing)
 

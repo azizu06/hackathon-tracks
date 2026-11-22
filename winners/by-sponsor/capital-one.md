@@ -4,6 +4,8 @@
 
 **28 winning projects** · 21 hackathons · 28 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Capital%20One)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2016 winners](#2016-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (18), python (15), typescript (15), javascript (10), gemini (9)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [BreakingPoint](https://devpost.com/software/breakingpoint)
 
@@ -100,6 +100,8 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 An offline guide helps survivors find state compensation programs and trace eligibility to the relevant law.
 
 [Code](https://github.com/thesanatt/tend) · Built with capital-one-nessie, agentverse, asi-one, c++
+
+## 2025 winners
 
 ### [Agent Zero](https://devpost.com/software/agentzero-tnh9p3)
 
@@ -207,6 +209,8 @@ A finance prototype explores a way to earn yield on money set aside for subscrip
 
 [Code](https://github.com/adlonymous/subsave) · [Demo video](https://www.youtube.com/watch?v=FC3KWH5CUpk) · Built with auth0, expo.io, gemini, lulo
 
+## 2024 winners
+
 ### [Lease Saving Plan](https://devpost.com/software/lease-saving-plan)
 
 [ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-lease-saving-plan) · **Capital One**
@@ -240,6 +244,8 @@ Puddle brings an "every drop matters" approach to your everyday spending, allowi
 SmartCards is a user-friendly addon for your budgeting app to help you better categorize your transactions and find investing opportunities from each purchase.
 
 [Code](https://github.com/chasereyn/smart-cards) · Built with express.js, flask, kaggle, node.js
+
+## 2016 winners
 
 ### [Bitcard](https://devpost.com/software/bitcard-backend)
 

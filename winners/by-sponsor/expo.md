@@ -4,6 +4,8 @@
 
 **1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Expo)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** arcore (1), arkit (1), augmented-reality (1), cloudflare-workers (1), dynamic-island (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Cospray](https://devpost.com/software/fresco-b1riws)
 

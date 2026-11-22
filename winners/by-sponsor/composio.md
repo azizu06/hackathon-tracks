@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Composio)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** brightdata (1), chromadb (1), claude (1), composio (1), esp32 (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Otto](https://devpost.com/software/dean-your-personal-agent-at-your-command)
 
@@ -26,6 +26,8 @@ All your apps, at your command. Just say the word and Otto already has it finish
 **How it used Composio:** Composio gives Otto a catalog of more than 1,500 integrations to search.
 
 [Code](https://github.com/Vibhor7-7/HackTheNorth-OTTO) · [Demo video](https://www.youtube.com/watch?v=QVRdKxlLYfg) · Built with composio, esp32, hardware, openai
+
+## 2025 winners
 
 ### [Githired](https://devpost.com/software/githired)
 

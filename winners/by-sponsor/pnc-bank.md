@@ -4,6 +4,8 @@
 
 **9 winning projects** · 3 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=PNC%20Bank)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (4), javascript (3), mongodb (3), python (3), gemini (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Brian-o-Tron](https://devpost.com/software/keystone-o10hqc)
 
@@ -41,6 +41,8 @@ Wallet Whisperer brings accounts, bills, debts, income, and savings goals into o
 
 [Code](https://github.com/AfeIsm/HackUTD) · [Demo video](https://www.youtube.com/watch?v=hG9LVm12ELU) · Built with claude, codex, css, javascript
 
+## 2025 winners
+
 ### [AutoPM](https://devpost.com/software/autopm-2tjzu8)
 
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-autopm-2tjzu8) · **PNC Bank**
@@ -64,6 +66,8 @@ Prodplex acts like a team of intelligent assistants, each powered by a different
 ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discovery→Operate, works with Jira/ADO, automates busywork, and turns strategy into shippable stories—fast.
 
 [Code](https://github.com/christinaduthie/produh) · [Demo video](https://www.youtube.com/watch?v=0nwymM2ZtSw) · Built with adk, agentic-architecture, ai-agent, gemini
+
+## 2024 winners
 
 ### [Data Pattern Observatory](https://devpost.com/software/data-pattern-observatory)
 

@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2013 winners](#2013-winners)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (10), react (9), gemini (7), javascript (6), python (6)
@@ -15,9 +17,7 @@ Matched from keywords in the project description.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [CodeAncestry](https://devpost.com/software/codeancestory)
 
@@ -123,6 +123,8 @@ A programming environment gives blind developers an accessible way to write and 
 
 [Code](https://github.com/ledaniel0/treehacks2026) · [Demo video](https://www.youtube.com/watch?v=aL9MrpwJXOA) · Built with agentverse, elasticsearch, electron, langgraph
 
+## 2025 winners
+
 ### [Atlas](https://devpost.com/software/atlas-tlfpkz)
 
 [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md#project-atlas-tlfpkz)<br>[Cedar](../by-sponsor/cedar.md) · **Best Use of CedarOS**<br>[Ergo](../by-sponsor/ergo.md) · **Best Use of Mastra Agent Framework for Productivity**
@@ -147,6 +149,8 @@ Transform any GitHub repository into an interactive, visual tree structure. AI-p
 
 [Code](https://github.com/hieunguyent12/shellhacks25) · [Demo video](https://www.youtube.com/watch?v=oo69VDuMhTU) · Built with docker, elevenlabs, express.js, fastapi
 
+## 2024 winners
+
 ### [Cyberwright](https://devpost.com/software/cyberwright)
 
 [MHacks 2024](../by-hackathon/mhacks-2024.md#project-cyberwright)<br>[BoundaryML](../by-sponsor/boundaryml.md) · **Best use of LLM Agents**
@@ -163,6 +167,8 @@ Real-time error monitoring from the terminal, helping developers spend less time
 
 [Code](https://github.com/denniwang/t-error) · [Demo video](https://www.youtube.com/watch?v=MNrN6I0-H-A) · Built with c++, javascript, mongodb, nextjs
 
+## 2020 winners
+
 ### [EcoConscious Tech](https://devpost.com/software/spaghetti)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-spaghetti)<br>[Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
@@ -170,6 +176,8 @@ Real-time error monitoring from the terminal, helping developers spend less time
 A VSCode extension, Chrome extension, and web app to help developers and internet users become more conscious about their environmental impact.
 
 [Code](https://github.com/catherinedparnell/ecoconscious-tech-chrome) · [Demo video](https://www.youtube.com/watch?v=hG0lLAeQx9E) · Built with css, figma, firestore, html
+
+## 2013 winners
 
 ### [GitFit](https://devpost.com/software/gitfit)
 

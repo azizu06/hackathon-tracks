@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=TELUS)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (2), vite (2), algorithms (1), c (1), css (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [MelaNone](https://devpost.com/software/melanone)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 MelaNone is a limb-scanning system designed to help detect melanoma early on.
 
 [Code](https://github.com/jasonkwok475/MelaNone) · [Demo video](https://www.youtube.com/watch?v=z7EJEKKdNtc) · Built with c, cv, flask, python
+
+## 2025 winners
 
 ### [CrisisLens](https://devpost.com/software/crisislens)
 

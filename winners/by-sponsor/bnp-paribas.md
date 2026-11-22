@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=BNP%20Paribas)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2018 winners](#2018-winners) · [2016 winners](#2016-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** firebase (1), flask (1), machine-learning (1), pandas (1), python (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2018 winners
 
 ### [TradeGO](https://devpost.com/software/trade-bot-uhvcny)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 TradeGO is an application that enables people to participate in financial markets without financial literacy.
 
 Built with react, ruby, ruby-on-rails
+
+## 2016 winners
 
 ### [Kinvest](https://devpost.com/software/kinvest)
 

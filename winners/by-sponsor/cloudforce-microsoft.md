@@ -4,6 +4,8 @@
 
 **6 winning projects** · 2 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Cloudforce%20%2F%20Microsoft)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (4), terpai (4), python (3), azure (2), cloudforce (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Aether](https://devpost.com/software/aether-d4v6sb)
 
@@ -40,6 +40,8 @@ EcoBuddy gamifies sustainability—track your actions, level up your buddy, and 
 An AI safety net for UMD students. TerpWallet watches your bank account and connects you to free campus resources, Campus Pantry, SafeRide, emergency funds, before you go broke.
 
 [Code](https://github.com/rishikathakre/terpwallet-ai) · [Demo video](https://www.youtube.com/watch?v=vD4VIui3jSs) · Built with auth0, azure, capital-one-nessie-api, cloudforce
+
+## 2025 winners
 
 ### [MedSave](https://devpost.com/software/medsave)
 

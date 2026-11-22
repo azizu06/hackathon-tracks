@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description and its tech tags.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (31), typescript (29), react (23), node.js (17), fastapi (13)
@@ -15,9 +17,7 @@ Matched from keywords in the project description and its tech tags.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Bloom](https://devpost.com/software/bloom-dvjpea)
 
@@ -315,6 +315,8 @@ A commerce tool lets merchants review AI-organized evidence when investigating r
 
 [Code](https://github.com/shubhaych/vouch) · [Demo video](https://www.youtube.com/watch?v=pf4iXxd5D_o) · Built with creao, duckdb, factory-droid-sdk, faster-whisper
 
+## 2025 winners
+
 ### [Lavoe](https://devpost.com/software/lavoe)
 
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-lavoe)<br>[Rox](../by-sponsor/rox.md) · **Best AI Agent**<br>[Windsurf](../by-sponsor/windsurf.md) · **Best Project built with Windsurf**
@@ -402,6 +404,8 @@ Transforming Thoughts into Visual Expression - Empowering Minds Beyond Words.
 Turning tangled, time-consuming clinical trial data chaos into seamless, protocol-compliant automated workflows.
 
 [Code](https://github.com/ShauryaJ1/trialytics) · [Demo video](https://www.youtube.com/watch?v=mKz1m1JFRIQ) · Built with admiral, amazon-web-services, aws-deep-learning-ami, aws-ec2
+
+## 2024 winners
 
 ### [ShellHacked](https://devpost.com/software/shellhacked)
 

@@ -4,6 +4,8 @@
 
 **6 winning projects** · 1 hackathon · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Zetic)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** swift (4), twilio (3), elevenlabs (2), expo.io (2), gemma (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Cropt](https://devpost.com/software/croppers)
 

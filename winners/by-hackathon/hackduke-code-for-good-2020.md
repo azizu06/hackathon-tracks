@@ -4,6 +4,8 @@
 
 **34 winning projects** · 7 sponsors · 37 sponsor prizes · [Devpost gallery](https://code-for-good.devpost.com/project-gallery) · [Prize rules](https://code-for-good.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** javascript (19), python (18), google-cloud (11), html (9), firebase (8)
@@ -15,19 +17,21 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [DataStax](../by-sponsor/datastax.md) | 1 | Best use of DataStax Astra |
-| [Digi-Key](../by-sponsor/digi-key.md) | 2 | Best Hardware Hack Sponsored by Digi-Key |
-| [Domain.com](../by-sponsor/domain-com.md) | 1 | Best Domain Registered with Domain.com |
-| [Duke Innovation Studio](../by-sponsor/duke-innovation-studio.md) | 1 | Next Big Innovation Award |
-| [echoAR](../by-sponsor/echoar.md) | 1 | Best AR/VR App using echoAR |
-| [Google](../by-sponsor/google.md) | 1 | Best use of Google Cloud |
-| [Wolfram](../by-sponsor/wolfram.md) | 30 | Wolfram Award |
+| [DataStax](../by-sponsor/datastax.md) | 1 | [Best use of DataStax Astra](#datastax-winners) |
+| [Digi-Key](../by-sponsor/digi-key.md) | 2 | [Best Hardware Hack Sponsored by Digi-Key](#digi-key-winners) |
+| [Domain.com](../by-sponsor/domain-com.md) | 1 | [Best Domain Registered with Domain.com](#domaincom-winners) |
+| [Duke Innovation Studio](../by-sponsor/duke-innovation-studio.md) | 1 | [Next Big Innovation Award](#duke-innovation-studio-winners) |
+| [echoAR](../by-sponsor/echoar.md) | 1 | [Best AR/VR App using echoAR](#echoar-winners) |
+| [Google](../by-sponsor/google.md) | 1 | [Best use of Google Cloud](#google-winners) |
+| [Wolfram](../by-sponsor/wolfram.md) | 30 | [Wolfram Award](#wolfram-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-ketchup-396ntm"></a>
 
@@ -101,9 +105,136 @@ A machine learning application that alerts users of unattended leaky or running 
 
 </details>
 
+## Winners by sponsor track
+
+### DataStax winners
+
+**Track:** Best use of DataStax Astra · [All DataStax winners](../by-sponsor/datastax.md)
+
+<a name="project-quizzo"></a>
+
+#### [Quizzo: AR Jeopardy](https://devpost.com/software/quizzo)
+
+[DataStax](../by-sponsor/datastax.md) · **Best use of DataStax Astra**
+
+Quizzo uses OCR, AR, and voice commands to gamify the learning process, increase your engagement with the content, and enrich your online studying experience.
+
+[Code](https://github.com/apangasa/hackduke-quizzo) · [Demo video](https://www.youtube.com/watch?v=lfjNs9mp4sM) · Built with aframe, ar.js, azure, azure-cognitive-services
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** aframe, ar.js, azure, azure-cognitive-services, firebase-web-hosting, google-cloud, google-cloud-functions, google-cloud-vision-ocr, javascript
+- **Code:** [Source 1](https://github.com/apangasa/hackduke-quizzo)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=lfjNs9mp4sM)
+- **All prizes at this hackathon (1):** Best use of DataStax Astra
+- **How it used DataStax:** You finished studying for your big exam but you're still not sure if you're ready.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Digi-Key winners
+
+**Track:** Best Hardware Hack Sponsored by Digi-Key · [All Digi-Key winners](../by-sponsor/digi-key.md)
+
+Also won this track: [OxyControl](#project-oxycontrol), [Sink Saver](#project-sink-saver) (listed above)
+
+### Domain.com winners
+
+**Track:** Best Domain Registered with Domain.com · [All Domain.com winners](../by-sponsor/domain-com.md)
+
+<a name="project-spch"></a>
+
+#### [SPCH](https://devpost.com/software/spch)
+
+[Domain.com](../by-sponsor/domain-com.md) · **Best Domain Registered with Domain.com**
+
+The project “SPCH” involves a text editor and Google Chrome extension that scans for hate speech and offensive language within a block of text.
+
+[Code](https://github.com/BryantH24/SPCH) · [Demo video](https://www.youtube.com/watch?v=ejlorFZdnkA) · Built with chrome, datastax-astra, docker, firebase
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** chrome, datastax-astra, docker, firebase, flask, google-cloud, python, react
+- **Code:** [Source 1](https://github.com/BryantH24/SPCH)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=ejlorFZdnkA)
+- **All prizes at this hackathon (1):** Best Domain Registered with Domain.com
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Duke Innovation Studio winners
+
+**Track:** Next Big Innovation Award · [All Duke Innovation Studio winners](../by-sponsor/duke-innovation-studio.md)
+
+Also won this track: [Ketchup](#project-ketchup-396ntm) (listed above)
+
+### echoAR winners
+
+**Track:** Best AR/VR App using echoAR · [All echoAR winners](../by-sponsor/echoar.md)
+
+<a name="project-selfloving-us-xy3oc7"></a>
+
+#### [SelfLoving.us](https://devpost.com/software/selfloving-us-xy3oc7)
+
+[echoAR](../by-sponsor/echoar.md) · **Best AR/VR App using echoAR**
+
+Website with self-care discord bot that provides daily self care missions,helps dealing with mental health issues with supportive messages.
+
+[Code](https://github.com/Sushreesatarupa/selfloving.github.io) · [Demo video](https://www.youtube.com/watch?v=rYGHLqQsp-o) · Built with echoar, bootstrap, bot, css3
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** bootstrap, bot, css3, discord, echoar, github, heroku, html5, javascript, python, unity, webgl
+- **Code:** [Source 1](https://github.com/Sushreesatarupa/selfloving.github.io)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=rYGHLqQsp-o)
+- **All prizes at this hackathon (1):** Best AR/VR App using echoAR
+- **How it used echoAR:** Certain fun elements are built with echoAR.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Google winners
+
+**Track:** Best use of Google Cloud · [All Google winners](../by-sponsor/google.md)
+
+<a name="project-the-remote-university-experience"></a>
+
+#### [The Remote University Experience](https://devpost.com/software/the-remote-university-experience)
+
+[Google](../by-sponsor/google.md) · **Best use of Google Cloud**
+
+Revolutionizing education, orientations, and the remote college experience for the digital future.
+
+[Code](https://github.com/cindyxu20/hackathon2020) · [Demo video](https://www.youtube.com/watch?v=uE2RPC_NKzs) · Built with google-cloud, css, git, github
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 5
+- **Built with:** css, git, github, google-cloud, html, javascript, materialui, p5js, react, vscode, yaml
+- **Code:** [Source 1](https://github.com/cindyxu20/hackathon2020)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=uE2RPC_NKzs)
+- **All prizes at this hackathon (1):** Best use of Google Cloud
+- **How it used Google:** The project lists google-cloud among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Wolfram winners
+
+**Track:** Wolfram Award · [All Wolfram winners](../by-sponsor/wolfram.md)
+
+Also won this track: [Ketchup](#project-ketchup-396ntm), [OxyControl](#project-oxycontrol), [Sink Saver](#project-sink-saver) (listed above)
+
 <a name="project-pomodoro-timer-for-kids"></a>
 
-### [.pom; Timer for Students](https://devpost.com/software/pomodoro-timer-for-kids)
+#### [.pom; Timer for Students](https://devpost.com/software/pomodoro-timer-for-kids)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -126,7 +257,7 @@ A Pomodoro timer with virtual rewards and a hidden timer to encourage kids with 
 
 <a name="project-celestialmed"></a>
 
-### [CelestialMed](https://devpost.com/software/celestialmed)
+#### [CelestialMed](https://devpost.com/software/celestialmed)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -148,7 +279,7 @@ Workflow of the coding for the covid prediction.
 
 <a name="project-charitable-65vqbd"></a>
 
-### [Charitable](https://devpost.com/software/charitable-65vqbd)
+#### [Charitable](https://devpost.com/software/charitable-65vqbd)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -170,7 +301,7 @@ These charity portfolios can be managed by users, and charity information pages 
 
 <a name="project-checkup-cjrbs3"></a>
 
-### [CheckUp](https://devpost.com/software/checkup-cjrbs3)
+#### [CheckUp](https://devpost.com/software/checkup-cjrbs3)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -192,7 +323,7 @@ CheckUp allows doctors to monitor patients for coronavirus symptoms before and a
 
 <a name="project-safety-before-exam-during-covid19"></a>
 
-### [Conduct exams safely](https://devpost.com/software/safety-before-exam-during-covid19)
+#### [Conduct exams safely](https://devpost.com/software/safety-before-exam-during-covid19)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -215,7 +346,7 @@ Fingerprint based Exam hall registration, authentication system with temperature
 
 <a name="project-conservationist"></a>
 
-### [CONSERVATIONIST](https://devpost.com/software/conservationist)
+#### [CONSERVATIONIST](https://devpost.com/software/conservationist)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -237,7 +368,7 @@ The team introduce Envokart to solve this problem, Envokart picks up the waste f
 
 <a name="project-conserve"></a>
 
-### [conServe](https://devpost.com/software/conserve)
+#### [conServe](https://devpost.com/software/conserve)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -260,7 +391,7 @@ Serve delicious food while conserving groceries! Keep track of the expiration da
 
 <a name="project-coral"></a>
 
-### [Coral](https://devpost.com/software/coral)
+#### [Coral](https://devpost.com/software/coral)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -282,7 +413,7 @@ Learn new languages as you browse! Coral is a chrome extension that immerses you
 
 <a name="project-coronavirus-website"></a>
 
-### [CovHub](https://devpost.com/software/coronavirus-website)
+#### [CovHub](https://devpost.com/software/coronavirus-website)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -305,7 +436,7 @@ CovHub makes it effortless to find up to date information on topics related to t
 
 <a name="project-covid-19-cluster-detection-app"></a>
 
-### [COVID-19 Cluster Detection App](https://devpost.com/software/covid-19-cluster-detection-app)
+#### [COVID-19 Cluster Detection App](https://devpost.com/software/covid-19-cluster-detection-app)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -327,7 +458,7 @@ The app provides users with a real-time COVID-19 risk assessment on any of their
 
 <a name="project-spaghetti"></a>
 
-### [EcoConscious Tech](https://devpost.com/software/spaghetti)
+#### [EcoConscious Tech](https://devpost.com/software/spaghetti)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -350,7 +481,7 @@ A VSCode extension, Chrome extension, and web app to help developers and interne
 
 <a name="project-ecoeats-8vb6tg"></a>
 
-### [EcoEats](https://devpost.com/software/ecoeats-8vb6tg)
+#### [EcoEats](https://devpost.com/software/ecoeats-8vb6tg)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -372,7 +503,7 @@ EcoEats helps to provide a quick and easy way to look at how much carbon emissio
 
 <a name="project-ensemble-un4pjb"></a>
 
-### [Ensemble](https://devpost.com/software/ensemble-un4pjb)
+#### [Ensemble](https://devpost.com/software/ensemble-un4pjb)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -395,7 +526,7 @@ Especially during COVID, people have never been more disconnected. Ensemble hope
 
 <a name="project-extinguish-8yjl97"></a>
 
-### [Extinguish](https://devpost.com/software/extinguish-8yjl97)
+#### [Extinguish](https://devpost.com/software/extinguish-8yjl97)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -417,7 +548,7 @@ Extinguish uses machine learning to provide helpful insights about fires.
 
 <a name="project-eyesafe"></a>
 
-### [eyeSafe](https://devpost.com/software/eyesafe)
+#### [eyeSafe](https://devpost.com/software/eyesafe)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -439,7 +570,7 @@ eyeSafe uses your computer webcam to detect how often you blink.
 
 <a name="project-testing-rvlt9k"></a>
 
-### [gauge](https://devpost.com/software/testing-rvlt9k)
+#### [gauge](https://devpost.com/software/testing-rvlt9k)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -462,7 +593,7 @@ Gauge -- a zoom add-on for teachers to gauge if their students are understanding
 
 <a name="project-gram-pal"></a>
 
-### [gram-pal](https://devpost.com/software/gram-pal)
+#### [gram-pal](https://devpost.com/software/gram-pal)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -484,7 +615,7 @@ The team describes the project as “Social media are an important way for peopl
 
 <a name="project-guidedog-uoeft8"></a>
 
-### [GuideDog](https://devpost.com/software/guidedog-uoeft8)
+#### [GuideDog](https://devpost.com/software/guidedog-uoeft8)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -507,7 +638,7 @@ AI-Based Narration Camera for the Visually Impaired.
 
 <a name="project-kaizen-journal"></a>
 
-### [Kaizen](https://devpost.com/software/kaizen-journal)
+#### [Kaizen](https://devpost.com/software/kaizen-journal)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -530,7 +661,7 @@ Kaizen is a therapeutic journal for patients with a focus on privacy. Patients c
 
 <a name="project-mindful-me-867jeq"></a>
 
-### [Mindful Me](https://devpost.com/software/mindful-me-867jeq)
+#### [Mindful Me](https://devpost.com/software/mindful-me-867jeq)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -553,7 +684,7 @@ Mindful Me is a website that allows and encourages users to complete daily menta
 
 <a name="project-plan-your-homestead"></a>
 
-### [Plan Your Homestead](https://devpost.com/software/plan-your-homestead)
+#### [Plan Your Homestead](https://devpost.com/software/plan-your-homestead)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -575,7 +706,7 @@ This application allows an individual to outline a property, and work through ma
 
 <a name="project-pupil-3sctez"></a>
 
-### [pupil](https://devpost.com/software/pupil-3sctez)
+#### [pupil](https://devpost.com/software/pupil-3sctez)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -598,7 +729,7 @@ Eye-tracking based communication for cerebral palsy patients.
 
 <a name="project-putta-mask-on-it"></a>
 
-### [Putta Mask On It](https://devpost.com/software/putta-mask-on-it)
+#### [Putta Mask On It](https://devpost.com/software/putta-mask-on-it)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -618,55 +749,9 @@ The automation of mask security for stores.
 
 </details>
 
-<a name="project-quizzo"></a>
-
-### [Quizzo: AR Jeopardy](https://devpost.com/software/quizzo)
-
-[DataStax](../by-sponsor/datastax.md) · **Best use of DataStax Astra**
-
-Quizzo uses OCR, AR, and voice commands to gamify the learning process, increase your engagement with the content, and enrich your online studying experience.
-
-[Code](https://github.com/apangasa/hackduke-quizzo) · [Demo video](https://www.youtube.com/watch?v=lfjNs9mp4sM) · Built with aframe, ar.js, azure, azure-cognitive-services
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** aframe, ar.js, azure, azure-cognitive-services, firebase-web-hosting, google-cloud, google-cloud-functions, google-cloud-vision-ocr, javascript
-- **Code:** [Source 1](https://github.com/apangasa/hackduke-quizzo)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=lfjNs9mp4sM)
-- **All prizes at this hackathon (1):** Best use of DataStax Astra
-- **How it used DataStax:** You finished studying for your big exam but you're still not sure if you're ready.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-selfloving-us-xy3oc7"></a>
-
-### [SelfLoving.us](https://devpost.com/software/selfloving-us-xy3oc7)
-
-[echoAR](../by-sponsor/echoar.md) · **Best AR/VR App using echoAR**
-
-Website with self-care discord bot that provides daily self care missions,helps dealing with mental health issues with supportive messages.
-
-[Code](https://github.com/Sushreesatarupa/selfloving.github.io) · [Demo video](https://www.youtube.com/watch?v=rYGHLqQsp-o) · Built with echoar, bootstrap, bot, css3
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** bootstrap, bot, css3, discord, echoar, github, heroku, html5, javascript, python, unity, webgl
-- **Code:** [Source 1](https://github.com/Sushreesatarupa/selfloving.github.io)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=rYGHLqQsp-o)
-- **All prizes at this hackathon (1):** Best AR/VR App using echoAR
-- **How it used echoAR:** Certain fun elements are built with echoAR.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-t-0j4rl7"></a>
 
-### [Shareapy](https://devpost.com/software/t-0j4rl7)
+#### [Shareapy](https://devpost.com/software/t-0j4rl7)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -687,31 +772,9 @@ A community that encourages and challenges people who stutter to practice speech
 
 </details>
 
-<a name="project-spch"></a>
-
-### [SPCH](https://devpost.com/software/spch)
-
-[Domain.com](../by-sponsor/domain-com.md) · **Best Domain Registered with Domain.com**
-
-The project “SPCH” involves a text editor and Google Chrome extension that scans for hate speech and offensive language within a block of text.
-
-[Code](https://github.com/BryantH24/SPCH) · [Demo video](https://www.youtube.com/watch?v=ejlorFZdnkA) · Built with chrome, datastax-astra, docker, firebase
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** chrome, datastax-astra, docker, firebase, flask, google-cloud, python, react
-- **Code:** [Source 1](https://github.com/BryantH24/SPCH)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=ejlorFZdnkA)
-- **All prizes at this hackathon (1):** Best Domain Registered with Domain.com
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-syllabus-parser"></a>
 
-### [Syllabus Parser (Education Track)](https://devpost.com/software/syllabus-parser)
+#### [Syllabus Parser (Education Track)](https://devpost.com/software/syllabus-parser)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -732,32 +795,9 @@ Automatically add events to GCal, just by uploading your class syllabus.
 
 </details>
 
-<a name="project-the-remote-university-experience"></a>
-
-### [The Remote University Experience](https://devpost.com/software/the-remote-university-experience)
-
-[Google](../by-sponsor/google.md) · **Best use of Google Cloud**
-
-Revolutionizing education, orientations, and the remote college experience for the digital future.
-
-[Code](https://github.com/cindyxu20/hackathon2020) · [Demo video](https://www.youtube.com/watch?v=uE2RPC_NKzs) · Built with google-cloud, css, git, github
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 5
-- **Built with:** css, git, github, google-cloud, html, javascript, materialui, p5js, react, vscode, yaml
-- **Code:** [Source 1](https://github.com/cindyxu20/hackathon2020)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=uE2RPC_NKzs)
-- **All prizes at this hackathon (1):** Best use of Google Cloud
-- **How it used Google:** The project lists google-cloud among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-therapists"></a>
 
-### [TheraMatch](https://devpost.com/software/therapists)
+#### [TheraMatch](https://devpost.com/software/therapists)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 
@@ -780,7 +820,7 @@ A web app that matches people with mental health therapists best suited for thei
 
 <a name="project-universallanguage"></a>
 
-### [UniversalLanguage](https://devpost.com/software/universallanguage)
+#### [UniversalLanguage](https://devpost.com/software/universallanguage)
 
 [Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
 

@@ -4,6 +4,8 @@
 
 **8 winning projects** · 3 hackathons · 8 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=QNX)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (7), qnx (5), raspberry-pi (4), opencv (3), c (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Combadge](https://devpost.com/software/combadge)
 
@@ -74,6 +74,8 @@ SpideyIRL is built around one core idea: &#42;reflexes should never have to wait
 Fire truck crash? Radio too slow.
 
 [Code](https://github.com/bencejdanko/VanguardTelematics) · [Demo video](https://www.youtube.com/watch?v=6oMx5WiXiPE) · Built with qnx, deepgram, fastapi, framer-motion
+
+## 2025 winners
 
 ### [QNX-RasPi-Setup-Util](https://devpost.com/software/qnx-raspi-setup-util)
 

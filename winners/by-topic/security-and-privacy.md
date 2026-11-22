@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2013 winners](#2013-winners)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (19), react (18), python (16), javascript (11), next.js (8)
@@ -15,9 +17,7 @@ Matched from keywords in the project description.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [PreVent](https://devpost.com/software/prevent-5ymas0)
 
@@ -155,6 +155,8 @@ Agentic security testing for vibe-coded apps — before you ship.
 
 [Code](https://github.com/jkuo630/Trojan) · [Demo video](https://www.youtube.com/watch?v=4-LN6P5TIFk) · Built with javascript, langgraph, next.js, oauth
 
+## 2025 winners
+
 ### [FirstWave](https://devpost.com/software/firstwave-5wbld1)
 
 [HackNYU 2025](../by-hackathon/hacknyu-2025.md#project-firstwave-5wbld1)<br>[Nord Security](../by-sponsor/nord-security.md) · **Track: Security and Privacy**
@@ -235,6 +237,8 @@ From packets to plain‑English, actionable security narratives.
 
 [Code](https://github.com/ashokcpg/YeetThePacket) · Built with bash, cohere, docker, fastapi
 
+## 2024 winners
+
 ### [ANGEL'S PROTECTION](https://devpost.com/software/angel-s-protection)
 
 [HackTX 2024](../by-hackathon/hacktx-2024.md#project-angel-s-protection)<br>[Intel](../by-sponsor/intel.md) · **Best Use of Intel AI**<br>[InterSystems](../by-sponsor/intersystems.md) · **Best use of GenAI using InterSystems IRIS Vector Search**
@@ -283,6 +287,8 @@ A vulnerability scanner and WiFi penetration tool, using Raspberry Pi. Designed 
 
 [Code](https://github.com/ACCISA/Vanguard) · Built with convex, next, react, shadcn/ui
 
+## 2020 winners
+
 ### [Kaizen](https://devpost.com/software/kaizen-journal)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-kaizen-journal)<br>[Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
@@ -298,6 +304,8 @@ Kaizen is a therapeutic journal for patients with a focus on privacy. Patients c
 The automation of mask security for stores.
 
 [Code](https://github.com/saiccoumar/PMOI) · [Demo video](https://www.youtube.com/watch?v=UK3-xYVyPlM) · Built with css, html, javascript, machine-learning
+
+## 2013 winners
 
 ### [Social Security](https://devpost.com/software/social-security)
 

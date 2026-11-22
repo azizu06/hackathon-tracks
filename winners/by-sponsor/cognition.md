@@ -4,6 +4,8 @@
 
 **10 winning projects** · 3 hackathons · 10 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Cognition)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (8), typescript (7), devin (5), claude (4), fastapi (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [ACG](https://devpost.com/software/acg)
 

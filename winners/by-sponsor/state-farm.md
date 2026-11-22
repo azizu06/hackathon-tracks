@@ -4,6 +4,8 @@
 
 **12 winning projects** · 5 hackathons · 12 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=State%20Farm)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (8), react (5), html (4), typescript (4), javascript (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [ANCHOR](https://devpost.com/software/anchor-4z623k)
 
@@ -48,6 +48,8 @@ LifeLine is a disaster recovery platform that connects residents, responders, an
 Privacy-first home safety system that detects hazards like leaks and power loss, alerts homeowners early, and securely shares incident details with approved contacts.
 
 [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
+
+## 2025 winners
 
 ### [GreenLight](https://devpost.com/software/greenlight-idnv6o)
 
@@ -96,6 +98,8 @@ Gamified Experience: Players engage in quirky yet educational tasks, from fetchi
 Struggling with accidentally making subtle breaking changes to your APIs? Are those sensitive unit tests failing all of the time even though unimportant things have changed.
 
 [Code](https://github.com/Arian04/UpGuardian) · [Demo video](https://www.youtube.com/watch?v=VLvWZeT5NOk) · Built with fastapi, flutter, nemotron, python
+
+## 2024 winners
 
 ### [FiveHacks](https://devpost.com/software/fivehacks)
 

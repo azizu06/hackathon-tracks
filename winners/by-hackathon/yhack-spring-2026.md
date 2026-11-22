@@ -4,6 +4,8 @@
 
 **24 winning projects** · 13 sponsors · 26 sponsor prizes · [Devpost gallery](https://yhack-2026.devpost.com/project-gallery) · [Prize rules](https://yhack-2026.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (14), fastapi (11), typescript (10), react (7), elevenlabs (5)
@@ -15,25 +17,27 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [Actual Food](../by-sponsor/actual-food.md) | 1 | ActualFoods |
-| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | Best Use of ElevenLabs |
-| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 2 | Best Domain Name from GoDaddy Registry |
-| [Google](../by-sponsor/google.md) | 1 | Best Use of Gemini API |
-| [Hex](../by-sponsor/hex.md) | 3 | Best use of Hex API |
-| [K2 Think](../by-sponsor/k2-think.md) | 1 | Best Use of K2 Think V2 |
-| [Lava](../by-sponsor/lava.md) | 3 | Best use of Lava API |
-| [MongoDB](../by-sponsor/mongodb.md) | 1 | Best Use of MongoDB Atlas |
-| [Nous Research](../by-sponsor/nous-research.md) | 5 | Best Use of Hermes -- Nous Research |
-| [Snap](../by-sponsor/snap.md) | 3 | Best use of Snap Lens Studio |
-| [Solana](../by-sponsor/solana.md) | 1 | Best Use of Solana |
-| [Viam](../by-sponsor/viam.md) | 1 | Best Use of Viam |
-| [Zed](../by-sponsor/zed.md) | 3 | Built With Zed |
+| [Actual Food](../by-sponsor/actual-food.md) | 1 | [ActualFoods](#actual-food-winners) |
+| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | [Best Use of ElevenLabs](#elevenlabs-winners) |
+| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 2 | [Best Domain Name from GoDaddy Registry](#godaddy-registry-winners) |
+| [Google](../by-sponsor/google.md) | 1 | [Best Use of Gemini API](#google-winners) |
+| [Hex](../by-sponsor/hex.md) | 3 | [Best use of Hex API](#hex-winners) |
+| [K2 Think](../by-sponsor/k2-think.md) | 1 | [Best Use of K2 Think V2](#k2-think-winners) |
+| [Lava](../by-sponsor/lava.md) | 3 | [Best use of Lava API](#lava-winners) |
+| [MongoDB](../by-sponsor/mongodb.md) | 1 | [Best Use of MongoDB Atlas](#mongodb-winners) |
+| [Nous Research](../by-sponsor/nous-research.md) | 5 | [Best Use of Hermes -- Nous Research](#nous-research-winners) |
+| [Snap](../by-sponsor/snap.md) | 3 | [Best use of Snap Lens Studio](#snap-winners) |
+| [Solana](../by-sponsor/solana.md) | 1 | [Best Use of Solana](#solana-winners) |
+| [Viam](../by-sponsor/viam.md) | 1 | [Best Use of Viam](#viam-winners) |
+| [Zed](../by-sponsor/zed.md) | 3 | [Built With Zed](#zed-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-citesite-i80hlo"></a>
 
@@ -82,353 +86,15 @@ Commons is a map-first community coordination platform.
 
 </details>
 
-<a name="project-aegis-68rmo0"></a>
+## Winners by sponsor track
 
-### [Aegis](https://devpost.com/software/aegis-68rmo0)
+### Actual Food winners
 
-[Nous Research](../by-sponsor/nous-research.md) · **Best Use of Hermes -- Nous Research**
-
-Most people do not know how their scattered data points connect.
-
-[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with fastapi, hermes, hexapi, instaloader
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** fastapi, hermes, hexapi, instaloader, next.js, numpy, pillow, pytesseract, python, scikit-learn, tailwindcss, typescript, uvicorn, zed
-- **Code:** [Source 1](https://github.com/danielkwan-dev/aegis)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Nf_50lff9Rc)
-- **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-ambient-cvze2y"></a>
-
-### [Ambient](https://devpost.com/software/ambient-cvze2y)
-
-[Lava](../by-sponsor/lava.md) · **Best use of Lava API**
-
-Ambient sits on your desktop, learns how you work, and handles the busywork before you even think about it. Scheduling, research, and analysis done instantly.
-
-[Demo video](https://www.youtube.com/watch?v=lX8BuX64JwI) · Built with lava-api, anthropic-api, electron, google-calendar-api
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** anthropic-api, electron, google-calendar-api, hex-api, lava-api, node.js, openai-api, pnpm, react, sqlite, tailwind-css, turborepo, typescript
-- **Code:** Listed on Devpost but not verified.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=lX8BuX64JwI)
-- **All prizes at this hackathon (1):** Best use of Lava API
-- **How it used Lava:** The project lists lava-api among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-ayana-g0ys7f"></a>
-
-### [Ayana](https://devpost.com/software/ayana-g0ys7f)
-
-[Google](../by-sponsor/google.md) · **Best Use of Gemini API**
-
-Explore the world through an cinematic AI-guided journey — just speak, and the world comes alive.
-
-[Code](https://github.com/prith27/Ayana) · [Demo video](https://www.youtube.com/watch?v=4lwFH0fWW0E) · Built with gemini-2.5-flash-(itinerary-generation), gemini-live-api-/-gemini-2.5-flash-native-audio-preview-(real-time-voice-agent), fastapi, google-agent-development-kit-(adk)
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** fastapi, gemini-2.5-flash-(itinerary-generation), gemini-live-api-/-gemini-2.5-flash-native-audio-preview-(real-time-voice-agent), google-agent-development-kit-(adk), google-maps-elevationservice, google-maps-javascript-api-3d-(alpha), google-places-api-(new), grok-grok-3-mini-by-xai-(recap-extraction), lens-studio, mediapipe-hand-landmarker, next.js-15, python, snap, street-view-static-api, tflite, typescript
-- **Code:** [Source 1](https://github.com/prith27/Ayana)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=4lwFH0fWW0E)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Ayana's prep engine then generates three curated itineraries tailored to your personality using Gemini 2.5 Flash .
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-carecost-xgm6d2"></a>
-
-### [CareCost](https://devpost.com/software/carecost-xgm6d2)
-
-[Lava](../by-sponsor/lava.md) · **Best use of Lava API**
-
-CareCost is a map-first GI care shopper: AI turns symptoms into the right procedure (CPT/bundle), then shows out-of-pocket cost bands and nearby providers.
-
-[Code](https://github.com/Kedylind/carecost) · [Demo video](https://www.youtube.com/watch?v=UKChab_e1Hc) · Built with lava, auth0, elevenlabs, mongodb
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** auth0, elevenlabs, lava, mongodb, python, typescrypt
-- **Code:** [Source 1](https://github.com/Kedylind/carecost)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=UKChab_e1Hc)
-- **All prizes at this hackathon (1):** Best use of Lava API
-- **How it used Lava:** The project lists lava among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-zero-carbs-tonight"></a>
-
-### [Eco Router](https://devpost.com/software/zero-carbs-tonight)
-
-[Zed](../by-sponsor/zed.md) · **Built With Zed**
-
-Raw watts or joules-per-token misses the carbon picture entirely.
-
-[Code](https://github.com/bdavidzhang/eco_router) · [Demo video](https://www.youtube.com/watch?v=W3opaZ9Rub4) · Built with claude, gemini
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** claude, gemini
-- **Code:** [Source 1](https://github.com/bdavidzhang/eco_router) · [Source 2](https://github.com/bdavidzhang/yhack-eco-bench)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=W3opaZ9Rub4)
-- **All prizes at this hackathon (1):** Built With Zed
-- **How it used Zed:** Zed extension (Rust → WASM) provides /eco slash command.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-foodchain-4sq9t7"></a>
-
-### [FoodChain](https://devpost.com/software/foodchain-4sq9t7)
-
-[Hex](../by-sponsor/hex.md) · **Best use of Hex API**
-
-Food banks today find out about crises when the line gets longer. CrisisGrid detects the signal before the surge hits and creates analytics-powered response plans and supply orders in minutes.
-
-[Code](https://github.com/richykim7/YHack2026) · [Demo video](https://www.youtube.com/watch?v=KBmjbQHAL_0) · Built with hex, anthropic-claude-api, fastapi, framer-motion
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** anthropic-claude-api, fastapi, framer-motion, haversine, hex, langgraph, lava, mapbox-gl-js, next.js, oracle, postgresql, python, recharts, server-sent-events, supabase, tailwind-css, typescript
-- **Code:** [Source 1](https://github.com/richykim7/YHack2026)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=KBmjbQHAL_0)
-- **All prizes at this hackathon (1):** Best use of Hex API
-- **How it used Hex:** The project lists hex among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-foreseen-swlmd5"></a>
-
-### [Forseen](https://devpost.com/software/foreseen-swlmd5)
-
-[Nous Research](../by-sponsor/nous-research.md) · **Best Use of Hermes -- Nous Research**
-
-Your guided path through regulatory complexity.
-
-[Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with beautiful-soup, docker, fastapi, framer-motion
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** beautiful-soup, docker, fastapi, framer-motion, hermes, huggingface, javascript, k2thinkv2, mongodb, openai, pymongo, python, react, tailwind-css, typescript, vite
-- **Code:** [Source 1](https://github.com/xyaei/forseen)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=S-HOp3EjmWo)
-- **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **How it used Nous Research:** Forseen is a compliance intelligence platform that transforms a company's profile into actionable regulatory insights.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-gaitguard"></a>
-
-### [GaitGuard](https://devpost.com/software/gaitguard)
-
-[Zed](../by-sponsor/zed.md) · **Built With Zed**
-
-GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
-
-[Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** claude, python, qnx, raspberry-pi, zed
-- **Code:** Listed on Devpost but not verified.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=VRsa9P1m8z0)
-- **All prizes at this hackathon (2):** Built With Zed · Third Place Overall
-- **How it used Zed:** The project lists zed among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-handdj"></a>
-
-### [HandDJ](https://devpost.com/software/handdj)
-
-[Snap](../by-sponsor/snap.md) · **Best use of Snap Lens Studio**
-
-Compose electronic music just by wiggling your fingers, hand positions swapping live instruments in real time. Once you're done, go full party mode.
-
-[Demo video](https://www.youtube.com/watch?v=cohE1Eti1dU) · Built with snap
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** snap
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=cohE1Eti1dU)
-- **All prizes at this hackathon (1):** Best use of Snap Lens Studio
-- **How it used Snap:** The project lists snap among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-hiveops"></a>
-
-### [HiveOps](https://devpost.com/software/hiveops)
-
-[Hex](../by-sponsor/hex.md) · **Best use of Hex API**
-
-An agentic AI incident resolution platform that ingests service incidents and orchestrates AI agents for triage, root cause analysis, remediation, and verification, with human in the loop feedback.
-
-[Code](https://github.com/aumghelani/HiveOps-NatomaSub) · [Demo video](https://www.youtube.com/watch?v=Wgevevl1hTY) · Built with hex-api, anthropic, fastapi, gemini
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** anthropic, fastapi, gemini, hex-api, lava-api, node.js, pydantic, python, react, sql, supabase, tailwindcss, tenacity, typescript, uvicorn, vercel, vite
-- **Code:** [Source 1](https://github.com/aumghelani/HiveOps-NatomaSub)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Wgevevl1hTY)
-- **All prizes at this hackathon (1):** Best use of Hex API
-- **How it used Hex:** The team are using Hex as a Long-term incident memory bank.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-imposture-krvg9h"></a>
-
-### [Imposture](https://devpost.com/software/imposture-krvg9h)
-
-[ElevenLabs](../by-sponsor/elevenlabs.md) · **Best Use of ElevenLabs**
-
-Imposture is an AI desk pet that tracks your posture and focus use via computer vision, reacts with emotions on an LCD, and gamifies productivity. It is an Among Us-based character to keep you honest.
-
-[Code](https://github.com/argsdio/imposture) · [Demo video](https://www.youtube.com/watch?v=plD5TCyZjgI) · Built with elevenlabs, adafruit, arduino, deepgram
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** adafruit, arduino, deepgram, elevenlabs, fastapi, jinja, liquidcrystal, mediapipe, opencv, picovoice, raspberry-pi
-- **Code:** [Source 1](https://github.com/argsdio/imposture)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=plD5TCyZjgI)
-- **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of ElevenLabs · Most Useless Hack
-- **How it used ElevenLabs:** The project lists elevenlabs among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-kiwimarket"></a>
-
-### [KiwiMarket](https://devpost.com/software/kiwimarket)
-
-[Solana](../by-sponsor/solana.md) · **Best Use of Solana**
-
-A prediction market for physical goods and services.
-
-[Code](https://github.com/darthmaulsw/KiwiMarket) · [Demo video](https://www.youtube.com/watch?v=fTe_Vp-uYDk) · Built with solana, anthropic, python, react
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** anthropic, python, react, solana, sqlite
-- **Code:** [Source 1](https://github.com/darthmaulsw/KiwiMarket)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=fTe_Vp-uYDk)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** The project lists solana among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-leaf-10tjin"></a>
-
-### [Leaf - A Modern, Sustainable LLM Interface](https://devpost.com/software/leaf-10tjin)
-
-[Zed](../by-sponsor/zed.md) · **Built With Zed**
-
-Leaf keeps AI usage sustainable, accurate, and fast by pairing powerful subagents with real-time environmental data.
-
-[Code](https://github.com/marotta-j/yhack2026) · [Demo video](https://www.youtube.com/watch?v=bwRvVmqe6zg) · Built with zed, lava, mongodb, next.js
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** lava, mongodb, next.js, railway, tailwind, three.js, zed
-- **Code:** [Source 1](https://github.com/marotta-j/yhack2026)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=bwRvVmqe6zg)
-- **All prizes at this hackathon (1):** Built With Zed
-- **How it used Zed:** The team used Zed as the IDE.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-neuro-trader"></a>
-
-### [neuro-trading.](https://devpost.com/software/neuro-trader)
-
-[Nous Research](../by-sponsor/nous-research.md) · **Best Use of Hermes -- Nous Research**
-
-fMRI-enhanced swarm simulations for prediction markets.
-
-[Code](https://github.com/cicinel/YNeurotrading) · [Demo video](https://www.youtube.com/watch?v=WmDdycsx_a0) · Built with camel-ai-oasis, d3.js, docker, fastapi
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** camel-ai-oasis, d3.js, docker, fastapi, flask, meta-tribe-v2, mirofish, neo4j, nilearn, nimare, nltools, openai-agents-sdk, polymarket-api, python, pytorch, sqlite, vite, vue.js
-- **Code:** [Source 1](https://github.com/cicinel/YNeurotrading)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=WmDdycsx_a0)
-- **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **How it used Nous Research:** Simulation quality depends more on persona diversity than agent count. 50 carefully generated personas with distinct backgrounds produce richer discourse than 200 generic ones.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-omni-assist"></a>
-
-### [Omni-Assist](https://devpost.com/software/omni-assist)
-
-[Viam](../by-sponsor/viam.md) · **Best Use of Viam**
-
-Making mobility accessible, cheap, simple. and modular to the health sector and the public.
-
-[Code](https://github.com/ryanli222/yHack) · [Demo video](https://www.youtube.com/watch?v=RzqbO86LRXQ) · Built with viam, a&#42;, arduino, elevenlabs
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** a&#42;, arduino, elevenlabs, foxglove, lidar, numpy, opencv, python, viam
-- **Code:** [Source 1](https://github.com/ryanli222/yHack)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=RzqbO86LRXQ)
-- **All prizes at this hackathon (2):** Best Use of Viam · Hardware
-- **How it used Viam:** The project lists viam among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** ActualFoods · [All Actual Food winners](../by-sponsor/actual-food.md)
 
 <a name="project-perennial-t62nhb"></a>
 
-### [perennial](https://devpost.com/software/perennial-t62nhb)
+#### [perennial](https://devpost.com/software/perennial-t62nhb)
 
 [Actual Food](../by-sponsor/actual-food.md) · **ActualFoods**
 
@@ -449,31 +115,226 @@ track pain and symptoms of chronic conditions like endometriosis in a machine le
 
 </details>
 
-<a name="project-second-self-giwmxh"></a>
+### ElevenLabs winners
 
-### [Second Self](https://devpost.com/software/second-self-giwmxh)
+**Track:** Best Use of ElevenLabs · [All ElevenLabs winners](../by-sponsor/elevenlabs.md)
 
-[Nous Research](../by-sponsor/nous-research.md) · **Best Use of Hermes -- Nous Research**
+<a name="project-imposture-krvg9h"></a>
 
-Second Self is a digital twin that runs as a parallel user session on your very own Mac.
+#### [Imposture](https://devpost.com/software/imposture-krvg9h)
 
-[Code](https://github.com/23jmo/second-self) · [Demo video](https://www.youtube.com/watch?v=ZpCst-PS7t0) · Built with agentation, appkit, auth0, beautifulsoup4
+[ElevenLabs](../by-sponsor/elevenlabs.md) · **Best Use of ElevenLabs**
+
+Imposture is an AI desk pet that tracks your posture and focus use via computer vision, reacts with emotions on an LCD, and gamifies productivity. It is an Among Us-based character to keep you honest.
+
+[Code](https://github.com/argsdio/imposture) · [Demo video](https://www.youtube.com/watch?v=plD5TCyZjgI) · Built with elevenlabs, adafruit, arduino, deepgram
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** agentation, appkit, auth0, beautifulsoup4, browser-use, cdp-use, claude, claude-agent-sdk, codesign, cryptography, dynamicnotchkit, elevenlabs, eslint, fastapi, filelock, firebase, firebase-admin, firebase-auth, firebase-firestore, github-actions, gmail-api, google, google-auth, google-auth-oauthlib, google-calendar-api, google-oauth-2.0, hex, httpx, launchagents, mongodb, motion, next.js, oauth, pillow, pkgbuild, postcss, productbuild, productsign, pyautogui, pydantic, pyjwt, pyobjc-framework-quartz, pytest, pytest-asyncio, python, python-build-standalone, python-dotenv, react, requests, swift, swift-package-manager, swiftui, tailwind, tailwind-css, tavily-api, typescript, uvicorn, vercel, vnc, xcrun-notarytool, zed
-- **Code:** [Source 1](https://github.com/23jmo/second-self)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZpCst-PS7t0)
-- **All prizes at this hackathon (2):** Best Use of Hermes -- Nous Research · Personal AI Agent
+- **Built with:** adafruit, arduino, deepgram, elevenlabs, fastapi, jinja, liquidcrystal, mediapipe, opencv, picovoice, raspberry-pi
+- **Code:** [Source 1](https://github.com/argsdio/imposture)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=plD5TCyZjgI)
+- **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of ElevenLabs · Most Useless Hack
+- **How it used ElevenLabs:** The project lists elevenlabs among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### GoDaddy Registry winners
+
+**Track:** Best Domain Name from GoDaddy Registry · [All GoDaddy Registry winners](../by-sponsor/godaddy-registry.md)
+
+Also won this track: [Commons](#project-commune-1qpezk) (listed above)
+
+<a name="project-trust-your-food"></a>
+
+#### [Trust Your Food](https://devpost.com/software/trust-your-food)
+
+[GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name from GoDaddy Registry**
+
+Voice-first local farm marketplace — farmers list by talking, consumers shop with AI, orders deliver via optimized group routes. Real transparency, real logistics, real impact.
+
+[Code](https://github.com/alexanderlapratt/trust-your-food) · [Demo video](https://www.youtube.com/watch?v=srIbSfnjMU8) · Built with godaddy, claude-ai, doordash-drive-api, elevenlabs
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** claude-ai, doordash-drive-api, elevenlabs, express.js, godaddy, lava-api, mongodb-atlas, node.js, nodemailer, react, vite, web-speech-api
+- **Code:** [Source 1](https://github.com/alexanderlapratt/trust-your-food)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=srIbSfnjMU8)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
+- **How it used GoDaddy Registry:** The project lists godaddy among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Google winners
+
+**Track:** Best Use of Gemini API · [All Google winners](../by-sponsor/google.md)
+
+<a name="project-ayana-g0ys7f"></a>
+
+#### [Ayana](https://devpost.com/software/ayana-g0ys7f)
+
+[Google](../by-sponsor/google.md) · **Best Use of Gemini API**
+
+Explore the world through an cinematic AI-guided journey — just speak, and the world comes alive.
+
+[Code](https://github.com/prith27/Ayana) · [Demo video](https://www.youtube.com/watch?v=4lwFH0fWW0E) · Built with gemini-2.5-flash-(itinerary-generation), gemini-live-api-/-gemini-2.5-flash-native-audio-preview-(real-time-voice-agent), fastapi, google-agent-development-kit-(adk)
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** fastapi, gemini-2.5-flash-(itinerary-generation), gemini-live-api-/-gemini-2.5-flash-native-audio-preview-(real-time-voice-agent), google-agent-development-kit-(adk), google-maps-elevationservice, google-maps-javascript-api-3d-(alpha), google-places-api-(new), grok-grok-3-mini-by-xai-(recap-extraction), lens-studio, mediapipe-hand-landmarker, next.js-15, python, snap, street-view-static-api, tflite, typescript
+- **Code:** [Source 1](https://github.com/prith27/Ayana)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=4lwFH0fWW0E)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
+- **How it used Google:** Ayana's prep engine then generates three curated itineraries tailored to your personality using Gemini 2.5 Flash .
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Hex winners
+
+**Track:** Best use of Hex API · [All Hex winners](../by-sponsor/hex.md)
+
+Also won this track: [Commons](#project-commune-1qpezk) (listed above)
+
+<a name="project-foodchain-4sq9t7"></a>
+
+#### [FoodChain](https://devpost.com/software/foodchain-4sq9t7)
+
+[Hex](../by-sponsor/hex.md) · **Best use of Hex API**
+
+Food banks today find out about crises when the line gets longer. CrisisGrid detects the signal before the surge hits and creates analytics-powered response plans and supply orders in minutes.
+
+[Code](https://github.com/richykim7/YHack2026) · [Demo video](https://www.youtube.com/watch?v=KBmjbQHAL_0) · Built with hex, anthropic-claude-api, fastapi, framer-motion
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** anthropic-claude-api, fastapi, framer-motion, haversine, hex, langgraph, lava, mapbox-gl-js, next.js, oracle, postgresql, python, recharts, server-sent-events, supabase, tailwind-css, typescript
+- **Code:** [Source 1](https://github.com/richykim7/YHack2026)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=KBmjbQHAL_0)
+- **All prizes at this hackathon (1):** Best use of Hex API
+- **How it used Hex:** The project lists hex among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-hiveops"></a>
+
+#### [HiveOps](https://devpost.com/software/hiveops)
+
+[Hex](../by-sponsor/hex.md) · **Best use of Hex API**
+
+An agentic AI incident resolution platform that ingests service incidents and orchestrates AI agents for triage, root cause analysis, remediation, and verification, with human in the loop feedback.
+
+[Code](https://github.com/aumghelani/HiveOps-NatomaSub) · [Demo video](https://www.youtube.com/watch?v=Wgevevl1hTY) · Built with hex-api, anthropic, fastapi, gemini
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** anthropic, fastapi, gemini, hex-api, lava-api, node.js, pydantic, python, react, sql, supabase, tailwindcss, tenacity, typescript, uvicorn, vercel, vite
+- **Code:** [Source 1](https://github.com/aumghelani/HiveOps-NatomaSub)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Wgevevl1hTY)
+- **All prizes at this hackathon (1):** Best use of Hex API
+- **How it used Hex:** The team are using Hex as a Long-term incident memory bank.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### K2 Think winners
+
+**Track:** Best Use of K2 Think V2 · [All K2 Think winners](../by-sponsor/k2-think.md)
+
+<a name="project-simulacra-o1bih5"></a>
+
+#### [Simulacra](https://devpost.com/software/simulacra-o1bih5)
+
+[K2 Think](../by-sponsor/k2-think.md) · **Best Use of K2 Think V2**
+
+Burned $300 running a 100-agent swarm to launch Simulacra and headstart the future of generative social science, all in 24 hours.
+
+[Code](https://github.com/0xABAN/simulacra) · [Demo video](https://www.youtube.com/watch?v=fPZQB1WaVC4) · Built with bun, fastapi, k2-think, langgraph
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** bun, fastapi, k2-think, langgraph, phaser.js, tiled, xai
+- **Code:** [Source 1](https://github.com/0xABAN/simulacra)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=fPZQB1WaVC4)
+- **All prizes at this hackathon (1):** Best Use of K2 Think V2
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Lava winners
+
+**Track:** Best use of Lava API · [All Lava winners](../by-sponsor/lava.md)
+
+Also won this track: [CiteSite](#project-citesite-i80hlo) (listed above)
+
+<a name="project-ambient-cvze2y"></a>
+
+#### [Ambient](https://devpost.com/software/ambient-cvze2y)
+
+[Lava](../by-sponsor/lava.md) · **Best use of Lava API**
+
+Ambient sits on your desktop, learns how you work, and handles the busywork before you even think about it. Scheduling, research, and analysis done instantly.
+
+[Demo video](https://www.youtube.com/watch?v=lX8BuX64JwI) · Built with lava-api, anthropic-api, electron, google-calendar-api
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** anthropic-api, electron, google-calendar-api, hex-api, lava-api, node.js, openai-api, pnpm, react, sqlite, tailwind-css, turborepo, typescript
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=lX8BuX64JwI)
+- **All prizes at this hackathon (1):** Best use of Lava API
+- **How it used Lava:** The project lists lava-api among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-carecost-xgm6d2"></a>
+
+#### [CareCost](https://devpost.com/software/carecost-xgm6d2)
+
+[Lava](../by-sponsor/lava.md) · **Best use of Lava API**
+
+CareCost is a map-first GI care shopper: AI turns symptoms into the right procedure (CPT/bundle), then shows out-of-pocket cost bands and nearby providers.
+
+[Code](https://github.com/Kedylind/carecost) · [Demo video](https://www.youtube.com/watch?v=UKChab_e1Hc) · Built with lava, auth0, elevenlabs, mongodb
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** auth0, elevenlabs, lava, mongodb, python, typescrypt
+- **Code:** [Source 1](https://github.com/Kedylind/carecost)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=UKChab_e1Hc)
+- **All prizes at this hackathon (1):** Best use of Lava API
+- **How it used Lava:** The project lists lava among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### MongoDB winners
+
+**Track:** Best Use of MongoDB Atlas · [All MongoDB winners](../by-sponsor/mongodb.md)
+
 <a name="project-sift-b7ctar"></a>
 
-### [Sift](https://devpost.com/software/sift-b7ctar)
+#### [Sift](https://devpost.com/software/sift-b7ctar)
 
 [MongoDB](../by-sponsor/mongodb.md) · **Best Use of MongoDB Atlas**
 
@@ -494,31 +355,132 @@ Sift indexes all your files into the same optimized embedding space.
 
 </details>
 
-<a name="project-simulacra-o1bih5"></a>
+### Nous Research winners
 
-### [Simulacra](https://devpost.com/software/simulacra-o1bih5)
+**Track:** Best Use of Hermes -- Nous Research · [All Nous Research winners](../by-sponsor/nous-research.md)
 
-[K2 Think](../by-sponsor/k2-think.md) · **Best Use of K2 Think V2**
+Also won this track: [CiteSite](#project-citesite-i80hlo) (listed above)
 
-Burned $300 running a 100-agent swarm to launch Simulacra and headstart the future of generative social science, all in 24 hours.
+<a name="project-aegis-68rmo0"></a>
 
-[Code](https://github.com/0xABAN/simulacra) · [Demo video](https://www.youtube.com/watch?v=fPZQB1WaVC4) · Built with bun, fastapi, k2-think, langgraph
+#### [Aegis](https://devpost.com/software/aegis-68rmo0)
+
+[Nous Research](../by-sponsor/nous-research.md) · **Best Use of Hermes -- Nous Research**
+
+Most people do not know how their scattered data points connect.
+
+[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with fastapi, hermes, hexapi, instaloader
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** fastapi, hermes, hexapi, instaloader, next.js, numpy, pillow, pytesseract, python, scikit-learn, tailwindcss, typescript, uvicorn, zed
+- **Code:** [Source 1](https://github.com/danielkwan-dev/aegis)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Nf_50lff9Rc)
+- **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-foreseen-swlmd5"></a>
+
+#### [Forseen](https://devpost.com/software/foreseen-swlmd5)
+
+[Nous Research](../by-sponsor/nous-research.md) · **Best Use of Hermes -- Nous Research**
+
+Your guided path through regulatory complexity.
+
+[Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with beautiful-soup, docker, fastapi, framer-motion
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** beautiful-soup, docker, fastapi, framer-motion, hermes, huggingface, javascript, k2thinkv2, mongodb, openai, pymongo, python, react, tailwind-css, typescript, vite
+- **Code:** [Source 1](https://github.com/xyaei/forseen)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=S-HOp3EjmWo)
+- **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
+- **How it used Nous Research:** Forseen is a compliance intelligence platform that transforms a company's profile into actionable regulatory insights.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-neuro-trader"></a>
+
+#### [neuro-trading.](https://devpost.com/software/neuro-trader)
+
+[Nous Research](../by-sponsor/nous-research.md) · **Best Use of Hermes -- Nous Research**
+
+fMRI-enhanced swarm simulations for prediction markets.
+
+[Code](https://github.com/cicinel/YNeurotrading) · [Demo video](https://www.youtube.com/watch?v=WmDdycsx_a0) · Built with camel-ai-oasis, d3.js, docker, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
-- **Built with:** bun, fastapi, k2-think, langgraph, phaser.js, tiled, xai
-- **Code:** [Source 1](https://github.com/0xABAN/simulacra)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=fPZQB1WaVC4)
-- **All prizes at this hackathon (1):** Best Use of K2 Think V2
+- **Built with:** camel-ai-oasis, d3.js, docker, fastapi, flask, meta-tribe-v2, mirofish, neo4j, nilearn, nimare, nltools, openai-agents-sdk, polymarket-api, python, pytorch, sqlite, vite, vue.js
+- **Code:** [Source 1](https://github.com/cicinel/YNeurotrading)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=WmDdycsx_a0)
+- **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
+- **How it used Nous Research:** Simulation quality depends more on persona diversity than agent count. 50 carefully generated personas with distinct backgrounds produce richer discourse than 200 generic ones.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-second-self-giwmxh"></a>
+
+#### [Second Self](https://devpost.com/software/second-self-giwmxh)
+
+[Nous Research](../by-sponsor/nous-research.md) · **Best Use of Hermes -- Nous Research**
+
+Second Self is a digital twin that runs as a parallel user session on your very own Mac.
+
+[Code](https://github.com/23jmo/second-self) · [Demo video](https://www.youtube.com/watch?v=ZpCst-PS7t0) · Built with agentation, appkit, auth0, beautifulsoup4
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** agentation, appkit, auth0, beautifulsoup4, browser-use, cdp-use, claude, claude-agent-sdk, codesign, cryptography, dynamicnotchkit, elevenlabs, eslint, fastapi, filelock, firebase, firebase-admin, firebase-auth, firebase-firestore, github-actions, gmail-api, google, google-auth, google-auth-oauthlib, google-calendar-api, google-oauth-2.0, hex, httpx, launchagents, mongodb, motion, next.js, oauth, pillow, pkgbuild, postcss, productbuild, productsign, pyautogui, pydantic, pyjwt, pyobjc-framework-quartz, pytest, pytest-asyncio, python, python-build-standalone, python-dotenv, react, requests, swift, swift-package-manager, swiftui, tailwind, tailwind-css, tavily-api, typescript, uvicorn, vercel, vnc, xcrun-notarytool, zed
+- **Code:** [Source 1](https://github.com/23jmo/second-self)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZpCst-PS7t0)
+- **All prizes at this hackathon (2):** Best Use of Hermes -- Nous Research · Personal AI Agent
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Snap winners
+
+**Track:** Best use of Snap Lens Studio · [All Snap winners](../by-sponsor/snap.md)
+
+<a name="project-handdj"></a>
+
+#### [HandDJ](https://devpost.com/software/handdj)
+
+[Snap](../by-sponsor/snap.md) · **Best use of Snap Lens Studio**
+
+Compose electronic music just by wiggling your fingers, hand positions swapping live instruments in real time. Once you're done, go full party mode.
+
+[Demo video](https://www.youtube.com/watch?v=cohE1Eti1dU) · Built with snap
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** snap
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=cohE1Eti1dU)
+- **All prizes at this hackathon (1):** Best use of Snap Lens Studio
+- **How it used Snap:** The project lists snap among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-snapdance"></a>
 
-### [SnapDance](https://devpost.com/software/snapdance)
+#### [SnapDance](https://devpost.com/software/snapdance)
 
 [Snap](../by-sponsor/snap.md) · **Best use of Snap Lens Studio**
 
@@ -541,7 +503,7 @@ Learn any dance head-to-head in AR with full-body tracking and scoring in real-t
 
 <a name="project-split-world"></a>
 
-### [Split World](https://devpost.com/software/split-world)
+#### [Split World](https://devpost.com/software/split-world)
 
 [Snap](../by-sponsor/snap.md) · **Best use of Snap Lens Studio**
 
@@ -562,25 +524,129 @@ Act it out. Guess it right.
 
 </details>
 
-<a name="project-trust-your-food"></a>
+### Solana winners
 
-### [Trust Your Food](https://devpost.com/software/trust-your-food)
+**Track:** Best Use of Solana · [All Solana winners](../by-sponsor/solana.md)
 
-[GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name from GoDaddy Registry**
+<a name="project-kiwimarket"></a>
 
-Voice-first local farm marketplace — farmers list by talking, consumers shop with AI, orders deliver via optimized group routes. Real transparency, real logistics, real impact.
+#### [KiwiMarket](https://devpost.com/software/kiwimarket)
 
-[Code](https://github.com/alexanderlapratt/trust-your-food) · [Demo video](https://www.youtube.com/watch?v=srIbSfnjMU8) · Built with godaddy, claude-ai, doordash-drive-api, elevenlabs
+[Solana](../by-sponsor/solana.md) · **Best Use of Solana**
+
+A prediction market for physical goods and services.
+
+[Code](https://github.com/darthmaulsw/KiwiMarket) · [Demo video](https://www.youtube.com/watch?v=fTe_Vp-uYDk) · Built with solana, anthropic, python, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 1
-- **Built with:** claude-ai, doordash-drive-api, elevenlabs, express.js, godaddy, lava-api, mongodb-atlas, node.js, nodemailer, react, vite, web-speech-api
-- **Code:** [Source 1](https://github.com/alexanderlapratt/trust-your-food)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=srIbSfnjMU8)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** The project lists godaddy among its Built With tags.
+- **Team size:** 2
+- **Built with:** anthropic, python, react, solana, sqlite
+- **Code:** [Source 1](https://github.com/darthmaulsw/KiwiMarket)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=fTe_Vp-uYDk)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
+- **How it used Solana:** The project lists solana among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Viam winners
+
+**Track:** Best Use of Viam · [All Viam winners](../by-sponsor/viam.md)
+
+<a name="project-omni-assist"></a>
+
+#### [Omni-Assist](https://devpost.com/software/omni-assist)
+
+[Viam](../by-sponsor/viam.md) · **Best Use of Viam**
+
+Making mobility accessible, cheap, simple. and modular to the health sector and the public.
+
+[Code](https://github.com/ryanli222/yHack) · [Demo video](https://www.youtube.com/watch?v=RzqbO86LRXQ) · Built with viam, a&#42;, arduino, elevenlabs
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** a&#42;, arduino, elevenlabs, foxglove, lidar, numpy, opencv, python, viam
+- **Code:** [Source 1](https://github.com/ryanli222/yHack)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=RzqbO86LRXQ)
+- **All prizes at this hackathon (2):** Best Use of Viam · Hardware
+- **How it used Viam:** The project lists viam among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Zed winners
+
+**Track:** Built With Zed · [All Zed winners](../by-sponsor/zed.md)
+
+<a name="project-zero-carbs-tonight"></a>
+
+#### [Eco Router](https://devpost.com/software/zero-carbs-tonight)
+
+[Zed](../by-sponsor/zed.md) · **Built With Zed**
+
+Raw watts or joules-per-token misses the carbon picture entirely.
+
+[Code](https://github.com/bdavidzhang/eco_router) · [Demo video](https://www.youtube.com/watch?v=W3opaZ9Rub4) · Built with claude, gemini
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** claude, gemini
+- **Code:** [Source 1](https://github.com/bdavidzhang/eco_router) · [Source 2](https://github.com/bdavidzhang/yhack-eco-bench)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=W3opaZ9Rub4)
+- **All prizes at this hackathon (1):** Built With Zed
+- **How it used Zed:** Zed extension (Rust → WASM) provides /eco slash command.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-gaitguard"></a>
+
+#### [GaitGuard](https://devpost.com/software/gaitguard)
+
+[Zed](../by-sponsor/zed.md) · **Built With Zed**
+
+GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
+
+[Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** claude, python, qnx, raspberry-pi, zed
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=VRsa9P1m8z0)
+- **All prizes at this hackathon (2):** Built With Zed · Third Place Overall
+- **How it used Zed:** The project lists zed among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-leaf-10tjin"></a>
+
+#### [Leaf - A Modern, Sustainable LLM Interface](https://devpost.com/software/leaf-10tjin)
+
+[Zed](../by-sponsor/zed.md) · **Built With Zed**
+
+Leaf keeps AI usage sustainable, accurate, and fast by pairing powerful subagents with real-time environmental data.
+
+[Code](https://github.com/marotta-j/yhack2026) · [Demo video](https://www.youtube.com/watch?v=bwRvVmqe6zg) · Built with zed, lava, mongodb, next.js
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** lava, mongodb, next.js, railway, tailwind, three.js, zed
+- **Code:** [Source 1](https://github.com/marotta-j/yhack2026)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=bwRvVmqe6zg)
+- **All prizes at this hackathon (1):** Built With Zed
+- **How it used Zed:** The team used Zed as the IDE.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

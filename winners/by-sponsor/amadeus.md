@@ -4,6 +4,8 @@
 
 **4 winning projects** · 3 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Amadeus)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** amadeus (4), html (3), python (3), css (2), flask (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2019 winners
 
 ### [DHEA](https://devpost.com/software/dhea)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 Choose between a private insurance system, a national model, or something else entirely. The global medical landscape at your fingertips.
 
 [Code](https://github.com/lyronctk/DHEA) · Built with amadeus, css, django, html
+
+## 2018 winners
 
 ### [DreamFlight](https://devpost.com/software/dream-flight)
 
@@ -42,6 +44,8 @@ SOS Squad is a platform for connecting good Samaritans to disaster victims.
 **How it used Amadeus:** The team integrated IBM's Weather API and Amadeus' API to provide weather alerts and flight / hotel lookup.
 
 [Code](https://github.com/sabrinatseng/SOS-Squad) · Built with amadeus, bootstrap, flask, geopy
+
+## 2017 winners
 
 ### [TravelAR](https://devpost.com/software/travelar-g4sq6y)
 

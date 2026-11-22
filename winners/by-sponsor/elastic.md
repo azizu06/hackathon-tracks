@@ -4,6 +4,8 @@
 
 **10 winning projects** · 5 hackathons · 10 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Elastic)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** elasticsearch (6), react (5), elastic (4), node.js (4), python (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [CareLink](https://devpost.com/software/carelink-k1pzeh)
 
@@ -70,6 +70,8 @@ A web app that works out how much commission each sales rep has earned, catches 
 **How it used Elastic:** python, fastapi, sqlite, react, vite, typescript, elasticsearch, elastic-agent-builder, elastic-workflows, esql, jina-embeddings, mcp, stripe, stripe-test-clocks, claude, anthropic, computer-use, bun, prisma, asc-340-40, sec-edgar, pytest,…
 
 [Code](https://github.com/aaditisinghal/Quota) · [Demo video](https://www.youtube.com/watch?v=iVvCbKBY73w) · Built with elastic, python, stripe
+
+## 2025 winners
 
 ### [&lt;PriorityQueue&gt;](https://devpost.com/software/priorityqueue)
 

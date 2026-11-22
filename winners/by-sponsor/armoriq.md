@@ -4,6 +4,8 @@
 
 **1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=ArmorIQ)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** armoriq (1), carto (1), claude (1), cloudfair (1), deepgram (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Aegis](https://devpost.com/software/aegis-jtde8o)
 

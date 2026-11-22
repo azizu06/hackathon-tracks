@@ -4,6 +4,8 @@
 
 **10 winning projects** · 2 hackathons · 10 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Sui)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** sui (9), next.js (6), move (5), typescript (5), react (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Human Capital](https://devpost.com/software/human-capital)
 
@@ -62,6 +62,8 @@ Do you have a laptop? You're potentially losing on making at least $10/day side 
 Sui-powered blockchain-based ticketing and loyalty platform with policy-enforced, fraud-proof resale via Kiosk; buy in one click, resell fairly, and earn perks from purchase to check-in.
 
 [Code](https://github.com/RohanChintakindi/sui-tix) · [Demo video](https://www.youtube.com/watch?v=Whz3DoW8TeI) · Built with sui, sui-kiosk, sui-move, blockchain
+
+## 2024 winners
 
 ### [Blockify](https://devpost.com/software/blockify-x2owt7)
 

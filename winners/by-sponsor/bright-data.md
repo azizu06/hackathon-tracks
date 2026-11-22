@@ -4,6 +4,8 @@
 
 **9 winning projects** · 3 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Bright%20Data)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (6), claude (5), bright-data (4), fastapi (4), react (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [dibs](https://devpost.com/software/dibs-8upsd4)
 
@@ -66,6 +66,8 @@ Stop scrubbing videos. Start training models.
 One iPhone walkthrough builds a complete listing. Renters speed-tour real homes in VR, say what they love or hate, and see if their own couch fits before they ever visit.
 
 [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
+
+## 2025 winners
 
 ### [ChatRealm](https://devpost.com/software/chatrealm)
 

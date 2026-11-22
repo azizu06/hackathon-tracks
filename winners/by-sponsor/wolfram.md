@@ -4,6 +4,8 @@
 
 **38 winning projects** · 6 hackathons · 38 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Wolfram)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (21), javascript (16), google-cloud (8), html (8), firebase (7)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Intelligent Poker League](https://devpost.com/software/intelligent-poker-league)
 
@@ -34,6 +34,8 @@ The team describes the project as “Math Visuals Made Simple”.
 **How it used Wolfram:** Integration : A lightweight Python bridge calls Wolfram, retrieves JSON results, and feeds them directly into the Manim scene.
 
 [Code](https://github.com/Alans44/wolfranimation) · Built with wolfram-technologies, manim, numpy, python
+
+## 2024 winners
 
 ### [Rally AI](https://devpost.com/software/rally-8sxi2t)
 
@@ -58,6 +60,8 @@ A wearable headphone that dynamically adapts audio for individuals with autism, 
 Real-time infection monitoring with moisture, temperature, and pH sensors.
 
 [Code](https://github.com/katelynkywong/SurgiSafe) · [Demo video](https://www.youtube.com/watch?v=RFui9r2ybFU) · Built with adafruit, arduino, autodesk-fusion-360
+
+## 2020 winners
 
 ### [.pom; Timer for Students](https://devpost.com/software/pomodoro-timer-for-kids)
 
@@ -299,6 +303,8 @@ An app to match foreign language learners with songs that reinforce their vocabu
 
 [Code](https://github.com/samaocarpenter/UniversalLanguage) · [Demo video](https://www.youtube.com/watch?v=7l-3FMcaKMU) · Built with duolingo, musixmatch, python
 
+## 2018 winners
+
 ### [r00t](https://devpost.com/software/r00t)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-r00t) · **Best Use of Wolfram Technologies**
@@ -307,6 +313,8 @@ A Mathematica notebook that converts online lecture videos into LaTeX code, for 
 
 [Code](https://github.com/jautung/r00t) · Built with wolfram-technologies, api, mathematica, mathpix
 
+## 2017 winners
+
 ### [PlotRoomba](https://devpost.com/software/plotroomba)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-plotroomba) · **Sponsor Prize - Wolfram Alpha - Best Use of Wolfram Technologies**
@@ -314,6 +322,8 @@ A Mathematica notebook that converts online lecture videos into LaTeX code, for 
 Use your favorite cleaning robot to transform the floor into a canvas for Mathematica plots.
 
 [Code](https://github.com/cyanophycean314-zz/plot_roomba) · Built with wolfram-development-platform, wolfram-mathematica, facebook-live-api, irobot-create2
+
+## 2016 winners
 
 ### [Breast Cancer Detection](https://devpost.com/software/detection-of-breast-cancer-based-on-image-analysis)
 

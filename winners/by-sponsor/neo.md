@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Neo)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (2), raspberry-pi (1), react (1), vite (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [diffuji](https://devpost.com/software/diffuji)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 You can take a picture and choose from a range of filters to apply to your image.
 
 [Code](https://github.com/alexkranias/diffuji) · [Demo video](https://www.youtube.com/watch?v=JiRth1HCIag) · Built with python, raspberry-pi
+
+## 2025 winners
 
 ### [Sherlock](https://devpost.com/software/sherlock-n4fikj)
 

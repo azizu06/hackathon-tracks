@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description and its tech tags.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [2013 winners](#2013-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (22), typescript (21), react (17), javascript (14), gemini (13)
@@ -15,9 +17,7 @@ Matched from keywords in the project description and its tech tags.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [MOGGIE](https://devpost.com/software/moggie)
 
@@ -259,6 +259,8 @@ Over 6000 people are still missing after Nepal's landslide. Rescue teams are far
 
 [Code](https://github.com/ImperialKoi/swarm-robotics-openJiuwen) · [Demo video](https://www.youtube.com/watch?v=6Lp22BUJxl0) · Built with auction-algorithm, cnn, computer-vision, disaster-response
 
+## 2025 winners
+
 ### [AI Escape](https://devpost.com/software/ai-escape)
 
 [LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-ai-escape)<br>[Roblox](../by-sponsor/roblox.md) · **ROBLOX Civility Challenge: Building A Better Digital World**
@@ -411,6 +413,8 @@ UncBlox is a multiplayer action-arena game where players embody celebrated elder
 
 [Demo video](https://www.youtube.com/watch?v=7WwD1cOzm5k) · Built with roblox
 
+## 2024 winners
+
 ### [Atom Seiko](https://devpost.com/software/atom-seiko)
 
 [MHacks 2024](../by-hackathon/mhacks-2024.md#project-atom-seiko)<br>[Google](../by-sponsor/google.md) · **1st Place Best Google AI Breadboard Application**
@@ -475,6 +479,8 @@ Gives users the ability to play four 1v1 games.
 
 [Demo video](https://www.youtube.com/watch?v=7VzAm0KVVoo) · Built with c++, freewili, pygame, python
 
+## 2017 winners
+
 ### [Nova](https://devpost.com/software/nova-ytczl4)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-nova-ytczl4)<br>[Disney](../by-sponsor/disney.md) · **Sponsor Prize - Disney - Best Use of Storytelling**
@@ -483,6 +489,8 @@ An interactive community game with wearable devices that harness storytelling an
 
 [Code](https://github.com/tedmyers/hackMIT) · Built with arduino
 
+## 2016 winners
+
 ### [TourDeMarsVR](https://devpost.com/software/tourdemarsvr)
 
 [HackMIT 2016](../by-hackathon/hackmit-2016.md#project-tourdemarsvr)<br>[Google](../by-sponsor/google.md) · **Google Cardboard Development Prize**
@@ -490,6 +498,8 @@ An interactive community game with wearable devices that harness storytelling an
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
 Built with firebase, arduino, c++, google-cardboard
+
+## 2013 winners
 
 ### [ImpDataGame](https://devpost.com/software/impdatagame)
 

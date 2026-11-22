@@ -4,6 +4,8 @@
 
 **29 winning projects** · 22 hackathons · 29 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Solana)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** solana (22), react (16), python (15), typescript (15), rust (8)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Among Us](https://devpost.com/software/among-us-lbrwjk)
 
@@ -172,6 +172,8 @@ A lender can screen potential properties for environmental risks before approvin
 **How it used Solana:** It serializes the payload, computes a SHA-256 fingerprint, and submits a compact summary and fingerprint through Solana's SPL Memo program , using solders and solana-py .
 
 [Code](https://github.com/9nesh/VERA) · [Demo video](https://www.youtube.com/watch?v=62N696AcAkE) · Built with solana, solana-py, solders, actian
+
+## 2025 winners
 
 ### [AutoTrust](https://devpost.com/software/blockchain-dmuro3)
 

@@ -4,6 +4,8 @@
 
 **3 winning projects** · 2 hackathons · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Coinbase)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2016 winners](#2016-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** coinbase (2), react (2), atlassian-forge (1), base (1), capital-one-nessie (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [skarl.](https://devpost.com/software/skarl)
 
@@ -32,6 +32,8 @@ Real-world data, verified by AI, paid out instantly.
 Make trading intuitive, fun, and physically rewarding.
 
 [Code](https://github.com/sarah-min/StockUp) · [Demo video](https://www.youtube.com/watch?v=7Vt0G7edMeM) · Built with coinbase, creao, mana, node.js
+
+## 2016 winners
 
 ### [Ethereum Piggy](https://devpost.com/software/e)
 

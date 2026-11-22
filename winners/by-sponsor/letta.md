@@ -4,6 +4,8 @@
 
 **6 winning projects** · 1 hackathon · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Letta)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** letta (6), react (5), claude (3), livekit (2), sui (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Clanker Town](https://devpost.com/software/clanker-town)
 

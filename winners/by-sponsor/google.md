@@ -4,6 +4,8 @@
 
 **71 winning projects** · 41 hackathons · 72 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Google)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [2013 winners](#2013-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (40), react (33), gemini (30), javascript (24), typescript (24)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [ani.mate](https://devpost.com/software/ani-mate)
 
@@ -182,6 +182,8 @@ Finding you the prompt you deserve.
 **How it used Google:** If Gemini is unavailable, the embedding ranking is used, and if the server is unreachable, the extension falls back to a keyword match in the browser.
 
 Built with gemini, chrome, fastapi, google-oauth
+
+## 2025 winners
 
 ### [KnightSource](https://devpost.com/software/knightsource)
 
@@ -433,6 +435,8 @@ A nursing documentation tool turns captured conversations into structured notes.
 
 [Code](https://github.com/bencullenn/wing-note) · [Demo video](https://www.youtube.com/watch?v=TX3a1ze3Uwk) · Built with gemini, arduino-nano, deepgram, li-po-battery
 
+## 2024 winners
+
 ### [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning)
 
 [ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-arsl-vr-asl-learning) · **Google**
@@ -517,6 +521,8 @@ An accessible white-boarding app to voice your ideas into existence.
 
 [Code](https://github.com/DVidal1205/voiceboard) · Built with gemini, google, next, react
 
+## 2020 winners
+
 ### [The Remote University Experience](https://devpost.com/software/the-remote-university-experience)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-the-remote-university-experience) · **Best use of Google Cloud**
@@ -524,6 +530,8 @@ An accessible white-boarding app to voice your ideas into existence.
 Revolutionizing education, orientations, and the remote college experience for the digital future.
 
 [Code](https://github.com/cindyxu20/hackathon2020) · [Demo video](https://www.youtube.com/watch?v=uE2RPC_NKzs) · Built with google-cloud, css, git, github
+
+## 2019 winners
 
 ### [CounterPoint](https://devpost.com/software/hackmit2019)
 
@@ -543,6 +551,8 @@ Reinventing a touch keyboard with machine learning.
 
 Built with google-cloud, tensorflow
 
+## 2018 winners
+
 ### [Estar Guars](https://devpost.com/software/estar-guars)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-estar-guars) · **VR Zone by Google**
@@ -558,6 +568,8 @@ An intergalactic battle for the ages.
 ViGCam spots active shooters and tracks them through buildings.
 
 [Code](https://github.com/xTEddie/HackMIT2018) · [Demo video](https://www.youtube.com/watch?v=ZCWxii9Kp-k) · Built with django, google-vision, mysql, picam
+
+## 2017 winners
 
 ### [Band Together](https://devpost.com/software/band-together)
 
@@ -586,6 +598,8 @@ The product encrypts QR codes such that, if scanned by someone who is not author
 **How it used Google:** This was built using cloud functions and Firebase as the back end and a Native-react front end.
 
 Built with firebase, crypto, express.js, javascript
+
+## 2016 winners
 
 ### [ColoVR](https://devpost.com/software/colovr)
 
@@ -628,6 +642,8 @@ Built with firebase, arduino, c++, google-cardboard
 VR DJ allows you to visualize and manipulate music.
 
 Built with c#, unity, vive
+
+## 2013 winners
 
 ### [GTAVI](https://devpost.com/software/gtavi)
 

@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Samsara)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (2), android (1), arduino (1), c++ (1), core-location (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2018 winners
 
 ### [Hotspot](https://devpost.com/software/hotspot-i2x0bm)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 A real-time, mobile-based, distributed WiFi heatmap.
 
 [Code](https://github.com/thkim1011/hotspot) · Built with core-location, coremotion, firebase, flask
+
+## 2017 winners
 
 ### [MIT Sorting Hat, Harry Potter Style](https://devpost.com/software/mit-sorting-hat)
 

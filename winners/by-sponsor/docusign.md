@@ -4,6 +4,8 @@
 
 **5 winning projects** · 2 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=DocuSign)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** docusign (4), python (4), html (3), css (2), django (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2019 winners
 
 ### [AgreeAble](https://devpost.com/software/agreeable)
 
@@ -54,6 +54,8 @@ Using Machine Learning to process a person's speech and determine if they are in
 **How it used DocuSign:** The prototype is fully working and designed for future growth, with the integration of DocuSign APIs in order to further collect user data and improve upon the models.
 
 [Code](https://github.com/johancc/LGTM) · Built with docusign, google-cloud, python, rev-ai
+
+## 2018 winners
 
 ### [Sign-Off](https://devpost.com/software/sign-off)
 

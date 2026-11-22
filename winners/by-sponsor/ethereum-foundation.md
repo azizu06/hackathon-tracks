@@ -4,6 +4,8 @@
 
 **4 winning projects** · 1 hackathon · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Ethereum%20Foundation)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** ethereum (3), base (2), next.js (2), react (2), reka (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Covenant](https://devpost.com/software/covenant-onci9q)
 

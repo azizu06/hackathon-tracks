@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Rev)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** javascript (2), python (2), amadeus (1), bash (1), css (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2019 winners
 
 ### [Pilot](https://devpost.com/software/pilot-81xkaf)
 
@@ -26,6 +26,8 @@ Pilot encourages individuals to fill out their mood tracker, and it helps them d
 **How it used Rev:** The team used Watson for sentiment analysis, Rev for speech-to-text, and Amadeus to identify sights and Mapbox and Wikipedia to display information about locations.
 
 [Code](https://github.com/the-flying-circus/hackmit-2019) · Built with rev.ai, amadeus, css, django
+
+## 2018 winners
 
 ### [Team Two Presents: Scribr](https://devpost.com/software/team-two-presents-scribr)
 

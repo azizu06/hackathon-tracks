@@ -4,6 +4,8 @@
 
 **1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Glaive)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** fastapi (1), netlify (1), react.js (1), supabase (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Chit Chart](https://devpost.com/software/chit-chart-f04kn3)
 

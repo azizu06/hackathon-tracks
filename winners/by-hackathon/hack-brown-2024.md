@@ -4,6 +4,8 @@
 
 **6 winning projects** · 6 sponsors · 6 sponsor prizes · [Devpost gallery](https://hack-brown-2024.devpost.com/project-gallery) · [Prize rules](https://hack-brown-2024.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** react (3), typescript (3), css (2), github (2), html (2)
@@ -15,22 +17,52 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [.Tech Domains](../by-sponsor/tech-domains.md) | 1 | Best .Tech Domain Name |
-| [Fidelity](../by-sponsor/fidelity.md) | 1 | Best DEI Hack sponsored by Fidelity |
-| [MongoDB](../by-sponsor/mongodb.md) | 1 | Best Use of MongoDB Atlas |
-| [Schmidt Futures](../by-sponsor/schmidt-futures.md) | 1 | Best Use of AI in Education by Schmidt Futures |
-| [Starknet](../by-sponsor/starknet.md) | 1 | Best Use of Starknet |
-| [Warp](../by-sponsor/warp.md) | 1 | Best Developer Tool sponsored by Warp |
+| [.Tech Domains](../by-sponsor/tech-domains.md) | 1 | [Best .Tech Domain Name](#tech-domains-winners) |
+| [Fidelity](../by-sponsor/fidelity.md) | 1 | [Best DEI Hack sponsored by Fidelity](#fidelity-winners) |
+| [MongoDB](../by-sponsor/mongodb.md) | 1 | [Best Use of MongoDB Atlas](#mongodb-winners) |
+| [Schmidt Futures](../by-sponsor/schmidt-futures.md) | 1 | [Best Use of AI in Education by Schmidt Futures](#schmidt-futures-winners) |
+| [Starknet](../by-sponsor/starknet.md) | 1 | [Best Use of Starknet](#starknet-winners) |
+| [Warp](../by-sponsor/warp.md) | 1 | [Best Developer Tool sponsored by Warp](#warp-winners) |
 
-## Winning projects
+## Winners by sponsor track
 
-Projects that won more than one sponsor prize come first.
+### .Tech Domains winners
+
+**Track:** Best .Tech Domain Name · [All .Tech Domains winners](../by-sponsor/tech-domains.md)
+
+<a name="project-telephoto"></a>
+
+#### [TelePhoto](https://devpost.com/software/telephoto)
+
+[.Tech Domains](../by-sponsor/tech-domains.md) · **Best .Tech Domain Name**
+
+After your guess on what the image represents, a gallery will be presented with the history of all past players before you.
+
+[Code](https://github.com/NuoWenLei/ai-image-telephone) · Built with firebase, getimg.ai, github, google-cloud
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** firebase, getimg.ai, github, google-cloud, next.js, node.js, react.js, tailwind, vercel
+- **Code:** [Source 1](https://github.com/NuoWenLei/ai-image-telephone)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Best .Tech Domain Name
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Fidelity winners
+
+**Track:** Best DEI Hack sponsored by Fidelity · [All Fidelity winners](../by-sponsor/fidelity.md)
 
 <a name="project-bathrooms-brown"></a>
 
-### [Bathrooms @ Brown](https://devpost.com/software/bathrooms-brown)
+#### [Bathrooms @ Brown](https://devpost.com/software/bathrooms-brown)
 
 [Fidelity](../by-sponsor/fidelity.md) · **Best DEI Hack sponsored by Fidelity**
 
@@ -51,9 +83,13 @@ Helping everyone at Brown find the perfect bathroom &lt;3.
 
 </details>
 
+### MongoDB winners
+
+**Track:** Best Use of MongoDB Atlas · [All MongoDB winners](../by-sponsor/mongodb.md)
+
 <a name="project-blank-space-s40j1g"></a>
 
-### [blank&#91;space&#93;](https://devpost.com/software/blank-space-s40j1g)
+#### [blank&#91;space&#93;](https://devpost.com/software/blank-space-s40j1g)
 
 [MongoDB](../by-sponsor/mongodb.md) · **Best Use of MongoDB Atlas**
 
@@ -74,32 +110,13 @@ After logging in, users are directed to a page requesting the title of the paper
 
 </details>
 
-<a name="project-blockbetchain"></a>
+### Schmidt Futures winners
 
-### [BlockBetChain](https://devpost.com/software/blockbetchain)
-
-[Starknet](../by-sponsor/starknet.md) · **Best Use of Starknet**
-
-Make accountable long-term wagers using the blockchain.
-
-[Code](https://github.com/jahaskell53/starknet-hackathon-3) · Built with starknet, cairo, react, typescript
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** cairo, react, starknet, typescript
-- **Code:** [Source 1](https://github.com/jahaskell53/starknet-hackathon-3)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Best Use of Starknet
-- **How it used Starknet:** The team also used React and the React-Starknet library to create a friendly user interface for interacting and viewing these contracts.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best Use of AI in Education by Schmidt Futures · [All Schmidt Futures winners](../by-sponsor/schmidt-futures.md)
 
 <a name="project-dlm"></a>
 
-### [Bruno](https://devpost.com/software/dlm)
+#### [Bruno](https://devpost.com/software/dlm)
 
 [Schmidt Futures](../by-sponsor/schmidt-futures.md) · **Best Use of AI in Education by Schmidt Futures**
 
@@ -120,9 +137,40 @@ Built with chatgpt, dspy, openai, python
 
 </details>
 
+### Starknet winners
+
+**Track:** Best Use of Starknet · [All Starknet winners](../by-sponsor/starknet.md)
+
+<a name="project-blockbetchain"></a>
+
+#### [BlockBetChain](https://devpost.com/software/blockbetchain)
+
+[Starknet](../by-sponsor/starknet.md) · **Best Use of Starknet**
+
+Make accountable long-term wagers using the blockchain.
+
+[Code](https://github.com/jahaskell53/starknet-hackathon-3) · Built with starknet, cairo, react, typescript
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** cairo, react, starknet, typescript
+- **Code:** [Source 1](https://github.com/jahaskell53/starknet-hackathon-3)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Best Use of Starknet
+- **How it used Starknet:** The team also used React and the React-Starknet library to create a friendly user interface for interacting and viewing these contracts.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Warp winners
+
+**Track:** Best Developer Tool sponsored by Warp · [All Warp winners](../by-sponsor/warp.md)
+
 <a name="project-napkin-ymh5f4"></a>
 
-### [Napkin AI](https://devpost.com/software/napkin-ymh5f4)
+#### [Napkin AI](https://devpost.com/software/napkin-ymh5f4)
 
 [Warp](../by-sponsor/warp.md) · **Best Developer Tool sponsored by Warp**
 
@@ -139,28 +187,6 @@ A devtool for understanding codebases faster and easier.
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Developer Tool sponsored by Warp
 - **How it used Warp:** Napkin is a graph retrieval-augmented generation tool that converts a codebase into a knowledge graph containing detailed relationships between all files, functions, and classes.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-telephoto"></a>
-
-### [TelePhoto](https://devpost.com/software/telephoto)
-
-[.Tech Domains](../by-sponsor/tech-domains.md) · **Best .Tech Domain Name**
-
-After your guess on what the image represents, a gallery will be presented with the history of all past players before you.
-
-[Code](https://github.com/NuoWenLei/ai-image-telephone) · Built with firebase, getimg.ai, github, google-cloud
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** firebase, getimg.ai, github, google-cloud, next.js, node.js, react.js, tailwind, vercel
-- **Code:** [Source 1](https://github.com/NuoWenLei/ai-image-telephone)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Best .Tech Domain Name
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -4,6 +4,8 @@
 
 **11 winning projects** · 7 hackathons · 11 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Groq)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** groq (11), python (6), typescript (5), fastapi (4), next.js (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [AERIS: Autonomous Emergency Response &amp; Intelligence System](https://devpost.com/software/aeris-ej7d9k)
 
@@ -78,6 +78,8 @@ SpeakEasy gives nonverbal users a voice. Built on Snap Spectacles, it detects th
 **How it used Groq:** The team integrated Gemini’s object detection model to understand the user’s surroundings and ran it through Groq for ultra-fast language generation.
 
 [Code](https://github.com/ammiellewb/SpeakEasy-public) · [Demo video](https://www.youtube.com/watch?v=8TX48L2IG18) · Built with groq, bluetooth, gemini, lensstudio
+
+## 2024 winners
 
 ### [3D Print a Picture](https://devpost.com/software/3d-print-a-picture)
 

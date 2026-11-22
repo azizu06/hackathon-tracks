@@ -4,6 +4,8 @@
 
 **17 winning projects** · 3 hackathons · 17 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Spacetime)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** spacetimedb (17), typescript (15), node.js (10), react (10), python (9)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Aegis](https://devpost.com/software/lantern-8o9akp)
 

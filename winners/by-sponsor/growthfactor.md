@@ -4,6 +4,8 @@
 
 **5 winning projects** · 2 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=GrowthFactor)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (5), css (2), html (2), javascript (2), react (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [CitySpot](https://devpost.com/software/cityspot)
 
@@ -32,6 +32,8 @@ CitySpot uses deep learning on satellite imagery to detect and map every parking
 North Star that guides retailers to their best location.
 
 [Code](https://github.com/V-prajit/Polaris) · [Demo video](https://www.youtube.com/watch?v=zUk49IYrOuw) · Built with fastapi, python, react, vultr
+
+## 2025 winners
 
 ### [StoreFront Visibility](https://devpost.com/software/storefront-visibility-unik9v)
 

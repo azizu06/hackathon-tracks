@@ -4,6 +4,8 @@
 
 **22 winning projects** · 15 sponsors · 22 sponsor prizes · [Devpost gallery](https://mhacks-2024.devpost.com/project-gallery) · [Prize rules](https://mhacks-2024.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (12), flask (9), react (9), groq (4), javascript (4)
@@ -15,122 +17,35 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [BoundaryML](../by-sponsor/boundaryml.md) | 2 | Best use of LLM Agents; Best use of Agents using BAML |
-| [Cartesia](../by-sponsor/cartesia.md) | 1 | Best Use of Sonic |
-| [Cat Digital](../by-sponsor/cat-digital.md) | 2 | Best Cloud Implementation; Best Use of API |
-| [Fidelity](../by-sponsor/fidelity.md) | 1 | Best DEI Hack sponsored by Fidelity |
-| [FREE-WILi](../by-sponsor/free-wili.md) | 1 | Best Use of Free-WILi |
-| [Google](../by-sponsor/google.md) | 3 | 1st Place Best Google AI Breadboard Application; 2nd Place Best Google AI Breadboard Application; 3nd Place Best Google… |
-| [Groq](../by-sponsor/groq.md) | 1 | Best App Built on Groq |
-| [Intel](../by-sponsor/intel.md) | 3 | 1st Place Best Use of Intel AI; 2st Place Best Use of Intel AI; 3st Place Best Use of Intel AI |
-| [Magic Loops](../by-sponsor/magic-loops.md) | 1 | Best use of Generative UI |
-| [MathWorks](../by-sponsor/mathworks.md) | 1 | Best use of MATLAB |
-| [Midnight](../by-sponsor/midnight.md) | 1 | Best use of Midnight |
-| [MongoDB](../by-sponsor/mongodb.md) | 1 | Best use of MongoDB Atlas |
-| [Roboflow](../by-sponsor/roboflow.md) | 1 | Best Use of Roboflow Workflows |
-| [Streamlit](../by-sponsor/streamlit.md) | 1 | Best use of Streamlit |
-| [Warp](../by-sponsor/warp.md) | 2 | Best Developer Tool; Honorable Mention Best Developer Tool |
+| [BoundaryML](../by-sponsor/boundaryml.md) | 2 | [Best use of LLM Agents; Best use of Agents using BAML](#boundaryml-winners) |
+| [Cartesia](../by-sponsor/cartesia.md) | 1 | [Best Use of Sonic](#cartesia-winners) |
+| [Cat Digital](../by-sponsor/cat-digital.md) | 2 | [Best Cloud Implementation; Best Use of API](#cat-digital-winners) |
+| [Fidelity](../by-sponsor/fidelity.md) | 1 | [Best DEI Hack sponsored by Fidelity](#fidelity-winners) |
+| [FREE-WILi](../by-sponsor/free-wili.md) | 1 | [Best Use of Free-WILi](#free-wili-winners) |
+| [Google](../by-sponsor/google.md) | 3 | [1st Place Best Google AI Breadboard Application; 2nd Place Best Google AI Breadboard Application; 3nd Place Best Google…](#google-winners) |
+| [Groq](../by-sponsor/groq.md) | 1 | [Best App Built on Groq](#groq-winners) |
+| [Intel](../by-sponsor/intel.md) | 3 | [1st Place Best Use of Intel AI; 2st Place Best Use of Intel AI; 3st Place Best Use of Intel AI](#intel-winners) |
+| [Magic Loops](../by-sponsor/magic-loops.md) | 1 | [Best use of Generative UI](#magic-loops-winners) |
+| [MathWorks](../by-sponsor/mathworks.md) | 1 | [Best use of MATLAB](#mathworks-winners) |
+| [Midnight](../by-sponsor/midnight.md) | 1 | [Best use of Midnight](#midnight-winners) |
+| [MongoDB](../by-sponsor/mongodb.md) | 1 | [Best use of MongoDB Atlas](#mongodb-winners) |
+| [Roboflow](../by-sponsor/roboflow.md) | 1 | [Best Use of Roboflow Workflows](#roboflow-winners) |
+| [Streamlit](../by-sponsor/streamlit.md) | 1 | [Best use of Streamlit](#streamlit-winners) |
+| [Warp](../by-sponsor/warp.md) | 2 | [Best Developer Tool; Honorable Mention Best Developer Tool](#warp-winners) |
 
-## Winning projects
+## Winners by sponsor track
 
-Projects that won more than one sponsor prize come first.
+### BoundaryML winners
 
-<a name="project-aidj"></a>
-
-### [AIDJ](https://devpost.com/software/aidj)
-
-[Intel](../by-sponsor/intel.md) · **1st Place Best Use of Intel AI**
-
-AI-powered DJ: Enhancing live performances by analyzing crowd energy and adjusting music in real-time to match the vibe.
-
-[Code](https://github.com/tesims/mhacks) · Built with flask, mangodb, openvino
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** flask, mangodb, openvino
-- **Code:** [Source 1](https://github.com/tesims/mhacks)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Intel - 1st Place Best Use of Intel AI
-- **How it used Intel:** Switching from a landmark detection model to a pre-trained video model taught the team how to pivot when things don’t go as planned.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-atom-seiko"></a>
-
-### [Atom Seiko](https://devpost.com/software/atom-seiko)
-
-[Google](../by-sponsor/google.md) · **1st Place Best Google AI Breadboard Application**
-
-Atom Suika is an innovative merge dropper chemistry learning experience. It uses an AI backend to power the NPC agents in the game and Mongo databases to store infinite amounts of chemical combos.
-
-[Code](https://github.com/evelynpa1/AtomSeiko) · Built with breadboard, mongodb, node.js, unity
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** breadboard, mongodb, node.js, unity
-- **Code:** [Source 1](https://github.com/evelynpa1/AtomSeiko)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Google - 1st Place Best Google AI Breadboard Application
-- **How it used Google:** The game allows students to play a merge dropper game but in a fun and educational way.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-boogie-battle"></a>
-
-### [Boogie Battle](https://devpost.com/software/boogie-battle)
-
-[Cartesia](../by-sponsor/cartesia.md) · **Best Use of Sonic**
-
-Dive into intense 3D dance-offs! Use simple gestures to animate a 3D version of yourself performing insane breakdance moves and challenge friends side by side.
-
-[Code](https://github.com/ishaan-arya/boogie-battle) · [Demo video](https://www.youtube.com/watch?v=Jslk5cH8ezo) · Built with cartesia, c#, groq, opencv
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** c#, cartesia, groq, opencv, python, unity
-- **Code:** [Source 1](https://github.com/ishaan-arya/boogie-battle) · [Source 2](https://github.com/shxjames/motion_capture_commentator)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Jslk5cH8ezo)
-- **All prizes at this hackathon (1):** Cartesia - Best Use of Sonic
-- **How it used Cartesia:** The project lists cartesia among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-cascade-xrfscu"></a>
-
-### [Cascade](https://devpost.com/software/cascade-xrfscu)
-
-[Magic Loops](../by-sponsor/magic-loops.md) · **Best use of Generative UI**
-
-Cascade provides a sleek, efficient interface for practicing CSS.
-
-[Code](https://github.com/albonwu/cascade) · [Demo video](https://www.youtube.com/watch?v=BapICN7GPYI) · Built with breadboard, flask, itdc, mongodb
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** breadboard, flask, itdc, mongodb, next.js
-- **Code:** [Source 1](https://github.com/albonwu/cascade)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=BapICN7GPYI)
-- **All prizes at this hackathon (1):** Magic Loops - Best use of Generative UI
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best use of LLM Agents; Best use of Agents using BAML · [All BoundaryML winners](../by-sponsor/boundaryml.md)
 
 <a name="project-cyberwright"></a>
 
-### [Cyberwright](https://devpost.com/software/cyberwright)
+#### [Cyberwright](https://devpost.com/software/cyberwright)
 
 [BoundaryML](../by-sponsor/boundaryml.md) · **Best use of LLM Agents**
 
@@ -151,213 +66,9 @@ Cybersecurity done right. Cyberwright leverages AI to automate the process of id
 
 </details>
 
-<a name="project-dynamic-load-balancing-for-energy-efficient-cloud-computing"></a>
-
-### [Dynamic Load Balancing for Energy-Efficient Cloud Computing](https://devpost.com/software/dynamic-load-balancing-for-energy-efficient-cloud-computing)
-
-[Streamlit](../by-sponsor/streamlit.md) · **Best use of Streamlit**
-
-The team use this metric to weight the load-balancing algorithm so that it optimizes for renewable energy.
-
-[Code](https://github.com/rohitramaswamy/mhacks) · [Demo video](https://www.youtube.com/watch?v=MJQIQJYxey4) · Built with streamlit, github, json, keras
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** github, json, keras, numpy, openmeteo-requests, pandas, python, pytz, requests, scikit-learn, scipy, streamlit, tensorflow
-- **Code:** [Source 1](https://github.com/rohitramaswamy/mhacks)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=MJQIQJYxey4)
-- **All prizes at this hackathon (1):** MLH - Best use of Streamlit
-- **How it used Streamlit:** The team chose a Python-Streamlit frontend due to its variety of input and output widgets, which provide a high degree of user interaction.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-easy-ablls-r"></a>
-
-### [Easy ABLLS-R](https://devpost.com/software/easy-ablls-r)
-
-[Cat Digital](../by-sponsor/cat-digital.md) · **Best Cloud Implementation**
-
-Making ABLLS-R assessments easier for behavioral clinicians who provide therapy to individuals with autism.
-
-Built with amazon-web-services, css, html, javascript
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** amazon-web-services, css, html, javascript, react
-- **Code:** None listed.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** CAT Digital - Best Cloud Implementation
-- **How it used Cat Digital:** Easy ABLLS-R is a software solution designed to streamline the input of data into the ABLLS-R chart.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-ensemble-e8gxja"></a>
-
-### [Ensemble](https://devpost.com/software/ensemble-e8gxja)
-
-[Warp](../by-sponsor/warp.md) · **Best Developer Tool**
-
-A hierarchal multi-agent framework built from scratch. Transforms complex goals into subproblems, that are dynamically assigned to specialized agents, boosting productivity and lowering cost.
-
-[Code](https://github.com/slainhedden/mhacks-ensemble) · [Demo video](https://www.youtube.com/watch?v=LuE2RwMGqi4) · Built with amazon-web-services, docker, json, openai
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** amazon-web-services, docker, json, openai, python
-- **Code:** [Source 1](https://github.com/slainhedden/mhacks-ensemble)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=LuE2RwMGqi4)
-- **All prizes at this hackathon (1):** Warp - Best Developer Tool
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-foundai"></a>
-
-### [FoundAI](https://devpost.com/software/foundai)
-
-[MongoDB](../by-sponsor/mongodb.md) · **Best use of MongoDB Atlas**
-
-Revolutionizing the campuses' lost and found with smart image recognition.
-
-[Code](https://github.com/g3npar/FoundAI) · Built with mongodb, amazon-web-services, flask, html5
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** amazon-web-services, flask, html5, javascript, mongodb, python, pytorch, react, restapi, s3
-- **Code:** [Source 1](https://github.com/g3npar/FoundAI)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** MLH - Best use of MongoDB Atlas
-- **How it used MongoDB:** The project lists mongodb among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-genhint"></a>
-
-### [GenHint](https://devpost.com/software/genhint)
-
-[Warp](../by-sponsor/warp.md) · **Honorable Mention Best Developer Tool**
-
-Review : Once your code is complete, GenHint reviews it, checking for accuracy and best practices, giving you feedback to ensure your code is indeed working.
-
-[Code](https://github.com/zichenzhang04/GenHint) · [Demo video](https://www.youtube.com/watch?v=72yeRx4773o) · Built with warp, azure, git, github
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** azure, git, github, groq, javascript, json, llama3, llm, microsoft, node.js, typescript, vscode, warp
-- **Code:** [Source 1](https://github.com/zichenzhang04/GenHint)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=72yeRx4773o)
-- **All prizes at this hackathon (1):** Warp - Honorable Mention Best Developer Tool
-- **How it used Warp:** The project lists warp among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-healthcare-helper"></a>
-
-### [Healthcare Helper](https://devpost.com/software/healthcare-helper)
-
-[Google](../by-sponsor/google.md) · **2nd Place Best Google AI Breadboard Application**
-
-The doctor can view this before a patient visit and gain more information to better and more efficiently help the patient.
-
-[Code](https://github.com/qwopp/healthcare-helper) · [Demo video](https://www.youtube.com/watch?v=JMK3KGh9Wr8) · Built with cartesia-sonic, flask, google-ai-breadboard, html
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** cartesia-sonic, flask, google-ai-breadboard, html, python, react, sqlite
-- **Code:** [Source 1](https://github.com/qwopp/healthcare-helper)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=JMK3KGh9Wr8)
-- **All prizes at this hackathon (1):** Google - 2nd Place Best Google AI Breadboard Application
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-monotor"></a>
-
-### [monotor](https://devpost.com/software/monotor)
-
-[Midnight](../by-sponsor/midnight.md) · **Best use of Midnight**
-
-monitoring dashboards, uniquely effective to each problem.
-
-[Demo video](https://www.youtube.com/watch?v=HIYSX7clnl8) · Built with typescript
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** typescript
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=HIYSX7clnl8)
-- **All prizes at this hackathon (1):** MLH - Best use of Midnight
-- **How it used Midnight:** MonoMonitor integrates multiple development platforms such as Vercel and GitHub, fetching and displaying logs in real-time.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-osulation"></a>
-
-### [osulation!](https://devpost.com/software/osulation)
-
-[Roboflow](../by-sponsor/roboflow.md) · **Best Use of Roboflow Workflows**
-
-If the Wii taught the team anything, it’s that flailing your arms around is fun.
-
-[Code](https://github.com/elise-yz/osulation) · [Demo video](https://www.youtube.com/watch?v=K2KA6qnFeVE) · Built with roboflow, matlab, streamlit
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** matlab, roboflow, streamlit
-- **Code:** [Source 1](https://github.com/elise-yz/osulation)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=K2KA6qnFeVE)
-- **All prizes at this hackathon (1):** Roboflow - Best Use of Roboflow Workflows
-- **How it used Roboflow:** The team then used Roboflow to train a model on this dataset, achieving an mAP of 0.995 over 200 epochs.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-plaite"></a>
-
-### [plaite](https://devpost.com/software/plaite)
-
-[Intel](../by-sponsor/intel.md) · **2st Place Best Use of Intel AI**
-
-The webcam will recognize food that is in frame (using a Computer Vision model) and label it.
-
-[Code](https://github.com/Orbital-Web/plaite) · [Demo video](https://www.youtube.com/watch?v=ODBwwHjMowQ) · Built with openai, python, streamlit, usda-nutrition-data
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** openai, python, streamlit, usda-nutrition-data
-- **Code:** [Source 1](https://github.com/Orbital-Web/plaite)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=ODBwwHjMowQ)
-- **All prizes at this hackathon (1):** Intel - 2st Place Best Use of Intel AI
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-fixplz-ai"></a>
 
-### [plzfix.ai](https://devpost.com/software/fixplz-ai)
+#### [plzfix.ai](https://devpost.com/software/fixplz-ai)
 
 [BoundaryML](../by-sponsor/boundaryml.md) · **Best use of Agents using BAML**
 
@@ -378,32 +89,63 @@ PlzFix.ai is an all-in-one AI platform designed to provide devs with tailored an
 
 </details>
 
-<a name="project-poker-face"></a>
+### Cartesia winners
 
-### [Poker Face](https://devpost.com/software/poker-face)
+**Track:** Best Use of Sonic · [All Cartesia winners](../by-sponsor/cartesia.md)
 
-[Google](../by-sponsor/google.md) · **3nd Place Best Google AI Breadboard Application**
+<a name="project-boogie-battle"></a>
 
-Democratizing pro-level Poker play in real-time with computer vision.
+#### [Boogie Battle](https://devpost.com/software/boogie-battle)
 
-[Demo video](https://www.youtube.com/watch?v=RsqhOLFsGEw) · Built with gemini, async-storage, endpoint-api, fastapi
+[Cartesia](../by-sponsor/cartesia.md) · **Best Use of Sonic**
+
+Dive into intense 3D dance-offs! Use simple gestures to animate a 3D version of yourself performing insane breakdance moves and challenge friends side by side.
+
+[Code](https://github.com/ishaan-arya/boogie-battle) · [Demo video](https://www.youtube.com/watch?v=Jslk5cH8ezo) · Built with cartesia, c#, groq, opencv
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** async-storage, endpoint-api, fastapi, firestore, flask, gemini, google-breadboard, open-cv, react, react-native, sse, streaming, web-socket, yolov8
-- **Code:** Listed on Devpost but not verified.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=RsqhOLFsGEw)
-- **All prizes at this hackathon (1):** Google - 3nd Place Best Google AI Breadboard Application
-- **How it used Google:** The project lists gemini among its Built With tags.
+- **Built with:** c#, cartesia, groq, opencv, python, unity
+- **Code:** [Source 1](https://github.com/ishaan-arya/boogie-battle) · [Source 2](https://github.com/shxjames/motion_capture_commentator)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Jslk5cH8ezo)
+- **All prizes at this hackathon (1):** Cartesia - Best Use of Sonic
+- **How it used Cartesia:** The project lists cartesia among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Cat Digital winners
+
+**Track:** Best Cloud Implementation; Best Use of API · [All Cat Digital winners](../by-sponsor/cat-digital.md)
+
+<a name="project-easy-ablls-r"></a>
+
+#### [Easy ABLLS-R](https://devpost.com/software/easy-ablls-r)
+
+[Cat Digital](../by-sponsor/cat-digital.md) · **Best Cloud Implementation**
+
+Making ABLLS-R assessments easier for behavioral clinicians who provide therapy to individuals with autism.
+
+Built with amazon-web-services, css, html, javascript
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** amazon-web-services, css, html, javascript, react
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** CAT Digital - Best Cloud Implementation
+- **How it used Cat Digital:** Easy ABLLS-R is a software solution designed to streamline the input of data into the ABLLS-R chart.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-predicterminal"></a>
 
-### [predicTerminal](https://devpost.com/software/predicterminal)
+#### [predicTerminal](https://devpost.com/software/predicterminal)
 
 [Cat Digital](../by-sponsor/cat-digital.md) · **Best Use of API**
 
@@ -424,78 +166,13 @@ The Bloomberg Terminal of Prediction Markets.
 
 </details>
 
-<a name="project-solarvista"></a>
+### Fidelity winners
 
-### [SolarVista](https://devpost.com/software/solarvista)
-
-[MathWorks](../by-sponsor/mathworks.md) · **Best use of MATLAB**
-
-Empowering Communities with Data-Driven Solar Solutions.
-
-[Demo video](https://www.youtube.com/watch?v=PxOkQkR-ghM) · Built with apis, css3, flask, html5
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** apis, css3, flask, html5, llm, nextjs, python, supabase, typescript, vercel
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=PxOkQkR-ghM)
-- **All prizes at this hackathon (1):** MLH - Best use of MATLAB
-- **How it used MathWorks:** A platform designed to help NGOs, governments, and energy planners identify optimal locations for solar power installations in areas with high .
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-songchaser"></a>
-
-### [SongChaser](https://devpost.com/software/songchaser)
-
-[Intel](../by-sponsor/intel.md) · **3st Place Best Use of Intel AI**
-
-Search for the song on the tip of your tongue.
-
-[Demo video](https://www.youtube.com/watch?v=70ziSQVSEqI) · Built with bootstrap, flask, mongodb, node.js
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** bootstrap, flask, mongodb, node.js, react, scikit-learn, spotifyapi
-- **Code:** Listed on Devpost but not verified.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=70ziSQVSEqI)
-- **All prizes at this hackathon (1):** Intel - 3st Place Best Use of Intel AI
-- **How it used Intel:** This was built using Intel AI PCs, with the remote desktop.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-wili-watch"></a>
-
-### [The WiLi Watch](https://devpost.com/software/wili-watch)
-
-[Groq](../by-sponsor/groq.md) · **Best App Built on Groq**
-
-The WiLi Watch is an innovative, interactive wearable wristband designed to enable voice-activated control over various smart home functions, particularly benefiting movement-impaired individuals.
-
-[Code](https://github.com/ethanmckean/The-WiLi-Watch-mhacks24) · [Demo video](https://www.youtube.com/watch?v=UYSAEgx3lSQ) · Built with groq, arduino-nano, cartesia, freewili
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** arduino-nano, cartesia, freewili, groq, llama, orange-pi, python, whisper
-- **Code:** [Source 1](https://github.com/ethanmckean/The-WiLi-Watch-mhacks24)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=UYSAEgx3lSQ)
-- **All prizes at this hackathon (1):** Groq - Best App Built on Groq
-- **How it used Groq:** The project lists groq among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best DEI Hack sponsored by Fidelity · [All Fidelity winners](../by-sponsor/fidelity.md)
 
 <a name="project-visa-friend"></a>
 
-### [Visa Friend](https://devpost.com/software/visa-friend)
+#### [Visa Friend](https://devpost.com/software/visa-friend)
 
 [Fidelity](../by-sponsor/fidelity.md) · **Best DEI Hack sponsored by Fidelity**
 
@@ -516,9 +193,13 @@ An AI-backed solution for improving the U.S. visa experience for non-English-spe
 
 </details>
 
+### FREE-WILi winners
+
+**Track:** Best Use of Free-WILi · [All FREE-WILi winners](../by-sponsor/free-wili.md)
+
 <a name="project-wili-party"></a>
 
-### [Wili-Party](https://devpost.com/software/wili-party)
+#### [Wili-Party](https://devpost.com/software/wili-party)
 
 [FREE-WILi](../by-sponsor/free-wili.md) · **Best Use of Free-WILi**
 
@@ -534,6 +215,387 @@ Gives users the ability to play four 1v1 games.
 - **Code:** None listed.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7VzAm0KVVoo)
 - **All prizes at this hackathon (1):** Free-WILi - Best Use of Free-WILi
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Google winners
+
+**Track:** 1st Place Best Google AI Breadboard Application; 2nd Place Best Google AI Breadboard Application; 3nd Place Best Google AI Breadboard Application · [All Google winners](../by-sponsor/google.md)
+
+<a name="project-atom-seiko"></a>
+
+#### [Atom Seiko](https://devpost.com/software/atom-seiko)
+
+[Google](../by-sponsor/google.md) · **1st Place Best Google AI Breadboard Application**
+
+Atom Suika is an innovative merge dropper chemistry learning experience. It uses an AI backend to power the NPC agents in the game and Mongo databases to store infinite amounts of chemical combos.
+
+[Code](https://github.com/evelynpa1/AtomSeiko) · Built with breadboard, mongodb, node.js, unity
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** breadboard, mongodb, node.js, unity
+- **Code:** [Source 1](https://github.com/evelynpa1/AtomSeiko)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Google - 1st Place Best Google AI Breadboard Application
+- **How it used Google:** The game allows students to play a merge dropper game but in a fun and educational way.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-healthcare-helper"></a>
+
+#### [Healthcare Helper](https://devpost.com/software/healthcare-helper)
+
+[Google](../by-sponsor/google.md) · **2nd Place Best Google AI Breadboard Application**
+
+The doctor can view this before a patient visit and gain more information to better and more efficiently help the patient.
+
+[Code](https://github.com/qwopp/healthcare-helper) · [Demo video](https://www.youtube.com/watch?v=JMK3KGh9Wr8) · Built with cartesia-sonic, flask, google-ai-breadboard, html
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** cartesia-sonic, flask, google-ai-breadboard, html, python, react, sqlite
+- **Code:** [Source 1](https://github.com/qwopp/healthcare-helper)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=JMK3KGh9Wr8)
+- **All prizes at this hackathon (1):** Google - 2nd Place Best Google AI Breadboard Application
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-poker-face"></a>
+
+#### [Poker Face](https://devpost.com/software/poker-face)
+
+[Google](../by-sponsor/google.md) · **3nd Place Best Google AI Breadboard Application**
+
+Democratizing pro-level Poker play in real-time with computer vision.
+
+[Demo video](https://www.youtube.com/watch?v=RsqhOLFsGEw) · Built with gemini, async-storage, endpoint-api, fastapi
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** async-storage, endpoint-api, fastapi, firestore, flask, gemini, google-breadboard, open-cv, react, react-native, sse, streaming, web-socket, yolov8
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=RsqhOLFsGEw)
+- **All prizes at this hackathon (1):** Google - 3nd Place Best Google AI Breadboard Application
+- **How it used Google:** The project lists gemini among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Groq winners
+
+**Track:** Best App Built on Groq · [All Groq winners](../by-sponsor/groq.md)
+
+<a name="project-wili-watch"></a>
+
+#### [The WiLi Watch](https://devpost.com/software/wili-watch)
+
+[Groq](../by-sponsor/groq.md) · **Best App Built on Groq**
+
+The WiLi Watch is an innovative, interactive wearable wristband designed to enable voice-activated control over various smart home functions, particularly benefiting movement-impaired individuals.
+
+[Code](https://github.com/ethanmckean/The-WiLi-Watch-mhacks24) · [Demo video](https://www.youtube.com/watch?v=UYSAEgx3lSQ) · Built with groq, arduino-nano, cartesia, freewili
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** arduino-nano, cartesia, freewili, groq, llama, orange-pi, python, whisper
+- **Code:** [Source 1](https://github.com/ethanmckean/The-WiLi-Watch-mhacks24)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=UYSAEgx3lSQ)
+- **All prizes at this hackathon (1):** Groq - Best App Built on Groq
+- **How it used Groq:** The project lists groq among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Intel winners
+
+**Track:** 1st Place Best Use of Intel AI; 2st Place Best Use of Intel AI; 3st Place Best Use of Intel AI · [All Intel winners](../by-sponsor/intel.md)
+
+<a name="project-aidj"></a>
+
+#### [AIDJ](https://devpost.com/software/aidj)
+
+[Intel](../by-sponsor/intel.md) · **1st Place Best Use of Intel AI**
+
+AI-powered DJ: Enhancing live performances by analyzing crowd energy and adjusting music in real-time to match the vibe.
+
+[Code](https://github.com/tesims/mhacks) · Built with flask, mangodb, openvino
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** flask, mangodb, openvino
+- **Code:** [Source 1](https://github.com/tesims/mhacks)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Intel - 1st Place Best Use of Intel AI
+- **How it used Intel:** Switching from a landmark detection model to a pre-trained video model taught the team how to pivot when things don’t go as planned.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-plaite"></a>
+
+#### [plaite](https://devpost.com/software/plaite)
+
+[Intel](../by-sponsor/intel.md) · **2st Place Best Use of Intel AI**
+
+The webcam will recognize food that is in frame (using a Computer Vision model) and label it.
+
+[Code](https://github.com/Orbital-Web/plaite) · [Demo video](https://www.youtube.com/watch?v=ODBwwHjMowQ) · Built with openai, python, streamlit, usda-nutrition-data
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** openai, python, streamlit, usda-nutrition-data
+- **Code:** [Source 1](https://github.com/Orbital-Web/plaite)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=ODBwwHjMowQ)
+- **All prizes at this hackathon (1):** Intel - 2st Place Best Use of Intel AI
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-songchaser"></a>
+
+#### [SongChaser](https://devpost.com/software/songchaser)
+
+[Intel](../by-sponsor/intel.md) · **3st Place Best Use of Intel AI**
+
+Search for the song on the tip of your tongue.
+
+[Demo video](https://www.youtube.com/watch?v=70ziSQVSEqI) · Built with bootstrap, flask, mongodb, node.js
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** bootstrap, flask, mongodb, node.js, react, scikit-learn, spotifyapi
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=70ziSQVSEqI)
+- **All prizes at this hackathon (1):** Intel - 3st Place Best Use of Intel AI
+- **How it used Intel:** This was built using Intel AI PCs, with the remote desktop.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Magic Loops winners
+
+**Track:** Best use of Generative UI · [All Magic Loops winners](../by-sponsor/magic-loops.md)
+
+<a name="project-cascade-xrfscu"></a>
+
+#### [Cascade](https://devpost.com/software/cascade-xrfscu)
+
+[Magic Loops](../by-sponsor/magic-loops.md) · **Best use of Generative UI**
+
+Cascade provides a sleek, efficient interface for practicing CSS.
+
+[Code](https://github.com/albonwu/cascade) · [Demo video](https://www.youtube.com/watch?v=BapICN7GPYI) · Built with breadboard, flask, itdc, mongodb
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** breadboard, flask, itdc, mongodb, next.js
+- **Code:** [Source 1](https://github.com/albonwu/cascade)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=BapICN7GPYI)
+- **All prizes at this hackathon (1):** Magic Loops - Best use of Generative UI
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### MathWorks winners
+
+**Track:** Best use of MATLAB · [All MathWorks winners](../by-sponsor/mathworks.md)
+
+<a name="project-solarvista"></a>
+
+#### [SolarVista](https://devpost.com/software/solarvista)
+
+[MathWorks](../by-sponsor/mathworks.md) · **Best use of MATLAB**
+
+Empowering Communities with Data-Driven Solar Solutions.
+
+[Demo video](https://www.youtube.com/watch?v=PxOkQkR-ghM) · Built with apis, css3, flask, html5
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** apis, css3, flask, html5, llm, nextjs, python, supabase, typescript, vercel
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=PxOkQkR-ghM)
+- **All prizes at this hackathon (1):** MLH - Best use of MATLAB
+- **How it used MathWorks:** A platform designed to help NGOs, governments, and energy planners identify optimal locations for solar power installations in areas with high .
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Midnight winners
+
+**Track:** Best use of Midnight · [All Midnight winners](../by-sponsor/midnight.md)
+
+<a name="project-monotor"></a>
+
+#### [monotor](https://devpost.com/software/monotor)
+
+[Midnight](../by-sponsor/midnight.md) · **Best use of Midnight**
+
+monitoring dashboards, uniquely effective to each problem.
+
+[Demo video](https://www.youtube.com/watch?v=HIYSX7clnl8) · Built with typescript
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** typescript
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=HIYSX7clnl8)
+- **All prizes at this hackathon (1):** MLH - Best use of Midnight
+- **How it used Midnight:** MonoMonitor integrates multiple development platforms such as Vercel and GitHub, fetching and displaying logs in real-time.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### MongoDB winners
+
+**Track:** Best use of MongoDB Atlas · [All MongoDB winners](../by-sponsor/mongodb.md)
+
+<a name="project-foundai"></a>
+
+#### [FoundAI](https://devpost.com/software/foundai)
+
+[MongoDB](../by-sponsor/mongodb.md) · **Best use of MongoDB Atlas**
+
+Revolutionizing the campuses' lost and found with smart image recognition.
+
+[Code](https://github.com/g3npar/FoundAI) · Built with mongodb, amazon-web-services, flask, html5
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** amazon-web-services, flask, html5, javascript, mongodb, python, pytorch, react, restapi, s3
+- **Code:** [Source 1](https://github.com/g3npar/FoundAI)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** MLH - Best use of MongoDB Atlas
+- **How it used MongoDB:** The project lists mongodb among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Roboflow winners
+
+**Track:** Best Use of Roboflow Workflows · [All Roboflow winners](../by-sponsor/roboflow.md)
+
+<a name="project-osulation"></a>
+
+#### [osulation!](https://devpost.com/software/osulation)
+
+[Roboflow](../by-sponsor/roboflow.md) · **Best Use of Roboflow Workflows**
+
+If the Wii taught the team anything, it’s that flailing your arms around is fun.
+
+[Code](https://github.com/elise-yz/osulation) · [Demo video](https://www.youtube.com/watch?v=K2KA6qnFeVE) · Built with roboflow, matlab, streamlit
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** matlab, roboflow, streamlit
+- **Code:** [Source 1](https://github.com/elise-yz/osulation)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=K2KA6qnFeVE)
+- **All prizes at this hackathon (1):** Roboflow - Best Use of Roboflow Workflows
+- **How it used Roboflow:** The team then used Roboflow to train a model on this dataset, achieving an mAP of 0.995 over 200 epochs.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Streamlit winners
+
+**Track:** Best use of Streamlit · [All Streamlit winners](../by-sponsor/streamlit.md)
+
+<a name="project-dynamic-load-balancing-for-energy-efficient-cloud-computing"></a>
+
+#### [Dynamic Load Balancing for Energy-Efficient Cloud Computing](https://devpost.com/software/dynamic-load-balancing-for-energy-efficient-cloud-computing)
+
+[Streamlit](../by-sponsor/streamlit.md) · **Best use of Streamlit**
+
+The team use this metric to weight the load-balancing algorithm so that it optimizes for renewable energy.
+
+[Code](https://github.com/rohitramaswamy/mhacks) · [Demo video](https://www.youtube.com/watch?v=MJQIQJYxey4) · Built with streamlit, github, json, keras
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** github, json, keras, numpy, openmeteo-requests, pandas, python, pytz, requests, scikit-learn, scipy, streamlit, tensorflow
+- **Code:** [Source 1](https://github.com/rohitramaswamy/mhacks)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=MJQIQJYxey4)
+- **All prizes at this hackathon (1):** MLH - Best use of Streamlit
+- **How it used Streamlit:** The team chose a Python-Streamlit frontend due to its variety of input and output widgets, which provide a high degree of user interaction.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Warp winners
+
+**Track:** Best Developer Tool; Honorable Mention Best Developer Tool · [All Warp winners](../by-sponsor/warp.md)
+
+<a name="project-ensemble-e8gxja"></a>
+
+#### [Ensemble](https://devpost.com/software/ensemble-e8gxja)
+
+[Warp](../by-sponsor/warp.md) · **Best Developer Tool**
+
+A hierarchal multi-agent framework built from scratch. Transforms complex goals into subproblems, that are dynamically assigned to specialized agents, boosting productivity and lowering cost.
+
+[Code](https://github.com/slainhedden/mhacks-ensemble) · [Demo video](https://www.youtube.com/watch?v=LuE2RwMGqi4) · Built with amazon-web-services, docker, json, openai
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** amazon-web-services, docker, json, openai, python
+- **Code:** [Source 1](https://github.com/slainhedden/mhacks-ensemble)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=LuE2RwMGqi4)
+- **All prizes at this hackathon (1):** Warp - Best Developer Tool
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-genhint"></a>
+
+#### [GenHint](https://devpost.com/software/genhint)
+
+[Warp](../by-sponsor/warp.md) · **Honorable Mention Best Developer Tool**
+
+Review : Once your code is complete, GenHint reviews it, checking for accuracy and best practices, giving you feedback to ensure your code is indeed working.
+
+[Code](https://github.com/zichenzhang04/GenHint) · [Demo video](https://www.youtube.com/watch?v=72yeRx4773o) · Built with warp, azure, git, github
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** azure, git, github, groq, javascript, json, llama3, llm, microsoft, node.js, typescript, vscode, warp
+- **Code:** [Source 1](https://github.com/zichenzhang04/GenHint)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=72yeRx4773o)
+- **All prizes at this hackathon (1):** Warp - Honorable Mention Best Developer Tool
+- **How it used Warp:** The project lists warp among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

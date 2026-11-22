@@ -4,6 +4,8 @@
 
 **1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Duke%20Innovation%20Studio)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2020 winners](#2020-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** alexa (1), cockroachdb (1), deepaffects (1), flask (1), google-cloud (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2020 winners
 
 ### [Ketchup](https://devpost.com/software/ketchup-396ntm)
 

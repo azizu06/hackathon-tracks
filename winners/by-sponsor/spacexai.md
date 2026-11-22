@@ -4,6 +4,8 @@
 
 **3 winning projects** · 3 hackathons · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=SpaceXAI)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (3), typescript (3), cursor (2), fastapi (2), grok (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [lvl 500](https://devpost.com/software/lvl-500)
 

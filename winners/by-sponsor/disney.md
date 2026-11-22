@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Disney)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** arduino (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2017 winners
 
 ### [Nova](https://devpost.com/software/nova-ytczl4)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 An interactive community game with wearable devices that harness storytelling and emotive design.
 
 [Code](https://github.com/tedmyers/hackMIT) · Built with arduino
+
+## 2016 winners
 
 ### [Gaze](https://devpost.com/software/gaze-09xkmb)
 

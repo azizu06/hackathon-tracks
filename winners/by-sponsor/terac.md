@@ -4,6 +4,8 @@
 
 **3 winning projects** · 2 hackathons · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Terac)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** claude (2), terac (2), typescript (2), arize (1), bear-2-api (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Captain Ddoski](https://devpost.com/software/captain-ddoski)
 
@@ -34,6 +34,8 @@ Empowering blind and low-vision fans to follow the action, context, and emotion 
 **How it used Terac:** Use Terac annotators to create and rank accessibility captions.
 
 [Code](https://github.com/bbioren/match-vision) · Built with terac, claude, deepgram, mcp
+
+## 2025 winners
 
 ### [Oversight](https://devpost.com/software/oversight-i3a2e9)
 

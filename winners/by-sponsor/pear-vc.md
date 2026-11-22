@@ -4,6 +4,8 @@
 
 **4 winning projects** · 2 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Pear%20VC)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2018 winners](#2018-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (2), agents (1), apis (1), arduino (1), ik (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Lattice: Orchestrating end-to-end web workflows at scale](https://devpost.com/software/lattice-data-at-your-fingertips)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 Massively parallelized agentic research workflows using spreadsheets as a primitive.
 
 [Code](https://github.com/WeltonWang02/spreadsheet_hackathon) · [Demo video](https://www.youtube.com/watch?v=spfLzOUNp44) · Built with agents, apis, llms, typescript
+
+## 2018 winners
 
 ### [DeterMind](https://devpost.com/software/determind)
 

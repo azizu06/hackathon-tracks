@@ -36,6 +36,8 @@ Find winners by what they were about, how they were demoed, or what they were bu
 
 Each tech opens the site with that filter applied.
 
+### Top 10
+
 | Tech | Winning projects | Top sponsors |
 | --- | --- | --- |
 | [python](https://tracks.azizu.dev/#browse?tech=python) | 891 | [Fetch.ai](winners/by-sponsor/fetch-ai.md), [Google](winners/by-sponsor/google.md), [Regeneron](winners/by-sponsor/regeneron.md) |
@@ -48,6 +50,11 @@ Each tech opens the site with that filter applied.
 | [next.js](https://tracks.azizu.dev/#browse?tech=next.js) | 221 | [Fetch.ai](winners/by-sponsor/fetch-ai.md), [Google](winners/by-sponsor/google.md), [Sui](winners/by-sponsor/sui.md) |
 | [css](https://tracks.azizu.dev/#browse?tech=css) | 191 | [Google](winners/by-sponsor/google.md), [GoDaddy Registry](winners/by-sponsor/godaddy-registry.md), [Regeneron](winners/by-sponsor/regeneron.md) |
 | [html](https://tracks.azizu.dev/#browse?tech=html) | 174 | [Google](winners/by-sponsor/google.md), [Wolfram](winners/by-sponsor/wolfram.md), [Fetch.ai](winners/by-sponsor/fetch-ai.md) |
+
+### 11 to 20
+
+| Tech | Winning projects | Top sponsors |
+| --- | --- | --- |
 | [claude](https://tracks.azizu.dev/#browse?tech=claude) | 171 | [Fetch.ai](winners/by-sponsor/fetch-ai.md), [Apify](winners/by-sponsor/apify.md), [Regeneron](winners/by-sponsor/regeneron.md) |
 | [vite](https://tracks.azizu.dev/#browse?tech=vite) | 171 | [Fetch.ai](winners/by-sponsor/fetch-ai.md), [GoDaddy Registry](winners/by-sponsor/godaddy-registry.md), [Spacetime](winners/by-sponsor/spacetime.md) |
 | [openai](https://tracks.azizu.dev/#browse?tech=openai) | 161 | [Fetch.ai](winners/by-sponsor/fetch-ai.md), [Google](winners/by-sponsor/google.md), [Impiricus](winners/by-sponsor/impiricus.md) |
@@ -58,6 +65,11 @@ Each tech opens the site with that filter applied.
 | [elevenlabs](https://tracks.azizu.dev/#browse?tech=elevenlabs) | 121 | [ElevenLabs](winners/by-sponsor/elevenlabs.md), [Google](winners/by-sponsor/google.md), [Photon](winners/by-sponsor/photon.md) |
 | [supabase](https://tracks.azizu.dev/#browse?tech=supabase) | 107 | [Google](winners/by-sponsor/google.md), [Figma](winners/by-sponsor/figma.md), [Actual Food](winners/by-sponsor/actual-food.md) |
 | [three.js](https://tracks.azizu.dev/#browse?tech=three.js) | 104 | [Spacetime](winners/by-sponsor/spacetime.md), [Fetch.ai](winners/by-sponsor/fetch-ai.md), [GoDaddy Registry](winners/by-sponsor/godaddy-registry.md) |
+
+### 21 to 30
+
+| Tech | Winning projects | Top sponsors |
+| --- | --- | --- |
 | [numpy](https://tracks.azizu.dev/#browse?tech=numpy) | 103 | [Regeneron](winners/by-sponsor/regeneron.md), [ASUS](winners/by-sponsor/asus.md), [NextEra Energy](winners/by-sponsor/nextera-energy.md) |
 | [postgresql](https://tracks.azizu.dev/#browse?tech=postgresql) | 102 | [Solana](winners/by-sponsor/solana.md), [Tiger Data](winners/by-sponsor/tiger-data.md), [Google](winners/by-sponsor/google.md) |
 | [express.js](https://tracks.azizu.dev/#browse?tech=express.js) | 101 | [GoDaddy Registry](winners/by-sponsor/godaddy-registry.md), [Google](winners/by-sponsor/google.md), [Capital One](winners/by-sponsor/capital-one.md) |
@@ -68,6 +80,11 @@ Each tech opens the site with that filter applied.
 | [docker](https://tracks.azizu.dev/#browse?tech=docker) | 88 | [Regeneron](winners/by-sponsor/regeneron.md), [Vultr](winners/by-sponsor/vultr.md), [.Tech Domains](winners/by-sponsor/tech-domains.md) |
 | [firebase](https://tracks.azizu.dev/#browse?tech=firebase) | 85 | [Google](winners/by-sponsor/google.md), [Wolfram](winners/by-sponsor/wolfram.md), [GoDaddy Registry](winners/by-sponsor/godaddy-registry.md) |
 | [websockets](https://tracks.azizu.dev/#browse?tech=websockets) | 84 | [Fetch.ai](winners/by-sponsor/fetch-ai.md), [ElevenLabs](winners/by-sponsor/elevenlabs.md), [Photon](winners/by-sponsor/photon.md) |
+
+### 31 to 40
+
+| Tech | Winning projects | Top sponsors |
+| --- | --- | --- |
 | [pytorch](https://tracks.azizu.dev/#browse?tech=pytorch) | 80 | [Liquid AI](winners/by-sponsor/liquid-ai.md), [NVIDIA](winners/by-sponsor/nvidia.md), [AMD](winners/by-sponsor/amd.md) |
 | [nextjs](https://tracks.azizu.dev/#browse?tech=nextjs) | 79 | [Google](winners/by-sponsor/google.md), [Warp](winners/by-sponsor/warp.md), [.Tech Domains](winners/by-sponsor/tech-domains.md) |
 | [swift](https://tracks.azizu.dev/#browse?tech=swift) | 75 | [Meta](winners/by-sponsor/meta.md), [Figma](winners/by-sponsor/figma.md), [Presage](winners/by-sponsor/presage.md) |

@@ -4,6 +4,8 @@
 
 **9 winning projects** · 2 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Roblox)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** roblox (7), luau (5), gemini (3), lua (3), robloxstudio (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Hack-A-Ton](https://devpost.com/software/hack-a-ton-829q1s)
 
@@ -64,6 +64,8 @@ A Roblox detective game asks players to verify news stories by interviewing witn
 **How it used Roblox:** The team developed the experience entirely in Roblox Studio using the Luau scripting language.
 
 [Code](https://github.com/s9kt/LA-HACKS-2026-PIXEL-TRUTH) · [Demo video](https://www.youtube.com/watch?v=D64lghRLjOw) · Built with roblox, lua, luau, robloxstudio
+
+## 2025 winners
 
 ### [AI Escape](https://devpost.com/software/ai-escape)
 

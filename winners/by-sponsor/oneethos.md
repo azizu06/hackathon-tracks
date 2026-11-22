@@ -4,6 +4,8 @@
 
 **5 winning projects** · 2 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=OneEthos)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (5), react (5), fastapi (3), docker (2), esp32 (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Bin-It](https://devpost.com/software/bin-it-yg2xb7)
 
@@ -40,6 +40,8 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 Jolteon captures waste heat, turns it into stored electricity, and shows you exactly how much it has collected, live.
 
 [Code](https://github.com/TomasTorrado/Jolteon) · [Demo video](https://www.youtube.com/watch?v=8vnv30qKB9w) · Built with c++, esp32, fastapi, ina219
+
+## 2025 winners
 
 ### [FinScope](https://devpost.com/software/finscope-02o4qt)
 

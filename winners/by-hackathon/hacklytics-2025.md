@@ -4,6 +4,8 @@
 
 **12 winning projects** · 9 sponsors · 12 sponsor prizes · [Devpost gallery](https://hacklytics2025.devpost.com/project-gallery) · [Prize rules](https://hacklytics2025.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (11), react (6), css (4), flask (4), html (4)
@@ -15,48 +17,81 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [.Tech Domains](../by-sponsor/tech-domains.md) | 1 | Best .Tech Domain Name |
-| [AggEquo](../by-sponsor/aggequo.md) | 1 | AI-Driven Worksite Productivity Metrics |
-| [Assurant](../by-sponsor/assurant.md) | 2 | Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI… |
-| [Capital One](../by-sponsor/capital-one.md) | 1 | Best Finance Hack Sponsored by Capital One |
-| [Cloudflare](../by-sponsor/cloudflare.md) | 1 | Best AI Application Built with Cloudflare |
-| [GrowthFactor](../by-sponsor/growthfactor.md) | 3 | GrowthFactor AI Impressions |
-| [MongoDB](../by-sponsor/mongodb.md) | 1 | Best Use of MongoDB Atlas |
-| [Reach Capital](../by-sponsor/reach-capital.md) | 1 | Best Use of AI powered by Reach Capital |
-| [Streamlit](../by-sponsor/streamlit.md) | 1 | Best Use of Streamlit |
+| [.Tech Domains](../by-sponsor/tech-domains.md) | 1 | [Best .Tech Domain Name](#tech-domains-winners) |
+| [AggEquo](../by-sponsor/aggequo.md) | 1 | [AI-Driven Worksite Productivity Metrics](#aggequo-winners) |
+| [Assurant](../by-sponsor/assurant.md) | 2 | [Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI…](#assurant-winners) |
+| [Capital One](../by-sponsor/capital-one.md) | 1 | [Best Finance Hack Sponsored by Capital One](#capital-one-winners) |
+| [Cloudflare](../by-sponsor/cloudflare.md) | 1 | [Best AI Application Built with Cloudflare](#cloudflare-winners) |
+| [GrowthFactor](../by-sponsor/growthfactor.md) | 3 | [GrowthFactor AI Impressions](#growthfactor-winners) |
+| [MongoDB](../by-sponsor/mongodb.md) | 1 | [Best Use of MongoDB Atlas](#mongodb-winners) |
+| [Reach Capital](../by-sponsor/reach-capital.md) | 1 | [Best Use of AI powered by Reach Capital](#reach-capital-winners) |
+| [Streamlit](../by-sponsor/streamlit.md) | 1 | [Best Use of Streamlit](#streamlit-winners) |
 
-## Winning projects
+## Winners by sponsor track
 
-Projects that won more than one sponsor prize come first.
+### .Tech Domains winners
 
-<a name="project-black-swan"></a>
+**Track:** Best .Tech Domain Name · [All .Tech Domains winners](../by-sponsor/tech-domains.md)
 
-### [Black Swan](https://devpost.com/software/black-swan)
+<a name="project-phishybusiness"></a>
 
-[Capital One](../by-sponsor/capital-one.md) · **Best Finance Hack Sponsored by Capital One**
+#### [PhishyBusiness](https://devpost.com/software/phishybusiness)
 
-Turning uncertainty into opportunity with AI-driven market insights.
+[.Tech Domains](../by-sponsor/tech-domains.md) · **Best .Tech Domain Name**
 
-[Code](https://github.com/kaustubhbhal/Black-Swan) · [Demo video](https://www.youtube.com/watch?v=LGzhTNWSGaw) · Built with alpha-vantage-api, flask, google-oauth, html
+By simply entering your phone number on the website, an AI Agent calls you and simulates a phishing call, responding to you and encouraging you with classic scam call tactics.
+
+[Code](https://github.com/ColeKaplan/phishybusiness) · [Demo video](https://www.youtube.com/watch?v=LAumATWI2zE) · Built with next.js, react, retell, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
-- **Built with:** alpha-vantage-api, flask, google-oauth, html, javascript, llms, mongodb, nextjs, openai-api, prompt-engineering, python, react, render, shadcn, tailwindcss, typescript, vercel, yahoo-finance
-- **Code:** [Source 1](https://github.com/kaustubhbhal/Black-Swan)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=LGzhTNWSGaw)
-- **All prizes at this hackathon (1):** Best Finance Hack Sponsored by Capital One
-- **How it used Capital One:** Black Swan is a cutting-edge web application that provides investors with comprehensive portfolio risk analysis through advanced quantitative modeling and stress testing.
+- **Built with:** next.js, react, retell, typescript, vercel
+- **Code:** [Source 1](https://github.com/ColeKaplan/phishybusiness)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=LAumATWI2zE)
+- **All prizes at this hackathon (1):** MLH - Best .Tech Domain Name
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### AggEquo winners
+
+**Track:** AI-Driven Worksite Productivity Metrics · [All AggEquo winners](../by-sponsor/aggequo.md)
+
+<a name="project-buildpulse"></a>
+
+#### [CAMcogni](https://devpost.com/software/buildpulse)
+
+[AggEquo](../by-sponsor/aggequo.md) · **AI-Driven Worksite Productivity Metrics**
+
+CAMcogni consolidates a wide array of data sources—including camera feeds, IoT sensors, GPS-enabled construction machinery, mobile usage metrics, and vehicle idle times—to deliver a holistic view of on-site operations.
+
+[Code](https://github.com/DKoushikUMD/efficiency-tracker-ui) · [Demo video](https://www.youtube.com/watch?v=kZCDMpvuLY4) · Built with amazon-web-services, atlas, css, docker
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** amazon-web-services, atlas, css, docker, fastapi, github, iot, javascript, json, mongodb, opencv, postman, python, react, scikit-learn, tailwindcss, yolov8n
+- **Code:** [Source 1](https://github.com/DKoushikUMD/efficiency-tracker-ui) · [Source 2](https://github.com/sumi0309/efficiency-tracker-backend)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=kZCDMpvuLY4)
+- **All prizes at this hackathon (1):** AggEquo: AI-Driven Worksite Productivity Metrics
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Assurant winners
+
+**Track:** Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems · [All Assurant winners](../by-sponsor/assurant.md)
+
 <a name="project-caduceus-n4jqzs"></a>
 
-### [Caduceo](https://devpost.com/software/caduceus-n4jqzs)
+#### [Caduceo](https://devpost.com/software/caduceus-n4jqzs)
 
 [Assurant](../by-sponsor/assurant.md) · **Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale…**
 
@@ -77,31 +112,9 @@ Introducing Caduceo, a Streamlit-based Chatbot for transparent healthcare cost e
 
 </details>
 
-<a name="project-buildpulse"></a>
-
-### [CAMcogni](https://devpost.com/software/buildpulse)
-
-[AggEquo](../by-sponsor/aggequo.md) · **AI-Driven Worksite Productivity Metrics**
-
-CAMcogni consolidates a wide array of data sources—including camera feeds, IoT sensors, GPS-enabled construction machinery, mobile usage metrics, and vehicle idle times—to deliver a holistic view of on-site operations.
-
-[Code](https://github.com/DKoushikUMD/efficiency-tracker-ui) · [Demo video](https://www.youtube.com/watch?v=kZCDMpvuLY4) · Built with amazon-web-services, atlas, css, docker
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** amazon-web-services, atlas, css, docker, fastapi, github, iot, javascript, json, mongodb, opencv, postman, python, react, scikit-learn, tailwindcss, yolov8n
-- **Code:** [Source 1](https://github.com/DKoushikUMD/efficiency-tracker-ui) · [Source 2](https://github.com/sumi0309/efficiency-tracker-backend)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=kZCDMpvuLY4)
-- **All prizes at this hackathon (1):** AggEquo: AI-Driven Worksite Productivity Metrics
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-crossentropy"></a>
 
-### [Crossentropy](https://devpost.com/software/crossentropy)
+#### [Crossentropy](https://devpost.com/software/crossentropy)
 
 [Assurant](../by-sponsor/assurant.md) · **Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale…**
 
@@ -121,77 +134,40 @@ The platform offers two key user modes.
 
 </details>
 
-<a name="project-dive-de-tech"></a>
+### Capital One winners
 
-### [DIVE-DE.TECH](https://devpost.com/software/dive-de-tech)
+**Track:** Best Finance Hack Sponsored by Capital One · [All Capital One winners](../by-sponsor/capital-one.md)
 
-[Streamlit](../by-sponsor/streamlit.md) · **Best Use of Streamlit**
+<a name="project-black-swan"></a>
 
-Instantly distinguish genuine fouls from flops with video analysis through user inputted soccer clips. Provides referee-style analysis based on the verdict.
+#### [Black Swan](https://devpost.com/software/black-swan)
 
-[Code](https://github.com/Arnav2610/streamlit_dive_detector) · [Demo video](https://www.youtube.com/watch?v=Q0bEOvrx4BA) · Built with streamlit, gemini, genai, joblib
+[Capital One](../by-sponsor/capital-one.md) · **Best Finance Hack Sponsored by Capital One**
 
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
+Turning uncertainty into opportunity with AI-driven market insights.
 
-- **Team size:** 4
-- **Built with:** gemini, genai, joblib, machine-learning, numpy, openai, opencv, pandas, python, scikit-learn, streamlit, ultralytics, yolo
-- **Code:** [Source 1](https://github.com/Arnav2610/streamlit_dive_detector)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q0bEOvrx4BA)
-- **All prizes at this hackathon (1):** MLH - Best Use of Streamlit
-- **How it used Streamlit:** The project lists streamlit among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-maternalyze"></a>
-
-### [Maternalyze](https://devpost.com/software/maternalyze)
-
-[Reach Capital](../by-sponsor/reach-capital.md) · **Best Use of AI powered by Reach Capital**
-
-AI-powered support for safer maternal health.
-
-[Code](https://github.com/bhavyat-01/Maternal-Mortality) · [Demo video](https://www.youtube.com/watch?v=M4JyDZaX9GQ) · Built with css, gemini, git, html
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** css, gemini, git, html, mongodb, pandas, plotly, python, streamlit
-- **Code:** [Source 1](https://github.com/bhavyat-01/Maternal-Mortality)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=M4JyDZaX9GQ)
-- **All prizes at this hackathon (1):** MLH - Best Use of AI powered by Reach Capital
-- **How it used Reach Capital:** This platform enables patients and healthcare professionals to anonymously report instances of racial discrimination or unfair treatment.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-phishybusiness"></a>
-
-### [PhishyBusiness](https://devpost.com/software/phishybusiness)
-
-[.Tech Domains](../by-sponsor/tech-domains.md) · **Best .Tech Domain Name**
-
-By simply entering your phone number on the website, an AI Agent calls you and simulates a phishing call, responding to you and encouraging you with classic scam call tactics.
-
-[Code](https://github.com/ColeKaplan/phishybusiness) · [Demo video](https://www.youtube.com/watch?v=LAumATWI2zE) · Built with next.js, react, retell, typescript
+[Code](https://github.com/kaustubhbhal/Black-Swan) · [Demo video](https://www.youtube.com/watch?v=LGzhTNWSGaw) · Built with alpha-vantage-api, flask, google-oauth, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
-- **Built with:** next.js, react, retell, typescript, vercel
-- **Code:** [Source 1](https://github.com/ColeKaplan/phishybusiness)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=LAumATWI2zE)
-- **All prizes at this hackathon (1):** MLH - Best .Tech Domain Name
+- **Built with:** alpha-vantage-api, flask, google-oauth, html, javascript, llms, mongodb, nextjs, openai-api, prompt-engineering, python, react, render, shadcn, tailwindcss, typescript, vercel, yahoo-finance
+- **Code:** [Source 1](https://github.com/kaustubhbhal/Black-Swan)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=LGzhTNWSGaw)
+- **All prizes at this hackathon (1):** Best Finance Hack Sponsored by Capital One
+- **How it used Capital One:** Black Swan is a cutting-edge web application that provides investors with comprehensive portfolio risk analysis through advanced quantitative modeling and stress testing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### Cloudflare winners
+
+**Track:** Best AI Application Built with Cloudflare · [All Cloudflare winners](../by-sponsor/cloudflare.md)
+
 <a name="project-squatspot"></a>
 
-### [SquatSpot](https://devpost.com/software/squatspot)
+#### [SquatSpot](https://devpost.com/software/squatspot)
 
 [Cloudflare](../by-sponsor/cloudflare.md) · **Best AI Application Built with Cloudflare**
 
@@ -212,9 +188,13 @@ Boosting confidence in the gym with proper form.
 
 </details>
 
+### GrowthFactor winners
+
+**Track:** GrowthFactor AI Impressions · [All GrowthFactor winners](../by-sponsor/growthfactor.md)
+
 <a name="project-storefront-visibility-unik9v"></a>
 
-### [StoreFront Visibility](https://devpost.com/software/storefront-visibility-unik9v)
+#### [StoreFront Visibility](https://devpost.com/software/storefront-visibility-unik9v)
 
 [GrowthFactor](../by-sponsor/growthfactor.md) · **GrowthFactor AI Impressions**
 
@@ -237,7 +217,7 @@ Revolutionizing commercial advertising one image at a time.
 
 <a name="project-storescope"></a>
 
-### [StoreScope](https://devpost.com/software/storescope)
+#### [StoreScope](https://devpost.com/software/storescope)
 
 [GrowthFactor](../by-sponsor/growthfactor.md) · **GrowthFactor AI Impressions**
 
@@ -257,9 +237,36 @@ It gathers geospatial data from Google’s Geocoding API and Google’s Road API
 
 </details>
 
+<a name="project-visify-mrjxfb"></a>
+
+#### [VisiFy](https://devpost.com/software/visify-mrjxfb)
+
+[GrowthFactor](../by-sponsor/growthfactor.md) · **GrowthFactor AI Impressions**
+
+VisiFy: Storefront Selection with AI-Powered Visibility &amp; Insights.
+
+[Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w) · Built with a-frame, css, flask, html
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** a-frame, css, flask, html, javascript, python, react
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=17Z1GmfzP0w)
+- **All prizes at this hackathon (1):** GrowthFactor AI Impressions
+- **How it used GrowthFactor:** VisiFy is storefront evaluation tool powered by AI that assigns a combined, comprehensive score based on a combined score of visibility analysis and suitability of businesses.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### MongoDB winners
+
+**Track:** Best Use of MongoDB Atlas · [All MongoDB winners](../by-sponsor/mongodb.md)
+
 <a name="project-vesalius"></a>
 
-### [Vesalius](https://devpost.com/software/vesalius)
+#### [Vesalius](https://devpost.com/software/vesalius)
 
 [MongoDB](../by-sponsor/mongodb.md) · **Best Use of MongoDB Atlas**
 
@@ -280,25 +287,56 @@ Countless public health datasets have been taken down. Vesalius scrubs the Inter
 
 </details>
 
-<a name="project-visify-mrjxfb"></a>
+### Reach Capital winners
 
-### [VisiFy](https://devpost.com/software/visify-mrjxfb)
+**Track:** Best Use of AI powered by Reach Capital · [All Reach Capital winners](../by-sponsor/reach-capital.md)
 
-[GrowthFactor](../by-sponsor/growthfactor.md) · **GrowthFactor AI Impressions**
+<a name="project-maternalyze"></a>
 
-VisiFy: Storefront Selection with AI-Powered Visibility &amp; Insights.
+#### [Maternalyze](https://devpost.com/software/maternalyze)
 
-[Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w) · Built with a-frame, css, flask, html
+[Reach Capital](../by-sponsor/reach-capital.md) · **Best Use of AI powered by Reach Capital**
+
+AI-powered support for safer maternal health.
+
+[Code](https://github.com/bhavyat-01/Maternal-Mortality) · [Demo video](https://www.youtube.com/watch?v=M4JyDZaX9GQ) · Built with css, gemini, git, html
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** css, gemini, git, html, mongodb, pandas, plotly, python, streamlit
+- **Code:** [Source 1](https://github.com/bhavyat-01/Maternal-Mortality)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=M4JyDZaX9GQ)
+- **All prizes at this hackathon (1):** MLH - Best Use of AI powered by Reach Capital
+- **How it used Reach Capital:** This platform enables patients and healthcare professionals to anonymously report instances of racial discrimination or unfair treatment.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Streamlit winners
+
+**Track:** Best Use of Streamlit · [All Streamlit winners](../by-sponsor/streamlit.md)
+
+<a name="project-dive-de-tech"></a>
+
+#### [DIVE-DE.TECH](https://devpost.com/software/dive-de-tech)
+
+[Streamlit](../by-sponsor/streamlit.md) · **Best Use of Streamlit**
+
+Instantly distinguish genuine fouls from flops with video analysis through user inputted soccer clips. Provides referee-style analysis based on the verdict.
+
+[Code](https://github.com/Arnav2610/streamlit_dive_detector) · [Demo video](https://www.youtube.com/watch?v=Q0bEOvrx4BA) · Built with streamlit, gemini, genai, joblib
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** a-frame, css, flask, html, javascript, python, react
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=17Z1GmfzP0w)
-- **All prizes at this hackathon (1):** GrowthFactor AI Impressions
-- **How it used GrowthFactor:** VisiFy is storefront evaluation tool powered by AI that assigns a combined, comprehensive score based on a combined score of visibility analysis and suitability of businesses.
+- **Built with:** gemini, genai, joblib, machine-learning, numpy, openai, opencv, pandas, python, scikit-learn, streamlit, ultralytics, yolo
+- **Code:** [Source 1](https://github.com/Arnav2610/streamlit_dive_detector)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q0bEOvrx4BA)
+- **All prizes at this hackathon (1):** MLH - Best Use of Streamlit
+- **How it used Streamlit:** The project lists streamlit among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

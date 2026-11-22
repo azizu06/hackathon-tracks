@@ -4,6 +4,8 @@
 
 **9 winning projects** · 4 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Anthropic)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (8), python (7), react (7), fastapi (5), claude (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Bloom](https://devpost.com/software/bloom-dvjpea)
 
@@ -92,6 +92,8 @@ A civic discussion tool connects proposed policy changes to the public input beh
 **How it used Anthropic:** Integrated 5 AI providers (Gemini, OpenAI, Anthropic Claude, JINA, Elasticsearch) into a coherent pipeline.
 
 [Code](https://github.com/arihantjain4/Tribune) · [Demo video](https://www.youtube.com/watch?v=CNRvU4jK34c) · Built with anthropic-claude, elasticsearch, fastapi, framer-motion
+
+## 2025 winners
 
 ### [Elda AI](https://devpost.com/software/elda-ai)
 

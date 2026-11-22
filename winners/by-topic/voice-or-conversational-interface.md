@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description and its tech tags.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [2013 winners](#2013-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (64), react (44), typescript (35), javascript (27), fastapi (20)
@@ -15,9 +17,7 @@ Matched from keywords in the project description and its tech tags.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [LifeLine](https://devpost.com/software/lifeline-nf86zy)
 
@@ -395,6 +395,8 @@ A voice shopping tool compares prices across stores and coordinates payments thr
 
 [Code](https://github.com/Sohamiscurious/TreeHacks2026) · [Demo video](https://www.youtube.com/watch?v=ZoUQvbh24mM) · Built with fetch.ai, claude, elastic, langchain
 
+## 2025 winners
+
 ### [Orion](https://devpost.com/software/orion-p5ayks)
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-orion-p5ayks)<br>[Vapi](../by-sponsor/vapi.md) · **Best Use of Vapi**<br>[Warp](../by-sponsor/warp.md) · **Best Use of Warp**
@@ -627,6 +629,8 @@ Wildfires is a platform offering real-time wildfire updates with live data, inte
 
 Built with streamlit, altair, openai, pydeck
 
+## 2024 winners
+
 ### [aligned.ai](https://devpost.com/software/align-sqzt8c)
 
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-align-sqzt8c)<br>[Web Summit](../by-sponsor/web-summit.md) · **Web Summit challenge**
@@ -763,6 +767,8 @@ An accessible white-boarding app to voice your ideas into existence.
 
 [Code](https://github.com/DVidal1205/voiceboard) · Built with gemini, google, next, react
 
+## 2020 winners
+
 ### [CONSERVATIONIST](https://devpost.com/software/conservationist)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-conservationist)<br>[Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
@@ -795,6 +801,8 @@ The project “SPCH” involves a text editor and Google Chrome extension that s
 
 [Code](https://github.com/BryantH24/SPCH) · [Demo video](https://www.youtube.com/watch?v=ejlorFZdnkA) · Built with chrome, datastax-astra, docker, firebase
 
+## 2019 winners
+
 ### [SaveMe](https://devpost.com/software/lgtm)
 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-lgtm)<br>[DocuSign](../by-sponsor/docusign.md) · **Best Use of the DocuSign Agreement Cloud APIs**
@@ -802,6 +810,8 @@ The project “SPCH” involves a text editor and Google Chrome extension that s
 Using Machine Learning to process a person's speech and determine if they are intoxicated.
 
 [Code](https://github.com/johancc/LGTM) · Built with docusign, google-cloud, python, rev-ai
+
+## 2018 winners
 
 ### [YeetView](https://devpost.com/software/yeetview)
 
@@ -811,6 +821,8 @@ An accessible Google StreetView for the visually impaired through visceral scene
 
 [Code](https://github.com/R0bk/image_captioning) · Built with spell, deep-learning, google-streetview, javascript
 
+## 2017 winners
+
 ### [MIT Sorting Hat, Harry Potter Style](https://devpost.com/software/mit-sorting-hat)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-mit-sorting-hat)<br>[Samsara](../by-sponsor/samsara.md) · **Sponsor Prize - Samsara - Best IoT Hack**
@@ -819,6 +831,8 @@ Find your dorm culture fit Harry Potter Style.
 
 Built with android, arduino, c++, hardware
 
+## 2016 winners
+
 ### [BlackBox](https://devpost.com/software/blackbox-ct4my1)
 
 [HackMIT 2016](../by-hackathon/hackmit-2016.md#project-blackbox-ct4my1)<br>[Meta](../by-sponsor/meta.md) · **Facebook Hackathon Finals Trip**
@@ -826,6 +840,8 @@ Built with android, arduino, c++, hardware
 AI-powered Chatbot which give you curated dating advice - while you're on your date.
 
 [Code](https://github.com/96imranahmed/blackbox-public) · [Demo video](https://www.youtube.com/watch?v=7KcSXuQXCng) · Built with machine-learning, python
+
+## 2013 winners
 
 ### [Silkspeak](https://devpost.com/software/silkspeak)
 

@@ -4,6 +4,8 @@
 
 **5 winning projects** · 5 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Midnight)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** midnight (3), react (2), typescript (2), ai (1), anchor (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Slap Game](https://devpost.com/software/keep-my-wife-s-name-out-your-fkn-mouth)
 
@@ -32,6 +32,8 @@ Challenge friends to webcam slap battles, dodge hits like Neo, and win egos—no
 Anonymous voting platform powered by the Midnight Blockchain. Students can now vote privately by utilizing zero-knowledge proofs and decentralized blockchain network verification.
 
 [Code](https://github.com/Edwin-Yee/SBHacks-XI) · [Demo video](https://www.youtube.com/watch?v=Bm5nX9-Txrg) · Built with midnight, anchor, next.js, npm
+
+## 2024 winners
 
 ### [Elevyn](https://devpost.com/software/elevyn-unlock-premium-content-with-decentralized-funding)
 

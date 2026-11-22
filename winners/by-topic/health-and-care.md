@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2019 winners](#2019-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (74), react (54), javascript (42), typescript (41), html (25)
@@ -15,9 +17,7 @@ Matched from keywords in the project description.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Lucid](https://devpost.com/software/lucid-k078qt)
 
@@ -435,6 +435,8 @@ A browser extension helps users find and understand medical research relevant to
 
 [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
 
+## 2025 winners
+
 ### [Haven](https://devpost.com/software/haven-536r1q)
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-haven-536r1q)<br>[Fetch.ai](../by-sponsor/fetch-ai.md) · **Fetch AI: Best Use of Fetch AI**<br>[LiveKit](../by-sponsor/livekit.md) · **Best Start-up Idea**<br>[Y Combinator](../by-sponsor/y-combinator.md) · **Build an Iconic YC Company - 1st Place**
@@ -731,6 +733,8 @@ Bridging new F1 drivers and engineers with algorithmic strategy planning, real-t
 
 [Code](https://github.com/iampritisee/hacktx) · [Demo video](https://www.youtube.com/watch?v=uKgWc20DsCs) · Built with css3, html5, javascript, lucide
 
+## 2024 winners
+
 ### [RecovARy](https://devpost.com/software/recovary)
 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-recovary)<br>[Fetch.ai](../by-sponsor/fetch-ai.md) · **Agentic Track Prize**<br>[Snap](../by-sponsor/snap.md) · **Dream it. Build it.**
@@ -843,6 +847,8 @@ Unified Electronic Health Record featuring an AI- and RAG-powered search bot for
 
 [Code](https://github.com/gibranoderenz/unifymd) · [Demo video](https://www.youtube.com/watch?v=c1NckGLl0TI) · Built with langchain, next-js, propel-auth, supabase
 
+## 2020 winners
+
 ### [OxyControl](https://devpost.com/software/oxycontrol)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-oxycontrol)<br>[Digi-Key](../by-sponsor/digi-key.md) · **Best Hardware Hack Sponsored by Digi-Key**<br>[Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
@@ -906,6 +912,8 @@ A community that encourages and challenges people who stutter to practice speech
 A web app that matches people with mental health therapists best suited for their care.
 
 [Code](https://github.com/sasymer/hackduke2020) · [Demo video](https://www.youtube.com/watch?v=m_ZnZd6Kcho) · Built with figma, javascript, react
+
+## 2019 winners
 
 ### [DHEA](https://devpost.com/software/dhea)
 

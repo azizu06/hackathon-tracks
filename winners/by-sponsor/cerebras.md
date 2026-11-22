@@ -4,6 +4,8 @@
 
 **6 winning projects** · 3 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Cerebras)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** cerebras (5), javascript (3), python (3), css (2), html (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [RepoStory](https://devpost.com/software/placeholder-it3zq7)
 
@@ -42,6 +42,8 @@ Learn programming through personalized project-focused AI-guided courses. Design
 A mixture of agents expert running on cutting edge inference hardware, that in practise can lead to simulation that you can control and experiment or play with.
 
 [Code](https://github.com/V-prajit/Terminator) · [Demo video](https://www.youtube.com/watch?v=5CZHU31kQrs) · Built with cerebras, express.js, game-engine, genai
+
+## 2024 winners
 
 ### [Electra](https://devpost.com/software/advisory-iq)
 

@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2016 winners](#2016-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (39), javascript (16), react (14), html (11), typescript (11)
@@ -15,9 +17,7 @@ Matched from keywords in the project description.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Standard Response](https://devpost.com/software/standard-response)
 
@@ -195,6 +195,8 @@ A programming environment gives blind developers an accessible way to write and 
 
 [Code](https://github.com/ledaniel0/treehacks2026) · [Demo video](https://www.youtube.com/watch?v=aL9MrpwJXOA) · Built with agentverse, elasticsearch, electron, langgraph
 
+## 2025 winners
+
 ### [A11y Tools](https://devpost.com/software/a11y-b8xg5i)
 
 [ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-a11y-b8xg5i)<br>[Google](../by-sponsor/google.md) · **Google Cloud**
@@ -315,6 +317,8 @@ Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gem
 
 [Code](https://github.com/KaivalSShah/vraille-htn2025) · [Demo video](https://www.youtube.com/watch?v=4gdPROUsaRw) · Built with vapi, arduino, c++, cohere
 
+## 2024 winners
+
 ### [BrowseBlind](https://devpost.com/software/browseblind)
 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-browseblind)<br>[Fetch.ai](../by-sponsor/fetch-ai.md) · **Agentic Track Prize**
@@ -403,6 +407,8 @@ An accessible white-boarding app to voice your ideas into existence.
 
 [Code](https://github.com/DVidal1205/voiceboard) · Built with gemini, google, next, react
 
+## 2019 winners
+
 ### [CaneAssist](https://devpost.com/software/caneassist)
 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-caneassist)<br>[IBM](../by-sponsor/ibm.md) · **Best Use of IBM Visual Recognition**
@@ -427,6 +433,8 @@ Making ridesharing safer and more accessible.
 
 Built with amazon-dynamodb, amazon-web-services, aws-api-gateway, azure
 
+## 2018 winners
+
 ### [YeetView](https://devpost.com/software/yeetview)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-yeetview)<br>[Spell](../by-sponsor/spell.md) · **Best Spell API hack**
@@ -434,6 +442,8 @@ Built with amazon-dynamodb, amazon-web-services, aws-api-gateway, azure
 An accessible Google StreetView for the visually impaired through visceral scene description built with Deep Learning.
 
 [Code](https://github.com/R0bk/image_captioning) · Built with spell, deep-learning, google-streetview, javascript
+
+## 2016 winners
 
 ### [Skycart](https://devpost.com/software/skycart)
 

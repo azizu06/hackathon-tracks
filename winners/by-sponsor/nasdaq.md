@@ -4,6 +4,8 @@
 
 **6 winning projects** · 4 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Nasdaq)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (3), flask (2), google-cloud-vision (2), amadeus (1), android-studio (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2019 winners
 
 ### [1DB: One Database to rule them all](https://devpost.com/software/1db)
 
@@ -43,6 +43,8 @@ Buying a new house but can't decide on a neighborhood? Check out HomeUp for data
 
 [Code](https://github.com/siuryan/homeup) · Built with flask, python, quandl
 
+## 2018 winners
+
 ### [Dorm Market](https://devpost.com/software/dorm-market)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-dorm-market) · **Nasdaq Best "Markets Everywhere" Hack**
@@ -53,6 +55,8 @@ Sell dorm supplies in a seasonal market-style setting with prices determined by 
 
 [Code](https://github.com/m-99/dorm-market) · Built with nasdaq-markets-everywhere, css, django, html
 
+## 2017 winners
+
 ### [Jiffy Market Stories](https://devpost.com/software/jiffy-market-stories)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-jiffy-market-stories) · **Sponsor Prize - Nasdaq - Best Re-imagination of Market**
@@ -60,6 +64,8 @@ Sell dorm supplies in a seasonal market-style setting with prices determined by 
 Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs.
 
 Built with flask, giphy-api, google-cloud-vision, ibm-watson
+
+## 2016 winners
 
 ### [Logo Lens](https://devpost.com/software/logo-locator)
 

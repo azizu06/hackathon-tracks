@@ -4,6 +4,8 @@
 
 **16 winning projects** · 11 sponsors · 20 sponsor prizes · [Devpost gallery](https://hacknyu-fall-2025.devpost.com/project-gallery) · [Prize rules](https://hacknyu-fall-2025.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (7), typescript (7), react (6), openrouter (5), fastapi (4)
@@ -15,23 +17,25 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [.Tech Domains](../by-sponsor/tech-domains.md) | 1 | Best .Tech Domain Name |
-| [Aristotle](../by-sponsor/aristotle.md) | 3 | Aristotle Challenge: Most Cutting-Edge AI Agent |
-| [Arm](../by-sponsor/arm.md) | 1 | Best Use of Arm |
-| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | Best Use of ElevenLabs |
-| [Nodal](../by-sponsor/nodal.md) | 3 | Best Use of Nodal CLI |
-| [OpenRouter](../by-sponsor/openrouter.md) | 1 | Best Use of OpenRouter |
-| [Qualcomm](../by-sponsor/qualcomm.md) | 4 | Best Use of Qualcomm EdgeAI |
-| [Snowflake](../by-sponsor/snowflake.md) | 1 | Best Use of Snowflake |
-| [Solana](../by-sponsor/solana.md) | 2 | Solana Challenge - Best Project Built on Solana; Best Use of Solana |
-| [Visa](../by-sponsor/visa.md) | 2 | Visa Challenge - Agent Marketplace Simulation |
-| [Vultr](../by-sponsor/vultr.md) | 1 | Best Use of Vultr Cloud |
+| [.Tech Domains](../by-sponsor/tech-domains.md) | 1 | [Best .Tech Domain Name](#tech-domains-winners) |
+| [Aristotle](../by-sponsor/aristotle.md) | 3 | [Aristotle Challenge: Most Cutting-Edge AI Agent](#aristotle-winners) |
+| [Arm](../by-sponsor/arm.md) | 1 | [Best Use of Arm](#arm-winners) |
+| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | [Best Use of ElevenLabs](#elevenlabs-winners) |
+| [Nodal](../by-sponsor/nodal.md) | 3 | [Best Use of Nodal CLI](#nodal-winners) |
+| [OpenRouter](../by-sponsor/openrouter.md) | 1 | [Best Use of OpenRouter](#openrouter-winners) |
+| [Qualcomm](../by-sponsor/qualcomm.md) | 4 | [Best Use of Qualcomm EdgeAI](#qualcomm-winners) |
+| [Snowflake](../by-sponsor/snowflake.md) | 1 | [Best Use of Snowflake](#snowflake-winners) |
+| [Solana](../by-sponsor/solana.md) | 2 | [Solana Challenge - Best Project Built on Solana; Best Use of Solana](#solana-winners) |
+| [Visa](../by-sponsor/visa.md) | 2 | [Visa Challenge - Agent Marketplace Simulation](#visa-winners) |
+| [Vultr](../by-sponsor/vultr.md) | 1 | [Best Use of Vultr Cloud](#vultr-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-hacknyu-v3nyx1"></a>
 
@@ -103,32 +107,42 @@ Increase your strength with cutting-edge computer vision and agentic AI.
 
 </details>
 
-<a name="project-agora-socrates"></a>
+## Winners by sponsor track
 
-### [Agora Socrates](https://devpost.com/software/agora-socrates)
+### .Tech Domains winners
 
-[Vultr](../by-sponsor/vultr.md) · **Best Use of Vultr Cloud**
+**Track:** Best .Tech Domain Name · [All .Tech Domains winners](../by-sponsor/tech-domains.md)
 
-No more passive reading, just active chats! - AGORA.
+<a name="project-saturday-usdbjn"></a>
 
-[Code](https://github.com/Ashish-Reddy-T/hackNYUEducation) · [Demo video](https://www.youtube.com/watch?v=hNmpppkJaBo) · Built with python
+#### [SATistics](https://devpost.com/software/saturday-usdbjn)
+
+[.Tech Domains](../by-sponsor/tech-domains.md) · **Best .Tech Domain Name**
+
+'SATistics' is an arcade-inspired web app where classic games are blend with AI-powered SAT quiz challenges, making learning fun and impactful for students preparing for SATs.
+
+[Code](https://github.com/shivvyas2/SATistics) · [Demo video](https://www.youtube.com/watch?v=AErgCTfmmbw) · Built with claude, fastapi, nextjs, supabase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 2
-- **Built with:** python
-- **Code:** [Source 1](https://github.com/Ashish-Reddy-T/hackNYUEducation)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=hNmpppkJaBo)
-- **All prizes at this hackathon (2):** Best First Time Hack · MLH - Best Use of Vultr Cloud
-- **How it used Vultr:** Agora is a voice-first, multimodal AI tutor that you study with.
+- **Team size:** 4
+- **Built with:** claude, fastapi, nextjs, supabase, three.js, typescript
+- **Code:** [Source 1](https://github.com/shivvyas2/SATistics)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=AErgCTfmmbw)
+- **All prizes at this hackathon (2):** Education · MLH - Best .Tech Domain Name
+- **How it used .Tech Domains:** Get surprised by quick SAT questions integrated into gameplay.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### Aristotle winners
+
+**Track:** Aristotle Challenge: Most Cutting-Edge AI Agent · [All Aristotle winners](../by-sponsor/aristotle.md)
+
 <a name="project-bobux-bargains"></a>
 
-### [BOBUX BARGAINS](https://devpost.com/software/bobux-bargains)
+#### [BOBUX BARGAINS](https://devpost.com/software/bobux-bargains)
 
 [Aristotle](../by-sponsor/aristotle.md) · **Aristotle Challenge: Most Cutting-Edge AI Agent**
 
@@ -151,7 +165,7 @@ Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 
 <a name="project-buckbounty"></a>
 
-### [BuckBounty](https://devpost.com/software/buckbounty)
+#### [BuckBounty](https://devpost.com/software/buckbounty)
 
 [Aristotle](../by-sponsor/aristotle.md) · **Aristotle Challenge: Most Cutting-Edge AI Agent**
 
@@ -172,169 +186,9 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 
 </details>
 
-<a name="project-eco-nexus-pluwok"></a>
-
-### [Eco-Nexus](https://devpost.com/software/eco-nexus-pluwok)
-
-[Snowflake](../by-sponsor/snowflake.md) · **Best Use of Snowflake**
-
-Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
-
-[Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** axios, bcryptjs, built-with-##-languages-javascript, express.js, framer-motion, joblib-##-blockchain-solana-web3.js, jwt, meta-llama-3.2-3b-instruct, mongodb-##-databases-mongodb, mongodb-atlas, mongodb-atlas-##-apis-openrouter-api, numpy, pandas, python, react-18, recharts, render, scikit-learn, snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, socket.io, socket.io-client, solana-devnet-##-cloud-&amp;-hosting-vercel, solana-rpc, solana/spl-token, sql-##-frontend-next.js-14, tailwindcss, typescript, zustand-##-backend-node.js
-- **Code:** Listed on Devpost but not verified.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=5qtlaak3W9Y)
-- **All prizes at this hackathon (2):** MLH - Best Use of Snowflake · Sustainability
-- **How it used Snowflake:** Analytics &amp; ML : Snowflake integration for data warehousing, analytics scoring system:.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-faceybuk"></a>
-
-### [FaceyBuk](https://devpost.com/software/faceybuk)
-
-[ElevenLabs](../by-sponsor/elevenlabs.md) · **Best Use of ElevenLabs**
-
-The team created On The Go Storyteller , an interactive reading platform that bridges the distance between parents and children.
-
-[Code](https://github.com/KeiraJames/nyu-hacks) · Built with css, express.js, firebase, gemini
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** css, express.js, firebase, gemini, html5, javascript, ngrok, node.js
-- **Code:** [Source 1](https://github.com/KeiraJames/nyu-hacks)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (2):** Interactive Media Arts/Entertainment · MLH - Best Use of ElevenLabs
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-hypechain"></a>
-
-### [HypeChain](https://devpost.com/software/hypechain)
-
-[Solana](../by-sponsor/solana.md) · **Solana Challenge - Best Project Built on Solana**
-
-HypeChain is a decentralized marketplace for physical goods, secured by on-chain escrow and tokenization.
-
-[Code](https://github.com/alin9661/HypeChain) · Built with solana, openrouter
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** openrouter, solana
-- **Code:** [Source 1](https://github.com/alin9661/HypeChain)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Solana Challenge - Best Project Built on Solana
-- **How it used Solana:** The team built HypeChain on the Solana stack for its high speed, low transaction fees, and robust developer ecosystem.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-insight-loop"></a>
-
-### [Insight Loop](https://devpost.com/software/insight-loop)
-
-[Qualcomm](../by-sponsor/qualcomm.md) · **Best Use of Qualcomm EdgeAI**
-
-An edge-AI tutoring agent that listens in real time and guides you the moment confusion appears.
-
-[Code](https://github.com/Baozzz04/insight-loop) · [Demo video](https://www.youtube.com/watch?v=0WAUHLDkyHI) · Built with fastapi, ffpmeg, indexeddb, llama
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** fastapi, ffpmeg, indexeddb, llama, node.js, numpy, onnx, pytorch, qnn, react, tailwind, vite, webrtc, whisper
-- **Code:** [Source 1](https://github.com/Baozzz04/insight-loop)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=0WAUHLDkyHI)
-- **All prizes at this hackathon (1):** Best Use of Qualcomm EdgeAI
-- **How it used Qualcomm:** The system lets students upload their own learning materials and transforms their study session into a live, interactive experience.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-insta-relief"></a>
-
-### [Insta-Relief](https://devpost.com/software/insta-relief)
-
-[Solana](../by-sponsor/solana.md) · **Best Use of Solana**
-
-When disasters strike, traditional insurance is slow.InstaRelief delivers instant USD payouts using Solana-powered parametric triggers the moment your ZIP is impacted. Relief in seconds, not weeks.
-
-[Code](https://github.com/aakash2060/insta-relief) · [Demo video](https://www.youtube.com/watch?v=friog1wMYu8) · Built with solana, claude, firebase, noaa
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** claude, firebase, noaa, react, solana, typescript, web3
-- **Code:** [Source 1](https://github.com/aakash2060/insta-relief)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=friog1wMYu8)
-- **All prizes at this hackathon (1):** MLH - Best Use of Solana
-- **How it used Solana:** The project lists solana among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-leetcourt"></a>
-
-### [LeetCourt](https://devpost.com/software/leetcourt)
-
-[OpenRouter](../by-sponsor/openrouter.md) · **Best Use of OpenRouter**
-
-Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you learn the language of the law.
-
-Built with openrouter, elevenlabs, react
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** elevenlabs, openrouter, react
-- **Code:** Listed on Devpost but not verified.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (3):** Best AI Wrapper Hack · Best Use of OpenRouter · Education
-- **How it used OpenRouter:** The project lists openrouter among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-saturday-usdbjn"></a>
-
-### [SATistics](https://devpost.com/software/saturday-usdbjn)
-
-[.Tech Domains](../by-sponsor/tech-domains.md) · **Best .Tech Domain Name**
-
-'SATistics' is an arcade-inspired web app where classic games are blend with AI-powered SAT quiz challenges, making learning fun and impactful for students preparing for SATs.
-
-[Code](https://github.com/shivvyas2/SATistics) · [Demo video](https://www.youtube.com/watch?v=AErgCTfmmbw) · Built with claude, fastapi, nextjs, supabase
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** claude, fastapi, nextjs, supabase, three.js, typescript
-- **Code:** [Source 1](https://github.com/shivvyas2/SATistics)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=AErgCTfmmbw)
-- **All prizes at this hackathon (2):** Education · MLH - Best .Tech Domain Name
-- **How it used .Tech Domains:** Get surprised by quick SAT questions integrated into gameplay.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-stationscope"></a>
 
-### [StationScope](https://devpost.com/software/stationscope)
+#### [StationScope](https://devpost.com/software/stationscope)
 
 [Aristotle](../by-sponsor/aristotle.md) · **Aristotle Challenge: Most Cutting-Edge AI Agent**
 
@@ -355,9 +209,208 @@ Built with css, geocoding, google-maps, javascript
 
 </details>
 
+### Arm winners
+
+**Track:** Best Use of Arm · [All Arm winners](../by-sponsor/arm.md)
+
+Also won this track: [NodalCLI](#project-hacknyu-v3nyx1) (listed above)
+
+### ElevenLabs winners
+
+**Track:** Best Use of ElevenLabs · [All ElevenLabs winners](../by-sponsor/elevenlabs.md)
+
+<a name="project-faceybuk"></a>
+
+#### [FaceyBuk](https://devpost.com/software/faceybuk)
+
+[ElevenLabs](../by-sponsor/elevenlabs.md) · **Best Use of ElevenLabs**
+
+The team created On The Go Storyteller , an interactive reading platform that bridges the distance between parents and children.
+
+[Code](https://github.com/KeiraJames/nyu-hacks) · Built with css, express.js, firebase, gemini
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** css, express.js, firebase, gemini, html5, javascript, ngrok, node.js
+- **Code:** [Source 1](https://github.com/KeiraJames/nyu-hacks)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (2):** Interactive Media Arts/Entertainment · MLH - Best Use of ElevenLabs
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Nodal winners
+
+**Track:** Best Use of Nodal CLI · [All Nodal winners](../by-sponsor/nodal.md)
+
+Also won this track: [NodalCLI](#project-hacknyu-v3nyx1), [Tuffr](#project-tuffr) (listed above)
+
+<a name="project-torqit"></a>
+
+#### [TorqIt](https://devpost.com/software/torqit)
+
+[Nodal](../by-sponsor/nodal.md) · **Best Use of Nodal CLI**
+
+Building TorqIt was an intensive learning experience that spanned multiple domains:.
+
+Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** adafruit-icm20948, arduino-uno-r3, cors, eslint, express.js, filtering)-&#42;&#42;matplotlib&#42;&#42;-data-visualization-and-plotting-##-hardware-&#42;&#42;arduino-uno-r3&#42;&#42;-microcontroller-&#42;&#42;adafruit-icm20948&#42;&#42;-9-dof-imu-sensors-(accelerometer, framer-motion, git, gyroscope, i2c, matplotlib, node.js, numpy, pandas, postcss, python, radix-ui, react, react-router, react-three-fiber, scipy, serialport, shadcn/ui, tailwind-css, three.js, typescript, vite, websocket
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (2):** Best Use of Nodal CLI · Healthcare
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### OpenRouter winners
+
+**Track:** Best Use of OpenRouter · [All OpenRouter winners](../by-sponsor/openrouter.md)
+
+<a name="project-leetcourt"></a>
+
+#### [LeetCourt](https://devpost.com/software/leetcourt)
+
+[OpenRouter](../by-sponsor/openrouter.md) · **Best Use of OpenRouter**
+
+Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you learn the language of the law.
+
+Built with openrouter, elevenlabs, react
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** elevenlabs, openrouter, react
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (3):** Best AI Wrapper Hack · Best Use of OpenRouter · Education
+- **How it used OpenRouter:** The project lists openrouter among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Qualcomm winners
+
+**Track:** Best Use of Qualcomm EdgeAI · [All Qualcomm winners](../by-sponsor/qualcomm.md)
+
+Also won this track: [NodalCLI](#project-hacknyu-v3nyx1), [Arbitrage](#project-multi-agent-marketplace-simulator), [Tuffr](#project-tuffr) (listed above)
+
+<a name="project-insight-loop"></a>
+
+#### [Insight Loop](https://devpost.com/software/insight-loop)
+
+[Qualcomm](../by-sponsor/qualcomm.md) · **Best Use of Qualcomm EdgeAI**
+
+An edge-AI tutoring agent that listens in real time and guides you the moment confusion appears.
+
+[Code](https://github.com/Baozzz04/insight-loop) · [Demo video](https://www.youtube.com/watch?v=0WAUHLDkyHI) · Built with fastapi, ffpmeg, indexeddb, llama
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** fastapi, ffpmeg, indexeddb, llama, node.js, numpy, onnx, pytorch, qnn, react, tailwind, vite, webrtc, whisper
+- **Code:** [Source 1](https://github.com/Baozzz04/insight-loop)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=0WAUHLDkyHI)
+- **All prizes at this hackathon (1):** Best Use of Qualcomm EdgeAI
+- **How it used Qualcomm:** The system lets students upload their own learning materials and transforms their study session into a live, interactive experience.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Snowflake winners
+
+**Track:** Best Use of Snowflake · [All Snowflake winners](../by-sponsor/snowflake.md)
+
+<a name="project-eco-nexus-pluwok"></a>
+
+#### [Eco-Nexus](https://devpost.com/software/eco-nexus-pluwok)
+
+[Snowflake](../by-sponsor/snowflake.md) · **Best Use of Snowflake**
+
+Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
+
+[Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** axios, bcryptjs, built-with-##-languages-javascript, express.js, framer-motion, joblib-##-blockchain-solana-web3.js, jwt, meta-llama-3.2-3b-instruct, mongodb-##-databases-mongodb, mongodb-atlas, mongodb-atlas-##-apis-openrouter-api, numpy, pandas, python, react-18, recharts, render, scikit-learn, snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, socket.io, socket.io-client, solana-devnet-##-cloud-&amp;-hosting-vercel, solana-rpc, solana/spl-token, sql-##-frontend-next.js-14, tailwindcss, typescript, zustand-##-backend-node.js
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=5qtlaak3W9Y)
+- **All prizes at this hackathon (2):** MLH - Best Use of Snowflake · Sustainability
+- **How it used Snowflake:** Analytics &amp; ML : Snowflake integration for data warehousing, analytics scoring system:.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Solana winners
+
+**Track:** Solana Challenge - Best Project Built on Solana; Best Use of Solana · [All Solana winners](../by-sponsor/solana.md)
+
+<a name="project-hypechain"></a>
+
+#### [HypeChain](https://devpost.com/software/hypechain)
+
+[Solana](../by-sponsor/solana.md) · **Solana Challenge - Best Project Built on Solana**
+
+HypeChain is a decentralized marketplace for physical goods, secured by on-chain escrow and tokenization.
+
+[Code](https://github.com/alin9661/HypeChain) · Built with solana, openrouter
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** openrouter, solana
+- **Code:** [Source 1](https://github.com/alin9661/HypeChain)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Solana Challenge - Best Project Built on Solana
+- **How it used Solana:** The team built HypeChain on the Solana stack for its high speed, low transaction fees, and robust developer ecosystem.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-insta-relief"></a>
+
+#### [Insta-Relief](https://devpost.com/software/insta-relief)
+
+[Solana](../by-sponsor/solana.md) · **Best Use of Solana**
+
+When disasters strike, traditional insurance is slow.InstaRelief delivers instant USD payouts using Solana-powered parametric triggers the moment your ZIP is impacted. Relief in seconds, not weeks.
+
+[Code](https://github.com/aakash2060/insta-relief) · [Demo video](https://www.youtube.com/watch?v=friog1wMYu8) · Built with solana, claude, firebase, noaa
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** claude, firebase, noaa, react, solana, typescript, web3
+- **Code:** [Source 1](https://github.com/aakash2060/insta-relief)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=friog1wMYu8)
+- **All prizes at this hackathon (1):** MLH - Best Use of Solana
+- **How it used Solana:** The project lists solana among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Visa winners
+
+**Track:** Visa Challenge - Agent Marketplace Simulation · [All Visa winners](../by-sponsor/visa.md)
+
+Also won this track: [Arbitrage](#project-multi-agent-marketplace-simulator) (listed above)
+
 <a name="project-tickettrade-ai"></a>
 
-### [TicketTrade AI](https://devpost.com/software/tickettrade-ai)
+#### [TicketTrade AI](https://devpost.com/software/tickettrade-ai)
 
 [Visa](../by-sponsor/visa.md) · **Visa Challenge - Agent Marketplace Simulation**
 
@@ -378,24 +431,29 @@ AI agents represent buyers and sellers, negotiating ticket deals automatically. 
 
 </details>
 
-<a name="project-torqit"></a>
+### Vultr winners
 
-### [TorqIt](https://devpost.com/software/torqit)
+**Track:** Best Use of Vultr Cloud · [All Vultr winners](../by-sponsor/vultr.md)
 
-[Nodal](../by-sponsor/nodal.md) · **Best Use of Nodal CLI**
+<a name="project-agora-socrates"></a>
 
-Building TorqIt was an intensive learning experience that spanned multiple domains:.
+#### [Agora Socrates](https://devpost.com/software/agora-socrates)
 
-Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
+[Vultr](../by-sponsor/vultr.md) · **Best Use of Vultr Cloud**
+
+No more passive reading, just active chats! - AGORA.
+
+[Code](https://github.com/Ashish-Reddy-T/hackNYUEducation) · [Demo video](https://www.youtube.com/watch?v=hNmpppkJaBo) · Built with python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 3
-- **Built with:** adafruit-icm20948, arduino-uno-r3, cors, eslint, express.js, filtering)-&#42;&#42;matplotlib&#42;&#42;-data-visualization-and-plotting-##-hardware-&#42;&#42;arduino-uno-r3&#42;&#42;-microcontroller-&#42;&#42;adafruit-icm20948&#42;&#42;-9-dof-imu-sensors-(accelerometer, framer-motion, git, gyroscope, i2c, matplotlib, node.js, numpy, pandas, postcss, python, radix-ui, react, react-router, react-three-fiber, scipy, serialport, shadcn/ui, tailwind-css, three.js, typescript, vite, websocket
-- **Code:** Listed on Devpost but not verified.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (2):** Best Use of Nodal CLI · Healthcare
+- **Team size:** 2
+- **Built with:** python
+- **Code:** [Source 1](https://github.com/Ashish-Reddy-T/hackNYUEducation)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=hNmpppkJaBo)
+- **All prizes at this hackathon (2):** Best First Time Hack · MLH - Best Use of Vultr Cloud
+- **How it used Vultr:** Agora is a voice-first, multimodal AI tutor that you study with.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

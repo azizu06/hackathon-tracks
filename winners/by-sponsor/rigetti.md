@@ -4,6 +4,8 @@
 
 **1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Rigetti)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2018 winners](#2018-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** arduino (1), azure (1), flask (1), html (1), mit-app-inventor (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2018 winners
 
 ### [DispenseRX](https://devpost.com/software/dispenser)
 

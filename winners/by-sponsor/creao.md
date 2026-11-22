@@ -4,6 +4,8 @@
 
 **8 winning projects** · 2 hackathons · 8 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Creao)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** creao (5), python (5), react (5), typescript (5), node.js (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Anima Labs](https://devpost.com/software/anima-labs)
 
@@ -44,6 +44,8 @@ An autonomous finance team where nothing moves without proof: Creao agents pick 
 An autonomous finance desk that tracks automotive tariffs from imported parts to customer credits, catching errors, learning from decisions, and posting only with approval.
 
 [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
+
+## 2025 winners
 
 ### [AdSensei](https://devpost.com/software/adsensei-3vmh4n)
 

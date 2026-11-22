@@ -4,6 +4,8 @@
 
 **5 winning projects** · 1 hackathon · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=CRS)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** crs-credit-api (4), typescript (4), node.js (3), react (3), anthropic (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Agent Credit Exchange: AI agents that shop loans safely](https://devpost.com/software/agent-credit-exchange-ai-agents-that-shop-loans-safely)
 

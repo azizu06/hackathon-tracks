@@ -4,6 +4,8 @@
 
 **1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Square)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2013 winners](#2013-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** alchemyapi (1), facebook (1), firebase (1), fleksy (1), venmo (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2013 winners
 
 ### [Sharity](https://devpost.com/software/sharity)
 

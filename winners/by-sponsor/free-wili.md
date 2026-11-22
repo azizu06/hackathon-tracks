@@ -4,6 +4,8 @@
 
 **8 winning projects** · 3 hackathons · 8 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=FREE-WILi)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (7), freewili (4), c (3), free-wili (3), c++ (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [LifeLine](https://devpost.com/software/lifeline-nf86zy)
 
@@ -63,6 +63,8 @@ Similar to a piano tiles game where the tiles come towards the player, the tiles
 
 [Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
 
+## 2025 winners
+
 ### [Gestura](https://devpost.com/software/gestura-9oaugq)
 
 [MHacks 2025](../by-hackathon/mhacks-2025.md#project-gestura-9oaugq) · **Best Use of FREE-WiLi**
@@ -78,6 +80,8 @@ Gesture-based mouse built using FreeWILi and Vosk text-to-speech used to increas
 Nurture a pet by being sustainable.
 
 [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
+
+## 2024 winners
 
 ### [Wili-Party](https://devpost.com/software/wili-party)
 

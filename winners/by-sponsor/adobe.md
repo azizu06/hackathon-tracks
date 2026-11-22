@@ -4,6 +4,8 @@
 
 **4 winning projects** · 2 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Adobe)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** gemini (2), javascript (2), adobe-ad-on (1), ai (1), c# (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Fobo](https://devpost.com/software/fobo-fear-of-burning-out)
 
@@ -40,6 +40,8 @@ PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is 
 An interactive, hand-illustrated, digital storybook featuring point-and-click progression and branching cinematic endings.
 
 [Code](https://github.com/NiDesai08/Plu-s-Sanctuary) · [Demo video](https://vimeo.com/1234804142) · Built with css, html, ibispaintx, javascript
+
+## 2024 winners
 
 ### [GeneReel AI](https://devpost.com/software/reel)
 

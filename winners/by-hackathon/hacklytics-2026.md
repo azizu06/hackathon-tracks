@@ -4,6 +4,8 @@
 
 **17 winning projects** · 12 sponsors · 17 sponsor prizes · [Devpost gallery](https://hacklytics-2026.devpost.com/project-gallery) · [Prize rules](https://hacklytics-2026.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (15), react (9), fastapi (8), javascript (6), actian (4)
@@ -15,50 +17,32 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [Actian](../by-sponsor/actian.md) | 3 | Best Use of Actian VectorAI DB |
-| [Databricks](../by-sponsor/databricks.md) | 2 | Databricks Geo-Insight Challenge |
-| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | Best Use of ElevenLabs |
-| [Figma](../by-sponsor/figma.md) | 2 | Figma Make Most Creative Data Visualization |
-| [Google](../by-sponsor/google.md) | 1 | Best Use of Gemini API |
-| [GrowthFactor](../by-sponsor/growthfactor.md) | 2 | GrowthFactor Challenge |
-| [Presage](../by-sponsor/presage.md) | 1 | Best Use of Presage |
-| [SafetyKit](../by-sponsor/safetykit.md) | 1 | Best AI for Human Safety by SafetyKit |
-| [Snowflake](../by-sponsor/snowflake.md) | 1 | Best Use of Snowflake API |
-| [Solana](../by-sponsor/solana.md) | 1 | Best Use of Solana |
-| [Sphinx](../by-sponsor/sphinx.md) | 1 | Most Unique Application of Sphinx |
-| [Vultr](../by-sponsor/vultr.md) | 1 | Best Use of Vultr |
+| [Actian](../by-sponsor/actian.md) | 3 | [Best Use of Actian VectorAI DB](#actian-winners) |
+| [Databricks](../by-sponsor/databricks.md) | 2 | [Databricks Geo-Insight Challenge](#databricks-winners) |
+| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | [Best Use of ElevenLabs](#elevenlabs-winners) |
+| [Figma](../by-sponsor/figma.md) | 2 | [Figma Make Most Creative Data Visualization](#figma-winners) |
+| [Google](../by-sponsor/google.md) | 1 | [Best Use of Gemini API](#google-winners) |
+| [GrowthFactor](../by-sponsor/growthfactor.md) | 2 | [GrowthFactor Challenge](#growthfactor-winners) |
+| [Presage](../by-sponsor/presage.md) | 1 | [Best Use of Presage](#presage-winners) |
+| [SafetyKit](../by-sponsor/safetykit.md) | 1 | [Best AI for Human Safety by SafetyKit](#safetykit-winners) |
+| [Snowflake](../by-sponsor/snowflake.md) | 1 | [Best Use of Snowflake API](#snowflake-winners) |
+| [Solana](../by-sponsor/solana.md) | 1 | [Best Use of Solana](#solana-winners) |
+| [Sphinx](../by-sponsor/sphinx.md) | 1 | [Most Unique Application of Sphinx](#sphinx-winners) |
+| [Vultr](../by-sponsor/vultr.md) | 1 | [Best Use of Vultr](#vultr-winners) |
 
-## Winning projects
+## Winners by sponsor track
 
-Projects that won more than one sponsor prize come first.
+### Actian winners
 
-<a name="project-atlrisk"></a>
-
-### [ATLRisk](https://devpost.com/software/atlrisk)
-
-[SafetyKit](../by-sponsor/safetykit.md) · **Best AI for Human Safety by SafetyKit**
-
-A website to help Atlanta residents and visitors stay safe during first-time meetups.
-
-[Code](https://github.com/IshaMadanu/hacklytics-atl-risk) · [Demo video](https://www.youtube.com/watch?v=5gWB9hfDggA) · Built with flask, geminiaistudio, html, intellij-idea
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** flask, geminiaistudio, html, intellij-idea, pandas, python, vs-code
-- **Code:** [Source 1](https://github.com/IshaMadanu/hacklytics-atl-risk)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=5gWB9hfDggA)
-- **All prizes at this hackathon (1):** Best AI for Human Safety by SafetyKit
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best Use of Actian VectorAI DB · [All Actian winners](../by-sponsor/actian.md)
 
 <a name="project-aura-h35p7t"></a>
 
-### [Aura](https://devpost.com/software/aura-h35p7t)
+#### [Aura](https://devpost.com/software/aura-h35p7t)
 
 [Actian](../by-sponsor/actian.md) · **Best Use of Actian VectorAI DB**
 
@@ -78,55 +62,59 @@ The team admit a machine learning model shouldn't be the only frontier for diagn
 
 </details>
 
-<a name="project-braceml"></a>
+<a name="project-payback-tnauqm"></a>
 
-### [BraceML](https://devpost.com/software/braceml)
+#### [PayBack](https://devpost.com/software/payback-tnauqm)
 
-[Figma](../by-sponsor/figma.md) · **Figma Make Most Creative Data Visualization**
+[Actian](../by-sponsor/actian.md) · **Best Use of Actian VectorAI DB**
 
-A camera-based biomechanics tool tracks movement and fatigue to give athletes feedback while they train.
+AI that fights your hospital bill.
 
-[Code](https://github.com/jiekaitao/BRACE) · [Demo video](https://www.youtube.com/watch?v=DvQncQ3JfmE) · Built with figma-make, actian-vectorai-db, avfoundation, c#
+[Code](https://github.com/Itz-Viggy/payBack) · [Demo video](https://www.youtube.com/watch?v=5uq6HO8El3I) · Built with actian, fastapi, langgraph, mongodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** actian-vectorai-db, avfoundation, c#, caddy, clip-reid, docker, elevenlabs, fastapi, figma-make, gemini-2.0-flash, grpc, hybrik, javascript, mongodb, next.js-15, one-euro-filter, python, react-19, scikit-learn, swiftui, tailscale, tensorrt, three.js, typescript, umap, unity, websocket, yolo11
-- **Code:** [Source 1](https://github.com/jiekaitao/BRACE)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=DvQncQ3JfmE)
-- **All prizes at this hackathon (2):** Figma Make Most Creative Data Visualization · First in Sports
-- **How it used Figma:** The project lists figma-make among its Built With tags.
+- **Built with:** actian, fastapi, langgraph, mongodb, python, react
+- **Code:** [Source 1](https://github.com/Itz-Viggy/payBack)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=5uq6HO8El3I)
+- **All prizes at this hackathon (1):** Best Use of Actian VectorAI DB
+- **How it used Actian:** The project lists actian among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
-<a name="project-cityspot"></a>
+<a name="project-guess-xp546j"></a>
 
-### [CitySpot](https://devpost.com/software/cityspot)
+#### [RXGUARD](https://devpost.com/software/guess-xp546j)
 
-[GrowthFactor](../by-sponsor/growthfactor.md) · **GrowthFactor Challenge**
+[Actian](../by-sponsor/actian.md) · **Best Use of Actian VectorAI DB**
 
-CitySpot uses deep learning on satellite imagery to detect and map every parking lot in Atlanta — turning aerial pixels into real-time urban intelligence.
+RxGuard is a semantic engine that uses vector embeddings to bridge "vocabulary gap" in FDA adverse medication, uncovering critical drug safety signals that traditional searche miss.
 
-[Code](https://github.com/Kairavparikh/CitySpot) · [Demo video](https://www.youtube.com/watch?v=67cCz4yv9Kc) · Built with css, html, javascript, python
+[Code](https://github.com/gt12889/hacklytics2026) · [Demo video](https://www.youtube.com/watch?v=dwmhyQ5ZIQA) · Built with actian, gemini, python, rag
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 3
-- **Built with:** css, html, javascript, python, shell
-- **Code:** [Source 1](https://github.com/Kairavparikh/CitySpot)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=67cCz4yv9Kc)
-- **All prizes at this hackathon (1):** GrowthFactor Challenge
-- **How it used GrowthFactor:** CitySpot uses deep learning on NAIP satellite imagery to automatically detect and map every surface parking lot in Atlanta.
+- **Team size:** 4
+- **Built with:** actian, gemini, python, rag, react, sphinx
+- **Code:** [Source 1](https://github.com/gt12889/hacklytics2026)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=dwmhyQ5ZIQA)
+- **All prizes at this hackathon (1):** Best Use of Actian VectorAI DB
+- **How it used Actian:** The project lists actian among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### Databricks winners
+
+**Track:** Databricks Geo-Insight Challenge · [All Databricks winners](../by-sponsor/databricks.md)
+
 <a name="project-crisislens-rlebdw"></a>
 
-### [CrisisLens](https://devpost.com/software/crisislens-rlebdw)
+#### [CrisisLens](https://devpost.com/software/crisislens-rlebdw)
 
 [Databricks](../by-sponsor/databricks.md) · **Databricks Geo-Insight Challenge**
 
@@ -149,7 +137,7 @@ CrisisLens combines humanitarian risk and funding data in a country-level dashbo
 
 <a name="project-data-saves-lives-dsl"></a>
 
-### [Data Saves Lives (DSL)](https://devpost.com/software/data-saves-lives-dsl)
+#### [Data Saves Lives (DSL)](https://devpost.com/software/data-saves-lives-dsl)
 
 [Databricks](../by-sponsor/databricks.md) · **Databricks Geo-Insight Challenge**
 
@@ -170,55 +158,13 @@ A dashboard maps humanitarian funding against local needs to identify crises tha
 
 </details>
 
-<a name="project-the-last-human-internet"></a>
+### ElevenLabs winners
 
-### [FarmCast](https://devpost.com/software/the-last-human-internet)
-
-[Figma](../by-sponsor/figma.md) · **Figma Make Most Creative Data Visualization**
-
-A local weather app gives gardeners and small farmers forecasts tailored to growing decisions.
-
-[Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** react, tailwind, typescript
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=TLGly6WWBwQ)
-- **All prizes at this hackathon (1):** Figma Make Most Creative Data Visualization
-- **How it used Figma:** FarmCast is the weather app that actually gets it.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-graption"></a>
-
-### [Graption](https://devpost.com/software/graption)
-
-[Snowflake](../by-sponsor/snowflake.md) · **Best Use of Snowflake API**
-
-A group conversation tool places live captions to help deaf participants follow who is speaking.
-
-[Code](https://github.com/Dinofish32/hacklytics-2026) · [Demo video](https://www.youtube.com/watch?v=ttvh5SJoVfU) · Built with snowflake, elevenlabs, numpy, python
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** elevenlabs, numpy, python, snowflake, swift, websocket
-- **Code:** [Source 1](https://github.com/Dinofish32/hacklytics-2026)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=ttvh5SJoVfU)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Snowflake API
-- **How it used Snowflake:** The team are proud of integrating so many different models like ARVision, Snowflake, ElevenLabs, and the fine tuned Wav2Vec.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best Use of ElevenLabs · [All ElevenLabs winners](../by-sponsor/elevenlabs.md)
 
 <a name="project-janulus-ai"></a>
 
-### [Janulus.ai](https://devpost.com/software/janulus-ai)
+#### [Janulus.ai](https://devpost.com/software/janulus-ai)
 
 [ElevenLabs](../by-sponsor/elevenlabs.md) · **Best Use of ElevenLabs**
 
@@ -239,55 +185,63 @@ A language-learning tool combines speech and translation exercises to help users
 
 </details>
 
-<a name="project-patchlab"></a>
+### Figma winners
 
-### [PatchLab](https://devpost.com/software/patchlab)
+**Track:** Figma Make Most Creative Data Visualization · [All Figma winners](../by-sponsor/figma.md)
 
-[Sphinx](../by-sponsor/sphinx.md) · **Most Unique Application of Sphinx**
+<a name="project-braceml"></a>
 
-PatchLab tracks what players feel during playtests, not just what they click. It fuses webcam emotions, heart rate, and gameplay video to pinpoint broken mechanics before launch.
+#### [BraceML](https://devpost.com/software/braceml)
 
-[Code](https://github.com/NSang22/PatchLab) · [Demo video](https://www.youtube.com/watch?v=IrHYcadESSk) · Built with actian, fastapi, google-gemini, javascript
+[Figma](../by-sponsor/figma.md) · **Figma Make Most Creative Data Visualization**
 
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
+A camera-based biomechanics tool tracks movement and fatigue to give athletes feedback while they train.
 
-- **Team size:** 4
-- **Built with:** actian, fastapi, google-gemini, javascript, mediapipe, numpy, opencv, pandas, python, react, recharts, snowflake, tailwind, vite, vultr, websockets
-- **Code:** [Source 1](https://github.com/NSang22/PatchLab)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=IrHYcadESSk)
-- **All prizes at this hackathon (1):** Most Unique Application of Sphinx
-- **How it used Sphinx:** PatchLab is a playtesting platform that captures player emotion in real time.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-payback-tnauqm"></a>
-
-### [PayBack](https://devpost.com/software/payback-tnauqm)
-
-[Actian](../by-sponsor/actian.md) · **Best Use of Actian VectorAI DB**
-
-AI that fights your hospital bill.
-
-[Code](https://github.com/Itz-Viggy/payBack) · [Demo video](https://www.youtube.com/watch?v=5uq6HO8El3I) · Built with actian, fastapi, langgraph, mongodb
+[Code](https://github.com/jiekaitao/BRACE) · [Demo video](https://www.youtube.com/watch?v=DvQncQ3JfmE) · Built with figma-make, actian-vectorai-db, avfoundation, c#
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** actian, fastapi, langgraph, mongodb, python, react
-- **Code:** [Source 1](https://github.com/Itz-Viggy/payBack)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=5uq6HO8El3I)
-- **All prizes at this hackathon (1):** Best Use of Actian VectorAI DB
-- **How it used Actian:** The project lists actian among its Built With tags.
+- **Built with:** actian-vectorai-db, avfoundation, c#, caddy, clip-reid, docker, elevenlabs, fastapi, figma-make, gemini-2.0-flash, grpc, hybrik, javascript, mongodb, next.js-15, one-euro-filter, python, react-19, scikit-learn, swiftui, tailscale, tensorrt, three.js, typescript, umap, unity, websocket, yolo11
+- **Code:** [Source 1](https://github.com/jiekaitao/BRACE)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=DvQncQ3JfmE)
+- **All prizes at this hackathon (2):** Figma Make Most Creative Data Visualization · First in Sports
+- **How it used Figma:** The project lists figma-make among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
+
+<a name="project-the-last-human-internet"></a>
+
+#### [FarmCast](https://devpost.com/software/the-last-human-internet)
+
+[Figma](../by-sponsor/figma.md) · **Figma Make Most Creative Data Visualization**
+
+A local weather app gives gardeners and small farmers forecasts tailored to growing decisions.
+
+[Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** react, tailwind, typescript
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=TLGly6WWBwQ)
+- **All prizes at this hackathon (1):** Figma Make Most Creative Data Visualization
+- **How it used Figma:** FarmCast is the weather app that actually gets it.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Google winners
+
+**Track:** Best Use of Gemini API · [All Google winners](../by-sponsor/google.md)
 
 <a name="project-playwright"></a>
 
-### [Playwright](https://devpost.com/software/playwright)
+#### [Playwright](https://devpost.com/software/playwright)
 
 [Google](../by-sponsor/google.md) · **Best Use of Gemini API**
 
@@ -308,9 +262,36 @@ A filmmaker can turn a screenplay into video previews and storyboard frames.
 
 </details>
 
+### GrowthFactor winners
+
+**Track:** GrowthFactor Challenge · [All GrowthFactor winners](../by-sponsor/growthfactor.md)
+
+<a name="project-cityspot"></a>
+
+#### [CitySpot](https://devpost.com/software/cityspot)
+
+[GrowthFactor](../by-sponsor/growthfactor.md) · **GrowthFactor Challenge**
+
+CitySpot uses deep learning on satellite imagery to detect and map every parking lot in Atlanta — turning aerial pixels into real-time urban intelligence.
+
+[Code](https://github.com/Kairavparikh/CitySpot) · [Demo video](https://www.youtube.com/watch?v=67cCz4yv9Kc) · Built with css, html, javascript, python
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** css, html, javascript, python, shell
+- **Code:** [Source 1](https://github.com/Kairavparikh/CitySpot)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=67cCz4yv9Kc)
+- **All prizes at this hackathon (1):** GrowthFactor Challenge
+- **How it used GrowthFactor:** CitySpot uses deep learning on NAIP satellite imagery to automatically detect and map every surface parking lot in Atlanta.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
 <a name="project-parasite-2dri43"></a>
 
-### [Polaris](https://devpost.com/software/parasite-2dri43)
+#### [Polaris](https://devpost.com/software/parasite-2dri43)
 
 [GrowthFactor](../by-sponsor/growthfactor.md) · **GrowthFactor Challenge**
 
@@ -331,55 +312,13 @@ North Star that guides retailers to their best location.
 
 </details>
 
-<a name="project-guess-xp546j"></a>
+### Presage winners
 
-### [RXGUARD](https://devpost.com/software/guess-xp546j)
-
-[Actian](../by-sponsor/actian.md) · **Best Use of Actian VectorAI DB**
-
-RxGuard is a semantic engine that uses vector embeddings to bridge "vocabulary gap" in FDA adverse medication, uncovering critical drug safety signals that traditional searche miss.
-
-[Code](https://github.com/gt12889/hacklytics2026) · [Demo video](https://www.youtube.com/watch?v=dwmhyQ5ZIQA) · Built with actian, gemini, python, rag
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** actian, gemini, python, rag, react, sphinx
-- **Code:** [Source 1](https://github.com/gt12889/hacklytics2026)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=dwmhyQ5ZIQA)
-- **All prizes at this hackathon (1):** Best Use of Actian VectorAI DB
-- **How it used Actian:** The project lists actian among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-synaptix"></a>
-
-### [Synaptix](https://devpost.com/software/synaptix)
-
-[Vultr](../by-sponsor/vultr.md) · **Best Use of Vultr**
-
-Synaptix is an AI-powered drug repurposing platform.
-
-[Code](https://github.com/Sanjavan7/Drugreuse) · [Demo video](https://www.youtube.com/watch?v=QKEs6iViyJc) · Built with vultr-cloud, actian-vectorai-db, axios, clinicaltrials.gov-api
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** actian-vectorai-db, axios, clinicaltrials.gov-api, docker, drkg, fastapi, framer-motion, gemini, javascript, networkx, numpy, pubchem-api, pubchempy, pubmed-api, python, rdkit, react, react-force-graph-3d, scikit-learn, sqlite, tailwind-css, three.js, transe, uvicorn, vite, vultr-cloud
-- **Code:** [Source 1](https://github.com/Sanjavan7/Drugreuse)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=QKEs6iViyJc)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** The project lists vultr-cloud among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best Use of Presage · [All Presage winners](../by-sponsor/presage.md)
 
 <a name="project-underpressure"></a>
 
-### [UnderPressure](https://devpost.com/software/underpressure)
+#### [UnderPressure](https://devpost.com/software/underpressure)
 
 [Presage](../by-sponsor/presage.md) · **Best Use of Presage**
 
@@ -400,9 +339,66 @@ A camera estimates a player's state and changes the game in response.
 
 </details>
 
+### SafetyKit winners
+
+**Track:** Best AI for Human Safety by SafetyKit · [All SafetyKit winners](../by-sponsor/safetykit.md)
+
+<a name="project-atlrisk"></a>
+
+#### [ATLRisk](https://devpost.com/software/atlrisk)
+
+[SafetyKit](../by-sponsor/safetykit.md) · **Best AI for Human Safety by SafetyKit**
+
+A website to help Atlanta residents and visitors stay safe during first-time meetups.
+
+[Code](https://github.com/IshaMadanu/hacklytics-atl-risk) · [Demo video](https://www.youtube.com/watch?v=5gWB9hfDggA) · Built with flask, geminiaistudio, html, intellij-idea
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** flask, geminiaistudio, html, intellij-idea, pandas, python, vs-code
+- **Code:** [Source 1](https://github.com/IshaMadanu/hacklytics-atl-risk)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=5gWB9hfDggA)
+- **All prizes at this hackathon (1):** Best AI for Human Safety by SafetyKit
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Snowflake winners
+
+**Track:** Best Use of Snowflake API · [All Snowflake winners](../by-sponsor/snowflake.md)
+
+<a name="project-graption"></a>
+
+#### [Graption](https://devpost.com/software/graption)
+
+[Snowflake](../by-sponsor/snowflake.md) · **Best Use of Snowflake API**
+
+A group conversation tool places live captions to help deaf participants follow who is speaking.
+
+[Code](https://github.com/Dinofish32/hacklytics-2026) · [Demo video](https://www.youtube.com/watch?v=ttvh5SJoVfU) · Built with snowflake, elevenlabs, numpy, python
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** elevenlabs, numpy, python, snowflake, swift, websocket
+- **Code:** [Source 1](https://github.com/Dinofish32/hacklytics-2026)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=ttvh5SJoVfU)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Snowflake API
+- **How it used Snowflake:** The team are proud of integrating so many different models like ARVision, Snowflake, ElevenLabs, and the fine tuned Wav2Vec.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Solana winners
+
+**Track:** Best Use of Solana · [All Solana winners](../by-sponsor/solana.md)
+
 <a name="project-vera-r3gp7l"></a>
 
-### [VERA](https://devpost.com/software/vera-r3gp7l)
+#### [VERA](https://devpost.com/software/vera-r3gp7l)
 
 [Solana](../by-sponsor/solana.md) · **Best Use of Solana**
 
@@ -419,6 +415,60 @@ A lender can screen potential properties for environmental risks before approvin
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=62N696AcAkE)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
 - **How it used Solana:** It serializes the payload, computes a SHA-256 fingerprint, and submits a compact summary and fingerprint through Solana's SPL Memo program , using solders and solana-py .
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Sphinx winners
+
+**Track:** Most Unique Application of Sphinx · [All Sphinx winners](../by-sponsor/sphinx.md)
+
+<a name="project-patchlab"></a>
+
+#### [PatchLab](https://devpost.com/software/patchlab)
+
+[Sphinx](../by-sponsor/sphinx.md) · **Most Unique Application of Sphinx**
+
+PatchLab tracks what players feel during playtests, not just what they click. It fuses webcam emotions, heart rate, and gameplay video to pinpoint broken mechanics before launch.
+
+[Code](https://github.com/NSang22/PatchLab) · [Demo video](https://www.youtube.com/watch?v=IrHYcadESSk) · Built with actian, fastapi, google-gemini, javascript
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** actian, fastapi, google-gemini, javascript, mediapipe, numpy, opencv, pandas, python, react, recharts, snowflake, tailwind, vite, vultr, websockets
+- **Code:** [Source 1](https://github.com/NSang22/PatchLab)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=IrHYcadESSk)
+- **All prizes at this hackathon (1):** Most Unique Application of Sphinx
+- **How it used Sphinx:** PatchLab is a playtesting platform that captures player emotion in real time.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Vultr winners
+
+**Track:** Best Use of Vultr · [All Vultr winners](../by-sponsor/vultr.md)
+
+<a name="project-synaptix"></a>
+
+#### [Synaptix](https://devpost.com/software/synaptix)
+
+[Vultr](../by-sponsor/vultr.md) · **Best Use of Vultr**
+
+Synaptix is an AI-powered drug repurposing platform.
+
+[Code](https://github.com/Sanjavan7/Drugreuse) · [Demo video](https://www.youtube.com/watch?v=QKEs6iViyJc) · Built with vultr-cloud, actian-vectorai-db, axios, clinicaltrials.gov-api
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** actian-vectorai-db, axios, clinicaltrials.gov-api, docker, drkg, fastapi, framer-motion, gemini, javascript, networkx, numpy, pubchem-api, pubchempy, pubmed-api, python, rdkit, react, react-force-graph-3d, scikit-learn, sqlite, tailwind-css, three.js, transe, uvicorn, vite, vultr-cloud
+- **Code:** [Source 1](https://github.com/Sanjavan7/Drugreuse)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=QKEs6iViyJc)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
+- **How it used Vultr:** The project lists vultr-cloud among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

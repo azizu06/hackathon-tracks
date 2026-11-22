@@ -4,6 +4,8 @@
 
 **2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=iRobot)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2017 winners](#2017-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (2), azure (1), facebook-live-api (1), irobot-create (1), irobot-create2 (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2017 winners
 
 ### [Cueball's New Pet](https://devpost.com/software/cueball-s-new-pet)
 

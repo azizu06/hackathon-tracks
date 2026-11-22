@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=SingleStore)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** javascript (2), python (2), react (2), bootstrap (1), express.js (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [UCSBites](https://devpost.com/software/ucsbites)
 
@@ -26,6 +26,8 @@ Matching students at college dining halls together for friendships.
 **How it used SingleStore:** The team used React, Bootstrap, Vite for the frontend and Flask/Singlestore for the backend.
 
 [Code](https://github.com/KPawar0629/matchup-sbhacks) · [Demo video](https://www.youtube.com/watch?v=40n7d0nfOBU) · Built with singlestore, bootstrap, flask, javascript
+
+## 2024 winners
 
 ### [CryptoWise: Intelligent Trading and Insights Platform](https://devpost.com/software/cryptowise-intelligent-trading-and-insights-platform)
 

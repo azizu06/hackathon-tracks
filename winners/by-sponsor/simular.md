@@ -4,6 +4,8 @@
 
 **2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Simular)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** claude (2), css (2), html (2), javascript (2), react (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [STING](https://devpost.com/software/sting-bfqvia)
 

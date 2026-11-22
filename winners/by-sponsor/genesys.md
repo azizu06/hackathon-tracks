@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Genesys)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** genesys (2), css (1), docker (1), elevenlabs (1), groq (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [BeyondSight](https://devpost.com/software/beyondsight-589mh7)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 BeyondSight is a full wearable ecosystem designed to empower DeafBlind individuals with independence, communication, and safety.
 
 [Code](https://github.com/WhyILived/BeyondSight) · [Demo video](https://www.youtube.com/watch?v=tEvHlx3xCRA) · Built with genesys, docker, elevenlabs, python
+
+## 2024 winners
 
 ### [traint](https://devpost.com/software/traint)
 

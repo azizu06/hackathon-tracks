@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [2013 winners](#2013-winners)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (22), python (20), react (18), gemini (13), javascript (12)
@@ -15,9 +17,7 @@ Matched from keywords in the project description.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Whim](https://devpost.com/software/idk-man-794g6v)
 
@@ -259,6 +259,8 @@ Dynamic Visibility: The digital game world begins in pitch darkness.
 
 [Demo video](https://www.youtube.com/watch?v=3Xcl9w1WM0U) · Built with codex, lelamp, python, unity
 
+## 2025 winners
+
 ### [AI Escape](https://devpost.com/software/ai-escape)
 
 [LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-ai-escape)<br>[Roblox](../by-sponsor/roblox.md) · **ROBLOX Civility Challenge: Building A Better Digital World**
@@ -427,6 +429,8 @@ UncBlox is a multiplayer action-arena game where players embody celebrated elder
 
 [Demo video](https://www.youtube.com/watch?v=7WwD1cOzm5k) · Built with roblox
 
+## 2024 winners
+
 ### [AIDJ](https://devpost.com/software/aidj)
 
 [MHacks 2024](../by-hackathon/mhacks-2024.md#project-aidj)<br>[Intel](../by-sponsor/intel.md) · **1st Place Best Use of Intel AI**
@@ -499,6 +503,8 @@ Gives users the ability to play four 1v1 games.
 
 [Demo video](https://www.youtube.com/watch?v=7VzAm0KVVoo) · Built with c++, freewili, pygame, python
 
+## 2020 winners
+
 ### [Ensemble](https://devpost.com/software/ensemble-un4pjb)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-ensemble-un4pjb)<br>[Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
@@ -507,6 +513,8 @@ Especially during COVID, people have never been more disconnected. Ensemble hope
 
 [Code](https://github.com/jeffreyluoxlvii/ensemble) · [Demo video](https://www.youtube.com/watch?v=_-nXS1JCzkY) · Built with firebase, react, youtube
 
+## 2017 winners
+
 ### [Nova](https://devpost.com/software/nova-ytczl4)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-nova-ytczl4)<br>[Disney](../by-sponsor/disney.md) · **Sponsor Prize - Disney - Best Use of Storytelling**
@@ -514,6 +522,8 @@ Especially during COVID, people have never been more disconnected. Ensemble hope
 An interactive community game with wearable devices that harness storytelling and emotive design.
 
 [Code](https://github.com/tedmyers/hackMIT) · Built with arduino
+
+## 2016 winners
 
 ### [VR DJ](https://devpost.com/software/vr-dj)
 
@@ -530,6 +540,8 @@ Built with c#, unity, vive
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
 Built with firebase, arduino, c++, google-cardboard
+
+## 2013 winners
 
 ### [ImpDataGame](https://devpost.com/software/impdatagame)
 

@@ -4,6 +4,8 @@
 
 **15 winning projects** · 8 hackathons · 15 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Meta)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [2013 winners](#2013-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (6), node.js (5), python (5), swift (5), react (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [CloseMates](https://devpost.com/software/working-hacktx-2026)
 
@@ -91,6 +91,8 @@ A cozy bear that families can use to share stories with their loved ones.
 
 [Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
 
+## 2019 winners
+
 ### [Rap Scorer](https://devpost.com/software/rap-scorer)
 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-rap-scorer) · **Best Hack for Building Community with Facebook**
@@ -98,6 +100,8 @@ A cozy bear that families can use to share stories with their loved ones.
 The pen is mightier than the sword, nothing is more powerful than the word.
 
 [Code](https://github.com/jenniferlai43/rapscorer) · Built with css3, datamuse, html5, javascript
+
+## 2018 winners
 
 ### [Core](https://devpost.com/software/core-fh4pvs)
 
@@ -107,6 +111,8 @@ Helping individuals as they overcome opioid dependency by providing them with vo
 
 [Code](https://github.com/the-flying-circus/HackMIT2018) · Built with facebook-graph, facebook-login-api, flask, giphy
 
+## 2017 winners
+
 ### [NSAR](https://devpost.com/software/nsar)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-nsar) · **Sponsor Prize - Facebook - Best Use of Facebook API**
@@ -114,6 +120,8 @@ Helping individuals as they overcome opioid dependency by providing them with vo
 Get personal details of someone just by looking at them with the magic of a HoloLens, face recognition, and Facebook.
 
 Built with bottle, c++, facebook, facebook-graph
+
+## 2016 winners
 
 ### [BlackBox](https://devpost.com/software/blackbox-ct4my1)
 
@@ -130,6 +138,8 @@ AI-powered Chatbot which give you curated dating advice - while you're on your d
 VR DJ allows you to visualize and manipulate music.
 
 Built with c#, unity, vive
+
+## 2013 winners
 
 ### [NextSlide](https://devpost.com/software/nextslide)
 

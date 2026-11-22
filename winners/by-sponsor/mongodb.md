@@ -4,6 +4,8 @@
 
 **22 winning projects** · 22 hackathons · 22 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=MongoDB)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2013 winners](#2013-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** mongodb (16), react (12), python (9), gemini (6), javascript (6)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [GeoStar](https://devpost.com/software/geostar-5engd7)
 
@@ -95,6 +95,8 @@ What’s Up, New York! is a data driven platform that converts natural language 
 
 [Code](https://github.com/z1ros/planneeer) · [Demo video](https://www.youtube.com/watch?v=ag7kS5ZL1D0) · Built with mongodbvectorsearh, 11labs, express.js, fetchai
 
+## 2025 winners
+
 ### [Morph](https://devpost.com/software/morph-jcot4m)
 
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-morph-jcot4m) · **Best Use of MongoDB Atlas**
@@ -157,6 +159,8 @@ Countless public health datasets have been taken down. Vesalius scrubs the Inter
 
 [Code](https://github.com/mikeiioo/Vesalius) · [Demo video](https://www.youtube.com/watch?v=DN6NTqMk2cE) · Built with flask, llm, python, pytorch
 
+## 2024 winners
+
 ### [blank&#91;space&#93;](https://devpost.com/software/blank-space-s40j1g)
 
 [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md#project-blank-space-s40j1g) · **Best Use of MongoDB Atlas**
@@ -202,6 +206,8 @@ Intelligent data processing and diagnosis for doctors.
 **How it used MongoDB:** The team used MongoDb to store user information, RAG vector database, and PDF storage.
 
 [Demo video](https://www.youtube.com/watch?v=2s-sg1melAo) · Built with mongodb, astro, llama-index, python
+
+## 2013 winners
 
 ### [News Neutrality](https://devpost.com/software/news-neutrality)
 

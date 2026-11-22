@@ -6,6 +6,8 @@
 
 Prizes credited to an individual or with no identified sponsoring organization.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (3), arduino (2), claude (2), deepagents (2), langchain (2)
@@ -15,9 +17,7 @@ Prizes credited to an individual or with no identified sponsoring organization.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Lincoln](https://devpost.com/software/bouy-7tofbl)
 

@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=SAP%20Concur)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** azure (2), amadeus (1), api.ai (1), arkit (1), bing-search-api (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2017 winners
 
 ### [TravelAR](https://devpost.com/software/travelar-g4sq6y)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 TravelAR is an iOS travel application built using Apple's ARKit.
 
 [Code](https://github.com/Averylamp/TravelAR) · [Demo video](https://www.youtube.com/watch?v=ACneUIVByaY) · Built with amadeus, arkit, azure, bing-search-api
+
+## 2016 winners
 
 ### [HomeBites](https://devpost.com/software/homebites-84byd3)
 

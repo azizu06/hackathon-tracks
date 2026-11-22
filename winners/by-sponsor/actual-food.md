@@ -4,6 +4,8 @@
 
 **8 winning projects** · 3 hackathons · 8 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Actual%20Food)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (7), react (5), flask (4), supabase (3), firebase (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [perennial](https://devpost.com/software/perennial-t62nhb)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 track pain and symptoms of chronic conditions like endometriosis in a machine learning android &amp; wearOS application.
 
 [Code](https://github.com/ZacharyYW/perennial) · [Demo video](https://www.youtube.com/watch?v=71_IR5COyFY) · Built with android-studio, cloud-computing, firebase, galaxy-watch
+
+## 2024 winners
 
 ### [Connect Campus](https://devpost.com/software/connect-campus)
 

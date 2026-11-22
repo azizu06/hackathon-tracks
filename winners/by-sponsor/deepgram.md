@@ -4,6 +4,8 @@
 
 **7 winning projects** · 3 hackathons · 7 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Deepgram)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** deepgram (6), gemini (4), hume (2), hyperbolic (2), next.js (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Aside.ai](https://devpost.com/software/aside-ai)
 
@@ -50,6 +50,8 @@ An AI copilot for dispatchers that calmly guides them through urgent situations,
 Turn live conversations into a shared itinerary—maps, places, and bookings update as you talk.
 
 [Code](https://github.com/SanjayMarathe/nomad) · [Demo video](https://www.youtube.com/watch?v=JQJX066AJHk) · Built with deepgram, gemini, livekit, mapbox
+
+## 2024 winners
 
 ### [Hello](https://devpost.com/software/hello-gfsy3l)
 

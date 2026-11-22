@@ -4,6 +4,8 @@
 
 **6 winning projects** · 6 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=DigitalOcean)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** javascript (4), react (4), digitalocean (3), express.js (3), css (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [T-Cell](https://devpost.com/software/t-cell)
 
@@ -32,6 +32,8 @@ The Soldier isolates the threat, evolves a working "cure" (a sandboxed containme
 An algorithm denied you. No explanation.
 
 [Code](https://github.com/noteesh/HackDuke) · [Demo video](https://www.youtube.com/watch?v=KcBM_uwu5As) · Built with digitalocean, auth0, elevenlabs, express.js
+
+## 2025 winners
 
 ### [Agentify Web](https://devpost.com/software/gigachad-agi-megabyte-machine)
 

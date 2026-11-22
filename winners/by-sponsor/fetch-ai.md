@@ -4,6 +4,8 @@
 
 **65 winning projects** · 11 hackathons · 65 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Fetch.ai)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (54), fetch.ai (41), react (27), agentverse (24), uagents (23)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [AdVantage](https://devpost.com/software/advantage-982mg6)
 
@@ -387,6 +387,8 @@ A resale tool uses photos to generate listings and agents to negotiate within a 
 
 [Code](https://github.com/kevinjylin/Yardsale) · [Demo video](https://www.youtube.com/watch?v=sJ1U9u8AtUo) · Built with agentverse, asi:one, fetch.ai, uagents
 
+## 2025 winners
+
 ### [Agent Santa](https://devpost.com/software/agent-santa)
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-agent-santa) · **Fetch AI: Best Use of ASI:One**
@@ -504,6 +506,8 @@ Pitch your startup idea and watch your agentic board brainstorm. Featuring the U
 **How it used Fetch.ai:** ASI:One Mini Integration: FetchAI’s ASI:One Mini LLM powers the brains behind each agent, guiding their tone, responses, and decision-making processes based on their assigned roles.
 
 [Code](https://github.com/srikondapalli1/startup-sim) · [Demo video](https://www.youtube.com/watch?v=IH_bbZ4oxDE) · Built with fetchai, uagents, api, flask
+
+## 2024 winners
 
 ### [Autonomous AI Society](https://devpost.com/software/autonomous-ai-society)
 

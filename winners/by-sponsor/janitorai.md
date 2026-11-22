@@ -4,6 +4,8 @@
 
 **2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=JanitorAI)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (2), express.js (1), fishaudio (1), janitor.ai (1), janitorai (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [CleanGetaway](https://devpost.com/software/cleangetaway)
 

@@ -4,6 +4,8 @@
 
 **5 winning projects** · 3 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Aramco)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** github (3), html (3), gemini (2), javascript (2), node.js (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [DopaMarine](https://devpost.com/software/dopamarine)
 
@@ -48,6 +48,8 @@ Providence unifies your devices and AI conversations through one superagent that
 When Parkinson's symptoms mimic a stroke, missing context can mean misdiagnosis. TapChart puts a patient's motor baseline one NFC tap away, giving care teams a vital point of comparison.
 
 [Demo video](https://www.youtube.com/watch?v=A9tN4Z6MoyE) · Built with claude, css, html, javascript
+
+## 2025 winners
 
 ### [SiteOps](https://devpost.com/software/siteops)
 

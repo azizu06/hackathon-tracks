@@ -4,6 +4,8 @@
 
 **15 winning projects** · 5 hackathons · 15 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Toyota%20Financial%20Services)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (11), typescript (8), javascript (7), next.js (6), python (5)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Drivn](https://devpost.com/software/car-of-the-future)
 
@@ -67,6 +67,8 @@ You can outrun the cops. Not your APR.
 
 [Code](https://github.com/vishy-m/Toyyo) · [Demo video](https://www.youtube.com/watch?v=AxL6UkqenSE) · Built with anthropic-claude, framer-motion, google-gemini, html5
 
+## 2025 winners
+
 ### [Astraeus](https://devpost.com/software/astraeus)
 
 [HackTX 2025](../by-hackathon/hacktx-2025.md#project-astraeus) · **Best Toyota Hack**
@@ -114,6 +116,8 @@ MyToyota simplifies car financing by matching users’ income, credit, and prefe
 Toyotron is a solution that allows users to easily find their dream Toyota through agentic AI powered by NVIDIA's intelligent open source foundational model, Nemotron.
 
 [Code](https://github.com/anbguye/hackutd-Toyota-Toyotron) · [Demo video](https://www.youtube.com/watch?v=CSc6zKQRxIY) · Built with ai, css, nemotron, next.js
+
+## 2024 winners
 
 ### [-KaizenDrive](https://devpost.com/software/project-ip7kgx0314sh)
 

@@ -4,6 +4,8 @@
 
 **8 winning projects** · 3 hackathons · 8 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=IBM)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** ibm-watson (4), arduino (3), javascript (3), node-red (3), raspberry-pi (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2019 winners
 
 ### [CaneAssist](https://devpost.com/software/caneassist)
 
@@ -61,6 +61,8 @@ Your future for knowing what's in your water.
 
 [Code](https://github.com/maywu89/Water-Crusader) · Built with ibm-watson, arduino, esp32, node-red
 
+## 2018 winners
+
 ### [Blockchain Resource Manager](https://devpost.com/software/blockchain-resource-manager)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-blockchain-resource-manager) · **Best Disaster Preparedness &amp; Relief Solutions for IBM Call for Code Challenge**
@@ -76,6 +78,8 @@ Built with hyperledger, node-red
 Are you prepared for the worst.
 
 [Code](https://github.com/disaster-rescue/disaster-rescue.github.io) · [Demo video](https://www.youtube.com/watch?v=o8giqAKmIZw) · Built with ibm-watson, ajax, bootstrap, css
+
+## 2017 winners
 
 ### [Pixelator](https://devpost.com/software/pixelator)
 

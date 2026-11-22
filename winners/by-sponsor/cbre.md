@@ -4,6 +4,8 @@
 
 **9 winning projects** · 3 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=CBRE)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (5), next.js (4), typescript (4), node.js (3), gemini (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [BluePrint](https://devpost.com/software/blueprint-ozq9hy)
 
@@ -41,6 +41,8 @@ Turn real-estate data into explainable infrastructure risk insights and prioriti
 
 [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
+## 2025 winners
+
 ### [Cura](https://devpost.com/software/tbd-58ftpr)
 
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-tbd-58ftpr) · **CBRE**
@@ -64,6 +66,8 @@ Expediting the contracts and document signings process between vendors and clien
 The app is a full-featured real estate helper that helps you find and trust properties.
 
 [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
+
+## 2024 winners
 
 ### [Eco Fast Track](https://devpost.com/software/apartment-monitoring)
 

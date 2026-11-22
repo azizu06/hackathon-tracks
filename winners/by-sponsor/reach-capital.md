@@ -4,6 +4,8 @@
 
 **5 winning projects** · 5 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Reach%20Capital)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (3), css (2), javascript (2), next.js (2), node.js (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [VaccineOS](https://devpost.com/software/vaccineos)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 Vaccine OS is a full-stack neoantigen vaccine design platform.
 
 Built with claude, next.js, postgresql, python
+
+## 2025 winners
 
 ### [AutoCPT](https://devpost.com/software/autocpt)
 

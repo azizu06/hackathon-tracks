@@ -4,6 +4,8 @@
 
 **25 winning projects** · 14 sponsors · 26 sponsor prizes · [Devpost gallery](https://mhacks-2025.devpost.com/project-gallery) · [Prize rules](https://mhacks-2025.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (15), javascript (9), typescript (9), gemini (8), react (7)
@@ -15,26 +17,28 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [AgentMail](../by-sponsor/agentmail.md) | 3 | Best Use of AgentMail API |
-| [Auth0](../by-sponsor/auth0.md) | 1 | Best Use of Auth0 &#124;&#124; Wireless Headphones |
-| [Base44](../by-sponsor/base44.md) | 1 | Best integration with Base44 |
-| [Cloudflare](../by-sponsor/cloudflare.md) | 1 | Best AI Application presented by Cloudflare &#124;&#124; Arduino Kit |
-| [Embedder](../by-sponsor/embedder.md) | 1 | Best Hardware Hack presented by Embedder |
-| [Fetch.ai](../by-sponsor/fetch-ai.md) | 3 | Best use of ASI:One Presented by Fetch.Ai; Best Deployment on Agentverse Presented by Fetch.Ai; Best Use of Fetch.ai |
-| [Ford](../by-sponsor/ford.md) | 1 | Vision Alignment Tool presented by Ford |
-| [FREE-WILi](../by-sponsor/free-wili.md) | 2 | Best Use of FREE-WiLi |
-| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 1 | Best Domain Name presented by GoDaddy &#124;&#124; Digital Gift Card |
-| [Google](../by-sponsor/google.md) | 1 | Best Use of Gemini API presented by Google Gemini &#124;&#124; Mechanical Keyboards |
-| [Grainger](../by-sponsor/grainger.md) | 2 | Smart Task Accelerator presented by Grainger |
-| [MemryX](../by-sponsor/memryx.md) | 3 | Best Use of MemryX Edge AI Accelerator |
-| [Snap](../by-sponsor/snap.md) | 3 | Best use of Snap AR |
-| [Solana](../by-sponsor/solana.md) | 3 | Most Creative Solana MCP |
+| [AgentMail](../by-sponsor/agentmail.md) | 3 | [Best Use of AgentMail API](#agentmail-winners) |
+| [Auth0](../by-sponsor/auth0.md) | 1 | [Best Use of Auth0 &#124;&#124; Wireless Headphones](#auth0-winners) |
+| [Base44](../by-sponsor/base44.md) | 1 | [Best integration with Base44](#base44-winners) |
+| [Cloudflare](../by-sponsor/cloudflare.md) | 1 | [Best AI Application presented by Cloudflare &#124;&#124; Arduino Kit](#cloudflare-winners) |
+| [Embedder](../by-sponsor/embedder.md) | 1 | [Best Hardware Hack presented by Embedder](#embedder-winners) |
+| [Fetch.ai](../by-sponsor/fetch-ai.md) | 3 | [Best use of ASI:One Presented by Fetch.Ai; Best Deployment on Agentverse Presented by Fetch.Ai; Best Use of Fetch.ai](#fetchai-winners) |
+| [Ford](../by-sponsor/ford.md) | 1 | [Vision Alignment Tool presented by Ford](#ford-winners) |
+| [FREE-WILi](../by-sponsor/free-wili.md) | 2 | [Best Use of FREE-WiLi](#free-wili-winners) |
+| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 1 | [Best Domain Name presented by GoDaddy &#124;&#124; Digital Gift Card](#godaddy-registry-winners) |
+| [Google](../by-sponsor/google.md) | 1 | [Best Use of Gemini API presented by Google Gemini &#124;&#124; Mechanical Keyboards](#google-winners) |
+| [Grainger](../by-sponsor/grainger.md) | 2 | [Smart Task Accelerator presented by Grainger](#grainger-winners) |
+| [MemryX](../by-sponsor/memryx.md) | 3 | [Best Use of MemryX Edge AI Accelerator](#memryx-winners) |
+| [Snap](../by-sponsor/snap.md) | 3 | [Best use of Snap AR](#snap-winners) |
+| [Solana](../by-sponsor/solana.md) | 3 | [Most Creative Solana MCP](#solana-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-mobilens"></a>
 
@@ -60,55 +64,15 @@ Your environment should work for you.
 
 </details>
 
-<a name="project-bazaar-ai-agent-marketplace-fetch-ai"></a>
+## Winners by sponsor track
 
-### [Bazaar - AI Agent Marketplace (Fetch.ai)](https://devpost.com/software/bazaar-ai-agent-marketplace-fetch-ai)
+### AgentMail winners
 
-[Fetch.ai](../by-sponsor/fetch-ai.md) · **Best use of ASI:One Presented by Fetch.Ai**
-
-A trust-minimized marketplace where AI agents autonomously negotiate, execute, and verify tasks with cryptographic guarantees and blockchain payments.
-
-[Code](https://github.com/FrankWithYou/mhacks25) · [Demo video](https://www.youtube.com/watch?v=-qG-crU2Gq4) · Built with fetch.ai, blockchain, fastapi, html/css/js
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** blockchain, fastapi, fetch.ai, html/css/js, pydantic, python, sqlite
-- **Code:** [Source 1](https://github.com/FrankWithYou/mhacks25)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=-qG-crU2Gq4)
-- **All prizes at this hackathon (1):** Best use of ASI:One Presented by Fetch.Ai
-- **How it used Fetch.ai:** Architecture: Built on Fetch.ai's uAgent framework with a distributed multi-agent system:.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-clai"></a>
-
-### [CLAI](https://devpost.com/software/clai)
-
-[Google](../by-sponsor/google.md) · **Best Use of Gemini API presented by Google Gemini &#124;&#124; Mechanical Keyboards**
-
-The team spent a long time brainstorming project ideas and could not find one that met the expectations in terms of technicality and creativity.
-
-[Code](https://github.com/Cryplo/MHacks25) · [Demo video](https://vimeo.com/1122664326) · Built with gemini, bash, electron, fastapi
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** bash, electron, fastapi, gemini, hmac, python, react, typescript, websockets
-- **Code:** [Source 1](https://github.com/Cryplo/MHacks25)
-- **Demo video:** [Video 1](https://vimeo.com/1122664326)
-- **All prizes at this hackathon (1):** MLH - Best Use of Gemini API presented by Google Gemini &#124;&#124; Mechanical Keyboards
-- **How it used Google:** The project lists gemini among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best Use of AgentMail API · [All AgentMail winners](../by-sponsor/agentmail.md)
 
 <a name="project-concord-ha3jnv"></a>
 
-### [Concord](https://devpost.com/software/concord-ha3jnv)
+#### [Concord](https://devpost.com/software/concord-ha3jnv)
 
 [AgentMail](../by-sponsor/agentmail.md) · **Best Use of AgentMail API**
 
@@ -129,215 +93,9 @@ Event coordination through intelligent email management.
 
 </details>
 
-<a name="project-temp-cbdzve"></a>
-
-### [Conductor](https://devpost.com/software/temp-cbdzve)
-
-[Embedder](../by-sponsor/embedder.md) · **Best Hardware Hack presented by Embedder**
-
-Giving LLM irl hands and eyes. Convert any embedded system into a plug and play device with the power of Conductor.
-
-[Code](https://github.com/wenbox360/Conductor) · [Demo video](https://www.youtube.com/watch?v=4Sr5CIKw8jU) · Built with c, css, fastmcpcloud, llm
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** c, css, fastmcpcloud, llm, mcp, python, typescript
-- **Code:** [Source 1](https://github.com/wenbox360/Conductor)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=4Sr5CIKw8jU)
-- **All prizes at this hackathon (1):** Best Hardware Hack presented by Embedder
-- **How it used Embedder:** The system is dynamic, automatically detecting the available hardware components and exposing them as "tools" to a powerful LLM, Claude.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-conversenses"></a>
-
-### [Conversenses](https://devpost.com/software/conversenses)
-
-[Snap](../by-sponsor/snap.md) · **Best use of Snap AR**
-
-Real-time AR &amp; AI coach for better conversations and addressing the fear of public speaking.
-
-[Code](https://github.com/MatchaOnMuffins/MHacks25) · [Demo video](https://www.youtube.com/watch?v=YTZotjnA4ok) · Built with lens-studio, spectacles, base-44, fast
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** base-44, fast, gemini-api, google-cloud, javascript, langchain, lens-studio, mysql, python, spectacles, tailwindcss
-- **Code:** [Source 1](https://github.com/MatchaOnMuffins/MHacks25)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=YTZotjnA4ok)
-- **All prizes at this hackathon (1):** Best use of Snap AR
-- **How it used Snap:** The project lists lens-studio, spectacles among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-declutttered-ai"></a>
-
-### [deCluttered.ai](https://devpost.com/software/declutttered-ai)
-
-[Fetch.ai](../by-sponsor/fetch-ai.md) · **Best Deployment on Agentverse Presented by Fetch.Ai**
-
-An end-to-end automated resale assistant that takes you from clutter → cash in a few taps.
-
-[Code](https://github.com/KanikaGupta16/Decluttered.ai) · Built with cv, gemini, next.js, python
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** cv, gemini, next.js, python
-- **Code:** [Source 1](https://github.com/KanikaGupta16/Decluttered.ai)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Best Deployment on Agentverse Presented by Fetch.Ai
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-dill-study"></a>
-
-### [Dill.study](https://devpost.com/software/dill-study)
-
-[GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name presented by GoDaddy &#124;&#124; Digital Gift Card**
-
-Let students upload a problem set (PDF), have the system split it into editable problems, and provide scaffolded, non-spoiler AI help while they work, plus a natural interface to talk through problems.
-
-[Code](https://github.com/niravjaiswal/dill-study) · [Demo video](https://www.youtube.com/watch?v=L9JpF37PfSs) · Built with agentmail, firebase, gemini, react
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** agentmail, firebase, gemini, react, typescript, vite
-- **Code:** [Source 1](https://github.com/niravjaiswal/dill-study)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=L9JpF37PfSs)
-- **All prizes at this hackathon (1):** MLH - Best Domain Name presented by GoDaddy &#124;&#124; Digital Gift Card
-- **How it used GoDaddy Registry:** Upload a PDF → extract text → split into structured problems.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-dune-mcp"></a>
-
-### [Dune MCP](https://devpost.com/software/dune-mcp)
-
-[Solana](../by-sponsor/solana.md) · **Most Creative Solana MCP**
-
-Run powerful Dune queries and unlock blockchain insights by paying in USDC/SOL per result with x402. This Dune MCP server delivers raw on-chain data instantly through simple pay-per-query access.
-
-[Code](https://github.com/Apollo005/dune_mcp) · [Demo video](https://vimeo.com/1122601872) · Built with solana, css, duneanalytics, html
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** css, duneanalytics, html, http, javascript, postgresql, rpc, solana, tailwind, typescript
-- **Code:** [Source 1](https://github.com/Apollo005/dune_mcp)
-- **Demo video:** [Video 1](https://vimeo.com/1122601872)
-- **All prizes at this hackathon (1):** Most Creative Solana MCP
-- **How it used Solana:** The project lists solana among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-ecoscout-g01h43"></a>
-
-### [EcoScout](https://devpost.com/software/ecoscout-g01h43)
-
-[Base44](../by-sponsor/base44.md) · **Best integration with Base44**
-
-Ever wondered if your shopping cart is hurting the planet? 🌍 EcoScout scans products, gives instant EcoScores, and suggests greener swaps—helping you shop smart and sustainably.
-
-[Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** ai, aiagents, api, base44, base44aiagents, base44cloud, cloud, co?-footprint, eco-score-agent, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), googleauth, impact-tracker-agent-&#42;&#42;progressive-web-app-(pwa)&#42;&#42;-?-mobile-friendly-deployment-&#42;&#42;apis-/-data-sources&#42;&#42;-?-product-information-apis, javascript, packaging-recyclability, personalization-agent, react, recommendation-agent, sustainability-datasets-(e.g., water-usage
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=0pXKtrhJ71g)
-- **All prizes at this hackathon (1):** Best integration with Base44
-- **How it used Base44:** The team built EcoScout using Base44 for both frontend and backend orchestration:.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-enforcar"></a>
-
-### [EnforcAR](https://devpost.com/software/enforcar)
-
-[Snap](../by-sponsor/snap.md) · **Best use of Snap AR**
-
-An augmented reality law enforcement aid using Snapchat Spectacles.
-
-[Code](https://github.com/ojlennon/MHacks2025) · [Demo video](https://www.youtube.com/watch?v=oUNED0N_luM) · Built with lens-studio, docker, fastapi, python
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** docker, fastapi, lens-studio, python, snapos, typescript
-- **Code:** [Source 1](https://github.com/ojlennon/MHacks2025)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=oUNED0N_luM)
-- **All prizes at this hackathon (1):** Best use of Snap AR
-- **How it used Snap:** The system uses Snap Spectacles to continuously scan the user’s entire field of view for license plates.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-food-runner-ai"></a>
-
-### [Food Runner AI](https://devpost.com/software/food-runner-ai)
-
-[Grainger](../by-sponsor/grainger.md) · **Smart Task Accelerator presented by Grainger**
-
-Skip the planning, savor the eating. Optimize road trips to no longer exhaustively search for food that you like.
-
-[Code](https://github.com/krrishkk/foodrunner) · [Demo video](https://www.youtube.com/watch?v=uo4ONCYzjgA) · Built with asyncstorage, cors, expo.io, flask
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** asyncstorage, cors, expo.io, flask, geopy, openrouteservice, overpass, react-native, react-native-maps
-- **Code:** [Source 1](https://github.com/krrishkk/foodrunner)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=uo4ONCYzjgA)
-- **All prizes at this hackathon (1):** Smart Task Accelerator presented by Grainger
-- **How it used Grainger:** Food Runner eliminates meal planning stress by using AI to create personalized, optimized food routes.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-gestura-9oaugq"></a>
-
-### [Gestura](https://devpost.com/software/gestura-9oaugq)
-
-[FREE-WILi](../by-sponsor/free-wili.md) · **Best Use of FREE-WiLi**
-
-Gesture-based mouse built using FreeWILi and Vosk text-to-speech used to increase accessibility in using the web for disabled people, such as amputees and people with lost-mobility in their hands.
-
-[Code](https://github.com/imzaynb/MHacks2025) · [Demo video](https://www.youtube.com/watch?v=7x3D7nPJlRc) · Built with freewili, git, github, pynput
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** freewili, git, github, pynput, python, sounddevice, vosx
-- **Code:** [Source 1](https://github.com/imzaynb/MHacks2025)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=7x3D7nPJlRc)
-- **All prizes at this hackathon (1):** Best Use of FREE-WiLi
-- **How it used FREE-WILi:** Gestura enables users to control their mouse using hand gestures and perform mouse actions via voice commands .
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-greenprint-c2deb1"></a>
 
-### [GreenPrint](https://devpost.com/software/greenprint-c2deb1)
+#### [GreenPrint](https://devpost.com/software/greenprint-c2deb1)
 
 [AgentMail](../by-sponsor/agentmail.md) · **Best Use of AgentMail API**
 
@@ -358,31 +116,90 @@ An all-in-one proactive monitoring system for sustainability and safety.
 
 </details>
 
-<a name="project-n-a-a1b2e9"></a>
+<a name="project-ticketry-ai"></a>
 
-### [MasterMatch](https://devpost.com/software/n-a-a1b2e9)
+#### [Ticketry.AI](https://devpost.com/software/ticketry-ai)
 
-[Ford](../by-sponsor/ford.md) · **Vision Alignment Tool presented by Ford**
+[AgentMail](../by-sponsor/agentmail.md) · **Best Use of AgentMail API**
 
-The Ford Vision Station Alignment System is a comprehensive computer vision solution that provides real-time alignment detection and guidance for automotive manufacturing operations.
+Ticketry.AI bridges the gap between business stakeholders and development teams by automatically converting email requests into structured, actionable tickets.
 
-Built with 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras
+[Code](https://github.com/signal86/ticketry.ai) · Built with agentmail, auth0, gemini, mongodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
-- **Built with:** 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras, camera, camera-matrix-calculations, cors-middleware, css-custom-properties, css3, docker, eslint, fastapi, framer-motion, gige-vision, git, harris-corner-detection, http, https, hybrid-computer-vision, industrial, javascript, jpeg, json, linux, lucide-react, mjpeg-streams, node.js, novel-view-synthesis, npm, numpy, opencv, orb-features, package.json, png, pydantic, pypylon, python, react-18, real-time-image-processing, requirements.txt, rest-apis, sift-features, template-matching, twilio, typescript, usb3-vision, uvicorn, virtual-environments, vite, websocket-protocol, websockets, windows, wsl2
-- **Code:** None listed.
+- **Built with:** agentmail, auth0, gemini, mongodb, nextjs
+- **Code:** [Source 1](https://github.com/signal86/ticketry.ai)
 - **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Vision Alignment Tool presented by Ford
+- **All prizes at this hackathon (1):** Best Use of AgentMail API
+- **How it used AgentMail:** The project lists agentmail among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### Auth0 winners
+
+**Track:** Best Use of Auth0 &#124;&#124; Wireless Headphones · [All Auth0 winners](../by-sponsor/auth0.md)
+
+<a name="project-splitr-vbt924"></a>
+
+#### [Splitr](https://devpost.com/software/splitr-vbt924)
+
+[Auth0](../by-sponsor/auth0.md) · **Best Use of Auth0 &#124;&#124; Wireless Headphones**
+
+Your Face, Your Share, Your Bill.
+
+[Demo video](https://www.youtube.com/watch?v=tZ9x2874vH4) · Built with auth0, css, flask, git
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** auth0, css, flask, git, github, html, javascript, opencv-+-pytorch-(face-recognition), sqlite, vanillajs
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=tZ9x2874vH4)
+- **All prizes at this hackathon (1):** MLH - Best Use of Auth0 &#124;&#124; Wireless Headphones
+- **How it used Auth0:** The project lists auth0 among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Base44 winners
+
+**Track:** Best integration with Base44 · [All Base44 winners](../by-sponsor/base44.md)
+
+<a name="project-ecoscout-g01h43"></a>
+
+#### [EcoScout](https://devpost.com/software/ecoscout-g01h43)
+
+[Base44](../by-sponsor/base44.md) · **Best integration with Base44**
+
+Ever wondered if your shopping cart is hurting the planet? 🌍 EcoScout scans products, gives instant EcoScores, and suggests greener swaps—helping you shop smart and sustainably.
+
+[Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** ai, aiagents, api, base44, base44aiagents, base44cloud, cloud, co?-footprint, eco-score-agent, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), googleauth, impact-tracker-agent-&#42;&#42;progressive-web-app-(pwa)&#42;&#42;-?-mobile-friendly-deployment-&#42;&#42;apis-/-data-sources&#42;&#42;-?-product-information-apis, javascript, packaging-recyclability, personalization-agent, react, recommendation-agent, sustainability-datasets-(e.g., water-usage
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=0pXKtrhJ71g)
+- **All prizes at this hackathon (1):** Best integration with Base44
+- **How it used Base44:** The team built EcoScout using Base44 for both frontend and backend orchestration:.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Cloudflare winners
+
+**Track:** Best AI Application presented by Cloudflare &#124;&#124; Arduino Kit · [All Cloudflare winners](../by-sponsor/cloudflare.md)
+
 <a name="project-mbathrooms"></a>
 
-### [MBathroom](https://devpost.com/software/mbathrooms)
+#### [MBathroom](https://devpost.com/software/mbathrooms)
 
 [Cloudflare](../by-sponsor/cloudflare.md) · **Best AI Application presented by Cloudflare &#124;&#124; Arduino Kit**
 
@@ -403,32 +220,270 @@ Have you ever walked into a dirty bathroom? Sometimes you just want a bathroom t
 
 </details>
 
-<a name="project-solvend"></a>
+### Embedder winners
 
-### [Solvend](https://devpost.com/software/solvend)
+**Track:** Best Hardware Hack presented by Embedder · [All Embedder winners](../by-sponsor/embedder.md)
 
-[Solana](../by-sponsor/solana.md) · **Most Creative Solana MCP**
+<a name="project-temp-cbdzve"></a>
 
-A way to be updated with the most up-to-date information on crypto and assets - compiled with AI.
+#### [Conductor](https://devpost.com/software/temp-cbdzve)
 
-[Code](https://github.com/hyungminoh2/Solvend-mhacks2025) · Built with flask, google-generative-ai-(gemini-1.5), javascript, next.js
+[Embedder](../by-sponsor/embedder.md) · **Best Hardware Hack presented by Embedder**
+
+Giving LLM irl hands and eyes. Convert any embedded system into a plug and play device with the power of Conductor.
+
+[Code](https://github.com/wenbox360/Conductor) · [Demo video](https://www.youtube.com/watch?v=4Sr5CIKw8jU) · Built with c, css, fastmcpcloud, llm
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** c, css, fastmcpcloud, llm, mcp, python, typescript
+- **Code:** [Source 1](https://github.com/wenbox360/Conductor)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=4Sr5CIKw8jU)
+- **All prizes at this hackathon (1):** Best Hardware Hack presented by Embedder
+- **How it used Embedder:** The system is dynamic, automatically detecting the available hardware components and exposing them as "tools" to a powerful LLM, Claude.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Fetch.ai winners
+
+**Track:** Best use of ASI:One Presented by Fetch.Ai; Best Deployment on Agentverse Presented by Fetch.Ai; Best Use of Fetch.ai · [All Fetch.ai winners](../by-sponsor/fetch-ai.md)
+
+Also won this track: [MobiLens](#project-mobilens) (listed above)
+
+<a name="project-bazaar-ai-agent-marketplace-fetch-ai"></a>
+
+#### [Bazaar - AI Agent Marketplace (Fetch.ai)](https://devpost.com/software/bazaar-ai-agent-marketplace-fetch-ai)
+
+[Fetch.ai](../by-sponsor/fetch-ai.md) · **Best use of ASI:One Presented by Fetch.Ai**
+
+A trust-minimized marketplace where AI agents autonomously negotiate, execute, and verify tasks with cryptographic guarantees and blockchain payments.
+
+[Code](https://github.com/FrankWithYou/mhacks25) · [Demo video](https://www.youtube.com/watch?v=-qG-crU2Gq4) · Built with fetch.ai, blockchain, fastapi, html/css/js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
-- **Built with:** flask, google-generative-ai-(gemini-1.5), javascript, next.js, npm, python, react, tailwind-css, typescript
-- **Code:** [Source 1](https://github.com/hyungminoh2/Solvend-mhacks2025)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Most Creative Solana MCP
-- **How it used Solana:** AI Integration: Hands-on experience with Google's Gemini models and prompt engineering for domain-specific applications.
+- **Built with:** blockchain, fastapi, fetch.ai, html/css/js, pydantic, python, sqlite
+- **Code:** [Source 1](https://github.com/FrankWithYou/mhacks25)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=-qG-crU2Gq4)
+- **All prizes at this hackathon (1):** Best use of ASI:One Presented by Fetch.Ai
+- **How it used Fetch.ai:** Architecture: Built on Fetch.ai's uAgent framework with a distributed multi-agent system:.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+<a name="project-declutttered-ai"></a>
+
+#### [deCluttered.ai](https://devpost.com/software/declutttered-ai)
+
+[Fetch.ai](../by-sponsor/fetch-ai.md) · **Best Deployment on Agentverse Presented by Fetch.Ai**
+
+An end-to-end automated resale assistant that takes you from clutter → cash in a few taps.
+
+[Code](https://github.com/KanikaGupta16/Decluttered.ai) · Built with cv, gemini, next.js, python
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** cv, gemini, next.js, python
+- **Code:** [Source 1](https://github.com/KanikaGupta16/Decluttered.ai)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Best Deployment on Agentverse Presented by Fetch.Ai
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Ford winners
+
+**Track:** Vision Alignment Tool presented by Ford · [All Ford winners](../by-sponsor/ford.md)
+
+<a name="project-n-a-a1b2e9"></a>
+
+#### [MasterMatch](https://devpost.com/software/n-a-a1b2e9)
+
+[Ford](../by-sponsor/ford.md) · **Vision Alignment Tool presented by Ford**
+
+The Ford Vision Station Alignment System is a comprehensive computer vision solution that provides real-time alignment detection and guidance for automotive manufacturing operations.
+
+Built with 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras, camera, camera-matrix-calculations, cors-middleware, css-custom-properties, css3, docker, eslint, fastapi, framer-motion, gige-vision, git, harris-corner-detection, http, https, hybrid-computer-vision, industrial, javascript, jpeg, json, linux, lucide-react, mjpeg-streams, node.js, novel-view-synthesis, npm, numpy, opencv, orb-features, package.json, png, pydantic, pypylon, python, react-18, real-time-image-processing, requirements.txt, rest-apis, sift-features, template-matching, twilio, typescript, usb3-vision, uvicorn, virtual-environments, vite, websocket-protocol, websockets, windows, wsl2
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Vision Alignment Tool presented by Ford
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### FREE-WILi winners
+
+**Track:** Best Use of FREE-WiLi · [All FREE-WILi winners](../by-sponsor/free-wili.md)
+
+<a name="project-gestura-9oaugq"></a>
+
+#### [Gestura](https://devpost.com/software/gestura-9oaugq)
+
+[FREE-WILi](../by-sponsor/free-wili.md) · **Best Use of FREE-WiLi**
+
+Gesture-based mouse built using FreeWILi and Vosk text-to-speech used to increase accessibility in using the web for disabled people, such as amputees and people with lost-mobility in their hands.
+
+[Code](https://github.com/imzaynb/MHacks2025) · [Demo video](https://www.youtube.com/watch?v=7x3D7nPJlRc) · Built with freewili, git, github, pynput
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** freewili, git, github, pynput, python, sounddevice, vosx
+- **Code:** [Source 1](https://github.com/imzaynb/MHacks2025)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=7x3D7nPJlRc)
+- **All prizes at this hackathon (1):** Best Use of FREE-WiLi
+- **How it used FREE-WILi:** Gestura enables users to control their mouse using hand gestures and perform mouse actions via voice commands .
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-wattson-5btsyd"></a>
+
+#### [Wattson](https://devpost.com/software/wattson-5btsyd)
+
+[FREE-WILi](../by-sponsor/free-wili.md) · **Best Use of FREE-WiLi**
+
+Nurture a pet by being sustainable.
+
+[Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** freewili, opencv, python
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=GzLRBSqCBSw)
+- **All prizes at this hackathon (2):** Best Use of FREE-WiLi · MHacks Greenprint Winner
+- **How it used FREE-WILi:** Wattson is aimed to reduce your electricity waste by encouraging users to minimize the time their light is on through gamified experiences.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### GoDaddy Registry winners
+
+**Track:** Best Domain Name presented by GoDaddy &#124;&#124; Digital Gift Card · [All GoDaddy Registry winners](../by-sponsor/godaddy-registry.md)
+
+<a name="project-dill-study"></a>
+
+#### [Dill.study](https://devpost.com/software/dill-study)
+
+[GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name presented by GoDaddy &#124;&#124; Digital Gift Card**
+
+Let students upload a problem set (PDF), have the system split it into editable problems, and provide scaffolded, non-spoiler AI help while they work, plus a natural interface to talk through problems.
+
+[Code](https://github.com/niravjaiswal/dill-study) · [Demo video](https://www.youtube.com/watch?v=L9JpF37PfSs) · Built with agentmail, firebase, gemini, react
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** agentmail, firebase, gemini, react, typescript, vite
+- **Code:** [Source 1](https://github.com/niravjaiswal/dill-study)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=L9JpF37PfSs)
+- **All prizes at this hackathon (1):** MLH - Best Domain Name presented by GoDaddy &#124;&#124; Digital Gift Card
+- **How it used GoDaddy Registry:** Upload a PDF → extract text → split into structured problems.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Google winners
+
+**Track:** Best Use of Gemini API presented by Google Gemini &#124;&#124; Mechanical Keyboards · [All Google winners](../by-sponsor/google.md)
+
+<a name="project-clai"></a>
+
+#### [CLAI](https://devpost.com/software/clai)
+
+[Google](../by-sponsor/google.md) · **Best Use of Gemini API presented by Google Gemini &#124;&#124; Mechanical Keyboards**
+
+The team spent a long time brainstorming project ideas and could not find one that met the expectations in terms of technicality and creativity.
+
+[Code](https://github.com/Cryplo/MHacks25) · [Demo video](https://vimeo.com/1122664326) · Built with gemini, bash, electron, fastapi
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** bash, electron, fastapi, gemini, hmac, python, react, typescript, websockets
+- **Code:** [Source 1](https://github.com/Cryplo/MHacks25)
+- **Demo video:** [Video 1](https://vimeo.com/1122664326)
+- **All prizes at this hackathon (1):** MLH - Best Use of Gemini API presented by Google Gemini &#124;&#124; Mechanical Keyboards
+- **How it used Google:** The project lists gemini among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Grainger winners
+
+**Track:** Smart Task Accelerator presented by Grainger · [All Grainger winners](../by-sponsor/grainger.md)
+
+<a name="project-food-runner-ai"></a>
+
+#### [Food Runner AI](https://devpost.com/software/food-runner-ai)
+
+[Grainger](../by-sponsor/grainger.md) · **Smart Task Accelerator presented by Grainger**
+
+Skip the planning, savor the eating. Optimize road trips to no longer exhaustively search for food that you like.
+
+[Code](https://github.com/krrishkk/foodrunner) · [Demo video](https://www.youtube.com/watch?v=uo4ONCYzjgA) · Built with asyncstorage, cors, expo.io, flask
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** asyncstorage, cors, expo.io, flask, geopy, openrouteservice, overpass, react-native, react-native-maps
+- **Code:** [Source 1](https://github.com/krrishkk/foodrunner)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=uo4ONCYzjgA)
+- **All prizes at this hackathon (1):** Smart Task Accelerator presented by Grainger
+- **How it used Grainger:** Food Runner eliminates meal planning stress by using AI to create personalized, optimized food routes.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-zygonic-integrated-productivity"></a>
+
+#### [zygonic - Integrated Productivity](https://devpost.com/software/zygonic-integrated-productivity)
+
+[Grainger](../by-sponsor/grainger.md) · **Smart Task Accelerator presented by Grainger**
+
+The team created a Swift app so that you can use the tool directly from the MacOS icon bar.
+
+[Code](https://github.com/evanhekman/zygonic) · [Demo video](https://www.youtube.com/watch?v=B43pgol5dvg) · Built with docker, fastapi, gemini, n8n
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** docker, fastapi, gemini, n8n, postgresql, python, react, swift
+- **Code:** [Source 1](https://github.com/evanhekman/zygonic)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=B43pgol5dvg)
+- **All prizes at this hackathon (1):** Smart Task Accelerator presented by Grainger
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### MemryX winners
+
+**Track:** Best Use of MemryX Edge AI Accelerator · [All MemryX winners](../by-sponsor/memryx.md)
+
 <a name="project-soundsage"></a>
 
-### [SoundSage](https://devpost.com/software/soundsage)
+#### [SoundSage](https://devpost.com/software/soundsage)
 
 [MemryX](../by-sponsor/memryx.md) · **Best Use of MemryX Edge AI Accelerator**
 
@@ -451,7 +506,7 @@ SoundSage: World's first real-time music intelligence. Instantly identifies genr
 
 <a name="project-soundsense-jvz6yx"></a>
 
-### [SoundSense](https://devpost.com/software/soundsense-jvz6yx)
+#### [SoundSense](https://devpost.com/software/soundsense-jvz6yx)
 
 [MemryX](../by-sponsor/memryx.md) · **Best Use of MemryX Edge AI Accelerator**
 
@@ -472,101 +527,9 @@ Digital ears for the deaf community - AI that turns critical sounds into instant
 
 </details>
 
-<a name="project-splitr-vbt924"></a>
-
-### [Splitr](https://devpost.com/software/splitr-vbt924)
-
-[Auth0](../by-sponsor/auth0.md) · **Best Use of Auth0 &#124;&#124; Wireless Headphones**
-
-Your Face, Your Share, Your Bill.
-
-[Demo video](https://www.youtube.com/watch?v=tZ9x2874vH4) · Built with auth0, css, flask, git
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** auth0, css, flask, git, github, html, javascript, opencv-+-pytorch-(face-recognition), sqlite, vanillajs
-- **Code:** Listed on Devpost but not verified.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=tZ9x2874vH4)
-- **All prizes at this hackathon (1):** MLH - Best Use of Auth0 &#124;&#124; Wireless Headphones
-- **How it used Auth0:** The project lists auth0 among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-ticketry-ai"></a>
-
-### [Ticketry.AI](https://devpost.com/software/ticketry-ai)
-
-[AgentMail](../by-sponsor/agentmail.md) · **Best Use of AgentMail API**
-
-Ticketry.AI bridges the gap between business stakeholders and development teams by automatically converting email requests into structured, actionable tickets.
-
-[Code](https://github.com/signal86/ticketry.ai) · Built with agentmail, auth0, gemini, mongodb
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** agentmail, auth0, gemini, mongodb, nextjs
-- **Code:** [Source 1](https://github.com/signal86/ticketry.ai)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Best Use of AgentMail API
-- **How it used AgentMail:** The project lists agentmail among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-trader-s-co-pilot"></a>
-
-### [Trader's Co-Pilot](https://devpost.com/software/trader-s-co-pilot)
-
-[Solana](../by-sponsor/solana.md) · **Most Creative Solana MCP**
-
-Trader’s Co-Pilot: the first AI-native Solana trading platform on MCP with 14 pro tools for safe blockchain interaction, MEV defense, signals, and agent payments.
-
-[Code](https://github.com/rajashekarcs2023/mhacks-solana) · [Demo video](https://www.youtube.com/watch?v=21jeXHPXkEw) · Built with solana, javascript, mcp, typescript
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** javascript, mcp, solana, typescript, web3
-- **Code:** [Source 1](https://github.com/rajashekarcs2023/mhacks-solana)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=21jeXHPXkEw)
-- **All prizes at this hackathon (1):** Most Creative Solana MCP
-- **How it used Solana:** Trader's Co-Pilot is the world's first AI-native Solana trading platform built on the Model Context Protocol (MCP).
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-wattson-5btsyd"></a>
-
-### [Wattson](https://devpost.com/software/wattson-5btsyd)
-
-[FREE-WILi](../by-sponsor/free-wili.md) · **Best Use of FREE-WiLi**
-
-Nurture a pet by being sustainable.
-
-[Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** freewili, opencv, python
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=GzLRBSqCBSw)
-- **All prizes at this hackathon (2):** Best Use of FREE-WiLi · MHacks Greenprint Winner
-- **How it used FREE-WILi:** Wattson is aimed to reduce your electricity waste by encouraging users to minimize the time their light is on through gamified experiences.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-wordhawk"></a>
 
-### [Wordhawk](https://devpost.com/software/wordhawk)
+#### [Wordhawk](https://devpost.com/software/wordhawk)
 
 [MemryX](../by-sponsor/memryx.md) · **Best Use of MemryX Edge AI Accelerator**
 
@@ -586,24 +549,127 @@ A robot that plays Word Hunt on its own—powered by a jury-rigged 3D printer, c
 
 </details>
 
-<a name="project-zygonic-integrated-productivity"></a>
+### Snap winners
 
-### [zygonic - Integrated Productivity](https://devpost.com/software/zygonic-integrated-productivity)
+**Track:** Best use of Snap AR · [All Snap winners](../by-sponsor/snap.md)
 
-[Grainger](../by-sponsor/grainger.md) · **Smart Task Accelerator presented by Grainger**
+Also won this track: [MobiLens](#project-mobilens) (listed above)
 
-The team created a Swift app so that you can use the tool directly from the MacOS icon bar.
+<a name="project-conversenses"></a>
 
-[Code](https://github.com/evanhekman/zygonic) · [Demo video](https://www.youtube.com/watch?v=B43pgol5dvg) · Built with docker, fastapi, gemini, n8n
+#### [Conversenses](https://devpost.com/software/conversenses)
+
+[Snap](../by-sponsor/snap.md) · **Best use of Snap AR**
+
+Real-time AR &amp; AI coach for better conversations and addressing the fear of public speaking.
+
+[Code](https://github.com/MatchaOnMuffins/MHacks25) · [Demo video](https://www.youtube.com/watch?v=YTZotjnA4ok) · Built with lens-studio, spectacles, base-44, fast
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** base-44, fast, gemini-api, google-cloud, javascript, langchain, lens-studio, mysql, python, spectacles, tailwindcss
+- **Code:** [Source 1](https://github.com/MatchaOnMuffins/MHacks25)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=YTZotjnA4ok)
+- **All prizes at this hackathon (1):** Best use of Snap AR
+- **How it used Snap:** The project lists lens-studio, spectacles among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-enforcar"></a>
+
+#### [EnforcAR](https://devpost.com/software/enforcar)
+
+[Snap](../by-sponsor/snap.md) · **Best use of Snap AR**
+
+An augmented reality law enforcement aid using Snapchat Spectacles.
+
+[Code](https://github.com/ojlennon/MHacks2025) · [Demo video](https://www.youtube.com/watch?v=oUNED0N_luM) · Built with lens-studio, docker, fastapi, python
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** docker, fastapi, lens-studio, python, snapos, typescript
+- **Code:** [Source 1](https://github.com/ojlennon/MHacks2025)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=oUNED0N_luM)
+- **All prizes at this hackathon (1):** Best use of Snap AR
+- **How it used Snap:** The system uses Snap Spectacles to continuously scan the user’s entire field of view for license plates.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Solana winners
+
+**Track:** Most Creative Solana MCP · [All Solana winners](../by-sponsor/solana.md)
+
+<a name="project-dune-mcp"></a>
+
+#### [Dune MCP](https://devpost.com/software/dune-mcp)
+
+[Solana](../by-sponsor/solana.md) · **Most Creative Solana MCP**
+
+Run powerful Dune queries and unlock blockchain insights by paying in USDC/SOL per result with x402. This Dune MCP server delivers raw on-chain data instantly through simple pay-per-query access.
+
+[Code](https://github.com/Apollo005/dune_mcp) · [Demo video](https://vimeo.com/1122601872) · Built with solana, css, duneanalytics, html
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** css, duneanalytics, html, http, javascript, postgresql, rpc, solana, tailwind, typescript
+- **Code:** [Source 1](https://github.com/Apollo005/dune_mcp)
+- **Demo video:** [Video 1](https://vimeo.com/1122601872)
+- **All prizes at this hackathon (1):** Most Creative Solana MCP
+- **How it used Solana:** The project lists solana among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-solvend"></a>
+
+#### [Solvend](https://devpost.com/software/solvend)
+
+[Solana](../by-sponsor/solana.md) · **Most Creative Solana MCP**
+
+A way to be updated with the most up-to-date information on crypto and assets - compiled with AI.
+
+[Code](https://github.com/hyungminoh2/Solvend-mhacks2025) · Built with flask, google-generative-ai-(gemini-1.5), javascript, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
-- **Built with:** docker, fastapi, gemini, n8n, postgresql, python, react, swift
-- **Code:** [Source 1](https://github.com/evanhekman/zygonic)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=B43pgol5dvg)
-- **All prizes at this hackathon (1):** Smart Task Accelerator presented by Grainger
+- **Built with:** flask, google-generative-ai-(gemini-1.5), javascript, next.js, npm, python, react, tailwind-css, typescript
+- **Code:** [Source 1](https://github.com/hyungminoh2/Solvend-mhacks2025)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Most Creative Solana MCP
+- **How it used Solana:** AI Integration: Hands-on experience with Google's Gemini models and prompt engineering for domain-specific applications.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-trader-s-co-pilot"></a>
+
+#### [Trader's Co-Pilot](https://devpost.com/software/trader-s-co-pilot)
+
+[Solana](../by-sponsor/solana.md) · **Most Creative Solana MCP**
+
+Trader’s Co-Pilot: the first AI-native Solana trading platform on MCP with 14 pro tools for safe blockchain interaction, MEV defense, signals, and agent payments.
+
+[Code](https://github.com/rajashekarcs2023/mhacks-solana) · [Demo video](https://www.youtube.com/watch?v=21jeXHPXkEw) · Built with solana, javascript, mcp, typescript
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** javascript, mcp, solana, typescript, web3
+- **Code:** [Source 1](https://github.com/rajashekarcs2023/mhacks-solana)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=21jeXHPXkEw)
+- **All prizes at this hackathon (1):** Most Creative Solana MCP
+- **How it used Solana:** Trader's Co-Pilot is the world's first AI-native Solana trading platform built on the Model Context Protocol (MCP).
 - **Checked on Devpost:** 2026-11-21
 
 </details>

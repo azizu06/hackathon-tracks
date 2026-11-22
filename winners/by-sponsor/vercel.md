@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Vercel)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (2), ai (1), anthropic-claude-(workflow-planning-&amp;-execution) (1), api (1), chrome (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Snappier](https://devpost.com/software/snappier)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 Show Snappier your workflow once by recording your screen. AI figures out what you did and why, then automates it across any connected app.
 
 [Code](https://github.com/nintang/snappier) · [Demo video](https://www.youtube.com/watch?v=Mi4oWY_EkYc) · Built with vercel, ai, anthropic-claude-(workflow-planning-&amp;-execution), api
+
+## 2025 winners
 
 ### [Lumora](https://devpost.com/software/lumora)
 

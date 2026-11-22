@@ -4,6 +4,8 @@
 
 **4 winning projects** · 2 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=BNY)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (4), css (2), flask (2), html (2), javascript (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [GEarth](https://devpost.com/software/diarockets)
 
@@ -32,6 +32,8 @@ GEarth is a generated and simulated Earth where AI agents represent countries, i
 Make shopping easier through the art of accessibility.
 
 [Code](https://github.com/Dove0Day/knighthacks2026) · [Demo video](https://www.youtube.com/watch?v=WCmblC_Qs0o) · Built with css, cv, easyocr, flask
+
+## 2024 winners
 
 ### [FraudGuard](https://devpost.com/software/fraudguard-3gxd0w)
 

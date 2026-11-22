@@ -4,6 +4,8 @@
 
 **6 winning projects** · 2 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Impiricus)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** openai (5), react (4), typescript (4), python (3), docker (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [ATP - Accessible to Prescription](https://devpost.com/software/atp)
 
@@ -40,6 +40,8 @@ ClearPath uses AI to connect patients and doctors in one shared workspace, helpi
 An all-in-one platform for physicians to find specialists and send referrals, making connections between physicians faster and more trusted.
 
 [Code](https://github.com/tvisha-t/docSpot) · [Demo video](https://www.youtube.com/watch?v=ivdxPxxmPiY) · Built with css, fastapi, html, javascript
+
+## 2025 winners
 
 ### [Doc McQuery](https://devpost.com/software/dr-mcquery)
 

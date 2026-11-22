@@ -4,6 +4,8 @@
 
 **2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Suno)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** perplexity (2), vercel (2), claude (1), gx10 (1), nextjs (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [ChromaChord](https://devpost.com/software/chromachord)
 

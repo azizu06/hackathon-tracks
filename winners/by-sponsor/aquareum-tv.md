@@ -4,6 +4,8 @@
 
 **6 winning projects** · 1 hackathon · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Aquareum.tv)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (5), livepeer (4), javascript (3), figma (2), firebase (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [CrisisLens](https://devpost.com/software/crisislens)
 

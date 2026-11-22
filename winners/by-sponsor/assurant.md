@@ -4,6 +4,8 @@
 
 **11 winning projects** · 4 hackathons · 11 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Assurant)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** javascript (7), python (6), react (5), typescript (5), flask (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Guardian Loop](https://devpost.com/software/guardian-loop)
 
@@ -40,6 +40,8 @@ Mind Your Prompt combines a website dashboard with a Chrome extension.
 Don't let your AI run wild.
 
 [Demo video](https://www.youtube.com/watch?v=64wOp2kXgB4) · Built with elevenlabs, fastapi, mongodb, pydantic
+
+## 2025 winners
 
 ### [BirdsEye](https://devpost.com/software/birdseye-ck0j12)
 
@@ -80,6 +82,8 @@ The platform offers two key user modes.
 A web-app developed to help prep students for their technical interviews through the use of AI mock interviewer.
 
 [Code](https://github.com/Albertoh16/Bear-Necessities) · [Demo video](https://www.youtube.com/watch?v=uNDWa84R2Aw) · Built with gemini, javascript, react
+
+## 2024 winners
 
 ### [Epileptic Seizure Prevention and Early Response (ESPER)](https://devpost.com/software/esper-fy6xeh)
 

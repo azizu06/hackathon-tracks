@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description and its tech tags.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [2013 winners](#2013-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (133), arduino (71), raspberry-pi (48), react (43), typescript (42)
@@ -15,9 +17,7 @@ Matched from keywords in the project description and its tech tags.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Farsight](https://devpost.com/software/farsight-t4qyli)
 
@@ -787,6 +787,8 @@ Over 6000 people are still missing after Nepal's landslide. Rescue teams are far
 
 [Code](https://github.com/ImperialKoi/swarm-robotics-openJiuwen) · [Demo video](https://www.youtube.com/watch?v=6Lp22BUJxl0) · Built with auction-algorithm, cnn, computer-vision, disaster-response
 
+## 2025 winners
+
 ### [VL-ADK](https://devpost.com/software/vl-adk)
 
 [ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-vl-adk)<br>[Microsoft](../by-sponsor/microsoft.md) · **Microsoft**<br>[NVIDIA](../by-sponsor/nvidia.md) · **NVIDIA**<br>[Waymo](../by-sponsor/waymo.md) · **Waymo**
@@ -1035,6 +1037,8 @@ In life-or-death moments, guessing isn’t an option. Deploy a robot swarm that 
 
 [Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
 
+## 2024 winners
+
 ### [Backtracc](https://devpost.com/software/project-cd41lvjbiorw)
 
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-project-cd41lvjbiorw)<br>[Cloudflare](../by-sponsor/cloudflare.md) · **Best AI Application Built with Cloudflare**<br>[SambaNova](../by-sponsor/sambanova.md) · **Samba Nova**
@@ -1195,6 +1199,8 @@ A vulnerability scanner and WiFi penetration tool, using Raspberry Pi. Designed 
 
 [Code](https://github.com/ACCISA/Vanguard) · Built with convex, next, react, shadcn/ui
 
+## 2020 winners
+
 ### [OxyControl](https://devpost.com/software/oxycontrol)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-oxycontrol)<br>[Digi-Key](../by-sponsor/digi-key.md) · **Best Hardware Hack Sponsored by Digi-Key**<br>[Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
@@ -1218,6 +1224,8 @@ A machine learning application that alerts users of unattended leaky or running 
 Fingerprint based Exam hall registration, authentication system with temperature sensing of the candidate, recording it on Thingspeak plus sending email alert to authorities when temperature is high.
 
 [Demo video](https://www.youtube.com/watch?v=Awg5byHF0B8) · Built with arduino, c, ifttt, keilmicrovision
+
+## 2019 winners
 
 ### [CaneAssist](https://devpost.com/software/caneassist)
 
@@ -1250,6 +1258,8 @@ The web app allows a user to verify their identity to unlock a box storing all t
 Your future for knowing what's in your water.
 
 [Code](https://github.com/maywu89/Water-Crusader) · Built with ibm-watson, arduino, esp32, node-red
+
+## 2018 winners
 
 ### [DeterMind](https://devpost.com/software/determind)
 
@@ -1291,6 +1301,8 @@ ViGCam spots active shooters and tracks them through buildings.
 
 [Code](https://github.com/xTEddie/HackMIT2018) · [Demo video](https://www.youtube.com/watch?v=ZCWxii9Kp-k) · Built with django, google-vision, mysql, picam
 
+## 2017 winners
+
 ### [PlotRoomba](https://devpost.com/software/plotroomba)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-plotroomba)<br>[iRobot](../by-sponsor/irobot.md) · **Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack**<br>[Wolfram](../by-sponsor/wolfram.md) · **Sponsor Prize - Wolfram Alpha - Best Use of Wolfram Technologies**
@@ -1322,6 +1334,8 @@ Built with android, arduino, c++, hardware
 An interactive community game with wearable devices that harness storytelling and emotive design.
 
 [Code](https://github.com/tedmyers/hackMIT) · Built with arduino
+
+## 2016 winners
 
 ### [AskTheCandidates](https://devpost.com/software/askthecandidates)
 
@@ -1378,6 +1392,8 @@ A mobile app that pairs friends together for everyday activities such as eating 
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
 Built with firebase, arduino, c++, google-cardboard
+
+## 2013 winners
 
 ### [Smart Window](https://devpost.com/software/smart-window)
 

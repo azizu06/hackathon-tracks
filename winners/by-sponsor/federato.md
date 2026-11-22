@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Federato)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** next.js (2), python (2), amazon-dynamodb (1), auth0 (1), aws-dynamodb (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Pixie](https://devpost.com/software/pixie-8vlj7g)
 
@@ -26,6 +26,8 @@ Pixie is one inspectable risk engine presented as two products: a commercial und
 **How it used Federato:** Federato provided the insurance-shaped data and the language needed to interpret it.
 
 [Code](https://github.com/benz16107/pixie-htn2026) · [Demo video](https://www.youtube.com/watch?v=O47V32zbv20) · Built with federato, elastic, expo.io, fastapi
+
+## 2025 winners
 
 ### [Optimate](https://devpost.com/software/optimate)
 

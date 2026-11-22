@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description and its tech tags.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [2013 winners](#2013-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (69), react-native (64), typescript (56), swift (34), expo.io (33)
@@ -15,9 +17,7 @@ Matched from keywords in the project description and its tech tags.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Farsight](https://devpost.com/software/farsight-t4qyli)
 
@@ -523,6 +523,8 @@ Turn trash into cash: report litter, clean it up, get paid in Solana.
 
 [Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
 
+## 2025 winners
+
 ### [BirdsEye](https://devpost.com/software/birdseye-ck0j12)
 
 [ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-birdseye-ck0j12)<br>[Assurant](../by-sponsor/assurant.md) · **Assurant**<br>[Waymo](../by-sponsor/waymo.md) · **Waymo**
@@ -755,6 +757,8 @@ In life-or-death moments, guessing isn’t an option. Deploy a robot swarm that 
 
 [Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
 
+## 2024 winners
+
 ### [excus.us](https://devpost.com/software/excus-us)
 
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-excus-us)<br>[Cohere](../by-sponsor/cohere.md) · **Best Use of Cohere**<br>[Convex](../by-sponsor/convex.md) · **Best App and Startup Idea Built on Convex**<br>[Web Summit](../by-sponsor/web-summit.md) · **Web Summit challenge**
@@ -923,6 +927,8 @@ A real time LLM based threat identification application.
 
 [Code](https://github.com/nikil1506/ShellHacks-WatchDog) · Built with cv2, firebase, flutter, gemini
 
+## 2020 winners
+
 ### [COVID-19 Cluster Detection App](https://devpost.com/software/covid-19-cluster-detection-app)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-covid-19-cluster-detection-app)<br>[Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
@@ -963,6 +969,8 @@ A community that encourages and challenges people who stutter to practice speech
 
 [Code](https://github.com/HackDuke-2020/Shareapy) · [Demo video](https://www.youtube.com/watch?v=04SFGBYGA2I) · Built with firebase, javascript, react-native
 
+## 2019 winners
+
 ### [Driversity](https://devpost.com/software/driversity)
 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-driversity)<br>[Nasdaq](../by-sponsor/nasdaq.md) · **Best Use of Nasdaq/Quandl Datasets**
@@ -986,6 +994,8 @@ Built with ford, amazon-cognito, amazon-web-services, android
 Very fast, secure log in systems for healthcare professionals.
 
 Built with electron, ios, node.js, swift
+
+## 2018 winners
 
 ### [Augmented Checkers](https://devpost.com/software/augmented-checkers)
 
@@ -1027,6 +1037,8 @@ OnTheWay is an innovative P2P delivery system that harnesses the power of pre-ex
 
 Built with android-studio, express.js, node.js
 
+## 2017 winners
+
 ### [TravelAR](https://devpost.com/software/travelar-g4sq6y)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-travelar-g4sq6y)<br>[Amadeus](../by-sponsor/amadeus.md) · **Sponsor Prize - Amadeus - Best Use of Amadeus APIs**<br>[SAP Concur](../by-sponsor/sap-concur.md) · **Sponsor Prize - Concur - Best Travel Hack**
@@ -1058,6 +1070,8 @@ Built with android, arduino, c++, hardware
 The product encrypts QR codes such that, if scanned by someone who is not authorized to see them, they present an incomprehensible amalgamation of symbols.
 
 Built with firebase, crypto, express.js, javascript
+
+## 2016 winners
 
 ### [Ethereum Piggy](https://devpost.com/software/e)
 
@@ -1106,6 +1120,8 @@ Built with apple-maps, swift
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
 Built with firebase, arduino, c++, google-cardboard
+
+## 2013 winners
 
 ### [Smart Window](https://devpost.com/software/smart-window)
 

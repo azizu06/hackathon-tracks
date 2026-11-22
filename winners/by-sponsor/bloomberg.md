@@ -4,6 +4,8 @@
 
 **8 winning projects** · 6 hackathons · 8 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Bloomberg)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2013 winners](#2013-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (7), javascript (5), html (3), react (3), css (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [GaitGuard](https://devpost.com/software/gaitguard-fk2tb7)
 
@@ -41,6 +41,8 @@ Recall helps dementia patients identify faces, recall past conversations, and pr
 
 [Code](https://github.com/akhilapnuri/RecallMobileApp) · [Demo video](https://www.youtube.com/watch?v=WDXfbc8DIpw) · Built with flask, insightface, ollama, python
 
+## 2025 winners
+
 ### [CarbonChain](https://devpost.com/software/carbonchain-m2hxz4)
 
 [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md#project-carbonchain-m2hxz4) · **CATEGORY - Sustainability**
@@ -57,6 +59,8 @@ This project integrates quantum simulation and machine learning to:.
 
 [Demo video](https://www.youtube.com/watch?v=DdIYIRiyi7E) · Built with cuda, javascript, numpy, os
 
+## 2024 winners
+
 ### [Chilladelphia](https://devpost.com/software/chilladelphia)
 
 [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-chilladelphia) · **Track: Best Sustainability Hack**
@@ -72,6 +76,8 @@ Philadelphia’s heat is rising! Enter your address to see how chill your area i
 Vistra puts the power in the EYES of the user.
 
 [Code](https://github.com/ahere84/Vistra-Smart-Mirror) · [Demo video](https://www.youtube.com/watch?v=wjHxAu6g3js) · Built with figma, gazeflow, gazerecorder, html
+
+## 2013 winners
 
 ### [Rain Mann](https://devpost.com/software/rain-mann)
 

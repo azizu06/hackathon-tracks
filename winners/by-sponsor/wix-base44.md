@@ -4,6 +4,8 @@
 
 **3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Wix%20%2F%20Base44)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** base44 (3), javascript (2), react (2), cloudskyapi (1), css (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Aviation Workflow Management (AWF)](https://devpost.com/software/devpost-weu7vz)
 

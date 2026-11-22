@@ -4,6 +4,8 @@
 
 **13 winning projects** · 3 hackathons · 13 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Y%20Combinator)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (8), typescript (5), claude (4), fastapi (4), openai (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [aesthetica](https://devpost.com/software/aesthetica)
 
@@ -64,6 +64,8 @@ AI-Native Infrastructure that Reimagines Trade Work for Blue-Collar Careers.
 The team learned that translation from informal mathematics to formal language is highly sensitive to surface variation and implicit assumptions.
 
 [Code](https://github.com/aryans-15/zeta) · [Demo video](https://www.youtube.com/watch?v=RJV8a8PWkxQ) · Built with amazon-web-services, fastapi, lean4, lora
+
+## 2025 winners
 
 ### [AI Docs](https://devpost.com/software/ai-docs)
 

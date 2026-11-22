@@ -4,6 +4,8 @@
 
 **11 winning projects** · 4 hackathons · 11 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Goldman%20Sachs)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2017 winners](#2017-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (7), typescript (4), react (3), gemini (2), nemotron (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Loan Wick](https://devpost.com/software/loan-wick)
 
@@ -41,6 +41,8 @@ The pipeline your team trusts to automate your commercial loans.
 
 [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
 
+## 2025 winners
+
 ### [AutoBoard](https://devpost.com/software/404-not-found-us43mg)
 
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-404-not-found-us43mg) · **Goldman Sachs**
@@ -65,6 +67,8 @@ TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract
 
 [Code](https://github.com/ybavgito/TrustIssues.AI-HackUTD-2025-Winner-Goldman-Sachs-Track) · [Demo video](https://www.youtube.com/watch?v=6aPw8P9URv0) · Built with nemotron, openaisdk, python, streamlit
 
+## 2024 winners
+
 ### [AllBank: Inclusive, Intelligent, Impactful](https://devpost.com/software/allbank)
 
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-allbank) · **Goldman Sachs**
@@ -88,6 +92,8 @@ Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-t
 Where YOU can talk to your own personalized bank.
 
 [Code](https://github.com/aurelisajuan/TalkTuahBank) · [Demo video](https://www.youtube.com/watch?v=YsH_z1azXSA) · Built with latex, nextjs, openai, pinata
+
+## 2017 winners
 
 ### [NewsMap](https://devpost.com/software/newsmap-zl5f0r)
 

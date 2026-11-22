@@ -4,6 +4,8 @@
 
 **24 winning projects** · 6 hackathons · 24 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Figma)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (18), react (12), python (10), fastapi (6), figma (6)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Accent](https://devpost.com/software/accent-cdw2qi)
 

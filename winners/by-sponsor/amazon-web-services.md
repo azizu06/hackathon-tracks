@@ -4,6 +4,8 @@
 
 **13 winning projects** · 6 hackathons · 13 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Amazon%20Web%20Services)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2019 winners](#2019-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (10), amazon-web-services (7), javascript (6), react (6), gemini (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [A hand for my aunt](https://devpost.com/software/a-hand-for-my-aunt)
 
@@ -75,6 +75,8 @@ Step inside the past, see it through every view, with every line sourced and tru
 
 [Code](https://github.com/riavadhavkar/vantage) · [Demo video](https://www.youtube.com/watch?v=Atkd0YpaIMc) · Built with chromadb, cloudflare, deepagents, elevenlabs
 
+## 2025 winners
+
 ### [Fragments](https://devpost.com/software/fragments-gmleoj)
 
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-fragments-gmleoj) · **Amazon: AWS Campus Champions - Best Use of DynamoDB Streams**
@@ -112,6 +114,8 @@ Signify brings AI into the web accessibility space.
 Stock market simulation game where students race to beat the market.
 
 [Code](https://github.com/redmac135/TradeOff) · [Demo video](https://www.youtube.com/watch?v=KtQ0IwOUMy4) · Built with dynamodb, api, cerebras, english
+
+## 2019 winners
 
 ### [JustinCase](https://devpost.com/software/justincase-j16yxu)
 

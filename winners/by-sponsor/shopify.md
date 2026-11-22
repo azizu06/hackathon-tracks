@@ -4,6 +4,8 @@
 
 **4 winning projects** · 3 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Shopify)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** shopify (3), next.js (2), openai (2), react (2), typescript (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Bloxify](https://devpost.com/software/bloxify)
 
@@ -37,6 +37,8 @@ An AI shopkeeper for Shopify that helps shoppers find products and negotiate dea
 
 [Code](https://github.com/Maristanez/dealify) · [Demo video](https://www.youtube.com/watch?v=6Dw70vbZ_Zs) · Built with shopify, backboard, elevenlabs, fast-check
 
+## 2025 winners
+
 ### [Tarazoo](https://devpost.com/software/tarazoo)
 
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-tarazoo) · **Hack Shopping with AI**
@@ -44,6 +46,8 @@ An AI shopkeeper for Shopify that helps shoppers find products and negotiate dea
 An e-commerce platform with two faces: customers checkout by camera no barcode, just the item’s look while businesses get catalog, inventory, sales, forecasting &amp; intelligent procurement.
 
 [Code](https://github.com/MeharPro/Tarazoo) · [Demo video](https://www.youtube.com/watch?v=6TfBS77bEAU) · Built with shopify, claude, cohere, cplex
+
+## 2024 winners
 
 ### [Shop The North](https://devpost.com/software/shop-the-north)
 

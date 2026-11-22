@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2018 winners](#2018-winners) · [2016 winners](#2016-winners)
+
 ## What winners have in common
 
 - **Most used tech:** react (60), python (57), typescript (55), javascript (31), node.js (29)
@@ -15,9 +17,7 @@ Matched from keywords in the project description.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Bursar](https://devpost.com/software/bursar-hej2yl)
 
@@ -403,6 +403,8 @@ Wallet Whisperer brings accounts, bills, debts, income, and savings goals into o
 
 [Code](https://github.com/AfeIsm/HackUTD) · [Demo video](https://www.youtube.com/watch?v=hG9LVm12ELU) · Built with claude, codex, css, javascript
 
+## 2025 winners
+
 ### [KnightSource](https://devpost.com/software/knightsource)
 
 [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-knightsource)<br>[Google](../by-sponsor/google.md) · **Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge**<br>[Google](../by-sponsor/google.md) · **Best Use of Gemini 2.5 Computer Use**
@@ -659,6 +661,8 @@ Anti-Rug AI agent for memecoins by frontrunning + sandwich attacks. Longer versi
 
 [Code](https://github.com/BdNWoG/watchdog-ai-final) · [Demo video](https://www.youtube.com/watch?v=gup3GO98B5s) · Built with python, solidity, typescript
 
+## 2024 winners
+
 ### [Blockify](https://devpost.com/software/blockify-x2owt7)
 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-blockify-x2owt7)<br>[Berkeley RDI](../by-sponsor/berkeley-rdi.md) · **Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize**<br>[Sui](../by-sponsor/sui.md) · **Reimagine the internet with Sui**
@@ -851,6 +855,8 @@ The team offer many different ways for people to improve their finances.
 
 [Code](https://github.com/Juuicee/ShellHacks-2024) · Built with css, html, openai, python
 
+## 2018 winners
+
 ### [SmartRelief](https://devpost.com/software/smartrelief)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-smartrelief)<br>[Stellar](../by-sponsor/stellar.md) · **Best Use of Stellar Network**
@@ -874,6 +880,8 @@ Built with axios, azure, express.js, node.js
 TradeGO is an application that enables people to participate in financial markets without financial literacy.
 
 Built with react, ruby, ruby-on-rails
+
+## 2016 winners
 
 ### [Kinvest](https://devpost.com/software/kinvest)
 

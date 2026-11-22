@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description and its tech tags.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2016 winners](#2016-winners) · [2013 winners](#2013-winners)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (233), next.js (221), python (203), react (198), fastapi (103)
@@ -15,9 +17,7 @@ Matched from keywords in the project description and its tech tags.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Standard Response](https://devpost.com/software/standard-response)
 
@@ -1451,6 +1451,8 @@ A browser extension helps users find and understand medical research relevant to
 
 [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
 
+## 2025 winners
+
 ### [Haven](https://devpost.com/software/haven-536r1q)
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-haven-536r1q)<br>[Fetch.ai](../by-sponsor/fetch-ai.md) · **Fetch AI: Best Use of Fetch AI**<br>[LiveKit](../by-sponsor/livekit.md) · **Best Start-up Idea**<br>[Y Combinator](../by-sponsor/y-combinator.md) · **Build an Iconic YC Company - 1st Place**
@@ -2435,6 +2437,8 @@ A nursing documentation tool turns captured conversations into structured notes.
 
 [Code](https://github.com/bencullenn/wing-note) · [Demo video](https://www.youtube.com/watch?v=TX3a1ze3Uwk) · Built with gemini, arduino-nano, deepgram, li-po-battery
 
+## 2024 winners
+
 ### [excus.us](https://devpost.com/software/excus-us)
 
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-excus-us)<br>[Cohere](../by-sponsor/cohere.md) · **Best Use of Cohere**<br>[Convex](../by-sponsor/convex.md) · **Best App and Startup Idea Built on Convex**<br>[Web Summit](../by-sponsor/web-summit.md) · **Web Summit challenge**
@@ -2899,6 +2903,8 @@ Automate your event extraction from emails.
 
 Built with cloudflare, ai, groq, llama
 
+## 2020 winners
+
 ### [EcoConscious Tech](https://devpost.com/software/spaghetti)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-spaghetti)<br>[Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
@@ -2939,6 +2945,8 @@ A web app that matches people with mental health therapists best suited for thei
 
 [Code](https://github.com/sasymer/hackduke2020) · [Demo video](https://www.youtube.com/watch?v=m_ZnZd6Kcho) · Built with figma, javascript, react
 
+## 2019 winners
+
 ### [Pill Safety](https://devpost.com/software/pill-safety)
 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-pill-safety)<br>[IBM](../by-sponsor/ibm.md) · **Best Use of IBM Visual Recognition**
@@ -2955,6 +2963,8 @@ A website that creates customized tests based on students' notes.
 
 [Code](https://github.com/juliustao/text2test-aws) · Built with lambda, adobe-creative-suite, amazon-web-services, comprehend
 
+## 2018 winners
+
 ### [GeoCash](https://devpost.com/software/geocash-5h0zlt)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-geocash-5h0zlt)<br>[Plaid](../by-sponsor/plaid.md) · **Best use of the Plaid API**
@@ -2963,6 +2973,8 @@ A web app to help you track your money and where you're spending it.
 
 [Code](https://github.com/shawnaness/geocash) · Built with plaid, express.js, google-maps, javascript
 
+## 2016 winners
+
 ### [Flight Aid](https://devpost.com/software/flight-aid)
 
 [HackMIT 2016](../by-hackathon/hackmit-2016.md#project-flight-aid)<br>[Local Motors Labs](../by-sponsor/local-motors-labs.md) · **Best Use of FOSS in a Drone Cargo Management System App**
@@ -2970,6 +2982,8 @@ A web app to help you track your money and where you're spending it.
 This is a user-facing web app that allows the user to pick a delivery location and follow the delivery through real-time tracking.
 
 Built with css, dronekit, html, javascript
+
+## 2013 winners
 
 ### [ImpDataGame](https://devpost.com/software/impdatagame)
 

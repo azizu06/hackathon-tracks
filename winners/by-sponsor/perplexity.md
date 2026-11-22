@@ -4,6 +4,8 @@
 
 **4 winning projects** · 2 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Perplexity)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** anthropic-claude-api (2), css (2), html (2), node.js (2), perplexity-sonar-api (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Synapse](https://devpost.com/software/a-p1lt2h)
 
@@ -34,6 +34,8 @@ Claim-level truth forensics–trace any idea back to its origin and know what's 
 Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-reference vocabulary and grammar from scattered sources, forging them into a living language atlas.
 
 [Code](https://github.com/lourdrickvalsote/tonguekeeper) · [Demo video](https://www.youtube.com/watch?v=nCSd-ZjfpkI) · Built with perplexity-sonar-api, anthropic-claude-api, brightdata-mcp, browserbase/stagehand
+
+## 2025 winners
 
 ### [FlowPilot: Your Agentic Co-Pilot](https://devpost.com/software/flowpilot-zoom-agent-that-automates-your-workflows)
 

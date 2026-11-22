@@ -4,6 +4,8 @@
 
 **2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Spell)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2018 winners](#2018-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** javascript (2), machine-learning (2), python (2), deep-learning (1), docker (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2018 winners
 
 ### [Elegant Neural Network User Interface (ENNUI)](https://devpost.com/software/ennui)
 

@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (30), react (25), typescript (21), javascript (17), next.js (14)
@@ -15,9 +17,7 @@ Matched from keywords in the project description.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Docket](https://devpost.com/software/docket-ezaum8)
 
@@ -130,6 +130,8 @@ Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching
 An AI safety net for UMD students. TerpWallet watches your bank account and connects you to free campus resources, Campus Pantry, SafeRide, emergency funds, before you go broke.
 
 [Code](https://github.com/rishikathakre/terpwallet-ai) · [Demo video](https://www.youtube.com/watch?v=vD4VIui3jSs) · Built with auth0, azure, capital-one-nessie-api, cloudforce
+
+## 2025 winners
 
 ### [KnightSource](https://devpost.com/software/knightsource)
 
@@ -331,6 +333,8 @@ interactive multimodal AI experiences for neurodivergent learners run entirely o
 
 [Code](https://github.com/zcsabbagh/zu-lm) · [Demo video](https://www.youtube.com/watch?v=ajYL27WPKcs) · Built with elevenlabs, groq, javascript, langchain
 
+## 2024 winners
+
 ### [Bruno](https://devpost.com/software/dlm)
 
 [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md#project-dlm)<br>[Schmidt Futures](../by-sponsor/schmidt-futures.md) · **Best Use of AI in Education by Schmidt Futures**
@@ -403,6 +407,8 @@ Talk to your toys with Teddy.AI; the worlds first AI powered teddy bear that can
 
 [Demo video](https://www.youtube.com/watch?v=PFFHGMIax6E) · Built with hyperbolic, gemini, generativeai, hume
 
+## 2020 winners
+
 ### [gauge](https://devpost.com/software/testing-rvlt9k)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-testing-rvlt9k)<br>[Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
@@ -427,6 +433,8 @@ An app to match foreign language learners with songs that reinforce their vocabu
 
 [Code](https://github.com/samaocarpenter/UniversalLanguage) · [Demo video](https://www.youtube.com/watch?v=7l-3FMcaKMU) · Built with duolingo, musixmatch, python
 
+## 2019 winners
+
 ### [GPUppy](https://devpost.com/software/gpuppy)
 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-gpuppy)<br>[DocuSign](../by-sponsor/docusign.md) · **Best Use of the DocuSign Agreement Cloud APIs**
@@ -442,6 +450,8 @@ Share underutilized GPU power for machine learning education.
 A website that creates customized tests based on students' notes.
 
 [Code](https://github.com/juliustao/text2test-aws) · Built with lambda, adobe-creative-suite, amazon-web-services, comprehend
+
+## 2018 winners
 
 ### [r00t](https://devpost.com/software/r00t)
 

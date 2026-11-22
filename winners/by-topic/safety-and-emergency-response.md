@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2016 winners](#2016-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (26), react (16), typescript (13), fastapi (11), javascript (9)
@@ -15,9 +17,7 @@ Matched from keywords in the project description.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Farsight](https://devpost.com/software/farsight-t4qyli)
 
@@ -163,6 +163,8 @@ Over 6000 people are still missing after Nepal's landslide. Rescue teams are far
 
 [Code](https://github.com/ImperialKoi/swarm-robotics-openJiuwen) · [Demo video](https://www.youtube.com/watch?v=6Lp22BUJxl0) · Built with auction-algorithm, cnn, computer-vision, disaster-response
 
+## 2025 winners
+
 ### [AERIS: Autonomous Emergency Response &amp; Intelligence System](https://devpost.com/software/aeris-ej7d9k)
 
 [LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-aeris-ej7d9k)<br>[Groq](../by-sponsor/groq.md) · **Best of Groq**
@@ -226,6 +228,8 @@ When disasters strike, traditional insurance is slow.InstaRelief delivers instan
 Rescue failed clinical trials by discovering hidden responder subgroups using AI-powered analytics.
 
 [Code](https://github.com/aarnavin/calhacks25) · [Demo video](https://www.youtube.com/watch?v=R1TChJgZMsE) · Built with matplotlib, numpy, pandas, python
+
+## 2024 winners
 
 ### [Autonomous AI Society](https://devpost.com/software/autonomous-ai-society)
 
@@ -299,6 +303,8 @@ Using AI/ML to enhance rescuing and rebuilding processes after a disaster.
 
 [Code](https://github.com/NSP909/cmdfmydebris) · Built with css, flask, html, javascript
 
+## 2019 winners
+
 ### [Crisis Maps](https://devpost.com/software/crisis-apps)
 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-crisis-apps)<br>[IBM](../by-sponsor/ibm.md) · **Best IBM Disaster Preparedness &amp; Relief Solutions**
@@ -306,6 +312,8 @@ Using AI/ML to enhance rescuing and rebuilding processes after a disaster.
 A map that shows where the nearest natural disasters are located.
 
 [Code](https://github.com/tyl21938/crisisMap) · Built with amazon-web-services, google-cloud
+
+## 2018 winners
 
 ### [SmartRelief](https://devpost.com/software/smartrelief)
 
@@ -322,6 +330,8 @@ Quick Relief uses blockchain technology to enable faster, secure, and transparen
 SOS Squad is a platform for connecting good Samaritans to disaster victims.
 
 [Code](https://github.com/sabrinatseng/SOS-Squad) · Built with amadeus, bootstrap, flask, geopy
+
+## 2016 winners
 
 ### [Drones For Humanity - Second-Order Autonomy](https://devpost.com/software/second-order-autonomy)
 

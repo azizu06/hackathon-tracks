@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Niantic)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (2), ai (1), android (1), augmented-reality (1), computer-vision (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2019 winners
 
 ### [open-choreo](https://devpost.com/software/open-choreo-1wmryo)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 Teaches you how to dance like Bruno Mars and other famous dancers.
 
 Built with opencv, python, tensorflow, websockets
+
+## 2018 winners
 
 ### [Augmented Checkers](https://devpost.com/software/augmented-checkers)
 

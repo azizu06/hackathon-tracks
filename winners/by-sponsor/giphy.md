@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=GIPHY)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** giphy (2), c# (1), flask (1), microsoft-hololens (1), nltk (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2018 winners
 
 ### [TL;DW (Too Long Didn't Watch)](https://devpost.com/software/tldw-c8nole)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 Summarizing Youtube Videos to Meaningful Gifs.
 
 [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58) · Built with giphy, flask, nltk, python
+
+## 2017 winners
 
 ### [Ad BlockAR](https://devpost.com/software/ad-block-ar)
 

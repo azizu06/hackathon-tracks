@@ -4,6 +4,8 @@
 
 **41 winning projects** · 20 sponsors · 45 sponsor prizes · [Devpost gallery](https://ai-hackathon-2026.devpost.com/project-gallery) · [Prize rules](https://ai-hackathon-2026.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (31), claude (18), redis (17), typescript (14), fastapi (13)
@@ -15,32 +17,34 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [Anthropic](../by-sponsor/anthropic.md) | 1 | Best Use of Claude |
-| [Arize](../by-sponsor/arize.md) | 1 | Best Use of Arize |
-| [ArmorIQ](../by-sponsor/armoriq.md) | 1 | Best Use of ArmorIQ Platform to Build Secure Agents |
-| [Band](../by-sponsor/band.md) | 1 | Best use of Band for agent to agent communication |
-| [Berkeley SkyDeck](../by-sponsor/berkeley-skydeck.md) | 1 | SkyDeck Grand Prize Winner |
-| [Browserbase](../by-sponsor/browserbase.md) | 3 | Best Use of Browserbase |
-| [Cognichip](../by-sponsor/cognichip.md) | 1 | Best Use of Cognichip |
-| [Cognition](../by-sponsor/cognition.md) | 3 | Best Use of Cognition |
-| [Deepgram](../by-sponsor/deepgram.md) | 1 | Best Use of Deepgram |
-| [Fetch.ai](../by-sponsor/fetch-ai.md) | 10 | Best Use of The Agentverse by Fetch AI |
-| [Orkes](../by-sponsor/orkes.md) | 2 | Best Use of Orkes |
-| [PaleBlueDot AI](../by-sponsor/palebluedot-ai.md) | 3 | Best Use of TokenRouter by PaleBlueDot AI |
-| [Pika](../by-sponsor/pika.md) | 3 | Most Creative Use of Pika |
-| [QNX](../by-sponsor/qnx.md) | 3 | Best Use of QNX |
-| [Redis](../by-sponsor/redis.md) | 1 | Using Redis Beyond Caching, Best Creativity and Originality, Best Technical Implementation |
-| [Sentry](../by-sponsor/sentry.md) | 1 | Best Use of Sentry API |
-| [Simular](../by-sponsor/simular.md) | 2 | Best Use of Simular |
-| [Terac](../by-sponsor/terac.md) | 2 | Best Use of Terac |
-| [The Token Company](../by-sponsor/the-token-company.md) | 2 | Best Compression Model for The Token Company |
-| [UFB](../by-sponsor/ufb.md) | 3 | Best Physical AI Hack by UFB |
+| [Anthropic](../by-sponsor/anthropic.md) | 1 | [Best Use of Claude](#anthropic-winners) |
+| [Arize](../by-sponsor/arize.md) | 1 | [Best Use of Arize](#arize-winners) |
+| [ArmorIQ](../by-sponsor/armoriq.md) | 1 | [Best Use of ArmorIQ Platform to Build Secure Agents](#armoriq-winners) |
+| [Band](../by-sponsor/band.md) | 1 | [Best use of Band for agent to agent communication](#band-winners) |
+| [Berkeley SkyDeck](../by-sponsor/berkeley-skydeck.md) | 1 | [SkyDeck Grand Prize Winner](#berkeley-skydeck-winners) |
+| [Browserbase](../by-sponsor/browserbase.md) | 3 | [Best Use of Browserbase](#browserbase-winners) |
+| [Cognichip](../by-sponsor/cognichip.md) | 1 | [Best Use of Cognichip](#cognichip-winners) |
+| [Cognition](../by-sponsor/cognition.md) | 3 | [Best Use of Cognition](#cognition-winners) |
+| [Deepgram](../by-sponsor/deepgram.md) | 1 | [Best Use of Deepgram](#deepgram-winners) |
+| [Fetch.ai](../by-sponsor/fetch-ai.md) | 10 | [Best Use of The Agentverse by Fetch AI](#fetchai-winners) |
+| [Orkes](../by-sponsor/orkes.md) | 2 | [Best Use of Orkes](#orkes-winners) |
+| [PaleBlueDot AI](../by-sponsor/palebluedot-ai.md) | 3 | [Best Use of TokenRouter by PaleBlueDot AI](#palebluedot-ai-winners) |
+| [Pika](../by-sponsor/pika.md) | 3 | [Most Creative Use of Pika](#pika-winners) |
+| [QNX](../by-sponsor/qnx.md) | 3 | [Best Use of QNX](#qnx-winners) |
+| [Redis](../by-sponsor/redis.md) | 1 | [Using Redis Beyond Caching, Best Creativity and Originality, Best Technical Implementation](#redis-winners) |
+| [Sentry](../by-sponsor/sentry.md) | 1 | [Best Use of Sentry API](#sentry-winners) |
+| [Simular](../by-sponsor/simular.md) | 2 | [Best Use of Simular](#simular-winners) |
+| [Terac](../by-sponsor/terac.md) | 2 | [Best Use of Terac](#terac-winners) |
+| [The Token Company](../by-sponsor/the-token-company.md) | 2 | [Best Compression Model for The Token Company](#the-token-company-winners) |
+| [UFB](../by-sponsor/ufb.md) | 3 | [Best Physical AI Hack by UFB](#ufb-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-constructa"></a>
 
@@ -138,55 +142,69 @@ Fire truck crash? Radio too slow.
 
 </details>
 
-<a name="project-311-ai"></a>
+## Winners by sponsor track
 
-### [311.ai](https://devpost.com/software/311-ai)
+### Anthropic winners
 
-[PaleBlueDot AI](../by-sponsor/palebluedot-ai.md) · **Best Use of TokenRouter by PaleBlueDot AI**
+**Track:** Best Use of Claude · [All Anthropic winners](../by-sponsor/anthropic.md)
 
-AI-powered 311 for non-emergencies. Voice-to-dispatch in less than a minute with multi-agent orchestration and ML-driven priority scoring.
+<a name="project-safestreets-h6yprx"></a>
 
-[Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
+#### [SafeStreets](https://devpost.com/software/safestreets-h6yprx)
 
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
+[Anthropic](../by-sponsor/anthropic.md) · **Best Use of Claude**
 
-- **Team size:** 1
-- **Built with:** arize-phoeniz, band-ai, browserbase, deepgram, mapbox, python, redis, redis-search, websockets
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=jzAeXCgLafw)
-- **All prizes at this hackathon (1):** Best Use of TokenRouter by PaleBlueDot AI
-- **How it used PaleBlueDot AI:** 311.ai is an AI-native municipal command center that transforms voice calls into dispatched work orders in under 60 seconds .
-- **Checked on Devpost:** 2026-11-21
+A civic reporting tool flags street hazards in images and pairs them with city records and potential fixes.
 
-</details>
-
-<a name="project-accordion-jwarge"></a>
-
-### [Accordion](https://devpost.com/software/accordion-jwarge)
-
-[The Token Company](../by-sponsor/the-token-company.md) · **Best Compression Model for The Token Company**
-
-Context management you can trust - Say goodbye to /compact.
-
-[Code](https://github.com/a-Fig/Accordion) · [Demo video](https://www.youtube.com/watch?v=T1omrI2VjLA) · Built with claude, javascript, jiti, node.js
+[Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** claude, javascript, jiti, node.js, pi, qwen2.5-0.5b, rust, svelte-5, sveltekit, tauri-2, typescript, vite, vitest, websocket
-- **Code:** [Source 1](https://github.com/a-Fig/Accordion)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=T1omrI2VjLA)
-- **All prizes at this hackathon (1):** Best Compression Model for The Token Company
-- **How it used The Token Company:** Accordion shows you your entire context window at a glance using a series of blocks in a grid.
+- **Built with:** browserbase, fastapi, fetch.ai, gemini-imagen-4, mapbox, react, redis, typescript, uagents
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=SIy97mAQ4YY)
+- **All prizes at this hackathon (1):** Best Use of Claude
+- **How it used Anthropic:** Claude (Haiku) runs the two-stage vision pipeline.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### Arize winners
+
+**Track:** Best Use of Arize · [All Arize winners](../by-sponsor/arize.md)
+
+<a name="project-jugaad-dpmqi7"></a>
+
+#### [JUGAAD](https://devpost.com/software/jugaad-dpmqi7)
+
+[Arize](../by-sponsor/arize.md) · **Best Use of Arize**
+
+JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student the insider hacks on food, housing, and financial aid that only connected students know.
+
+[Code](https://github.com/nergisRahimzade/jugaad) · [Demo video](https://www.youtube.com/watch?v=18ggunYZ8iM) · Built with arize, anthropic, browserbase, claude-code
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** anthropic, arize, browserbase, claude-code, claude-sonnet-4-6, deepgram, fastapi, fetch-ai, microsoft-band, next.js, python, railway, redis, stagehand, supabase, tailwind-css, typescript, vercel
+- **Code:** [Source 1](https://github.com/nergisRahimzade/jugaad)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=18ggunYZ8iM)
+- **All prizes at this hackathon (1):** Best Use of Arize
+- **How it used Arize:** A Claude-as-judge evaluator runs automated quality scoring across 4 criteria (relevance, actionability, persona adherence, safety) and logs results to Arize.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### ArmorIQ winners
+
+**Track:** Best Use of ArmorIQ Platform to Build Secure Agents · [All ArmorIQ winners](../by-sponsor/armoriq.md)
+
 <a name="project-aegis-jtde8o"></a>
 
-### [Aegis](https://devpost.com/software/aegis-jtde8o)
+#### [Aegis](https://devpost.com/software/aegis-jtde8o)
 
 [ArmorIQ](../by-sponsor/armoriq.md) · **Best Use of ArmorIQ Platform to Build Secure Agents**
 
@@ -207,9 +225,248 @@ A real-time 911 dispatch co-pilot that transcribes, translates, and protocol-gro
 
 </details>
 
+### Band winners
+
+**Track:** Best use of Band for agent to agent communication · [All Band winners](../by-sponsor/band.md)
+
+<a name="project-triage-y10mpq"></a>
+
+#### [Triage](https://devpost.com/software/triage-y10mpq)
+
+[Band](../by-sponsor/band.md) · **Best use of Band for agent to agent communication**
+
+An agent that reproduces your bugs by actually using your app.
+
+[Code](https://github.com/HansChundekad/Triage) · [Demo video](https://www.youtube.com/watch?v=Q-ArgjSnVzw) · Built with microsoft-band, arize, browserbase, claude
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** arize, browserbase, claude, fastapi, microsoft-band, python, stagehand
+- **Code:** [Source 1](https://github.com/HansChundekad/Triage)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q-ArgjSnVzw)
+- **All prizes at this hackathon (1):** Best use of Band for agent to agent communication
+- **How it used Band:** The team built the agent message schema around this constraint from the start rather than retrofitting it, which meant locking the Band module interface before any agent logic was written.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Berkeley SkyDeck winners
+
+**Track:** SkyDeck Grand Prize Winner · [All Berkeley SkyDeck winners](../by-sponsor/berkeley-skydeck.md)
+
+<a name="project-theracat"></a>
+
+#### [Theracat](https://devpost.com/software/theracat)
+
+[Berkeley SkyDeck](../by-sponsor/berkeley-skydeck.md) · **SkyDeck Grand Prize Winner**
+
+A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There's no app to open, no waiting room.
+
+[Code](https://github.com/emilyLi2020/Theracat) · [Demo video](https://vimeo.com/1203255610) · Built with anthropic-claude, arduino, bluetooth, elevenlabs
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** anthropic-claude, arduino, bluetooth, elevenlabs, esp32, mpu6050, python
+- **Code:** [Source 1](https://github.com/emilyLi2020/Theracat)
+- **Demo video:** [Video 1](https://vimeo.com/1203255610)
+- **All prizes at this hackathon (3):** Finalist · GRAND PRIZE - Ddoski's Lab Track · SkyDeck Grand Prize Winner
+- **How it used Berkeley SkyDeck:** TheraCat is a two-part companion: a wristband and a soft plush cat.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Browserbase winners
+
+**Track:** Best Use of Browserbase · [All Browserbase winners](../by-sponsor/browserbase.md)
+
+Also won this track: [Constructa](#project-constructa) (listed above)
+
+<a name="project-narcore"></a>
+
+#### [Narcore](https://devpost.com/software/narcore)
+
+[Browserbase](../by-sponsor/browserbase.md) · **Best Use of Browserbase**
+
+An AI undercover agent to detect and intercept online drug advertising.
+
+[Code](https://github.com/cibarbia05/narcore) · [Demo video](https://www.youtube.com/watch?v=r2Dl7fKbcsU) · Built with browserbase, claude-code, docker, javascript
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** browserbase, claude-code, docker, javascript, llama, next.js, nomic, react, redis-stack, shadcn/ui, stagehand, tailwind
+- **Code:** [Source 1](https://github.com/cibarbia05/narcore)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=r2Dl7fKbcsU)
+- **All prizes at this hackathon (1):** Best Use of Browserbase
+- **How it used Browserbase:** Narcore was created to help law enforcement officials by using multiple Browserbase instances to scrape through synthetic feeds on a virtual machine.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-traid-h6db5a"></a>
+
+#### [Traide: Sell Anything, Anywhere](https://devpost.com/software/traid-h6db5a)
+
+[Browserbase](../by-sponsor/browserbase.md) · **Best Use of Browserbase**
+
+TrAIde is the AI agent that sells your stuff for you. Just text a photo and price range and it lists, prices, and negotiates the sale across marketplaces.
+
+[Code](https://github.com/rishabhroyy/traide) · [Demo video](https://www.youtube.com/watch?v=VgXrJ3nY2rY) · Built with browserbase, claude, cloudflare, javascript
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** browserbase, claude, cloudflare, javascript, orkes, poke, python, redis, stagehand, tailwind, typescript
+- **Code:** [Source 1](https://github.com/rishabhroyy/traide)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=VgXrJ3nY2rY)
+- **All prizes at this hackathon (1):** Best Use of Browserbase
+- **How it used Browserbase:** Every integration, from Poke to Orkes to Browserbase to Redis, earns its place in the workflow.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Cognichip winners
+
+**Track:** Best Use of Cognichip · [All Cognichip winners](../by-sponsor/cognichip.md)
+
+<a name="project-assistantai"></a>
+
+#### [SiliconYOLO](https://devpost.com/software/assistantai)
+
+[Cognichip](../by-sponsor/cognichip.md) · **Best Use of Cognichip**
+
+Runs YOLOv10n (NMS-free) at 640×640, 80-class COCO entirely on-chip — no DRAM weight traffic.
+
+[Code](https://github.com/kejiwuxian/SiliconYOLO) · [Demo video](https://www.youtube.com/watch?v=0lajMaVrj0A) · Built with cognichip, claude-code, digilent-genesys-2(kintex-7-xc7k325t), int8/csd-multiplier-less-arithmetic
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** claude-code, cognichip, digilent-genesys-2(kintex-7-xc7k325t), int8/csd-multiplier-less-arithmetic, pycocotools, python, pytorch(cuda), rtl, simulang, simular(hyperframes), simular(sai), systemverilog, torch-pruning, verilog, xilinx-vivado, yolov10n
+- **Code:** [Source 1](https://github.com/kejiwuxian/SiliconYOLO)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=0lajMaVrj0A)
+- **All prizes at this hackathon (1):** Best Use of Cognichip
+- **How it used Cognichip:** The project lists cognichip among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Cognition winners
+
+**Track:** Best Use of Cognition · [All Cognition winners](../by-sponsor/cognition.md)
+
+<a name="project-alpharesearch-9fwk4m"></a>
+
+#### [AlphaResearch](https://devpost.com/software/alpharesearch-9fwk4m)
+
+[Cognition](../by-sponsor/cognition.md) · **Best Use of Cognition**
+
+Recursive Sandboxed Agents for Autonomous Research at Scale.
+
+[Code](https://github.com/JasonLai150/AlphaResearch) · [Demo video](https://www.youtube.com/watch?v=LcH4rdKbF6Y) · Built with anthropic, browserbase, fastapi, gcp
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** anthropic, browserbase, fastapi, gcp, modal, next.js, python, redis, sentry
+- **Code:** [Source 1](https://github.com/JasonLai150/AlphaResearch)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=LcH4rdKbF6Y)
+- **All prizes at this hackathon (1):** Best Use of Cognition
+- **How it used Cognition:** The team use agent harnesses and sandbox environments (w/ root level access) to run research experiments in parallel in a systematic way.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-browserdelta"></a>
+
+#### [BrowserDelta](https://devpost.com/software/browserdelta)
+
+[Cognition](../by-sponsor/cognition.md) · **Best Use of Cognition**
+
+BrowserDelta cuts browser-agent context by &#126;78% while matching the vision-full-state baseline on 12/12 next-action predictions! Compression layer for browser use.
+
+[Code](https://github.com/jaykbpark/browser-use-compaction-co) · [Demo video](https://www.youtube.com/watch?v=rEbSwp6_rc8) · Built with arize, browserbase, browsergym, fastapi
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** arize, browserbase, browsergym, fastapi, gpt-4.1-mini, miniwob++, openai-responses-api, opencv, pillow, playwright, pytest, python, react, tesseract-ocr, typescript, vite
+- **Code:** [Source 1](https://github.com/jaykbpark/browser-use-compaction-co)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=rEbSwp6_rc8)
+- **All prizes at this hackathon (1):** Best Use of Cognition
+- **How it used Cognition:** BrowserDelta is an intermediate layer between BrowserBase / Playwright and your agent.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-refactorika"></a>
+
+#### [Refactorika](https://devpost.com/software/refactorika)
+
+[Cognition](../by-sponsor/cognition.md) · **Best Use of Cognition**
+
+Agentic harness for efficient codebase refactoring.
+
+[Code](https://github.com/Tanush-A/Refactorika) · [Demo video](https://www.youtube.com/watch?v=uu6amcmRtzg) · Built with claude, devin, python, redis
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** claude, devin, python, redis, sentry
+- **Code:** [Source 1](https://github.com/Tanush-A/Refactorika)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=uu6amcmRtzg)
+- **All prizes at this hackathon (1):** Best Use of Cognition
+- **How it used Cognition:** Refactorika is an agent harness delivered as an MCP server, riding on a deterministic, graph-driven refactoring engine.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Deepgram winners
+
+**Track:** Best Use of Deepgram · [All Deepgram winners](../by-sponsor/deepgram.md)
+
+<a name="project-aside-ai"></a>
+
+#### [Aside.ai](https://devpost.com/software/aside-ai)
+
+[Deepgram](../by-sponsor/deepgram.md) · **Best Use of Deepgram**
+
+It's a wearable narrator AI that watches your day and announces it out loud in any personality you want.
+
+[Code](https://github.com/Da0t/AsideAI) · [Demo video](https://www.youtube.com/watch?v=3NdMEDV5Ews) · Built with libjpeg-turbo, python, raspberry-pi, tcp
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** libjpeg-turbo, python, raspberry-pi, tcp, websockets
+- **Code:** [Source 1](https://github.com/Da0t/AsideAI)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=3NdMEDV5Ews)
+- **All prizes at this hackathon (1):** Best Use of Deepgram
+- **How it used Deepgram:** Aside is a clip-on camera + mic that watches the world around you and narrates it out loud in real time in a personality you choose.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Fetch.ai winners
+
+**Track:** Best Use of The Agentverse by Fetch AI · [All Fetch.ai winners](../by-sponsor/fetch-ai.md)
+
+Also won this track: [Constructa](#project-constructa), [Vanguard Telematics](#project-vanguard-telematics) (listed above)
+
 <a name="project-aerofreight-ai"></a>
 
-### [AeroFreight AI](https://devpost.com/software/aerofreight-ai)
+#### [AeroFreight AI](https://devpost.com/software/aerofreight-ai)
 
 [Fetch.ai](../by-sponsor/fetch-ai.md) · **Best Use of The Agentverse by Fetch AI**
 
@@ -232,7 +489,7 @@ A logistics planner compares air and sea options for international shipments.
 
 <a name="project-agribroker"></a>
 
-### [AgriBroker](https://devpost.com/software/agribroker)
+#### [AgriBroker](https://devpost.com/software/agribroker)
 
 [Fetch.ai](../by-sponsor/fetch-ai.md) · **Best Use of The Agentverse by Fetch AI**
 
@@ -253,78 +510,9 @@ A purchasing tool uses agents to match produce buyers with available supply at a
 
 </details>
 
-<a name="project-alpharesearch-9fwk4m"></a>
-
-### [AlphaResearch](https://devpost.com/software/alpharesearch-9fwk4m)
-
-[Cognition](../by-sponsor/cognition.md) · **Best Use of Cognition**
-
-Recursive Sandboxed Agents for Autonomous Research at Scale.
-
-[Code](https://github.com/JasonLai150/AlphaResearch) · [Demo video](https://www.youtube.com/watch?v=LcH4rdKbF6Y) · Built with anthropic, browserbase, fastapi, gcp
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** anthropic, browserbase, fastapi, gcp, modal, next.js, python, redis, sentry
-- **Code:** [Source 1](https://github.com/JasonLai150/AlphaResearch)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=LcH4rdKbF6Y)
-- **All prizes at this hackathon (1):** Best Use of Cognition
-- **How it used Cognition:** The team use agent harnesses and sandbox environments (w/ root level access) to run research experiments in parallel in a systematic way.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-aside-ai"></a>
-
-### [Aside.ai](https://devpost.com/software/aside-ai)
-
-[Deepgram](../by-sponsor/deepgram.md) · **Best Use of Deepgram**
-
-It's a wearable narrator AI that watches your day and announces it out loud in any personality you want.
-
-[Code](https://github.com/Da0t/AsideAI) · [Demo video](https://www.youtube.com/watch?v=3NdMEDV5Ews) · Built with libjpeg-turbo, python, raspberry-pi, tcp
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** libjpeg-turbo, python, raspberry-pi, tcp, websockets
-- **Code:** [Source 1](https://github.com/Da0t/AsideAI)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=3NdMEDV5Ews)
-- **All prizes at this hackathon (1):** Best Use of Deepgram
-- **How it used Deepgram:** Aside is a clip-on camera + mic that watches the world around you and narrates it out loud in real time in a personality you choose.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-axisgen"></a>
-
-### [AxisGen](https://devpost.com/software/axisgen)
-
-[UFB](../by-sponsor/ufb.md) · **Best Physical AI Hack by UFB**
-
-AxisGen turns one robot-task prompt into simulation-ready Physical AI prompts by varying lighting, placement, embodiment, and safety constraints, creating scalable, robust datasets before deployment.
-
-[Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** ai, cli, cloud, configuration, dataset, generation, github, gpu, gr00t-compatible, json, lerobot, llm, nebius, npa, nvidia, physical, planning, python, sim, structured, templates, yaml
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=vdUR6xzem4s)
-- **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
-- **How it used UFB:** AxisGen takes one robot-task prompt and expands it across environmental axes such as lighting, object placement, clutter, camera viewpoint, distractors, task difficulty, robot embodiment, and safety constraints.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-baymax-1wumi3"></a>
 
-### [baymax](https://devpost.com/software/baymax-1wumi3)
+#### [baymax](https://devpost.com/software/baymax-1wumi3)
 
 [Fetch.ai](../by-sponsor/fetch-ai.md) · **Best Use of The Agentverse by Fetch AI**
 
@@ -345,101 +533,9 @@ A network of hospital assistants forecasts supply pressure and helps hospitals c
 
 </details>
 
-<a name="project-brailleai-a-two-way-voice-for-the-deafblind"></a>
-
-### [BrailleAI : A TwoWay Voice for the Deaf &amp; Blind](https://devpost.com/software/brailleai-a-two-way-voice-for-the-deafblind)
-
-[Orkes](../by-sponsor/orkes.md) · **Best Use of Orkes**
-
-BrailleAI gives DeafBlind people a voice. Type by touch to speak out loud, and feel replies as Braille.
-
-[Code](https://github.com/lili1501/Refreshable_Braille_Display) · [Demo video](https://www.youtube.com/watch?v=iX5XIWncCkA) · Built with orkes, 3d-printing, annapurna, anthropic-claude
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** 3d-printing, annapurna, anthropic-claude, c++, cognition, deepgram, devin-cloud-agent, devin-desktop, embedded, esp32, google-cloud, google-cloud-tts, groq, ngrok, orkes, python, qnx, raspberry-pi, sai, simular, unify
-- **Code:** [Source 1](https://github.com/lili1501/Refreshable_Braille_Display)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=iX5XIWncCkA)
-- **All prizes at this hackathon (1):** Best Use of Orkes
-- **How it used Orkes:** The project lists orkes among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-browserdelta"></a>
-
-### [BrowserDelta](https://devpost.com/software/browserdelta)
-
-[Cognition](../by-sponsor/cognition.md) · **Best Use of Cognition**
-
-BrowserDelta cuts browser-agent context by &#126;78% while matching the vision-full-state baseline on 12/12 next-action predictions! Compression layer for browser use.
-
-[Code](https://github.com/jaykbpark/browser-use-compaction-co) · [Demo video](https://www.youtube.com/watch?v=rEbSwp6_rc8) · Built with arize, browserbase, browsergym, fastapi
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** arize, browserbase, browsergym, fastapi, gpt-4.1-mini, miniwob++, openai-responses-api, opencv, pillow, playwright, pytest, python, react, tesseract-ocr, typescript, vite
-- **Code:** [Source 1](https://github.com/jaykbpark/browser-use-compaction-co)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=rEbSwp6_rc8)
-- **All prizes at this hackathon (1):** Best Use of Cognition
-- **How it used Cognition:** BrowserDelta is an intermediate layer between BrowserBase / Playwright and your agent.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-agi-14q6d3"></a>
-
-### [Canary](https://devpost.com/software/agi-14q6d3)
-
-[Sentry](../by-sponsor/sentry.md) · **Best Use of Sentry API**
-
-An autonomous agent that catches the silent bugs your tests and Sentry both miss, then fixes them and writes the regression test.
-
-[Code](https://github.com/vikashftw/Canary) · Built with sentry, anthropic, browserbase, claude
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** anthropic, browserbase, claude, next.js, node.js, playwright, react, redis, sentry, typescript, vitest
-- **Code:** [Source 1](https://github.com/vikashftw/Canary)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Best Use of Sentry API
-- **How it used Sentry:** The project lists sentry among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-captain-ddoski"></a>
-
-### [Captain Ddoski](https://devpost.com/software/captain-ddoski)
-
-[Terac](../by-sponsor/terac.md) · **Best Use of Terac**
-
-Captain Ddoski gives AI finance agents instant source trust scores, risk tags, and evidence capsules via API/MCP, helping them cite reliable proof, flag weak claims, and avoid scams.
-
-[Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** arize, bear-2-api, claude, fastapi, fastmcp/mcp, firecrawl, next.js, python, react, render, sentry, shadcn, supabase, tailwind-css, terac, the-token-company-api, typescript
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=nkR6ym0lYnw)
-- **All prizes at this hackathon (1):** Best Use of Terac
-- **How it used Terac:** The project lists terac among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-careloop-gsiy8w"></a>
 
-### [CareLoop](https://devpost.com/software/careloop-gsiy8w)
+#### [CareLoop](https://devpost.com/software/careloop-gsiy8w)
 
 [Fetch.ai](../by-sponsor/fetch-ai.md) · **Best Use of The Agentverse by Fetch AI**
 
@@ -462,7 +558,7 @@ CareLoop is a voice-first healthcare concierge that triages urgency, finds nearb
 
 <a name="project-fetch-health"></a>
 
-### [Fetch Health](https://devpost.com/software/fetch-health)
+#### [Fetch Health](https://devpost.com/software/fetch-health)
 
 [Fetch.ai](../by-sponsor/fetch-ai.md) · **Best Use of The Agentverse by Fetch AI**
 
@@ -485,7 +581,7 @@ Fetch Health is a hospital-staff-facing donor and recipient intake and matching 
 
 <a name="project-fireflai"></a>
 
-### [Fireflai](https://devpost.com/software/fireflai)
+#### [Fireflai](https://devpost.com/software/fireflai)
 
 [Fetch.ai](../by-sponsor/fetch-ai.md) · **Best Use of The Agentverse by Fetch AI**
 
@@ -506,55 +602,9 @@ A multi agent AI tool for fire fighters.
 
 </details>
 
-<a name="project-forge-z8v4qm"></a>
-
-### [Forge](https://devpost.com/software/forge-z8v4qm)
-
-[Redis](../by-sponsor/redis.md) · **Using Redis Beyond Caching, Best Creativity and Originality, Best Technical Implementation**
-
-30 million underserved patients. No engineers.
-
-[Code](https://github.com/arjvnv/forge-1st-Place-UC-Berkeley-AI-Hackathon-2026-Redis-track) · [Demo video](https://www.youtube.com/watch?v=4K3G6_XONPU) · Built with redis-(redisvl, redis-streams), anthropic-api, arize
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** anthropic-api, arize, asyncpg, claude-code, claude-opus-4, claude-sonnet-4.6, fastapi, openai-text-embedding-3-small, opentelemetry, postgresql, python, react-18, redis-(redisvl, redis-streams), redisjson, synthea, tailwind-css, typescript
-- **Code:** [Source 1](https://github.com/arjvnv/forge-1st-Place-UC-Berkeley-AI-Hackathon-2026-Redis-track)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=4K3G6_XONPU)
-- **All prizes at this hackathon (1):** Using Redis Beyond Caching, Best Creativity and Originality, Best Technical Implementation
-- **How it used Redis:** Every incoming intent is embedded using OpenAI's text-embedding-3-small model and compared against the clinic's existing capability library via HNSW vector similarity search in Redis.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-jugaad-dpmqi7"></a>
-
-### [JUGAAD](https://devpost.com/software/jugaad-dpmqi7)
-
-[Arize](../by-sponsor/arize.md) · **Best Use of Arize**
-
-JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student the insider hacks on food, housing, and financial aid that only connected students know.
-
-[Code](https://github.com/nergisRahimzade/jugaad) · [Demo video](https://www.youtube.com/watch?v=18ggunYZ8iM) · Built with arize, anthropic, browserbase, claude-code
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** anthropic, arize, browserbase, claude-code, claude-sonnet-4-6, deepgram, fastapi, fetch-ai, microsoft-band, next.js, python, railway, redis, stagehand, supabase, tailwind-css, typescript, vercel
-- **Code:** [Source 1](https://github.com/nergisRahimzade/jugaad)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=18ggunYZ8iM)
-- **All prizes at this hackathon (1):** Best Use of Arize
-- **How it used Arize:** A Claude-as-judge evaluator runs automated quality scoring across 4 criteria (relevance, actionability, persona adherence, safety) and logs results to Arize.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-lifelink-soibwr"></a>
 
-### [LifeLink](https://devpost.com/software/lifelink-soibwr)
+#### [LifeLink](https://devpost.com/software/lifelink-soibwr)
 
 [Fetch.ai](../by-sponsor/fetch-ai.md) · **Best Use of The Agentverse by Fetch AI**
 
@@ -575,77 +625,9 @@ Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents fi
 
 </details>
 
-<a name="project-match-vision"></a>
-
-### [MatchVision](https://devpost.com/software/match-vision)
-
-[Terac](../by-sponsor/terac.md) · **Best Use of Terac**
-
-Empowering blind and low-vision fans to follow the action, context, and emotion of live sports independently.
-
-[Code](https://github.com/bbioren/match-vision) · Built with terac, claude, deepgram, mcp
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** claude, deepgram, mcp, node.js, redis, terac, vercel
-- **Code:** [Source 1](https://github.com/bbioren/match-vision)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Best Use of Terac
-- **How it used Terac:** Use Terac annotators to create and rank accessibility captions.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-narcore"></a>
-
-### [Narcore](https://devpost.com/software/narcore)
-
-[Browserbase](../by-sponsor/browserbase.md) · **Best Use of Browserbase**
-
-An AI undercover agent to detect and intercept online drug advertising.
-
-[Code](https://github.com/cibarbia05/narcore) · [Demo video](https://www.youtube.com/watch?v=r2Dl7fKbcsU) · Built with browserbase, claude-code, docker, javascript
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** browserbase, claude-code, docker, javascript, llama, next.js, nomic, react, redis-stack, shadcn/ui, stagehand, tailwind
-- **Code:** [Source 1](https://github.com/cibarbia05/narcore)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=r2Dl7fKbcsU)
-- **All prizes at this hackathon (1):** Best Use of Browserbase
-- **How it used Browserbase:** Narcore was created to help law enforcement officials by using multiple Browserbase instances to scrape through synthetic feeds on a virtual machine.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-ribbit-rtnfvg"></a>
-
-### [Omniscient](https://devpost.com/software/ribbit-rtnfvg)
-
-[UFB](../by-sponsor/ufb.md) · **Best Physical AI Hack by UFB**
-
-Supervision layer for robot fleets. A VLM watches each robot against its task and flags failures the second they happen; the operator pilots from anywhere via real-time hand tracking.
-
-[Code](https://github.com/matthehzhang/hackcal) · [Demo video](https://www.youtube.com/watch?v=uvKU0ZPAZa4) · Built with act, antropicstructuredoutput, claude, depthanythingv2
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** act, antropicstructuredoutput, claude, depthanythingv2, esp32, espidf, fastapi, lerobot, mediapipe, pca9685, piperx, pydantic, python, three.js, websockets
-- **Code:** [Source 1](https://github.com/matthehzhang/hackcal)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=uvKU0ZPAZa4)
-- **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-quoram"></a>
 
-### [Quorum : drop-in validation layer for multi-agent AI Systems](https://devpost.com/software/quoram)
+#### [Quorum : drop-in validation layer for multi-agent AI Systems](https://devpost.com/software/quoram)
 
 [Fetch.ai](../by-sponsor/fetch-ai.md) · **Best Use of The Agentverse by Fetch AI**
 
@@ -666,78 +648,67 @@ Quorum is a validation layer for multi-agent AI systems, running on platforms li
 
 </details>
 
-<a name="project-re-compress"></a>
+### Orkes winners
 
-### [Re:Compress](https://devpost.com/software/re-compress)
+**Track:** Best Use of Orkes · [All Orkes winners](../by-sponsor/orkes.md)
 
-[The Token Company](../by-sponsor/the-token-company.md) · **Best Compression Model for The Token Company**
+Also won this track: [Pulse AI](#project-pulse-ai-ub9lxt) (listed above)
 
-A query-aware rewriting layer that extends compression into the regime deletion can't reach — distilled into a 1.5B model, then carried into multi-turn conversations.
+<a name="project-brailleai-a-two-way-voice-for-the-deafblind"></a>
 
-[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with 2wikimultihop, deepseek-api, h100, hotpotqa
+#### [BrailleAI : A TwoWay Voice for the Deaf &amp; Blind](https://devpost.com/software/brailleai-a-two-way-voice-for-the-deafblind)
 
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
+[Orkes](../by-sponsor/orkes.md) · **Best Use of Orkes**
 
-- **Team size:** 2
-- **Built with:** 2wikimultihop, deepseek-api, h100, hotpotqa, huggingface-datasets, lora, modal, ms-marco, musique, python, qwen2.5-1.5b, squad, the-token-company-sdk, unsloth
-- **Code:** [Source 1](https://github.com/Kart-ing/ReCompress)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=2cx1czVpz8I)
-- **All prizes at this hackathon (1):** Best Compression Model for The Token Company
-- **How it used The Token Company:** ReCompress is one system in two acts.
-- **Checked on Devpost:** 2026-11-21
+BrailleAI gives DeafBlind people a voice. Type by touch to speak out loud, and feel replies as Braille.
 
-</details>
-
-<a name="project-refactorika"></a>
-
-### [Refactorika](https://devpost.com/software/refactorika)
-
-[Cognition](../by-sponsor/cognition.md) · **Best Use of Cognition**
-
-Agentic harness for efficient codebase refactoring.
-
-[Code](https://github.com/Tanush-A/Refactorika) · [Demo video](https://www.youtube.com/watch?v=uu6amcmRtzg) · Built with claude, devin, python, redis
+[Code](https://github.com/lili1501/Refreshable_Braille_Display) · [Demo video](https://www.youtube.com/watch?v=iX5XIWncCkA) · Built with orkes, 3d-printing, annapurna, anthropic-claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** claude, devin, python, redis, sentry
-- **Code:** [Source 1](https://github.com/Tanush-A/Refactorika)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=uu6amcmRtzg)
-- **All prizes at this hackathon (1):** Best Use of Cognition
-- **How it used Cognition:** Refactorika is an agent harness delivered as an MCP server, riding on a deterministic, graph-driven refactoring engine.
+- **Built with:** 3d-printing, annapurna, anthropic-claude, c++, cognition, deepgram, devin-cloud-agent, devin-desktop, embedded, esp32, google-cloud, google-cloud-tts, groq, ngrok, orkes, python, qnx, raspberry-pi, sai, simular, unify
+- **Code:** [Source 1](https://github.com/lili1501/Refreshable_Braille_Display)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=iX5XIWncCkA)
+- **All prizes at this hackathon (1):** Best Use of Orkes
+- **How it used Orkes:** The project lists orkes among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
-<a name="project-reseller-mkjlfg"></a>
+### PaleBlueDot AI winners
 
-### [RESELLER.](https://devpost.com/software/reseller-mkjlfg)
+**Track:** Best Use of TokenRouter by PaleBlueDot AI · [All PaleBlueDot AI winners](../by-sponsor/palebluedot-ai.md)
 
-[Pika](../by-sponsor/pika.md) · **Most Creative Use of Pika**
+Also won this track: [Pulse AI](#project-pulse-ai-ub9lxt) (listed above)
 
-End to End AGENT BASED RE-Selling.
+<a name="project-311-ai"></a>
 
-[Demo video](https://www.youtube.com/watch?v=2RdGKlS07a8) · Built with typescript
+#### [311.ai](https://devpost.com/software/311-ai)
+
+[PaleBlueDot AI](../by-sponsor/palebluedot-ai.md) · **Best Use of TokenRouter by PaleBlueDot AI**
+
+AI-powered 311 for non-emergencies. Voice-to-dispatch in less than a minute with multi-agent orchestration and ML-driven priority scoring.
+
+[Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 2
-- **Built with:** typescript
+- **Team size:** 1
+- **Built with:** arize-phoeniz, band-ai, browserbase, deepgram, mapbox, python, redis, redis-search, websockets
 - **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=2RdGKlS07a8)
-- **All prizes at this hackathon (1):** Most Creative Use of Pika
-- **How it used Pika:** Studio writes the title, description, and tags.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=jzAeXCgLafw)
+- **All prizes at this hackathon (1):** Best Use of TokenRouter by PaleBlueDot AI
+- **How it used PaleBlueDot AI:** 311.ai is an AI-native municipal command center that transforms voice calls into dispatched work orders in under 60 seconds .
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-retention"></a>
 
-### [Retention](https://devpost.com/software/retention)
+#### [Retention](https://devpost.com/software/retention)
 
 [PaleBlueDot AI](../by-sponsor/palebluedot-ai.md) · **Best Use of TokenRouter by PaleBlueDot AI**
 
@@ -758,77 +729,38 @@ Retention uses Meta's brain-simulation model to optimize educational videos for 
 
 </details>
 
-<a name="project-robo-jab"></a>
+### Pika winners
 
-### [Robo Jab](https://devpost.com/software/robo-jab)
+**Track:** Most Creative Use of Pika · [All Pika winners](../by-sponsor/pika.md)
 
-[UFB](../by-sponsor/ufb.md) · **Best Physical AI Hack by UFB**
+Also won this track: [MOGGIE](#project-moggie) (listed above)
 
-The project is a full pipeline that takes ordinary monocular phone videos of a person jabbing and produces robot reference motions plus a trained control policy for the Unitree G1.
+<a name="project-reseller-mkjlfg"></a>
 
-[Code](https://github.com/abtonmoy/ai_hackathon_calhacks) · [Demo video](https://www.youtube.com/watch?v=XCrEp2mOd_s) · Built with bash, cuda, ffmpeg, gmr
+#### [RESELLER.](https://devpost.com/software/reseller-mkjlfg)
 
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
+[Pika](../by-sponsor/pika.md) · **Most Creative Use of Pika**
 
-- **Team size:** 4
-- **Built with:** bash, cuda, ffmpeg, gmr, gvhmr, hmr2, hugging-face, isaac-lab, mujoco, numpy, onnx, python, pytorch, runpod, smpl-x, ubuntu, unitree-g1, vitpose, windows, wsl2, yolov8
-- **Code:** [Source 1](https://github.com/abtonmoy/ai_hackathon_calhacks)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=XCrEp2mOd_s)
-- **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
-- **Checked on Devpost:** 2026-11-21
+End to End AGENT BASED RE-Selling.
 
-</details>
-
-<a name="project-safestreets-h6yprx"></a>
-
-### [SafeStreets](https://devpost.com/software/safestreets-h6yprx)
-
-[Anthropic](../by-sponsor/anthropic.md) · **Best Use of Claude**
-
-A civic reporting tool flags street hazards in images and pairs them with city records and potential fixes.
-
-[Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** browserbase, fastapi, fetch.ai, gemini-imagen-4, mapbox, react, redis, typescript, uagents
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=SIy97mAQ4YY)
-- **All prizes at this hackathon (1):** Best Use of Claude
-- **How it used Anthropic:** Claude (Haiku) runs the two-stage vision pipeline.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-safetank"></a>
-
-### [SafeTank](https://devpost.com/software/safetank)
-
-[QNX](../by-sponsor/qnx.md) · **Best Use of QNX**
-
-Real-time monitoring and AI-powered predictive maintenance for factory plants.
-
-Built with c++, python
+[Demo video](https://www.youtube.com/watch?v=2RdGKlS07a8) · Built with typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
-- **Built with:** c++, python
+- **Built with:** typescript
 - **Code:** None listed.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Best Use of QNX
-- **How it used QNX:** A key part of the system is QNX RTOS, an industry-grade real-time operating system commonly used in safety-critical and industrial applications.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=2RdGKlS07a8)
+- **All prizes at this hackathon (1):** Most Creative Use of Pika
+- **How it used Pika:** Studio writes the title, description, and tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-senya"></a>
 
-### [Senya](https://devpost.com/software/senya)
+#### [Senya](https://devpost.com/software/senya)
 
 [Pika](../by-sponsor/pika.md) · **Most Creative Use of Pika**
 
@@ -849,32 +781,96 @@ Making music something you can feel, see, and sign.
 
 </details>
 
-<a name="project-assistantai"></a>
+### QNX winners
 
-### [SiliconYOLO](https://devpost.com/software/assistantai)
+**Track:** Best Use of QNX · [All QNX winners](../by-sponsor/qnx.md)
 
-[Cognichip](../by-sponsor/cognichip.md) · **Best Use of Cognichip**
+Also won this track: [MOGGIE](#project-moggie), [Vanguard Telematics](#project-vanguard-telematics) (listed above)
 
-Runs YOLOv10n (NMS-free) at 640×640, 80-class COCO entirely on-chip — no DRAM weight traffic.
+<a name="project-safetank"></a>
 
-[Code](https://github.com/kejiwuxian/SiliconYOLO) · [Demo video](https://www.youtube.com/watch?v=0lajMaVrj0A) · Built with cognichip, claude-code, digilent-genesys-2(kintex-7-xc7k325t), int8/csd-multiplier-less-arithmetic
+#### [SafeTank](https://devpost.com/software/safetank)
+
+[QNX](../by-sponsor/qnx.md) · **Best Use of QNX**
+
+Real-time monitoring and AI-powered predictive maintenance for factory plants.
+
+Built with c++, python
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** c++, python
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Best Use of QNX
+- **How it used QNX:** A key part of the system is QNX RTOS, an industry-grade real-time operating system commonly used in safety-critical and industrial applications.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Redis winners
+
+**Track:** Using Redis Beyond Caching, Best Creativity and Originality, Best Technical Implementation · [All Redis winners](../by-sponsor/redis.md)
+
+<a name="project-forge-z8v4qm"></a>
+
+#### [Forge](https://devpost.com/software/forge-z8v4qm)
+
+[Redis](../by-sponsor/redis.md) · **Using Redis Beyond Caching, Best Creativity and Originality, Best Technical Implementation**
+
+30 million underserved patients. No engineers.
+
+[Code](https://github.com/arjvnv/forge-1st-Place-UC-Berkeley-AI-Hackathon-2026-Redis-track) · [Demo video](https://www.youtube.com/watch?v=4K3G6_XONPU) · Built with redis-(redisvl, redis-streams), anthropic-api, arize
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** anthropic-api, arize, asyncpg, claude-code, claude-opus-4, claude-sonnet-4.6, fastapi, openai-text-embedding-3-small, opentelemetry, postgresql, python, react-18, redis-(redisvl, redis-streams), redisjson, synthea, tailwind-css, typescript
+- **Code:** [Source 1](https://github.com/arjvnv/forge-1st-Place-UC-Berkeley-AI-Hackathon-2026-Redis-track)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=4K3G6_XONPU)
+- **All prizes at this hackathon (1):** Using Redis Beyond Caching, Best Creativity and Originality, Best Technical Implementation
+- **How it used Redis:** Every incoming intent is embedded using OpenAI's text-embedding-3-small model and compared against the clinic's existing capability library via HNSW vector similarity search in Redis.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Sentry winners
+
+**Track:** Best Use of Sentry API · [All Sentry winners](../by-sponsor/sentry.md)
+
+<a name="project-agi-14q6d3"></a>
+
+#### [Canary](https://devpost.com/software/agi-14q6d3)
+
+[Sentry](../by-sponsor/sentry.md) · **Best Use of Sentry API**
+
+An autonomous agent that catches the silent bugs your tests and Sentry both miss, then fixes them and writes the regression test.
+
+[Code](https://github.com/vikashftw/Canary) · Built with sentry, anthropic, browserbase, claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
-- **Built with:** claude-code, cognichip, digilent-genesys-2(kintex-7-xc7k325t), int8/csd-multiplier-less-arithmetic, pycocotools, python, pytorch(cuda), rtl, simulang, simular(hyperframes), simular(sai), systemverilog, torch-pruning, verilog, xilinx-vivado, yolov10n
-- **Code:** [Source 1](https://github.com/kejiwuxian/SiliconYOLO)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=0lajMaVrj0A)
-- **All prizes at this hackathon (1):** Best Use of Cognichip
-- **How it used Cognichip:** The project lists cognichip among its Built With tags.
+- **Built with:** anthropic, browserbase, claude, next.js, node.js, playwright, react, redis, sentry, typescript, vitest
+- **Code:** [Source 1](https://github.com/vikashftw/Canary)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Best Use of Sentry API
+- **How it used Sentry:** The project lists sentry among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### Simular winners
+
+**Track:** Best Use of Simular · [All Simular winners](../by-sponsor/simular.md)
+
 <a name="project-sting-bfqvia"></a>
 
-### [STING](https://devpost.com/software/sting-bfqvia)
+#### [STING](https://devpost.com/software/sting-bfqvia)
 
 [Simular](../by-sponsor/simular.md) · **Best Use of Simular**
 
@@ -897,7 +893,7 @@ STING is AI anti-scam protection that protects elderly and naive users from phis
 
 <a name="project-tendly-smolpq"></a>
 
-### [Tendly](https://devpost.com/software/tendly-smolpq)
+#### [Tendly](https://devpost.com/software/tendly-smolpq)
 
 [Simular](../by-sponsor/simular.md) · **Best Use of Simular**
 
@@ -918,71 +914,173 @@ Tendly gives elderly patients one button to speak any need. Claude triages it in
 
 </details>
 
-<a name="project-theracat"></a>
+### Terac winners
 
-### [Theracat](https://devpost.com/software/theracat)
+**Track:** Best Use of Terac · [All Terac winners](../by-sponsor/terac.md)
 
-[Berkeley SkyDeck](../by-sponsor/berkeley-skydeck.md) · **SkyDeck Grand Prize Winner**
+<a name="project-captain-ddoski"></a>
 
-A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There's no app to open, no waiting room.
+#### [Captain Ddoski](https://devpost.com/software/captain-ddoski)
 
-[Code](https://github.com/emilyLi2020/Theracat) · [Demo video](https://vimeo.com/1203255610) · Built with anthropic-claude, arduino, bluetooth, elevenlabs
+[Terac](../by-sponsor/terac.md) · **Best Use of Terac**
 
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
+Captain Ddoski gives AI finance agents instant source trust scores, risk tags, and evidence capsules via API/MCP, helping them cite reliable proof, flag weak claims, and avoid scams.
 
-- **Team size:** 4
-- **Built with:** anthropic-claude, arduino, bluetooth, elevenlabs, esp32, mpu6050, python
-- **Code:** [Source 1](https://github.com/emilyLi2020/Theracat)
-- **Demo video:** [Video 1](https://vimeo.com/1203255610)
-- **All prizes at this hackathon (3):** Finalist · GRAND PRIZE - Ddoski's Lab Track · SkyDeck Grand Prize Winner
-- **How it used Berkeley SkyDeck:** TheraCat is a two-part companion: a wristband and a soft plush cat.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-traid-h6db5a"></a>
-
-### [Traide: Sell Anything, Anywhere](https://devpost.com/software/traid-h6db5a)
-
-[Browserbase](../by-sponsor/browserbase.md) · **Best Use of Browserbase**
-
-TrAIde is the AI agent that sells your stuff for you. Just text a photo and price range and it lists, prices, and negotiates the sale across marketplaces.
-
-[Code](https://github.com/rishabhroyy/traide) · [Demo video](https://www.youtube.com/watch?v=VgXrJ3nY2rY) · Built with browserbase, claude, cloudflare, javascript
+[Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
-- **Built with:** browserbase, claude, cloudflare, javascript, orkes, poke, python, redis, stagehand, tailwind, typescript
-- **Code:** [Source 1](https://github.com/rishabhroyy/traide)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=VgXrJ3nY2rY)
-- **All prizes at this hackathon (1):** Best Use of Browserbase
-- **How it used Browserbase:** Every integration, from Poke to Orkes to Browserbase to Redis, earns its place in the workflow.
+- **Built with:** arize, bear-2-api, claude, fastapi, fastmcp/mcp, firecrawl, next.js, python, react, render, sentry, shadcn, supabase, tailwind-css, terac, the-token-company-api, typescript
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=nkR6ym0lYnw)
+- **All prizes at this hackathon (1):** Best Use of Terac
+- **How it used Terac:** The project lists terac among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
-<a name="project-triage-y10mpq"></a>
+<a name="project-match-vision"></a>
 
-### [Triage](https://devpost.com/software/triage-y10mpq)
+#### [MatchVision](https://devpost.com/software/match-vision)
 
-[Band](../by-sponsor/band.md) · **Best use of Band for agent to agent communication**
+[Terac](../by-sponsor/terac.md) · **Best Use of Terac**
 
-An agent that reproduces your bugs by actually using your app.
+Empowering blind and low-vision fans to follow the action, context, and emotion of live sports independently.
 
-[Code](https://github.com/HansChundekad/Triage) · [Demo video](https://www.youtube.com/watch?v=Q-ArgjSnVzw) · Built with microsoft-band, arize, browserbase, claude
+[Code](https://github.com/bbioren/match-vision) · Built with terac, claude, deepgram, mcp
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 1
-- **Built with:** arize, browserbase, claude, fastapi, microsoft-band, python, stagehand
-- **Code:** [Source 1](https://github.com/HansChundekad/Triage)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q-ArgjSnVzw)
-- **All prizes at this hackathon (1):** Best use of Band for agent to agent communication
-- **How it used Band:** The team built the agent message schema around this constraint from the start rather than retrofitting it, which meant locking the Band module interface before any agent logic was written.
+- **Team size:** 3
+- **Built with:** claude, deepgram, mcp, node.js, redis, terac, vercel
+- **Code:** [Source 1](https://github.com/bbioren/match-vision)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Best Use of Terac
+- **How it used Terac:** Use Terac annotators to create and rank accessibility captions.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### The Token Company winners
+
+**Track:** Best Compression Model for The Token Company · [All The Token Company winners](../by-sponsor/the-token-company.md)
+
+<a name="project-accordion-jwarge"></a>
+
+#### [Accordion](https://devpost.com/software/accordion-jwarge)
+
+[The Token Company](../by-sponsor/the-token-company.md) · **Best Compression Model for The Token Company**
+
+Context management you can trust - Say goodbye to /compact.
+
+[Code](https://github.com/a-Fig/Accordion) · [Demo video](https://www.youtube.com/watch?v=T1omrI2VjLA) · Built with claude, javascript, jiti, node.js
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** claude, javascript, jiti, node.js, pi, qwen2.5-0.5b, rust, svelte-5, sveltekit, tauri-2, typescript, vite, vitest, websocket
+- **Code:** [Source 1](https://github.com/a-Fig/Accordion)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=T1omrI2VjLA)
+- **All prizes at this hackathon (1):** Best Compression Model for The Token Company
+- **How it used The Token Company:** Accordion shows you your entire context window at a glance using a series of blocks in a grid.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-re-compress"></a>
+
+#### [Re:Compress](https://devpost.com/software/re-compress)
+
+[The Token Company](../by-sponsor/the-token-company.md) · **Best Compression Model for The Token Company**
+
+A query-aware rewriting layer that extends compression into the regime deletion can't reach — distilled into a 1.5B model, then carried into multi-turn conversations.
+
+[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with 2wikimultihop, deepseek-api, h100, hotpotqa
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** 2wikimultihop, deepseek-api, h100, hotpotqa, huggingface-datasets, lora, modal, ms-marco, musique, python, qwen2.5-1.5b, squad, the-token-company-sdk, unsloth
+- **Code:** [Source 1](https://github.com/Kart-ing/ReCompress)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=2cx1czVpz8I)
+- **All prizes at this hackathon (1):** Best Compression Model for The Token Company
+- **How it used The Token Company:** ReCompress is one system in two acts.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### UFB winners
+
+**Track:** Best Physical AI Hack by UFB · [All UFB winners](../by-sponsor/ufb.md)
+
+<a name="project-axisgen"></a>
+
+#### [AxisGen](https://devpost.com/software/axisgen)
+
+[UFB](../by-sponsor/ufb.md) · **Best Physical AI Hack by UFB**
+
+AxisGen turns one robot-task prompt into simulation-ready Physical AI prompts by varying lighting, placement, embodiment, and safety constraints, creating scalable, robust datasets before deployment.
+
+[Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** ai, cli, cloud, configuration, dataset, generation, github, gpu, gr00t-compatible, json, lerobot, llm, nebius, npa, nvidia, physical, planning, python, sim, structured, templates, yaml
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=vdUR6xzem4s)
+- **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
+- **How it used UFB:** AxisGen takes one robot-task prompt and expands it across environmental axes such as lighting, object placement, clutter, camera viewpoint, distractors, task difficulty, robot embodiment, and safety constraints.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-ribbit-rtnfvg"></a>
+
+#### [Omniscient](https://devpost.com/software/ribbit-rtnfvg)
+
+[UFB](../by-sponsor/ufb.md) · **Best Physical AI Hack by UFB**
+
+Supervision layer for robot fleets. A VLM watches each robot against its task and flags failures the second they happen; the operator pilots from anywhere via real-time hand tracking.
+
+[Code](https://github.com/matthehzhang/hackcal) · [Demo video](https://www.youtube.com/watch?v=uvKU0ZPAZa4) · Built with act, antropicstructuredoutput, claude, depthanythingv2
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** act, antropicstructuredoutput, claude, depthanythingv2, esp32, espidf, fastapi, lerobot, mediapipe, pca9685, piperx, pydantic, python, three.js, websockets
+- **Code:** [Source 1](https://github.com/matthehzhang/hackcal)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=uvKU0ZPAZa4)
+- **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-robo-jab"></a>
+
+#### [Robo Jab](https://devpost.com/software/robo-jab)
+
+[UFB](../by-sponsor/ufb.md) · **Best Physical AI Hack by UFB**
+
+The project is a full pipeline that takes ordinary monocular phone videos of a person jabbing and produces robot reference motions plus a trained control policy for the Unitree G1.
+
+[Code](https://github.com/abtonmoy/ai_hackathon_calhacks) · [Demo video](https://www.youtube.com/watch?v=XCrEp2mOd_s) · Built with bash, cuda, ffmpeg, gmr
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** bash, cuda, ffmpeg, gmr, gvhmr, hmr2, hugging-face, isaac-lab, mujoco, numpy, onnx, python, pytorch, runpod, smpl-x, ubuntu, unitree-g1, vitpose, windows, wsl2, yolov8
+- **Code:** [Source 1](https://github.com/abtonmoy/ai_hackathon_calhacks)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=XCrEp2mOd_s)
+- **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
 - **Checked on Devpost:** 2026-11-21
 
 </details>

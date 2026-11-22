@@ -4,6 +4,8 @@
 
 **3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=GPTZero)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (3), typescript (3), fastapi (2), gptzero (2), openai (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [MedBot](https://devpost.com/software/medbot-2e40oh)
 

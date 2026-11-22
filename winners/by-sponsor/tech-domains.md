@@ -4,6 +4,8 @@
 
 **14 winning projects** · 14 hackathons · 14 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=.Tech%20Domains)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (10), typescript (9), node.js (8), claude (5), next.js (5)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Bear With Me](https://devpost.com/software/bear-with-me-8ijcef)
 
@@ -56,6 +56,8 @@ Play It Forward pairs families in need of toys with households that have more th
 Helping employee ideas get off the ground.
 
 [Code](https://github.com/malki-aal/MalakaiSaleh_H26) · [Demo video](https://www.youtube.com/watch?v=RvQH93zIyyM) · Built with capital-one, claude, clerk, docker
+
+## 2025 winners
 
 ### [Koalafied](https://devpost.com/software/koalafied)
 
@@ -104,6 +106,8 @@ Ever stuck procrastinating on important tasks? Roominate breaks down your tasks 
 Anonymous voting platform powered by the Midnight Blockchain. Students can now vote privately by utilizing zero-knowledge proofs and decentralized blockchain network verification.
 
 [Code](https://github.com/Edwin-Yee/SBHacks-XI) · [Demo video](https://www.youtube.com/watch?v=Bm5nX9-Txrg) · Built with anchor, midnight, next.js, npm
+
+## 2024 winners
 
 ### [DHy-n0](https://devpost.com/software/dhy-n0)
 

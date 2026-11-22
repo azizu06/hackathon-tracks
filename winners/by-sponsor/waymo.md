@@ -4,6 +4,8 @@
 
 **9 winning projects** · 3 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Waymo)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (5), react (5), gemini (4), typescript (4), json (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Halo](https://devpost.com/software/halo-1q59hf)
 
@@ -41,6 +41,8 @@ Decode the skies in real time: Live radar tracking powered by custom AI that det
 
 [Demo video](https://www.youtube.com/watch?v=DAqYyY9iVos) · Built with absd, api, deck.gl, digitalocean
 
+## 2025 winners
+
 ### [BirdsEye](https://devpost.com/software/birdseye-ck0j12)
 
 [ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-birdseye-ck0j12) · **Waymo**
@@ -64,6 +66,8 @@ Leverages computer vision, GPS, and crowdsourcing to detect potholes, warn drive
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
 [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
+
+## 2024 winners
 
 ### [EmergencyAct](https://devpost.com/software/emergencyact)
 

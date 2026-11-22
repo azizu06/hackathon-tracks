@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description and its tech tags.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (24), typescript (21), arkit (14), swift (14), javascript (10)
@@ -15,9 +17,7 @@ Matched from keywords in the project description and its tech tags.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Farsight](https://devpost.com/software/farsight-t4qyli)
 
@@ -155,6 +155,8 @@ A mapping tool turns real spaces into tactile and audio guides for blind and low
 
 [Code](https://github.com/holokcheung/touchspace) · [Demo video](https://www.youtube.com/watch?v=zCSkCPO-3cc) · Built with claude, arkit, avfoundation, fastapi
 
+## 2025 winners
+
 ### [Wingman](https://devpost.com/software/wingman-9xok8b)
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-wingman-9xok8b)<br>[BitRobot Network](../by-sponsor/bitrobot-network.md) · **Best Robotics Hack - 3rd Place**<br>[Snap](../by-sponsor/snap.md) · **Best Use of Snap Spectacles**
@@ -267,6 +269,8 @@ Turning snapshots into spaces you can actually explore.
 
 [Code](https://github.com/tyseer2335/SpectraSphere) · [Demo video](https://vimeo.com/1118489387) · Built with lens-studio-sdk, snap-spectacles, cohere, gemini
 
+## 2024 winners
+
 ### [RecovARy](https://devpost.com/software/recovary)
 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-recovary)<br>[Fetch.ai](../by-sponsor/fetch-ai.md) · **Agentic Track Prize**<br>[Snap](../by-sponsor/snap.md) · **Dream it. Build it.**
@@ -315,6 +319,8 @@ Step 1: AR Interaction: Users interact with a virtual marker (e.g., light switch
 
 [Code](https://github.com/ktarafder/speckTackles) · [Demo video](https://www.youtube.com/watch?v=-ZvnOohU140) · Built with lensstudio, firebase, javascript, nexjs
 
+## 2018 winners
+
 ### [Augmented Checkers](https://devpost.com/software/augmented-checkers)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-augmented-checkers)<br>[Niantic](../by-sponsor/niantic.md) · **Niantic Augmented Reality Prize**
@@ -323,6 +329,8 @@ An Augmented Reality Powered Checkers Assistant.
 
 [Code](https://github.com/abeakkas/Augmented-Checkers) · Built with ai, android, augmented-reality, computer-vision
 
+## 2017 winners
+
 ### [TravelAR](https://devpost.com/software/travelar-g4sq6y)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-travelar-g4sq6y)<br>[Amadeus](../by-sponsor/amadeus.md) · **Sponsor Prize - Amadeus - Best Use of Amadeus APIs**<br>[SAP Concur](../by-sponsor/sap-concur.md) · **Sponsor Prize - Concur - Best Travel Hack**
@@ -330,6 +338,8 @@ An Augmented Reality Powered Checkers Assistant.
 TravelAR is an iOS travel application built using Apple's ARKit.
 
 [Code](https://github.com/Averylamp/TravelAR) · [Demo video](https://www.youtube.com/watch?v=ACneUIVByaY) · Built with amadeus, arkit, azure, bing-search-api
+
+## 2016 winners
 
 ### [ColoVR](https://devpost.com/software/colovr)
 

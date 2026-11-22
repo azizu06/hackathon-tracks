@@ -4,6 +4,8 @@
 
 **6 winning projects** · 2 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=T-Mobile)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** gemini (4), python (4), fastapi (3), react (3), tailwindcss (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Backfire](https://devpost.com/software/the-sgs-protocol)
 
@@ -40,6 +40,8 @@ Raise a pet. Dodge the scams.
 PinkyPromise is a research-backed scam-prevention application that helps users recognize, respond to, and avoid phishing and fraudulent phone calls.
 
 [Code](https://github.com/aasthas23/pinkypromise) · [Demo video](https://www.youtube.com/watch?v=6B-SsBP-8iM) · Built with fastapi, gemini, ollama, python
+
+## 2025 winners
 
 ### [Beacon](https://devpost.com/software/na-504rkg)
 

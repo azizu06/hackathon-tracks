@@ -4,6 +4,8 @@
 
 **15 winning projects** · 15 hackathons · 15 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Vultr)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (11), typescript (9), vultr (9), react (8), fastapi (6)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Breadcrumbs](https://devpost.com/software/naps-hack-project)
 
@@ -116,6 +116,8 @@ Triviality combines an interactive mathematical atlas with a workspace for runni
 The hardware guardian for software you can't trust.
 
 [Code](https://github.com/share-a-byte/warden) · [Demo video](https://www.youtube.com/watch?v=ahTiwQ9xVaE) · Built with vultr, arduino, blender, python
+
+## 2025 winners
 
 ### [Agora Socrates](https://devpost.com/software/agora-socrates)
 

@@ -4,6 +4,8 @@
 
 **7 winning projects** · 2 hackathons · 7 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Zoom)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** zoom (5), python (4), perplexity (3), react (3), chromadb (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Minerva](https://devpost.com/software/minerva-3sj6z0)
 
@@ -44,6 +44,8 @@ Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching
 **How it used Zoom:** TA-DA is an AI-powered teaching assistant built natively into Zoom using the Real-Time Meeting SDK (RTMS).
 
 [Code](https://github.com/pb2323/TA-da) · [Demo video](https://www.youtube.com/watch?v=GuiFFxdgUZA) · Built with zoom, elasticsearch, fetch.ai, javascript
+
+## 2025 winners
 
 ### [FlowPilot: Your Agentic Co-Pilot](https://devpost.com/software/flowpilot-zoom-agent-that-automates-your-workflows)
 

@@ -4,6 +4,8 @@
 
 **8 winning projects** · 7 sponsors · 9 sponsor prizes · [Devpost gallery](https://sb-hacks-xi.devpost.com/project-gallery) · [Prize rules](https://sb-hacks-xi.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** aryn (4), singlestore (4), python (3), react (3), sycamore (3)
@@ -15,19 +17,21 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [.Tech Domains](../by-sponsor/tech-domains.md) | 1 | Best .Tech Domain Name |
-| [Aryn](../by-sponsor/aryn.md) | 3 | Best use of Sycamore |
-| [HashiCorp](../by-sponsor/hashicorp.md) | 1 | Best Use of Terraform |
-| [Midnight](../by-sponsor/midnight.md) | 1 | Best Use of Midnight |
-| [Sauce Labs](../by-sponsor/sauce-labs.md) | 1 | Sauce Labs Hot Sauce Raffle |
-| [SingleStore](../by-sponsor/singlestore.md) | 1 | Best use of SingleStore |
-| [Snag](../by-sponsor/snag.md) | 1 | Snag Challenge |
+| [.Tech Domains](../by-sponsor/tech-domains.md) | 1 | [Best .Tech Domain Name](#tech-domains-winners) |
+| [Aryn](../by-sponsor/aryn.md) | 3 | [Best use of Sycamore](#aryn-winners) |
+| [HashiCorp](../by-sponsor/hashicorp.md) | 1 | [Best Use of Terraform](#hashicorp-winners) |
+| [Midnight](../by-sponsor/midnight.md) | 1 | [Best Use of Midnight](#midnight-winners) |
+| [Sauce Labs](../by-sponsor/sauce-labs.md) | 1 | [Sauce Labs Hot Sauce Raffle](#sauce-labs-winners) |
+| [SingleStore](../by-sponsor/singlestore.md) | 1 | [Best use of SingleStore](#singlestore-winners) |
+| [Snag](../by-sponsor/snag.md) | 1 | [Snag Challenge](#snag-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-votedu-p2n806"></a>
 
@@ -53,32 +57,21 @@ Anonymous voting platform powered by the Midnight Blockchain. Students can now v
 
 </details>
 
-<a name="project-chainreact"></a>
+## Winners by sponsor track
 
-### [ChainReact](https://devpost.com/software/chainreact)
+### .Tech Domains winners
 
-[HashiCorp](../by-sponsor/hashicorp.md) · **Best Use of Terraform**
+**Track:** Best .Tech Domain Name · [All .Tech Domains winners](../by-sponsor/tech-domains.md)
 
-Anticipate and respond to supply chain disruptions by analyzing current events, geopolitics, and climate patterns.
+Also won this track: [VotEdu](#project-votedu-p2n806) (listed above)
 
-[Code](https://github.com/SBHacksXI/ml-backend) · Built with terraform, aryn, firebase, singlestore
+### Aryn winners
 
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** aryn, firebase, singlestore, terraform
-- **Code:** [Source 1](https://github.com/SBHacksXI/ml-backend) · [Source 2](https://github.com/SBHacksXI/terraform_aws)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** MLH - Best Use of Terraform
-- **How it used HashiCorp:** The team used Aryn to parse pdf documents from the web, Singlestore to store the vector database, and Terraform to host the EC2 interfaces.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best use of Sycamore · [All Aryn winners](../by-sponsor/aryn.md)
 
 <a name="project-homelessgaucho"></a>
 
-### [GauchoHome](https://devpost.com/software/homelessgaucho)
+#### [GauchoHome](https://devpost.com/software/homelessgaucho)
 
 [Aryn](../by-sponsor/aryn.md) · **Best use of Sycamore**
 
@@ -101,7 +94,7 @@ Helps UCSB and SBCC students in IV locate housing. Powered by a data ingestion p
 
 <a name="project-nobuai"></a>
 
-### [NabuAI](https://devpost.com/software/nobuai)
+#### [NabuAI](https://devpost.com/software/nobuai)
 
 [Aryn](../by-sponsor/aryn.md) · **Best use of Sycamore**
 
@@ -122,54 +115,9 @@ In addition, the live scraping of academic databases and the future goals of scr
 
 </details>
 
-<a name="project-netzero-ie1d27"></a>
-
-### [NetZero](https://devpost.com/software/netzero-ie1d27)
-
-[Sauce Labs](../by-sponsor/sauce-labs.md) · **Sauce Labs Hot Sauce Raffle**
-
-Building NetZero was an incredible journey of growth and innovation.
-
-[Code](https://github.com/SagnikBiswasDL/SBHacksShared2025) · [Demo video](https://www.youtube.com/watch?v=3oaDyCyiX6o) · Built with css, html, javascript, sql
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** css, html, javascript, sql
-- **Code:** [Source 1](https://github.com/SagnikBiswasDL/SBHacksShared2025)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=3oaDyCyiX6o)
-- **All prizes at this hackathon (1):** MLH - Sauce Labs Hot Sauce Raffle
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-recapture-vuqzm3"></a>
-
-### [ReCapture](https://devpost.com/software/recapture-vuqzm3)
-
-[Snag](../by-sponsor/snag.md) · **Snag Challenge**
-
-ReCapture: Unlock the World, One Memory at a Time.
-
-[Code](https://github.com/NathanRLiu/reCapture) · [Demo video](https://www.youtube.com/watch?v=BBudE_SngUo) · Built with express.js, react-native, singlestore
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** express.js, react-native, singlestore
-- **Code:** [Source 1](https://github.com/NathanRLiu/reCapture)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=BBudE_SngUo)
-- **All prizes at this hackathon (1):** Snag Challenge
-- **How it used Snag:** Familiar areas (your immediate radius) are not grayed, while darker areas with pins mark uncharted spots—places your friends have explored but you haven’t… yet.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-share-tome"></a>
 
-### [Share Tome](https://devpost.com/software/share-tome)
+#### [Share Tome](https://devpost.com/software/share-tome)
 
 [Aryn](../by-sponsor/aryn.md) · **Best use of Sycamore**
 
@@ -190,9 +138,72 @@ Built with aryn, elasticsearch, go, next.js
 
 </details>
 
+### HashiCorp winners
+
+**Track:** Best Use of Terraform · [All HashiCorp winners](../by-sponsor/hashicorp.md)
+
+<a name="project-chainreact"></a>
+
+#### [ChainReact](https://devpost.com/software/chainreact)
+
+[HashiCorp](../by-sponsor/hashicorp.md) · **Best Use of Terraform**
+
+Anticipate and respond to supply chain disruptions by analyzing current events, geopolitics, and climate patterns.
+
+[Code](https://github.com/SBHacksXI/ml-backend) · Built with terraform, aryn, firebase, singlestore
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** aryn, firebase, singlestore, terraform
+- **Code:** [Source 1](https://github.com/SBHacksXI/ml-backend) · [Source 2](https://github.com/SBHacksXI/terraform_aws)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** MLH - Best Use of Terraform
+- **How it used HashiCorp:** The team used Aryn to parse pdf documents from the web, Singlestore to store the vector database, and Terraform to host the EC2 interfaces.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Midnight winners
+
+**Track:** Best Use of Midnight · [All Midnight winners](../by-sponsor/midnight.md)
+
+Also won this track: [VotEdu](#project-votedu-p2n806) (listed above)
+
+### Sauce Labs winners
+
+**Track:** Sauce Labs Hot Sauce Raffle · [All Sauce Labs winners](../by-sponsor/sauce-labs.md)
+
+<a name="project-netzero-ie1d27"></a>
+
+#### [NetZero](https://devpost.com/software/netzero-ie1d27)
+
+[Sauce Labs](../by-sponsor/sauce-labs.md) · **Sauce Labs Hot Sauce Raffle**
+
+Building NetZero was an incredible journey of growth and innovation.
+
+[Code](https://github.com/SagnikBiswasDL/SBHacksShared2025) · [Demo video](https://www.youtube.com/watch?v=3oaDyCyiX6o) · Built with css, html, javascript, sql
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** css, html, javascript, sql
+- **Code:** [Source 1](https://github.com/SagnikBiswasDL/SBHacksShared2025)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=3oaDyCyiX6o)
+- **All prizes at this hackathon (1):** MLH - Sauce Labs Hot Sauce Raffle
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### SingleStore winners
+
+**Track:** Best use of SingleStore · [All SingleStore winners](../by-sponsor/singlestore.md)
+
 <a name="project-ucsbites"></a>
 
-### [UCSBites](https://devpost.com/software/ucsbites)
+#### [UCSBites](https://devpost.com/software/ucsbites)
 
 [SingleStore](../by-sponsor/singlestore.md) · **Best use of SingleStore**
 
@@ -209,6 +220,33 @@ Matching students at college dining halls together for friendships.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=40n7d0nfOBU)
 - **All prizes at this hackathon (1):** Best use of SingleStore
 - **How it used SingleStore:** The team used React, Bootstrap, Vite for the frontend and Flask/Singlestore for the backend.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Snag winners
+
+**Track:** Snag Challenge · [All Snag winners](../by-sponsor/snag.md)
+
+<a name="project-recapture-vuqzm3"></a>
+
+#### [ReCapture](https://devpost.com/software/recapture-vuqzm3)
+
+[Snag](../by-sponsor/snag.md) · **Snag Challenge**
+
+ReCapture: Unlock the World, One Memory at a Time.
+
+[Code](https://github.com/NathanRLiu/reCapture) · [Demo video](https://www.youtube.com/watch?v=BBudE_SngUo) · Built with express.js, react-native, singlestore
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** express.js, react-native, singlestore
+- **Code:** [Source 1](https://github.com/NathanRLiu/reCapture)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=BBudE_SngUo)
+- **All prizes at this hackathon (1):** Snag Challenge
+- **How it used Snag:** Familiar areas (your immediate radius) are not grayed, while darker areas with pins mark uncharted spots—places your friends have explored but you haven’t… yet.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

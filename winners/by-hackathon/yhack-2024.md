@@ -4,6 +4,8 @@
 
 **5 winning projects** · 1 sponsor · 5 sponsor prizes · [Devpost gallery](https://yhack-2024.devpost.com/project-gallery) · [Prize rules](https://yhack-2024.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (4), flask (3), react (3), supabase (3), huggingface (2)
@@ -15,17 +17,21 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [Actual Food](../by-sponsor/actual-food.md) | 5 | ActualFood |
+| [Actual Food](../by-sponsor/actual-food.md) | 5 | [ActualFood](#actual-food-winners) |
 
-## Winning projects
+## Winners by sponsor track
 
-Projects that won more than one sponsor prize come first.
+### Actual Food winners
+
+**Track:** ActualFood · [All Actual Food winners](../by-sponsor/actual-food.md)
 
 <a name="project-connect-campus"></a>
 
-### [Connect Campus](https://devpost.com/software/connect-campus)
+#### [Connect Campus](https://devpost.com/software/connect-campus)
 
 [Actual Food](../by-sponsor/actual-food.md) · **ActualFood**
 
@@ -48,7 +54,7 @@ Built with api, css, firebase, flask
 
 <a name="project-droplyt"></a>
 
-### [DropLyt](https://devpost.com/software/droplyt)
+#### [DropLyt](https://devpost.com/software/droplyt)
 
 [Actual Food](../by-sponsor/actual-food.md) · **ActualFood**
 
@@ -70,7 +76,7 @@ For households across the United States, the single greatest usage of water is i
 
 <a name="project-futon"></a>
 
-### [Futon](https://devpost.com/software/futon)
+#### [Futon](https://devpost.com/software/futon)
 
 [Actual Food](../by-sponsor/actual-food.md) · **ActualFood**
 
@@ -92,7 +98,7 @@ Users can create a host profile and post their room on the map, along with detai
 
 <a name="project-repro-health-companion-bot"></a>
 
-### [Repro-Health Companion Bot](https://devpost.com/software/repro-health-companion-bot)
+#### [Repro-Health Companion Bot](https://devpost.com/software/repro-health-companion-bot)
 
 [Actual Food](../by-sponsor/actual-food.md) · **ActualFood**
 
@@ -115,7 +121,7 @@ AI Chatbot that helps bridge the gap between healthcare providers and patients b
 
 <a name="project-reslate"></a>
 
-### [Reslate](https://devpost.com/software/reslate)
+#### [Reslate](https://devpost.com/software/reslate)
 
 [Actual Food](../by-sponsor/actual-food.md) · **ActualFood**
 

@@ -4,6 +4,8 @@
 
 **9 winning projects** · 9 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=HashiCorp)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** terraform (8), javascript (4), node.js (4), python (3), amazon-web-services (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [ChainReact](https://devpost.com/software/chainreact)
 
@@ -34,6 +34,8 @@ Anticipate and respond to supply chain disruptions by analyzing current events, 
 An all-in-one app for understanding medical documentation and tracking medications seamlessly.
 
 [Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
+
+## 2024 winners
 
 ### [AutoLock](https://devpost.com/software/autolock)
 

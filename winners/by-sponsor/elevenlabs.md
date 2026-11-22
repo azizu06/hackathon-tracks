@@ -4,6 +4,8 @@
 
 **21 winning projects** · 20 hackathons · 21 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=ElevenLabs)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** elevenlabs (17), python (12), gemini (9), typescript (8), react (6)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [A-Eye](https://devpost.com/software/a-eye-pk9sdw)
 
@@ -128,6 +128,8 @@ Solving cashflow as an AI CFO for small/medium sized businesses.
 An AI copilot for air traffic controllers. It plans conflict-free routes, listens to the radio with a model tuned on real ATC audio, and catches wrong pilot readbacks before they become incidents.
 
 [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
+
+## 2025 winners
 
 ### [CodeCrack](https://devpost.com/software/codecrack)
 

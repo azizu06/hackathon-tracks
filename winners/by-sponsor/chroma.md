@@ -4,6 +4,8 @@
 
 **6 winning projects** · 4 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Chroma)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (6), chromadb (4), flask (3), groq (3), chroma (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Artki.tech](https://devpost.com/software/artki-tech)
 
@@ -32,6 +32,8 @@ AI-native interior design platform that learns your taste and generates personal
 Transforming Thoughts into Visual Expression - Empowering Minds Beyond Words.
 
 [Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9o) · Built with chromadb, google-cloud, langchain, luma-ai
+
+## 2024 winners
 
 ### [GenomIQ](https://devpost.com/software/genomiq)
 

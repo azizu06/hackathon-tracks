@@ -4,6 +4,8 @@
 
 **6 winning projects** · 3 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=EOG%20Resources)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (4), css (3), html (3), react (3), typescript (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [FlowState](https://devpost.com/software/hackutd-809whg)
 
@@ -33,6 +33,8 @@ The night shift, with a hive behind it.
 
 [Code](https://github.com/Jazmin5465/Hivemind) · [Demo video](https://www.youtube.com/watch?v=tDWAyvH1agU) · Built with brev, docker, fastapi, lightgbm
 
+## 2025 winners
+
 ### [Enchantress](https://devpost.com/software/enchantress-w2li90)
 
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-enchantress-w2li90) · **EOG Resources**
@@ -48,6 +50,8 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 PoyoLabs is a gamified dashboard that allows users to track and monitor multiple cauldrons (data points) from one hand-designed interface.
 
 [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
+
+## 2024 winners
 
 ### [DHy-n0](https://devpost.com/software/dhy-n0)
 

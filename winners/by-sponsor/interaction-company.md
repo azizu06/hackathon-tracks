@@ -4,6 +4,8 @@
 
 **5 winning projects** · 3 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Interaction%20Company)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (3), browserbase (2), fastmcp (2), groq (2), next.js (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Concierge](https://devpost.com/software/concierge-1tjlf5)
 
@@ -33,6 +33,8 @@ OS of tomorrow, Claude Code of today.
 
 [Code](https://github.com/FO214/treehacks) · [Demo video](https://www.youtube.com/watch?v=imelOPlGLgQ) · Built with browserbase, claude, cloudflare, docker
 
+## 2025 winners
+
 ### [Sweet by Metabolic Company of CalHacks](https://devpost.com/software/sweet-by-metabolic-company-of-calhacks)
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-sweet-by-metabolic-company-of-calhacks) · **Best MCP Automation**
@@ -40,6 +42,8 @@ OS of tomorrow, Claude Code of today.
 Sweet is an iMessage native diabetes management AI assistant.
 
 [Code](https://github.com/hemanthkapa/Sweet) · [Demo video](https://www.youtube.com/watch?v=bO0LeXn3RPY) · Built with dexcomshareapi, fastmcp, geminiapi, poke
+
+## 2024 winners
 
 ### [Leyline](https://devpost.com/software/leyline)
 

@@ -4,6 +4,8 @@
 
 **5 winning projects** · 2 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Convex)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** convex (5), python (4), react (4), claude (3), fastapi (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [HAVEN: Nobody Gets Left Behind](https://devpost.com/software/haven-nobody-gets-left-behind)
 
@@ -44,6 +44,8 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 **How it used Convex:** Convex connects the dispatch dashboard and voice worker so a resident gets a callback as soon as a driver accepts.
 
 [Code](https://github.com/Imhaohao/Standard-Response) · [Demo video](https://www.youtube.com/watch?v=eNsAGHFnFJY) · Built with convex, anthropic, apify, cartesia
+
+## 2024 winners
 
 ### [excus.us](https://devpost.com/software/excus-us)
 

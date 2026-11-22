@@ -4,6 +4,8 @@
 
 **6 winning projects** · 2 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Lava)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (4), lava (3), typescript (3), elevenlabs (2), fastapi (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Ambient](https://devpost.com/software/ambient-cvze2y)
 
@@ -40,6 +40,8 @@ CareCost is a map-first GI care shopper: AI turns symptoms into the right proced
 agentic peer review citation verification for research papers.
 
 [Code](https://github.com/suryar2007/peer-review-system) · [Demo video](https://www.youtube.com/watch?v=am-y6yt0Ais) · Built with lava, fastapi, hermes, langgraph
+
+## 2025 winners
 
 ### [Agora](https://devpost.com/software/agora-165spb)
 

@@ -4,6 +4,8 @@
 
 **9 winning projects** · 3 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Ripple)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (5), ripple (5), typescript (5), node.js (3), xrpl (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [CivitasX](https://devpost.com/software/dhdhtfgh)
 
@@ -72,6 +72,8 @@ Play, Pay, Pulverize - on chain! ⛓️‍💥.
 XRPower is a prediction-based rewards platform built on the XRP Ledger.
 
 Built with ripple, node.js, react, web3
+
+## 2024 winners
 
 ### [BuildBlocks x XRPL](https://devpost.com/software/buildblocks-x-xrpl)
 

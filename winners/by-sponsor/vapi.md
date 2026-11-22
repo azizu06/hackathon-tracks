@@ -4,6 +4,8 @@
 
 **13 winning projects** · 3 hackathons · 13 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Vapi)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** vapi (12), react (10), python (6), gemini (5), deepgram (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [CareLink](https://devpost.com/software/carelink-mf4qvr)
 
@@ -68,6 +68,8 @@ AI Agents for Simulated Market Research.
 Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gemini-Powered Glasses &amp; Dynamic Braille.
 
 [Code](https://github.com/KaivalSShah/vraille-htn2025) · [Demo video](https://www.youtube.com/watch?v=4gdPROUsaRw) · Built with vapi, arduino, c++, cohere
+
+## 2024 winners
 
 ### [AngelShot](https://devpost.com/software/angelshot)
 

@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=LangChain)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** langchain (2), next.js (2), react (2), typescript (2), anthropic (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Lucid](https://devpost.com/software/lucid-k078qt)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a live map of where a bleed is likely.
 
 [Code](https://github.com/at350/hackprinceton-fall-2026) · [Demo video](https://www.youtube.com/watch?v=IY0Rr7l58Eg) · Built with langchain, anthropic, arduino, claude
+
+## 2025 winners
 
 ### [Plot](https://devpost.com/software/plot-3pi8c4)
 

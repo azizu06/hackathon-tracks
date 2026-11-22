@@ -4,6 +4,8 @@
 
 **6 winning projects** · 2 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Cohere)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** cohere (6), python (4), javascript (3), convex (2), defang (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Deepsint](https://devpost.com/software/deepsint)
 
@@ -44,6 +44,8 @@ Splitting bills with friends is messy—receipts get lost, people forget to pay,
 **How it used Cohere:** Cohere API – Handles receipt scanning and item parsing using a self-criticism learning process, reducing errors and automating item assignment.
 
 Built with cohere, firebase, gcp, solana
+
+## 2024 winners
 
 ### [excus.us](https://devpost.com/software/excus-us)
 

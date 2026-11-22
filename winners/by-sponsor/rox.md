@@ -4,6 +4,8 @@
 
 **8 winning projects** · 4 hackathons · 8 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Rox)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** elevenlabs (3), openai (3), python (3), react (3), claude (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [AdLib](https://devpost.com/software/living-canvas-gz360v)
 
@@ -32,6 +32,8 @@ Live voice and action reactive canvas for the future of presentations.
 Run your browser agents faster-- at a fraction of the cost.
 
 [Code](https://github.com/evanzyang91/jevis) · Built with chrome, jev, openai
+
+## 2025 winners
 
 ### [DIAL(&#42;)](https://devpost.com/software/dial-4rqzc3)
 

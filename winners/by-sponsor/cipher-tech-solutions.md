@@ -4,6 +4,8 @@
 
 **4 winning projects** · 3 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Cipher%20Tech%20Solutions)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (3), fastapi (2), numpy (2), react (2), css (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Clarify](https://devpost.com/software/clarify-ztm49p)
 
@@ -33,6 +33,8 @@ Detect hidden cyber attacks in audio. Not all noise is natural—some is malicio
 
 [Code](https://github.com/shreya222mishra/bitcamp-2026) · [Demo video](https://www.youtube.com/watch?v=dgCAY-YG5rw) · Built with docker, ffmpeg/pydub, gmail-smtp/imap, google-cloud-run
 
+## 2025 winners
+
 ### [Forens.tech](https://devpost.com/software/forens-tech)
 
 [Bitcamp 2025](../by-hackathon/bitcamp-2025.md#project-forens-tech) · **Best Digital Forensics Related Hack - Cipher Tech Solutions**
@@ -40,6 +42,8 @@ Detect hidden cyber attacks in audio. Not all noise is natural—some is malicio
 Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 
 [Code](https://github.com/AHumanMaybe/forens-tech) · Built with css, fastapi, figma, python
+
+## 2024 winners
 
 ### [KeyCatchAI](https://devpost.com/software/keycatchai)
 

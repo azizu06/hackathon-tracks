@@ -4,6 +4,8 @@
 
 **5 winning projects** · 2 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Codegen)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** javascript (4), python (4), fastapi (2), openai (2), vercel (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [CodeInsight](https://devpost.com/software/code-insight)
 
@@ -42,6 +42,8 @@ Agentic routing at scale for 66x cheaper and 4x faster — Powering the Agentic 
 It’s incredibly difficult to just pick a few, but here are the major takeaways.
 
 [Code](https://github.com/phombal/swarm-backend-new) · [Demo video](https://www.youtube.com/watch?v=IMKAHnOzx9E) · Built with fastapi, javascript, next.js, openai
+
+## 2024 winners
 
 ### [LLM Pro Max](https://devpost.com/software/llm-pro-max)
 

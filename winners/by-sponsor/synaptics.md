@@ -4,6 +4,8 @@
 
 **6 winning projects** · 2 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Synaptics)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2016 winners](#2016-winners) · [2013 winners](#2013-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** javascript (2), python (2), convolutional-neural-network (1), css (1), ejs (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2016 winners
 
 ### [ControlGeek](https://devpost.com/software/controlgeek)
 
@@ -32,6 +32,8 @@ Built with synaptics, javascript, love, python
 Tinderprint is a dating app that matches you with people based on true physical and spiritual compatibility.
 
 [Code](https://github.com/vinaymayar/tinderprint) · Built with convolutional-neural-network, css, ejs, html
+
+## 2013 winners
 
 ### [Hocus (Hover Focus)](https://devpost.com/software/hocus-hover-focus)
 

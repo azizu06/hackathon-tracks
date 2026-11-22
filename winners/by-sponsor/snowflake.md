@@ -4,6 +4,8 @@
 
 **10 winning projects** · 10 hackathons · 10 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Snowflake)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (10), snowflake (7), fastapi (4), react (4), typescript (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [CodeAncestry](https://devpost.com/software/codeancestory)
 
@@ -70,6 +70,8 @@ A nursing-home monitoring system learns each resident's baseline and flags chang
 **How it used Snowflake:** Two integrations, two jobs: Tiger Data is the live layer ("what is happening now"); Snowflake is the intelligence layer ("what it means, and what to do").
 
 [Code](https://github.com/snr2753423/Vigil_calhacks) · [Demo video](https://www.youtube.com/watch?v=R6qeykXL17Q) · Built with snowflake, snowflake-cortex, snowflake-ml, caddy
+
+## 2025 winners
 
 ### [Briefly](https://devpost.com/software/briefly-lx5dce)
 

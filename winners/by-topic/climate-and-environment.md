@@ -6,6 +6,8 @@
 
 Matched from keywords in the project description.
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2020 winners](#2020-winners) · [2018 winners](#2018-winners)
+
 ## What winners have in common
 
 - **Most used tech:** python (20), react (18), javascript (13), node.js (13), typescript (12)
@@ -15,9 +17,7 @@ Matched from keywords in the project description.
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Fireline](https://devpost.com/software/fireline-764nir)
 
@@ -106,6 +106,8 @@ The command center for ocean climate intervention. Simulate alkalinity deploymen
 A lender can screen potential properties for environmental risks before approving financing.
 
 [Code](https://github.com/9nesh/VERA) · [Demo video](https://www.youtube.com/watch?v=62N696AcAkE) · Built with solana, solana-py, solders, actian
+
+## 2025 winners
 
 ### [BAS Climate Action Matcher](https://devpost.com/software/bas-climate-action-matcher)
 
@@ -235,6 +237,8 @@ Wildfires is a platform offering real-time wildfire updates with live data, inte
 
 Built with streamlit, altair, openai, pydeck
 
+## 2024 winners
+
 ### [Canary](https://devpost.com/software/canary-lrg3ep)
 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-canary-lrg3ep)<br>[Skylo](../by-sponsor/skylo.md) · **Seamlessly Switch from Cellular to Satellite**
@@ -339,6 +343,8 @@ Improvements in Pepsi's Global Value chain end with consumers but so does waste.
 
 [Code](https://github.com/garvcodes/sustainableshowcase) · Built with express.js, mongodb, nextjs, node.js
 
+## 2020 winners
+
 ### [EcoConscious Tech](https://devpost.com/software/spaghetti)
 
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-spaghetti)<br>[Wolfram](../by-sponsor/wolfram.md) · **Wolfram Award**
@@ -354,6 +360,8 @@ A VSCode extension, Chrome extension, and web app to help developers and interne
 EcoEats helps to provide a quick and easy way to look at how much carbon emissions are produced from your everyday meals through just a snap of a camera.
 
 [Code](https://github.com/BenCrespoDuke/HackDuke) · [Demo video](https://www.youtube.com/watch?v=NQBg9TyCiTM) · Built with android-studio, firebase
+
+## 2018 winners
 
 ### [OnTheWay](https://devpost.com/software/ontheway)
 

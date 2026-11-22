@@ -4,6 +4,8 @@
 
 **12 winning projects** · 4 hackathons · 12 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Northmark%20Compute%20%26%20Cloud)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (9), typescript (8), javascript (7), python (7), next.js (5)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Astronom](https://devpost.com/software/astronom)
 
@@ -64,6 +64,8 @@ Every shift ends, but critical information shouldn't get lost. Meet ShiftSync: A
 The full-lifecycle platform for enterprise AI agents: build from shared parts, crash-test every deploy on throwaway copies of your data, then run, govern and roll back in one place.
 
 [Code](https://github.com/Suvan8806/shipyard) · [Demo video](https://www.youtube.com/watch?v=kCbge5WdPYM) · Built with claude-code, github-actions, google-gemini, groq
+
+## 2025 winners
 
 ### [DataDriver](https://devpost.com/software/datadriver)
 

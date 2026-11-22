@@ -4,6 +4,8 @@
 
 **4 winning projects** · 2 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=NextEra%20Energy)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** numpy (3), python (3), github (2), ortools (2), react (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Spotlight](https://devpost.com/software/spotlight-d5tr9l)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 Spotlight transforms Boston Dynamics Spot data into actionable insights using AI, real-time monitoring, predictive analytics, and 3D visualization to make power plant operations safer and smarter.
 
 [Code](https://github.com/doberto6/SpotLight) · [Demo video](https://www.youtube.com/watch?v=76OSgHFP13s) · Built with blender, css3, databricks, github
+
+## 2025 winners
 
 ### [DronePath](https://devpost.com/software/dronepath)
 

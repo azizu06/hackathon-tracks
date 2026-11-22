@@ -4,6 +4,8 @@
 
 **25 winning projects** · 8 hackathons · 25 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Snap)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (19), javascript (13), python (11), lensstudio (10), lens-studio (8)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [HandDJ](https://devpost.com/software/handdj)
 
@@ -44,6 +44,8 @@ Act it out. Guess it right.
 **How it used Snap:** The team built Split World in Lens Studio using its scripting framework and AR capabilities.
 
 [Demo video](https://www.youtube.com/watch?v=c4J5046t_68) · Built with javascript, typescript
+
+## 2025 winners
 
 ### [ARchemy](https://devpost.com/software/archemy)
 
@@ -166,6 +168,8 @@ A user wearing Snap Spectacles can point to steer a robot and gesture to operate
 **How it used Snap:** The team integrated Snap Spectacles , AR world data , and robotic motion control through a low-latency pipeline.
 
 [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with snap, fastapi, websocket
+
+## 2024 winners
 
 ### [EYEdentity](https://devpost.com/software/eyedentity)
 

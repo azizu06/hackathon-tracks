@@ -4,6 +4,8 @@
 
 **8 winning projects** · 4 hackathons · 8 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=RBC)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2018 winners](#2018-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (5), python (4), tailwind (3), typescript (3), express.js (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [FinRet](https://devpost.com/software/finret)
 
@@ -32,6 +32,8 @@ An evidence-first finance research harness that uses AI to deliver fully auditab
 Multi-agent research that cites its sources and flags conflicts.
 
 [Code](https://github.com/liamma06/searchGM) · [Demo video](https://www.youtube.com/watch?v=uoozwdHRqZA) · Built with mongodb, python
+
+## 2025 winners
 
 ### [Honkanomics](https://devpost.com/software/honkanomics)
 
@@ -51,6 +53,8 @@ Money Talks transforms raw bank statements into actionable financial insights th
 
 [Code](https://github.com/KadenDaya/Money-Talks-HTN-2025-Winner) · [Demo video](https://www.youtube.com/watch?v=Y2xe-7n20gI) · Built with fastapi, investeasyapi, martian, next.js
 
+## 2024 winners
+
 ### [EcoRewards](https://devpost.com/software/ecorewards-t0qw26)
 
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-ecorewards-t0qw26) · **RBC Avion Rewards – Making Your Point with Our Points**
@@ -66,6 +70,8 @@ Earn and burn rewards points by making green choices 🔥.
 Your #1 financial advisor that knows everything about your current spending, your stage of life, and your investment desires, and gamifies better spending habits.
 
 [Code](https://github.com/asavy79/hack-the-north-budget-tracker) · [Demo video](https://www.youtube.com/watch?v=3O8A6GM1vic) · Built with rbc, cohere, firebase, javascript
+
+## 2018 winners
 
 ### [FujiFusion](https://devpost.com/software/fujifusion-hackmit2018)
 

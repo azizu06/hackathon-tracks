@@ -4,6 +4,8 @@
 
 **16 winning projects** · 6 hackathons · 16 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=NVIDIA)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (12), arduino (5), typescript (5), fastapi (4), jetson-nano (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [CalTrack](https://devpost.com/software/caltrack-i0pq3n)
 
@@ -100,6 +100,8 @@ A Jetson-based retrofit tests autonomous driving functions in vehicles that were
 Introducing TripWir3! Powered by NVIDIA Nemotron™ agents, this weight-provenance framework audits a given open-weight model's LoRA weights and trigger behaviors and returns an evidence-backed verdict.
 
 [Code](https://github.com/mukherjeeabhirup/tripwir3) · [Demo video](https://www.youtube.com/watch?v=vPMd6Ijjr3M) · Built with nvidia-api, nvidia-brev, nvidia-nemotron, css
+
+## 2025 winners
 
 ### [Alchemetrics](https://devpost.com/software/abc-xapnio)
 

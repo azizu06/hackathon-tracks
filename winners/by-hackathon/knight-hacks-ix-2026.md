@@ -4,6 +4,8 @@
 
 **25 winning projects** · 19 sponsors · 34 sponsor prizes · [Devpost gallery](https://knight-hacks-ix.devpost.com/project-gallery) · [Prize rules](https://knight-hacks-ix.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (19), react (10), javascript (9), typescript (9), three.js (8)
@@ -15,31 +17,33 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [Adobe](../by-sponsor/adobe.md) | 3 | Prettiest Hack |
-| [AMD](../by-sponsor/amd.md) | 3 | Best Use of AMD Technologies |
-| [BNY](../by-sponsor/bny.md) | 2 | Financial Services Challenge |
-| [Databricks](../by-sponsor/databricks.md) | 3 | Best Use of Databricks |
-| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | Best Use of ElevenLabs |
-| [Encompass](../by-sponsor/encompass.md) | 3 | Data Capturing Hardware |
-| [Figma](../by-sponsor/figma.md) | 1 | Best Design |
-| [Full Sail](../by-sponsor/full-sail.md) | 1 | Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge |
-| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 1 | Best Domain Name from GoDaddy Registry |
-| [Google](../by-sponsor/google.md) | 1 | Best Use of Gemini API |
-| [Hugging Face](../by-sponsor/hugging-face.md) | 3 | Best Use of Open Source AI |
-| [Neon](../by-sponsor/neon.md) | 1 | Best Use of Neon |
-| [NextEra Energy](../by-sponsor/nextera-energy.md) | 1 | SPOT Management Dashboard |
-| [NVIDIA](../by-sponsor/nvidia.md) | 3 | Best Use of Jetson Nano |
-| [OneEthos](../by-sponsor/oneethos.md) | 3 | Innovation for Good |
-| [Presage](../by-sponsor/presage.md) | 1 | Best Use of Presage |
-| [Solana](../by-sponsor/solana.md) | 1 | Best Use of Solana |
-| [Tiger Data](../by-sponsor/tiger-data.md) | 1 | Best Use of Tiger Data |
-| [Vultr](../by-sponsor/vultr.md) | 1 | Best Use of Vultr |
+| [Adobe](../by-sponsor/adobe.md) | 3 | [Prettiest Hack](#adobe-winners) |
+| [AMD](../by-sponsor/amd.md) | 3 | [Best Use of AMD Technologies](#amd-winners) |
+| [BNY](../by-sponsor/bny.md) | 2 | [Financial Services Challenge](#bny-winners) |
+| [Databricks](../by-sponsor/databricks.md) | 3 | [Best Use of Databricks](#databricks-winners) |
+| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | [Best Use of ElevenLabs](#elevenlabs-winners) |
+| [Encompass](../by-sponsor/encompass.md) | 3 | [Data Capturing Hardware](#encompass-winners) |
+| [Figma](../by-sponsor/figma.md) | 1 | [Best Design](#figma-winners) |
+| [Full Sail](../by-sponsor/full-sail.md) | 1 | [Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge](#full-sail-winners) |
+| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 1 | [Best Domain Name from GoDaddy Registry](#godaddy-registry-winners) |
+| [Google](../by-sponsor/google.md) | 1 | [Best Use of Gemini API](#google-winners) |
+| [Hugging Face](../by-sponsor/hugging-face.md) | 3 | [Best Use of Open Source AI](#hugging-face-winners) |
+| [Neon](../by-sponsor/neon.md) | 1 | [Best Use of Neon](#neon-winners) |
+| [NextEra Energy](../by-sponsor/nextera-energy.md) | 1 | [SPOT Management Dashboard](#nextera-energy-winners) |
+| [NVIDIA](../by-sponsor/nvidia.md) | 3 | [Best Use of Jetson Nano](#nvidia-winners) |
+| [OneEthos](../by-sponsor/oneethos.md) | 3 | [Innovation for Good](#oneethos-winners) |
+| [Presage](../by-sponsor/presage.md) | 1 | [Best Use of Presage](#presage-winners) |
+| [Solana](../by-sponsor/solana.md) | 1 | [Best Use of Solana](#solana-winners) |
+| [Tiger Data](../by-sponsor/tiger-data.md) | 1 | [Best Use of Tiger Data](#tiger-data-winners) |
+| [Vultr](../by-sponsor/vultr.md) | 1 | [Best Use of Vultr](#vultr-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-farsight-t4qyli"></a>
 
@@ -187,237 +191,17 @@ A spatial awareness tool tracks objects and remembers their locations when they 
 
 </details>
 
-<a name="project-crowdclear"></a>
+## Winners by sponsor track
 
-### [CrowdClear](https://devpost.com/software/crowdclear)
+### Adobe winners
 
-[Presage](../by-sponsor/presage.md) · **Best Use of Presage**
+**Track:** Prettiest Hack · [All Adobe winners](../by-sponsor/adobe.md)
 
-An interactive evacuation simulator lets trainees clear exits and redirect crowds in a building.
-
-[Code](https://github.com/lyanisbarreto-mercado/crowdclear) · [Demo video](https://www.youtube.com/watch?v=pNp_bZqdGGw) · Built with a-frame, css3, elevenlabs, express.js
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** a-frame, css3, elevenlabs, express.js, html5, javascript, neon, node.js, postgresql, render, three.js, webxr
-- **Code:** [Source 1](https://github.com/lyanisbarreto-mercado/crowdclear)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=pNp_bZqdGGw)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Presage
-- **How it used Presage:** CrowdClear is an evacuation training game that runs in a laptop browser or in VR through WebXR .
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-doorway-0eysjv"></a>
-
-### [Doorway](https://devpost.com/software/doorway-0eysjv)
-
-[Encompass](../by-sponsor/encompass.md) · **Data Capturing Hardware**
-
-A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
-
-[Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with ar-foundation, arcore, android, android-speech-recognizer
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** android, android-speech-recognizer, android-text-to-speech, ar-foundation, arcore, c#, hugging-face, java, ml-kit, numpy, opencv, openstreetmap, python, unity
-- **Code:** Listed on Devpost but not verified.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=zb3Xrg7Hfq4)
-- **All prizes at this hackathon (1):** Encompass: Data Capturing Hardware
-- **How it used Encompass:** Doorway is built in Unity 6 with C# , using AR Foundation and ARCore on Android.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-dronautics"></a>
-
-### [Dronautics](https://devpost.com/software/dronautics)
-
-[Encompass](../by-sponsor/encompass.md) · **Data Capturing Hardware**
-
-A drone control system combines local detection and GPS tracking using low-cost hardware.
-
-[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, esp-now, esp32, u-blox
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** arduino, bytetrack, c++, cuda, djitellopy, drv2605l, esp-now, esp32, expo-router, figma, git, haptics, i2c, python, pytorch, react-native-reanimated, react-native-svg, spi, tello, typescript, u-blox, ultralytics, yolo
-- **Code:** [Source 1](https://github.com/FrLagoSoft/Dronautics)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=pPoEXRLnYJc)
-- **All prizes at this hackathon (1):** Encompass: Data Capturing Hardware
-- **How it used Encompass:** The project lists arduino, esp-now, esp32, u-blox among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-fpga_langmodel"></a>
-
-### [fpga&#95;LangModel](https://devpost.com/software/fpga_langmodel)
-
-[AMD](../by-sponsor/amd.md) · **Best Use of AMD Technologies**
-
-A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-100T.
-
-[Code](https://github.com/techcolly/fpga_LM) · Built with claude, fpga, python, pytorch
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** claude, fpga, python, pytorch, verilog, vivado
-- **Code:** [Source 1](https://github.com/techcolly/fpga_LM)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** AMD: Best Use of AMD Technologies
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-hakit-1qejr3"></a>
-
-### [Hakit](https://devpost.com/software/hakit-1qejr3)
-
-[Tiger Data](../by-sponsor/tiger-data.md) · **Best Use of Tiger Data**
-
-A workspace matches hackathon tasks to teammates and tracks progress through GitHub.
-
-[Code](https://github.com/maxjb-xyz/hakit) · [Demo video](https://www.youtube.com/watch?v=X3Ex2pmvqaU) · Built with cloudflare, gemini, github, huggingface
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** cloudflare, gemini, github, huggingface, typescript
-- **Code:** [Source 1](https://github.com/maxjb-xyz/hakit)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=X3Ex2pmvqaU)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
-- **How it used Tiger Data:** Sign up with your GitHub account, and invite everyone the same way.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-here-vqlrhg"></a>
-
-### [Here](https://devpost.com/software/here-vqlrhg)
-
-[Hugging Face](../by-sponsor/hugging-face.md) · **Best Use of Open Source AI**
-
-A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from.
-
-[Code](https://github.com/Korirussell/Here) · [Demo video](https://www.youtube.com/watch?v=2gRH8oV8e80) · Built with huggingface, arkit, jev, python
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** arkit, huggingface, jev, python, swift
-- **Code:** [Source 1](https://github.com/Korirussell/Here)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=2gRH8oV8e80)
-- **All prizes at this hackathon (1):** Hugging Face: Best Use of Open Source AI
-- **How it used Hugging Face:** The project lists huggingface among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-incantation"></a>
-
-### [Incantation](https://devpost.com/software/incantation)
-
-[ElevenLabs](../by-sponsor/elevenlabs.md) · **Best Use of ElevenLabs**
-
-Players speak spell ideas aloud and cast the generated spells against each other in a Roblox arena.
-
-[Code](https://github.com/blazin-blaze/kh9-rblx-project) · [Demo video](https://www.youtube.com/watch?v=4Qf5VMHLx8U) · Built with elevenlabs, gemini, lua, luau
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** elevenlabs, gemini, lua, luau, roblox
-- **Code:** [Source 1](https://github.com/blazin-blaze/kh9-rblx-project)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=4Qf5VMHLx8U)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** Incantation uses the built in Roblox Studio’s microphone to take in audio, which is then sent to Elevenlabs API for speech to text translation via a local HTTP connection.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-jolteon"></a>
-
-### [Jolteon](https://devpost.com/software/jolteon)
-
-[OneEthos](../by-sponsor/oneethos.md) · **Innovation for Good**
-
-Jolteon captures waste heat, turns it into stored electricity, and shows you exactly how much it has collected, live.
-
-[Code](https://github.com/TomasTorrado/Jolteon) · [Demo video](https://www.youtube.com/watch?v=8vnv30qKB9w) · Built with c++, esp32, fastapi, ina219
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** c++, esp32, fastapi, ina219, javascript, pyserial, python, react, recharts, sql, supabase, thermoelectric-generator, vercel, vite
-- **Code:** [Source 1](https://github.com/TomasTorrado/Jolteon)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=8vnv30qKB9w)
-- **All prizes at this hackathon (1):** OneEthos: Innovation for Good
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-nod-read"></a>
-
-### [Nod &amp; Read](https://devpost.com/software/nod-read)
-
-[Google](../by-sponsor/google.md) · **Best Use of Gemini API**
-
-An accessible comic reader plays panels aloud and lets readers advance them with facial input.
-
-[Code](https://github.com/PinedaMiguel/panel-reader) · [Demo video](https://www.youtube.com/watch?v=CLpOsb9VDGU) · Built with google-gemini, caddy, docker, edge-tts
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** caddy, docker, edge-tts, elevenlabs, fastapi, google-gemini, hugging-face, magi-v2, mediapipe, neon, object-storage, postgresql, python, pytorch, react, render, three.js, typescript, uv, vite, vultr
-- **Code:** [Source 1](https://github.com/PinedaMiguel/panel-reader)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=CLpOsb9VDGU)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The project lists google-gemini among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-paralassist"></a>
-
-### [Paralassist](https://devpost.com/software/paralassist)
-
-[Databricks](../by-sponsor/databricks.md) · **Best Use of Databricks**
-
-An accessibility prototype uses EEG readings from a visual interface to let people with paralysis select messages.
-
-[Code](https://github.com/shashankshaga/Paralassist) · [Demo video](https://www.youtube.com/watch?v=hmhprJgUFRA) · Built with css, html, javascript, python
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** css, html, javascript, python, typescript
-- **Code:** [Source 1](https://github.com/shashankshaga/Paralassist)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=hmhprJgUFRA)
-- **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
-- **How it used Databricks:** Paralassist uses an electroencephalogram (EEG) with a visual stimulus to convert a user's brain signals into messages.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+Also won this track: [Fobo](#project-fobo-fear-of-burning-out) (listed above)
 
 <a name="project-peaheads"></a>
 
-### [PeaHeads](https://devpost.com/software/peaheads)
+#### [PeaHeads](https://devpost.com/software/peaheads)
 
 [Adobe](../by-sponsor/adobe.md) · **Prettiest Hack**
 
@@ -440,7 +224,7 @@ PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is 
 
 <a name="project-plu-s-sanctuary"></a>
 
-### [Plu's Sanctuary](https://devpost.com/software/plu-s-sanctuary)
+#### [Plu's Sanctuary](https://devpost.com/software/plu-s-sanctuary)
 
 [Adobe](../by-sponsor/adobe.md) · **Prettiest Hack**
 
@@ -461,32 +245,66 @@ An interactive, hand-illustrated, digital storybook featuring point-and-click pr
 
 </details>
 
-<a name="project-solgpu"></a>
+### AMD winners
 
-### [solGPU](https://devpost.com/software/solgpu)
+**Track:** Best Use of AMD Technologies · [All AMD winners](../by-sponsor/amd.md)
 
-[Solana](../by-sponsor/solana.md) · **Best Use of Solana**
+Also won this track: [GEarth](#project-diarockets) (listed above)
 
-A marketplace lets developers browse GPU capacity and reserve it through a blockchain transaction.
+<a name="project-fpga_langmodel"></a>
 
-[Code](https://github.com/OzBoz-Dev/knighthacks-2026) · [Demo video](https://www.youtube.com/watch?v=EDPen_Iu5QY) · Built with solana, databricks, devin, golang
+#### [fpga&#95;LangModel](https://devpost.com/software/fpga_langmodel)
+
+[AMD](../by-sponsor/amd.md) · **Best Use of AMD Technologies**
+
+A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-100T.
+
+[Code](https://github.com/techcolly/fpga_LM) · Built with claude, fpga, python, pytorch
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** claude, fpga, python, pytorch, verilog, vivado
+- **Code:** [Source 1](https://github.com/techcolly/fpga_LM)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** AMD: Best Use of AMD Technologies
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-swarm-oqg6l4"></a>
+
+#### [Swarm](https://devpost.com/software/swarm-oqg6l4)
+
+[AMD](../by-sponsor/amd.md) · **Best Use of AMD Technologies**
+
+Cheap attack drones are now one of the biggest threats to bases and infrastructure. Operators practice against scripted enemies.
+
+[Code](https://github.com/ian-kr/Swarm) · [Demo video](https://vimeo.com/1234778075) · Built with amd, css3, html5, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** databricks, devin, golang, mantine, nextjs, python, react, solana, typescript
-- **Code:** [Source 1](https://github.com/OzBoz-Dev/knighthacks-2026)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=EDPen_Iu5QY)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** The project lists solana among its Built With tags.
+- **Built with:** amd, css3, html5, javascript, python, pytorch, rocm, three.js
+- **Code:** [Source 1](https://github.com/ian-kr/Swarm)
+- **Demo video:** [Video 1](https://vimeo.com/1234778075)
+- **All prizes at this hackathon (1):** AMD: Best Use of AMD Technologies
+- **How it used AMD:** A counter-drone defense trainer where the enemy swarm taught itself to attack, trained on an AMD Radeon GPU.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### BNY winners
+
+**Track:** Financial Services Challenge · [All BNY winners](../by-sponsor/bny.md)
+
+Also won this track: [GEarth](#project-diarockets) (listed above)
+
 <a name="project-shopping-cart-yvkgd2"></a>
 
-### [Sophro Shoppers](https://devpost.com/software/shopping-cart-yvkgd2)
+#### [Sophro Shoppers](https://devpost.com/software/shopping-cart-yvkgd2)
 
 [BNY](../by-sponsor/bny.md) · **Financial Services Challenge**
 
@@ -507,78 +325,38 @@ Make shopping easier through the art of accessibility.
 
 </details>
 
-<a name="project-spot-mission-control"></a>
+### Databricks winners
 
-### [SpotAtWork](https://devpost.com/software/spot-mission-control)
+**Track:** Best Use of Databricks · [All Databricks winners](../by-sponsor/databricks.md)
 
-[GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name from GoDaddy Registry**
+Also won this track: [Bin-It](#project-bin-it-yg2xb7) (listed above)
 
-An operations dashboard summarizes the sensor data collected by a Spot robot on recent missions.
+<a name="project-paralassist"></a>
 
-[Code](https://github.com/Monisha-Repos/spot-mission-dashboard) · [Demo video](https://www.youtube.com/watch?v=UN3DJZA4GO8) · Built with anthropic, caddy, claude, css
+#### [Paralassist](https://devpost.com/software/paralassist)
 
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
+[Databricks](../by-sponsor/databricks.md) · **Best Use of Databricks**
 
-- **Team size:** 4
-- **Built with:** anthropic, caddy, claude, css, databricks, delta-lake, docker, fastapi, figma, github, hugging-face, java, javascript, jspdf, pypdf, python, qwen, react, render, scikit-learn, server-sent-events, sqlite, three.js, vercel, vite
-- **Code:** [Source 1](https://github.com/Monisha-Repos/spot-mission-dashboard)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=UN3DJZA4GO8)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** spotat.work helps operators monitor inspections, investigate findings, and track performance over time.
-- **Checked on Devpost:** 2026-11-21
+An accessibility prototype uses EEG readings from a visual interface to let people with paralysis select messages.
 
-</details>
-
-<a name="project-spotlight-d5tr9l"></a>
-
-### [Spotlight](https://devpost.com/software/spotlight-d5tr9l)
-
-[NextEra Energy](../by-sponsor/nextera-energy.md) · **SPOT Management Dashboard**
-
-Spotlight transforms Boston Dynamics Spot data into actionable insights using AI, real-time monitoring, predictive analytics, and 3D visualization to make power plant operations safer and smarter.
-
-[Code](https://github.com/doberto6/SpotLight) · [Demo video](https://www.youtube.com/watch?v=76OSgHFP13s) · Built with blender, css3, databricks, github
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** blender, css3, databricks, github, html5, javascript, node.js, numpy, pandas, python, react, scikit-learn, sql, three.js, vite
-- **Code:** [Source 1](https://github.com/doberto6/SpotLight)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=76OSgHFP13s)
-- **All prizes at this hackathon (1):** NextEra Energy: SPOT Management Dashboard
-- **How it used NextEra Energy:** Spotlight is an intelligent monitoring and visualization platform that transforms Boston Dynamics Spot's inspection data into meaningful, actionable insights.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-spotlight-fxqamj"></a>
-
-### [Spotlight](https://devpost.com/software/spotlight-fxqamj)
-
-[Vultr](../by-sponsor/vultr.md) · **Best Use of Vultr**
-
-A dashboard turns telemetry from robots into reports operators can use.
-
-[Code](https://github.com/teafany/spotlight) · [Demo video](https://www.youtube.com/watch?v=WguR9jFeBeo) · Built with vultr, django, postgresql, python
+[Code](https://github.com/shashankshaga/Paralassist) · [Demo video](https://www.youtube.com/watch?v=hmhprJgUFRA) · Built with css, html, javascript, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** django, postgresql, python, react, three.js, typescript, vite, vultr
-- **Code:** [Source 1](https://github.com/teafany/spotlight)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=WguR9jFeBeo)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** The project lists vultr among its Built With tags.
+- **Built with:** css, html, javascript, python, typescript
+- **Code:** [Source 1](https://github.com/shashankshaga/Paralassist)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=hmhprJgUFRA)
+- **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
+- **How it used Databricks:** Paralassist uses an electroencephalogram (EEG) with a visual stimulus to convert a user's brain signals into messages.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-steadyflow-a-form-correction-gym-journey-social-media"></a>
 
-### [SteadyForum: A Form-Correcting, Gym Journey, Social Media](https://devpost.com/software/steadyflow-a-form-correction-gym-journey-social-media)
+#### [SteadyForum: A Form-Correcting, Gym Journey, Social Media](https://devpost.com/software/steadyflow-a-form-correction-gym-journey-social-media)
 
 [Databricks](../by-sponsor/databricks.md) · **Best Use of Databricks**
 
@@ -599,25 +377,351 @@ A gym app uses phone-based exercise feedback to help people learn proper form.
 
 </details>
 
-<a name="project-swarm-oqg6l4"></a>
+### ElevenLabs winners
 
-### [Swarm](https://devpost.com/software/swarm-oqg6l4)
+**Track:** Best Use of ElevenLabs · [All ElevenLabs winners](../by-sponsor/elevenlabs.md)
 
-[AMD](../by-sponsor/amd.md) · **Best Use of AMD Technologies**
+<a name="project-incantation"></a>
 
-Cheap attack drones are now one of the biggest threats to bases and infrastructure. Operators practice against scripted enemies.
+#### [Incantation](https://devpost.com/software/incantation)
 
-[Code](https://github.com/ian-kr/Swarm) · [Demo video](https://vimeo.com/1234778075) · Built with amd, css3, html5, javascript
+[ElevenLabs](../by-sponsor/elevenlabs.md) · **Best Use of ElevenLabs**
+
+Players speak spell ideas aloud and cast the generated spells against each other in a Roblox arena.
+
+[Code](https://github.com/blazin-blaze/kh9-rblx-project) · [Demo video](https://www.youtube.com/watch?v=4Qf5VMHLx8U) · Built with elevenlabs, gemini, lua, luau
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** amd, css3, html5, javascript, python, pytorch, rocm, three.js
-- **Code:** [Source 1](https://github.com/ian-kr/Swarm)
-- **Demo video:** [Video 1](https://vimeo.com/1234778075)
-- **All prizes at this hackathon (1):** AMD: Best Use of AMD Technologies
-- **How it used AMD:** A counter-drone defense trainer where the enemy swarm taught itself to attack, trained on an AMD Radeon GPU.
+- **Built with:** elevenlabs, gemini, lua, luau, roblox
+- **Code:** [Source 1](https://github.com/blazin-blaze/kh9-rblx-project)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=4Qf5VMHLx8U)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
+- **How it used ElevenLabs:** Incantation uses the built in Roblox Studio’s microphone to take in audio, which is then sent to Elevenlabs API for speech to text translation via a local HTTP connection.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Encompass winners
+
+**Track:** Data Capturing Hardware · [All Encompass winners](../by-sponsor/encompass.md)
+
+Also won this track: [Farsight](#project-farsight-t4qyli) (listed above)
+
+<a name="project-doorway-0eysjv"></a>
+
+#### [Doorway](https://devpost.com/software/doorway-0eysjv)
+
+[Encompass](../by-sponsor/encompass.md) · **Data Capturing Hardware**
+
+A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
+
+[Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with ar-foundation, arcore, android, android-speech-recognizer
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** android, android-speech-recognizer, android-text-to-speech, ar-foundation, arcore, c#, hugging-face, java, ml-kit, numpy, opencv, openstreetmap, python, unity
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=zb3Xrg7Hfq4)
+- **All prizes at this hackathon (1):** Encompass: Data Capturing Hardware
+- **How it used Encompass:** Doorway is built in Unity 6 with C# , using AR Foundation and ARCore on Android.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-dronautics"></a>
+
+#### [Dronautics](https://devpost.com/software/dronautics)
+
+[Encompass](../by-sponsor/encompass.md) · **Data Capturing Hardware**
+
+A drone control system combines local detection and GPS tracking using low-cost hardware.
+
+[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, esp-now, esp32, u-blox
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** arduino, bytetrack, c++, cuda, djitellopy, drv2605l, esp-now, esp32, expo-router, figma, git, haptics, i2c, python, pytorch, react-native-reanimated, react-native-svg, spi, tello, typescript, u-blox, ultralytics, yolo
+- **Code:** [Source 1](https://github.com/FrLagoSoft/Dronautics)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=pPoEXRLnYJc)
+- **All prizes at this hackathon (1):** Encompass: Data Capturing Hardware
+- **How it used Encompass:** The project lists arduino, esp-now, esp32, u-blox among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Figma winners
+
+**Track:** Best Design · [All Figma winners](../by-sponsor/figma.md)
+
+Also won this track: [Fobo](#project-fobo-fear-of-burning-out) (listed above)
+
+### Full Sail winners
+
+**Track:** Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge · [All Full Sail winners](../by-sponsor/full-sail.md)
+
+Also won this track: [Farsight](#project-farsight-t4qyli) (listed above)
+
+### GoDaddy Registry winners
+
+**Track:** Best Domain Name from GoDaddy Registry · [All GoDaddy Registry winners](../by-sponsor/godaddy-registry.md)
+
+<a name="project-spot-mission-control"></a>
+
+#### [SpotAtWork](https://devpost.com/software/spot-mission-control)
+
+[GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name from GoDaddy Registry**
+
+An operations dashboard summarizes the sensor data collected by a Spot robot on recent missions.
+
+[Code](https://github.com/Monisha-Repos/spot-mission-dashboard) · [Demo video](https://www.youtube.com/watch?v=UN3DJZA4GO8) · Built with anthropic, caddy, claude, css
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** anthropic, caddy, claude, css, databricks, delta-lake, docker, fastapi, figma, github, hugging-face, java, javascript, jspdf, pypdf, python, qwen, react, render, scikit-learn, server-sent-events, sqlite, three.js, vercel, vite
+- **Code:** [Source 1](https://github.com/Monisha-Repos/spot-mission-dashboard)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=UN3DJZA4GO8)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
+- **How it used GoDaddy Registry:** spotat.work helps operators monitor inspections, investigate findings, and track performance over time.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Google winners
+
+**Track:** Best Use of Gemini API · [All Google winners](../by-sponsor/google.md)
+
+<a name="project-nod-read"></a>
+
+#### [Nod &amp; Read](https://devpost.com/software/nod-read)
+
+[Google](../by-sponsor/google.md) · **Best Use of Gemini API**
+
+An accessible comic reader plays panels aloud and lets readers advance them with facial input.
+
+[Code](https://github.com/PinedaMiguel/panel-reader) · [Demo video](https://www.youtube.com/watch?v=CLpOsb9VDGU) · Built with google-gemini, caddy, docker, edge-tts
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** caddy, docker, edge-tts, elevenlabs, fastapi, google-gemini, hugging-face, magi-v2, mediapipe, neon, object-storage, postgresql, python, pytorch, react, render, three.js, typescript, uv, vite, vultr
+- **Code:** [Source 1](https://github.com/PinedaMiguel/panel-reader)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=CLpOsb9VDGU)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
+- **How it used Google:** The project lists google-gemini among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Hugging Face winners
+
+**Track:** Best Use of Open Source AI · [All Hugging Face winners](../by-sponsor/hugging-face.md)
+
+Also won this track: [Farsight](#project-farsight-t4qyli), [Permanence](#project-permanence) (listed above)
+
+<a name="project-here-vqlrhg"></a>
+
+#### [Here](https://devpost.com/software/here-vqlrhg)
+
+[Hugging Face](../by-sponsor/hugging-face.md) · **Best Use of Open Source AI**
+
+A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from.
+
+[Code](https://github.com/Korirussell/Here) · [Demo video](https://www.youtube.com/watch?v=2gRH8oV8e80) · Built with huggingface, arkit, jev, python
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** arkit, huggingface, jev, python, swift
+- **Code:** [Source 1](https://github.com/Korirussell/Here)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=2gRH8oV8e80)
+- **All prizes at this hackathon (1):** Hugging Face: Best Use of Open Source AI
+- **How it used Hugging Face:** The project lists huggingface among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Neon winners
+
+**Track:** Best Use of Neon · [All Neon winners](../by-sponsor/neon.md)
+
+Also won this track: [GEarth](#project-diarockets) (listed above)
+
+### NextEra Energy winners
+
+**Track:** SPOT Management Dashboard · [All NextEra Energy winners](../by-sponsor/nextera-energy.md)
+
+<a name="project-spotlight-d5tr9l"></a>
+
+#### [Spotlight](https://devpost.com/software/spotlight-d5tr9l)
+
+[NextEra Energy](../by-sponsor/nextera-energy.md) · **SPOT Management Dashboard**
+
+Spotlight transforms Boston Dynamics Spot data into actionable insights using AI, real-time monitoring, predictive analytics, and 3D visualization to make power plant operations safer and smarter.
+
+[Code](https://github.com/doberto6/SpotLight) · [Demo video](https://www.youtube.com/watch?v=76OSgHFP13s) · Built with blender, css3, databricks, github
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** blender, css3, databricks, github, html5, javascript, node.js, numpy, pandas, python, react, scikit-learn, sql, three.js, vite
+- **Code:** [Source 1](https://github.com/doberto6/SpotLight)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=76OSgHFP13s)
+- **All prizes at this hackathon (1):** NextEra Energy: SPOT Management Dashboard
+- **How it used NextEra Energy:** Spotlight is an intelligent monitoring and visualization platform that transforms Boston Dynamics Spot's inspection data into meaningful, actionable insights.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### NVIDIA winners
+
+**Track:** Best Use of Jetson Nano · [All NVIDIA winners](../by-sponsor/nvidia.md)
+
+Also won this track: [Farsight](#project-farsight-t4qyli), [Fireline](#project-fireline-764nir), [Permanence](#project-permanence) (listed above)
+
+### OneEthos winners
+
+**Track:** Innovation for Good · [All OneEthos winners](../by-sponsor/oneethos.md)
+
+Also won this track: [Bin-It](#project-bin-it-yg2xb7), [Fireline](#project-fireline-764nir) (listed above)
+
+<a name="project-jolteon"></a>
+
+#### [Jolteon](https://devpost.com/software/jolteon)
+
+[OneEthos](../by-sponsor/oneethos.md) · **Innovation for Good**
+
+Jolteon captures waste heat, turns it into stored electricity, and shows you exactly how much it has collected, live.
+
+[Code](https://github.com/TomasTorrado/Jolteon) · [Demo video](https://www.youtube.com/watch?v=8vnv30qKB9w) · Built with c++, esp32, fastapi, ina219
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** c++, esp32, fastapi, ina219, javascript, pyserial, python, react, recharts, sql, supabase, thermoelectric-generator, vercel, vite
+- **Code:** [Source 1](https://github.com/TomasTorrado/Jolteon)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=8vnv30qKB9w)
+- **All prizes at this hackathon (1):** OneEthos: Innovation for Good
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Presage winners
+
+**Track:** Best Use of Presage · [All Presage winners](../by-sponsor/presage.md)
+
+<a name="project-crowdclear"></a>
+
+#### [CrowdClear](https://devpost.com/software/crowdclear)
+
+[Presage](../by-sponsor/presage.md) · **Best Use of Presage**
+
+An interactive evacuation simulator lets trainees clear exits and redirect crowds in a building.
+
+[Code](https://github.com/lyanisbarreto-mercado/crowdclear) · [Demo video](https://www.youtube.com/watch?v=pNp_bZqdGGw) · Built with a-frame, css3, elevenlabs, express.js
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** a-frame, css3, elevenlabs, express.js, html5, javascript, neon, node.js, postgresql, render, three.js, webxr
+- **Code:** [Source 1](https://github.com/lyanisbarreto-mercado/crowdclear)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=pNp_bZqdGGw)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Presage
+- **How it used Presage:** CrowdClear is an evacuation training game that runs in a laptop browser or in VR through WebXR .
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Solana winners
+
+**Track:** Best Use of Solana · [All Solana winners](../by-sponsor/solana.md)
+
+<a name="project-solgpu"></a>
+
+#### [solGPU](https://devpost.com/software/solgpu)
+
+[Solana](../by-sponsor/solana.md) · **Best Use of Solana**
+
+A marketplace lets developers browse GPU capacity and reserve it through a blockchain transaction.
+
+[Code](https://github.com/OzBoz-Dev/knighthacks-2026) · [Demo video](https://www.youtube.com/watch?v=EDPen_Iu5QY) · Built with solana, databricks, devin, golang
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** databricks, devin, golang, mantine, nextjs, python, react, solana, typescript
+- **Code:** [Source 1](https://github.com/OzBoz-Dev/knighthacks-2026)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=EDPen_Iu5QY)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
+- **How it used Solana:** The project lists solana among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Tiger Data winners
+
+**Track:** Best Use of Tiger Data · [All Tiger Data winners](../by-sponsor/tiger-data.md)
+
+<a name="project-hakit-1qejr3"></a>
+
+#### [Hakit](https://devpost.com/software/hakit-1qejr3)
+
+[Tiger Data](../by-sponsor/tiger-data.md) · **Best Use of Tiger Data**
+
+A workspace matches hackathon tasks to teammates and tracks progress through GitHub.
+
+[Code](https://github.com/maxjb-xyz/hakit) · [Demo video](https://www.youtube.com/watch?v=X3Ex2pmvqaU) · Built with cloudflare, gemini, github, huggingface
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** cloudflare, gemini, github, huggingface, typescript
+- **Code:** [Source 1](https://github.com/maxjb-xyz/hakit)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=X3Ex2pmvqaU)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
+- **How it used Tiger Data:** Sign up with your GitHub account, and invite everyone the same way.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Vultr winners
+
+**Track:** Best Use of Vultr · [All Vultr winners](../by-sponsor/vultr.md)
+
+<a name="project-spotlight-fxqamj"></a>
+
+#### [Spotlight](https://devpost.com/software/spotlight-fxqamj)
+
+[Vultr](../by-sponsor/vultr.md) · **Best Use of Vultr**
+
+A dashboard turns telemetry from robots into reports operators can use.
+
+[Code](https://github.com/teafany/spotlight) · [Demo video](https://www.youtube.com/watch?v=WguR9jFeBeo) · Built with vultr, django, postgresql, python
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** django, postgresql, python, react, three.js, typescript, vite, vultr
+- **Code:** [Source 1](https://github.com/teafany/spotlight)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=WguR9jFeBeo)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
+- **How it used Vultr:** The project lists vultr among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

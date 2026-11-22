@@ -4,6 +4,8 @@
 
 **28 winning projects** · 27 hackathons · 28 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=GoDaddy%20Registry)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (16), typescript (14), javascript (11), python (11), fastapi (8)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Commons](https://devpost.com/software/commune-1qpezk)
 
@@ -98,6 +98,8 @@ A 2D platformer where you leave interactive echoes of yourself that replay your 
 Voice-first local farm marketplace — farmers list by talking, consumers shop with AI, orders deliver via optimized group routes. Real transparency, real logistics, real impact.
 
 [Code](https://github.com/alexanderlapratt/trust-your-food) · [Demo video](https://www.youtube.com/watch?v=srIbSfnjMU8) · Built with godaddy, claude-ai, doordash-drive-api, elevenlabs
+
+## 2025 winners
 
 ### [Askademia](https://devpost.com/software/askademia-study)
 
@@ -186,6 +188,8 @@ SunlightSavings is a sophisticated yet user-friendly tool that empowers users to
 An arcade-style game where the player can go on a journey of introspection and self-discovery as a little wolf. Collect stars, answer questions, and create a vision board of your future.
 
 Built with chatgpt, css, fastapi, html5
+
+## 2024 winners
 
 ### [GooseOnTheLoose](https://devpost.com/software/goosehunt)
 

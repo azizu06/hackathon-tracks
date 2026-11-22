@@ -4,6 +4,8 @@
 
 **1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Bloomberg%20Industry%20Group)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** amazon-dynamodb (1), amazon-web-services (1), beautiful-soup (1), eventbridge (1), lambda (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2024 winners
 
 ### [ContractScope](https://devpost.com/software/contractscope)
 

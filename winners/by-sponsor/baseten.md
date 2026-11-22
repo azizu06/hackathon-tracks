@@ -4,6 +4,8 @@
 
 **3 winning projects** · 2 hackathons · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Baseten)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** baseten (2), python (2), amazon-web-services (1), audio (1), claude (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [neoKernel](https://devpost.com/software/neokernel)
 
@@ -34,6 +34,8 @@ Dysarthric speech recovery, in your own voice.
 **How it used Baseten:** The adapted Cohere model is hosted on Baseten, and the demo’s speech recognition inference runs on Baseten.
 
 [Code](https://github.com/rickytang666/hackthenorth) · [Demo video](https://www.youtube.com/watch?v=e1tZalE6_i8) · Built with baseten, audio, cohere, css
+
+## 2025 winners
 
 ### [Salient Labs](https://devpost.com/software/salient-9ohv4q)
 

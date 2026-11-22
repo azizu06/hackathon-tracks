@@ -4,6 +4,8 @@
 
 **1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Rough%20Draft%20Ventures)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2016 winners](#2016-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** capital-one (1), flask (1), meteor.js (1), mobile (1), mongodb (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2016 winners
 
 ### [SplitPay](https://devpost.com/software/splitpay-qdibxt)
 

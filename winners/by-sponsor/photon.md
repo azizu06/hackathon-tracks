@@ -4,6 +4,8 @@
 
 **12 winning projects** · 4 hackathons · 12 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Photon)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** photon (10), typescript (10), react (7), elevenlabs (6), imessage (6)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Andi](https://devpost.com/software/andi-j2lz9x)
 

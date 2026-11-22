@@ -4,6 +4,8 @@
 
 **4 winning projects** · 4 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Hudson%20River%20Trading)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2019 winners](#2019-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (3), javascript (2), azure (1), conda (1), css (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Spheroid Tumor Invasion Kinetics (STIK) GUI](https://devpost.com/software/tumor-invasion-kinetics-gui)
 
@@ -25,6 +25,8 @@ An AI-powered tool for tracking and predicting spheroid tumor invasion kinetics 
 
 [Code](https://github.com/ellielin23/STIK_GUI) · [Demo video](https://www.youtube.com/watch?v=WknE6hNdmEc) · Built with conda, cvat, pyqt, python
 
+## 2019 winners
+
 ### [ensemble&#95;factory](https://devpost.com/software/ensemble_factory)
 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-ensemble_factory) · **Most Interesting Use of Data with HRT**
@@ -33,6 +35,8 @@ automl for heterogeneous model ensembling, giving automagical state-of-the-art s
 
 [Code](https://github.com/lhirschfeld/ensemble_factory) · Built with networkx, python, scikit-learn, tensorflow
 
+## 2017 winners
+
 ### [Fake Bananas](https://devpost.com/software/fakebananas)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-fakebananas) · **Sponsor Prize - Hudson River Trading - Most Interesting Use of Data**
@@ -40,6 +44,8 @@ automl for heterogeneous model ensembling, giving automagical state-of-the-art s
 Robust fake news detection made simple and scalable for real people.
 
 [Code](https://github.com/likeaj6/FakeBananas) · Built with azure, css, flask, html
+
+## 2016 winners
 
 ### [JS Policy](https://devpost.com/software/js-policy)
 

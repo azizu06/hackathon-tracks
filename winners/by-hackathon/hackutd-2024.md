@@ -4,6 +4,8 @@
 
 **23 winning projects** · 13 sponsors · 27 sponsor prizes · [Devpost gallery](https://hackutd-ripple.devpost.com/project-gallery) · [Prize rules](https://hackutd-ripple.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (13), pinata (9), react (6), streamlit (5), firebase (4)
@@ -15,25 +17,27 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [.Tech Domains](../by-sponsor/tech-domains.md) | 1 | Best .Tech Domain Name |
-| [CBRE](../by-sponsor/cbre.md) | 3 | CBRE |
-| [Cloudflare](../by-sponsor/cloudflare.md) | 1 | Best AI Application Built with Cloudflare |
-| [EOG Resources](../by-sponsor/eog-resources.md) | 2 | EOG Resources |
-| [Goldman Sachs](../by-sponsor/goldman-sachs.md) | 3 | Goldman Sachs |
-| [HashiCorp](../by-sponsor/hashicorp.md) | 1 | Best Use of Terraform |
-| [Infosys](../by-sponsor/infosys.md) | 1 | Infosys |
-| [Pinata](../by-sponsor/pinata.md) | 3 | Pinata |
-| [PNC Bank](../by-sponsor/pnc-bank.md) | 3 | PNC Bank |
-| [SambaNova](../by-sponsor/sambanova.md) | 3 | Samba Nova |
-| [Streamlit](../by-sponsor/streamlit.md) | 1 | Best Use of Streamlit |
-| [Toyota Financial Services](../by-sponsor/toyota-financial-services.md) | 3 | Toyota |
-| [Veolia](../by-sponsor/veolia.md) | 2 | Veolia |
+| [.Tech Domains](../by-sponsor/tech-domains.md) | 1 | [Best .Tech Domain Name](#tech-domains-winners) |
+| [CBRE](../by-sponsor/cbre.md) | 3 | [CBRE](#cbre-winners) |
+| [Cloudflare](../by-sponsor/cloudflare.md) | 1 | [Best AI Application Built with Cloudflare](#cloudflare-winners) |
+| [EOG Resources](../by-sponsor/eog-resources.md) | 2 | [EOG Resources](#eog-resources-winners) |
+| [Goldman Sachs](../by-sponsor/goldman-sachs.md) | 3 | [Goldman Sachs](#goldman-sachs-winners) |
+| [HashiCorp](../by-sponsor/hashicorp.md) | 1 | [Best Use of Terraform](#hashicorp-winners) |
+| [Infosys](../by-sponsor/infosys.md) | 1 | [Infosys](#infosys-winners) |
+| [Pinata](../by-sponsor/pinata.md) | 3 | [Pinata](#pinata-winners) |
+| [PNC Bank](../by-sponsor/pnc-bank.md) | 3 | [PNC Bank](#pnc-bank-winners) |
+| [SambaNova](../by-sponsor/sambanova.md) | 3 | [Samba Nova](#sambanova-winners) |
+| [Streamlit](../by-sponsor/streamlit.md) | 1 | [Best Use of Streamlit](#streamlit-winners) |
+| [Toyota Financial Services](../by-sponsor/toyota-financial-services.md) | 3 | [Toyota](#toyota-financial-services-winners) |
+| [Veolia](../by-sponsor/veolia.md) | 2 | [Veolia](#veolia-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-project-cd41lvjbiorw"></a>
 
@@ -129,32 +133,108 @@ Vestique, your AI wardrobe assistant, tracks your style and ensures no clothes g
 
 </details>
 
-<a name="project-project-ip7kgx0314sh"></a>
+## Winners by sponsor track
 
-### [-KaizenDrive](https://devpost.com/software/project-ip7kgx0314sh)
+### .Tech Domains winners
 
-[Toyota Financial Services](../by-sponsor/toyota-financial-services.md) · **Toyota**
+**Track:** Best .Tech Domain Name · [All .Tech Domains winners](../by-sponsor/tech-domains.md)
 
-Data to thrive, keeping Toyota’s edge alive.
+Also won this track: [DHy-n0](#project-dhy-n0) (listed above)
 
-[Demo video](https://www.youtube.com/watch?v=P7VKxnk-iFQ) · Built with nextjs, numpy, openai, pandas
+### CBRE winners
+
+**Track:** CBRE · [All CBRE winners](../by-sponsor/cbre.md)
+
+Also won this track: [Eco Fast Track](#project-apartment-monitoring) (listed above)
+
+<a name="project-ecoverse-5dczmp"></a>
+
+#### [EcoVerse](https://devpost.com/software/ecoverse-5dczmp)
+
+[CBRE](../by-sponsor/cbre.md) · **CBRE**
+
+Efficiency that Saves, Sustainability that Lasts.
+
+[Code](https://github.com/FireboltLegend/HackUTD-2024) · [Demo video](https://www.youtube.com/watch?v=V73-WMFlnqU) · Built with blender, c#, haptics, hardware
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** nextjs, numpy, openai, pandas, pinata, seaborn, sentencetransformers, streamlit
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=P7VKxnk-iFQ)
-- **All prizes at this hackathon (1):** Toyota
-- **How it used Toyota Financial Services:** KaizenData offers multiple customizations and services for engineers to use.
+- **Built with:** blender, c#, haptics, hardware, llama, proton, python, sambanova, streamlit, unity
+- **Code:** [Source 1](https://github.com/FireboltLegend/HackUTD-2024)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=V73-WMFlnqU)
+- **All prizes at this hackathon (1):** CBRE
+- **How it used CBRE:** The project reimagines property management through an immersive VR platform that uses real-time data and advanced technology to drive sustainability.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+<a name="project-greenwise-y6o4bu"></a>
+
+#### [Greenify](https://devpost.com/software/greenwise-y6o4bu)
+
+[CBRE](../by-sponsor/cbre.md) · **CBRE**
+
+A Sustainability Platform for a Greener Future.
+
+[Code](https://github.com/SaadMakda/Greenify-Test) · [Demo video](https://www.youtube.com/watch?v=W2zu9af2O0o) · Built with chart.js, d3.js, flask, framer-motion
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** chart.js, d3.js, flask, framer-motion, google-maps, gpt-4, llama-3, mongodb, next.js, pinecone, python, rag, react.js, tailwind, three.js, typescript
+- **Code:** [Source 1](https://github.com/SaadMakda/Greenify-Test) · [Source 2](https://github.com/yfshaikh/greenify) · [Source 3](https://github.com/yfshaikh/greenify-scripts)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=W2zu9af2O0o)
+- **All prizes at this hackathon (1):** CBRE
+- **How it used CBRE:** Greenify is an all-in-one platform designed to provide businesses with comprehensive insights into their sustainability practices.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Cloudflare winners
+
+**Track:** Best AI Application Built with Cloudflare · [All Cloudflare winners](../by-sponsor/cloudflare.md)
+
+Also won this track: [Backtracc](#project-project-cd41lvjbiorw) (listed above)
+
+### EOG Resources winners
+
+**Track:** EOG Resources · [All EOG Resources winners](../by-sponsor/eog-resources.md)
+
+Also won this track: [DHy-n0](#project-dhy-n0) (listed above)
+
+<a name="project-pipebrains"></a>
+
+#### [PipeBrAIns](https://devpost.com/software/pipebrains)
+
+[EOG Resources](../by-sponsor/eog-resources.md) · **EOG Resources**
+
+Monitor your pipes and and the likelihood that there is a hydrate.
+
+[Code](https://github.com/lightningbolt7/HackUTD-XI) · [Demo video](https://www.youtube.com/watch?v=A-HWoCepzhw) · Built with css, firebase, html, javascript
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** css, firebase, html, javascript, numpy, pandas, python, scikit
+- **Code:** [Source 1](https://github.com/lightningbolt7/HackUTD-XI)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=A-HWoCepzhw)
+- **All prizes at this hackathon (1):** EOG Resources
+- **How it used EOG Resources:** The project, PipeBrains, was trained using a machine learning algorithm from Scikit on the given datasets by EOG.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Goldman Sachs winners
+
+**Track:** Goldman Sachs · [All Goldman Sachs winners](../by-sponsor/goldman-sachs.md)
+
 <a name="project-allbank"></a>
 
-### [AllBank: Inclusive, Intelligent, Impactful](https://devpost.com/software/allbank)
+#### [AllBank: Inclusive, Intelligent, Impactful](https://devpost.com/software/allbank)
 
 [Goldman Sachs](../by-sponsor/goldman-sachs.md) · **Goldman Sachs**
 
@@ -175,9 +255,113 @@ AI-Banking is the ultimate financial companion for the unbanked, underbanked, an
 
 </details>
 
+<a name="project-pay-your-daddy"></a>
+
+#### [Lumo](https://devpost.com/software/pay-your-daddy)
+
+[Goldman Sachs](../by-sponsor/goldman-sachs.md) · **Goldman Sachs**
+
+Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-time cost-sharing for everyone—fast, fair, and hassle-free. 💸⚡.
+
+[Code](https://github.com/danielodicho/lumo) · [Demo video](https://www.youtube.com/watch?v=SXQl53rMZ6Q) · Built with angular.js, axios, javascript, mongoose
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** angular.js, axios, javascript, mongoose, typescript
+- **Code:** [Source 1](https://github.com/danielodicho/lumo)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=SXQl53rMZ6Q)
+- **All prizes at this hackathon (2):** General · Goldman Sachs
+- **How it used Goldman Sachs:** Lumo directly divides payments among participants by charging the cards the users put on file.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-talktuahbank"></a>
+
+#### [TalkTuahBank](https://devpost.com/software/talktuahbank)
+
+[Goldman Sachs](../by-sponsor/goldman-sachs.md) · **Goldman Sachs**
+
+Where YOU can talk to your own personalized bank.
+
+[Code](https://github.com/aurelisajuan/TalkTuahBank) · [Demo video](https://www.youtube.com/watch?v=YsH_z1azXSA) · Built with latex, nextjs, openai, pinata
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** latex, nextjs, openai, pinata, python, retell, swarm, typescript
+- **Code:** [Source 1](https://github.com/aurelisajuan/TalkTuahBank)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=YsH_z1azXSA)
+- **All prizes at this hackathon (2):** General · Goldman Sachs
+- **How it used Goldman Sachs:** TalkTuahBank revolutionizes the banking experience by offering a fully conversational AI assistant accessible through simple phone calls.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### HashiCorp winners
+
+**Track:** Best Use of Terraform · [All HashiCorp winners](../by-sponsor/hashicorp.md)
+
+<a name="project-gitfile"></a>
+
+#### [GitFile](https://devpost.com/software/gitfile)
+
+[HashiCorp](../by-sponsor/hashicorp.md) · **Best Use of Terraform**
+
+Git for ANY file type - Reducing storage costs by 500x, streamlining version control, and fostering efficient collaboration.
+
+[Code](https://github.com/ssaniya-dev/GitFile) · [Demo video](https://www.youtube.com/watch?v=5T_aJ0k165M) · Built with terraform, azure, c, cloudfare
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** azure, c, cloudfare, express.js, git, iframe, nextjs, node.js, pdf.js, pinata, ssh, terraform
+- **Code:** [Source 1](https://github.com/ssaniya-dev/GitFile)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=5T_aJ0k165M)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Terraform
+- **How it used HashiCorp:** The project lists terraform among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Infosys winners
+
+**Track:** Infosys · [All Infosys winners](../by-sponsor/infosys.md)
+
+<a name="project-investiq-1b0cio"></a>
+
+#### [InvestIQ](https://devpost.com/software/investiq-1b0cio)
+
+[Infosys](../by-sponsor/infosys.md) · **Infosys**
+
+InvestIQ simplifies investing for everyone, offering real-time insights, educational chatbot support, and custom algorithm creation—no coding needed. Learn, test, and invest confidently.
+
+[Code](https://github.com/krish-shar/InvestIQ) · [Demo video](https://www.youtube.com/watch?v=LAvZvJE8MMA) · Built with autogen, cohere, flask, next.js
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** autogen, cohere, flask, next.js, perplexity, sambanova
+- **Code:** [Source 1](https://github.com/krish-shar/InvestIQ)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=LAvZvJE8MMA)
+- **All prizes at this hackathon (1):** Infosys
+- **How it used Infosys:** InvestIQ is a powerful financial insights platform designed to cater to:.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Pinata winners
+
+**Track:** Pinata · [All Pinata winners](../by-sponsor/pinata.md)
+
 <a name="project-capsule-lp540f"></a>
 
-### [Capsule](https://devpost.com/software/capsule-lp540f)
+#### [Capsule](https://devpost.com/software/capsule-lp540f)
 
 [Pinata](../by-sponsor/pinata.md) · **Pinata**
 
@@ -200,7 +384,7 @@ Capsule, allows you to upload data into a "capsule" and retrieve it very quickly
 
 <a name="project-cheddarboxd"></a>
 
-### [Cheddarboxd](https://devpost.com/software/cheddarboxd)
+#### [Cheddarboxd](https://devpost.com/software/cheddarboxd)
 
 [Pinata](../by-sponsor/pinata.md) · **Pinata**
 
@@ -221,235 +405,9 @@ It's a social cheese rating and sharing website.
 
 </details>
 
-<a name="project-data-pattern-observatory"></a>
-
-### [Data Pattern Observatory](https://devpost.com/software/data-pattern-observatory)
-
-[PNC Bank](../by-sponsor/pnc-bank.md) · **PNC Bank**
-
-Data Pattern Observatory combines real-time data tracking with statistical modeling to not only monitor but also predict data flow patterns.
-
-[Code](https://github.com/siddhu-pikachu/data-observability) · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with elasticsearch, mongodb, python, redis
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** elasticsearch, mongodb, python, redis
-- **Code:** [Source 1](https://github.com/siddhu-pikachu/data-observability)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- **All prizes at this hackathon (1):** PNC Bank
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-ecolens-pqk62d"></a>
-
-### [EcoLens](https://devpost.com/software/ecolens-pqk62d)
-
-[Veolia](../by-sponsor/veolia.md) · **Veolia**
-
-A sustainability project to help manage buildings from afar.
-
-[Code](https://github.com/Sami-ul/Sustainable-Building-Manager) · [Demo video](https://vimeo.com/1030515570) · Built with flask, python, react
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** flask, python, react
-- **Code:** [Source 1](https://github.com/Sami-ul/Sustainable-Building-Manager)
-- **Demo video:** [Video 1](https://vimeo.com/1030515570)
-- **All prizes at this hackathon (1):** Veolia
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-ecoverse-5dczmp"></a>
-
-### [EcoVerse](https://devpost.com/software/ecoverse-5dczmp)
-
-[CBRE](../by-sponsor/cbre.md) · **CBRE**
-
-Efficiency that Saves, Sustainability that Lasts.
-
-[Code](https://github.com/FireboltLegend/HackUTD-2024) · [Demo video](https://www.youtube.com/watch?v=V73-WMFlnqU) · Built with blender, c#, haptics, hardware
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** blender, c#, haptics, hardware, llama, proton, python, sambanova, streamlit, unity
-- **Code:** [Source 1](https://github.com/FireboltLegend/HackUTD-2024)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=V73-WMFlnqU)
-- **All prizes at this hackathon (1):** CBRE
-- **How it used CBRE:** The project reimagines property management through an immersive VR platform that uses real-time data and advanced technology to drive sustainability.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-finnai"></a>
-
-### [FinnAI](https://devpost.com/software/finnai)
-
-[PNC Bank](../by-sponsor/pnc-bank.md) · **PNC Bank**
-
-Inspiration Managing personal finances can often feel daunting, with budgeting and saving becoming increasingly complex.
-
-[Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** firebase, python, streamlit
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=eX-9qLLoR2E)
-- **All prizes at this hackathon (1):** PNC Bank
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-fuelicient"></a>
-
-### [FUELICIENT](https://devpost.com/software/fuelicient)
-
-[Toyota Financial Services](../by-sponsor/toyota-financial-services.md) · **Toyota**
-
-FUELICIENT gives a clean UI for Toyota fuel-efficiency data exploration, coupled with a system for retaining previous analyses on a per-account basis.
-
-[Demo video](https://www.youtube.com/watch?v=fIVCgdzMGAA) · Built with dns, firebase, github, github.io
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** dns, firebase, github, github.io, markdown, pandas, pinata, pip, python, streamlit
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=fIVCgdzMGAA)
-- **All prizes at this hackathon (1):** Toyota
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-gitfile"></a>
-
-### [GitFile](https://devpost.com/software/gitfile)
-
-[HashiCorp](../by-sponsor/hashicorp.md) · **Best Use of Terraform**
-
-Git for ANY file type - Reducing storage costs by 500x, streamlining version control, and fostering efficient collaboration.
-
-[Code](https://github.com/ssaniya-dev/GitFile) · [Demo video](https://www.youtube.com/watch?v=5T_aJ0k165M) · Built with terraform, azure, c, cloudfare
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** azure, c, cloudfare, express.js, git, iframe, nextjs, node.js, pdf.js, pinata, ssh, terraform
-- **Code:** [Source 1](https://github.com/ssaniya-dev/GitFile)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=5T_aJ0k165M)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Terraform
-- **How it used HashiCorp:** The project lists terraform among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-greenwise-y6o4bu"></a>
-
-### [Greenify](https://devpost.com/software/greenwise-y6o4bu)
-
-[CBRE](../by-sponsor/cbre.md) · **CBRE**
-
-A Sustainability Platform for a Greener Future.
-
-[Code](https://github.com/SaadMakda/Greenify-Test) · [Demo video](https://www.youtube.com/watch?v=W2zu9af2O0o) · Built with chart.js, d3.js, flask, framer-motion
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** chart.js, d3.js, flask, framer-motion, google-maps, gpt-4, llama-3, mongodb, next.js, pinecone, python, rag, react.js, tailwind, three.js, typescript
-- **Code:** [Source 1](https://github.com/SaadMakda/Greenify-Test) · [Source 2](https://github.com/yfshaikh/greenify) · [Source 3](https://github.com/yfshaikh/greenify-scripts)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=W2zu9af2O0o)
-- **All prizes at this hackathon (1):** CBRE
-- **How it used CBRE:** Greenify is an all-in-one platform designed to provide businesses with comprehensive insights into their sustainability practices.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-hermes-c2onvq"></a>
-
-### [Hermes](https://devpost.com/software/hermes-c2onvq)
-
-[PNC Bank](../by-sponsor/pnc-bank.md) · **PNC Bank**
-
-Providing investment and banking opportunities to overlooked individuals who are not able to obtain traditional financial opportunities.
-
-[Code](https://github.com/AndrewG4404/HackUTD) · [Demo video](https://www.youtube.com/watch?v=DVqZ3ahW_lI) · Built with ai, crypto, fastapi, geckocoin
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** ai, crypto, fastapi, geckocoin, javascript, ml, python, react
-- **Code:** [Source 1](https://github.com/AndrewG4404/HackUTD)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=DVqZ3ahW_lI)
-- **All prizes at this hackathon (1):** PNC Bank
-- **How it used PNC Bank:** It also, shows current predictions for certain cryptocurrency and risk analysis to help users understand their investments.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-investiq-1b0cio"></a>
-
-### [InvestIQ](https://devpost.com/software/investiq-1b0cio)
-
-[Infosys](../by-sponsor/infosys.md) · **Infosys**
-
-InvestIQ simplifies investing for everyone, offering real-time insights, educational chatbot support, and custom algorithm creation—no coding needed. Learn, test, and invest confidently.
-
-[Code](https://github.com/krish-shar/InvestIQ) · [Demo video](https://www.youtube.com/watch?v=LAvZvJE8MMA) · Built with autogen, cohere, flask, next.js
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** autogen, cohere, flask, next.js, perplexity, sambanova
-- **Code:** [Source 1](https://github.com/krish-shar/InvestIQ)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=LAvZvJE8MMA)
-- **All prizes at this hackathon (1):** Infosys
-- **How it used Infosys:** InvestIQ is a powerful financial insights platform designed to cater to:.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-pay-your-daddy"></a>
-
-### [Lumo](https://devpost.com/software/pay-your-daddy)
-
-[Goldman Sachs](../by-sponsor/goldman-sachs.md) · **Goldman Sachs**
-
-Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-time cost-sharing for everyone—fast, fair, and hassle-free. 💸⚡.
-
-[Code](https://github.com/danielodicho/lumo) · [Demo video](https://www.youtube.com/watch?v=SXQl53rMZ6Q) · Built with angular.js, axios, javascript, mongoose
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** angular.js, axios, javascript, mongoose, typescript
-- **Code:** [Source 1](https://github.com/danielodicho/lumo)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=SXQl53rMZ6Q)
-- **All prizes at this hackathon (2):** General · Goldman Sachs
-- **How it used Goldman Sachs:** Lumo directly divides payments among participants by charging the cards the users put on file.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-monch-e5k0hv"></a>
 
-### [Monch](https://devpost.com/software/monch-e5k0hv)
+#### [Monch](https://devpost.com/software/monch-e5k0hv)
 
 [Pinata](../by-sponsor/pinata.md) · **Pinata**
 
@@ -470,9 +428,86 @@ Meet Monch – the AI-powered app that uses photos of your food to instantly rec
 
 </details>
 
+### PNC Bank winners
+
+**Track:** PNC Bank · [All PNC Bank winners](../by-sponsor/pnc-bank.md)
+
+<a name="project-data-pattern-observatory"></a>
+
+#### [Data Pattern Observatory](https://devpost.com/software/data-pattern-observatory)
+
+[PNC Bank](../by-sponsor/pnc-bank.md) · **PNC Bank**
+
+Data Pattern Observatory combines real-time data tracking with statistical modeling to not only monitor but also predict data flow patterns.
+
+[Code](https://github.com/siddhu-pikachu/data-observability) · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with elasticsearch, mongodb, python, redis
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** elasticsearch, mongodb, python, redis
+- **Code:** [Source 1](https://github.com/siddhu-pikachu/data-observability)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- **All prizes at this hackathon (1):** PNC Bank
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-finnai"></a>
+
+#### [FinnAI](https://devpost.com/software/finnai)
+
+[PNC Bank](../by-sponsor/pnc-bank.md) · **PNC Bank**
+
+Inspiration Managing personal finances can often feel daunting, with budgeting and saving becoming increasingly complex.
+
+[Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** firebase, python, streamlit
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=eX-9qLLoR2E)
+- **All prizes at this hackathon (1):** PNC Bank
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-hermes-c2onvq"></a>
+
+#### [Hermes](https://devpost.com/software/hermes-c2onvq)
+
+[PNC Bank](../by-sponsor/pnc-bank.md) · **PNC Bank**
+
+Providing investment and banking opportunities to overlooked individuals who are not able to obtain traditional financial opportunities.
+
+[Code](https://github.com/AndrewG4404/HackUTD) · [Demo video](https://www.youtube.com/watch?v=DVqZ3ahW_lI) · Built with ai, crypto, fastapi, geckocoin
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** ai, crypto, fastapi, geckocoin, javascript, ml, python, react
+- **Code:** [Source 1](https://github.com/AndrewG4404/HackUTD)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=DVqZ3ahW_lI)
+- **All prizes at this hackathon (1):** PNC Bank
+- **How it used PNC Bank:** It also, shows current predictions for certain cryptocurrency and risk analysis to help users understand their investments.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### SambaNova winners
+
+**Track:** Samba Nova · [All SambaNova winners](../by-sponsor/sambanova.md)
+
+Also won this track: [Backtracc](#project-project-cd41lvjbiorw), [Vestique](#project-vestique) (listed above)
+
 <a name="project-pipeview"></a>
 
-### [Notable](https://devpost.com/software/pipeview)
+#### [Notable](https://devpost.com/software/pipeview)
 
 [SambaNova](../by-sponsor/sambanova.md) · **Samba Nova**
 
@@ -493,55 +528,64 @@ Capture Ideas, Create Clarity, Powered by AI.
 
 </details>
 
-<a name="project-pipebrains"></a>
+### Streamlit winners
 
-### [PipeBrAIns](https://devpost.com/software/pipebrains)
+**Track:** Best Use of Streamlit · [All Streamlit winners](../by-sponsor/streamlit.md)
 
-[EOG Resources](../by-sponsor/eog-resources.md) · **EOG Resources**
+Also won this track: [Vestique](#project-vestique) (listed above)
 
-Monitor your pipes and and the likelihood that there is a hydrate.
+### Toyota Financial Services winners
 
-[Code](https://github.com/lightningbolt7/HackUTD-XI) · [Demo video](https://www.youtube.com/watch?v=A-HWoCepzhw) · Built with css, firebase, html, javascript
+**Track:** Toyota · [All Toyota Financial Services winners](../by-sponsor/toyota-financial-services.md)
+
+<a name="project-project-ip7kgx0314sh"></a>
+
+#### [-KaizenDrive](https://devpost.com/software/project-ip7kgx0314sh)
+
+[Toyota Financial Services](../by-sponsor/toyota-financial-services.md) · **Toyota**
+
+Data to thrive, keeping Toyota’s edge alive.
+
+[Demo video](https://www.youtube.com/watch?v=P7VKxnk-iFQ) · Built with nextjs, numpy, openai, pandas
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** css, firebase, html, javascript, numpy, pandas, python, scikit
-- **Code:** [Source 1](https://github.com/lightningbolt7/HackUTD-XI)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=A-HWoCepzhw)
-- **All prizes at this hackathon (1):** EOG Resources
-- **How it used EOG Resources:** The project, PipeBrains, was trained using a machine learning algorithm from Scikit on the given datasets by EOG.
+- **Built with:** nextjs, numpy, openai, pandas, pinata, seaborn, sentencetransformers, streamlit
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=P7VKxnk-iFQ)
+- **All prizes at this hackathon (1):** Toyota
+- **How it used Toyota Financial Services:** KaizenData offers multiple customizations and services for engineers to use.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
-<a name="project-talktuahbank"></a>
+<a name="project-fuelicient"></a>
 
-### [TalkTuahBank](https://devpost.com/software/talktuahbank)
+#### [FUELICIENT](https://devpost.com/software/fuelicient)
 
-[Goldman Sachs](../by-sponsor/goldman-sachs.md) · **Goldman Sachs**
+[Toyota Financial Services](../by-sponsor/toyota-financial-services.md) · **Toyota**
 
-Where YOU can talk to your own personalized bank.
+FUELICIENT gives a clean UI for Toyota fuel-efficiency data exploration, coupled with a system for retaining previous analyses on a per-account basis.
 
-[Code](https://github.com/aurelisajuan/TalkTuahBank) · [Demo video](https://www.youtube.com/watch?v=YsH_z1azXSA) · Built with latex, nextjs, openai, pinata
+[Demo video](https://www.youtube.com/watch?v=fIVCgdzMGAA) · Built with dns, firebase, github, github.io
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 3
-- **Built with:** latex, nextjs, openai, pinata, python, retell, swarm, typescript
-- **Code:** [Source 1](https://github.com/aurelisajuan/TalkTuahBank)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=YsH_z1azXSA)
-- **All prizes at this hackathon (2):** General · Goldman Sachs
-- **How it used Goldman Sachs:** TalkTuahBank revolutionizes the banking experience by offering a fully conversational AI assistant accessible through simple phone calls.
+- **Team size:** 4
+- **Built with:** dns, firebase, github, github.io, markdown, pandas, pinata, pip, python, streamlit
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=fIVCgdzMGAA)
+- **All prizes at this hackathon (1):** Toyota
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-toyota-car-analytics-app"></a>
 
-### [ToyoTrends](https://devpost.com/software/toyota-car-analytics-app)
+#### [ToyoTrends](https://devpost.com/software/toyota-car-analytics-app)
 
 [Toyota Financial Services](../by-sponsor/toyota-financial-services.md) · **Toyota**
 
@@ -558,6 +602,34 @@ ToyoTrends is a powerful web application designed for Toyota engineers to visual
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lEvVw3Qg834)
 - **All prizes at this hackathon (1):** Toyota
 - **How it used Toyota Financial Services:** Immersive Intro Animation : Engages users with a visually appealing introduction.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Veolia winners
+
+**Track:** Veolia · [All Veolia winners](../by-sponsor/veolia.md)
+
+Also won this track: [Eco Fast Track](#project-apartment-monitoring) (listed above)
+
+<a name="project-ecolens-pqk62d"></a>
+
+#### [EcoLens](https://devpost.com/software/ecolens-pqk62d)
+
+[Veolia](../by-sponsor/veolia.md) · **Veolia**
+
+A sustainability project to help manage buildings from afar.
+
+[Code](https://github.com/Sami-ul/Sustainable-Building-Manager) · [Demo video](https://vimeo.com/1030515570) · Built with flask, python, react
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** flask, python, react
+- **Code:** [Source 1](https://github.com/Sami-ul/Sustainable-Building-Manager)
+- **Demo video:** [Video 1](https://vimeo.com/1030515570)
+- **All prizes at this hackathon (1):** Veolia
 - **Checked on Devpost:** 2026-11-21
 
 </details>

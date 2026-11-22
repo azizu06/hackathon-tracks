@@ -4,6 +4,8 @@
 
 **25 winning projects** · 16 sponsors · 27 sponsor prizes · [Devpost gallery](https://shellhacks-2026.devpost.com/project-gallery) · [Prize rules](https://shellhacks-2026.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** react (17), python (16), typescript (15), gemini (10), javascript (10)
@@ -15,28 +17,30 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [Amazon Web Services](../by-sponsor/amazon-web-services.md) | 2 | Best Use of AWS |
-| [Assurant](../by-sponsor/assurant.md) | 3 | Assurant |
-| [Blackstone](../by-sponsor/blackstone.md) | 1 | Blackstone |
-| [DigitalOcean](../by-sponsor/digitalocean.md) | 1 | Best Use of DigitalOcean |
-| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | Best Use of ElevenLabs |
-| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 1 | Best Domain Name from GoDaddy Registry |
-| [Google](../by-sponsor/google.md) | 1 | Best Use of Gemini API |
-| [INIT National](../by-sponsor/init-national.md) | 2 | INIT National |
-| [Microsoft](../by-sponsor/microsoft.md) | 3 | Microsoft |
-| [MongoDB](../by-sponsor/mongodb.md) | 1 | Best Use of MongoDB Atlas |
-| [Snowflake](../by-sponsor/snowflake.md) | 1 | Best Use of Snowflake API |
-| [Solana](../by-sponsor/solana.md) | 1 | Best Use of Solana |
-| [Sperry Tech](../by-sponsor/sperry-tech.md) | 4 | Sperry Tech |
-| [State Farm](../by-sponsor/state-farm.md) | 1 | State Farm |
-| [Tiger Data](../by-sponsor/tiger-data.md) | 1 | Best Use of Tiger Data |
-| [Waymo](../by-sponsor/waymo.md) | 3 | Waymo |
+| [Amazon Web Services](../by-sponsor/amazon-web-services.md) | 2 | [Best Use of AWS](#amazon-web-services-winners) |
+| [Assurant](../by-sponsor/assurant.md) | 3 | [Assurant](#assurant-winners) |
+| [Blackstone](../by-sponsor/blackstone.md) | 1 | [Blackstone](#blackstone-winners) |
+| [DigitalOcean](../by-sponsor/digitalocean.md) | 1 | [Best Use of DigitalOcean](#digitalocean-winners) |
+| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | [Best Use of ElevenLabs](#elevenlabs-winners) |
+| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 1 | [Best Domain Name from GoDaddy Registry](#godaddy-registry-winners) |
+| [Google](../by-sponsor/google.md) | 1 | [Best Use of Gemini API](#google-winners) |
+| [INIT National](../by-sponsor/init-national.md) | 2 | [INIT National](#init-national-winners) |
+| [Microsoft](../by-sponsor/microsoft.md) | 3 | [Microsoft](#microsoft-winners) |
+| [MongoDB](../by-sponsor/mongodb.md) | 1 | [Best Use of MongoDB Atlas](#mongodb-winners) |
+| [Snowflake](../by-sponsor/snowflake.md) | 1 | [Best Use of Snowflake API](#snowflake-winners) |
+| [Solana](../by-sponsor/solana.md) | 1 | [Best Use of Solana](#solana-winners) |
+| [Sperry Tech](../by-sponsor/sperry-tech.md) | 4 | [Sperry Tech](#sperry-tech-winners) |
+| [State Farm](../by-sponsor/state-farm.md) | 1 | [State Farm](#state-farm-winners) |
+| [Tiger Data](../by-sponsor/tiger-data.md) | 1 | [Best Use of Tiger Data](#tiger-data-winners) |
+| [Waymo](../by-sponsor/waymo.md) | 3 | [Waymo](#waymo-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-halo-1q59hf"></a>
 
@@ -84,32 +88,17 @@ By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
 
 </details>
 
-<a name="project-benchlog"></a>
+## Winners by sponsor track
 
-### [benchlog](https://devpost.com/software/benchlog)
+### Amazon Web Services winners
 
-[INIT National](../by-sponsor/init-national.md) · **INIT National**
+**Track:** Best Use of AWS · [All Amazon Web Services winners](../by-sponsor/amazon-web-services.md)
 
-benchlog brings version control to hardware.
-
-[Code](https://github.com/Jrodd1203/benchlog) · [Demo video](https://www.youtube.com/watch?v=BhbKYBc4kMM) · Built with aruco, c++, computervision, esp32
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** aruco, c++, computervision, esp32, fastapi, git, opencv, oxlint, pydantic, pyserial, pytest, python, react, rich, typer, typescript, uvicorn, vite
-- **Code:** [Source 1](https://github.com/Jrodd1203/benchlog)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=BhbKYBc4kMM)
-- **All prizes at this hackathon (1):** INIT National
-- **How it used INIT National:** One command: benchlog init opens a hardware project to collaboration the same way git init opens a codebase.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+Also won this track: [transPEAKtation](#project-transpeaktation) (listed above)
 
 <a name="project-budgie-on-a-budget"></a>
 
-### [Budgie On A Budget](https://devpost.com/software/budgie-on-a-budget)
+#### [Budgie On A Budget](https://devpost.com/software/budgie-on-a-budget)
 
 [Amazon Web Services](../by-sponsor/amazon-web-services.md) · **Best Use of AWS**
 
@@ -130,32 +119,192 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 
 </details>
 
-<a name="project-cadvision"></a>
+### Assurant winners
 
-### [CADVision](https://devpost.com/software/cadvision)
+**Track:** Assurant · [All Assurant winners](../by-sponsor/assurant.md)
 
-[Microsoft](../by-sponsor/microsoft.md) · **Microsoft**
+<a name="project-guardian-loop"></a>
 
-CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN AI helps engineers inspect designs, surface issues, and understand complex assemblies faster.
+#### [Guardian Loop](https://devpost.com/software/guardian-loop)
 
-[Code](https://github.com/BAAA-Hacks/cad-vision) · [Demo video](https://www.youtube.com/watch?v=0-bYjncKWIs) · Built with c#, elevenlabs, geminiapi, metaquest
+[Assurant](../by-sponsor/assurant.md) · **Assurant**
+
+You're always in the loop. Never out of reach.
+
+[Demo video](https://www.youtube.com/watch?v=VnigEnYfZt8) · Built with audioworklet, deepgram, elderly, express.js
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** audioworklet, deepgram, elderly, express.js, gemini, github-actions, google-genai, javascript, node.js, npm, react, transparency, typescript, vite, vitest, vulnerable, webrtc, websockets
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=VnigEnYfZt8)
+- **All prizes at this hackathon (1):** Assurant
+- **How it used Assurant:** Guardian Loop is a second pair of ears on a loved one's phone calls.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-mind-your-prompt-prompt-shield"></a>
+
+#### [Mind Your Prompt](https://devpost.com/software/mind-your-prompt-prompt-shield)
+
+[Assurant](../by-sponsor/assurant.md) · **Assurant**
+
+Mind Your Prompt combines a website dashboard with a Chrome extension.
+
+[Code](https://github.com/krishnatejasai/ShellHacks_2026) · [Demo video](https://www.youtube.com/watch?v=FzibFbr4i2s) · Built with bert, chrome, faker, framer-motion
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** c#, elevenlabs, geminiapi, metaquest, solidworks, unity
-- **Code:** [Source 1](https://github.com/BAAA-Hacks/cad-vision)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=0-bYjncKWIs)
-- **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** CADVision takes a SolidWorks assembly and converts it into two connected pieces of information:.
+- **Built with:** bert, chrome, faker, framer-motion, hugging-face, javascript, next.js, node.js, onnx-runtime, python, react, recharts, snowflake, snowflake-cortex, tailwindcss, transformers.js, typescript, vercel, wxt
+- **Code:** [Source 1](https://github.com/krishnatejasai/ShellHacks_2026)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=FzibFbr4i2s)
+- **All prizes at this hackathon (1):** Assurant
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+<a name="project-reigns"></a>
+
+#### [reigns](https://devpost.com/software/reigns)
+
+[Assurant](../by-sponsor/assurant.md) · **Assurant**
+
+Don't let your AI run wild.
+
+[Demo video](https://www.youtube.com/watch?v=64wOp2kXgB4) · Built with elevenlabs, fastapi, mongodb, pydantic
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** elevenlabs, fastapi, mongodb, pydantic, pytest, python, sqlite, swift, tavily, uvicorn, websockets, xcode
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=64wOp2kXgB4)
+- **All prizes at this hackathon (1):** Assurant
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Blackstone winners
+
+**Track:** Blackstone · [All Blackstone winners](../by-sponsor/blackstone.md)
+
+<a name="project-portfoliofit"></a>
+
+#### [PortfolioFit](https://devpost.com/software/portfoliofit)
+
+[Blackstone](../by-sponsor/blackstone.md) · **Blackstone**
+
+Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new investment opportunities that actually fit it.
+
+[Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** elevenlabs, eslint, finnhub, fred-api, github, motion, next.js, node.js, npm, openai, react, recharts, tailwind-css, typesafe-ai-(jev), typescript, vercel-ai-gateway, vitest, yahoo-finance, zod, zustand
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPOzUj3IXuM)
+- **All prizes at this hackathon (1):** Blackstone
+- **How it used Blackstone:** PortfolioFit is an investing companion built around three things:.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### DigitalOcean winners
+
+**Track:** Best Use of DigitalOcean · [All DigitalOcean winners](../by-sponsor/digitalocean.md)
+
+<a name="project-t-cell"></a>
+
+#### [T-Cell](https://devpost.com/software/t-cell)
+
+[DigitalOcean](../by-sponsor/digitalocean.md) · **Best Use of DigitalOcean**
+
+The Soldier isolates the threat, evolves a working "cure" (a sandboxed containment payload), and applies it, then self-terminates.
+
+[Code](https://github.com/Joshua-Song007/Shellhacks) · [Demo video](https://www.youtube.com/watch?v=swDZNF3l3KU) · Built with digitalocean, applescript, c, css
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** applescript, c, css, digitalocean, gemma, html, javascript, rust, shell, solana
+- **Code:** [Source 1](https://github.com/Joshua-Song007/Shellhacks)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=swDZNF3l3KU)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of DigitalOcean
+- **How it used DigitalOcean:** The project lists digitalocean among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### ElevenLabs winners
+
+**Track:** Best Use of ElevenLabs · [All ElevenLabs winners](../by-sponsor/elevenlabs.md)
+
+<a name="project-public-city-announcements-pcl"></a>
+
+#### [Public City Announcements (PCA)](https://devpost.com/software/public-city-announcements-pcl)
+
+[ElevenLabs](../by-sponsor/elevenlabs.md) · **Best Use of ElevenLabs**
+
+The neighbor who reads every city agenda and calls you when it matters.
+
+[Code](https://github.com/Alans44/public-city-announcements) · [Demo video](https://www.youtube.com/watch?v=D6od6VAIAPM) · Built with cloudflare-tunnel, fastapi, framer-motion, maplibre
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** cloudflare-tunnel, fastapi, framer-motion, maplibre, next.js, openai, openfreemap, pydantic, python, react, shadcn/ui, sqlite, tailwindcss, twilio, typescript, uvicorn, websockets
+- **Code:** [Source 1](https://github.com/Alans44/public-city-announcements)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=D6od6VAIAPM)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
+- **How it used ElevenLabs:** PCA reads City of Miami and Miami-Dade agendas, finds the residents each decision affects, and calls them before the vote, in English or Spanish.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### GoDaddy Registry winners
+
+**Track:** Best Domain Name from GoDaddy Registry · [All GoDaddy Registry winners](../by-sponsor/godaddy-registry.md)
+
+<a name="project-shaadiest"></a>
+
+#### [Shaadiest](https://devpost.com/software/shaadiest)
+
+[GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name from GoDaddy Registry**
+
+No more sweat in your walk. Take the Shaadiest path.
+
+[Demo video](https://www.youtube.com/watch?v=IRjQ7plFcqE) · Built with godaddy, codex, express.js, github
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** codex, express.js, github, godaddy, javascript, leaflet.js, node.js, open-meteo, overpass-openstreetmap, suncalc, vite
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=IRjQ7plFcqE)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
+- **How it used GoDaddy Registry:** The team built Shaadiest with JavaScript, Codex, Vite, Leaflet, Node.js, and Express, with deployment support for GoDaddy.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Google winners
+
+**Track:** Best Use of Gemini API · [All Google winners](../by-sponsor/google.md)
+
 <a name="project-clarity-smartglasses"></a>
 
-### [Clarity - SmartGlasses](https://devpost.com/software/clarity-smartglasses)
+#### [Clarity - SmartGlasses](https://devpost.com/software/clarity-smartglasses)
 
 [Google](../by-sponsor/google.md) · **Best Use of Gemini API**
 
@@ -176,9 +325,217 @@ Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay a
 
 </details>
 
+### INIT National winners
+
+**Track:** INIT National · [All INIT National winners](../by-sponsor/init-national.md)
+
+<a name="project-benchlog"></a>
+
+#### [benchlog](https://devpost.com/software/benchlog)
+
+[INIT National](../by-sponsor/init-national.md) · **INIT National**
+
+benchlog brings version control to hardware.
+
+[Code](https://github.com/Jrodd1203/benchlog) · [Demo video](https://www.youtube.com/watch?v=BhbKYBc4kMM) · Built with aruco, c++, computervision, esp32
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** aruco, c++, computervision, esp32, fastapi, git, opencv, oxlint, pydantic, pyserial, pytest, python, react, rich, typer, typescript, uvicorn, vite
+- **Code:** [Source 1](https://github.com/Jrodd1203/benchlog)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=BhbKYBc4kMM)
+- **All prizes at this hackathon (1):** INIT National
+- **How it used INIT National:** One command: benchlog init opens a hardware project to collaboration the same way git init opens a codebase.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-crunchhack"></a>
+
+#### [CrunchHack](https://devpost.com/software/crunchhack)
+
+[INIT National](../by-sponsor/init-national.md) · **INIT National**
+
+Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern" with scope locking, visual system topology, and sprint tracking to take teams from zero to a live Devpost demo.
+
+[Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** css3, git, github, html5, javascript, lucide-react, react, tailwindcss, vercel, vite
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=FdCHXdTUIdM)
+- **All prizes at this hackathon (1):** INIT National
+- **How it used INIT National:** CrunchHack serves as a central survival console that strips away hackathon chaos and keeps developers locked onto what actually matters:.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Microsoft winners
+
+**Track:** Microsoft · [All Microsoft winners](../by-sponsor/microsoft.md)
+
+<a name="project-cadvision"></a>
+
+#### [CADVision](https://devpost.com/software/cadvision)
+
+[Microsoft](../by-sponsor/microsoft.md) · **Microsoft**
+
+CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN AI helps engineers inspect designs, surface issues, and understand complex assemblies faster.
+
+[Code](https://github.com/BAAA-Hacks/cad-vision) · [Demo video](https://www.youtube.com/watch?v=0-bYjncKWIs) · Built with c#, elevenlabs, geminiapi, metaquest
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** c#, elevenlabs, geminiapi, metaquest, solidworks, unity
+- **Code:** [Source 1](https://github.com/BAAA-Hacks/cad-vision)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=0-bYjncKWIs)
+- **All prizes at this hackathon (1):** Microsoft
+- **How it used Microsoft:** CADVision takes a SolidWorks assembly and converts it into two connected pieces of information:.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-repro-h6gq70"></a>
+
+#### [Repro](https://devpost.com/software/repro-h6gq70)
+
+[Microsoft](../by-sponsor/microsoft.md) · **Microsoft**
+
+A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
+
+[Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** docker, fastify, framer-motion, gemini, git, github-api, gitleaks, google-cloud, google-genai, model-context-protocol, mongodb, mongodb-atlas, node.js, npm, octokit, osv-scanner, python, react, ruff, semgrep, trpc, typescript, vite, vitest, zod
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=4GTQH27oGOs)
+- **All prizes at this hackathon (1):** Microsoft
+- **How it used Microsoft:** Repro points AI agents at a codebase, grounds every finding in evidence you can re-run, and repairs the code with proof that the fix actually holds.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-spitball"></a>
+
+#### [Spitball](https://devpost.com/software/spitball)
+
+[Microsoft](../by-sponsor/microsoft.md) · **Microsoft**
+
+Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
+
+[Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** claude, css, digitalocean, github-api, google-gemini-api, javascript, mongodb-atlas, next.js, node.js, react, react-force-graph, tailwind-css, typescript, zod
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=uLmimTFwauM)
+- **All prizes at this hackathon (1):** Microsoft
+- **How it used Microsoft:** Paste a public GitHub repo URL, and Spitball reads the file tree and key files.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### MongoDB winners
+
+**Track:** Best Use of MongoDB Atlas · [All MongoDB winners](../by-sponsor/mongodb.md)
+
+<a name="project-cortisol"></a>
+
+#### [Grep](https://devpost.com/software/cortisol)
+
+[MongoDB](../by-sponsor/mongodb.md) · **Best Use of MongoDB Atlas**
+
+Grep is your organization’s intelligence layer - turning AI coding into shared knowledge, developer insights, and personalized guidance.
+
+[Code](https://github.com/DinhPhucLe/grep) · [Demo video](https://www.youtube.com/watch?v=mru6d0wAI-k) · Built with mongodb, amazon-web-services, golang, react
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** amazon-web-services, golang, mongodb, react, snowflakes
+- **Code:** [Source 1](https://github.com/DinhPhucLe/grep)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=mru6d0wAI-k)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
+- **How it used MongoDB:** The project lists mongodb among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Snowflake winners
+
+**Track:** Best Use of Snowflake API · [All Snowflake winners](../by-sponsor/snowflake.md)
+
+<a name="project-hurricane-week"></a>
+
+#### [Hurricane Week](https://devpost.com/software/hurricane-week)
+
+[Snowflake](../by-sponsor/snowflake.md) · **Best Use of Snowflake API**
+
+Practice hurricane prep decisions under real financial pressure (before the real storm hits).
+
+[Code](https://github.com/varshith-k/hurricaneweek) · [Demo video](https://www.youtube.com/watch?v=Y_qwLNbf1Cg) · Built with snowflake, cortex, css, digitalocean
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** cortex, css, digitalocean, elevenlabs, fastapi, gemini, mongodb-atlas, next.js, openrouteservice, postgresql, pydantic, pytest, python, react, snowflake, solana, tailwind, tiger-data, typescript
+- **Code:** [Source 1](https://github.com/varshith-k/hurricaneweek)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y_qwLNbf1Cg)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Snowflake API
+- **How it used Snowflake:** The project lists snowflake among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Solana winners
+
+**Track:** Best Use of Solana · [All Solana winners](../by-sponsor/solana.md)
+
+<a name="project-momentumx-er2kg9"></a>
+
+#### [MomentumX](https://devpost.com/software/momentumx-er2kg9)
+
+[Solana](../by-sponsor/solana.md) · **Best Use of Solana**
+
+MomentumX gives global traders an edge by pairing tokenized stocks with real-time momentum scanners built for faster day and swing trading decisions.
+
+[Code](https://github.com/FastMartini/Shellhacks-2026) · [Demo video](https://vimeo.com/1230689653) · Built with solana-sdk, css, fastapi, python
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** css, fastapi, python, react, solana-sdk, three.js, typescript
+- **Code:** [Source 1](https://github.com/FastMartini/Shellhacks-2026)
+- **Demo video:** [Video 1](https://vimeo.com/1230689653)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
+- **How it used Solana:** The project lists solana-sdk among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Sperry Tech winners
+
+**Track:** Sperry Tech · [All Sperry Tech winners](../by-sponsor/sperry-tech.md)
+
 <a name="project-common-ground-a6rfoc"></a>
 
-### [Common Ground](https://devpost.com/software/common-ground-a6rfoc)
+#### [Common Ground](https://devpost.com/software/common-ground-a6rfoc)
 
 [Sperry Tech](../by-sponsor/sperry-tech.md) · **Sperry Tech**
 
@@ -201,7 +558,7 @@ The cross-utility intelligence platform that aggressively optimizes overlapping 
 
 <a name="project-contractmap"></a>
 
-### [ContractMap](https://devpost.com/software/contractmap)
+#### [ContractMap](https://devpost.com/software/contractmap)
 
 [Sperry Tech](../by-sponsor/sperry-tech.md) · **Sperry Tech**
 
@@ -221,146 +578,9 @@ It then ranks those overlaps by how much coordination is actually worth.
 
 </details>
 
-<a name="project-crunchhack"></a>
-
-### [CrunchHack](https://devpost.com/software/crunchhack)
-
-[INIT National](../by-sponsor/init-national.md) · **INIT National**
-
-Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern" with scope locking, visual system topology, and sprint tracking to take teams from zero to a live Devpost demo.
-
-[Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** css3, git, github, html5, javascript, lucide-react, react, tailwindcss, vercel, vite
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=FdCHXdTUIdM)
-- **All prizes at this hackathon (1):** INIT National
-- **How it used INIT National:** CrunchHack serves as a central survival console that strips away hackathon chaos and keeps developers locked onto what actually matters:.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-cortisol"></a>
-
-### [Grep](https://devpost.com/software/cortisol)
-
-[MongoDB](../by-sponsor/mongodb.md) · **Best Use of MongoDB Atlas**
-
-Grep is your organization’s intelligence layer - turning AI coding into shared knowledge, developer insights, and personalized guidance.
-
-[Code](https://github.com/DinhPhucLe/grep) · [Demo video](https://www.youtube.com/watch?v=mru6d0wAI-k) · Built with mongodb, amazon-web-services, golang, react
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** amazon-web-services, golang, mongodb, react, snowflakes
-- **Code:** [Source 1](https://github.com/DinhPhucLe/grep)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=mru6d0wAI-k)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** The project lists mongodb among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-guardian-loop"></a>
-
-### [Guardian Loop](https://devpost.com/software/guardian-loop)
-
-[Assurant](../by-sponsor/assurant.md) · **Assurant**
-
-You're always in the loop. Never out of reach.
-
-[Demo video](https://www.youtube.com/watch?v=VnigEnYfZt8) · Built with audioworklet, deepgram, elderly, express.js
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** audioworklet, deepgram, elderly, express.js, gemini, github-actions, google-genai, javascript, node.js, npm, react, transparency, typescript, vite, vitest, vulnerable, webrtc, websockets
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=VnigEnYfZt8)
-- **All prizes at this hackathon (1):** Assurant
-- **How it used Assurant:** Guardian Loop is a second pair of ears on a loved one's phone calls.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-hurricane-week"></a>
-
-### [Hurricane Week](https://devpost.com/software/hurricane-week)
-
-[Snowflake](../by-sponsor/snowflake.md) · **Best Use of Snowflake API**
-
-Practice hurricane prep decisions under real financial pressure (before the real storm hits).
-
-[Code](https://github.com/varshith-k/hurricaneweek) · [Demo video](https://www.youtube.com/watch?v=Y_qwLNbf1Cg) · Built with snowflake, cortex, css, digitalocean
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** cortex, css, digitalocean, elevenlabs, fastapi, gemini, mongodb-atlas, next.js, openrouteservice, postgresql, pydantic, pytest, python, react, snowflake, solana, tailwind, tiger-data, typescript
-- **Code:** [Source 1](https://github.com/varshith-k/hurricaneweek)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y_qwLNbf1Cg)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Snowflake API
-- **How it used Snowflake:** The project lists snowflake among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-mind-your-prompt-prompt-shield"></a>
-
-### [Mind Your Prompt](https://devpost.com/software/mind-your-prompt-prompt-shield)
-
-[Assurant](../by-sponsor/assurant.md) · **Assurant**
-
-Mind Your Prompt combines a website dashboard with a Chrome extension.
-
-[Code](https://github.com/krishnatejasai/ShellHacks_2026) · [Demo video](https://www.youtube.com/watch?v=FzibFbr4i2s) · Built with bert, chrome, faker, framer-motion
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** bert, chrome, faker, framer-motion, hugging-face, javascript, next.js, node.js, onnx-runtime, python, react, recharts, snowflake, snowflake-cortex, tailwindcss, transformers.js, typescript, vercel, wxt
-- **Code:** [Source 1](https://github.com/krishnatejasai/ShellHacks_2026)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=FzibFbr4i2s)
-- **All prizes at this hackathon (1):** Assurant
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-momentumx-er2kg9"></a>
-
-### [MomentumX](https://devpost.com/software/momentumx-er2kg9)
-
-[Solana](../by-sponsor/solana.md) · **Best Use of Solana**
-
-MomentumX gives global traders an edge by pairing tokenized stocks with real-time momentum scanners built for faster day and swing trading decisions.
-
-[Code](https://github.com/FastMartini/Shellhacks-2026) · [Demo video](https://vimeo.com/1230689653) · Built with solana-sdk, css, fastapi, python
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** css, fastapi, python, react, solana-sdk, three.js, typescript
-- **Code:** [Source 1](https://github.com/FastMartini/Shellhacks-2026)
-- **Demo video:** [Video 1](https://vimeo.com/1230689653)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** The project lists solana-sdk among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-mr-gridy"></a>
 
-### [Mr.Gridy](https://devpost.com/software/mr-gridy)
+#### [Mr.Gridy](https://devpost.com/software/mr-gridy)
 
 [Sperry Tech](../by-sponsor/sperry-tech.md) · **Sperry Tech**
 
@@ -381,9 +601,50 @@ Mr.Gridy helps neighbouring power companies share the work: it finds where their
 
 </details>
 
+<a name="project-utilities-utility-coordination"></a>
+
+#### [UtiliTies - Utility Coordination](https://devpost.com/software/utilities-utility-coordination)
+
+[Sperry Tech](../by-sponsor/sperry-tech.md) · **Sperry Tech**
+
+AI agents that read utilities' public construction filings, map every planned project, and find where neighbors could share crews, equipment, and outages.
+
+[Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** claude, digitalocean, docker, fastapi, gemini, geonames, maplibre, next.js, nominatim, openai, openfreemap, openstreetmap, overpass-api, poppler, postgresql, pydantic, python, react, tiger-data, timescaledb, typesafe-jev, typescript, us-census, zustand
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Supupux7vtA)
+- **All prizes at this hackathon (1):** Sperry Tech
+- **How it used Sperry Tech:** UtiliTies reads two neighboring utilities' public construction plans, Dominion Energy South Carolina and Georgia Power, and finds where they could coordinate.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### State Farm winners
+
+**Track:** State Farm · [All State Farm winners](../by-sponsor/state-farm.md)
+
+Also won this track: [Halo](#project-halo-1q59hf) (listed above)
+
+### Tiger Data winners
+
+**Track:** Best Use of Tiger Data · [All Tiger Data winners](../by-sponsor/tiger-data.md)
+
+Also won this track: [transPEAKtation](#project-transpeaktation) (listed above)
+
+### Waymo winners
+
+**Track:** Waymo · [All Waymo winners](../by-sponsor/waymo.md)
+
+Also won this track: [Halo](#project-halo-1q59hf) (listed above)
+
 <a name="project-oddyssey"></a>
 
-### [ODDyssey](https://devpost.com/software/oddyssey)
+#### [ODDyssey](https://devpost.com/software/oddyssey)
 
 [Waymo](../by-sponsor/waymo.md) · **Waymo**
 
@@ -404,146 +665,9 @@ Map the possibilities for electric autonomous fleets with data-driven market ins
 
 </details>
 
-<a name="project-portfoliofit"></a>
-
-### [PortfolioFit](https://devpost.com/software/portfoliofit)
-
-[Blackstone](../by-sponsor/blackstone.md) · **Blackstone**
-
-Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new investment opportunities that actually fit it.
-
-[Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** elevenlabs, eslint, finnhub, fred-api, github, motion, next.js, node.js, npm, openai, react, recharts, tailwind-css, typesafe-ai-(jev), typescript, vercel-ai-gateway, vitest, yahoo-finance, zod, zustand
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPOzUj3IXuM)
-- **All prizes at this hackathon (1):** Blackstone
-- **How it used Blackstone:** PortfolioFit is an investing companion built around three things:.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-public-city-announcements-pcl"></a>
-
-### [Public City Announcements (PCA)](https://devpost.com/software/public-city-announcements-pcl)
-
-[ElevenLabs](../by-sponsor/elevenlabs.md) · **Best Use of ElevenLabs**
-
-The neighbor who reads every city agenda and calls you when it matters.
-
-[Code](https://github.com/Alans44/public-city-announcements) · [Demo video](https://www.youtube.com/watch?v=D6od6VAIAPM) · Built with cloudflare-tunnel, fastapi, framer-motion, maplibre
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** cloudflare-tunnel, fastapi, framer-motion, maplibre, next.js, openai, openfreemap, pydantic, python, react, shadcn/ui, sqlite, tailwindcss, twilio, typescript, uvicorn, websockets
-- **Code:** [Source 1](https://github.com/Alans44/public-city-announcements)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=D6od6VAIAPM)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** PCA reads City of Miami and Miami-Dade agendas, finds the residents each decision affects, and calls them before the vote, in English or Spanish.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-reigns"></a>
-
-### [reigns](https://devpost.com/software/reigns)
-
-[Assurant](../by-sponsor/assurant.md) · **Assurant**
-
-Don't let your AI run wild.
-
-[Demo video](https://www.youtube.com/watch?v=64wOp2kXgB4) · Built with elevenlabs, fastapi, mongodb, pydantic
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** elevenlabs, fastapi, mongodb, pydantic, pytest, python, sqlite, swift, tavily, uvicorn, websockets, xcode
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=64wOp2kXgB4)
-- **All prizes at this hackathon (1):** Assurant
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-repro-h6gq70"></a>
-
-### [Repro](https://devpost.com/software/repro-h6gq70)
-
-[Microsoft](../by-sponsor/microsoft.md) · **Microsoft**
-
-A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
-
-[Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** docker, fastify, framer-motion, gemini, git, github-api, gitleaks, google-cloud, google-genai, model-context-protocol, mongodb, mongodb-atlas, node.js, npm, octokit, osv-scanner, python, react, ruff, semgrep, trpc, typescript, vite, vitest, zod
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=4GTQH27oGOs)
-- **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** Repro points AI agents at a codebase, grounds every finding in evidence you can re-run, and repairs the code with proof that the fix actually holds.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-shaadiest"></a>
-
-### [Shaadiest](https://devpost.com/software/shaadiest)
-
-[GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name from GoDaddy Registry**
-
-No more sweat in your walk. Take the Shaadiest path.
-
-[Demo video](https://www.youtube.com/watch?v=IRjQ7plFcqE) · Built with godaddy, codex, express.js, github
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** codex, express.js, github, godaddy, javascript, leaflet.js, node.js, open-meteo, overpass-openstreetmap, suncalc, vite
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=IRjQ7plFcqE)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** The team built Shaadiest with JavaScript, Codex, Vite, Leaflet, Node.js, and Express, with deployment support for GoDaddy.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-spitball"></a>
-
-### [Spitball](https://devpost.com/software/spitball)
-
-[Microsoft](../by-sponsor/microsoft.md) · **Microsoft**
-
-Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
-
-[Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** claude, css, digitalocean, github-api, google-gemini-api, javascript, mongodb-atlas, next.js, node.js, react, react-force-graph, tailwind-css, typescript, zod
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=uLmimTFwauM)
-- **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** Paste a public GitHub repo URL, and Spitball reads the file tree and key files.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
 <a name="project-syren-piz0qc"></a>
 
-### [Syren](https://devpost.com/software/syren-piz0qc)
+#### [Syren](https://devpost.com/software/syren-piz0qc)
 
 [Waymo](../by-sponsor/waymo.md) · **Waymo**
 
@@ -560,52 +684,6 @@ Decode the skies in real time: Live radar tracking powered by custom AI that det
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DAqYyY9iVos)
 - **All prizes at this hackathon (1):** Waymo
 - **How it used Waymo:** Syren is a real-time and historical flight tracking platform with an integrated AI copilot:.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-t-cell"></a>
-
-### [T-Cell](https://devpost.com/software/t-cell)
-
-[DigitalOcean](../by-sponsor/digitalocean.md) · **Best Use of DigitalOcean**
-
-The Soldier isolates the threat, evolves a working "cure" (a sandboxed containment payload), and applies it, then self-terminates.
-
-[Code](https://github.com/Joshua-Song007/Shellhacks) · [Demo video](https://www.youtube.com/watch?v=swDZNF3l3KU) · Built with digitalocean, applescript, c, css
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** applescript, c, css, digitalocean, gemma, html, javascript, rust, shell, solana
-- **Code:** [Source 1](https://github.com/Joshua-Song007/Shellhacks)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=swDZNF3l3KU)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of DigitalOcean
-- **How it used DigitalOcean:** The project lists digitalocean among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-utilities-utility-coordination"></a>
-
-### [UtiliTies - Utility Coordination](https://devpost.com/software/utilities-utility-coordination)
-
-[Sperry Tech](../by-sponsor/sperry-tech.md) · **Sperry Tech**
-
-AI agents that read utilities' public construction filings, map every planned project, and find where neighbors could share crews, equipment, and outages.
-
-[Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** claude, digitalocean, docker, fastapi, gemini, geonames, maplibre, next.js, nominatim, openai, openfreemap, openstreetmap, overpass-api, poppler, postgresql, pydantic, python, react, tiger-data, timescaledb, typesafe-jev, typescript, us-census, zustand
-- **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=Supupux7vtA)
-- **All prizes at this hackathon (1):** Sperry Tech
-- **How it used Sperry Tech:** UtiliTies reads two neighboring utilities' public construction plans, Dominion Energy South Carolina and Georgia Power, and finds where they could coordinate.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

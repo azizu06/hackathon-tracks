@@ -4,6 +4,8 @@
 
 **27 winning projects** · 27 sponsors · 31 sponsor prizes · [Devpost gallery](https://hackmit.devpost.com/project-gallery) · [Prize rules](https://hackmit.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** firebase (6), alchemyapi (4), venmo (4), weather-underground (4), twilio (3)
@@ -15,39 +17,41 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [Akamai](../by-sponsor/akamai.md) | 1 | Best Use of Algorithms |
-| [AlchemyAPI](../by-sponsor/alchemyapi.md) | 1 | Best Use of AlchemyAPI Award |
-| [Amicus](../by-sponsor/amicus.md) | 1 | What Does The Fox Say? Award |
-| [Bain Capital](../by-sponsor/bain-capital.md) | 2 | Best Use of Machine Learning; Best Use of Data Visualization |
-| [Bloomberg](../by-sponsor/bloomberg.md) | 1 | Best Use of the Bloomberg API |
-| [Constant Contact](../by-sponsor/constant-contact.md) | 1 | Best use of Constant Contact API |
-| [Firebase](../by-sponsor/firebase.md) | 1 | Best use of Firebase |
-| [Fitbit](../by-sponsor/fitbit.md) | 1 | Fitbit Flex |
-| [General Catalyst](../by-sponsor/general-catalyst.md) | 1 | Most likely to be the “Next Big Thing” |
-| [Google](../by-sponsor/google.md) | 1 | Google, Inc. |
-| [Intuit](../by-sponsor/intuit.md) | 1 | API Innovation Award |
-| [Jawbone](../by-sponsor/jawbone.md) | 1 | For the best health hack |
-| [Kensho](../by-sponsor/kensho.md) | 1 | Kenshō - Best Financial Data Hack |
-| [Kleiner Perkins](../by-sponsor/kleiner-perkins.md) | 1 | KPCB - KPCB Fellows Award |
-| [Meta](../by-sponsor/meta.md) | 1 | Facebook |
-| [MongoDB](../by-sponsor/mongodb.md) | 1 | MongoDB - Best Use of MongoDB |
-| [MoPub](../by-sponsor/mopub.md) | 1 | Mobile Data Award |
-| [Pinterest](../by-sponsor/pinterest.md) | 1 | Pin It award |
-| [Sailthru](../by-sponsor/sailthru.md) | 1 | Smart Data Challenge |
-| [SendGrid](../by-sponsor/sendgrid.md) | 1 | Best use of SendGrid API Award |
-| [Square](../by-sponsor/square.md) | 1 | Square Inc. - Making Commerce Easy and Rounding the Corners |
-| [Synaptics](../by-sponsor/synaptics.md) | 4 | Synaptics, Inc. - Most Innovative project with Hover - 1st Prize; Synaptics, Inc. - Most Innovative project with… |
-| [Thiel Fellowship](../by-sponsor/thiel-fellowship.md) | 1 | “Under 20” Hack Award |
-| [Twilio](../by-sponsor/twilio.md) | 1 | Twilio API Award |
-| [Twitter](../by-sponsor/twitter.md) | 1 | Best user of Twitter |
-| [Venmo](../by-sponsor/venmo.md) | 1 | Makes Life So Easy |
-| [Weather Underground](../by-sponsor/weather-underground.md) | 1 | Best use of Weather Underground API Award |
+| [Akamai](../by-sponsor/akamai.md) | 1 | [Best Use of Algorithms](#akamai-winners) |
+| [AlchemyAPI](../by-sponsor/alchemyapi.md) | 1 | [Best Use of AlchemyAPI Award](#alchemyapi-winners) |
+| [Amicus](../by-sponsor/amicus.md) | 1 | [What Does The Fox Say? Award](#amicus-winners) |
+| [Bain Capital](../by-sponsor/bain-capital.md) | 2 | [Best Use of Machine Learning; Best Use of Data Visualization](#bain-capital-winners) |
+| [Bloomberg](../by-sponsor/bloomberg.md) | 1 | [Best Use of the Bloomberg API](#bloomberg-winners) |
+| [Constant Contact](../by-sponsor/constant-contact.md) | 1 | [Best use of Constant Contact API](#constant-contact-winners) |
+| [Firebase](../by-sponsor/firebase.md) | 1 | [Best use of Firebase](#firebase-winners) |
+| [Fitbit](../by-sponsor/fitbit.md) | 1 | [Fitbit Flex](#fitbit-winners) |
+| [General Catalyst](../by-sponsor/general-catalyst.md) | 1 | [Most likely to be the “Next Big Thing”](#general-catalyst-winners) |
+| [Google](../by-sponsor/google.md) | 1 | [Google, Inc.](#google-winners) |
+| [Intuit](../by-sponsor/intuit.md) | 1 | [API Innovation Award](#intuit-winners) |
+| [Jawbone](../by-sponsor/jawbone.md) | 1 | [For the best health hack](#jawbone-winners) |
+| [Kensho](../by-sponsor/kensho.md) | 1 | [Kenshō - Best Financial Data Hack](#kensho-winners) |
+| [Kleiner Perkins](../by-sponsor/kleiner-perkins.md) | 1 | [KPCB - KPCB Fellows Award](#kleiner-perkins-winners) |
+| [Meta](../by-sponsor/meta.md) | 1 | [Facebook](#meta-winners) |
+| [MongoDB](../by-sponsor/mongodb.md) | 1 | [MongoDB - Best Use of MongoDB](#mongodb-winners) |
+| [MoPub](../by-sponsor/mopub.md) | 1 | [Mobile Data Award](#mopub-winners) |
+| [Pinterest](../by-sponsor/pinterest.md) | 1 | [Pin It award](#pinterest-winners) |
+| [Sailthru](../by-sponsor/sailthru.md) | 1 | [Smart Data Challenge](#sailthru-winners) |
+| [SendGrid](../by-sponsor/sendgrid.md) | 1 | [Best use of SendGrid API Award](#sendgrid-winners) |
+| [Square](../by-sponsor/square.md) | 1 | [Square Inc. - Making Commerce Easy and Rounding the Corners](#square-winners) |
+| [Synaptics](../by-sponsor/synaptics.md) | 4 | [Synaptics, Inc. - Most Innovative project with Hover - 1st Prize; Synaptics, Inc. - Most Innovative project with…](#synaptics-winners) |
+| [Thiel Fellowship](../by-sponsor/thiel-fellowship.md) | 1 | [“Under 20” Hack Award](#thiel-fellowship-winners) |
+| [Twilio](../by-sponsor/twilio.md) | 1 | [Twilio API Award](#twilio-winners) |
+| [Twitter](../by-sponsor/twitter.md) | 1 | [Best user of Twitter](#twitter-winners) |
+| [Venmo](../by-sponsor/venmo.md) | 1 | [Makes Life So Easy](#venmo-winners) |
+| [Weather Underground](../by-sponsor/weather-underground.md) | 1 | [Best use of Weather Underground API Award](#weather-underground-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-gitfit"></a>
 
@@ -142,75 +146,15 @@ Built with twilio, android, arduino, electric-imp
 
 </details>
 
-<a name="project-balance"></a>
+## Winners by sponsor track
 
-### [Balance](https://devpost.com/software/balance)
+### Akamai winners
 
-[Intuit](../by-sponsor/intuit.md) · **API Innovation Award**
-
-A Pebble Smartwatch app which uses the Intuit Customer Account Data API to monitor the user's bank account balance and update it on the Pebble's screen as they buy things.
-
-[Code](https://github.com/ajwootto/Alerta)
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** No tags listed
-- **Code:** [Source 1](https://github.com/ajwootto/Alerta)
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Intuit - API Innovation Award
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-beaconviewer"></a>
-
-### [BeaconViewer](https://devpost.com/software/beaconviewer)
-
-[MoPub](../by-sponsor/mopub.md) · **Mobile Data Award**
-
-BeaconViewer and BeaconBroadcaster are iOS applications that utilize iOS7's new iBeacons feature to provide easy access and creation of supplemental information for physical items or events.
-
-Built with firebase, ios
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** firebase, ios
-- **Code:** None listed.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** MoPub - Mobile Data Award
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-cloudyday"></a>
-
-### [CloudyDay](https://devpost.com/software/cloudyday)
-
-[Twitter](../by-sponsor/twitter.md) · **Best user of Twitter**
-
-CloudyDay correlates the mood of the Twittersphere with precipitation patterns.
-
-Built with alchemyapi, weather-underground
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 1
-- **Built with:** alchemyapi, weather-underground
-- **Code:** None listed.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Twitter - Best user of Twitter
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best Use of Algorithms · [All Akamai winners](../by-sponsor/akamai.md)
 
 <a name="project-coeus"></a>
 
-### [Coeus](https://devpost.com/software/coeus)
+#### [Coeus](https://devpost.com/software/coeus)
 
 [Akamai](../by-sponsor/akamai.md) · **Best Use of Algorithms**
 
@@ -228,9 +172,45 @@ Coeus is real time, big data analysis of mobile data to produce organic trending
 
 </details>
 
+### AlchemyAPI winners
+
+**Track:** Best Use of AlchemyAPI Award · [All AlchemyAPI winners](../by-sponsor/alchemyapi.md)
+
+<a name="project-vidego"></a>
+
+#### [Vidego](https://devpost.com/software/vidego)
+
+[AlchemyAPI](../by-sponsor/alchemyapi.md) · **Best Use of AlchemyAPI Award**
+
+Vidego offers users the ability to perform text searches on the content of video files.
+
+[Demo video](https://www.youtube.com/watch?v=sXedTRAG5rU)
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** No tags listed
+- **Code:** None listed.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=sXedTRAG5rU)
+- **All prizes at this hackathon (1):** AlchemyAPI - Best Use of AlchemyAPI Award
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Amicus winners
+
+**Track:** What Does The Fox Say? Award · [All Amicus winners](../by-sponsor/amicus.md)
+
+Also won this track: [Sharity](#project-sharity) (listed above)
+
+### Bain Capital winners
+
+**Track:** Best Use of Machine Learning; Best Use of Data Visualization · [All Bain Capital winners](../by-sponsor/bain-capital.md)
+
 <a name="project-crest"></a>
 
-### [Crest](https://devpost.com/software/crest)
+#### [Crest](https://devpost.com/software/crest)
 
 [Bain Capital](../by-sponsor/bain-capital.md) · **Best Use of Machine Learning**
 
@@ -250,57 +230,45 @@ Built with firebase, sendgrid, venmo
 
 </details>
 
-<a name="project-gtavi"></a>
+<a name="project-spacebubbles"></a>
 
-### [GTAVI](https://devpost.com/software/gtavi)
+#### [SpaceBubbles](https://devpost.com/software/spacebubbles)
 
-[Google](../by-sponsor/google.md) · **Google, Inc.**
+[Bain Capital](../by-sponsor/bain-capital.md) · **Best Use of Data Visualization**
 
-The Devpost entry has no usable short project description.
+A tool that helps to turn web exploration into a truly social experience.
 
-Built with google-earth, weather-underground
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** google-earth, weather-underground
-- **Code:** None listed.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Google, Inc.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-hocus-hover-focus"></a>
-
-### [Hocus (Hover Focus)](https://devpost.com/software/hocus-hover-focus)
-
-[Synaptics](../by-sponsor/synaptics.md) · **Synaptics, Inc. - Most Innovative project with Hover - 1st Prize**
-
-This app aims to make taking pictures and video more intuitive.
-
-[Code](https://github.com/dianeyang/hackmit) · [Demo video](https://www.youtube.com/watch?v=pongityping)
+Built with d3.js, heroku, mongodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** No tags listed
-- **Code:** [Source 1](https://github.com/dianeyang/hackmit)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=pongityping)
-- **All prizes at this hackathon (1):** Synaptics, Inc. - Most Innovative project with Hover - 1st Prize
+- **Built with:** d3.js, heroku, mongodb
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Bain Capital: Best Use of Data Visualization
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
-<a name="project-impdatagame"></a>
+### Bloomberg winners
 
-### [ImpDataGame](https://devpost.com/software/impdatagame)
+**Track:** Best Use of the Bloomberg API · [All Bloomberg winners](../by-sponsor/bloomberg.md)
 
-[Sailthru](../by-sponsor/sailthru.md) · **Smart Data Challenge**
+Also won this track: [Rain Mann](#project-rain-mann) (listed above)
 
-Combines electric imp with big data provided by Sailthru to make a simple game where players try to predict which browser was more popular, given a location as a hint.
+### Constant Contact winners
+
+**Track:** Best use of Constant Contact API · [All Constant Contact winners](../by-sponsor/constant-contact.md)
+
+<a name="project-xcelmail"></a>
+
+#### [xcelmail](https://devpost.com/software/xcelmail)
+
+[Constant Contact](../by-sponsor/constant-contact.md) · **Best use of Constant Contact API**
+
+xcelmail may solve a lot of problems for commercial users of email services like Mailchimp, Constant Contact, Mandrill, SendGrid.
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -309,34 +277,18 @@ Combines electric imp with big data provided by Sailthru to make a simple game w
 - **Built with:** No tags listed
 - **Code:** None listed.
 - **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Sailthru - Smart Data Challenge
+- **All prizes at this hackathon (1):** Constant Contact - Best use of Constant Contact API
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
-<a name="project-lenovo-touchpad-3d-theremin"></a>
+### Firebase winners
 
-### [Lenovo Touchpad 3D Theremin](https://devpost.com/software/lenovo-touchpad-3d-theremin)
-
-[Synaptics](../by-sponsor/synaptics.md) · **Synaptics, Inc. - Most Innovative project with ForcePad - 2nd Prize**
-
-The group (RPIDeis) used the Synaptics Forcepad to create a theremin type instrument.
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** No tags listed
-- **Code:** None listed.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Synaptics, Inc. - Most Innovative project with ForcePad - 2nd Prize
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best use of Firebase · [All Firebase winners](../by-sponsor/firebase.md)
 
 <a name="project-lightboard"></a>
 
-### [Lightboard](https://devpost.com/software/lightboard)
+#### [Lightboard](https://devpost.com/software/lightboard)
 
 [Firebase](../by-sponsor/firebase.md) · **Best use of Firebase**
 
@@ -357,13 +309,23 @@ Turn on your phone's (flash) light and and use the handy touch controls to produ
 
 </details>
 
-<a name="project-news-neutrality"></a>
+### Fitbit winners
 
-### [News Neutrality](https://devpost.com/software/news-neutrality)
+**Track:** Fitbit Flex · [All Fitbit winners](../by-sponsor/fitbit.md)
 
-[MongoDB](../by-sponsor/mongodb.md) · **MongoDB - Best Use of MongoDB**
+Also won this track: [GitFit](#project-gitfit) (listed above)
 
-The team correlate this data with data regarding which sentences from each article are related and then attempt to generate a completely objective version of the article.
+### General Catalyst winners
+
+**Track:** Most likely to be the “Next Big Thing” · [All General Catalyst winners](../by-sponsor/general-catalyst.md)
+
+<a name="project-pivision"></a>
+
+#### [PiVision](https://devpost.com/software/pivision)
+
+[General Catalyst](../by-sponsor/general-catalyst.md) · **Most likely to be the “Next Big Thing”**
+
+Later, you can pull up the app and watch your recorded shows -- or you can AirPlay them or download them for later.
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -372,14 +334,106 @@ The team correlate this data with data regarding which sentences from each artic
 - **Built with:** No tags listed
 - **Code:** None listed.
 - **Demo video:** None listed.
-- **All prizes at this hackathon (1):** MongoDB - Best Use of MongoDB
+- **All prizes at this hackathon (2):** 3rd Place · General Catalyst - Most likely to be the “Next Big Thing”
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### Google winners
+
+**Track:** Google, Inc. · [All Google winners](../by-sponsor/google.md)
+
+<a name="project-gtavi"></a>
+
+#### [GTAVI](https://devpost.com/software/gtavi)
+
+[Google](../by-sponsor/google.md) · **Google, Inc.**
+
+The Devpost entry has no usable short project description.
+
+Built with google-earth, weather-underground
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** google-earth, weather-underground
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Google, Inc.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Intuit winners
+
+**Track:** API Innovation Award · [All Intuit winners](../by-sponsor/intuit.md)
+
+<a name="project-balance"></a>
+
+#### [Balance](https://devpost.com/software/balance)
+
+[Intuit](../by-sponsor/intuit.md) · **API Innovation Award**
+
+A Pebble Smartwatch app which uses the Intuit Customer Account Data API to monitor the user's bank account balance and update it on the Pebble's screen as they buy things.
+
+[Code](https://github.com/ajwootto/Alerta)
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** No tags listed
+- **Code:** [Source 1](https://github.com/ajwootto/Alerta)
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Intuit - API Innovation Award
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Jawbone winners
+
+**Track:** For the best health hack · [All Jawbone winners](../by-sponsor/jawbone.md)
+
+Also won this track: [GitFit](#project-gitfit) (listed above)
+
+### Kensho winners
+
+**Track:** Kenshō - Best Financial Data Hack · [All Kensho winners](../by-sponsor/kensho.md)
+
+Also won this track: [Rain Mann](#project-rain-mann) (listed above)
+
+### Kleiner Perkins winners
+
+**Track:** KPCB - KPCB Fellows Award · [All Kleiner Perkins winners](../by-sponsor/kleiner-perkins.md)
+
+<a name="project-pebble-go"></a>
+
+#### [Pebble Go](https://devpost.com/software/pebble-go)
+
+[Kleiner Perkins](../by-sponsor/kleiner-perkins.md) · **KPCB - KPCB Fellows Award**
+
+The team developed two applications that work together on the Android phone and the Pebble smartwatch.
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** No tags listed
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** KPCB - KPCB Fellows Award
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Meta winners
+
+**Track:** Facebook · [All Meta winners](../by-sponsor/meta.md)
+
 <a name="project-nextslide"></a>
 
-### [NextSlide](https://devpost.com/software/nextslide)
+#### [NextSlide](https://devpost.com/software/nextslide)
 
 [Meta](../by-sponsor/meta.md) · **Facebook**
 
@@ -399,52 +453,63 @@ An online collection and viewer of PowerPoint presentations for large events/con
 
 </details>
 
-<a name="project-nommit"></a>
+### MongoDB winners
 
-### [nommit](https://devpost.com/software/nommit)
+**Track:** MongoDB - Best Use of MongoDB · [All MongoDB winners](../by-sponsor/mongodb.md)
 
-[Venmo](../by-sponsor/venmo.md) · **Makes Life So Easy**
+<a name="project-news-neutrality"></a>
 
-Too busy or lazy to leave your spot but you want food NOW.
+#### [News Neutrality](https://devpost.com/software/news-neutrality)
 
-Built with venmo, firebase, google-maps, locu
+[MongoDB](../by-sponsor/mongodb.md) · **MongoDB - Best Use of MongoDB**
 
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** firebase, google-maps, locu, twilio, venmo
-- **Code:** None listed.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Venmo - Makes Life So Easy
-- **How it used Venmo:** The project lists venmo among its Built With tags.
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-pebble-go"></a>
-
-### [Pebble Go](https://devpost.com/software/pebble-go)
-
-[Kleiner Perkins](../by-sponsor/kleiner-perkins.md) · **KPCB - KPCB Fellows Award**
-
-The team developed two applications that work together on the Android phone and the Pebble smartwatch.
+The team correlate this data with data regarding which sentences from each article are related and then attempt to generate a completely objective version of the article.
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 2
+- **Team size:** 3
 - **Built with:** No tags listed
 - **Code:** None listed.
 - **Demo video:** None listed.
-- **All prizes at this hackathon (1):** KPCB - KPCB Fellows Award
+- **All prizes at this hackathon (1):** MongoDB - Best Use of MongoDB
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
+### MoPub winners
+
+**Track:** Mobile Data Award · [All MoPub winners](../by-sponsor/mopub.md)
+
+<a name="project-beaconviewer"></a>
+
+#### [BeaconViewer](https://devpost.com/software/beaconviewer)
+
+[MoPub](../by-sponsor/mopub.md) · **Mobile Data Award**
+
+BeaconViewer and BeaconBroadcaster are iOS applications that utilize iOS7's new iBeacons feature to provide easy access and creation of supplemental information for physical items or events.
+
+Built with firebase, ios
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 1
+- **Built with:** firebase, ios
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** MoPub - Mobile Data Award
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Pinterest winners
+
+**Track:** Pin It award · [All Pinterest winners](../by-sponsor/pinterest.md)
+
 <a name="project-pindb"></a>
 
-### [PinDB](https://devpost.com/software/pindb)
+#### [PinDB](https://devpost.com/software/pindb)
 
 [Pinterest](../by-sponsor/pinterest.md) · **Pin It award**
 
@@ -462,71 +527,37 @@ Utilizes Pinterest to catalog data for cloud computing.
 
 </details>
 
-<a name="project-pivision"></a>
+### Sailthru winners
 
-### [PiVision](https://devpost.com/software/pivision)
+**Track:** Smart Data Challenge · [All Sailthru winners](../by-sponsor/sailthru.md)
 
-[General Catalyst](../by-sponsor/general-catalyst.md) · **Most likely to be the “Next Big Thing”**
+<a name="project-impdatagame"></a>
 
-Later, you can pull up the app and watch your recorded shows -- or you can AirPlay them or download them for later.
+#### [ImpDataGame](https://devpost.com/software/impdatagame)
+
+[Sailthru](../by-sponsor/sailthru.md) · **Smart Data Challenge**
+
+Combines electric imp with big data provided by Sailthru to make a simple game where players try to predict which browser was more popular, given a location as a hint.
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 3
+- **Team size:** 1
 - **Built with:** No tags listed
 - **Code:** None listed.
 - **Demo video:** None listed.
-- **All prizes at this hackathon (2):** 3rd Place · General Catalyst - Most likely to be the “Next Big Thing”
+- **All prizes at this hackathon (1):** Sailthru - Smart Data Challenge
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
-<a name="project-restful-ships"></a>
+### SendGrid winners
 
-### [RESTful Ships](https://devpost.com/software/restful-ships)
-
-[Synaptics](../by-sponsor/synaptics.md) · **Synaptics, Inc. - Most Innovative project with Hover - 2nd Prize**
-
-RESTful Ships is an application that allows developers to hook into an exposed REST API to create whatever they wish within the context of the platform.
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 2
-- **Built with:** No tags listed
-- **Code:** None listed.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Synaptics, Inc. - Most Innovative project with Hover - 2nd Prize
-- **Checked on Devpost:** 2026-11-21
-
-</details>
-
-<a name="project-silkspeak"></a>
-
-### [Silkspeak](https://devpost.com/software/silkspeak)
-
-[Thiel Fellowship](../by-sponsor/thiel-fellowship.md) · **“Under 20” Hack Award**
-
-Silkspeak is a realtime speech analysis application that helps people improve their speaking skills.
-
-Built with css, heroku, html5, javascript
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 3
-- **Built with:** css, heroku, html5, javascript, jquery, ruby-on-rails, web, webapi, webrtc
-- **Code:** None listed.
-- **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Thiel Fellowship - “Under 20” Hack Award
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+**Track:** Best use of SendGrid API Award · [All SendGrid winners](../by-sponsor/sendgrid.md)
 
 <a name="project-social-security"></a>
 
-### [Social Security](https://devpost.com/software/social-security)
+#### [Social Security](https://devpost.com/software/social-security)
 
 [SendGrid](../by-sponsor/sendgrid.md) · **Best use of SendGrid API Award**
 
@@ -547,31 +578,81 @@ Built with sendgrid, alchemyapi, google-prediction, mongodb
 
 </details>
 
-<a name="project-spacebubbles"></a>
+### Square winners
 
-### [SpaceBubbles](https://devpost.com/software/spacebubbles)
+**Track:** Square Inc. - Making Commerce Easy and Rounding the Corners · [All Square winners](../by-sponsor/square.md)
 
-[Bain Capital](../by-sponsor/bain-capital.md) · **Best Use of Data Visualization**
+Also won this track: [Sharity](#project-sharity) (listed above)
 
-A tool that helps to turn web exploration into a truly social experience.
+### Synaptics winners
 
-Built with d3.js, heroku, mongodb
+**Track:** Synaptics, Inc. - Most Innovative project with Hover - 1st Prize; Synaptics, Inc. - Most Innovative project with ForcePad - 2nd Prize; Synaptics, Inc. - Most Innovative project with Hover - 2nd Prize; Synaptics, Inc. - Most Innovative project with ForcePad - 1st Prize · [All Synaptics winners](../by-sponsor/synaptics.md)
+
+<a name="project-hocus-hover-focus"></a>
+
+#### [Hocus (Hover Focus)](https://devpost.com/software/hocus-hover-focus)
+
+[Synaptics](../by-sponsor/synaptics.md) · **Synaptics, Inc. - Most Innovative project with Hover - 1st Prize**
+
+This app aims to make taking pictures and video more intuitive.
+
+[Code](https://github.com/dianeyang/hackmit) · [Demo video](https://www.youtube.com/watch?v=pongityping)
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** d3.js, heroku, mongodb
+- **Built with:** No tags listed
+- **Code:** [Source 1](https://github.com/dianeyang/hackmit)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=pongityping)
+- **All prizes at this hackathon (1):** Synaptics, Inc. - Most Innovative project with Hover - 1st Prize
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-lenovo-touchpad-3d-theremin"></a>
+
+#### [Lenovo Touchpad 3D Theremin](https://devpost.com/software/lenovo-touchpad-3d-theremin)
+
+[Synaptics](../by-sponsor/synaptics.md) · **Synaptics, Inc. - Most Innovative project with ForcePad - 2nd Prize**
+
+The group (RPIDeis) used the Synaptics Forcepad to create a theremin type instrument.
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** No tags listed
 - **Code:** None listed.
 - **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Bain Capital: Best Use of Data Visualization
+- **All prizes at this hackathon (1):** Synaptics, Inc. - Most Innovative project with ForcePad - 2nd Prize
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+<a name="project-restful-ships"></a>
+
+#### [RESTful Ships](https://devpost.com/software/restful-ships)
+
+[Synaptics](../by-sponsor/synaptics.md) · **Synaptics, Inc. - Most Innovative project with Hover - 2nd Prize**
+
+RESTful Ships is an application that allows developers to hook into an exposed REST API to create whatever they wish within the context of the platform.
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** No tags listed
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Synaptics, Inc. - Most Innovative project with Hover - 2nd Prize
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-touchbeat"></a>
 
-### [TouchBeat](https://devpost.com/software/touchbeat)
+#### [TouchBeat](https://devpost.com/software/touchbeat)
 
 [Synaptics](../by-sponsor/synaptics.md) · **Synaptics, Inc. - Most Innovative project with ForcePad - 1st Prize**
 
@@ -591,46 +672,95 @@ Use Synaptics ForcePad to play a rhythm game - not a mundane one but with slidin
 
 </details>
 
-<a name="project-vidego"></a>
+### Thiel Fellowship winners
 
-### [Vidego](https://devpost.com/software/vidego)
+**Track:** “Under 20” Hack Award · [All Thiel Fellowship winners](../by-sponsor/thiel-fellowship.md)
 
-[AlchemyAPI](../by-sponsor/alchemyapi.md) · **Best Use of AlchemyAPI Award**
+<a name="project-silkspeak"></a>
 
-Vidego offers users the ability to perform text searches on the content of video files.
+#### [Silkspeak](https://devpost.com/software/silkspeak)
 
-[Demo video](https://www.youtube.com/watch?v=sXedTRAG5rU)
+[Thiel Fellowship](../by-sponsor/thiel-fellowship.md) · **“Under 20” Hack Award**
+
+Silkspeak is a realtime speech analysis application that helps people improve their speaking skills.
+
+Built with css, heroku, html5, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 4
-- **Built with:** No tags listed
+- **Team size:** 3
+- **Built with:** css, heroku, html5, javascript, jquery, ruby-on-rails, web, webapi, webrtc
 - **Code:** None listed.
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=sXedTRAG5rU)
-- **All prizes at this hackathon (1):** AlchemyAPI - Best Use of AlchemyAPI Award
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Thiel Fellowship - “Under 20” Hack Award
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
-<a name="project-xcelmail"></a>
+### Twilio winners
 
-### [xcelmail](https://devpost.com/software/xcelmail)
+**Track:** Twilio API Award · [All Twilio winners](../by-sponsor/twilio.md)
 
-[Constant Contact](../by-sponsor/constant-contact.md) · **Best use of Constant Contact API**
+Also won this track: [Smart Window](#project-smart-window) (listed above)
 
-xcelmail may solve a lot of problems for commercial users of email services like Mailchimp, Constant Contact, Mandrill, SendGrid.
+### Twitter winners
+
+**Track:** Best user of Twitter · [All Twitter winners](../by-sponsor/twitter.md)
+
+<a name="project-cloudyday"></a>
+
+#### [CloudyDay](https://devpost.com/software/cloudyday)
+
+[Twitter](../by-sponsor/twitter.md) · **Best user of Twitter**
+
+CloudyDay correlates the mood of the Twittersphere with precipitation patterns.
+
+Built with alchemyapi, weather-underground
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
-- **Built with:** No tags listed
+- **Built with:** alchemyapi, weather-underground
 - **Code:** None listed.
 - **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Constant Contact - Best use of Constant Contact API
+- **All prizes at this hackathon (1):** Twitter - Best user of Twitter
 - **Checked on Devpost:** 2026-11-21
 
 </details>
+
+### Venmo winners
+
+**Track:** Makes Life So Easy · [All Venmo winners](../by-sponsor/venmo.md)
+
+<a name="project-nommit"></a>
+
+#### [nommit](https://devpost.com/software/nommit)
+
+[Venmo](../by-sponsor/venmo.md) · **Makes Life So Easy**
+
+Too busy or lazy to leave your spot but you want food NOW.
+
+Built with venmo, firebase, google-maps, locu
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** firebase, google-maps, locu, twilio, venmo
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Venmo - Makes Life So Easy
+- **How it used Venmo:** The project lists venmo among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Weather Underground winners
+
+**Track:** Best use of Weather Underground API Award · [All Weather Underground winners](../by-sponsor/weather-underground.md)
+
+Also won this track: [Smart Window](#project-smart-window) (listed above)
 
 [Back to top](#hackmit-2013)

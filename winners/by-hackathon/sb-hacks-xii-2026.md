@@ -4,6 +4,8 @@
 
 **9 winning projects** · 7 sponsors · 11 sponsor prizes · [Devpost gallery](https://sb-hacks-xii.devpost.com/project-gallery) · [Prize rules](https://sb-hacks-xii.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Won several sponsor prizes](#won-several-sponsor-prizes) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (7), deepgram (6), python (5), react (5), gemini (4)
@@ -15,19 +17,21 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [Deepgram](../by-sponsor/deepgram.md) | 3 | Deepgram API Challenge |
-| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | Best Use of ElevenLabs |
-| [Google](../by-sponsor/google.md) | 1 | Best Use of Gemini API |
-| [MongoDB](../by-sponsor/mongodb.md) | 1 | Best Use of MongoDB Atlas |
-| [Solana](../by-sponsor/solana.md) | 1 | Best Use of Solana |
-| [TwelveLabs](../by-sponsor/twelvelabs.md) | 3 | TwelveLabs API Challenge |
-| [Vultr](../by-sponsor/vultr.md) | 1 | Best Use of Vultr |
+| [Deepgram](../by-sponsor/deepgram.md) | 3 | [Deepgram API Challenge](#deepgram-winners) |
+| [ElevenLabs](../by-sponsor/elevenlabs.md) | 1 | [Best Use of ElevenLabs](#elevenlabs-winners) |
+| [Google](../by-sponsor/google.md) | 1 | [Best Use of Gemini API](#google-winners) |
+| [MongoDB](../by-sponsor/mongodb.md) | 1 | [Best Use of MongoDB Atlas](#mongodb-winners) |
+| [Solana](../by-sponsor/solana.md) | 1 | [Best Use of Solana](#solana-winners) |
+| [TwelveLabs](../by-sponsor/twelvelabs.md) | 3 | [TwelveLabs API Challenge](#twelvelabs-winners) |
+| [Vultr](../by-sponsor/vultr.md) | 1 | [Best Use of Vultr](#vultr-winners) |
 
-## Winning projects
+## Won several sponsor prizes
 
-Projects that won more than one sponsor prize come first.
+These projects won more than one prize here. Each one is listed once.
 
 <a name="project-dispatchiq-usn87o"></a>
 
@@ -77,32 +81,17 @@ Turn live conversations into a shared itinerary—maps, places, and bookings upd
 
 </details>
 
-<a name="project-ezpc"></a>
+## Winners by sponsor track
 
-### [Buildr](https://devpost.com/software/ezpc)
+### Deepgram winners
 
-[TwelveLabs](../by-sponsor/twelvelabs.md) · **TwelveLabs API Challenge**
+**Track:** Deepgram API Challenge · [All Deepgram winners](../by-sponsor/deepgram.md)
 
-PC building made easy — ask questions, identify parts, and build confidently.
-
-[Code](https://github.com/kevinwu098/buildr) · [Demo video](https://www.youtube.com/watch?v=lfB2SNkqhy4) · Built with twelvelabs, chatgpt, deepgram, lancedb
-
-<details>
-<summary>Team, all prizes and sponsor notes</summary>
-
-- **Team size:** 4
-- **Built with:** chatgpt, deepgram, lancedb, livekit, next.js, python, react, sam, twelvelabs, typescript, yolov11
-- **Code:** [Source 1](https://github.com/kevinwu098/buildr)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=lfB2SNkqhy4)
-- **All prizes at this hackathon (1):** TwelveLabs API Challenge
-- **How it used TwelveLabs:** PC Part data using data scraping (Firecrawl (PC Part Picker), TwelveLabs (YT)).
-- **Checked on Devpost:** 2026-11-21
-
-</details>
+Also won this track: [DispatchIQ](#project-dispatchiq-usn87o), [Nomad](#project-nomad-ha90qx) (listed above)
 
 <a name="project-cartify-10bjse"></a>
 
-### [Cartify](https://devpost.com/software/cartify-10bjse)
+#### [Cartify](https://devpost.com/software/cartify-10bjse)
 
 [Deepgram](../by-sponsor/deepgram.md) · **Deepgram API Challenge**
 
@@ -123,9 +112,13 @@ Cartify: Your AI voice assistant for personalized grocery lists and automated sh
 
 </details>
 
+### ElevenLabs winners
+
+**Track:** Best Use of ElevenLabs · [All ElevenLabs winners](../by-sponsor/elevenlabs.md)
+
 <a name="project-flow-8pgm1k"></a>
 
-### [flow.](https://devpost.com/software/flow-8pgm1k)
+#### [flow.](https://devpost.com/software/flow-8pgm1k)
 
 [ElevenLabs](../by-sponsor/elevenlabs.md) · **Best Use of ElevenLabs**
 
@@ -146,32 +139,75 @@ speak a concept, step inside it in 3d.
 
 </details>
 
-<a name="project-grademein"></a>
+### Google winners
 
-### [GradeMeIn](https://devpost.com/software/grademein)
+**Track:** Best Use of Gemini API · [All Google winners](../by-sponsor/google.md)
 
-[Vultr](../by-sponsor/vultr.md) · **Best Use of Vultr**
+Also won this track: [DispatchIQ](#project-dispatchiq-usn87o) (listed above)
 
-GradeMeIn uses a new method to detect AI plagiarism, it works through intelligent prompt mutation and then verification.
+### MongoDB winners
 
-[Code](https://github.com/SBHacks-26/lms-sbhacks) · [Demo video](https://www.youtube.com/watch?v=dgrnQoidl2A) · Built with vultr, cursor, deepgram, geminiapi
+**Track:** Best Use of MongoDB Atlas · [All MongoDB winners](../by-sponsor/mongodb.md)
+
+<a name="project-thrift-tinder"></a>
+
+#### [Thrift Tinder](https://devpost.com/software/thrift-tinder)
+
+[MongoDB](../by-sponsor/mongodb.md) · **Best Use of MongoDB Atlas**
+
+Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfect recs in minutes—not hours.
+
+[Code](https://github.com/trevordodge/sbhacks-project) · [Demo video](https://www.youtube.com/watch?v=_WCacm2iJ_s) · Built with mongodb-atlas, dart, flask, flutter
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** dart, flask, flutter, gemini-api, github, material3, mongodb-atlas, openai-api, python, webscraping
+- **Code:** [Source 1](https://github.com/trevordodge/sbhacks-project)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=_WCacm2iJ_s)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
+- **How it used MongoDB:** The project lists mongodb-atlas among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
+
+</details>
+
+### Solana winners
+
+**Track:** Best Use of Solana · [All Solana winners](../by-sponsor/solana.md)
+
+Also won this track: [Nomad](#project-nomad-ha90qx) (listed above)
+
+### TwelveLabs winners
+
+**Track:** TwelveLabs API Challenge · [All TwelveLabs winners](../by-sponsor/twelvelabs.md)
+
+<a name="project-ezpc"></a>
+
+#### [Buildr](https://devpost.com/software/ezpc)
+
+[TwelveLabs](../by-sponsor/twelvelabs.md) · **TwelveLabs API Challenge**
+
+PC building made easy — ask questions, identify parts, and build confidently.
+
+[Code](https://github.com/kevinwu098/buildr) · [Demo video](https://www.youtube.com/watch?v=lfB2SNkqhy4) · Built with twelvelabs, chatgpt, deepgram, lancedb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
-- **Built with:** cursor, deepgram, geminiapi, javascript, mongodb, mongoose, next.js, python, react, typescript, vultr
-- **Code:** [Source 1](https://github.com/SBHacks-26/lms-sbhacks)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=dgrnQoidl2A)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** The project lists vultr among its Built With tags.
+- **Built with:** chatgpt, deepgram, lancedb, livekit, next.js, python, react, sam, twelvelabs, typescript, yolov11
+- **Code:** [Source 1](https://github.com/kevinwu098/buildr)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=lfB2SNkqhy4)
+- **All prizes at this hackathon (1):** TwelveLabs API Challenge
+- **How it used TwelveLabs:** PC Part data using data scraping (Firecrawl (PC Part Picker), TwelveLabs (YT)).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-owngoal"></a>
 
-### [Owngoal](https://devpost.com/software/owngoal)
+#### [Owngoal](https://devpost.com/software/owngoal)
 
 [TwelveLabs](../by-sponsor/twelvelabs.md) · **TwelveLabs API Challenge**
 
@@ -194,7 +230,7 @@ Every fan watches the same basketball game, but for different moments. Some trac
 
 <a name="project-reel-to-real"></a>
 
-### [Reel-To-Real](https://devpost.com/software/reel-to-real)
+#### [Reel-To-Real](https://devpost.com/software/reel-to-real)
 
 [TwelveLabs](../by-sponsor/twelvelabs.md) · **TwelveLabs API Challenge**
 
@@ -215,25 +251,29 @@ Reel-To-Real is an end-to-end autonomous travel agent.
 
 </details>
 
-<a name="project-thrift-tinder"></a>
+### Vultr winners
 
-### [Thrift Tinder](https://devpost.com/software/thrift-tinder)
+**Track:** Best Use of Vultr · [All Vultr winners](../by-sponsor/vultr.md)
 
-[MongoDB](../by-sponsor/mongodb.md) · **Best Use of MongoDB Atlas**
+<a name="project-grademein"></a>
 
-Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfect recs in minutes—not hours.
+#### [GradeMeIn](https://devpost.com/software/grademein)
 
-[Code](https://github.com/trevordodge/sbhacks-project) · [Demo video](https://www.youtube.com/watch?v=_WCacm2iJ_s) · Built with mongodb-atlas, dart, flask, flutter
+[Vultr](../by-sponsor/vultr.md) · **Best Use of Vultr**
+
+GradeMeIn uses a new method to detect AI plagiarism, it works through intelligent prompt mutation and then verification.
+
+[Code](https://github.com/SBHacks-26/lms-sbhacks) · [Demo video](https://www.youtube.com/watch?v=dgrnQoidl2A) · Built with vultr, cursor, deepgram, geminiapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
-- **Team size:** 3
-- **Built with:** dart, flask, flutter, gemini-api, github, material3, mongodb-atlas, openai-api, python, webscraping
-- **Code:** [Source 1](https://github.com/trevordodge/sbhacks-project)
-- **Demo video:** [Video 1](https://www.youtube.com/watch?v=_WCacm2iJ_s)
-- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** The project lists mongodb-atlas among its Built With tags.
+- **Team size:** 4
+- **Built with:** cursor, deepgram, geminiapi, javascript, mongodb, mongoose, next.js, python, react, typescript, vultr
+- **Code:** [Source 1](https://github.com/SBHacks-26/lms-sbhacks)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=dgrnQoidl2A)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
+- **How it used Vultr:** The project lists vultr among its Built With tags.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

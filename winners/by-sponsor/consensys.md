@@ -4,6 +4,8 @@
 
 **1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=ConsenSys)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2017 winners](#2017-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** ethereum (1), metamask (1), node.js (1), solidity (1), truffle (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2017 winners
 
 ### [DecentPass](https://devpost.com/software/decentralized-password-manager)
 

@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Infosys)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** arkit (1), autogen (1), chromadb (1), cloudflare-pages (1), cloudflare-workers-ai (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [Halo](https://devpost.com/software/halo-2syeh9)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 Augmenting ordinary people into heroic responders by giving them the knowledge, confidence &amp; clarity to save lives.
 
 [Code](https://github.com/Harpith2/Halo) · Built with arkit, chromadb, cloudflare-pages, cloudflare-workers-ai
+
+## 2024 winners
 
 ### [InvestIQ](https://devpost.com/software/investiq-1b0cio)
 

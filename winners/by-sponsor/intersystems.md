@@ -4,6 +4,8 @@
 
 **5 winning projects** · 2 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=InterSystems)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (3), intersystems (2), javascript (2), react (2), arduino (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [BAS Climate Action Matcher](https://devpost.com/software/bas-climate-action-matcher)
 
@@ -32,6 +32,8 @@ A tool to match companies to relevant climate actions. Embedding search to find 
 Adaptive Learning Content Generation for Students with Disabilities.
 
 [Code](https://github.com/airjlee/superclassroom) · [Demo video](https://www.youtube.com/watch?v=2CCohCdx4zk) · Built with intersystems, iris, mistral, rag
+
+## 2024 winners
 
 ### [ANGEL'S PROTECTION](https://devpost.com/software/angel-s-protection)
 

@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 sponsors · 2 sponsor prizes · [Devpost gallery](https://hackduke-code-for-good-2025.devpost.com/project-gallery) · [Prize rules](https://hackduke-code-for-good-2025.devpost.com/)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [Sponsor tracks](#sponsor-tracks) · [Winners by sponsor track](#winners-by-sponsor-track)
+
 ## What winners have in common
 
 - **Most used tech:** python (2), altair (1), google-maps (1), numpy (1), openai (1)
@@ -15,18 +17,22 @@
 
 ## Sponsor tracks
 
+Pick a track to jump to its winners on this page.
+
 | Sponsor | Winners | Track |
 | --- | --- | --- |
-| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 1 | Best Domain Name from GoDaddy Registry |
-| [Streamlit](../by-sponsor/streamlit.md) | 1 | Best Use of Streamlit |
+| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 1 | [Best Domain Name from GoDaddy Registry](#godaddy-registry-winners) |
+| [Streamlit](../by-sponsor/streamlit.md) | 1 | [Best Use of Streamlit](#streamlit-winners) |
 
-## Winning projects
+## Winners by sponsor track
 
-Projects that won more than one sponsor prize come first.
+### GoDaddy Registry winners
+
+**Track:** Best Domain Name from GoDaddy Registry · [All GoDaddy Registry winners](../by-sponsor/godaddy-registry.md)
 
 <a name="project-arsh-likes-rockets"></a>
 
-### [SunlightSavings](https://devpost.com/software/arsh-likes-rockets)
+#### [SunlightSavings](https://devpost.com/software/arsh-likes-rockets)
 
 [GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name from GoDaddy Registry**
 
@@ -46,9 +52,13 @@ SunlightSavings is a sophisticated yet user-friendly tool that empowers users to
 
 </details>
 
+### Streamlit winners
+
+**Track:** Best Use of Streamlit · [All Streamlit winners](../by-sponsor/streamlit.md)
+
 <a name="project-wildfires-c0pfv1"></a>
 
-### [Wildfires](https://devpost.com/software/wildfires-c0pfv1)
+#### [Wildfires](https://devpost.com/software/wildfires-c0pfv1)
 
 [Streamlit](../by-sponsor/streamlit.md) · **Best Use of Streamlit**
 

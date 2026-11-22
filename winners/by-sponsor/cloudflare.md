@@ -4,6 +4,8 @@
 
 **14 winning projects** · 14 hackathons · 14 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Cloudflare)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** cloudflare (11), python (8), react (7), javascript (5), typescript (5)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [4sight](https://devpost.com/software/4sight-neoslb)
 
@@ -34,6 +34,8 @@ Play a game, shop for the party, or book an entire trip end to end. Whim puts cu
 **How it used Cloudflare:** The team built Whim on Cloudflare Workers, with a Durable Object for each chat to maintain its conversation history, preferences, and plan state.
 
 [Code](https://github.com/chang-07/htn-26) · [Demo video](https://www.youtube.com/watch?v=5nbMa-0Q6Io) · Built with cloudflare-d1, cloudflare-durable-objects, cloudflare-vectorize, cloudflare-workers
+
+## 2025 winners
 
 ### [CompOnion](https://devpost.com/software/componion-7bpaxc)
 
@@ -106,6 +108,8 @@ Instant, data-driven race strategy suggestions for teams.
 **How it used Cloudflare:** This is deployed using Terraform to Cloudflare Workers .
 
 [Code](https://github.com/phamleduy04/hacktx-25) · [Demo video](https://www.youtube.com/watch?v=4SxP2n9fwpM) · Built with convex, digitalocean, flask, python
+
+## 2024 winners
 
 ### [Backtracc](https://devpost.com/software/project-cd41lvjbiorw)
 

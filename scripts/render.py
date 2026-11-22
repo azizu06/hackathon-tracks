@@ -325,13 +325,13 @@ def entry_details(entries):
     return details("Team, all prizes and sponsor notes", body)
 
 
-def project_entry(entries, context):
+def project_entry(entries, context, level=3):
     """One project at one hackathon. context is sponsor, event or topic."""
     row = entries[0]
     lines = []
     if context == "event":
         lines += [f'<a name="{project_anchor(row)}"></a>', ""]
-    lines += [f'### [{md(row["project"])}]({row["url"]})', ""]
+    lines += [f'{"#" * level} [{md(row["project"])}]({row["url"]})', ""]
     awards = [f'{sponsor_link(item["sponsor"], "../")} · {prize_text(item)}' for item in entries]
     if context == "sponsor":
         prize_line = edition_link(row, "../", anchor=True) + " · " + " · ".join(prize_text(item) for item in entries)
@@ -350,6 +350,24 @@ def project_entry(entries, context):
     if context == "event":
         lines += [*entry_details(entries), ""]
     return lines
+
+
+def year_sections(rows, context):
+    """Project entries grouped under one heading per year, newest first."""
+    lines = []
+    for year in sorted({row["year"] for row in rows}, reverse=True):
+        lines += [f"## {year} winners", ""]
+        for entries in sorted_projects([row for row in rows if row["year"] == year]):
+            lines += project_entry(entries, context)
+    return lines
+
+
+def year_labels(rows):
+    return [f"{year} winners" for year in sorted({row["year"] for row in rows}, reverse=True)]
+
+
+def track_heading(sponsor):
+    return "Other prizes" if sponsor == OTHER_SPONSOR else f"{sponsor} winners"
 
 
 def sorted_projects(rows, newest_first=True):
@@ -452,6 +470,15 @@ def topics_page(rows):
         for tag in {tag.casefold() for tag in entries[0]["built_with"]}:
             tech_rows[tag].extend(entries)
     top_tech = common_tech(rows)[:40]
+    tech_blocks = []
+    for start in range(0, len(top_tech), 10):
+        block = top_tech[start:start + 10]
+        title = "Top 10" if start == 0 else f"{start + 1} to {start + len(block)}"
+        tech_blocks += [f"### {title}", "", *data_table(["Tech", "Winning projects", "Top sponsors"], (
+            (f"[{md(label)}]({site_link(tech=label.casefold())})", f"{count:,}",
+             top_sponsors(tech_rows[label.casefold()], 3, "winners/"))
+            for label, count in block
+        )), ""]
     return [
         breadcrumb("[Hackathon Tracks](README.md)", "Tech and project types"), "",
         "# Tech and project types", "",
@@ -463,11 +490,7 @@ def topics_page(rows):
         "## Demo formats", "", *topic_table(groups, "format"), "",
         "## Most used tech", "",
         "Each tech opens the site with that filter applied.", "",
-        *data_table(["Tech", "Winning projects", "Top sponsors"], (
-            (f"[{md(label)}]({site_link(tech=label.casefold())})", f"{count:,}",
-             top_sponsors(tech_rows[label.casefold()], 3, "winners/"))
-            for label, count in top_tech
-        )), "",
+        *tech_blocks,
         "[Back to top](#tech-and-project-types)",
     ]
 
@@ -559,24 +582,51 @@ def render_event(path, rows):
     if row["rules_url"]:
         links.append(f'[Prize rules]({row["rules_url"]})')
     named = sponsors.keys() - {OTHER_SPONSOR}
+    ordered = sorted(sponsors.items(), key=lambda item: (item[0] == OTHER_SPONSOR, item[0].casefold()))
+    projects = sorted_projects(rows, newest_first=False)
+    several = [entries for entries in projects if len(entries) > 1]
+    single = [entries for entries in projects if len(entries) == 1]
+    jumps = ["What winners have in common", "Sponsor tracks"]
+    jumps += ["Won several sponsor prizes"] if several else []
+    jumps += ["Winners by sponsor track"]
     lines = [
         *page_header(
             ["[Hackathons](../../HACKATHONS.md)", md(event_name(row))], md(event_name(row)),
             f"**{plural(len(groups), 'winning project')}** · {plural(len(named), 'sponsor')} · "
             f"{plural(len(rows), 'sponsor prize')}", links,
         ),
+        jump_bar(jumps), "",
         *common_patterns(rows), "",
         "## Sponsor tracks", "",
+        "Pick a track to jump to its winners on this page.", "",
         *data_table(["Sponsor", "Winners", "Track"], (
             (sponsor_link(name, "../"), winner_count(entries),
-             compact("; ".join(dict.fromkeys(short_prize(item) for item in entries)), 120))
-            for name, entries in sorted(sponsors.items(), key=lambda item: (item[0] == OTHER_SPONSOR, item[0].casefold()))
+             f'[{compact("; ".join(dict.fromkeys(short_prize(item) for item in entries)), 120)}]'
+             f'(#{heading_anchor(track_heading(name))})')
+            for name, entries in ordered
         )), "",
-        "## Winning projects", "",
-        "Projects that won more than one sponsor prize come first.", "",
     ]
-    for entries in sorted_projects(rows, newest_first=False):
-        lines += project_entry(entries, "event")
+    if several:
+        lines += [
+            "## Won several sponsor prizes", "",
+            "These projects won more than one prize here. Each one is listed once.", "",
+        ]
+        for entries in several:
+            lines += project_entry(entries, "event")
+    lines += ["## Winners by sponsor track", ""]
+    for name, entries in ordered:
+        lines += [f"### {md(track_heading(name))}", ""]
+        tracks = "; ".join(dict.fromkeys(md(short_prize(item)) for item in entries))
+        lines += [f"**Track:** {tracks} · [All {md(name)} winners](../by-sponsor/{slugify(name)}.md)"
+                  if name != OTHER_SPONSOR else f"**Prizes:** {tracks}", ""]
+        repeat = [group for group in several if any(item["sponsor"] == name for item in group)]
+        if repeat:
+            lines += ["Also won this track: " + ", ".join(
+                f'[{md(group[0]["project"])}](#{project_anchor(group[0])})' for group in repeat
+            ) + " (listed above)", ""]
+        for group in single:
+            if group[0]["sponsor"] == name:
+                lines += project_entry(group, "event", level=4)
     lines += ["[Back to top](#" + heading_anchor(event_name(row)) + ")"]
     write_lines(path, lines)
 
@@ -595,13 +645,9 @@ def render_sponsor(path, sponsor, rows):
             f"{plural(len(rows), 'prize')}", extra,
         ),
         *notes,
+        jump_bar(["What winners have in common", *year_labels(rows), "Track names and requirements"]), "",
         *common_patterns(rows), "",
-        "## Winning projects", "",
-        "Newest hackathons first.", "",
-    ]
-    for entries in sorted_projects(rows):
-        lines += project_entry(entries, "sponsor")
-    lines += [
+        *year_sections(rows, "sponsor"),
         "## Track names and requirements", "",
         *details("Show the exact Devpost track names, required tech and rule sources", data_table(
             ["Hackathon", "Track name on Devpost", "Required tech or brief", "Source"],
@@ -629,13 +675,11 @@ def render_topic(path, name, kind, rows):
             f"**{plural(winner_count(rows), 'winning project')}** · {plural(hackathon_count(rows), 'hackathon')}",
         ),
         note, "",
+        jump_bar(["What winners have in common", *year_labels(rows)]), "",
         *common_patterns(rows), "",
-        "## Winning projects", "",
-        "Newest hackathons first.", "",
+        *year_sections(rows, "topic"),
+        "[Back to top](#" + heading_anchor(name) + ")",
     ]
-    for entries in sorted_projects(rows):
-        lines += project_entry(entries, "topic")
-    lines += ["[Back to top](#" + heading_anchor(name) + ")"]
     write_lines(path, lines)
 
 

@@ -4,6 +4,8 @@
 
 **10 winning projects** · 7 hackathons · 10 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Databricks)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (7), databricks (6), fastapi (5), react (5), html (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Bin-It](https://devpost.com/software/bin-it-yg2xb7)
 
@@ -61,6 +61,8 @@ A gym app uses phone-based exercise feedback to help people learn proper form.
 
 [Code](https://github.com/Del0m/KnightHacks2026) · [Demo video](https://www.youtube.com/watch?v=PPEBBCLeCrA) · Built with databricks, chatgpt, cv, expo.io
 
+## 2025 winners
+
 ### [CourseIntelligence](https://devpost.com/software/courseinteligence)
 
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-courseinteligence) · **Best Use of Databricks**
@@ -68,6 +70,8 @@ A gym app uses phone-based exercise feedback to help people learn proper form.
 The team describes the project as “Making academic and professional lives easier for students around the world! Our project scrapes community data to provide students with valuable information to simplify the course…
 
 [Code](https://github.com/SultanAlzoghaibi/Hack-the-North-2025) · Built with databricks, css, html, llama
+
+## 2024 winners
 
 ### [BrainBeatReal](https://devpost.com/software/heartbeatreal)
 

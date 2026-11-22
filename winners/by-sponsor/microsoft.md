@@ -4,6 +4,8 @@
 
 **15 winning projects** · 8 hackathons · 15 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Microsoft)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2017 winners](#2017-winners) · [2016 winners](#2016-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (9), react (7), typescript (7), javascript (6), gemini (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [AccountableAI](https://devpost.com/software/accountableai)
 
@@ -57,6 +57,8 @@ An emergency response dashboard helps teams coordinate mass evacuation and ident
 
 [Code](https://github.com/Imhaohao/Standard-Response) · [Demo video](https://www.youtube.com/watch?v=eNsAGHFnFJY) · Built with anthropic, apify, cartesia, claude
 
+## 2025 winners
+
 ### [Ctrl-ARM](https://devpost.com/software/ctrl-arm)
 
 [ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-ctrl-arm) · **Microsoft**
@@ -80,6 +82,8 @@ A web-app developed to help prep students for their technical interviews through
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
 [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
+
+## 2024 winners
 
 ### [Around the World in 70 Frames](https://devpost.com/software/around-the-world-in-70-frames)
 
@@ -105,6 +109,8 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 
 [Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
 
+## 2019 winners
+
 ### [Extend a H.A.N.D.](https://devpost.com/software/extend-a-h-a-n-d)
 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-extend-a-h-a-n-d) · **Microsoft Azure Champ Prize - Hack for Good**
@@ -115,6 +121,8 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 
 Built with amazon-dynamodb, amazon-web-services, aws-api-gateway, azure
 
+## 2018 winners
+
 ### [Lotus Journal](https://devpost.com/software/bananaexpress)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-bananaexpress) · **Azure Champ**
@@ -123,6 +131,8 @@ A self-writing journal of your life, with superpowers.
 
 Built with javascript, jupyter-notebook, keras, node.js
 
+## 2017 winners
+
 ### [Pure Interaction](https://devpost.com/software/pure-interact)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-pure-interact) · **Sponsor Prize - Microsoft - Best Microsoft Hack**
@@ -130,6 +140,8 @@ Built with javascript, jupyter-notebook, keras, node.js
 Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Learning.
 
 [Code](https://github.com/96imranahmed/pure-interaction) · Built with cntk, css3, html5, javascript
+
+## 2016 winners
 
 ### [Gaze](https://devpost.com/software/gaze-09xkmb)
 

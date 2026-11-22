@@ -4,6 +4,8 @@
 
 **2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Peraton)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (2), anthropic-claude-api-(claude-sonnet-4-6) (1), beautifulsoup4 (1), celestrak-gp-api (1), celestrak-socrates-api (1)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Apsora Brief](https://devpost.com/software/oribital-breif)
 
@@ -24,6 +24,8 @@ Newest hackathons first.
 Real-time satellite collision risk dashboard that ingests live conjunction screening data, ranks close-approach events by actual danger, and delivers briefings so operators know what to act on.
 
 [Code](https://github.com/po-aditya/Apsora-Brief) · [Demo video](https://www.youtube.com/watch?v=OPAUEUN1UG4) · Built with anthropic-claude-api-(claude-sonnet-4-6), beautifulsoup4, celestrak-gp-api, celestrak-socrates-api
+
+## 2025 winners
 
 ### [CookHub](https://devpost.com/software/cookhub)
 

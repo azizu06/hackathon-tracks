@@ -4,6 +4,8 @@
 
 **9 winning projects** · 5 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Defang)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** react (7), defang (5), javascript (5), python (5), node.js (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2025 winners
 
 ### [HeartTalk](https://devpost.com/software/hearttalk)
 
@@ -42,6 +42,8 @@ A group sleep scheduling app that combines accountability and competition to bui
 **How it used Defang:** The team also used the Defang CLI to deploy the backend service to the cloud and Postman to test the backend service APIs.
 
 [Code](https://github.com/terwo/snuz) · Built with expo.io, fast-api, figma, pytorch
+
+## 2024 winners
 
 ### [FIU Financial Education - Scholarship Plug](https://devpost.com/software/financial-education-for-women-at-fiu)
 

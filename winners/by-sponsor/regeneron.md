@@ -4,6 +4,8 @@
 
 **24 winning projects** · 2 hackathons · 24 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Regeneron)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (21), react (12), typescript (12), fastapi (8), javascript (8)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [ClearPath](https://devpost.com/software/clear-path-35iu8q)
 
@@ -106,6 +106,8 @@ TrialPilot helps teams compare clinical trial designs across cost, site workload
 **How it used Regeneron:** The built-in trial library uses public ClinicalTrials.gov records of trials of Regeneron medicines.
 
 [Code](https://github.com/KryptonNii/YANZHENG_NI_HACKHARVARD2026) · [Demo video](https://www.youtube.com/watch?v=KLeeAnTy4M8) · Built with c++, claude, grox, json
+
+## 2025 winners
 
 ### [Cura](https://devpost.com/software/cura-kthowx)
 

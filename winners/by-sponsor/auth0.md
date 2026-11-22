@@ -4,6 +4,8 @@
 
 **11 winning projects** · 10 hackathons · 11 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Auth0)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** auth0 (7), gemini (5), python (4), javascript (3), mongodb (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Aladin](https://devpost.com/software/aladin-fkpz0h)
 
@@ -52,6 +52,8 @@ GhostKode uses your Git history to identify the most unstable lines in your code
 The team describes the project as “StandIn on Business”.
 
 [Code](https://github.com/Boroshilov03/StandIn) · [Demo video](https://vimeo.com/1186688249) · Built with auth0, asusgx10, fetch.ai, gemini
+
+## 2025 winners
 
 ### [HarmoniQ](https://devpost.com/software/x-yiqm81)
 
@@ -96,6 +98,8 @@ AI Agents for Simulated Market Research.
 **How it used Auth0:** Multi-Tenant Isolation Each user's workspace is completely isolated using Auth0's tenant features.
 
 [Code](https://github.com/krish1905/tunnel) · [Demo video](https://www.youtube.com/watch?v=d6M5oSDxqxw) · Built with auth0, cloudflare, cohere, dagre
+
+## 2024 winners
 
 ### [StudySync](https://devpost.com/software/studying-with-hack-the-north)
 

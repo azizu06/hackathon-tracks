@@ -4,6 +4,8 @@
 
 **16 winning projects** · 15 hackathons · 16 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Warp)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [2024 winners](#2024-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** typescript (9), python (8), react (5), gemini (4), next.js (4)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [ARDB: AR Debugger](https://devpost.com/software/ardb)
 
@@ -42,6 +42,8 @@ A software development tool compares solutions created by competing coding agent
 A code research tool indexes commit history so developers can search for earlier decisions.
 
 [Code](https://github.com/OM200401/nwHacks-2026) · Built with 1password, cortex, fastapi, gemini
+
+## 2025 winners
 
 ### [CodeFusion](https://devpost.com/software/codefusion-v9eq2x)
 
@@ -100,6 +102,8 @@ A planning tool turns a written software idea into an editable architecture grap
 A terminal search tool runs user-defined commands against selected databases.
 
 [Code](https://github.com/zhangLily2020/nwhacks2025) · Built with warp, chromadb, python, rich
+
+## 2024 winners
 
 ### [APIcasso](https://devpost.com/software/apicasso)
 

@@ -4,6 +4,8 @@
 
 **6 winning projects** · 4 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Kensho)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2019 winners](#2019-winners) · [2018 winners](#2018-winners) · [2016 winners](#2016-winners) · [2013 winners](#2013-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** python (4), html (3), node.js (3), angular.js (2), css (2)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2019 winners
 
 ### [1DB: One Database to rule them all](https://devpost.com/software/1db)
 
@@ -33,6 +33,8 @@ The team strip the noise in raw data to find the important trends and present th
 
 [Code](https://github.com/kdu4108/hackmit19) · Built with ford, html, javascript, openxc
 
+## 2018 winners
+
 ### [Nemo: NLP for real-time data-focused video annotations](https://devpost.com/software/nemo-ox50e9)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-nemo-ox50e9) · **Best Use of Kensho Knowledge Graph API**
@@ -40,6 +42,8 @@ The team strip the noise in raw data to find the important trends and present th
 A natural language processing framework for collecting data and statistics relevant to a video or audio input.
 
 [Code](https://github.com/shiftsayan/nemo) · Built with angular.js, flask, machine-learning, mathematica
+
+## 2016 winners
 
 ### [AskTheCandidates](https://devpost.com/software/askthecandidates)
 
@@ -56,6 +60,8 @@ Finally ask Donald Trump and Hillary Clinton your burning questions - the catch 
 Determine which candidate to vote for by throwing away your pre-conceived notions – using the art of xkcd.
 
 [Code](https://github.com/exsmiley/xkcd-for-america) · Built with angular.js, css, firebase, gensim
+
+## 2013 winners
 
 ### [Rain Mann](https://devpost.com/software/rain-mann)
 

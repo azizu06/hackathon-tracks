@@ -4,6 +4,8 @@
 
 **8 winning projects** · 3 hackathons · 8 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=OpenAI)
 
+**Jump to:** [What winners have in common](#what-winners-have-in-common) · [2026 winners](#2026-winners) · [2025 winners](#2025-winners) · [Track names and requirements](#track-names-and-requirements)
+
 ## What winners have in common
 
 - **Most used tech:** openai (5), python (4), codex (3), perplexity (3), typescript (3)
@@ -13,9 +15,7 @@
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Winning projects
-
-Newest hackathons first.
+## 2026 winners
 
 ### [Aircade](https://devpost.com/software/aircade-m4n6zv)
 
@@ -72,6 +72,8 @@ Orbis turns an ordinary video into a 3D world you can explore.
 A programming environment gives blind developers an accessible way to write and navigate code.
 
 [Code](https://github.com/ledaniel0/treehacks2026) · [Demo video](https://www.youtube.com/watch?v=aL9MrpwJXOA) · Built with agentverse, elasticsearch, electron, langgraph
+
+## 2025 winners
 
 ### [Fable](https://devpost.com/software/fable-br8e1d)
 
