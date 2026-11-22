@@ -23,7 +23,7 @@
 
 A building safety prototype combines live sensors, evacuation planning, and operator approval in one dashboard.
 
-**Convex:** Built with convex (listed on Devpost)
+**How it used Convex:** The board talks to Convex directly.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, anthropic, arduino
 

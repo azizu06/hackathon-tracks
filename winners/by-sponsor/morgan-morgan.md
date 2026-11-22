@@ -33,7 +33,7 @@ AI Legal Tender transforms messy legal data into structured, cited intelligence 
 
 PowerLegal is a sophisticated multi-agent legal case management system that coordinates 3 specialized AI agents:.
 
-**How it used Morgan &amp; Morgan:** Sponsor use not stated on Devpost
+**Award:** Won “Morgan &amp; Morgan: AI Legal Tender Challenge” from Morgan &amp; Morgan. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Kavipatel0/KnightHacks) · [Demo video](https://www.youtube.com/watch?v=SRItaUWZ1nc) · Built with adk, gemini, next.js, openai
 
@@ -43,7 +43,7 @@ PowerLegal is a sophisticated multi-agent legal case management system that coor
 
 Simply Law automates the legal workflow with AI agents that extract key information, draft client responses, and streamline case management empowering attorneys to focus on strategy, not paperwork.
 
-**How it used Morgan &amp; Morgan:** Sponsor use not stated on Devpost
+**Award:** Won “Morgan &amp; Morgan: AI Legal Tender Challenge” from Morgan &amp; Morgan. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ballinyouup/morgan-ai-sdk) · [Demo video](https://www.youtube.com/watch?v=-925V5YOfWs) · Built with fastapi, google-adk, google-gemini, next.js
 

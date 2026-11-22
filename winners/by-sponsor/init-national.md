@@ -23,7 +23,7 @@
 
 benchlog brings version control to hardware.
 
-**How it used INIT National:** Sponsor use not stated on Devpost
+**Award:** Won “INIT National” from INIT National. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Jrodd1203/benchlog) · [Demo video](https://www.youtube.com/watch?v=BhbKYBc4kMM) · Built with aruco, c++, computervision, esp32
 
@@ -33,7 +33,7 @@ benchlog brings version control to hardware.
 
 Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern" with scope locking, visual system topology, and sprint tracking to take teams from zero to a live Devpost demo.
 
-**How it used INIT National:** Sponsor use not stated on Devpost
+**Award:** Won “INIT National” from INIT National. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
 

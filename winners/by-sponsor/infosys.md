@@ -23,7 +23,7 @@
 
 Augmenting ordinary people into heroic responders by giving them the knowledge, confidence &amp; clarity to save lives.
 
-**How it used Infosys:** Sponsor use not stated on Devpost
+**Award:** Won “Infosys Human Augmentation Track Prize” from Infosys. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Harpith2/Halo) · Built with arkit, chromadb, cloudflare-pages, cloudflare-workers-ai
 
@@ -35,7 +35,7 @@ Augmenting ordinary people into heroic responders by giving them the knowledge, 
 
 InvestIQ simplifies investing for everyone, offering real-time insights, educational chatbot support, and custom algorithm creation—no coding needed. Learn, test, and invest confidently.
 
-**How it used Infosys:** Sponsor use not stated on Devpost
+**Award:** Won “Infosys” from Infosys. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/krish-shar/InvestIQ) · [Demo video](https://www.youtube.com/watch?v=LAvZvJE8MMA) · Built with autogen, cohere, flask, next.js
 

@@ -23,7 +23,7 @@
 
 The team experimented with different NLP architectures and fine-tuning strategies to ensure the accuracy and efficiency of the model while still being robust and lightweight.
 
-**How it used Bloomberg Industry Group:** Sponsor use not stated on Devpost
+**Award:** Won “Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group” from Bloomberg Industry Group. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/TylerK4832/ContractScope) · [Demo video](https://www.youtube.com/watch?v=_HmigEf25Q4) · Built with amazon-dynamodb, amazon-web-services, beautiful-soup, eventbridge
 

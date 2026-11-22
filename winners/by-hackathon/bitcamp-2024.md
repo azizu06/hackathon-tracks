@@ -58,7 +58,7 @@ Vistra puts the power in the EYES of the user.
 - **Code:** [Source 1](https://github.com/ahere84/Vistra-Smart-Mirror)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wjHxAu6g3js)
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **How it used Bloomberg:** Sponsor use not stated on Devpost
+- **Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -85,7 +85,7 @@ The team experimented with different NLP architectures and fine-tuning strategie
 - **Code:** [Source 1](https://github.com/TylerK4832/ContractScope)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_HmigEf25Q4)
 - **All prizes at this hackathon (1):** Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group
-- **How it used Bloomberg Industry Group:** Sponsor use not stated on Devpost
+- **Award:** Won “Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group” from Bloomberg Industry Group. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -139,7 +139,7 @@ The app records audio secretly, and, using a deep-learning ML model, transcribes
 - **Code:** [Source 1](https://github.com/3752V/KeyCatchAI) · [Source 2](https://github.com/V-Coding/Bitcamp2024)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech
-- **How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -166,7 +166,7 @@ Copilot for support fieldOps teams to aid reconstruction of the Francis Scott Ke
 - **Code:** [Source 1](https://github.com/urstrulykkr/BuildKey-AI)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce
-- **How it used Cloudforce:** Sponsor use not stated on Devpost
+- **Award:** Won “Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce” from Cloudforce. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -189,7 +189,7 @@ Using AI/ML to enhance rescuing and rebuilding processes after a disaster.
 - **Code:** [Source 1](https://github.com/NSP909/cmdfmydebris)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce
-- **How it used Cloudforce:** Sponsor use not stated on Devpost
+- **Award:** Won “Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce” from Cloudforce. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -212,7 +212,7 @@ No public code linked · Built with azure, javascript, next.js, node.js
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce
-- **How it used Cloudforce:** Sponsor use not stated on Devpost
+- **Award:** Won “Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce” from Cloudforce. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -239,7 +239,7 @@ The web application allows a user to understand the prevalence of certain natura
 - **Code:** [Source 1](https://github.com/jasonyih/BitcampBackend) · [Source 2](https://github.com/madelineanson/Bitcamp-Brawlers)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of APIs related to Housing/Climate Change - Fannie Mae
-- **How it used Fannie Mae:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -262,7 +262,7 @@ Insights for Tomorrow: Navigating Climate Challenges with Data.
 - **Code:** [Source 1](https://github.com/amantalreja/Fannnie-Mae-Challenge)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of APIs related to Housing/Climate Change - Fannie Mae
-- **How it used Fannie Mae:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -289,7 +289,7 @@ This app uses visualizations from analysis of various datasets relating to weath
 - **Code:** [Source 1](https://github.com/RachelK23/Forecasts-by-the-Campfire)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity - MLH
-- **How it used Fidelity:** Sponsor use not stated on Devpost
+- **Award:** Won “Best DEI Hack sponsored by Fidelity - MLH” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -316,7 +316,7 @@ A fun interactive way to track and pay your bills on time while competing with f
 - **Code:** [Source 1](https://github.com/CChiang3/bitcamp2024)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry - MLH
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -424,7 +424,7 @@ No public code linked · Built with flask, git, github, langchain
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** University Course Catalog Data Extraction and Query Challenge - Xficient
-- **How it used Xficient:** Sponsor use not stated on Devpost
+- **Award:** Won “University Course Catalog Data Extraction and Query Challenge - Xficient” from Xficient. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -447,7 +447,7 @@ No public code linked · Built with flask, github, gpt-4, neon
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** University Course Catalog Data Extraction and Query Challenge - Xficient
-- **How it used Xficient:** Sponsor use not stated on Devpost
+- **Award:** Won “University Course Catalog Data Extraction and Query Challenge - Xficient” from Xficient. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -460,17 +460,17 @@ No public code linked · Built with flask, github, gpt-4, neon
 
 Xficient Bot revolutionizes course catalog management by using unsupervised learning to cluster uploaded files.
 
-No public code linked · Built with gpt, natural-language-processing, openai, python
+[Code](https://github.com/rahulnair307/Xficient-AI-Chatbot) · Built with gpt, natural-language-processing, openai, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** gpt, natural-language-processing, openai, python
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/rahulnair307/Xficient-AI-Chatbot)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** University Course Catalog Data Extraction and Query Challenge - Xficient
-- **How it used Xficient:** Sponsor use not stated on Devpost
+- **Award:** Won “University Course Catalog Data Extraction and Query Challenge - Xficient” from Xficient. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

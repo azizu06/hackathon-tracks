@@ -43,7 +43,7 @@ Lavoe provides an intuitive and AI-augmented DAW interface with features designe
 
 Real-time facial recognition that identifies connections, remembers conversations, and maps your professional network.
 
-**How it used Windsurf:** Sponsor use not stated on Devpost
+**Windsurf:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/qiuethan/Orbit) · [Demo video](https://www.youtube.com/watch?v=-XV-iJZak3I) · Built with cerebras, deepface, fastapi, groq
 

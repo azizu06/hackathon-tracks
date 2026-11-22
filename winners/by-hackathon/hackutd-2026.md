@@ -67,7 +67,7 @@ Explode a legacy program into a live Blueprint-style graph. Replace its nodes wi
 - **Code:** [Source 1](https://github.com/isthmus1/Argo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1xfBraB95hI)
 - **All prizes at this hackathon (1):** 8090 Track
-- **How it used 8090:** Sponsor use not stated on Devpost
+- **Award:** Won “8090 Track” from 8090. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -90,7 +90,7 @@ Pact turns smart user interviews into behavior contracts, then checks those cont
 - **Code:** [Source 1](https://github.com/hrishinave/HackUTD2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Zh8dlSbYoVU)
 - **All prizes at this hackathon (1):** 8090 Track
-- **How it used 8090:** Sponsor use not stated on Devpost
+- **Award:** Won “8090 Track” from 8090. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -113,7 +113,7 @@ Every system you've ever owned, in one universe your agents can reach.
 - **Code:** [Source 1](https://github.com/jaiom-rola-sp/REPLIC8)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=K3ivYgFE7I0)
 - **All prizes at this hackathon (1):** 8090 Track
-- **How it used 8090:** Sponsor use not stated on Devpost
+- **Award:** Won “8090 Track” from 8090. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ Data centers and commercial buildings run on siloed systems, leaving gaps threat
 - **Code:** [Source 1](https://github.com/adhigithub/BluePrint-HackUTD_2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Bvyfo08BG3w)
 - **All prizes at this hackathon (1):** CBRE Track
-- **How it used CBRE:** Sponsor use not stated on Devpost
+- **Award:** Won “CBRE Track” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -190,7 +190,7 @@ Canary catches small building warnings before they become expensive outages: AI 
 - **Code:** [Source 1](https://github.com/anothergrind/hackutd-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=va6dAmJMIG4)
 - **All prizes at this hackathon (1):** CBRE Track
-- **How it used CBRE:** Sponsor use not stated on Devpost
+- **Award:** Won “CBRE Track” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -213,7 +213,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtN
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sJX_GgbqtNI)
 - **All prizes at this hackathon (1):** CBRE Track
-- **How it used CBRE:** Sponsor use not stated on Devpost
+- **Award:** Won “CBRE Track” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -240,7 +240,7 @@ FlowState is an intelligent operations console that combines real-time telemetry
 - **Code:** [Source 1](https://github.com/LegendaryPenguin/HackUTD-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R7WwG0Z0Jv4)
 - **All prizes at this hackathon (1):** EOG Resources Track
-- **How it used EOG Resources:** Sponsor use not stated on Devpost
+- **Award:** Won “EOG Resources Track” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -263,7 +263,7 @@ The night shift, with a hive behind it.
 - **Code:** [Source 1](https://github.com/Jazmin5465/Hivemind)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tDWAyvH1agU)
 - **All prizes at this hackathon (1):** EOG Resources Track
-- **How it used EOG Resources:** Sponsor use not stated on Devpost
+- **Award:** Won “EOG Resources Track” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -290,7 +290,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=hoLp4GRSbA
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hoLp4GRSbAI)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -317,7 +317,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=B7mWEOy4dM
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=B7mWEOy4dME)
 - **All prizes at this hackathon (1):** Goldman Sachs Track
-- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
+- **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -340,7 +340,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0AvDX1Ru_-c)
 - **All prizes at this hackathon (1):** Goldman Sachs Track
-- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
+- **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -363,7 +363,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=RYIeD--Aze
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RYIeD--Azeo)
 - **All prizes at this hackathon (1):** Goldman Sachs Track
-- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
+- **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -444,7 +444,7 @@ Schedule GPU maintenance at market prices without overheating. Nemotron plans: p
 - **Code:** [Source 1](https://github.com/Fawazjams/utdhacksDCRouter)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hx9T6iEOAJk)
 - **All prizes at this hackathon (1):** NMC^2 Track
-- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+- **Award:** Won “NMC^2 Track” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -467,7 +467,7 @@ See the chain before it breaks: a digital twin that predicts data center failure
 - **Code:** [Source 1](https://github.com/saroshaprasla/FaultZero)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YXXUOWcC47I)
 - **All prizes at this hackathon (1):** NMC^2 Track
-- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+- **Award:** Won “NMC^2 Track” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -490,7 +490,7 @@ Every shift ends, but critical information shouldn't get lost. Meet ShiftSync: A
 - **Code:** [Source 1](https://github.com/ethnmz/ShiftSync)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uXlWITjkI0I)
 - **All prizes at this hackathon (1):** NMC^2 Track
-- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+- **Award:** Won “NMC^2 Track” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -663,7 +663,7 @@ A live money room for the whole family. Plan together on every phone, or just ca
 - **Code:** [Source 1](https://github.com/Blean69/HackUTD-2026-v2)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aHd01BcEPJc)
 - **All prizes at this hackathon (1):** PNC Track
-- **How it used PNC Bank:** Sponsor use not stated on Devpost
+- **Award:** Won “PNC Track” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -686,7 +686,7 @@ All your money, One brain — Every account. Every goal.
 - **Code:** [Source 1](https://github.com/ashzaeen/FinVantage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p4v9ewlpKro)
 - **All prizes at this hackathon (1):** PNC Track
-- **How it used PNC Bank:** Sponsor use not stated on Devpost
+- **Award:** Won “PNC Track” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -709,7 +709,7 @@ Wallet Whisperer brings accounts, bills, debts, income, and savings goals into o
 - **Code:** [Source 1](https://github.com/AfeIsm/HackUTD)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hG9LVm12ELU)
 - **All prizes at this hackathon (1):** PNC Track
-- **How it used PNC Bank:** Sponsor use not stated on Devpost
+- **Award:** Won “PNC Track” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -882,7 +882,7 @@ An AI-powered disaster response command center that identifies urgent needs, inv
 - **Code:** [Source 1](https://github.com/vikramaharshith/res-q)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
-- **How it used SpaceXSI:** Sponsor use not stated on Devpost
+- **SpaceXSI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -909,7 +909,7 @@ ANCHOR connects a device in the customer’s home to a claims dashboard that Sta
 - **Code:** [Source 1](https://github.com/aparnabalaji07/anchor)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aimbrYK_4GA)
 - **All prizes at this hackathon (1):** State Farm Track
-- **How it used State Farm:** Sponsor use not stated on Devpost
+- **Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -932,7 +932,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rC
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CMUDwhV0rCA)
 - **All prizes at this hackathon (1):** State Farm Track
-- **How it used State Farm:** Sponsor use not stated on Devpost
+- **Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -955,7 +955,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3L
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FLlMLdGa3LY)
 - **All prizes at this hackathon (2):** Beginner Track -- HackUTD Track · State Farm Track
-- **How it used State Farm:** Sponsor use not stated on Devpost
+- **Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -982,7 +982,7 @@ Backfire serves scammers some of their own medicine while protecting the people 
 - **Code:** [Source 1](https://github.com/Proton-Designer/HackUTD26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-CsNGYiIACo)
 - **All prizes at this hackathon (2):** General Track · T-Mobile Track
-- **How it used T-Mobile:** Sponsor use not stated on Devpost
+- **Award:** Won “T-Mobile Track” from T-Mobile. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1005,7 +1005,7 @@ Raise a pet. Dodge the scams.
 - **Code:** [Source 1](https://github.com/kvictores/hashling)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0Bl4ftEqlno)
 - **All prizes at this hackathon (1):** T-Mobile Track
-- **How it used T-Mobile:** Sponsor use not stated on Devpost
+- **Award:** Won “T-Mobile Track” from T-Mobile. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1028,7 +1028,7 @@ PinkyPromise is a research-backed scam-prevention application that helps users r
 - **Code:** [Source 1](https://github.com/aasthas23/pinkypromise)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6B-SsBP-8iM)
 - **All prizes at this hackathon (1):** T-Mobile Track
-- **How it used T-Mobile:** Sponsor use not stated on Devpost
+- **Award:** Won “T-Mobile Track” from T-Mobile. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1082,7 +1082,7 @@ It contains and offers the following services:.
 - **Code:** [Source 1](https://github.com/hannahrauch/HackUTD26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BFI5YZRLPV4)
 - **All prizes at this hackathon (1):** Toyota Financial Services Track
-- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+- **Award:** Won “Toyota Financial Services Track” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1105,7 +1105,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5Mv
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CvIqv4w5MvE)
 - **All prizes at this hackathon (1):** Toyota Financial Services Track
-- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+- **Award:** Won “Toyota Financial Services Track” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1145,17 +1145,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5Mv
 
 Poysson is a game-style training platform covering five attack types: ransomware, SIM-swap fraud, smishing, phishing, and insider/vendor leaks.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
+[Code](https://github.com/nishthefish06/Poysson) · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** gemini, nemotron, nuxt, nvidia, solana, spacetimedb, typescript, vue, vultr, zod
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/nishthefish06/Poysson)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=StT_H0f3DPw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **Vultr:** Built with vultr (listed on Devpost)
+- **How it used Vultr:** The project provisions servers with cloud-init and deploys using scripts in deploy/vultr/.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1182,7 +1182,7 @@ From What Happened To What Happens Next.
 - **Code:** [Source 1](https://github.com/ly-sona/aegis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mnBnFZBSIoU)
 - **All prizes at this hackathon (1):** Winstead PC Track
-- **How it used Winstead PC:** Sponsor use not stated on Devpost
+- **Award:** Won “Winstead PC Track” from Winstead PC. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1205,7 +1205,7 @@ A secure war room for ransomware response.
 - **Code:** [Source 1](https://github.com/ParsaBazrpash/Haven)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2RkAbB0j9Tg)
 - **All prizes at this hackathon (1):** Winstead PC Track
-- **How it used Winstead PC:** Sponsor use not stated on Devpost
+- **Award:** Won “Winstead PC Track” from Winstead PC. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1228,7 +1228,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=s6qzeIHrdK
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=s6qzeIHrdKc)
 - **All prizes at this hackathon (1):** Winstead PC Track
-- **How it used Winstead PC:** Sponsor use not stated on Devpost
+- **Award:** Won “Winstead PC Track” from Winstead PC. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

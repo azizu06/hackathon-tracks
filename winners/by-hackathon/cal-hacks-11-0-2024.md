@@ -68,7 +68,7 @@ Empowering Artists with Blockchain: Seamless Royalty Payments and Ownership Cont
 - **Code:** [Source 1](https://github.com/ChiragSeth14/Blockify)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bKVkiuuv-uM)
 - **All prizes at this hackathon (2):** Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize · Sui: Reimagine the internet with Sui
-- **How it used Berkeley RDI:** Sponsor use not stated on Devpost
+- **Award:** Won “Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize” from Berkeley RDI. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Sui:** Smart contracts automate royalty distribution using Move, the programming language of Sui.
 - **Checked on Devpost:** 2026-11-21
 
@@ -93,7 +93,7 @@ Memento helps elderly people connect with their families by reflecting on and sh
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Reflex: Best app built using reflex.dev · Ripple: Best App by Ripple
 - **How it used Reflex:** The team used Reflex to implement the UI.
-- **How it used Ripple:** Sponsor use not stated on Devpost
+- **Ripple:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -116,7 +116,7 @@ An augmented reality tool guides stroke survivors through physical therapy exerc
 - **Code:** [Source 1](https://github.com/ppilli1/RecovARy) · [Source 2](https://github.com/pranavi-ch/recovARy-agents)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Fetch.ai: Agentic Track Prize · Snap: Dream it. Build it.
-- **Fetch.ai:** Built with Fetch.ai (listed on Devpost)
+- **How it used Fetch.ai:** Runs a reaction-time recovery agent using Fetch.ai's uAgents framework.
 - **How it used Snap:** The team used Lens Studio data for hitting speed and reaction time.
 - **Checked on Devpost:** 2026-11-21
 
@@ -146,7 +146,7 @@ Deep Retention of Concepts using research-backed techniques.
 - **Code:** [Source 1](https://github.com/Priyansh4444/DeeR)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1LN9q6boel8)
 - **All prizes at this hackathon (1):** Agora: Best Practice of TEN
-- **How it used Agora:** Sponsor use not stated on Devpost
+- **How it used Agora:** Creates an Agora RTC client for video calls.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -242,7 +242,7 @@ Remove the need to manually update your docs. When you make a PR, Doc's are auto
 
 Military personnel will utilize Lucy to identify potential threats during field operations.
 
-[Code](https://github.com/Jinash-Rouniyar/SpotDog) · [Demo video](https://www.youtube.com/watch?v=Qpsvuxynwek) · Built with chromadb, arduino, deepgram, groq
+[Code](https://github.com/Jinash-Rouniyar/SpotDog) · [Demo video](https://www.youtube.com/watch?v=Qpsvuxynwek) · Built with arduino, chromadb, deepgram, groq
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -252,7 +252,7 @@ Military personnel will utilize Lucy to identify potential threats during field 
 - **Code:** [Source 1](https://github.com/Jinash-Rouniyar/SpotDog)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Qpsvuxynwek)
 - **All prizes at this hackathon (1):** Chroma: Build your project with Chroma in an AI application
-- **Chroma:** Built with chromadb (listed on Devpost)
+- **How it used Chroma:** Builds a Chroma vector store from image embeddings.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -348,7 +348,7 @@ Real time translation from text to braille.
 - **Code:** [Source 1](https://github.com/rami-maalouf/text2dot)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Deepgram: Deepgram Voice Agent Quest
-- **Deepgram:** Built with deepgram (listed on Devpost)
+- **How it used Deepgram:** Opens a Deepgram WebSocket for text-to-speech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -542,7 +542,7 @@ A kitchen planner uses pantry inventory and dietary preferences to suggest recip
 - **Code:** [Source 1](https://github.com/Sachin-dot-py/Grocify)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3mnrfpyawdU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -669,7 +669,7 @@ Have you ever written insecure code? Probably, but how do you know.
 - **Code:** [Source 1](https://github.com/tbwrigh/CalHacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Terraform
-- **How it used HashiCorp:** Sponsor use not stated on Devpost
+- **HashiCorp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -796,7 +796,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=aPkajwX18l
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aPkajwX18lQ)
 - **All prizes at this hackathon (1):** Interaction Company: Build AI Agents that Proactively Handle Your Email!
-- **How it used Interaction Company:** Sponsor use not stated on Devpost
+- **Award:** Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -819,7 +819,7 @@ Nova is an automated email assistant that intelligently processes incoming email
 - **Code:** [Source 1](https://github.com/jpsingaraju/nova-ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Interaction Company: Build AI Agents that Proactively Handle Your Email!
-- **How it used Interaction Company:** Sponsor use not stated on Devpost
+- **Award:** Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -896,7 +896,7 @@ Improvements in Pepsi's Global Value chain end with consumers but so does waste.
 - **Code:** [Source 1](https://github.com/garvcodes/sustainableshowcase)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** SCET/Pepsico: PEP+ Sustainability Prize
-- **How it used PepsiCo / Berkeley SCET:** Sponsor use not stated on Devpost
+- **Award:** Won “SCET/Pepsico: PEP+ Sustainability Prize” from PepsiCo / Berkeley SCET. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1031,7 +1031,7 @@ No public code linked · [Demo video](https://vimeo.com/1021488745) · Built wit
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://vimeo.com/1021488745)
 - **All prizes at this hackathon (1):** Skylo: Seamlessly Switch from Cellular to Satellite
-- **Skylo:** Built with skylo (listed on Devpost)
+- **How it used Skylo:** The transmitter integrates a Raspberry Pi with Skylo's satellite and cellular combo board.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1231,7 +1231,7 @@ No public code linked · Built with ai, python, reflex, vapi
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** The House Fund: "Cal" Track
-- **How it used The House Fund:** Sponsor use not stated on Devpost
+- **Award:** Won “The House Fund: "Cal" Track” from The House Fund. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1254,7 +1254,7 @@ An LLM Rubber Ducky. Never worry about being unprepared for a presentation ever 
 - **Code:** [Source 1](https://github.com/adit-bala/ducky.ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** The House Fund: "Cal" Track
-- **How it used The House Fund:** Sponsor use not stated on Devpost
+- **Award:** Won “The House Fund: "Cal" Track” from The House Fund. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1277,7 +1277,7 @@ No public code linked · Built with api, chroma, chromadb, chrome
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** The House Fund: "Cal" Track
-- **How it used The House Fund:** Sponsor use not stated on Devpost
+- **Award:** Won “The House Fund: "Cal" Track” from The House Fund. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1469,7 +1469,7 @@ A prototype implements a programming language and game engine inside Figma.
 - **Code:** [Source 1](https://github.com/kognise/aldente)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=765IiE3aNFA)
 - **All prizes at this hackathon (2):** Cal Hacks: Most Entertaining Hack · Warp: Best Developer Tool by Warp
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Award:** Won “Warp: Best Developer Tool by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

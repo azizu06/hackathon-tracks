@@ -23,7 +23,7 @@
 
 Show Snappier your workflow once by recording your screen. AI figures out what you did and why, then automates it across any connected app.
 
-**How it used Graphite:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Graphite&#93; Most Likely to get Acquired by a Sponsor (OB–4 black bluetooth speaker)” from Graphite. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/nintang/snappier) · [Demo video](https://www.youtube.com/watch?v=Mi4oWY_EkYc) · Built with ai, anthropic-claude-(workflow-planning-&amp;-execution), api, chrome
 

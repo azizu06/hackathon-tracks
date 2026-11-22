@@ -113,7 +113,7 @@ CloseCalls uses the CARLA simulator in Unreal Engine 4 to generate realistic tra
 - **Code:** [Source 1](https://github.com/RBuck8339/kh2025CVTrafficSynth)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pNB4n_KeTZQ)
 - **All prizes at this hackathon (1):** ACM UCF
-- **How it used ACM UCF:** Sponsor use not stated on Devpost
+- **ACM UCF:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -192,7 +192,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=mZV5om5oVV
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mZV5om5oVVE)
 - **All prizes at this hackathon (1):** MLH - Best Use of Arm
-- **How it used Arm:** Sponsor use not stated on Devpost
+- **Arm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -219,7 +219,7 @@ This program is a Python-based tool designed to read, parse, and export SAP bina
 - **Code:** [Source 1](https://github.com/Britjit/hackathon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xzq6eSaBh2o)
 - **All prizes at this hackathon (1):** Auritas: Data Visualization and Algorithm Reconstruction Challenges
-- **How it used Auritas:** Sponsor use not stated on Devpost
+- **Award:** Won “Auritas: Data Visualization and Algorithm Reconstruction Challenges” from Auritas. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -246,7 +246,7 @@ A new energy behind world-building. Where imagination meets energy, Scenergy tur
 - **Code:** [Source 1](https://github.com/Niwant/KNIGHTHACKS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PQAzobRVGgU)
 - **All prizes at this hackathon (1):** MLH - Best Use of DigitalOcean Gradient™ AI
-- **How it used DigitalOcean:** Sponsor use not stated on Devpost
+- **DigitalOcean:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -300,7 +300,7 @@ Turn your live performances into real time digital sheet music or challenge frie
 - **Code:** [Source 1](https://github.com/viannahuynh/CanesChicken)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bMZOmNP666s)
 - **All prizes at this hackathon (1):** MLH - Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -404,7 +404,7 @@ PowerLegal is a sophisticated multi-agent legal case management system that coor
 - **Code:** [Source 1](https://github.com/Kavipatel0/KnightHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SRItaUWZ1nc)
 - **All prizes at this hackathon (1):** Morgan &amp; Morgan: AI Legal Tender Challenge
-- **How it used Morgan &amp; Morgan:** Sponsor use not stated on Devpost
+- **Award:** Won “Morgan &amp; Morgan: AI Legal Tender Challenge” from Morgan &amp; Morgan. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -427,7 +427,7 @@ Simply Law automates the legal workflow with AI agents that extract key informat
 - **Code:** [Source 1](https://github.com/ballinyouup/morgan-ai-sdk)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-925V5YOfWs)
 - **All prizes at this hackathon (1):** Morgan &amp; Morgan: AI Legal Tender Challenge
-- **How it used Morgan &amp; Morgan:** Sponsor use not stated on Devpost
+- **Award:** Won “Morgan &amp; Morgan: AI Legal Tender Challenge” from Morgan &amp; Morgan. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -454,7 +454,7 @@ The perfect drone optimization algorithm that you'd ever need.
 - **Code:** [Source 1](https://github.com/a1vcm/knighthacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qbOgZGTl13M)
 - **All prizes at this hackathon (1):** NextEra Energy: Drone Optimization Challenge
-- **How it used NextEra Energy:** Sponsor use not stated on Devpost
+- **Award:** Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -477,7 +477,7 @@ The solution uses Google OR-Tools to solve the Vehicle Routing Problem by assign
 - **Code:** [Source 1](https://github.com/Bvqlz/GridWatch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AEEQjJ4ilyA)
 - **All prizes at this hackathon (1):** NextEra Energy: Drone Optimization Challenge
-- **How it used NextEra Energy:** Sponsor use not stated on Devpost
+- **Award:** Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -500,7 +500,7 @@ Optimizing autonomous drone missions for efficient, battery-aware inspection of 
 - **Code:** [Source 1](https://github.com/saniddhyaDubey/next-era-Drone-Routing-Problem)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2L7jpEtnFr4)
 - **All prizes at this hackathon (1):** NextEra Energy: Drone Optimization Challenge
-- **How it used NextEra Energy:** Sponsor use not stated on Devpost
+- **Award:** Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -527,7 +527,7 @@ Get daily financial news and insights tailored to your interests.
 - **Code:** [Source 1](https://github.com/jordanrobbedthesun/FinScope)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WxBUaohIQVI)
 - **All prizes at this hackathon (1):** OneEthos: AI for Financial Empowerment Challenge
-- **How it used OneEthos:** Sponsor use not stated on Devpost
+- **Award:** Won “OneEthos: AI for Financial Empowerment Challenge” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -550,7 +550,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZd
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=J5wnACnaZdY)
 - **All prizes at this hackathon (1):** OneEthos: AI for Financial Empowerment Challenge
-- **How it used OneEthos:** Sponsor use not stated on Devpost
+- **Award:** Won “OneEthos: AI for Financial Empowerment Challenge” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -577,7 +577,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m-iLFeIfq-s)
 - **All prizes at this hackathon (1):** Pheratech Systems: ROS2 Autonomy Challenge
-- **How it used Pheratech Systems:** Sponsor use not stated on Devpost
+- **Award:** Won “Pheratech Systems: ROS2 Autonomy Challenge” from Pheratech Systems. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -604,7 +604,7 @@ AgentNow is a Gemini-powered assistant that listens to customers and instantly r
 - **Code:** [Source 1](https://github.com/must108/agentnow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IMv4cc_kS_c)
 - **All prizes at this hackathon (1):** ServiceNow: Knowledge Gap Request Agent Challenge
-- **How it used ServiceNow:** Sponsor use not stated on Devpost
+- **ServiceNow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -627,7 +627,7 @@ ServiceLater turns ServiceNow feedback into accelerator roadmaps, using AI to sp
 - **Code:** [Source 1](https://github.com/NagelPoulose/KnighHacksVIII-Project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1cckS4RC1tM)
 - **All prizes at this hackathon (1):** ServiceNow: Knowledge Gap Request Agent Challenge
-- **How it used ServiceNow:** Sponsor use not stated on Devpost
+- **ServiceNow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -650,7 +650,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=irFW-f8mvo
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=irFW-f8mvoE)
 - **All prizes at this hackathon (1):** ServiceNow: Knowledge Gap Request Agent Challenge
-- **How it used ServiceNow:** Sponsor use not stated on Devpost
+- **ServiceNow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -704,7 +704,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QAaYWL-Mr1g)
 - **All prizes at this hackathon (2):** MLH - Best Use of Vultr · Most "Useful" Hack
-- **How it used Vultr:** Sponsor use not stated on Devpost
+- **Vultr:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

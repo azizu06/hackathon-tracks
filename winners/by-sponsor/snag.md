@@ -23,7 +23,7 @@
 
 ReCapture: Unlock the World, One Memory at a Time.
 
-**How it used Snag:** Sponsor use not stated on Devpost
+**Award:** Won “Snag Challenge” from Snag. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/NathanRLiu/reCapture) · [Demo video](https://www.youtube.com/watch?v=BBudE_SngUo) · Built with express.js, react-native, singlestore
 

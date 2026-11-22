@@ -23,9 +23,9 @@
 
 Understanding that the answer cannot be found in one location, but rather a harmony of several became a huge growth point in this hackathon.
 
-**How it used Vanguard:** Sponsor use not stated on Devpost
+**Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with amazon-web-services, axios, cloudwatch, express.js
+[Code](https://github.com/aarnavgautam/clarifin-ai) · Built with amazon-web-services, axios, cloudwatch, express.js
 
 ### [financio](https://devpost.com/software/financio-xg15bp)
 
@@ -33,7 +33,7 @@ No public code linked · Built with amazon-web-services, axios, cloudwatch, expr
 
 The web application is designed to help train the users in common economic situations they might face to get a better grip on their finances.
 
-**How it used Vanguard:** Sponsor use not stated on Devpost
+**Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with cloud-computing, database-management, git, json
 
@@ -43,7 +43,7 @@ No public code linked · Built with cloud-computing, database-management, git, j
 
 Personalized Financial Score: Based on income, spending, and dependents to track progress.
 
-**How it used Vanguard:** Sponsor use not stated on Devpost
+**Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/IsmailAbousalem/Prospera) · Built with figma, javascript, openai, react
 

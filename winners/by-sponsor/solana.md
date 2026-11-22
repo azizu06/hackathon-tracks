@@ -23,7 +23,7 @@
 
 Every player is armed with an ESP32-C3 badge with an LED strip, a small screen, buttons, an IMU, and an NFC reader.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**Solana:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/s-illly/htn-amongus) · Built with c++, esp-now, esp32-c3, espressif
 
@@ -43,7 +43,7 @@ Argus is a dev tool that integrates models/dataset workflows with seamless and s
 
 DataCrawl turns plain-English data requests into fresh datasets. AI agents plan, scrape, generate, normalize, and validate the data you need, then deliver clean, usable files for analysis today.
 
-**Solana:** Built with solana (listed on Devpost)
+**How it used Solana:** Offers Solana as a payment method when a Solana payment request is available.
 
 [Code](https://github.com/Aarushvinod/DataCrawl) · [Demo video](https://www.youtube.com/watch?v=t-F03o3KFjQ) · Built with solana, auth0, beautiful-soup, css
 
@@ -73,9 +73,9 @@ An operating environment isolates each AI agent task in a separate Linux user an
 
 16,000 people in the U.S. are still waiting for their names. One wrong branch can point to the wrong person.
 
-**Solana:** Built with solana (listed on Devpost)
+**How it used Solana:** The team anchors a hash of the state on Solana.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=DKfr1q-T7UU) · Built with solana, deepagents, gemini, google-ai-studio
+[Code](https://github.com/ReyanshBhootra/kinfold) · [Demo video](https://www.youtube.com/watch?v=DKfr1q-T7UU) · Built with solana, deepagents, gemini, google-ai-studio
 
 ### [KiwiMarket](https://devpost.com/software/kiwimarket)
 
@@ -247,7 +247,7 @@ Expediting the contracts and document signings process between vendors and clien
 
 **How it used Solana:** Pact runs on three Solana programs written in Rust with Anchor.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
+[Code](https://github.com/VictoriousVincent1/contracts) · [Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
 
 ### [Solbate](https://devpost.com/software/solbate)
 
@@ -285,7 +285,7 @@ No public code linked · Built with solana, cohere, firebase, gcp
 
 Yes, you read that right – not just devnet, but mainnet-beta.
 
-**Solana:** Built with solana (listed on Devpost)
+**How it used Solana:** Uses Solana mainnet for its transaction functions.
 
 [Code](https://github.com/Loldude0/hacknyu) · Built with solana, python, react, realtime
 
@@ -295,7 +295,7 @@ Yes, you read that right – not just devnet, but mainnet-beta.
 
 A way to be updated with the most up-to-date information on crypto and assets - compiled with AI.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** Retrieves Solana token prices through the Jupiter Aggregator API.
 
 [Code](https://github.com/hyungminoh2/Solvend-mhacks2025) · Built with flask, google-generative-ai-(gemini-1.5), javascript, next.js
 

@@ -105,7 +105,7 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 
 Captain Ddoski gives AI finance agents instant source trust scores, risk tags, and evidence capsules via API/MCP, helping them cite reliable proof, flag weak claims, and avoid scams.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
+[Code](https://github.com/PhongCT1105/AI_Hack_Berkeley) · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
 
 ### [Cartify](https://devpost.com/software/cartify-10bjse)
 
@@ -361,7 +361,7 @@ Whenever you're on a shopping site, Stopify tracks your vital signs and your act
 
 An autonomous finance desk that tracks automotive tariffs from imported parts to customer credits, catching errors, learning from decisions, and posting only with approval.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
+[Code](https://github.com/ParthGala2k/tariffic) · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
 
 ### [Toyyo](https://devpost.com/software/toyo-zxjwfe)
 
@@ -619,7 +619,7 @@ Let kids learn how to manage their own finances with Spendy.
 
 Stamped is a secure and intelligent onboarding platform designed for financial institutions. It streamlines client and vendor onboarding with AI-powered features, and comprehensive compliance tools.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
+[Code](https://github.com/advegaf/stamped) · [Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
 
 ### [Subsave](https://devpost.com/software/subsave)
 

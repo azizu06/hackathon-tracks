@@ -23,9 +23,9 @@
 
 Captain Ddoski gives AI finance agents instant source trust scores, risk tags, and evidence capsules via API/MCP, helping them cite reliable proof, flag weak claims, and avoid scams.
 
-**Terac:** Built with terac (listed on Devpost)
+**How it used Terac:** Calls Terac's model-evaluation tools through MCP when configured.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
+[Code](https://github.com/PhongCT1105/AI_Hack_Berkeley) · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
 
 ### [MatchVision](https://devpost.com/software/match-vision)
 
@@ -45,7 +45,7 @@ Empowering blind and low-vision fans to follow the action, context, and emotion 
 
 Oversight is a political transparency platform that turns complex government data into clear, AI-powered insights.
 
-**How it used Terac:** Sponsor use not stated on Devpost
+**Award:** Won “Best Consumer Hack by Terac” from Terac. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/dilzafer/oversightusa) · [Demo video](https://www.youtube.com/watch?v=ZYPj0qvPgrA) · Built with cloudflare, elevenlabs, gemini, llama
 

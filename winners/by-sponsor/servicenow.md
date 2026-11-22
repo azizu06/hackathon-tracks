@@ -23,7 +23,7 @@
 
 AgentNow is a Gemini-powered assistant that listens to customers and instantly recommends the right ServiceNow accelerators, giving real-time, data-driven feedback to guide smarter conversations.
 
-**How it used ServiceNow:** Sponsor use not stated on Devpost
+**ServiceNow:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/must108/agentnow) · [Demo video](https://www.youtube.com/watch?v=IMv4cc_kS_c) · Built with elevenlabs, gemini, next.js
 
@@ -33,7 +33,7 @@ AgentNow is a Gemini-powered assistant that listens to customers and instantly r
 
 ServiceLater turns ServiceNow feedback into accelerator roadmaps, using AI to spot patterns and recommend next-gen products with business justification.
 
-**How it used ServiceNow:** Sponsor use not stated on Devpost
+**ServiceNow:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/NagelPoulose/KnighHacksVIII-Project) · [Demo video](https://www.youtube.com/watch?v=1cckS4RC1tM) · Built with fast-api, google-gemini-api, javascript, react
 
@@ -43,7 +43,7 @@ ServiceLater turns ServiceNow feedback into accelerator roadmaps, using AI to sp
 
 Synapse isn’t another assistant — it’s the nervous system of AI itself, where specialized agents think together to power the next era of intelligent collaboration.
 
-**How it used ServiceNow:** Sponsor use not stated on Devpost
+**ServiceNow:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=irFW-f8mvoE)
 

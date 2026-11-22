@@ -242,7 +242,7 @@ Giving LLM irl hands and eyes. Convert any embedded system into a plug and play 
 - **Code:** [Source 1](https://github.com/wenbox360/Conductor)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4Sr5CIKw8jU)
 - **All prizes at this hackathon (1):** Best Hardware Hack presented by Embedder
-- **How it used Embedder:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Hardware Hack presented by Embedder” from Embedder. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -321,7 +321,7 @@ No public code linked · Built with 3d-projection-mathematics, a2a2448-23gcbas, 
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vision Alignment Tool presented by Ford
-- **How it used Ford:** Sponsor use not stated on Devpost
+- **Ford:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -398,7 +398,7 @@ Let students upload a problem set (PDF), have the system split it into editable 
 - **Code:** [Source 1](https://github.com/niravjaiswal/dill-study)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L9JpF37PfSs)
 - **All prizes at this hackathon (1):** MLH - Best Domain Name presented by GoDaddy &#124;&#124; Digital Gift Card
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -452,7 +452,7 @@ Skip the planning, savor the eating. Optimize road trips to no longer exhaustive
 - **Code:** [Source 1](https://github.com/krrishkk/foodrunner)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uo4ONCYzjgA)
 - **All prizes at this hackathon (1):** Smart Task Accelerator presented by Grainger
-- **How it used Grainger:** Sponsor use not stated on Devpost
+- **Grainger:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -475,7 +475,7 @@ The team created a Swift app so that you can use the tool directly from the MacO
 - **Code:** [Source 1](https://github.com/evanhekman/zygonic)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=B43pgol5dvg)
 - **All prizes at this hackathon (1):** Smart Task Accelerator presented by Grainger
-- **How it used Grainger:** Sponsor use not stated on Devpost
+- **Grainger:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -548,7 +548,7 @@ A robot that plays Word Hunt on its own—powered by a jury-rigged 3D printer, c
 - **Code:** [Source 1](https://github.com/TSKoduru/mhacks-gamehawk)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WktVaFtu6HE)
 - **All prizes at this hackathon (1):** Best Use of MemryX Edge AI Accelerator
-- **How it used MemryX:** Sponsor use not stated on Devpost
+- **How it used MemryX:** Runs its recognition model through the MemryX accelerator.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -650,7 +650,7 @@ A way to be updated with the most up-to-date information on crypto and assets - 
 - **Code:** [Source 1](https://github.com/hyungminoh2/Solvend-mhacks2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Creative Solana MCP
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** Retrieves Solana token prices through the Jupiter Aggregator API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

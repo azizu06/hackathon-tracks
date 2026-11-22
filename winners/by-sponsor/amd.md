@@ -23,9 +23,9 @@
 
 A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-100T.
 
-**AMD:** Built with vivado (listed on Devpost)
+**How it used AMD:** The team used Vivado's ILA and VIO cores to look inside the running chip.
 
-[Code](https://github.com/techcolly/fpga_LM) · Built with vivado, claude, fpga, python
+[Code](https://github.com/techcolly/fpga_LM) · Built with claude, fpga, python, pytorch
 
 ### [GEarth](https://devpost.com/software/diarockets)
 

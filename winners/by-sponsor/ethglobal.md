@@ -23,7 +23,7 @@
 
 ScholarMarket is essentially Polymarket for students to bet on their grades.
 
-**How it used ETHGlobal:** Sponsor use not stated on Devpost
+**Award:** Won “ETHGlobal: Ethereum's Infinite Garden” from ETHGlobal. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/joshua-z-zheng/hack-the-north-2025) · [Demo video](https://www.youtube.com/watch?v=a8MW0_Mg53o) · Built with auth0, express.js, mongodb, next.js
 
@@ -33,7 +33,7 @@ ScholarMarket is essentially Polymarket for students to bet on their grades.
 
 Voting outcomes often face backlash. That’s why trust matters.
 
-**How it used ETHGlobal:** Sponsor use not stated on Devpost
+**Award:** Won “ETHGlobal: Ethereum's Infinite Garden” from ETHGlobal. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/MartinPatr/TrueCount) · [Demo video](https://www.youtube.com/watch?v=DhhBWVDUrU4) · Built with hardhat, rainbowkit, react, solidity
 
@@ -45,7 +45,7 @@ Voting outcomes often face backlash. That’s why trust matters.
 
 Empowering startups and small investors through a decentralized, transparent, and community-driven fundraising platform using blockchain and DAO technology.
 
-**How it used ETHGlobal:** Sponsor use not stated on Devpost
+**Award:** Won “ETHGlobal: Ethereum's Infinite Garden” from ETHGlobal. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/shardaishwak/htn-2024) · [Demo video](https://www.youtube.com/watch?v=HjSpr-ZNBmM) · Built with blockchain, decentralized, ethereum, hardhat
 

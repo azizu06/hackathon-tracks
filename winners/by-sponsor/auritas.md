@@ -23,7 +23,7 @@
 
 This program is a Python-based tool designed to read, parse, and export SAP binary data files.
 
-**How it used Auritas:** Sponsor use not stated on Devpost
+**Award:** Won “Auritas: Data Visualization and Algorithm Reconstruction Challenges” from Auritas. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Britjit/hackathon) · [Demo video](https://www.youtube.com/watch?v=Xzq6eSaBh2o) · Built with csv, gzip, lz4, openai
 

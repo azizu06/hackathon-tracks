@@ -73,7 +73,7 @@ PawTrace is a missing-pet search platform that combines community sightings and 
 
 A web app that works out how much commission each sales rep has earned, catches mistakes in the sales records, and explains every number when questioned.
 
-**Elastic:** Built with elastic (listed on Devpost)
+**How it used Elastic:** Elastic finds messages by meaning.
 
 [Code](https://github.com/aaditisinghal/Quota) · [Demo video](https://www.youtube.com/watch?v=iVvCbKBY73w) · Built with elastic, python, stripe
 

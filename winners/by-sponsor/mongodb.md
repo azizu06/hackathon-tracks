@@ -187,7 +187,7 @@ Countless public health datasets have been taken down. Vesalius scrubs the Inter
 
 After logging in, users are directed to a page requesting the title of the paper they want to write, along with a question about the paper's topic.
 
-**MongoDB:** Built with mongodb (listed on Devpost)
+**How it used MongoDB:** Defines its MongoDB project records with a Mongoose model.
 
 [Code](https://github.com/AnnieWang314/blankspace) · Built with mongodb, css, express.js, github
 
@@ -239,7 +239,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=2s-sg1melA
 
 The team correlate this data with data regarding which sentences from each article are related and then attempt to generate a completely objective version of the article.
 
-**How it used MongoDB:** Sponsor use not stated on Devpost
+**MongoDB:** Sponsor use not stated on Devpost
 
 No public code linked
 

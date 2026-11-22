@@ -23,7 +23,7 @@
 
 The Ford Vision Station Alignment System is a comprehensive computer vision solution that provides real-time alignment detection and guidance for automotive manufacturing operations.
 
-**How it used Ford:** Sponsor use not stated on Devpost
+**Ford:** Sponsor use not stated on Devpost
 
 No public code linked · Built with 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras
 
@@ -47,7 +47,7 @@ No public code linked · Built with ford, openxc, amazon-cognito, amazon-web-ser
 
 Advanced route planning for drone deliveries to moving targets, with tracking and control suite.
 
-**How it used Ford:** Sponsor use not stated on Devpost
+**Ford:** Sponsor use not stated on Devpost
 
 No public code linked · Built with google-streetview, javascript, leaflet.js, mithril.js
 

@@ -48,7 +48,7 @@ SunlightSavings is a sophisticated yet user-friendly tool that empowers users to
 - **Code:** [Source 1](https://github.com/Kriti-Negi/DukeHacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9F4FJOiGohM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

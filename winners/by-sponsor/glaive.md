@@ -23,7 +23,7 @@
 
 Patients over paperwork- physicians want make meaningful impact on patients but spend all their time on documentation- writing chart notes. Solution: take the "r" out of chart so they can chat.
 
-**How it used Glaive:** Sponsor use not stated on Devpost
+**Award:** Won “Glaive Any Open-Source LLM Prize ($2000)” from Glaive. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/zelalemka/nwhacks_2025_chit_chart) · [Demo video](https://www.youtube.com/watch?v=1tHKeyLVZSA) · Built with fastapi, netlify, react.js, supabase
 

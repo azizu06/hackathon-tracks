@@ -23,7 +23,7 @@
 
 A smart water management tool that helps households and property managers optimize water usage, save on utilities, and promote conservation through personalized insights and community-driven data.
 
-**How it used Veolia:** Sponsor use not stated on Devpost
+**Veolia:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Fernando4242/HackUTD24-EcoFastTrack) · [Demo video](https://www.youtube.com/watch?v=StRry54qZMs) · Built with 3d-printer, arduino, c++, cad
 
@@ -33,7 +33,7 @@ A smart water management tool that helps households and property managers optimi
 
 A sustainability project to help manage buildings from afar.
 
-**How it used Veolia:** Sponsor use not stated on Devpost
+**Veolia:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Sami-ul/Sustainable-Building-Manager) · [Demo video](https://vimeo.com/1030515570) · Built with flask, python, react
 

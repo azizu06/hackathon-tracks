@@ -23,9 +23,9 @@
 
 A charming game about persuading fish to get out of the pond :).
 
-**fish.audio:** Built with fishaudio (listed on Devpost)
+**How it used fish.audio:** The team uses Fish Audio to make the fish say the generated response.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with fishaudio, audio, fish, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
 
 ## Track names and requirements
 

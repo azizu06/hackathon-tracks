@@ -53,6 +53,8 @@ class Project:
     team_size: int
     story: list
     writeup_text: str
+    captions: list
+    project_hosts: list
     source_links: list
     demo_links: list
 
@@ -94,6 +96,15 @@ def normalized_link(url):
     return None, None
 
 
+def gallery_captions(html, aliases):
+    gallery = html.partition('<div id="gallery">')[2].partition("</ul>")[0]
+    captions = re.findall(r"<p(?:\s[^>]*)?>(.*?)</p>", gallery, re.S)
+    captions.extend(re.findall(r'<img\b[^>]*\balt="([^"]*)"', gallery))
+    return list(dict.fromkeys(
+        text for caption in captions if (text := public_text(html_text(caption), aliases))
+    ))
+
+
 def project_details(html):
     data = structured_data(html, "software-json-ld")
     if not data.get("name"):
@@ -128,6 +139,7 @@ def project_details(html):
                 paragraphs.append((heading, safe))
     source_links = set()
     demo_links = set()
+    project_hosts = set()
     for _, urls, _ in PageLinks(app_links(left)).links:
         for url in re.split(r",\s+(?=https?://)", urls):
             kind, link = normalized_link(url)
@@ -135,6 +147,13 @@ def project_details(html):
                 demo_links.add(link)
             if kind == "source":
                 source_links.add(link)
+            if kind is None:
+                try:
+                    parts = urlsplit(url)
+                except ValueError:
+                    continue
+                if parts.scheme in {"https", "http"} and parts.hostname and parts.netloc == parts.hostname:
+                    project_hosts.add(parts.hostname)
     story_sources = set()
     for tag, url, label in PageLinks(story_html).links:
         kind, link = normalized_link(url)
@@ -152,7 +171,8 @@ def project_details(html):
     return Project(
         name, data, public_text(data.get("description", ""), aliases),
         [tag for tag in built_with(html) if public_text(tag, aliases)],
-        team_count or None, paragraphs, html_text(story_html), sorted(source_links), sorted(demo_links),
+        team_count or None, paragraphs, html_text(story_html), gallery_captions(html, aliases),
+        sorted(project_hosts), sorted(source_links), sorted(demo_links),
     )
 
 

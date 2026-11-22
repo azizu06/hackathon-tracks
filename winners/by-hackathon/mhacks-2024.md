@@ -61,7 +61,7 @@ Cybersecurity done right. Cyberwright leverages AI to automate the process of id
 - **Code:** [Source 1](https://github.com/jaydns/cyberwright)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_6fZPsObiIw)
 - **All prizes at this hackathon (1):** BoundaryML - Best use of LLM Agents
-- **How it used BoundaryML:** Sponsor use not stated on Devpost
+- **Award:** Won “BoundaryML - Best use of LLM Agents” from BoundaryML. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -138,7 +138,7 @@ No public code linked · Built with amazon-web-services, css, html, javascript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CAT Digital - Best Cloud Implementation
-- **How it used Cat Digital:** Sponsor use not stated on Devpost
+- **Award:** Won “CAT Digital - Best Cloud Implementation” from Cat Digital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -161,7 +161,7 @@ The Bloomberg Terminal of Prediction Markets.
 - **Code:** [Source 1](https://github.com/rcookie777/guava)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CAT Digital - Best Use of API
-- **How it used Cat Digital:** Sponsor use not stated on Devpost
+- **Cat Digital:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ An AI-backed solution for improving the U.S. visa experience for non-English-spe
 - **Code:** [Source 1](https://github.com/ayeahmed/visa-friend)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MLH - Best DEI Hack sponsored by Fidelity
-- **How it used Fidelity:** Sponsor use not stated on Devpost
+- **Award:** Won “MLH - Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -365,7 +365,7 @@ The webcam will recognize food that is in frame (using a Computer Vision model) 
 - **Code:** [Source 1](https://github.com/Orbital-Web/plaite)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ODBwwHjMowQ)
 - **All prizes at this hackathon (1):** Intel - 2st Place Best Use of Intel AI
-- **How it used Intel:** Sponsor use not stated on Devpost
+- **How it used Intel:** The team used Intel Cloud with AI Accelerator to train on food images.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -415,7 +415,7 @@ Cascade provides a sleek, efficient interface for practicing CSS.
 - **Code:** [Source 1](https://github.com/albonwu/cascade)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BapICN7GPYI)
 - **All prizes at this hackathon (1):** Magic Loops - Best use of Generative UI
-- **How it used Magic Loops:** Sponsor use not stated on Devpost
+- **Magic Loops:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -469,7 +469,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=HIYSX7clnl
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HIYSX7clnl8)
 - **All prizes at this hackathon (1):** MLH - Best use of Midnight
-- **How it used Midnight:** Sponsor use not stated on Devpost
+- **Midnight:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -577,7 +577,7 @@ A hierarchal multi-agent framework built from scratch. Transforms complex goals 
 - **Code:** [Source 1](https://github.com/slainhedden/mhacks-ensemble)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LuE2RwMGqi4)
 - **All prizes at this hackathon (1):** Warp - Best Developer Tool
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Award:** Won “Warp - Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

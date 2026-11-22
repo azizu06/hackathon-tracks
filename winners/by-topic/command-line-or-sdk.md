@@ -233,7 +233,7 @@ A prototype food-bank workflow pairs AI and robotics to collect and distribute f
 
 A query-aware rewriting layer that extends compression into the regime deletion can't reach — distilled into a 1.5B model, then carried into multi-turn conversations.
 
-[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with the-token-company-sdk, 2wikimultihop, deepseek-api, h100
+[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with 2wikimultihop, deepseek-api, h100, hotpotqa
 
 ### [Red Ledger](https://devpost.com/software/red-ledger)
 
@@ -347,7 +347,7 @@ People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device t
 
 AI-powered organizational tool for your communication platforms.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
+[Code](https://github.com/DeanShahin5/Calendera) · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
 
 ### [darwin.](https://devpost.com/software/darwin-w6fez0)
 

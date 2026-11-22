@@ -54,7 +54,7 @@ Your AI learning assistant. Input topic, level, and duration for a tailored cour
 - **Code:** [Source 1](https://github.com/meetgandhii/CourseAI)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ActualFood Award
-- **How it used Actual Food:** Sponsor use not stated on Devpost
+- **Award:** Won “ActualFood Award” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -77,7 +77,7 @@ No public code linked · Built with flask, javascript, numpy, opencv
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** ActualFood Award · Health Track
-- **How it used Actual Food:** Sponsor use not stated on Devpost
+- **Award:** Won “ActualFood Award” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -258,7 +258,7 @@ courselrns is a full-stack project that takes in a user’s major and academic i
 - **Code:** [Source 1](https://github.com/niksaitov/courselrns)
 - **Demo video:** [Video 1](https://www.loom.com/share/49f9738af8f249c7879ba9f879e8962a)
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
-- **How it used Fidelity:** Sponsor use not stated on Devpost
+- **Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -285,7 +285,7 @@ Want practice problems but LeetCode and HackerRank aren't enough? Sit Down and S
 - **Code:** [Source 1](https://github.com/trentwiles/SitDownAndStudy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=XHelkVvScNQ)
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -312,7 +312,7 @@ Cropscape analyzes location-specific soil, climate, and hardiness data to provid
 - **Code:** [Source 1](https://github.com/Superhero1015/YHack2024-25_Proj)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iuZZZnOtsdk)
 - **All prizes at this hackathon (1):** LightBox
-- **LightBox:** Built with lightbox (listed on Devpost)
+- **How it used LightBox:** Looks up addresses through the LightBox API to retrieve their coordinates.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

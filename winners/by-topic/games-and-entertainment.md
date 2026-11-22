@@ -129,7 +129,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2
 
 A webcam-powered horror game where your vitals shapes an AI creature’s hunt. Fix equipment, broadcast false heartbeats, conceal your presence, and outsmart the monster before it breaches your shelter.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
+[Code](https://github.com/samerrahman/CalHacks-13.0) · [Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
 
 ### [Inbox Invaders](https://devpost.com/software/inbox-invaders)
 
@@ -201,7 +201,7 @@ A Roblox detective game asks players to verify news stories by interviewing witn
 
 Poysson is a game-style training platform covering five attack types: ransomware, SIM-swap fraud, smishing, phishing, and insider/vendor leaks.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
+[Code](https://github.com/nishthefish06/Poysson) · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
 
 ### [Recall](https://devpost.com/software/recall-1wr8y9)
 
@@ -323,7 +323,7 @@ The team created On The Go Storyteller , an interactive reading platform that br
 
 A charming game about persuading fish to get out of the pond :).
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with fishaudio, audio, fish, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
 
 ### [Intelligent Poker League](https://devpost.com/software/intelligent-poker-league)
 

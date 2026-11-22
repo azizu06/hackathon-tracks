@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_
 
 Version control for the physical world.
 
-**Bracket Bot:** Built with bracketbot (listed on Devpost)
+**How it used Bracket Bot:** Bracket Bot's web app streams telemetry, camera frames and pose.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
 

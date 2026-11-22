@@ -33,7 +33,7 @@ Empowering Founder and VC Discovery and with You and Your Voice.
 
 Breaking barriers, building diverse networks - one event at a time.
 
-**How it used Web Summit:** Sponsor use not stated on Devpost
+**Award:** Won “Web Summit: Web Summit challenge” from Web Summit. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/justrach/hackthenorth) · [Demo video](https://www.youtube.com/watch?v=EAe7YApMNT0) · Built with chroma, claude, cloudflare, cohere
 
@@ -43,7 +43,7 @@ Breaking barriers, building diverse networks - one event at a time.
 
 The team saw an opportunity to reimagine how people connect by creating a more dynamic and visual way of representing relationships formed at events.
 
-**How it used Web Summit:** Sponsor use not stated on Devpost
+**Award:** Won “Web Summit: Web Summit challenge” from Web Summit. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=tUX08bXxr2I) · Built with ai, cohere, convex, figma
 

@@ -25,8 +25,9 @@ Readable pages: [sponsors](../SPONSORS.md), [hackathons](../HACKATHONS.md) and [
 | `prize` | Exact prize label from the Devpost gallery |
 | `prize_value` | Placement or value stated in the label, or null |
 | `description` | What the project does, from its Devpost page |
-| `sponsor_integration` | Documented sponsor use or a sponsor product listed in Built With |
-| `use_source`, `use_quote` | Source field and exact supporting excerpt for a sponsor use note |
+| `sponsor_integration` | Documented sponsor use, a listed sponsor product, or award context |
+| `use_source`, `use_quote` | Source type and exact supporting excerpt for the sponsor note |
+| `use_evidence_url` | Commit-pinned code line or linked demo for code and video excerpts |
 | `summary`, `summary_evidence` | Description plus integration note, and how well the source supports it |
 | `sponsor_tech` | Built With tags that belong to the sponsor |
 | `built_with` | All Built With tags on Devpost |
@@ -34,6 +35,7 @@ Readable pages: [sponsors](../SPONSORS.md), [hackathons](../HACKATHONS.md) and [
 | `event_prizes`, `event_prize_count` | Every prize the project won at that hackathon |
 | `required_tech`, `requirement_source` | Tech or brief the track required, and where that came from |
 | `source_urls`, `demo_video_urls` | Code and demo video links that returned HTTP 200 |
+| `code_match_evidence` | How a repository found outside Devpost was matched to the project, or null |
 | `source_link_count_listed`, `demo_video_count_listed` | How many code and video links Devpost listed |
 | `url`, `gallery_url`, `rules_url` | Devpost project page, winners gallery and prize rules |
 | `award_evidence` | `Devpost Winner label`, or `Sponsor-reported prize` for a prize confirmed by the sponsor |

@@ -81,8 +81,8 @@ Commons is a map-first community coordination platform.
 - **Code:** [Source 1](https://github.com/candpixie/yhack-commons)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-yewvVRouq4)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Best use of Hex API
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
-- **How it used Hex:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
+- **Hex:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -111,7 +111,7 @@ track pain and symptoms of chronic conditions like endometriosis in a machine le
 - **Code:** [Source 1](https://github.com/ZacharyYW/perennial)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=71_IR5COyFY)
 - **All prizes at this hackathon (1):** ActualFoods
-- **How it used Actual Food:** Sponsor use not stated on Devpost
+- **Actual Food:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -223,7 +223,7 @@ Food banks today find out about crises when the line gets longer. CrisisGrid det
 - **Code:** [Source 1](https://github.com/richykim7/YHack2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KBmjbQHAL_0)
 - **All prizes at this hackathon (1):** Best use of Hex API
-- **Hex:** Built with hex (listed on Devpost)
+- **How it used Hex:** The team uses Hex Threads to query the database from the dashboard.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -394,7 +394,7 @@ Most people do not know how their scattered data points connect.
 
 Your guided path through regulatory complexity.
 
-[Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with hermes, beautiful-soup, docker, fastapi
+[Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with beautiful-soup, docker, fastapi, framer-motion
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -404,7 +404,7 @@ Your guided path through regulatory complexity.
 - **Code:** [Source 1](https://github.com/xyaei/forseen)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=S-HOp3EjmWo)
 - **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **Nous Research:** Built with hermes (listed on Devpost)
+- **How it used Nous Research:** Uses a Hermes service to generate compliance reports.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -450,7 +450,7 @@ Second Self is a digital twin that runs as a parallel user session on your very 
 - **Code:** [Source 1](https://github.com/23jmo/second-self)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZpCst-PS7t0)
 - **All prizes at this hackathon (2):** Best Use of Hermes -- Nous Research · Personal AI Agent
-- **How it used Nous Research:** Sponsor use not stated on Devpost
+- **Nous Research:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -577,7 +577,7 @@ Making mobility accessible, cheap, simple. and modular to the health sector and 
 - **Code:** [Source 1](https://github.com/ryanli222/yHack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RzqbO86LRXQ)
 - **All prizes at this hackathon (2):** Best Use of Viam · Hardware
-- **Viam:** Built with viam (listed on Devpost)
+- **How it used Viam:** Controls a robot arm through the Viam SDK.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

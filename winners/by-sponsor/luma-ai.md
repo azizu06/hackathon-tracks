@@ -23,7 +23,7 @@
 
 History isn’t just studied, it’s lived. Enter a 3D time-travel adventure.
 
-**How it used Luma AI:** Sponsor use not stated on Devpost
+**Luma AI:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/rgu0114/the-anachronist) · [Demo video](https://www.youtube.com/watch?v=BXpIBv4q-kQ) · Built with elevenlabs, gemini, godot, langchain
 

@@ -43,9 +43,9 @@ An autonomous finance team where nothing moves without proof: Creao agents pick 
 
 An autonomous finance desk that tracks automotive tariffs from imported parts to customer credits, catching errors, learning from decisions, and posting only with approval.
 
-**How it used Creao:** Sponsor use not stated on Devpost
+**How it used Creao:** Routes its tariff desk's reasoning requests to Creao agents when configured.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
+[Code](https://github.com/ParthGala2k/tariffic) · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
 
 ## 2025 winners
 

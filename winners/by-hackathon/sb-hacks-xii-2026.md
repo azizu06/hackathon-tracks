@@ -200,7 +200,7 @@ PC building made easy — ask questions, identify parts, and build confidently.
 - **Code:** [Source 1](https://github.com/kevinwu098/buildr)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lfB2SNkqhy4)
 - **All prizes at this hackathon (1):** TwelveLabs API Challenge
-- **TwelveLabs:** Built with twelvelabs (listed on Devpost)
+- **How it used TwelveLabs:** Uses the TwelveLabs API to index videos and search them by meaning.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -33,7 +33,7 @@ Physical AI for low-pesticide agriculture to help farmers spray less and grow mo
 
 Zero-trust autonomous triage for networked medical hardware. Localized frontier intelligence detects sensor tampering and patches embedded firmware in real time, without ever leaving the device.
 
-**How it used ASUS:** Sponsor use not stated on Devpost
+**ASUS:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jackdeye/LAHACKS2026) · [Demo video](https://www.youtube.com/watch?v=v-JXrRFZ2OM) · Built with arduino, c, flipper, javascript
 
@@ -43,7 +43,7 @@ Zero-trust autonomous triage for networked medical hardware. Localized frontier 
 
 Trash in the recycling? Compost in the trash.
 
-**How it used ASUS:** Sponsor use not stated on Devpost
+**Award:** Won “ASUS Sustainability: Save the Earth” from ASUS. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Ishan-Wakade/Caught_in_4K) · [Demo video](https://www.youtube.com/watch?v=3-jCaqzQ2cg) · Built with chalk, claude, clip, css
 
@@ -53,7 +53,7 @@ Trash in the recycling? Compost in the trash.
 
 Nemo combines a webcam tank experiment, ocean-current data and transparent physics to compare likely pollution sources, test interception layouts, and explain evidence through Chalk and Photon.
 
-**How it used ASUS:** Sponsor use not stated on Devpost
+**Award:** Won “ASUS Sustainability: Save the Earth” from ASUS. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/cjxsez/Nemo) · [Demo video](https://www.youtube.com/watch?v=Xcj1ZIWv9gU) · Built with chalk, cursor, docker, fastapi
 
@@ -63,7 +63,7 @@ Nemo combines a webcam tank experiment, ocean-current data and transparent physi
 
 The command center for ocean climate intervention. Simulate alkalinity deployments, optimize ship routes, and verify the carbon impact on the atmosphere.
 
-**How it used ASUS:** Sponsor use not stated on Devpost
+**ASUS:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/A-Choudhari/LaHacks26) · [Demo video](https://www.youtube.com/watch?v=gyvOeVgc2KM) · Built with ais-stream, asyncio, autoprefixer, calcofi
 

@@ -23,7 +23,7 @@
 
 Cascade provides a sleek, efficient interface for practicing CSS.
 
-**How it used Magic Loops:** Sponsor use not stated on Devpost
+**Magic Loops:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/albonwu/cascade) · [Demo video](https://www.youtube.com/watch?v=BapICN7GPYI) · Built with breadboard, flask, itdc, mongodb
 

@@ -55,7 +55,7 @@ A mixture of agents expert running on cutting edge inference hardware, that in p
 
 Predict Elections Way Better With LLM Agents.
 
-**Cerebras:** Built with cerebras (listed on Devpost)
+**How it used Cerebras:** Uses the Cerebras API as the endpoint for its language model client.
 
 [Code](https://github.com/SahraMohamad/Electra) · [Demo video](https://www.youtube.com/watch?v=c6X9n7o9Zjk) · Built with cerebras, css, d3.js, geojson
 

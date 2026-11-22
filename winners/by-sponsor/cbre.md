@@ -23,7 +23,7 @@
 
 Data centers and commercial buildings run on siloed systems, leaving gaps threats slip through. BluePrint connects that data, detects risks and failures early, and stops them at the first domino.
 
-**How it used CBRE:** Sponsor use not stated on Devpost
+**Award:** Won “CBRE Track” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/adhigithub/BluePrint-HackUTD_2026) · [Demo video](https://www.youtube.com/watch?v=Bvyfo08BG3w) · Built with eas, expo.io, postgresql, react-native
 
@@ -33,7 +33,7 @@ Data centers and commercial buildings run on siloed systems, leaving gaps threat
 
 Canary catches small building warnings before they become expensive outages: AI agents price the risk and draft the fix for one-click approval.
 
-**How it used CBRE:** Sponsor use not stated on Devpost
+**Award:** Won “CBRE Track” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/anothergrind/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=va6dAmJMIG4) · Built with ai-agents, brev, docker, lucide-react
 
@@ -43,7 +43,7 @@ Canary catches small building warnings before they become expensive outages: AI 
 
 Turn real-estate data into explainable infrastructure risk insights and prioritized investigations.
 
-**How it used CBRE:** Sponsor use not stated on Devpost
+**Award:** Won “CBRE Track” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
@@ -55,7 +55,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtN
 
 Cura provides forecasting and analytical insights, commercial real estate properties, pros and cons analysis, and market sentiment.
 
-**How it used CBRE:** Sponsor use not stated on Devpost
+**CBRE:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/armaanamatya/HackUTD2025) · [Demo video](https://www.youtube.com/watch?v=lFJVLqDG710) · Built with ai, crewai, fastapi, mcp
 
@@ -65,9 +65,9 @@ Cura provides forecasting and analytical insights, commercial real estate proper
 
 Expediting the contracts and document signings process between vendors and clients by bringing clarity, transparency, and accountability.
 
-**How it used CBRE:** Sponsor use not stated on Devpost
+**CBRE:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
+[Code](https://github.com/VictoriousVincent1/contracts) · [Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
 
 ### [TrustEstate AI](https://devpost.com/software/cbre-project)
 
@@ -75,7 +75,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=OgYibmNNUD
 
 The app is a full-featured real estate helper that helps you find and trust properties.
 
-**How it used CBRE:** Sponsor use not stated on Devpost
+**CBRE:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
 
@@ -87,7 +87,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2
 
 A smart water management tool that helps households and property managers optimize water usage, save on utilities, and promote conservation through personalized insights and community-driven data.
 
-**How it used CBRE:** Sponsor use not stated on Devpost
+**Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Fernando4242/HackUTD24-EcoFastTrack) · [Demo video](https://www.youtube.com/watch?v=StRry54qZMs) · Built with 3d-printer, arduino, c++, cad
 
@@ -97,7 +97,7 @@ A smart water management tool that helps households and property managers optimi
 
 Efficiency that Saves, Sustainability that Lasts.
 
-**How it used CBRE:** Sponsor use not stated on Devpost
+**Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/FireboltLegend/HackUTD-2024) · [Demo video](https://www.youtube.com/watch?v=V73-WMFlnqU) · Built with blender, c#, haptics, hardware
 

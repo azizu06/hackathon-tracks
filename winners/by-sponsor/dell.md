@@ -23,7 +23,7 @@
 
 Distributed mobile cloud computing, harnessing the power of idle devices to perform arbitrary tasks.
 
-**How it used Dell:** Sponsor use not stated on Devpost
+**Award:** Won “Most Novel Data Mobility Hack by Dell” from Dell. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/cwu2020/nimbus) · Built with css, docker, express.js, html
 

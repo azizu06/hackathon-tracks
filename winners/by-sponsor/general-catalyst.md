@@ -23,7 +23,7 @@
 
 Later, you can pull up the app and watch your recorded shows -- or you can AirPlay them or download them for later.
 
-**How it used General Catalyst:** Sponsor use not stated on Devpost
+**Award:** Won “General Catalyst - Most likely to be the “Next Big Thing”” from General Catalyst. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked
 

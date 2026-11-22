@@ -23,7 +23,7 @@
 
 Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
 
-**How it used Modal:** Sponsor use not stated on Devpost
+**How it used Modal:** Sends video segmentation requests to a configured Modal endpoint.
 
 [Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with elevenlabs, grok, heygen, mediapipe
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=5oxXfazBca
 
 Robots and self-driving cars need training data. Mirage synthesizes 3D world-model training data covering hard-to-capture scenes - like driving in a hailstorm.
 
-**Modal:** Built with modal (listed on Devpost)
+**How it used Modal:** Runs its 3D reconstruction pipeline on Modal.
 
 [Code](https://github.com/kyan-yang/Mirage) · Built with modal, gpu, python
 

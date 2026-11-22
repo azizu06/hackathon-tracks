@@ -23,7 +23,7 @@
 
 It guarantees you the best line for your sales pitch, the smoothest rizz for your date, and the answer to every combinatorics question Citadel could ever throw at you.
 
-**How it used Wordware:** Sponsor use not stated on Devpost
+**Award:** Won “Most Wacky Hack (presented by Wordware)” from Wordware. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/dgne58/jarvis) · [Demo video](https://www.youtube.com/watch?v=L_MScy52fvc) · Built with meta, opencv, python, react
 

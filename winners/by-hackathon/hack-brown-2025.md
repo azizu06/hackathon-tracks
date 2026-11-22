@@ -80,7 +80,7 @@ No public code linked · Built with chatgpt, css, fastapi, html5
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -161,7 +161,7 @@ No public code linked · Built with css, figma, groq, html
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Consumer-Driven Patient Safety Technology Track
-- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Consumer-Driven Patient Safety Technology Track” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ Accelerating clinical decision-making with AI-driven patient simulations, real-t
 - **Code:** [Source 1](https://github.com/CharlesJoseph2003/Hack-Brown2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VQALHk_1ff0)
 - **All prizes at this hackathon (1):** Best Use of AI powered by Reach Capital
-- **How it used Reach Capital:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -215,7 +215,7 @@ No public code linked · Built with amazon-ec2, amazon-web-services, dify.ai, fa
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Developer Tool, sponsored by Warp
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Developer Tool, sponsored by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

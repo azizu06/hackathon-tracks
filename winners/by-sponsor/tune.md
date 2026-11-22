@@ -33,7 +33,7 @@ CoffeeStarter is the ultimate networking tool. It leverages your resume to craft
 
 Empowering students to collectively build smarter, interactive lessons for a better learning experience.
 
-**How it used Tune:** Sponsor use not stated on Devpost
+**Tune:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/danielodicho/upenn) · [Demo video](https://www.youtube.com/watch?v=-HKme-4BvmY) · Built with cerebras, chatgpt, chroma, codeium
 

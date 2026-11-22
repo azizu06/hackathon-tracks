@@ -23,7 +23,7 @@
 
 A mobile app that pairs friends together for everyday activities such as eating or jogging seamlessly.
 
-**How it used Progress:** Sponsor use not stated on Devpost
+**Progress:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/TheMichaelHu/PickyPusheen) · Built with 3dprinting, arduino, nativescript, photon
 

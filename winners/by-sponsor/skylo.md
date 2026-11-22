@@ -33,7 +33,7 @@ Satellite-enabled wireless sensor network for early wildfire detection.
 
 FRED is a satellite-powered emergency response tool that allows users in remote areas to send GPS coordinates, images, and voice data to responders, ensuring help can be dispatched from anywhere.
 
-**Skylo:** Built with skylo (listed on Devpost)
+**How it used Skylo:** The transmitter integrates a Raspberry Pi with Skylo's satellite and cellular combo board.
 
 No public code linked · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
 

@@ -129,7 +129,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopS
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UBaKKoPopSg)
 - **All prizes at this hackathon (2):** &#91;Creao AI&#93; Best AI-First Disruptor · &#91;MLH&#93; Commit Fellowship
 - **How it used Creao:** The team also used the persistent memory feature of CREAO's agents to allow users to iterate on research projects.
-- **How it used MLH / Transcend Network:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;MLH&#93; Commit Fellowship” from MLH / Transcend Network. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -200,7 +200,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49Z
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KuYTNZz49ZM)
 - **All prizes at this hackathon (2):** &#91;Convex&#93; Best use of Convex · &#91;Fetch.ai&#93; Best Use of Fetch.ai
-- **Convex:** Built with convex (listed on Devpost)
+- **How it used Convex:** The board talks to Convex directly.
 - **How it used Fetch.ai:** All seventeen agents are registered on Agentverse, with a public ASI:One session that answers questions about a live incident.
 - **Checked on Devpost:** 2026-11-21
 
@@ -225,7 +225,7 @@ A finance workspace helps AI labs automate bookkeeping and related financial tas
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=K_pESfSqoDQ)
 - **All prizes at this hackathon (2):** &#91;Figma&#93; Best Design · &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
 - **How it used Figma:** The team mapped flows in FigJam, made a clickable version in Figma Make, and animated the outro in Figma Motion.
-- **How it used Hyphenate:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -272,7 +272,7 @@ Autonomous security for the medical devices hospitals can't patch.
 - **Code:** [Source 1](https://github.com/Sanjavan7/PreVent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5u1bG7nEzvI)
 - **All prizes at this hackathon (2):** &#91;Armadin&#93; Best Security Hack · &#91;Bitdeer AI&#93; Best Use of Bitdeer AI Model Studio
-- **How it used Armadin:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Armadin&#93; Best Security Hack” from Armadin. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Bitdeer AI:** A DeepSeek model is running on Bitdeer.
 - **Checked on Devpost:** 2026-11-21
 
@@ -832,17 +832,17 @@ Also won this track: [Anima Labs](#project-anima-labs), [Bursar](#project-bursar
 
 An autonomous finance desk that tracks automotive tariffs from imported parts to customer credits, catching errors, learning from decisions, and posting only with approval.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
+[Code](https://github.com/ParthGala2k/tariffic) · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** anthropic-api, beancount, claude, claude-code, fava, git, openai-api, pytest, python, python-dotenv, pyyaml, sqlite
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/ParthGala2k/tariffic)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zwbd8wDYVz0)
 - **All prizes at this hackathon (1):** &#91;Creao AI&#93; Best One-Person Company
-- **How it used Creao:** Sponsor use not stated on Devpost
+- **How it used Creao:** Routes its tariff desk's reasoning requests to Creao agents when configured.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -990,7 +990,7 @@ A web app that works out how much commission each sales rep has earned, catches 
 - **Code:** [Source 1](https://github.com/aaditisinghal/Quota)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iVvCbKBY73w)
 - **All prizes at this hackathon (1):** &#91;Elastic&#93; Best use of the Elastic Agent Builder on a Serverless Instance
-- **Elastic:** Built with elastic (listed on Devpost)
+- **How it used Elastic:** Elastic finds messages by meaning.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1115,7 +1115,7 @@ A marketing simulation lets a team explore how a proposed launch might perform b
 - **Code:** [Source 1](https://github.com/RoboX2020/Mark-Et-GTM)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EQXDrC-5XXs)
 - **All prizes at this hackathon (1):** &#91;Fetch.ai&#93; Best Use of ASI:One
-- **Fetch.ai:** Built with fetch.ai (listed on Devpost)
+- **How it used Fetch.ai:** Registers uAgents through a Fetch.ai bridge.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1236,7 +1236,7 @@ A mobile finance prototype turns market events into short research tasks and wai
 - **Code:** [Source 1](https://github.com/adylagad/baseland)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wzT5thvdSHw)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Best Stage Log
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1365,7 +1365,7 @@ A motorsport asset manager automates work on vehicle hardware and sends novel de
 - **Code:** [Source 1](https://github.com/gaviiin/calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=x9xjdEn8OcE)
 - **All prizes at this hackathon (1):** &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
-- **How it used Hyphenate:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1388,7 +1388,7 @@ Backrooms gives small businesses a 3D office for supervising finance agents and 
 - **Code:** [Source 1](https://github.com/azizu06/backrooms)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dm1FlQTZYT8)
 - **All prizes at this hackathon (1):** &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
-- **How it used Hyphenate:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1411,7 +1411,7 @@ An event finance assistant handles post-event accounting tasks.
 - **Code:** [Source 1](https://github.com/uijincho/eve)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_XlnhRrZf8M)
 - **All prizes at this hackathon (1):** &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
-- **How it used Hyphenate:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1434,7 +1434,7 @@ A system analyzes billing disputes for operators of satellite ground stations.
 - **Code:** [Source 1](https://github.com/AamirAbatiyow/CalHacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JWtViWhBq-w)
 - **All prizes at this hackathon (1):** &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
-- **How it used Hyphenate:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1457,7 +1457,7 @@ A trust accounting tool reviews ledger entries and documents and escalates discr
 - **Code:** [Source 1](https://github.com/jweng121/mangekyo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BtL7Z_5xcDw)
 - **All prizes at this hackathon (1):** &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
-- **How it used Hyphenate:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1559,7 +1559,7 @@ Life opens new doors. dor keeps old ones from closing, and helps you find your w
 - **Code:** [Source 1](https://github.com/rishibagri/dor-calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LXBGN2EFTMo)
 - **All prizes at this hackathon (1):** &#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1572,17 +1572,17 @@ Life opens new doors. dor keeps old ones from closing, and helps you find your w
 
 A webcam-powered horror game where your vitals shapes an AI creature’s hunt. Fix equipment, broadcast false heartbeats, conceal your presence, and outsmart the monster before it breaches your shelter.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
+[Code](https://github.com/samerrahman/CalHacks-13.0) · [Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** canvas, css3, electron, elevenlabs, espeak-ng, gemini, google-genai, html5, node.js, playwright, presage, react, rppg, smartspectra, spacetimedb, three.js, typescript, vercel, vite, web-audio-api, webrtc
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/samerrahman/CalHacks-13.0)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vZC8I7Vy1TM)
 - **All prizes at this hackathon (1):** &#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1605,7 +1605,7 @@ Re:Collection turns a family visit or an old home video into a 3D Memory Palace 
 - **Code:** [Source 1](https://github.com/shividoge/re-collection)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FQ0vPIS4VM8)
 - **All prizes at this hackathon (1):** &#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1767,7 +1767,7 @@ A navigation aid gives visually impaired users real-time scene feedback through 
 - **Code:** [Source 1](https://github.com/yukevindai/VisionOS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7-MghH5U9Ss)
 - **All prizes at this hackathon (1):** &#91;Notability&#93; Best Use of Notability
-- **Notability:** Built with notability (listed on Devpost)
+- **How it used Notability:** The team used Notability for planning.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2038,7 +2038,7 @@ Ingests supernova / high-energy neutrino alerts (cached IceCube &amp; galactic C
 - **Code:** [Source 1](https://github.com/kejiwuxian/Breakout)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ttrXTT7N31Y)
 - **All prizes at this hackathon (1):** &#91;SpaceXSI&#93; Make it Legendary with SpaceXSI
-- **How it used SpaceXSI:** Sponsor use not stated on Devpost
+- **How it used SpaceXSI:** Can use live Grok to rank candidate stars after a supernova alert.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2092,7 +2092,7 @@ The shopping agent that doesn't compromise on speed or safety.
 - **Code:** [Source 1](https://github.com/micahtid/calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qRmaXwDlp8c)
 - **All prizes at this hackathon (1):** &#91;Visa&#93; Best use of Reimagining Shopping sponsored by Visa
-- **How it used Visa:** Sponsor use not stated on Devpost
+- **Visa:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2119,7 +2119,7 @@ The hardware guardian for software you can't trust.
 - **Code:** [Source 1](https://github.com/share-a-byte/warden)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ahTiwQ9xVaE)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **Vultr:** Built with vultr (listed on Devpost)
+- **How it used Vultr:** The team used Vultr vCPUs to train models on telemetry data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

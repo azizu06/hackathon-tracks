@@ -23,7 +23,7 @@
 
 GEarth is a generated and simulated Earth where AI agents represent countries, institutions, and citizens, and simulate economic behaviors.
 
-**How it used BNY:** Sponsor use not stated on Devpost
+**Award:** Won “BNY: Financial Services Challenge” from BNY. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/liangricky7/GEarth) · [Demo video](https://www.youtube.com/watch?v=7h_nXEkdgIM) · Built with c#, c++, distributed-computation, python
 
@@ -33,7 +33,7 @@ GEarth is a generated and simulated Earth where AI agents represent countries, i
 
 Make shopping easier through the art of accessibility.
 
-**How it used BNY:** Sponsor use not stated on Devpost
+**Award:** Won “BNY: Financial Services Challenge” from BNY. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Dove0Day/knighthacks2026) · [Demo video](https://www.youtube.com/watch?v=WCmblC_Qs0o) · Built with css, cv, easyocr, flask
 
@@ -45,7 +45,7 @@ Make shopping easier through the art of accessibility.
 
 AI-driven solution designed to detect and prevent fraudulent financial transactions in real time. With cutting-edge machine learning models, it ensures secure and reliable fraud detection.
 
-**How it used BNY:** Sponsor use not stated on Devpost
+**Award:** Won “BNY AI-powered Financial Fraud Detection System” from BNY. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/alimuhammad-creator/ShellHacksFIU) · Built with eda, github, google-colab, machine-learning
 
@@ -55,7 +55,7 @@ AI-driven solution designed to detect and prevent fraudulent financial transacti
 
 Using SQL, OpenAI, Flask to detect and report suspicious transactions.
 
-**How it used BNY:** Sponsor use not stated on Devpost
+**Award:** Won “BNY AI-powered Financial Fraud Detection System” from BNY. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/z3nL/h2a) · [Demo video](https://www.youtube.com/watch?v=rIAGdBaJAVE) · Built with css, flask, html, javascript
 

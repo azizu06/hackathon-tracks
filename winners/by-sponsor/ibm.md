@@ -23,7 +23,7 @@
 
 An enhancement for white canes to help the blind navigate their surroundings with ease.
 
-**How it used IBM:** Sponsor use not stated on Devpost
+**IBM:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Monterrey-Dynamics/CaneAssist) · Built with arduino, dialog-flow, raspberry-pi
 
@@ -33,7 +33,7 @@ An enhancement for white canes to help the blind navigate their surroundings wit
 
 A map that shows where the nearest natural disasters are located.
 
-**How it used IBM:** Sponsor use not stated on Devpost
+**How it used IBM:** Uses IBM Watson Visual Recognition to classify flood images.
 
 [Code](https://github.com/tyl21938/crisisMap) · Built with amazon-web-services, google-cloud
 
@@ -43,7 +43,7 @@ A map that shows where the nearest natural disasters are located.
 
 Efficient and impactful supply chain management platform to prevent food waste with IoT smart containers and Machine Learning.
 
-**How it used IBM:** Sponsor use not stated on Devpost
+**How it used IBM:** Uses IBM Watson Visual Recognition to classify uploaded images.
 
 [Code](https://github.com/lizzij/HackMIT) · Built with arduino, azure, azure-cosmos-db, flask
 
@@ -75,7 +75,7 @@ Your future for knowing what's in your water.
 
 The project uses block chain technology to track donations, their contents, and location.
 
-**How it used IBM:** Sponsor use not stated on Devpost
+**IBM:** Sponsor use not stated on Devpost
 
 No public code linked · Built with hyperledger, node-red
 

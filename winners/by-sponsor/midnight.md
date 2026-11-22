@@ -23,7 +23,7 @@
 
 Challenge friends to webcam slap battles, dodge hits like Neo, and win egos—not hospital bills! It's Will Smith's Oscar moment, minus the drama.
 
-**How it used Midnight:** Sponsor use not stated on Devpost
+**Midnight:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/devnull03/nwhacks25-nameTBA) · [Demo video](https://www.youtube.com/watch?v=CQN2vw13LlA) · Built with ai, express.js, hardhat, machine-learning
 
@@ -33,7 +33,7 @@ Challenge friends to webcam slap battles, dodge hits like Neo, and win egos—no
 
 Anonymous voting platform powered by the Midnight Blockchain. Students can now vote privately by utilizing zero-knowledge proofs and decentralized blockchain network verification.
 
-**How it used Midnight:** Sponsor use not stated on Devpost
+**Midnight:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Edwin-Yee/SBHacks-XI) · [Demo video](https://www.youtube.com/watch?v=Bm5nX9-Txrg) · Built with midnight, anchor, next.js, npm
 
@@ -55,7 +55,7 @@ Elevyn empowers creators to monetize exclusive content and fundraisers through b
 
 monitoring dashboards, uniquely effective to each problem.
 
-**How it used Midnight:** Sponsor use not stated on Devpost
+**Midnight:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=HIYSX7clnl8) · Built with typescript
 

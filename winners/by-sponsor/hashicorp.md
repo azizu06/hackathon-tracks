@@ -45,7 +45,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=hecJHlorSy
 
 Have you ever written insecure code? Probably, but how do you know.
 
-**How it used HashiCorp:** Sponsor use not stated on Devpost
+**HashiCorp:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/tbwrigh/CalHacks) · Built with gin, go, javascript, postgresql
 

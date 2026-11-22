@@ -23,7 +23,7 @@
 
 An AI-powered tool for tracking and predicting spheroid tumor invasion kinetics that eliminates the need for manual tracing, featuring an intuitive graphical user interface.
 
-**How it used Hudson River Trading:** Sponsor use not stated on Devpost
+**Award:** Won “Hudson River Trading: Best Use of Data Hack (HRT-branded JBL earbuds per team member)” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ellielin23/STIK_GUI) · [Demo video](https://www.youtube.com/watch?v=WknE6hNdmEc) · Built with conda, cvat, pyqt, python
 
@@ -35,7 +35,7 @@ An AI-powered tool for tracking and predicting spheroid tumor invasion kinetics 
 
 automl for heterogeneous model ensembling, giving automagical state-of-the-art statistical inference.
 
-**How it used Hudson River Trading:** Sponsor use not stated on Devpost
+**Award:** Won “Most Interesting Use of Data with HRT” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/lhirschfeld/ensemble_factory) · Built with networkx, python, scikit-learn, tensorflow
 
@@ -47,7 +47,7 @@ automl for heterogeneous model ensembling, giving automagical state-of-the-art s
 
 Robust fake news detection made simple and scalable for real people.
 
-**How it used Hudson River Trading:** Sponsor use not stated on Devpost
+**Award:** Won “Sponsor Prize - Hudson River Trading - Most Interesting Use of Data” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/likeaj6/FakeBananas) · Built with azure, css, flask, html
 
@@ -59,7 +59,7 @@ Robust fake news detection made simple and scalable for real people.
 
 JS Policy allows web devs to keep user data safe by subjecting 3rd party Javascript to rich runtime policies.
 
-**How it used Hudson River Trading:** Sponsor use not stated on Devpost
+**Award:** Won “Best Low Level / High Performance Hack (Hudson River Trading)” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with javascript
 

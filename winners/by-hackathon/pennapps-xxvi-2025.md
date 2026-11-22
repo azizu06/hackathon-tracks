@@ -42,17 +42,17 @@ Pick a track to jump to its winners on this page.
 
 Greener AI, one prompt at a time.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
+[Code](https://github.com/Keshav-kh/sustain-a-prompt) · [Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** accessible, cerebras-(chat), framer-motion, google-gemini-(optimize), local-per-token-estimation-fallback-(deterministic-simulation), lucide-react, next.js-15-(app-router), responsive, serverless-api-routes, shadcn/ui, tailwind-css, three.js-(svg-fallback-for-wireframe-globe), typescript, ui
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/Keshav-kh/sustain-a-prompt)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mIMQKbmX5O4)
 - **All prizes at this hackathon (1):** MLH - Best use of Auth0
-- **How it used Auth0:** Sponsor use not stated on Devpost
+- **How it used Auth0:** Uses Auth0 as its registration form's sign-in provider.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -79,7 +79,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=F-6xvtqcJH4)
 - **All prizes at this hackathon (1):** CATEGORY - Sustainability (Bloomberg)
-- **How it used Bloomberg:** Sponsor use not stated on Devpost
+- **Award:** Won “CATEGORY - Sustainability (Bloomberg)” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -106,7 +106,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1A
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7kS-5tsI1Ac)
 - **All prizes at this hackathon (1):** CATEGORY - Finance (Capital One)
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **Award:** Won “CATEGORY - Finance (Capital One)” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -129,7 +129,7 @@ A finance prototype explores a way to earn yield on money set aside for subscrip
 - **Code:** [Source 1](https://github.com/adlonymous/subsave)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FC3KWH5CUpk)
 - **All prizes at this hackathon (1):** CATEGORY - Finance (Capital One)
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **Award:** Won “CATEGORY - Finance (Capital One)” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

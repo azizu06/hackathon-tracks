@@ -23,7 +23,7 @@
 
 GridVeda gives powerline operators predictive failure detection at edge. Ensemble AI monitors 20 transformers with real-time health scoring + natural lang diagnostics; all autonomous on NVIDIA Jetson.
 
-**How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Stanford Ecopreneurship&#93; Sustainability: Best prototyping process” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/TheRaven5520/GridVeda) · [Demo video](https://www.youtube.com/watch?v=xun8Srjo-jY) · Built with gpt-oss, html, jetson-nano, nemotron
 
@@ -33,7 +33,7 @@ GridVeda gives powerline operators predictive failure detection at edge. Ensembl
 
 The geoengineering operating system for climate renewal. Predict natural disasters, pick from a suite of rain/cloud seeding interventions, and prevent their destructive impacts.
 
-**How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
 
@@ -45,7 +45,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjt
 
 A tool to match companies to relevant climate actions. Embedding search to find climate initiatives and agentic workflows+tool usage to discover corporate climate actions from sustainability reports.
 
-**How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
+**Award:** Won “Sustainability Prize: Best prototyping process ($800 Cash)” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Suzehva/bas_labs) · [Demo video](https://www.youtube.com/watch?v=rUhAa9_z8zY) · Built with dain, gemini, google, intersystems-db
 
@@ -55,7 +55,7 @@ A tool to match companies to relevant climate actions. Embedding search to find 
 
 An accessible carbon removal assessment platform for Enhanced Rock Weathering (ERW) projects. Democratizing geochemistry science to inform CO2 removal research and carbon credit investments.
 
-**How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
+**Award:** Won “Sustainability Prize: Best solves the user's pain point of a provided challenge ($800 Cash)” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Jackal-Studios/rock-thing) · [Demo video](https://www.youtube.com/watch?v=PkRRfLv6SxA) · Built with beautifulsoup4, crunchflow, docker, flask-(python)
 
@@ -65,7 +65,7 @@ An accessible carbon removal assessment platform for Enhanced Rock Weathering (E
 
 A simple, transparent ecommerce platform for bargain produce that connects consumers and businesses with local farmers to reduce food waste and fight climate change.
 
-**How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
+**Award:** Won “Sustainability Prize: Best incorporation of broader context to enhance venture viability ($800 Cash)” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/twosodium/lemon) · [Demo video](https://www.youtube.com/watch?v=1pXlAKx7Xzo) · Built with dart, flutter, supabase
 

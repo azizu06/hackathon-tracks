@@ -51,8 +51,8 @@ Anonymous voting platform powered by the Midnight Blockchain. Students can now v
 - **Code:** [Source 1](https://github.com/Edwin-Yee/SBHacks-XI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Bm5nX9-Txrg)
 - **All prizes at this hackathon (2):** MLH - Best .Tech Domain Name · MLH - Best Use of Midnight
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
-- **How it used Midnight:** Sponsor use not stated on Devpost
+- **.Tech Domains:** Sponsor use not stated on Devpost
+- **Midnight:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -193,7 +193,7 @@ An app estimates carbon emissions from users’ logged activities and charts the
 - **Code:** [Source 1](https://github.com/SagnikBiswasDL/SBHacksShared2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3oaDyCyiX6o)
 - **All prizes at this hackathon (1):** MLH - Sauce Labs Hot Sauce Raffle
-- **How it used Sauce Labs:** Sponsor use not stated on Devpost
+- **Award:** Won “MLH - Sauce Labs Hot Sauce Raffle” from Sauce Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -247,7 +247,7 @@ ReCapture: Unlock the World, One Memory at a Time.
 - **Code:** [Source 1](https://github.com/NathanRLiu/reCapture)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BBudE_SngUo)
 - **All prizes at this hackathon (1):** Snag Challenge
-- **How it used Snag:** Sponsor use not stated on Devpost
+- **Award:** Won “Snag Challenge” from Snag. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,7 +23,7 @@
 
 A smart cane that guides indoor and outdoor navigation for blind people, costing &#126;1/20 of existing devices and providing better guidance.
 
-**How it used OpenEvidence:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches)” from OpenEvidence. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/tonywangs/shepherd) · [Demo video](https://www.youtube.com/watch?v=nJ5YjK1-0c0) · Built with accelerate, arduino, arkit, avfoundation
 
@@ -33,7 +33,7 @@ A smart cane that guides indoor and outdoor navigation for blind people, costing
 
 RescueRX is a multi-agent AI system that uncovers pre-existing drugs that could treat new diseases.
 
-**How it used OpenEvidence:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches)” from OpenEvidence. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Donglomur/TreeHacks) · [Demo video](https://www.youtube.com/watch?v=bNT22FCYhoA) · Built with knowledge-graph, machine-learning, python
 
@@ -43,7 +43,7 @@ RescueRX is a multi-agent AI system that uncovers pre-existing drugs that could 
 
 ShadowGuard is a network-layer AI firewall that detects and redacts sensitive patient data in real time, before it ever leaves a hospital network.
 
-**How it used OpenEvidence:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;OpenEvidence&#93; Healthcare Track Grand Prize” from OpenEvidence. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/shamanthak-hegde/ShadowGuard) · [Demo video](https://www.youtube.com/watch?v=n0ntGM6gGk8) · Built with css, d3.js, html, javascript
 

@@ -23,7 +23,7 @@
 
 Making discrimination mathematically impossible via the blockchain &amp; homomorphic encryption.
 
-**How it used Taisu Ventures:** Sponsor use not stated on Devpost
+**Award:** Won “Taisu Ventures: Next-Gen Web3 Security Award (4x Deeper Network Air + 1 NGRAVE cold wallet)” from Taisu Ventures. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/zoraizmohammad/cipher-shield) · [Demo video](https://www.youtube.com/watch?v=KuZTRNEq4pU) · Built with c++, node.js, openfhe, react
 
@@ -33,7 +33,7 @@ Making discrimination mathematically impossible via the blockchain &amp; homomor
 
 Intelligent, Efficient, Crypto Donation Platform powered by AI agents.
 
-**How it used Taisu Ventures:** Sponsor use not stated on Devpost
+**Award:** Won “Taisu Ventures: Web3 for Good Award (4x Deeper Network Air)” from Taisu Ventures. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/emilyjsun/GivingTree) · Built with beautiful-soup, chroma, chromadb, flutter
 
@@ -43,7 +43,7 @@ Intelligent, Efficient, Crypto Donation Platform powered by AI agents.
 
 Anti-Rug AI agent for memecoins by frontrunning + sandwich attacks. Longer version: - Memecoin risk evaluator - Auto trade bot - Stops hard and soft rug by removing financial incentives.
 
-**How it used Taisu Ventures:** Sponsor use not stated on Devpost
+**Award:** Won “Taisu Ventures: Most Promising Web3 Project (4x Deeper Network Air)” from Taisu Ventures. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/BdNWoG/watchdog-ai-final) · [Demo video](https://www.youtube.com/watch?v=gup3GO98B5s) · Built with python, solidity, typescript
 

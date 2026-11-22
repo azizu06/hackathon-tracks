@@ -35,9 +35,9 @@ All your apps, at your command. Just say the word and Otto already has it finish
 
 You create a smart application form and share it anywhere — LinkedIn, Handshake, your own site.
 
-**How it used Composio:** Sponsor use not stated on Devpost
+**How it used Composio:** Links the user's GitHub account through Composio.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=bajCGzs3QBk) · Built with brightdata, chromadb, claude, letta
+[Code](https://github.com/asmikachare/githired-ch) · [Demo video](https://www.youtube.com/watch?v=bajCGzs3QBk) · Built with brightdata, chromadb, claude, letta
 
 ## Track names and requirements
 

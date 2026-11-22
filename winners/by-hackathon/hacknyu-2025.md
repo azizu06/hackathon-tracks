@@ -43,17 +43,17 @@ Pick a track to jump to its winners on this page.
 
 The team describes the project as “AI-powered Menu Engineer”.
 
-No public code linked · Built with d3.js, fastapi, javascript, monogodb
+[Code](https://github.com/ShaunakS05/Plately) · Built with d3.js, fastapi, javascript, monogodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** d3.js, fastapi, javascript, monogodb, python, react
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/ShaunakS05/Plately)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Track: Fintech - Best Financial Hack
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **Award:** Won “Track: Fintech - Best Financial Hack” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -76,7 +76,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=w15F0oFqka
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=w15F0oFqkak)
 - **All prizes at this hackathon (1):** Track: Fintech - Best Financial Hack
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **Award:** Won “Track: Fintech - Best Financial Hack” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -157,7 +157,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEY
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gz_HUX_mEYY)
 - **All prizes at this hackathon (1):** Track: Security and Privacy
-- **How it used Nord Security:** Sponsor use not stated on Devpost
+- **Award:** Won “Track: Security and Privacy” from Nord Security. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -180,7 +180,7 @@ FirstWave transforms your organization’s approach to cybersecurity by simulati
 - **Code:** [Source 1](https://github.com/Laphatize/firstwave)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oLO9dA-NBEQ)
 - **All prizes at this hackathon (1):** Track: Security and Privacy
-- **How it used Nord Security:** Sponsor use not stated on Devpost
+- **Award:** Won “Track: Security and Privacy” from Nord Security. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -207,7 +207,7 @@ AutoCPT automates medical billing by extracting CPT codes from doctor-patient ta
 - **Code:** [Source 1](https://github.com/Techdude01/AutoCPT)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YdkI37ASM9w)
 - **All prizes at this hackathon (1):** Best Use of AI powered by Reach Capital
-- **How it used Reach Capital:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -303,7 +303,7 @@ Yes, you read that right – not just devnet, but mainnet-beta.
 - **Code:** [Source 1](https://github.com/Loldude0/hacknyu)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
-- **Solana:** Built with solana (listed on Devpost)
+- **How it used Solana:** Uses Solana mainnet for its transaction functions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

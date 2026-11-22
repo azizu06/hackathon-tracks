@@ -55,9 +55,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=9gLRo36z47
 
 bevinAI is an AI powered orchestration engine that acts as the central nervous system for your development lifecycle.
 
-**How it used DigitalOcean:** Sponsor use not stated on Devpost
+**DigitalOcean:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=a4IBdqUq1vI) · Built with api, confluence, css, django
+[Code](https://github.com/garrgi11/bevinAI) · [Demo video](https://www.youtube.com/watch?v=a4IBdqUq1vI) · Built with api, confluence, css, django
 
 ### [I-IMO](https://devpost.com/software/i-imo)
 
@@ -75,7 +75,7 @@ Intelligent IRL Meeting Organizer - A conversational AI agent designed with the 
 
 A new energy behind world-building. Where imagination meets energy, Scenergy turns your ideas into 3D cinematic worlds.
 
-**How it used DigitalOcean:** Sponsor use not stated on Devpost
+**DigitalOcean:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Niwant/KNIGHTHACKS) · [Demo video](https://www.youtube.com/watch?v=PQAzobRVGgU) · Built with amd, amd-rocm, fastapi, javascript
 

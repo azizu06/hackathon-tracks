@@ -45,7 +45,7 @@ Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that c
 
 FlowPilot listens, understands, and executes, transforming Zoom meetings into Slide decks and Notion workflows. No more lost action items - just approve and watch it execute.
 
-**How it used Perplexity:** Sponsor use not stated on Devpost
+**Perplexity:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/CarterCote/flow-pilot) · [Demo video](https://www.youtube.com/watch?v=d9pkeKJIGRg) · Built with dain, docker, express.js, node.js
 

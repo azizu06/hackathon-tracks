@@ -23,7 +23,7 @@
 
 xcelmail may solve a lot of problems for commercial users of email services like Mailchimp, Constant Contact, Mandrill, SendGrid.
 
-**How it used Constant Contact:** Sponsor use not stated on Devpost
+**Constant Contact:** Sponsor use not stated on Devpost
 
 No public code linked
 

@@ -23,7 +23,7 @@
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-**How it used Encompass:** Sponsor use not stated on Devpost
+**Award:** Won “Encompass: Data Capturing Hardware” from Encompass. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq
 
 A drone control system combines local detection and GPS tracking using low-cost hardware.
 
-**How it used Encompass:** Sponsor use not stated on Devpost
+**Award:** Won “Encompass: Data Capturing Hardware” from Encompass. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, bytetrack, c++, cuda
 
@@ -43,7 +43,7 @@ A drone control system combines local detection and GPS tracking using low-cost 
 
 Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored.
 
-**How it used Encompass:** Sponsor use not stated on Devpost
+**Award:** Won “Encompass: Data Capturing Hardware” from Encompass. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with arduino, arkit, depth-anything, fastapi
 

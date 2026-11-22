@@ -23,7 +23,7 @@
 
 Moods and Metrics visualizes estimated stress levels from audio, video, and transcripts.
 
-**How it used Otsuka / VALUENEX:** Sponsor use not stated on Devpost
+**Otsuka / VALUENEX:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/corey-shen/stress-level-audio-analysis) · [Demo video](https://www.youtube.com/watch?v=3kKoX5IYdJQ) · Built with d3.js, fastapi, gemini, huggingface
 
@@ -33,7 +33,7 @@ Moods and Metrics visualizes estimated stress levels from audio, video, and tran
 
 Combat misinformation through flagged Tweets and grounded sources, and reference a realtime dashboard that visualizes trends on a global scale.
 
-**How it used Otsuka / VALUENEX:** Sponsor use not stated on Devpost
+**Otsuka / VALUENEX:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/dav1dbai/Vigilante) · [Demo video](https://www.youtube.com/watch?v=NQWxzOrpraY) · Built with d3.js, fastapi, groq, next
 

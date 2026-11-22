@@ -71,7 +71,7 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 - **All prizes at this hackathon (3):** Cohere: Best Use of Cohere · Convex: Best App and Startup Idea Built on Convex · Web Summit: Web Summit challenge
 - **How it used Cohere:** The project uses Cohere’s embedding model and Groq’s reranking capabilities to connect participants with complementary skills.
 - **How it used Convex:** The project uses Convex for real-time chat and persistent user data management.
-- **How it used Web Summit:** Sponsor use not stated on Devpost
+- **Award:** Won “Web Summit: Web Summit challenge” from Web Summit. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -108,7 +108,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g
 
 Fight for the top position in a HackTheNorth lip-syncing challenge.
 
-[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, symphonic-labs, nextjs, web
+[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, nextjs, symphonic-labs, web
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -119,7 +119,7 @@ Fight for the top position in a HackTheNorth lip-syncing challenge.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=C_vZ8xYM-pw)
 - **All prizes at this hackathon (2):** Best Use of MongoDB Atlas · Symphonic Labs: Best use of Symphonic Labs API
 - **How it used MongoDB:** The project uses MongoDB as the database for score data.
-- **Symphonic Labs:** Built with symphonic-labs (listed on Devpost)
+- **How it used Symphonic Labs:** The Symphonic API powers translation from lip movement to text.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ Sometimes online shopping can be dull, and most of all, turn away customers who 
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=igOuQHgEvto)
 - **All prizes at this hackathon (2):** Shopify API Challenge · Ubisoft: Ubisoft Game Dev Challenge
 - **How it used Shopify:** The shirts, shorts and pants are on the Shopify-hosted store.
-- **How it used Ubisoft:** Sponsor use not stated on Devpost
+- **Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -298,7 +298,7 @@ Tired of character limits on ChatGPT? Look no further than LLM Pro Max.
 - **Code:** [Source 1](https://github.com/gigabite-pro/LLM-pro-max)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Bm1PYdzCPac)
 - **All prizes at this hackathon (1):** Codegen: Build an Iron Man suit for ChatGPT
-- **How it used Codegen:** Sponsor use not stated on Devpost
+- **Award:** Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -321,7 +321,7 @@ Ever lost your keys? Forgot if you turned off the oven.
 - **Code:** [Source 1](https://github.com/darryltanzil/reCall)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WPjF2uRGGKA)
 - **All prizes at this hackathon (1):** Codegen: Build an Iron Man suit for ChatGPT
-- **How it used Codegen:** Sponsor use not stated on Devpost
+- **Award:** Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -377,7 +377,7 @@ A vulnerability scanner and WiFi penetration tool, using Raspberry Pi. Designed 
 - **Code:** [Source 1](https://github.com/ACCISA/Vanguard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Working in an Air-Gapped Environment
-- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+- **Award:** Won “CSE: Working in an Air-Gapped Environment” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -462,7 +462,7 @@ The team gained valuable experience in integrating proximity detection systems w
 - **Code:** [Source 1](https://github.com/qiz-li/loolooloo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z4kfvKR1sek)
 - **All prizes at this hackathon (1):** Defang: Best Use of Defang
-- **How it used Defang:** Sponsor use not stated on Devpost
+- **How it used Defang:** The hardware calls a Defang-hosted backend to send SMS alerts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -512,7 +512,7 @@ Empowering startups and small investors through a decentralized, transparent, an
 - **Code:** [Source 1](https://github.com/shardaishwak/htn-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HjSpr-ZNBmM)
 - **All prizes at this hackathon (1):** ETHGlobal: Ethereum's Infinite Garden
-- **How it used ETHGlobal:** Sponsor use not stated on Devpost
+- **Award:** Won “ETHGlobal: Ethereum's Infinite Garden” from ETHGlobal. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -539,7 +539,7 @@ Personalized stock insights scraped from your favourite websites.
 - **Code:** [Source 1](https://github.com/jnathan02222/htn-project)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
-- **How it used Fidelity:** Sponsor use not stated on Devpost
+- **Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -572,7 +572,7 @@ Seeing geese all over campus? Well now you can befriend and study with them.
 - **Code:** [Source 1](https://github.com/eyevyl/gooseontheloose)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -655,7 +655,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=heeJFvhzwa
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=heeJFvhzwao)
 - **All prizes at this hackathon (2):** Hack the North 2024 Finalists · Intuit: Win a VR Headset!
-- **How it used Intuit:** Sponsor use not stated on Devpost
+- **Intuit:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -856,7 +856,7 @@ The team describes the project as “But Gesse get no merch”.
 - **Code:** [Source 1](https://github.com/nayanmapara/GeeseLoveMerch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cepJ_1Lz2-g)
 - **All prizes at this hackathon (1):** Ubisoft: Ubisoft Game Dev Challenge
-- **How it used Ubisoft:** Sponsor use not stated on Devpost
+- **Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -879,7 +879,7 @@ Hackathons aren't always about improving the world. Sometimes they're about savi
 - **Code:** [Source 1](https://github.com/Greb-the-awesome/hack-the-bomb)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Ubisoft: Ubisoft Game Dev Challenge
-- **How it used Ubisoft:** Sponsor use not stated on Devpost
+- **Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -902,7 +902,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=VMygnUvt99
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VMygnUvt998)
 - **All prizes at this hackathon (1):** Ubisoft: Ubisoft Game Dev Challenge
-- **How it used Ubisoft:** Sponsor use not stated on Devpost
+- **Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -935,7 +935,7 @@ Schema generation : users provide a website URL and an empty JSON schema, which 
 - **Code:** [Source 1](https://github.com/Zackydout101/htn)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uMJXzlMF9NI)
 - **All prizes at this hackathon (1):** Warp: Best Developer Tool by Warp
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Award:** Won “Warp: Best Developer Tool by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -987,7 +987,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=tUX08bXxr2
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tUX08bXxr2I)
 - **All prizes at this hackathon (1):** Web Summit: Web Summit challenge
-- **How it used Web Summit:** Sponsor use not stated on Devpost
+- **Award:** Won “Web Summit: Web Summit challenge” from Web Summit. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

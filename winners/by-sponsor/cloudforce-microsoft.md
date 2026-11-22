@@ -33,7 +33,7 @@ The autonomous command center for your academic life.
 
 EcoBuddy gamifies sustainability—track your actions, level up your buddy, and earn real rewards for making UMD greener.
 
-**How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+**Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/KaushalGorla/eco-buddy-voice) · [Demo video](https://www.youtube.com/watch?v=r4HnScF_29w) · Built with api, idempotent-pipelines, languages:-javascript, modular
 
@@ -65,7 +65,7 @@ Fighting Drug Waste, Fueling Health Equity.
 
 Complex API management and integration, especially in dynamic, real-time scenarios.
 
-**How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+**Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Vitthal-Agarwal/travel) · [Demo video](https://www.youtube.com/watch?v=dqq1xoLwDOY) · Built with browser-use, elevenlabs, flask, gemini
 

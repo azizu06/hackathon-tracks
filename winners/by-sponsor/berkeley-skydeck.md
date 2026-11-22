@@ -23,7 +23,7 @@
 
 A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There's no app to open, no waiting room.
 
-**How it used Berkeley SkyDeck:** Sponsor use not stated on Devpost
+**Award:** Won “SkyDeck Grand Prize Winner” from Berkeley SkyDeck. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/emilyLi2020/Theracat) · [Demo video](https://vimeo.com/1203255610) · Built with anthropic-claude, arduino, bluetooth, elevenlabs
 

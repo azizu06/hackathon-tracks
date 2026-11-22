@@ -23,7 +23,7 @@
 
 A robot event photographer that captures moments, curates the best frames, and publishes them instantly so guests can relive the event in real time.
 
-**How it used Block:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Block&#93; Best Real-World Ready AI Product” from Block. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/elijahzhao24/BizBot) · [Demo video](https://www.youtube.com/watch?v=-nSwDxqMe5E) · Built with arduino, fastapi, gemini, opencv
 

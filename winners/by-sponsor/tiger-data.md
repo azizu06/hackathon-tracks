@@ -73,7 +73,7 @@ Pse is a novel wearable technology that tracks slouching and turns posture aware
 
 But how does it know where the defects are.
 
-**How it used Tiger Data:** Sponsor use not stated on Devpost
+**How it used Tiger Data:** Supports a Tiger Data connection URL for the sensor inference service's database.
 
 [Code](https://github.com/Georgeyy07/HackTheNorth2026) · Built with expo.io, fastapi, gcloud&amp;docker, godaddy
 

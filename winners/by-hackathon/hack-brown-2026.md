@@ -57,7 +57,7 @@ An agentic AI system that fights back for renters—scouting real listings, expo
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xCzTYc7mIIg)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Gemini API · Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
 - **How it used Google:** The project uses Google Gemini 2.0 Flash for reasoning.
-- **How it used Marshall Wace:** Sponsor use not stated on Devpost
+- **Award:** Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -110,7 +110,7 @@ Search up a city and Munchy Munchy will create a food tour through it, taking yo
 - **Code:** [Source 1](https://github.com/jessiiishin/munchymunchy)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
-- **.Tech Domains:** Built with .tech (listed on Devpost)
+- **How it used .Tech Domains:** The project's CNAME points to munchymunchy.tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -170,7 +170,7 @@ Facetime your dad for home repair advice at anytime.
 - **Code:** [Source 1](https://github.com/ponita05/hack-brown)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xD_QGRqzkvo)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **ElevenLabs:** Built with elevenlabs (listed on Devpost)
+- **How it used ElevenLabs:** Uses ElevenLabs audio in the video chat's text-to-speech flow.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -255,7 +255,7 @@ Whenever you're on a shopping site, Stopify tracks your vital signs and your act
 - **Code:** [Source 1](https://github.com/calebellenberg/hackAtBrown2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
-- **How it used Marshall Wace:** Sponsor use not stated on Devpost
+- **Award:** Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -278,7 +278,7 @@ Unserious is an AI trip planner learning your style via "This or That" choices t
 - **Code:** [Source 1](https://github.com/oliviaaheng/unserious)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
-- **How it used Marshall Wace:** Sponsor use not stated on Devpost
+- **Award:** Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -411,7 +411,7 @@ Also won this track: [SpaceShare](#project-spacesquare) (listed above)
 - **Code:** [Source 1](https://github.com/MUNDANE-MONDAYS/MEchelin_Guide)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-rXiF6k6-8Y)
 - **All prizes at this hackathon (1):** Visa - Custom Track
-- **How it used Visa:** Sponsor use not stated on Devpost
+- **Award:** Won “Visa - Custom Track” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

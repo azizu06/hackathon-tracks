@@ -23,7 +23,7 @@
 
 AI-powered 311 for non-emergencies. Voice-to-dispatch in less than a minute with multi-agent orchestration and ML-driven priority scoring.
 
-**How it used PaleBlueDot AI:** Sponsor use not stated on Devpost
+**PaleBlueDot AI:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
 

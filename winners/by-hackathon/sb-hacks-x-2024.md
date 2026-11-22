@@ -49,7 +49,7 @@ GotchuGaucho is a platform designed to connect party hosts with party-goers at U
 - **Code:** [Source 1](https://github.com/sanilkatula/GotchuGaucho)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_XnOOqrw9dc)
 - **All prizes at this hackathon (1):** MLH - Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -103,7 +103,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwk
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pJKejAEEwkU)
 - **All prizes at this hackathon (1):** MLH - Best Use of Starknet
-- **Starknet:** Built with starknet (listed on Devpost)
+- **How it used Starknet:** Starknet smart contracts verify that companies meet emissions standards without revealing private travel data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

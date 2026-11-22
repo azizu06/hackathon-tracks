@@ -53,7 +53,7 @@ Bringing real humans into Minecraft using iPhone LiDAR, creating 3D point clouds
 
 Once enough keyframes have been extracted, the model samples up to 220 frames and head-masks locally using MediaPipe's selfie segmenter.
 
-**Sentry:** Built with sentry (listed on Devpost)
+**How it used Sentry:** Enables browser tracing with Sentry.
 
 [Code](https://github.com/akashngb/punching-face) · [Demo video](https://www.youtube.com/watch?v=wWvFjsOJgjA) · Built with sentry, colmap, gpt-6-astra, huawei
 

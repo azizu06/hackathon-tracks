@@ -25,7 +25,7 @@ The aim of the project to create automated windows, which open and close to maxi
 
 **How it used Weather Underground:** The project uses Weather Underground data to compare room temperature with temperature and weather conditions outside.
 
-No public code linked · Built with android, arduino, electric-imp, twilio
+[Code](https://github.com/fpayer/smartwindow) · Built with android, arduino, electric-imp, twilio
 
 ## Track names and requirements
 

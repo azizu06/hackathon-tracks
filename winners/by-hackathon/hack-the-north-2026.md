@@ -82,7 +82,7 @@ Pixie is one inspectable risk engine presented as two products: a commercial und
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=O47V32zbv20)
 - **All prizes at this hackathon (2):** Federato: Building the Federato Insurance Agent · Intact: The Quoting Interface of the Future
 - **How it used Federato:** The demo uses a local snapshot pulled from Federato's supplied synthetic API.
-- **How it used Intact:** Sponsor use not stated on Devpost
+- **Award:** Won “Intact: The Quoting Interface of the Future” from Intact. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -135,7 +135,7 @@ Gloves that turn your movements and voice into game controls, so instead of lear
 - **Code:** [Source 1](https://github.com/Eben-Siyabalapitiya/Gestura)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oqHZeFjPbFE)
 - **All prizes at this hackathon (1):** Aramco Americas: Best Beginner Hack
-- **How it used Aramco:** Sponsor use not stated on Devpost
+- **Award:** Won “Aramco Americas: Best Beginner Hack” from Aramco. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -158,7 +158,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9C
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Nec6JXXG9Cw)
 - **All prizes at this hackathon (1):** Aramco Americas: Best Beginner Hack
-- **How it used Aramco:** Sponsor use not stated on Devpost
+- **Award:** Won “Aramco Americas: Best Beginner Hack” from Aramco. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -185,7 +185,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkP
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Hl7-T8QNkPY)
 - **All prizes at this hackathon (1):** Backboard.io: Built on Backboard
-- **Backboard.io:** Built with backboard (listed on Devpost)
+- **How it used Backboard.io:** The project used Backboard for session context.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -285,7 +285,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXM
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FEGR3mJmXMg)
 - **All prizes at this hackathon (1):** Bracket Bot: Best Use of Bracket Bot Hardware
-- **Bracket Bot:** Built with bracketbot (listed on Devpost)
+- **How it used Bracket Bot:** Bracket Bot's web app streams telemetry, camera frames and pose.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -418,7 +418,7 @@ Cover your blind spots. Model behaviour, correlate anomalies.
 - **Code:** [Source 1](https://github.com/Ch33zig/Minny)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EaLT4MyxxX4)
 - **All prizes at this hackathon (1):** CSE: Log &amp; Order
-- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+- **Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -441,7 +441,7 @@ Doing this is tedious work, which is why automation and AI for completing these 
 - **Code:** [Source 1](https://github.com/JeremyFriesenGitHub/htn26)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Log &amp; Order
-- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+- **Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -464,7 +464,7 @@ Turn HTTP logs into provable, safe incident response.
 - **Code:** [Source 1](https://github.com/Hayden9898/WatchTower)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Log &amp; Order
-- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+- **Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -518,7 +518,7 @@ Automated system to tackle the Dominion Dynamics track.
 - **Code:** [Source 1](https://github.com/Ollienel777/HTN_DOGWATCH)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Dominion Dynamics: WHITEOUT
-- **How it used Dominion Dynamics:** Sponsor use not stated on Devpost
+- **How it used Dominion Dynamics:** Uses Dominion Dynamics' tracks API to post and retrieve simulated tracks.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -541,7 +541,7 @@ Automated system to tackle the Dominion Dynamics track.
 - **Code:** [Source 1](https://github.com/savirsingh/DominIQ)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zN7Yl_UZopU)
 - **All prizes at this hackathon (1):** Dominion Dynamics: WHITEOUT
-- **How it used Dominion Dynamics:** Sponsor use not stated on Devpost
+- **Dominion Dynamics:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -564,7 +564,7 @@ Shadow Stalker is a secure program that commands an aerial fleet and multiple gr
 - **Code:** [Source 1](https://github.com/malekhammoud/Drone-Sim)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6RL2bwKpjxA)
 - **All prizes at this hackathon (1):** Dominion Dynamics: WHITEOUT
-- **How it used Dominion Dynamics:** Sponsor use not stated on Devpost
+- **Dominion Dynamics:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -591,7 +591,7 @@ A live, on-chain prediction market that thrives on hackathon chaos. Seamlessly b
 - **Code:** [Source 1](https://github.com/Erenius-Valoraen/pred-market)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iZufLdMMyhc)
 - **All prizes at this hackathon (1):** Dryft: Dryft Company Challenge
-- **How it used Dryft:** Sponsor use not stated on Devpost
+- **Dryft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -782,7 +782,7 @@ MedBot turns viral health claims into evidence-backed insights and shareable vid
 - **Code:** [Source 1](https://github.com/RayanMalki/medbot-htn2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=utDEHZVCYtU)
 - **All prizes at this hackathon (1):** GPTZero: Best Use of GPTZero API
-- **How it used GPTZero:** Sponsor use not stated on Devpost
+- **How it used GPTZero:** Checks whether the transcript could be AI-written with GPTZero when the service is available.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -828,7 +828,7 @@ Snitch helps recruiters spot suspicious moments in remote interviews by combinin
 - **Code:** [Source 1](https://github.com/amelialon/Snitch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Yi8CKzDzxrU)
 - **All prizes at this hackathon (1):** GPTZero: Best Use of GPTZero API
-- **GPTZero:** Built with gptzero (listed on Devpost)
+- **How it used GPTZero:** Uses GPTZero to score interview text for the probability that it is AI-generated.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -974,7 +974,7 @@ The project consists of a main physical contribution to the LeLamp, along with m
 - **Code:** [Source 1](https://github.com/tessaSlice/lelamp-play-pack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Hx11IIzHZcw)
 - **All prizes at this hackathon (1):** Human Computer Lab: Build with LeLamp SDK
-- **How it used Human Computer Lab:** Sponsor use not stated on Devpost
+- **How it used Human Computer Lab:** LeLamp uses a custom cone to increase light intensity.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1232,7 +1232,7 @@ An evidence-first finance research harness that uses AI to deliver fully auditab
 - **Code:** [Source 1](https://github.com/pravinpaudel/ai-harnesss-htn-2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** RBC: Signal in the Noise
-- **How it used RBC:** Sponsor use not stated on Devpost
+- **Award:** Won “RBC: Signal in the Noise” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1255,7 +1255,7 @@ Multi-agent research that cites its sources and flags conflicts.
 - **Code:** [Source 1](https://github.com/liamma06/searchGM)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uoozwdHRqZA)
 - **All prizes at this hackathon (1):** RBC: Signal in the Noise
-- **How it used RBC:** Sponsor use not stated on Devpost
+- **Award:** Won “RBC: Signal in the Noise” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1282,7 +1282,7 @@ Live voice and action reactive canvas for the future of presentations.
 - **Code:** [Source 1](https://github.com/Marcus990/adlib)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7rFWjY7Ly7k)
 - **All prizes at this hackathon (1):** Rox: Best AI Agent
-- **How it used Rox:** Sponsor use not stated on Devpost
+- **Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1305,7 +1305,7 @@ Run your browser agents faster-- at a fraction of the cost.
 - **Code:** [Source 1](https://github.com/evanzyang91/jevis)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Rox: Best AI Agent
-- **How it used Rox:** Sponsor use not stated on Devpost
+- **Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1378,7 +1378,7 @@ Once enough keyframes have been extracted, the model samples up to 220 frames an
 - **Code:** [Source 1](https://github.com/akashngb/punching-face)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wWvFjsOJgjA)
 - **All prizes at this hackathon (2):** Hack the North 2026: Finalists · Sentry: Best Use of Sentry
-- **Sentry:** Built with sentry (listed on Devpost)
+- **How it used Sentry:** Enables browser tracing with Sentry.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1482,7 +1482,7 @@ Every player is armed with an ESP32-C3 badge with an LED strip, a small screen, 
 - **Code:** [Source 1](https://github.com/s-illly/htn-amongus)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Solana: Best Use of Solana and Badge Hack
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1582,7 +1582,7 @@ But how does it know where the defects are.
 - **Code:** [Source 1](https://github.com/Georgeyy07/HackTheNorth2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MLH: Best Use of Tiger Data
-- **How it used Tiger Data:** Sponsor use not stated on Devpost
+- **How it used Tiger Data:** Supports a Tiger Data connection URL for the sensor inference service's database.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1599,7 +1599,7 @@ But how does it know where the defects are.
 
 C. elegans (or the roundworm) was the first.
 
-[Code](https://github.com/MarcDasilva/flyVSworm) · [Demo video](https://www.youtube.com/watch?v=uWx6xYoPXUY) · Built with thru, c, elevenlabs, geminiapi
+[Code](https://github.com/MarcDasilva/flyVSworm) · [Demo video](https://www.youtube.com/watch?v=uWx6xYoPXUY) · Built with c, elevenlabs, geminiapi, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -1609,7 +1609,7 @@ C. elegans (or the roundworm) was the first.
 - **Code:** [Source 1](https://github.com/MarcDasilva/flyVSworm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uWx6xYoPXUY)
 - **All prizes at this hackathon (1):** Unto Labs: Best Use of Thru
-- **Unto Labs:** Built with thru (listed on Devpost)
+- **How it used Unto Labs:** Queries on-chain state through Unto Labs’ Thru SDK.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1663,7 +1663,7 @@ Augmented Reality debugging tool. Spatial diagnostics for embedded systems.
 - **Code:** [Source 1](https://github.com/PyneKoyne/AR-Debugger)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lSqLyfDsvgU)
 - **All prizes at this hackathon (1):** Warp: Best Developer Tool by Warp
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Award:** Won “Warp: Best Developer Tool by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

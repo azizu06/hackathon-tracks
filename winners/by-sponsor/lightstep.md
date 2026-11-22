@@ -23,7 +23,7 @@
 
 You have too many GitHub repos that are all out of date, and you're all out of pizza. GitGud gotchu.
 
-**How it used Lightstep:** Sponsor use not stated on Devpost
+**Lightstep:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jordynlm/GitGud) · Built with bash, python
 

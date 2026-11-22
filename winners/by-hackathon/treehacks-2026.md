@@ -74,7 +74,7 @@ A home assistant supports older adults with daily routines and keeps their famil
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vFU1GSWrbRk)
 - **All prizes at this hackathon (2):** &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro) · &#91;Decagon&#93; Best Conversation Assistant (Nintendo Switch 2 Mario Kart World Bundle Guaranteed onsite interviews for internship)
 - **How it used Anthropic:** Claude powers the agent server and orchestrates conversations with context retention.
-- **How it used Decagon:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Decagon&#93; Best Conversation Assistant (Nintendo Switch 2 Mario Kart World Bundle Guaranteed onsite interviews for internship)” from Decagon. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -98,7 +98,7 @@ Buy! is an AI agent marketplace that sells your stuff for you.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Dv-Bqklp-RE)
 - **All prizes at this hackathon (2):** &#91;Browserbase&#93; Best Web Automation with Stagehand · &#91;Google&#93; Cloud AI Track
 - **How it used Browserbase:** Cloud browser sessions via Browserbase + Stagehand give the agents real browser access to Facebook Marketplace, and GPT models power the negotiation intelligence.
-- **How it used Google:** Sponsor use not stated on Devpost
+- **Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -169,7 +169,7 @@ Jiggle Wiggle is a real-time AI movement coach that works with three input modes
 - **Code:** [Source 1](https://github.com/cindyzli/jigglewiggle)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kL3udtWY1EE)
 - **All prizes at this hackathon (2):** &#91;Modal&#93; Inference Track · &#91;Zoom x Render&#93; Best use of Zoom APIs + Render
-- **How it used Modal:** Sponsor use not stated on Devpost
+- **How it used Modal:** Sends video segmentation requests to a configured Modal endpoint.
 - **How it used Zoom / Render:** The project uses the Zoom Meeting SDK to join calls.
 - **Checked on Devpost:** 2026-11-21
 
@@ -218,7 +218,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KB5vgGlufa4)
 - **All prizes at this hackathon (2):** &#91;Modal&#93; Sandbox Challenge · &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
 - **How it used Modal:** The project uses Modal for isolated cloud sandbox execution.
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -265,8 +265,8 @@ A smart cane that guides indoor and outdoor navigation for blind people, costing
 - **Code:** [Source 1](https://github.com/tonywangs/shepherd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nJ5YjK1-0c0)
 - **All prizes at this hackathon (3):** &#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches) · &#91;OpenEvidence&#93; Healthcare Track Grand Prize · Treehacks Grand Prize (1st)
-- **How it used OpenEvidence:** Sponsor use not stated on Devpost
-- **How it used OpenEvidence:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches)” from OpenEvidence. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “&#91;OpenEvidence&#93; Healthcare Track Grand Prize” from OpenEvidence. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -313,7 +313,7 @@ Show Snappier your workflow once by recording your screen. AI figures out what y
 - **Code:** [Source 1](https://github.com/nintang/snappier)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Mi4oWY_EkYc)
 - **All prizes at this hackathon (2):** &#91;Graphite&#93; Most Likely to get Acquired by a Sponsor (OB–4 black bluetooth speaker) · &#91;Vercel&#93; Best Use of Vercel/Best Deployed on Vercel
-- **How it used Graphite:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Graphite&#93; Most Likely to get Acquired by a Sponsor (OB–4 black bluetooth speaker)” from Graphite. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Vercel:** The project uses the Vercel AI SDK as a unified interface for its LLMs with structured output.
 - **Checked on Devpost:** 2026-11-21
 
@@ -669,7 +669,7 @@ Can AI agents in multi-agent systems deceive, deduce, and stay aligned.
 - **Code:** [Source 1](https://github.com/samarth-bhargav/treehacks-amogus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xhi-_4qUExg)
 - **All prizes at this hackathon (1):** &#91;Greylock&#93; Best multi-turn agent
-- **How it used Greylock:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -692,7 +692,7 @@ Edamame creates AI clones of every employee by ingesting their Slack messages, G
 - **Code:** [Source 1](https://github.com/angelinaquan/edamame-treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6HlN98ilkzc)
 - **All prizes at this hackathon (1):** &#91;Greylock&#93; Best multi-turn agent
-- **How it used Greylock:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -715,7 +715,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erM
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p0ruAH5erME)
 - **All prizes at this hackathon (1):** &#91;Greylock&#93; Best multi-turn agent
-- **How it used Greylock:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -748,7 +748,7 @@ The hot new LLVM backend: compile your code to a spreadsheet.
 - **Code:** [Source 1](https://github.com/kognise/freak-in-the-sheets)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5Sb-QcEFHwg)
 - **All prizes at this hackathon (2):** &#91;Human Capital&#93; Human Capital Fellowship Prize · Most Technically Complex
-- **How it used Human Capital:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -771,7 +771,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=rzGvQOiOc8
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rzGvQOiOc8c)
 - **All prizes at this hackathon (1):** &#91;Human Capital&#93; Human Capital Fellowship Prize
-- **How it used Human Capital:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -794,7 +794,7 @@ The biggest lesson was that the right level of AI autonomy depends on the domain
 - **Code:** [Source 1](https://github.com/csaye/ontab)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=76gxlzWBOzY)
 - **All prizes at this hackathon (1):** &#91;Human Capital&#93; Human Capital Fellowship Prize
-- **How it used Human Capital:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -875,7 +875,7 @@ Robots and self-driving cars need training data. Mirage synthesizes 3D world-mod
 - **Code:** [Source 1](https://github.com/kyan-yang/Mirage)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;Modal&#93; Inference Track
-- **Modal:** Built with modal (listed on Devpost)
+- **How it used Modal:** Runs its 3D reconstruction pipeline on Modal.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -925,7 +925,7 @@ You can take a picture and choose from a range of filters to apply to your image
 - **Code:** [Source 1](https://github.com/alexkranias/diffuji)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JiRth1HCIag)
 - **All prizes at this hackathon (2):** &#91;Neo&#93; Most Likely to Become a Product · Most Creative
-- **How it used Neo:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Neo&#93; Most Likely to Become a Product” from Neo. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1123,7 +1123,7 @@ RescueRX is a multi-agent AI system that uncovers pre-existing drugs that could 
 - **Code:** [Source 1](https://github.com/Donglomur/TreeHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bNT22FCYhoA)
 - **All prizes at this hackathon (1):** &#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches)
-- **How it used OpenEvidence:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches)” from OpenEvidence. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1146,7 +1146,7 @@ ShadowGuard is a network-layer AI firewall that detects and redacts sensitive pa
 - **Code:** [Source 1](https://github.com/shamanthak-hegde/ShadowGuard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=n0ntGM6gGk8)
 - **All prizes at this hackathon (1):** &#91;OpenEvidence&#93; Healthcare Track Grand Prize
-- **How it used OpenEvidence:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;OpenEvidence&#93; Healthcare Track Grand Prize” from OpenEvidence. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1225,7 +1225,7 @@ One ad. Every market.AI-localized in seconds.
 - **Code:** [Source 1](https://github.com/ssiddhantsood/treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=C3_5c9b4zxg)
 - **All prizes at this hackathon (1):** &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).)
-- **Runpod:** Built with runpod (listed on Devpost)
+- **How it used Runpod:** Configures a Runpod Flash serverless GPU worker for video editing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1275,7 +1275,7 @@ GridVeda gives powerline operators predictive failure detection at edge. Ensembl
 - **Code:** [Source 1](https://github.com/TheRaven5520/GridVeda)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xun8Srjo-jY)
 - **All prizes at this hackathon (1):** &#91;Stanford Ecopreneurship&#93; Sustainability: Best prototyping process
-- **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Stanford Ecopreneurship&#93; Sustainability: Best prototyping process” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1298,7 +1298,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjt
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BBR3-OXCjtU)
 - **All prizes at this hackathon (1):** &#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability
-- **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1325,7 +1325,7 @@ Real-time music chord suggestions based on the elegant theory of 24D chroma vect
 - **Code:** [Source 1](https://github.com/J4Joshua/JASS-APP)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=niFOu62-IwU)
 - **All prizes at this hackathon (2):** &#91;Suno&#93; Best Musical Hack · Treehacks Grand Prize (3rd)
-- **How it used Suno:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Suno&#93; Best Musical Hack” from Suno. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1381,7 +1381,7 @@ MIRA is an AI powered smart mirror that helps you decide what to wear and what t
 - **Code:** [Source 1](https://github.com/23jmo/mirrorless)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ki_rh4TUoOQ)
 - **All prizes at this hackathon (1):** &#91;Visa&#93; The Generative Edge: Future of Commerce
-- **How it used Visa:** Sponsor use not stated on Devpost
+- **Visa:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1437,7 +1437,7 @@ You’re walking down the street and someone passes you wearing your exact ideal
 - **Code:** [Source 1](https://github.com/socratesosorio/aesthetica)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZhqUDfSZVuw)
 - **All prizes at this hackathon (1):** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1460,7 +1460,7 @@ The self-modifying browser for maximizing productivity.
 - **Code:** [Source 1](https://github.com/adeng27/evolve-browser)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tJDPK8Kg8XE)
 - **All prizes at this hackathon (1):** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1483,7 +1483,7 @@ Match with the best applicants, powered by AI agents and TikTok's recommendation
 - **Code:** [Source 1](https://github.com/pahu2353/HireUp)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=a03VWeouYsk)
 - **All prizes at this hackathon (1):** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1506,7 +1506,7 @@ AI-Native Infrastructure that Reimagines Trade Work for Blue-Collar Careers.
 - **Code:** [Source 1](https://github.com/Yaga-Yoink/tradeproof)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=087da__L-74)
 - **All prizes at this hackathon (1):** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1529,7 +1529,7 @@ The team learned that translation from informal mathematics to formal language i
 - **Code:** [Source 1](https://github.com/aryans-15/zeta)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RJV8a8PWkxQ)
 - **All prizes at this hackathon (1):** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1556,7 +1556,7 @@ Agentified personal in-home care for the elderly. Multimodal S2S agent system ha
 - **Code:** [Source 1](https://github.com/o-bm/dot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ziUp2ybO3vc)
 - **All prizes at this hackathon (1):** &#91;Zingage&#93; Best Voice AI for Healthcare (Airpods Max + fast-track to superday with Zingage)
-- **How it used Zingage:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Zingage&#93; Best Voice AI for Healthcare (Airpods Max + fast-track to superday with Zingage)” from Zingage. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

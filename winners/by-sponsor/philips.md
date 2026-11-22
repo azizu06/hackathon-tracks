@@ -23,7 +23,7 @@
 
 Augmenting ordinary paper with new interactive experiences.
 
-**How it used Philips:** Sponsor use not stated on Devpost
+**Award:** Won “Focus based document summarization (Philips)” from Philips. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/adityavishwanath/augmented_paper) · Built with arduino, c++, google-cloud, python
 

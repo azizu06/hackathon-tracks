@@ -23,9 +23,9 @@
 
 Turning one photo into civic action.
 
-**How it used SnapDev:** Sponsor use not stated on Devpost
+**SnapDev:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=PoeRdtQU7hg) · Built with brightdata, fastapi, groq, javascript
+[Code](https://github.com/Babagesh/Potbot) · [Demo video](https://www.youtube.com/watch?v=PoeRdtQU7hg) · Built with brightdata, fastapi, groq, javascript
 
 ## Track names and requirements
 

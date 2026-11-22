@@ -23,7 +23,7 @@
 
 Ingests supernova / high-energy neutrino alerts (cached IceCube &amp; galactic CCSN replays offline; live GCN / SNEWS-style channels when configured).
 
-**How it used SpaceXSI:** Sponsor use not stated on Devpost
+**How it used SpaceXSI:** Can use live Grok to rank candidate stars after a supernova alert.
 
 [Code](https://github.com/kejiwuxian/Breakout) · [Demo video](https://www.youtube.com/watch?v=ttrXTT7N31Y) · Built with claude, css, cursor, dockerfile
 
@@ -33,7 +33,7 @@ Ingests supernova / high-energy neutrino alerts (cached IceCube &amp; galactic C
 
 An AI-powered disaster response command center that identifies urgent needs, investigates emergency reports, and coordinates simulated rescue operations with human oversight.
 
-**How it used SpaceXSI:** Sponsor use not stated on Devpost
+**SpaceXSI:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/vikramaharshith/res-q) · Built with ai-agents, codex, cursor, generative-ai
 
@@ -43,7 +43,7 @@ An AI-powered disaster response command center that identifies urgent needs, inv
 
 Ever wanted to relive a moment in time? With Rewind, step inside your old videos and live events using just your phone.
 
-**How it used SpaceXSI:** Sponsor use not stated on Devpost
+**SpaceXSI:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/SriSrik123/HackPrinceton) · Built with colmap, cursor, ffmpeg, gaussian
 
@@ -53,7 +53,7 @@ Ever wanted to relive a moment in time? With Rewind, step inside your old videos
 
 Every one of the team has struggled with being the "new kid" at school, or just trying to find a group with similar interests in general.
 
-**How it used SpaceXSI:** Sponsor use not stated on Devpost
+**SpaceXSI:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Ethanwashere1/HackTX-Project) · [Demo video](https://www.youtube.com/watch?v=gzq8r-Xo2YY) · Built with claude, css, gemini, grok
 

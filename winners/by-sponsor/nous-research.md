@@ -43,9 +43,9 @@ agentic peer review citation verification for research papers.
 
 Your guided path through regulatory complexity.
 
-**Nous Research:** Built with hermes (listed on Devpost)
+**How it used Nous Research:** Uses a Hermes service to generate compliance reports.
 
-[Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with hermes, beautiful-soup, docker, fastapi
+[Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with beautiful-soup, docker, fastapi, framer-motion
 
 ### [neuro-trading.](https://devpost.com/software/neuro-trader)
 
@@ -63,7 +63,7 @@ fMRI-enhanced swarm simulations for prediction markets.
 
 Second Self is a digital twin that runs as a parallel user session on your very own Mac.
 
-**How it used Nous Research:** Sponsor use not stated on Devpost
+**Nous Research:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/23jmo/second-self) · [Demo video](https://www.youtube.com/watch?v=ZpCst-PS7t0) · Built with agentation, appkit, auth0, beautifulsoup4
 

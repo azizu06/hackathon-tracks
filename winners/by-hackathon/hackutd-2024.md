@@ -58,7 +58,7 @@ Backtracc reminds you of forgotten valuables when you leave rideshare vehicles b
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Rae562RAkhU)
 - **All prizes at this hackathon (3):** &#91;MLH&#93; Best AI Application Built with Cloudflare · Hardware · Samba Nova
 - **How it used Cloudflare:** The team used Terraform to deploy the frontend and manage the DNS on Cloudflare.
-- **How it used SambaNova:** Sponsor use not stated on Devpost
+- **How it used SambaNova:** Calls SambaNova's chat completions API from its backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -81,8 +81,8 @@ It takes in data about a well and tries to detect anomalies to predict when hydr
 - **Code:** [Source 1](https://github.com/zekestephens/dhy-n0)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=u_p-SZjQW9U) · [Video 2](https://www.youtube.com/watch?v=yX_HXU2jF9s)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best .Tech Domain Name · EOG Resources
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
-- **How it used EOG Resources:** Sponsor use not stated on Devpost
+- **How it used .Tech Domains:** The team links to dhy-n0.tech as its .tech project site.
+- **How it used EOG Resources:** Reads EOG Resources challenge data from CSV files.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -105,8 +105,8 @@ A smart water management tool that helps households and property managers optimi
 - **Code:** [Source 1](https://github.com/Fernando4242/HackUTD24-EcoFastTrack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=StRry54qZMs)
 - **All prizes at this hackathon (2):** CBRE · Veolia
-- **How it used CBRE:** Sponsor use not stated on Devpost
-- **How it used Veolia:** Sponsor use not stated on Devpost
+- **Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
+- **Veolia:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ Efficiency that Saves, Sustainability that Lasts.
 - **Code:** [Source 1](https://github.com/FireboltLegend/HackUTD-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=V73-WMFlnqU)
 - **All prizes at this hackathon (1):** CBRE
-- **How it used CBRE:** Sponsor use not stated on Devpost
+- **Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -225,7 +225,7 @@ Monitor your pipes and and the likelihood that there is a hydrate.
 - **Code:** [Source 1](https://github.com/lightningbolt7/HackUTD-XI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=A-HWoCepzhw)
 - **All prizes at this hackathon (1):** EOG Resources
-- **How it used EOG Resources:** Sponsor use not stated on Devpost
+- **Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -252,7 +252,7 @@ AI-Banking is the ultimate financial companion for the unbanked, underbanked, an
 - **Code:** [Source 1](https://github.com/aprajita27/AllBank)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PpnAEd4Dwek)
 - **All prizes at this hackathon (1):** Goldman Sachs
-- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
+- **Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -275,7 +275,7 @@ Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-t
 - **Code:** [Source 1](https://github.com/danielodicho/lumo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SXQl53rMZ6Q)
 - **All prizes at this hackathon (2):** General · Goldman Sachs
-- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
+- **Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -298,7 +298,7 @@ Where YOU can talk to your own personalized bank.
 - **Code:** [Source 1](https://github.com/aurelisajuan/TalkTuahBank)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YsH_z1azXSA)
 - **All prizes at this hackathon (2):** General · Goldman Sachs
-- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
+- **Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -352,7 +352,7 @@ InvestIQ simplifies investing for everyone, offering real-time insights, educati
 - **Code:** [Source 1](https://github.com/krish-shar/InvestIQ)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LAvZvJE8MMA)
 - **All prizes at this hackathon (1):** Infosys
-- **How it used Infosys:** Sponsor use not stated on Devpost
+- **Award:** Won “Infosys” from Infosys. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -402,7 +402,7 @@ It's a social cheese rating and sharing website.
 - **Code:** [Source 1](https://github.com/joemmalatesta/CheddarBoxd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ijk-pzGl-H0)
 - **All prizes at this hackathon (2):** Best Solo Hack · Pinata
-- **Pinata:** Built with pinata (listed on Devpost)
+- **How it used Pinata:** Creates a Pinata group when a user signs up.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -415,17 +415,17 @@ It's a social cheese rating and sharing website.
 
 Meet Monch – the AI-powered app that uses photos of your food to instantly recognizes ingredients, portion sizes, and calculates complete macro breakdowns.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ZkMzkzsfklo) · Built with pinata, clerk, next, react
+[Code](https://github.com/jacksonmoody/monch) · [Demo video](https://www.youtube.com/watch?v=ZkMzkzsfklo) · Built with pinata, clerk, next, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** clerk, next, pinata, react
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/jacksonmoody/monch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZkMzkzsfklo)
 - **All prizes at this hackathon (1):** Pinata
-- **Pinata:** Built with pinata (listed on Devpost)
+- **How it used Pinata:** Uploads user files to Pinata.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -452,7 +452,7 @@ Data Pattern Observatory combines real-time data tracking with statistical model
 - **Code:** [Source 1](https://github.com/siddhu-pikachu/data-observability)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All prizes at this hackathon (1):** PNC Bank
-- **How it used PNC Bank:** Sponsor use not stated on Devpost
+- **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -475,7 +475,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eX-9qLLoR2E)
 - **All prizes at this hackathon (1):** PNC Bank
-- **How it used PNC Bank:** Sponsor use not stated on Devpost
+- **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -498,7 +498,7 @@ Providing investment and banking opportunities to overlooked individuals who are
 - **Code:** [Source 1](https://github.com/AndrewG4404/HackUTD)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DVqZ3ahW_lI)
 - **All prizes at this hackathon (1):** PNC Bank
-- **How it used PNC Bank:** Sponsor use not stated on Devpost
+- **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -560,7 +560,7 @@ Data to thrive, keeping Toyota’s edge alive.
 - **Code:** [Source 1](https://github.com/srutiswathi/hackUTD_24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P7VKxnk-iFQ)
 - **All prizes at this hackathon (1):** Toyota
-- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+- **Award:** Won “Toyota” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -573,17 +573,17 @@ Data to thrive, keeping Toyota’s edge alive.
 
 FUELICIENT gives a clean UI for Toyota fuel-efficiency data exploration, coupled with a system for retaining previous analyses on a per-account basis.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=fIVCgdzMGAA) · Built with dns, firebase, github, github.io
+[Code](https://github.com/nama718/FUELICIENT-HackUTD-24-Winner) · [Demo video](https://www.youtube.com/watch?v=fIVCgdzMGAA) · Built with dns, firebase, github, github.io
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** dns, firebase, github, github.io, markdown, pandas, pinata, pip, python, streamlit
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/nama718/FUELICIENT-HackUTD-24-Winner)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fIVCgdzMGAA)
 - **All prizes at this hackathon (1):** Toyota
-- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+- **Award:** Won “Toyota” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -606,7 +606,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=lEvVw3Qg83
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lEvVw3Qg834)
 - **All prizes at this hackathon (1):** Toyota
-- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+- **Award:** Won “Toyota” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -635,7 +635,7 @@ A sustainability project to help manage buildings from afar.
 - **Code:** [Source 1](https://github.com/Sami-ul/Sustainable-Building-Manager)
 - **Demo video:** [Video 1](https://vimeo.com/1030515570)
 - **All prizes at this hackathon (1):** Veolia
-- **How it used Veolia:** Sponsor use not stated on Devpost
+- **Veolia:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

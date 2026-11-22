@@ -23,7 +23,7 @@
 
 An interactive community game with wearable devices that harness storytelling and emotive design.
 
-**How it used Disney:** Sponsor use not stated on Devpost
+**Award:** Won “Sponsor Prize - Disney - Best Use of Storytelling” from Disney. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/tedmyers/hackMIT) · Built with arduino
 
@@ -35,7 +35,7 @@ An interactive community game with wearable devices that harness storytelling an
 
 Gaze organizes un-organized videos to help the user interpret and navigate visual information.
 
-**How it used Disney:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of Emerging Technology (Disney)” from Disney. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked
 

@@ -23,7 +23,7 @@
 
 Type faster with less mistakes using bigram latency data.
 
-**How it used Happy Hacking Keyboard:** Sponsor use not stated on Devpost
+**Award:** Won “Happy Hacking Keyboard: Type Beyond - Rethinking Interaction Through the Keyboard” from Happy Hacking Keyboard. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/eedwardkim/Roman-Road) · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with claude, next.js, node.js, react19
 

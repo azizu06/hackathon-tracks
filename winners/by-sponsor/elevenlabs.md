@@ -63,7 +63,7 @@ speak a concept, step inside it in 3d.
 
 Facetime your dad for home repair advice at anytime.
 
-**ElevenLabs:** Built with elevenlabs (listed on Devpost)
+**How it used ElevenLabs:** Uses ElevenLabs audio in the video chat's text-to-speech flow.
 
 [Code](https://github.com/ponita05/hack-brown) · [Demo video](https://www.youtube.com/watch?v=xD_QGRqzkvo) · Built with elevenlabs, async, base64, canvas
 
@@ -83,7 +83,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=QRPmRg4-4K
 
 A wearable gives deaf and hard-of-hearing users visual and tactile cues about surrounding sounds.
 
-**ElevenLabs:** Built with elevenlabs (listed on Devpost)
+**How it used ElevenLabs:** Opens an ElevenLabs WebSocket to stream speech for transcription.
 
 [Code](https://github.com/iancdev/hudglasses) · [Demo video](https://www.youtube.com/watch?v=4YbXLKoHIKk) · Built with elevenlabs, 3dprinting, c++, esp32
 
@@ -123,7 +123,7 @@ A language-learning tool combines speech and translation exercises to help users
 
 The neighbor who reads every city agenda and calls you when it matters.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**ElevenLabs:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Alans44/public-city-announcements) · [Demo video](https://www.youtube.com/watch?v=D6od6VAIAPM) · Built with cloudflare-tunnel, fastapi, framer-motion, maplibre
 
@@ -165,7 +165,7 @@ A voice interviewer asks practice coding questions and gives feedback on the ans
 
 The team created On The Go Storyteller , an interactive reading platform that bridges the distance between parents and children.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**How it used ElevenLabs:** Calls ElevenLabs text-to-speech to generate audio.
 
 [Code](https://github.com/KeiraJames/nyu-hacks) · Built with css, express.js, firebase, gemini
 
@@ -205,9 +205,9 @@ An Apple Vision Pro application that immerses you in different languages and cul
 
 Agentic assistant for data center technicians to streamline repairs and improve efficiency with automated tests and ticket management.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**ElevenLabs:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=-osJDI2GaQE) · Built with .
+[Code](https://github.com/Squidtoon99/hackutd-legend) · [Demo video](https://www.youtube.com/watch?v=-osJDI2GaQE) · Built with .
 
 ### [The Duck You Mean?](https://devpost.com/software/the-duck-you-mean)
 

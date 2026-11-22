@@ -63,8 +63,8 @@ The world's first fully homomorphic runtime for a Turing-complete language.
 - **Code:** [Source 1](https://github.com/joeltg/brainfreeze)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Sponsor Prize - Datto - Best Use of Encryption · Sponsor Prize - Illumio - Best Security Hack
-- **How it used Datto:** Sponsor use not stated on Devpost
-- **How it used Illumio:** Sponsor use not stated on Devpost
+- **Award:** Won “Sponsor Prize - Datto - Best Use of Encryption” from Datto. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “Sponsor Prize - Illumio - Best Security Hack” from Illumio. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -87,8 +87,8 @@ Robust fake news detection made simple and scalable for real people.
 - **Code:** [Source 1](https://github.com/likeaj6/FakeBananas)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good · Sponsor Prize - Hudson River Trading - Most Interesting Use of Data
-- **How it used Baidu:** Sponsor use not stated on Devpost
-- **How it used Hudson River Trading:** Sponsor use not stated on Devpost
+- **Award:** Won “Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good” from Baidu. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “Sponsor Prize - Hudson River Trading - Most Interesting Use of Data” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -136,7 +136,7 @@ TravelAR is an iOS travel application built using Apple's ARKit.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ACneUIVByaY)
 - **All prizes at this hackathon (2):** Sponsor Prize - Amadeus - Best Use of Amadeus APIs · Sponsor Prize - Concur - Best Travel Hack
 - **How it used Amadeus:** The team used Amadeus endpoints for information on nearby attractions, flight statistics and general travel information.
-- **How it used SAP Concur:** Sponsor use not stated on Devpost
+- **Award:** Won “Sponsor Prize - Concur - Best Travel Hack” from SAP Concur. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -196,7 +196,7 @@ ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line
 - **Code:** [Source 1](https://github.com/fervorarc/PaddleBois)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Baidu - Machine Learning Community Prize
-- **How it used Baidu:** Sponsor use not stated on Devpost
+- **How it used Baidu:** Downloads the PaddlePaddle Word2Vec model files for inference.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -236,17 +236,17 @@ The team describes the project as “We use Baidu's Paddle Deep Learning framewo
 
 DecentPass is a decentralized application that stores your passwords securely on the Ethereum blockchain.
 
-No public code linked · Built with metamask, ethereum, node.js, solidity
+[Code](https://github.com/erickpinos/DecentPass) · Built with ethereum, metamask, node.js, solidity
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** ethereum, metamask, node.js, solidity, truffle
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/erickpinos/DecentPass)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - ConsenSys - Best Use of Ethereum
-- **ConsenSys:** Built with metamask (listed on Devpost)
+- **How it used ConsenSys:** The team used MetaMask as the wallet for interacting with the dapp.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -279,7 +279,7 @@ An interactive community game with wearable devices that harness storytelling an
 - **Code:** [Source 1](https://github.com/tedmyers/hackMIT)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Category Prize - Master of Both Worlds · Sponsor Prize - Disney - Best Use of Storytelling
-- **How it used Disney:** Sponsor use not stated on Devpost
+- **Award:** Won “Sponsor Prize - Disney - Best Use of Storytelling” from Disney. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -323,17 +323,17 @@ While Unity and Microsoft's UWP are powerful platforms, sometimes there can be p
 
 NewsMap utilizes global market visualization software to provide a real-time visualization of news reports mentioning companies across the world in over 65 languages.
 
-No public code linked · Built with carto, mapbox
+[Code](https://github.com/davidluca123/NewsMap) · Built with carto, mapbox
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** carto, mapbox
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/davidluca123/NewsMap)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Goldman Sachs - Second Best Data Visualization
-- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
+- **Award:** Won “Sponsor Prize - Goldman Sachs - Second Best Data Visualization” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -356,7 +356,7 @@ Determine the best path from two inside-building points scanning automatically t
 - **Code:** [Source 1](https://github.com/jjgarau/HackMIT2017)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Goldman Sachs - Best Data Visualization
-- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
+- **Award:** Won “Sponsor Prize - Goldman Sachs - Best Data Visualization” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -524,7 +524,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=kAxDxnKp8_
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kAxDxnKp8_s)
 - **All prizes at this hackathon (1):** Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up
-- **How it used Jumpstart:** Sponsor use not stated on Devpost
+- **Award:** Won “Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up” from Jumpstart. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -632,7 +632,7 @@ No public code linked · Built with android, arduino, c++, hardware
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Samsara - Best IoT Hack
-- **How it used Samsara:** Sponsor use not stated on Devpost
+- **Award:** Won “Sponsor Prize - Samsara - Best IoT Hack” from Samsara. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

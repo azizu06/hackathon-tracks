@@ -23,7 +23,7 @@
 
 Commons is a map-first community coordination platform.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/candpixie/yhack-commons) · [Demo video](https://www.youtube.com/watch?v=-yewvVRouq4) · Built with express.js, k2thinkv2, maplibre, react
 
@@ -43,7 +43,7 @@ A shopping assistant flags product recommendations that may be based on manipula
 
 For code with some catching up to do. ketchup uses an AI agent to work through TypeScript upgrades and return a checked patch you can review.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=hoLp4GRSbAI) · Built with claude, css, html, javascript
 
@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=hoLp4GRSbA
 
 A coding tool maps relationships between files and passes the graph to a coding agent as context.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/michelllinstar/MarkCodePolo) · [Demo video](https://www.youtube.com/watch?v=DNzF3zk9gi4) · Built with agentverse, claude, css, docker
 
@@ -83,9 +83,9 @@ S.L.O.P. searches thousands of projects, companies and the web.
 
 No more sweat in your walk. Take the Shaadiest path.
 
-**GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
+**How it used GoDaddy Registry:** The project was built with deployment support for GoDaddy.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=IRjQ7plFcqE) · Built with godaddy, codex, express.js, github
+[Code](https://github.com/AlexanderGiannak/Shaadiest) · [Demo video](https://www.youtube.com/watch?v=IRjQ7plFcqE) · Built with godaddy, codex, express.js, github
 
 ### [SpotAtWork](https://devpost.com/software/spot-mission-control)
 
@@ -93,7 +93,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=IRjQ7plFcq
 
 An operations dashboard summarizes the sensor data collected by a Spot robot on recent missions.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Monisha-Repos/spot-mission-dashboard) · [Demo video](https://www.youtube.com/watch?v=UN3DJZA4GO8) · Built with anthropic, caddy, claude, css
 
@@ -103,7 +103,7 @@ An operations dashboard summarizes the sensor data collected by a Spot robot on 
 
 A 2D platformer where you leave interactive echoes of yourself that replay your movements, and the enemy only hunts those echoes. Reach the end before the silence takes you.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Parth12358/ThatsMyEcho) · [Demo video](https://www.youtube.com/watch?v=OGyCVrdRYaw) · Built with c#, freeform, love, photoshop
 
@@ -125,7 +125,7 @@ Voice-first local farm marketplace — farmers list by talking, consumers shop w
 
 A classroom assistant answers student questions and helps them find support.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/amirkhabaza/Askademia) · [Demo video](https://www.youtube.com/watch?v=Mnitbx_xcjw) · Built with amazon-web-services, ci/cd, fastapi, fetch
 
@@ -135,7 +135,7 @@ A classroom assistant answers student questions and helps them find support.
 
 Turn your live performances into real time digital sheet music or challenge friends and see who hits every note.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/viannahuynh/CanesChicken) · [Demo video](https://www.youtube.com/watch?v=bMZOmNP666s) · Built with fastapi, gemini, librosa, music21
 
@@ -145,7 +145,7 @@ Turn your live performances into real time digital sheet music or challenge frie
 
 A code search assistant uses commit history and retrieval to explain how legacy code evolved.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Downbeatfoil/HackGT-CommitSense) · [Demo video](https://www.youtube.com/watch?v=55q4tnc1qAI) · Built with gemini, git, rag, react
 
@@ -155,7 +155,7 @@ A code search assistant uses commit history and retrieval to explain how legacy 
 
 Let students upload a problem set (PDF), have the system split it into editable problems, and provide scaffolded, non-spoiler AI help while they work, plus a natural interface to talk through problems.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/niravjaiswal/dill-study) · [Demo video](https://www.youtube.com/watch?v=L9JpF37PfSs) · Built with agentmail, firebase, gemini, react
 
@@ -165,7 +165,7 @@ Let students upload a problem set (PDF), have the system split it into editable 
 
 A menu companion translates unfamiliar menus and helps diners visualize the dishes.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/stevenxu27/Dishcovery) · Built with amazon-web-services, css, mongodb, mui
 
@@ -195,7 +195,7 @@ The team set out to solve the often ineffective ticket-to-response systems prese
 
 Item2Art — Save memories and culture in real objects.Turn any item into a living memory through NFC, transforming stories into music, images, or voice conversations that come alive with a tap.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/meulencv/item2art) · [Demo video](https://www.youtube.com/watch?v=Rmd5dRmqMEw) · Built with api, dart, elevenlabs, flutter
 
@@ -205,7 +205,7 @@ Item2Art — Save memories and culture in real objects.Turn any item into a livi
 
 Memory just moved from your brain to your frames. Your memories are getting a firmware update.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/kgand/shellhacks25) · [Demo video](https://www.youtube.com/watch?v=L-pTiP87G1A) · Built with api, expo.io, express.js, fastapi
 
@@ -215,7 +215,7 @@ Memory just moved from your brain to your frames. Your memories are getting a fi
 
 SunlightSavings is a sophisticated yet user-friendly tool that empowers users to make data-driven decisions about maximizing solar energy production.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Kriti-Negi/DukeHacks2025) · [Demo video](https://www.youtube.com/watch?v=9F4FJOiGohM) · Built with google-maps, numpy, python, react.js
 
@@ -225,7 +225,7 @@ SunlightSavings is a sophisticated yet user-friendly tool that empowers users to
 
 An arcade-style game where the player can go on a journey of introspection and self-discovery as a little wolf. Collect stars, answer questions, and create a vision board of your future.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 No public code linked · Built with chatgpt, css, fastapi, html5
 
@@ -237,7 +237,7 @@ No public code linked · Built with chatgpt, css, fastapi, html5
 
 Seeing geese all over campus? Well now you can befriend and study with them.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/eyevyl/gooseontheloose) · Built with cohere, mongodb, next.js, react
 
@@ -247,7 +247,7 @@ Seeing geese all over campus? Well now you can befriend and study with them.
 
 GotchuGaucho is a platform designed to connect party hosts with party-goers at UCSB.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/sanilkatula/GotchuGaucho) · [Demo video](https://www.youtube.com/watch?v=_XnOOqrw9dc) · Built with css, html, javascript
 
@@ -257,7 +257,7 @@ GotchuGaucho is a platform designed to connect party hosts with party-goers at U
 
 A kitchen planner uses pantry inventory and dietary preferences to suggest recipes and shopping needs.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Sachin-dot-py/Grocify) · [Demo video](https://www.youtube.com/watch?v=3mnrfpyawdU) · Built with barcodelookup, digitalocean, flask, groq
 
@@ -267,7 +267,7 @@ A kitchen planner uses pantry inventory and dietary preferences to suggest recip
 
 A fun interactive way to track and pay your bills on time while competing with friends and building financial independence.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/CChiang3/bitcamp2024) · Built with express.js, javascript, node.js
 
@@ -277,9 +277,9 @@ A fun interactive way to track and pay your bills on time while competing with f
 
 a motorized car raced on an AR track, driven by screams.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=E8YCZCZ9BIo) · Built with accelerometer, ar, arduino, c++
+[Code](https://github.com/gn350/HackGT11) · [Demo video](https://www.youtube.com/watch?v=E8YCZCZ9BIo) · Built with accelerometer, ar, arduino, c++
 
 ### [Lotion AI/AR](https://devpost.com/software/lotion-ai-ar)
 
@@ -287,7 +287,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=E8YCZCZ9BI
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
 
@@ -297,7 +297,7 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 
 Want practice problems but LeetCode and HackerRank aren't enough? Sit Down and Study helps you improve your programming skills through unlimited custom LeetCode-style questions and notes.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/trentwiles/SitDownAndStudy) · [Demo video](https://www.youtube.com/watch?v=XHelkVvScNQ) · Built with caddy, cloudflare, docker, express.js
 

@@ -65,7 +65,7 @@ No public code linked · Built with azure, cosmos-db, druid, node.js
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Nasdaq/Quandl Datasets · Kensho Data Usability Challenge
-- **How it used Kensho:** Sponsor use not stated on Devpost
+- **Award:** Won “Kensho Data Usability Challenge” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Nasdaq:** The team created a web app for NASDAQ financial data.
 - **Checked on Devpost:** 2026-11-21
 
@@ -89,7 +89,7 @@ Pilot encourages individuals to fill out their mood tracker, and it helps them d
 - **Code:** [Source 1](https://github.com/the-flying-circus/hackmit-2019)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** DRW: Best Data Visualization Hack · Rev.ai Speech API Challenge
-- **How it used DRW:** Sponsor use not stated on Devpost
+- **Award:** Won “DRW: Best Data Visualization Hack” from DRW. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Rev:** The team used Rev for speech-to-text.
 - **Checked on Devpost:** 2026-11-21
 
@@ -246,7 +246,7 @@ No public code linked · Built with flask, github, google-maps, python
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Social Impact Hack with Coding It Forward
-- **How it used Coding It Forward:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Social Impact Hack with Coding It Forward” from Coding It Forward. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -319,7 +319,7 @@ Share underutilized GPU power for machine learning education.
 - **Code:** [Source 1](https://github.com/as-com/gpuppy)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of the DocuSign Agreement Cloud APIs
-- **How it used DocuSign:** Sponsor use not stated on Devpost
+- **How it used DocuSign:** Uses the DocuSign Click SDK to display an agreement in the web app.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -452,7 +452,7 @@ automl for heterogeneous model ensembling, giving automagical state-of-the-art s
 - **Code:** [Source 1](https://github.com/lhirschfeld/ensemble_factory)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Interesting Use of Data with HRT
-- **How it used Hudson River Trading:** Sponsor use not stated on Devpost
+- **Award:** Won “Most Interesting Use of Data with HRT” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -479,7 +479,7 @@ An enhancement for white canes to help the blind navigate their surroundings wit
 - **Code:** [Source 1](https://github.com/Monterrey-Dynamics/CaneAssist)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of IBM Visual Recognition
-- **How it used IBM:** Sponsor use not stated on Devpost
+- **IBM:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -502,7 +502,7 @@ A map that shows where the nearest natural disasters are located.
 - **Code:** [Source 1](https://github.com/tyl21938/crisisMap)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best IBM Disaster Preparedness &amp; Relief Solutions
-- **How it used IBM:** Sponsor use not stated on Devpost
+- **How it used IBM:** Uses IBM Watson Visual Recognition to classify flood images.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -525,7 +525,7 @@ Efficient and impactful supply chain management platform to prevent food waste w
 - **Code:** [Source 1](https://github.com/lizzij/HackMIT)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best IBM Disaster Preparedness &amp; Relief Solutions
-- **How it used IBM:** Sponsor use not stated on Devpost
+- **How it used IBM:** Uses IBM Watson Visual Recognition to classify uploaded images.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -598,7 +598,7 @@ No public code linked · Built with electron, ios, node.js, swift
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Secure User Healthcare Data Challenge with Imprivata
-- **How it used Imprivata:** Sponsor use not stated on Devpost
+- **Award:** Won “Secure User Healthcare Data Challenge with Imprivata” from Imprivata. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -654,7 +654,7 @@ The team strip the noise in raw data to find the important trends and present th
 - **Code:** [Source 1](https://github.com/kdu4108/hackmit19)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Kensho Data Usability Challenge
-- **How it used Kensho:** Sponsor use not stated on Devpost
+- **Award:** Won “Kensho Data Usability Challenge” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -681,7 +681,7 @@ You have too many GitHub repos that are all out of date, and you're all out of p
 - **Code:** [Source 1](https://github.com/jordynlm/GitGud)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Command Line Tool with LightStep
-- **How it used Lightstep:** Sponsor use not stated on Devpost
+- **Lightstep:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -708,7 +708,7 @@ The pen is mightier than the sword, nothing is more powerful than the word.
 - **Code:** [Source 1](https://github.com/jenniferlai43/rapscorer)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Hack for Building Community with Facebook
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Hack for Building Community with Facebook” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -764,7 +764,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Su83aPedkx4)
 - **All prizes at this hackathon (1):** Best Use of Nasdaq/Quandl Datasets
-- **How it used Nasdaq:** Sponsor use not stated on Devpost
+- **Nasdaq:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -777,7 +777,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx
 
 Buying a new house but can't decide on a neighborhood? Check out HomeUp for data and interactive charts on house prices, rent, and more.
 
-[Code](https://github.com/siuryan/homeup) · Built with quandl, flask, python
+[Code](https://github.com/siuryan/homeup) · Built with flask, python, quandl
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -787,7 +787,7 @@ Buying a new house but can't decide on a neighborhood? Check out HomeUp for data
 - **Code:** [Source 1](https://github.com/siuryan/homeup)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Nasdaq/Quandl Datasets
-- **Nasdaq:** Built with Quandl (listed on Devpost)
+- **How it used Nasdaq:** Fetches Zillow housing data by ZIP code through Quandl.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -804,17 +804,17 @@ Buying a new house but can't decide on a neighborhood? Check out HomeUp for data
 
 Teaches you how to dance like Bruno Mars and other famous dancers.
 
-No public code linked · Built with opencv, python, tensorflow, websockets
+[Code](https://github.com/zackpi/open-choreo) · Built with opencv, python, tensorflow, websockets
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** opencv, python, tensorflow, websockets
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/zackpi/open-choreo)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Niantic Augmented Reality Prize
-- **How it used Niantic:** Sponsor use not stated on Devpost
+- **Award:** Won “Niantic Augmented Reality Prize” from Niantic. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -847,7 +847,7 @@ No public code linked · Built with blockchain, html5, node.js
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Product or Idea that Leverages Sia Storage Platform
-- **How it used Sia:** Sponsor use not stated on Devpost
+- **Sia:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -874,7 +874,7 @@ Housing inequality, the disparity in housing due to socioeconomic factors, is a 
 - **Code:** [Source 1](https://github.com/ShashvatS/HappyHome)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Hack to Help the Housing Inequality Crisis with Wayfair
-- **How it used Wayfair:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Hack to Help the Housing Inequality Crisis with Wayfair” from Wayfair. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

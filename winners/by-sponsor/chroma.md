@@ -65,9 +65,9 @@ Remove the need to manually update your docs. When you make a PR, Doc's are auto
 
 Military personnel will utilize Lucy to identify potential threats during field operations.
 
-**Chroma:** Built with chromadb (listed on Devpost)
+**How it used Chroma:** Builds a Chroma vector store from image embeddings.
 
-[Code](https://github.com/Jinash-Rouniyar/SpotDog) · [Demo video](https://www.youtube.com/watch?v=Qpsvuxynwek) · Built with chromadb, arduino, deepgram, groq
+[Code](https://github.com/Jinash-Rouniyar/SpotDog) · [Demo video](https://www.youtube.com/watch?v=Qpsvuxynwek) · Built with arduino, chromadb, deepgram, groq
 
 ### [Pawn Up](https://devpost.com/software/gambit-y0j7mu)
 

@@ -47,18 +47,18 @@ These projects won more than one prize here. Each one is listed once.
 
 Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day forecasts, and prescription actions telling you which fields to act on and what it saves.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
+[Code](https://github.com/vs-githjk/Terrametric) · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** fastapi, glsl, javascript, next.js, python, react-native, sqlite, typescript, uvicorn, vercel, xgboost
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/vs-githjk/Terrametric)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qjTX93HKRNE)
 - **All prizes at this hackathon (3):** Best Champion of Open Source w/ Featherless - Featherless · Best Intermediate Data Science Track Hack - Bitcamp · Real World Prize - Ambrook
-- **How it used Ambrook:** Sponsor use not stated on Devpost
-- **How it used Featherless:** Sponsor use not stated on Devpost
+- **Award:** Won “Real World Prize - Ambrook” from Ambrook. The write-up gives no details on how the team used the sponsor’s tech.
+- **How it used Featherless:** Uses Featherless as the default language model endpoint for its crop-analysis assistant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -89,7 +89,7 @@ FundingFlow uses AI to automatically discover funding programs from government w
 - **Code:** [Source 1](https://github.com/xROBERTINOx/bitcamp2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Real World Prize - Ambrook
-- **How it used Ambrook:** Sponsor use not stated on Devpost
+- **Award:** Won “Real World Prize - Ambrook” from Ambrook. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -112,7 +112,7 @@ Power line faults often go undetected until they escalate catastrophically. Tele
 - **Code:** [Source 1](https://github.com/Snek3471/VoltVigil)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JhbR0K8B5p8)
 - **All prizes at this hackathon (1):** Real World Prize - Ambrook
-- **How it used Ambrook:** Sponsor use not stated on Devpost
+- **Award:** Won “Real World Prize - Ambrook” from Ambrook. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -189,7 +189,7 @@ Because a fall shouldn’t go unnoticed — real-time monitoring for safer indep
 - **Code:** [Source 1](https://github.com/Schugh26/GaitGuard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **How it used Bloomberg:** Sponsor use not stated on Devpost
+- **Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -212,7 +212,7 @@ Pick a cancer type and protein target. Helix screens thousands of compounds and 
 - **Code:** [Source 1](https://github.com/Reyzz00/helix)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VqTClY4_A5k)
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **How it used Bloomberg:** Sponsor use not stated on Devpost
+- **Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -235,7 +235,7 @@ Recall helps dementia patients identify faces, recall past conversations, and pr
 - **Code:** [Source 1](https://github.com/akhilapnuri/RecallMobileApp)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WDXfbc8DIpw)
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **How it used Bloomberg:** Sponsor use not stated on Devpost
+- **Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -262,7 +262,7 @@ is a reverse-engineered hardware ledger for the Solana blockchain, with custom P
 - **Code:** [Source 1](https://github.com/navincodesalot/cryptx)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ckU2XB6r1WQ)
 - **All prizes at this hackathon (2):** Best App Dev Track Hack - Bitcamp · Best Financial Hack - Capital One
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Financial Hack - Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -289,7 +289,7 @@ No public code linked · Built with fastapi, next.js, react, typescript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
-- **How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -312,7 +312,7 @@ Detect hidden cyber attacks in audio. Not all noise is natural—some is malicio
 - **Code:** [Source 1](https://github.com/shreya222mishra/bitcamp-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dgCAY-YG5rw)
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
-- **How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -362,7 +362,7 @@ EcoBuddy gamifies sustainability—track your actions, level up your buddy, and 
 - **Code:** [Source 1](https://github.com/KaushalGorla/eco-buddy-voice)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=r4HnScF_29w)
 - **All prizes at this hackathon (1):** TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+- **Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -441,7 +441,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=WyRockA-CO
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WyRockA-COA)
 - **All prizes at this hackathon (1):** Best Champion of Open Source w/ Featherless - Featherless
-- **How it used Featherless:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -491,7 +491,7 @@ A 2D platformer where you leave interactive echoes of yourself that replay your 
 - **Code:** [Source 1](https://github.com/Parth12358/ThatsMyEcho)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OGyCVrdRYaw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -545,7 +545,7 @@ No public code linked · [Demo video](https://vimeo.com/1182382881) · Built wit
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://vimeo.com/1182382881)
 - **All prizes at this hackathon (1):** Best Use of Netcore - Netcore
-- **How it used Netcore Cloud:** Sponsor use not stated on Devpost
+- **Netcore Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -572,7 +572,7 @@ Real-time satellite collision risk dashboard that ingests live conjunction scree
 - **Code:** [Source 1](https://github.com/po-aditya/Apsora-Brief)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPAUEUN1UG4)
 - **All prizes at this hackathon (1):** Best Data Visualization Experience - Peraton
-- **How it used Peraton:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Data Visualization Experience - Peraton” from Peraton. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

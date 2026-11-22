@@ -23,7 +23,7 @@
 
 ATP speeds up prescription prior authorizations. AI handles insurer calls, brings in doctors when clinical judgment is needed, and sends the outcome back to their workflow.
 
-**How it used Impiricus:** Sponsor use not stated on Devpost
+**Award:** Won “Impiricus: Build the next HCP Engagement Tool - 1st Place” from Impiricus. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/notvasub/ATP-Access-to-Prescription) · [Demo video](https://www.youtube.com/watch?v=QD-vGYz34RU) · Built with impiricus, elevenlabs, health, openai
 
@@ -33,7 +33,7 @@ ATP speeds up prescription prior authorizations. AI handles insurer calls, bring
 
 ClearPath uses AI to connect patients and doctors in one shared workspace, helping care teams coordinate treatment, flag medication conflicts, and streamline prior authorizations.
 
-**How it used Impiricus:** Sponsor use not stated on Devpost
+**Award:** Won “Impiricus: Build the next HCP Engagement Tool - 3rd Place” from Impiricus. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/hariomsah01/HackGT-13) · [Demo video](https://www.youtube.com/watch?v=H-q7cuVcRbA) · Built with elevenlabs, fastapi, fhir, fhir.resources
 
@@ -55,7 +55,7 @@ An all-in-one platform for physicians to find specialists and send referrals, ma
 
 Sample Generated Case Studies and Similar Patients.
 
-**How it used Impiricus:** Sponsor use not stated on Devpost
+**Award:** Won “Impiricus” from Impiricus. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/hhsiao24/Doc-McQuery) · [Demo video](https://www.youtube.com/watch?v=ccRukDWABds) · Built with docker, flask, nih-api, openai-api
 
@@ -65,7 +65,7 @@ Sample Generated Case Studies and Similar Patients.
 
 Medicus is a digital platform that allows medical device sales reps to upload their products, complete with clinical research, safety data, and use cases.
 
-**How it used Impiricus:** Sponsor use not stated on Devpost
+**Award:** Won “Impiricus” from Impiricus. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Tjust032/gt-hackathon-2025) · [Demo video](https://www.youtube.com/watch?v=qiKRfgaOyok) · Built with cedar, docker, mastra, openai
 

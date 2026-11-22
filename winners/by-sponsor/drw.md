@@ -23,7 +23,7 @@
 
 Pilot encourages individuals to fill out their mood tracker, and it helps them do so in an efficient, natural, and engaging way.
 
-**How it used DRW:** Sponsor use not stated on Devpost
+**Award:** Won “DRW: Best Data Visualization Hack” from DRW. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/the-flying-circus/hackmit-2019) · Built with amadeus, css, django, google-cloud
 

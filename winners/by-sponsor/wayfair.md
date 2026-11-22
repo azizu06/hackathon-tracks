@@ -23,7 +23,7 @@
 
 Housing inequality, the disparity in housing due to socioeconomic factors, is a major issue in the society.
 
-**How it used Wayfair:** Sponsor use not stated on Devpost
+**Award:** Won “Best Hack to Help the Housing Inequality Crisis with Wayfair” from Wayfair. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ShashvatS/HappyHome) · Built with azure, css, google-cloud, google-maps
 

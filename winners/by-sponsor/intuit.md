@@ -23,7 +23,7 @@
 
 Flashback is a VR experience that transforms your cherished memories into immersive, interactive exhibits. Relive key moments as photos, videos, and soundbites come alive in 3D environments.
 
-**How it used Intuit:** Sponsor use not stated on Devpost
+**Intuit:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=heeJFvhzwao) · Built with c#, convex, express.js, figma
 

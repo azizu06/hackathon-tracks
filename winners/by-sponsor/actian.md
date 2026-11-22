@@ -23,7 +23,7 @@
 
 The team admit a machine learning model shouldn't be the only frontier for diagnosis.
 
-**How it used Actian:** Sponsor use not stated on Devpost
+**Actian:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/dominickdupuy/Aura) · [Demo video](https://www.youtube.com/watch?v=7oUk6SBtJcA) · Built with actain, databricks, figma, python
 

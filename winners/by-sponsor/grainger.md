@@ -23,7 +23,7 @@
 
 Skip the planning, savor the eating. Optimize road trips to no longer exhaustively search for food that you like.
 
-**How it used Grainger:** Sponsor use not stated on Devpost
+**Grainger:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/krrishkk/foodrunner) · [Demo video](https://www.youtube.com/watch?v=uo4ONCYzjgA) · Built with asyncstorage, cors, expo.io, flask
 
@@ -33,7 +33,7 @@ Skip the planning, savor the eating. Optimize road trips to no longer exhaustive
 
 The team created a Swift app so that you can use the tool directly from the MacOS icon bar.
 
-**How it used Grainger:** Sponsor use not stated on Devpost
+**Grainger:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/evanhekman/zygonic) · [Demo video](https://www.youtube.com/watch?v=B43pgol5dvg) · Built with docker, fastapi, gemini, n8n
 

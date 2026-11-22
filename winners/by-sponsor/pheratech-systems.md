@@ -23,7 +23,7 @@
 
 In life-or-death moments, guessing isn’t an option. Deploy a robot swarm that maps hazards, learns from one another's mistakes, and guides everyone to a safe exit.
 
-**How it used Pheratech Systems:** Sponsor use not stated on Devpost
+**Award:** Won “Pheratech Systems: ROS2 Autonomy Challenge” from Pheratech Systems. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
 

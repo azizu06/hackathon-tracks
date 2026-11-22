@@ -23,7 +23,7 @@
 
 Nuggetmon is a desktop application designed to gamify productivity! With the help of virtual creatures called Nuggetmon, users will stay productive, earn rewards, and expand their party of companions.
 
-**How it used Wondershare:** Sponsor use not stated on Devpost
+**Wondershare:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/asnbl/nuggetmon-productivity-app) · [Demo video](https://www.youtube.com/watch?v=9VkhzWEAR-g) · Built with css, electron, github, html
 

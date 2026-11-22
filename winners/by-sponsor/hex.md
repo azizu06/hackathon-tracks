@@ -23,7 +23,7 @@
 
 Commons is a map-first community coordination platform.
 
-**How it used Hex:** Sponsor use not stated on Devpost
+**Hex:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/candpixie/yhack-commons) · [Demo video](https://www.youtube.com/watch?v=-yewvVRouq4) · Built with express.js, k2thinkv2, maplibre, react
 
@@ -33,7 +33,7 @@ Commons is a map-first community coordination platform.
 
 Food banks today find out about crises when the line gets longer. CrisisGrid detects the signal before the surge hits and creates analytics-powered response plans and supply orders in minutes.
 
-**Hex:** Built with hex (listed on Devpost)
+**How it used Hex:** The team uses Hex Threads to query the database from the dashboard.
 
 [Code](https://github.com/richykim7/YHack2026) · [Demo video](https://www.youtube.com/watch?v=KBmjbQHAL_0) · Built with hex, anthropic-claude-api, fastapi, framer-motion
 

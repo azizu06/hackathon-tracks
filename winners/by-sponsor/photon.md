@@ -23,7 +23,7 @@
 
 Andi helps people quitting alcohol stay sober. It texts them in iMessage when they're near a bar or buying liquor, talks them through the urge, and calls their sponsor when they need them.
 
-**Photon:** Built with photon (listed on Devpost)
+**How it used Photon:** The team uses Photon's event stream for iMessage text, edits, polls, tapbacks, typing and read receipts.
 
 [Code](https://github.com/kushmirchandani/andi) · [Demo video](https://www.youtube.com/watch?v=N-oXvhoNrzw) · Built with photon, anthropic, capital-one-nessie, chalk
 
@@ -103,7 +103,7 @@ Turn an emergency call into an indoor rescue map. With CoStar’s 3D building da
 
 A camera watches the ingredients, AI counts every item taken, and texts the owner to reorder before anything runs out. Tested live at Casa Piada in Greenwich.
 
-**Photon:** Built with photon (listed on Devpost)
+**How it used Photon:** The project uses Photon 2.0 for iMessage messaging.
 
 [Code](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton) · [Demo video](https://www.youtube.com/watch?v=tsmOwUs_G00) · Built with photon, arduino-uno-q, d1, deepagents
 
@@ -113,7 +113,7 @@ A camera watches the ingredients, AI counts every item taken, and texts the owne
 
 Personal agent for college students that lives in iMessage - text it your syllabus and get ready for the semester.
 
-**Photon:** Built with photon (listed on Devpost)
+**How it used Photon:** The team used Photon 2.0 to connect Syllabus Crew to iMessage.
 
 [Code](https://github.com/zhoulinhua0-star/hackprinceton-2026) · [Demo video](https://www.youtube.com/watch?v=frTz_ULVTXY) · Built with photon, agentic-framework, amazon-bedrock, amazon-dynamodb
 
@@ -123,7 +123,7 @@ Personal agent for college students that lives in iMessage - text it your syllab
 
 Tab is a friend in your iMessage group chat who keeps track of shared expenses. Say "got pizza, $48" or snap a receipt; Tab splits it, nudges people, and settles up with one 👍.
 
-**How it used Photon:** Sponsor use not stated on Devpost
+**Photon:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=4GrYcrm64tg) · Built with capital-one-nessie-api, github, github-actions, grok-(xai-api)
 

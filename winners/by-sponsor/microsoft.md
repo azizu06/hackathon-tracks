@@ -151,9 +151,9 @@ No public code linked · Built with azure, amazon-dynamodb, amazon-web-services,
 
 A self-writing journal of your life, with superpowers.
 
-**How it used Microsoft:** Sponsor use not stated on Devpost
+**How it used Microsoft:** Extracts keywords from journal entries with Microsoft's Azure Cognitive Services.
 
-No public code linked · Built with javascript, jupyter-notebook, keras, node.js
+[Code](https://github.com/tkyaw1/Lotus-Journal) · Built with javascript, jupyter-notebook, keras, node.js
 
 ## 2017 winners
 

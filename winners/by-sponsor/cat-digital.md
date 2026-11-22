@@ -23,7 +23,7 @@
 
 Making ABLLS-R assessments easier for behavioral clinicians who provide therapy to individuals with autism.
 
-**How it used Cat Digital:** Sponsor use not stated on Devpost
+**Award:** Won “CAT Digital - Best Cloud Implementation” from Cat Digital. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with amazon-web-services, css, html, javascript
 
@@ -33,7 +33,7 @@ No public code linked · Built with amazon-web-services, css, html, javascript
 
 The Bloomberg Terminal of Prediction Markets.
 
-**How it used Cat Digital:** Sponsor use not stated on Devpost
+**Cat Digital:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/rcookie777/guava) · Built with docker, flask, github, gpt4
 

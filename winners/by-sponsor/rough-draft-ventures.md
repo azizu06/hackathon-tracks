@@ -23,7 +23,7 @@
 
 Receipts are hard; automation is easy.
 
-**How it used Rough Draft Ventures:** Sponsor use not stated on Devpost
+**Award:** Won “Rough Draft Ventures Prize” from Rough Draft Ventures. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with capital-one, flask, meteor.js, mobile
 

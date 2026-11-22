@@ -161,7 +161,7 @@ AI-native research engine to discover FDA-approved drug repurposing candidates f
 
 Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day forecasts, and prescription actions telling you which fields to act on and what it saves.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
+[Code](https://github.com/vs-githjk/Terrametric) · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
 
 ### [transPEAKtation](https://devpost.com/software/transpeaktation)
 
@@ -433,7 +433,7 @@ Canary catches small building warnings before they become expensive outages: AI 
 
 Captain Ddoski gives AI finance agents instant source trust scores, risk tags, and evidence capsules via API/MCP, helping them cite reliable proof, flag weak claims, and avoid scams.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
+[Code](https://github.com/PhongCT1105/AI_Hack_Berkeley) · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
 
 ### [CareLoop Agentverse Care Companion](https://devpost.com/software/careloop-agentverse-care-companion)
 
@@ -969,7 +969,7 @@ NextMove has two surfaces running on one decision engine.
 
 Map the possibilities for electric autonomous fleets with data-driven market insights and simulation.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=EakXPzNH4ww) · Built with fastapi, gemini, mapbox, next.js
+[Code](https://github.com/SimonOcampo/ShellHacks2026) · [Demo video](https://www.youtube.com/watch?v=EakXPzNH4ww) · Built with fastapi, gemini, mapbox, next.js
 
 ### [Orbit Watch](https://devpost.com/software/orbit-watch-lwqitd)
 
@@ -1683,7 +1683,7 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 
 AI-powered organizational tool for your communication platforms.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
+[Code](https://github.com/DeanShahin5/Calendera) · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
 
 ### [Clanker Town](https://devpost.com/software/clanker-town)
 
@@ -1867,7 +1867,7 @@ Helps UCSB and SBCC students in IV locate housing. Powered by a data ingestion p
 
 You create a smart application form and share it anywhere — LinkedIn, Handshake, your own site.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=bajCGzs3QBk) · Built with brightdata, chromadb, claude, letta
+[Code](https://github.com/asmikachare/githired-ch) · [Demo video](https://www.youtube.com/watch?v=bajCGzs3QBk) · Built with brightdata, chromadb, claude, letta
 
 ### [GreenPrint](https://devpost.com/software/greenprint-c2deb1)
 
@@ -2163,7 +2163,7 @@ Plot delivers comprehensive insights on any location. Whether you're scouting in
 
 Turning one photo into civic action.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=PoeRdtQU7hg) · Built with brightdata, fastapi, groq, javascript
+[Code](https://github.com/Babagesh/Potbot) · [Demo video](https://www.youtube.com/watch?v=PoeRdtQU7hg) · Built with brightdata, fastapi, groq, javascript
 
 ### [PowerLegal](https://devpost.com/software/eagleeye-powerlegal)
 
@@ -2323,7 +2323,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D
 
 Stamped is a secure and intelligent onboarding platform designed for financial institutions. It streamlines client and vendor onboarding with AI-powered features, and comprehensive compliance tools.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
+[Code](https://github.com/advegaf/stamped) · [Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
 
 ### [SuiTix](https://devpost.com/software/suitix)
 
@@ -2339,7 +2339,7 @@ Sui-powered blockchain-based ticketing and loyalty platform with policy-enforced
 
 Greener AI, one prompt at a time.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
+[Code](https://github.com/Keshav-kh/sustain-a-prompt) · [Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
 
 ### [Swarm AI](https://devpost.com/software/swarm-ai-s6lhd0)
 
@@ -2469,7 +2469,7 @@ A smart water management tool that helps households and property managers optimi
 
 Fight for the top position in a HackTheNorth lip-syncing challenge.
 
-[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, symphonic-labs, nextjs, web
+[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, nextjs, symphonic-labs, web
 
 ### [traint](https://devpost.com/software/traint)
 
@@ -2781,7 +2781,7 @@ No public code linked · Built with cloudfare, flask, nextjs, openai-api
 
 Introducing PrimeTime—an advanced productivity app that uses AI to track engagement and optimize time spent on your computer to help you maximize focus and boost efficiency.
 
-[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with openvino, javascript, llms, next.js
+[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with javascript, llms, next.js, npus
 
 ### [Rally AI](https://devpost.com/software/rally-8sxi2t)
 

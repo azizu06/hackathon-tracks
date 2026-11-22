@@ -23,7 +23,7 @@
 
 Reflecting on your past work, relationships, and learning has never been easier. Mirror turns your minute-to-minute into a comprehensive and indexable knowledge base in the form of a journal.
 
-**Mistral:** Built with mistral (listed on Devpost)
+**How it used Mistral:** Calls Mistral's chat API to generate a graph from a prompt.
 
 [Code](https://github.com/kevinzhu12/treehacks-glasses) · [Demo video](https://www.youtube.com/watch?v=3FzmbTFD_9I) · Built with mistral, augmentos, elasticsearch, java
 

@@ -23,7 +23,7 @@
 
 Trade smarter not harder! Upgrade your financial literacy with traider.
 
-**How it used Context:** Sponsor use not stated on Devpost
+**Award:** Won “Context: Best AI Employee Workflow ($2.5k Cash + $2.5k Context API Credits)” from Context. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ajagtapdev/traider) · [Demo video](https://www.youtube.com/watch?v=CUTdrkfdz1M) · Built with fast-api, figma, google-search-api, nvidia
 

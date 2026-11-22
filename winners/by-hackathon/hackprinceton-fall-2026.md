@@ -60,7 +60,7 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 - **Code:** [Source 1](https://github.com/at350/hackprinceton-fall-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IY0Rr7l58Eg)
 - **All prizes at this hackathon (4):** &#91;Amazon&#93; Best Practical AI Innovation · &#91;Justin Bojarski&#93; Best Physical AI Hack · &#91;LangChain&#93; Best use of deepagents · Best Overall Hack
-- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used LangChain:** The project reads the LangGraph server for its dashboard and traces every run in LangSmith.
 - **Sponsor use:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
@@ -109,7 +109,7 @@ A wearable combines spoken assistance with spatial audio to help people with vis
 - **Code:** [Source 1](https://github.com/Aliceeia/Meridies)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eoBT5CGjsPA)
 - **All prizes at this hackathon (2):** &#91;Amazon&#93; Best Practical AI Innovation · &#91;MLH&#93; Best Use of Gemini API
-- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Google:** Gemini 2.5 Pro TTS gives Meri its voice.
 - **Checked on Devpost:** 2026-11-21
 
@@ -133,8 +133,8 @@ A camera watches the ingredients, AI counts every item taken, and texts the owne
 - **Code:** [Source 1](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tsmOwUs_G00)
 - **All prizes at this hackathon (2):** &#91;Peri&#93; Forward Deployed Engineer · &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
-- **How it used Peri:** Sponsor use not stated on Devpost
-- **Photon:** Built with photon (listed on Devpost)
+- **Award:** Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri. The write-up gives no details on how the team used the sponsor’s tech.
+- **How it used Photon:** The project uses Photon 2.0 for iMessage messaging.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ Step inside the past, see it through every view, with every line sourced and tru
 - **Code:** [Source 1](https://github.com/riavadhavkar/vantage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Atkd0YpaIMc)
 - **All prizes at this hackathon (1):** &#91;Amazon&#93; Best Practical AI Innovation
-- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -215,7 +215,7 @@ MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case eviden
 - **Code:** [Source 1](https://github.com/meizuflux/hackprinceton-f26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OyYZ1CdiKOg)
 - **All prizes at this hackathon (1):** &#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI
-- **How it used Arlequin AI:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI” from Arlequin AI. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -238,7 +238,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=FgR3QLEW5K
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FgR3QLEW5Kc)
 - **All prizes at this hackathon (1):** &#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns
-- **How it used Arlequin AI:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns” from Arlequin AI. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -294,7 +294,7 @@ Fight the fire before you get there.
 - **Code:** [Source 1](https://github.com/tanaydonde/agni)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rfisjmBsxcM)
 - **All prizes at this hackathon (1):** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
-- **How it used ChatOverflow:** Sponsor use not stated on Devpost
+- **ChatOverflow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -317,7 +317,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-H
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=d90HW1Gm-HY)
 - **All prizes at this hackathon (1):** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
-- **How it used ChatOverflow:** Sponsor use not stated on Devpost
+- **ChatOverflow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -330,17 +330,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-H
 
 An interface powered by deep AI agents to help operators manage electrical grids during crisis.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=QIxE59QN_GA) · Built with census, costar, css, deepagents
+[Code](https://github.com/Neil-Deshpande29/rewire) · [Demo video](https://www.youtube.com/watch?v=QIxE59QN_GA) · Built with census, costar, css, deepagents
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** census, costar, css, deepagents, fastapi, google-gemini, hifld, landfire, langchain, langgraph, open-meteo, openstreetmap, pydantic, pytest, python, react, three.js, typescript, vexcel, vite
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/Neil-Deshpande29/rewire)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QIxE59QN_GA)
 - **All prizes at this hackathon (1):** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
-- **How it used ChatOverflow:** Sponsor use not stated on Devpost
+- **ChatOverflow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -367,7 +367,7 @@ Every census tract is shaded by a need score built from HRSA shortage designatio
 - **Code:** [Source 1](https://github.com/alisx255/asclepieion-public)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=llLSV0W6s7c)
 - **All prizes at this hackathon (2):** &#91;CoStar Group&#93; Inside and Out: AI for the Built World · Best Rookie Hack
-- **How it used CoStar Group:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -390,7 +390,7 @@ Siteline tells clinics where to open. It learns what drives each practice, pulls
 - **Code:** [Source 1](https://github.com/archit2901/siteline)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uoMErki4yTk)
 - **All prizes at this hackathon (1):** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
-- **How it used CoStar Group:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -508,7 +508,7 @@ Boomer helps electricians throughout an entire job, from understanding the task 
 - **Code:** [Source 1](https://github.com/Svanik-Palvai/Boomer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dKs6uc-Ands)
 - **All prizes at this hackathon (1):** &#91;Peri&#93; Forward Deployed Engineer
-- **How it used Peri:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -531,7 +531,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=v2oRRCjdOk
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=v2oRRCjdOkc)
 - **All prizes at this hackathon (1):** &#91;Peri&#93; Forward Deployed Engineer
-- **How it used Peri:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -583,7 +583,7 @@ Personal agent for college students that lives in iMessage - text it your syllab
 - **Code:** [Source 1](https://github.com/zhoulinhua0-star/hackprinceton-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=frTz_ULVTXY)
 - **All prizes at this hackathon (1):** &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
-- **Photon:** Built with photon (listed on Devpost)
+- **How it used Photon:** The team used Photon 2.0 to connect Syllabus Crew to iMessage.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -600,17 +600,17 @@ Personal agent for college students that lives in iMessage - text it your syllab
 
 16,000 people in the U.S. are still waiting for their names. One wrong branch can point to the wrong person.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=DKfr1q-T7UU) · Built with solana, deepagents, gemini, google-ai-studio
+[Code](https://github.com/ReyanshBhootra/kinfold) · [Demo video](https://www.youtube.com/watch?v=DKfr1q-T7UU) · Built with solana, deepagents, gemini, google-ai-studio
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** deepagents, gemini, google-ai-studio, langchain, mongodb-atlas, node.js, playwright, python, solana, typescript
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/ReyanshBhootra/kinfold)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DKfr1q-T7UU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **Solana:** Built with solana (listed on Devpost)
+- **How it used Solana:** The team anchors a hash of the state on Solana.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -637,7 +637,7 @@ Ever wanted to relive a moment in time? With Rewind, step inside your old videos
 - **Code:** [Source 1](https://github.com/SriSrik123/HackPrinceton)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
-- **How it used SpaceXSI:** Sponsor use not stated on Devpost
+- **SpaceXSI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

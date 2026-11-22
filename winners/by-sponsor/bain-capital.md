@@ -23,7 +23,7 @@
 
 Application allows users to create a quick and easy checkout for customers by utilizing Venmo.
 
-**How it used Bain Capital:** Sponsor use not stated on Devpost
+**Award:** Won “Bain Capital: Best Use of Machine Learning” from Bain Capital. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with firebase, sendgrid, venmo
 
@@ -33,9 +33,9 @@ No public code linked · Built with firebase, sendgrid, venmo
 
 A tool that helps to turn web exploration into a truly social experience.
 
-**How it used Bain Capital:** Sponsor use not stated on Devpost
+**Award:** Won “Bain Capital: Best Use of Data Visualization” from Bain Capital. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with d3.js, heroku, mongodb
+[Code](https://github.com/allevitan/SpaceBubbles) · Built with d3.js, heroku, mongodb
 
 ## Track names and requirements
 

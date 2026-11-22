@@ -23,7 +23,7 @@
 
 An original choose-your-own-adventure story born in VR: tabletop storytelling turned into immersive theater, where your choices create the journey.
 
-**How it used Netflix:** Sponsor use not stated on Devpost
+**Award:** Won “Netflix” from Netflix. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/hverd004/Quest_and_Conflicts_VR) · [Demo video](https://www.youtube.com/watch?v=rvIY5CLoFOE) · Built with c#, oculus-gear-vr, quest3, unity
 
@@ -33,7 +33,7 @@ An original choose-your-own-adventure story born in VR: tabletop storytelling tu
 
 Gamified Experience: Players engage in quirky yet educational tasks, from fetching coffee for the elusive "King Rat" (the boss) to handling customer claims with empathy and professionalism.
 
-**How it used Netflix:** Sponsor use not stated on Devpost
+**Award:** Won “Netflix” from Netflix. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
 

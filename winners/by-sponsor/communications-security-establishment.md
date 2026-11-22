@@ -23,7 +23,7 @@
 
 Cover your blind spots. Model behaviour, correlate anomalies.
 
-**How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+**Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Ch33zig/Minny) · [Demo video](https://www.youtube.com/watch?v=EaLT4MyxxX4) · Built with anthropic-claude, composio, elasticsearch, fastapi
 
@@ -33,7 +33,7 @@ Cover your blind spots. Model behaviour, correlate anomalies.
 
 Doing this is tedious work, which is why automation and AI for completing these kinds of tasks is really useful in saving time and money for professionals.
 
-**How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+**Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/JeremyFriesenGitHub/htn26) · Built with css, flask, html, javascript
 
@@ -43,7 +43,7 @@ Doing this is tedious work, which is why automation and AI for completing these 
 
 Turn HTTP logs into provable, safe incident response.
 
-**How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+**Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Hayden9898/WatchTower) · Built with alembic, docker, fastapi, node.js
 
@@ -55,7 +55,7 @@ Turn HTTP logs into provable, safe incident response.
 
 Insightful Network Traffic Visualization and Analysis.
 
-**How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+**Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/JeremyFriesenGitHub/nte) · [Demo video](https://www.youtube.com/watch?v=ZuAKIEh6PcA) · Built with arkime, cohere, duckdb, flask
 
@@ -65,7 +65,7 @@ Insightful Network Traffic Visualization and Analysis.
 
 Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into a forensic-ready narrative by auto-mapping hosts, aggressive attackers, targeted victims, and an attack timeline.
 
-**How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+**Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/stony-su/network-traffic-ai) · Built with css, fastapi, html5, javascript
 
@@ -75,7 +75,7 @@ Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into 
 
 Scandium is local AI code secret scanning. Rather than being notified after you've uploaded your secrets, Scandium integrates with your code editor to detect leaked secrets before they get published.
 
-**How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+**Award:** Won “Communications Security Establishment Sponsor Prize” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFNA) · Built with node.js, ollama, qwen, typescript
 
@@ -85,7 +85,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFN
 
 From packets to plain‑English, actionable security narratives.
 
-**How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+**Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ashokcpg/YeetThePacket) · Built with bash, cohere, docker, fastapi
 
@@ -97,7 +97,7 @@ From packets to plain‑English, actionable security narratives.
 
 A vulnerability scanner and WiFi penetration tool, using Raspberry Pi. Designed for blue and purple team activities, Vanguard deploys cyber security in autonomous vehicles and air-gapped networks.
 
-**How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+**Award:** Won “CSE: Working in an Air-Gapped Environment” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ACCISA/Vanguard) · Built with convex, next, react, shadcn/ui
 

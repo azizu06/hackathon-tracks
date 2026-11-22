@@ -23,7 +23,7 @@
 
 FlowState is an intelligent operations console that combines real-time telemetry, automated failure detection, and cost-optimized response planning to help operators save time and costs.
 
-**How it used EOG Resources:** Sponsor use not stated on Devpost
+**Award:** Won “EOG Resources Track” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/LegendaryPenguin/HackUTD-2026) · [Demo video](https://www.youtube.com/watch?v=R7WwG0Z0Jv4) · Built with framer, gsap, react, three.js
 
@@ -33,7 +33,7 @@ FlowState is an intelligent operations console that combines real-time telemetry
 
 The night shift, with a hive behind it.
 
-**How it used EOG Resources:** Sponsor use not stated on Devpost
+**Award:** Won “EOG Resources Track” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Jazmin5465/Hivemind) · [Demo video](https://www.youtube.com/watch?v=tDWAyvH1agU) · Built with brev, docker, fastapi, lightgbm
 
@@ -45,7 +45,7 @@ The night shift, with a hive behind it.
 
 The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at varying fill and drain rates, with witches randomly collecting their contents.
 
-**How it used EOG Resources:** Sponsor use not stated on Devpost
+**EOG Resources:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/LegendaryPenguin/Enchantress) · [Demo video](https://www.youtube.com/watch?v=wmMVLoRToEE) · Built with css, html, javascript, typescript
 
@@ -55,7 +55,7 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 
 PoyoLabs is a gamified dashboard that allows users to track and monitor multiple cauldrons (data points) from one hand-designed interface.
 
-**How it used EOG Resources:** Sponsor use not stated on Devpost
+**EOG Resources:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
 
@@ -67,7 +67,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_
 
 It takes in data about a well and tries to detect anomalies to predict when hydrate buildups might be happening.
 
-**How it used EOG Resources:** Sponsor use not stated on Devpost
+**How it used EOG Resources:** Reads EOG Resources challenge data from CSV files.
 
 [Code](https://github.com/zekestephens/dhy-n0) · [Demo video](https://www.youtube.com/watch?v=u_p-SZjQW9U) · Built with flask, pandas, python, react
 
@@ -77,7 +77,7 @@ It takes in data about a well and tries to detect anomalies to predict when hydr
 
 Monitor your pipes and and the likelihood that there is a hydrate.
 
-**How it used EOG Resources:** Sponsor use not stated on Devpost
+**Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/lightningbolt7/HackUTD-XI) · [Demo video](https://www.youtube.com/watch?v=A-HWoCepzhw) · Built with css, firebase, html, javascript
 

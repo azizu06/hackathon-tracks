@@ -55,18 +55,18 @@ These projects won more than one prize here. Each one is listed once.
 
 DronAR allows users to view realtime information about their drones such as positional data and status.
 
-No public code linked · Built with azure, express.js, mongodb, node.js
+[Code](https://github.com/sebLopezCot/DronAR) · Built with azure, express.js, mongodb, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** azure, express.js, mongodb, node.js, socket.io, unity, vuforia
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/sebLopezCot/DronAR)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · Google Cardboard Development Prize
-- **How it used Google:** Sponsor use not stated on Devpost
-- **How it used Local Motors Labs:** Sponsor use not stated on Devpost
+- **How it used Google:** Builds static map requests through the Google Maps API in its drone view.
+- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -89,8 +89,8 @@ No public code linked · Built with google-streetview, javascript, leaflet.js, m
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Creative Car Hack (Ford) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **How it used Ford:** Sponsor use not stated on Devpost
-- **How it used Local Motors Labs:** Sponsor use not stated on Devpost
+- **Ford:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -113,7 +113,7 @@ No public code linked
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Emerging Technology (Disney) · Best Use of Microsoft Technology
-- **How it used Disney:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of Emerging Technology (Disney)” from Disney. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Microsoft:** The team sent two frames from each scene to Microsoft’s Cognitive Services to get a contextual description.
 - **Checked on Devpost:** 2026-11-21
 
@@ -137,8 +137,8 @@ No public code linked · Built with c#, unity, vive
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Google Cardboard Development Prize · Oculus Prize (Facebook)
-- **How it used Google:** Sponsor use not stated on Devpost
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **Google:** Sponsor use not stated on Devpost
+- **Meta:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ No public code linked · Built with firebase, flask, machine-learning, pandas
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Insightful Hack (BNP Paribas)
-- **How it used BNP Paribas:** Sponsor use not stated on Devpost
+- **Award:** Won “Most Insightful Hack (BNP Paribas)” from BNP Paribas. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -335,7 +335,7 @@ No public code linked · Built with javascript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Low Level / High Performance Hack (Hudson River Trading)
-- **How it used Hudson River Trading:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Low Level / High Performance Hack (Hudson River Trading)” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -362,7 +362,7 @@ Turn the Chrome URL bar into a bash terminal.
 - **Code:** [Source 1](https://github.com/manna/url-term)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** KCG Prize
-- **How it used KCG:** Sponsor use not stated on Devpost
+- **KCG:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -389,7 +389,7 @@ Finally ask Donald Trump and Hillary Clinton your burning questions - the catch 
 - **Code:** [Source 1](https://github.com/alexwolson/AskTheCandidates)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho)
-- **How it used Kensho:** Sponsor use not stated on Devpost
+- **Award:** Won “Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho)” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -412,7 +412,7 @@ Determine which candidate to vote for by throwing away your pre-conceived notion
 - **Code:** [Source 1](https://github.com/exsmiley/xkcd-for-america)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best xkcd Reference · Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho)
-- **How it used Kensho:** Sponsor use not stated on Devpost
+- **Award:** Won “Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or upcoming election (Kensho)” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -441,7 +441,7 @@ No public code linked · Built with arduino, c++, raspberry-pi
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **How it used Local Motors Labs:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -464,7 +464,7 @@ No public code linked · Built with css, dronekit, html, javascript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **How it used Local Motors Labs:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -487,7 +487,7 @@ LeapLock is a 3D-gesture based locking mechanism.
 - **Code:** [Source 1](https://github.com/Howon/LeapLock)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **How it used Local Motors Labs:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -510,7 +510,7 @@ No public code linked · Built with flask, javascript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **How it used Local Motors Labs:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -533,7 +533,7 @@ No public code linked · Built with apple-maps, swift
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **How it used Local Motors Labs:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -622,7 +622,7 @@ Augmenting ordinary paper with new interactive experiences.
 - **Code:** [Source 1](https://github.com/adityavishwanath/augmented_paper)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Focus based document summarization (Philips)
-- **How it used Philips:** Sponsor use not stated on Devpost
+- **Award:** Won “Focus based document summarization (Philips)” from Philips. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -639,17 +639,17 @@ Augmenting ordinary paper with new interactive experiences.
 
 An easy way to sell your stuff – just push, and sell.
 
-No public code linked · Built with firebase, ios, pusheen, swift
+[Code](https://github.com/Averylamp/Pusheen-Sell) · Built with firebase, ios, pusheen, swift
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** firebase, ios, pusheen, swift, xcode
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/Averylamp/Pusheen-Sell)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best On-Demand Hack (Postmates) · Best Pusheen Reference
-- **How it used Postmates:** Sponsor use not stated on Devpost
+- **Postmates:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -676,7 +676,7 @@ A mobile app that pairs friends together for everyday activities such as eating 
 - **Code:** [Source 1](https://github.com/TheMichaelHu/PickyPusheen)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best NativeScript App for IOT (Progress)
-- **How it used Progress:** Sponsor use not stated on Devpost
+- **Progress:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -726,7 +726,7 @@ No public code linked · Built with capital-one, flask, meteor.js, mobile
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Rough Draft Ventures Prize
-- **How it used Rough Draft Ventures:** Sponsor use not stated on Devpost
+- **Award:** Won “Rough Draft Ventures Prize” from Rough Draft Ventures. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -753,7 +753,7 @@ No public code linked · Built with api.ai, azure, capital-one, javascript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Concur Prize for Best Travel Hack
-- **How it used SAP Concur:** Sponsor use not stated on Devpost
+- **Award:** Won “Concur Prize for Best Travel Hack” from SAP Concur. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -770,14 +770,14 @@ No public code linked · Built with api.ai, azure, capital-one, javascript
 
 Unlock the full potential of the electronics you love by controlling them wirelessly through easy hand gestures.
 
-No public code linked · Built with synaptics, javascript, love, python
+[Code](https://github.com/icasdri/ControlGeek-Server) · Built with synaptics, javascript, love, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** javascript, love, python, raspberry-pi, synaptics, websockets
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/icasdri/ControlGeek-Server)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Innovative use of Synaptics Large Touch Sensor
 - **Synaptics:** Built with synaptics (listed on Devpost)
@@ -803,7 +803,7 @@ Tinderprint is a dating app that matches you with people based on true physical 
 - **Code:** [Source 1](https://github.com/vinaymayar/tinderprint)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Innovative use of Synaptics Fingerprint Sensor
-- **How it used Synaptics:** Sponsor use not stated on Devpost
+- **Synaptics:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -857,7 +857,7 @@ No public code linked · Built with wolfram-technologies, machine-learning
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Wolfram Technologies
-- **Wolfram:** Built with wolfram-technologies (listed on Devpost)
+- **How it used Wolfram:** The team used Wolfram Alpha's machine-learning algorithm with images of mitotic cells.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

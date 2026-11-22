@@ -73,7 +73,7 @@ Scrubs is an iPhone app that auto-redacts PHI — names, MRNs, faces — from he
 
 Turning iPhone's $25 LiDAR into industrial-grade dense depth maps. On-device, real-time, no cloud.
 
-**How it used Zetic:** Sponsor use not stated on Devpost
+**How it used Zetic:** The project toggles between on-device Zetic and a remote GX10 server.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
 

@@ -23,7 +23,7 @@
 
 Context management you can trust - Say goodbye to /compact.
 
-**How it used The Token Company:** Sponsor use not stated on Devpost
+**The Token Company:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/a-Fig/Accordion) · [Demo video](https://www.youtube.com/watch?v=T1omrI2VjLA) · Built with claude, javascript, jiti, node.js
 
@@ -33,9 +33,9 @@ Context management you can trust - Say goodbye to /compact.
 
 A query-aware rewriting layer that extends compression into the regime deletion can't reach — distilled into a 1.5B model, then carried into multi-turn conversations.
 
-**The Token Company:** Built with the-token-company-sdk (listed on Devpost)
+**How it used The Token Company:** Uses The Token Company’s bear-2 as a compression benchmark.
 
-[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with the-token-company-sdk, 2wikimultihop, deepseek-api, h100
+[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with 2wikimultihop, deepseek-api, h100, hotpotqa
 
 ## Track names and requirements
 

@@ -23,7 +23,7 @@
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-**How it used Adobe:** Sponsor use not stated on Devpost
+**Award:** Won “Adobe: Prettiest Hack” from Adobe. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSj
 
 PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is the controller: you dodge with your real head, open your mouth to spit peas, and wink to zoom.
 
-**How it used Adobe:** Sponsor use not stated on Devpost
+**Award:** Won “Adobe: Prettiest Hack” from Adobe. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Ilan101/peaheads) · [Demo video](https://www.youtube.com/watch?v=chAkjLDZ9Hk) · Built with c#, netcode, python, unity
 
@@ -43,7 +43,7 @@ PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is 
 
 An interactive, hand-illustrated, digital storybook featuring point-and-click progression and branching cinematic endings.
 
-**How it used Adobe:** Sponsor use not stated on Devpost
+**Award:** Won “Adobe: Prettiest Hack” from Adobe. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/NiDesai08/Plu-s-Sanctuary) · [Demo video](https://vimeo.com/1234804142) · Built with css, html, ibispaintx, javascript
 

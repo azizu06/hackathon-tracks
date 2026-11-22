@@ -10,6 +10,7 @@ ROOT = SITE.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from catalog_display import short_prize_title
+from sponsor_use import use_coverage
 
 
 def field(row, *keys):
@@ -118,8 +119,12 @@ def catalog(source):
         if integration:
             named_sponsors = award_sponsors or [""]
             for sponsor in named_sponsors:
+                coverage = use_coverage(row)
+                heading = f"How it used {sponsor}" if coverage == "full" and sponsor else sponsor or "Sponsor use"
+                if coverage == "award-framed":
+                    heading = f"Award from {sponsor}"
                 project["integrations"].setdefault(
-                    sponsor.casefold(), {"sponsor": sponsor, "note": integration}
+                    (sponsor.casefold(), integration), {"sponsor": sponsor, "heading": heading, "note": integration}
                 )
         for tag in filter(None, tech):
             project["tech"].setdefault(tag.casefold(), tag)

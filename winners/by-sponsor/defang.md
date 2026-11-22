@@ -65,7 +65,7 @@ No public code linked · Built with defang, auth0, bash, css
 
 A platform to minimize carbon footprint by encouraging users to reduce their daily waste through streaks, games, and points.
 
-**How it used Defang:** Sponsor use not stated on Devpost
+**How it used Defang:** The dashboard posts user information to its Defang-hosted backend.
 
 [Code](https://github.com/Jshot117/HackHarvard) · Built with defan.io, express.js, firebase, javascript
 
@@ -75,7 +75,7 @@ A platform to minimize carbon footprint by encouraging users to reduce their dai
 
 The team gained valuable experience in integrating proximity detection systems with cloud services, handling real-time data, and optimizing the full stack application for responsive and secure user interactions.
 
-**How it used Defang:** Sponsor use not stated on Devpost
+**How it used Defang:** The hardware calls a Defang-hosted backend to send SMS alerts.
 
 [Code](https://github.com/qiz-li/loolooloo) · [Demo video](https://www.youtube.com/watch?v=z4kfvKR1sek) · Built with bluetooth, css, html, node.js
 
@@ -95,7 +95,7 @@ A Pomodoro timer that keeps you on track, summarizes your browsing, and turns st
 
 Minimize your tech stack's developmental cost.
 
-**How it used Defang:** Sponsor use not stated on Devpost
+**How it used Defang:** Runs the Defang CLI to generate deployment files.
 
 [Code](https://github.com/stevensusas/Underflow) · [Demo video](https://www.youtube.com/watch?v=lGFKiZR0MNk) · Built with amazon-web-services, cli, fastapi, mysql
 

@@ -23,7 +23,7 @@
 
 Fight the fire before you get there.
 
-**How it used ChatOverflow:** Sponsor use not stated on Devpost
+**ChatOverflow:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/tanaydonde/agni) · [Demo video](https://www.youtube.com/watch?v=rfisjmBsxcM) · Built with glsl, rust, three.js, typescript
 
@@ -33,7 +33,7 @@ Fight the fire before you get there.
 
 FarCare connects three roles around one parent.
 
-**How it used ChatOverflow:** Sponsor use not stated on Devpost
+**ChatOverflow:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
 
@@ -53,9 +53,9 @@ A dashboard supplies incident information to fire dispatchers.
 
 An interface powered by deep AI agents to help operators manage electrical grids during crisis.
 
-**How it used ChatOverflow:** Sponsor use not stated on Devpost
+**ChatOverflow:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=QIxE59QN_GA) · Built with census, costar, css, deepagents
+[Code](https://github.com/Neil-Deshpande29/rewire) · [Demo video](https://www.youtube.com/watch?v=QIxE59QN_GA) · Built with census, costar, css, deepagents
 
 ## Track names and requirements
 

@@ -23,7 +23,7 @@
 
 A city dashboard adjusts for biases in residents' reports of overflowing bins and ranks where to add bins.
 
-**How it used OneEthos:** Sponsor use not stated on Devpost
+**Award:** Won “OneEthos: Innovation for Good” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with clip, databricks, docker, expo.io
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9
 
 An edge device identifies early signs of wildfire smoke and reports them to a dashboard.
 
-**How it used OneEthos:** Sponsor use not stated on Devpost
+**Award:** Won “OneEthos: Innovation for Good” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/kateye31/fireline) · [Demo video](https://www.youtube.com/watch?v=vhKG4MiWa9A) · Built with arduino, azure, dht11, docker
 
@@ -43,7 +43,7 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 
 Jolteon captures waste heat, turns it into stored electricity, and shows you exactly how much it has collected, live.
 
-**How it used OneEthos:** Sponsor use not stated on Devpost
+**Award:** Won “OneEthos: Innovation for Good” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/TomasTorrado/Jolteon) · [Demo video](https://www.youtube.com/watch?v=8vnv30qKB9w) · Built with c++, esp32, fastapi, ina219
 
@@ -55,7 +55,7 @@ Jolteon captures waste heat, turns it into stored electricity, and shows you exa
 
 Get daily financial news and insights tailored to your interests.
 
-**How it used OneEthos:** Sponsor use not stated on Devpost
+**Award:** Won “OneEthos: AI for Financial Empowerment Challenge” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/jordanrobbedthesun/FinScope) · [Demo video](https://www.youtube.com/watch?v=WxBUaohIQVI) · Built with express.js, fastapi, javascript, node.js
 
@@ -65,7 +65,7 @@ Get daily financial news and insights tailored to your interests.
 
 Money Mentor AI: your stress-free path to financial freedom - one confident step at a time.
 
-**How it used OneEthos:** Sponsor use not stated on Devpost
+**Award:** Won “OneEthos: AI for Financial Empowerment Challenge” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
 

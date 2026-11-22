@@ -1,21 +1,46 @@
 """Validate the published claim and evidence for each sponsor use note."""
 import csv
 from functools import lru_cache
+from html import unescape
+import json
 from pathlib import Path
 import re
+from urllib.parse import parse_qs, unquote, urlsplit
 
 
 MISSING_INTEGRATION = "Sponsor use not stated on Devpost"
 BUILT_WITH = "devpost:built_with"
+CODE = "code"
+VIDEO = "demo_video"
+AWARD = "award"
+DEPENDENCY_NOTE = "Lists "
+CODE_QUOTE = re.compile(r"(?P<path>[^:]+):(?P<line>[1-9][0-9]*) (?P<text>.+)")
+TIMED_QUOTE = re.compile(r"(?P<time>[0-9]{2}:[0-5][0-9]:[0-5][0-9]) (?P<text>.+)")
+PINNED_CODE_URL = re.compile(
+    r"(https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+)/blob/[a-f0-9]{40}/([^#]+)#L([1-9][0-9]*)"
+)
+DEPENDENCY_PATH = re.compile(
+    r"(?:^|/)(?:package\.json|requirements[^/]*\.txt|pyproject\.toml|go\.mod|Cargo\.toml|"
+    r"Pipfile|Gemfile|composer\.json|pubspec\.yaml|pom\.xml|build\.gradle(?:\.kts)?|"
+    r"Package\.swift|[^/]+\.csproj)$", re.I,
+)
 USE_EVIDENCE = {
     "devpost:how_we_built": "Devpost project write-up",
     "devpost:what_it_does": "Devpost project write-up",
     BUILT_WITH: "Devpost Built With",
     "github:readme": "GitHub README",
+    "devpost:other_sections": "Devpost project write-up",
+    "devpost:gallery_caption": "Devpost gallery caption",
+    "devpost:project_link": "Devpost project link",
+    CODE: "GitHub source code",
+    VIDEO: "Demo video captions",
+    AWARD: "Devpost prize title",
 }
 USE_UNAVAILABLE = "Integration detail unavailable"
+DEPENDENCY_EVIDENCE = "GitHub dependency manifest"
 ALIAS_FILE = Path(__file__).with_name("sponsor-aliases.tsv")
 USE_FILE = Path(__file__).with_name("sponsor-uses.tsv")
+AWARD_FILE = Path(__file__).with_name("award-framing.tsv")
 FRAMING_WORDS = frozenset("""
     a an and are as at be been built by for from had has have in is it its of on or our that the
     their them these they this those to used use uses using via was we were which who with project team
@@ -92,19 +117,78 @@ def built_with_note(product):
     return f"Built with {product} (listed on Devpost)"
 
 
+def award_note(sponsor, prize):
+    return f"Won “{prize}” from {sponsor}. The write-up gives no details on how the team used the sponsor’s tech."
+
+
+def source_label(source, note):
+    if source == CODE and note.startswith(DEPENDENCY_NOTE):
+        return DEPENDENCY_EVIDENCE
+    return USE_EVIDENCE.get(source, USE_UNAVAILABLE)
+
+
+def use_coverage(row):
+    source = row.get("use_source")
+    if source == AWARD:
+        return "award-framed"
+    if source == BUILT_WITH or row.get("summary_evidence") == DEPENDENCY_EVIDENCE:
+        return "grounded-light"
+    return "full" if source else "not stated"
+
+
+def validate_code_quote(row, quote, evidence_url):
+    locator = CODE_QUOTE.fullmatch(quote)
+    origin = PINNED_CODE_URL.fullmatch(evidence_url or "")
+    if not locator or not origin:
+        raise ValueError("Code requires a path:line quote and a commit-pinned GitHub URL")
+    repo, encoded_path, line = origin.groups()
+    path = locator["path"]
+    if repo not in row["source_urls"] or unquote(encoded_path) != path or locator["line"] != line:
+        raise ValueError("Code quote does not match its linked repository, path or line")
+    if path.startswith("/") or any(part in {"", ".", ".."} for part in path.split("/")):
+        raise ValueError("Invalid quoted code path")
+    if row["summary_evidence"] == DEPENDENCY_EVIDENCE:
+        if not DEPENDENCY_PATH.search(path):
+            raise ValueError("Dependency-only claim must point to a dependency manifest")
+        match = re.fullmatch(r"Lists (.+) as a dependency\.", row["sponsor_integration"])
+        if not match or match[1].casefold() not in locator["text"].casefold():
+            raise ValueError("Dependency-only claim must name the listed dependency")
+    elif DEPENDENCY_PATH.search(path):
+        raise ValueError("Dependency manifest alone cannot support a full use note")
+    return locator["text"], path
+
+
 def validate_use(row):
     sponsor = row["sponsor"]
     source, quote = row["use_source"], row["use_quote"]
+    evidence_url = row.get("use_evidence_url")
     note = row["sponsor_integration"]
     if note == MISSING_INTEGRATION:
-        if source is not None or quote is not None or row["summary_evidence"] != USE_UNAVAILABLE:
+        if any(value is not None for value in (source, quote, evidence_url)) or row["summary_evidence"] != USE_UNAVAILABLE:
             raise ValueError("Placeholder has conflicting use evidence")
         return
-    if source not in USE_EVIDENCE or row["summary_evidence"] != USE_EVIDENCE[source]:
+    if source not in USE_EVIDENCE or row["summary_evidence"] != source_label(source, note):
         raise ValueError("Missing or invalid use source")
+    if source == AWARD:
+        if sponsor == "Other" or evidence_url or quote != row["prize"] or note != award_note(sponsor, quote):
+            raise ValueError("Award framing must repeat the exact verified prize")
+        return
     if not quote or len(quote) > 200 or quote != " ".join(quote.split()):
         raise ValueError("Use quote must contain 1–200 characters of source text")
-    if sponsor == "Other" or not alias_pattern(sponsor).search(quote):
+    excerpt = quote
+    if source == CODE:
+        text, path = validate_code_quote(row, quote, evidence_url)
+        excerpt = f"{path} {text}".replace("_", " ")
+    elif source == VIDEO:
+        timed = TIMED_QUOTE.fullmatch(quote)
+        if not timed or evidence_url not in row["demo_video_urls"]:
+            raise ValueError("Video requires a timestamped quote from a linked demo")
+        if urlsplit(evidence_url).hostname not in {"www.youtube.com", "vimeo.com"}:
+            raise ValueError("Video source must be a YouTube or Vimeo demo")
+        excerpt = timed["text"]
+    elif evidence_url:
+        raise ValueError("Unexpected evidence URL")
+    if sponsor == "Other" or not alias_pattern(sponsor).search(excerpt):
         raise ValueError("Use quote does not name the sponsor or a product")
     if not alias_pattern(sponsor).search(note):
         raise ValueError("Use note does not name the sponsor or a product")
@@ -114,17 +198,80 @@ def validate_use(row):
             raise ValueError("Built With claim must repeat a matching Devpost tag")
     elif not note.endswith(".") or note.endswith(" ."):
         raise ValueError("Full use note must be a sentence")
-    missing = ungrounded_words(note, quote, sponsor)
+    if source == CODE:
+        return
+    if source == "devpost:project_link":
+        if sponsor != ".Tech Domains" or not re.fullmatch(r"(?:[a-z0-9-]+\.)+tech", quote):
+            raise ValueError("Project-link evidence requires a .tech hostname")
+        if note != f"The team links to {quote} as its .tech project site.":
+            raise ValueError("Project-link note must repeat the linked hostname")
+        return
+    missing = ungrounded_words(note, excerpt, sponsor)
     if missing:
         raise ValueError(f"Use note has words absent from its quote: {', '.join(missing)}")
+
+
+def caption_words(path):
+    """Yield timestamped words, removing the repeated lines in rolling VTT cues."""
+    previous = []
+    for block in re.split(r"\n\s*\n", path.read_text(encoding="utf-8-sig")):
+        cue = re.search(r"^(\d{2}:\d{2}:\d{2})\.\d+ --> [^\n]+\n(.+)", block, re.M | re.S)
+        if not cue:
+            continue
+        timestamp, text = cue.groups()
+        current = unescape(re.sub(r"<[^>]*>", "", text)).split()
+        overlap = next(
+            (n for n in range(min(len(current), len(previous)), 0, -1) if previous[-n:] == current[:n]),
+            0,
+        )
+        yield from ((timestamp, word) for word in current[overlap:])
+        previous = current
+
+
+def check_cached_use(cache, source, quote, url):
+    if source == CODE:
+        repo, _, _ = PINNED_CODE_URL.fullmatch(url).groups()
+        locator = CODE_QUOTE.fullmatch(quote)
+        root = cache / "repos" / repo.removeprefix("https://github.com/")
+        path = root / "files" / locator["path"]
+        stamp = root / "tree.json"
+        if not path.is_file() or not stamp.is_file():
+            return False
+        if json.loads(stamp.read_text(encoding="utf-8"))["sha"] != urlsplit(url).path.split("/")[4]:
+            return False
+        lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
+        index = int(locator["line"]) - 1
+        return index < len(lines) and locator["text"] in " ".join(lines[index].split())
+    parts = urlsplit(url)
+    video = parse_qs(parts.query)["v"][0] if parts.hostname == "www.youtube.com" else parts.path.strip("/")
+    match = TIMED_QUOTE.fullmatch(quote)
+    expected = match["text"].split()
+    for path in (cache / "captions").glob(f"{video}.*.vtt"):
+        tokens = list(caption_words(path))
+        words_only = [word for _, word in tokens]
+        for i, (timestamp, word) in enumerate(tokens):
+            if timestamp == match["time"] and word == expected[0] and words_only[i:i + len(expected)] == expected:
+                return True
+    return False
 
 
 def load_uses():
     notes = {}
     with USE_FILE.open(encoding="utf-8", newline="") as stream:
-        for url, sponsor, note, source, quote in csv.reader(stream, delimiter="\t"):
+        for url, sponsor, note, source, quote, *location in csv.reader(stream, delimiter="\t"):
             key = url, sponsor
-            if key in notes:
-                raise ValueError(f"Duplicate sponsor use: {key}")
-            notes[key] = note, source, quote
+            if key in notes or len(location) > 1:
+                raise ValueError(f"Invalid or duplicate sponsor use: {key}")
+            notes[key] = note, source, quote, (location[0] if location else None)
     return notes
+
+
+def load_award_tracks():
+    tracks = set()
+    with AWARD_FILE.open(encoding="utf-8", newline="") as stream:
+        for event, prize, sponsor, rationale in csv.reader(stream, delimiter="\t"):
+            key = event, prize, sponsor
+            if key in tracks or not rationale.strip() or sponsor == "Other":
+                raise ValueError(f"Invalid or duplicate award framing: {key}")
+            tracks.add(key)
+    return tracks

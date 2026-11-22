@@ -11,7 +11,7 @@ from urllib.parse import quote, urlencode, urlsplit
 from catalog_display import display_prize_title, short_prize_title
 from fetch import verified_link
 from publish import HERE, OTHER_SPONSOR, dedup_project_rows, events, gallery_url
-from sponsor_use import BUILT_WITH
+from sponsor_use import use_coverage
 
 
 SITE_URL = "https://tracks.azizu.dev/"
@@ -262,9 +262,14 @@ def prize_text(row):
 
 
 def integration_note(row):
-    label = "Sponsor use" if row["sponsor"] == OTHER_SPONSOR else f'How it used {md(row["sponsor"])}'
-    if row["use_source"] == BUILT_WITH:
-        label = md(row["sponsor"])
+    sponsor = md(row["sponsor"])
+    coverage = use_coverage(row)
+    if coverage == "award-framed":
+        label = "Award"
+    elif coverage == "full":
+        label = f"How it used {sponsor}"
+    else:
+        label = sponsor if row["sponsor"] != OTHER_SPONSOR else "Sponsor use"
     return f'**{label}:** {md(row["sponsor_integration"])}'
 
 
@@ -667,8 +672,9 @@ FIELDS = [
     ("prize", "Exact prize label from the Devpost gallery"),
     ("prize_value", "Placement or value stated in the label, or null"),
     ("description", "What the project does, from its Devpost page"),
-    ("sponsor_integration", "Documented sponsor use or a sponsor product listed in Built With"),
-    ("use_source, use_quote", "Source field and exact supporting excerpt for a sponsor use note"),
+    ("sponsor_integration", "Documented sponsor use, a listed sponsor product, or award context"),
+    ("use_source, use_quote", "Source type and exact supporting excerpt for the sponsor note"),
+    ("use_evidence_url", "Commit-pinned code line or linked demo for code and video excerpts"),
     ("summary, summary_evidence", "Description plus integration note, and how well the source supports it"),
     ("sponsor_tech", "Built With tags that belong to the sponsor"),
     ("built_with", "All Built With tags on Devpost"),
@@ -676,6 +682,7 @@ FIELDS = [
     ("event_prizes, event_prize_count", "Every prize the project won at that hackathon"),
     ("required_tech, requirement_source", "Tech or brief the track required, and where that came from"),
     ("source_urls, demo_video_urls", "Code and demo video links that returned HTTP 200"),
+    ("code_match_evidence", "How a repository found outside Devpost was matched to the project, or null"),
     ("source_link_count_listed, demo_video_count_listed", "How many code and video links Devpost listed"),
     ("url, gallery_url, rules_url", "Devpost project page, winners gallery and prize rules"),
     ("award_evidence", "`Devpost Winner label`, or `Sponsor-reported prize` for a prize confirmed by the sponsor"),
@@ -833,8 +840,8 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         f"- Source code links verified HTTP 200 for {len(verified_links['source'])} of {len(links['source'])} unique recognized links.",
         f"- Demo video links verified HTTP 200 for {len(verified_links['demo'])} of {len(links['demo'])} unique recognized links.",
         "- The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.",
-        "- Full sponsor notes cite a role documented in a Devpost write-up or a linked GitHub README. "
-        "Built With notes identify sponsor products listed on Devpost.",
+        "- Full sponsor notes cite a role documented in a Devpost page, GitHub README, source code, or demo captions. "
+        "Light notes cite a Built With tag or a dependency manifest. Award notes cite the exact prize title.",
         "- Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. "
         "General event awards remain visible in project prize lists.",
         "- HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. "

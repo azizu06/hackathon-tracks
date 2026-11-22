@@ -9,7 +9,7 @@ from pathlib import Path
 import re
 import tempfile
 
-from sponsor_use import validate_use
+from sponsor_use import AWARD, CODE, VIDEO, check_cached_use, load_award_tracks, validate_use
 from render import (
     INT_FIELDS, LIST_FIELDS, ROOT_PAGES, SITE_URL, event_file, heading_anchor, render, slugify, update_readme,
 )
@@ -32,7 +32,7 @@ def anchors(path):
     return names
 
 
-def verify(root, readme=None):
+def verify(root, readme=None, source_cache=None):
     rows = json.loads((root / "winners.json").read_text(encoding="utf-8"))
     receipts = {
         record["url"]: record
@@ -43,6 +43,7 @@ def verify(root, readme=None):
         assert rows == [decode_csv(row, nullable) for row in csv.DictReader(stream)], "CSV and JSON differ"
     seen = set()
     counted = Counter()
+    award_tracks = load_award_tracks()
     for row in rows:
         key = (row["event_slug"], row["url"], row["prize"])
         assert key not in seen, f"Duplicate project prize {key}"
@@ -51,11 +52,22 @@ def verify(root, readme=None):
         assert row["prize"] in row["event_prizes"], key
         try:
             validate_use(row)
+            source = row["use_source"]
+            if source == AWARD and (row["event_slug"], row["prize"], row["sponsor"]) not in award_tracks:
+                raise ValueError("Award framing requires a reviewed prize in scripts/award-framing.tsv")
+            if source_cache is not None and source in {CODE, VIDEO} and not check_cached_use(
+                source_cache, source, row["use_quote"], row["use_evidence_url"],
+            ):
+                raise ValueError("Use quote is absent from the cited code or caption")
         except (KeyError, ValueError) as error:
             raise AssertionError(f"{key}: {error}") from error
         assert set(row["sponsor_tech"]) <= set(row["built_with"]), key
         assert row["team_size"] is None or (isinstance(row["team_size"], int) and row["team_size"] > 0), key
         assert row["http_status"] == 200, key
+        if row.get("code_match_evidence") is not None:
+            evidence = row["code_match_evidence"]
+            assert evidence and evidence == " ".join(evidence.split()), key
+            assert any(url.startswith("https://github.com/") for url in row["source_urls"]), key
         assert row["fetched_on"] == receipts[row["url"]]["fetched_at"][:10], key
         for url in [
             row["url"], row["gallery_url"], row["rules_url"], *row["source_urls"], *row["demo_video_urls"]
@@ -128,5 +140,6 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, default=Path("winners"))
     parser.add_argument("--readme", type=Path, help="Check the generated sections in the root README")
+    parser.add_argument("--source-cache", type=Path, help="Verify excerpts against cached code and demo captions")
     args = parser.parse_args()
-    verify(args.output, args.readme)
+    verify(args.output, args.readme, args.source_cache)

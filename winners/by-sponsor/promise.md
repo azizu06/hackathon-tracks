@@ -23,7 +23,7 @@
 
 Making expungement simple and accessible for all.
 
-**How it used Promise:** Sponsor use not stated on Devpost
+**Award:** Won “Promise: Public Impact Prize (sponsored by Promise)” from Promise. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 

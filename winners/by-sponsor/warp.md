@@ -23,7 +23,7 @@
 
 Augmented Reality debugging tool. Spatial diagnostics for embedded systems.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “Warp: Best Developer Tool by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/PyneKoyne/AR-Debugger) · [Demo video](https://www.youtube.com/watch?v=lSqLyfDsvgU) · Built with augmented-reality, embedded, esp32, mqtt
 
@@ -43,7 +43,7 @@ A software development tool compares solutions created by competing coding agent
 
 A code research tool indexes commit history so developers can search for earlier decisions.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Warp&#93; Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/OM200401/nwHacks-2026) · Built with 1password, cortex, fastapi, gemini
 
@@ -55,7 +55,7 @@ A code research tool indexes commit history so developers can search for earlier
 
 Talk, gesture, and bring your code to life.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “Warp: Best Developer Tool (Keychron Mechanical Keyboard per team member)” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/vsahni3/CodeFusion) · [Demo video](https://www.youtube.com/watch?v=iqgE5-5C61M) · Built with flask, gemini, intersystems, openai
 
@@ -65,7 +65,7 @@ Talk, gesture, and bring your code to life.
 
 Work with untapped talents across language barriers.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “Best Developer Tool, sponsored by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
 
@@ -85,7 +85,7 @@ Making cloud services what they were meant to be — simple.
 
 A wildfire operations dashboard brings live video and voice controls into the incident workflow.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Warp:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/SupratikPanuganti/CalHacks) · [Demo video](https://www.youtube.com/watch?v=MX_pJRwUJjU) · Built with amazon-web-services, clsx, composio, date-fns
 
@@ -95,7 +95,7 @@ A wildfire operations dashboard brings live video and voice controls into the in
 
 Bring your code to life. Orchestrate your code in the runtime.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “Warp: Best Developer Tool by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/BrianLi23/puppeteer) · [Demo video](https://www.youtube.com/watch?v=_AtQyyInhEY) · Built with agents, ai, cohere, gemini
 
@@ -105,7 +105,7 @@ Bring your code to life. Orchestrate your code in the runtime.
 
 A planning tool turns a written software idea into an editable architecture graph and starter repository.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “Warp Challenge: Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
 
@@ -127,7 +127,7 @@ A terminal search tool runs user-defined commands against selected databases.
 
 Schema generation : users provide a website URL and an empty JSON schema, which is automatically filled and returned by the Cohere AI backend as a well-structured API.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “Warp: Best Developer Tool by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Zackydout101/htn) · [Demo video](https://www.youtube.com/watch?v=uMJXzlMF9NI) · Built with cohere, eth, next.js, tailwind
 
@@ -137,7 +137,7 @@ Schema generation : users provide a website URL and an empty JSON schema, which 
 
 A hierarchal multi-agent framework built from scratch. Transforms complex goals into subproblems, that are dynamically assigned to specialized agents, boosting productivity and lowering cost.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “Warp - Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/slainhedden/mhacks-ensemble) · [Demo video](https://www.youtube.com/watch?v=LuE2RwMGqi4) · Built with amazon-web-services, docker, json, openai
 
@@ -157,7 +157,7 @@ Review : Once your code is complete, GenHint reviews it, checking for accuracy a
 
 A devtool for understanding codebases faster and easier.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “Best Developer Tool sponsored by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Sharwin24/HackAtBrown) · Built with machine-learning, natural-language-processing, python, torch
 
@@ -167,7 +167,7 @@ A devtool for understanding codebases faster and easier.
 
 Real-time error monitoring from the terminal, helping developers spend less time solving common problems.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/denniwang/t-error) · [Demo video](https://www.youtube.com/watch?v=MNrN6I0-H-A) · Built with c++, javascript, mongodb, nextjs
 
@@ -177,7 +177,7 @@ Real-time error monitoring from the terminal, helping developers spend less time
 
 A prototype implements a programming language and game engine inside Figma.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Award:** Won “Warp: Best Developer Tool by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/kognise/aldente) · [Demo video](https://www.youtube.com/watch?v=765IiE3aNFA) · Built with figma, typescript
 

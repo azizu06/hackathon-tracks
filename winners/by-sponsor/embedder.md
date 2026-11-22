@@ -23,7 +23,7 @@
 
 Giving LLM irl hands and eyes. Convert any embedded system into a plug and play device with the power of Conductor.
 
-**How it used Embedder:** Sponsor use not stated on Devpost
+**Award:** Won “Best Hardware Hack presented by Embedder” from Embedder. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/wenbox360/Conductor) · [Demo video](https://www.youtube.com/watch?v=4Sr5CIKw8jU) · Built with c, css, fastmcpcloud, llm
 

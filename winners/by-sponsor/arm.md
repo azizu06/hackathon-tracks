@@ -23,7 +23,7 @@
 
 HeliosAI uses a solar cell connected to an Arduino with light sensors and servo motors.
 
-**How it used Arm:** Sponsor use not stated on Devpost
+**Arm:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=mZV5om5oVV
 
 Your AI-powered campus companion and navigation app with an autonomous robotic UT tour guide.
 
-**How it used Arm:** Sponsor use not stated on Devpost
+**Arm:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Ahnaf-Muizz/Longhorns-Guide) · [Demo video](https://www.youtube.com/watch?v=YRbaXEND_-M) · Built with arduino, css, elevenlabs, expo.io
 
@@ -43,7 +43,7 @@ Your AI-powered campus companion and navigation app with an autonomous robotic U
 
 The team describes the project as “Nodal”.
 
-**How it used Arm:** Sponsor use not stated on Devpost
+**Arm:** Sponsor use not stated on Devpost
 
 No public code linked · Built with test
 

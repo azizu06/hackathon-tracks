@@ -23,7 +23,7 @@
 
 FundingFlow uses AI to automatically discover funding programs from government websites, match farmers to them via natural language, and generate personalized application plans with auto-filled PDF forms.
 
-**How it used Ambrook:** Sponsor use not stated on Devpost
+**Award:** Won “Real World Prize - Ambrook” from Ambrook. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/xROBERTINOx/bitcamp2026) · Built with cheerio, express.js, featherless.ai, html
 
@@ -33,7 +33,7 @@ FundingFlow uses AI to automatically discover funding programs from government w
 
 Power line faults often go undetected until they escalate catastrophically. TeleGrid delivers real-time corona discharge detection, enabling continuous, low-cost, and scalable grid protection.
 
-**How it used Ambrook:** Sponsor use not stated on Devpost
+**Award:** Won “Real World Prize - Ambrook” from Ambrook. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Snek3471/VoltVigil) · [Demo video](https://www.youtube.com/watch?v=JhbR0K8B5p8) · Built with c++, javascript, mongodb, node.js
 
@@ -43,9 +43,9 @@ Power line faults often go undetected until they escalate catastrophically. Tele
 
 Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day forecasts, and prescription actions telling you which fields to act on and what it saves.
 
-**How it used Ambrook:** Sponsor use not stated on Devpost
+**Award:** Won “Real World Prize - Ambrook” from Ambrook. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
+[Code](https://github.com/vs-githjk/Terrametric) · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
 
 ## Track names and requirements
 

@@ -23,7 +23,7 @@
 
 Ad-Supported, Safe File Storage for the Masses.
 
-**How it used Sia:** Sponsor use not stated on Devpost
+**Sia:** Sponsor use not stated on Devpost
 
 No public code linked · Built with blockchain, html5, node.js
 

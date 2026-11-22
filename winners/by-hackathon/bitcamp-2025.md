@@ -45,17 +45,17 @@ Pick a track to jump to its winners on this page.
 
 🐨 Improving the koala-ity of your job search 🐨.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=hJH72qWVECM) · Built with express.js, materialui, mongodb, node.js
+[Code](https://github.com/holland-cw3/koalafied) · [Demo video](https://www.youtube.com/watch?v=hJH72qWVECM) · Built with express.js, materialui, mongodb, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** express.js, materialui, mongodb, node.js, photoshop, postman, react
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/holland-cw3/koalafied)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hJH72qWVECM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of .Tech
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
+- **How it used .Tech Domains:** The team links to koalafied.tech as its .tech project site.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -72,17 +72,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=hJH72qWVEC
 
 This project integrates quantum simulation and machine learning to:.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=DdIYIRiyi7E) · Built with cuda, javascript, numpy, os
+[Code](https://github.com/Sankalp-dasari/bitcamp25) · [Demo video](https://www.youtube.com/watch?v=DdIYIRiyi7E) · Built with cuda, javascript, numpy, os
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cuda, javascript, numpy, os, pandas, pennylane, python, pytorch, react
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/Sankalp-dasari/bitcamp25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DdIYIRiyi7E)
 - **All prizes at this hackathon (1):** Best Hack Promoting Public Health - Bloomberg
-- **How it used Bloomberg:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Hack Promoting Public Health - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -132,7 +132,7 @@ No public code linked · Built with beautiful-soup, gemini, javascript, mongodb
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Financial Hack - Capital One
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Financial Hack - Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -159,7 +159,7 @@ Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 - **Code:** [Source 1](https://github.com/AHumanMaybe/forens-tech)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
-- **How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -236,7 +236,7 @@ Complex API management and integration, especially in dynamic, real-time scenari
 - **Code:** [Source 1](https://github.com/Vitthal-Agarwal/travel)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dqq1xoLwDOY)
 - **All prizes at this hackathon (1):** Best Use of GenAI in Business - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+- **Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,7 +386,7 @@ Mobile app for users to find and share recipes. Allows for automatic calculation
 - **Code:** [Source 1](https://github.com/anhatthezoo/bitcamp2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yF3dHHbZJn8)
 - **All prizes at this hackathon (1):** Best Web Hack Using React - Peraton
-- **How it used Peraton:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Web Hack Using React - Peraton” from Peraton. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

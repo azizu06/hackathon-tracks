@@ -23,7 +23,7 @@
 
 Sharity is a micro-donation platform where users share why they donate.
 
-**How it used Square:** Sponsor use not stated on Devpost
+**Square:** Sponsor use not stated on Devpost
 
 No public code linked · Built with alchemyapi, facebook, firebase, fleksy
 

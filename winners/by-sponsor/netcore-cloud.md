@@ -23,7 +23,7 @@
 
 Miss a daily tap, and your people get notified. Still Here is the safety net for the 36 million Americans living alone.
 
-**How it used Netcore Cloud:** Sponsor use not stated on Devpost
+**Netcore Cloud:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://vimeo.com/1182382881) · Built with aws-sns, celery, docker, fastapi
 

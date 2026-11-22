@@ -23,7 +23,7 @@
 
 Autonomous security for the medical devices hospitals can't patch.
 
-**How it used Armadin:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Armadin&#93; Best Security Hack” from Armadin. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Sanjavan7/PreVent) · [Demo video](https://www.youtube.com/watch?v=5u1bG7nEzvI) · Built with agentverse, anthropic, arduino, asi-one
 

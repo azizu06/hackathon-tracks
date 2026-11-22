@@ -55,7 +55,7 @@ No public code linked · Built with cloudflare, gemini, javascript, neon
 
 Preventing crowd crush before it happens.
 
-**Cloudflare:** Built with cloudflare (listed on Devpost)
+**How it used Cloudflare:** Configures Cloudflare's TURN servers for WebRTC.
 
 [Code](https://github.com/treehill05/eyrie) · Built with cloudflare, gemini, godaddy, nextjs
 

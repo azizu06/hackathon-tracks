@@ -274,7 +274,7 @@ A band and a plush cat that catch anxiety in how you move — and interrupt it b
 - **Code:** [Source 1](https://github.com/emilyLi2020/Theracat)
 - **Demo video:** [Video 1](https://vimeo.com/1203255610)
 - **All prizes at this hackathon (3):** Finalist · GRAND PRIZE - Ddoski's Lab Track · SkyDeck Grand Prize Winner
-- **How it used Berkeley SkyDeck:** Sponsor use not stated on Devpost
+- **Award:** Won “SkyDeck Grand Prize Winner” from Berkeley SkyDeck. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -380,7 +380,7 @@ Recursive Sandboxed Agents for Autonomous Research at Scale.
 - **Code:** [Source 1](https://github.com/JasonLai150/AlphaResearch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LcH4rdKbF6Y)
 - **All prizes at this hackathon (1):** Best Use of Cognition
-- **How it used Cognition:** Sponsor use not stated on Devpost
+- **Cognition:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -403,7 +403,7 @@ BrowserDelta cuts browser-agent context by &#126;78% while matching the vision-f
 - **Code:** [Source 1](https://github.com/jaykbpark/browser-use-compaction-co)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rEbSwp6_rc8)
 - **All prizes at this hackathon (1):** Best Use of Cognition
-- **How it used Cognition:** Sponsor use not stated on Devpost
+- **Cognition:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -701,7 +701,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLaf
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jzAeXCgLafw)
 - **All prizes at this hackathon (1):** Best Use of TokenRouter by PaleBlueDot AI
-- **How it used PaleBlueDot AI:** Sponsor use not stated on Devpost
+- **PaleBlueDot AI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -926,17 +926,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=YVdjN4_6iE
 
 Captain Ddoski gives AI finance agents instant source trust scores, risk tags, and evidence capsules via API/MCP, helping them cite reliable proof, flag weak claims, and avoid scams.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
+[Code](https://github.com/PhongCT1105/AI_Hack_Berkeley) · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** arize, bear-2-api, claude, fastapi, fastmcp/mcp, firecrawl, next.js, python, react, render, sentry, shadcn, supabase, tailwind-css, terac, the-token-company-api, typescript
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/PhongCT1105/AI_Hack_Berkeley)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nkR6ym0lYnw)
 - **All prizes at this hackathon (1):** Best Use of Terac
-- **Terac:** Built with terac (listed on Devpost)
+- **How it used Terac:** Calls Terac's model-evaluation tools through MCP when configured.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -986,7 +986,7 @@ Context management you can trust - Say goodbye to /compact.
 - **Code:** [Source 1](https://github.com/a-Fig/Accordion)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=T1omrI2VjLA)
 - **All prizes at this hackathon (1):** Best Compression Model for The Token Company
-- **How it used The Token Company:** Sponsor use not stated on Devpost
+- **The Token Company:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -999,7 +999,7 @@ Context management you can trust - Say goodbye to /compact.
 
 A query-aware rewriting layer that extends compression into the regime deletion can't reach — distilled into a 1.5B model, then carried into multi-turn conversations.
 
-[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with the-token-company-sdk, 2wikimultihop, deepseek-api, h100
+[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with 2wikimultihop, deepseek-api, h100, hotpotqa
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -1009,7 +1009,7 @@ A query-aware rewriting layer that extends compression into the regime deletion 
 - **Code:** [Source 1](https://github.com/Kart-ing/ReCompress)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2cx1czVpz8I)
 - **All prizes at this hackathon (1):** Best Compression Model for The Token Company
-- **The Token Company:** Built with the-token-company-sdk (listed on Devpost)
+- **How it used The Token Company:** Uses The Token Company’s bear-2 as a compression benchmark.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1036,7 +1036,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vdUR6xzem4s)
 - **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
-- **How it used UFB:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Physical AI Hack by UFB” from UFB. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1059,7 +1059,7 @@ Supervision layer for robot fleets. A VLM watches each robot against its task an
 - **Code:** [Source 1](https://github.com/matthehzhang/hackcal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uvKU0ZPAZa4)
 - **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
-- **How it used UFB:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Physical AI Hack by UFB” from UFB. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1082,7 +1082,7 @@ The project is a full pipeline that takes ordinary monocular phone videos of a p
 - **Code:** [Source 1](https://github.com/abtonmoy/ai_hackathon_calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=XCrEp2mOd_s)
 - **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
-- **How it used UFB:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Physical AI Hack by UFB” from UFB. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

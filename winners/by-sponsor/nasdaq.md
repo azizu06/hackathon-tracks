@@ -33,7 +33,7 @@ No public code linked · Built with azure, cosmos-db, druid, node.js
 
 Making ridesharing safer and more accessible.
 
-**How it used Nasdaq:** Sponsor use not stated on Devpost
+**Nasdaq:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
 
@@ -43,9 +43,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx
 
 Buying a new house but can't decide on a neighborhood? Check out HomeUp for data and interactive charts on house prices, rent, and more.
 
-**Nasdaq:** Built with Quandl (listed on Devpost)
+**How it used Nasdaq:** Fetches Zillow housing data by ZIP code through Quandl.
 
-[Code](https://github.com/siuryan/homeup) · Built with quandl, flask, python
+[Code](https://github.com/siuryan/homeup) · Built with flask, python, quandl
 
 ## 2018 winners
 

@@ -43,7 +43,7 @@ Physical Robot Icebreaker Game; Fate, with a little help from Tina.
 
 Life opens new doors. dor keeps old ones from closing, and helps you find your way into new ones with AI-powered nudges, personalized introductions, and local events that fit you, wherever you land.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/rishibagri/dor-calhacks) · [Demo video](https://www.youtube.com/watch?v=LXBGN2EFTMo) · Built with apify, cartesia, claude, clerk
 
@@ -63,9 +63,9 @@ At the heart of HeirLoom is Loomie, an empathetic voice AI companion.
 
 A webcam-powered horror game where your vitals shapes an AI creature’s hunt. Fix equipment, broadcast false heartbeats, conceal your presence, and outsmart the monster before it breaches your shelter.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
+[Code](https://github.com/samerrahman/CalHacks-13.0) · [Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
 
 ### [Myst](https://devpost.com/software/myst-78dz52)
 
@@ -83,7 +83,7 @@ A quiet voice in your ear that remembers the people you love.
 
 The Nudge loop: every call seeds the next one.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**Award:** Won “Meta: Bringing People Closer Together with AI - Winner” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/AlanRoybal/hackgt) · [Demo video](https://www.youtube.com/watch?v=IqrNMV-T1MQ) · Built with amazon-bedrock, amazon-chime-sdk, amazon-cognito, amazon-dynamodb
 
@@ -93,7 +93,7 @@ The Nudge loop: every call seeds the next one.
 
 Re:Collection turns a family visit or an old home video into a 3D Memory Palace someone with Alzheimer’s can walk back into, guided by a calm voice that only says what the family approved.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/shividoge/re-collection) · [Demo video](https://www.youtube.com/watch?v=FQ0vPIS4VM8) · Built with anthropic, arkit, bun, cartesia
 
@@ -115,7 +115,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=EGHW8PH8Zk
 
 The pen is mightier than the sword, nothing is more powerful than the word.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**Award:** Won “Best Hack for Building Community with Facebook” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/jenniferlai43/rapscorer) · Built with css3, datamuse, html5, javascript
 
@@ -161,7 +161,7 @@ AI-powered Chatbot which give you curated dating advice - while you're on your d
 
 VR DJ allows you to visualize and manipulate music.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**Meta:** Sponsor use not stated on Devpost
 
 No public code linked · Built with c#, unity, vive
 
@@ -173,7 +173,7 @@ No public code linked · Built with c#, unity, vive
 
 An online collection and viewer of PowerPoint presentations for large events/conferences with many speakers.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**Meta:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=6cKSB5mMAFo)
 

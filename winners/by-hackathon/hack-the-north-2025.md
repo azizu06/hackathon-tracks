@@ -95,7 +95,7 @@ Lavoe provides an intuitive and AI-augmented DAW interface with features designe
 - **Code:** [Source 1](https://github.com/Leonardomontesqui/Lavoe)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ISKuDB2s1jM)
 - **All prizes at this hackathon (2):** Rox: Best AI Agent · Windsurf: Best Project built with Windsurf
-- **How it used Rox:** Sponsor use not stated on Devpost
+- **Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
 - **Windsurf:** Built with windsurf (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
@@ -120,7 +120,7 @@ Smarter underwriting through AI-powered dashboards, deep insights, and reinforce
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R8M0fgPcW_Y)
 - **All prizes at this hackathon (2):** Federato: Best RiskOps Solution for Underwriters · Y Combinator: Unicorn Prize
 - **How it used Federato:** The team pulled the Federato API dataset and ingested it through a Python pipeline.
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “Y Combinator: Unicorn Prize” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -144,7 +144,7 @@ Real-time facial recognition that identifies connections, remembers conversation
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-XV-iJZak3I)
 - **All prizes at this hackathon (2):** Groq · Windsurf: Best Project built with Windsurf
 - **How it used Groq:** The project uses Groq Whisper for audio transcription.
-- **How it used Windsurf:** Sponsor use not stated on Devpost
+- **Windsurf:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -362,7 +362,7 @@ Insightful Network Traffic Visualization and Analysis.
 - **Code:** [Source 1](https://github.com/JeremyFriesenGitHub/nte)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZuAKIEh6PcA)
 - **All prizes at this hackathon (1):** CSE: Network Traffic Exploration
-- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+- **Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -385,7 +385,7 @@ Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into 
 - **Code:** [Source 1](https://github.com/stony-su/network-traffic-ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Network Traffic Exploration
-- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+- **Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -408,7 +408,7 @@ From packets to plain‑English, actionable security narratives.
 - **Code:** [Source 1](https://github.com/ashokcpg/YeetThePacket)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Network Traffic Exploration
-- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+- **Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -489,7 +489,7 @@ ScholarMarket is essentially Polymarket for students to bet on their grades.
 - **Code:** [Source 1](https://github.com/joshua-z-zheng/hack-the-north-2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=a8MW0_Mg53o)
 - **All prizes at this hackathon (1):** ETHGlobal: Ethereum's Infinite Garden
-- **How it used ETHGlobal:** Sponsor use not stated on Devpost
+- **Award:** Won “ETHGlobal: Ethereum's Infinite Garden” from ETHGlobal. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -512,7 +512,7 @@ Voting outcomes often face backlash. That’s why trust matters.
 - **Code:** [Source 1](https://github.com/MartinPatr/TrueCount)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DhhBWVDUrU4)
 - **All prizes at this hackathon (1):** ETHGlobal: Ethereum's Infinite Garden
-- **How it used ETHGlobal:** Sponsor use not stated on Devpost
+- **Award:** Won “ETHGlobal: Ethereum's Infinite Garden” from ETHGlobal. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -930,7 +930,7 @@ Turning creators into data-driven businesses through the power of AI.
 - **Code:** [Source 1](https://github.com/ochen1/creator-intelligence)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Rox: Best AI Agent
-- **How it used Rox:** Sponsor use not stated on Devpost
+- **Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -957,7 +957,7 @@ An e-commerce platform with two faces: customers checkout by camera no barcode, 
 - **Code:** [Source 1](https://github.com/MeharPro/Tarazoo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6TfBS77bEAU)
 - **All prizes at this hackathon (1):** Shopify: Hack Shopping with AI
-- **Shopify:** Built with shopify (listed on Devpost)
+- **How it used Shopify:** Queries the Shopify Storefront API for its product catalog when the store is configured.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1065,7 +1065,7 @@ Stacy is a voice safety companion. Stacy logs incidents, your live location, ale
 - **Code:** [Source 1](https://github.com/apollo-ullah/HackTheNorth2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nHx5KazGawQ)
 - **All prizes at this hackathon (1):** VAPI: Best Voice AI Application
-- **Vapi:** Built with vapi (listed on Devpost)
+- **How it used Vapi:** Uses Vapi to create voice calls.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1115,7 +1115,7 @@ Bring your code to life. Orchestrate your code in the runtime.
 - **Code:** [Source 1](https://github.com/BrianLi23/puppeteer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_AtQyyInhEY)
 - **All prizes at this hackathon (2):** Hack the North 2025: Finalists · Warp: Best Developer Tool by Warp
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Award:** Won “Warp: Best Developer Tool by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1173,7 +1173,7 @@ Automatically transforms bodycam footage into professional evidence reports usin
 - **Code:** [Source 1](https://github.com/asalsali/evidentai-main)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=q6GD46dyJok)
 - **All prizes at this hackathon (1):** Y Combinator: Unicorn Prize
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “Y Combinator: Unicorn Prize” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1196,7 +1196,7 @@ A gesture-first, AI-assisted 3D workspace where your hands craft the scene.
 - **Code:** [Source 1](https://github.com/itsmarsss/shapeshift)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=X7lMr9bwjqM)
 - **All prizes at this hackathon (1):** Y Combinator: Unicorn Prize
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “Y Combinator: Unicorn Prize” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,7 +23,7 @@
 
 "ME"chelin Guide hates tourist traps. Locals share hidden gems, you discover them on a map, and AI helps you find exactly what you're craving while also giving you the chance to earn money.
 
-**How it used Visa:** Sponsor use not stated on Devpost
+**Award:** Won “Visa - Custom Track” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/MUNDANE-MONDAYS/MEchelin_Guide) · [Demo video](https://www.youtube.com/watch?v=-rXiF6k6-8Y) · Built with expo.io, javascript, openai, react-native
 
@@ -33,7 +33,7 @@
 
 The shopping agent that doesn't compromise on speed or safety.
 
-**How it used Visa:** Sponsor use not stated on Devpost
+**Visa:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/micahtid/calhacks) · [Demo video](https://www.youtube.com/watch?v=qRmaXwDlp8c) · Built with apify, bitdeer, coinbase, factory
 
@@ -53,7 +53,7 @@ See the recall before your money moves. Lullabuy holds a Visa payment until a ca
 
 MIRA is an AI powered smart mirror that helps you decide what to wear and what to buy. "Mira Mira On The Wall...".
 
-**How it used Visa:** Sponsor use not stated on Devpost
+**Visa:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/23jmo/mirrorless) · [Demo video](https://www.youtube.com/watch?v=ki_rh4TUoOQ) · Built with 11labs-api, cloud-deployment-services, elevenlabs, embedded
 
@@ -75,7 +75,7 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 
 A multi-agent simulator where buyer negotiates with opaque seller agents in realistic, chat-based bargaining. No scoring rules - just LLM-driven reasoning, hidden motives, and emergent market behavior.
 
-**How it used Visa:** Sponsor use not stated on Devpost
+**Award:** Won “Visa Challenge - Agent Marketplace Simulation” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/rohan-g0re/Hack_NYU_Arbitrage) · [Demo video](https://www.youtube.com/watch?v=z2_8AWR_qU8) · Built with docker, fastapi, git, lm-studio
 
@@ -95,7 +95,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0Hnd_Zntow
 
 AI agents represent buyers and sellers, negotiating ticket deals automatically. Faster, fairer, and more dynamic than StubHub/TicketSwap — with real-time matching and transparent pricing.
 
-**How it used Visa:** Sponsor use not stated on Devpost
+**Award:** Won “Visa Challenge - Agent Marketplace Simulation” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/praveen-bandla/agent-ticket-marketplace) · Built with javascript, node.js, openrouter, python
 
@@ -105,7 +105,7 @@ AI agents represent buyers and sellers, negotiating ticket deals automatically. 
 
 Inspiration Chargebacks cost merchants up to 3x the transaction amount.
 
-**How it used Visa:** Sponsor use not stated on Devpost
+**Award:** Won “Visa Truth and Trust Track Prize” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/achneerov/HackHarvard) · [Demo video](https://www.youtube.com/watch?v=inDMZF5X79Q) · Built with ai, node.js, react
 
@@ -115,7 +115,7 @@ Inspiration Chargebacks cost merchants up to 3x the transaction amount.
 
 Visa Verify brings multi-factor fraud detection to online payments using behavioural biometrics, device history, and risk scoring to protect merchants and buyers.
 
-**How it used Visa:** Sponsor use not stated on Devpost
+**Award:** Won “Visa Truth and Trust Track Prize” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/HaoChiBao/hackharvard2025) · Built with chrome, css, express.js, extension
 

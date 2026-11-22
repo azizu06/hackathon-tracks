@@ -53,7 +53,7 @@ FirstLight recruits, consents and retains trial participants over iMessage, and 
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BNi3T0CI5m4)
 - **All prizes at this hackathon (2):** Build a Messaging Agent with Photon 2.0 · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **How it used Photon:** The project uses Photon Spectrum for iMessage lines with mini-app cards and voice notes.
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -105,7 +105,7 @@ Trash in the recycling? Compost in the trash.
 - **Code:** [Source 1](https://github.com/Ishan-Wakade/Caught_in_4K)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3-jCaqzQ2cg)
 - **All prizes at this hackathon (1):** ASUS Sustainability: Save the Earth
-- **How it used ASUS:** Sponsor use not stated on Devpost
+- **Award:** Won “ASUS Sustainability: Save the Earth” from ASUS. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -128,7 +128,7 @@ Nemo combines a webcam tank experiment, ocean-current data and transparent physi
 - **Code:** [Source 1](https://github.com/cjxsez/Nemo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xcj1ZIWv9gU)
 - **All prizes at this hackathon (2):** ASUS Sustainability: Save the Earth · Third Place Overall
-- **How it used ASUS:** Sponsor use not stated on Devpost
+- **Award:** Won “ASUS Sustainability: Save the Earth” from ASUS. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -311,7 +311,7 @@ Andi helps people quitting alcohol stay sober. It texts them in iMessage when th
 - **Code:** [Source 1](https://github.com/kushmirchandani/andi)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=N-oXvhoNrzw)
 - **All prizes at this hackathon (1):** Build a Messaging Agent with Photon 2.0
-- **Photon:** Built with photon (listed on Devpost)
+- **How it used Photon:** The team uses Photon's event stream for iMessage text, edits, polls, tapbacks, typing and read receipts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -363,7 +363,7 @@ ClearPath spots clinical-trial drug shipments at risk of delay, proposes fixes a
 - **Code:** [Source 1](https://github.com/oliverywu/ClearPath)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yicXCW7Uulg)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,7 +386,7 @@ Turn a clinical trial protocol into a site budget both sides can check: procedur
 - **Code:** [Source 1](https://github.com/CosmicOdyssey/concord)
 - **Demo video:** [Video 1](https://vimeo.com/1236934994)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -409,7 +409,7 @@ Clinical trials are complex, and mistakes can delay new treatments and cost mill
 - **Code:** [Source 1](https://github.com/rinatrizvanov/ProtocolOS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WkWDWfHbal4)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -432,7 +432,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OY-HqXfXzR8)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -455,7 +455,7 @@ Turn your past clinical trial agreements into a central intelligence playbook th
 - **Code:** [Source 1](https://github.com/duna-akin/SiteLine)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p0ZqxplwPwU)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -478,7 +478,7 @@ StreamCare is an all-in-one longitudinal research tool that allows study partici
 - **Code:** [Source 1](https://github.com/CarstenMacosko/HackHarvard2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ItVIDKM9HO8)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -501,7 +501,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RG
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mTHAhDZ4RGs)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -524,7 +524,7 @@ A texting companion for clinical trials: it finds trials, answers participants a
 - **Code:** [Source 1](https://github.com/egornikot/trialmate)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q-O1BSkJvRI)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -547,7 +547,7 @@ TrialMax shows researchers why trial recruitment fails and helps them find safer
 - **Code:** [Source 1](https://github.com/Arnavvvkumar/TrialMax)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5BlGfMiELQc)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -570,7 +570,7 @@ TrialPilot helps teams compare clinical trial designs across cost, site workload
 - **Code:** [Source 1](https://github.com/KryptonNii/YANZHENG_NI_HACKHARVARD2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KLeeAnTy4M8)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -597,7 +597,7 @@ a parking garage map for orbit: find the spot where your satellites do the least
 - **Code:** [Source 1](https://github.com/candpixie/hackharvard26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=x_iGKuHw0B0)
 - **All prizes at this hackathon (1):** SpaceXAI Make it Legendary
-- **How it used SpaceXAI:** Sponsor use not stated on Devpost
+- **How it used SpaceXAI:** The team used SpaceX AI's Grok to talk to the map through function calling.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

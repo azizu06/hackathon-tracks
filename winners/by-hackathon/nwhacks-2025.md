@@ -54,8 +54,8 @@ A dynamic platform for mapping real-time crisis events through peer-shared video
 - **Code:** [Source 1](https://github.com/bpbrianpark/CrisisLens)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Aquareum.tv Sponsor Prize · TELUS Sponsor Prize
-- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
-- **How it used TELUS:** Sponsor use not stated on Devpost
+- **Aquareum.tv:** Sponsor use not stated on Devpost
+- **Award:** Won “TELUS Sponsor Prize” from TELUS. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -84,7 +84,7 @@ The team are a decentralized API key sharing intermediary service.
 - **Code:** [Source 1](https://github.com/bradeu/b.env)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** 1Password Sponsor Prize
-- **How it used 1Password:** Sponsor use not stated on Devpost
+- **Award:** Won “1Password Sponsor Prize” from 1Password. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -113,7 +113,7 @@ VR Conferences, Concerts, &amp; Events powered by Streamspace.
 - **Code:** [Source 1](https://github.com/Axzyl/nwhacks-official)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
-- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
+- **Aquareum.tv:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -136,7 +136,7 @@ The Story To build a community, you must first protect it.
 - **Code:** [Source 1](https://github.com/eshuaiii/nwhacks-2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
-- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
+- **Aquareum.tv:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -159,7 +159,7 @@ Meet in person, point in virtual.
 - **Code:** [Source 1](https://github.com/gracetownland/NwHacks2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
-- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
+- **Aquareum.tv:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -182,7 +182,7 @@ Helping you find the perfect study spot or gym time on campus.
 - **Code:** [Source 1](https://github.com/romansinkus/spotlight)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
-- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
+- **Aquareum.tv:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -205,7 +205,7 @@ Helping you find the perfect study spot or gym time on campus.
 - **Code:** [Source 1](https://github.com/tyin76/sum-up-sundae)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
-- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
+- **Aquareum.tv:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -232,7 +232,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFN
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sHfQ85ScFNA)
 - **All prizes at this hackathon (1):** Communications Security Establishment Sponsor Prize
-- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
+- **Award:** Won “Communications Security Establishment Sponsor Prize” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -332,7 +332,7 @@ Patients over paperwork- physicians want make meaningful impact on patients but 
 - **Code:** [Source 1](https://github.com/zelalemka/nwhacks_2025_chit_chart)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1tHKeyLVZSA)
 - **All prizes at this hackathon (2):** Glaive Any Open-Source LLM Prize · Most Likely to Become a Successful Startup
-- **How it used Glaive:** Sponsor use not stated on Devpost
+- **Award:** Won “Glaive Any Open-Source LLM Prize ($2000)” from Glaive. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -359,7 +359,7 @@ A menu companion translates unfamiliar menus and helps diners visualize the dish
 - **Code:** [Source 1](https://github.com/stevenxu27/Dishcovery)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,7 +386,7 @@ Challenge friends to webcam slap battles, dodge hits like Neo, and win egos—no
 - **Code:** [Source 1](https://github.com/devnull03/nwhacks25-nameTBA)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CQN2vw13LlA)
 - **All prizes at this hackathon (1):** Best Use of Midnight
-- **How it used Midnight:** Sponsor use not stated on Devpost
+- **Midnight:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -446,7 +446,7 @@ Nuggetmon is a desktop application designed to gamify productivity! With the hel
 - **Code:** [Source 1](https://github.com/asnbl/nuggetmon-productivity-app)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9VkhzWEAR-g)
 - **All prizes at this hackathon (1):** Wondershare Sponsor Prize
-- **How it used Wondershare:** Sponsor use not stated on Devpost
+- **Wondershare:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

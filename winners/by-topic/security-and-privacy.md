@@ -121,7 +121,7 @@ Approve at-home iPLEDGE pregnancy tests in one tap, with fraud checks and an aud
 
 Poysson is a game-style training platform covering five attack types: ransomware, SIM-swap fraud, smishing, phishing, and insider/vendor leaks.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
+[Code](https://github.com/nishthefish06/Poysson) · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
 
 ### [Red Ledger](https://devpost.com/software/red-ledger)
 

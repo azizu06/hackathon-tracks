@@ -23,7 +23,7 @@
 
 Instantly distinguish genuine fouls from flops with video analysis through user inputted soccer clips. Provides referee-style analysis based on the verdict.
 
-**Streamlit:** Built with streamlit (listed on Devpost)
+**How it used Streamlit:** Uses Streamlit to render the dive detector interface.
 
 [Code](https://github.com/Arnav2610/streamlit_dive_detector) · [Demo video](https://www.youtube.com/watch?v=Q0bEOvrx4BA) · Built with streamlit, gemini, genai, joblib
 

@@ -23,7 +23,7 @@
 
 Campfire is an AI that turns your group's trip chat into a shared story.
 
-**Backboard.io:** Built with backboard (listed on Devpost)
+**How it used Backboard.io:** Backboard provides long-term memory to the OpenAI agent.
 
 [Code](https://github.com/Suhas0723/Campfire) · [Demo video](https://www.youtube.com/watch?v=3HljGGzLvkY) · Built with backboard, baileys, caddy, celery
 
@@ -33,7 +33,7 @@ Campfire is an AI that turns your group's trip chat into a shared story.
 
 You can either describe a machine/robot you want to build, or you record a video of your workbench with all the hardware parts and machinery you have available to you.
 
-**Backboard.io:** Built with backboard (listed on Devpost)
+**How it used Backboard.io:** The project used Backboard for session context.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
 

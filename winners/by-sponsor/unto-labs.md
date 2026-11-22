@@ -23,9 +23,9 @@
 
 C. elegans (or the roundworm) was the first.
 
-**Unto Labs:** Built with thru (listed on Devpost)
+**How it used Unto Labs:** Queries on-chain state through Unto Labs’ Thru SDK.
 
-[Code](https://github.com/MarcDasilva/flyVSworm) · [Demo video](https://www.youtube.com/watch?v=uWx6xYoPXUY) · Built with thru, c, elevenlabs, geminiapi
+[Code](https://github.com/MarcDasilva/flyVSworm) · [Demo video](https://www.youtube.com/watch?v=uWx6xYoPXUY) · Built with c, elevenlabs, geminiapi, html
 
 ## Track names and requirements
 

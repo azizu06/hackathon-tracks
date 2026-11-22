@@ -56,7 +56,7 @@ Transforming arthritis rehabilitation by advanced posture detection ensures corr
 - **Code:** [Source 1](https://github.com/Shameed4/Flexy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=l7krRFZL9R8)
 - **All prizes at this hackathon (1):** AllHealth Track Prize
-- **How it used AllHealth:** Sponsor use not stated on Devpost
+- **AllHealth:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -110,7 +110,7 @@ Transform legal research with an AI-powered tool that delivers precise case matc
 - **Code:** [Source 1](https://github.com/FelixNgFender/HackHarvard24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VuqHDqgFIkg)
 - **All prizes at this hackathon (1):** Best AI Project with Databricks Open Source
-- **How it used Databricks:** Sponsor use not stated on Devpost
+- **Databricks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -137,7 +137,7 @@ A platform to minimize carbon footprint by encouraging users to reduce their dai
 - **Code:** [Source 1](https://github.com/Jshot117/HackHarvard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Defang
-- **How it used Defang:** Sponsor use not stated on Devpost
+- **How it used Defang:** The dashboard posts user information to its Defang-hosted backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -245,7 +245,7 @@ Your personal prescription and medical symptom tracking companion.
 - **Code:** [Source 1](https://github.com/Givikap/Althea)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=y12QLSdo0zs)
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
-- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
+- **Award:** Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -268,7 +268,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=dRKB-Pcvrn
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dRKB-PcvrnU)
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
-- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
+- **Award:** Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -291,7 +291,7 @@ No public code linked · Built with css, github, html, javascript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
-- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
+- **Award:** Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -318,7 +318,7 @@ Find useful information about subreddits with a few clicks.
 - **Code:** [Source 1](https://github.com/sethmorton/embeddit)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=E9kUUpfn7_g)
 - **All prizes at this hackathon (1):** Sauce Labs Hot Sauce Raffle
-- **How it used Sauce Labs:** Sponsor use not stated on Devpost
+- **Award:** Won “Sauce Labs Hot Sauce Raffle” from Sauce Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -345,7 +345,7 @@ Real-time error monitoring from the terminal, helping developers spend less time
 - **Code:** [Source 1](https://github.com/denniwang/t-error)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MNrN6I0-H-A)
 - **All prizes at this hackathon (1):** Best Developer Tool
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

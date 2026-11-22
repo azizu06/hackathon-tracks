@@ -35,7 +35,7 @@ Show Snappier your workflow once by recording your screen. AI figures out what y
 
 Lumora is a Personal Assistant Marketplace. No need to manually set meetings or write to-do lists any longer.
 
-**How it used Vercel:** Sponsor use not stated on Devpost
+**Vercel:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ShaneYokota72/Lumora) · Built with groq, next.js, perplexity-api, supabase
 

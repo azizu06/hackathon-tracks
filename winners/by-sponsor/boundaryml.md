@@ -23,7 +23,7 @@
 
 Cybersecurity done right. Cyberwright leverages AI to automate the process of identifying vulnerabilities code, helping developers fix bugs before they ship.
 
-**How it used BoundaryML:** Sponsor use not stated on Devpost
+**Award:** Won “BoundaryML - Best use of LLM Agents” from BoundaryML. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/jaydns/cyberwright) · [Demo video](https://www.youtube.com/watch?v=_6fZPsObiIw) · Built with lucide, mantine, next, react
 

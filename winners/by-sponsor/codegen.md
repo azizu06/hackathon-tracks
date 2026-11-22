@@ -23,7 +23,7 @@
 
 CodeInsight is an interactive tool that analyzes a codebase to generate a dynamic visualization of function dependencies.
 
-**How it used Codegen:** Sponsor use not stated on Devpost
+**Award:** Won “Codegen: Best Code Analysis Application ($1.5k Cash)” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/evanng07/CodeInsight) · [Demo video](https://www.youtube.com/watch?v=AWrk2P0Nsgg) · Built with flask, groq, html, javascript
 
@@ -43,7 +43,7 @@ Agentic routing at scale for 66x cheaper and 4x faster — Powering the Agentic 
 
 It’s incredibly difficult to just pick a few, but here are the major takeaways.
 
-**How it used Codegen:** Sponsor use not stated on Devpost
+**Award:** Won “Codegen: Best Developer Tool ($1.5k Cash)” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/phombal/swarm-backend-new) · [Demo video](https://www.youtube.com/watch?v=IMKAHnOzx9E) · Built with fastapi, javascript, next.js, openai
 
@@ -55,7 +55,7 @@ It’s incredibly difficult to just pick a few, but here are the major takeaways
 
 Tired of character limits on ChatGPT? Look no further than LLM Pro Max.
 
-**How it used Codegen:** Sponsor use not stated on Devpost
+**Award:** Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/gigabite-pro/LLM-pro-max) · [Demo video](https://www.youtube.com/watch?v=Bm1PYdzCPac) · Built with auth0, chromadb, cohere, convex
 
@@ -65,7 +65,7 @@ Tired of character limits on ChatGPT? Look no further than LLM Pro Max.
 
 Ever lost your keys? Forgot if you turned off the oven.
 
-**How it used Codegen:** Sponsor use not stated on Devpost
+**Award:** Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/darryltanzil/reCall) · [Demo video](https://www.youtube.com/watch?v=WPjF2uRGGKA) · Built with express.js, firebase, javascript, node.js
 

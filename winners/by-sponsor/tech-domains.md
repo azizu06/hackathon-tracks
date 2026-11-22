@@ -43,7 +43,7 @@ Two exes, two agents, zero awkward conversations.
 
 Search up a city and Munchy Munchy will create a food tour through it, taking you to the best restaurants and the best landmarks.
 
-**.Tech Domains:** Built with .tech (listed on Devpost)
+**How it used .Tech Domains:** The project's CNAME points to munchymunchy.tech.
 
 [Code](https://github.com/jessiiishin/munchymunchy) · Built with .tech, chatgpt, claude, css
 
@@ -63,7 +63,7 @@ Play It Forward pairs families in need of toys with households that have more th
 
 Helping employee ideas get off the ground.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**How it used .Tech Domains:** The team links to www.bosspleaseapprovemy.tech as its .tech project site.
 
 [Code](https://github.com/malki-aal/MalakaiSaleh_H26) · [Demo video](https://www.youtube.com/watch?v=RvQH93zIyyM) · Built with capital-one, claude, clerk, docker
 
@@ -75,9 +75,9 @@ Helping employee ideas get off the ground.
 
 🐨 Improving the koala-ity of your job search 🐨.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**How it used .Tech Domains:** The team links to koalafied.tech as its .tech project site.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=hJH72qWVECM) · Built with express.js, materialui, mongodb, node.js
+[Code](https://github.com/holland-cw3/koalafied) · [Demo video](https://www.youtube.com/watch?v=hJH72qWVECM) · Built with express.js, materialui, mongodb, node.js
 
 ### [PhishyBusiness](https://devpost.com/software/phishybusiness)
 
@@ -85,7 +85,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=hJH72qWVEC
 
 By simply entering your phone number on the website, an AI Agent calls you and simulates a phishing call, responding to you and encouraging you with classic scam call tactics.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**How it used .Tech Domains:** The team links to phishybusiness.tech as its .tech project site.
 
 [Code](https://github.com/ColeKaplan/phishybusiness) · [Demo video](https://www.youtube.com/watch?v=LAumATWI2zE) · Built with next.js, react, retell, typescript
 
@@ -95,7 +95,7 @@ By simply entering your phone number on the website, an AI Agent calls you and s
 
 PitPerfect is an AI-powered F1 platform that detects car damage from footage and telemetry, visualizes it in 3D, and delivers instant, data-driven pit stop calls—turning milliseconds into wins.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**.Tech Domains:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/CodyGargar/PitPerfect) · [Demo video](https://www.youtube.com/watch?v=HPvYgMUh-NI) · Built with css, gemini, google-gemini-api, next.js
 
@@ -105,7 +105,7 @@ PitPerfect is an AI-powered F1 platform that detects car damage from footage and
 
 Ever stuck procrastinating on important tasks? Roominate breaks down your tasks into smaller steps, and incentivizes completing them by allowing you to decorate a home just for you.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**.Tech Domains:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/XitoAliferis/calhacks12) · [Demo video](https://www.youtube.com/watch?v=0LMzgVUCBIg) · Built with asi:one, claude, godot, python
 
@@ -125,7 +125,7 @@ Ever stuck procrastinating on important tasks? Roominate breaks down your tasks 
 
 Anonymous voting platform powered by the Midnight Blockchain. Students can now vote privately by utilizing zero-knowledge proofs and decentralized blockchain network verification.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**.Tech Domains:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Edwin-Yee/SBHacks-XI) · [Demo video](https://www.youtube.com/watch?v=Bm5nX9-Txrg) · Built with anchor, midnight, next.js, npm
 
@@ -137,7 +137,7 @@ Anonymous voting platform powered by the Midnight Blockchain. Students can now v
 
 It takes in data about a well and tries to detect anomalies to predict when hydrate buildups might be happening.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**How it used .Tech Domains:** The team links to dhy-n0.tech as its .tech project site.
 
 [Code](https://github.com/zekestephens/dhy-n0) · [Demo video](https://www.youtube.com/watch?v=u_p-SZjQW9U) · Built with flask, pandas, python, react
 

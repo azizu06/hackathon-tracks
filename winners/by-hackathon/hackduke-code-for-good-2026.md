@@ -134,7 +134,7 @@ Help people go outside more often by making nature exploration social, rewarding
 - **Code:** [Source 1](https://github.com/EzequielBaltierra/HackDuke26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZdNEc66V0Zg)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Best Design
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ No public code linked · Built with claude, next.js, postgresql, python
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of AI powered by Reach Capital · Runner Up: Health Track
-- **How it used Reach Capital:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -215,7 +215,7 @@ DataCrawl turns plain-English data requests into fresh datasets. AI agents plan,
 - **Code:** [Source 1](https://github.com/Aarushvinod/DataCrawl)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=t-F03o3KFjQ)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **Solana:** Built with solana (listed on Devpost)
+- **How it used Solana:** Offers Solana as a payment method when a Solana payment request is available.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,9 +23,9 @@
 
 DecentPass is a decentralized application that stores your passwords securely on the Ethereum blockchain.
 
-**ConsenSys:** Built with metamask (listed on Devpost)
+**How it used ConsenSys:** The team used MetaMask as the wallet for interacting with the dapp.
 
-No public code linked · Built with metamask, ethereum, node.js, solidity
+[Code](https://github.com/erickpinos/DecentPass) · Built with ethereum, metamask, node.js, solidity
 
 ## Track names and requirements
 

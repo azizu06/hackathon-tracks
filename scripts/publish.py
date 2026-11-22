@@ -7,9 +7,12 @@ import json
 from pathlib import Path
 import re
 
-from evidence import clean, overview_tracks, project_details
+from evidence import clean, normalized_link, overview_tracks, project_details
 from fetch import Fetcher, cache_path, gallery_winners, prize_label, verified_link
-from sponsor_use import BUILT_WITH, MISSING_INTEGRATION, USE_EVIDENCE, USE_UNAVAILABLE, load_uses, validate_use
+from sponsor_use import (
+    AWARD, BUILT_WITH, CODE, VIDEO, MISSING_INTEGRATION, award_note, check_cached_use,
+    load_award_tracks, load_uses, source_label, validate_use,
+)
 
 
 HERE = Path(__file__).resolve().parent
@@ -260,12 +263,29 @@ def cached_readme_has_quote(cache, links, quote):
     return False
 
 
-def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None):
+def load_code_matches(receipts):
+    matches = {}
+    for project, repo, checked, reason in load_tsv("code-matches.tsv"):
+        if (
+            project in matches or normalized_link(repo) != ("source", repo) or
+            not repo.startswith("https://github.com/") or not reason or clean(reason) != reason or
+            not re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z", checked)
+        ):
+            raise ValueError(f"Invalid repository match for {project}")
+        matches[project] = (repo, reason)
+        if receipts.get(repo, {}).get("status") != 200:
+            receipts[repo] = {"url": repo, "status": 200, "fetched_at": checked}
+    return matches
+
+
+def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, source_cache=None):
     rows = []
     event_info = events()
     descriptions = dict(load_tsv("projects.tsv"))
     overrides = {(url, sponsor): summary for url, sponsor, summary in load_tsv("summary-descriptions.tsv")}
     uses = load_uses()
+    award_tracks = load_award_tracks()
+    code_matches = load_code_matches(receipts)
     candidates, missing = candidate_awards(cache, receipts)
     parsed = {}
     observed_links = defaultdict(set)
@@ -310,23 +330,31 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None):
             if gallery_labels[url] - labels:
                 missing[event].append(f"Gallery lists additional Winner labels for {url}")
             before, tags = describe(project, sponsor, overrides.get((url, sponsor), descriptions.get(url)))
-            use, source, quote = uses.get((url, sponsor), (MISSING_INTEGRATION, None, None))
+            use, source, quote, location = uses.get((url, sponsor), (MISSING_INTEGRATION, None, None, None))
+            if source is None and (event, prize, sponsor) in award_tracks:
+                use, source, quote = award_note(sponsor, prize), AWARD, prize
             if source == BUILT_WITH and quote in project.built_with and quote not in tags:
                 tags.append(quote)
             rules = track_details.get(clean(prize), [])
             needed, requirement_source = requirement(prize, rules)
             observed_links["source"].update(project.source_links)
             observed_links["demo"].update(project.demo_links)
+            source_urls = verified(project.source_links, receipts)
+            match_evidence = None
+            if url in code_matches:
+                repo, match_evidence = code_matches[url]
+                source_urls = sorted({repo, *source_urls})
+                observed_links["source"].add(repo)
             rows.append({
                 "project": project.name, "hackathon": name, "year": year, "event_slug": event,
                 "sponsor": sponsor, "prize": prize, "prize_value": stated_value(prize),
                 "description": before, "sponsor_integration": use, "summary": f"{before} {use}",
-                "summary_evidence": USE_EVIDENCE.get(source, USE_UNAVAILABLE),
-                "use_source": source, "use_quote": quote, "sponsor_tech": tags,
+                "summary_evidence": source_label(source, use),
+                "use_source": source, "use_quote": quote, "use_evidence_url": location, "sponsor_tech": tags,
                 "built_with": project.built_with, "team_size": project.team_size,
                 "event_prize_count": len(prizes_at_event), "event_prizes": prizes_at_event,
                 "required_tech": needed, "requirement_source": requirement_source,
-                "source_urls": verified(project.source_links, receipts),
+                "source_urls": source_urls, "code_match_evidence": match_evidence,
                 "demo_video_urls": verified(project.demo_links, receipts),
                 "source_link_count_listed": len(project.source_links),
                 "demo_video_count_listed": len(project.demo_links),
@@ -340,12 +368,22 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None):
             validate_use(row)
             source, quote = row["use_source"], row["use_quote"]
             if validate_quotes and source and source.startswith("devpost:") and source != BUILT_WITH:
-                if quote not in project.writeup_text and quote not in project.tagline:
-                    raise ValueError("Use quote is absent from the cached Devpost write-up")
+                if source == "devpost:project_link":
+                    has_quote = quote in project.project_hosts
+                else:
+                    excerpts = project.captions if source == "devpost:gallery_caption" else (
+                        project.writeup_text, project.tagline,
+                    )
+                    has_quote = any(quote in excerpt for excerpt in excerpts)
+                if not has_quote:
+                    raise ValueError("Use quote is absent from the cached Devpost source")
             if github_cache is not None and source == "github:readme":
                 links = set(project.source_links) | set(row["source_urls"])
                 if not cached_readme_has_quote(github_cache, links, quote):
                     raise ValueError("Use quote is absent from the cached linked GitHub READMEs")
+            if source_cache is not None and source in {CODE, VIDEO}:
+                if not check_cached_use(source_cache, source, quote, row["use_evidence_url"]):
+                    raise ValueError("Use quote is absent from the cited code or caption")
         except ValueError as error:
             raise ValueError(f"{row['url']} ({row['sponsor']}): {error}") from error
     rows.sort(key=lambda row: (
@@ -359,6 +397,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--cache", type=Path, default=Path(".devpost-cache"))
     parser.add_argument("--github-cache", type=Path, help="Verify README excerpts against a local cache")
+    parser.add_argument("--source-cache", type=Path, help="Verify code lines and demo captions against a local cache")
     parser.add_argument("--output", type=Path, default=HERE.parent / "winners")
     parser.add_argument("--readme", type=Path, help="Refresh the generated sections in the root README")
     parser.add_argument("--result", type=Path)
@@ -367,7 +406,8 @@ def main():
     args = parser.parse_args()
     fetcher = Fetcher(args.cache, retry_failed=False)
     rows, candidates, missing, links = index_rows(
-        args.cache, fetcher.receipts, validate_quotes=not args.list_links, github_cache=args.github_cache,
+        args.cache, fetcher.receipts, validate_quotes=not args.list_links,
+        github_cache=args.github_cache, source_cache=args.source_cache,
     )
     if args.list_links:
         for link in sorted(links["source"] | links["demo"]):

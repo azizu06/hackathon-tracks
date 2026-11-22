@@ -134,7 +134,7 @@ Revolutionizing accessibility through natural-sounding TTS and insightful image 
 - **Code:** [Source 1](https://github.com/Prasad-Katkade/AI-Screen-Reader)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kf5yGIl9vkg)
 - **All prizes at this hackathon (1):** Best AI Project with Databricks Open Source
-- **How it used Databricks:** Sponsor use not stated on Devpost
+- **Databricks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -180,7 +180,7 @@ Also won this track: [ANGEL'S PROTECTION](#project-angel-s-protection) (listed a
 
 Introducing PrimeTime—an advanced productivity app that uses AI to track engagement and optimize time spent on your computer to help you maximize focus and boost efficiency.
 
-[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with openvino, javascript, llms, next.js
+[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with javascript, llms, next.js, npus
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -190,7 +190,7 @@ Introducing PrimeTime—an advanced productivity app that uses AI to track engag
 - **Code:** [Source 1](https://github.com/HackTX-2024-RAAA/PrimeTime)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Intel AI
-- **Intel:** Built with openvino (listed on Devpost)
+- **How it used Intel:** Uses Intel's LLaVA-Gemma 2B checkpoint in the activity classifier.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

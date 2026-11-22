@@ -61,7 +61,7 @@ An evaluation dashboard compares multi-agent workflows and lets developers inspe
 - **Code:** [Source 1](https://github.com/AlfredSjoqvist/multieval)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=__OU7Ftl4EM)
 - **All prizes at this hackathon (2):** Cognition Company Challenge · Track: Agentverse - Search &amp; Discovery of Agents
-- **Cognition:** Built with devin (listed on Devpost)
+- **How it used Cognition:** Connects to the public Devin API to start monitored sessions.
 - **How it used Fetch.ai:** An Agentverse uAgent receives a natural-language economic scenario.
 - **Checked on Devpost:** 2026-11-21
 
@@ -115,7 +115,7 @@ Nimbus is an open-source VM provisioning platform that gives you the EC2 experie
 - **Code:** [Source 1](https://github.com/smalex-z/nimbus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mk75Ryr81Y8)
 - **All prizes at this hackathon (2):** Arista Networks: Connect the Dots Challenge · High Quality Sponsormaxxing
-- **How it used Arista Networks:** Sponsor use not stated on Devpost
+- **Award:** Won “Arista Networks: Connect the Dots Challenge” from Arista Networks. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -138,7 +138,7 @@ A smart productivity proxy that uses AI to filter away distractions while allowi
 - **Code:** [Source 1](https://github.com/Drime648/lahacks-timehole)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pVpUcCo96SI)
 - **All prizes at this hackathon (1):** Arista Networks: Connect the Dots Challenge
-- **How it used Arista Networks:** Sponsor use not stated on Devpost
+- **Award:** Won “Arista Networks: Connect the Dots Challenge” from Arista Networks. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -161,7 +161,7 @@ Veritas is a Chrome extension that fact-checks YouTube videos in real time. It e
 - **Code:** [Source 1](https://github.com/riteshkasa/veritas)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CuinBraRAlk)
 - **All prizes at this hackathon (1):** Arista Networks: Connect the Dots Challenge
-- **How it used Arista Networks:** Sponsor use not stated on Devpost
+- **Award:** Won “Arista Networks: Connect the Dots Challenge” from Arista Networks. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ Zero-trust autonomous triage for networked medical hardware. Localized frontier 
 - **Code:** [Source 1](https://github.com/jackdeye/LAHACKS2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=v-JXrRFZ2OM)
 - **All prizes at this hackathon (1):** ASUS Company Challenge
-- **How it used ASUS:** Sponsor use not stated on Devpost
+- **ASUS:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -211,7 +211,7 @@ The command center for ocean climate intervention. Simulate alkalinity deploymen
 - **Code:** [Source 1](https://github.com/A-Choudhari/LaHacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gyvOeVgc2KM)
 - **All prizes at this hackathon (1):** ASUS Company Challenge
-- **How it used ASUS:** Sponsor use not stated on Devpost
+- **ASUS:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,7 +386,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=eoTO5TZJbN
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eoTO5TZJbNQ)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
-- **How it used Cognition:** Sponsor use not stated on Devpost
+- **Award:** Won “Cognition Company Challenge” from Cognition. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -455,7 +455,7 @@ Ai Agent that designs computer chips in VSCode.
 - **Code:** [Source 1](https://github.com/rtsmc/lahacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R-_vN2aiRW4)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
-- **How it used Cognition:** Sponsor use not stated on Devpost
+- **Award:** Won “Cognition Company Challenge” from Cognition. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -768,7 +768,7 @@ How to combine AI with deterministic logic.
 - **Code:** [Source 1](https://github.com/Dirtblob/AutoGear)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RYnkUSRhRUk)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -837,7 +837,7 @@ EMTs deserve better than a radio and a clipboard.
 - **Code:** [Source 1](https://github.com/MarcDasilva/Impulse)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FwS_lDUnjMY)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **How it used Figma:** The team used Figma for wireframes.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -906,7 +906,7 @@ A desktop assistant finds local files and gathers context for the user's current
 - **Code:** [Source 1](https://github.com/LAHacks2026/Obi_Laptop)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=r7eSFDm4Wd4)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **How it used Figma:** The team used Figma Make to iterate on the UI's design language and color schemes.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -929,7 +929,7 @@ A booking workspace helps performers find venues and manage pitches and follow-u
 - **Code:** [Source 1](https://github.com/RC3371/Scaena-LAHacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DCTjE99embY)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **Figma:** Built with figma (listed on Devpost)
+- **How it used Figma:** The team used Figma Make to prototype the dashboard and its design system.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -952,7 +952,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtP
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M60_I4LMtPM)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1048,7 +1048,7 @@ A coding tool maps relationships between files and passes the graph to a coding 
 - **Code:** [Source 1](https://github.com/michelllinstar/MarkCodePolo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DNzF3zk9gi4)
 - **All prizes at this hackathon (1):** MLH: Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1102,7 +1102,7 @@ Type faster with less mistakes using bigram latency data.
 - **Code:** [Source 1](https://github.com/eedwardkim/Roman-Road)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All prizes at this hackathon (1):** Happy Hacking Keyboard: Type Beyond - Rethinking Interaction Through the Keyboard
-- **How it used Happy Hacking Keyboard:** Sponsor use not stated on Devpost
+- **Award:** Won “Happy Hacking Keyboard: Type Beyond - Rethinking Interaction Through the Keyboard” from Happy Hacking Keyboard. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1352,7 +1352,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=avU8l6qmFD4)
 - **All prizes at this hackathon (1):** World U: Build for the future of the internet with World
-- **How it used World U:** Sponsor use not stated on Devpost
+- **World U:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1496,7 +1496,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=M_QiPFWFky
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M_QiPFWFkys)
 - **All prizes at this hackathon (2):** Track: Flicker To Flow · Zetic Company Challenge
-- **How it used Zetic:** Sponsor use not stated on Devpost
+- **How it used Zetic:** The project toggles between on-device Zetic and a remote GX10 server.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

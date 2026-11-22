@@ -43,7 +43,7 @@ Helping terrible men control the consequences of their actions.
 
 Share underutilized GPU power for machine learning education.
 
-**How it used DocuSign:** Sponsor use not stated on Devpost
+**How it used DocuSign:** Uses the DocuSign Click SDK to display an agreement in the web app.
 
 [Code](https://github.com/as-com/gpuppy)
 

@@ -43,7 +43,7 @@ An edge-AI tutoring agent that listens in real time and guides you the moment co
 
 The team describes the project as “Nodal”.
 
-**How it used Qualcomm:** Sponsor use not stated on Devpost
+**Qualcomm:** Sponsor use not stated on Devpost
 
 No public code linked · Built with test
 
@@ -53,7 +53,7 @@ No public code linked · Built with test
 
 Increase your strength with cutting-edge computer vision and agentic AI.
 
-**How it used Qualcomm:** Sponsor use not stated on Devpost
+**Qualcomm:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
 

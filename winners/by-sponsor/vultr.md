@@ -83,9 +83,9 @@ Approve at-home iPLEDGE pregnancy tests in one tap, with fraud checks and an aud
 
 Poysson is a game-style training platform covering five attack types: ransomware, SIM-swap fraud, smishing, phishing, and insider/vendor leaks.
 
-**Vultr:** Built with vultr (listed on Devpost)
+**How it used Vultr:** The project provisions servers with cloud-init and deploys using scripts in deploy/vultr/.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
+[Code](https://github.com/nishthefish06/Poysson) · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
 
 ### [Sortacle](https://devpost.com/software/sortacle)
 
@@ -133,7 +133,7 @@ Triviality combines an interactive mathematical atlas with a workspace for runni
 
 The hardware guardian for software you can't trust.
 
-**Vultr:** Built with vultr (listed on Devpost)
+**How it used Vultr:** The team used Vultr vCPUs to train models on telemetry data.
 
 [Code](https://github.com/share-a-byte/warden) · [Demo video](https://www.youtube.com/watch?v=ahTiwQ9xVaE) · Built with vultr, arduino, blender, python
 
@@ -145,7 +145,7 @@ The hardware guardian for software you can't trust.
 
 No more passive reading, just active chats! - AGORA.
 
-**How it used Vultr:** Sponsor use not stated on Devpost
+**Vultr:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Ashish-Reddy-T/hackNYUEducation) · [Demo video](https://www.youtube.com/watch?v=hNmpppkJaBo) · Built with python
 
@@ -155,7 +155,7 @@ No more passive reading, just active chats! - AGORA.
 
 Simply lay out the ingredients you already have, take a quick screenshot with the Meta Quest, and let the AI assistant recognize them.
 
-**How it used Vultr:** Sponsor use not stated on Devpost
+**Vultr:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
 

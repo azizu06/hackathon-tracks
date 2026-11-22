@@ -294,7 +294,7 @@ A job board holds payment in escrow until a worker submits the agreed proof of c
 - **Code:** [Source 1](https://github.com/AlanRoybal/mhacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vXkbfQ2L-Gc)
 - **All prizes at this hackathon (1):** Figma Best Design Track
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -317,7 +317,7 @@ A computer control interface uses eye tracking to point and speech to issue comm
 - **Code:** [Source 1](https://github.com/dakshshahani/mhacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Figma Best Design Track
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -340,7 +340,7 @@ A learning app helps users explore stock movements and practice investment decis
 - **Code:** [Source 1](https://github.com/daniel3606/Orbit_MHacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Mj4wTCKH8oE)
 - **All prizes at this hackathon (1):** Figma Best Design Track
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -646,7 +646,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4GrYcrm64t
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4GrYcrm64tg)
 - **All prizes at this hackathon (1):** Photon iMessage Agents Track Winner
-- **How it used Photon:** Sponsor use not stated on Devpost
+- **Photon:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -850,7 +850,7 @@ Space traffic control for the 99% of operators without a control room. Orbit Wat
 - **Code:** [Source 1](https://github.com/ArunimaV/orbit-watch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eroKaUhp6zY)
 - **All prizes at this hackathon (1):** SpaceXAI Make it Legendary Track Winner
-- **How it used SpaceXAI:** Sponsor use not stated on Devpost
+- **How it used SpaceXAI:** Uses Grok to write a brief about a satellite close approach when the model is available.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

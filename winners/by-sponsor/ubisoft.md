@@ -23,7 +23,7 @@
 
 The team describes the project as “But Gesse get no merch”.
 
-**How it used Ubisoft:** Sponsor use not stated on Devpost
+**Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/nayanmapara/GeeseLoveMerch) · [Demo video](https://www.youtube.com/watch?v=cepJ_1Lz2-g) · Built with ai-assets, blender, c, github
 
@@ -33,7 +33,7 @@ The team describes the project as “But Gesse get no merch”.
 
 Hackathons aren't always about improving the world. Sometimes they're about saving the world.
 
-**How it used Ubisoft:** Sponsor use not stated on Devpost
+**Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Greb-the-awesome/hack-the-bomb) · Built with blender, c#, unity, visual-studio
 
@@ -43,7 +43,7 @@ Hackathons aren't always about improving the world. Sometimes they're about savi
 
 A VR game about catching and firing arrows to delay the inevitable.
 
-**How it used Ubisoft:** Sponsor use not stated on Devpost
+**Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
 
@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=VMygnUvt99
 
 Sometimes online shopping can be dull, and most of all, turn away customers who are unsure about buying clothes online. VR will allow for customers to try on clothing in a virtual world.
 
-**How it used Ubisoft:** Sponsor use not stated on Devpost
+**Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/BenBoguslavsky18/HTN_VR) · [Demo video](https://www.youtube.com/watch?v=igOuQHgEvto) · Built with c#, github, json, oculus-gear-vr
 

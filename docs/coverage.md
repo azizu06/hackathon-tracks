@@ -479,14 +479,14 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 
 **Knight Hacks IX 2026 · Encompass · Encompass: Data Capturing Hardware**
 
-Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored. Sponsor use not stated on Devpost
+Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored. Won “Encompass: Data Capturing Hardware” from Encompass. The write-up gives no details on how the team used the sponsor’s tech.
 
 - Team size 4. 4 event prize labels.
 - Built With arduino, arkit, depth-anything, fastapi, ffmpeg, h.264, hugging-face, ios, lidar, meta-quest, nav2, nvidia-jetson, python, qwen, ros2, rust, swift, tailscale, tensorrt, three.js, typescript, webxr, whisper, yolo.
 - Event prizes Encompass: Data Capturing Hardware · Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano.
 - Code [Source 1](https://github.com/azizu06/farsight)
 - Video [Video 1](https://www.youtube.com/watch?v=AmrOGcTBTKU) · [Video 2](https://www.youtube.com/watch?v=Km9CGWip4h4)
-- Evidence Devpost Winner label. Integration evidence Integration detail unavailable.
+- Evidence Devpost Winner label. Integration evidence Devpost prize title.
 
 ### [DIAL(&#42;)](https://devpost.com/software/dial-4rqzc3)
 
@@ -532,11 +532,11 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 
 - Built With tags are available for 1,536 of 1,553 project editions.
 - Team counts are available for 1,553 project editions.
-- Summary evidence by award row: Devpost project write-up (830), Integration detail unavailable (719), Devpost Built With (104), GitHub README (44).
-- Source code links verified HTTP 200 for 1221 of 1351 unique recognized links.
+- Summary evidence by award row: Devpost project write-up (857), Devpost prize title (509), Integration detail unavailable (164), GitHub source code (70), GitHub README (44), Devpost Built With (43).
+- Source code links verified HTTP 200 for 1262 of 1392 unique recognized links.
 - Demo video links verified HTTP 200 for 1251 of 1251 unique recognized links.
 - The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.
-- Full sponsor notes cite a role documented in a Devpost write-up or a linked GitHub README. Built With notes identify sponsor products listed on Devpost.
+- Full sponsor notes cite a role documented in a Devpost page, GitHub README, source code, or demo captions. Light notes cite a Built With tag or a dependency manifest. Award notes cite the exact prize title.
 - Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. General event awards remain visible in project prize lists.
 - HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. The public prize entry supplies no sponsor identity, so those two awards fall outside the named-sponsor index.
 - Prize values come from the track label. Multiple placements, team totals, and service credits stay in the source wording.
@@ -544,4 +544,4 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 - University labs, foundations and student organizations stay as sponsors where the official award text credits them, for example Penn Labs for the PennApps Best Beginner Hack prize.
 
 - Demo link check results by status: 200 (1251).
-- Source link check results by status: 200 (1069), redirect landed on HTTP 200 (152), 404 (123), 302 (7).
+- Source link check results by status: 200 (1110), redirect landed on HTTP 200 (152), 404 (123), 302 (7).

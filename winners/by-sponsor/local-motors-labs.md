@@ -23,9 +23,9 @@
 
 DronAR allows users to view realtime information about their drones such as positional data and status.
 
-**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with azure, express.js, mongodb, node.js
+[Code](https://github.com/sebLopezCot/DronAR) · Built with azure, express.js, mongodb, node.js
 
 ### [Drones For Humanity - Second-Order Autonomy](https://devpost.com/software/second-order-autonomy)
 
@@ -33,7 +33,7 @@ No public code linked · Built with azure, express.js, mongodb, node.js
 
 A drone platform that not only knows how to fly itself, but also knows where to deliver aid after a natural disaster.
 
-**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with arduino, c++, raspberry-pi
 
@@ -43,7 +43,7 @@ No public code linked · Built with arduino, c++, raspberry-pi
 
 This is a user-facing web app that allows the user to pick a delivery location and follow the delivery through real-time tracking.
 
-**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with css, dronekit, html, javascript
 
@@ -53,7 +53,7 @@ No public code linked · Built with css, dronekit, html, javascript
 
 Advanced route planning for drone deliveries to moving targets, with tracking and control suite.
 
-**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with google-streetview, javascript, leaflet.js, mithril.js
 
@@ -63,7 +63,7 @@ No public code linked · Built with google-streetview, javascript, leaflet.js, m
 
 LeapLock is a 3D-gesture based locking mechanism.
 
-**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Howon/LeapLock) · Built with arduino, beaker, firebase, javascript
 
@@ -73,7 +73,7 @@ LeapLock is a 3D-gesture based locking mechanism.
 
 With more and more advancements in drone technology, drones are becoming accessible by everyone.
 
-**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with flask, javascript
 
@@ -83,7 +83,7 @@ No public code linked · Built with flask, javascript
 
 An iOS app for multi-drone multi-package planning, that supports variable drone capacity and package weights.
 
-**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with apple-maps, swift
 

@@ -23,7 +23,7 @@
 
 Vaccine OS is a full-stack neoantigen vaccine design platform.
 
-**How it used Reach Capital:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with claude, next.js, postgresql, python
 
@@ -35,7 +35,7 @@ No public code linked · Built with claude, next.js, postgresql, python
 
 AutoCPT automates medical billing by extracting CPT codes from doctor-patient talks, seamless fracture detection, and generating bills via Capital One API—saving time and reducing errors.
 
-**How it used Reach Capital:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Techdude01/AutoCPT) · [Demo video](https://www.youtube.com/watch?v=YdkI37ASM9w) · Built with capital-one, groq, python, react
 
@@ -45,9 +45,9 @@ AutoCPT automates medical billing by extracting CPT codes from doctor-patient ta
 
 AI-powered organizational tool for your communication platforms.
 
-**How it used Reach Capital:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
+[Code](https://github.com/DeanShahin5/Calendera) · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
 
 ### [Maternalyze](https://devpost.com/software/maternalyze)
 
@@ -55,7 +55,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMz
 
 AI-powered support for safer maternal health.
 
-**How it used Reach Capital:** Sponsor use not stated on Devpost
+**Award:** Won “MLH - Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/bhavyat-01/Maternal-Mortality) · [Demo video](https://www.youtube.com/watch?v=M4JyDZaX9GQ) · Built with css, gemini, git, html
 
@@ -65,7 +65,7 @@ AI-powered support for safer maternal health.
 
 Accelerating clinical decision-making with AI-driven patient simulations, real-time feedback, and intelligent diagnostic training.
 
-**How it used Reach Capital:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/CharlesJoseph2003/Hack-Brown2025) · [Demo video](https://www.youtube.com/watch?v=VQALHk_1ff0) · Built with amazon-web-services, css, javascript, node.js
 

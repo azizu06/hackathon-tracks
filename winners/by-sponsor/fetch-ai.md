@@ -263,7 +263,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OX
 
 A marketing simulation lets a team explore how a proposed launch might perform before spending on it.
 
-**Fetch.ai:** Built with fetch.ai (listed on Devpost)
+**How it used Fetch.ai:** Registers uAgents through a Fetch.ai bridge.
 
 [Code](https://github.com/RoboX2020/Mark-Et-GTM) · [Demo video](https://www.youtube.com/watch?v=EQXDrC-5XXs) · Built with fetch.ai, anthropic-claude, apify, brightdata
 
@@ -667,7 +667,7 @@ A one-of-a-kind, AR assistant medical system is made to guide first emergency fi
 
 An augmented reality tool guides stroke survivors through physical therapy exercises.
 
-**Fetch.ai:** Built with Fetch.ai (listed on Devpost)
+**How it used Fetch.ai:** Runs a reaction-time recovery agent using Fetch.ai's uAgents framework.
 
 [Code](https://github.com/ppilli1/RecovARy) · Built with fetch.ai, groq, lensstudio, react
 

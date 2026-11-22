@@ -23,7 +23,7 @@
 
 Bandaid Maps is a real-time, AI-powered healthcare navigation tool that assesses your emergency preparedness wherever you are.
 
-**How it used Melissa Data:** Sponsor use not stated on Devpost
+**How it used Melissa Data:** Uses the Melissa Data reverse-geocoding API to look up locations.
 
 [Code](https://github.com/GovindKurapati/bandaid-maps) · [Demo video](https://www.youtube.com/watch?v=3-WHXSlJYEA) · Built with fastapi, gemini, leaflet.js, mellisa
 

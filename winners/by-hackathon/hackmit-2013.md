@@ -96,7 +96,7 @@ No public code linked · Built with bloomberg, weather-underground, wolfram-tech
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Bloomberg - Best Use of the Bloomberg API · Kenshō - Best Financial Data Hack
 - **How it used Bloomberg:** Clicking on the notification pulls up the Bloomberg page for the Dow Jones.
-- **How it used Kensho:** Sponsor use not stated on Devpost
+- **Award:** Won “Kenshō - Best Financial Data Hack” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -119,8 +119,8 @@ No public code linked · Built with alchemyapi, facebook, firebase, fleksy
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Amicus - What Does The Fox Say? Award · Square Inc. - Making Commerce Easy and Rounding the Corners
-- **How it used Amicus:** Sponsor use not stated on Devpost
-- **How it used Square:** Sponsor use not stated on Devpost
+- **Award:** Won “Amicus - What Does The Fox Say? Award” from Amicus. The write-up gives no details on how the team used the sponsor’s tech.
+- **Square:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -133,17 +133,17 @@ No public code linked · Built with alchemyapi, facebook, firebase, fleksy
 
 The aim of the project to create automated windows, which open and close to maximize energy conservation.
 
-No public code linked · Built with twilio, android, arduino, electric-imp
+[Code](https://github.com/fpayer/smartwindow) · Built with twilio, android, arduino, electric-imp
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** android, arduino, electric-imp, twilio, weather-underground
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/fpayer/smartwindow)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Twilio - Twilio API Award · Weather Underground - Best use of Weather Underground API Award
-- **Twilio:** Built with twilio (listed on Devpost)
+- **How it used Twilio:** Uses Twilio to reply to texts that open or close a window.
 - **How it used Weather Underground:** The project uses Weather Underground data to compare room temperature with temperature and weather conditions outside.
 - **Checked on Devpost:** 2026-11-21
 
@@ -173,7 +173,7 @@ No public code linked
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Akamai - Best Use of Algorithms
-- **How it used Akamai:** Sponsor use not stated on Devpost
+- **Award:** Won “Akamai - Best Use of Algorithms” from Akamai. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -233,7 +233,7 @@ No public code linked · Built with firebase, sendgrid, venmo
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Bain Capital: Best Use of Machine Learning
-- **How it used Bain Capital:** Sponsor use not stated on Devpost
+- **Award:** Won “Bain Capital: Best Use of Machine Learning” from Bain Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -246,17 +246,17 @@ No public code linked · Built with firebase, sendgrid, venmo
 
 A tool that helps to turn web exploration into a truly social experience.
 
-No public code linked · Built with d3.js, heroku, mongodb
+[Code](https://github.com/allevitan/SpaceBubbles) · Built with d3.js, heroku, mongodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** d3.js, heroku, mongodb
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/allevitan/SpaceBubbles)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Bain Capital: Best Use of Data Visualization
-- **How it used Bain Capital:** Sponsor use not stated on Devpost
+- **Award:** Won “Bain Capital: Best Use of Data Visualization” from Bain Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -289,7 +289,7 @@ No public code linked
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Constant Contact - Best use of Constant Contact API
-- **How it used Constant Contact:** Sponsor use not stated on Devpost
+- **Constant Contact:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -316,7 +316,7 @@ Turn on your phone's (flash) light and and use the handy touch controls to produ
 - **Code:** [Source 1](https://github.com/vsiao/Lightboard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Firebase - Best use of Firebase · Grand Prize
-- **Firebase:** Built with firebase (listed on Devpost)
+- **How it used Firebase:** Uses a shared Firebase room to synchronize the lightboard controls.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -349,7 +349,7 @@ No public code linked
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** 3rd Place · General Catalyst - Most likely to be the “Next Big Thing”
-- **How it used General Catalyst:** Sponsor use not stated on Devpost
+- **Award:** Won “General Catalyst - Most likely to be the “Next Big Thing”” from General Catalyst. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -442,7 +442,7 @@ No public code linked
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** KPCB - KPCB Fellows Award
-- **How it used Kleiner Perkins:** Sponsor use not stated on Devpost
+- **Award:** Won “KPCB - KPCB Fellows Award” from Kleiner Perkins. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -469,7 +469,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=6cKSB5mMAF
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6cKSB5mMAFo)
 - **All prizes at this hackathon (1):** Facebook
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **Meta:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -496,7 +496,7 @@ No public code linked
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MongoDB - Best Use of MongoDB
-- **How it used MongoDB:** Sponsor use not stated on Devpost
+- **MongoDB:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -523,7 +523,7 @@ No public code linked · Built with firebase, ios
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MoPub - Mobile Data Award
-- **How it used MoPub:** Sponsor use not stated on Devpost
+- **Award:** Won “MoPub - Mobile Data Award” from MoPub. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -637,7 +637,7 @@ This app aims to make taking pictures and video more intuitive.
 - **Code:** [Source 1](https://github.com/dianeyang/hackmit)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pongityping)
 - **All prizes at this hackathon (1):** Synaptics, Inc. - Most Innovative project with Hover - 1st Prize
-- **How it used Synaptics:** Sponsor use not stated on Devpost
+- **Synaptics:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -683,7 +683,7 @@ No public code linked
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Synaptics, Inc. - Most Innovative project with Hover - 2nd Prize
-- **How it used Synaptics:** Sponsor use not stated on Devpost
+- **Synaptics:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -733,7 +733,7 @@ No public code linked · Built with css, heroku, html5, javascript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Thiel Fellowship - “Under 20” Hack Award
-- **How it used Thiel Fellowship:** Sponsor use not stated on Devpost
+- **Award:** Won “Thiel Fellowship - “Under 20” Hack Award” from Thiel Fellowship. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

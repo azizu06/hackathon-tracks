@@ -87,9 +87,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=32DSdO1V-z0)
 - **All prizes at this hackathon (3):** Conversion: Best Use of Conversion · Crater: Play-Do Prize · Rox: Best Use of Rox
-- **How it used Conversion:** Sponsor use not stated on Devpost
-- **How it used Crater:** Sponsor use not stated on Devpost
-- **How it used Rox:** Sponsor use not stated on Devpost
+- **Conversion:** Sponsor use not stated on Devpost
+- **Award:** Won “Crater: Play-Do Prize” from Crater. The write-up gives no details on how the team used the sponsor’s tech.
+- **Rox:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -114,7 +114,7 @@ A hospital coordination dashboard combines record data, nursing alerts, and pati
 - **All prizes at this hackathon (3):** Fetch AI: Best Use of Fetch AI · LiveKit: Best Start-up Idea · Y Combinator: Build an Iconic YC Company - 1st Place
 - **How it used Fetch.ai:** Fetch.ai agents monitor patient vitals and raise or dismiss issues.
 - **How it used LiveKit:** Patients and families speak to the voice assistant using LiveKit and OpenAI’s realtime voice API.
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -137,8 +137,8 @@ Argus combines AI, computer vision, and real-time streaming to deliver intellige
 - **Code:** [Source 1](https://github.com/GodPuffin/argus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=enZRqW1eOOM)
 - **All prizes at this hackathon (2):** A37: Best Use of A37 · Conway: Most Data-Intensive Application
-- **How it used A37:** Sponsor use not stated on Devpost
-- **How it used Conway:** Sponsor use not stated on Devpost
+- **A37:** Sponsor use not stated on Devpost
+- **Award:** Won “Conway: Most Data-Intensive Application” from Conway. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -185,8 +185,8 @@ Harmoniq is an AI agent system that continuously monitors clinical trial protoco
 - **Code:** [Source 1](https://github.com/vardhanshorewala/harmoniq)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mIZSg8rKyew)
 - **All prizes at this hackathon (2):** Regeneron: Runner-Up · Rox: Best Use of Rox
-- **How it used Regeneron:** Sponsor use not stated on Devpost
-- **How it used Rox:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+- **Rox:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -210,7 +210,7 @@ A wildfire operations dashboard brings live video and voice controls into the in
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MX_pJRwUJjU)
 - **All prizes at this hackathon (2):** Vapi: Best Use of Vapi · Warp: Best Use of Warp
 - **How it used Vapi:** Vapi powers a conversational AI assistant for hands-free operations.
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -257,7 +257,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpq
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aqoKeFthpqQ)
 - **All prizes at this hackathon (2):** BitRobot Network: Best Robotics Hack - 3rd Place · Snap: Best Use of Snap Spectacles
-- **How it used BitRobot Network:** Sponsor use not stated on Devpost
+- **Award:** Won “BitRobot Network: Best Robotics Hack - 3rd Place” from BitRobot Network. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Snap:** The project uses the Snap Lens Studio API to extract hand-tracking data and AR anchors.
 - **Checked on Devpost:** 2026-11-21
 
@@ -287,7 +287,7 @@ Ever stuck procrastinating on important tasks? Roominate breaks down your tasks 
 - **Code:** [Source 1](https://github.com/XitoAliferis/calhacks12)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0LMzgVUCBIg)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
+- **.Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -347,7 +347,7 @@ An AI prototype that processes ad creatives, both images and videos, to extract 
 - **Code:** [Source 1](https://github.com/SisuKah/calhacks2) · [Source 2](https://github.com/abtonmoy/calhacks12)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yLyytqlP2Ik)
 - **All prizes at this hackathon (1):** AppLovin: Ad Intelligence Challenge
-- **How it used AppLovin:** Sponsor use not stated on Devpost
+- **Award:** Won “AppLovin: Ad Intelligence Challenge” from AppLovin. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -370,7 +370,7 @@ A fast, intelligent query engine built on DuckDB.
 - **Code:** [Source 1](https://github.com/KevinL10/applovin-query)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_QnZ6bNqfr4)
 - **All prizes at this hackathon (1):** AppLovin: Query Planner Challenge
-- **How it used AppLovin:** Sponsor use not stated on Devpost
+- **Award:** Won “AppLovin: Query Planner Challenge” from AppLovin. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -397,7 +397,7 @@ The system rethinks video compression by mirroring how the human eye perceives i
 - **Code:** [Source 1](https://github.com/k-kochhar/Salient)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bSFhoFY6hIY)
 - **All prizes at this hackathon (1):** BaseTen: Best Use of Open Source Models
-- **Baseten:** Built with baseten (listed on Devpost)
+- **How it used Baseten:** Calls a Baseten saliency model to find focal points in video.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -426,7 +426,7 @@ Meet MARC, the robot that turns text prompts into crisp drawings. In minutes, MA
 - **Code:** [Source 1](https://github.com/yyardi/cal-hacks-marc)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qy0NNvkc4do)
 - **All prizes at this hackathon (1):** BitRobot Network: Best Robotics Hack - 2nd Place
-- **How it used BitRobot Network:** Sponsor use not stated on Devpost
+- **Award:** Won “BitRobot Network: Best Robotics Hack - 2nd Place” from BitRobot Network. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -449,7 +449,7 @@ Teaching robots to see, listen, and move like us. MIRAI is an experimental human
 - **Code:** [Source 1](https://github.com/A-Mundanilkunathil/Unitree-G1)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rB6KpJc6uoU)
 - **All prizes at this hackathon (1):** BitRobot Network: Best Robotics Hack - 1st Place
-- **How it used BitRobot Network:** Sponsor use not stated on Devpost
+- **Award:** Won “BitRobot Network: Best Robotics Hack - 1st Place” from BitRobot Network. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -466,7 +466,7 @@ Teaching robots to see, listen, and move like us. MIRAI is an experimental human
 
 ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Specialized rooms for D&amp;D, AA, and therapy with intelligent, personalized moderation.
 
-[Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with brightdata-api, anthropic-claude-api, asi-one, docker
+[Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with anthropic-claude-api, asi-one, brightdata-api, docker
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -476,7 +476,7 @@ ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn s
 - **Code:** [Source 1](https://github.com/saurabh98s/calhacks24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=huHLto3601A)
 - **All prizes at this hackathon (1):** The Bright Data: Best Use of Bright Data
-- **Bright Data:** Built with brightdata-api (listed on Devpost)
+- **How it used Bright Data:** The project uses the Bright Data API for optional LinkedIn profile understanding.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -593,17 +593,17 @@ Merj is your AI-powered merge copilot. It reviews both branches, understands int
 
 You create a smart application form and share it anywhere — LinkedIn, Handshake, your own site.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=bajCGzs3QBk) · Built with brightdata, chromadb, claude, letta
+[Code](https://github.com/asmikachare/githired-ch) · [Demo video](https://www.youtube.com/watch?v=bajCGzs3QBk) · Built with brightdata, chromadb, claude, letta
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** brightdata, chromadb, claude, letta, nextjs, python, react, typescript, vercel
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/asmikachare/githired-ch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bajCGzs3QBk)
 - **All prizes at this hackathon (1):** Composio: Best Use of Composio Toolrouter
-- **How it used Composio:** Sponsor use not stated on Devpost
+- **How it used Composio:** Links the user's GitHub account through Composio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -632,7 +632,7 @@ automate onboarding and training + realtime coaching.
 - **Code:** [Source 1](https://github.com/Preet37/Onboardly)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ufnTHSQetfM)
 - **All prizes at this hackathon (1):** Conversion: Best Use of Conversion
-- **How it used Conversion:** Sponsor use not stated on Devpost
+- **Conversion:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -661,7 +661,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=fq3KNSE-kn
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fq3KNSE-kns)
 - **All prizes at this hackathon (1):** Conway: Most Data-Intensive Application
-- **How it used Conway:** Sponsor use not stated on Devpost
+- **Award:** Won “Conway: Most Data-Intensive Application” from Conway. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -690,7 +690,7 @@ Introducing Curserve: a fast and scalable server-side engine for agentic coding.
 - **Code:** [Source 1](https://github.com/alexkranias/curserve)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=30VpcKWD0MU)
 - **All prizes at this hackathon (1):** Crater: Play-Do Prize
-- **How it used Crater:** Sponsor use not stated on Devpost
+- **Award:** Won “Crater: Play-Do Prize” from Crater. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -713,7 +713,7 @@ Giving AI a physical embodiment for the world. Control multiple hardware platfor
 - **Code:** [Source 1](https://github.com/danielzyy/calhacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Zj-G-9aPG8w)
 - **All prizes at this hackathon (2):** Cal Hacks: Best Hardware Hack · Crater: Play-Do Prize
-- **How it used Crater:** Sponsor use not stated on Devpost
+- **Award:** Won “Crater: Play-Do Prize” from Crater. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -736,7 +736,7 @@ Changing lives, one blink at a time :).
 - **Code:** [Source 1](https://github.com/tgondil/iris)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=T3Psh8Hm7so)
 - **All prizes at this hackathon (1):** Crater: Play-Do Prize
-- **How it used Crater:** Sponsor use not stated on Devpost
+- **Award:** Won “Crater: Play-Do Prize” from Crater. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1172,7 +1172,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ub4chFUHht
 
 A charming game about persuading fish to get out of the pond :).
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with fishaudio, audio, fish, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -1182,7 +1182,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516p
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P2L0ae516pY)
 - **All prizes at this hackathon (1):** fish.audio: Best use of Fish Audio
-- **fish.audio:** Built with fishaudio (listed on Devpost)
+- **How it used fish.audio:** The team uses Fish Audio to make the fish say the generated response.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1290,7 +1290,7 @@ Multiplayer Agentic AI NPCs with shared conversational memory across all players
 - **Code:** [Source 1](https://github.com/iOliver678/calhacks12)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2yZ_ZxMO7cY)
 - **All prizes at this hackathon (1):** JanitorAI: Most Functional, Novel, and Fun Project
-- **JanitorAI:** Built with janitorai (listed on Devpost)
+- **How it used JanitorAI:** Requests language model completions through the JanitorAI hackathon API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1547,17 +1547,17 @@ Also won this track: [Haven](#project-haven-536r1q) (listed above)
 
 A multimodal AI companion that fuses emotion sensing, language understanding, and real-time biofeedback to support children’s mental wellness.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=3bj86ky1eAc) · Built with amazon-web-services, arduino, docker, fetchai
+[Code](https://github.com/ankit06ch/TedAI) · [Demo video](https://www.youtube.com/watch?v=3bj86ky1eAc) · Built with amazon-web-services, arduino, docker, fetchai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-web-services, arduino, docker, fetchai, firebase, flask, gemini, neurolinq, openai, python, react
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/ankit06ch/TedAI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3bj86ky1eAc)
 - **All prizes at this hackathon (2):** Cal Hacks: 2nd Overall · LiveKit: Most Creative Project
-- **How it used LiveKit:** Sponsor use not stated on Devpost
+- **LiveKit:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1636,7 +1636,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFX
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SS9HQw-BFXU)
 - **All prizes at this hackathon (2):** Cal Hacks: Greatest Social Impact · Promise: Public Impact Prize (sponsored by Promise)
-- **How it used Promise:** Sponsor use not stated on Devpost
+- **Award:** Won “Promise: Public Impact Prize (sponsored by Promise)” from Promise. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1653,17 +1653,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFX
 
 AI-powered organizational tool for your communication platforms.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
+[Code](https://github.com/DeanShahin5/Calendera) · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** beeper-mcp, claude-api, claude-sdk, dotenv, google-console-cloud-api, google-oauth, javascript, next.js, node-cron, node.js, sqlite-3
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/DeanShahin5/Calendera)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HqscSvOJMzA)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of AI powered by Reach Capital
-- **How it used Reach Capital:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1692,7 +1692,7 @@ AI Medical Assistant: Intelligent Symptom Checker and Care Connector.
 - **Code:** [Source 1](https://github.com/hongdnn/healthcare_ai_backend) · [Source 2](https://github.com/s-akhtar-dev/cura-ai-ios-app)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DM4mWK8XNcI)
 - **All prizes at this hackathon (1):** Regeneron: Honorable Mention
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1715,7 +1715,7 @@ Turn research papers into living knowledge graphs. Agentic AI finds papers, buil
 - **Code:** [Source 1](https://github.com/jalenfran/empirica)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xpLYIeUccAw)
 - **All prizes at this hackathon (1):** Regeneron: Honorable Mention
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1738,7 +1738,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=SdEoVMPPPD
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SdEoVMPPPDg)
 - **All prizes at this hackathon (1):** Regeneron: Honorable Mention
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1761,7 +1761,7 @@ No public code linked · Built with amazon-web-services, api, chroma, claude
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Regeneron: Honorable Mention
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1784,7 +1784,7 @@ Automating clinical trial verification to cut costs, save time, bring life-savin
 - **Code:** [Source 1](https://github.com/sulabhkatila/MonitorMachine)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BOXuzT-mpNw)
 - **All prizes at this hackathon (1):** Regeneron: Honorable Mention
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1807,7 +1807,7 @@ Rescue failed clinical trials by discovering hidden responder subgroups using AI
 - **Code:** [Source 1](https://github.com/aarnavin/calhacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R1TChJgZMsE)
 - **All prizes at this hackathon (1):** Regeneron: Honorable Mention
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1830,7 +1830,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3lCcMqWGx2k)
 - **All prizes at this hackathon (1):** Regeneron: Honorable Mention
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1853,7 +1853,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=cCJElQkixL
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cCJElQkixLE)
 - **All prizes at this hackathon (1):** Regeneron: Runner-Up
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1876,7 +1876,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oa
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GWE_4Eq-oaY)
 - **All prizes at this hackathon (1):** Regeneron: Runner-Up
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1899,7 +1899,7 @@ Agentic pattern AI that actively searches for and identifies trial-qualified pat
 - **Code:** [Source 1](https://github.com/Calhacks-12-0/Trialmatch.ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ffKEoZwoR6c)
 - **All prizes at this hackathon (1):** Regeneron: Runner-Up
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1922,7 +1922,7 @@ Your AI-driven clinical trial intelligence platform that reviews, benchmarks, an
 - **Code:** [Source 1](https://github.com/Hilo-Hilo/Trialscope-AI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FNYlGTxhrr4)
 - **All prizes at this hackathon (1):** Regeneron: Grand Prize
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Grand Prize” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1945,7 +1945,7 @@ Turning tangled, time-consuming clinical trial data chaos into seamless, protoco
 - **Code:** [Source 1](https://github.com/ShauryaJ1/trialytics)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mKz1m1JFRIQ)
 - **All prizes at this hackathon (1):** Regeneron: Runner-Up
-- **How it used Regeneron:** Sponsor use not stated on Devpost
+- **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1995,7 +1995,7 @@ Mantis provides real time threat detection to help retail businesses identify an
 - **Code:** [Source 1](https://github.com/oviozz/mantis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JJ5pMXaB2X4)
 - **All prizes at this hackathon (1):** Reka: Best Use of Reka
-- **How it used Reka:** Sponsor use not stated on Devpost
+- **How it used Reka:** Uploads footage to Reka's vision API for analysis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2122,7 +2122,7 @@ PitchLab generates catered mock sales pitch calls for sales reps to learn, pract
 - **Code:** [Source 1](https://github.com/Kevinxygu/calhacks.12.0)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MiJudXabmlQ)
 - **All prizes at this hackathon (1):** Rox: Best Use of Rox
-- **How it used Rox:** Sponsor use not stated on Devpost
+- **Rox:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2214,17 +2214,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=1LMXyNN5t1
 
 Turning one photo into civic action.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=PoeRdtQU7hg) · Built with brightdata, fastapi, groq, javascript
+[Code](https://github.com/Babagesh/Potbot) · [Demo video](https://www.youtube.com/watch?v=PoeRdtQU7hg) · Built with brightdata, fastapi, groq, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** brightdata, fastapi, groq, javascript, nextjs, playwright, python, react, supabase, twitter
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/Babagesh/Potbot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PoeRdtQU7hg)
 - **All prizes at this hackathon (1):** SnapDev
-- **How it used SnapDev:** Sponsor use not stated on Devpost
+- **SnapDev:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2461,7 +2461,7 @@ It guarantees you the best line for your sales pitch, the smoothest rizz for you
 - **Code:** [Source 1](https://github.com/dgne58/jarvis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L_MScy52fvc) · [Video 2](https://www.youtube.com/watch?v=VQDHUFmHNZA) · [Video 3](https://www.youtube.com/watch?v=wGPBxhYchgQ)
 - **All prizes at this hackathon (1):** Most Wacky Hack (presented by Wordware)
-- **How it used Wordware:** Sponsor use not stated on Devpost
+- **Award:** Won “Most Wacky Hack (presented by Wordware)” from Wordware. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2490,7 +2490,7 @@ Making Google Docs (file storage, text editor) better with AI.
 - **Code:** [Source 1](https://github.com/joonyoo181/dropbox-ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vyKOyChcsCw)
 - **All prizes at this hackathon (1):** Y Combinator: Build an Iconic YC Company - 2nd Place
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “Y Combinator: Build an Iconic YC Company - 2nd Place” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2513,7 +2513,7 @@ Presenting Brydge: the AI orchestration platform that turns scattered engineerin
 - **Code:** [Source 1](https://github.com/aprabu/BrydgeCalhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=I7pkua3iYAs)
 - **All prizes at this hackathon (1):** Y Combinator: Build an Iconic YC Company - 1st Place
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2536,7 +2536,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2o
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aWgkmn3V2og)
 - **All prizes at this hackathon (1):** Y Combinator: Build an Iconic YC Company - 1st Place
-- **How it used Y Combinator:** Sponsor use not stated on Devpost
+- **Award:** Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

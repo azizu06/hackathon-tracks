@@ -55,7 +55,7 @@ By simply entering your phone number on the website, an AI Agent calls you and s
 - **Code:** [Source 1](https://github.com/ColeKaplan/phishybusiness)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LAumATWI2zE)
 - **All prizes at this hackathon (1):** MLH - Best .Tech Domain Name
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
+- **How it used .Tech Domains:** The team links to phishybusiness.tech as its .tech project site.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -82,7 +82,7 @@ CAMcogni consolidates a wide array of data sources—including camera feeds, IoT
 - **Code:** [Source 1](https://github.com/DKoushikUMD/efficiency-tracker-ui) · [Source 2](https://github.com/sumi0309/efficiency-tracker-backend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kZCDMpvuLY4)
 - **All prizes at this hackathon (1):** AggEquo: AI-Driven Worksite Productivity Metrics
-- **How it used AggEquo:** Sponsor use not stated on Devpost
+- **AggEquo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -109,7 +109,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zAI_PrtBHB0)
 - **All prizes at this hackathon (1):** Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems
-- **How it used Assurant:** Sponsor use not stated on Devpost
+- **Award:** Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -132,7 +132,7 @@ The platform offers two key user modes.
 - **Code:** [Source 1](https://github.com/mko02/VectorSearch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1y8h8RPQGDM)
 - **All prizes at this hackathon (1):** Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems
-- **How it used Assurant:** Sponsor use not stated on Devpost
+- **Award:** Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -159,7 +159,7 @@ Turning uncertainty into opportunity with AI-driven market insights.
 - **Code:** [Source 1](https://github.com/kaustubhbhal/Black-Swan)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LGzhTNWSGaw)
 - **All prizes at this hackathon (1):** Best Finance Hack Sponsored by Capital One
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Finance Hack Sponsored by Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -236,7 +236,7 @@ It gathers geospatial data from Google’s Geocoding API and Google’s Road API
 - **Code:** [Source 1](https://github.com/poojasaji1/Hacklytics25)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
-- **How it used GrowthFactor:** Sponsor use not stated on Devpost
+- **Award:** Won “GrowthFactor AI Impressions” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -259,7 +259,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=17Z1GmfzP0w)
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
-- **How it used GrowthFactor:** Sponsor use not stated on Devpost
+- **Award:** Won “GrowthFactor AI Impressions” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -313,7 +313,7 @@ AI-powered support for safer maternal health.
 - **Code:** [Source 1](https://github.com/bhavyat-01/Maternal-Mortality)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M4JyDZaX9GQ)
 - **All prizes at this hackathon (1):** MLH - Best Use of AI powered by Reach Capital
-- **How it used Reach Capital:** Sponsor use not stated on Devpost
+- **Award:** Won “MLH - Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -340,7 +340,7 @@ Instantly distinguish genuine fouls from flops with video analysis through user 
 - **Code:** [Source 1](https://github.com/Arnav2610/streamlit_dive_detector)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q0bEOvrx4BA)
 - **All prizes at this hackathon (1):** MLH - Best Use of Streamlit
-- **Streamlit:** Built with streamlit (listed on Devpost)
+- **How it used Streamlit:** Uses Streamlit to render the dive detector interface.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

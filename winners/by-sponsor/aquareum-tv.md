@@ -23,7 +23,7 @@
 
 A dynamic platform for mapping real-time crisis events through peer-shared videos, empowering communities to act and stay informed.
 
-**How it used Aquareum.tv:** Sponsor use not stated on Devpost
+**Aquareum.tv:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/bpbrianpark/CrisisLens) · Built with algorithms, css, firebase, github
 
@@ -33,7 +33,7 @@ A dynamic platform for mapping real-time crisis events through peer-shared video
 
 VR Conferences, Concerts, &amp; Events powered by Streamspace.
 
-**How it used Aquareum.tv:** Sponsor use not stated on Devpost
+**Aquareum.tv:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Axzyl/nwhacks-official) · Built with faiss, llama, oculus, python
 
@@ -43,7 +43,7 @@ VR Conferences, Concerts, &amp; Events powered by Streamspace.
 
 The Story To build a community, you must first protect it.
 
-**How it used Aquareum.tv:** Sponsor use not stated on Devpost
+**Aquareum.tv:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/eshuaiii/nwhacks-2025) · Built with flask, livepeer, postgresql, react
 
@@ -53,7 +53,7 @@ The Story To build a community, you must first protect it.
 
 Meet in person, point in virtual.
 
-**How it used Aquareum.tv:** Sponsor use not stated on Devpost
+**Aquareum.tv:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/gracetownland/NwHacks2025) · Built with geojson, react, turf.js, typscript
 
@@ -63,7 +63,7 @@ Meet in person, point in virtual.
 
 Helping you find the perfect study spot or gym time on campus.
 
-**How it used Aquareum.tv:** Sponsor use not stated on Devpost
+**Aquareum.tv:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/romansinkus/spotlight) · Built with figma, flask, javascript, livepeer
 
@@ -73,7 +73,7 @@ Helping you find the perfect study spot or gym time on campus.
 
 "Stay connected with Sum-Up Sundae! Share quick weekly video updates with your group and catch everyone’s highlights in one fun, effortless platform.
 
-**How it used Aquareum.tv:** Sponsor use not stated on Devpost
+**Aquareum.tv:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/tyin76/sum-up-sundae) · Built with bahnmi, bigwayhotpot, express.js, figma
 

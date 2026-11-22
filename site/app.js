@@ -477,9 +477,9 @@ function projectCard(project) {
   const integrations = [...(project.integrations ?? [])].sort((a, b) =>
     Number(normalize(b.sponsor) === focus) - Number(normalize(a.sponsor) === focus));
   const notes = element("dl", "", "card-integrations");
-  for (const { sponsor, note } of integrations) {
+  for (const { heading, sponsor, note } of integrations) {
     notes.append(
-      element("dt", sponsor ? `How it used ${sponsor}` : "Sponsor use"),
+      element("dt", heading || (sponsor ? `How it used ${sponsor}` : "Sponsor use")),
       element("dd", note),
     );
   }

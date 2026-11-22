@@ -23,7 +23,7 @@
 
 CitySpot uses deep learning on satellite imagery to detect and map every parking lot in Atlanta — turning aerial pixels into real-time urban intelligence.
 
-**How it used GrowthFactor:** Sponsor use not stated on Devpost
+**Award:** Won “GrowthFactor Challenge” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Kairavparikh/CitySpot) · [Demo video](https://www.youtube.com/watch?v=67cCz4yv9Kc) · Built with css, html, javascript, python
 
@@ -33,7 +33,7 @@ CitySpot uses deep learning on satellite imagery to detect and map every parking
 
 North Star that guides retailers to their best location.
 
-**How it used GrowthFactor:** Sponsor use not stated on Devpost
+**Award:** Won “GrowthFactor Challenge” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/V-prajit/Polaris) · [Demo video](https://www.youtube.com/watch?v=zUk49IYrOuw) · Built with fastapi, python, react, vultr
 
@@ -55,7 +55,7 @@ Revolutionizing commercial advertising one image at a time.
 
 It gathers geospatial data from Google’s Geocoding API and Google’s Road API, retrieves images via Google’s Street View API, and uses Gemini’s Cloud Vision API to assess obstructions.
 
-**How it used GrowthFactor:** Sponsor use not stated on Devpost
+**Award:** Won “GrowthFactor AI Impressions” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/poojasaji1/Hacklytics25) · Built with api, cloud, google, jupyter
 
@@ -65,7 +65,7 @@ It gathers geospatial data from Google’s Geocoding API and Google’s Road API
 
 VisiFy: Storefront Selection with AI-Powered Visibility &amp; Insights.
 
-**How it used GrowthFactor:** Sponsor use not stated on Devpost
+**Award:** Won “GrowthFactor AI Impressions” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w) · Built with a-frame, css, flask, html
 

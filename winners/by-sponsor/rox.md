@@ -23,7 +23,7 @@
 
 Live voice and action reactive canvas for the future of presentations.
 
-**How it used Rox:** Sponsor use not stated on Devpost
+**Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Marcus990/adlib) · [Demo video](https://www.youtube.com/watch?v=7rFWjY7Ly7k) · Built with baseten, codex, openai, python
 
@@ -33,7 +33,7 @@ Live voice and action reactive canvas for the future of presentations.
 
 Run your browser agents faster-- at a fraction of the cost.
 
-**How it used Rox:** Sponsor use not stated on Devpost
+**Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/evanzyang91/jevis) · Built with chrome, jev, openai
 
@@ -45,7 +45,7 @@ Run your browser agents faster-- at a fraction of the cost.
 
 DIAL (&#42;) is an optimized customer service agent designed for data-heavy use cases.
 
-**How it used Rox:** Sponsor use not stated on Devpost
+**Rox:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z0) · Built with duckdb, elevenlabs, express.js, ngrok
 
@@ -55,7 +55,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z
 
 Harmoniq is an AI agent system that continuously monitors clinical trial protocols for regulatory compliance:.
 
-**How it used Rox:** Sponsor use not stated on Devpost
+**Rox:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/vardhanshorewala/harmoniq) · [Demo video](https://www.youtube.com/watch?v=mIZSg8rKyew) · Built with agents, chroma, llms, nextjs
 
@@ -65,7 +65,7 @@ Harmoniq is an AI agent system that continuously monitors clinical trial protoco
 
 Lavoe provides an intuitive and AI-augmented DAW interface with features designed to streamline creativity:.
 
-**How it used Rox:** Sponsor use not stated on Devpost
+**Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Leonardomontesqui/Lavoe) · [Demo video](https://www.youtube.com/watch?v=ISKuDB2s1jM) · Built with ai-sdk, claude, cohere, python
 
@@ -75,7 +75,7 @@ Lavoe provides an intuitive and AI-augmented DAW interface with features designe
 
 PitchLab generates catered mock sales pitch calls for sales reps to learn, practice, and apply before the real deal. Help reps get their reps in.
 
-**How it used Rox:** Sponsor use not stated on Devpost
+**Rox:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Kevinxygu/calhacks.12.0) · [Demo video](https://www.youtube.com/watch?v=MiJudXabmlQ) · Built with rox, claude, elevenlabs, go
 
@@ -85,7 +85,7 @@ PitchLab generates catered mock sales pitch calls for sales reps to learn, pract
 
 Turning creators into data-driven businesses through the power of AI.
 
-**How it used Rox:** Sponsor use not stated on Devpost
+**Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ochen1/creator-intelligence) · Built with javascript, node.js, openai, prisma
 
@@ -95,7 +95,7 @@ Turning creators into data-driven businesses through the power of AI.
 
 Spielberg AI is an AI-powered video editor that allows creators to edit videos using only natural language.
 
-**How it used Rox:** Sponsor use not stated on Devpost
+**Award:** Won “Rox: Best Agents Hack ($7k Cash)” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/adeng27/treehacks-25) · [Demo video](https://www.youtube.com/watch?v=EWgFPhaG48E) · Built with cuda, elevenlabs, fastapi, ffmpeg
 

@@ -23,7 +23,7 @@
 
 track pain and symptoms of chronic conditions like endometriosis in a machine learning android &amp; wearOS application.
 
-**How it used Actual Food:** Sponsor use not stated on Devpost
+**Actual Food:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ZacharyYW/perennial) · [Demo video](https://www.youtube.com/watch?v=71_IR5COyFY) · Built with android-studio, cloud-computing, firebase, galaxy-watch
 
@@ -35,7 +35,7 @@ track pain and symptoms of chronic conditions like endometriosis in a machine le
 
 Bringing Transparency and Ease into Job Search.
 
-**How it used Actual Food:** Sponsor use not stated on Devpost
+**Award:** Won “ActualFood” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with api, css, firebase, flask
 
@@ -45,7 +45,7 @@ No public code linked · Built with api, css, firebase, flask
 
 Your AI learning assistant. Input topic, level, and duration for a tailored course with curated resources.
 
-**How it used Actual Food:** Sponsor use not stated on Devpost
+**Award:** Won “ActualFood Award” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/meetgandhii/CourseAI) · Built with express.js, mern, mongodb, node.js
 
@@ -55,7 +55,7 @@ Your AI learning assistant. Input topic, level, and duration for a tailored cour
 
 For households across the United States, the single greatest usage of water is irrigation for lawns and gardens.
 
-**How it used Actual Food:** Sponsor use not stated on Devpost
+**Award:** Won “ActualFood” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/VSandwar74/evergreen-yhack-s24) · Built with desmos, esri, flask, national-weather-service-api
 
@@ -65,7 +65,7 @@ For households across the United States, the single greatest usage of water is i
 
 Fivi is a AI Personal Trainer that breaks down traditional barriers to fitness. The intuitive UI and voice based command system will lead to more people than ever engaging in healthy home exercise.
 
-**How it used Actual Food:** Sponsor use not stated on Devpost
+**Award:** Won “ActualFood Award” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with flask, javascript, numpy, opencv
 
@@ -75,7 +75,7 @@ No public code linked · Built with flask, javascript, numpy, opencv
 
 Users can create a host profile and post their room on the map, along with details regarding facilities and accommodations that they can offer.
 
-**How it used Actual Food:** Sponsor use not stated on Devpost
+**Award:** Won “ActualFood” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ldang04/futon) · [Demo video](https://www.youtube.com/watch?v=ckPW4HWQE9Q) · Built with figjam, figma, supabase, swift
 
@@ -85,7 +85,7 @@ Users can create a host profile and post their room on the map, along with detai
 
 AI Chatbot that helps bridge the gap between healthcare providers and patients by making the reporting of symptoms more accessible.
 
-**How it used Actual Food:** Sponsor use not stated on Devpost
+**Award:** Won “ActualFood” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/reiyi-lai/yhacks-repro-health) · Built with flask, html, huggingface, java
 
@@ -95,7 +95,7 @@ AI Chatbot that helps bridge the gap between healthcare providers and patients b
 
 Imagine if Person A speaks English and Person B speaks German.
 
-**How it used Actual Food:** Sponsor use not stated on Devpost
+**Award:** Won “ActualFood” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/NandVinchhi/reslate) · [Demo video](https://www.youtube.com/watch?v=LU7aPZCt5uI) · Built with chakraui, gcloud, huggingface, mistral
 

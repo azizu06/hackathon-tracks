@@ -33,7 +33,7 @@ Farsight lets a rescuer drive a rover remotely, inspect its live camera, and rev
 
 A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from.
 
-**How it used Hugging Face:** Sponsor use not stated on Devpost
+**How it used Hugging Face:** The project runs open models from the Hub on Hugging Face.
 
 [Code](https://github.com/Korirussell/Here) · [Demo video](https://www.youtube.com/watch?v=2gRH8oV8e80) · Built with huggingface, arkit, jev, python
 
@@ -43,7 +43,7 @@ A wearable uses directional vibrations to tell deaf and hard-of-hearing users wh
 
 A spatial awareness tool tracks objects and remembers their locations when they move out of view.
 
-**How it used Hugging Face:** Sponsor use not stated on Devpost
+**How it used Hugging Face:** Uses Hugging Face Transformers to load the Qwen vision-language model implementation.
 
 [Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with arduino, c++, cuda, javascript
 

@@ -23,7 +23,7 @@
 
 Helping everyone at Brown find the perfect bathroom &lt;3.
 
-**How it used Fidelity:** Sponsor use not stated on Devpost
+**Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/katieli1/bathroomsatbrown) · Built with css, html, java, mongodb
 
@@ -33,7 +33,7 @@ Helping everyone at Brown find the perfect bathroom &lt;3.
 
 courselrns is a full-stack project that takes in a user’s major and academic interests and uses a machine learning model to recommend classes from the Yale Course Catalog.
 
-**How it used Fidelity:** Sponsor use not stated on Devpost
+**Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/niksaitov/courselrns) · [Demo video](https://www.loom.com/share/49f9738af8f249c7879ba9f879e8962a) · Built with docker, flask, intersystems, iris-intersystems
 
@@ -43,7 +43,7 @@ courselrns is a full-stack project that takes in a user’s major and academic i
 
 FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting.
 
-**How it used Fidelity:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;MLH&#93; Best DEI Hack” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with css, javascript, react-native
 
@@ -53,7 +53,7 @@ No public code linked · Built with css, javascript, react-native
 
 This app uses visualizations from analysis of various datasets relating to weather and climate and their impacts on housing, such as foreclosures, housing costs, and more.
 
-**How it used Fidelity:** Sponsor use not stated on Devpost
+**Award:** Won “Best DEI Hack sponsored by Fidelity - MLH” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/RachelK23/Forecasts-by-the-Campfire) · Built with figma, git, github, jupyter
 
@@ -63,7 +63,7 @@ This app uses visualizations from analysis of various datasets relating to weath
 
 Have you ever wanted to trade stocks, but don't have the money to do so? Perhaps, maybe you want to battle it out against fellow traders.
 
-**How it used Fidelity:** Sponsor use not stated on Devpost
+**Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/vennreddy490/Market-Melee) · [Demo video](https://www.youtube.com/watch?v=eMy3T-jELM0) · Built with bcrypt, bootstrap, css3, flask
 
@@ -73,7 +73,7 @@ Have you ever wanted to trade stocks, but don't have the money to do so? Perhaps
 
 Personalized stock insights scraped from your favourite websites.
 
-**How it used Fidelity:** Sponsor use not stated on Devpost
+**Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/jnathan02222/htn-project) · Built with amazon-web-services, beautiful-soup, express.js, next.js
 
@@ -83,7 +83,7 @@ Personalized stock insights scraped from your favourite websites.
 
 Sera helps people with limited banking experience take control of their money. No jargon—just real support when it’s needed most.
 
-**How it used Fidelity:** Sponsor use not stated on Devpost
+**Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
 
@@ -93,7 +93,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALK
 
 An AI-backed solution for improving the U.S. visa experience for non-English-speaking immigrants.
 
-**How it used Fidelity:** Sponsor use not stated on Devpost
+**Award:** Won “MLH - Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ayeahmed/visa-friend) · Built with chatgpt, google-translate, javascript, python
 

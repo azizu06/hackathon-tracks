@@ -103,7 +103,7 @@ Drop in your hospital bill and insurance statement.
 
 A navigation aid gives visually impaired users real-time scene feedback through touch.
 
-**Notability:** Built with notability (listed on Devpost)
+**How it used Notability:** The team used Notability for planning.
 
 [Code](https://github.com/yukevindai/VisionOS) · [Demo video](https://www.youtube.com/watch?v=7-MghH5U9Ss) · Built with notability, anthropic, arduino, ble
 

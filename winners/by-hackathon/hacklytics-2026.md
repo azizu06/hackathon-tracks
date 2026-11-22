@@ -58,7 +58,7 @@ The team admit a machine learning model shouldn't be the only frontier for diagn
 - **Code:** [Source 1](https://github.com/dominickdupuy/Aura)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7oUk6SBtJcA)
 - **All prizes at this hackathon (1):** Best Use of Actian VectorAI DB
-- **How it used Actian:** Sponsor use not stated on Devpost
+- **Actian:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -231,7 +231,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBw
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TLGly6WWBwQ)
 - **All prizes at this hackathon (1):** Figma Make Most Creative Data Visualization
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -285,7 +285,7 @@ CitySpot uses deep learning on satellite imagery to detect and map every parking
 - **Code:** [Source 1](https://github.com/Kairavparikh/CitySpot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=67cCz4yv9Kc)
 - **All prizes at this hackathon (1):** GrowthFactor Challenge
-- **How it used GrowthFactor:** Sponsor use not stated on Devpost
+- **Award:** Won “GrowthFactor Challenge” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -308,7 +308,7 @@ North Star that guides retailers to their best location.
 - **Code:** [Source 1](https://github.com/V-prajit/Polaris)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zUk49IYrOuw)
 - **All prizes at this hackathon (1):** GrowthFactor Challenge
-- **How it used GrowthFactor:** Sponsor use not stated on Devpost
+- **Award:** Won “GrowthFactor Challenge” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -362,7 +362,7 @@ A website to help Atlanta residents and visitors stay safe during first-time mee
 - **Code:** [Source 1](https://github.com/IshaMadanu/hacklytics-atl-risk)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5gWB9hfDggA)
 - **All prizes at this hackathon (1):** Best AI for Human Safety by SafetyKit
-- **How it used SafetyKit:** Sponsor use not stated on Devpost
+- **Award:** Won “Best AI for Human Safety by SafetyKit” from SafetyKit. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

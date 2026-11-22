@@ -25,7 +25,7 @@ Unlock the full potential of the electronics you love by controlling them wirele
 
 **Synaptics:** Built with synaptics (listed on Devpost)
 
-No public code linked · Built with synaptics, javascript, love, python
+[Code](https://github.com/icasdri/ControlGeek-Server) · Built with synaptics, javascript, love, python
 
 ### [Tinderprint](https://devpost.com/software/tinderprint)
 
@@ -33,7 +33,7 @@ No public code linked · Built with synaptics, javascript, love, python
 
 Tinderprint is a dating app that matches you with people based on true physical and spiritual compatibility.
 
-**How it used Synaptics:** Sponsor use not stated on Devpost
+**Synaptics:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/vinaymayar/tinderprint) · Built with convolutional-neural-network, css, ejs, html
 
@@ -45,7 +45,7 @@ Tinderprint is a dating app that matches you with people based on true physical 
 
 This app aims to make taking pictures and video more intuitive.
 
-**How it used Synaptics:** Sponsor use not stated on Devpost
+**Synaptics:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/dianeyang/hackmit) · [Demo video](https://www.youtube.com/watch?v=pongityping)
 
@@ -65,7 +65,7 @@ No public code linked
 
 RESTful Ships is an application that allows developers to hook into an exposed REST API to create whatever they wish within the context of the platform.
 
-**How it used Synaptics:** Sponsor use not stated on Devpost
+**Synaptics:** Sponsor use not stated on Devpost
 
 No public code linked
 

@@ -33,7 +33,7 @@ No public code linked · Built with css, html, javascript
 
 Improvements in Pepsi's Global Value chain end with consumers but so does waste. Imagine if customers were inspired by AI to make beautiful projects w/ trash, promoting brand value and sustainability.
 
-**How it used PepsiCo / Berkeley SCET:** Sponsor use not stated on Devpost
+**Award:** Won “SCET/Pepsico: PEP+ Sustainability Prize” from PepsiCo / Berkeley SCET. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/garvcodes/sustainableshowcase) · Built with express.js, mongodb, nextjs, node.js
 

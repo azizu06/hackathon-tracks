@@ -23,7 +23,7 @@
 
 PC building made easy — ask questions, identify parts, and build confidently.
 
-**TwelveLabs:** Built with twelvelabs (listed on Devpost)
+**How it used TwelveLabs:** Uses the TwelveLabs API to index videos and search them by meaning.
 
 [Code](https://github.com/kevinwu098/buildr) · [Demo video](https://www.youtube.com/watch?v=lfB2SNkqhy4) · Built with twelvelabs, chatgpt, deepgram, lancedb
 

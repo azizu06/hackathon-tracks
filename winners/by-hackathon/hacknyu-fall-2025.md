@@ -55,9 +55,9 @@ No public code linked · Built with test
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Best Use of Nodal CLI · Best Use of Qualcomm EdgeAI · MLH - Best Use of Arm
-- **How it used Arm:** Sponsor use not stated on Devpost
-- **How it used Nodal:** Sponsor use not stated on Devpost
-- **How it used Qualcomm:** Sponsor use not stated on Devpost
+- **Arm:** Sponsor use not stated on Devpost
+- **Nodal:** Sponsor use not stated on Devpost
+- **Qualcomm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -81,7 +81,7 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z2_8AWR_qU8)
 - **All prizes at this hackathon (2):** Best Use of Qualcomm EdgeAI · Visa Challenge - Agent Marketplace Simulation
 - **How it used Qualcomm:** The project uses Qualcomm Snapdragon X Elite hardware.
-- **How it used Visa:** Sponsor use not stated on Devpost
+- **Award:** Won “Visa Challenge - Agent Marketplace Simulation” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -104,8 +104,8 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ul
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZHPY_1P-ulU)
 - **All prizes at this hackathon (2):** Best Use of Nodal CLI · Best Use of Qualcomm EdgeAI
-- **How it used Nodal:** Sponsor use not stated on Devpost
-- **How it used Qualcomm:** Sponsor use not stated on Devpost
+- **Nodal:** Sponsor use not stated on Devpost
+- **Qualcomm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -161,7 +161,7 @@ Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 - **Code:** [Source 1](https://github.com/jennnniferkuang/Bobux-Bargains)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xkyIFGGAyg0)
 - **All prizes at this hackathon (2):** Aristotle Challenge: Most Cutting-Edge AI Agent · Best Funny Haha Hack
-- **How it used Aristotle:** Sponsor use not stated on Devpost
+- **Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -184,7 +184,7 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 - **Code:** [Source 1](https://github.com/NandanHemanth/BuckBounty)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rCsw2WkivC0)
 - **All prizes at this hackathon (2):** Aristotle Challenge: Most Cutting-Edge AI Agent · Fintech
-- **How it used Aristotle:** Sponsor use not stated on Devpost
+- **Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -207,7 +207,7 @@ No public code linked · Built with css, geocoding, google-maps, javascript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Aristotle Challenge: Most Cutting-Edge AI Agent · Education
-- **How it used Aristotle:** Sponsor use not stated on Devpost
+- **Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -240,7 +240,7 @@ The team created On The Go Storyteller , an interactive reading platform that br
 - **Code:** [Source 1](https://github.com/KeiraJames/nyu-hacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Interactive Media Arts/Entertainment · MLH - Best Use of ElevenLabs
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **How it used ElevenLabs:** Calls ElevenLabs text-to-speech to generate audio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -269,7 +269,7 @@ No public code linked · Built with adafruit-icm20948, arduino-uno-r3, cors, esl
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Nodal CLI · Healthcare
-- **How it used Nodal:** Sponsor use not stated on Devpost
+- **Nodal:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -431,7 +431,7 @@ AI agents represent buyers and sellers, negotiating ticket deals automatically. 
 - **Code:** [Source 1](https://github.com/praveen-bandla/agent-ticket-marketplace)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Visa Challenge - Agent Marketplace Simulation
-- **How it used Visa:** Sponsor use not stated on Devpost
+- **Award:** Won “Visa Challenge - Agent Marketplace Simulation” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -458,7 +458,7 @@ No more passive reading, just active chats! - AGORA.
 - **Code:** [Source 1](https://github.com/Ashish-Reddy-T/hackNYUEducation)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hNmpppkJaBo)
 - **All prizes at this hackathon (2):** Best First Time Hack · MLH - Best Use of Vultr Cloud
-- **How it used Vultr:** Sponsor use not stated on Devpost
+- **Vultr:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

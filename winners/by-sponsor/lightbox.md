@@ -23,7 +23,7 @@
 
 Cropscape analyzes location-specific soil, climate, and hardiness data to provide personalized crop recommendations for a thriving backyard garden.
 
-**LightBox:** Built with lightbox (listed on Devpost)
+**How it used LightBox:** Looks up addresses through the LightBox API to retrieve their coordinates.
 
 [Code](https://github.com/Superhero1015/YHack2024-25_Proj) · [Demo video](https://www.youtube.com/watch?v=iuZZZnOtsdk) · Built with lightbox, css, express.js, html
 

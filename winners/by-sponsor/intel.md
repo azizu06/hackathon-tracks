@@ -43,7 +43,7 @@ ANGEL'S PROTECTION processes live video feeds, storing data based on individuals
 
 The webcam will recognize food that is in frame (using a Computer Vision model) and label it.
 
-**How it used Intel:** Sponsor use not stated on Devpost
+**How it used Intel:** The team used Intel Cloud with AI Accelerator to train on food images.
 
 [Code](https://github.com/Orbital-Web/plaite) · [Demo video](https://www.youtube.com/watch?v=ODBwwHjMowQ) · Built with openai, python, streamlit, usda-nutrition-data
 
@@ -53,9 +53,9 @@ The webcam will recognize food that is in frame (using a Computer Vision model) 
 
 Introducing PrimeTime—an advanced productivity app that uses AI to track engagement and optimize time spent on your computer to help you maximize focus and boost efficiency.
 
-**Intel:** Built with openvino (listed on Devpost)
+**How it used Intel:** Uses Intel's LLaVA-Gemma 2B checkpoint in the activity classifier.
 
-[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with openvino, javascript, llms, next.js
+[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with javascript, llms, next.js, npus
 
 ### [SongChaser](https://devpost.com/software/songchaser)
 

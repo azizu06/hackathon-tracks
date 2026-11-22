@@ -23,7 +23,7 @@
 
 An evidence-first finance research harness that uses AI to deliver fully auditable, citation-backed financial insights.
 
-**How it used RBC:** Sponsor use not stated on Devpost
+**Award:** Won “RBC: Signal in the Noise” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/pravinpaudel/ai-harnesss-htn-2026) · Built with agent, ai, harness, openai
 
@@ -33,7 +33,7 @@ An evidence-first finance research harness that uses AI to deliver fully auditab
 
 Multi-agent research that cites its sources and flags conflicts.
 
-**How it used RBC:** Sponsor use not stated on Devpost
+**Award:** Won “RBC: Signal in the Noise” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/liamma06/searchGM) · [Demo video](https://www.youtube.com/watch?v=uoozwdHRqZA) · Built with mongodb, python
 
@@ -99,7 +99,7 @@ No public code linked · Built with angular.js, firebase, ionic, jupyter
 
 Structurall enables investment banks to leverage unstructured data with natural language processing.
 
-**How it used RBC:** Sponsor use not stated on Devpost
+**Award:** Won “"Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with axios, azure, express.js, node.js
 

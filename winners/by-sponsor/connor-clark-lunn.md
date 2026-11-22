@@ -23,7 +23,7 @@
 
 Sandbox world of financial AI agents to help you learn trading.
 
-**How it used Connor, Clark &amp; Lunn:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Connor, Clark &amp; Lunn&#93; Best Financial Hack” from Connor, Clark &amp; Lunn. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/dewgong5/nwhacks2026) · [Demo video](https://www.youtube.com/watch?v=Qcazd8EwHQ0) · Built with fastapi, gemini, lovable, openrouter
 

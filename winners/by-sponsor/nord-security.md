@@ -23,7 +23,7 @@
 
 Have you ever imagined a world where navigation is effortless, safety is guaranteed, and health is monitored- all with just a backpack.
 
-**How it used Nord Security:** Sponsor use not stated on Devpost
+**Award:** Won “Track: Security and Privacy” from Nord Security. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEY
 
 FirstWave transforms your organization’s approach to cybersecurity by simulating targeted spear phishing campaigns.
 
-**How it used Nord Security:** Sponsor use not stated on Devpost
+**Award:** Won “Track: Security and Privacy” from Nord Security. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Laphatize/firstwave) · [Demo video](https://www.youtube.com/watch?v=oLO9dA-NBEQ) · Built with gpt-4o, mongodb, next.js, node.js
 

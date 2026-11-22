@@ -23,7 +23,7 @@
 
 Introducing Curserve: a fast and scalable server-side engine for agentic coding.
 
-**How it used Crater:** Sponsor use not stated on Devpost
+**Award:** Won “Crater: Play-Do Prize” from Crater. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/alexkranias/curserve) · [Demo video](https://www.youtube.com/watch?v=30VpcKWD0MU) · Built with python, qwen, rust, shell
 
@@ -33,7 +33,7 @@ Introducing Curserve: a fast and scalable server-side engine for agentic coding.
 
 DIAL (&#42;) is an optimized customer service agent designed for data-heavy use cases.
 
-**How it used Crater:** Sponsor use not stated on Devpost
+**Award:** Won “Crater: Play-Do Prize” from Crater. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z0) · Built with duckdb, elevenlabs, express.js, ngrok
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z
 
 Giving AI a physical embodiment for the world. Control multiple hardware platforms cooperatively via LLM prompts.
 
-**How it used Crater:** Sponsor use not stated on Devpost
+**Award:** Won “Crater: Play-Do Prize” from Crater. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/danielzyy/calhacks2025) · [Demo video](https://www.youtube.com/watch?v=Zj-G-9aPG8w) · Built with asi:one, cv, flask, inverse-kinematics
 
@@ -53,7 +53,7 @@ Giving AI a physical embodiment for the world. Control multiple hardware platfor
 
 Changing lives, one blink at a time :).
 
-**How it used Crater:** Sponsor use not stated on Devpost
+**Award:** Won “Crater: Play-Do Prize” from Crater. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/tgondil/iris) · [Demo video](https://www.youtube.com/watch?v=T3Psh8Hm7so) · Built with electron, eyetrax, fastapi, git
 

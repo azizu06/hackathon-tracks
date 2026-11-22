@@ -85,9 +85,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=tZ9x2874vH
 
 Greener AI, one prompt at a time.
 
-**How it used Auth0:** Sponsor use not stated on Devpost
+**How it used Auth0:** Uses Auth0 as its registration form's sign-in provider.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
+[Code](https://github.com/Keshav-kh/sustain-a-prompt) · [Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
 
 ### [Sylly](https://devpost.com/software/sylly)
 
@@ -127,7 +127,7 @@ The project reads your lips and puts it into text, creating notes for the video 
 
 A real time LLM based threat identification application.
 
-**How it used Auth0:** Sponsor use not stated on Devpost
+**How it used Auth0:** Signs users in with an Auth0 popup.
 
 [Code](https://github.com/nikil1506/ShellHacks-WatchDog) · Built with cv2, firebase, flutter, gemini
 

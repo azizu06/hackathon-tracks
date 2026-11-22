@@ -79,7 +79,7 @@ Helping everyone at Brown find the perfect bathroom &lt;3.
 - **Code:** [Source 1](https://github.com/katieli1/bathroomsatbrown)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
-- **How it used Fidelity:** Sponsor use not stated on Devpost
+- **Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -106,7 +106,7 @@ After logging in, users are directed to a page requesting the title of the paper
 - **Code:** [Source 1](https://github.com/AnnieWang314/blankspace)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of MongoDB Atlas
-- **MongoDB:** Built with mongodb (listed on Devpost)
+- **How it used MongoDB:** Defines its MongoDB project records with a Mongoose model.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -133,7 +133,7 @@ No public code linked · Built with chatgpt, dspy, openai, python
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AI in Education by Schmidt Futures
-- **How it used Schmidt Futures:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of AI in Education by Schmidt Futures” from Schmidt Futures. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -187,7 +187,7 @@ A devtool for understanding codebases faster and easier.
 - **Code:** [Source 1](https://github.com/Sharwin24/HackAtBrown)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Developer Tool sponsored by Warp
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Developer Tool sponsored by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

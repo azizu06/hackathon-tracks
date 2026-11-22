@@ -23,7 +23,7 @@
 
 Deep Retention of Concepts using research-backed techniques.
 
-**How it used Agora:** Sponsor use not stated on Devpost
+**How it used Agora:** Creates an Agora RTC client for video calls.
 
 [Code](https://github.com/Priyansh4444/DeeR) · [Demo video](https://www.youtube.com/watch?v=1LN9q6boel8) · Built with cartesia, chromadb, deepgram, fastapi
 

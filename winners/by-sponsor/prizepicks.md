@@ -23,7 +23,7 @@
 
 Sideline turns watching into experiencing. With real-time updates, interactive challenges, and friendly rivalries that make every play matter, you’re not just watching the game… you’re part of it.
 
-**How it used PrizePicks:** Sponsor use not stated on Devpost
+**Award:** Won “PrizePicks - The Second Screen Experience” from PrizePicks. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY8) · Built with expo.io, express.js, firebase, firestore
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY
 
 The team built a semi-automatic football tracking system that determines how far a field goal was kicked from by analyzing video footage.
 
-**How it used PrizePicks:** Sponsor use not stated on Devpost
+**Award:** Won “PrizePicks - Signal from the Noise” from PrizePicks. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ColinVu/FGtracking) · [Demo video](https://www.youtube.com/watch?v=Ugg36PxM_qI) · Built with opencv, python, react
 

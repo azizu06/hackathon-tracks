@@ -23,7 +23,7 @@
 
 interactive multimodal AI experiences for neurodivergent learners run entirely on the edge.
 
-**How it used Orbstack:** Sponsor use not stated on Devpost
+**Award:** Won “Orbstack: Best Use of Rust ($1k Cash)” from Orbstack. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/zcsabbagh/zu-lm) · [Demo video](https://www.youtube.com/watch?v=ajYL27WPKcs) · Built with elevenlabs, groq, javascript, langchain
 

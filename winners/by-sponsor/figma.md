@@ -33,7 +33,7 @@ A macOS assistant takes a spoken question and highlights the relevant control fo
 
 How to combine AI with deterministic logic.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Dirtblob/AutoGear) · [Demo video](https://www.youtube.com/watch?v=RYnkUSRhRUk) · Built with best-buy, clerk, coco-ssd, css
 
@@ -43,7 +43,7 @@ How to combine AI with deterministic logic.
 
 A mobile finance prototype turns market events into short research tasks and waits for confirmation before trading.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/adylagad/baseland) · [Demo video](https://www.youtube.com/watch?v=wzT5thvdSHw) · Built with activitykit, anthropic, app-intents, base
 
@@ -53,7 +53,7 @@ A mobile finance prototype turns market events into short research tasks and wai
 
 A job board holds payment in escrow until a worker submits the agreed proof of completion.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/AlanRoybal/mhacks2026) · [Demo video](https://www.youtube.com/watch?v=vXkbfQ2L-Gc) · Built with activitykit, amazon-bedrock, amazon-dynamodb, amazon-web-services
 
@@ -73,7 +73,7 @@ A camera-based biomechanics tool tracks movement and fatigue to give athletes fe
 
 A local weather app gives gardeners and small farmers forecasts tailored to growing decisions.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**Figma:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
 
@@ -83,7 +83,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBw
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**Figma:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
@@ -93,7 +93,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSj
 
 Help people go outside more often by making nature exploration social, rewarding, and habit-forming.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/EzequielBaltierra/HackDuke26) · [Demo video](https://www.youtube.com/watch?v=ZdNEc66V0Zg) · Built with auth0, expo.io, openai, postgresql
 
@@ -103,7 +103,7 @@ Help people go outside more often by making nature exploration social, rewarding
 
 A computer control interface uses eye tracking to point and speech to issue commands.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/dakshshahani/mhacks) · Built with elevenlabs-api, gemini-3.5-flash-lite-api, git, javascript
 
@@ -143,7 +143,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk
 
 EMTs deserve better than a radio and a clipboard.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The team used Figma for wireframes.
 
 [Code](https://github.com/MarcDasilva/Impulse) · [Demo video](https://www.youtube.com/watch?v=FwS_lDUnjMY) · Built with asus-gx10, cloudinary, colmap, docker
 
@@ -183,7 +183,7 @@ A grocery tracker reads receipts and flags food that may expire soon.
 
 A desktop assistant finds local files and gathers context for the user's current task.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The team used Figma Make to iterate on the UI's design language and color schemes.
 
 [Code](https://github.com/LAHacks2026/Obi_Laptop) · [Demo video](https://www.youtube.com/watch?v=r7eSFDm4Wd4) · Built with better-sqlite3, chokidar, electron, embeddings
 
@@ -193,7 +193,7 @@ A desktop assistant finds local files and gathers context for the user's current
 
 A learning app helps users explore stock movements and practice investment decisions.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/daniel3606/Orbit_MHacks26) · [Demo video](https://www.youtube.com/watch?v=Mj4wTCKH8oE) · Built with alpaca, eas, expo.io, fastapi
 
@@ -203,7 +203,7 @@ A learning app helps users explore stock movements and practice investment decis
 
 A booking workspace helps performers find venues and manage pitches and follow-ups.
 
-**Figma:** Built with figma (listed on Devpost)
+**How it used Figma:** The team used Figma Make to prototype the dashboard and its design system.
 
 [Code](https://github.com/RC3371/Scaena-LAHacks2026) · [Demo video](https://www.youtube.com/watch?v=DCTjE99embY) · Built with figma, agentverse, asi-1-mini, css
 
@@ -213,7 +213,7 @@ A booking workspace helps performers find venues and manage pitches and follow-u
 
 Because good music gives us sera-tonin :).
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**Figma:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
 

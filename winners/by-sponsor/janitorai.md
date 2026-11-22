@@ -23,7 +23,7 @@
 
 Multiplayer Agentic AI NPCs with shared conversational memory across all players.
 
-**JanitorAI:** Built with janitorai (listed on Devpost)
+**How it used JanitorAI:** Requests language model completions through the JanitorAI hackathon API.
 
 [Code](https://github.com/iOliver678/calhacks12) · [Demo video](https://www.youtube.com/watch?v=2yZ_ZxMO7cY) · Built with janitorai, express.js, fishaudio, jllm
 

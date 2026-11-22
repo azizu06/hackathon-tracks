@@ -53,7 +53,7 @@ A dashboard maps humanitarian funding against local needs to identify crises tha
 
 An accessibility prototype uses EEG readings from a visual interface to let people with paralysis select messages.
 
-**How it used Databricks:** Sponsor use not stated on Devpost
+**How it used Databricks:** Trains the EEG classification model on Databricks and runs predictions locally.
 
 [Code](https://github.com/shashankshaga/Paralassist) · [Demo video](https://www.youtube.com/watch?v=hmhprJgUFRA) · Built with css, html, javascript, python
 
@@ -97,7 +97,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvM
 
 Transform legal research with an AI-powered tool that delivers precise case matches from open-source databases. Streamline workflows and make research faster.
 
-**How it used Databricks:** Sponsor use not stated on Devpost
+**Databricks:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/FelixNgFender/HackHarvard24) · [Demo video](https://www.youtube.com/watch?v=VuqHDqgFIkg) · Built with cloudflare, courtlistener, fastapi, gpt-4o-mini
 
@@ -107,7 +107,7 @@ Transform legal research with an AI-powered tool that delivers precise case matc
 
 Revolutionizing accessibility through natural-sounding TTS and insightful image and text summarization.
 
-**How it used Databricks:** Sponsor use not stated on Devpost
+**Databricks:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Prasad-Katkade/AI-Screen-Reader) · [Demo video](https://www.youtube.com/watch?v=kf5yGIl9vkg) · Built with css, express.js, fastapi, html
 

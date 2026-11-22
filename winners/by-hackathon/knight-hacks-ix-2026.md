@@ -63,8 +63,8 @@ Farsight combines a remotely operated rescue rover with a walkable reconstructio
 - **Code:** [Source 1](https://github.com/azizu06/farsight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AmrOGcTBTKU) · [Video 2](https://www.youtube.com/watch?v=Km9CGWip4h4)
 - **All prizes at this hackathon (4):** Encompass: Data Capturing Hardware · Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
-- **How it used Encompass:** Sponsor use not stated on Devpost
-- **How it used Full Sail:** Sponsor use not stated on Devpost
+- **Award:** Won “Encompass: Data Capturing Hardware” from Encompass. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge” from Full Sail. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Hugging Face:** The local assistant uses Hugging Face model artifacts for Qwen3-VL-2B-Instruct GGUF and Whisper base.en.
 - **How it used NVIDIA:** The Jetson runs the rover server and YOLO11n-pose through TensorRT.
 - **Checked on Devpost:** 2026-11-21
@@ -90,7 +90,7 @@ GEarth simulates how citizens, institutions, and governments interact across a f
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7h_nXEkdgIM)
 - **All prizes at this hackathon (3):** AMD: Best Use of AMD Technologies · BNY: Financial Services Challenge · Neon: Best Use of Neon
 - **How it used AMD:** AMD serves Qwen through ROCm and PyTorch.
-- **How it used BNY:** Sponsor use not stated on Devpost
+- **Award:** Won “BNY: Financial Services Challenge” from BNY. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Neon:** The team uses Neon PostgreSQL to preserve simulation checkpoints and event history.
 - **Checked on Devpost:** 2026-11-21
 
@@ -115,7 +115,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zmApNlPyh9I)
 - **All prizes at this hackathon (2):** Databricks: Best Use of Databricks · OneEthos: Innovation for Good
 - **How it used Databricks:** Databricks processes geolocation, bin, place, and 311 complaint data.
-- **How it used OneEthos:** Sponsor use not stated on Devpost
+- **Award:** Won “OneEthos: Innovation for Good” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -139,7 +139,7 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vhKG4MiWa9A)
 - **All prizes at this hackathon (2):** NVIDIA: Best Use of Jetson Nano · OneEthos: Innovation for Good
 - **How it used NVIDIA:** The NVIDIA Jetson Orin Nano runs the smoke model on its GPU using TensorRT.
-- **How it used OneEthos:** Sponsor use not stated on Devpost
+- **Award:** Won “OneEthos: Innovation for Good” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -162,8 +162,8 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSj
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RWAbxd6hSjE)
 - **All prizes at this hackathon (2):** Adobe: Prettiest Hack · Figma: Best Design
-- **How it used Adobe:** Sponsor use not stated on Devpost
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **Award:** Won “Adobe: Prettiest Hack” from Adobe. The write-up gives no details on how the team used the sponsor’s tech.
+- **Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -186,7 +186,7 @@ A spatial awareness tool tracks objects and remembers their locations when they 
 - **Code:** [Source 1](https://github.com/billpquach/permanence)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GexOIHp7s1w)
 - **All prizes at this hackathon (3):** Best Overall Hack (1st) · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
-- **How it used Hugging Face:** Sponsor use not stated on Devpost
+- **How it used Hugging Face:** Uses Hugging Face Transformers to load the Qwen vision-language model implementation.
 - **How it used NVIDIA:** The Jetson drives the Arduino Uno and L298N motor driver and steers from the phone’s position.
 - **Checked on Devpost:** 2026-11-21
 
@@ -218,7 +218,7 @@ PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is 
 - **Code:** [Source 1](https://github.com/Ilan101/peaheads)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=chAkjLDZ9Hk)
 - **All prizes at this hackathon (2):** Adobe: Prettiest Hack · Best Game Dev Hack
-- **How it used Adobe:** Sponsor use not stated on Devpost
+- **Award:** Won “Adobe: Prettiest Hack” from Adobe. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -241,7 +241,7 @@ An interactive, hand-illustrated, digital storybook featuring point-and-click pr
 - **Code:** [Source 1](https://github.com/NiDesai08/Plu-s-Sanctuary)
 - **Demo video:** [Video 1](https://vimeo.com/1234804142)
 - **All prizes at this hackathon (1):** Adobe: Prettiest Hack
-- **How it used Adobe:** Sponsor use not stated on Devpost
+- **Award:** Won “Adobe: Prettiest Hack” from Adobe. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -260,7 +260,7 @@ Also won this track: [GEarth](#project-diarockets) (listed above)
 
 A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-100T.
 
-[Code](https://github.com/techcolly/fpga_LM) · Built with vivado, claude, fpga, python
+[Code](https://github.com/techcolly/fpga_LM) · Built with claude, fpga, python, pytorch
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -270,7 +270,7 @@ A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-10
 - **Code:** [Source 1](https://github.com/techcolly/fpga_LM)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** AMD: Best Use of AMD Technologies
-- **AMD:** Built with vivado (listed on Devpost)
+- **How it used AMD:** The team used Vivado's ILA and VIO cores to look inside the running chip.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -322,7 +322,7 @@ Make shopping easier through the art of accessibility.
 - **Code:** [Source 1](https://github.com/Dove0Day/knighthacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WCmblC_Qs0o)
 - **All prizes at this hackathon (1):** BNY: Financial Services Challenge
-- **How it used BNY:** Sponsor use not stated on Devpost
+- **Award:** Won “BNY: Financial Services Challenge” from BNY. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -351,7 +351,7 @@ An accessibility prototype uses EEG readings from a visual interface to let peop
 - **Code:** [Source 1](https://github.com/shashankshaga/Paralassist)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hmhprJgUFRA)
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
-- **How it used Databricks:** Sponsor use not stated on Devpost
+- **How it used Databricks:** Trains the EEG classification model on Databricks and runs predictions locally.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -430,7 +430,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zb3Xrg7Hfq4)
 - **All prizes at this hackathon (1):** Encompass: Data Capturing Hardware
-- **How it used Encompass:** Sponsor use not stated on Devpost
+- **Award:** Won “Encompass: Data Capturing Hardware” from Encompass. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -453,7 +453,7 @@ A drone control system combines local detection and GPS tracking using low-cost 
 - **Code:** [Source 1](https://github.com/FrLagoSoft/Dronautics)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pPoEXRLnYJc)
 - **All prizes at this hackathon (1):** Encompass: Data Capturing Hardware
-- **How it used Encompass:** Sponsor use not stated on Devpost
+- **Award:** Won “Encompass: Data Capturing Hardware” from Encompass. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -492,7 +492,7 @@ An operations dashboard summarizes the sensor data collected by a Spot robot on 
 - **Code:** [Source 1](https://github.com/Monisha-Repos/spot-mission-dashboard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UN3DJZA4GO8)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -548,7 +548,7 @@ A wearable uses directional vibrations to tell deaf and hard-of-hearing users wh
 - **Code:** [Source 1](https://github.com/Korirussell/Here)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2gRH8oV8e80)
 - **All prizes at this hackathon (1):** Hugging Face: Best Use of Open Source AI
-- **How it used Hugging Face:** Sponsor use not stated on Devpost
+- **How it used Hugging Face:** The project runs open models from the Hub on Hugging Face.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -581,7 +581,7 @@ Spotlight transforms Boston Dynamics Spot data into actionable insights using AI
 - **Code:** [Source 1](https://github.com/doberto6/SpotLight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=76OSgHFP13s)
 - **All prizes at this hackathon (1):** NextEra Energy: SPOT Management Dashboard
-- **How it used NextEra Energy:** Sponsor use not stated on Devpost
+- **How it used NextEra Energy:** The project uses a model given by NextEra Energy in the 2D view.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -616,7 +616,7 @@ Jolteon captures waste heat, turns it into stored electricity, and shows you exa
 - **Code:** [Source 1](https://github.com/TomasTorrado/Jolteon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8vnv30qKB9w)
 - **All prizes at this hackathon (1):** OneEthos: Innovation for Good
-- **How it used OneEthos:** Sponsor use not stated on Devpost
+- **Award:** Won “OneEthos: Innovation for Good” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

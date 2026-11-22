@@ -60,8 +60,8 @@ Halo is a smart bike helmet that watches the road behind you and warns you about
 - **Code:** [Source 1](https://github.com/billpquach/halo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rlAuXaz6g6s)
 - **All prizes at this hackathon (2):** State Farm · Waymo
-- **How it used State Farm:** Sponsor use not stated on Devpost
-- **How it used Waymo:** Sponsor use not stated on Devpost
+- **Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -116,7 +116,7 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 - **Code:** [Source 1](https://github.com/veronica-lab/shellhacks2026-Budgie-on-a-Budget)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rStyASEtwMQ)
 - **All prizes at this hackathon (1):** &#91;AWS&#93; Best Use of AWS
-- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
+- **Amazon Web Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -133,17 +133,17 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 
 You're always in the loop. Never out of reach.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=VnigEnYfZt8) · Built with audioworklet, deepgram, elderly, express.js
+[Code](https://github.com/Philluc123/Gaurdian-Loop-SHX) · [Demo video](https://www.youtube.com/watch?v=VnigEnYfZt8) · Built with audioworklet, deepgram, elderly, express.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** audioworklet, deepgram, elderly, express.js, gemini, github-actions, google-genai, javascript, node.js, npm, react, transparency, typescript, vite, vitest, vulnerable, webrtc, websockets
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/Philluc123/Gaurdian-Loop-SHX)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VnigEnYfZt8)
 - **All prizes at this hackathon (1):** Assurant
-- **How it used Assurant:** Sponsor use not stated on Devpost
+- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -166,7 +166,7 @@ Mind Your Prompt combines a website dashboard with a Chrome extension.
 - **Code:** [Source 1](https://github.com/krishnatejasai/ShellHacks_2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FzibFbr4i2s)
 - **All prizes at this hackathon (1):** Assurant
-- **How it used Assurant:** Sponsor use not stated on Devpost
+- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -179,17 +179,17 @@ Mind Your Prompt combines a website dashboard with a Chrome extension.
 
 Don't let your AI run wild.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=64wOp2kXgB4) · Built with elevenlabs, fastapi, mongodb, pydantic
+[Code](https://github.com/arnovkandlikar/reigns) · [Demo video](https://www.youtube.com/watch?v=64wOp2kXgB4) · Built with elevenlabs, fastapi, mongodb, pydantic
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** elevenlabs, fastapi, mongodb, pydantic, pytest, python, sqlite, swift, tavily, uvicorn, websockets, xcode
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/arnovkandlikar/reigns)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=64wOp2kXgB4)
 - **All prizes at this hackathon (1):** Assurant
-- **How it used Assurant:** Sponsor use not stated on Devpost
+- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -216,7 +216,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXu
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPOzUj3IXuM)
 - **All prizes at this hackathon (1):** Blackstone
-- **How it used Blackstone:** Sponsor use not stated on Devpost
+- **Award:** Won “Blackstone” from Blackstone. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -270,7 +270,7 @@ The neighbor who reads every city agenda and calls you when it matters.
 - **Code:** [Source 1](https://github.com/Alans44/public-city-announcements)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=D6od6VAIAPM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -287,17 +287,17 @@ The neighbor who reads every city agenda and calls you when it matters.
 
 No more sweat in your walk. Take the Shaadiest path.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=IRjQ7plFcqE) · Built with godaddy, codex, express.js, github
+[Code](https://github.com/AlexanderGiannak/Shaadiest) · [Demo video](https://www.youtube.com/watch?v=IRjQ7plFcqE) · Built with godaddy, codex, express.js, github
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** codex, express.js, github, godaddy, javascript, leaflet.js, node.js, open-meteo, overpass-openstreetmap, suncalc, vite
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/AlexanderGiannak/Shaadiest)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IRjQ7plFcqE)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
+- **How it used GoDaddy Registry:** The project was built with deployment support for GoDaddy.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -351,7 +351,7 @@ benchlog brings version control to hardware.
 - **Code:** [Source 1](https://github.com/Jrodd1203/benchlog)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BhbKYBc4kMM)
 - **All prizes at this hackathon (1):** INIT National
-- **How it used INIT National:** Sponsor use not stated on Devpost
+- **Award:** Won “INIT National” from INIT National. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -374,7 +374,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=FdCHXdTUId
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FdCHXdTUIdM)
 - **All prizes at this hackathon (1):** INIT National
-- **How it used INIT National:** Sponsor use not stated on Devpost
+- **Award:** Won “INIT National” from INIT National. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -555,7 +555,7 @@ The cross-utility intelligence platform that aggressively optimizes overlapping 
 - **Code:** [Source 1](https://github.com/fradicus/Shellhacks-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y5_c-f20ky4)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **How it used Sperry Tech:** Sponsor use not stated on Devpost
+- **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -578,7 +578,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QV
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ovVV4Ca8QVs)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **How it used Sperry Tech:** Sponsor use not stated on Devpost
+- **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -601,7 +601,7 @@ Mr.Gridy helps neighbouring power companies share the work: it finds where their
 - **Code:** [Source 1](https://github.com/VelvetDragon/gridsight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sr1lKaowknU)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **How it used Sperry Tech:** Sponsor use not stated on Devpost
+- **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -624,7 +624,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Supupux7vt
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Supupux7vtA)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **How it used Sperry Tech:** Sponsor use not stated on Devpost
+- **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -655,17 +655,17 @@ Also won this track: [Halo](#project-halo-1q59hf) (listed above)
 
 Map the possibilities for electric autonomous fleets with data-driven market insights and simulation.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=EakXPzNH4ww) · Built with fastapi, gemini, mapbox, next.js
+[Code](https://github.com/SimonOcampo/ShellHacks2026) · [Demo video](https://www.youtube.com/watch?v=EakXPzNH4ww) · Built with fastapi, gemini, mapbox, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** fastapi, gemini, mapbox, next.js, numpy, playwright, pydantic, pytest, python, react, typescript, uv
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/SimonOcampo/ShellHacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EakXPzNH4ww)
 - **All prizes at this hackathon (1):** Waymo
-- **How it used Waymo:** Sponsor use not stated on Devpost
+- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -678,17 +678,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=EakXPzNH4w
 
 Decode the skies in real time: Live radar tracking powered by custom AI that detects anomalies before official reports.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=DAqYyY9iVos) · Built with absd, api, deck.gl, digitalocean
+[Code](https://github.com/TWilliamsA7/Syren) · [Demo video](https://www.youtube.com/watch?v=DAqYyY9iVos) · Built with absd, api, deck.gl, digitalocean
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** absd, api, deck.gl, digitalocean, elevenlabs, gemini, godaddy, json, jsonl, maplibre, python, react, tailwind, vite
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/TWilliamsA7/Syren)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DAqYyY9iVos)
 - **All prizes at this hackathon (1):** Waymo
-- **How it used Waymo:** Sponsor use not stated on Devpost
+- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

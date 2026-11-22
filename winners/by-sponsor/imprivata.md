@@ -23,7 +23,7 @@
 
 Very fast, secure log in systems for healthcare professionals.
 
-**How it used Imprivata:** Sponsor use not stated on Devpost
+**Award:** Won “Secure User Healthcare Data Challenge with Imprivata” from Imprivata. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with electron, ios, node.js, swift
 

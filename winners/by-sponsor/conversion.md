@@ -23,7 +23,7 @@
 
 DIAL (&#42;) is an optimized customer service agent designed for data-heavy use cases.
 
-**How it used Conversion:** Sponsor use not stated on Devpost
+**Conversion:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z0) · Built with duckdb, elevenlabs, express.js, ngrok
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z
 
 automate onboarding and training + realtime coaching.
 
-**How it used Conversion:** Sponsor use not stated on Devpost
+**Conversion:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Preet37/Onboardly) · [Demo video](https://www.youtube.com/watch?v=ufnTHSQetfM) · Built with ai, api, chrome, extension
 

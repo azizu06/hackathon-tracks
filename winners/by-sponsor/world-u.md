@@ -33,7 +33,7 @@ Online marketplaces in 2026: Bots are everywhere.
 
 Agent-powered hiring built for humans, using each applicant’s unique application history to generate a trust rating so people apply more thoughtfully and ethically while getting matched faster.
 
-**How it used World U:** Sponsor use not stated on Devpost
+**World U:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD4) · Built with express.js, gcp, gemini, node.js
 

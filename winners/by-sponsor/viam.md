@@ -23,7 +23,7 @@
 
 Making mobility accessible, cheap, simple. and modular to the health sector and the public.
 
-**Viam:** Built with viam (listed on Devpost)
+**How it used Viam:** Controls a robot arm through the Viam SDK.
 
 [Code](https://github.com/ryanli222/yHack) · [Demo video](https://www.youtube.com/watch?v=RzqbO86LRXQ) · Built with viam, a&#42;, arduino, elevenlabs
 

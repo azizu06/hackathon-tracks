@@ -23,7 +23,7 @@
 
 Every census tract is shaded by a need score built from HRSA shortage designations and CDC PLACES health data.
 
-**How it used CoStar Group:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/alisx255/asclepieion-public) · [Demo video](https://www.youtube.com/watch?v=llLSV0W6s7c) · Built with anthropic, cdc-open-data, costar, fastapi
 
@@ -33,7 +33,7 @@ Every census tract is shaded by a need score built from HRSA shortage designatio
 
 Siteline tells clinics where to open. It learns what drives each practice, pulls the public data that measures it, and ranks real lease spaces by the patients they’d win and the care gaps they’d fill.
 
-**How it used CoStar Group:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/archit2901/siteline) · [Demo video](https://www.youtube.com/watch?v=uoMErki4yTk) · Built with agents, amazon-bedrock, amazon-nova, amazon-web-services
 

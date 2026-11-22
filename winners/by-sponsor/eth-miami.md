@@ -23,7 +23,7 @@
 
 Blockchain and AI Based Verification for a Fraud-Free Future.
 
-**How it used ETH Miami:** Sponsor use not stated on Devpost
+**ETH Miami:** Sponsor use not stated on Devpost
 
 No public code linked · Built with css, ganache, google-cloud, javascript
 
@@ -33,7 +33,7 @@ No public code linked · Built with css, ganache, google-cloud, javascript
 
 The inspiration came from FIU's passion for hospitality and the potential of blockchain technology to empower individuals through decentralized solutions.
 
-**How it used ETH Miami:** Sponsor use not stated on Devpost
+**ETH Miami:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/npastrami/lvlupmiami) · Built with hardat, ipfs, metamaskapi, nextjs
 

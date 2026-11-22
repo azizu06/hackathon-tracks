@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2
 
 It's a social cheese rating and sharing website.
 
-**Pinata:** Built with pinata (listed on Devpost)
+**How it used Pinata:** Creates a Pinata group when a user signs up.
 
 [Code](https://github.com/joemmalatesta/CheddarBoxd) · [Demo video](https://www.youtube.com/watch?v=ijk-pzGl-H0) · Built with pinata, sveltekit, tailwind
 
@@ -43,9 +43,9 @@ It's a social cheese rating and sharing website.
 
 Meet Monch – the AI-powered app that uses photos of your food to instantly recognizes ingredients, portion sizes, and calculates complete macro breakdowns.
 
-**Pinata:** Built with pinata (listed on Devpost)
+**How it used Pinata:** Uploads user files to Pinata.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ZkMzkzsfklo) · Built with pinata, clerk, next, react
+[Code](https://github.com/jacksonmoody/monch) · [Demo video](https://www.youtube.com/watch?v=ZkMzkzsfklo) · Built with pinata, clerk, next, react
 
 ## Track names and requirements
 

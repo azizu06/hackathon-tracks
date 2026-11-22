@@ -23,7 +23,7 @@
 
 Athena is an AI call-security engine that dynamically protects your calls in 3 ways: it detects AI voices, masks keystrokes from the mic through co-evolution, and erase sensitive info you're speaking.
 
-**How it used NSA:** Sponsor use not stated on Devpost
+**Award:** Won “NSA: Hearsay: The Audio Authentication Challenge - 2nd Place” from NSA. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/danmano411/hearsay) · [Demo video](https://www.youtube.com/watch?v=FCmJMZv8baE) · Built with backboard, fastapi, gemini, google-meet
 
@@ -33,7 +33,7 @@ Athena is an AI call-security engine that dynamically protects your calls in 3 w
 
 Catching synthetic speech before it fools you.
 
-**How it used NSA:** Sponsor use not stated on Devpost
+**Award:** Won “NSA: Hearsay: The Audio Authentication Challenge - 3rd Place” from NSA. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/malachiwang/hearsay_hgt13) · Built with bash, huggingface-transformer, librosa, numpy
 
@@ -43,7 +43,7 @@ Catching synthetic speech before it fools you.
 
 The team describes the project as “------”.
 
-**How it used NSA:** Sponsor use not stated on Devpost
+**Award:** Won “NSA: Hearsay: The Audio Authentication Challenge - 1st Place” from NSA. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with ai, ml, python
 

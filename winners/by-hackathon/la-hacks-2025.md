@@ -255,7 +255,7 @@ A classroom assistant answers student questions and helps them find support.
 - **Code:** [Source 1](https://github.com/amirkhabaza/Askademia)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Mnitbx_xcjw)
 - **All prizes at this hackathon (1):** MLH: Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -455,7 +455,7 @@ Bandaid Maps is a real-time, AI-powered healthcare navigation tool that assesses
 - **Code:** [Source 1](https://github.com/GovindKurapati/bandaid-maps)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3-WHXSlJYEA)
 - **All prizes at this hackathon (1):** Melissa Data Challenge
-- **How it used Melissa Data:** Sponsor use not stated on Devpost
+- **How it used Melissa Data:** Uses the Melissa Data reverse-geocoding API to look up locations.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -509,7 +509,7 @@ An AI-powered email assistant that automatically processes, analyzes, and respon
 - **Code:** [Source 1](https://github.com/aroy23/GMax)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HjPrTQSjSwo)
 - **All prizes at this hackathon (1):** MSI Lucky's Hackening
-- **How it used MSI:** Sponsor use not stated on Devpost
+- **MSI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -705,7 +705,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VxB-7LZu1D0)
 - **All prizes at this hackathon (1):** Warp Challenge: Best Developer Tool
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Award:** Won “Warp Challenge: Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

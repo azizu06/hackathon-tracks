@@ -33,7 +33,7 @@ One unexpected expense can trigger a chain of financial crisis. BreakingPoint bu
 
 is a reverse-engineered hardware ledger for the Solana blockchain, with custom PIN + seed phrase authentication, real-time balance monitoring, and live fraud detection using log analysis.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Best Financial Hack - Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/navincodesalot/cryptx) · [Demo video](https://www.youtube.com/watch?v=ckU2XB6r1WQ) · Built with arduino, bs58, gemini, hashing
 
@@ -125,7 +125,7 @@ An offline guide helps survivors find state compensation programs and trace elig
 
 Depending on the task, an orchestrator agent decided which specialized agents to summon and begin assessing invoices.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/dominickdupuy/InvoiceFraudDetector) · [Demo video](https://www.youtube.com/watch?v=aegOE2791Ow) · Built with bigquery, express.js, fastapi, gemini
 
@@ -135,7 +135,7 @@ Depending on the task, an orchestrator agent decided which specialized agents to
 
 Turning uncertainty into opportunity with AI-driven market insights.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Best Finance Hack Sponsored by Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/kaustubhbhal/Black-Swan) · [Demo video](https://www.youtube.com/watch?v=LGzhTNWSGaw) · Built with alpha-vantage-api, flask, google-oauth, html
 
@@ -155,7 +155,7 @@ A virtual pet whose physical wellness depends on your financial wellness.
 
 People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device trust, biometrics, and C2PA attestation to verify high-risk payments securely.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Best Financial Hack by Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/sofiaal1/C2Pay) · [Demo video](https://www.youtube.com/watch?v=gnQvp3OVYmE) · Built with bit-manipulation, c2pa, decryption, encryption
 
@@ -165,7 +165,7 @@ People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device t
 
 "Smart Spending, Safer Shopping, Healthier Finances.".
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Best Financial Hack - Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with beautiful-soup, gemini, javascript, mongodb
 
@@ -195,7 +195,7 @@ Complete AI agent ecosystem for fraud detection &amp; banking. Multiple speciali
 
 The team describes the project as “Productive doomscrolling”.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Capital One - Best Financial Hack” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://vimeo.com/1122592767) · Built with react
 
@@ -205,9 +205,9 @@ No public code linked · [Demo video](https://vimeo.com/1122592767) · Built wit
 
 The team describes the project as “AI-powered Menu Engineer”.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Track: Fintech - Best Financial Hack” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with d3.js, fastapi, javascript, monogodb
+[Code](https://github.com/ShaunakS05/Plately) · Built with d3.js, fastapi, javascript, monogodb
 
 ### [QuStoch](https://devpost.com/software/qustoch)
 
@@ -215,7 +215,7 @@ No public code linked · Built with d3.js, fastapi, javascript, monogodb
 
 An application that leverages Quantum Computing and Superposition to simulate multiple Stochastic States in a Brownian motion simulation to more effectively represent stock behavior.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Track: Fintech - Best Financial Hack” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=w15F0oFqkak) · Built with ai/ml, bootstrap, css, flask
 
@@ -225,7 +225,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=w15F0oFqka
 
 Let kids learn how to manage their own finances with Spendy.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/brendanshen24/SpendWithSpendy) · [Demo video](https://www.youtube.com/watch?v=EK8jEkWBTbg) · Built with expo.io, react, tailwind
 
@@ -235,7 +235,7 @@ Let kids learn how to manage their own finances with Spendy.
 
 Sprout AI: Optimizing shelves, preserving the planet.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “CATEGORY - Finance (Capital One)” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
 
@@ -245,7 +245,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1A
 
 A finance prototype explores a way to earn yield on money set aside for subscriptions.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “CATEGORY - Finance (Capital One)” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/adlonymous/subsave) · [Demo video](https://www.youtube.com/watch?v=FC3KWH5CUpk) · Built with auth0, expo.io, gemini, lulo
 
@@ -257,7 +257,7 @@ A finance prototype explores a way to earn yield on money set aside for subscrip
 
 Calculate car lease payments, insurance, and track savings in one tool! Tailored for your budget, with support for English/Spanish.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Jackal-HQ/Lease-Saving-Guide) · Built with customtkinter, matplotlib, python, sqlite
 
@@ -287,7 +287,7 @@ Puddle brings an "every drop matters" approach to your everyday spending, allowi
 
 SmartCards is a user-friendly addon for your budgeting app to help you better categorize your transactions and find investing opportunities from each purchase.
 
-**How it used Capital One:** Sponsor use not stated on Devpost
+**Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/chasereyn/smart-cards) · Built with express.js, flask, kaggle, node.js
 

@@ -85,9 +85,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJ
 
 ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Specialized rooms for D&amp;D, AA, and therapy with intelligent, personalized moderation.
 
-**Bright Data:** Built with brightdata-api (listed on Devpost)
+**How it used Bright Data:** The project uses the Bright Data API for optional LinkedIn profile understanding.
 
-[Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with brightdata-api, anthropic-claude-api, asi-one, docker
+[Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with anthropic-claude-api, asi-one, brightdata-api, docker
 
 ### [FairVal](https://devpost.com/software/reclaim-ai)
 

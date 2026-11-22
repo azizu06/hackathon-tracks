@@ -23,7 +23,7 @@
 
 Argus combines AI, computer vision, and real-time streaming to deliver intelligent, low-latency surveillance with instant threat detection, reporting, and search across all your video networks.
 
-**How it used Conway:** Sponsor use not stated on Devpost
+**Award:** Won “Conway: Most Data-Intensive Application” from Conway. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/GodPuffin/argus) · [Demo video](https://www.youtube.com/watch?v=enZRqW1eOOM) · Built with claude, elasticsearch, gemini, groq
 
@@ -33,7 +33,7 @@ Argus combines AI, computer vision, and real-time streaming to deliver intellige
 
 Insight uses Meta Ray-Bans to record your every interaction, creating an AI clone of yourself that completely understands your virtual and physical relationships to streamline your work.
 
-**How it used Conway:** Sponsor use not stated on Devpost
+**Award:** Won “Conway: Most Data-Intensive Application” from Conway. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=fq3KNSE-kns) · Built with dlib, ffmpeg, mcp, opencv
 

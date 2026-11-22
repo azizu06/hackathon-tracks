@@ -58,18 +58,18 @@ These projects won more than one prize here. Each one is listed once.
 
 A self-writing journal of your life, with superpowers.
 
-No public code linked · Built with javascript, jupyter-notebook, keras, node.js
+[Code](https://github.com/tkyaw1/Lotus-Journal) · Built with javascript, jupyter-notebook, keras, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** javascript, jupyter-notebook, keras, node.js, python, react, tensorflow
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/tkyaw1/Lotus-Journal)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Azure Champ · Finalist · Most Interesting Use of Text-Based Machine Learning by Quora
-- **How it used Microsoft:** Sponsor use not stated on Devpost
-- **How it used Quora:** Sponsor use not stated on Devpost
+- **How it used Microsoft:** Extracts keywords from journal entries with Microsoft's Azure Cognitive Services.
+- **Award:** Won “Most Interesting Use of Text-Based Machine Learning by Quora” from Quora. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -98,7 +98,7 @@ Plenty of people hope to travel and explore the world, and it's no surprise that
 - **Code:** [Source 1](https://github.com/PaliC/Dream-Flight)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Data
-- **Amadeus:** Built with amadeus (listed on Devpost)
+- **How it used Amadeus:** Queries the Amadeus sandbox for low-fare flight options.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -148,7 +148,7 @@ No public code linked · Built with react, ruby, ruby-on-rails
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of BNP Paribas APIs
-- **How it used BNP Paribas:** Sponsor use not stated on Devpost
+- **BNP Paribas:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -175,7 +175,7 @@ No public code linked · Built with android-studio, arduino
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Cadillac: Time = Luxury · Finalist · Hack for a Night Out
-- **How it used Cadillac:** Sponsor use not stated on Devpost
+- **Cadillac:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -198,7 +198,7 @@ No public code linked · Built with android-studio, express.js, node.js
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cadillac: Mobility as a Service
-- **How it used Cadillac:** Sponsor use not stated on Devpost
+- **Award:** Won “Cadillac: Mobility as a Service” from Cadillac. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -225,7 +225,7 @@ Distributed mobile cloud computing, harnessing the power of idle devices to perf
 - **Code:** [Source 1](https://github.com/cwu2020/nimbus)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Novel Data Mobility Hack by Dell
-- **How it used Dell:** Sponsor use not stated on Devpost
+- **Award:** Won “Most Novel Data Mobility Hack by Dell” from Dell. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -279,7 +279,7 @@ Troomba is a friendly robot that carries your drinks.
 - **Code:** [Source 1](https://github.com/patil215/soomba)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** element14 Presents a Robotics Kit
-- **How it used element14:** Sponsor use not stated on Devpost
+- **element14:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -333,7 +333,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M4C3eRrB2W8)
 - **All prizes at this hackathon (1):** VR Zone by Google
-- **How it used Google:** Sponsor use not stated on Devpost
+- **Award:** Won “VR Zone by Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -383,7 +383,7 @@ No public code linked · Built with hyperledger, node-red
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Disaster Preparedness &amp; Relief Solutions for IBM Call for Code Challenge
-- **How it used IBM:** Sponsor use not stated on Devpost
+- **IBM:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -520,7 +520,7 @@ An Augmented Reality Powered Checkers Assistant.
 - **Code:** [Source 1](https://github.com/abeakkas/Augmented-Checkers)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Niantic Augmented Reality Prize
-- **How it used Niantic:** Sponsor use not stated on Devpost
+- **Award:** Won “Niantic Augmented Reality Prize” from Niantic. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -547,7 +547,7 @@ Objectively quantifying reactions to media using EEG data and signal processing.
 - **Code:** [Source 1](https://github.com/adampotter0105/DeterMind)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
-- **How it used Pear VC:** Sponsor use not stated on Devpost
+- **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -570,7 +570,7 @@ No public code linked · Built with ik, steamvr, unity, vive
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
-- **How it used Pear VC:** Sponsor use not stated on Devpost
+- **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -593,7 +593,7 @@ No public code linked · Built with opencv, python
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
-- **How it used Pear VC:** Sponsor use not stated on Devpost
+- **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -676,7 +676,7 @@ No public code linked · Built with axios, azure, express.js, node.js
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** "Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets · Finalist
-- **How it used RBC:** Sponsor use not stated on Devpost
+- **Award:** Won “"Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -757,7 +757,7 @@ A real-time, mobile-based, distributed WiFi heatmap.
 - **Code:** [Source 1](https://github.com/thkim1011/hotspot)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Best Use of Location Data · Finalist · Take Us On an Adventure
-- **How it used Samsara:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of Location Data” from Samsara. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -774,17 +774,17 @@ A real-time, mobile-based, distributed WiFi heatmap.
 
 Visualize, modify, and deploy neural networks either locally on the cloud to gain unique architectural insights.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=9v1aXlQLu_w) · Built with docker, javascript, keras, kubernetes
+[Code](https://github.com/martinjm97/ENNUI) · [Demo video](https://www.youtube.com/watch?v=9v1aXlQLu_w) · Built with docker, javascript, keras, kubernetes
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** docker, javascript, keras, kubernetes, machine-learning, python
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/martinjm97/ENNUI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9v1aXlQLu_w)
 - **All prizes at this hackathon (2):** 1st Place · Best Use of Deep Neural Networks
-- **How it used Spell:** Sponsor use not stated on Devpost
+- **Spell:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -807,7 +807,7 @@ An accessible Google StreetView for the visually impaired through visceral scene
 - **Code:** [Source 1](https://github.com/R0bk/image_captioning) · [Source 2](https://github.com/mitchmcdee/yeetview)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** 2nd Place · Best Spell API hack
-- **Spell:** Built with spell (listed on Devpost)
+- **How it used Spell:** The team trained its machine-learning models on Spell.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

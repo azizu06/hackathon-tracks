@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMI
 
 Stacy is a voice safety companion. Stacy logs incidents, your live location, alerts your loved ones, and dispatches to the police.
 
-**Vapi:** Built with vapi (listed on Devpost)
+**How it used Vapi:** Uses Vapi to create voice calls.
 
 [Code](https://github.com/apollo-ullah/HackTheNorth2025) · [Demo video](https://www.youtube.com/watch?v=nHx5KazGawQ) · Built with vapi, openai, swift, twilio
 

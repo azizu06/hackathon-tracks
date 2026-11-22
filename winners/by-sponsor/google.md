@@ -43,7 +43,7 @@ Explore the world through an cinematic AI-guided journey — just speak, and the
 
 Buy! is an AI agent marketplace that sells your stuff for you.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**Google:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jpsingaraju/bye-buy) · [Demo video](https://www.youtube.com/watch?v=Dv-Bqklp-RE) · Built with browserbase, claude, fastapi, nextjs
 
@@ -497,7 +497,7 @@ A nursing documentation tool turns captured conversations into structured notes.
 
 Learn ASL in AR through Computer Vision and Hand Tracking.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**Award:** Won “Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c, c-sharp, embedded, hardware
 
@@ -517,7 +517,7 @@ Atom Suika is an innovative merge dropper chemistry learning experience. It uses
 
 Real-time computer vision software with fatigue detection system to improve accessibility of the technology and alert drivers in danger of sleepy driving, preventing accidents.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**Award:** Won “Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Alans44/DrowsyDriver) · [Demo video](https://www.youtube.com/watch?v=OK4mCpxNzVs) · Built with azure, dlib, flask, opencv
 
@@ -633,7 +633,7 @@ No public code linked · Built with google-cloud, tensorflow
 
 An intergalactic battle for the ages.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**Award:** Won “VR Zone by Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W8) · Built with c#, htc-vive, unity
 
@@ -707,9 +707,9 @@ A platform that helps people collaborate towards finding missing people.
 
 DronAR allows users to view realtime information about their drones such as positional data and status.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** Builds static map requests through the Google Maps API in its drone view.
 
-No public code linked · Built with azure, express.js, mongodb, node.js
+[Code](https://github.com/sebLopezCot/DronAR) · Built with azure, express.js, mongodb, node.js
 
 ### [TourDeMarsVR](https://devpost.com/software/tourdemarsvr)
 
@@ -727,7 +727,7 @@ No public code linked · Built with firebase, google-cardboard, arduino, c++
 
 VR DJ allows you to visualize and manipulate music.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**Google:** Sponsor use not stated on Devpost
 
 No public code linked · Built with c#, unity, vive
 

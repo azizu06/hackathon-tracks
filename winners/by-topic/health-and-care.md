@@ -507,7 +507,7 @@ AI-powered discharge coordination connecting hospitals, shelters, and social wor
 
 ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Specialized rooms for D&amp;D, AA, and therapy with intelligent, personalized moderation.
 
-[Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with brightdata-api, anthropic-claude-api, asi-one, docker
+[Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with anthropic-claude-api, asi-one, brightdata-api, docker
 
 ### [Chit Chart](https://devpost.com/software/chit-chart-f04kn3)
 

@@ -987,7 +987,7 @@ A wearable wardrobe tool catalogs clothes the user already owns and suggests out
 
 A multimodal AI companion that fuses emotion sensing, language understanding, and real-time biofeedback to support children’s mental wellness.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=3bj86ky1eAc) · Built with amazon-web-services, arduino, docker, fetchai
+[Code](https://github.com/ankit06ch/TedAI) · [Demo video](https://www.youtube.com/watch?v=3bj86ky1eAc) · Built with amazon-web-services, arduino, docker, fetchai
 
 ### [TorqIt](https://devpost.com/software/torqit)
 
@@ -1101,7 +1101,7 @@ No public code linked · [Demo video](https://vimeo.com/1021488745) · Built wit
 
 a motorized car raced on an AR track, driven by screams.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=E8YCZCZ9BIo) · Built with accelerometer, ar, arduino, c++
+[Code](https://github.com/gn350/HackGT11) · [Demo video](https://www.youtube.com/watch?v=E8YCZCZ9BIo) · Built with accelerometer, ar, arduino, c++
 
 ### [Lucy](https://devpost.com/software/lucy-x0wd86)
 
@@ -1109,7 +1109,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=E8YCZCZ9BI
 
 Military personnel will utilize Lucy to identify potential threats during field operations.
 
-[Code](https://github.com/Jinash-Rouniyar/SpotDog) · [Demo video](https://www.youtube.com/watch?v=Qpsvuxynwek) · Built with chromadb, arduino, deepgram, groq
+[Code](https://github.com/Jinash-Rouniyar/SpotDog) · [Demo video](https://www.youtube.com/watch?v=Qpsvuxynwek) · Built with arduino, chromadb, deepgram, groq
 
 ### [Medicine Dispensary](https://devpost.com/software/bigback)
 
@@ -1359,7 +1359,7 @@ Augmenting ordinary paper with new interactive experiences.
 
 Unlock the full potential of the electronics you love by controlling them wirelessly through easy hand gestures.
 
-No public code linked · Built with synaptics, javascript, love, python
+[Code](https://github.com/icasdri/ControlGeek-Server) · Built with synaptics, javascript, love, python
 
 ### [Drones For Humanity - Second-Order Autonomy](https://devpost.com/software/second-order-autonomy)
 
@@ -1401,6 +1401,6 @@ No public code linked · Built with firebase, google-cardboard, arduino, c++
 
 The aim of the project to create automated windows, which open and close to maximize energy conservation.
 
-No public code linked · Built with twilio, android, arduino, electric-imp
+[Code](https://github.com/fpayer/smartwindow) · Built with twilio, android, arduino, electric-imp
 
 [Back to top](#hardware-or-robotics)

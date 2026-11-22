@@ -59,8 +59,8 @@ DriveWise: Your personalized, safety-first navigation app, using 22 years of acc
 - **Code:** [Source 1](https://github.com/pranavponnusamy/Drivewise)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=A9ToFxCVF9c)
 - **All prizes at this hackathon (2):** Best Use of Statistics · Track: Best Community Impact Hack (Sponsored by Perpay)
-- **How it used Perpay:** Sponsor use not stated on Devpost
-- **How it used Susquehanna International Group:** Sponsor use not stated on Devpost
+- **Award:** Won “Track: Best Community Impact Hack (Sponsored by Perpay)” from Perpay. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “Best Use of Statistics” from Susquehanna International Group. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -83,7 +83,7 @@ Automated Medication Scanner and Tracker Powered by Computer Vision.
 - **Code:** [Source 1](https://github.com/Srinikal/Snapill)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Computer Vision (Sponsored by Roboflow) · Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)
-- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
+- **Award:** Won “Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Roboflow:** The team trained a Roboflow model to detect labels.
 - **Checked on Devpost:** 2026-11-21
 
@@ -107,8 +107,8 @@ Real-time infection monitoring with moisture, temperature, and pH sensors.
 - **Code:** [Source 1](https://github.com/katelynkywong/SurgiSafe)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RFui9r2ybFU)
 - **All prizes at this hackathon (2):** The Wolfram Award · Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)
-- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
-- **How it used Wolfram:** Sponsor use not stated on Devpost
+- **Award:** Won “Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “The Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -137,7 +137,7 @@ Philadelphia’s heat is rising! Enter your address to see how chill your area i
 - **Code:** [Source 1](https://github.com/carolinecummings19/Chilladelphia)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=H4WKPl8tdaI)
 - **All prizes at this hackathon (1):** Track: Best Sustainability Hack (Sponsored by Bloomberg)
-- **How it used Bloomberg:** Sponsor use not stated on Devpost
+- **Award:** Won “Track: Best Sustainability Hack (Sponsored by Bloomberg)” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -191,7 +191,7 @@ Predict Elections Way Better With LLM Agents.
 - **Code:** [Source 1](https://github.com/SahraMohamad/Electra)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=c6X9n7o9Zjk)
 - **All prizes at this hackathon (1):** Super Fast AI
-- **Cerebras:** Built with cerebras (listed on Devpost)
+- **How it used Cerebras:** Uses the Cerebras API as the endpoint for its language model client.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -264,7 +264,7 @@ Minimize your tech stack's developmental cost.
 - **Code:** [Source 1](https://github.com/stevensusas/Underflow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lGFKiZR0MNk)
 - **All prizes at this hackathon (1):** Best Use of Defang
-- **How it used Defang:** Sponsor use not stated on Devpost
+- **How it used Defang:** Runs the Defang CLI to generate deployment files.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -291,7 +291,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALK
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=E-Cg1Y2ALKc)
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
-- **How it used Fidelity:** Sponsor use not stated on Devpost
+- **Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -378,7 +378,7 @@ ScholarFlow makes it easy to find research papers and professors.
 - **Code:** [Source 1](https://github.com/AjayAvasi/ScholarFlow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_Yydo6lTc5s)
 - **All prizes at this hackathon (1):** Best Beginner Hack
-- **How it used Penn Labs:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Beginner Hack” from Penn Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -473,7 +473,7 @@ Empowering students to collectively build smarter, interactive lessons for a bet
 - **Code:** [Source 1](https://github.com/danielodicho/upenn)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-HKme-4BvmY)
 - **All prizes at this hackathon (1):** Best Next-Gen LLM-Powered Application (Sponsored by Tune)
-- **How it used Tune:** Sponsor use not stated on Devpost
+- **Tune:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -502,7 +502,7 @@ Bringing politicians and voters closer, one personalized ad at a time.
 - **Code:** [Source 1](https://github.com/pr28416/rally)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OfkKmmvT_OY)
 - **All prizes at this hackathon (3):** Best Design · Best Overall 2nd · The Wolfram Award
-- **How it used Wolfram:** Sponsor use not stated on Devpost
+- **Award:** Won “The Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -525,7 +525,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=6jjXlH3dni
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6jjXlH3dni0)
 - **All prizes at this hackathon (2):** Best Overall 1st · The Wolfram Award
-- **How it used Wolfram:** Sponsor use not stated on Devpost
+- **Award:** Won “The Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

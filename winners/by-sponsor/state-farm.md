@@ -23,7 +23,7 @@
 
 ANCHOR connects a device in the customer’s home to a claims dashboard that State Farm agents can see.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/aparnabalaji07/anchor) · [Demo video](https://www.youtube.com/watch?v=aimbrYK_4GA) · Built with arduino, c++, canva, esp32
 
@@ -33,7 +33,7 @@ ANCHOR connects a device in the customer’s home to a claims dashboard that Sta
 
 Halo is a smart bike helmet that watches the road behind you and warns you about what's coming before it reaches you, so you don't have to turn your head.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/billpquach/halo) · [Demo video](https://www.youtube.com/watch?v=rlAuXaz6g6s) · Built with adk, arduino, javascript, opencv
 
@@ -43,7 +43,7 @@ Halo is a smart bike helmet that watches the road behind you and warns you about
 
 LifeLine is a disaster recovery platform that connects residents, responders, and organizations in real time.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rC
 
 Privacy-first home safety system that detects hazards like leaks and power loss, alerts homeowners early, and securely shares incident details with approved contacts.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
 
@@ -65,7 +65,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3L
 
 GreenLight turns dashcam footage into a learning tool. Incidents become 3D simulations in Three.js with a quiz to boost your driving score, reinforce learning, plus tips on safe driving and insurance.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/thashin04/GreenLight-Driving) · [Demo video](https://www.youtube.com/watch?v=WQnBQUI-LtE) · Built with adk, firebase, gemini, google
 
@@ -75,7 +75,7 @@ GreenLight turns dashcam footage into a learning tool. Incidents become 3D simul
 
 Compare Your API Versions with Confidence.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “StateFarm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ParsaBazrpash/MirrorAPI) · [Demo video](https://www.youtube.com/watch?v=zJ3Deft3lVo) · Built with react, typescript
 
@@ -85,7 +85,7 @@ Compare Your API Versions with Confidence.
 
 Learn how to take your Next Step in insurance education by practicing in high pressure scenarios.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
 
@@ -95,7 +95,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8
 
 qAPIbara is an AI-powered regression analysis platform that automatically compares, tests, and explains API version differences.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “StateFarm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/nathanhanxp/qAPIbara) · [Demo video](https://www.youtube.com/watch?v=TCHkbt_CPrM) · Built with javascript, python, react
 
@@ -105,7 +105,7 @@ qAPIbara is an AI-powered regression analysis platform that automatically compar
 
 Gamified Experience: Players engage in quirky yet educational tasks, from fetching coffee for the elusive "King Rat" (the boss) to handling customer claims with empathy and professionalism.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
 
@@ -115,7 +115,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq
 
 Struggling with accidentally making subtle breaking changes to your APIs? Are those sensitive unit tests failing all of the time even though unimportant things have changed.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “StateFarm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Arian04/UpGuardian) · [Demo video](https://www.youtube.com/watch?v=VLvWZeT5NOk) · Built with fastapi, flutter, nemotron, python
 
@@ -127,7 +127,7 @@ Struggling with accidentally making subtle breaking changes to your APIs? Are th
 
 The goal is to educate and guide students in a simple and fun way.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “Statefarm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · Built with css, html
 
@@ -137,7 +137,7 @@ No public code linked · Built with css, html
 
 The team offer many different ways for people to improve their finances.
 
-**How it used State Farm:** Sponsor use not stated on Devpost
+**Award:** Won “Statefarm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Juuicee/ShellHacks-2024) · Built with css, html, openai, python
 

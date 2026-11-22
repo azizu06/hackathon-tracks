@@ -23,7 +23,7 @@
 
 The team describes the project as “Nodal”.
 
-**How it used Nodal:** Sponsor use not stated on Devpost
+**Nodal:** Sponsor use not stated on Devpost
 
 No public code linked · Built with test
 
@@ -33,7 +33,7 @@ No public code linked · Built with test
 
 Building TorqIt was an intensive learning experience that spanned multiple domains:.
 
-**How it used Nodal:** Sponsor use not stated on Devpost
+**Nodal:** Sponsor use not stated on Devpost
 
 No public code linked · Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
 
@@ -43,7 +43,7 @@ No public code linked · Built with adafruit-icm20948, arduino-uno-r3, cors, esl
 
 Increase your strength with cutting-edge computer vision and agentic AI.
 
-**How it used Nodal:** Sponsor use not stated on Devpost
+**Nodal:** Sponsor use not stated on Devpost
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
 

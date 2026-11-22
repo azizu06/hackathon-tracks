@@ -23,7 +23,7 @@
 
 Once you describe a job, Astronom builds a budgeted, permission-checked AI agent team, red-teams it, and fixes what breaks, with approval at every step, using its multi-agent swarm technology.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy
 
 Schedule GPU maintenance at market prices without overheating. Nemotron plans: parses requests, calls tools, explains using code numbers only.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “NMC^2 Track” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Fawazjams/utdhacksDCRouter) · [Demo video](https://www.youtube.com/watch?v=hx9T6iEOAJk) · Built with build.nvidia.com, fastapi, html, javascript
 
@@ -43,7 +43,7 @@ Schedule GPU maintenance at market prices without overheating. Nemotron plans: p
 
 See the chain before it breaks: a digital twin that predicts data center failures, tests the fix, and lets a human approve it.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “NMC^2 Track” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/saroshaprasla/FaultZero) · [Demo video](https://www.youtube.com/watch?v=YXXUOWcC47I) · Built with css3, fastapi, github-actions, godaddy-registry
 
@@ -53,7 +53,7 @@ See the chain before it breaks: a digital twin that predicts data center failure
 
 Reagent is a platform that helps teams build, test, and deploy reusable AI agents without repeatedly configuring tools, models, prompts, and permissions from scratch.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/hanhg/Reagent) · [Demo video](https://www.youtube.com/watch?v=1d5MmQX5EGY) · Built with api, claude, data, fastapi
 
@@ -63,7 +63,7 @@ Reagent is a platform that helps teams build, test, and deploy reusable AI agent
 
 Every shift ends, but critical information shouldn't get lost. Meet ShiftSync: AI that catches missing details, clears confusion, and ensures the next team understands.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “NMC^2 Track” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ethnmz/ShiftSync) · [Demo video](https://www.youtube.com/watch?v=uXlWITjkI0I) · Built with cursor, grok, nvidia, photon
 
@@ -73,7 +73,7 @@ Every shift ends, but critical information shouldn't get lost. Meet ShiftSync: A
 
 The full-lifecycle platform for enterprise AI agents: build from shared parts, crash-test every deploy on throwaway copies of your data, then run, govern and roll back in one place.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Suvan8806/shipyard) · [Demo video](https://www.youtube.com/watch?v=kCbge5WdPYM) · Built with claude-code, github-actions, google-gemini, groq
 
@@ -85,7 +85,7 @@ The full-lifecycle platform for enterprise AI agents: build from shared parts, c
 
 DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to generate detailed step by step work plans, inspect real time inventory availability, and replan tasks when issues arise.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Jeanpascal-Gauthier/Data-Driver) · [Demo video](https://www.youtube.com/watch?v=w0YteTzoGc4) · Built with agents, ai, flask, langchain
 
@@ -95,7 +95,7 @@ DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to ge
 
 A platform that supports data center technicians in a multitude of daily tasks, from planning out optimal routes to complete work orders, generating tickets from emails of incidents, and more.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/anishalle/hackutd2025) · [Demo video](https://www.youtube.com/watch?v=sbdnZRNmm8o) · Built with amazon-web-services, gemini, javascript, mongodb
 
@@ -105,7 +105,7 @@ A platform that supports data center technicians in a multitude of daily tasks, 
 
 Multi-agent simulation platform for 2026 F1 strategy discovery and prediction. Mentored by Chief Race Engineer at a F1 racing team for training and winning F1 races.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “Best NorthMark Hack” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/V-prajit/Guido) · [Demo video](https://www.youtube.com/watch?v=MhMhjy2-0aE) · Built with gemini, javascript, node.js, python
 
@@ -115,7 +115,7 @@ Multi-agent simulation platform for 2026 F1 strategy discovery and prediction. M
 
 LapSynk: The AI copilot for race engineers. Using Gemini, Cloudflare, and ElevenLabs, to automate driver communication and strategy, giving teams faster, smarter decisions every lap.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “Best NorthMark Hack” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/csakilan/HackTX) · [Demo video](https://www.youtube.com/watch?v=_g0CfT5yGKw) · Built with autoprefixer, cloudflare, gemini, postcss
 
@@ -125,7 +125,7 @@ LapSynk: The AI copilot for race engineers. Using Gemini, Cloudflare, and Eleven
 
 A tool for helping Engineers and on-site technicians communicate and organize their datacenter work.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/NEjim2001/hackutd-2025) · [Demo video](https://www.youtube.com/watch?v=sQVzqluIUdQ) · Built with javascript, next.js, python, react
 
@@ -135,7 +135,7 @@ A tool for helping Engineers and on-site technicians communicate and organize th
 
 Bridging new F1 drivers and engineers with algorithmic strategy planning, real-time physiological and vehicle health feedback, designed to get rookies to pole position.
 
-**How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “Best NorthMark Hack” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/iampritisee/hacktx) · [Demo video](https://www.youtube.com/watch?v=uKgWc20DsCs) · Built with css3, html5, javascript, lucide
 

@@ -23,7 +23,7 @@
 
 Backtracc reminds you of forgotten valuables when you leave rideshare vehicles because forgetting items in strangers' cars isn't fun.
 
-**How it used SambaNova:** Sponsor use not stated on Devpost
+**How it used SambaNova:** Calls SambaNova's chat completions API from its backend.
 
 [Code](https://github.com/phamleduy04/hackutd24) · [Demo video](https://www.youtube.com/watch?v=Rae562RAkhU) · Built with cloudflare, express.js, pinata, python
 

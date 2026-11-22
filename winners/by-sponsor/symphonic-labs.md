@@ -23,9 +23,9 @@
 
 Fight for the top position in a HackTheNorth lip-syncing challenge.
 
-**Symphonic Labs:** Built with symphonic-labs (listed on Devpost)
+**How it used Symphonic Labs:** The Symphonic API powers translation from lip movement to text.
 
-[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with symphonic-labs, mongodb, nextjs, web
+[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, nextjs, symphonic-labs, web
 
 ### [SpyWatch](https://devpost.com/software/spywatch)
 

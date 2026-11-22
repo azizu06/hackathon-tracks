@@ -23,7 +23,7 @@
 
 An AI prototype that processes ad creatives, both images and videos, to extract rich visual, textual, and audio insights that reveal brand intent and power next-generation recommendation engines.
 
-**How it used AppLovin:** Sponsor use not stated on Devpost
+**Award:** Won “AppLovin: Ad Intelligence Challenge” from AppLovin. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/SisuKah/calhacks2) · [Demo video](https://www.youtube.com/watch?v=yLyytqlP2Ik) · Built with chromadb, claude, clip, easyocr
 
@@ -33,7 +33,7 @@ An AI prototype that processes ad creatives, both images and videos, to extract 
 
 A fast, intelligent query engine built on DuckDB.
 
-**How it used AppLovin:** Sponsor use not stated on Devpost
+**Award:** Won “AppLovin: Query Planner Challenge” from AppLovin. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/KevinL10/applovin-query) · [Demo video](https://www.youtube.com/watch?v=_QnZ6bNqfr4) · Built with python
 

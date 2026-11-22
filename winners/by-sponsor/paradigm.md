@@ -23,7 +23,7 @@
 
 Massively parallelized agentic research workflows using spreadsheets as a primitive.
 
-**How it used Paradigm:** Sponsor use not stated on Devpost
+**Award:** Won “Paradigm: Best Spreadsheet-Adjacent Hack (Air Pods Max per team member)” from Paradigm. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/WeltonWang02/spreadsheet_hackathon) · [Demo video](https://www.youtube.com/watch?v=spfLzOUNp44) · Built with agents, apis, llms, typescript
 

@@ -45,7 +45,7 @@ The team describes the project as “Math Visuals Made Simple”.
 
 Bringing politicians and voters closer, one personalized ad at a time.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “The Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/pr28416/rally) · [Demo video](https://www.youtube.com/watch?v=OfkKmmvT_OY) · Built with cartesia, ffmpeg, firecrawl, nextjs
 
@@ -55,7 +55,7 @@ Bringing politicians and voters closer, one personalized ad at a time.
 
 A wearable headphone that dynamically adapts audio for individuals with autism, providing comfort while keeping users connected to their surroundings.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “The Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=6jjXlH3dni0) · Built with librosa, numpy, opencv, python
 
@@ -65,7 +65,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=6jjXlH3dni
 
 Real-time infection monitoring with moisture, temperature, and pH sensors.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “The Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/katelynkywong/SurgiSafe) · [Demo video](https://www.youtube.com/watch?v=RFui9r2ybFU) · Built with adafruit, arduino, autodesk-fusion-360
 
@@ -77,7 +77,7 @@ Real-time infection monitoring with moisture, temperature, and pH sensors.
 
 A Pomodoro timer with virtual rewards and a hidden timer to encourage kids with ADHD/attention deficit issues during online learning. Focus is rewarded with short videos provided by teachers.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ACK101101/pomo-plugin) · [Demo video](https://www.youtube.com/watch?v=CW_fn_HNLTI) · Built with github, html, javascript
 
@@ -87,7 +87,7 @@ A Pomodoro timer with virtual rewards and a hidden timer to encourage kids with 
 
 Workflow of the coding for the covid prediction.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Zenyi1/HackDuke_project) · [Demo video](https://www.youtube.com/watch?v=J8TgUdlwKwU) · Built with express.js, javascript, keras, node.js
 
@@ -97,7 +97,7 @@ Workflow of the coding for the covid prediction.
 
 These charity portfolios can be managed by users, and charity information pages are generated for each charity in the database for users to discover new charities.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/2018ayee/charitiesforgood) · [Demo video](https://www.youtube.com/watch?v=ddlyORKBy20) · Built with css3, firebase, firestore, google-cloud
 
@@ -107,7 +107,7 @@ These charity portfolios can be managed by users, and charity information pages 
 
 CheckUp allows doctors to monitor patients for coronavirus symptoms before and after an appointment.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/bluqiu001/CheckUp) · [Demo video](https://www.youtube.com/watch?v=oOjFjfD9rbc) · Built with firebase, swift, xcode
 
@@ -117,7 +117,7 @@ CheckUp allows doctors to monitor patients for coronavirus symptoms before and a
 
 Fingerprint based Exam hall registration, authentication system with temperature sensing of the candidate, recording it on Thingspeak plus sending email alert to authorities when temperature is high.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=Awg5byHF0B8) · Built with arduino, c, ifttt, keilmicrovision
 
@@ -127,7 +127,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Awg5byHF0B
 
 The team introduce Envokart to solve this problem, Envokart picks up the waste from your doorstep according to your scheduled date and time.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/prernasawhney/conservationalist) · [Demo video](https://www.youtube.com/watch?v=vjgo308ZF1Y) · Built with amazon-web-services, api, api-(google-javascript-api-and-google-geolocation-api), aws)
 
@@ -137,7 +137,7 @@ The team introduce Envokart to solve this problem, Envokart picks up the waste f
 
 Serve delicious food while conserving groceries! Keep track of the expiration dates of your food and get inspired by recipes from around the world.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/QiuhongAnnaWei/ConServe) · [Demo video](https://www.youtube.com/watch?v=2O3fDAM8grI) · Built with bootstrap, html, javascript, jsx
 
@@ -147,7 +147,7 @@ Serve delicious food while conserving groceries! Keep track of the expiration da
 
 Learn new languages as you browse! Coral is a chrome extension that immerses you in foreign vocabulary.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/sahilmahendrakar/TranslationExtension) · [Demo video](https://www.youtube.com/watch?v=ESSUAiiXdIA) · Built with css, html, javascript
 
@@ -157,7 +157,7 @@ Learn new languages as you browse! Coral is a chrome extension that immerses you
 
 CovHub makes it effortless to find up to date information on topics related to the ongoing pandemic, including forecast, simulations, news, research, policy, market, live charts, and much more.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=9ekGMGMFSVg) · Built with bootstrap, css3, embedly, google-chart
 
@@ -167,7 +167,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=9ekGMGMFSV
 
 The app provides users with a real-time COVID-19 risk assessment on any of their location search queries.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ameysunu/hackduke) · [Demo video](https://www.youtube.com/watch?v=rF8mlTzNVbk) · Built with dart, firebase, flutter, google-cloud
 
@@ -177,7 +177,7 @@ The app provides users with a real-time COVID-19 risk assessment on any of their
 
 A VSCode extension, Chrome extension, and web app to help developers and internet users become more conscious about their environmental impact.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/catherinedparnell/ecoconscious-tech-chrome) · [Demo video](https://www.youtube.com/watch?v=hG0lLAeQx9E) · Built with css, figma, firestore, html
 
@@ -187,7 +187,7 @@ A VSCode extension, Chrome extension, and web app to help developers and interne
 
 EcoEats helps to provide a quick and easy way to look at how much carbon emissions are produced from your everyday meals through just a snap of a camera.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/BenCrespoDuke/HackDuke) · [Demo video](https://www.youtube.com/watch?v=NQBg9TyCiTM) · Built with android-studio, firebase
 
@@ -197,7 +197,7 @@ EcoEats helps to provide a quick and easy way to look at how much carbon emissio
 
 Especially during COVID, people have never been more disconnected. Ensemble hopes to bring people back together by being a platform on which users can listen to music together.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/jeffreyluoxlvii/ensemble) · [Demo video](https://www.youtube.com/watch?v=_-nXS1JCzkY) · Built with firebase, react, youtube
 
@@ -207,7 +207,7 @@ Especially during COVID, people have never been more disconnected. Ensemble hope
 
 Extinguish uses machine learning to provide helpful insights about fires.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=I-1iUyfoR4E) · Built with css3, flask, html5, python
 
@@ -217,7 +217,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=I-1iUyfoR4
 
 eyeSafe uses your computer webcam to detect how often you blink.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/alexquach/eyeSafe) · [Demo video](https://www.youtube.com/watch?v=fJ4aXA5IY6Q) · Built with chrome, computer-vision, javascript, python
 
@@ -227,7 +227,7 @@ eyeSafe uses your computer webcam to detect how often you blink.
 
 Gauge -- a zoom add-on for teachers to gauge if their students are understanding content.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Sharad100/Vision-Based-Classroom-AI-Assistant) · [Demo video](https://www.youtube.com/watch?v=clv6Quh8H-8) · Built with keras, matplotlib, numpy, python
 
@@ -237,7 +237,7 @@ Gauge -- a zoom add-on for teachers to gauge if their students are understanding
 
 The team describes the project as “Social media are an important way for people to stay connected with friends and family during COVID. Our website allows seniors to stay connected by providing customized…
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/erikmnovak/duke-hackathon-2020) · [Demo video](https://www.youtube.com/watch?v=MLnl9rUTj6A) · Built with css3, flask, html5, javascript
 
@@ -247,7 +247,7 @@ The team describes the project as “Social media are an important way for peopl
 
 AI-Based Narration Camera for the Visually Impaired.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/samarthlamba/DukeHackathon2020) · [Demo video](https://www.youtube.com/watch?v=t95O0PvCC_I) · Built with figma, flutter, gtts, opencv
 
@@ -257,7 +257,7 @@ AI-Based Narration Camera for the Visually Impaired.
 
 Kaizen is a therapeutic journal for patients with a focus on privacy. Patients can freely express their thoughts, while allowing healthcare practitioners to get an abstracted look at their progress.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/akhatua2/Kaizen) · [Demo video](https://www.youtube.com/watch?v=v32u9aC71s0) · Built with bootstrap, canvas.js, firebase, flask
 
@@ -267,7 +267,7 @@ Kaizen is a therapeutic journal for patients with a focus on privacy. Patients c
 
 "Alexa, let's catchup". Ketchup is an Alexa Skill that asks you how you're doing everyday, using sentiment and emotion analysis to give appropriate responses and track your mood over time.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/sanhalim/ketchup) · [Demo video](https://www.youtube.com/watch?v=iT3uq3vS_PE) · Built with alexa, cockroachdb, deepaffects, flask
 
@@ -277,7 +277,7 @@ Kaizen is a therapeutic journal for patients with a focus on privacy. Patients c
 
 Mindful Me is a website that allows and encourages users to complete daily mental health checks in and provides tailored mental health resources based on a user's identity.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=dF6Cx_b8CjA) · Built with cassandra, css, datastax-astra, flask
 
@@ -287,7 +287,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=dF6Cx_b8Cj
 
 OxyControl is a novel, low-cost device designed to prevent the abuse of prescription narcotics in post-operative and chronic pain patients.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/blucifer22/oxycontrol) · [Demo video](https://www.youtube.com/watch?v=Ucm68nm7ov4) · Built with arduino, c, c++, cad
 
@@ -297,7 +297,7 @@ OxyControl is a novel, low-cost device designed to prevent the abuse of prescrip
 
 This application allows an individual to outline a property, and work through major costs, such as energy infrastructure and animal enclosures, in an easy to use graphical interface.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/chardorn/homestead_planner) · [Demo video](https://www.youtube.com/watch?v=yiXvsZiMCDo) · Built with api, bootstrap, css, google-cloud
 
@@ -307,7 +307,7 @@ This application allows an individual to outline a property, and work through ma
 
 Eye-tracking based communication for cerebral palsy patients.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/alvii147/pupil) · [Demo video](https://www.youtube.com/watch?v=_9XTW2mqdjo) · Built with opencv, pyqt5, python
 
@@ -317,7 +317,7 @@ Eye-tracking based communication for cerebral palsy patients.
 
 The automation of mask security for stores.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/saiccoumar/PMOI) · [Demo video](https://www.youtube.com/watch?v=UK3-xYVyPlM) · Built with css, html, javascript, machine-learning
 
@@ -327,7 +327,7 @@ The automation of mask security for stores.
 
 A community that encourages and challenges people who stutter to practice speech therapy.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/HackDuke-2020/Shareapy) · [Demo video](https://www.youtube.com/watch?v=04SFGBYGA2I) · Built with firebase, javascript, react-native
 
@@ -337,7 +337,7 @@ A community that encourages and challenges people who stutter to practice speech
 
 A machine learning application that alerts users of unattended leaky or running faucets in their homes to minimize water waste and overuse.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/tamablevirus/HackDuke2020-SinkSaver) · [Demo video](https://www.youtube.com/watch?v=59taEK-VP0A) · Built with arduino, c++, flask, github
 
@@ -347,7 +347,7 @@ A machine learning application that alerts users of unattended leaky or running 
 
 Automatically add events to GCal, just by uploading your class syllabus.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/rosiesr/syllabusparser) · [Demo video](https://www.youtube.com/watch?v=Sa93iEYx7Hk) · Built with flask, google, google-calendar, html
 
@@ -357,7 +357,7 @@ Automatically add events to GCal, just by uploading your class syllabus.
 
 A web app that matches people with mental health therapists best suited for their care.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/sasymer/hackduke2020) · [Demo video](https://www.youtube.com/watch?v=m_ZnZd6Kcho) · Built with figma, javascript, react
 
@@ -367,7 +367,7 @@ A web app that matches people with mental health therapists best suited for thei
 
 An app to match foreign language learners with songs that reinforce their vocabularies.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/samaocarpenter/UniversalLanguage) · [Demo video](https://www.youtube.com/watch?v=7l-3FMcaKMU) · Built with duolingo, musixmatch, python
 
@@ -403,7 +403,7 @@ Use your favorite cleaning robot to transform the floor into a canvas for Mathem
 
 Detecting breast cancer cells using image analysis.
 
-**Wolfram:** Built with wolfram-technologies (listed on Devpost)
+**How it used Wolfram:** The team used Wolfram Alpha's machine-learning algorithm with images of mitotic cells.
 
 No public code linked · Built with wolfram-technologies, machine-learning
 

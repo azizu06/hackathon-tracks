@@ -45,7 +45,7 @@ An AI shopkeeper for Shopify that helps shoppers find products and negotiate dea
 
 An e-commerce platform with two faces: customers checkout by camera no barcode, just the item’s look while businesses get catalog, inventory, sales, forecasting &amp; intelligent procurement.
 
-**Shopify:** Built with shopify (listed on Devpost)
+**How it used Shopify:** Queries the Shopify Storefront API for its product catalog when the store is configured.
 
 [Code](https://github.com/MeharPro/Tarazoo) · [Demo video](https://www.youtube.com/watch?v=6TfBS77bEAU) · Built with shopify, claude, cohere, cplex
 

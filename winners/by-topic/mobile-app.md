@@ -81,7 +81,7 @@ A smart cane that guides indoor and outdoor navigation for blind people, costing
 
 Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day forecasts, and prescription actions telling you which fields to act on and what it saves.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
+[Code](https://github.com/vs-githjk/Terrametric) · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
 
 ### [transPEAKtation](https://devpost.com/software/transpeaktation)
 
@@ -1103,7 +1103,7 @@ No public code linked · Built with css, flask, javascript, monkeylearn
 
 An easy way to sell your stuff – just push, and sell.
 
-No public code linked · Built with firebase, ios, pusheen, swift
+[Code](https://github.com/Averylamp/Pusheen-Sell) · Built with firebase, ios, pusheen, swift
 
 ### [Smart Drone Delivery Planning](https://devpost.com/software/smart-drone-delivery-planning)
 
@@ -1129,7 +1129,7 @@ No public code linked · Built with firebase, google-cardboard, arduino, c++
 
 The aim of the project to create automated windows, which open and close to maximize energy conservation.
 
-No public code linked · Built with twilio, android, arduino, electric-imp
+[Code](https://github.com/fpayer/smartwindow) · Built with twilio, android, arduino, electric-imp
 
 ### [BeaconViewer](https://devpost.com/software/beaconviewer)
 

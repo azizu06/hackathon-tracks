@@ -23,7 +23,7 @@
 
 Real-time music chord suggestions based on the elegant theory of 24D chroma vectors, enhanced with track generation features.
 
-**How it used Suno:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Suno&#93; Best Musical Hack” from Suno. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/J4Joshua/JASS-APP) · [Demo video](https://www.youtube.com/watch?v=niFOu62-IwU) · Built with claude, nextjs, perplexity, python
 

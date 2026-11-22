@@ -57,7 +57,7 @@ Sweet is an iMessage native diabetes management AI assistant.
 
 An AI email assistant that automates form-filling, summarizes messages, and streamlines inbox tasks.
 
-**How it used Interaction Company:** Sponsor use not stated on Devpost
+**Award:** Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ) · Built with drizzle, google-cloud, groq, nextjs
 
@@ -67,7 +67,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=aPkajwX18l
 
 Nova is an automated email assistant that intelligently processes incoming emails, identifies actionable items, and seamlessly adds them to your calendar.
 
-**How it used Interaction Company:** Sponsor use not stated on Devpost
+**Award:** Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/jpsingaraju/nova-ai) · Built with flask, gmail, google, google-calendar
 

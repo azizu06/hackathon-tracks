@@ -23,7 +23,7 @@
 
 ACG helps AI coding agents work in parallel without stepping on each other.
 
-**How it used Cognition:** Sponsor use not stated on Devpost
+**Award:** Won “Cognition Company Challenge” from Cognition. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=eoTO5TZJbNQ) · Built with html, python, typescript
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=eoTO5TZJbN
 
 Recursive Sandboxed Agents for Autonomous Research at Scale.
 
-**How it used Cognition:** Sponsor use not stated on Devpost
+**Cognition:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/JasonLai150/AlphaResearch) · [Demo video](https://www.youtube.com/watch?v=LcH4rdKbF6Y) · Built with anthropic, browserbase, fastapi, gcp
 
@@ -53,7 +53,7 @@ Autopsy records every action your AI coding agent takes, autopsies the failures,
 
 BrowserDelta cuts browser-agent context by &#126;78% while matching the vision-full-state baseline on 12/12 next-action predictions! Compression layer for browser use.
 
-**How it used Cognition:** Sponsor use not stated on Devpost
+**Cognition:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jaykbpark/browser-use-compaction-co) · [Demo video](https://www.youtube.com/watch?v=rEbSwp6_rc8) · Built with arize, browserbase, browsergym, fastapi
 
@@ -83,7 +83,7 @@ A 3D god-mode sandbox for real cities, where physics and thousands of AI agents 
 
 Ai Agent that designs computer chips in VSCode.
 
-**How it used Cognition:** Sponsor use not stated on Devpost
+**Award:** Won “Cognition Company Challenge” from Cognition. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/rtsmc/lahacks2026) · [Demo video](https://www.youtube.com/watch?v=R-_vN2aiRW4) · Built with python, typescript, verilator
 
@@ -103,7 +103,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2
 
 An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces.
 
-**Cognition:** Built with devin (listed on Devpost)
+**How it used Cognition:** Connects to the public Devin API to start monitored sessions.
 
 [Code](https://github.com/AlfredSjoqvist/multieval) · [Demo video](https://www.youtube.com/watch?v=__OU7Ftl4EM) · Built with devin, agentverse, anthropic, asi:one
 

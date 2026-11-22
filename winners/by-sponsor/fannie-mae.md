@@ -23,7 +23,7 @@
 
 The web application allows a user to understand the prevalence of certain natural disasters in each of the 50 states.
 
-**How it used Fannie Mae:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/jasonyih/BitcampBackend) · Built with fastapi, python, react, typescript
 
@@ -33,7 +33,7 @@ The web application allows a user to understand the prevalence of certain natura
 
 Insights for Tomorrow: Navigating Climate Challenges with Data.
 
-**How it used Fannie Mae:** Sponsor use not stated on Devpost
+**Award:** Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/amantalreja/Fannnie-Mae-Challenge) · Built with javascript, node.js, numpy, pandas
 
