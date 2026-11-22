@@ -225,7 +225,7 @@ Monitor your pipes and and the likelihood that there is a hydrate.
 - **Code:** [Source 1](https://github.com/lightningbolt7/HackUTD-XI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=A-HWoCepzhw)
 - **All prizes at this hackathon (1):** EOG Resources
-- **Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of EOG Resources:** Likely used EOG Resources’ Hydrate Detection Challenge datasets for training a model to flag possible hydrate blockages in pipes (inferred from the write-up). [Evidence](https://devpost.com/software/pipebrains)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -583,7 +583,7 @@ FUELICIENT gives a clean UI for Toyota fuel-efficiency data exploration, coupled
 - **Code:** [Source 1](https://github.com/nama718/FUELICIENT-HackUTD-24-Winner)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fIVCgdzMGAA)
 - **All prizes at this hackathon (1):** Toyota
-- **Award:** Won “Toyota” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Toyota Financial Services:** Likely used the Toyota challenge’s fuel-economy data for exploring vehicle fuel efficiency and saving each user’s previous analyses (inferred from the write-up). [Evidence](https://devpost.com/software/fuelicient)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

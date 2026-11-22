@@ -10,7 +10,7 @@ Project entries link to Devpost and show documented sponsor use, labeled inferen
 
 ![1,553 winning projects](https://img.shields.io/badge/Winning%20projects-1,553-0F2A4A) ![60 hackathon editions](https://img.shields.io/badge/Hackathon%20editions-60-3B82F6) ![379 sponsors](https://img.shields.io/badge/Sponsors-379-0F2A4A) ![1,697 sponsor prizes](https://img.shields.io/badge/Sponsor%20prizes-1,697-3B82F6)
 
-**1,034 shown** (994 full, 40 Built With or dependency) · **0 inferred** · **539 award-only** · 124 not stated
+**1,034 shown** (994 full, 40 Built With or dependency) · **25 inferred** · **514 award-only** · 124 not stated
 
 <!-- END coverage -->
 

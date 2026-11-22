@@ -418,7 +418,7 @@ Cover your blind spots. Model behaviour, correlate anomalies.
 - **Code:** [Source 1](https://github.com/Ch33zig/Minny)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EaLT4MyxxX4)
 - **All prizes at this hackathon (1):** CSE: Log &amp; Order
-- **Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Communications Security Establishment:** Likely used CSE’s Log &amp; Order dataset for testing whether the log analyzer could find the challenge’s planted security incident (inferred from the write-up). [Evidence](https://devpost.com/software/minny)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -441,7 +441,7 @@ Doing this is tedious work, which is why automation and AI for completing these 
 - **Code:** [Source 1](https://github.com/JeremyFriesenGitHub/htn26)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Log &amp; Order
-- **Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Communications Security Establishment:** Likely used CSE’s Log &amp; Order dataset for testing whether the detector could uncover incidents in unlabeled Apache logs (inferred from the README). [Evidence](https://github.com/JeremyFriesenGitHub/htn26)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -464,7 +464,7 @@ Turn HTTP logs into provable, safe incident response.
 - **Code:** [Source 1](https://github.com/Hayden9898/WatchTower)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Log &amp; Order
-- **Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Communications Security Establishment:** Likely used CSE’s Log &amp; Order dataset for finding related suspicious events in HTTP access logs (inferred from the write-up). [Evidence](https://devpost.com/software/cadify)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1232,7 +1232,7 @@ An evidence-first finance research harness that uses AI to deliver fully auditab
 - **Code:** [Source 1](https://github.com/pravinpaudel/ai-harnesss-htn-2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** RBC: Signal in the Noise
-- **Award:** Won “RBC: Signal in the Noise” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of RBC:** Likely used RBC’s challenge MCP research corpus for indexing financial documents and answering questions with verified citations (inferred from the write-up). [Evidence](https://devpost.com/software/finret)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1255,7 +1255,7 @@ Multi-agent research that cites its sources and flags conflicts.
 - **Code:** [Source 1](https://github.com/liamma06/searchGM)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uoozwdHRqZA)
 - **All prizes at this hackathon (1):** RBC: Signal in the Noise
-- **Award:** Won “RBC: Signal in the Noise” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of RBC:** Likely used RBC’s challenge MCP research corpus for answering financial research questions with links to exact source lines (inferred from the write-up). [Evidence](https://devpost.com/software/temp-project-0sp3zv)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

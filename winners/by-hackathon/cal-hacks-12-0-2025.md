@@ -370,7 +370,7 @@ A fast, intelligent query engine built on DuckDB.
 - **Code:** [Source 1](https://github.com/KevinL10/applovin-query)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_QnZ6bNqfr4)
 - **All prizes at this hackathon (1):** AppLovin: Query Planner Challenge
-- **Award:** Won “AppLovin: Query Planner Challenge” from AppLovin. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of AppLovin:** Likely used AppLovin’s simulated ad-event dataset and benchmark queries for testing a faster DuckDB query planner (inferred from the write-up). [Evidence](https://devpost.com/software/duck-duck-goose-jelxr9)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -240,7 +240,7 @@ FlowState is an intelligent operations console that combines real-time telemetry
 - **Code:** [Source 1](https://github.com/LegendaryPenguin/HackUTD-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R7WwG0Z0Jv4)
 - **All prizes at this hackathon (1):** EOG Resources Track
-- **Award:** Won “EOG Resources Track” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of EOG Resources:** Likely used EOG Resources’ Beat the Shutdown dataset for detecting equipment failures and comparing responses in the browser (inferred from the write-up). [Evidence](https://devpost.com/software/hackutd-809whg)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -263,7 +263,7 @@ The night shift, with a hive behind it.
 - **Code:** [Source 1](https://github.com/Jazmin5465/Hivemind)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tDWAyvH1agU)
 - **All prizes at this hackathon (1):** EOG Resources Track
-- **Award:** Won “EOG Resources Track” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of EOG Resources:** Likely used EOG Resources’ Beat the Shutdown dataset for forecasting when a tank will hit its limit after a pump failure (inferred from the write-up). [Evidence](https://devpost.com/software/hivemind-lnhy8g)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

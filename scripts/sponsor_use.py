@@ -189,14 +189,15 @@ def validate_inferred_use(row, base):
     quote = row["use_quote"]
     url = row["use_evidence_url"]
     suffix = re.escape(f" (inferred from the {INFERRED_FROM[base]}).")
-    if row["inferred"] is not True or not re.fullmatch(r"Likely used [^\n]+ for [^\n]+" + suffix, note):
+    phrase = r"\S(?:[^\n]*\S)?"
+    if row.get("inferred") is not True or not re.fullmatch(rf"Likely used {phrase} for {phrase}{suffix}", note):
         raise ValueError("Inferred use requires inferred=true and the source-specific note wording")
     if row["sponsor"] == "Other" or row["summary_evidence"] != source_label(row["use_source"], note):
         raise ValueError("Invalid inferred sponsor or summary evidence")
     if base.startswith("devpost:"):
         linked = url == row["url"]
     elif base == VIDEO:
-        linked = url in row["demo_video_urls"]
+        linked = url in row["demo_video_urls"] and urlsplit(url).hostname in {"www.youtube.com", "vimeo.com"}
     else:
         linked = url in row["source_urls"] and url.startswith("https://github.com/")
     if not linked:

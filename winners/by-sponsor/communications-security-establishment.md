@@ -23,7 +23,7 @@
 
 Cover your blind spots. Model behaviour, correlate anomalies.
 
-**Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Communications Security Establishment:** Likely used CSE’s Log &amp; Order dataset for testing whether the log analyzer could find the challenge’s planted security incident (inferred from the write-up). [Evidence](https://devpost.com/software/minny)
 
 [Code](https://github.com/Ch33zig/Minny) · [Demo video](https://www.youtube.com/watch?v=EaLT4MyxxX4) · Built with anthropic-claude, composio, elasticsearch, fastapi
 
@@ -33,7 +33,7 @@ Cover your blind spots. Model behaviour, correlate anomalies.
 
 Doing this is tedious work, which is why automation and AI for completing these kinds of tasks is really useful in saving time and money for professionals.
 
-**Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Communications Security Establishment:** Likely used CSE’s Log &amp; Order dataset for testing whether the detector could uncover incidents in unlabeled Apache logs (inferred from the README). [Evidence](https://github.com/JeremyFriesenGitHub/htn26)
 
 [Code](https://github.com/JeremyFriesenGitHub/htn26) · Built with css, flask, html, javascript
 
@@ -43,7 +43,7 @@ Doing this is tedious work, which is why automation and AI for completing these 
 
 Turn HTTP logs into provable, safe incident response.
 
-**Award:** Won “CSE: Log &amp; Order” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Communications Security Establishment:** Likely used CSE’s Log &amp; Order dataset for finding related suspicious events in HTTP access logs (inferred from the write-up). [Evidence](https://devpost.com/software/cadify)
 
 [Code](https://github.com/Hayden9898/WatchTower) · Built with alembic, docker, fastapi, node.js
 
@@ -55,7 +55,7 @@ Turn HTTP logs into provable, safe incident response.
 
 Insightful Network Traffic Visualization and Analysis.
 
-**Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Communications Security Establishment:** Likely used the CSE challenge’s MACCDC 2012 network traffic dataset for building an explorer for threats and anomalies in network traffic (inferred from the write-up). [Evidence](https://devpost.com/software/network-threat-explorer)
 
 [Code](https://github.com/JeremyFriesenGitHub/nte) · [Demo video](https://www.youtube.com/watch?v=ZuAKIEh6PcA) · Built with arkime, cohere, duckdb, flask
 
@@ -65,7 +65,7 @@ Insightful Network Traffic Visualization and Analysis.
 
 Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into a forensic-ready narrative by auto-mapping hosts, aggressive attackers, targeted victims, and an attack timeline.
 
-**Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Communications Security Establishment:** Likely used the CSE challenge’s MACCDC 2012 network traffic dataset for mapping network hosts and producing a forensic timeline (inferred from the write-up). [Evidence](https://devpost.com/software/pew-pew-9mi8pb)
 
 [Code](https://github.com/stony-su/network-traffic-ai) · Built with css, fastapi, html5, javascript
 
@@ -85,7 +85,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFN
 
 From packets to plain‑English, actionable security narratives.
 
-**Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Communications Security Establishment:** Likely used the CSE challenge’s MACCDC 2012 network traffic dataset for turning packet captures into evidence-backed summaries (inferred from the write-up). [Evidence](https://devpost.com/software/nocapnethack)
 
 [Code](https://github.com/ashokcpg/YeetThePacket) · Built with bash, cohere, docker, fastapi
 

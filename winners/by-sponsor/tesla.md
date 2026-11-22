@@ -23,7 +23,7 @@
 
 VisionGuard leverages cutting-edge Vision-Language Models (VLMs) to analyze in-car video footage , transcribing and interpreting driver behavior with high precision.
 
-**Award:** Won “Autonomy Grand Prize (6-months use of a Tesla Model 3 or Y w/ Supervised FSD)” from Tesla. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Tesla:** Likely used Tesla’s Real-World Video Q&amp;A dataset for evaluating answers to multiple-choice questions about driving clips (inferred from the write-up). [Evidence](https://devpost.com/software/visionguard-smart-vision-for-smarter-driving)
 
 [Code](https://github.com/JayYeung/tesla_kaggle) · Built with apis, colab, gpt, python
 
@@ -33,7 +33,7 @@ VisionGuard leverages cutting-edge Vision-Language Models (VLMs) to analyze in-c
 
 CyberDrive - Transforming driving footage into intelligent insights.
 
-**Award:** Won “Tesla: Excellence Prize ($2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;)” from Tesla. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Tesla:** Likely used Tesla’s Real-World Video Q&amp;A dataset for testing a model that answers multiple-choice questions about driving videos (inferred from the demo). [Evidence](https://www.youtube.com/watch?v=BLKCyMwn-xY)
 
 [Code](https://github.com/KoaChang/CyberDrive) · [Demo video](https://www.youtube.com/watch?v=BLKCyMwn-xY) · Built with amazon, async, gemini, google
 
@@ -43,7 +43,7 @@ CyberDrive - Transforming driving footage into intelligent insights.
 
 HorizonX is a dual-purpose platform using !!on-device!! VLMs to empower blind people with real-time haptic guider while crowdsourcing anonymized data to help governments improve public safety.
 
-**Award:** Won “Tesla: Excellence Prize ($2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;)” from Tesla. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Tesla:** Likely used Tesla’s Real-World Video Q&amp;A dataset for answering challenge questions by sampling frames from short driving clips (inferred from the write-up). [Evidence](https://devpost.com/software/horizonx)
 
 [Code](https://github.com/bsflll/treehack2025) · [Demo video](https://www.youtube.com/watch?v=dFowTJUub4U) · Built with docker, javascript, nextjs, python
 

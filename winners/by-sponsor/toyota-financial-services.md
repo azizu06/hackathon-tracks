@@ -157,7 +157,7 @@ Data to thrive, keeping Toyota’s edge alive.
 
 FUELICIENT gives a clean UI for Toyota fuel-efficiency data exploration, coupled with a system for retaining previous analyses on a per-account basis.
 
-**Award:** Won “Toyota” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Toyota Financial Services:** Likely used the Toyota challenge’s fuel-economy data for exploring vehicle fuel efficiency and saving each user’s previous analyses (inferred from the write-up). [Evidence](https://devpost.com/software/fuelicient)
 
 [Code](https://github.com/nama718/FUELICIENT-HackUTD-24-Winner) · [Demo video](https://www.youtube.com/watch?v=fIVCgdzMGAA) · Built with dns, firebase, github, github.io
 

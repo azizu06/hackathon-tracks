@@ -23,7 +23,7 @@
 
 FlowState is an intelligent operations console that combines real-time telemetry, automated failure detection, and cost-optimized response planning to help operators save time and costs.
 
-**Award:** Won “EOG Resources Track” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of EOG Resources:** Likely used EOG Resources’ Beat the Shutdown dataset for detecting equipment failures and comparing responses in the browser (inferred from the write-up). [Evidence](https://devpost.com/software/hackutd-809whg)
 
 [Code](https://github.com/LegendaryPenguin/HackUTD-2026) · [Demo video](https://www.youtube.com/watch?v=R7WwG0Z0Jv4) · Built with framer, gsap, react, three.js
 
@@ -33,7 +33,7 @@ FlowState is an intelligent operations console that combines real-time telemetry
 
 The night shift, with a hive behind it.
 
-**Award:** Won “EOG Resources Track” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of EOG Resources:** Likely used EOG Resources’ Beat the Shutdown dataset for forecasting when a tank will hit its limit after a pump failure (inferred from the write-up). [Evidence](https://devpost.com/software/hivemind-lnhy8g)
 
 [Code](https://github.com/Jazmin5465/Hivemind) · [Demo video](https://www.youtube.com/watch?v=tDWAyvH1agU) · Built with brev, docker, fastapi, lightgbm
 
@@ -45,7 +45,7 @@ The night shift, with a hive behind it.
 
 The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at varying fill and drain rates, with witches randomly collecting their contents.
 
-**Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of EOG Resources:** Likely used EOG Resources’ CauldronWatch dataset for flagging mismatches between potion transport tickets and observed drain volumes (inferred from the write-up). [Evidence](https://devpost.com/software/enchantress-w2li90)
 
 [Code](https://github.com/LegendaryPenguin/Enchantress) · [Demo video](https://www.youtube.com/watch?v=wmMVLoRToEE) · Built with css, html, javascript, typescript
 
@@ -55,7 +55,7 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 
 PoyoLabs is a gamified dashboard that allows users to track and monitor multiple cauldrons (data points) from one hand-designed interface.
 
-**Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of EOG Resources:** Likely used EOG Resources’ CauldronWatch dataset for monitoring potion cauldrons from a single dashboard (inferred from the write-up). [Evidence](https://devpost.com/software/poyolabs-47n0fz)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
 
@@ -77,7 +77,7 @@ It takes in data about a well and tries to detect anomalies to predict when hydr
 
 Monitor your pipes and and the likelihood that there is a hydrate.
 
-**Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of EOG Resources:** Likely used EOG Resources’ Hydrate Detection Challenge datasets for training a model to flag possible hydrate blockages in pipes (inferred from the write-up). [Evidence](https://devpost.com/software/pipebrains)
 
 [Code](https://github.com/lightningbolt7/HackUTD-XI) · [Demo video](https://www.youtube.com/watch?v=A-HWoCepzhw) · Built with css, firebase, html, javascript
 

@@ -43,7 +43,7 @@ An AI-powered disaster response command center that identifies urgent needs, inv
 
 Ever wanted to relive a moment in time? With Rewind, step inside your old videos and live events using just your phone.
 
-**Award:** Won “&#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI” from SpaceXSI. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of SpaceXSI:** Likely used Grok Bot for matching uploaded concert clips to other fans’ videos on X (inferred from the write-up). [Evidence](https://devpost.com/software/rewind-7ir2hn)
 
 [Code](https://github.com/SriSrik123/HackPrinceton) · Built with colmap, cursor, ffmpeg, gaussian
 
@@ -53,7 +53,7 @@ Ever wanted to relive a moment in time? With Rewind, step inside your old videos
 
 Every one of the team has struggled with being the "new kid" at school, or just trying to find a group with similar interests in general.
 
-**Award:** Won “&#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI” from SpaceXSI. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of SpaceXSI:** Likely used Grok for building an agent that automatically merges GitHub changes (inferred from the write-up). [Evidence](https://devpost.com/software/insert-here-floi2s)
 
 [Code](https://github.com/Ethanwashere1/HackTX-Project) · [Demo video](https://www.youtube.com/watch?v=gzq8r-Xo2YY) · Built with claude, css, gemini, grok
 

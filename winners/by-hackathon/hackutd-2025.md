@@ -302,7 +302,7 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 - **Code:** [Source 1](https://github.com/LegendaryPenguin/Enchantress)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wmMVLoRToEE)
 - **All prizes at this hackathon (1):** EOG Resources
-- **Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of EOG Resources:** Likely used EOG Resources’ CauldronWatch dataset for flagging mismatches between potion transport tickets and observed drain volumes (inferred from the write-up). [Evidence](https://devpost.com/software/enchantress-w2li90)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -325,7 +325,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ah0ZCHMdz_8)
 - **All prizes at this hackathon (1):** EOG Resources
-- **Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of EOG Resources:** Likely used EOG Resources’ CauldronWatch dataset for monitoring potion cauldrons from a single dashboard (inferred from the write-up). [Evidence](https://devpost.com/software/poyolabs-47n0fz)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

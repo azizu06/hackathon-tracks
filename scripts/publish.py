@@ -271,6 +271,7 @@ def inferred_devpost_passages(project, source):
         return project.captions
     passages = []
     for heading, passage in project.story:
+        heading = re.sub(r"^[^\w]+|[^\w]+$", "", heading)
         if heading == "what it does":
             section = "devpost:what_it_does"
         elif heading.startswith("how we built"):
@@ -280,7 +281,7 @@ def inferred_devpost_passages(project, source):
         if section == source:
             passages.append(passage)
     if source == "devpost:other_sections":
-        passages.append(project.tagline)
+        passages.extend((project.tagline, project.writeup_text))
     return passages
 
 
@@ -369,10 +370,11 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
                 missing[event].append(f"Gallery lists additional Winner labels for {url}")
             before, tags = describe(project, sponsor, overrides.get((url, sponsor), descriptions.get(url)))
             use, source, quote, location = uses.get((url, sponsor), (MISSING_INTEGRATION, None, None, None))
-            inference = inferred.pop((event, url, prize), None)
+            key = event, url, prize
+            inference = inferred.pop(key, None)
             if inference:
                 if source is not None or (event, prize, sponsor) not in award_tracks:
-                    raise ValueError(f"Inference requires an award-only row: {(event, url, prize)}")
+                    raise ValueError(f"Inference requires an award-only row: {key}")
                 use, source, quote, location = inference
             elif source is None and (event, prize, sponsor) in award_tracks:
                 use, source, quote = award_note(sponsor, prize), AWARD, prize

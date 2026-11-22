@@ -637,7 +637,7 @@ Ever wanted to relive a moment in time? With Rewind, step inside your old videos
 - **Code:** [Source 1](https://github.com/SriSrik123/HackPrinceton)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
-- **Award:** Won “&#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI” from SpaceXSI. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of SpaceXSI:** Likely used Grok Bot for matching uploaded concert clips to other fans’ videos on X (inferred from the write-up). [Evidence](https://devpost.com/software/rewind-7ir2hn)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

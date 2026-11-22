@@ -362,7 +362,7 @@ Insightful Network Traffic Visualization and Analysis.
 - **Code:** [Source 1](https://github.com/JeremyFriesenGitHub/nte)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZuAKIEh6PcA)
 - **All prizes at this hackathon (1):** CSE: Network Traffic Exploration
-- **Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Communications Security Establishment:** Likely used the CSE challenge’s MACCDC 2012 network traffic dataset for building an explorer for threats and anomalies in network traffic (inferred from the write-up). [Evidence](https://devpost.com/software/network-threat-explorer)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -385,7 +385,7 @@ Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into 
 - **Code:** [Source 1](https://github.com/stony-su/network-traffic-ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Network Traffic Exploration
-- **Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Communications Security Establishment:** Likely used the CSE challenge’s MACCDC 2012 network traffic dataset for mapping network hosts and producing a forensic timeline (inferred from the write-up). [Evidence](https://devpost.com/software/pew-pew-9mi8pb)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -408,7 +408,7 @@ From packets to plain‑English, actionable security narratives.
 - **Code:** [Source 1](https://github.com/ashokcpg/YeetThePacket)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Network Traffic Exploration
-- **Award:** Won “CSE: Network Traffic Exploration” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Communications Security Establishment:** Likely used the CSE challenge’s MACCDC 2012 network traffic dataset for turning packet captures into evidence-backed summaries (inferred from the write-up). [Evidence](https://devpost.com/software/nocapnethack)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

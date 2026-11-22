@@ -201,8 +201,8 @@ VisionGuard leverages cutting-edge Vision-Language Models (VLMs) to analyze in-c
 - **Code:** [Source 1](https://github.com/JayYeung/tesla_kaggle)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Autonomy Grand Prize (6-months use of a Tesla Model 3 or Y w/ Supervised FSD) · Tesla: Excellence Prize
-- **Award:** Won “Autonomy Grand Prize (6-months use of a Tesla Model 3 or Y w/ Supervised FSD)” from Tesla. The write-up gives no details on how the team used the sponsor’s tech.
-- **Award:** Won “Tesla: Excellence Prize ($2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;)” from Tesla. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Tesla:** Likely used Tesla’s Real-World Video Q&amp;A dataset for evaluating answers to multiple-choice questions about driving clips (inferred from the write-up). [Evidence](https://devpost.com/software/visionguard-smart-vision-for-smarter-driving)
+- **Inferred use of Tesla:** Likely used Tesla’s Real-World Video Q&amp;A dataset for evaluating answers to multiple-choice questions about driving clips (inferred from the write-up). [Evidence](https://devpost.com/software/visionguard-smart-vision-for-smarter-driving)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -918,7 +918,7 @@ History isn’t just studied, it’s lived. Enter a 3D time-travel adventure.
 - **Code:** [Source 1](https://github.com/rgu0114/the-anachronist)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BXpIBv4q-kQ)
 - **All prizes at this hackathon (1):** LumaLabs: Reimagining Visual Creation with AI
-- **Award:** Won “LumaLabs: Reimagining Visual Creation with AI ($2,500 Cash + $5,000 Luma Credits)” from Luma AI. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Luma AI:** Likely used the LumaLabs AI API for generating opening and closing videos for the game (inferred from the write-up). [Evidence](https://devpost.com/software/the-anachronist)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1475,7 +1475,7 @@ CyberDrive - Transforming driving footage into intelligent insights.
 - **Code:** [Source 1](https://github.com/KoaChang/CyberDrive)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BLKCyMwn-xY)
 - **All prizes at this hackathon (1):** Tesla: Excellence Prize
-- **Award:** Won “Tesla: Excellence Prize ($2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;)” from Tesla. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Tesla:** Likely used Tesla’s Real-World Video Q&amp;A dataset for testing a model that answers multiple-choice questions about driving videos (inferred from the demo). [Evidence](https://www.youtube.com/watch?v=BLKCyMwn-xY)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1498,7 +1498,7 @@ HorizonX is a dual-purpose platform using !!on-device!! VLMs to empower blind pe
 - **Code:** [Source 1](https://github.com/bsflll/treehack2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dFowTJUub4U)
 - **All prizes at this hackathon (1):** Tesla: Excellence Prize
-- **Award:** Won “Tesla: Excellence Prize ($2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;)” from Tesla. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Tesla:** Likely used Tesla’s Real-World Video Q&amp;A dataset for answering challenge questions by sampling frames from short driving clips (inferred from the write-up). [Evidence](https://devpost.com/software/horizonx)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

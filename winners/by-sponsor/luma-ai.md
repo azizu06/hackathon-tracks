@@ -23,7 +23,7 @@
 
 History isn’t just studied, it’s lived. Enter a 3D time-travel adventure.
 
-**Award:** Won “LumaLabs: Reimagining Visual Creation with AI ($2,500 Cash + $5,000 Luma Credits)” from Luma AI. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of Luma AI:** Likely used the LumaLabs AI API for generating opening and closing videos for the game (inferred from the write-up). [Evidence](https://devpost.com/software/the-anachronist)
 
 [Code](https://github.com/rgu0114/the-anachronist) · [Demo video](https://www.youtube.com/watch?v=BXpIBv4q-kQ) · Built with elevenlabs, gemini, godot, langchain
 

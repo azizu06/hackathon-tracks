@@ -85,7 +85,7 @@ The team experimented with different NLP architectures and fine-tuning strategie
 - **Code:** [Source 1](https://github.com/TylerK4832/ContractScope)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_HmigEf25Q4)
 - **All prizes at this hackathon (1):** Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group
-- **Award:** Won “Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group” from Bloomberg Industry Group. The write-up gives no details on how the team used the sponsor’s tech.
+- **Inferred use of Bloomberg Industry Group:** Likely used the Bloomberg Industry Group challenge’s Defense Department contract notices for parsing government contract details with an NLP model (inferred from the write-up). [Evidence](https://devpost.com/software/contractscope)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

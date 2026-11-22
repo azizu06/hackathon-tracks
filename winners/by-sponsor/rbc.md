@@ -23,7 +23,7 @@
 
 An evidence-first finance research harness that uses AI to deliver fully auditable, citation-backed financial insights.
 
-**Award:** Won “RBC: Signal in the Noise” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of RBC:** Likely used RBC’s challenge MCP research corpus for indexing financial documents and answering questions with verified citations (inferred from the write-up). [Evidence](https://devpost.com/software/finret)
 
 [Code](https://github.com/pravinpaudel/ai-harnesss-htn-2026) · Built with agent, ai, harness, openai
 
@@ -33,7 +33,7 @@ An evidence-first finance research harness that uses AI to deliver fully auditab
 
 Multi-agent research that cites its sources and flags conflicts.
 
-**Award:** Won “RBC: Signal in the Noise” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of RBC:** Likely used RBC’s challenge MCP research corpus for answering financial research questions with links to exact source lines (inferred from the write-up). [Evidence](https://devpost.com/software/temp-project-0sp3zv)
 
 [Code](https://github.com/liamma06/searchGM) · [Demo video](https://www.youtube.com/watch?v=uoozwdHRqZA) · Built with mongodb, python
 

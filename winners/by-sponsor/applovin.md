@@ -33,7 +33,7 @@ An AI prototype that processes ad creatives, both images and videos, to extract 
 
 A fast, intelligent query engine built on DuckDB.
 
-**Award:** Won “AppLovin: Query Planner Challenge” from AppLovin. The write-up gives no details on how the team used the sponsor’s tech.
+**Inferred use of AppLovin:** Likely used AppLovin’s simulated ad-event dataset and benchmark queries for testing a faster DuckDB query planner (inferred from the write-up). [Evidence](https://devpost.com/software/duck-duck-goose-jelxr9)
 
 [Code](https://github.com/KevinL10/applovin-query) · [Demo video](https://www.youtube.com/watch?v=_QnZ6bNqfr4) · Built with python
 
