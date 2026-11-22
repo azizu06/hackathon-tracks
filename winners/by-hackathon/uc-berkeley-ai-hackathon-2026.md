@@ -986,7 +986,7 @@ Context management you can trust - Say goodbye to /compact.
 - **Code:** [Source 1](https://github.com/a-Fig/Accordion)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=T1omrI2VjLA)
 - **All prizes at this hackathon (1):** Best Compression Model for The Token Company
-- **The Token Company:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Compression Model for The Token Company” from The Token Company. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

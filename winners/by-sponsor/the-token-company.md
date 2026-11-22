@@ -23,7 +23,7 @@
 
 Context management you can trust - Say goodbye to /compact.
 
-**The Token Company:** Sponsor use not stated on Devpost
+**Award:** Won “Best Compression Model for The Token Company” from The Token Company. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/a-Fig/Accordion) · [Demo video](https://www.youtube.com/watch?v=T1omrI2VjLA) · Built with claude, javascript, jiti, node.js
 

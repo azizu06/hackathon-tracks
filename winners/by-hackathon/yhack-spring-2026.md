@@ -111,7 +111,7 @@ track pain and symptoms of chronic conditions like endometriosis in a machine le
 - **Code:** [Source 1](https://github.com/ZacharyYW/perennial)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=71_IR5COyFY)
 - **All prizes at this hackathon (1):** ActualFoods
-- **Actual Food:** Sponsor use not stated on Devpost
+- **Award:** Won “ActualFoods” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

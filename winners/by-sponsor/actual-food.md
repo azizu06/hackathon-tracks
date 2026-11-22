@@ -23,7 +23,7 @@
 
 track pain and symptoms of chronic conditions like endometriosis in a machine learning android &amp; wearOS application.
 
-**Actual Food:** Sponsor use not stated on Devpost
+**Award:** Won “ActualFoods” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ZacharyYW/perennial) · [Demo video](https://www.youtube.com/watch?v=71_IR5COyFY) · Built with android-studio, cloud-computing, firebase, galaxy-watch
 

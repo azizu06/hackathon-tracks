@@ -532,7 +532,7 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 
 - Built With tags are available for 1,536 of 1,553 project editions.
 - Team counts are available for 1,553 project editions.
-- Summary evidence by award row: Devpost project write-up (859), Devpost prize title (533), Integration detail unavailable (131), GitHub source code (70), GitHub README (44), Devpost Built With (40).
+- Summary evidence by award row: Devpost project write-up (859), Devpost prize title (540), Integration detail unavailable (124), GitHub source code (70), GitHub README (44), Devpost Built With (40).
 - Source code links verified HTTP 200 for 1264 of 1394 unique recognized links.
 - Demo video links verified HTTP 200 for 1251 of 1251 unique recognized links.
 - The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.

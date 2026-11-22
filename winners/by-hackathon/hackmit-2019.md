@@ -764,7 +764,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Su83aPedkx4)
 - **All prizes at this hackathon (1):** Best Use of Nasdaq/Quandl Datasets
-- **Nasdaq:** Sponsor use not stated on Devpost
+- **Award:** Won “Best Use of Nasdaq/Quandl Datasets” from Nasdaq. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

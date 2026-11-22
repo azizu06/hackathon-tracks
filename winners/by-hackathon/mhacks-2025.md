@@ -321,7 +321,7 @@ No public code linked · Built with 3d-projection-mathematics, a2a2448-23gcbas, 
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vision Alignment Tool presented by Ford
-- **Ford:** Sponsor use not stated on Devpost
+- **Award:** Won “Vision Alignment Tool presented by Ford” from Ford. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -452,7 +452,7 @@ Skip the planning, savor the eating. Optimize road trips to no longer exhaustive
 - **Code:** [Source 1](https://github.com/krrishkk/foodrunner)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uo4ONCYzjgA)
 - **All prizes at this hackathon (1):** Smart Task Accelerator presented by Grainger
-- **Grainger:** Sponsor use not stated on Devpost
+- **Award:** Won “Smart Task Accelerator presented by Grainger” from Grainger. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -475,7 +475,7 @@ The team created a Swift app so that you can use the tool directly from the MacO
 - **Code:** [Source 1](https://github.com/evanhekman/zygonic)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=B43pgol5dvg)
 - **All prizes at this hackathon (1):** Smart Task Accelerator presented by Grainger
-- **Grainger:** Sponsor use not stated on Devpost
+- **Award:** Won “Smart Task Accelerator presented by Grainger” from Grainger. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

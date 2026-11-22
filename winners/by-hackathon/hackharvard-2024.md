@@ -56,7 +56,7 @@ Transforming arthritis rehabilitation by advanced posture detection ensures corr
 - **Code:** [Source 1](https://github.com/Shameed4/Flexy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=l7krRFZL9R8)
 - **All prizes at this hackathon (1):** AllHealth Track Prize
-- **AllHealth:** Sponsor use not stated on Devpost
+- **Award:** Won “AllHealth Track Prize” from AllHealth. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
