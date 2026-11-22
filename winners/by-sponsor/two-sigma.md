@@ -25,7 +25,7 @@ Ami creates a planner for what you should do on vacation! Just tell it what you 
 
 **How it used Two Sigma:** The team used TwoSigma's Beaker Notebook.
 
-No public code linked · Built with beaker, java, javascript, python
+No public code found · Built with beaker, java, javascript, python
 
 ## Track names and requirements
 

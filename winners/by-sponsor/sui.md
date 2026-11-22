@@ -25,7 +25,7 @@ Time is money: literally. Sell your day away in 15-minute blocks.
 
 **How it used Sui:** Bidders place bids on time slots using Sui blockchain NFT auctions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=t7M319EIn4k) · Built with sui, ai, chromadb, claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=t7M319EIn4k) · Built with sui, ai, chromadb, claude
 
 ### [Movement](https://devpost.com/software/movement-f4nyob)
 
@@ -35,7 +35,7 @@ Movement is the disruptive blockchain crowdfunding platform - no fees, no middle
 
 **How it used Sui:** The team used the SUI stack for blockchain integration.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=QtNbxY7WupE) · Built with sui, css, move, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=QtNbxY7WupE) · Built with sui, css, move, next.js
 
 ### [Otter](https://devpost.com/software/otter)
 
@@ -51,7 +51,7 @@ Decentralizing how humans communicate using SUI.
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-shard-2kvsch) · **Best Use of Sui**
 
-Do you have a laptop? You're potentially losing on making at least $10/day side income with Shard.
+Shard lets laptop owners earn side income by sharing spare computing power.
 
 **How it used Sui:** Shard is a decentralized compute network built on the Sui blockchain that transforms idle Mac computers into a distributed supercomputer.
 
@@ -97,7 +97,7 @@ The website serves as a decentralized gift card trading marketplace .
 
 **How it used Sui:** Users connect their Sui wallet to trade gift cards.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=W1QGVNJGV7g) · Built with sui, express.js, node.js, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=W1QGVNJGV7g) · Built with sui, express.js, node.js, react
 
 ### [Notic3.](https://devpost.com/software/notic3)
 

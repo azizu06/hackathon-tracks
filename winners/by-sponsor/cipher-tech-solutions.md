@@ -25,7 +25,7 @@ Revolutionizing Digital Forensics through Novel Data Modeling.
 
 **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with fastapi, next.js, react, typescript
+No public code found · Built with fastapi, next.js, react, typescript
 
 ### [QWave](https://devpost.com/software/quanterp)
 

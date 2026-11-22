@@ -202,14 +202,14 @@ Using AI/ML to enhance rescuing and rebuilding processes after a disaster.
 
 Leveraging AI to assess bridge damage.
 
-No public code linked · Built with azure, javascript, next.js, node.js
+No public code found · Built with azure, javascript, next.js, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** azure, javascript, next.js, node.js, react, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce
 - **Award:** Won “Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce” from Cloudforce. The write-up gives no details on how the team used the sponsor’s tech.
@@ -333,14 +333,14 @@ A fun interactive way to track and pay your bills on time while competing with f
 
 Easily get the money you need when you need it most.
 
-No public code linked · Built with propelauth, cloudflare, javascript, json
+No public code found · Built with propelauth, cloudflare, javascript, json
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** cloudflare, javascript, json, node.js, propelauth, react-native, sql, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of PropelAuth - MLH
 - **How it used PropelAuth:** The team uses PropelAuth to minimize account fraud.
@@ -414,14 +414,14 @@ A large part of the weekend was spent exploring the various quantum algorithms.
 
 The project, Course Catalog Intelligence, pulls important information from university course catalog PDFs and lets you ask questions in plain language.
 
-No public code linked · Built with flask, git, github, langchain
+No public code found · Built with flask, git, github, langchain
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** flask, git, github, langchain, langsmith, llama3, python, rag
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** University Course Catalog Data Extraction and Query Challenge - Xficient
 - **Award:** Won “University Course Catalog Data Extraction and Query Challenge - Xficient” from Xficient. The write-up gives no details on how the team used the sponsor’s tech.
@@ -437,14 +437,14 @@ No public code linked · Built with flask, git, github, langchain
 
 Search Made Simple: Ask questions, find answers – AI parses documents, chatbot delivers.
 
-No public code linked · Built with flask, github, gpt-4, neon
+No public code found · Built with flask, github, gpt-4, neon
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** flask, github, gpt-4, neon, next.js, pdfplumber, pinecone, propelauth, python, react, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** University Course Catalog Data Extraction and Query Challenge - Xficient
 - **Award:** Won “University Course Catalog Data Extraction and Query Challenge - Xficient” from Xficient. The write-up gives no details on how the team used the sponsor’s tech.

@@ -45,7 +45,7 @@ The team describes the project as “Nodal”.
 
 **Qualcomm:** Sponsor use not stated on Devpost
 
-No public code linked · Built with test
+No public code found · Built with test
 
 ### [Tuffr](https://devpost.com/software/tuffr)
 
@@ -55,7 +55,7 @@ Increase your strength with cutting-edge computer vision and agentic AI.
 
 **Qualcomm:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
+No public code found · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
 
 ## Track names and requirements
 

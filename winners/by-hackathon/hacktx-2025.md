@@ -153,14 +153,14 @@ Instant, data-driven race strategy suggestions for teams.
 
 Website that allows small business owners to create and manage their business's website with AI agents.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=9gLRo36z474) · Built with digitalocean, javascript, next.js, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=9gLRo36z474) · Built with digitalocean, javascript, next.js, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** digitalocean, javascript, next.js, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9gLRo36z474)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of DigitalOcean Gradient™ AI
 - **How it used DigitalOcean:** The team built Agentify Web on DigitalOcean Gradient, leveraging its infrastructure to host and manage the AI agents.

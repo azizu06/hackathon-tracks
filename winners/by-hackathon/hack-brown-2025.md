@@ -43,14 +43,14 @@ Pick a track to jump to its winners on this page.
 
 Signify brings AI into the web accessibility space.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
+No public code found · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-bedrock, amazon-ec2, amazon-media-convert, amazon-transcribe, amazon-web-services, dynamodb, lambda, natural-language-processing, nextjs, node.js, python, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=b_AvCD3fC-I)
 - **All prizes at this hackathon (1):** Best Use of AWS
 - **How it used Amazon Web Services:** The team used AWS services for video storage in S3 and language processing with Bedrock.
@@ -70,14 +70,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-
 
 An arcade-style game where the player can go on a journey of introspection and self-discovery as a little wolf. Collect stars, answer questions, and create a vision board of your future.
 
-No public code linked · Built with chatgpt, css, fastapi, html5
+No public code found · Built with chatgpt, css, fastapi, html5
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** chatgpt, css, fastapi, html5, phaser.js, react, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
 - **GoDaddy Registry:** Sponsor use not stated on Devpost
@@ -97,14 +97,14 @@ No public code linked · Built with chatgpt, css, fastapi, html5
 
 An all-in-one app for understanding medical documentation and tracking medications seamlessly.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
+No public code found · [Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** augmented-reality, express.js, firebase, javascript, mongodb, node.js, openai, swift, terraform
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hecJHlorSy0)
 - **All prizes at this hackathon (1):** Best Use of Terraform
 - **How it used HashiCorp:** The project uses Terraform actions integrated with AWS to handle CI/CD.
@@ -151,14 +151,14 @@ An LLM-powered web game curated for children to improve their debate and convers
 
 integrated AI pain assessment aid to help patients with timing + dosage towards mitigating opioid abuse risk :) won in healthcare Hack@Brown 2025.
 
-No public code linked · Built with css, figma, groq, html
+No public code found · Built with css, figma, groq, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, figma, groq, html, json, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Consumer-Driven Patient Safety Technology Track
 - **Award:** Won “Best Consumer-Driven Patient Safety Technology Track” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
@@ -205,14 +205,14 @@ Accelerating clinical decision-making with AI-driven patient simulations, real-t
 
 Work with untapped talents across language barriers.
 
-No public code linked · Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
+No public code found · Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-ec2, amazon-web-services, dify.ai, fastapi, firebase, github, mongodb, nextjs, python, typescript, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Developer Tool, sponsored by Warp
 - **Award:** Won “Best Developer Tool, sponsored by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.

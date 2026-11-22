@@ -67,14 +67,14 @@ Your AI learning assistant. Input topic, level, and duration for a tailored cour
 
 Fivi is a AI Personal Trainer that breaks down traditional barriers to fitness. The intuitive UI and voice based command system will lead to more people than ever engaging in healthy home exercise.
 
-No public code linked · Built with flask, javascript, numpy, opencv
+No public code found · Built with flask, javascript, numpy, opencv
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** flask, javascript, numpy, opencv, python, react, vosk
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** ActualFood Award · Health Track
 - **Award:** Won “ActualFood Award” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
@@ -94,14 +94,14 @@ No public code linked · Built with flask, javascript, numpy, opencv
 
 An Adobe add-on that generates a Reel/Short video from prompt.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adobe-ad-on, ai, cloudflare, flask, gemini, javascript, tts
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dZgIqzT754Y)
 - **All prizes at this hackathon (1):** Most Creative Adobe Express Add-On
 - **How it used Adobe:** The team built an Adobe Express add-on to help users make educational or awareness reels.
@@ -121,14 +121,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754
 
 Automate your event extraction from emails.
 
-No public code linked · Built with cloudflare, ai, groq, llama
+No public code found · Built with cloudflare, ai, groq, llama
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** ai, cloudflare, groq, llama, next.js, postgresql, react, sql, supabase, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
 - **How it used Cloudflare:** The project uses Cloudflare Workers and Pages for serverless processing and API interactions.
@@ -148,14 +148,14 @@ No public code linked · Built with cloudflare, ai, groq, llama
 
 an AI platform that automates data entry from text and speech, anonymizes patient information, and delivers treatment recommendations, enhancing diagnostic accuracy for healthcare professionals.
 
-No public code linked · Built with cloudfare, flask, nextjs, openai-api
+No public code found · Built with cloudfare, flask, nextjs, openai-api
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cloudfare, flask, nextjs, openai-api, vector-database, whisper
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** 1st Place · Best AI Project with Databricks Open Source
 - **How it used Databricks:** The project uses Databricks Open Source for K-means clustering.
@@ -312,7 +312,7 @@ Cropscape analyzes location-specific soil, climate, and hardiness data to provid
 - **Code:** [Source 1](https://github.com/Superhero1015/YHack2024-25_Proj)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iuZZZnOtsdk)
 - **All prizes at this hackathon (1):** LightBox
-- **How it used LightBox:** Looks up addresses through the LightBox API to retrieve their coordinates.
+- **How it used LightBox:** Uses the lightboxre.com address search API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

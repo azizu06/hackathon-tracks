@@ -188,7 +188,7 @@ An offline guide helps survivors find state compensation programs and trace elig
 - **Code:** [Source 1](https://github.com/thesanatt/tend)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Nessie @ Capital One
-- **How it used Capital One:** The project uses Capital One’s Nessie bank to pay $118 only after typing a 6-digit code.
+- **How it used Capital One:** The project uses Capital One’s Nessie bank to pay after typing a 6-digit code.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -317,7 +317,7 @@ A computer control interface uses eye tracking to point and speech to issue comm
 - **Code:** [Source 1](https://github.com/dakshshahani/mhacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Figma Best Design Track
-- **How it used Figma:** The team links to its Figma design file.
+- **Linked resource from Figma:** The team links to its Figma design file.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -340,7 +340,7 @@ A learning app helps users explore stock movements and practice investment decis
 - **Code:** [Source 1](https://github.com/daniel3606/Orbit_MHacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Mj4wTCKH8oE)
 - **All prizes at this hackathon (1):** Figma Best Design Track
-- **How it used Figma:** The team links to its Figma design file.
+- **Linked resource from Figma:** The team links to its Figma design file.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -382,14 +382,14 @@ Everyday glasses that watch high-risk hearts and speak up before an emergency.
 
 Clinical trials lose millions recruiting, while patients miss life-saving treatments. InnoPair automatically matches patients to trials, helping studies recruit faster and patients find new options.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css3, fhir, finchnode, gemini, google-gemini-api, html5, javascript, loinc, mammoth.js, mcp, neon, node.js, notability, pdf.js, postgresql, rest-api, serverless, vercel, vercel-serverless-functions
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Fg-wfUvkk1U)
 - **All prizes at this hackathon (1):** FinchNode (HealthTech)
 - **How it used FinchNode:** FinchNode's API connects patients' health records across providers.
@@ -480,14 +480,14 @@ Your car already knows what's wrong. Otto uses a FREE-WILi and AI to turn its tr
 
 Similar to a piano tiles game where the tiles come towards the player, the tiles come towards the center.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** c, free-wili, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DdY-U816Krw)
 - **All prizes at this hackathon (1):** Best Use of FREE-WILi
 - **How it used FREE-WILi:** The team used the FREE-WILi API, wrote the display and main files in C, and used the board's built-in accelerometer to measure positional data as the player moved their wrist.
@@ -507,14 +507,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=DdY-U816Kr
 
 Finding you the prompt you deserve.
 
-No public code linked · Built with gemini, google-oauth, chrome, fastapi
+No public code found · Built with gemini, google-oauth, chrome, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** chrome, fastapi, gemini, google-oauth, node.js, numpy, playwright, pytest, python, react, scikit-learn, sentence-transformers, spacetimedb, tailwindcss, typescript, vite, vitest, wxt
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
 - **How it used Google:** Gemini picks an icon for each new collection from its name.
@@ -534,17 +534,17 @@ No public code linked · Built with gemini, google-oauth, chrome, fastapi
 
 Elevated and autonomous security for the vibe coded world. Argus deploys five specialized agents to attack your app in a sandbox, prove vulnerabilities, generate fixes, and verify the patch works.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
+No public code found · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** asi:one, browserbase, elevenlabs, fetch.ai, figma, neon, notability, photon, relay, spacetimedb
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P7_du8KrKDo)
 - **All prizes at this hackathon (1):** Best Use of Neon Backend
-- **Neon:** Built with neon (listed on Devpost)
+- **Neon · Listed on Devpost:** Built with neon (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -634,16 +634,16 @@ Amex Concierge on steroids for small businesses: text a problem, AI agents and r
 
 [Photon](../by-sponsor/photon.md) · **Photon iMessage Agents Track Winner**
 
-Tab is a friend in your iMessage group chat who keeps track of shared expenses. Say "got pizza, $48" or snap a receipt; Tab splits it, nudges people, and settles up with one 👍.
+Tab tracks shared expenses in iMessage. It splits expenses from messages or receipts, nudges people, and settles up.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4GrYcrm64tg) · Built with capital-one-nessie-api, github, github-actions, grok-(xai-api)
+No public code found · [Demo video](https://www.youtube.com/watch?v=4GrYcrm64tg) · Built with capital-one-nessie-api, github, github-actions, grok-(xai-api)
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** capital-one-nessie-api, github, github-actions, grok-(xai-api), grok-vision, imessage, node.js, react, react-flow, spacetimedb, typesafe-jev, typescript, vercel, vite, vitest, zod
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4GrYcrm64tg)
 - **All prizes at this hackathon (1):** Photon iMessage Agents Track Winner
 - **Photon:** Sponsor use not stated on Devpost
@@ -690,14 +690,14 @@ A robotics team collects human skiing and hiking motions to train a humanoid on 
 
 The wireless camera bear that watches, remembers, and answers when you ask.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
+No public code found · [Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** esp32, figma, grok, neon, relay
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iHHdCwF_NRU)
 - **All prizes at this hackathon (1):** Relay Interactive Agents Track Winner
 - **How it used Relay:** A single WebSocket consumer handles events on Relay.
@@ -850,7 +850,7 @@ Space traffic control for the 99% of operators without a control room. Orbit Wat
 - **Code:** [Source 1](https://github.com/ArunimaV/orbit-watch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eroKaUhp6zY)
 - **All prizes at this hackathon (1):** SpaceXAI Make it Legendary Track Winner
-- **How it used SpaceXAI:** Uses Grok to write a brief about a satellite close approach when the model is available.
+- **How it used SpaceXAI:** Calls a text brief request for Grok.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

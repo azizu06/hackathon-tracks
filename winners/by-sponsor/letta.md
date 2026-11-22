@@ -25,7 +25,7 @@ Clanker Town is a simulation / web-browser video game which lets player enter th
 
 **How it used Letta:** The project uses Letta for memory blocks.
 
-No public code linked · Built with letta, elastic-search, mcp, move
+No public code found · Built with letta, elastic-search, mcp, move
 
 ### [darwin.](https://devpost.com/software/darwin-w6fez0)
 
@@ -45,7 +45,7 @@ An AI-powered Web IDE where you can vibe code with your team and share context e
 
 **How it used Letta:** The project uses Letta to store team memory and answer context queries.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=WtCWy65nESM) · Built with letta, claude, coderabbit, elasticsearch
+No public code found · [Demo video](https://www.youtube.com/watch?v=WtCWy65nESM) · Built with letta, claude, coderabbit, elasticsearch
 
 ### [Mentora](https://devpost.com/software/planevent)
 

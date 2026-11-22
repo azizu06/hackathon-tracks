@@ -25,7 +25,7 @@ A building safety prototype combines live sensors, evacuation planning, and oper
 
 **How it used Convex:** The board talks to Convex directly.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, anthropic, arduino
+No public code found · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, anthropic, arduino
 
 ### [Lobe](https://devpost.com/software/lobe)
 

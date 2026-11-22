@@ -25,7 +25,7 @@ A mobile accessibility tool uses walls and room signs to place an indoor AR rout
 
 **Award:** Won “Encompass: Data Capturing Hardware” from Encompass. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
+No public code found · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 ### [Dronautics](https://devpost.com/software/dronautics)
 

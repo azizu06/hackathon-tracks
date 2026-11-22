@@ -155,7 +155,7 @@ See the world through sound and LiDAR. Inspired by echolocation, EchoAI is a han
 
 In an age where AI-generated media is indistinguishable from reality, Sora2Detector is the first of its kind multi phase detection platform that verifies the authenticity of video content, end to end.
 
-[Code](https://github.com/LeeMarshall1113/Sora2Detector) · [Demo video](https://www.youtube.com/watch?v=GPhHIwjohe4) · Built with amd, ai, html5, ml
+[Code](https://github.com/LeeMarshall1113/Sora2Detector) · [Demo video](https://www.youtube.com/watch?v=GPhHIwjohe4) · Built with amd, rocm, ai, html5
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -165,7 +165,7 @@ In an age where AI-generated media is indistinguishable from reality, Sora2Detec
 - **Code:** [Source 1](https://github.com/LeeMarshall1113/Sora2Detector)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GPhHIwjohe4)
 - **All prizes at this hackathon (1):** AMD: Best use of AMD Hardware/Software Challenge
-- **How it used AMD:** The team tested the project on Windows with AMD hardware.
+- **AMD · Listed on Devpost:** Built with rocm (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -182,14 +182,14 @@ In an age where AI-generated media is indistinguishable from reality, Sora2Detec
 
 HeliosAI uses a solar cell connected to an Arduino with light sensors and servo motors.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
+No public code found · [Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** agent-to-agent-architecture, arduino, flask, flask-sock, flask-socketio, gemini-live-api, google-gemeni-ai, googlegeminiapi, html/css, javascript, openweathermapapi, pyserial, python, webaudioapi, websocket
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mZV5om5oVVE)
 - **All prizes at this hackathon (1):** MLH - Best Use of Arm
 - **Arm:** Sponsor use not stated on Devpost
@@ -540,14 +540,14 @@ Get daily financial news and insights tailored to your interests.
 
 Money Mentor AI: your stress-free path to financial freedom - one confident step at a time.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** css3, flask, html5, node.js, python, react, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=J5wnACnaZdY)
 - **All prizes at this hackathon (1):** OneEthos: AI for Financial Empowerment Challenge
 - **Award:** Won “OneEthos: AI for Financial Empowerment Challenge” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
@@ -567,14 +567,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZd
 
 In life-or-death moments, guessing isn’t an option. Deploy a robot swarm that maps hazards, learns from one another's mistakes, and guides everyone to a safe exit.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
+No public code found · [Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** arduino, elevenlabs, flask, flutter, gemini, python, pytorch, ros
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m-iLFeIfq-s)
 - **All prizes at this hackathon (1):** Pheratech Systems: ROS2 Autonomy Challenge
 - **Award:** Won “Pheratech Systems: ROS2 Autonomy Challenge” from Pheratech Systems. The write-up gives no details on how the team used the sponsor’s tech.
@@ -640,14 +640,14 @@ ServiceLater turns ServiceNow feedback into accelerator roadmaps, using AI to sp
 
 Synapse isn’t another assistant — it’s the nervous system of AI itself, where specialized agents think together to power the next era of intelligent collaboration.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=irFW-f8mvoE)
+No public code found · [Demo video](https://www.youtube.com/watch?v=irFW-f8mvoE)
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** No tags listed
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=irFW-f8mvoE)
 - **All prizes at this hackathon (1):** ServiceNow: Knowledge Gap Request Agent Challenge
 - **ServiceNow:** Sponsor use not stated on Devpost
@@ -694,14 +694,14 @@ An AI assistant to help Lawyers manage clients.
 
 Simply lay out the ingredients you already have, take a quick screenshot with the Meta Quest, and let the AI assistant recognize them.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ar, digitalocean, elevenlabs, fastapi, figma, gemini, geminiapi, github, metaquest, metasdk, python, unity, vr
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QAaYWL-Mr1g)
 - **All prizes at this hackathon (2):** MLH - Best Use of Vultr · Most "Useful" Hack
 - **Vultr:** Sponsor use not stated on Devpost

@@ -45,7 +45,7 @@ Providence unifies your devices and AI conversations through one superagent that
 
 **Award:** Won “Aramco Americas: Best Beginner Hack” from Aramco. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
+No public code found · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
 
 ### [TapChart](https://devpost.com/software/tapchart)
 
@@ -55,7 +55,7 @@ When Parkinson's symptoms mimic a stroke, missing context can mean misdiagnosis.
 
 **Award:** Won “Aramco: A Marina’s Mission - 1st Place” from Aramco. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=A9tN4Z6MoyE) · Built with claude, css, html, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=A9tN4Z6MoyE) · Built with claude, css, html, javascript
 
 ## 2025 winners
 

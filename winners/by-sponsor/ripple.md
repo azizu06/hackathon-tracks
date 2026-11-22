@@ -45,7 +45,7 @@ Making SMB lending transparent and efficient with on-chain loan tracking on the 
 
 **How it used Ripple:** LendX is a full-stack decentralized lending marketplace built on the XRP Ledger that connects lenders and borrowers through peer-to-peer transactions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=6GD9fiZIC9I) · Built with ripple, auth0, fastapi, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=6GD9fiZIC9I) · Built with ripple, auth0, fastapi, python
 
 ### [PeerFund](https://devpost.com/software/r-fund)
 
@@ -55,7 +55,7 @@ A decentralized peer-to-peer lending platform built on the XRP Ledger (XRPL), en
 
 **How it used Ripple:** PeerFund is a peer-to-peer lending platform built on the XRP Ledger.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with xrpl, blockchain, firebase, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with xrpl, blockchain, firebase, nextjs
 
 ### [RippleRelief](https://devpost.com/software/ripplerelief)
 
@@ -85,7 +85,7 @@ XRPower is a prediction-based rewards platform built on the XRP Ledger.
 
 **How it used Ripple:** XRPower is a prediction-based rewards platform built on the XRP Ledger.
 
-No public code linked · Built with ripple, node.js, react, web3
+No public code found · Built with ripple, node.js, react, web3
 
 ## 2024 winners
 
@@ -97,7 +97,7 @@ Create and deploy audited smart contracts on the XRPL EVM side chain using easy 
 
 **How it used Ripple:** The team used the XRPL EVM side chain RPC provider for wallet injection.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeVU) · Built with ripple, evm, nextjs, rainbowkit
+No public code found · [Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeVU) · Built with ripple, evm, nextjs, rainbowkit
 
 ### [Memento](https://devpost.com/software/memento-1p0jel)
 

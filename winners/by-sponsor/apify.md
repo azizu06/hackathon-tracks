@@ -85,7 +85,7 @@ an ai teammate in your cursor.
 
 **How it used Apify:** The team used Apify for connectors.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, accessibility-api, anthropic, appkit
+No public code found · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, accessibility-api, anthropic, appkit
 
 ### [Pupil](https://devpost.com/software/pupil-utzxy2)
 

@@ -79,7 +79,7 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 - **How it used Anthropic:** Claude Haiku 5.5 turns what residents say on calls into record fields and includes corrections.
 - **How it used Apify:** The Apify Actor starts calls when a California county moves a zone to warning.
 - **How it used Convex:** Every part of the system reads and writes one real-time Convex database.
-- **Microsoft:** Built with typescript (listed on Devpost)
+- **Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
 - **How it used Moss:** Moss pulls call-taking principles and practice-call moments into a prompt, filtered by hazard and language.
 - **Checked on Devpost:** 2026-11-21
 
@@ -118,14 +118,14 @@ An operating environment isolates each AI agent task in a separate Linux user an
 
 Anima Labs is an agentic development environment for computational neuroscience.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with creao, arxiv, docker, europe-pmc
+No public code found · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with creao, arxiv, docker, europe-pmc
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** arxiv, creao, docker, europe-pmc, fastapi, modworm, motion, next.js, numpy, openworm, pandas, postgresql, pydantic, python, react, redis, rq, scipy, sqlalchemy, supabase, tailwindcss, three.js, typescript, webgpu
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UBaKKoPopSg)
 - **All prizes at this hackathon (2):** &#91;Creao AI&#93; Best AI-First Disruptor · &#91;MLH&#93; Commit Fellowship
 - **How it used Creao:** The team also used the persistent memory feature of CREAO's agents to allow users to iterate on research projects.
@@ -190,14 +190,14 @@ A student caseworker looks up immigration and finance rules and asks the student
 
 A building safety prototype combines live sensors, evacuation planning, and operator approval in one dashboard.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, asi-one, fetch.ai
+No public code found · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, asi-one, fetch.ai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** agentverse, anthropic, arduino, asi-one, cartesia, claude, claude-code, clerk, convex, esp32, fastapi, fetch.ai, micropython, next.js, playwright, python, react, react-three-fiber, three.js, typescript, vercel, web-push, websockets
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KuYTNZz49ZM)
 - **All prizes at this hackathon (2):** &#91;Convex&#93; Best use of Convex · &#91;Fetch.ai&#93; Best Use of Fetch.ai
 - **How it used Convex:** The board talks to Convex directly.
@@ -238,14 +238,14 @@ A finance workspace helps AI labs automate bookkeeping and related financial tas
 
 an ai teammate in your cursor.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, moss, accessibility-api, anthropic
+No public code found · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, moss, accessibility-api, anthropic
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** accessibility-api, anthropic, apify, appkit, bonjour, bun, cartesia, claude, convex, convex-auth, launchd, mcp, moss, react, screencapturekit, swift, swiftui, typescript, virtualization-framework, vite, webkit, xctest
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=joNnooTosPs)
 - **All prizes at this hackathon (2):** &#91;Apify&#93; 1st Customer Award · &#91;Moss&#93; Long Horizon Agent
 - **How it used Apify:** The team used Apify for connectors.
@@ -670,14 +670,14 @@ An app where AI agents read every nearby store's Instagram, TikTok, and website 
 
 One iPhone walkthrough builds a complete listing. Renters speed-tour real homes in VR, say what they love or hate, and see if their own couch fits before they ever visit.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
+No public code found · [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** apify, arduino, arkit, bright-data, cartesia, claude, cloudflare-workers, creao, factory-droid, gaussian-splatting, javascript, lidar, meta-quest, microsoft-agent-framework, moss, python, pytorch, raspberry-pi, roomplan, solana, spacetimedb, swift, swiftui, three.js, webxr
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aRcpU5eLNJc)
 - **All prizes at this hackathon (1):** &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data
 - **How it used Bright Data:** The project uses the Web Scraper API and Web Unlocker from Bright Data to pull Zillow listings, price comps and listing photos.
@@ -842,7 +842,7 @@ An autonomous finance desk that tracks automotive tariffs from imported parts to
 - **Code:** [Source 1](https://github.com/ParthGala2k/tariffic)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zwbd8wDYVz0)
 - **All prizes at this hackathon (1):** &#91;Creao AI&#93; Best One-Person Company
-- **How it used Creao:** Routes its tariff desk's reasoning requests to Creao agents when configured.
+- **How it used Creao:** Uses Creao agents as the seats’ brains.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1236,7 +1236,7 @@ A mobile finance prototype turns market events into short research tasks and wai
 - **Code:** [Source 1](https://github.com/adylagad/baseland)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wzT5thvdSHw)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Best Stage Log
-- **How it used Figma:** The team links to its Figma slide deck.
+- **Linked resource from Figma:** The team links to its Figma slide deck.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1249,14 +1249,14 @@ A mobile finance prototype turns market events into short research tasks and wai
 
 A game tells the story of a ghost through passes in Apple Wallet.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
+No public code found · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** apple-wallet, claude-code, cloudflare, cloudflare-worker, convex, figma, ios, node.js, passkit, pkpass, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fmnPOpoLz6E)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Most Creative
 - **How it used Figma:** The project uses Figma for design and planning.
@@ -1476,14 +1476,14 @@ Also won this track: [Docket](#project-docket-ezaum8) (listed above)
 
 Campanion turns college wellness into a game. Your pet avatar reflects how you sleep, eat, study, move, and recover, while quests and shared goals help you build balanced habits with friends.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=c00p0ouf_hw) · Built with mana, firebase, google-calendar-api, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=c00p0ouf_hw) · Built with mana, firebase, google-calendar-api, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** firebase, google-calendar-api, javascript, mana, oauth, react, svg, tailwind-css
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=c00p0ouf_hw)
 - **All prizes at this hackathon (1):** &#91;Mana&#93; Best Use of Mana
 - **How it used Mana:** The team built Campanion with Mana.
@@ -1634,7 +1634,7 @@ Independent Agentic AI oversight that tracks every dollar from owner to manageme
 - **Code:** [Source 1](https://github.com/ozr0013/AccountableAI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3eNnbQb081M)
 - **All prizes at this hackathon (1):** &#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)
-- **How it used Microsoft:** The team used Visual Studio Code for front-end development.
+- **Microsoft · Listed on Devpost:** Built with Visual Studio Code (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1711,17 +1711,17 @@ A platform helps students stay connected to class during medical care.
 
 A research platform pairs an evidence workspace with tools for patients to review consent and compensation.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=9DtLgJCZ3oQ) · Built with notability, 3dmol, amazon-bedrock, anthropic-claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=9DtLgJCZ3oQ) · Built with notability, 3dmol, amazon-bedrock, anthropic-claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** 3dmol, amazon-bedrock, anthropic-claude, apify, cartesia, clinicaltrials, crs-credit-api, fastapi, godaddy, javascript, next, notability, openfda, pubchem, pubmed, python, rdkit, react, rust, solana, spacetimedb, sqlite, three, twilio, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9DtLgJCZ3oQ)
 - **All prizes at this hackathon (1):** &#91;Notability&#93; Best Use of Notability
-- **Notability:** Built with notability (listed on Devpost)
+- **Notability · Listed on Devpost:** Built with notability (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1734,14 +1734,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=9DtLgJCZ3o
 
 A party game uses group conversations to make plans for an in-person hangout.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
+No public code found · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** apify, ffmpeg, framer-motion, google-maps, meta-muse, muse-image, muse-spark, muse-voice-transcribe, node.js, openai-sdk, pnpm, react, spacetimedb, tailwindcss, three.js, typescript, vercel, vite, vitest, whatsapp, zod
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=euyaNV9gb2U)
 - **All prizes at this hackathon (1):** &#91;Notability&#93; Best Use of Notability
 - **How it used Notability:** The team kept research, sketches and revision notes in Notability.
@@ -2038,7 +2038,7 @@ Ingests supernova / high-energy neutrino alerts (cached IceCube &amp; galactic C
 - **Code:** [Source 1](https://github.com/kejiwuxian/Breakout)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ttrXTT7N31Y)
 - **All prizes at this hackathon (1):** &#91;SpaceXSI&#93; Make it Legendary with SpaceXSI
-- **How it used SpaceXSI:** Can use live Grok to rank candidate stars after a supernova alert.
+- **How it used SpaceXSI:** Uses optional live Grok ranking.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

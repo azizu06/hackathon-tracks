@@ -25,7 +25,7 @@ The pharmacy of the future: an automated medicine dispenser &amp; streamlined me
 
 **How it used Rigetti:** The team developed an integration with Rigetti’s quantum computing platform.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
 
 ## Track names and requirements
 

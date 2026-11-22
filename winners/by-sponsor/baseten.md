@@ -45,7 +45,7 @@ Dysarthric speech recovery, in your own voice.
 
 The system rethinks video compression by mirroring how the human eye perceives importance in a scene.
 
-**How it used Baseten:** Calls a Baseten saliency model to find focal points in video.
+**How it used Baseten:** Calls the Baseten saliency model API to get focal points for video.
 
 [Code](https://github.com/k-kochhar/Salient) · [Demo video](https://www.youtube.com/watch?v=bSFhoFY6hIY) · Built with baseten, amazon-web-services, ffmeg, next
 

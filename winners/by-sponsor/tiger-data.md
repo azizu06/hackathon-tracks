@@ -25,7 +25,7 @@ What you deserve in your drinking water.
 
 **How it used Tiger Data:** The backend evaluates measurements against configured thresholds, tracks filter life using manufacturer-specific guidelines, and manages historical water quality data through Tiger Data.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
+No public code found · [Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
 
 ### [Flare](https://devpost.com/software/bee-movie-script)
 
@@ -73,7 +73,7 @@ Pse is a novel wearable technology that tracks slouching and turns posture aware
 
 But how does it know where the defects are.
 
-**How it used Tiger Data:** Supports a Tiger Data connection URL for the sensor inference service's database.
+**How it used Tiger Data:** Uses a Tiger Data URL for the database.
 
 [Code](https://github.com/Georgeyy07/HackTheNorth2026) · Built with expo.io, fastapi, gcloud&amp;docker, godaddy
 
@@ -85,7 +85,7 @@ AI-native workflows, built straight from your existing SOPs.
 
 **How it used Tiger Data:** Tiger Data stores SOPs and their versions, along with a full trace of every run.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
+No public code found · [Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
 
 ### [TapTrack](https://devpost.com/software/taptrack-4hni2z)
 

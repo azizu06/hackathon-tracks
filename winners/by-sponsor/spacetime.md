@@ -25,7 +25,7 @@
 
 **How it used Spacetime:** SpacetimeDB is the backend and is hosted on Maincloud.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with spacetimedb, anthropic-api, blender, cal-fire
+No public code found · [Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with spacetimedb, anthropic-api, blender, cal-fire
 
 ### [Bandit - The only band you need](https://devpost.com/software/bandit-the-only-band-you-need)
 

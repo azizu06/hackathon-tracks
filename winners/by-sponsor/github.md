@@ -23,7 +23,7 @@
 
 Transform any GitHub repository into an interactive, visual tree structure. AI-powered intelligent insights, smart summaries, and code analysis to help you understand a codebase with confidence.
 
-**How it used GitHub:** The application visualizes GitHub repositories as interactive flow graphs.
+**How it used GitHub:** The backend uses the GitHub REST API.
 
 [Code](https://github.com/hieunguyent12/shellhacks25) · [Demo video](https://www.youtube.com/watch?v=oo69VDuMhTU) · Built with docker, elevenlabs, express.js, fastapi
 

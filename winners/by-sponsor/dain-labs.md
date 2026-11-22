@@ -35,7 +35,7 @@ Devin, AI Software Engineer &amp; Kevin, AI Product Manager.
 
 **How it used DAIN Labs:** The project was built primarily with TypeScript and DAIN.
 
-No public code linked · Built with dain, typescript
+No public code found · Built with dain, typescript
 
 ### [FlowPilot: Your Agentic Co-Pilot](https://devpost.com/software/flowpilot-zoom-agent-that-automates-your-workflows)
 

@@ -23,9 +23,9 @@
 
 Social Security helps to combat social media spam and ensures you never tweet the wrong thing.
 
-**SendGrid:** Built with sendgrid (listed on Devpost)
+**SendGrid · Listed on Devpost:** Built with sendgrid (listed on Devpost)
 
-No public code linked · Built with sendgrid, alchemyapi, google-prediction, mongodb
+No public code found · Built with sendgrid, alchemyapi, google-prediction, mongodb
 
 ## Track names and requirements
 

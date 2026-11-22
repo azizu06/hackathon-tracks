@@ -25,7 +25,7 @@ The team developed two applications that work together on the Android phone and 
 
 **Award:** Won “KPCB - KPCB Fellows Award” from Kleiner Perkins. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked
+No public code found
 
 ## Track names and requirements
 

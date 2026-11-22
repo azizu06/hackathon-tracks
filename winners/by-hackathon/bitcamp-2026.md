@@ -58,7 +58,7 @@ Terrametric: an AI-powered plantation stress detection platform that gives Live 
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qjTX93HKRNE)
 - **All prizes at this hackathon (3):** Best Champion of Open Source w/ Featherless - Featherless · Best Intermediate Data Science Track Hack - Bitcamp · Real World Prize - Ambrook
 - **Award:** Won “Real World Prize - Ambrook” from Ambrook. The write-up gives no details on how the team used the sponsor’s tech.
-- **How it used Featherless:** Uses Featherless as the default language model endpoint for its crop-analysis assistant.
+- **How it used Featherless:** Sets the default Featherless API base URL.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -129,14 +129,14 @@ Power line faults often go undetected until they escalate catastrophically. Tele
 
 Docket is a web app that gives developers a visual, AI-summarized history of their GitHub repositories.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
+No public code found · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** auth0, gemini, next.js, supabase, terpai, typescript, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=coq8SSweYCs)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Auth0
 - **How it used Auth0:** The team used Auth0 to build a GitHub authentication service.
@@ -279,14 +279,14 @@ is a reverse-engineered hardware ledger for the Solana blockchain, with custom P
 
 Revolutionizing Digital Forensics through Novel Data Modeling.
 
-No public code linked · Built with fastapi, next.js, react, typescript
+No public code found · Built with fastapi, next.js, react, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** fastapi, next.js, react, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
 - **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
@@ -339,7 +339,7 @@ The autonomous command center for your academic life.
 - **Code:** [Source 1](https://github.com/purabshah12/bitcamp2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eRcqv4_pCCQ)
 - **All prizes at this hackathon (2):** Best Bitcamp Hack - Bitcamp · TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** The project uses TerpAI Ghost-Pilot for complex academic automation.
+- **Award:** Won “TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft” from Cloudforce / Microsoft. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -362,7 +362,7 @@ EcoBuddy gamifies sustainability—track your actions, level up your buddy, and 
 - **Code:** [Source 1](https://github.com/KaushalGorla/eco-buddy-voice)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=r4HnScF_29w)
 - **All prizes at this hackathon (1):** TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
-- **Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+- **Award:** Won “TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft” from Cloudforce / Microsoft. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -402,14 +402,14 @@ An AI safety net for UMD students. TerpWallet watches your bank account and conn
 
 Your doorbell doesn’t just ring anymore… it sees, thinks, and talks in any language while judging who’s at your door.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa4) · Built with elevenlabs, fastapi, gemini, multimap
+No public code found · [Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa4) · Built with elevenlabs, fastapi, gemini, multimap
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** elevenlabs, fastapi, gemini, multimap, next.js, opencv, python, raspberry-pi, wbp-systems-torch, yolo
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=S6FTw6NNaa4)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of ElevenLabs · People's Choice Hack - Bitcamp
 - **How it used ElevenLabs:** The team integrated ElevenLabs conversational agents to generate low-latency, natural voice responses.
@@ -431,14 +431,14 @@ Also won this track: [Terrametric](#project-terrametric) (listed above)
 
 The team built AGastIa because medical reports are often full of information but empty of clarity.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
+No public code found · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** alembic, auth0, bio-clinicalbert, celery, fastapi, geminiapi, huggingfacetransformer, javascript, medgemma, medsam, paddleocr, postgresql, python, pytorch, react, redis, sqlalchemy, tailwindcss, typescript, vite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WyRockA-COA)
 - **All prizes at this hackathon (1):** Best Champion of Open Source w/ Featherless - Featherless
 - **Award:** Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless. The write-up gives no details on how the team used the sponsor’s tech.
@@ -535,14 +535,14 @@ From script to scene in minutes.
 
 Miss a daily tap, and your people get notified. Still Here is the safety net for the 36 million Americans living alone.
 
-No public code linked · [Demo video](https://vimeo.com/1182382881) · Built with aws-sns, celery, docker, fastapi
+No public code found · [Demo video](https://vimeo.com/1182382881) · Built with aws-sns, celery, docker, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** aws-sns, celery, docker, fastapi, firebase-fcm, python, redis, sqlalchemy, supabase, vanilla-js
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://vimeo.com/1182382881)
 - **All prizes at this hackathon (1):** Best Use of Netcore - Netcore
 - **Netcore Cloud:** Sponsor use not stated on Devpost

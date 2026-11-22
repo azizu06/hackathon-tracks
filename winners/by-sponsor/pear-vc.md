@@ -23,7 +23,7 @@
 
 Massively parallelized agentic research workflows using spreadsheets as a primitive.
 
-**Award:** Won “Pear VC: Best Customer Insights ($25k Unncapped SAFE + Office Hours w/ Partners &#91;1st&#93; &amp; Office Hours w/ Partners &#91;2nd&#93;)” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
+**Award:** Won “Pear VC: Best Customer Insights” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/WeltonWang02/spreadsheet_hackathon) · [Demo video](https://www.youtube.com/watch?v=spfLzOUNp44) · Built with agents, apis, llms, typescript
 
@@ -47,7 +47,7 @@ a VR app designed for holoportation.
 
 **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with ik, steamvr, unity, vive
+No public code found · Built with ik, steamvr, unity, vive
 
 ### [Music for all](https://devpost.com/software/music-for-all)
 
@@ -57,7 +57,7 @@ The team made a cardboard piano that uses computer vision to detect and play pia
 
 **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with opencv, python
+No public code found · Built with opencv, python
 
 ## Track names and requirements
 

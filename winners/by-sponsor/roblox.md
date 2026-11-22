@@ -25,7 +25,7 @@ Play as a hacker taking advantage of a data breach to crack as many accounts as 
 
 **How it used Roblox:** The project was built in Roblox Studio using Lua.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=jMh-X4L-k2U) · Built with roblox, lua
+No public code found · [Demo video](https://www.youtube.com/watch?v=jMh-X4L-k2U) · Built with roblox, lua
 
 ### [Inbox Invaders](https://devpost.com/software/inbox-invaders)
 
@@ -35,7 +35,7 @@ A Roblox tower-defense game teaches players to recognize phishing messages and m
 
 **How it used Roblox:** The team built the project in Roblox Studio using Luau for gameplay systems, UI interactions and player progression.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
+No public code found · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
 
 ### [Mindful Egg](https://devpost.com/software/mindful-egg-uhfbac)
 
@@ -77,7 +77,7 @@ Players solve puzzles to leave a haunted house in an escape-room game.
 
 **How it used Roblox:** The team used Roblox Studio and Lua to develop this game.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=-CYyimP0Eb4) · Built with roblox, lua
+No public code found · [Demo video](https://www.youtube.com/watch?v=-CYyimP0Eb4) · Built with roblox, lua
 
 ### [Bloom.AI](https://devpost.com/software/bloom-ai-43296z)
 
@@ -87,7 +87,7 @@ A Roblox game lets players shape their surroundings through what they say and do
 
 **How it used Roblox:** Bloom.AI integrates a Roblox game experience with real-time AI sentiment analysis.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZc) · Built with roblox, flask, gemini, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZc) · Built with roblox, flask, gemini, nextjs
 
 ### [Kindness Maxxing](https://devpost.com/software/kindness-maxxing)
 
@@ -97,7 +97,7 @@ A Roblox game asks players to defuse tense social situations and see how differe
 
 **How it used Roblox:** The team built the project in Roblox Studio using Lua scripting.
 
-No public code linked · Built with roblox, express.js, gemini, javascript
+No public code found · Built with roblox, express.js, gemini, javascript
 
 ### [UncBlox](https://devpost.com/software/uncblox)
 
@@ -107,7 +107,7 @@ UncBlox is a multiplayer action-arena game where players embody celebrated elder
 
 **How it used Roblox:** The team used Roblox Studio and assets to develop combat and quizzes.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=7WwD1cOzm5k) · Built with roblox
+No public code found · [Demo video](https://www.youtube.com/watch?v=7WwD1cOzm5k) · Built with roblox
 
 ## Track names and requirements
 

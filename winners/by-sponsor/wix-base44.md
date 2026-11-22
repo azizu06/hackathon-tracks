@@ -25,7 +25,7 @@ With AWF, private flight managers are able to easily access a complete report of
 
 **How it used Wix / Base44:** The project uses Base44 for its serverless backend.
 
-No public code linked · [Demo video](https://vimeo.com/1122618072) · Built with base44, cloudskyapi, oauth, react
+No public code found · [Demo video](https://vimeo.com/1122618072) · Built with base44, cloudskyapi, oauth, react
 
 ### [EcoSort](https://devpost.com/software/ecosort-ofyuie)
 
@@ -35,7 +35,7 @@ The app EcoSort makes sustainability simple by helping people build better recyc
 
 **How it used Wix / Base44:** The app was developed using Vibe Code on the Base44 platform and later uploaded to GitHub for collaboration.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=p3F8s9jy8qk) · Built with base44, css, github, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=p3F8s9jy8qk) · Built with base44, css, github, javascript
 
 ### [MoneySensei](https://devpost.com/software/moneysensei)
 
@@ -45,7 +45,7 @@ Smart student budgeting app that gives students from monthly financial plans to 
 
 **How it used Wix / Base44:** The project was built with AI prompting on Base44.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
 
 ## Track names and requirements
 

@@ -97,7 +97,7 @@ Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
 
 **How it used Snowflake:** The team used Snowflake for data warehousing and analytics.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
 
 ### [Relay](https://devpost.com/software/https-youtu-be-dqw4w9wgxcq)
 

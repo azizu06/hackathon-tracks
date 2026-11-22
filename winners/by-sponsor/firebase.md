@@ -23,7 +23,7 @@
 
 Turn on your phone's (flash) light and and use the handy touch controls to produce your very own masterpiece with 5 fantastic colors.
 
-**How it used Firebase:** Uses a shared Firebase room to synchronize the lightboard controls.
+**How it used Firebase:** Uses a Firebase room.
 
 [Code](https://github.com/vsiao/Lightboard) · Built with firebase
 

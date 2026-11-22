@@ -221,14 +221,14 @@ A camera-based biomechanics tool tracks movement and fatigue to give athletes fe
 
 A local weather app gives gardeners and small farmers forecasts tailored to growing decisions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** react, tailwind, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TLGly6WWBwQ)
 - **All prizes at this hackathon (1):** Figma Make Most Creative Data Visualization
 - **Figma:** Sponsor use not stated on Devpost

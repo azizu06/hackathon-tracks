@@ -23,7 +23,7 @@
 
 The autonomous command center for your academic life.
 
-**How it used Cloudforce / Microsoft:** The project uses TerpAI Ghost-Pilot for complex academic automation.
+**Award:** Won “TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft” from Cloudforce / Microsoft. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/purabshah12/bitcamp2026) · [Demo video](https://www.youtube.com/watch?v=eRcqv4_pCCQ) · Built with css, elevenlabs-tts, fastapi, framer-motion
 
@@ -33,7 +33,7 @@ The autonomous command center for your academic life.
 
 EcoBuddy gamifies sustainability—track your actions, level up your buddy, and earn real rewards for making UMD greener.
 
-**Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+**Award:** Won “TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft” from Cloudforce / Microsoft. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/KaushalGorla/eco-buddy-voice) · [Demo video](https://www.youtube.com/watch?v=r4HnScF_29w) · Built with api, idempotent-pipelines, languages:-javascript, modular
 
@@ -55,7 +55,7 @@ An AI safety net for UMD students. TerpWallet watches your bank account and conn
 
 Fighting Drug Waste, Fueling Health Equity.
 
-**Cloudforce / Microsoft:** Built with terpai (listed on Devpost)
+**Cloudforce / Microsoft · Listed on Devpost:** Built with terpai (listed on Devpost)
 
 [Code](https://github.com/arsh-goenka/MedSave) · Built with terpai, css, flask, googleauth
 
@@ -77,7 +77,7 @@ SkinForReal is a GenAI skincare app that uses daily selfies to detect skin issue
 
 **How it used Cloudforce / Microsoft:** The project integrated the Microsoft Azure Face API to detect visible skin conditions from user selfies.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, vscode, faceai
+No public code found · [Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, vscode, faceai
 
 ## Track names and requirements
 

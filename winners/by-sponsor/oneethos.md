@@ -25,7 +25,7 @@ A city dashboard adjusts for biases in residents' reports of overflowing bins an
 
 **Award:** Won “OneEthos: Innovation for Good” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with clip, databricks, docker, expo.io
+No public code found · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with clip, databricks, docker, expo.io
 
 ### [Fireline](https://devpost.com/software/fireline-764nir)
 
@@ -67,7 +67,7 @@ Money Mentor AI: your stress-free path to financial freedom - one confident step
 
 **Award:** Won “OneEthos: AI for Financial Empowerment Challenge” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
 
 ## Track names and requirements
 

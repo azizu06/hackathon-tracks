@@ -23,7 +23,7 @@
 
 Captain Ddoski gives AI finance agents instant source trust scores, risk tags, and evidence capsules via API/MCP, helping them cite reliable proof, flag weak claims, and avoid scams.
 
-**How it used Terac:** Calls Terac's model-evaluation tools through MCP when configured.
+**How it used Terac:** Calls a Terac MCP tool and returns the parsed JSON result.
 
 [Code](https://github.com/PhongCT1105/AI_Hack_Berkeley) · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
 

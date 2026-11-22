@@ -25,7 +25,7 @@ Utilizes Pinterest to catalog data for cloud computing.
 
 **How it used Pinterest:** The project uses Pinterest to catalog data for cloud computing.
 
-No public code linked
+No public code found
 
 ## Track names and requirements
 

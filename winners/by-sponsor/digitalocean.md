@@ -47,7 +47,7 @@ Website that allows small business owners to create and manage their business's 
 
 **How it used DigitalOcean:** The team built Agentify Web on DigitalOcean Gradient, leveraging its infrastructure to host and manage the AI agents.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=9gLRo36z474) · Built with digitalocean, javascript, next.js, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=9gLRo36z474) · Built with digitalocean, javascript, next.js, react
 
 ### [bevinAI](https://devpost.com/software/bevinai)
 

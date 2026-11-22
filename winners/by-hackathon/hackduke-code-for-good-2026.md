@@ -178,14 +178,14 @@ An adaptive browser overlay extension that enables webpage customization and int
 
 Vaccine OS is a full-stack neoantigen vaccine design platform.
 
-No public code linked · Built with claude, next.js, postgresql, python
+No public code found · Built with claude, next.js, postgresql, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claude, next.js, postgresql, python, supabase, tailwind-css, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of AI powered by Reach Capital · Runner Up: Health Track
 - **Award:** Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
@@ -215,7 +215,7 @@ DataCrawl turns plain-English data requests into fresh datasets. AI agents plan,
 - **Code:** [Source 1](https://github.com/Aarushvinod/DataCrawl)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=t-F03o3KFjQ)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** Offers Solana as a payment method when a Solana payment request is available.
+- **How it used Solana:** Checks the approval payload for a Solana payment request.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

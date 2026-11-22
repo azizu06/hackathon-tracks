@@ -35,7 +35,7 @@ A satirical social media simulator and world builder.
 
 **Award:** Won “&#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns” from Arlequin AI. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=FgR3QLEW5Kc) · Built with agents, claude, multi-agent, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=FgR3QLEW5Kc) · Built with agents, claude, multi-agent, next.js
 
 ## Track names and requirements
 

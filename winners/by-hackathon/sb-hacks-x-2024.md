@@ -93,14 +93,14 @@ ReadEasy: An AI-powered Google Docs add-on that transforms documents into access
 
 Calculate carbon emissions from travel expense reports and verify thresholds using smart contracts.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
+No public code found · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** css, flask, google-directions, javascript, python, react, starknet
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pJKejAEEwkU)
 - **All prizes at this hackathon (1):** MLH - Best Use of Starknet
 - **How it used Starknet:** Starknet smart contracts verify that companies meet emissions standards without revealing private travel data.

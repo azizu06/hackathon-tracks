@@ -33,7 +33,7 @@ an ai tool for making reel outfits real.
 
 Mantis provides real time threat detection to help retail businesses identify and prevent shoplifting as it occurs, protecting your inventory and reducing loss.
 
-**How it used Reka:** Uploads footage to Reka's vision API for analysis.
+**How it used Reka:** Uses Reka’s video upload API URL.
 
 [Code](https://github.com/oviozz/mantis) · [Demo video](https://www.youtube.com/watch?v=JJ5pMXaB2X4) · Built with baseten, convex, fastapi, fetch.ai
 

@@ -25,7 +25,7 @@ Sideline turns watching into experiencing. With real-time updates, interactive c
 
 **Award:** Won “PrizePicks - The Second Screen Experience” from PrizePicks. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY8) · Built with expo.io, express.js, firebase, firestore
+No public code found · [Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY8) · Built with expo.io, express.js, firebase, firestore
 
 ### [The Kick is Good](https://devpost.com/software/the-kick-is-good)
 

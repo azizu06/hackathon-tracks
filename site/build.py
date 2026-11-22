@@ -1,5 +1,6 @@
 """Package the current winners index for static hosting and offline browsing."""
 
+from html import escape
 import json
 import sys
 from pathlib import Path
@@ -9,8 +10,8 @@ SITE = Path(__file__).resolve().parent
 ROOT = SITE.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from catalog_display import short_prize_title
-from sponsor_use import use_coverage
+from catalog_display import display_text, short_prize_title
+from sponsor_use import card_coverage_text, use_heading
 
 
 def field(row, *keys):
@@ -79,7 +80,7 @@ def catalog(source):
     for row in source:
         if not isinstance(row, dict):
             continue
-        name = label(field(row, "project", "project_name", "project_title", "name", "title"))
+        name = display_text(label(field(row, "project", "project_name", "project_title", "name", "title")))
         if not name:
             continue
         event = label(field(row, "hackathon", "event", "hackathon_name", "event_name"))
@@ -89,7 +90,7 @@ def catalog(source):
         devpost = first_url(field(row, "devpost_url", "devpost", "project_url", "url"), links.get("devpost"), host="devpost.com")
         edition = label(row.get("event_slug")) or " ".join((event, year)).strip()
         key = (devpost, edition) if devpost else (name.casefold(), edition)
-        summary = label(field(row, "description", "project_summary", "summary", "tagline", "short_description"))
+        summary = display_text(label(field(row, "description", "project_summary", "summary", "tagline", "short_description")))
         code = first_url(
             row.get("source_urls"), field(row, "repository_url", "source_url", "source_links"),
             field(row, "github_url", "github", "github_links"), links.get("github"),
@@ -103,7 +104,7 @@ def catalog(source):
             team = int(team)
         sponsors = [label(value) for value in items(field(row, "sponsor", "sponsors", "sponsor_name"))]
         award_sponsors = [sponsor for sponsor in sponsors if sponsor and sponsor.casefold() != "other"]
-        integration = label(row.get("sponsor_integration"))
+        integration = display_text(label(row.get("sponsor_integration")))
         tech = [label(value) for key_name in ("built_with", "tech", "technologies", "tech_stack", "sponsor_tech") for value in items(row.get(key_name))]
         project = projects.setdefault(key, {
             "name": name, "event": event, "year": year, "editionId": edition, "devpost": devpost,
@@ -119,12 +120,7 @@ def catalog(source):
         if integration:
             named_sponsors = award_sponsors or [""]
             for sponsor in named_sponsors:
-                coverage = use_coverage(row)
-                heading = f"How it used {sponsor}" if coverage == "full" and sponsor else sponsor or "Sponsor use"
-                if coverage == "award-framed":
-                    heading = f"Award from {sponsor}"
-                elif coverage == "inferred":
-                    heading = f"Inferred use of {sponsor}"
+                heading = use_heading(row, sponsor, f"Award from {sponsor}")
                 project["integrations"].setdefault(
                     (sponsor.casefold(), integration), {"sponsor": sponsor, "heading": heading, "note": integration}
                 )
@@ -150,6 +146,11 @@ def main():
         raise SystemExit("No projects found in winners/winners.json.")
     data = json.dumps(projects, ensure_ascii=True, separators=(",", ":"))
     (SITE / "catalog.js").write_text(f"window.TRACKS_CATALOG = {data};\n", encoding="utf-8")
+    index = SITE / "index.html"
+    start, end = "<!-- BEGIN card coverage -->", "<!-- END card coverage -->"
+    before, rest = index.read_text(encoding="utf-8").split(start, 1)
+    _, after = rest.split(end, 1)
+    index.write_text(f"{before}{start}{escape(card_coverage_text(source))}{end}{after}", encoding="utf-8")
     sponsors = {sponsor.casefold() for project in projects for sponsor in project["sponsors"]}
     editions = {project["editionId"] for project in projects if project["editionId"]}
     print(f"{len(projects)} projects · {len(sponsors)} sponsors · {len(editions)} hackathon editions")

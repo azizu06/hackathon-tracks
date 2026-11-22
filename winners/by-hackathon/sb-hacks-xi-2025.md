@@ -100,14 +100,14 @@ Helps UCSB and SBCC students in IV locate housing. Powered by a data ingestion p
 
 In addition, the live scraping of academic databases and the future goals of scraping news articles and more sources will keep all the information up-to-date.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
+No public code found · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** aryn, firebase, flask, gpt, nextjs, python, react, singlestore, sycamore
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L52sdmP66Yo)
 - **All prizes at this hackathon (1):** Best use of Sycamore (Aryn)
 - **How it used Aryn:** The project uses the Aryn API to process PDFs and convert them to vector embeddings in Singlestore.
@@ -123,14 +123,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Y
 
 Drag and drop, shareable and searchable vector databases.
 
-No public code linked · Built with aryn, elasticsearch, go, next.js
+No public code found · Built with aryn, elasticsearch, go, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** aryn, elasticsearch, go, next.js, sycamore
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of Sycamore (Aryn)
 - **How it used Aryn:** ShareTome is built with a Go backend, Next.JS Frontend, Aryn Sycamore for document parsing and uploading, and ElasticSearch as a vector store / search engine.

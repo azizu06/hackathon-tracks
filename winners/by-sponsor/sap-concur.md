@@ -37,7 +37,7 @@ Home-cooked meals for anyone. Share a dinner and an experience.
 
 **Award:** Won “Concur Prize for Best Travel Hack” from SAP Concur. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with api.ai, azure, capital-one, javascript
+No public code found · Built with api.ai, azure, capital-one, javascript
 
 ## Track names and requirements
 

@@ -35,7 +35,7 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 
 **Award:** Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
+No public code found · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
 
 ### [TasteLatino](https://devpost.com/software/tastelatino)
 

@@ -25,7 +25,7 @@
 
 **How it used Hume:** Hume AI powers conversational tasks with sentiment and emotional analysis.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0LENXMAW3Cs) · Built with hume.ai, fastapi, fetch.ai, figma
+No public code found · [Demo video](https://www.youtube.com/watch?v=0LENXMAW3Cs) · Built with hume.ai, fastapi, fetch.ai, figma
 
 ## Track names and requirements
 

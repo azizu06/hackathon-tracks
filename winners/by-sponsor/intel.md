@@ -53,7 +53,7 @@ The webcam will recognize food that is in frame (using a Computer Vision model) 
 
 Introducing PrimeTime—an advanced productivity app that uses AI to track engagement and optimize time spent on your computer to help you maximize focus and boost efficiency.
 
-**How it used Intel:** Uses Intel's LLaVA-Gemma 2B checkpoint in the activity classifier.
+**How it used Intel:** Uses Intel’s LLaVA-Gemma 2B checkpoint.
 
 [Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with javascript, llms, next.js, npus
 
@@ -65,7 +65,7 @@ Search for the song on the tip of your tongue.
 
 **How it used Intel:** The team built the project using Intel AI PCs with remote desktop.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=70ziSQVSEqI) · Built with bootstrap, flask, mongodb, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=70ziSQVSEqI) · Built with bootstrap, flask, mongodb, node.js
 
 ### [SuperMAN](https://devpost.com/software/superman-2wigou)
 

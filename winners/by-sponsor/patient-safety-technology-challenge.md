@@ -25,7 +25,7 @@ integrated AI pain assessment aid to help patients with timing + dosage towards 
 
 **Award:** Won “Best Consumer-Driven Patient Safety Technology Track” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with css, figma, groq, html
+No public code found · Built with css, figma, groq, html
 
 ## 2024 winners
 
@@ -47,7 +47,7 @@ CognitiveKeyboard is an alternative Android keyboard that updates a user’s typ
 
 **Award:** Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
+No public code found · [Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
 
 ### [Medicine Dispensary](https://devpost.com/software/bigback)
 
@@ -67,7 +67,7 @@ SimplySign aims to make ASL more accessible and bring people together, whether b
 
 **Award:** Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with css, github, html, javascript
+No public code found · Built with css, github, html, javascript
 
 ### [Snapill - PennApps XXV Best Healthcare Hack](https://devpost.com/software/snapill)
 

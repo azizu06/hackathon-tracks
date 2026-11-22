@@ -35,7 +35,7 @@ It then ranks those overlaps by how much coordination is actually worth.
 
 **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
+No public code found · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
 
 ### [Mr.Gridy](https://devpost.com/software/mr-gridy)
 
@@ -55,7 +55,7 @@ AI agents that read utilities' public construction filings, map every planned pr
 
 **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
 
 ## Track names and requirements
 

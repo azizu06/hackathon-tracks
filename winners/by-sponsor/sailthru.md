@@ -25,7 +25,7 @@ Combines electric imp with big data provided by Sailthru to make a simple game w
 
 **How it used Sailthru:** The team used data provided by Sailthru in a game where players try to predict which browser was more popular.
 
-No public code linked
+No public code found
 
 ## Track names and requirements
 

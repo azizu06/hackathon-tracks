@@ -84,14 +84,14 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 
 Take a picture, get a 3D print of it.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g0) · Built with groq, masv, 3dprinting, ai
+No public code found · [Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g0) · Built with groq, masv, 3dprinting, ai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** 3dprinting, ai, cohere, groq, masv, meta, python, rbc, react, voiceflow
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1F65Qt2n9g0)
 - **All prizes at this hackathon (2):** Groq: Best App Built on Groq · MASV
 - **How it used Groq:** The project uses Groq to edit 3D models with LLMs.
@@ -271,7 +271,7 @@ GenomIQ streamlines plasmid engineering by combining AI-powered gene generation 
 - **Code:** [Source 1](https://github.com/nomitchell/genomiq)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Chroma: Retrieval for AI
-- **Chroma:** Built with chroma (listed on Devpost)
+- **Chroma · Listed on Devpost:** Built with chroma (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -423,14 +423,14 @@ Also won this track: [excus.us](#project-excus-us) (listed above)
 
 What your heart and mind really have to say.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
+No public code found · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** amazon-web-services, databricks, fastapi, groq, python, react, react-native, render, swift, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AEJ2ikDVvMo)
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
 - **How it used Databricks:** The project stores its data in a Databricks managed table.
@@ -462,7 +462,7 @@ The team gained valuable experience in integrating proximity detection systems w
 - **Code:** [Source 1](https://github.com/qiz-li/loolooloo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z4kfvKR1sek)
 - **All prizes at this hackathon (1):** Defang: Best Use of Defang
-- **How it used Defang:** The hardware calls a Defang-hosted backend to send SMS alerts.
+- **How it used Defang:** Uses a Defang URL for send-sms.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -817,14 +817,14 @@ Spy on your enemies (or your friends) by reading their lips through a live drone
 
 Unmute is designed for those private moments during video calls when you can't speak out loud, yet still want to fully participate in the conversation.
 
-No public code linked · Built with figma, flask, react, symphonic
+No public code found · Built with figma, flask, react, symphonic
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** figma, flask, react, symphonic, typescript, vite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Symphonic Labs: Best use of Symphonic Labs API
 - **How it used Symphonic Labs:** The team used Symphonic’s API to transcribe visual cues.
@@ -892,14 +892,14 @@ Hackathons aren't always about improving the world. Sometimes they're about savi
 
 A VR game about catching and firing arrows to delay the inevitable.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
+No public code found · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** c#, oculus, unity
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VMygnUvt998)
 - **All prizes at this hackathon (1):** Ubisoft: Ubisoft Game Dev Challenge
 - **Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.

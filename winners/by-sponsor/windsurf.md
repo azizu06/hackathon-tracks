@@ -33,7 +33,7 @@ Design 3D aircraft using AI, and simulate piloting them in AR. On mobile browser
 
 Lavoe provides an intuitive and AI-augmented DAW interface with features designed to streamline creativity:.
 
-**Windsurf:** Built with windsurf (listed on Devpost)
+**Windsurf · Listed on Devpost:** Built with windsurf (listed on Devpost)
 
 [Code](https://github.com/Leonardomontesqui/Lavoe) · [Demo video](https://www.youtube.com/watch?v=ISKuDB2s1jM) · Built with windsurf, ai-sdk, claude, cohere
 

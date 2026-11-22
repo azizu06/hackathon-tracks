@@ -57,7 +57,7 @@ PoyoLabs is a gamified dashboard that allows users to track and monitor multiple
 
 **Inferred use of EOG Resources:** Likely used EOG Resources’ CauldronWatch dataset for monitoring potion cauldrons from a single dashboard (inferred from the write-up). [Evidence](https://devpost.com/software/poyolabs-47n0fz)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
+No public code found · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
 
 ## 2024 winners
 
@@ -67,7 +67,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_
 
 It takes in data about a well and tries to detect anomalies to predict when hydrate buildups might be happening.
 
-**How it used EOG Resources:** Reads EOG Resources challenge data from CSV files.
+**How it used EOG Resources:** Uses EOG Resources CSV data files.
 
 [Code](https://github.com/zekestephens/dhy-n0) · [Demo video](https://www.youtube.com/watch?v=u_p-SZjQW9U) · Built with flask, pandas, python, react
 

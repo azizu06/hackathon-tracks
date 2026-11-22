@@ -43,7 +43,7 @@ A wearable uses directional vibrations to tell deaf and hard-of-hearing users wh
 
 A spatial awareness tool tracks objects and remembers their locations when they move out of view.
 
-**How it used Hugging Face:** Uses Hugging Face Transformers to load the Qwen vision-language model implementation.
+**Hugging Face · Imported in code:** Imports the Qwen2.5-VL model from Transformers.
 
 [Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with arduino, c++, cuda, javascript
 

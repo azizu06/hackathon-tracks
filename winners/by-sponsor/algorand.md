@@ -35,7 +35,7 @@ The team often go out with a lot of amazing friends for trips, restaurants, tour
 
 **How it used Algorand:** The project completes payments using a blockchain set up with the Algorand API.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=yy6YSp-quu4) · Built with algorand, algocoin, amazon-web-services, facebook-messenger
+No public code found · [Demo video](https://www.youtube.com/watch?v=yy6YSp-quu4) · Built with algorand, algocoin, amazon-web-services, facebook-messenger
 
 ## Track names and requirements
 

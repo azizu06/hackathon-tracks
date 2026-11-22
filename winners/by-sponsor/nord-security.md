@@ -25,7 +25,7 @@ Have you ever imagined a world where navigation is effortless, safety is guarant
 
 **Award:** Won “Track: Security and Privacy” from Nord Security. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
+No public code found · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
 
 ### [FirstWave](https://devpost.com/software/firstwave-5wbld1)
 

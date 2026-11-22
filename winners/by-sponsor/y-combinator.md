@@ -55,7 +55,7 @@ Mobius runs for very long periods of time completely autonomously to complete al
 
 **Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with ai, anthropic, chatgpt, claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with ai, anthropic, chatgpt, claude
 
 ### [TradeProof](https://devpost.com/software/tradeproof)
 
@@ -127,7 +127,7 @@ Krates is the DevOps engineer you need before you can afford to hire one—AI th
 
 **Award:** Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2og) · Built with anthropic-claude-api, docker, electron, electronjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2og) · Built with anthropic-claude-api, docker, electron, electronjs
 
 ### [Optimate](https://devpost.com/software/optimate)
 

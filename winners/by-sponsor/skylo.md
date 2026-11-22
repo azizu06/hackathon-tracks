@@ -35,7 +35,7 @@ FRED is a satellite-powered emergency response tool that allows users in remote 
 
 **How it used Skylo:** The transmitter integrates a Raspberry Pi with Skylo's satellite and cellular combo board.
 
-No public code linked · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
+No public code found · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
 
 ### [Resililink](https://devpost.com/software/resilink)
 

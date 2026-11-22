@@ -105,7 +105,7 @@ A cozy bear that families can use to share stories with their loved ones.
 
 **How it used Meta:** Muse Spark uses the transcript and sound effect catalog to return timestamps for when to play the sounds.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
 
 ## 2019 winners
 
@@ -141,7 +141,7 @@ Get personal details of someone just by looking at them with the magic of a Holo
 
 **How it used Meta:** The HoloLens displays details next to faces if they match friends’ Facebook accounts.
 
-No public code linked · Built with bottle, c++, facebook, facebook-graph
+No public code found · Built with bottle, c++, facebook, facebook-graph
 
 ## 2016 winners
 
@@ -163,7 +163,7 @@ VR DJ allows you to visualize and manipulate music.
 
 **Meta:** Sponsor use not stated on Devpost
 
-No public code linked · Built with c#, unity, vive
+No public code found · Built with c#, unity, vive
 
 ## 2013 winners
 
@@ -175,7 +175,7 @@ An online collection and viewer of PowerPoint presentations for large events/con
 
 **Meta:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=6cKSB5mMAFo)
+No public code found · [Demo video](https://www.youtube.com/watch?v=6cKSB5mMAFo)
 
 ## Track names and requirements
 

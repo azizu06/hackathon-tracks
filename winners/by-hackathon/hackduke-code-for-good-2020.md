@@ -333,14 +333,14 @@ CheckUp allows doctors to monitor patients for coronavirus symptoms before and a
 
 Fingerprint based Exam hall registration, authentication system with temperature sensing of the candidate, recording it on Thingspeak plus sending email alert to authorities when temperature is high.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Awg5byHF0B8) · Built with arduino, c, ifttt, keilmicrovision
+No public code found · [Demo video](https://www.youtube.com/watch?v=Awg5byHF0B8) · Built with arduino, c, ifttt, keilmicrovision
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** arduino, c, ifttt, keilmicrovision, nodemcu, proteus, thingspeak
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Awg5byHF0B8)
 - **All prizes at this hackathon (1):** Wolfram Award
 - **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
@@ -425,14 +425,14 @@ Learn new languages as you browse! Coral is a chrome extension that immerses you
 
 CovHub makes it effortless to find up to date information on topics related to the ongoing pandemic, including forecast, simulations, news, research, policy, market, live charts, and much more.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=9ekGMGMFSVg) · Built with bootstrap, css3, embedly, google-chart
+No public code found · [Demo video](https://www.youtube.com/watch?v=9ekGMGMFSVg) · Built with bootstrap, css3, embedly, google-chart
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** bootstrap, css3, embedly, google-chart, html5, javascript, jquery, tensorflow.js
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9ekGMGMFSVg)
 - **All prizes at this hackathon (1):** Wolfram Award
 - **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
@@ -540,14 +540,14 @@ Especially during COVID, people have never been more disconnected. Ensemble hope
 
 Extinguish uses machine learning to provide helpful insights about fires.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=I-1iUyfoR4E) · Built with css3, flask, html5, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=I-1iUyfoR4E) · Built with css3, flask, html5, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** css3, flask, html5, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=I-1iUyfoR4E)
 - **All prizes at this hackathon (1):** Wolfram Award
 - **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
@@ -678,14 +678,14 @@ Kaizen is a therapeutic journal for patients with a focus on privacy. Patients c
 
 Mindful Me is a website that allows and encourages users to complete daily mental health checks in and provides tailored mental health resources based on a user's identity.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=dF6Cx_b8CjA) · Built with cassandra, css, datastax-astra, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=dF6Cx_b8CjA) · Built with cassandra, css, datastax-astra, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cassandra, css, datastax-astra, flask, glitch, google-cloud, html, javascript, python, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dF6Cx_b8CjA)
 - **All prizes at this hackathon (1):** Wolfram Award
 - **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.

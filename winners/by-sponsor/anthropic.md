@@ -55,7 +55,7 @@ A civic reporting tool flags street hazards in images and pairs them with city r
 
 **How it used Anthropic:** Claude Haiku runs the two-stage vision pipeline.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
+No public code found · [Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
 
 ### [Standard Response](https://devpost.com/software/standard-response)
 
@@ -107,7 +107,7 @@ An eldercare assistant identifies changes in daily behavior and surfaces them to
 
 **How it used Anthropic:** The project uses Claude for intent and sentiment analysis.
 
-No public code linked · Built with html5, java, javascript, python
+No public code found · Built with html5, java, javascript, python
 
 ## Track names and requirements
 

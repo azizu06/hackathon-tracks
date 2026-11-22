@@ -35,7 +35,7 @@ A drone platform that not only knows how to fly itself, but also knows where to 
 
 **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with arduino, c++, raspberry-pi
+No public code found · Built with arduino, c++, raspberry-pi
 
 ### [Flight Aid](https://devpost.com/software/flight-aid)
 
@@ -45,7 +45,7 @@ This is a user-facing web app that allows the user to pick a delivery location a
 
 **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with css, dronekit, html, javascript
+No public code found · Built with css, dronekit, html, javascript
 
 ### [Game of Drones](https://devpost.com/software/game-of-drones-rsafv0)
 
@@ -55,7 +55,7 @@ Advanced route planning for drone deliveries to moving targets, with tracking an
 
 **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with google-streetview, javascript, leaflet.js, mithril.js
+No public code found · Built with google-streetview, javascript, leaflet.js, mithril.js
 
 ### [LeapLock](https://devpost.com/software/leaplock-piof9q)
 
@@ -75,7 +75,7 @@ With more and more advancements in drone technology, drones are becoming accessi
 
 **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with flask, javascript
+No public code found · Built with flask, javascript
 
 ### [Smart Drone Delivery Planning](https://devpost.com/software/smart-drone-delivery-planning)
 
@@ -85,7 +85,7 @@ An iOS app for multi-drone multi-package planning, that supports variable drone 
 
 **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with apple-maps, swift
+No public code found · Built with apple-maps, swift
 
 ## Track names and requirements
 

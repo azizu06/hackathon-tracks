@@ -97,7 +97,7 @@ Clip, save, and organize the exact moments that spark your ideas.
 
 **How it used Amazon Web Services:** DynamoDB Streams automatically update the search index.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
+No public code found · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
 
 ### [Sematic](https://devpost.com/software/diaframe)
 
@@ -117,7 +117,7 @@ Signify brings AI into the web accessibility space.
 
 **How it used Amazon Web Services:** The team used AWS services for video storage in S3 and language processing with Bedrock.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
+No public code found · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
 ### [TradeOff](https://devpost.com/software/tradeoff-c24mwv)
 
@@ -139,7 +139,7 @@ Building community among pro bono lawyers through an easy to use conversational 
 
 **How it used Amazon Web Services:** The team built its core chatbot on AWS Lex.
 
-No public code linked · Built with amazon-web-services, amazon-lex, case.law, google-cloud
+No public code found · Built with amazon-web-services, amazon-lex, case.law, google-cloud
 
 ### [Text2Test](https://devpost.com/software/text2test)
 

@@ -45,7 +45,7 @@ Unmute is designed for those private moments during video calls when you can't s
 
 **How it used Symphonic Labs:** The team used Symphonic’s API to transcribe visual cues.
 
-No public code linked · Built with figma, flask, react, symphonic
+No public code found · Built with figma, flask, react, symphonic
 
 ## Track names and requirements
 

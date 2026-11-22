@@ -203,14 +203,14 @@ Canary catches small building warnings before they become expensive outages: AI 
 
 Turn real-estate data into explainable infrastructure risk insights and prioritized investigations.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** html, javascript, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sJX_GgbqtNI)
 - **All prizes at this hackathon (1):** CBRE Track
 - **Award:** Won “CBRE Track” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
@@ -280,14 +280,14 @@ The night shift, with a hive behind it.
 
 For code with some catching up to do. ketchup uses an AI agent to work through TypeScript upgrades and return a checked patch you can review.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=hoLp4GRSbAI) · Built with claude, css, html, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=hoLp4GRSbAI) · Built with claude, css, html, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** claude, css, html, javascript, node.js, npm, nvidia-dcgm-exporter, nvidia-nemotron, openai-codex, opentelemetry, playwright, prometheus, typescript, typescript-compiler-api, zod
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hoLp4GRSbAI)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **GoDaddy Registry:** Sponsor use not stated on Devpost
@@ -307,14 +307,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=hoLp4GRSbA
 
 Loan Wick helps loan officers flag duplicate collateral and group exposure, with source-backed findings, human review, and real-time audit trails.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=B7mWEOy4dME) · Built with css, nemotron, node.js, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=B7mWEOy4dME) · Built with css, nemotron, node.js, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, nemotron, node.js, python, spacetimedb, typescript, vultr
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=B7mWEOy4dME)
 - **All prizes at this hackathon (1):** Goldman Sachs Track
 - **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
@@ -330,14 +330,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=B7mWEOy4dM
 
 Connect the dots. Detect the risks.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c) · Built with python, react, tailwind, vite
+No public code found · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c) · Built with python, react, tailwind, vite
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** python, react, tailwind, vite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0AvDX1Ru_-c)
 - **All prizes at this hackathon (1):** Goldman Sachs Track
 - **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
@@ -353,14 +353,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-
 
 The pipeline your team trusts to automate your commercial loans.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** docker, pocketbase, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RYIeD--Azeo)
 - **All prizes at this hackathon (1):** Goldman Sachs Track
 - **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
@@ -378,7 +378,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=RYIeD--Aze
 
 [Google](../by-sponsor/google.md) · **Best Use of Gemini API**
 
-An AI-powered robotic hand controlled by brain-to-muscle intent signals, adapting therapy in real time across stroke, Parkinson’s, and three more conditions for $30.
+An AI-powered robotic hand controlled by brain-to-muscle intent signals, adapting therapy in real time across stroke, Parkinson’s, and three more conditions.
 
 [Code](https://github.com/HassanKhan20/nuero-grip) · [Demo video](https://vimeo.com/1244909388) · Built with google-gemini, accelerometer, arduino, c++
 
@@ -407,14 +407,14 @@ An AI-powered robotic hand controlled by brain-to-muscle intent signals, adaptin
 
 RescueMEsh is a low-cost device for SOS communication when disasters disrupt cellular networks. Nemotron agents prioritize emergencies &amp; coordinate resources across nearby hubs to help dispatchers.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
+No public code found · [Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** c++, core-location, corebluetooth, esp32, html, javascript, mongodb, nemotron, node.js, powershell, qwen, shell, swift
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cqpzf7NP9gY)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
 - **How it used MongoDB:** The project uses independent MongoDB-backed hubs.
@@ -613,7 +613,7 @@ AI roommate that fairly manages shared finances in your group chat: splits bills
 - **Code:** [Source 1](https://github.com/jspinerola/house-rules)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Quiicn_2FOc)
 - **All prizes at this hackathon (1):** Photon Track
-- **Photon:** Built with photon (listed on Devpost)
+- **Photon · Listed on Devpost:** Built with photon (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -753,14 +753,14 @@ Night Watch is an oracle for data center operations, built around two goals.
 
 🏢 Prepare buildings. 🔥 Save every resident. 🛡️.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with spacetimedb, anthropic-api, blender, cal-fire
+No public code found · [Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with spacetimedb, anthropic-api, blender, cal-fire
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** anthropic-api, blender, cal-fire, claude, nasa-firms, node.js, numpy, pandas, postgresql, puppeteer, python, react, scikit-learn, spacetimedb, svg, tiger-data, timescaledb, typescript, vercel, vite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lORYwjN39mg)
 - **All prizes at this hackathon (1):** Spacetime Track
 - **How it used Spacetime:** SpacetimeDB is the backend and is hosted on Maincloud.
@@ -922,14 +922,14 @@ ANCHOR connects a device in the customer’s home to a claims dashboard that Sta
 
 LifeLine is a disaster recovery platform that connects residents, responders, and organizations in real time.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** photon, react-native, spacetime, typescript, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CMUDwhV0rCA)
 - **All prizes at this hackathon (1):** State Farm Track
 - **Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
@@ -945,14 +945,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rC
 
 Privacy-first home safety system that detects hazards like leaks and power loss, alerts homeowners early, and securely shares incident details with approved contacts.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** c++, cloudflare, esp32, html, mongodb, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FLlMLdGa3LY)
 - **All prizes at this hackathon (2):** Beginner Track -- HackUTD Track · State Farm Track
 - **Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
@@ -1095,14 +1095,14 @@ It contains and offers the following services:.
 
 You can outrun the cops. Not your APR.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE) · Built with anthropic, claude, css3, elevenlabs
+No public code found · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE) · Built with anthropic, claude, css3, elevenlabs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** anthropic, claude, css3, elevenlabs, express.js, frame-motion, html5, javascript, node.js, photon, react, render, sip, socket.io, typescript, vite, vitest
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CvIqv4w5MvE)
 - **All prizes at this hackathon (1):** Toyota Financial Services Track
 - **Award:** Won “Toyota Financial Services Track” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
@@ -1218,14 +1218,14 @@ A secure war room for ransomware response.
 
 When your systems go down, your response stays up.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=s6qzeIHrdKc) · Built with canva, figma, javascript, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=s6qzeIHrdKc) · Built with canva, figma, javascript, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** canva, figma, javascript, node.js, npm, react-19, rust, spacetimedb, tailwind-css-4, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=s6qzeIHrdKc)
 - **All prizes at this hackathon (1):** Winstead PC Track
 - **Award:** Won “Winstead PC Track” from Winstead PC. The write-up gives no details on how the team used the sponsor’s tech.

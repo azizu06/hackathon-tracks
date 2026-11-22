@@ -23,7 +23,7 @@
 
 MedBot turns viral health claims into evidence-backed insights and shareable videos, helping people separate hype from science.
 
-**How it used GPTZero:** Checks whether the transcript could be AI-written with GPTZero when the service is available.
+**How it used GPTZero:** Checks the transcript with GPTZero when available.
 
 [Code](https://github.com/RayanMalki/medbot-htn2026) · [Demo video](https://www.youtube.com/watch?v=utDEHZVCYtU) · Built with elasticsearch, openai, react, typescript
 
@@ -43,7 +43,7 @@ Sham is a Chrome extension that helps you spot sketchy online stores before chec
 
 Snitch helps recruiters spot suspicious moments in remote interviews by combining behavioral signals, AI-language detection, CV checks, and visual canaries.
 
-**How it used GPTZero:** Uses GPTZero to score interview text for the probability that it is AI-generated.
+**How it used GPTZero:** Uses a GPTZero AI probability for text.
 
 [Code](https://github.com/amelialon/Snitch) · [Demo video](https://www.youtube.com/watch?v=Yi8CKzDzxrU) · Built with gptzero, fastapi, firebase, firestore
 

@@ -65,7 +65,7 @@ Find sanctioned investigators, not their namesakes.
 
 **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
+No public code found · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
 
 ### [SiteLine](https://devpost.com/software/siteline-90rxwp)
 
@@ -95,7 +95,7 @@ Gamified clinical trials with computer vision.
 
 **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
 
 ### [TrialMate](https://devpost.com/software/trialmate)
 
@@ -157,7 +157,7 @@ Using agentic AI to reinvent compliance.
 
 **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=SdEoVMPPPDg) · Built with fastapi, gemini, html, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=SdEoVMPPPDg) · Built with fastapi, gemini, html, javascript
 
 ### [Harmoniq](https://devpost.com/software/harmoniq-06o1e9)
 
@@ -177,7 +177,7 @@ MIFY is an all-in-one patient recruitment platform that leverages generative AI 
 
 **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with amazon-web-services, api, chroma, claude
+No public code found · Built with amazon-web-services, api, chroma, claude
 
 ### [MonitorMachine](https://devpost.com/software/monitormachine)
 
@@ -207,7 +207,7 @@ The architecture is based off of deep generative models such as GAIN and conditi
 
 **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k) · Built with numpy, pandas, python, tensorflow
+No public code found · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k) · Built with numpy, pandas, python, tensorflow
 
 ### [TrialFlow](https://devpost.com/software/trialflow)
 
@@ -217,7 +217,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2
 
 **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
 
 ### [TrialGuideAI](https://devpost.com/software/trialguideai)
 
@@ -227,7 +227,7 @@ TrialGuideAI uses AI to distill dense clinical trial protocols into accessible s
 
 **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY) · Built with css, gemini, git, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY) · Built with css, gemini, git, html
 
 ### [trialmatch.ai](https://devpost.com/software/trial-match-ai)
 

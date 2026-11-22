@@ -23,9 +23,9 @@
 
 Elevated and autonomous security for the vibe coded world. Argus deploys five specialized agents to attack your app in a sandbox, prove vulnerabilities, generate fixes, and verify the patch works.
 
-**Neon:** Built with neon (listed on Devpost)
+**Neon · Listed on Devpost:** Built with neon (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
+No public code found · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
 
 ### [GEarth](https://devpost.com/software/diarockets)
 

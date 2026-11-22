@@ -25,7 +25,7 @@ Unified memory across your entire AI stack, complete with codebase visualization
 
 **Award:** Won “Ergo - Best Use of Mastra Agent Framework for Productivity” from Ergo. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
+No public code found · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
 
 ### [CanDraw](https://devpost.com/software/s-hrncfi)
 

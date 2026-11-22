@@ -37,7 +37,7 @@ Bringing Transparency and Ease into Job Search.
 
 **Award:** Won “ActualFood” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with api, css, firebase, flask
+No public code found · Built with api, css, firebase, flask
 
 ### [CourseAI](https://devpost.com/software/courseai-04p9wb)
 
@@ -67,7 +67,7 @@ Fivi is a AI Personal Trainer that breaks down traditional barriers to fitness. 
 
 **Award:** Won “ActualFood Award” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with flask, javascript, numpy, opencv
+No public code found · Built with flask, javascript, numpy, opencv
 
 ### [Futon](https://devpost.com/software/futon)
 

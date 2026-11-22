@@ -45,7 +45,7 @@ Your doorbell doesn’t just ring anymore… it sees, thinks, and talks in any l
 
 **How it used ElevenLabs:** The team integrated ElevenLabs conversational agents to generate low-latency, natural voice responses.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa4) · Built with elevenlabs, fastapi, gemini, multimap
+No public code found · [Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa4) · Built with elevenlabs, fastapi, gemini, multimap
 
 ### [flow.](https://devpost.com/software/flow-8pgm1k)
 
@@ -63,7 +63,7 @@ speak a concept, step inside it in 3d.
 
 Facetime your dad for home repair advice at anytime.
 
-**How it used ElevenLabs:** Uses ElevenLabs audio in the video chat's text-to-speech flow.
+**How it used ElevenLabs:** Calls ElevenLabs for text-to-speech.
 
 [Code](https://github.com/ponita05/hack-brown) · [Demo video](https://www.youtube.com/watch?v=xD_QGRqzkvo) · Built with elevenlabs, async, base64, canvas
 
@@ -75,7 +75,7 @@ Language shouldn't cut anyone off. Buddy joins any phone call to interpret both 
 
 **How it used ElevenLabs:** The project uses ElevenLabs Scribe v2 for speech-to-text with automatic language detection.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=QRPmRg4-4KU) · Built with elevenlabs, express.js, grok, meta
+No public code found · [Demo video](https://www.youtube.com/watch?v=QRPmRg4-4KU) · Built with elevenlabs, express.js, grok, meta
 
 ### [HUDson](https://devpost.com/software/hudson-uw5kn7)
 
@@ -83,7 +83,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=QRPmRg4-4K
 
 A wearable gives deaf and hard-of-hearing users visual and tactile cues about surrounding sounds.
 
-**How it used ElevenLabs:** Opens an ElevenLabs WebSocket to stream speech for transcription.
+**How it used ElevenLabs:** Uses the ElevenLabs realtime speech-to-text WebSocket.
 
 [Code](https://github.com/iancdev/hudglasses) · [Demo video](https://www.youtube.com/watch?v=4YbXLKoHIKk) · Built with elevenlabs, 3dprinting, c++, esp32
 
@@ -145,7 +145,7 @@ An AI copilot for air traffic controllers. It plans conflict-free routes, listen
 
 **How it used ElevenLabs:** The project uses ElevenLabs voices through a narrow-band radio filter for its AI pilots.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
+No public code found · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
 
 ## 2025 winners
 
@@ -165,7 +165,7 @@ A voice interviewer asks practice coding questions and gives feedback on the ans
 
 The team created On The Go Storyteller , an interactive reading platform that bridges the distance between parents and children.
 
-**How it used ElevenLabs:** Calls ElevenLabs text-to-speech to generate audio.
+**How it used ElevenLabs:** Calls ElevenLabs for text-to-speech.
 
 [Code](https://github.com/KeiraJames/nyu-hacks) · Built with css, express.js, firebase, gemini
 
@@ -185,9 +185,9 @@ A modern walking aid powered by LiDAR sensing and haptic force feedback, a syste
 
 A voice-controlled assistant reads the screen and operates desktop apps on the user's behalf.
 
-**ElevenLabs:** Built with elevenlabs (listed on Devpost)
+**ElevenLabs · Listed on Devpost:** Built with elevenlabs (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2o) · Built with elevenlabs, claude, gemini, httpx
+No public code found · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2o) · Built with elevenlabs, claude, gemini, httpx
 
 ### [Lingua Spatial](https://devpost.com/software/lingua-spatial)
 
@@ -255,7 +255,7 @@ Vigilant watches live campus cameras, detects visible weapons, and computes risk
 | [HackTX 2025](../by-hackathon/hacktx-2025.md) | &#91;MLH&#93; Best Use of ElevenLabs | ElevenLabs | [Track label](https://hacktx2025.devpost.com/) |
 | [HackUTD 2025](../by-hackathon/hackutd-2025.md) | Best Use of ElevenLabs by MLH | ElevenLabs | [Track label](https://hackutd-2025.devpost.com/) |
 | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | MLH - Best Use of ElevenLabs | ElevenLabs | [Track label](https://knighthacksviii.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | ElevenLabs: Best Use of ElevenLabs (11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93;) | ElevenLabs | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | ElevenLabs: Best Use of ElevenLabs | ElevenLabs | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
 

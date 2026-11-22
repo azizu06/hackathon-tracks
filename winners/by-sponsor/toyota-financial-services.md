@@ -65,7 +65,7 @@ You can outrun the cops. Not your APR.
 
 **Award:** Won “Toyota Financial Services Track” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE) · Built with anthropic, claude, css3, elevenlabs
+No public code found · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE) · Built with anthropic, claude, css3, elevenlabs
 
 ### [Toyyo](https://devpost.com/software/toyo-zxjwfe)
 
@@ -169,7 +169,7 @@ ToyoTrends is a powerful web application designed for Toyota engineers to visual
 
 **Award:** Won “Toyota” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lEvVw3Qg834) · Built with carsxe, chart.js, css, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=lEvVw3Qg834) · Built with carsxe, chart.js, css, html
 
 ## Track names and requirements
 

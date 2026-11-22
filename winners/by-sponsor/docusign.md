@@ -25,7 +25,7 @@
 
 **How it used DocuSign:** AgreeAble uses the DocuSign Click API to sign agreements.
 
-No public code linked · Built with docusign, azure, css, django
+No public code found · Built with docusign, azure, css, django
 
 ### [Disaster Relief](https://devpost.com/software/memory-qnsyo2)
 
@@ -43,7 +43,7 @@ Helping terrible men control the consequences of their actions.
 
 Share underutilized GPU power for machine learning education.
 
-**How it used DocuSign:** Uses the DocuSign Click SDK to display an agreement in the web app.
+**How it used DocuSign:** Uses the DocuSign Click SDK script.
 
 [Code](https://github.com/as-com/gpuppy)
 
@@ -53,7 +53,7 @@ Share underutilized GPU power for machine learning education.
 
 Using Machine Learning to process a person's speech and determine if they are intoxicated.
 
-**DocuSign:** Built with DocuSign (listed on Devpost)
+**DocuSign · Listed on Devpost:** Built with DocuSign (listed on Devpost)
 
 [Code](https://github.com/johancc/LGTM) · Built with docusign, google-cloud, python, rev-ai
 
@@ -67,7 +67,7 @@ The product summarizes the content of documents into a few key lines which will 
 
 **How it used DocuSign:** The project uses DocuSign’s API to share a contract for the recipient to sign.
 
-No public code linked · Built with docusign, beautiful-soup, bootstrap, css
+No public code found · Built with docusign, beautiful-soup, bootstrap, css
 
 ## Track names and requirements
 

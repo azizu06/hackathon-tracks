@@ -57,7 +57,7 @@ monitoring dashboards, uniquely effective to each problem.
 
 **Midnight:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=HIYSX7clnl8) · Built with typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=HIYSX7clnl8) · Built with typescript
 
 ### [TradeREC](https://devpost.com/software/energy-trading)
 

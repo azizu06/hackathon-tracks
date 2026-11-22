@@ -61,14 +61,14 @@ These projects won more than one prize here. Each one is listed once.
 
 Clip, save, and organize the exact moments that spark your ideas.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
+No public code found · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-web-services, cohere, css, figma, html, javascript, nextjs, opencv, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rs7uaWL67tQ)
 - **All prizes at this hackathon (2):** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · Cohere: Best Use of Cohere API
 - **How it used Amazon Web Services:** DynamoDB Streams automatically update the search index.
@@ -96,7 +96,7 @@ Lavoe provides an intuitive and AI-augmented DAW interface with features designe
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ISKuDB2s1jM)
 - **All prizes at this hackathon (2):** Rox: Best AI Agent · Windsurf: Best Project built with Windsurf
 - **Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
-- **Windsurf:** Built with windsurf (listed on Devpost)
+- **Windsurf · Listed on Devpost:** Built with windsurf (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -157,14 +157,14 @@ Real-time facial recognition that identifies connections, remembers conversation
 
 Splitting bills with friends is messy—receipts get lost, people forget to pay, and tracking balances is a headache. SolShare fixes this: scan, assign, and settle instantly on Solana.
 
-No public code linked · Built with cohere, solana, firebase, gcp
+No public code found · Built with cohere, solana, firebase, gcp
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cohere, firebase, gcp, solana, swift, swiftui, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Cohere: Best Use of Cohere API · Solana: Best Consumer Payment Experience with Solana Pay
 - **How it used Cohere:** The Cohere API handles receipt scanning and item parsing.
@@ -296,17 +296,17 @@ Learn about the process of how any GitHub project came to be! Get a timeline of 
 
 Friend asking you silly questions mid-show-dialogue during the climax? No fear, CompOnion (a play on words for Companion) is here.
 
-No public code linked · Built with cloudflare, gemini, javascript, neon
+No public code found · Built with cloudflare, gemini, javascript, neon
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** cloudflare, gemini, javascript, neon, python, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MLH: Best AI Application Built with Cloudflare
-- **Cloudflare:** Built with cloudflare (listed on Devpost)
+- **Cloudflare · Listed on Devpost:** Built with cloudflare (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -435,7 +435,7 @@ Competing to build a SOTA computer use agent (Cua + Hud + Ollama).
 - **Code:** [Source 1](https://github.com/Ram-Raghav-S/cua)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cua: Best State-of-the-Art Computer-Use Agent
-- **Cua:** Built with Cua (listed on Devpost)
+- **Cua · Listed on Devpost:** Built with Cua (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -718,14 +718,14 @@ LangSketch is a visual agent builder that leverages Databricks for data processi
 
 Vibe CAD to 3D print the solutions to everyday problems in your environment, Tony Stark style, no design experience required.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=32oY_iV8jRo) · Built with mongodb, fastapi, javascript, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=32oY_iV8jRo) · Built with mongodb, fastapi, javascript, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** fastapi, javascript, mongodb, next.js, python, snapos, typescript, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=32oY_iV8jRo) · [Video 2](https://www.youtube.com/watch?v=AeguwtHqEjc)
 - **All prizes at this hackathon (1):** MLH: Best Use of MongoDB Atlas
 - **How it used MongoDB:** The project stores encrypted models, metadata, and embeddings in MongoDB.
@@ -768,14 +768,14 @@ Configuring your QNX Raspberry Pi can be a long and boring process. Accelerate i
 
 In a world where productivity is everything, every second counts, time spent away from the desk is time wasted. With, QNXMobility move around your workspace with ease, speed and greater efficiency.
 
-No public code linked · Built with qnx, o-drive, python
+No public code found · Built with qnx, o-drive, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** o-drive, python, qnx
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** QNX: Best Use of QNX: Hardware and Software Prizes
 - **How it used QNX:** The project uses the QNX Raspberry Pi kit to interface with the IMU.
@@ -957,7 +957,7 @@ An e-commerce platform with two faces: customers checkout by camera no barcode, 
 - **Code:** [Source 1](https://github.com/MeharPro/Tarazoo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6TfBS77bEAU)
 - **All prizes at this hackathon (1):** Shopify: Hack Shopping with AI
-- **How it used Shopify:** Queries the Shopify Storefront API for its product catalog when the store is configured.
+- **How it used Shopify:** Uses the Shopify GraphQL API endpoint.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1065,7 +1065,7 @@ Stacy is a voice safety companion. Stacy logs incidents, your live location, ale
 - **Code:** [Source 1](https://github.com/apollo-ullah/HackTheNorth2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nHx5KazGawQ)
 - **All prizes at this hackathon (1):** VAPI: Best Voice AI Application
-- **How it used Vapi:** Uses Vapi to create voice calls.
+- **How it used Vapi:** Creates calls with Vapi.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

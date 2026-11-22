@@ -25,7 +25,7 @@ Vidego offers users the ability to perform text searches on the content of video
 
 **How it used AlchemyAPI:** The project uses AlchemyAPI for keyword comparisons.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=sXedTRAG5rU)
+No public code found · [Demo video](https://www.youtube.com/watch?v=sXedTRAG5rU)
 
 ## Track names and requirements
 

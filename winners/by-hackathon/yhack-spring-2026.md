@@ -82,7 +82,7 @@ Commons is a map-first community coordination platform.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-yewvVRouq4)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Best use of Hex API
 - **GoDaddy Registry:** Sponsor use not stated on Devpost
-- **How it used Hex:** The team links to its project work on Hex.
+- **Linked resource from Hex:** The team links to its project work on Hex.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -261,7 +261,7 @@ An agentic AI incident resolution platform that ingests service incidents and or
 
 [K2 Think](../by-sponsor/k2-think.md) · **Best Use of K2 Think V2**
 
-Burned $300 running a 100-agent swarm to launch Simulacra and headstart the future of generative social science, all in 24 hours.
+The team ran a 100-agent swarm to launch Simulacra for generative social science in 24 hours.
 
 [Code](https://github.com/0xABAN/simulacra) · [Demo video](https://www.youtube.com/watch?v=fPZQB1WaVC4) · Built with bun, fastapi, k2-think, langgraph
 
@@ -292,14 +292,14 @@ Also won this track: [CiteSite](#project-citesite-i80hlo) (listed above)
 
 Ambient sits on your desktop, learns how you work, and handles the busywork before you even think about it. Scheduling, research, and analysis done instantly.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lX8BuX64JwI) · Built with lava-api, anthropic-api, electron, google-calendar-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=lX8BuX64JwI) · Built with lava-api, anthropic-api, electron, google-calendar-api
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** anthropic-api, electron, google-calendar-api, hex-api, lava-api, node.js, openai-api, pnpm, react, sqlite, tailwind-css, turborepo, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lX8BuX64JwI)
 - **All prizes at this hackathon (1):** Best use of Lava API
 - **How it used Lava:** The project uses Lava gateway in its LLM pipeline for structured JSON recommendations.
@@ -404,7 +404,7 @@ Your guided path through regulatory complexity.
 - **Code:** [Source 1](https://github.com/xyaei/forseen)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=S-HOp3EjmWo)
 - **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **How it used Nous Research:** Uses a Hermes service to generate compliance reports.
+- **Nous Research · Imported in code:** Imports get&#95;report from the Hermes service.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -467,14 +467,14 @@ Second Self is a digital twin that runs as a parallel user session on your very 
 
 Compose electronic music just by wiggling your fingers, hand positions swapping live instruments in real time. Once you're done, go full party mode.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=cohE1Eti1dU) · Built with snap
+No public code found · [Demo video](https://www.youtube.com/watch?v=cohE1Eti1dU) · Built with snap
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** snap
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cohE1Eti1dU)
 - **All prizes at this hackathon (1):** Best use of Snap Lens Studio
 - **How it used Snap:** The team used Lens Studio for instrument mapping logic.
@@ -513,14 +513,14 @@ Learn any dance head-to-head in AR with full-body tracking and scoring in real-t
 
 Act it out. Guess it right.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=c4J5046t_68) · Built with javascript, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=c4J5046t_68) · Built with javascript, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** javascript, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=c4J5046t_68)
 - **All prizes at this hackathon (1):** Best use of Snap Lens Studio
 - **How it used Snap:** The team built Split World in Lens Studio using its scripting framework and AR capabilities.
@@ -577,7 +577,7 @@ Making mobility accessible, cheap, simple. and modular to the health sector and 
 - **Code:** [Source 1](https://github.com/ryanli222/yHack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RzqbO86LRXQ)
 - **All prizes at this hackathon (2):** Best Use of Viam · Hardware
-- **How it used Viam:** Controls a robot arm through the Viam SDK.
+- **Viam · Imported in code:** Imports the Arm component from Viam.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -617,17 +617,17 @@ Raw watts or joules-per-token misses the carbon picture entirely.
 
 GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
+No public code found · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claude, python, qnx, raspberry-pi, zed
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VRsa9P1m8z0)
 - **All prizes at this hackathon (2):** Built With Zed · Third Place Overall
-- **Zed:** Built with zed (listed on Devpost)
+- **Zed · Listed on Devpost:** Built with zed (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

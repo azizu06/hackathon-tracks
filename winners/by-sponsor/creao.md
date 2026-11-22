@@ -25,7 +25,7 @@ Anima Labs is an agentic development environment for computational neuroscience.
 
 **How it used Creao:** The team also used the persistent memory feature of CREAO's agents to allow users to iterate on research projects.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with creao, arxiv, docker, europe-pmc
+No public code found · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with creao, arxiv, docker, europe-pmc
 
 ### [Bursar](https://devpost.com/software/bursar-hej2yl)
 
@@ -43,7 +43,7 @@ An autonomous finance team where nothing moves without proof: Creao agents pick 
 
 An autonomous finance desk that tracks automotive tariffs from imported parts to customer credits, catching errors, learning from decisions, and posting only with approval.
 
-**How it used Creao:** Routes its tariff desk's reasoning requests to Creao agents when configured.
+**How it used Creao:** Uses Creao agents as the seats’ brains.
 
 [Code](https://github.com/ParthGala2k/tariffic) · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
 
@@ -57,7 +57,7 @@ Upload ads, get clear scores, one-line reasons, and precise fixes—then a ranke
 
 **How it used Creao:** The team used Creao.ai for the UI.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
+No public code found · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
 
 ### [AI-Powered Food Bank Management System](https://devpost.com/software/foodbank-automation)
 
@@ -87,7 +87,7 @@ Stop hunting, start researching: AI that finds opportunities and opens doors.
 
 **How it used Creao:** The project uses Creao.ai to accelerate UI development and component generation.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aX6u9S8C7Co) · Built with creao.ai, alembic-(database-migrations), brightdatamcp, claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=aX6u9S8C7Co) · Built with creao.ai, alembic-(database-migrations), brightdatamcp, claude
 
 ### [Tapped In](https://devpost.com/software/tapped-in)
 

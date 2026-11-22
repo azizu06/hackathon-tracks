@@ -25,7 +25,7 @@ Campanion turns college wellness into a game. Your pet avatar reflects how you s
 
 **How it used Mana:** The team built Campanion with Mana.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=c00p0ouf_hw) · Built with mana, firebase, google-calendar-api, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=c00p0ouf_hw) · Built with mana, firebase, google-calendar-api, javascript
 
 ### [Docket](https://devpost.com/software/docket-ezaum8)
 

@@ -497,7 +497,7 @@ DIAL (&#42;) is an optimized customer service agent designed for data-heavy use 
 - Team size 5. 3 event prize labels.
 - Built With duckdb, elevenlabs, express.js, ngrok, node.js, sql, twilio.
 - Event prizes Conversion: Best Use of Conversion · Crater: Play-Do Prize · Rox: Best Use of Rox.
-- Code No public code linked
+- Code No public code found
 - Video [Video 1](https://www.youtube.com/watch?v=32DSdO1V-z0)
 - Evidence Devpost Winner label. Integration evidence Integration detail unavailable.
 
@@ -530,15 +530,18 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 
 ## Coverage and link limits
 
-**1,034 shown** (994 full, 40 Built With or dependency) · **25 inferred** · **514 award-only** · 124 not stated
+**1,023 shown** (964 full, 59 tech listings) · **25 inferred** · **516 award-only** · 123 not stated · 10 linked resource only
+
+908 cards with sourced use · 24 with inferred notes · 64 with listed tech or links only · 557 award-only or unstated · 1,216 with public code links
 
 - Built With tags are available for 1,536 of 1,553 project editions.
 - Team counts are available for 1,553 project editions.
-- Summary evidence by award row: Devpost project write-up (858), Devpost prize title (514), Integration detail unavailable (124), GitHub source code (71), GitHub README (44), Devpost Built With (40).
+- Summary evidence by award row: Devpost project write-up (851), Devpost prize title (516), Integration detail unavailable (123), GitHub source code (59), Devpost Built With (44), GitHub README (42).
 - Source code links verified HTTP 200 for 1264 of 1394 unique recognized links.
+- The 60 editions use 34 display names. The Markdown hackathon index groups them into 23 event series.
 - Demo video links verified HTTP 200 for 1251 of 1251 unique recognized links.
 - The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.
-- Full sponsor notes cite a role documented in a Devpost page, GitHub README, source code, or demo captions. Light notes cite a Built With tag or a dependency manifest. Inferred notes connect a documented feature to the sponsor product in its prize criteria. Award-only notes cite the exact prize title.
+- Full sponsor notes cite a role documented in a Devpost page, GitHub README, source code, or demo captions. Light notes cite a technology listing, code import or dependency manifest. Linked resource notes describe a link from the project. Inferred notes connect a documented feature to the sponsor product in its prize criteria. Award-only notes use the verified prize title with monetary amounts removed.
 - Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. General event awards remain visible in project prize lists.
 - HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. The public prize entry supplies no sponsor identity, so those two awards fall outside the named-sponsor index.
 - Prize values come from the track label. Multiple placements, team totals, and service credits stay in the source wording.

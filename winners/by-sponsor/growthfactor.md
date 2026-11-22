@@ -67,7 +67,7 @@ VisiFy: Storefront Selection with AI-Powered Visibility &amp; Insights.
 
 **Award:** Won “GrowthFactor AI Impressions” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w) · Built with a-frame, css, flask, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w) · Built with a-frame, css, flask, html
 
 ## Track names and requirements
 

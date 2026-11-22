@@ -25,7 +25,7 @@ A talking bear turns the pediatric wait into intake: kids tell their side, paren
 
 **How it used .Tech Domains:** The team deployed the app at bearwithme.tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=VBKAxZX6Gmc) · Built with cursor, get-tech, grok, grok-tts
+No public code found · [Demo video](https://www.youtube.com/watch?v=VBKAxZX6Gmc) · Built with cursor, get-tech, grok, grok-tts
 
 ### [gudtrms](https://devpost.com/software/gudtrms)
 
@@ -43,7 +43,7 @@ Two exes, two agents, zero awkward conversations.
 
 Search up a city and Munchy Munchy will create a food tour through it, taking you to the best restaurants and the best landmarks.
 
-**How it used .Tech Domains:** The project's CNAME points to munchymunchy.tech.
+**How it used .Tech Domains:** Uses munchymunchy.tech.
 
 [Code](https://github.com/jessiiishin/munchymunchy) · Built with .tech, chatgpt, claude, css
 
@@ -63,7 +63,7 @@ Play It Forward pairs families in need of toys with households that have more th
 
 Helping employee ideas get off the ground.
 
-**How it used .Tech Domains:** The team links to www.bosspleaseapprovemy.tech as its .tech project site.
+**Linked resource from .Tech Domains:** The team links to www.bosspleaseapprovemy.tech as its .tech project site.
 
 [Code](https://github.com/malki-aal/MalakaiSaleh_H26) · [Demo video](https://www.youtube.com/watch?v=RvQH93zIyyM) · Built with capital-one, claude, clerk, docker
 
@@ -75,7 +75,7 @@ Helping employee ideas get off the ground.
 
 🐨 Improving the koala-ity of your job search 🐨.
 
-**How it used .Tech Domains:** The team links to koalafied.tech as its .tech project site.
+**Linked resource from .Tech Domains:** The team links to koalafied.tech as its .tech project site.
 
 [Code](https://github.com/holland-cw3/koalafied) · [Demo video](https://www.youtube.com/watch?v=hJH72qWVECM) · Built with express.js, materialui, mongodb, node.js
 
@@ -85,7 +85,7 @@ Helping employee ideas get off the ground.
 
 By simply entering your phone number on the website, an AI Agent calls you and simulates a phishing call, responding to you and encouraging you with classic scam call tactics.
 
-**How it used .Tech Domains:** The team links to phishybusiness.tech as its .tech project site.
+**Linked resource from .Tech Domains:** The team links to phishybusiness.tech as its .tech project site.
 
 [Code](https://github.com/ColeKaplan/phishybusiness) · [Demo video](https://www.youtube.com/watch?v=LAumATWI2zE) · Built with next.js, react, retell, typescript
 
@@ -137,7 +137,7 @@ Anonymous voting platform powered by the Midnight Blockchain. Students can now v
 
 It takes in data about a well and tries to detect anomalies to predict when hydrate buildups might be happening.
 
-**How it used .Tech Domains:** The team links to dhy-n0.tech as its .tech project site.
+**Linked resource from .Tech Domains:** The team links to dhy-n0.tech as its .tech project site.
 
 [Code](https://github.com/zekestephens/dhy-n0) · [Demo video](https://www.youtube.com/watch?v=u_p-SZjQW9U) · Built with flask, pandas, python, react
 

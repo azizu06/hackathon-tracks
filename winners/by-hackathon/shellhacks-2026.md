@@ -206,14 +206,14 @@ Don't let your AI run wild.
 
 Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new investment opportunities that actually fit it.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** elevenlabs, eslint, finnhub, fred-api, github, motion, next.js, node.js, npm, openai, react, recharts, tailwind-css, typesafe-ai-(jev), typescript, vercel-ai-gateway, vitest, yahoo-finance, zod, zustand
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPOzUj3IXuM)
 - **All prizes at this hackathon (1):** Blackstone
 - **Award:** Won “Blackstone” from Blackstone. The write-up gives no details on how the team used the sponsor’s tech.
@@ -364,14 +364,14 @@ benchlog brings version control to hardware.
 
 Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern" with scope locking, visual system topology, and sprint tracking to take teams from zero to a live Devpost demo.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
+No public code found · [Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** css3, git, github, html5, javascript, lucide-react, react, tailwindcss, vercel, vite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FdCHXdTUIdM)
 - **All prizes at this hackathon (1):** INIT National
 - **Award:** Won “INIT National” from INIT National. The write-up gives no details on how the team used the sponsor’s tech.
@@ -401,7 +401,7 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 - **Code:** [Source 1](https://github.com/BAAA-Hacks/cad-vision)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0-bYjncKWIs)
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** The team designed the SolidWorks add-in in C#.
+- **Microsoft · Listed on Devpost:** Built with c# (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -414,17 +414,17 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 
 A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with typescript, docker, fastify, framer-motion
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** docker, fastify, framer-motion, gemini, git, github-api, gitleaks, google-cloud, google-genai, model-context-protocol, mongodb, mongodb-atlas, node.js, npm, octokit, osv-scanner, python, react, ruff, semgrep, trpc, typescript, vite, vitest, zod
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4GTQH27oGOs)
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** The project uses TypeScript in an npm-workspaces monorepo.
+- **Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -437,17 +437,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGO
 
 Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claude, css, digitalocean, github-api, google-gemini-api, javascript, mongodb-atlas, next.js, node.js, react, react-force-graph, tailwind-css, typescript, zod
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uLmimTFwauM)
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** Spitball is built as an embedded extension that runs locally inside Visual Studio Code.
+- **Microsoft · Listed on Devpost:** Built with Visual Studio Code (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -568,14 +568,14 @@ The cross-utility intelligence platform that aggressively optimizes overlapping 
 
 It then ranks those overlaps by how much coordination is actually worth.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
+No public code found · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, fastapi, gemini, google-maps, html, javascript, mongodb-atlas, openstreetmap, pandas, pdf.js, pyproj, python, render, scikit-learn, shapely
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ovVV4Ca8QVs)
 - **All prizes at this hackathon (1):** Sperry Tech
 - **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
@@ -614,14 +614,14 @@ Mr.Gridy helps neighbouring power companies share the work: it finds where their
 
 AI agents that read utilities' public construction filings, map every planned project, and find where neighbors could share crews, equipment, and outages.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claude, digitalocean, docker, fastapi, gemini, geonames, maplibre, next.js, nominatim, openai, openfreemap, openstreetmap, overpass-api, poppler, postgresql, pydantic, python, react, tiger-data, timescaledb, typesafe-jev, typescript, us-census, zustand
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Supupux7vtA)
 - **All prizes at this hackathon (1):** Sperry Tech
 - **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.

@@ -138,7 +138,7 @@ Preventing crowd crush before it happens.
 - **Code:** [Source 1](https://github.com/treehill05/eyrie)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** Configures Cloudflare's TURN servers for WebRTC.
+- **How it used Cloudflare:** Sets a Cloudflare TURN URL.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -25,7 +25,7 @@ Inspired by Star Trek’s combadge and ship’s computer: a wearable AI communic
 
 **How it used QNX:** QNX runs the embedded system.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
+No public code found · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
 
 ### [EyeMelody](https://devpost.com/software/dual-vision-glasses)
 
@@ -55,7 +55,7 @@ Real-time monitoring and AI-powered predictive maintenance for factory plants.
 
 **How it used QNX:** The team used QNX Neutrino RTOS for reliable real-time sensor data processing.
 
-No public code linked · Built with c++, python
+No public code found · Built with c++, python
 
 ### [SpideyIRL](https://devpost.com/software/sixth-sense-pk24ul)
 
@@ -97,7 +97,7 @@ In a world where productivity is everything, every second counts, time spent awa
 
 **How it used QNX:** The project uses the QNX Raspberry Pi kit to interface with the IMU.
 
-No public code linked · Built with qnx, o-drive, python
+No public code found · Built with qnx, o-drive, python
 
 ## Track names and requirements
 

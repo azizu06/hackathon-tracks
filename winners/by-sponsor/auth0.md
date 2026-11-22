@@ -35,7 +35,7 @@ Docket is a web app that gives developers a visual, AI-summarized history of the
 
 **How it used Auth0:** The team used Auth0 to build a GitHub authentication service.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
+No public code found · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
 
 ### [GhostKode](https://devpost.com/software/ghostkode)
 
@@ -77,7 +77,7 @@ Your Face, Your Share, Your Bill.
 
 **How it used Auth0:** The project uses Auth0 for authentication and social login.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=tZ9x2874vH4) · Built with auth0, css, flask, git
+No public code found · [Demo video](https://www.youtube.com/watch?v=tZ9x2874vH4) · Built with auth0, css, flask, git
 
 ### [Sustain-A-Prompt](https://devpost.com/software/sustain-a-prompt)
 
@@ -85,7 +85,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=tZ9x2874vH
 
 Greener AI, one prompt at a time.
 
-**How it used Auth0:** Uses Auth0 as its registration form's sign-in provider.
+**How it used Auth0:** Sets Auth0 as the social sign-in provider.
 
 [Code](https://github.com/Keshav-kh/sustain-a-prompt) · [Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
 
@@ -127,7 +127,7 @@ The project reads your lips and puts it into text, creating notes for the video 
 
 A real time LLM based threat identification application.
 
-**How it used Auth0:** Signs users in with an Auth0 popup.
+**How it used Auth0:** Calls the Auth0 popup login.
 
 [Code](https://github.com/nikil1506/ShellHacks-WatchDog) · Built with cv2, firebase, flutter, gemini
 

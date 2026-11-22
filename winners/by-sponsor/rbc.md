@@ -91,7 +91,7 @@ A data-driven application for predicting corporate credit ratings.
 
 **How it used RBC:** Data obtained from RBC Capital Markets consists of 20 features recorded for 27 companies at multiple points in time for a total of 524 samples.
 
-No public code linked · Built with angular.js, firebase, ionic, jupyter
+No public code found · Built with angular.js, firebase, ionic, jupyter
 
 ### [Structurall](https://devpost.com/software/structurall)
 
@@ -101,7 +101,7 @@ Structurall enables investment banks to leverage unstructured data with natural 
 
 **Award:** Won “"Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with axios, azure, express.js, node.js
+No public code found · Built with axios, azure, express.js, node.js
 
 ## Track names and requirements
 

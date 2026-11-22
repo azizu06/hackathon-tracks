@@ -25,7 +25,7 @@ Easily get the money you need when you need it most.
 
 **How it used PropelAuth:** The team uses PropelAuth to minimize account fraud.
 
-No public code linked · Built with propelauth, cloudflare, javascript, json
+No public code found · Built with propelauth, cloudflare, javascript, json
 
 ### [UnifyMD](https://devpost.com/software/unifymd)
 

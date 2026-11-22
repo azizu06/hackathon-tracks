@@ -66,14 +66,14 @@ The team describes the project as “AI-powered Menu Engineer”.
 
 An application that leverages Quantum Computing and Superposition to simulate multiple Stochastic States in a Brownian motion simulation to more effectively represent stock behavior.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=w15F0oFqkak) · Built with ai/ml, bootstrap, css, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=w15F0oFqkak) · Built with ai/ml, bootstrap, css, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ai/ml, bootstrap, css, flask, html, javascript, numpy, python, quantum
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=w15F0oFqkak)
 - **All prizes at this hackathon (1):** Track: Fintech - Best Financial Hack
 - **Award:** Won “Track: Fintech - Best Financial Hack” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
@@ -103,7 +103,7 @@ Giveo is a swipe-based app, built to connect users with a feed of charities pers
 - **Code:** [Source 1](https://github.com/spcoughlin/Giveo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KTbUzU5nbEg)
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
+- **GoDaddy Registry · Listed on Devpost:** Built with GoDaddy (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -147,14 +147,14 @@ SolMate – the AI agent that turns crypto talk into action. Voice-powered tradi
 
 Have you ever imagined a world where navigation is effortless, safety is guaranteed, and health is monitored- all with just a backpack.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
+No public code found · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** c++, geopy, hardware, libraries, mediapipe, opencv, python, pyttx3, sensors, threading
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gz_HUX_mEYY)
 - **All prizes at this hackathon (1):** Track: Security and Privacy
 - **Award:** Won “Track: Security and Privacy” from Nord Security. The write-up gives no details on how the team used the sponsor’s tech.
@@ -270,14 +270,14 @@ Solana based game with a goal of winning an argument against a LLM.
 
 SolHive is a platform to navigate NFT Markets &amp; Network Congestion with AI. It uses real-time blockchain metrics, NFT recommendations, and predictive analytics to optimize transactions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=anMExD1-qms) · Built with alchemyapi, graph, javascript, openai
+No public code found · [Demo video](https://www.youtube.com/watch?v=anMExD1-qms) · Built with alchemyapi, graph, javascript, openai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** alchemyapi, graph, javascript, openai, pinata, python, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=anMExD1-qms)
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
 - **How it used Solana:** The project uses The Graph to fetch Solana network metrics and structure the data for analysis.
@@ -303,7 +303,7 @@ Yes, you read that right – not just devnet, but mainnet-beta.
 - **Code:** [Source 1](https://github.com/Loldude0/hacknyu)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
-- **How it used Solana:** Uses Solana mainnet for its transaction functions.
+- **How it used Solana:** Uses a client on Solana mainnet.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,17 +320,17 @@ Yes, you read that right – not just devnet, but mainnet-beta.
 
 Your Vision, Reborn. A complex collection of pipelines, all working in tandem to restore sight capabilities for the visually impaired.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=kDdEKuB_Qy4) · Built with streamlit, mongodb, opencv, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=kDdEKuB_Qy4) · Built with streamlit, mongodb, opencv, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** mongodb, opencv, python, solana, streamlit, transformers
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kDdEKuB_Qy4)
 - **All prizes at this hackathon (1):** Best Use of Streamlit
-- **Streamlit:** Built with streamlit (listed on Devpost)
+- **Streamlit · Listed on Devpost:** Built with streamlit (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

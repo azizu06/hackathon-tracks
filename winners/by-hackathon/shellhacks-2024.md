@@ -65,7 +65,7 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 - **All prizes at this hackathon (3):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Assurant · Microsoft
 - **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
 - **GoDaddy Registry:** Sponsor use not stated on Devpost
-- **Microsoft:** Built with typescript (listed on Devpost)
+- **Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -89,7 +89,7 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7rRxLXnresk)
 - **All prizes at this hackathon (3):** Google · Microsoft · Second Best Overall
 - **Award:** Won “Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
-- **Microsoft:** Built with c-sharp (listed on Devpost)
+- **Microsoft · Listed on Devpost:** Built with c-sharp (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -170,7 +170,7 @@ A real time LLM based threat identification application.
 - **Code:** [Source 1](https://github.com/nikil1506/ShellHacks-WatchDog)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Auth0
-- **How it used Auth0:** Signs users in with an Auth0 popup.
+- **How it used Auth0:** Calls the Auth0 popup login.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -237,14 +237,14 @@ Using SQL, OpenAI, Flask to detect and report suspicious transactions.
 
 Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay smart, and learn to protect your online world effortlessly.
 
-No public code linked · Built with charm.sh, go, ngrok, sqlite
+No public code found · Built with charm.sh, go, ngrok, sqlite
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** charm.sh, go, ngrok, sqlite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Break Through Tech
 - **Award:** Won “Break Through Tech” from Break Through Tech. The write-up gives no details on how the team used the sponsor’s tech.
@@ -287,14 +287,14 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 
 "Empowering Latino Businesses, One Investment at a Time.".
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
+No public code found · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** ai, firebase, python, streamlit
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bONR9Nu1-Cw)
 - **All prizes at this hackathon (1):** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
 - **Award:** Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura. The write-up gives no details on how the team used the sponsor’s tech.
@@ -460,17 +460,17 @@ Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting
 
 FIU Scholarship Plug helps students find relevant scholarships by assessing demographics. It gathers data on academic background, financial status, and career goals for personalized recommendations.
 
-No public code linked · Built with defang, auth0, bash, css
+No public code found · Built with defang, auth0, bash, css
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** auth0, bash, css, defang, flask, gemini, html, javascript, machine-learning, python, sqlite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Defang
-- **How it used Defang:** The team links to a Defang-hosted project endpoint.
+- **Linked resource from Defang:** The team links to a Defang-hosted project endpoint.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -487,14 +487,14 @@ No public code linked · Built with defang, auth0, bash, css
 
 Blockchain and AI Based Verification for a Fraud-Free Future.
 
-No public code linked · Built with css, ganache, google-cloud, javascript
+No public code found · Built with css, ganache, google-cloud, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** css, ganache, google-cloud, javascript, python, scaffold, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ETH Miami
 - **ETH Miami:** Sponsor use not stated on Devpost
@@ -537,14 +537,14 @@ The inspiration came from FIU's passion for hospitality and the potential of blo
 
 FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting.
 
-No public code linked · Built with css, javascript, react-native
+No public code found · Built with css, javascript, react-native
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, javascript, react-native
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best DEI Hack
 - **Award:** Won “&#91;MLH&#93; Best DEI Hack” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
@@ -624,17 +624,17 @@ Also won this track: [Lotion AI/AR](#project-lotion-ai-ar), [ARSL - Augmented Re
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
-No public code linked · Built with c#, .net, apis, meta
+No public code found · Built with c#, .net, apis, meta
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** .net, apis, c#, meta, unity
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Microsoft
-- **Microsoft:** Built with c# (listed on Devpost)
+- **Microsoft · Listed on Devpost:** Built with c# (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -678,14 +678,14 @@ The inspiration for this project stems from a deep commitment to support the lov
 
 Encouraging physical activity with an thrilling experience where individuals must collect pellets while escaping a persistent ghost.
 
-No public code linked · Built with lens-studio, javascript, typescript
+No public code found · Built with lens-studio, javascript, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** javascript, lens-studio, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Snap AR Dream it. Build it.
 - **How it used Snap:** The team built the project in Snapchat's Lens Studio using JavaScript and TypeScript.
@@ -701,14 +701,14 @@ No public code linked · Built with lens-studio, javascript, typescript
 
 The AR app reinvents the classic shuttle run by having users chase randomly spawning stars in their surroundings.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=fIQ6sltKv1w) · Built with lensstudio, javascript, snapchat, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=fIQ6sltKv1w) · Built with lensstudio, javascript, snapchat, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** javascript, lensstudio, snapchat, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fIQ6sltKv1w)
 - **All prizes at this hackathon (1):** Snap AR Dream it. Build it.
 - **How it used Snap:** The team used Snapchat’s Lens Studio to design the AR environment and UI.
@@ -751,14 +751,14 @@ AR Game created in Snapchat's Lens Studio 5 using Javascript, Typescript, and Gi
 
 The goal is to educate and guide students in a simple and fun way.
 
-No public code linked · Built with css, html
+No public code found · Built with css, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, html
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Statefarm
 - **Award:** Won “Statefarm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
@@ -851,14 +851,14 @@ Understanding that the answer cannot be found in one location, but rather a harm
 
 The web application is designed to help train the users in common economic situations they might face to get a better grip on their finances.
 
-No public code linked · Built with cloud-computing, database-management, git, json
+No public code found · Built with cloud-computing, database-management, git, json
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cloud-computing, database-management, git, json, microsoft-copilot-studio, mysql, next.js, power-platform, react, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vanguard
 - **Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.

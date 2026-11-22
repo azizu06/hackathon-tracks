@@ -45,7 +45,7 @@ LifeLine is a disaster recovery platform that connects residents, responders, an
 
 **Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
 ### [SafeHome](https://devpost.com/software/safehome-tqfu6n)
 
@@ -55,7 +55,7 @@ Privacy-first home safety system that detects hazards like leaks and power loss,
 
 **Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
 
 ## 2025 winners
 
@@ -87,7 +87,7 @@ Learn how to take your Next Step in insurance education by practicing in high pr
 
 **Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
 
 ### [qAPIbara](https://devpost.com/software/in-progress-2awbie)
 
@@ -107,7 +107,7 @@ Gamified Experience: Players engage in quirky yet educational tasks, from fetchi
 
 **Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
 
 ### [UpGuardian](https://devpost.com/software/upguard)
 
@@ -129,7 +129,7 @@ The goal is to educate and guide students in a simple and fun way.
 
 **Award:** Won “Statefarm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with css, html
+No public code found · Built with css, html
 
 ### [Treasure Keepers](https://devpost.com/software/treasure-keepers)
 

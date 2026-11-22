@@ -65,7 +65,7 @@ Collab3D is a web tool using a Spacetime database to allow real-time collaborati
 
 Docket is a web app that gives developers a visual, AI-summarized history of their GitHub repositories.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
+No public code found · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
 
 ### [GeoStar](https://devpost.com/software/geostar-5engd7)
 
@@ -113,7 +113,7 @@ A marketplace lets developers browse GPU capacity and reserve it through a block
 
 Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
 
 ### [VisionOS](https://devpost.com/software/visionos-5euxo7)
 
@@ -131,7 +131,7 @@ A programming environment gives blind developers an accessible way to write and 
 
 Unified memory across your entire AI stack, complete with codebase visualization, prompt libraries, and advanced context management.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
+No public code found · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
 
 ### [CodeInsight](https://devpost.com/software/code-insight)
 
@@ -185,7 +185,7 @@ A VSCode extension, Chrome extension, and web app to help developers and interne
 
 Employers can have their developers use calories as currency.
 
-No public code linked · Built with fitbit, jawbone, alchemyapi, firebase
+No public code found · Built with fitbit, jawbone, alchemyapi, firebase
 
 ### [RESTful Ships](https://devpost.com/software/restful-ships)
 
@@ -193,6 +193,6 @@ No public code linked · Built with fitbit, jawbone, alchemyapi, firebase
 
 RESTful Ships is an application that allows developers to hook into an exposed REST API to create whatever they wish within the context of the platform.
 
-No public code linked
+No public code found
 
 [Back to top](#developer-tools)

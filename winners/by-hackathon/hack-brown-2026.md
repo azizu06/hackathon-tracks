@@ -110,7 +110,7 @@ Search up a city and Munchy Munchy will create a food tour through it, taking yo
 - **Code:** [Source 1](https://github.com/jessiiishin/munchymunchy)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
-- **How it used .Tech Domains:** The project's CNAME points to munchymunchy.tech.
+- **How it used .Tech Domains:** Uses munchymunchy.tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -170,7 +170,7 @@ Facetime your dad for home repair advice at anytime.
 - **Code:** [Source 1](https://github.com/ponita05/hack-brown)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xD_QGRqzkvo)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** Uses ElevenLabs audio in the video chat's text-to-speech flow.
+- **How it used ElevenLabs:** Calls ElevenLabs for text-to-speech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -37,7 +37,7 @@ Automatic video simplification for your busy life.
 
 **How it used Rev:** Scribr first transcribes the video using the RevSpeech API.
 
-No public code linked · Built with rev, bash, css3, ffmpeg
+No public code found · Built with rev, bash, css3, ffmpeg
 
 ## Track names and requirements
 

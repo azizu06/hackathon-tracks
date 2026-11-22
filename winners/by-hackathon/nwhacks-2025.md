@@ -222,14 +222,14 @@ Helping you find the perfect study spot or gym time on campus.
 
 Scandium is local AI code secret scanning. Rather than being notified after you've uploaded your secrets, Scandium integrates with your code editor to detect leaked secrets before they get published.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFNA) · Built with node.js, ollama, qwen, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFNA) · Built with node.js, ollama, qwen, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** node.js, ollama, qwen, typescript, vsc-extensions
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sHfQ85ScFNA)
 - **All prizes at this hackathon (1):** Communications Security Establishment Sponsor Prize
 - **Award:** Won “Communications Security Establishment Sponsor Prize” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
@@ -332,7 +332,7 @@ Patients over paperwork- physicians want make meaningful impact on patients but 
 - **Code:** [Source 1](https://github.com/zelalemka/nwhacks_2025_chit_chart)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1tHKeyLVZSA)
 - **All prizes at this hackathon (2):** Glaive Any Open-Source LLM Prize · Most Likely to Become a Successful Startup
-- **Award:** Won “Glaive Any Open-Source LLM Prize ($2000)” from Glaive. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “Glaive Any Open-Source LLM Prize” from Glaive. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -419,7 +419,7 @@ A terminal search tool runs user-defined commands against selected databases.
 - **Code:** [Source 1](https://github.com/zhangLily2020/nwhacks2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** nwHacks 2025 Finalists · Warp Sponsor Prize
-- **Warp:** Built with warp (listed on Devpost)
+- **Warp · Listed on Devpost:** Built with warp (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

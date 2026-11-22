@@ -25,7 +25,7 @@ Ever wondered if your shopping cart is hurting the planet? 🌍 EcoScout scans p
 
 **How it used Base44:** The team used Base44 for the scan forms and product cards.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
+No public code found · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
 
 ## Track names and requirements
 

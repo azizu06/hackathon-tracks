@@ -67,7 +67,7 @@ Introducing Caduceo, a Streamlit-based Chatbot for transparent healthcare cost e
 
 **Award:** Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
 
 ### [ClariTA](https://devpost.com/software/clarita)
 

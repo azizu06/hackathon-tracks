@@ -45,7 +45,7 @@ A VR game about catching and firing arrows to delay the inevitable.
 
 **Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
+No public code found · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
 
 ### [Shop The North](https://devpost.com/software/shop-the-north)
 

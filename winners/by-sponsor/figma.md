@@ -43,7 +43,7 @@ How to combine AI with deterministic logic.
 
 A mobile finance prototype turns market events into short research tasks and waits for confirmation before trading.
 
-**How it used Figma:** The team links to its Figma slide deck.
+**Linked resource from Figma:** The team links to its Figma slide deck.
 
 [Code](https://github.com/adylagad/baseland) · [Demo video](https://www.youtube.com/watch?v=wzT5thvdSHw) · Built with activitykit, anthropic, app-intents, base
 
@@ -75,7 +75,7 @@ A local weather app gives gardeners and small farmers forecasts tailored to grow
 
 **Figma:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
 
 ### [Fobo](https://devpost.com/software/fobo-fear-of-burning-out)
 
@@ -83,9 +83,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBw
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-**How it used Figma:** The team links to its Figma design file.
+**Linked resource from Figma:** The team links to its Figma design file.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
+No public code found · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
 ### [Forage](https://devpost.com/software/gaia-r3jwo5)
 
@@ -103,7 +103,7 @@ Help people go outside more often by making nature exploration social, rewarding
 
 A computer control interface uses eye tracking to point and speech to issue commands.
 
-**How it used Figma:** The team links to its Figma design file.
+**Linked resource from Figma:** The team links to its Figma design file.
 
 [Code](https://github.com/dakshshahani/mhacks) · Built with elevenlabs-api, gemini-3.5-flash-lite-api, git, javascript
 
@@ -115,7 +115,7 @@ A game tells the story of a ghost through passes in Apple Wallet.
 
 **How it used Figma:** The project uses Figma for design and planning.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
+No public code found · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
 
 ### [GoTrail](https://devpost.com/software/gotrail)
 
@@ -125,7 +125,7 @@ A hiking app gives users activities to complete outside and helps clinicians sug
 
 **How it used Figma:** The project uses Figma Make to explore design system directions before writing SwiftUI.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
+No public code found · [Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
 
 ### [Grouper](https://devpost.com/software/grouper-fr2h1q)
 
@@ -135,7 +135,7 @@ A shared app helps friend groups coordinate rides, plans, and payments.
 
 **How it used Figma:** The project uses Figma Make to brainstorm ideas.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
 
 ### [IMPULSE](https://devpost.com/software/erewhon)
 
@@ -155,7 +155,7 @@ One who understands: your healthcare, handled.
 
 **How it used Figma:** The team used Figma Make for first-pass layouts for onboarding, the voice interface, and provider results.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
+No public code found · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
 
 ### [moa](https://devpost.com/software/moa)
 
@@ -193,7 +193,7 @@ A desktop assistant finds local files and gathers context for the user's current
 
 A learning app helps users explore stock movements and practice investment decisions.
 
-**How it used Figma:** The team links to its Figma design file.
+**Linked resource from Figma:** The team links to its Figma design file.
 
 [Code](https://github.com/daniel3606/Orbit_MHacks26) · [Demo video](https://www.youtube.com/watch?v=Mj4wTCKH8oE) · Built with alpaca, eas, expo.io, fastapi
 
@@ -215,7 +215,7 @@ Because good music gives us sera-tonin :).
 
 **Figma:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
+No public code found · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
 
 ### [Snitch](https://devpost.com/software/snitch-ackp1s)
 
@@ -235,7 +235,7 @@ A dashboard shows how internship pipelines connect employers and schools.
 
 **How it used Figma:** The team used Figma Make to experiment with hero section designs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
+No public code found · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
 
 ### [Two Figma](https://devpost.com/software/2-figma)
 
@@ -255,7 +255,7 @@ A browser extension helps users find and understand medical research relevant to
 
 **How it used Figma:** The team used Figma Make and generated its first iterative designs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
+No public code found · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
 
 ## Track names and requirements
 

@@ -23,7 +23,7 @@
 
 BrailleAI gives DeafBlind people a voice. Type by touch to speak out loud, and feel replies as Braille.
 
-**Orkes:** Built with orkes (listed on Devpost)
+**Orkes · Listed on Devpost:** Built with orkes (listed on Devpost)
 
 [Code](https://github.com/lili1501/Refreshable_Braille_Display) · [Demo video](https://www.youtube.com/watch?v=iX5XIWncCkA) · Built with orkes, 3d-printing, annapurna, anthropic-claude
 

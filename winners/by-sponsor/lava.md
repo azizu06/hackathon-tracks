@@ -25,7 +25,7 @@ Ambient sits on your desktop, learns how you work, and handles the busywork befo
 
 **How it used Lava:** The project uses Lava gateway in its LLM pipeline for structured JSON recommendations.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lX8BuX64JwI) · Built with lava-api, anthropic-api, electron, google-calendar-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=lX8BuX64JwI) · Built with lava-api, anthropic-api, electron, google-calendar-api
 
 ### [CareCost](https://devpost.com/software/carecost-xgm6d2)
 
@@ -57,7 +57,7 @@ Autonomous AI marketplace for agents: save time, money, and trees by working wit
 
 **How it used Lava:** The project uses Lava for cost calculation and usage tracking.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lu_9YbU01pY) · Built with css, javascript, move, plpg
+No public code found · [Demo video](https://www.youtube.com/watch?v=lu_9YbU01pY) · Built with css, javascript, move, plpg
 
 ### [Poke SDR](https://devpost.com/software/poke-sdr)
 

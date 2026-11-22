@@ -25,7 +25,7 @@ A calendar app weighs upcoming commitments against the user's energy level to he
 
 **Award:** Won “Adobe: Prettiest Hack” from Adobe. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
+No public code found · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
 ### [PeaHeads](https://devpost.com/software/peaheads)
 
@@ -57,7 +57,7 @@ An Adobe add-on that generates a Reel/Short video from prompt.
 
 **How it used Adobe:** The team built an Adobe Express add-on to help users make educational or awareness reels.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
 
 ## Track names and requirements
 

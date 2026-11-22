@@ -23,7 +23,7 @@
 
 Ingests supernova / high-energy neutrino alerts (cached IceCube &amp; galactic CCSN replays offline; live GCN / SNEWS-style channels when configured).
 
-**How it used SpaceXSI:** Can use live Grok to rank candidate stars after a supernova alert.
+**How it used SpaceXSI:** Uses optional live Grok ranking.
 
 [Code](https://github.com/kejiwuxian/Breakout) · [Demo video](https://www.youtube.com/watch?v=ttrXTT7N31Y) · Built with claude, css, cursor, dockerfile
 

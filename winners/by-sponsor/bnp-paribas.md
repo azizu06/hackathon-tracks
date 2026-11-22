@@ -25,7 +25,7 @@ TradeGO is an application that enables people to participate in financial market
 
 **BNP Paribas:** Sponsor use not stated on Devpost
 
-No public code linked · Built with react, ruby, ruby-on-rails
+No public code found · Built with react, ruby, ruby-on-rails
 
 ## 2016 winners
 
@@ -37,7 +37,7 @@ Kiva + Invest. Kinvest allows Lenders to leverage machine learning to maximize i
 
 **Award:** Won “Most Insightful Hack (BNP Paribas)” from BNP Paribas. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with firebase, flask, machine-learning, pandas
+No public code found · Built with firebase, flask, machine-learning, pandas
 
 ## Track names and requirements
 

@@ -23,7 +23,7 @@
 
 Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
 
-**How it used Modal:** Sends video segmentation requests to a configured Modal endpoint.
+**How it used Modal:** Calls the Modal endpoint URL.
 
 [Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with elevenlabs, grok, heygen, mediapipe
 
@@ -31,11 +31,11 @@ Jiggle Wiggle is a real-time AI movement coach that works with three input modes
 
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-longshot) · **Sandbox Challenge**
 
-Built Minecraft in one shot - Burned $5500 running 100+ coding agents pushing at peak 1200+ commits/hr to research the future of "coding".
+The team built Minecraft in one shot with more than 100 coding agents, peaking at more than 1,200 commits per hour.
 
 **How it used Modal:** The team used Modal sandboxes to execute agents in parallel.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=5oxXfazBcaQ) · Built with modal, chatgpt, claude, cursor
+No public code found · [Demo video](https://www.youtube.com/watch?v=5oxXfazBcaQ) · Built with modal, chatgpt, claude, cursor
 
 ### [Mirage](https://devpost.com/software/synsplatt)
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=5oxXfazBca
 
 Robots and self-driving cars need training data. Mirage synthesizes 3D world-model training data covering hard-to-capture scenes - like driving in a hailstorm.
 
-**How it used Modal:** Runs its 3D reconstruction pipeline on Modal.
+**How it used Modal:** Uses a Modal app.
 
 [Code](https://github.com/kyan-yang/Mirage) · Built with modal, gpu, python
 
@@ -55,7 +55,7 @@ Mobius runs for very long periods of time completely autonomously to complete al
 
 **How it used Modal:** The project uses Modal for isolated cloud sandbox execution.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with modal, ai, anthropic, chatgpt
+No public code found · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with modal, ai, anthropic, chatgpt
 
 ### [Monolith](https://devpost.com/software/monolith-z10684)
 

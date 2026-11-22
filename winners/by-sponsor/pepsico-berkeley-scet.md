@@ -25,7 +25,7 @@ PepsiCo has many sustainability practices, but there’s no centralized metric t
 
 **How it used PepsiCo / Berkeley SCET:** The project uses PepsiCo’s data inputs to calculate deviation from optimal sustainability targets.
 
-No public code linked · Built with css, html, javascript
+No public code found · Built with css, html, javascript
 
 ### [TrashToTreasure - Sustainable Showcase](https://devpost.com/software/trashtotreasure-sustainable-showcase)
 

@@ -35,7 +35,7 @@ FarCare connects three roles around one parent.
 
 **ChatOverflow:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
 
 ### [FlameScout](https://devpost.com/software/flamescout)
 

@@ -49,7 +49,7 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 
 Anima Labs is an agentic development environment for computational neuroscience.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with creao, arxiv, docker, europe-pmc
+No public code found · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with creao, arxiv, docker, europe-pmc
 
 ### [Bin-It](https://devpost.com/software/bin-it-yg2xb7)
 
@@ -57,7 +57,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopS
 
 Bin-It lets residents report overflowing bins from a phone while a dashboard helps city staff compare candidate locations for new bins.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
+No public code found · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
 
 ### [Bloom](https://devpost.com/software/bloom-dvjpea)
 
@@ -113,7 +113,7 @@ A dashboard supplies incident information to fire dispatchers.
 
 A building safety prototype combines live sensors, evacuation planning, and operator approval in one dashboard.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, asi-one, fetch.ai
+No public code found · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, asi-one, fetch.ai
 
 ### [Homie](https://devpost.com/software/homie-1d28pr)
 
@@ -281,7 +281,7 @@ A software development tool compares solutions created by competing coding agent
 
 Once you describe a job, Astronom builds a budgeted, permission-checked AI agent team, red-teams it, and fixes what breaks, with approval at every step, using its multi-agent swarm technology.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
+No public code found · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
 
 ### [ATLRisk](https://devpost.com/software/atlrisk)
 
@@ -337,7 +337,7 @@ Light the Way! Beacon is an accessibility map with step-free routes for people w
 
 A talking bear turns the pediatric wait into intake: kids tell their side, parents answer separately in real time, and doctors walk in with one page showing where the stories differ.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=VBKAxZX6Gmc) · Built with cursor, get-tech, grok, grok-tts
+No public code found · [Demo video](https://www.youtube.com/watch?v=VBKAxZX6Gmc) · Built with cursor, get-tech, grok, grok-tts
 
 ### [Bloxify](https://devpost.com/software/bloxify)
 
@@ -441,7 +441,7 @@ Captain Ddoski gives AI finance agents instant source trust scores, risk tags, a
 
 A caregiver assistant coordinates appointments, calendar updates, and over-the-counter medicine requests.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
+No public code found · [Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
 
 ### [Cartify](https://devpost.com/software/cartify-10bjse)
 
@@ -473,7 +473,7 @@ Real-time music chord suggestions based on the elegant theory of 24D chroma vect
 
 Revolutionizing Digital Forensics through Novel Data Modeling.
 
-No public code linked · Built with fastapi, next.js, react, typescript
+No public code found · Built with fastapi, next.js, react, typescript
 
 ### [ClearPath](https://devpost.com/software/clearpath-chvrpy)
 
@@ -545,7 +545,7 @@ An app where AI agents read every nearby store's Instagram, TikTok, and website 
 
 Docket is a web app that gives developers a visual, AI-summarized history of their GitHub repositories.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
+No public code found · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
 
 ### [DoortectiveAI](https://devpost.com/software/doortective)
 
@@ -553,7 +553,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYC
 
 Your doorbell doesn’t just ring anymore… it sees, thinks, and talks in any language while judging who’s at your door.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa4) · Built with elevenlabs, fastapi, gemini, multimap
+No public code found · [Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa4) · Built with elevenlabs, fastapi, gemini, multimap
 
 ### [dor](https://devpost.com/software/dor)
 
@@ -609,7 +609,7 @@ Real vanilla, real proof. Extract is a digital trust system for the vanilla indu
 
 FarCare connects three roles around one parent.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
 
 ### [FinVantage](https://devpost.com/software/finvantange)
 
@@ -889,7 +889,7 @@ A voice and vision assistant maps rooms, helps older adults find misplaced objec
 
 Lightweight, AI-powered tools built for forward-deployed engineers to adapt and deploy quickly.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc) · Built with anthropic-api, claude, claude-code, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc) · Built with anthropic-api, claude, claude-code, fastapi
 
 ### [Mr.Gridy](https://devpost.com/software/mr-gridy)
 
@@ -945,7 +945,7 @@ Repair, Replace or Wait? NextMove lets you know.
 
 A planning app connects student clubs' communication, spreadsheets, and code tools in one workspace.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
+No public code found · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
 ### [Niche](https://devpost.com/software/niche-z32los)
 
@@ -985,7 +985,7 @@ Space traffic control for the 99% of operators without a control room. Orbit Wat
 
 Orkis makes it easy for people and enterprise teams to launch and manage AI agents. Orkis configures the agents and coordinates their work, with each new agent reusing the setup you already have.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=GxNBCI4yyYI) · Built with alembic, better-auth, caddy, claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=GxNBCI4yyYI) · Built with alembic, better-auth, caddy, claude
 
 ### [Pacioli](https://devpost.com/software/pacioli)
 
@@ -1025,7 +1025,7 @@ plus1 joins your Google Meet with a face and a voice, is an expert in whatever y
 
 Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new investment opportunities that actually fit it.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
 
 ### [Prereq](https://devpost.com/software/prereq-sg1thw)
 
@@ -1217,7 +1217,7 @@ A marketplace lets developers browse GPU capacity and reserve it through a block
 
 AI-native workflows, built straight from your existing SOPs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
+No public code found · [Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
 
 ### [Spitball](https://devpost.com/software/spitball)
 
@@ -1225,7 +1225,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=v9erU_vIlW
 
 Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
 
 ### [SpotAtWork](https://devpost.com/software/spot-mission-control)
 
@@ -1257,7 +1257,7 @@ A study agent makes practice quizzes and games and tracks progress in a virtual 
 
 An AI copilot for air traffic controllers. It plans conflict-free routes, listens to the radio with a model tuned on real ATC audio, and catches wrong pilot readbacks before they become incidents.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
+No public code found · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
 
 ### [SteadyScript](https://devpost.com/software/steadyscript)
 
@@ -1297,7 +1297,7 @@ Personal agent for college students that lives in iMessage - text it your syllab
 
 A dashboard shows how internship pipelines connect employers and schools.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
+No public code found · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
 
 ### [Tangents](https://devpost.com/software/tangents-6xezla)
 
@@ -1305,7 +1305,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFn
 
 A satirical social media simulator and world builder.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=FgR3QLEW5Kc) · Built with agents, claude, multi-agent, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=FgR3QLEW5Kc) · Built with agents, claude, multi-agent, next.js
 
 ### [Tend](https://devpost.com/software/tend-ua9rm8)
 
@@ -1321,7 +1321,7 @@ An offline guide helps survivors find state compensation programs and trace elig
 
 Tendly gives elderly patients one button to speak any need. Claude triages it in real time, caregivers get a live priority feed, and Simular automates the rest.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YVdjN4_6iEU) · Built with claude, css, fastapi, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=YVdjN4_6iEU) · Built with claude, css, fastapi, html
 
 ### [TerpWallet AI](https://devpost.com/software/terpwallet-ai)
 
@@ -1409,7 +1409,7 @@ Agentic security testing for vibe-coded apps — before you ship.
 
 AI agents that read utilities' public construction filings, map every planned project, and find where neighbors could share crews, equipment, and outages.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
 
 ### [VaccineOS](https://devpost.com/software/vaccineos)
 
@@ -1417,7 +1417,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Supupux7vt
 
 Vaccine OS is a full-stack neoantigen vaccine design platform.
 
-No public code linked · Built with claude, next.js, postgresql, python
+No public code found · Built with claude, next.js, postgresql, python
 
 ### [Vigil](https://devpost.com/software/vigil-aewt3u)
 
@@ -1449,7 +1449,7 @@ A commerce tool lets merchants review AI-organized evidence when investigating r
 
 A browser extension helps users find and understand medical research relevant to women's health.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
+No public code found · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
 
 ## 2025 winners
 
@@ -1475,7 +1475,7 @@ Argus combines AI, computer vision, and real-time streaming to deliver intellige
 
 Clip, save, and organize the exact moments that spark your ideas.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
+No public code found · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
 
 ### [Harmoniq](https://devpost.com/software/harmoniq-06o1e9)
 
@@ -1531,7 +1531,7 @@ A web-app developed to help prep students for their technical interviews through
 
 Gamified Experience: Players engage in quirky yet educational tasks, from fetching coffee for the elusive "King Rat" (the boss) to handling customer claims with empathy and professionalism.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
 
 ### [Therms - Thermoregulation Wearables with AI-powered Insights](https://devpost.com/software/therms-thermoregulation-wearables-with-ai-powered-insights)
 
@@ -1579,7 +1579,7 @@ An emergency response prototype uses drones to map hazards and help responders c
 
 Website that allows small business owners to create and manage their business's website with AI agents.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=9gLRo36z474) · Built with digitalocean, javascript, next.js, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=9gLRo36z474) · Built with digitalocean, javascript, next.js, react
 
 ### [AgentNow](https://devpost.com/software/agentnow)
 
@@ -1643,7 +1643,7 @@ Turning uncertainty into opportunity with AI-driven market insights.
 
 A Roblox game lets players shape their surroundings through what they say and do.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZc) · Built with roblox, flask, gemini, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZc) · Built with roblox, flask, gemini, nextjs
 
 ### [BrainSafe](https://devpost.com/software/brainsafe-browser)
 
@@ -1691,7 +1691,7 @@ AI-powered organizational tool for your communication platforms.
 
 Clanker Town is a simulation / web-browser video game which lets player enter the town filled with other autonomous AI agents communicating between each other, gathering resources and trading.
 
-No public code linked · Built with letta, elastic-search, mcp, move
+No public code found · Built with letta, elastic-search, mcp, move
 
 ### [CodeForge Pages](https://devpost.com/software/codeforge-pages)
 
@@ -1707,7 +1707,7 @@ Aesthetic React Landing Pages in Minutes – AI, Code Preview / Export, OAuth, D
 
 Work with untapped talents across language barriers.
 
-No public code linked · Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
+No public code found · Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
 
 ### [Covenant](https://devpost.com/software/covenant-onci9q)
 
@@ -1715,7 +1715,7 @@ No public code linked · Built with amazon-ec2, amazon-web-services, dify.ai, fa
 
 Put your money where your goals are. Complete your commitments to earn it back, or watch it go to a cause you really don’t want to fund.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
+No public code found · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
 
 ### [Crossentropy](https://devpost.com/software/crossentropy)
 
@@ -1731,7 +1731,7 @@ The platform offers two key user modes.
 
 Cryptobot is a humanoid robot that is FULLY voice-controlled.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
 
 ### [Cura](https://devpost.com/software/tbd-58ftpr)
 
@@ -1771,7 +1771,7 @@ Live Space-to-Sound (or any video): Pick an ISS/telescope livestream or paste a 
 
 Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
 
 ### [EcoScout](https://devpost.com/software/ecoscout-g01h43)
 
@@ -1779,7 +1779,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9
 
 Ever wondered if your shopping cart is hurting the planet? 🌍 EcoScout scans products, gives instant EcoScores, and suggests greener swaps—helping you shop smart and sustainably.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
+No public code found · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
 
 ### [elle](https://devpost.com/software/elle)
 
@@ -1811,7 +1811,7 @@ AI Agents for complex human disaster dynamics simulation.
 
 Making expungement simple and accessible for all.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+No public code found · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 
 ### [Eyrie](https://devpost.com/software/eyrie-idxhj8)
 
@@ -1851,7 +1851,7 @@ FiYota — data visualization tool to find your ideal Toyota financing options.
 
 AI-Powered Curation : Agentic AIs crawl multiple e-commerce platforms to gather product data.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=1aWK25E4rro) · Built with fetchai, butterfly, dain, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=1aWK25E4rro) · Built with fetchai, butterfly, dain, gemini
 
 ### [GauchoHome](https://devpost.com/software/homelessgaucho)
 
@@ -1931,7 +1931,7 @@ HorizonX is a dual-purpose platform using !!on-device!! VLMs to empower blind pe
 
 Time is money: literally. Sell your day away in 15-minute blocks.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=t7M319EIn4k) · Built with sui, ai, chromadb, claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=t7M319EIn4k) · Built with sui, ai, chromadb, claude
 
 ### [InfraBlocks](https://devpost.com/software/infrablocks)
 
@@ -1955,7 +1955,7 @@ Unified dashboard for T-Mobile PMs to track real-time customer sentiment, perfor
 
 Krates is the DevOps engineer you need before you can afford to hire one—AI that automates Docker and Kubernetes for early-stage teams.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2og) · Built with anthropic-claude-api, docker, electron, electronjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2og) · Built with anthropic-claude-api, docker, electron, electronjs
 
 ### [Leadify](https://devpost.com/software/momentum-94wfd6)
 
@@ -1963,7 +1963,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2o
 
 Plan and host events smarter &amp; faster. Leadify helps event organizers automate lead generation.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=vFeyw8tJbWA) · Built with linkd, asyncio, fetch.ai, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=vFeyw8tJbWA) · Built with linkd, asyncio, fetch.ai, gemini
 
 ### [LeafPilot](https://devpost.com/software/leafpilot)
 
@@ -2051,7 +2051,7 @@ Money Talks transforms raw bank statements into actionable financial insights th
 
 Vibe CAD to 3D print the solutions to everyday problems in your environment, Tony Stark style, no design experience required.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=32oY_iV8jRo) · Built with mongodb, fastapi, javascript, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=32oY_iV8jRo) · Built with mongodb, fastapi, javascript, next.js
 
 ### [Movement](https://devpost.com/software/movement-f4nyob)
 
@@ -2059,7 +2059,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=32oY_iV8jR
 
 Movement is the disruptive blockchain crowdfunding platform - no fees, no middlemen. Every contribution is direct, transparent, and secure, giving real-world peace of mind to backers and creators.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=QtNbxY7WupE) · Built with sui, css, move, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=QtNbxY7WupE) · Built with sui, css, move, next.js
 
 ### [MovieMind](https://devpost.com/software/moviemind-85pfcw)
 
@@ -2075,7 +2075,7 @@ A movie recommender finds reviews that match the reasons a viewer enjoys a film.
 
 In addition, the live scraping of academic databases and the future goals of scraping news articles and more sources will keep all the information up-to-date.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
+No public code found · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
 
 ### [Navi](https://devpost.com/software/navi-7sp5mz)
 
@@ -2091,7 +2091,7 @@ A browser copilot helps users find their way around web pages.
 
 Learn how to take your Next Step in insurance education by practicing in high pressure scenarios.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
 
 ### [One Take](https://devpost.com/software/one-take)
 
@@ -2123,7 +2123,7 @@ PaperTrail is an AI research assistant that uses deep memory architectures to le
 
 A decentralized peer-to-peer lending platform built on the XRP Ledger (XRPL), enabling university students and individuals to lend and borrow funds with transparent, blockchain-backed transactions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with xrpl, blockchain, firebase, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with xrpl, blockchain, firebase, nextjs
 
 ### [PhishyBusiness](https://devpost.com/software/phishybusiness)
 
@@ -2179,7 +2179,7 @@ PowerLegal is a sophisticated multi-agent legal case management system that coor
 
 PoyoLabs is a gamified dashboard that allows users to track and monitor multiple cauldrons (data points) from one hand-designed interface.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
+No public code found · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
 
 ### [PULSE.AI](https://devpost.com/software/pulse-ai-0oafm5)
 
@@ -2195,7 +2195,7 @@ An AI code agent tool that integrates live browser session context for smarter c
 
 Practice sales calls with AI prospects. Get real-time coaching and detailed performance insights.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMIY) · Built with vapi, chromadb, claude, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMIY) · Built with vapi, chromadb, claude, gemini
 
 ### [RepoStory](https://devpost.com/software/placeholder-it3zq7)
 
@@ -2243,7 +2243,7 @@ ScholarMarket is essentially Polymarket for students to bet on their grades.
 
 Drag and drop, shareable and searchable vector databases.
 
-No public code linked · Built with aryn, elasticsearch, go, next.js
+No public code found · Built with aryn, elasticsearch, go, next.js
 
 ### [SightSpeech](https://devpost.com/software/sightspeech)
 
@@ -2259,7 +2259,7 @@ Text-to-speech is a near-essential tool for the legally blind; However, normal t
 
 Signify brings AI into the web accessibility space.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
+No public code found · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
 ### [Simply Law](https://devpost.com/software/lexiloop)
 
@@ -2315,7 +2315,7 @@ Spielberg AI is an AI-powered video editor that allows creators to edit videos u
 
 A planning tool turns a written software idea into an editable architecture graph and starter repository.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
 
 ### [Stamped](https://devpost.com/software/stamped-6hnl4w)
 
@@ -2387,7 +2387,7 @@ Ticketry.AI bridges the gap between business stakeholders and development teams 
 
 Rebuilding donation trust through transparent giving.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
+No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
 
 ### [Trialscope AI](https://devpost.com/software/trialscope-ai)
 
@@ -2411,7 +2411,7 @@ Turning tangled, time-consuming clinical trial data chaos into seamless, protoco
 
 Interoporable Trust, bring your ratings everywhere you go.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns) · Built with canva, ethereum, figma, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns) · Built with canva, ethereum, figma, nextjs
 
 ### [Vigilante](https://devpost.com/software/vigilante-xkf7s9)
 
@@ -2525,7 +2525,7 @@ A browser assistant helps blind users interact with websites through an accessib
 
 Create and deploy audited smart contracts on the XRPL EVM side chain using easy to understand smart contract blocks.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeVU) · Built with ripple, evm, nextjs, rainbowkit
+No public code found · [Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeVU) · Built with ripple, evm, nextjs, rainbowkit
 
 ### [Capsule](https://devpost.com/software/capsule-lp540f)
 
@@ -2533,7 +2533,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeV
 
 Capsule, allows you to upload data into a "capsule" and retrieve it very quickly via URL, NFC, or QR Codes.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
+No public code found · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
 
 ### [Cascade](https://devpost.com/software/cascade-xrfscu)
 
@@ -2621,7 +2621,7 @@ Find useful information about subreddits with a few clicks.
 
 The web application is designed to help train the users in common economic situations they might face to get a better grip on their finances.
 
-No public code linked · Built with cloud-computing, database-management, git, json
+No public code found · Built with cloud-computing, database-management, git, json
 
 ### [FleetPulse](https://devpost.com/software/fleetpulse)
 
@@ -2629,7 +2629,7 @@ No public code linked · Built with cloud-computing, database-management, git, j
 
 The project is an innovative AI-powered web app designed to reduce vehicle carbon emissions, addressing transportation's significant impact on greenhouse gas emissions.
 
-No public code linked · Built with cloudflare, ai, amazon-web-services, databricks
+No public code found · Built with cloudflare, ai, amazon-web-services, databricks
 
 ### [FLEX](https://devpost.com/software/flex-se8mtf)
 
@@ -2645,7 +2645,7 @@ Clients talk to the AI, explaining the type of candidate they need and any speci
 
 The website serves as a decentralized gift card trading marketplace .
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=W1QGVNJGV7g) · Built with sui, express.js, node.js, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=W1QGVNJGV7g) · Built with sui, express.js, node.js, react
 
 ### [GitFile](https://devpost.com/software/gitfile)
 
@@ -2677,7 +2677,7 @@ A Sustainability Platform for a Greener Future.
 
 "Healora, powered by Nurse Joy, uses empathetic AI for symptom tracking and predictive analysis, helping patients receive faster care while easing the workload for healthcare professionals.".
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0LENXMAW3Cs) · Built with hume.ai, fastapi, fetch.ai, figma
+No public code found · [Demo video](https://www.youtube.com/watch?v=0LENXMAW3Cs) · Built with hume.ai, fastapi, fetch.ai, figma
 
 ### [Hello](https://devpost.com/software/hello-gfsy3l)
 
@@ -2717,7 +2717,7 @@ The inspiration came from FIU's passion for hospitality and the potential of blo
 
 An AI email assistant that automates form-filling, summarizes messages, and streamlines inbox tasks.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ) · Built with drizzle, google-cloud, groq, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ) · Built with drizzle, google-cloud, groq, nextjs
 
 ### [Lootcode 10](https://devpost.com/software/lootcode-10)
 
@@ -2765,7 +2765,7 @@ The blockchain solution for content creators offering a decentralized platform f
 
 Search Made Simple: Ask questions, find answers – AI parses documents, chatbot delivers.
 
-No public code linked · Built with flask, github, gpt-4, neon
+No public code found · Built with flask, github, gpt-4, neon
 
 ### [Percival](https://devpost.com/software/percival-nr46ol)
 
@@ -2773,7 +2773,7 @@ No public code linked · Built with flask, github, gpt-4, neon
 
 an AI platform that automates data entry from text and speech, anonymizes patient information, and delivers treatment recommendations, enhancing diagnostic accuracy for healthcare professionals.
 
-No public code linked · Built with cloudfare, flask, nextjs, openai-api
+No public code found · Built with cloudfare, flask, nextjs, openai-api
 
 ### [PrimeTime](https://devpost.com/software/primetime-285zcm)
 
@@ -2805,7 +2805,7 @@ Imagine if Person A speaks English and Person B speaks German.
 
 Sera helps people with limited banking experience take control of their money. No jargon—just real support when it’s needed most.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
 
 ### [Skip the Walk](https://devpost.com/software/skip-the-walk)
 
@@ -2821,7 +2821,7 @@ When you're at Hack the North... but still want pizza.
 
 SolarVista maps areas with high solar energy potential to help planners choose sites for solar installations.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=PxOkQkR-ghM) · Built with apis, css3, flask, html5
+No public code found · [Demo video](https://www.youtube.com/watch?v=PxOkQkR-ghM) · Built with apis, css3, flask, html5
 
 ### [soundchain](https://devpost.com/software/soundchain)
 
@@ -2845,7 +2845,7 @@ An interactive story gives schoolchildren branching choices while they practice 
 
 Leveraging AI to assess bridge damage.
 
-No public code linked · Built with azure, javascript, next.js, node.js
+No public code found · Built with azure, javascript, next.js, node.js
 
 ### [T-Error](https://devpost.com/software/terror)
 
@@ -2909,7 +2909,7 @@ The product leverages advanced AI technology to enhance school safety by detecti
 
 Automate your event extraction from emails.
 
-No public code linked · Built with cloudflare, ai, groq, llama
+No public code found · Built with cloudflare, ai, groq, llama
 
 ## 2020 winners
 
@@ -2935,7 +2935,7 @@ The team describes the project as “Social media are an important way for peopl
 
 Mindful Me is a website that allows and encourages users to complete daily mental health checks in and provides tailored mental health resources based on a user's identity.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=dF6Cx_b8CjA) · Built with cassandra, css, datastax-astra, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=dF6Cx_b8CjA) · Built with cassandra, css, datastax-astra, flask
 
 ### [SelfLoving.us](https://devpost.com/software/selfloving-us-xy3oc7)
 
@@ -2961,7 +2961,7 @@ A web app that matches people with mental health therapists best suited for thei
 
 The web app allows a user to verify their identity to unlock a box storing all their prescription pill bottles.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=R4zeNen51FQ) · Built with ibm-watson, javascript, node-red, raspberry-pi
+No public code found · [Demo video](https://www.youtube.com/watch?v=R4zeNen51FQ) · Built with ibm-watson, javascript, node-red, raspberry-pi
 
 ### [Text2Test](https://devpost.com/software/text2test)
 
@@ -2989,7 +2989,7 @@ A web app to help you track your money and where you're spending it.
 
 This is a user-facing web app that allows the user to pick a delivery location and follow the delivery through real-time tracking.
 
-No public code linked · Built with css, dronekit, html, javascript
+No public code found · Built with css, dronekit, html, javascript
 
 ## 2013 winners
 
@@ -2999,6 +2999,6 @@ No public code linked · Built with css, dronekit, html, javascript
 
 Combines electric imp with big data provided by Sailthru to make a simple game where players try to predict which browser was more popular, given a location as a hint.
 
-No public code linked
+No public code found
 
 [Back to top](#web-app-or-dashboard)

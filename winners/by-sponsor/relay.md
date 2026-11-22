@@ -25,7 +25,7 @@ The wireless camera bear that watches, remembers, and answers when you ask.
 
 **How it used Relay:** A single WebSocket consumer handles events on Relay.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
+No public code found · [Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
 
 ### [Amyna](https://devpost.com/software/billdozer)
 

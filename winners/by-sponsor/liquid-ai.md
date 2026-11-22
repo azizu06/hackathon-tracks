@@ -23,7 +23,7 @@
 
 Iris is a sleek headset built for the blind and visually impaired, designed to provide real-time guidance through the world.
 
-**Award:** Won “Edge AI Prize: Most Creative On-Device AI Deployment ($10k Cash)” from Liquid AI. The write-up gives no details on how the team used the sponsor’s tech.
+**Award:** Won “Edge AI Prize: Most Creative On-Device AI Deployment” from Liquid AI. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/RoyceAroc/iris) · [Demo video](https://www.youtube.com/watch?v=3Y1PsWWNvb4) · Built with cuda, expo.io, groq, nvidia
 
@@ -35,7 +35,7 @@ PUSHPA gives firefighters eyes on the ground and in the air. Smart glasses steer
 
 **Liquid AI:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=-p4GfOiM0GY) · Built with executorch, gemini, langchain, llama.cpp
+No public code found · [Demo video](https://www.youtube.com/watch?v=-p4GfOiM0GY) · Built with executorch, gemini, langchain, llama.cpp
 
 ### [SurviveX](https://devpost.com/software/survivex)
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=-p4GfOiM0G
 
 Your hands-free conversational survival assistant. Powered by on device LLM inference, offering step-by-step instructions to keep you smarter and safer anytime, anywhere.
 
-**Award:** Won “Edge AI Prize: Most Creative On-Device AI Deployment ($10k Cash)” from Liquid AI. The write-up gives no details on how the team used the sponsor’s tech.
+**Award:** Won “Edge AI Prize: Most Creative On-Device AI Deployment” from Liquid AI. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/rockuutree/SurviveX-Treehacks) · [Demo video](https://www.youtube.com/watch?v=aVEuAuWjVac) · Built with executetorch, finetuning, github, llama
 

@@ -45,7 +45,7 @@ For code with some catching up to do. ketchup uses an AI agent to work through T
 
 **GoDaddy Registry:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=hoLp4GRSbAI) · Built with claude, css, html, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=hoLp4GRSbAI) · Built with claude, css, html, javascript
 
 ### [MarkCodePolo by Freakmont Warriors](https://devpost.com/software/markcodepolo-by-freakmont-warriors)
 
@@ -63,7 +63,7 @@ A coding tool maps relationships between files and passes the graph to a coding 
 
 One in Three is an interactive and fully immersive AI simulation that puts men in a woman’s shoes to raise awareness of sexual harassment and practise stepping in as bystanders.
 
-**GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
+**GoDaddy Registry · Listed on Devpost:** Built with GoDaddy (listed on Devpost)
 
 [Code](https://github.com/limjiayi21/oneinthree) · [Demo video](https://www.youtube.com/watch?v=dFNiASxPbck) · Built with godaddy, cloudflare, cloudflare-d1, cloudflare-workers
 
@@ -175,7 +175,7 @@ A menu companion translates unfamiliar menus and helps diners visualize the dish
 
 Giveo is a swipe-based app, built to connect users with a feed of charities personally tailored to their interests and passions.
 
-**GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
+**GoDaddy Registry · Listed on Devpost:** Built with GoDaddy (listed on Devpost)
 
 [Code](https://github.com/spcoughlin/Giveo) · [Demo video](https://www.youtube.com/watch?v=KTbUzU5nbEg) · Built with godaddy, fastapi, firebase, h5
 
@@ -185,7 +185,7 @@ Giveo is a swipe-based app, built to connect users with a feed of charities pers
 
 The team set out to solve the often ineffective ticket-to-response systems present in data centers.
 
-**GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
+**GoDaddy Registry · Listed on Devpost:** Built with GoDaddy (listed on Devpost)
 
 [Code](https://github.com/zekestephens/hyperlynx) · [Demo video](https://www.youtube.com/watch?v=wL78va-T-Ug) · Built with godaddy, auth0, bootstrap, css
 
@@ -227,7 +227,7 @@ An arcade-style game where the player can go on a journey of introspection and s
 
 **GoDaddy Registry:** Sponsor use not stated on Devpost
 
-No public code linked · Built with chatgpt, css, fastapi, html5
+No public code found · Built with chatgpt, css, fastapi, html5
 
 ## 2024 winners
 

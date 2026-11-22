@@ -45,9 +45,9 @@ Play a game, shop for the party, or book an entire trip end to end. Whim puts cu
 
 Friend asking you silly questions mid-show-dialogue during the climax? No fear, CompOnion (a play on words for Companion) is here.
 
-**Cloudflare:** Built with cloudflare (listed on Devpost)
+**Cloudflare · Listed on Devpost:** Built with cloudflare (listed on Devpost)
 
-No public code linked · Built with cloudflare, gemini, javascript, neon
+No public code found · Built with cloudflare, gemini, javascript, neon
 
 ### [Eyrie](https://devpost.com/software/eyrie-idxhj8)
 
@@ -55,7 +55,7 @@ No public code linked · Built with cloudflare, gemini, javascript, neon
 
 Preventing crowd crush before it happens.
 
-**How it used Cloudflare:** Configures Cloudflare's TURN servers for WebRTC.
+**How it used Cloudflare:** Sets a Cloudflare TURN URL.
 
 [Code](https://github.com/treehill05/eyrie) · Built with cloudflare, gemini, godaddy, nextjs
 
@@ -77,7 +77,7 @@ Have you ever walked into a dirty bathroom? Sometimes you just want a bathroom t
 
 **How it used Cloudflare:** The team used React.js for the frontend and a SQLite database hosted on Cloudflare as the backend.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=-M6MWgq48NU) · Built with cloudflare, google-maps, javascript, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=-M6MWgq48NU) · Built with cloudflare, google-maps, javascript, python
 
 ### [Orbit - Find Your Circle](https://devpost.com/software/orbit-w84iq1)
 
@@ -97,7 +97,7 @@ Experience contact tracing in this game (with AI, because why not).
 
 **How it used Cloudflare:** The backend runs on Cloudflare Workers.
 
-No public code linked · Built with cloudflare, css3, gemini, html5
+No public code found · Built with cloudflare, css3, gemini, html5
 
 ### [SquatSpot](https://devpost.com/software/squatspot)
 
@@ -139,7 +139,7 @@ The project is an innovative AI-powered web app designed to reduce vehicle carbo
 
 **How it used Cloudflare:** FleetPulse is hosted on Cloudflare.
 
-No public code linked · Built with cloudflare, ai, amazon-web-services, databricks
+No public code found · Built with cloudflare, ai, amazon-web-services, databricks
 
 ### [Open Context](https://devpost.com/software/open-context)
 
@@ -159,7 +159,7 @@ Automate your event extraction from emails.
 
 **How it used Cloudflare:** The project uses Cloudflare Workers and Pages for serverless processing and API interactions.
 
-No public code linked · Built with cloudflare, ai, groq, llama
+No public code found · Built with cloudflare, ai, groq, llama
 
 ## Track names and requirements
 

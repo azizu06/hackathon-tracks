@@ -47,7 +47,7 @@ Ethereum Piggy lets you save money with a virtual Piggy Bank.
 
 **How it used Coinbase:** The app connects to a Coinbase Ethereum wallet.
 
-No public code linked · Built with coinbase, ethereum, ios
+No public code found · Built with coinbase, ethereum, ios
 
 ## Track names and requirements
 

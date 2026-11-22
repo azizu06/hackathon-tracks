@@ -45,7 +45,7 @@ When your systems go down, your response stays up.
 
 **Award:** Won “Winstead PC Track” from Winstead PC. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=s6qzeIHrdKc) · Built with canva, figma, javascript, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=s6qzeIHrdKc) · Built with canva, figma, javascript, node.js
 
 ## Track names and requirements
 

@@ -25,7 +25,7 @@ Refresh on digital security with hands-on challenges and tips, all from your com
 
 **Award:** Won “Break Through Tech” from Break Through Tech. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with charm.sh, go, ngrok, sqlite
+No public code found · Built with charm.sh, go, ngrok, sqlite
 
 ## Track names and requirements
 

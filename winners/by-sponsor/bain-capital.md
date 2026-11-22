@@ -25,7 +25,7 @@ Application allows users to create a quick and easy checkout for customers by ut
 
 **Award:** Won “Bain Capital: Best Use of Machine Learning” from Bain Capital. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with firebase, sendgrid, venmo
+No public code found · Built with firebase, sendgrid, venmo
 
 ### [SpaceBubbles](https://devpost.com/software/spacebubbles)
 

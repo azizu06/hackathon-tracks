@@ -45,7 +45,7 @@ Practice sales calls with AI prospects. Get real-time coaching and detailed perf
 
 **How it used Vapi:** The team integrated Vapi to handle the voice pipeline.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMIY) · Built with vapi, chromadb, claude, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMIY) · Built with vapi, chromadb, claude, gemini
 
 ### [Stacy](https://devpost.com/software/stacy-g7zptj)
 
@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMI
 
 Stacy is a voice safety companion. Stacy logs incidents, your live location, alerts your loved ones, and dispatches to the police.
 
-**How it used Vapi:** Uses Vapi to create voice calls.
+**How it used Vapi:** Creates calls with Vapi.
 
 [Code](https://github.com/apollo-ullah/HackTheNorth2025) · [Demo video](https://www.youtube.com/watch?v=nHx5KazGawQ) · Built with vapi, openai, swift, twilio
 
@@ -97,7 +97,7 @@ Companion is a voice-powered web AI agent that can autonomously execute web task
 
 **How it used Vapi:** The team integrated Vapi to enable voice commands.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
+No public code found · [Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
 
 ### [Echocare](https://devpost.com/software/echocare-i6csrv)
 

@@ -25,7 +25,7 @@ AI-powered 311 for non-emergencies. Voice-to-dispatch in less than a minute with
 
 **How it used PaleBlueDot AI:** The AI power rating system is powered by Token Router.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
+No public code found · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
 
 ### [Pulse AI](https://devpost.com/software/pulse-ai-ub9lxt)
 
@@ -45,7 +45,7 @@ Retention uses Meta's brain-simulation model to optimize educational videos for 
 
 **How it used PaleBlueDot AI:** The team uses TokenRouter to call Claude to summarize the outputs from three LLMs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
+No public code found · [Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
 
 ## Track names and requirements
 

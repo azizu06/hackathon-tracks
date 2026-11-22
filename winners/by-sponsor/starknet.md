@@ -35,7 +35,7 @@ Calculate carbon emissions from travel expense reports and verify thresholds usi
 
 **How it used Starknet:** Starknet smart contracts verify that companies meet emissions standards without revealing private travel data.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
+No public code found · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
 
 ### [Experience Points](https://devpost.com/software/experience-points)
 

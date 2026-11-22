@@ -23,7 +23,7 @@
 
 One ad. Every market.AI-localized in seconds.
 
-**How it used Runpod:** Configures a Runpod Flash serverless GPU worker for video editing.
+**Runpod · Imported in code:** Imports LiveServerless from Runpod Flash.
 
 [Code](https://github.com/ssiddhantsood/treehacks) · [Demo video](https://www.youtube.com/watch?v=C3_5c9b4zxg) · Built with runpod, elasticsearch, fastapi, ffmpeg
 

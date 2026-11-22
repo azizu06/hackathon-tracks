@@ -35,7 +35,7 @@ The web application is designed to help train the users in common economic situa
 
 **Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with cloud-computing, database-management, git, json
+No public code found · Built with cloud-computing, database-management, git, json
 
 ### [Prospera](https://devpost.com/software/prospera-1bpnya)
 

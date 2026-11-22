@@ -61,7 +61,7 @@ An evaluation dashboard compares multi-agent workflows and lets developers inspe
 - **Code:** [Source 1](https://github.com/AlfredSjoqvist/multieval)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=__OU7Ftl4EM)
 - **All prizes at this hackathon (2):** Cognition Company Challenge · Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Cognition:** Connects to the public Devin API to start monitored sessions.
+- **How it used Cognition:** Sets the public api.devin.ai URL.
 - **How it used Fetch.ai:** An Agentverse uAgent receives a natural-language economic scenario.
 - **Checked on Devpost:** 2026-11-21
 
@@ -347,14 +347,14 @@ Your tabs, turned into a study session.
 
 Turn trash into cash: report litter, clean it up, get paid in Solana.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
+No public code found · [Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cloudinary, react-native, solana, supabase, world-u
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=D_P7spBpfyQ)
 - **All prizes at this hackathon (1):** Cloudinary Company Challenge
 - **How it used Cloudinary:** The project uses Cloudinary AI Vision to verify photos with natural language prompts.
@@ -376,14 +376,14 @@ Also won this track: [MultiEval](#project-multival) (listed above)
 
 ACG helps AI coding agents work in parallel without stepping on each other.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=eoTO5TZJbNQ) · Built with html, python, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=eoTO5TZJbNQ) · Built with html, python, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** html, python, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eoTO5TZJbNQ)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
 - **Award:** Won “Cognition Company Challenge” from Cognition. The write-up gives no details on how the team used the sponsor’s tech.
@@ -409,7 +409,7 @@ Autopsy records every action your AI coding agent takes, autopsies the failures,
 - **Code:** [Source 1](https://github.com/balebbae/Autopsy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2bgq8hvJ32s)
 - **All prizes at this hackathon (2):** 3rd Overall · Cognition Company Challenge
-- **Cognition:** Built with devin (listed on Devpost)
+- **Cognition · Listed on Devpost:** Built with devin (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -468,14 +468,14 @@ Ai Agent that designs computer chips in VSCode.
 
 GitHub stores your code. Lore stores your reasons.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
+No public code found · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** anthropic, claude, deepseek, devin, gemma, tauri, windsurf
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8-gmVsRSW2c)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
 - **How it used Cognition:** The project plugs into Devin via MCP.
@@ -524,14 +524,14 @@ Also won this track: [MultiEval](#project-multival), [Northstar](#project-norths
 
 A caregiver assistant coordinates appointments, calendar updates, and over-the-counter medicine requests.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
+No public code found · [Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** agentverse, asi:one, browser-use, fet, fetch.ai, ocr, python, telegram, uagents
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4RKYgNmFiSM)
 - **All prizes at this hackathon (1):** Fetch.ai: OmegaClaw Skill Forge powered by Agentverse
 - **How it used Fetch.ai:** The project uses Fetch.ai uAgents for its agent runtime and messaging.
@@ -781,14 +781,14 @@ How to combine AI with deterministic logic.
 
 A hiking app gives users activities to complete outside and helps clinicians suggest walks.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
+No public code found · [Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** avfoundation, core-location, figma-make, mapkit, onnx, plantnet-300k, sqlite, supabase, swift, swiftui, zetic-melange
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0ANuoizXoxE)
 - **All prizes at this hackathon (1):** Figma Make Challenge
 - **How it used Figma:** The project uses Figma Make to explore design system directions before writing SwiftUI.
@@ -804,14 +804,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0ANuoizXox
 
 A shared app helps friend groups coordinate rides, plans, and payments.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** figma, framer, godaddy, react, supabase, typescript, vercel, vite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mNkgHS3Sgk0)
 - **All prizes at this hackathon (1):** Figma Make Challenge
 - **How it used Figma:** The project uses Figma Make to brainstorm ideas.
@@ -850,14 +850,14 @@ EMTs deserve better than a radio and a clipboard.
 
 One who understands: your healthcare, handled.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
+No public code found · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** elevenlabs, expo.io, fastapi, playwright, python, railway, react-native, tavily-api, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rHKdiMtREt0)
 - **All prizes at this hackathon (1):** Figma Make Challenge
 - **How it used Figma:** The team used Figma Make for first-pass layouts for onboarding, the voice interface, and provider results.
@@ -942,14 +942,14 @@ A booking workspace helps performers find venues and manage pitches and follow-u
 
 Because good music gives us sera-tonin :).
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
+No public code found · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** colab, python, spotify, supabase, tribev2, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M60_I4LMtPM)
 - **All prizes at this hackathon (1):** Figma Make Challenge
 - **Figma:** Sponsor use not stated on Devpost
@@ -988,14 +988,14 @@ Snitch is an accountability platform built for students without something on the
 
 A dashboard shows how internship pipelines connect employers and schools.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
+No public code found · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** agentverse, claude, fastapi, figmamake, javascript, next.js, python, react, render, supabase, tailwindcss, uagents, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2_2BNhwoFno)
 - **All prizes at this hackathon (1):** Figma Make Challenge
 - **How it used Figma:** The team used Figma Make to experiment with hero section designs.
@@ -1011,14 +1011,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFn
 
 A browser extension helps users find and understand medical research relevant to women's health.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
+No public code found · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** canva, chrome, css, express.js, figma, figmamake, gemma, git, github, html, javascript, node.js, ollama, postgresql, react, resend, sql, supabase, typescript, vite, vultr
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TyN5sk7KFns)
 - **All prizes at this hackathon (1):** Figma Make Challenge
 - **How it used Figma:** The team used Figma Make and generated its first iterative designs.
@@ -1146,14 +1146,14 @@ A study app turns a textbook scan into an interactive learning session.
 
 Play as a hacker taking advantage of a data breach to crack as many accounts as possible, learning the secrets and mechanisms behind what makes a password truly secure.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=jMh-X4L-k2U) · Built with roblox, lua
+No public code found · [Demo video](https://www.youtube.com/watch?v=jMh-X4L-k2U) · Built with roblox, lua
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** lua, roblox
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jMh-X4L-k2U)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge
 - **How it used Roblox:** The project was built in Roblox Studio using Lua.
@@ -1169,14 +1169,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=jMh-X4L-k2
 
 A Roblox tower-defense game teaches players to recognize phishing messages and malware.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
+No public code found · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claudeapi, luau, robloxstudio
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jjYTbE1EEbk)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge
 - **How it used Roblox:** The team built the project in Roblox Studio using Luau for gameplay systems, UI interactions and player progression.
@@ -1265,14 +1265,14 @@ A Roblox detective game asks players to verify news stories by interviewing witn
 
 Sentinel.ai monitors live camera streams and flags important activity.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_I) · Built with solana, api, atlas, cloud
+No public code found · [Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_I) · Built with solana, api, atlas, cloud
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** api, atlas, cloud, cloudinary, compute, dlib, elevenlabs, embeddings), face-recognition, fastapi, gemini, gemma, git, github, google, mongodb, opencv, python, pytorch, react, solana, stream/event, torchvision, transaction, typescript, ultralytics, vite, vultr, websockets, yolov8
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8iKrZ4sSS_I)
 - **All prizes at this hackathon (1):** MLH: Best Use of Solana
 - **How it used Solana:** The project uses Solana devnet transaction hashes for tamper-evident provenance.
@@ -1292,14 +1292,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_
 
 A guided movement app helps older adults with limited mobility practice activities with camera feedback.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=EXR-oseYXUs) · Built with css, html, javascript, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=EXR-oseYXUs) · Built with css, html, javascript, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, html, javascript, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EXR-oseYXUs)
 - **All prizes at this hackathon (1):** MLH: Best Use of Vultr
 - **How it used Vultr:** The project uses Vultr for a cloud backend that stores JSON files from demonstration videos and user login information.
@@ -1342,14 +1342,14 @@ Online marketplaces in 2026: Bots are everywhere.
 
 Agent-powered hiring built for humans, using each applicant’s unique application history to generate a trust rating so people apply more thoughtfully and ethically while getting matched faster.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD4) · Built with express.js, gcp, gemini, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD4) · Built with express.js, gcp, gemini, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** express.js, gcp, gemini, node.js, react, worldu
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=avU8l6qmFD4)
 - **All prizes at this hackathon (1):** World U: Build for the future of the internet with World
 - **How it used World U:** The project can require a minimum World ID level to apply.
@@ -1365,14 +1365,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD
 
 Scale your business with faster authentic hiring and real outbound, not ai.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=baX5qnjcYcc) · Built with typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=baX5qnjcYcc) · Built with typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=baX5qnjcYcc)
 - **All prizes at this hackathon (1):** World U: Build for the future of the internet with World
 - **How it used World U:** The team integrated World/MiniKit for verified mini app login.
@@ -1484,16 +1484,16 @@ Scrubs is an iPhone app that auto-redacts PHI — names, MRNs, faces — from he
 
 [Zetic](../by-sponsor/zetic.md) · **Zetic Company Challenge**
 
-Turning iPhone's $25 LiDAR into industrial-grade dense depth maps. On-device, real-time, no cloud.
+Turns iPhone LiDAR into dense depth maps on-device in real time.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, fastapi, gx10, html, javascript, python, pytorch, swift
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M_QiPFWFkys)
 - **All prizes at this hackathon (2):** Track: Flicker To Flow · Zetic Company Challenge
 - **How it used Zetic:** The project toggles between on-device Zetic and a remote GX10 server.

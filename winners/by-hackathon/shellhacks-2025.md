@@ -47,17 +47,17 @@ These projects won more than one prize here. Each one is listed once.
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with typescript, jetson-orin, gemini, google-adk
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** gemini, google-adk, jetson-orin, python, react, typescript, yolo
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0t4X0DoKbsc)
 - **All prizes at this hackathon (3):** Microsoft · NVIDIA · Waymo
-- **How it used Microsoft:** The team created a control panel with TypeScript to analyze the robot view live using web sockets.
+- **Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
 - **How it used NVIDIA:** The team used SSH tunnels to connect its hosts to the Jetson Orin mounted on the Jetbot.
 - **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
@@ -107,7 +107,7 @@ A web-app developed to help prep students for their technical interviews through
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uNDWa84R2Aw)
 - **All prizes at this hackathon (2):** Assurant · Microsoft
 - **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
-- **How it used Microsoft:** The project used TypeScript for its frontend.
+- **Microsoft · Listed on Devpost:** Built with TypeScript (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -120,14 +120,14 @@ A web-app developed to help prep students for their technical interviews through
 
 Gamified Experience: Players engage in quirky yet educational tasks, from fetching coffee for the elusive "King Rat" (the boss) to handling customer claims with empathy and professionalism.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adobe, next.js, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LhTFg3cLcq8)
 - **All prizes at this hackathon (2):** Netflix · State Farm
 - **Award:** Won “Netflix” from Netflix. The write-up gives no details on how the team used the sponsor’s tech.
@@ -243,7 +243,7 @@ Transform any GitHub repository into an interactive, visual tree structure. AI-p
 - **Code:** [Source 1](https://github.com/hieunguyent12/shellhacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oo69VDuMhTU)
 - **All prizes at this hackathon (1):** Github
-- **How it used GitHub:** The application visualizes GitHub repositories as interactive flow graphs.
+- **How it used GitHub:** The backend uses the GitHub REST API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -425,14 +425,14 @@ Text-to-speech is a near-essential tool for the legally blind; However, normal t
 
 Tyodor is a 10-year-old AI that students teach to, reinforcing learning while giving teachers real-time insights, powered by Google Gemini API for interactive learning.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** css, flask, googleai, html, javascript, openai, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=55OuqH7E-lA)
 - **All prizes at this hackathon (1):** Google
 - **How it used Google:** Google Gemini powers the learning assistant via its OpenAI-compatible interface.
@@ -464,7 +464,7 @@ Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body 
 - **Code:** [Source 1](https://github.com/DanielJEfres/ctrl-arm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=81FJv9Wgcoo)
 - **All prizes at this hackathon (1):** Microsoft
-- **Microsoft:** Built with typescript (listed on Devpost)
+- **Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -541,14 +541,14 @@ GreenLight turns dashcam footage into a learning tool. Incidents become 3D simul
 
 Learn how to take your Next Step in insurance education by practicing in high pressure scenarios.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** flask, nextjs, python, react, tailwind-css, typescript, vapi
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=72e2HA9fW8Y)
 - **All prizes at this hackathon (1):** State Farm
 - **Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
@@ -597,14 +597,14 @@ Leverages computer vision, GPS, and crowdsourcing to detect potholes, warn drive
 
 With AWF, private flight managers are able to easily access a complete report of the entire state of their operations, from individual employee management to customer relations &amp; metrics.
 
-No public code linked · [Demo video](https://vimeo.com/1122618072) · Built with base44, cloudskyapi, oauth, react
+No public code found · [Demo video](https://vimeo.com/1122618072) · Built with base44, cloudskyapi, oauth, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** base44, cloudskyapi, oauth, react, tailwind, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://vimeo.com/1122618072)
 - **All prizes at this hackathon (1):** Wix.com &amp; Base44
 - **How it used Wix / Base44:** The project uses Base44 for its serverless backend.
@@ -620,14 +620,14 @@ No public code linked · [Demo video](https://vimeo.com/1122618072) · Built wit
 
 The app EcoSort makes sustainability simple by helping people build better recycling and donation habits.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=p3F8s9jy8qk) · Built with base44, css, github, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=p3F8s9jy8qk) · Built with base44, css, github, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** base44, css, github, javascript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p3F8s9jy8qk)
 - **All prizes at this hackathon (2):** 1st, 2nd, &amp; 3rd Best Overall · Wix.com &amp; Base44
 - **How it used Wix / Base44:** The app was developed using Vibe Code on the Base44 platform and later uploaded to GitHub for collaboration.
@@ -643,14 +643,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=p3F8s9jy8q
 
 Smart student budgeting app that gives students from monthly financial plans to personalized tips with an AI-generated financial education section that make students stay on top of their finances.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** base44, javascript, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=59egQoVTbTw)
 - **All prizes at this hackathon (1):** Wix.com &amp; Base44
 - **How it used Wix / Base44:** The project was built with AI prompting on Base44.
@@ -680,7 +680,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbT
 - **Code:** [Source 1](https://github.com/npastrami/IntelligentPokerLeague)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mRHBn9dJj4c)
 - **All prizes at this hackathon (1):** Wolfram
-- **Wolfram:** Built with wolfram-technologies (listed on Devpost)
+- **Wolfram · Listed on Devpost:** Built with wolfram-technologies (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

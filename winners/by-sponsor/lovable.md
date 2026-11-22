@@ -23,7 +23,7 @@
 
 Turn any smartphone into a live emergency camera, providing first responders with real-time eyes on incidents where traditional CCTV is unavailable.
 
-**How it used Lovable:** Uses Lovable’s Vite plugin to tag components in development.
+**Lovable · Imported in code:** Imports componentTagger from lovable-tagger.
 
 [Code](https://github.com/dave22r/emergency-eye) · [Demo video](https://www.youtube.com/watch?v=Xgd0_N_PSHc) · Built with api, leaflet.js, loveable, python
 

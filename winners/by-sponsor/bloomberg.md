@@ -57,7 +57,7 @@ Accelerating the voluntary carbon credit market with blockchain.
 
 **Award:** Won “CATEGORY - Sustainability (Bloomberg)” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4) · Built with css, html, javascript, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4) · Built with css, html, javascript, python
 
 ### [CarbonQapture](https://devpost.com/software/carbonqapture)
 
@@ -101,7 +101,7 @@ The stock market is inherently volatile, and gaining even the slightest insight 
 
 **How it used Bloomberg:** Clicking on the notification pulls up the Bloomberg page for the Dow Jones.
 
-No public code linked · Built with bloomberg, weather-underground, wolfram-technologies
+No public code found · Built with bloomberg, weather-underground, wolfram-technologies
 
 ## Track names and requirements
 

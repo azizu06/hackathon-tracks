@@ -45,7 +45,7 @@ FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting
 
 **Award:** Won “&#91;MLH&#93; Best DEI Hack” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with css, javascript, react-native
+No public code found · Built with css, javascript, react-native
 
 ### [Forecasts by the Campfire](https://devpost.com/software/butcamp)
 
@@ -85,7 +85,7 @@ Sera helps people with limited banking experience take control of their money. N
 
 **Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
 
 ### [Visa Friend](https://devpost.com/software/visa-friend)
 

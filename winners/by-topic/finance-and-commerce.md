@@ -57,7 +57,7 @@ Independent Agentic AI oversight that tracks every dollar from owner to manageme
 
 Once you describe a job, Astronom builds a budgeted, permission-checked AI agent team, red-teams it, and fixes what breaks, with approval at every step, using its multi-agent swarm technology.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
+No public code found · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
 
 ### [Backrooms](https://devpost.com/software/backrooms-h4o783)
 
@@ -177,7 +177,7 @@ The autonomous back office for freight finance.
 
 A shared app helps friend groups coordinate rides, plans, and payments.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
 
 ### [House Rules](https://devpost.com/software/house-rules-dfzg75)
 
@@ -217,7 +217,7 @@ JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives e
 
 Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, allocates units, manages payment, and proves delivery through SLA.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
+No public code found · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
 
 ### [Lullabuy](https://devpost.com/software/lullabuy)
 
@@ -289,7 +289,7 @@ A learning app helps users explore stock movements and practice investment decis
 
 Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new investment opportunities that actually fit it.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
 
 ### [Radar](https://devpost.com/software/radar-hz5yqe)
 
@@ -297,7 +297,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXu
 
 Find sanctioned investigators, not their namesakes.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
+No public code found · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
 
 ### [Red Ledger](https://devpost.com/software/red-ledger)
 
@@ -329,7 +329,7 @@ An AI-powered disaster response command center that identifies urgent needs, inv
 
 Turn real-estate data into explainable infrastructure risk insights and prioritized investigations.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
 ### [Settlr](https://devpost.com/software/settlr-s4gr9y)
 
@@ -475,7 +475,7 @@ Mobile app for users to find and share recipes. Allows for automatic calculation
 
 Ever wondered if your shopping cart is hurting the planet? 🌍 EcoScout scans products, gives instant EcoScores, and suggests greener swaps—helping you shop smart and sustainably.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
+No public code found · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
 
 ### [ERWIN: Enhanced Rock Weathering Impact Navigator](https://devpost.com/software/erwin-enhanced-rock-weathering-impact-navigator)
 
@@ -491,7 +491,7 @@ An accessible carbon removal assessment platform for Enhanced Rock Weathering (E
 
 "Smart Spending, Safer Shopping, Healthier Finances.".
 
-No public code linked · Built with beautiful-soup, gemini, javascript, mongodb
+No public code found · Built with beautiful-soup, gemini, javascript, mongodb
 
 ### [FinScope](https://devpost.com/software/finscope-02o4qt)
 
@@ -563,7 +563,7 @@ Complete AI agent ecosystem for fraud detection &amp; banking. Multiple speciali
 
 Money Mentor AI: your stress-free path to financial freedom - one confident step at a time.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
 
 ### [Money Talks](https://devpost.com/software/money-talks-d93izn)
 
@@ -579,7 +579,7 @@ Money Talks transforms raw bank statements into actionable financial insights th
 
 Smart student budgeting app that gives students from monthly financial plans to personalized tips with an AI-generated financial education section that make students stay on top of their finances.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
 
 ### [MyToyota](https://devpost.com/software/mytoyota)
 
@@ -709,7 +709,7 @@ Elevyn empowers creators to monetize exclusive content and fundraisers through b
 
 FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting.
 
-No public code linked · Built with css, javascript, react-native
+No public code found · Built with css, javascript, react-native
 
 ### [financio](https://devpost.com/software/financio-xg15bp)
 
@@ -717,7 +717,7 @@ No public code linked · Built with css, javascript, react-native
 
 The web application is designed to help train the users in common economic situations they might face to get a better grip on their finances.
 
-No public code linked · Built with cloud-computing, database-management, git, json
+No public code found · Built with cloud-computing, database-management, git, json
 
 ### [FinnAI](https://devpost.com/software/finnai)
 
@@ -725,7 +725,7 @@ No public code linked · Built with cloud-computing, database-management, git, j
 
 Inspiration Managing personal finances can often feel daunting, with budgeting and saving becoming increasingly complex.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
+No public code found · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
 
 ### [FIU Financial Education - Scholarship Plug](https://devpost.com/software/financial-education-for-women-at-fiu)
 
@@ -733,7 +733,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2
 
 FIU Scholarship Plug helps students find relevant scholarships by assessing demographics. It gathers data on academic background, financial status, and career goals for personalized recommendations.
 
-No public code linked · Built with defang, auth0, bash, css
+No public code found · Built with defang, auth0, bash, css
 
 ### [FraudGuard](https://devpost.com/software/fraudguard-3gxd0w)
 
@@ -797,7 +797,7 @@ Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-t
 
 "Empowering Latino Businesses, One Investment at a Time.".
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
+No public code found · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
 
 ### [Plate-O](https://devpost.com/software/plate-o)
 
@@ -829,7 +829,7 @@ Your #1 financial advisor that knows everything about your current spending, you
 
 Sera helps people with limited banking experience take control of their money. No jargon—just real support when it’s needed most.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
 
 ### [SmartCards](https://devpost.com/software/smartcards-qxdusb)
 
@@ -871,7 +871,7 @@ Quick Relief uses blockchain technology to enable faster, secure, and transparen
 
 Structurall enables investment banks to leverage unstructured data with natural language processing.
 
-No public code linked · Built with axios, azure, express.js, node.js
+No public code found · Built with axios, azure, express.js, node.js
 
 ### [TradeGO](https://devpost.com/software/trade-bot-uhvcny)
 
@@ -879,7 +879,7 @@ No public code linked · Built with axios, azure, express.js, node.js
 
 TradeGO is an application that enables people to participate in financial markets without financial literacy.
 
-No public code linked · Built with react, ruby, ruby-on-rails
+No public code found · Built with react, ruby, ruby-on-rails
 
 ## 2016 winners
 
@@ -889,6 +889,6 @@ No public code linked · Built with react, ruby, ruby-on-rails
 
 Kiva + Invest. Kinvest allows Lenders to leverage machine learning to maximize impact in developing nations.
 
-No public code linked · Built with firebase, flask, machine-learning, pandas
+No public code found · Built with firebase, flask, machine-learning, pandas
 
 [Back to top](#finance-and-commerce)

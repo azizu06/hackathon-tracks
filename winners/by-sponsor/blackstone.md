@@ -25,7 +25,7 @@ Your portfolio, explained: Chat with your portfolio, understand what you already
 
 **Award:** Won “Blackstone” from Blackstone. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
 
 ## Track names and requirements
 

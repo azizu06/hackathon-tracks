@@ -1,33 +1,41 @@
 # Hackathon Tracks
 
-![Hackathon Tracks. Pick the track before the idea.](docs/tracks-banner.png)
-
 Past hackathon winners, organized by the sponsor prize they won, so you can see what judges rewarded before you pick your next project.
 
-Project entries link to Devpost and show documented sponsor use, labeled inferences, or prize context. Code is linked where public.
+<!-- BEGIN card coverage -->
 
-<!-- BEGIN coverage -->
+908 cards with sourced use · 24 with inferred notes · 64 with listed tech or links only · 557 award-only or unstated · 1,216 with public code links
 
-![1,553 winning projects](https://img.shields.io/badge/Winning%20projects-1,553-0F2A4A) ![60 hackathon editions](https://img.shields.io/badge/Hackathon%20editions-60-3B82F6) ![379 sponsors](https://img.shields.io/badge/Sponsors-379-0F2A4A) ![1,697 sponsor prizes](https://img.shields.io/badge/Sponsor%20prizes-1,697-3B82F6)
-
-**1,034 shown** (994 full, 40 Built With or dependency) · **25 inferred** · **514 award-only** · 124 not stated
-
-<!-- END coverage -->
-
-A winning project is one Devpost URL at one hackathon edition, identified by its event slug. The sponsor count includes distinct named sponsors. The `Other` group covers individual or unattributed prizes.
+<!-- END card coverage -->
 
 **[Search every winner at tracks.azizu.dev](https://tracks.azizu.dev/)**
 
-<!-- BEGIN directory -->
+<!-- BEGIN browse -->
 
 ## Browse
 
 | Start with | What you get |
 | --- | --- |
-| **[By sponsor](SPONSORS.md)** | 379 sponsors, A to Z. See what won and what the Devpost write-ups say about sponsor tech. |
-| **[By hackathon](HACKATHONS.md)** | 60 editions of 23 hackathons, with every sponsor track and its winners. |
+| **[By sponsor](SPONSORS.md)** | 379 sponsors, A to Z. See what won and the evidence for each sponsor note. |
+| **[By hackathon](HACKATHONS.md)** | 60 editions, with sponsor tracks and their winners. |
 | **[By tech or project type](TOPICS.md)** | Health, finance, hardware, voice and more, plus the most used tech. |
 | **[Search the site](https://tracks.azizu.dev/)** | Filter all 1,553 winners by sponsor, hackathon, year and tech. |
+
+<!-- END browse -->
+
+![Hackathon Tracks. Pick the track before the idea.](docs/tracks-banner.png)
+
+<!-- BEGIN coverage -->
+
+![1,553 winning projects](https://img.shields.io/badge/Winning%20projects-1,553-0F2A4A) ![60 hackathon editions](https://img.shields.io/badge/Hackathon%20editions-60-0A1F38) ![379 sponsors](https://img.shields.io/badge/Sponsors-379-0F2A4A) ![1,697 sponsor prizes](https://img.shields.io/badge/Sponsor%20prizes-1,697-0A1F38)
+
+**1,023 shown** (964 full, 59 tech listings) · **25 inferred** · **516 award-only** · 123 not stated · 10 linked resource only
+
+<!-- END coverage -->
+
+Each card represents one project at one hackathon edition. A card can have both a sourced and an inferred prize note. The sponsor count includes distinct named sponsors. The `Other` group covers individual or unattributed prizes.
+
+<!-- BEGIN directory -->
 
 ## Top sponsors
 
@@ -69,10 +77,10 @@ Each row is one project and one sponsor prize it won. The fields you will use mo
 | --- | --- |
 | `project`, `url` | Project name and Devpost page |
 | `hackathon`, `year` | Where and when it won |
-| `sponsor`, `prize` | Who awarded the prize and its exact Devpost label |
+| `sponsor`, `prize` | Who awarded the prize and its raw Devpost label. Displayed titles omit monetary amounts |
 | `description` | What the project does |
 | `sponsor_integration` | Documented sponsor use, a listed product, a labeled inference, or award context |
-| `use_source`, `use_quote` | Source field and exact supporting excerpt |
+| `use_source`, `use_quote` | Source field and supporting excerpt. Award-only rows use the display prize title |
 | `use_evidence_url` | Cited page for inferences, commit-pinned code line, or linked demo |
 | `inferred` | `true` for labeled inferences |
 | `code_match_evidence` | How a repository found outside Devpost was matched to the project |

@@ -35,7 +35,7 @@ End to End AGENT BASED RE-Selling.
 
 **How it used Pika:** The project uses Pika for product video generation.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=2RdGKlS07a8) · Built with typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=2RdGKlS07a8) · Built with typescript
 
 ### [Senya](https://devpost.com/software/senya)
 

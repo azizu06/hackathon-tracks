@@ -45,7 +45,7 @@ Turn real-estate data into explainable infrastructure risk insights and prioriti
 
 **Award:** Won “CBRE Track” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
 ## 2025 winners
 
@@ -77,7 +77,7 @@ The app is a full-featured real estate helper that helps you find and trust prop
 
 **Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
+No public code found · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
 
 ## 2024 winners
 

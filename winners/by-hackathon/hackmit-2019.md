@@ -55,14 +55,14 @@ These projects won more than one prize here. Each one is listed once.
 
 Automatically benefit from the optimizations of many databases, while only working with a single interface.
 
-No public code linked · Built with azure, cosmos-db, druid, node.js
+No public code found · Built with azure, cosmos-db, druid, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** azure, cosmos-db, druid, node.js, react, typescript, victory
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Nasdaq/Quandl Datasets · Kensho Data Usability Challenge
 - **Award:** Won “Kensho Data Usability Challenge” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
@@ -132,14 +132,14 @@ An ethical marketplace for commute and transit data.
 
 The team often go out with a lot of amazing friends for trips, restaurants, tourism, weekend expedition and what not.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=yy6YSp-quu4) · Built with algorand, algocoin, amazon-web-services, facebook-messenger
+No public code found · [Demo video](https://www.youtube.com/watch?v=yy6YSp-quu4) · Built with algorand, algocoin, amazon-web-services, facebook-messenger
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** algocoin, algorand, amazon-web-services, facebook-messenger, google-cloud, ibm-watson, python, rev.ai
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yy6YSp-quu4)
 - **All prizes at this hackathon (1):** Build the Financial Revolution on Algorand
 - **How it used Algorand:** The project completes payments using a blockchain set up with the Algorand API.
@@ -186,14 +186,14 @@ Choose between a private insurance system, a national model, or something else e
 
 Building community among pro bono lawyers through an easy to use conversational legal assistant.
 
-No public code linked · Built with amazon-web-services, amazon-lex, case.law, google-cloud
+No public code found · Built with amazon-web-services, amazon-lex, case.law, google-cloud
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-lex, amazon-web-services, case.law, google-cloud, html/css, javascript, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AWS AI / ML Services
 - **How it used Amazon Web Services:** The team built its core chatbot on AWS Lex.
@@ -236,14 +236,14 @@ A website that creates customized tests based on students' notes.
 
 Pioneer technology that prioritizes the needs of displaced persons and tailor software to uniquely address the specific challenges of homelessness.
 
-No public code linked · Built with flask, github, google-maps, python
+No public code found · Built with flask, github, google-maps, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** flask, github, google-maps, python, twilio
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Social Impact Hack with Coding It Forward
 - **Award:** Won “Best Social Impact Hack with Coding It Forward” from Coding It Forward. The write-up gives no details on how the team used the sponsor’s tech.
@@ -263,14 +263,14 @@ No public code linked · Built with flask, github, google-maps, python
 
 1) A family member or caretaker helps the user set up an account, storing a special "Visual Key" as their login instead of a password.
 
-No public code linked · Built with docusign, azure, css, django
+No public code found · Built with docusign, azure, css, django
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** azure, css, django, docusign, html, ibm-watson, javascript, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of the DocuSign Agreement Cloud APIs
 - **How it used DocuSign:** AgreeAble uses the DocuSign Click API to sign agreements.
@@ -319,7 +319,7 @@ Share underutilized GPU power for machine learning education.
 - **Code:** [Source 1](https://github.com/as-com/gpuppy)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of the DocuSign Agreement Cloud APIs
-- **How it used DocuSign:** Uses the DocuSign Click SDK to display an agreement in the web app.
+- **How it used DocuSign:** Uses the DocuSign Click SDK script.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -342,7 +342,7 @@ Using Machine Learning to process a person's speech and determine if they are in
 - **Code:** [Source 1](https://github.com/johancc/LGTM)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of the DocuSign Agreement Cloud APIs
-- **DocuSign:** Built with DocuSign (listed on Devpost)
+- **DocuSign · Listed on Devpost:** Built with DocuSign (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -365,17 +365,17 @@ Also won this track: [Pilot](#project-pilot-81xkaf) (listed above)
 
 SafeLink is an app for drivers and monitors.
 
-No public code linked · Built with ford, openxc, amazon-cognito, amazon-web-services
+No public code found · Built with ford, openxc, amazon-cognito, amazon-web-services
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** amazon-cognito, amazon-web-services, android, aws-iam, aws-lambda, firebase, firebase-authentication, firebase-cloud-firestore, ford, java, kotlin, opencv, openxc, python, serverless
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Ford Car Mobility Challenge Hack
-- **Ford:** Built with openxc (listed on Devpost)
+- **Ford · Listed on Devpost:** Built with openxc (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -415,14 +415,14 @@ Exit the echo chamber with the help of AI.
 
 Reinventing a touch keyboard with machine learning.
 
-No public code linked · Built with google-cloud, tensorflow
+No public code found · Built with google-cloud, tensorflow
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** google-cloud, tensorflow
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Google Cloud
 - **How it used Google:** The team used Google Cloud Platform to train its model.
@@ -502,7 +502,7 @@ A map that shows where the nearest natural disasters are located.
 - **Code:** [Source 1](https://github.com/tyl21938/crisisMap)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best IBM Disaster Preparedness &amp; Relief Solutions
-- **How it used IBM:** Uses IBM Watson Visual Recognition to classify flood images.
+- **IBM · Imported in code:** Imports Watson Visual Recognition V3.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -525,7 +525,7 @@ Efficient and impactful supply chain management platform to prevent food waste w
 - **Code:** [Source 1](https://github.com/lizzij/HackMIT)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best IBM Disaster Preparedness &amp; Relief Solutions
-- **How it used IBM:** Uses IBM Watson Visual Recognition to classify uploaded images.
+- **IBM · Imported in code:** Imports Watson Visual Recognition V3.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -538,14 +538,14 @@ Efficient and impactful supply chain management platform to prevent food waste w
 
 The web app allows a user to verify their identity to unlock a box storing all their prescription pill bottles.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=R4zeNen51FQ) · Built with ibm-watson, javascript, node-red, raspberry-pi
+No public code found · [Demo video](https://www.youtube.com/watch?v=R4zeNen51FQ) · Built with ibm-watson, javascript, node-red, raspberry-pi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ibm-watson, javascript, node-red, raspberry-pi, visual-recognition
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R4zeNen51FQ)
 - **All prizes at this hackathon (1):** Best Use of IBM Visual Recognition
 - **How it used IBM:** The team used IBM's node-red cloud platform to construct a node flow which utilizes IBM Watson's Visual Recognition service.
@@ -588,14 +588,14 @@ Your future for knowing what's in your water.
 
 Very fast, secure log in systems for healthcare professionals.
 
-No public code linked · Built with electron, ios, node.js, swift
+No public code found · Built with electron, ios, node.js, swift
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** electron, ios, node.js, swift
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Secure User Healthcare Data Challenge with Imprivata
 - **Award:** Won “Secure User Healthcare Data Challenge with Imprivata” from Imprivata. The write-up gives no details on how the team used the sponsor’s tech.
@@ -725,14 +725,14 @@ The pen is mightier than the sword, nothing is more powerful than the word.
 
 (Helper for Accessibility Needs &amp; Disabilities) A chrome extension which provides an accessibility layer on top of any webpage.
 
-No public code linked · Built with azure, amazon-dynamodb, amazon-web-services, aws-api-gateway
+No public code found · Built with azure, amazon-dynamodb, amazon-web-services, aws-api-gateway
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-dynamodb, amazon-web-services, aws-api-gateway, azure, javascript, lambda
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Microsoft Azure Champ Prize - Hack for Good
 - **How it used Microsoft:** The project uses Azure’s Computer Vision API.
@@ -754,14 +754,14 @@ Also won this track: [1DB: One Database to rule them all](#project-1db) (listed 
 
 Making ridesharing safer and more accessible.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
+No public code found · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amadeus, android-studio, docusign, firebase, firebase-storage, google-maps, java, openxc
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Su83aPedkx4)
 - **All prizes at this hackathon (1):** Best Use of Nasdaq/Quandl Datasets
 - **Award:** Won “Best Use of Nasdaq/Quandl Datasets” from Nasdaq. The write-up gives no details on how the team used the sponsor’s tech.
@@ -787,7 +787,7 @@ Buying a new house but can't decide on a neighborhood? Check out HomeUp for data
 - **Code:** [Source 1](https://github.com/siuryan/homeup)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Nasdaq/Quandl Datasets
-- **How it used Nasdaq:** Fetches Zillow housing data by ZIP code through Quandl.
+- **How it used Nasdaq:** Calls Quandl with a Zillow zipcode and start and end dates.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -837,14 +837,14 @@ Also won this track: [Pilot](#project-pilot-81xkaf) (listed above)
 
 Ad-Supported, Safe File Storage for the Masses.
 
-No public code linked · Built with blockchain, html5, node.js
+No public code found · Built with blockchain, html5, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** blockchain, html5, node.js
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Product or Idea that Leverages Sia Storage Platform
 - **Sia:** Sponsor use not stated on Devpost

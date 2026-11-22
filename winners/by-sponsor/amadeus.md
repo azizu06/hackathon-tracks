@@ -35,7 +35,7 @@ Choose between a private insurance system, a national model, or something else e
 
 Plenty of people hope to travel and explore the world, and it's no surprise that traveling often ends up on bucket lists.
 
-**How it used Amadeus:** Queries the Amadeus sandbox for low-fare flight options.
+**How it used Amadeus:** Uses the Amadeus sandbox for low-fare flight search.
 
 [Code](https://github.com/PaliC/Dream-Flight) · Built with amadeus, css, html, javascript
 

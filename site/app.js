@@ -494,7 +494,7 @@ function projectCard(project) {
   const links = element("div", "", "card-links");
   const code = project.code || project.github;
   for (const [label, url, name] of [["Devpost", project.devpost, "out"], ["Code", code, "code"], ["Demo", project.demo, "play"]]) {
-    if (!url && name === "code") links.append(element("span", "No public code linked", "card-code-missing"));
+    if (!url && name === "code") links.append(element("span", "No public code found", "card-code-missing"));
     if (!url) continue;
     const anchor = link("", url);
     anchor.append(icon(name), element("span", label));

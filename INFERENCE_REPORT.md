@@ -97,7 +97,7 @@ Likely used EOG Resources’ Hydrate Detection Challenge datasets for training a
 
 ### 7. HorizonX
 
-**Tesla** · Tesla: Excellence Prize ($2k Tesla Store Gift Card [1st], $1k Gift Card [2nd], $1k Gift Card [3rd])
+**Tesla** · Tesla: Excellence Prize
 
 Likely used Tesla’s Real-World Video Q&A dataset for answering challenge questions by sampling frames from short driving clips (inferred from the write-up).
 
@@ -177,7 +177,7 @@ Likely used the CSE challenge’s MACCDC 2012 network traffic dataset for mappin
 
 ### 15. The Anachronist
 
-**Luma AI** · LumaLabs: Reimagining Visual Creation with AI ($2,500 Cash + $5,000 Luma Credits)
+**Luma AI** · LumaLabs: Reimagining Visual Creation with AI
 
 Likely used the LumaLabs AI API for generating opening and closing videos for the game (inferred from the write-up).
 

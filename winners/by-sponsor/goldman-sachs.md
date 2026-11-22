@@ -25,7 +25,7 @@ Loan Wick helps loan officers flag duplicate collateral and group exposure, with
 
 **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=B7mWEOy4dME) · Built with css, nemotron, node.js, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=B7mWEOy4dME) · Built with css, nemotron, node.js, python
 
 ### [RiskRadar](https://devpost.com/software/risk-radar-jlbiqk)
 
@@ -35,7 +35,7 @@ Connect the dots. Detect the risks.
 
 **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c) · Built with python, react, tailwind, vite
+No public code found · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c) · Built with python, react, tailwind, vite
 
 ### [UndeRight](https://devpost.com/software/ore-pli82r)
 
@@ -45,7 +45,7 @@ The pipeline your team trusts to automate your commercial loans.
 
 **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
 
 ## 2025 winners
 

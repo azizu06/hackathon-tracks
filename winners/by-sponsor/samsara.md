@@ -37,7 +37,7 @@ Find your dorm culture fit Harry Potter Style.
 
 **Award:** Won “Sponsor Prize - Samsara - Best IoT Hack” from Samsara. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with android, arduino, c++, hardware
+No public code found · Built with android, arduino, c++, hardware
 
 ## Track names and requirements
 

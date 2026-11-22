@@ -37,14 +37,14 @@ Pick a track to jump to its winners on this page.
 
 Bringing Transparency and Ease into Job Search.
 
-No public code linked · Built with api, css, firebase, flask
+No public code found · Built with api, css, firebase, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** api, css, firebase, flask, python, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ActualFood
 - **Award:** Won “ActualFood” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.

@@ -43,7 +43,7 @@ A dashboard supplies incident information to fire dispatchers.
 
 GradeMeIn uses a new method to detect AI plagiarism, it works through intelligent prompt mutation and then verification.
 
-**Vultr:** Built with vultr (listed on Devpost)
+**Vultr · Listed on Devpost:** Built with vultr (listed on Devpost)
 
 [Code](https://github.com/SBHacks-26/lms-sbhacks) · [Demo video](https://www.youtube.com/watch?v=dgrnQoidl2A) · Built with vultr, cursor, deepgram, geminiapi
 
@@ -55,7 +55,7 @@ A guided movement app helps older adults with limited mobility practice activiti
 
 **How it used Vultr:** The project uses Vultr for a cloud backend that stores JSON files from demonstration videos and user login information.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=EXR-oseYXUs) · Built with css, html, javascript, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=EXR-oseYXUs) · Built with css, html, javascript, typescript
 
 ### [Nexus](https://devpost.com/software/nexus-g349ko)
 
@@ -65,7 +65,7 @@ A planning app connects student clubs' communication, spreadsheets, and code too
 
 **How it used Vultr:** The project uses Vultr serverless inference.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
+No public code found · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
 ### [PledgeCheck](https://devpost.com/software/pledgecheck-qrusc1)
 
@@ -157,7 +157,7 @@ Simply lay out the ingredients you already have, take a quick screenshot with th
 
 **Vultr:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
 
 ### [HealthSense](https://devpost.com/software/healthsense-0qxrs4)
 

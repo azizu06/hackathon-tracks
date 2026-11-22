@@ -23,7 +23,7 @@
 
 Independent Agentic AI oversight that tracks every dollar from owner to management company to vendor, so owners catch problems before they affect finances, operations or relationships.
 
-**How it used Microsoft:** The team used Visual Studio Code for front-end development.
+**Microsoft · Listed on Devpost:** Built with Visual Studio Code (listed on Devpost)
 
 [Code](https://github.com/ozr0013/AccountableAI) · [Demo video](https://www.youtube.com/watch?v=3eNnbQb081M) · Built with visual-studio, .md, agent, agentic
 
@@ -33,7 +33,7 @@ Independent Agentic AI oversight that tracks every dollar from owner to manageme
 
 CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN AI helps engineers inspect designs, surface issues, and understand complex assemblies faster.
 
-**How it used Microsoft:** The team designed the SolidWorks add-in in C#.
+**Microsoft · Listed on Devpost:** Built with c# (listed on Devpost)
 
 [Code](https://github.com/BAAA-Hacks/cad-vision) · [Demo video](https://www.youtube.com/watch?v=0-bYjncKWIs) · Built with c#, elevenlabs, geminiapi, metaquest
 
@@ -43,9 +43,9 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 
 A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
 
-**How it used Microsoft:** The project uses TypeScript in an npm-workspaces monorepo.
+**Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with typescript, docker, fastify, framer-motion
 
 ### [Spitball](https://devpost.com/software/spitball)
 
@@ -53,9 +53,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGO
 
 Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
 
-**How it used Microsoft:** Spitball is built as an embedded extension that runs locally inside Visual Studio Code.
+**Microsoft · Listed on Devpost:** Built with Visual Studio Code (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
 
 ### [Standard Response](https://devpost.com/software/standard-response)
 
@@ -63,7 +63,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=uLmimTFwau
 
 An emergency response dashboard helps teams coordinate mass evacuation and identify people who need help leaving.
 
-**Microsoft:** Built with typescript (listed on Devpost)
+**Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
 
 [Code](https://github.com/Imhaohao/Standard-Response) · [Demo video](https://www.youtube.com/watch?v=eNsAGHFnFJY) · Built with typescript, anthropic, apify, cartesia
 
@@ -75,7 +75,7 @@ An emergency response dashboard helps teams coordinate mass evacuation and ident
 
 Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body movements into computer input.
 
-**Microsoft:** Built with typescript (listed on Devpost)
+**Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
 
 [Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with typescript, css3, electron, gemini
 
@@ -85,7 +85,7 @@ Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body 
 
 A web-app developed to help prep students for their technical interviews through the use of AI mock interviewer.
 
-**How it used Microsoft:** The project used TypeScript for its frontend.
+**Microsoft · Listed on Devpost:** Built with TypeScript (listed on Devpost)
 
 [Code](https://github.com/Albertoh16/Bear-Necessities) · [Demo video](https://www.youtube.com/watch?v=uNDWa84R2Aw) · Built with gemini, javascript, react
 
@@ -95,9 +95,9 @@ A web-app developed to help prep students for their technical interviews through
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-**How it used Microsoft:** The team created a control panel with TypeScript to analyze the robot view live using web sockets.
+**Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with typescript, gemini, google-adk, jetson-orin
 
 ## 2024 winners
 
@@ -107,9 +107,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbs
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
-**Microsoft:** Built with c# (listed on Devpost)
+**Microsoft · Listed on Devpost:** Built with c# (listed on Devpost)
 
-No public code linked · Built with c#, .net, apis, meta
+No public code found · Built with c#, .net, apis, meta
 
 ### [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning)
 
@@ -117,7 +117,7 @@ No public code linked · Built with c#, .net, apis, meta
 
 Learn ASL in AR through Computer Vision and Hand Tracking.
 
-**Microsoft:** Built with c-sharp (listed on Devpost)
+**Microsoft · Listed on Devpost:** Built with c-sharp (listed on Devpost)
 
 [Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c-sharp, c, embedded, hardware
 
@@ -127,7 +127,7 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
 
-**Microsoft:** Built with typescript (listed on Devpost)
+**Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
 
 [Code](https://github.com/kgand/shellhacks2024) · Built with typescript, axios, chatgpt, computer-vision
 
@@ -141,7 +141,7 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 
 **How it used Microsoft:** The project uses Azure’s Computer Vision API.
 
-No public code linked · Built with azure, amazon-dynamodb, amazon-web-services, aws-api-gateway
+No public code found · Built with azure, amazon-dynamodb, amazon-web-services, aws-api-gateway
 
 ## 2018 winners
 
@@ -151,7 +151,7 @@ No public code linked · Built with azure, amazon-dynamodb, amazon-web-services,
 
 A self-writing journal of your life, with superpowers.
 
-**How it used Microsoft:** Extracts keywords from journal entries with Microsoft's Azure Cognitive Services.
+**How it used Microsoft:** Returns keywords from new user text with Microsoft’s Azure Cognitive Services.
 
 [Code](https://github.com/tkyaw1/Lotus-Journal) · Built with javascript, jupyter-notebook, keras, node.js
 
@@ -177,7 +177,7 @@ Gaze organizes un-organized videos to help the user interpret and navigate visua
 
 **How it used Microsoft:** The team sent two frames from each scene to Microsoft’s Cognitive Services to get a contextual description.
 
-No public code linked
+No public code found
 
 ## Track names and requirements
 

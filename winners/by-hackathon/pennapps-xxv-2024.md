@@ -191,7 +191,7 @@ Predict Elections Way Better With LLM Agents.
 - **Code:** [Source 1](https://github.com/SahraMohamad/Electra)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=c6X9n7o9Zjk)
 - **All prizes at this hackathon (1):** Super Fast AI
-- **How it used Cerebras:** Uses the Cerebras API as the endpoint for its language model client.
+- **How it used Cerebras:** Sets the Cerebras API base URL.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -204,14 +204,14 @@ Predict Elections Way Better With LLM Agents.
 
 The app allows users to have on-demand check-ins with a chatbot.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uR7UlKGjseE)
 - **All prizes at this hackathon (1):** Super Fast AI
 - **How it used Cerebras:** The team used Cerebras for the chatbot to ensure fast and efficient inference.
@@ -264,7 +264,7 @@ Minimize your tech stack's developmental cost.
 - **Code:** [Source 1](https://github.com/stevensusas/Underflow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lGFKiZR0MNk)
 - **All prizes at this hackathon (1):** Best Use of Defang
-- **How it used Defang:** Runs the Defang CLI to generate deployment files.
+- **How it used Defang:** Calls defang generate.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -281,14 +281,14 @@ Minimize your tech stack's developmental cost.
 
 Sera helps people with limited banking experience take control of their money. No jargon—just real support when it’s needed most.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** atlas, cerebras, express.js, javascript, mongdb, nextjs, node.js, roboflow, tailwind, tailwindcss, tune
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=E-Cg1Y2ALKc)
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
 - **Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
@@ -515,14 +515,14 @@ Bringing politicians and voters closer, one personalized ad at a time.
 
 A wearable headphone that dynamically adapts audio for individuals with autism, providing comfort while keeping users connected to their surroundings.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=6jjXlH3dni0) · Built with librosa, numpy, opencv, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=6jjXlH3dni0) · Built with librosa, numpy, opencv, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** librosa, numpy, opencv, python, raspberrypi, scipy
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6jjXlH3dni0)
 - **All prizes at this hackathon (2):** Best Overall 1st · The Wolfram Award
 - **Award:** Won “The Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.

@@ -196,7 +196,7 @@ A wearable gives deaf and hard-of-hearing users visual and tactile cues about su
 - **Code:** [Source 1](https://github.com/iancdev/hudglasses)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4YbXLKoHIKk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Elevenlabs
-- **How it used ElevenLabs:** Opens an ElevenLabs WebSocket to stream speech for transcription.
+- **How it used ElevenLabs:** Uses the ElevenLabs realtime speech-to-text WebSocket.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -250,7 +250,7 @@ Turn any smartphone into a live emergency camera, providing first responders wit
 - **Code:** [Source 1](https://github.com/dave22r/emergency-eye)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xgd0_N_PSHc)
 - **All prizes at this hackathon (1):** &#91;Lovable&#93; Best use of Lovable
-- **How it used Lovable:** Uses Lovable’s Vite plugin to tag components in development.
+- **Lovable · Imported in code:** Imports componentTagger from lovable-tagger.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -381,14 +381,14 @@ MelaNone is a limb-scanning system designed to help detect melanoma early on.
 
 A planning app connects student clubs' communication, spreadsheets, and code tools in one workspace.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
+No public code found · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** asyncio, fastapi, httpx, langchain, langgraph, lucide, mongodb, motor, next.js, python, radix, react, redis, shadcn, tailwind, typescript, uvicorn, voltr
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TmAf5cKU6G4)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
 - **How it used Vultr:** The project uses Vultr serverless inference.

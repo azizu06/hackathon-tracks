@@ -25,7 +25,7 @@ An LLM-powered TA that adapts to course material to help guide and engage studen
 
 **Award:** Won “Best Use of AI in Education by Schmidt Futures” from Schmidt Futures. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with chatgpt, dspy, openai, python
+No public code found · Built with chatgpt, dspy, openai, python
 
 ## Track names and requirements
 

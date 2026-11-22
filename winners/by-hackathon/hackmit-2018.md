@@ -68,7 +68,7 @@ A self-writing journal of your life, with superpowers.
 - **Code:** [Source 1](https://github.com/tkyaw1/Lotus-Journal)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Azure Champ · Finalist · Most Interesting Use of Text-Based Machine Learning by Quora
-- **How it used Microsoft:** Extracts keywords from journal entries with Microsoft's Azure Cognitive Services.
+- **How it used Microsoft:** Returns keywords from new user text with Microsoft’s Azure Cognitive Services.
 - **Award:** Won “Most Interesting Use of Text-Based Machine Learning by Quora” from Quora. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
@@ -98,7 +98,7 @@ Plenty of people hope to travel and explore the world, and it's no surprise that
 - **Code:** [Source 1](https://github.com/PaliC/Dream-Flight)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Data
-- **How it used Amadeus:** Queries the Amadeus sandbox for low-fare flight options.
+- **How it used Amadeus:** Uses the Amadeus sandbox for low-fare flight search.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -138,14 +138,14 @@ SOS Squad is a platform for connecting good Samaritans to disaster victims.
 
 TradeGO is an application that enables people to participate in financial markets without financial literacy.
 
-No public code linked · Built with react, ruby, ruby-on-rails
+No public code found · Built with react, ruby, ruby-on-rails
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** react, ruby, ruby-on-rails
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of BNP Paribas APIs
 - **BNP Paribas:** Sponsor use not stated on Devpost
@@ -165,14 +165,14 @@ No public code linked · Built with react, ruby, ruby-on-rails
 
 It passively senses the alcohol levels in a vehicle using a gas sensor that can be embedded into a car’s wheel or seat.
 
-No public code linked · Built with android-studio, arduino
+No public code found · Built with android-studio, arduino
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** android-studio, arduino
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Cadillac: Time = Luxury · Finalist · Hack for a Night Out
 - **Cadillac:** Sponsor use not stated on Devpost
@@ -188,14 +188,14 @@ No public code linked · Built with android-studio, arduino
 
 OnTheWay is an innovative P2P delivery system that harnesses the power of pre-existing routes to minimize the need for inconvenient, long-distance trips and therefore reduce environmental impact.
 
-No public code linked · Built with android-studio, express.js, node.js
+No public code found · Built with android-studio, express.js, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** android-studio, express.js, node.js
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cadillac: Mobility as a Service
 - **Award:** Won “Cadillac: Mobility as a Service” from Cadillac. The write-up gives no details on how the team used the sponsor’s tech.
@@ -242,14 +242,14 @@ Distributed mobile cloud computing, harnessing the power of idle devices to perf
 
 The product summarizes the content of documents into a few key lines which will give an overview to the user about the contract.
 
-No public code linked · Built with docusign, beautiful-soup, bootstrap, css
+No public code found · Built with docusign, beautiful-soup, bootstrap, css
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** beautiful-soup, bootstrap, css, django, docusign, heroku, html, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of DocuSign's eSignature API
 - **How it used DocuSign:** The project uses DocuSign’s API to share a contract for the recipient to sign.
@@ -296,14 +296,14 @@ Troomba is a friendly robot that carries your drinks.
 
 Summarizing Youtube Videos to Meaningful Gifs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58) · Built with giphy, flask, nltk, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58) · Built with giphy, flask, nltk, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** flask, giphy, nltk, python, react, redux, rev, revspeech
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L_SCo0XBZ58)
 - **All prizes at this hackathon (1):** Best Use of GIPHY API
 - **How it used GIPHY:** The project searches GIPHY for GIFs using key words.
@@ -323,14 +323,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ5
 
 An intergalactic battle for the ages.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W8) · Built with c#, htc-vive, unity
+No public code found · [Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W8) · Built with c#, htc-vive, unity
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** c#, htc-vive, unity
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M4C3eRrB2W8)
 - **All prizes at this hackathon (1):** VR Zone by Google
 - **Award:** Won “VR Zone by Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
@@ -373,14 +373,14 @@ ViGCam spots active shooters and tracks them through buildings.
 
 The project uses block chain technology to track donations, their contents, and location.
 
-No public code linked · Built with hyperledger, node-red
+No public code found · Built with hyperledger, node-red
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** hyperledger, node-red
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Disaster Preparedness &amp; Relief Solutions for IBM Call for Code Challenge
 - **IBM:** Sponsor use not stated on Devpost
@@ -560,14 +560,14 @@ Objectively quantifying reactions to media using EEG data and signal processing.
 
 a VR app designed for holoportation.
 
-No public code linked · Built with ik, steamvr, unity, vive
+No public code found · Built with ik, steamvr, unity, vive
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** ik, steamvr, unity, vive, vrtk
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
 - **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
@@ -583,14 +583,14 @@ No public code linked · Built with ik, steamvr, unity, vive
 
 The team made a cardboard piano that uses computer vision to detect and play piano sounds.
 
-No public code linked · Built with opencv, python
+No public code found · Built with opencv, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** opencv, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
 - **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
@@ -643,14 +643,14 @@ Also won this track: [Lotus Journal](#project-bananaexpress) (listed above)
 
 A data-driven application for predicting corporate credit ratings.
 
-No public code linked · Built with angular.js, firebase, ionic, jupyter
+No public code found · Built with angular.js, firebase, ionic, jupyter
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** angular.js, firebase, ionic, jupyter, python, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** "Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets
 - **How it used RBC:** Data obtained from RBC Capital Markets consists of 20 features recorded for 27 companies at multiple points in time for a total of 524 samples.
@@ -666,14 +666,14 @@ No public code linked · Built with angular.js, firebase, ionic, jupyter
 
 Structurall enables investment banks to leverage unstructured data with natural language processing.
 
-No public code linked · Built with axios, azure, express.js, node.js
+No public code found · Built with axios, azure, express.js, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** axios, azure, express.js, node.js, react, rev, styled-components
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** "Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets · Finalist
 - **Award:** Won “"Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
@@ -693,14 +693,14 @@ No public code linked · Built with axios, azure, express.js, node.js
 
 Automatic video simplification for your busy life.
 
-No public code linked · Built with rev, bash, css3, ffmpeg
+No public code found · Built with rev, bash, css3, ffmpeg
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bash, css3, ffmpeg, flask, html5, javascript, nltk, python, rev, revspeech
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of RevSpeech
 - **How it used Rev:** Scribr first transcribes the video using the RevSpeech API.
@@ -720,14 +720,14 @@ No public code linked · Built with rev, bash, css3, ffmpeg
 
 The pharmacy of the future: an automated medicine dispenser &amp; streamlined method for securely acquiring prescriptions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** arduino, azure, flask, html, mit-app-inventor, python, qr-codes, rigetti
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YzvRMnlJ91Q)
 - **All prizes at this hackathon (1):** Rigetti Quantum Prize
 - **How it used Rigetti:** The team developed an integration with Rigetti’s quantum computing platform.

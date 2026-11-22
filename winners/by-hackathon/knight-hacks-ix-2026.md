@@ -104,14 +104,14 @@ GEarth simulates how citizens, institutions, and governments interact across a f
 
 Bin-It lets residents report overflowing bins from a phone while a dashboard helps city staff compare candidate locations for new bins.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
+No public code found · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** clip, databricks, docker, expo.io, fastapi, hugging-face, neon, next.js, ngrok, python, react, react-native, typescript, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zmApNlPyh9I)
 - **All prizes at this hackathon (2):** Databricks: Best Use of Databricks · OneEthos: Innovation for Good
 - **How it used Databricks:** Databricks processes geolocation, bin, place, and 311 complaint data.
@@ -152,18 +152,18 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
+No public code found · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** expo.io, gemini, neon, react-native
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RWAbxd6hSjE)
 - **All prizes at this hackathon (2):** Adobe: Prettiest Hack · Figma: Best Design
 - **Award:** Won “Adobe: Prettiest Hack” from Adobe. The write-up gives no details on how the team used the sponsor’s tech.
-- **How it used Figma:** The team links to its Figma design file.
+- **Linked resource from Figma:** The team links to its Figma design file.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -186,7 +186,7 @@ A spatial awareness tool tracks objects and remembers their locations when they 
 - **Code:** [Source 1](https://github.com/billpquach/permanence)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GexOIHp7s1w)
 - **All prizes at this hackathon (3):** Best Overall Hack (1st) · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
-- **How it used Hugging Face:** Uses Hugging Face Transformers to load the Qwen vision-language model implementation.
+- **Hugging Face · Imported in code:** Imports the Qwen2.5-VL model from Transformers.
 - **How it used NVIDIA:** The Jetson drives the Arduino Uno and L298N motor driver and steers from the phone’s position.
 - **Checked on Devpost:** 2026-11-21
 
@@ -351,7 +351,7 @@ An accessibility prototype uses EEG readings from a visual interface to let peop
 - **Code:** [Source 1](https://github.com/shashankshaga/Paralassist)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hmhprJgUFRA)
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
-- **How it used Databricks:** Trains the EEG classification model on Databricks and runs predictions locally.
+- **How it used Databricks:** Uses Databricks for EEG model training.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -420,14 +420,14 @@ Also won this track: [Farsight](#project-farsight-t4qyli) (listed above)
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
+No public code found · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** android, android-speech-recognizer, android-text-to-speech, ar-foundation, arcore, c#, hugging-face, java, ml-kit, numpy, opencv, openstreetmap, python, unity
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zb3Xrg7Hfq4)
 - **All prizes at this hackathon (1):** Encompass: Data Capturing Hardware
 - **Award:** Won “Encompass: Data Capturing Hardware” from Encompass. The write-up gives no details on how the team used the sponsor’s tech.

@@ -86,7 +86,7 @@ Helping employee ideas get off the ground.
 - **Code:** [Source 1](https://github.com/malki-aal/MalakaiSaleh_H26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RvQH93zIyyM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
-- **How it used .Tech Domains:** The team links to www.bosspleaseapprovemy.tech as its .tech project site.
+- **Linked resource from .Tech Domains:** The team links to www.bosspleaseapprovemy.tech as its .tech project site.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -230,14 +230,14 @@ A quiet voice in your ear that remembers the people you love.
 
 Once you describe a job, Astronom builds a budgeted, permission-checked AI agent team, red-teams it, and fixes what breaks, with approval at every step, using its multi-agent swarm technology.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
+No public code found · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** composio, drizzle-orm, meta-muse-spark-1.3, muse, next.js, react, serpapi, sqlite, supabase, tailwind-css, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xa1DizYqCy0)
 - **All prizes at this hackathon (1):** &#91;NMC2&#93; Build the Platform Behind the Agent
 - **Award:** Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
@@ -382,14 +382,14 @@ Also won this track: [Drivn](#project-car-of-the-future) (listed above)
 
 Orkis makes it easy for people and enterprise teams to launch and manage AI agents. Orkis configures the agents and coordinates their work, with each new agent reusing the setup you already have.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=GxNBCI4yyYI) · Built with alembic, better-auth, caddy, claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=GxNBCI4yyYI) · Built with alembic, better-auth, caddy, claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** alembic, better-auth, caddy, claude, docker, fastapi, firecracker, hermes-agent, mcp, meta-muse, next.js, postgresql, pydantic, python, react, react-flow, serpapi, shadcn/ui, sqlalchemy, tailwind-css, typescript, vultr
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GxNBCI4yyYI)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
 - **How it used Solana:** An agent can pay for an approved API call with x402 on Solana.
@@ -436,14 +436,14 @@ Every one of the team has struggled with being the "new kid" at school, or just 
 
 AI-native workflows, built straight from your existing SOPs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
+No public code found · [Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** caddy, capital-one-nessie, docker, fastapi, google-finance, google-gemini, google-oauth, lucide, next.js, postgresql, pytest, python, react, sec-edgar, serp-api, simpleeval, tailwind-css, tiger-data, timescaledb, typescript, uvicorn, vultr
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=v9erU_vIlWk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
 - **How it used Tiger Data:** Tiger Data stores SOPs and their versions, along with a full trace of every run.

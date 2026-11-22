@@ -35,7 +35,7 @@ Gamified Experience: Players engage in quirky yet educational tasks, from fetchi
 
 **Award:** Won “Netflix” from Netflix. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
 
 ## Track names and requirements
 

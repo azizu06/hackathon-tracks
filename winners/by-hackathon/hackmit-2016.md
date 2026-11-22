@@ -65,7 +65,7 @@ DronAR allows users to view realtime information about their drones such as posi
 - **Code:** [Source 1](https://github.com/sebLopezCot/DronAR)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · Google Cardboard Development Prize
-- **How it used Google:** Toggles Google Cardboard VR mode when the user presses the spacebar.
+- **How it used Google:** Toggles VR mode in the Cardboard SDK when the space key is pressed.
 - **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
@@ -79,14 +79,14 @@ DronAR allows users to view realtime information about their drones such as posi
 
 Advanced route planning for drone deliveries to moving targets, with tracking and control suite.
 
-No public code linked · Built with google-streetview, javascript, leaflet.js, mithril.js
+No public code found · Built with google-streetview, javascript, leaflet.js, mithril.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** google-streetview, javascript, leaflet.js, mithril.js, node.js, openstreetmap, postmates
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Creative Car Hack (Ford) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Ford:** Sponsor use not stated on Devpost
@@ -103,14 +103,14 @@ No public code linked · Built with google-streetview, javascript, leaflet.js, m
 
 Gaze organizes un-organized videos to help the user interpret and navigate visual information.
 
-No public code linked
+No public code found
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** No tags listed
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Emerging Technology (Disney) · Best Use of Microsoft Technology
 - **Award:** Won “Best Use of Emerging Technology (Disney)” from Disney. The write-up gives no details on how the team used the sponsor’s tech.
@@ -127,14 +127,14 @@ No public code linked
 
 VR DJ allows you to visualize and manipulate music.
 
-No public code linked · Built with c#, unity, vive
+No public code found · Built with c#, unity, vive
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** c#, unity, vive
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Google Cardboard Development Prize · Oculus Prize (Facebook)
 - **Google:** Sponsor use not stated on Devpost
@@ -157,14 +157,14 @@ No public code linked · Built with c#, unity, vive
 
 Kiva + Invest. Kinvest allows Lenders to leverage machine learning to maximize impact in developing nations.
 
-No public code linked · Built with firebase, flask, machine-learning, pandas
+No public code found · Built with firebase, flask, machine-learning, pandas
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** firebase, flask, machine-learning, pandas, python, scikit-learn
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Insightful Hack (BNP Paribas)
 - **Award:** Won “Most Insightful Hack (BNP Paribas)” from BNP Paribas. The write-up gives no details on how the team used the sponsor’s tech.
@@ -211,14 +211,14 @@ Want to shop online on a site that doesn't accept bitcoin? Now you can -- via th
 
 Ethereum Piggy lets you save money with a virtual Piggy Bank.
 
-No public code linked · Built with coinbase, ethereum, ios
+No public code found · Built with coinbase, ethereum, ios
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** coinbase, ethereum, ios
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of Coinbase API
 - **How it used Coinbase:** The app connects to a Coinbase Ethereum wallet.
@@ -298,14 +298,14 @@ A platform that helps people collaborate towards finding missing people.
 
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
-No public code linked · Built with firebase, google-cardboard, arduino, c++
+No public code found · Built with firebase, google-cardboard, arduino, c++
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** arduino, c++, firebase, google-cardboard, objective-c, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Google Cardboard Development Prize
 - **How it used Google:** Players exchange game state over the Firebase server to synchronize their virtual reality experiences.
@@ -325,14 +325,14 @@ No public code linked · Built with firebase, google-cardboard, arduino, c++
 
 JS Policy allows web devs to keep user data safe by subjecting 3rd party Javascript to rich runtime policies.
 
-No public code linked · Built with javascript
+No public code found · Built with javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** javascript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Low Level / High Performance Hack (Hudson River Trading)
 - **Award:** Won “Best Low Level / High Performance Hack (Hudson River Trading)” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
@@ -431,14 +431,14 @@ Also won this track: [DronAR](#project-dronar), [Game of Drones](#project-game-o
 
 A drone platform that not only knows how to fly itself, but also knows where to deliver aid after a natural disaster.
 
-No public code linked · Built with arduino, c++, raspberry-pi
+No public code found · Built with arduino, c++, raspberry-pi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** arduino, c++, raspberry-pi
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
@@ -454,14 +454,14 @@ No public code linked · Built with arduino, c++, raspberry-pi
 
 This is a user-facing web app that allows the user to pick a delivery location and follow the delivery through real-time tracking.
 
-No public code linked · Built with css, dronekit, html, javascript
+No public code found · Built with css, dronekit, html, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** css, dronekit, html, javascript, jquery, python, scss
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
@@ -500,14 +500,14 @@ LeapLock is a 3D-gesture based locking mechanism.
 
 With more and more advancements in drone technology, drones are becoming accessible by everyone.
 
-No public code linked · Built with flask, javascript
+No public code found · Built with flask, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** flask, javascript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
@@ -523,14 +523,14 @@ No public code linked · Built with flask, javascript
 
 An iOS app for multi-drone multi-package planning, that supports variable drone capacity and package weights.
 
-No public code linked · Built with apple-maps, swift
+No public code found · Built with apple-maps, swift
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** apple-maps, swift
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
@@ -689,14 +689,14 @@ A mobile app that pairs friends together for everyday activities such as eating 
 
 Pusheen + psychology research = healthier eating habits via mobile app.
 
-No public code linked · Built with css, flask, javascript, monkeylearn
+No public code found · Built with css, flask, javascript, monkeylearn
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, flask, javascript, monkeylearn, nativescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best NativeScript App (Progress)
 - **How it used Progress:** The project uses the Telerik platform to deploy the app for prototyping.
@@ -716,14 +716,14 @@ No public code linked · Built with css, flask, javascript, monkeylearn
 
 Receipts are hard; automation is easy.
 
-No public code linked · Built with capital-one, flask, meteor.js, mobile
+No public code found · Built with capital-one, flask, meteor.js, mobile
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** capital-one, flask, meteor.js, mobile, mongodb, opencv, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Rough Draft Ventures Prize
 - **Award:** Won “Rough Draft Ventures Prize” from Rough Draft Ventures. The write-up gives no details on how the team used the sponsor’s tech.
@@ -743,14 +743,14 @@ No public code linked · Built with capital-one, flask, meteor.js, mobile
 
 Home-cooked meals for anyone. Share a dinner and an experience.
 
-No public code linked · Built with api.ai, azure, capital-one, javascript
+No public code found · Built with api.ai, azure, capital-one, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** api.ai, azure, capital-one, javascript, machine-learning, messenger, node.js, postmates
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Concur Prize for Best Travel Hack
 - **Award:** Won “Concur Prize for Best Travel Hack” from SAP Concur. The write-up gives no details on how the team used the sponsor’s tech.
@@ -780,7 +780,7 @@ Unlock the full potential of the electronics you love by controlling them wirele
 - **Code:** [Source 1](https://github.com/icasdri/ControlGeek-Server)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Innovative use of Synaptics Large Touch Sensor
-- **Synaptics:** Built with synaptics (listed on Devpost)
+- **Synaptics · Listed on Devpost:** Built with synaptics (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -820,14 +820,14 @@ Tinderprint is a dating app that matches you with people based on true physical 
 
 Ami creates a planner for what you should do on vacation! Just tell it what you want to do, and it will plan your day.
 
-No public code linked · Built with beaker, java, javascript, python
+No public code found · Built with beaker, java, javascript, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** beaker, java, javascript, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Two Sigma Prize
 - **How it used Two Sigma:** The team used TwoSigma's Beaker Notebook.
@@ -847,14 +847,14 @@ No public code linked · Built with beaker, java, javascript, python
 
 Detecting breast cancer cells using image analysis.
 
-No public code linked · Built with wolfram-technologies, machine-learning
+No public code found · Built with wolfram-technologies, machine-learning
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** machine-learning, wolfram-technologies
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Wolfram Technologies
 - **How it used Wolfram:** The team used Wolfram Alpha's machine-learning algorithm with images of mitotic cells.

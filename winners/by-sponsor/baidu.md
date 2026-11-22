@@ -23,7 +23,7 @@
 
 Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pronunciations.
 
-**Baidu:** Built with PaddlePaddle (listed on Devpost)
+**Baidu · Listed on Devpost:** Built with PaddlePaddle (listed on Devpost)
 
 [Code](https://github.com/alvinzz/models) · Built with paddlepaddle, python, tears, the-biggest-data
 
@@ -33,7 +33,7 @@ Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pr
 
 ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line of code.
 
-**How it used Baidu:** Downloads the PaddlePaddle Word2Vec model files for inference.
+**How it used Baidu:** Downloads PaddlePaddle’s Word2Vec inference topology.
 
 [Code](https://github.com/fervorarc/PaddleBois) · Built with paddle, python
 

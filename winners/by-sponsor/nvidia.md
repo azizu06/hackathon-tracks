@@ -167,7 +167,7 @@ A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
 **How it used NVIDIA:** The team used SSH tunnels to connect its hosts to the Jetson Orin mounted on the Jetbot.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
 
 ### [WiiWork](https://devpost.com/software/wiiwork-8u1x62)
 

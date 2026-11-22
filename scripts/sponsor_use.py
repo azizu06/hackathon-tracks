@@ -1,4 +1,5 @@
 """Validate the published claim and evidence for each sponsor use note."""
+from collections import defaultdict
 import csv
 from functools import lru_cache
 from html import unescape
@@ -7,9 +8,13 @@ from pathlib import Path
 import re
 from urllib.parse import parse_qs, unquote, urlsplit
 
+from catalog_display import display_prize_title
 
 MISSING_INTEGRATION = "Sponsor use not stated on Devpost"
 BUILT_WITH = "devpost:built_with"
+LISTED = "devpost:listed"
+ACCOMPLISHMENTS = "devpost:accomplishments"
+PROJECT_LINK = "devpost:project_link"
 CODE = "code"
 VIDEO = "demo_video"
 AWARD = "award"
@@ -24,10 +29,10 @@ INFERRED_FROM = {
     "github:readme": "README",
 }
 DEPENDENCY_NOTE = "Lists "
-CODE_QUOTE = re.compile(r"(?P<path>[^:]+):(?P<line>[1-9][0-9]*) (?P<text>.+)")
+CODE_QUOTE = re.compile(r"(?P<path>[^:]+):(?P<line>[1-9][0-9]*)(?:-(?P<end>[1-9][0-9]*))? (?P<text>.+)")
 TIMED_QUOTE = re.compile(r"(?P<time>[0-9]{2}:[0-5][0-9]:[0-5][0-9]) (?P<text>.+)")
 PINNED_CODE_URL = re.compile(
-    r"(https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+)/blob/[a-f0-9]{40}/([^#]+)#L([1-9][0-9]*)"
+    r"(https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+)/blob/[a-f0-9]{40}/([^#]+)#L([1-9][0-9]*)(?:-L([1-9][0-9]*))?"
 )
 DEPENDENCY_PATH = re.compile(
     r"(?:^|/)(?:package\.json|requirements[^/]*\.txt|pyproject\.toml|go\.mod|Cargo\.toml|"
@@ -37,17 +42,20 @@ DEPENDENCY_PATH = re.compile(
 USE_EVIDENCE = {
     "devpost:how_we_built": "Devpost project write-up",
     "devpost:what_it_does": "Devpost project write-up",
+    ACCOMPLISHMENTS: "Devpost Accomplishments",
     BUILT_WITH: "Devpost Built With",
+    LISTED: "Listed on Devpost",
     "github:readme": "GitHub README",
     "devpost:other_sections": "Devpost project write-up",
     "devpost:gallery_caption": "Devpost gallery caption",
-    "devpost:project_link": "Devpost project link",
+    PROJECT_LINK: "Linked resource",
     CODE: "GitHub source code",
     VIDEO: "Demo video captions",
     AWARD: "Devpost prize title",
 }
 USE_UNAVAILABLE = "Integration detail unavailable"
 DEPENDENCY_EVIDENCE = "GitHub dependency manifest"
+IMPORT_EVIDENCE = "GitHub source import"
 ALIAS_FILE = Path(__file__).with_name("sponsor-aliases.tsv")
 USE_FILE = Path(__file__).with_name("sponsor-uses.tsv")
 AWARD_FILE = Path(__file__).with_name("award-framing.tsv")
@@ -118,11 +126,50 @@ def claim_words(text, sponsor):
     return words(normalize_products(text, sponsor))
 
 
-def ungrounded_words(note, quote, sponsor):
+def ungrounded_words(note, quote, sponsor, equivalents=()):
     """Check content words against evidence, with inflections and product spellings."""
-    evidence = set().union(*(word_forms(word) for word in claim_words(quote, sponsor)))
+    evidence = set().union(*(word_forms(word) for word in [*claim_words(quote, sponsor), *equivalents]))
     claim = set(claim_words(note, sponsor)) - FRAMING_WORDS
     return sorted(word for word in claim if not (word_forms(word) & evidence))
+
+
+def code_prose(text):
+    return re.sub(r"(?<=[A-Z])(?=[A-Z][a-z])|(?<=[a-z0-9])(?=[A-Z])|_", " ", text)
+
+
+def code_equivalents(text, note):
+    equivalents = set()
+    if re.search(r"^import\s|\bfrom\s+[\w.]+\s+import\b", text):
+        equivalents.add("import")
+    if re.search(r"\b[\w.]+\s*\(", text) or re.search(r"<script\b", text):
+        equivalents.add("call")
+    if re.search(r"\b[\w.]+\s*(?::|=(?!=))\s*\S", text):
+        equivalents.add("set")
+    if re.search(r"\b\w+\s*=\s*\[", text):
+        equivalents.add("list")
+    if re.search(r"\bnew \w+|\.create[A-Za-z]*\(", text):
+        equivalents.add("create")
+    if re.search(r"\b(?:https?|wss?|turn):", text):
+        equivalents.add("url")
+    if "wss:" in text:
+        equivalents.add("websocket")
+    if re.search(r"\bif\b", text):
+        equivalents.update(("check", "when"))
+    if re.search(r"\b(?:env\.get|environ\.get|process\.env\.)", text):
+        equivalents.update(("configurable", "environment", "variable"))
+    if re.search(r"\b([\w.]+)\s*=\s*!\1\b", text):
+        equivalents.add("toggle")
+    if "GetKeyDown" in text:
+        equivalents.update(("key", "pressed"))
+    if "urlretrieve(" in text:
+        equivalents.add("download")
+    if re.search(r"\btts\b", code_prose(text), re.I):
+        equivalents.update(("text", "speech"))
+    if re.search(r"\bstt\b", code_prose(text), re.I):
+        equivalents.update(("speech", "text", "transcription"))
+    if note.startswith(DEPENDENCY_NOTE):
+        equivalents.add("dependency")
+    return equivalents
 
 
 def built_with_note(product):
@@ -130,7 +177,10 @@ def built_with_note(product):
 
 
 def award_note(sponsor, prize):
-    return f"Won “{prize}” from {sponsor}. The write-up gives no details on how the team used the sponsor’s tech."
+    return (
+        f"Won “{display_prize_title(prize)}” from {sponsor}. "
+        "The write-up gives no details on how the team used the sponsor’s tech."
+    )
 
 
 def project_link_note(sponsor, quote):
@@ -154,6 +204,8 @@ def source_label(source, note):
         return f"Inferred from {USE_EVIDENCE[base]}"
     if source == CODE and note.startswith(DEPENDENCY_NOTE):
         return DEPENDENCY_EVIDENCE
+    if source == CODE and note.startswith("Imports "):
+        return IMPORT_EVIDENCE
     return USE_EVIDENCE.get(source, USE_UNAVAILABLE)
 
 
@@ -163,9 +215,56 @@ def use_coverage(row):
         return "inferred"
     if source == AWARD:
         return "award-framed"
-    if source == BUILT_WITH or row.get("summary_evidence") == DEPENDENCY_EVIDENCE:
+    if source == PROJECT_LINK:
+        return "linked-resource"
+    if source in {BUILT_WITH, LISTED} or row.get("summary_evidence") in {DEPENDENCY_EVIDENCE, IMPORT_EVIDENCE}:
         return "grounded-light"
     return "full" if source else "not stated"
+
+
+def use_heading(row, sponsor, award_heading):
+    coverage = use_coverage(row)
+    if coverage == "full" and sponsor:
+        return f"How it used {sponsor}"
+    if coverage == "inferred":
+        return f"Inferred use of {sponsor}"
+    if coverage == "linked-resource":
+        return f"Linked resource from {sponsor}"
+    if coverage == "award-framed":
+        return award_heading
+    if row.get("use_source") in {BUILT_WITH, LISTED}:
+        return f"{sponsor} · Listed on Devpost"
+    if row.get("summary_evidence") == IMPORT_EVIDENCE:
+        return f"{sponsor} · Imported in code"
+    return sponsor or "Sponsor use"
+
+
+def card_coverage(rows):
+    cards = defaultdict(set)
+    code = set()
+    for row in rows:
+        key = row["event_slug"], row["url"]
+        cards[key].add(use_coverage(row))
+        if row["source_urls"]:
+            code.add(key)
+    return {
+        "cards": len(cards),
+        "sourced": sum("full" in types for types in cards.values()),
+        "inferred": sum("inferred" in types for types in cards.values()),
+        "listed": sum(not ({"full", "inferred"} & types) and bool({"grounded-light", "linked-resource"} & types)
+                      for types in cards.values()),
+        "award_or_unstated": sum(types <= {"award-framed", "not stated"} for types in cards.values()),
+        "code": len(code),
+    }
+
+
+def card_coverage_text(rows):
+    counts = card_coverage(rows)
+    return (
+        f'{counts["sourced"]:,} cards with sourced use · {counts["inferred"]:,} with inferred notes · '
+        f'{counts["listed"]:,} with listed tech or links only · {counts["award_or_unstated"]:,} award-only or unstated · '
+        f'{counts["code"]:,} with public code links'
+    )
 
 
 def inference_source(source):
@@ -213,9 +312,10 @@ def validate_code_quote(row, quote, evidence_url):
     origin = PINNED_CODE_URL.fullmatch(evidence_url or "")
     if not locator or not origin:
         raise ValueError("Code requires a path:line quote and a commit-pinned GitHub URL")
-    repo, encoded_path, line = origin.groups()
+    repo, encoded_path, line, end = origin.groups()
     path = locator["path"]
-    if repo not in row["source_urls"] or unquote(encoded_path) != path or locator["line"] != line:
+    if (repo not in row["source_urls"] or unquote(encoded_path) != path or locator["line"] != line
+            or locator["end"] != end or (end and int(end) <= int(line))):
         raise ValueError("Code quote does not match its linked repository, path or line")
     if path.startswith("/") or any(part in {"", ".", ".."} for part in path.split("/")):
         raise ValueError("Invalid quoted code path")
@@ -247,15 +347,17 @@ def validate_use(row):
     if source not in USE_EVIDENCE or row["summary_evidence"] != source_label(source, note):
         raise ValueError("Missing or invalid use source")
     if source == AWARD:
-        if sponsor == "Other" or evidence_url or quote != row["prize"] or note != award_note(sponsor, quote):
-            raise ValueError("Award framing must repeat the exact verified prize")
+        if (sponsor == "Other" or evidence_url or quote != display_prize_title(row["prize"])
+                or note != award_note(sponsor, row["prize"])):
+            raise ValueError("Award framing must match the verified prize's display title")
         return
-    if not quote or len(quote) > 200 or quote != " ".join(quote.split()):
-        raise ValueError("Use quote must contain 1–200 characters of source text")
+    max_quote = 500 if source == CODE else 200
+    if not quote or len(quote) > max_quote or quote != " ".join(quote.split()):
+        raise ValueError(f"Use quote must contain 1–{max_quote} characters of source text")
     excerpt = quote
     if source == CODE:
         text, path = validate_code_quote(row, quote, evidence_url)
-        excerpt = f"{path} {text}".replace("_", " ")
+        excerpt = f"{text} {code_prose(text)}"
     elif source == VIDEO:
         timed = TIMED_QUOTE.fullmatch(quote)
         if not timed or evidence_url not in row["demo_video_urls"]:
@@ -265,7 +367,8 @@ def validate_use(row):
         excerpt = timed["text"]
     elif evidence_url:
         raise ValueError("Unexpected evidence URL")
-    if sponsor == "Other" or not alias_pattern(sponsor).search(excerpt):
+    attribution = f"{excerpt} {code_prose(path)}" if source == CODE else excerpt
+    if sponsor == "Other" or not alias_pattern(sponsor).search(attribution):
         raise ValueError("Use quote does not name the sponsor or a product")
     if not alias_pattern(sponsor).search(note):
         raise ValueError("Use note does not name the sponsor or a product")
@@ -273,15 +376,21 @@ def validate_use(row):
         expected = built_with_note(quote)
         if quote not in row["built_with"] or note.casefold() != expected.casefold():
             raise ValueError("Built With claim must repeat a matching Devpost tag")
+    elif source == LISTED:
+        product = re.fullmatch(r"Built with (.+) \(listed on Devpost\)", note)
+        if not product or product[1].casefold() not in quote.casefold():
+            raise ValueError("Listed claim must repeat a technology named in the Devpost excerpt")
     elif not note.endswith(".") or note.endswith(" ."):
         raise ValueError("Full use note must be a sentence")
-    if source == CODE:
-        return
-    if source == "devpost:project_link":
+    if source == PROJECT_LINK:
         if note != project_link_note(sponsor, quote):
             raise ValueError("Project-link note must describe the linked sponsor resource")
         return
-    missing = ungrounded_words(note, excerpt, sponsor)
+    equivalents = code_equivalents(text, note) if source == CODE else set()
+    if source == CODE:
+        for match in alias_pattern(sponsor).finditer(code_prose(path)):
+            equivalents.update(claim_words(match[0], sponsor))
+    missing = ungrounded_words(note, excerpt, sponsor, equivalents)
     if missing:
         raise ValueError(f"Use note has words absent from its quote: {', '.join(missing)}")
 
@@ -311,7 +420,7 @@ def caption_paths(cache, url):
 
 def check_cached_use(cache, source, quote, url):
     if source == CODE:
-        repo, _, _ = PINNED_CODE_URL.fullmatch(url).groups()
+        repo, _, _, _ = PINNED_CODE_URL.fullmatch(url).groups()
         locator = CODE_QUOTE.fullmatch(quote)
         root = cache / "repos" / repo.removeprefix("https://github.com/")
         path = root / "files" / locator["path"]
@@ -321,8 +430,10 @@ def check_cached_use(cache, source, quote, url):
         if json.loads(stamp.read_text(encoding="utf-8"))["sha"] != urlsplit(url).path.split("/")[4]:
             return False
         lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
-        index = int(locator["line"]) - 1
-        return index < len(lines) and locator["text"] in " ".join(lines[index].split())
+        start = int(locator["line"]) - 1
+        end = int(locator["end"] or locator["line"])
+        excerpt = " ".join(" ".join(lines[start:end]).split())
+        return end <= len(lines) and locator["text"] in excerpt
     match = TIMED_QUOTE.fullmatch(quote)
     expected = match["text"].split()
     for path in caption_paths(cache, url):

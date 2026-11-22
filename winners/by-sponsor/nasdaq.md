@@ -25,7 +25,7 @@ Automatically benefit from the optimizations of many databases, while only worki
 
 **How it used Nasdaq:** The team created a web app for NASDAQ financial data.
 
-No public code linked · Built with azure, cosmos-db, druid, node.js
+No public code found · Built with azure, cosmos-db, druid, node.js
 
 ### [Driversity](https://devpost.com/software/driversity)
 
@@ -35,7 +35,7 @@ Making ridesharing safer and more accessible.
 
 **Award:** Won “Best Use of Nasdaq/Quandl Datasets” from Nasdaq. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
+No public code found · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
 
 ### [HomeUp](https://devpost.com/software/homeup)
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx
 
 Buying a new house but can't decide on a neighborhood? Check out HomeUp for data and interactive charts on house prices, rent, and more.
 
-**How it used Nasdaq:** Fetches Zillow housing data by ZIP code through Quandl.
+**How it used Nasdaq:** Calls Quandl with a Zillow zipcode and start and end dates.
 
 [Code](https://github.com/siuryan/homeup) · Built with flask, python, quandl
 
@@ -69,7 +69,7 @@ Make the experience of keeping tracking stock performance fun and interactive wi
 
 **How it used Nasdaq:** The team used Nasdaq's API to locate a company's stock and related news about its performance.
 
-No public code linked · Built with flask, giphy-api, google-cloud-vision, ibm-watson
+No public code found · Built with flask, giphy-api, google-cloud-vision, ibm-watson
 
 ## 2016 winners
 

@@ -25,7 +25,7 @@ Put your money where your goals are. Complete your commitments to earn it back, 
 
 **How it used Ethereum Foundation:** The project deploys Solidity smart contracts on Ethereum testnet using Hardhat.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
+No public code found · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
 
 ### [MedChain](https://devpost.com/software/medchain-s7dz60)
 
@@ -35,7 +35,7 @@ MedChain: A blockchain-powered app for secure, verifiable prescriptions. Built o
 
 **How it used Ethereum Foundation:** The project uses Wagmi and Viem for Ethereum interactions and its transaction lifecycle.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
 
 ### [TraceFund](https://devpost.com/software/trustfund-24cmnh)
 
@@ -43,9 +43,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6
 
 Rebuilding donation trust through transparent giving.
 
-**Ethereum Foundation:** Built with ethereum (listed on Devpost)
+**Ethereum Foundation · Listed on Devpost:** Built with ethereum (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
+No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
 
 ### [TrustBuddy](https://devpost.com/software/trustbuddy)
 
@@ -55,7 +55,7 @@ Interoporable Trust, bring your ratings everywhere you go.
 
 **How it used Ethereum Foundation:** The smart contract lives on the Ethereum Sepolia Testnet.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns) · Built with canva, ethereum, figma, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns) · Built with canva, ethereum, figma, nextjs
 
 ## Track names and requirements
 

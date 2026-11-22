@@ -65,7 +65,7 @@ RescueMEsh is a low-cost device for SOS communication when disasters disrupt cel
 
 **How it used MongoDB:** The project uses independent MongoDB-backed hubs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
+No public code found · [Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
 
 ### [SideQuests](https://devpost.com/software/sidequestz)
 
@@ -117,7 +117,7 @@ Vibe CAD to 3D print the solutions to everyday problems in your environment, Ton
 
 **How it used MongoDB:** The project stores encrypted models, metadata, and embeddings in MongoDB.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=32oY_iV8jRo) · Built with mongodb, fastapi, javascript, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=32oY_iV8jRo) · Built with mongodb, fastapi, javascript, next.js
 
 ### [MovieMind](https://devpost.com/software/moviemind-85pfcw)
 
@@ -187,7 +187,7 @@ Countless public health datasets have been taken down. Vesalius scrubs the Inter
 
 After logging in, users are directed to a page requesting the title of the paper they want to write, along with a question about the paper's topic.
 
-**How it used MongoDB:** Defines its MongoDB project records with a Mongoose model.
+**How it used MongoDB:** Uses Mongoose to model projects.
 
 [Code](https://github.com/AnnieWang314/blankspace) · Built with mongodb, css, express.js, github
 
@@ -229,7 +229,7 @@ Intelligent data processing and diagnosis for doctors.
 
 **How it used MongoDB:** The project used MongoDB to store user information, its RAG vector database, and PDFs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=2s-sg1melAo) · Built with mongodb, astro, llama-index, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=2s-sg1melAo) · Built with mongodb, astro, llama-index, python
 
 ## 2013 winners
 
@@ -241,7 +241,7 @@ The team correlate this data with data regarding which sentences from each artic
 
 **MongoDB:** Sponsor use not stated on Devpost
 
-No public code linked
+No public code found
 
 ## Track names and requirements
 

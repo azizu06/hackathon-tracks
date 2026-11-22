@@ -57,7 +57,7 @@ BrailleAI gives DeafBlind people a voice. Type by touch to speak out loud, and f
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
+No public code found · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 ### [Dots](https://devpost.com/software/dots-y5r21j)
 
@@ -113,7 +113,7 @@ A wearable gives deaf and hard-of-hearing users visual and tactile cues about su
 
 Drones map real buildings in minutes, creating AI-operable world models where assistive agents navigate and search for locations (ex. food, elevator). Provides on-demand street view.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=rzGvQOiOc8c) · Built with apple-depth-pro, css, css-frontend-react-18, csv
+No public code found · [Demo video](https://www.youtube.com/watch?v=rzGvQOiOc8c) · Built with apple-depth-pro, css, css-frontend-react-18, csv
 
 ### [MatchVision](https://devpost.com/software/match-vision)
 
@@ -227,7 +227,7 @@ An accessible carbon removal assessment platform for Enhanced Rock Weathering (E
 
 Making expungement simple and accessible for all.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+No public code found · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 
 ### [Gestura](https://devpost.com/software/gestura-9oaugq)
 
@@ -283,7 +283,7 @@ Text-to-speech is a near-essential tool for the legally blind; However, normal t
 
 Signify brings AI into the web accessibility space.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
+No public code found · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
 ### [SoundSense](https://devpost.com/software/soundsense-jvz6yx)
 
@@ -307,7 +307,7 @@ Adaptive Learning Content Generation for Students with Disabilities.
 
 TrialGuideAI uses AI to distill dense clinical trial protocols into accessible summaries, infographics, and videos that empower patients to understand studies and their broader impact on science.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY) · Built with css, gemini, git, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY) · Built with css, gemini, git, html
 
 ### [Vraille](https://devpost.com/software/vraille)
 
@@ -333,7 +333,7 @@ A browser assistant helps blind users interact with websites through an accessib
 
 Companion is a voice-powered web AI agent that can autonomously execute web tasks based on user requests, made for seniors/people with disabilities who are unfamiliar with technology.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
+No public code found · [Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
 
 ### [DrowsyDriver](https://devpost.com/software/drowsydriver-e31tn6)
 
@@ -389,7 +389,7 @@ AI Chatbot that helps bridge the gap between healthcare providers and patients b
 
 SimplySign aims to make ASL more accessible and bring people together, whether by facilitating communication between patients and healthcare providers, or simply giving students a tool to practice.
 
-No public code linked · Built with css, github, html, javascript
+No public code found · Built with css, github, html, javascript
 
 ### [SOUR](https://devpost.com/software/sour)
 
@@ -397,7 +397,7 @@ No public code linked · Built with css, github, html, javascript
 
 It's a glasses addon that takes video and audio input to answer a blind person's questions about the surrounding area.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
+No public code found · [Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
 
 ### [Voiceboard](https://devpost.com/software/voiceboard-83vn1e)
 
@@ -423,7 +423,7 @@ An enhancement for white canes to help the blind navigate their surroundings wit
 
 Making ridesharing safer and more accessible.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
+No public code found · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
 
 ### [Extend a H.A.N.D.](https://devpost.com/software/extend-a-h-a-n-d)
 
@@ -431,7 +431,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx
 
 (Helper for Accessibility Needs &amp; Disabilities) A chrome extension which provides an accessibility layer on top of any webpage.
 
-No public code linked · Built with azure, amazon-dynamodb, amazon-web-services, aws-api-gateway
+No public code found · Built with azure, amazon-dynamodb, amazon-web-services, aws-api-gateway
 
 ## 2018 winners
 
@@ -451,6 +451,6 @@ An accessible Google StreetView for the visually impaired through visceral scene
 
 With more and more advancements in drone technology, drones are becoming accessible by everyone.
 
-No public code linked · Built with flask, javascript
+No public code found · Built with flask, javascript
 
 [Back to top](#accessibility-and-assistive-tools)

@@ -81,7 +81,7 @@ Leaf keeps AI usage sustainable, accurate, and fast by pairing powerful subagent
 
 The geoengineering operating system for climate renewal. Predict natural disasters, pick from a suite of rain/cloud seeding interventions, and prevent their destructive impacts.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
 
 ### [Nemo](https://devpost.com/software/nemo-i69rus)
 
@@ -131,7 +131,7 @@ A wildfire operations dashboard brings live video and voice controls into the in
 
 Accelerating the voluntary carbon credit market with blockchain.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4) · Built with css, html, javascript, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4) · Built with css, html, javascript, python
 
 ### [CarbonCompass](https://devpost.com/software/carboncompass-hyqob0)
 
@@ -147,7 +147,7 @@ See your business’s footprint before you leave it. EcoSpirit finds the best ne
 
 CarbonSight is a carbon-aware optimization framework for generative AI:.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
 
 ### [ChainReact](https://devpost.com/software/chainreact)
 
@@ -163,7 +163,7 @@ Anticipate and respond to supply chain disruptions by analyzing current events, 
 
 Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
 
 ### [EcoScout](https://devpost.com/software/ecoscout-g01h43)
 
@@ -171,7 +171,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9
 
 Ever wondered if your shopping cart is hurting the planet? 🌍 EcoScout scans products, gives instant EcoScores, and suggests greener swaps—helping you shop smart and sustainably.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
+No public code found · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
 
 ### [EcoSort](https://devpost.com/software/ecosort-ofyuie)
 
@@ -179,7 +179,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71
 
 The app EcoSort makes sustainability simple by helping people build better recycling and donation habits.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=p3F8s9jy8qk) · Built with base44, css, github, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=p3F8s9jy8qk) · Built with base44, css, github, javascript
 
 ### [ERWIN: Enhanced Rock Weathering Impact Navigator](https://devpost.com/software/erwin-enhanced-rock-weathering-impact-navigator)
 
@@ -227,7 +227,7 @@ An app estimates carbon emissions from users’ logged activities and charts the
 
 PUSHPA gives firefighters eyes on the ground and in the air. Smart glasses steer drones for real-time wildfire mitigation w optical &amp; UAV input + x20 kernel-optimized edge compute on custom SDKs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=-p4GfOiM0GY) · Built with executorch, gemini, langchain, llama.cpp
+No public code found · [Demo video](https://www.youtube.com/watch?v=-p4GfOiM0GY) · Built with executorch, gemini, langchain, llama.cpp
 
 ### [Wattson](https://devpost.com/software/wattson-5btsyd)
 
@@ -235,7 +235,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=-p4GfOiM0G
 
 Nurture a pet by being sustainable.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
 
 ### [Wildfires](https://devpost.com/software/wildfires-c0pfv1)
 
@@ -243,7 +243,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBS
 
 Wildfires is a platform offering real-time wildfire updates with live data, interactive visuals, and an AI-powered chatbot for fire safety and prevention information.
 
-No public code linked · Built with streamlit, altair, openai, pydeck
+No public code found · Built with streamlit, altair, openai, pydeck
 
 ## 2024 winners
 
@@ -285,7 +285,7 @@ Efficiency that Saves, Sustainability that Lasts.
 
 Calculate carbon emissions from travel expense reports and verify thresholds using smart contracts.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
+No public code found · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
 
 ### [FleetPulse](https://devpost.com/software/fleetpulse)
 
@@ -293,7 +293,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwk
 
 The project is an innovative AI-powered web app designed to reduce vehicle carbon emissions, addressing transportation's significant impact on greenhouse gas emissions.
 
-No public code linked · Built with cloudflare, ai, amazon-web-services, databricks
+No public code found · Built with cloudflare, ai, amazon-web-services, databricks
 
 ### [FootPrint Mayhem](https://devpost.com/software/footprint-mayhem)
 
@@ -333,7 +333,7 @@ Insights for Tomorrow: Navigating Climate Challenges with Data.
 
 PepsiCo has many sustainability practices, but there’s no centralized metric to assess progress across goals. 'Peps Towards Sustainability' provides a way to measure the journey to a green future.
 
-No public code linked · Built with css, html, javascript
+No public code found · Built with css, html, javascript
 
 ### [ToyoTrends](https://devpost.com/software/toyota-car-analytics-app)
 
@@ -341,7 +341,7 @@ No public code linked · Built with css, html, javascript
 
 ToyoTrends is a powerful web application designed for Toyota engineers to visualize and interpret fuel efficiency and carbon emissions data for both Toyota vehicles and competitor vehicles.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lEvVw3Qg834) · Built with carsxe, chart.js, css, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=lEvVw3Qg834) · Built with carsxe, chart.js, css, html
 
 ### [TrashToTreasure - Sustainable Showcase](https://devpost.com/software/trashtotreasure-sustainable-showcase)
 
@@ -377,6 +377,6 @@ EcoEats helps to provide a quick and easy way to look at how much carbon emissio
 
 OnTheWay is an innovative P2P delivery system that harnesses the power of pre-existing routes to minimize the need for inconvenient, long-distance trips and therefore reduce environmental impact.
 
-No public code linked · Built with android-studio, express.js, node.js
+No public code found · Built with android-studio, express.js, node.js
 
 [Back to top](#climate-and-environment)

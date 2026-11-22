@@ -77,7 +77,7 @@ Scandium is local AI code secret scanning. Rather than being notified after you'
 
 **Award:** Won “Communications Security Establishment Sponsor Prize” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFNA) · Built with node.js, ollama, qwen, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFNA) · Built with node.js, ollama, qwen, typescript
 
 ### [YeetThePacket](https://devpost.com/software/nocapnethack)
 

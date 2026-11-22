@@ -41,7 +41,7 @@ Agentified personal in-home care for the elderly. Multimodal S2S agent system ha
 
 AI-powered 311 for non-emergencies. Voice-to-dispatch in less than a minute with multi-agent orchestration and ML-driven priority scoring.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
+No public code found · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
 
 ### [Aegis](https://devpost.com/software/aegis-jtde8o)
 
@@ -97,7 +97,7 @@ Turn an emergency call into an indoor rescue map. With CoStar’s 3D building da
 
 LifeLine is a disaster recovery platform that connects residents, responders, and organizations in real time.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
 ### [Morro](https://devpost.com/software/morro)
 
@@ -105,7 +105,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rC
 
 The geoengineering operating system for climate renewal. Predict natural disasters, pick from a suite of rain/cloud seeding interventions, and prevent their destructive impacts.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
 
 ### [NightFall](https://devpost.com/software/nightfall)
 
@@ -137,7 +137,7 @@ EBT for disasters, on Solana. Aid lands 0.93s after the storm hits, spendable on
 
 RescueMEsh is a low-cost device for SOS communication when disasters disrupt cellular networks. Nemotron agents prioritize emergencies &amp; coordinate resources across nearby hubs to help dispatchers.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
+No public code found · [Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
 
 ### [RIIS](https://devpost.com/software/riis)
 
@@ -195,7 +195,7 @@ Bandaid Maps is a real-time, AI-powered healthcare navigation tool that assesses
 
 A coordination tool delegates emergency room tasks to agents responsible for beds, labs, and pharmacy.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YaeFUbzgQFc) · Built with uagent, claude, langchain, langgraph
+No public code found · [Demo video](https://www.youtube.com/watch?v=YaeFUbzgQFc) · Built with uagent, claude, langchain, langgraph
 
 ### [Emergent](https://devpost.com/software/emergent-b2t1fl)
 
@@ -269,7 +269,7 @@ Creating an aware and safer world by identifying emergencies which can improve m
 
 Welcome to the JARVIS for first responders.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
 
 ### [FRED](https://devpost.com/software/fred-bpszwn)
 
@@ -277,7 +277,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzR
 
 FRED is a satellite-powered emergency response tool that allows users in remote areas to send GPS coordinates, images, and voice data to responders, ensuring help can be dispatched from anywhere.
 
-No public code linked · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
+No public code found · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
 
 ### [hurrycane](https://devpost.com/software/evac-for-all)
 
@@ -339,6 +339,6 @@ SOS Squad is a platform for connecting good Samaritans to disaster victims.
 
 A drone platform that not only knows how to fly itself, but also knows where to deliver aid after a natural disaster.
 
-No public code linked · Built with arduino, c++, raspberry-pi
+No public code found · Built with arduino, c++, raspberry-pi
 
 [Back to top](#safety-and-emergency-response)

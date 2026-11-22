@@ -45,7 +45,7 @@ Leveraging AI to assess bridge damage.
 
 **Award:** Won “Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce” from Cloudforce. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with azure, javascript, next.js, node.js
+No public code found · Built with azure, javascript, next.js, node.js
 
 ## Track names and requirements
 

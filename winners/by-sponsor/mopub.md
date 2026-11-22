@@ -25,7 +25,7 @@ BeaconViewer and BeaconBroadcaster are iOS applications that utilize iOS7's new 
 
 **Award:** Won “MoPub - Mobile Data Award” from MoPub. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with firebase, ios
+No public code found · Built with firebase, ios
 
 ## Track names and requirements
 

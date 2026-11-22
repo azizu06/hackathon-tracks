@@ -45,7 +45,7 @@ A user wearing Snap Spectacles can point to steer a robot and gesture to operate
 
 **Award:** Won “BitRobot Network: Best Robotics Hack - 3rd Place” from BitRobot Network. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with fastapi, snap, websocket
+No public code found · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with fastapi, snap, websocket
 
 ## Track names and requirements
 

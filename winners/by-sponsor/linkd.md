@@ -35,7 +35,7 @@ Plan and host events smarter &amp; faster. Leadify helps event organizers automa
 
 **How it used Linkd:** The project uses the Linkd API for real-time discovery of potential leads.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=vFeyw8tJbWA) · Built with linkd, asyncio, fetch.ai, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=vFeyw8tJbWA) · Built with linkd, asyncio, fetch.ai, gemini
 
 ## Track names and requirements
 

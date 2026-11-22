@@ -25,7 +25,7 @@ Making ABLLS-R assessments easier for behavioral clinicians who provide therapy 
 
 **Award:** Won “CAT Digital - Best Cloud Implementation” from Cat Digital. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with amazon-web-services, css, html, javascript
+No public code found · Built with amazon-web-services, css, html, javascript
 
 ### [predicTerminal](https://devpost.com/software/predicterminal)
 

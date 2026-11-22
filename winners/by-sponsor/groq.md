@@ -97,7 +97,7 @@ Take a picture, get a 3D print of it.
 
 **How it used Groq:** The project uses Groq to edit 3D models with LLMs.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g0) · Built with groq, 3dprinting, ai, cohere
+No public code found · [Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g0) · Built with groq, 3dprinting, ai, cohere
 
 ### [Noq](https://devpost.com/software/noq-92iysh)
 

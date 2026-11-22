@@ -23,7 +23,7 @@
 
 Unlock the full potential of the electronics you love by controlling them wirelessly through easy hand gestures.
 
-**Synaptics:** Built with synaptics (listed on Devpost)
+**Synaptics · Listed on Devpost:** Built with synaptics (listed on Devpost)
 
 [Code](https://github.com/icasdri/ControlGeek-Server) · Built with synaptics, javascript, love, python
 
@@ -57,7 +57,7 @@ The group (RPIDeis) used the Synaptics Forcepad to create a theremin type instru
 
 **How it used Synaptics:** The group (RPIDeis) used the Synaptics Forcepad to create a theremin type instrument.
 
-No public code linked
+No public code found
 
 ### [RESTful Ships](https://devpost.com/software/restful-ships)
 
@@ -67,7 +67,7 @@ RESTful Ships is an application that allows developers to hook into an exposed R
 
 **Synaptics:** Sponsor use not stated on Devpost
 
-No public code linked
+No public code found
 
 ### [TouchBeat](https://devpost.com/software/touchbeat)
 
@@ -77,7 +77,7 @@ Use Synaptics ForcePad to play a rhythm game - not a mundane one but with slidin
 
 **How it used Synaptics:** The project uses the Synaptics ForcePad to play a rhythm game with sliding and pressure.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=mRfVJjCFLfY)
+No public code found · [Demo video](https://www.youtube.com/watch?v=mRfVJjCFLfY)
 
 ## Track names and requirements
 

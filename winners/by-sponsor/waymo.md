@@ -77,7 +77,7 @@ A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
 **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
 
 ## 2024 winners
 

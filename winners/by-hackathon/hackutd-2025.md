@@ -211,14 +211,14 @@ Cura provides forecasting and analytical insights, commercial real estate proper
 
 The app is a full-featured real estate helper that helps you find and trust properties.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
+No public code found · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** google-gemini, google-maps, react, recharts, shadn, sonner, tailwind, typescript, vite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SQlAZdMoI2k)
 - **All prizes at this hackathon (1):** CBRE
 - **Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
@@ -315,14 +315,14 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 
 PoyoLabs is a gamified dashboard that allows users to track and monitor multiple cauldrons (data points) from one hand-designed interface.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
+No public code found · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** auth0, css, flask, godaddy, html, nemotron, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ah0ZCHMdz_8)
 - **All prizes at this hackathon (1):** EOG Resources
 - **Inferred use of EOG Resources:** Likely used EOG Resources’ CauldronWatch dataset for monitoring potion cauldrons from a single dashboard (inferred from the write-up). [Evidence](https://devpost.com/software/poyolabs-47n0fz)
@@ -352,7 +352,7 @@ The team set out to solve the often ineffective ticket-to-response systems prese
 - **Code:** [Source 1](https://github.com/zekestephens/hyperlynx)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wL78va-T-Ug)
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
+- **GoDaddy Registry · Listed on Devpost:** Built with GoDaddy (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

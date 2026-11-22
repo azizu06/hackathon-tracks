@@ -35,7 +35,7 @@ Transforming Thoughts into Visual Expression - Empowering Minds Beyond Words.
 
 **How it used Chroma:** The project stores thought embeddings in ChromaDB for real-time retrieval.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9o) · Built with chromadb, google-cloud, langchain, luma-ai
+No public code found · [Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9o) · Built with chromadb, google-cloud, langchain, luma-ai
 
 ## 2024 winners
 
@@ -45,7 +45,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9
 
 GenomIQ streamlines plasmid engineering by combining AI-powered gene generation with a curated gene database.
 
-**Chroma:** Built with chroma (listed on Devpost)
+**Chroma · Listed on Devpost:** Built with chroma (listed on Devpost)
 
 [Code](https://github.com/nomitchell/genomiq) · Built with chroma, alphafold, cohere, flask
 
@@ -65,7 +65,7 @@ Remove the need to manually update your docs. When you make a PR, Doc's are auto
 
 Military personnel will utilize Lucy to identify potential threats during field operations.
 
-**How it used Chroma:** Builds a Chroma vector store from image embeddings.
+**How it used Chroma:** Calls Chroma with image embeddings.
 
 [Code](https://github.com/Jinash-Rouniyar/SpotDog) · [Demo video](https://www.youtube.com/watch?v=Qpsvuxynwek) · Built with arduino, chromadb, deepgram, groq
 

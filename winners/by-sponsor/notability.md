@@ -43,9 +43,9 @@ A platform helps students stay connected to class during medical care.
 
 A research platform pairs an evidence workspace with tools for patients to review consent and compensation.
 
-**Notability:** Built with notability (listed on Devpost)
+**Notability · Listed on Devpost:** Built with notability (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=9DtLgJCZ3oQ) · Built with notability, 3dmol, amazon-bedrock, anthropic-claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=9DtLgJCZ3oQ) · Built with notability, 3dmol, amazon-bedrock, anthropic-claude
 
 ### [Hear me Out](https://devpost.com/software/hear-me-out-548os6)
 
@@ -55,7 +55,7 @@ A party game uses group conversations to make plans for an in-person hangout.
 
 **How it used Notability:** The team kept research, sketches and revision notes in Notability.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
+No public code found · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
 
 ### [Homie](https://devpost.com/software/homie-1d28pr)
 

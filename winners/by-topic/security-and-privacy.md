@@ -41,7 +41,7 @@ A sovereign AI security mesh that detects threats, coordinates autonomous agents
 
 Elevated and autonomous security for the vibe coded world. Argus deploys five specialized agents to attack your app in a sandbox, prove vulnerabilities, generate fixes, and verify the patch works.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
+No public code found · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
 
 ### [Athena](https://devpost.com/software/callguard)
 
@@ -97,7 +97,7 @@ Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity con
 
 A Roblox tower-defense game teaches players to recognize phishing messages and malware.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
+No public code found · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
 
 ### [PinkyPromise](https://devpost.com/software/pinkypromise)
 
@@ -137,7 +137,7 @@ A live fraud agent attacks an AI accounts-payable clerk while a controller gates
 
 Privacy-first home safety system that detects hazards like leaks and power loss, alerts homeowners early, and securely shares incident details with approved contacts.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
 
 ### [STING](https://devpost.com/software/sting-bfqvia)
 
@@ -145,7 +145,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3L
 
 STING is AI anti-scam protection that protects elderly and naive users from phishing, fake stores, and risky sites in real time — stopping scams before money is lost and making scammers unprofitable.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YHRKJ472k7k) · Built with simular, simular-for-autonomous-qa-testing, anthropic, anthropic-claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=YHRKJ472k7k) · Built with simular, simular-for-autonomous-qa-testing, anthropic, anthropic-claude
 
 ### [Trojan](https://devpost.com/software/trojan)
 
@@ -179,7 +179,7 @@ Complete AI agent ecosystem for fraud detection &amp; banking. Multiple speciali
 
 MedChain: A blockchain-powered app for secure, verifiable prescriptions. Built on Base with smart contracts and IPFS to eliminate fraud and streamline doctor–pharmacist workflows.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
 
 ### [MediLedger](https://devpost.com/software/mediledger)
 
@@ -253,7 +253,7 @@ ANGEL'S PROTECTION processes live video feeds, storing data based on individuals
 
 Blockchain and AI Based Verification for a Fraud-Free Future.
 
-No public code linked · Built with css, ganache, google-cloud, javascript
+No public code found · Built with css, ganache, google-cloud, javascript
 
 ### [Cyberwright](https://devpost.com/software/cyberwright)
 
@@ -277,7 +277,7 @@ AI-driven solution designed to detect and prevent fraudulent financial transacti
 
 Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay smart, and learn to protect your online world effortlessly.
 
-No public code linked · Built with charm.sh, go, ngrok, sqlite
+No public code found · Built with charm.sh, go, ngrok, sqlite
 
 ### [Vanguard](https://devpost.com/software/vanguard-lm40dt)
 
@@ -313,6 +313,6 @@ The automation of mask security for stores.
 
 Social Security helps to combat social media spam and ensures you never tweet the wrong thing.
 
-No public code linked · Built with sendgrid, alchemyapi, google-prediction, mongodb
+No public code found · Built with sendgrid, alchemyapi, google-prediction, mongodb
 
 [Back to top](#security-and-privacy)

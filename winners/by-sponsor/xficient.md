@@ -25,7 +25,7 @@ The project, Course Catalog Intelligence, pulls important information from unive
 
 **Award:** Won “University Course Catalog Data Extraction and Query Challenge - Xficient” from Xficient. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with flask, git, github, langchain
+No public code found · Built with flask, git, github, langchain
 
 ### [ParsePal](https://devpost.com/software/parsepal)
 
@@ -35,7 +35,7 @@ Search Made Simple: Ask questions, find answers – AI parses documents, chatbot
 
 **Award:** Won “University Course Catalog Data Extraction and Query Challenge - Xficient” from Xficient. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with flask, github, gpt-4, neon
+No public code found · Built with flask, github, gpt-4, neon
 
 ### [Xficient Bot](https://devpost.com/software/xficient-bot)
 

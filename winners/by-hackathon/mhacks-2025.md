@@ -48,14 +48,14 @@ These projects won more than one prize here. Each one is listed once.
 
 Your environment should work for you.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=cnNKHDTOunw) · Built with fetch.ai, lensstudio, ar, base44
+No public code found · [Demo video](https://www.youtube.com/watch?v=cnNKHDTOunw) · Built with fetch.ai, lensstudio, ar, base44
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** ar, base44, fetch.ai, javascript, lensstudio, llms, machine-learning, ngrok, python, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cnNKHDTOunw)
 - **All prizes at this hackathon (2):** Best Use of Fetch.ai · Best use of Snap AR
 - **How it used Fetch.ai:** A Fetch.ai agent helps Snap Spectacle users navigate accessible indoor and outdoor routes.
@@ -151,14 +151,14 @@ Ticketry.AI bridges the gap between business stakeholders and development teams 
 
 Your Face, Your Share, Your Bill.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=tZ9x2874vH4) · Built with auth0, css, flask, git
+No public code found · [Demo video](https://www.youtube.com/watch?v=tZ9x2874vH4) · Built with auth0, css, flask, git
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** auth0, css, flask, git, github, html, javascript, opencv-+-pytorch-(face-recognition), sqlite, vanillajs
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tZ9x2874vH4)
 - **All prizes at this hackathon (1):** MLH - Best Use of Auth0 &#124;&#124; Wireless Headphones
 - **How it used Auth0:** The project uses Auth0 for authentication and social login.
@@ -178,14 +178,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=tZ9x2874vH
 
 Ever wondered if your shopping cart is hurting the planet? 🌍 EcoScout scans products, gives instant EcoScores, and suggests greener swaps—helping you shop smart and sustainably.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
+No public code found · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** ai, aiagents, api, base44, base44aiagents, base44cloud, cloud, co?-footprint, eco-score-agent, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), googleauth, impact-tracker-agent-&#42;&#42;progressive-web-app-(pwa)&#42;&#42;-?-mobile-friendly-deployment-&#42;&#42;apis-/-data-sources&#42;&#42;-?-product-information-apis, javascript, packaging-recyclability, personalization-agent, react, recommendation-agent, sustainability-datasets-(e.g., water-usage
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0pXKtrhJ71g)
 - **All prizes at this hackathon (1):** Best integration with Base44
 - **How it used Base44:** The team used Base44 for the scan forms and product cards.
@@ -205,14 +205,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71
 
 Have you ever walked into a dirty bathroom? Sometimes you just want a bathroom that is cleaner and better.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=-M6MWgq48NU) · Built with cloudflare, google-maps, javascript, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=-M6MWgq48NU) · Built with cloudflare, google-maps, javascript, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** cloudflare, google-maps, javascript, python, react, umich-building-api
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-M6MWgq48NU)
 - **All prizes at this hackathon (1):** MLH - Best AI Application presented by Cloudflare &#124;&#124; Arduino Kit
 - **How it used Cloudflare:** The team used React.js for the frontend and a SQLite database hosted on Cloudflare as the backend.
@@ -311,14 +311,14 @@ An end-to-end automated resale assistant that takes you from clutter → cash in
 
 The Ford Vision Station Alignment System is a comprehensive computer vision solution that provides real-time alignment detection and guidance for automotive manufacturing operations.
 
-No public code linked · Built with 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras
+No public code found · Built with 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras, camera, camera-matrix-calculations, cors-middleware, css-custom-properties, css3, docker, eslint, fastapi, framer-motion, gige-vision, git, harris-corner-detection, http, https, hybrid-computer-vision, industrial, javascript, jpeg, json, linux, lucide-react, mjpeg-streams, node.js, novel-view-synthesis, npm, numpy, opencv, orb-features, package.json, png, pydantic, pypylon, python, react-18, real-time-image-processing, requirements.txt, rest-apis, sift-features, template-matching, twilio, typescript, usb3-vision, uvicorn, virtual-environments, vite, websocket-protocol, websockets, windows, wsl2
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vision Alignment Tool presented by Ford
 - **Award:** Won “Vision Alignment Tool presented by Ford” from Ford. The write-up gives no details on how the team used the sponsor’s tech.
@@ -361,14 +361,14 @@ Gesture-based mouse built using FreeWILi and Vosk text-to-speech used to increas
 
 Nurture a pet by being sustainable.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** freewili, opencv, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GzLRBSqCBSw)
 - **All prizes at this hackathon (2):** Best Use of FREE-WiLi · MHacks Greenprint Winner
 - **How it used FREE-WILi:** The project uses the Free-Wili for its user interface.
@@ -548,7 +548,7 @@ A robot that plays Word Hunt on its own—powered by a jury-rigged 3D printer, c
 - **Code:** [Source 1](https://github.com/TSKoduru/mhacks-gamehawk)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WktVaFtu6HE)
 - **All prizes at this hackathon (1):** Best Use of MemryX Edge AI Accelerator
-- **How it used MemryX:** Runs its recognition model through the MemryX accelerator.
+- **MemryX · Imported in code:** Imports AsyncAccl from MemryX.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -650,7 +650,7 @@ A way to be updated with the most up-to-date information on crypto and assets - 
 - **Code:** [Source 1](https://github.com/hyungminoh2/Solvend-mhacks2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Creative Solana MCP
-- **How it used Solana:** Retrieves Solana token prices through the Jupiter Aggregator API.
+- **How it used Solana:** Fetches Solana token prices through the Jupiter Aggregator API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

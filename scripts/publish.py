@@ -7,10 +7,11 @@ import json
 from pathlib import Path
 import re
 
+from catalog_display import display_prize_title, display_text
 from evidence import clean, normalized_link, overview_tracks, project_details
 from fetch import Fetcher, cache_path, gallery_winners, prize_label, verified_link
 from sponsor_use import (
-    AWARD, BUILT_WITH, CODE, VIDEO, MISSING_INTEGRATION, award_note, caption_paths, caption_words,
+    ACCOMPLISHMENTS, AWARD, BUILT_WITH, CODE, VIDEO, MISSING_INTEGRATION, award_note, caption_paths, caption_words,
     check_cached_use, inference_source, load_award_tracks, load_inferred_uses, load_uses, prize_key,
     source_label, validate_use,
 )
@@ -377,11 +378,13 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
                     raise ValueError(f"Inference requires an award-only row: {key}")
                 use, source, quote, location = inference
             elif source is None and (event, prize, sponsor) in award_tracks:
-                use, source, quote = award_note(sponsor, prize), AWARD, prize
+                use, source, quote = award_note(sponsor, prize), AWARD, display_prize_title(prize)
             if source == BUILT_WITH and quote in project.built_with and quote not in tags:
                 tags.append(quote)
             rules = track_details.get(clean(prize), [])
             needed, requirement_source = requirement(prize, rules)
+            if needed:
+                needed = display_text(needed) or None
             observed_links["source"].update(project.source_links)
             observed_links["demo"].update(project.demo_links)
             source_urls = verified(project.source_links, receipts)
@@ -390,6 +393,7 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
                 repo, match_evidence = code_matches[url]
                 source_urls = sorted({repo, *source_urls})
                 observed_links["source"].add(repo)
+            before = display_text(before)
             rows.append({
                 "project": project.name, "hackathon": name, "year": year, "event_slug": event,
                 "sponsor": sponsor, "prize": prize, "prize_value": stated_value(prize),
@@ -424,9 +428,12 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
                 if source == "devpost:project_link":
                     has_quote = quote in project.project_link_excerpts
                 else:
-                    excerpts = project.captions if source == "devpost:gallery_caption" else (
-                        project.writeup_text, project.tagline,
-                    )
+                    if source == "devpost:gallery_caption":
+                        excerpts = project.captions
+                    elif source == ACCOMPLISHMENTS:
+                        excerpts = [text for heading, text in project.story if "accomplishments" in heading]
+                    else:
+                        excerpts = (project.writeup_text, project.tagline)
                     has_quote = any(quote in excerpt for excerpt in excerpts)
                 if not has_quote:
                     raise ValueError("Use quote is absent from the cached Devpost source")

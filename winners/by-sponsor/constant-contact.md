@@ -25,7 +25,7 @@ xcelmail may solve a lot of problems for commercial users of email services like
 
 **Constant Contact:** Sponsor use not stated on Devpost
 
-No public code linked
+No public code found
 
 ## Track names and requirements
 

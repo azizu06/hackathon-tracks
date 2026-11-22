@@ -65,7 +65,7 @@ Similar to a piano tiles game where the tiles come towards the player, the tiles
 
 **How it used FREE-WILi:** The team used the FREE-WILi API, wrote the display and main files in C, and used the board's built-in accelerometer to measure positional data as the player moved their wrist.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
 
 ## 2025 winners
 
@@ -87,7 +87,7 @@ Nurture a pet by being sustainable.
 
 **How it used FREE-WILi:** The project uses the Free-Wili for its user interface.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
 
 ## 2024 winners
 
@@ -99,7 +99,7 @@ Gives users the ability to play four 1v1 games.
 
 **How it used FREE-WILi:** The project configures the Free-WILi board to toggle LEDs and display images.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=7VzAm0KVVoo) · Built with freewili, c++, pygame, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=7VzAm0KVVoo) · Built with freewili, c++, pygame, python
 
 ## Track names and requirements
 

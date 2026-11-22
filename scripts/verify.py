@@ -9,12 +9,13 @@ from pathlib import Path
 import re
 import tempfile
 
+from catalog_display import has_money
 from evidence import project_details
 from fetch import cache_path
 from publish import validate_cached_inference
 from sponsor_use import (
-    AWARD, CODE, VIDEO, check_cached_use, inference_source, load_award_tracks, load_inferred_uses,
-    prize_key, validate_use,
+    AWARD, CODE, VIDEO, card_coverage_text, check_cached_use, inference_source, load_award_tracks,
+    load_inferred_uses, prize_key, validate_use,
 )
 from render import (
     INT_FIELDS, LIST_FIELDS, ROOT_PAGES, SITE_URL, event_file, heading_anchor, note_coverage_text,
@@ -41,6 +42,40 @@ def anchors(path):
     return names
 
 
+DISPLAY_FIELDS = (
+    "project", "hackathon", "sponsor", "description", "sponsor_integration", "summary",
+    "required_tech", "built_with", "sponsor_tech",
+)
+
+
+def check_display_money(value, context):
+    if isinstance(value, dict):
+        for key, item in value.items():
+            check_display_money(item, f"{context}/{key}")
+    elif isinstance(value, list):
+        for item in value:
+            check_display_money(item, context)
+    elif isinstance(value, str) and has_money(value):
+        raise AssertionError(f"Monetary amount in displayed text: {context}")
+
+
+def verify_site(site, rows):
+    index = (site / "index.html").read_text(encoding="utf-8")
+    check_display_money(index, site / "index.html")
+    for name in ("app.js", "style.css"):
+        path = site / name
+        check_display_money(path.read_text(encoding="utf-8"), path)
+    disclosure = html.escape(card_coverage_text(rows))
+    assert f"<!-- BEGIN card coverage -->{disclosure}<!-- END card coverage -->" in index, (
+        "Site hero coverage counts are stale. Run python3 site/build.py."
+    )
+    path = site / "catalog.js"
+    data = path.read_text(encoding="utf-8")
+    prefix, suffix = "window.TRACKS_CATALOG = ", ";\n"
+    assert data.startswith(prefix) and data.endswith(suffix), "Unexpected site catalog format"
+    check_display_money(json.loads(data.removeprefix(prefix).removesuffix(suffix)), path)
+
+
 def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cache=None):
     rows = json.loads((root / "winners.json").read_text(encoding="utf-8"))
     receipts = {
@@ -56,6 +91,10 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
     inferred_uses = load_inferred_uses()
     for row in rows:
         key = prize_key(row)
+        for field in DISPLAY_FIELDS:
+            check_display_money(row[field], f"{key}/{field}")
+        if row["use_source"] == AWARD:
+            check_display_money(row["use_quote"], f"{key}/use_quote")
         assert key not in seen, f"Duplicate project prize {key}"
         seen.add(key)
         assert row["event_prize_count"] == len(set(row["event_prizes"])), key
@@ -117,6 +156,17 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
             )
             assert entries == len(projects[path]), (path, entries, len(projects[path]))
 
+    pages = list(root.rglob("*.md"))
+    project_root = Path(__file__).resolve().parent.parent
+    if readme:
+        pages += [readme.parent / name for name in ("README.md", *ROOT_PAGES)]
+        pages += [path for path in (readme.parent / "docs/coverage.md", readme.parent / "INFERENCE_REPORT.md")
+                  if path.is_file()]
+    for path in pages:
+        check_display_money(path.read_text(encoding="utf-8"), path)
+    if root.resolve() == project_root / "winners":
+        verify_site(project_root / "site", rows)
+
     with tempfile.TemporaryDirectory(prefix="hackathon-index-") as directory:
         replay = Path(directory)
         render(replay, rows, receipts)
@@ -131,15 +181,11 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
             assert readme.read_bytes() == preview.read_bytes(), "Root README indexes or badges are stale"
             for name in ROOT_PAGES:
                 assert (readme.parent / name).read_bytes() == (replay / name).read_bytes(), f"{name} is stale"
-    pages = list(root.rglob("*.md"))
     if readme:
-        pages += [readme.parent / name for name in ("README.md", *ROOT_PAGES)]
         coverage = readme.parent / "docs" / "coverage.md"
         if coverage.is_file():
-            assert note_coverage_text(rows) in coverage.read_text(encoding="utf-8").splitlines(), (
-                "Coverage report sponsor-note counts are stale"
-            )
-            pages.append(coverage)
+            lines = coverage.read_text(encoding="utf-8").splitlines()
+            assert note_coverage_text(rows) in lines and card_coverage_text(rows) in lines, "Coverage report counts are stale"
     checked_links = 0
     anchor_cache = {}
     for path in pages:

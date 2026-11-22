@@ -25,7 +25,7 @@ Silkspeak is a realtime speech analysis application that helps people improve th
 
 **Award:** Won “Thiel Fellowship - “Under 20” Hack Award” from Thiel Fellowship. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with css, heroku, html5, javascript
+No public code found · Built with css, heroku, html5, javascript
 
 ## Track names and requirements
 

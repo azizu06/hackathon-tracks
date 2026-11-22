@@ -23,7 +23,7 @@
 
 The aim of the project to create automated windows, which open and close to maximize energy conservation.
 
-**How it used Twilio:** Uses Twilio to reply to texts that open or close a window.
+**How it used Twilio:** Creates a Twilio TwiML response.
 
 [Code](https://github.com/fpayer/smartwindow) · Built with twilio, android, arduino, electric-imp
 

@@ -25,7 +25,7 @@ Bin-It lets residents report overflowing bins from a phone while a dashboard hel
 
 **How it used Databricks:** Databricks processes geolocation, bin, place, and 311 complaint data.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
+No public code found · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
 
 ### [CrisisLens](https://devpost.com/software/crisislens-rlebdw)
 
@@ -53,7 +53,7 @@ A dashboard maps humanitarian funding against local needs to identify crises tha
 
 An accessibility prototype uses EEG readings from a visual interface to let people with paralysis select messages.
 
-**How it used Databricks:** Trains the EEG classification model on Databricks and runs predictions locally.
+**How it used Databricks:** Uses Databricks for EEG model training.
 
 [Code](https://github.com/shashankshaga/Paralassist) · [Demo video](https://www.youtube.com/watch?v=hmhprJgUFRA) · Built with css, html, javascript, python
 
@@ -89,7 +89,7 @@ What your heart and mind really have to say.
 
 **How it used Databricks:** The project stores its data in a Databricks managed table.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
+No public code found · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
 
 ### [citewise](https://devpost.com/software/citewise)
 
@@ -119,7 +119,7 @@ an AI platform that automates data entry from text and speech, anonymizes patien
 
 **How it used Databricks:** The project uses Databricks Open Source for K-means clustering.
 
-No public code linked · Built with cloudfare, flask, nextjs, openai-api
+No public code found · Built with cloudfare, flask, nextjs, openai-api
 
 ## Track names and requirements
 

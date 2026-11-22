@@ -45,7 +45,7 @@ Synapse isn’t another assistant — it’s the nervous system of AI itself, wh
 
 **ServiceNow:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=irFW-f8mvoE)
+No public code found · [Demo video](https://www.youtube.com/watch?v=irFW-f8mvoE)
 
 ## Track names and requirements
 

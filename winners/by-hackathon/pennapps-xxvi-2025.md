@@ -52,7 +52,7 @@ Greener AI, one prompt at a time.
 - **Code:** [Source 1](https://github.com/Keshav-kh/sustain-a-prompt)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mIMQKbmX5O4)
 - **All prizes at this hackathon (1):** MLH - Best use of Auth0
-- **How it used Auth0:** Uses Auth0 as its registration form's sign-in provider.
+- **How it used Auth0:** Sets Auth0 as the social sign-in provider.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -69,14 +69,14 @@ Greener AI, one prompt at a time.
 
 Accelerating the voluntary carbon credit market with blockchain.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4) · Built with css, html, javascript, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4) · Built with css, html, javascript, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, html, javascript, python, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=F-6xvtqcJH4)
 - **All prizes at this hackathon (1):** CATEGORY - Sustainability (Bloomberg)
 - **Award:** Won “CATEGORY - Sustainability (Bloomberg)” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
@@ -96,14 +96,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH
 
 Sprout AI: Optimizing shelves, preserving the planet.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** cerebrus, css, gemini, html, java, javascript, json, python, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7kS-5tsI1Ac)
 - **All prizes at this hackathon (1):** CATEGORY - Finance (Capital One)
 - **Award:** Won “CATEGORY - Finance (Capital One)” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
@@ -196,14 +196,14 @@ A mixture of agents expert running on cutting edge inference hardware, that in p
 
 CarbonSight is a carbon-aware optimization framework for generative AI:.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adk, fastapi, gemini, node.js, polygon, python, react, supabase
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=b30umZp1RZU)
 - **All prizes at this hackathon (1):** MLH - Best use of Gemini API
 - **How it used Google:** The project uses Gemini embeddings to detect similar prompts and avoid redundant compute.

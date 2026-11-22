@@ -25,7 +25,7 @@ Coeus is real time, big data analysis of mobile data to produce organic trending
 
 **Award:** Won “Akamai - Best Use of Algorithms” from Akamai. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked
+No public code found
 
 ## Track names and requirements
 

@@ -61,7 +61,7 @@ JS Policy allows web devs to keep user data safe by subjecting 3rd party Javascr
 
 **Award:** Won “Best Low Level / High Performance Hack (Hudson River Trading)” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with javascript
+No public code found · Built with javascript
 
 ## Track names and requirements
 

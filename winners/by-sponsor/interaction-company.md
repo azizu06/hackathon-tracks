@@ -59,7 +59,7 @@ An AI email assistant that automates form-filling, summarizes messages, and stre
 
 **Award:** Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ) · Built with drizzle, google-cloud, groq, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ) · Built with drizzle, google-cloud, groq, nextjs
 
 ### [Nova AI](https://devpost.com/software/nova-your-automated-pa)
 

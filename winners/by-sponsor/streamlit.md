@@ -23,7 +23,7 @@
 
 Instantly distinguish genuine fouls from flops with video analysis through user inputted soccer clips. Provides referee-style analysis based on the verdict.
 
-**How it used Streamlit:** Uses Streamlit to render the dive detector interface.
+**Streamlit · Imported in code:** Imports Streamlit.
 
 [Code](https://github.com/Arnav2610/streamlit_dive_detector) · [Demo video](https://www.youtube.com/watch?v=Q0bEOvrx4BA) · Built with streamlit, gemini, genai, joblib
 
@@ -33,9 +33,9 @@ Instantly distinguish genuine fouls from flops with video analysis through user 
 
 Your Vision, Reborn. A complex collection of pipelines, all working in tandem to restore sight capabilities for the visually impaired.
 
-**Streamlit:** Built with streamlit (listed on Devpost)
+**Streamlit · Listed on Devpost:** Built with streamlit (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=kDdEKuB_Qy4) · Built with streamlit, mongodb, opencv, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=kDdEKuB_Qy4) · Built with streamlit, mongodb, opencv, python
 
 ### [Wildfires](https://devpost.com/software/wildfires-c0pfv1)
 
@@ -45,7 +45,7 @@ Wildfires is a platform offering real-time wildfire updates with live data, inte
 
 **How it used Streamlit:** The team then used Streamlit to plot them onto a map.
 
-No public code linked · Built with streamlit, altair, openai, pydeck
+No public code found · Built with streamlit, altair, openai, pydeck
 
 ## 2024 winners
 
@@ -73,7 +73,7 @@ FlowCast is an innovative web application that visualizes and analyzes water qua
 
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-vestique) · **Best Use of Streamlit**
 
-Vestique, your AI wardrobe assistant, tracks your style and ensures no clothes go unworn. Smart alerts help you wear 40% more of your closet and save $1,200 yearly.
+Vestique tracks your style and sends alerts to help you wear more of your wardrobe.
 
 **How it used Streamlit:** The team built its UI using Streamlit.
 

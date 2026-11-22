@@ -45,14 +45,14 @@ These projects won more than one prize here. Each one is listed once.
 
 The team describes the project as “Nodal”.
 
-No public code linked · Built with test
+No public code found · Built with test
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** test
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Best Use of Nodal CLI · Best Use of Qualcomm EdgeAI · MLH - Best Use of Arm
 - **Arm:** Sponsor use not stated on Devpost
@@ -94,14 +94,14 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 
 Increase your strength with cutting-edge computer vision and agentic AI.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
+No public code found · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adafruit, cloudflare, opencv, openserver, platformio, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZHPY_1P-ulU)
 - **All prizes at this hackathon (2):** Best Use of Nodal CLI · Best Use of Qualcomm EdgeAI
 - **Nodal:** Sponsor use not stated on Devpost
@@ -197,14 +197,14 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 
 StationScope turns a work address into a personalized, data-driven NYC housing guide—mapped stations, census insights, and a tailored AI report in minutes.
 
-No public code linked · Built with css, geocoding, google-maps, javascript
+No public code found · Built with css, geocoding, google-maps, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** css, geocoding, google-maps, javascript, json, mapquest, python, r, typescript, us-census-bureau
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Aristotle Challenge: Most Cutting-Edge AI Agent · Education
 - **Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
@@ -240,7 +240,7 @@ The team created On The Go Storyteller , an interactive reading platform that br
 - **Code:** [Source 1](https://github.com/KeiraJames/nyu-hacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Interactive Media Arts/Entertainment · MLH - Best Use of ElevenLabs
-- **How it used ElevenLabs:** Calls ElevenLabs text-to-speech to generate audio.
+- **How it used ElevenLabs:** Calls ElevenLabs for text-to-speech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -259,14 +259,14 @@ Also won this track: [NodalCLI](#project-hacknyu-v3nyx1), [Tuffr](#project-tuffr
 
 Building TorqIt was an intensive learning experience that spanned multiple domains:.
 
-No public code linked · Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
+No public code found · Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** adafruit-icm20948, arduino-uno-r3, cors, eslint, express.js, filtering)-&#42;&#42;matplotlib&#42;&#42;-data-visualization-and-plotting-##-hardware-&#42;&#42;arduino-uno-r3&#42;&#42;-microcontroller-&#42;&#42;adafruit-icm20948&#42;&#42;-9-dof-imu-sensors-(accelerometer, framer-motion, git, gyroscope, i2c, matplotlib, node.js, numpy, pandas, postcss, python, radix-ui, react, react-router, react-three-fiber, scipy, serialport, shadcn/ui, tailwind-css, three.js, typescript, vite, websocket
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Nodal CLI · Healthcare
 - **Nodal:** Sponsor use not stated on Devpost
@@ -286,14 +286,14 @@ No public code linked · Built with adafruit-icm20948, arduino-uno-r3, cors, esl
 
 Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you learn the language of the law.
 
-No public code linked · Built with openrouter, elevenlabs, react
+No public code found · Built with openrouter, elevenlabs, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** elevenlabs, openrouter, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Best AI Wrapper Hack · Best Use of OpenRouter · Education
 - **How it used OpenRouter:** The project uses GPT-5.1 via OpenRouter for PDF case extraction and to feed dynamic variables to ElevenLabs.
@@ -342,14 +342,14 @@ An edge-AI tutoring agent that listens in real time and guides you the moment co
 
 Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** axios, bcryptjs, built-with-##-languages-javascript, express.js, framer-motion, joblib-##-blockchain-solana-web3.js, jwt, meta-llama-3.2-3b-instruct, mongodb-##-databases-mongodb, mongodb-atlas, mongodb-atlas-##-apis-openrouter-api, numpy, pandas, python, react-18, recharts, render, scikit-learn, snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, socket.io, socket.io-client, solana-devnet-##-cloud-&amp;-hosting-vercel, solana-rpc, solana/spl-token, sql-##-frontend-next.js-14, tailwindcss, typescript, zustand-##-backend-node.js
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5qtlaak3W9Y)
 - **All prizes at this hackathon (2):** MLH - Best Use of Snowflake · Sustainability
 - **How it used Snowflake:** The team used Snowflake for data warehousing and analytics.

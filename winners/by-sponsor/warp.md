@@ -67,7 +67,7 @@ Work with untapped talents across language barriers.
 
 **Award:** Won “Best Developer Tool, sponsored by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
+No public code found · Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
 
 ### [InfraBlocks](https://devpost.com/software/infrablocks)
 
@@ -107,7 +107,7 @@ A planning tool turns a written software idea into an editable architecture grap
 
 **Award:** Won “Warp Challenge: Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
 
 ### [termiknow](https://devpost.com/software/termiknow)
 
@@ -115,7 +115,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D
 
 A terminal search tool runs user-defined commands against selected databases.
 
-**Warp:** Built with warp (listed on Devpost)
+**Warp · Listed on Devpost:** Built with warp (listed on Devpost)
 
 [Code](https://github.com/zhangLily2020/nwhacks2025) · Built with warp, chromadb, python, rich
 

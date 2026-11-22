@@ -43,9 +43,9 @@ Hate waiting on hold? kiru is a voice agent that actually calls companies, talks
 
 200K veterans transition out every year — most without real support. NextOp is a private AI coach that translates military careers into civilian résumés, benefits, and training.
 
-**Bright Data:** Built with brightdata (listed on Devpost)
+**Bright Data · Listed on Devpost:** Built with brightdata (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with brightdata, anthropic, anthropic-sdk, embedding
+No public code found · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with brightdata, anthropic, anthropic-sdk, embedding
 
 ### [Remy](https://devpost.com/software/remy-h9dbx1)
 
@@ -75,7 +75,7 @@ One iPhone walkthrough builds a complete listing. Renters speed-tour real homes 
 
 **How it used Bright Data:** The project uses the Web Scraper API and Web Unlocker from Bright Data to pull Zillow listings, price comps and listing photos.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
+No public code found · [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
 
 ## 2025 winners
 
@@ -97,7 +97,7 @@ Your post-purchase autopilot that automatically tracks online price changes and 
 
 **How it used Bright Data:** Web scraping is powered by Bright Data's Scraping Browser via Puppeteer Core, connecting to Bright Data's proxy network for reliable, anti-bot-detection browser automation.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=JZJVVK4-EEU) · Built with claude, react, typescript, vercel
+No public code found · [Demo video](https://www.youtube.com/watch?v=JZJVVK4-EEU) · Built with claude, react, typescript, vercel
 
 ### [Guardian: AI-powered Scam and Fraud Prevention](https://devpost.com/software/guardian-ai-powered-fraud-prevention-for-your-money)
 

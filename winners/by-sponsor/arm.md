@@ -25,7 +25,7 @@ HeliosAI uses a solar cell connected to an Arduino with light sensors and servo 
 
 **Arm:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
+No public code found · [Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
 
 ### [LongHorn Guide](https://devpost.com/software/cool-project-omanx6)
 
@@ -45,7 +45,7 @@ The team describes the project as “Nodal”.
 
 **Arm:** Sponsor use not stated on Devpost
 
-No public code linked · Built with test
+No public code found · Built with test
 
 ### [ProxyPay](https://devpost.com/software/proxypay-rutqac)
 

@@ -33,7 +33,7 @@ A tool to match companies to relevant climate actions. Embedding search to find 
 
 Adaptive Learning Content Generation for Students with Disabilities.
 
-**InterSystems:** Built with intersystems (listed on Devpost)
+**InterSystems · Listed on Devpost:** Built with intersystems (listed on Devpost)
 
 [Code](https://github.com/airjlee/superclassroom) · [Demo video](https://www.youtube.com/watch?v=2CCohCdx4zk) · Built with intersystems, iris, mistral, rag
 
@@ -57,7 +57,7 @@ It's a glasses addon that takes video and audio input to answer a blind person's
 
 **How it used InterSystems:** The team used Intersystems IRIS Vector Search to save and identify people.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
+No public code found · [Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
 
 ### [Therable](https://devpost.com/software/therable)
 

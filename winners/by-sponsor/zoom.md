@@ -65,7 +65,7 @@ FlowPilot listens, understands, and executes, transforming Zoom meetings into Sl
 
 HiveMind: Your Second Brain for Smarter Learning.
 
-**Award:** Won “Education Grand Prize ($1k Cash + Meta Ray Ban Smart Glasses x4 + Marine Layer Zoom Hoodie x4)” from Zoom. The write-up gives no details on how the team used the sponsor’s tech.
+**Award:** Won “Education Grand Prize” from Zoom. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/AahilAliCodes/Hivemind2) · [Demo video](https://www.youtube.com/watch?v=krXZVuJfAOQ) · Built with zoom, api, chromadb, flask
 

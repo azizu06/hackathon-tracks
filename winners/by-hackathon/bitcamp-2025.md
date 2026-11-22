@@ -55,7 +55,7 @@ Pick a track to jump to its winners on this page.
 - **Code:** [Source 1](https://github.com/holland-cw3/koalafied)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hJH72qWVECM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of .Tech
-- **How it used .Tech Domains:** The team links to koalafied.tech as its .tech project site.
+- **Linked resource from .Tech Domains:** The team links to koalafied.tech as its .tech project site.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -122,14 +122,14 @@ A virtual pet whose physical wellness depends on your financial wellness.
 
 "Smart Spending, Safer Shopping, Healthier Finances.".
 
-No public code linked · Built with beautiful-soup, gemini, javascript, mongodb
+No public code found · Built with beautiful-soup, gemini, javascript, mongodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** beautiful-soup, gemini, javascript, mongodb, python, react, selenium, tailwind
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Financial Hack - Capital One
 - **Award:** Won “Best Financial Hack - Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
@@ -176,14 +176,14 @@ Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 
 Experience contact tracing in this game (with AI, because why not).
 
-No public code linked · Built with cloudflare, css3, gemini, html5
+No public code found · Built with cloudflare, css3, gemini, html5
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** cloudflare, css3, gemini, html5, javascript, mongodb
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best AI Application Built with Cloudflare
 - **How it used Cloudflare:** The backend runs on Cloudflare Workers.
@@ -213,7 +213,7 @@ Fighting Drug Waste, Fueling Health Equity.
 - **Code:** [Source 1](https://github.com/arsh-goenka/MedSave)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of GenAI in Business - Cloudforce/Microsoft
-- **Cloudforce / Microsoft:** Built with terpai (listed on Devpost)
+- **Cloudforce / Microsoft · Listed on Devpost:** Built with terpai (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -249,14 +249,14 @@ Complex API management and integration, especially in dynamic, real-time scenari
 
 SkinForReal is a GenAI skincare app that uses daily selfies to detect skin issues, track product impact, and deliver personalized, real-time insights and safety alerts.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, vscode, faceai
+No public code found · [Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, vscode, faceai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** azure, cloudforce, faceai, flutter, terpai, vscode
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hbxiwaTTwiw)
 - **All prizes at this hackathon (1):** Best Use of GenAI in Business - Cloudforce/Microsoft
 - **How it used Cloudforce / Microsoft:** The project integrated the Microsoft Azure Face API to detect visible skin conditions from user selfies.
@@ -322,14 +322,14 @@ Jesture is a magical gesture-based drawing experience where your hands become th
 
 The team describes the project as “Speak worlds into reality”.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=HXS_7HzJmYo) · Built with gemini, google-gemini, google-web-speech-api, glsl
+No public code found · [Demo video](https://www.youtube.com/watch?v=HXS_7HzJmYo) · Built with gemini, google-gemini, google-web-speech-api, glsl
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** gemini, glsl, google-gemini, google-web-speech-api, graphics, next, react, tailwind, three.js, webgl
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HXS_7HzJmYo)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Gemini API · Prettiest Hack - Alumni Team
 - **How it used Google:** Gemini generates GLSL code from a speech-to-text prompt.

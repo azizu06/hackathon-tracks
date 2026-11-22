@@ -73,7 +73,7 @@ A software development tool compares solutions created by competing coding agent
 
 AxisGen turns one robot-task prompt into simulation-ready Physical AI prompts by varying lighting, placement, embodiment, and safety constraints, creating scalable, robust datasets before deployment.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
+No public code found · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
 
 ### [Backrooms](https://devpost.com/software/backrooms-h4o783)
 
@@ -145,7 +145,7 @@ FundingFlow uses AI to automatically discover funding programs from government w
 
 A party game uses group conversations to make plans for an in-person hangout.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
+No public code found · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
 
 ### [Luyten](https://devpost.com/software/cafoo)
 
@@ -185,7 +185,7 @@ fMRI-enhanced swarm simulations for prediction markets.
 
 200K veterans transition out every year — most without real support. NextOp is a private AI coach that translates military careers into civilian résumés, benefits, and training.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with brightdata, anthropic, anthropic-sdk, embedding
+No public code found · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with brightdata, anthropic, anthropic-sdk, embedding
 
 ### [Nudge](https://devpost.com/software/nudge-hcvxfq)
 
@@ -371,7 +371,7 @@ Automatically transforms bodycam footage into professional evidence reports usin
 
 Making expungement simple and accessible for all.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+No public code found · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 
 ### [Grindstone](https://devpost.com/software/grindstone)
 
@@ -395,7 +395,7 @@ Turning snapshots into spaces you can actually explore.
 
 Transforming Thoughts into Visual Expression - Empowering Minds Beyond Words.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9o) · Built with chromadb, google-cloud, langchain, luma-ai
+No public code found · [Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9o) · Built with chromadb, google-cloud, langchain, luma-ai
 
 ### [Trialytics](https://devpost.com/software/trialytics)
 
@@ -413,7 +413,7 @@ Turning tangled, time-consuming clinical trial data chaos into seamless, protoco
 
 Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay smart, and learn to protect your online world effortlessly.
 
-No public code linked · Built with charm.sh, go, ngrok, sqlite
+No public code found · Built with charm.sh, go, ngrok, sqlite
 
 ### [SuperMAN](https://devpost.com/software/superman-2wigou)
 

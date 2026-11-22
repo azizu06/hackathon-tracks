@@ -25,7 +25,7 @@ Vaccine OS is a full-stack neoantigen vaccine design platform.
 
 **Award:** Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with claude, next.js, postgresql, python
+No public code found · Built with claude, next.js, postgresql, python
 
 ## 2025 winners
 

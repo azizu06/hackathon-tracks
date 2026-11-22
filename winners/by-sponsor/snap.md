@@ -25,7 +25,7 @@ Compose electronic music just by wiggling your fingers, hand positions swapping 
 
 **How it used Snap:** The team used Lens Studio for instrument mapping logic.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=cohE1Eti1dU) · Built with snap
+No public code found · [Demo video](https://www.youtube.com/watch?v=cohE1Eti1dU) · Built with snap
 
 ### [SnapDance](https://devpost.com/software/snapdance)
 
@@ -45,7 +45,7 @@ Act it out. Guess it right.
 
 **How it used Snap:** The team built Split World in Lens Studio using its scripting framework and AR capabilities.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=c4J5046t_68) · Built with javascript, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=c4J5046t_68) · Built with javascript, typescript
 
 ## 2025 winners
 
@@ -127,7 +127,7 @@ AR glasses provide memory cues for people with Alzheimer's disease.
 
 **How it used Snap:** The project integrates its AI pipeline with Snap Spectacles using SnapAR and Lens Studio.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=1LMXyNN5t1U) · Built with lensstudio, snapar, spectacle, chatgpt
+No public code found · [Demo video](https://www.youtube.com/watch?v=1LMXyNN5t1U) · Built with lensstudio, snapar, spectacle, chatgpt
 
 ### [MobiLens](https://devpost.com/software/mobilens)
 
@@ -137,7 +137,7 @@ Your environment should work for you.
 
 **How it used Snap:** The team built MobiLens with Lens Studio for the Snap Spectacles.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=cnNKHDTOunw) · Built with lensstudio, ar, base44, fetch.ai
+No public code found · [Demo video](https://www.youtube.com/watch?v=cnNKHDTOunw) · Built with lensstudio, ar, base44, fetch.ai
 
 ### [Pulse](https://devpost.com/software/pulse-n06ij9)
 
@@ -177,7 +177,7 @@ A user wearing Snap Spectacles can point to steer a robot and gesture to operate
 
 **How it used Snap:** The project uses the Snap Lens Studio API to extract hand-tracking data and AR anchors.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with snap, fastapi, websocket
+No public code found · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with snap, fastapi, websocket
 
 ## 2024 winners
 
@@ -189,7 +189,7 @@ Welcome to the JARVIS for first responders.
 
 **How it used Snap:** The team built EYEdentity with facial recognition and tracking algorithms and Snap Spectacles.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
 
 ### [FirefightAR](https://devpost.com/software/firefightar)
 
@@ -209,7 +209,7 @@ Encouraging physical activity with an thrilling experience where individuals mus
 
 **How it used Snap:** The team built the project in Snapchat's Lens Studio using JavaScript and TypeScript.
 
-No public code linked · Built with lens-studio, javascript, typescript
+No public code found · Built with lens-studio, javascript, typescript
 
 ### [RecovARy](https://devpost.com/software/recovary)
 
@@ -229,7 +229,7 @@ The AR app reinvents the classic shuttle run by having users chase randomly spaw
 
 **How it used Snap:** The team used Snapchat’s Lens Studio to design the AR environment and UI.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=fIQ6sltKv1w) · Built with lensstudio, javascript, snapchat, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=fIQ6sltKv1w) · Built with lensstudio, javascript, snapchat, typescript
 
 ### [Snapchat AR Tower Defense](https://devpost.com/software/snapchat-ar-tower-defense)
 

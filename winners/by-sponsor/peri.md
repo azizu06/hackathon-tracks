@@ -35,7 +35,7 @@ Lightweight, AI-powered tools built for forward-deployed engineers to adapt and 
 
 **Award:** Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc) · Built with anthropic-api, claude, claude-code, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc) · Built with anthropic-api, claude, claude-code, fastapi
 
 ### [Restock](https://devpost.com/software/restock-v3pkq8)
 

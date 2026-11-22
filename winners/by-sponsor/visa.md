@@ -87,7 +87,7 @@ Tired of doing mental math and nudging someone who owes you money? Kasha is an A
 
 **How it used Visa:** The team used Visa APIs for merchant search, offers, transaction controls and foreign exchange rates.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0Hnd_ZntowM) · Built with visa-developer-apis, anthropic, claude-ai, express.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=0Hnd_ZntowM) · Built with visa-developer-apis, anthropic, claude-ai, express.js
 
 ### [TicketTrade AI](https://devpost.com/software/tickettrade-ai)
 

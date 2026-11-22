@@ -55,7 +55,7 @@ A mixture of agents expert running on cutting edge inference hardware, that in p
 
 Predict Elections Way Better With LLM Agents.
 
-**How it used Cerebras:** Uses the Cerebras API as the endpoint for its language model client.
+**How it used Cerebras:** Sets the Cerebras API base URL.
 
 [Code](https://github.com/SahraMohamad/Electra) · [Demo video](https://www.youtube.com/watch?v=c6X9n7o9Zjk) · Built with cerebras, css, d3.js, geojson
 
@@ -67,7 +67,7 @@ The app allows users to have on-demand check-ins with a chatbot.
 
 **How it used Cerebras:** The team used Cerebras for the chatbot to ensure fast and efficient inference.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
 
 ### [Optica](https://devpost.com/software/optica-gar7hw)
 

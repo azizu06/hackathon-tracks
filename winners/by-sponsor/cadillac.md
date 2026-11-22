@@ -25,7 +25,7 @@ It passively senses the alcohol levels in a vehicle using a gas sensor that can 
 
 **Cadillac:** Sponsor use not stated on Devpost
 
-No public code linked · Built with android-studio, arduino
+No public code found · Built with android-studio, arduino
 
 ### [OnTheWay](https://devpost.com/software/ontheway)
 
@@ -35,7 +35,7 @@ OnTheWay is an innovative P2P delivery system that harnesses the power of pre-ex
 
 **Award:** Won “Cadillac: Mobility as a Service” from Cadillac. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with android-studio, express.js, node.js
+No public code found · Built with android-studio, express.js, node.js
 
 ## Track names and requirements
 

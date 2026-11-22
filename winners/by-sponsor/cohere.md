@@ -35,7 +35,7 @@ Clip, save, and organize the exact moments that spark your ideas.
 
 **How it used Cohere:** Cohere's vision AI model generates video summaries and tags from extracted frames.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with cohere, amazon-web-services, css, figma
+No public code found · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with cohere, amazon-web-services, css, figma
 
 ### [Solshare](https://devpost.com/software/solshare-cmxous)
 
@@ -45,7 +45,7 @@ Splitting bills with friends is messy—receipts get lost, people forget to pay,
 
 **How it used Cohere:** The Cohere API handles receipt scanning and item parsing.
 
-No public code linked · Built with cohere, firebase, gcp, solana
+No public code found · Built with cohere, firebase, gcp, solana
 
 ## 2024 winners
 

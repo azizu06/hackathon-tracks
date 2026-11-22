@@ -85,7 +85,7 @@ Ever struggled in social settings? Not knowing what to say next.
 
 Real time translation from text to braille.
 
-**How it used Deepgram:** Opens a Deepgram WebSocket for text-to-speech.
+**How it used Deepgram:** Calls the Deepgram Speak WebSocket.
 
 [Code](https://github.com/rami-maalouf/text2dot) · Built with deepgram, cartesia, groq, hyperbolic
 

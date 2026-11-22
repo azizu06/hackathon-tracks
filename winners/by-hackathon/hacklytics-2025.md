@@ -55,7 +55,7 @@ By simply entering your phone number on the website, an AI Agent calls you and s
 - **Code:** [Source 1](https://github.com/ColeKaplan/phishybusiness)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LAumATWI2zE)
 - **All prizes at this hackathon (1):** MLH - Best .Tech Domain Name
-- **How it used .Tech Domains:** The team links to phishybusiness.tech as its .tech project site.
+- **Linked resource from .Tech Domains:** The team links to phishybusiness.tech as its .tech project site.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -99,14 +99,14 @@ CAMcogni consolidates a wide array of data sources—including camera feeds, IoT
 
 Introducing Caduceo, a Streamlit-based Chatbot for transparent healthcare cost estimate. Integrating MongoDB and Snowflake, it offers the user data on procedure costs, insurance and hospital ratings.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** azure-cv, llama, mongodb, python, snowflake, streamlit
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zAI_PrtBHB0)
 - **All prizes at this hackathon (1):** Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems
 - **Award:** Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
@@ -249,14 +249,14 @@ It gathers geospatial data from Google’s Geocoding API and Google’s Road API
 
 VisiFy: Storefront Selection with AI-Powered Visibility &amp; Insights.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w) · Built with a-frame, css, flask, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w) · Built with a-frame, css, flask, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** a-frame, css, flask, html, javascript, python, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=17Z1GmfzP0w)
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
 - **Award:** Won “GrowthFactor AI Impressions” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
@@ -340,7 +340,7 @@ Instantly distinguish genuine fouls from flops with video analysis through user 
 - **Code:** [Source 1](https://github.com/Arnav2610/streamlit_dive_detector)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q0bEOvrx4BA)
 - **All prizes at this hackathon (1):** MLH - Best Use of Streamlit
-- **How it used Streamlit:** Uses Streamlit to render the dive detector interface.
+- **Streamlit · Imported in code:** Imports Streamlit.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

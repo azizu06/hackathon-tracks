@@ -148,14 +148,14 @@ Gloves that turn your movements and voice into game controls, so instead of lear
 
 Providence unifies your devices and AI conversations through one superagent that carries context between tasks and coordinates work across devices simultaneously, all from a single interface.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
+No public code found · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cloudflare, codex, github, nginx, node.js, openai, react, swift, swiftui, three.js, typescript, vite, watchos, websockets, webxr
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Nec6JXXG9Cw)
 - **All prizes at this hackathon (1):** Aramco Americas: Best Beginner Hack
 - **Award:** Won “Aramco Americas: Best Beginner Hack” from Aramco. The write-up gives no details on how the team used the sponsor’s tech.
@@ -175,14 +175,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9C
 
 You can either describe a machine/robot you want to build, or you record a video of your workbench with all the hardware parts and machinery you have available to you.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
+No public code found · [Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** backboard, brush, codex, composio, elastic, gemini, openai, openjiuwen, python, rapier, react, rox, typescript, unity
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Hl7-T8QNkPY)
 - **All prizes at this hackathon (1):** Backboard.io: Built on Backboard
 - **How it used Backboard.io:** The project used Backboard for session context.
@@ -252,14 +252,14 @@ Dysarthric speech recovery, in your own voice.
 
 Pick up birdies and stack them autonomously.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_Y) · Built with bracketbot, python, pytorch, yolo
+No public code found · [Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_Y) · Built with bracketbot, python, pytorch, yolo
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bracketbot, python, pytorch, yolo
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4XYj7Ok1-_Y)
 - **All prizes at this hackathon (1):** Bracket Bot: Best Use of Bracket Bot Hardware
 - **How it used Bracket Bot:** The project uses an autonomous BracketBot robot to find, pick up, and stack badminton birdies.
@@ -275,14 +275,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_
 
 Version control for the physical world.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
+No public code found · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bracketbot, elasticsearch, fastapi, gaussian-splatting, git, google-cloud, javascript, mongodb, numpy, open3d, openai, opencv, opensplat, python, pytorch, raspberry-pi, react, sentry, tailscale, three.js, vercel, vla, webgl, websockets, yolo
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FEGR3mJmXMg)
 - **All prizes at this hackathon (1):** Bracket Bot: Best Use of Bracket Bot Hardware
 - **How it used Bracket Bot:** Bracket Bot's web app streams telemetry, camera frames and pose.
@@ -298,14 +298,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXM
 
 Introducing PrintDND , a robot that is able to autonomously clear the printers from their previous job and place the print down in a desired location.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
+No public code found · [Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bracketbot
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HfM9EMc2IQs)
 - **All prizes at this hackathon (1):** Bracket Bot: Best Use of Bracket Bot Hardware
 - **How it used Bracket Bot:** The team used hardware and software provided by BracketBot.
@@ -518,7 +518,7 @@ Automated system to tackle the Dominion Dynamics track.
 - **Code:** [Source 1](https://github.com/Ollienel777/HTN_DOGWATCH)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Dominion Dynamics: WHITEOUT
-- **How it used Dominion Dynamics:** Uses Dominion Dynamics' tracks API to post and retrieve simulated tracks.
+- **How it used Dominion Dynamics:** Uses a client for the Dominion Dynamics tracks API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -658,14 +658,14 @@ PawTrace is a missing-pet search platform that combines community sightings and 
 
 An AI copilot for air traffic controllers. It plans conflict-free routes, listens to the radio with a model tuned on real ATC audio, and catches wrong pilot readbacks before they become incidents.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
+No public code found · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** baseten, deck.gl, elasticsearch, elevenlabs, fastapi, huggingface, kibana, maplibre, nextjs, numpy, pydantic, python, pytorch, react, roberta, typescript, websockets, whisper
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kBiB2bNY1BI)
 - **All prizes at this hackathon (1):** MLH: Best Use of ElevenLabs
 - **How it used ElevenLabs:** The project uses ElevenLabs voices through a narrow-band radio filter for its AI pilots.
@@ -745,17 +745,17 @@ S.L.O.P. searches thousands of projects, companies and the web.
 
 A physical creative harness for agentic video creation.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=IDO7cJnBtp0) · Built with gemini, gemini-live, node.js, openai-codex
+No public code found · [Demo video](https://www.youtube.com/watch?v=IDO7cJnBtp0) · Built with gemini, gemini-live, node.js, openai-codex
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** gemini, gemini-live, node.js, openai-codex, react, three.js, typescript, zod
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IDO7cJnBtp0)
 - **All prizes at this hackathon (2):** Hack the North 2026: Finalists · MLH: Best Use of Gemini API
-- **Google:** Built with gemini (listed on Devpost)
+- **Google · Listed on Devpost:** Built with gemini (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -782,7 +782,7 @@ MedBot turns viral health claims into evidence-backed insights and shareable vid
 - **Code:** [Source 1](https://github.com/RayanMalki/medbot-htn2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=utDEHZVCYtU)
 - **All prizes at this hackathon (1):** GPTZero: Best Use of GPTZero API
-- **How it used GPTZero:** Checks whether the transcript could be AI-written with GPTZero when the service is available.
+- **How it used GPTZero:** Checks the transcript with GPTZero when available.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -828,7 +828,7 @@ Snitch helps recruiters spot suspicious moments in remote interviews by combinin
 - **Code:** [Source 1](https://github.com/amelialon/Snitch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Yi8CKzDzxrU)
 - **All prizes at this hackathon (1):** GPTZero: Best Use of GPTZero API
-- **How it used GPTZero:** Uses GPTZero to score interview text for the probability that it is AI-generated.
+- **How it used GPTZero:** Uses a GPTZero AI probability for text.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -974,7 +974,7 @@ The project consists of a main physical contribution to the LeLamp, along with m
 - **Code:** [Source 1](https://github.com/tessaSlice/lelamp-play-pack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Hx11IIzHZcw)
 - **All prizes at this hackathon (1):** Human Computer Lab: Build with LeLamp SDK
-- **How it used Human Computer Lab:** The tracker game calls the LeLamp runtime to change the lamp’s color and aim it at virtual fruit.
+- **How it used Human Computer Lab:** Uses a configurable LeLamp runtime URL.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -987,14 +987,14 @@ The project consists of a main physical contribution to the LeLamp, along with m
 
 Dynamic Visibility: The digital game world begins in pitch darkness.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=3Xcl9w1WM0U) · Built with codex, lelamp, python, unity
+No public code found · [Demo video](https://www.youtube.com/watch?v=3Xcl9w1WM0U) · Built with codex, lelamp, python, unity
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** codex, lelamp, python, unity
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3Xcl9w1WM0U)
 - **All prizes at this hackathon (1):** Human Computer Lab: Build with LeLamp SDK
 - **How it used Human Computer Lab:** Player 1 moves the LeLamp to cast a virtual spotlight on the screen.
@@ -1149,14 +1149,14 @@ Orbis turns an ordinary video into a 3D world you can explore.
 
 Inspired by Star Trek’s combadge and ship’s computer: a wearable AI communicator combining voice, vision, and actions. Just say, “Computer.”.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
+No public code found · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bluetooth, browserbase, btstack, c, codex, composio, conductive-fabric, conductive-thread, gmail, google-calendar, gpt-6-astra, graphql, mpr121, openai, python, qnx, raspberry-pi, shopify, turbojpeg, twilio, websockets
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZbD7XTCFx-I)
 - **All prizes at this hackathon (2):** Hack the North 2026: Finalists · QNX: Create an Embedded System with QNX that Uses AI
 - **How it used QNX:** QNX runs the embedded system.
@@ -1378,7 +1378,7 @@ Once enough keyframes have been extracted, the model samples up to 220 frames an
 - **Code:** [Source 1](https://github.com/akashngb/punching-face)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wWvFjsOJgjA)
 - **All prizes at this hackathon (2):** Hack the North 2026: Finalists · Sentry: Best Use of Sentry
-- **How it used Sentry:** Enables browser tracing with Sentry.
+- **How it used Sentry:** Calls the Sentry browser tracing integration.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1582,7 +1582,7 @@ But how does it know where the defects are.
 - **Code:** [Source 1](https://github.com/Georgeyy07/HackTheNorth2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MLH: Best Use of Tiger Data
-- **How it used Tiger Data:** Supports a Tiger Data connection URL for the sensor inference service's database.
+- **How it used Tiger Data:** Uses a Tiger Data URL for the database.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1609,7 +1609,7 @@ C. elegans (or the roundworm) was the first.
 - **Code:** [Source 1](https://github.com/MarcDasilva/flyVSworm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uWx6xYoPXUY)
 - **All prizes at this hackathon (1):** Unto Labs: Best Use of Thru
-- **How it used Unto Labs:** Queries on-chain state through Unto Labs’ Thru SDK.
+- **Unto Labs · Imported in code:** Imports createThruClient from the Thru SDK.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

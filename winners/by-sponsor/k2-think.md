@@ -21,7 +21,7 @@
 
 [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md#project-simulacra-o1bih5) · **Best Use of K2 Think V2**
 
-Burned $300 running a 100-agent swarm to launch Simulacra and headstart the future of generative social science, all in 24 hours.
+The team ran a 100-agent swarm to launch Simulacra for generative social science in 24 hours.
 
 **How it used K2 Think:** The project uses the K2-Think V2 model to power its generative agent pipeline.
 

@@ -33,7 +33,7 @@ An enhancement for white canes to help the blind navigate their surroundings wit
 
 A map that shows where the nearest natural disasters are located.
 
-**How it used IBM:** Uses IBM Watson Visual Recognition to classify flood images.
+**IBM · Imported in code:** Imports Watson Visual Recognition V3.
 
 [Code](https://github.com/tyl21938/crisisMap) · Built with amazon-web-services, google-cloud
 
@@ -43,7 +43,7 @@ A map that shows where the nearest natural disasters are located.
 
 Efficient and impactful supply chain management platform to prevent food waste with IoT smart containers and Machine Learning.
 
-**How it used IBM:** Uses IBM Watson Visual Recognition to classify uploaded images.
+**IBM · Imported in code:** Imports Watson Visual Recognition V3.
 
 [Code](https://github.com/lizzij/HackMIT) · Built with arduino, azure, azure-cosmos-db, flask
 
@@ -55,7 +55,7 @@ The web app allows a user to verify their identity to unlock a box storing all t
 
 **How it used IBM:** The team used IBM's node-red cloud platform to construct a node flow which utilizes IBM Watson's Visual Recognition service.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=R4zeNen51FQ) · Built with ibm-watson, javascript, node-red, raspberry-pi
+No public code found · [Demo video](https://www.youtube.com/watch?v=R4zeNen51FQ) · Built with ibm-watson, javascript, node-red, raspberry-pi
 
 ### [Water Crusader](https://devpost.com/software/water-crusader)
 
@@ -77,7 +77,7 @@ The project uses block chain technology to track donations, their contents, and 
 
 **IBM:** Sponsor use not stated on Devpost
 
-No public code linked · Built with hyperledger, node-red
+No public code found · Built with hyperledger, node-red
 
 ### [ResQ/MapMagic](https://devpost.com/software/disaster-rescue-github-io)
 
@@ -99,7 +99,7 @@ The product takes blurry images and makes them more readable.
 
 **How it used IBM:** The team used the IBM Watson library.
 
-No public code linked · Built with ibm, ibm-watson, bluemix, google-image-search
+No public code found · Built with ibm, ibm-watson, bluemix, google-image-search
 
 ## Track names and requirements
 

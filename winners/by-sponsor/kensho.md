@@ -25,7 +25,7 @@ Automatically benefit from the optimizations of many databases, while only worki
 
 **Award:** Won “Kensho Data Usability Challenge” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with azure, cosmos-db, druid, node.js
+No public code found · Built with azure, cosmos-db, druid, node.js
 
 ### [MPGreen](https://devpost.com/software/mpgreen)
 
@@ -81,7 +81,7 @@ The stock market is inherently volatile, and gaining even the slightest insight 
 
 **Award:** Won “Kenshō - Best Financial Data Hack” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with bloomberg, weather-underground, wolfram-technologies
+No public code found · Built with bloomberg, weather-underground, wolfram-technologies
 
 ## Track names and requirements
 

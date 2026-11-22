@@ -47,7 +47,7 @@ DIAL (&#42;) is an optimized customer service agent designed for data-heavy use 
 
 **Rox:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z0) · Built with duckdb, elevenlabs, express.js, ngrok
+No public code found · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z0) · Built with duckdb, elevenlabs, express.js, ngrok
 
 ### [Harmoniq](https://devpost.com/software/harmoniq-06o1e9)
 
@@ -95,7 +95,7 @@ Turning creators into data-driven businesses through the power of AI.
 
 Spielberg AI is an AI-powered video editor that allows creators to edit videos using only natural language.
 
-**Award:** Won “Rox: Best Agents Hack ($7k Cash)” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+**Award:** Won “Rox: Best Agents Hack” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/adeng27/treehacks-25) · [Demo video](https://www.youtube.com/watch?v=EWgFPhaG48E) · Built with cuda, elevenlabs, fastapi, ffmpeg
 

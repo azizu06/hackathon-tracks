@@ -23,7 +23,7 @@
 
 Competing to build a SOTA computer use agent (Cua + Hud + Ollama).
 
-**Cua:** Built with Cua (listed on Devpost)
+**Cua · Listed on Devpost:** Built with Cua (listed on Devpost)
 
 [Code](https://github.com/Ram-Raghav-S/cua) · Built with cua, hud, ollama
 

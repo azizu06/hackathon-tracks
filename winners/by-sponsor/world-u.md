@@ -35,7 +35,7 @@ Agent-powered hiring built for humans, using each applicant’s unique applicati
 
 **How it used World U:** The project can require a minimum World ID level to apply.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD4) · Built with express.js, gcp, gemini, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD4) · Built with express.js, gcp, gemini, node.js
 
 ### [startupOS](https://devpost.com/software/startupos)
 
@@ -45,7 +45,7 @@ Scale your business with faster authentic hiring and real outbound, not ai.
 
 **How it used World U:** The team integrated World/MiniKit for verified mini app login.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=baX5qnjcYcc) · Built with typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=baX5qnjcYcc) · Built with typescript
 
 ## Track names and requirements
 

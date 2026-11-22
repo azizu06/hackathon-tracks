@@ -35,7 +35,7 @@ In addition, the live scraping of academic databases and the future goals of scr
 
 **How it used Aryn:** The project uses the Aryn API to process PDFs and convert them to vector embeddings in Singlestore.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
+No public code found · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
 
 ### [Share Tome](https://devpost.com/software/share-tome)
 
@@ -45,7 +45,7 @@ Drag and drop, shareable and searchable vector databases.
 
 **How it used Aryn:** ShareTome is built with a Go backend, Next.JS Frontend, Aryn Sycamore for document parsing and uploading, and ElasticSearch as a vector store / search engine.
 
-No public code linked · Built with aryn, elasticsearch, go, next.js
+No public code found · Built with aryn, elasticsearch, go, next.js
 
 ## Track names and requirements
 

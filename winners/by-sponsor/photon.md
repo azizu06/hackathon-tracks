@@ -83,7 +83,7 @@ A disclosed AI call screener for an older adult: Nemotron proposes, Rust decides
 
 AI roommate that fairly manages shared finances in your group chat: splits bills by house rules, schedules payments around payday, and transfers funds after everyone agrees—without revealing balances.
 
-**Photon:** Built with photon (listed on Devpost)
+**Photon · Listed on Devpost:** Built with photon (listed on Devpost)
 
 [Code](https://github.com/jspinerola/house-rules) · [Demo video](https://www.youtube.com/watch?v=Quiicn_2FOc) · Built with photon, capital-one-nessie, cursor, fastapi
 
@@ -121,11 +121,11 @@ Personal agent for college students that lives in iMessage - text it your syllab
 
 [MHacks 2026](../by-hackathon/mhacks-2026.md#project-tab-groupchat-finances) · **Photon iMessage Agents Track Winner**
 
-Tab is a friend in your iMessage group chat who keeps track of shared expenses. Say "got pizza, $48" or snap a receipt; Tab splits it, nudges people, and settles up with one 👍.
+Tab tracks shared expenses in iMessage. It splits expenses from messages or receipts, nudges people, and settles up.
 
 **Photon:** Sponsor use not stated on Devpost
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4GrYcrm64tg) · Built with capital-one-nessie-api, github, github-actions, grok-(xai-api)
+No public code found · [Demo video](https://www.youtube.com/watch?v=4GrYcrm64tg) · Built with capital-one-nessie-api, github, github-actions, grok-(xai-api)
 
 ### [Titan](https://devpost.com/software/titan-vx59lz)
 

@@ -35,7 +35,7 @@ Clinical trials lose millions recruiting, while patients miss life-saving treatm
 
 **How it used FinchNode:** FinchNode's API connects patients' health records across providers.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
 
 ### [LifeLine](https://devpost.com/software/lifeline-nf86zy)
 

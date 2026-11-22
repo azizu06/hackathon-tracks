@@ -43,7 +43,7 @@ agentic peer review citation verification for research papers.
 
 Your guided path through regulatory complexity.
 
-**How it used Nous Research:** Uses a Hermes service to generate compliance reports.
+**Nous Research · Imported in code:** Imports get&#95;report from the Hermes service.
 
 [Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with beautiful-soup, docker, fastapi, framer-motion
 

@@ -37,7 +37,7 @@ Gaze organizes un-organized videos to help the user interpret and navigate visua
 
 **Award:** Won “Best Use of Emerging Technology (Disney)” from Disney. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked
+No public code found
 
 ## Track names and requirements
 

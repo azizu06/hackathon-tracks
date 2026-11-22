@@ -25,7 +25,7 @@ AxisGen turns one robot-task prompt into simulation-ready Physical AI prompts by
 
 **Award:** Won “Best Physical AI Hack by UFB” from UFB. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
+No public code found · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
 
 ### [Omniscient](https://devpost.com/software/ribbit-rtnfvg)
 

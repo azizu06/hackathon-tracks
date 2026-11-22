@@ -33,7 +33,7 @@ A wearable AI agent that detects patterns in elder patients to provide life-savi
 
 AI-powered 311 for non-emergencies. Voice-to-dispatch in less than a minute with multi-agent orchestration and ML-driven priority scoring.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
+No public code found · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
 
 ### [A hand for my aunt](https://devpost.com/software/a-hand-for-my-aunt)
 
@@ -73,7 +73,7 @@ Explore the world through an cinematic AI-guided journey — just speak, and the
 
 A talking bear turns the pediatric wait into intake: kids tell their side, parents answer separately in real time, and doctors walk in with one page showing where the stories differ.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=VBKAxZX6Gmc) · Built with cursor, get-tech, grok, grok-tts
+No public code found · [Demo video](https://www.youtube.com/watch?v=VBKAxZX6Gmc) · Built with cursor, get-tech, grok, grok-tts
 
 ### [Bellhop](https://devpost.com/software/bellhop-fkc7sn)
 
@@ -137,7 +137,7 @@ Cartify: Your AI voice assistant for personalized grocery lists and automated sh
 
 Inspired by Star Trek’s combadge and ship’s computer: a wearable AI communicator combining voice, vision, and actions. Just say, “Computer.”.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
+No public code found · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
 
 ### [DominIQ](https://devpost.com/software/dominiq)
 
@@ -153,7 +153,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
+No public code found · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 ### [Drigil](https://devpost.com/software/drigil)
 
@@ -201,7 +201,7 @@ GRIDPILOT: Your 3 a.m. on-call crew that fixes the data center and closes the bo
 
 A party game uses group conversations to make plans for an in-person hangout.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
+No public code found · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
 
 ### [hearsay&#95;hgt13](https://devpost.com/software/hearsay_hgt13)
 
@@ -353,7 +353,7 @@ A voice project helps people affected by cancer communicate using synthesized sp
 
 STING is AI anti-scam protection that protects elderly and naive users from phishing, fake stores, and risky sites in real time — stopping scams before money is lost and making scammers unprofitable.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YHRKJ472k7k) · Built with simular, simular-for-autonomous-qa-testing, anthropic, anthropic-claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=YHRKJ472k7k) · Built with simular, simular-for-autonomous-qa-testing, anthropic, anthropic-claude
 
 ### [Titan](https://devpost.com/software/titan-vx59lz)
 
@@ -419,7 +419,7 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 
 Introducing Caduceo, a Streamlit-based Chatbot for transparent healthcare cost estimate. Integrating MongoDB and Snowflake, it offers the user data on procedure costs, insurance and hospital ratings.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
 
 ### [CodeCrack](https://devpost.com/software/codecrack)
 
@@ -435,7 +435,7 @@ A voice interviewer asks practice coding questions and gives feedback on the ans
 
 Cryptobot is a humanoid robot that is FULLY voice-controlled.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
 
 ### [Gestura](https://devpost.com/software/gestura-9oaugq)
 
@@ -491,7 +491,7 @@ Item2Art — Save memories and culture in real objects.Turn any item into a livi
 
 A voice-controlled assistant reads the screen and operates desktop apps on the user's behalf.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2o) · Built with elevenlabs, claude, gemini, httpx
+No public code found · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2o) · Built with elevenlabs, claude, gemini, httpx
 
 ### [LeetCourt](https://devpost.com/software/leetcourt)
 
@@ -499,7 +499,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2
 
 Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you learn the language of the law.
 
-No public code linked · Built with openrouter, elevenlabs, react
+No public code found · Built with openrouter, elevenlabs, react
 
 ### [LingoBuddy](https://devpost.com/software/lingobuddy-fkj4g0)
 
@@ -611,7 +611,7 @@ Siri if it actually worked on your Mac.
 
 The team describes the project as “Speak worlds into reality”.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=HXS_7HzJmYo) · Built with gemini, google-gemini, google-web-speech-api, glsl
+No public code found · [Demo video](https://www.youtube.com/watch?v=HXS_7HzJmYo) · Built with gemini, google-gemini, google-web-speech-api, glsl
 
 ### [WiiWork](https://devpost.com/software/wiiwork-8u1x62)
 
@@ -627,7 +627,7 @@ WiiWork is a voice-controlled website designed for people and AI agents to use.
 
 Wildfires is a platform offering real-time wildfire updates with live data, interactive visuals, and an AI-powered chatbot for fire safety and prevention information.
 
-No public code linked · Built with streamlit, altair, openai, pydeck
+No public code found · Built with streamlit, altair, openai, pydeck
 
 ## 2024 winners
 
@@ -645,7 +645,7 @@ Empowering Founder and VC Discovery and with You and Your Voice.
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
-No public code linked · Built with c#, .net, apis, meta
+No public code found · Built with c#, .net, apis, meta
 
 ### [Companion](https://devpost.com/software/companion-43xfsi)
 
@@ -653,7 +653,7 @@ No public code linked · Built with c#, .net, apis, meta
 
 Companion is a voice-powered web AI agent that can autonomously execute web tasks based on user requests, made for seniors/people with disabilities who are unfamiliar with technology.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
+No public code found · [Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
 
 ### [ConvSim](https://devpost.com/software/convsim-npxtdj)
 
@@ -669,7 +669,7 @@ ConvSim is not just another chatbot or simulation tool – it's a window into a 
 
 Fivi is a AI Personal Trainer that breaks down traditional barriers to fitness. The intuitive UI and voice based command system will lead to more people than ever engaging in healthy home exercise.
 
-No public code linked · Built with flask, javascript, numpy, opencv
+No public code found · Built with flask, javascript, numpy, opencv
 
 ### [FRED](https://devpost.com/software/fred-bpszwn)
 
@@ -677,7 +677,7 @@ No public code linked · Built with flask, javascript, numpy, opencv
 
 FRED is a satellite-powered emergency response tool that allows users in remote areas to send GPS coordinates, images, and voice data to responders, ensuring help can be dispatched from anywhere.
 
-No public code linked · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
+No public code found · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
 
 ### [InvestIQ](https://devpost.com/software/investiq-1b0cio)
 
@@ -701,7 +701,7 @@ Now, learning is made interactive and engaging, more than ever.
 
 The app allows users to have on-demand check-ins with a chatbot.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
 
 ### [ParsePal](https://devpost.com/software/parsepal)
 
@@ -709,7 +709,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=uR7UlKGjse
 
 Search Made Simple: Ask questions, find answers – AI parses documents, chatbot delivers.
 
-No public code linked · Built with flask, github, gpt-4, neon
+No public code found · Built with flask, github, gpt-4, neon
 
 ### [PathSense](https://devpost.com/software/pathsense-athy2r)
 
@@ -725,7 +725,7 @@ Empowering Vision Through Voice. Revolutionizing indoor mobility with real-time,
 
 an AI platform that automates data entry from text and speech, anonymizes patient information, and delivers treatment recommendations, enhancing diagnostic accuracy for healthcare professionals.
 
-No public code linked · Built with cloudfare, flask, nextjs, openai-api
+No public code found · Built with cloudfare, flask, nextjs, openai-api
 
 ### [Repro-Health Companion Bot](https://devpost.com/software/repro-health-companion-bot)
 
@@ -829,7 +829,7 @@ An accessible Google StreetView for the visually impaired through visceral scene
 
 Find your dorm culture fit Harry Potter Style.
 
-No public code linked · Built with android, arduino, c++, hardware
+No public code found · Built with android, arduino, c++, hardware
 
 ## 2016 winners
 
@@ -849,6 +849,6 @@ AI-powered Chatbot which give you curated dating advice - while you're on your d
 
 Silkspeak is a realtime speech analysis application that helps people improve their speaking skills.
 
-No public code linked · Built with css, heroku, html5, javascript
+No public code found · Built with css, heroku, html5, javascript
 
 [Back to top](#voice-or-conversational-interface)

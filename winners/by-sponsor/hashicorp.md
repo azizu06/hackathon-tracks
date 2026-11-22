@@ -35,7 +35,7 @@ An all-in-one app for understanding medical documentation and tracking medicatio
 
 **How it used HashiCorp:** The project uses Terraform actions integrated with AWS to handle CI/CD.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
+No public code found · [Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
 
 ## 2024 winners
 

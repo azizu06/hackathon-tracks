@@ -35,7 +35,7 @@ You can either describe a machine/robot you want to build, or you record a video
 
 **How it used Backboard.io:** The project used Backboard for session context.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
+No public code found · [Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
 
 ## Track names and requirements
 

@@ -65,14 +65,14 @@ SunlightSavings is a sophisticated yet user-friendly tool that empowers users to
 
 Wildfires is a platform offering real-time wildfire updates with live data, interactive visuals, and an AI-powered chatbot for fire safety and prevention information.
 
-No public code linked · Built with streamlit, altair, openai, pydeck
+No public code found · Built with streamlit, altair, openai, pydeck
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** altair, openai, pydeck, python, streamlit
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Streamlit
 - **How it used Streamlit:** The team then used Streamlit to plot them onto a map.

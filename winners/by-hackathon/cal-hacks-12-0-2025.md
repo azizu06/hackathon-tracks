@@ -77,14 +77,14 @@ These projects won more than one prize here. Each one is listed once.
 
 DIAL (&#42;) is an optimized customer service agent designed for data-heavy use cases.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z0) · Built with duckdb, elevenlabs, express.js, ngrok
+No public code found · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z0) · Built with duckdb, elevenlabs, express.js, ngrok
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** duckdb, elevenlabs, express.js, ngrok, node.js, sql, twilio
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=32DSdO1V-z0)
 - **All prizes at this hackathon (3):** Conversion: Best Use of Conversion · Crater: Play-Do Prize · Rox: Best Use of Rox
 - **Conversion:** Sponsor use not stated on Devpost
@@ -247,14 +247,14 @@ Postman AI Agent Automation that transforms vague and slow product requirements 
 
 A user wearing Snap Spectacles can point to steer a robot and gesture to operate its gripper.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with snap, fastapi, websocket
+No public code found · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with snap, fastapi, websocket
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** fastapi, snap, websocket
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aqoKeFthpqQ)
 - **All prizes at this hackathon (2):** BitRobot Network: Best Robotics Hack - 3rd Place · Snap: Best Use of Snap Spectacles
 - **Award:** Won “BitRobot Network: Best Robotics Hack - 3rd Place” from BitRobot Network. The write-up gives no details on how the team used the sponsor’s tech.
@@ -310,14 +310,14 @@ Also won this track: [Argus](#project-argus-w6i0pv) (listed above)
 
 An eldercare assistant identifies changes in daily behavior and surfaces them to caregivers.
 
-No public code linked · Built with html5, java, javascript, python
+No public code found · Built with html5, java, javascript, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** html5, java, javascript, python, shell, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Claude: Best Use of Claude
 - **How it used Anthropic:** The project uses Claude for intent and sentiment analysis.
@@ -397,7 +397,7 @@ The system rethinks video compression by mirroring how the human eye perceives i
 - **Code:** [Source 1](https://github.com/k-kochhar/Salient)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bSFhoFY6hIY)
 - **All prizes at this hackathon (1):** BaseTen: Best Use of Open Source Models
-- **How it used Baseten:** Calls a Baseten saliency model to find focal points in video.
+- **How it used Baseten:** Calls the Baseten saliency model API to get focal points for video.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -489,14 +489,14 @@ ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn s
 
 Your post-purchase autopilot that automatically tracks online price changes and writes emails to give you refunds, returns, and savings.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=JZJVVK4-EEU) · Built with claude, react, typescript, vercel
+No public code found · [Demo video](https://www.youtube.com/watch?v=JZJVVK4-EEU) · Built with claude, react, typescript, vercel
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** claude, react, typescript, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JZJVVK4-EEU)
 - **All prizes at this hackathon (1):** The Bright Data: Best Use of Bright Data
 - **How it used Bright Data:** Web scraping is powered by Bright Data's Scraping Browser via Puppeteer Core, connecting to Bright Data's proxy network for reliable, anti-bot-detection browser automation.
@@ -603,7 +603,7 @@ You create a smart application form and share it anywhere — LinkedIn, Handshak
 - **Code:** [Source 1](https://github.com/asmikachare/githired-ch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bajCGzs3QBk)
 - **All prizes at this hackathon (1):** Composio: Best Use of Composio Toolrouter
-- **How it used Composio:** Links the user's GitHub account through Composio.
+- **How it used Composio:** Uses Composio to link connected accounts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -651,14 +651,14 @@ Also won this track: [Argus](#project-argus-w6i0pv) (listed above)
 
 Insight uses Meta Ray-Bans to record your every interaction, creating an AI clone of yourself that completely understands your virtual and physical relationships to streamline your work.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=fq3KNSE-kns) · Built with dlib, ffmpeg, mcp, opencv
+No public code found · [Demo video](https://www.youtube.com/watch?v=fq3KNSE-kns) · Built with dlib, ffmpeg, mcp, opencv
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** dlib, ffmpeg, mcp, opencv, pillow, postgress, pyannote, pyav, python, pytorch, smithery, typescript, whisper, wordware
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fq3KNSE-kns)
 - **All prizes at this hackathon (1):** Conway: Most Data-Intensive Application
 - **Award:** Won “Conway: Most Data-Intensive Application” from Conway. The write-up gives no details on how the team used the sponsor’s tech.
@@ -755,14 +755,14 @@ Also won this track: [CivitasX](#project-dhdhtfgh) (listed above)
 
 Upload ads, get clear scores, one-line reasons, and precise fixes—then a ranked Top 10 by platform/audience in minutes. AdSensei helps designers iterate fast and marketers scale winners.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
+No public code found · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** amazon-web-services, creaoai, lava, llm, node.js, render, s3
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DBU3ta6-2BA)
 - **All prizes at this hackathon (1):** Creao: Best MCP Integration
 - **How it used Creao:** The team used Creao.ai for the UI.
@@ -801,14 +801,14 @@ Talking to users early changed the entire direction.
 
 Stop hunting, start researching: AI that finds opportunities and opens doors.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aX6u9S8C7Co) · Built with creao.ai, alembic-(database-migrations), brightdatamcp, claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=aX6u9S8C7Co) · Built with creao.ai, alembic-(database-migrations), brightdatamcp, claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** alembic-(database-migrations), brightdatamcp, claude, composiotoolrouter, creao.ai, docker-(for-postgresql-with-pgvector), fastapi, javascript/react, openai-api-(embeddings-&amp;-text-generation), openai-embeddings-(text-embedding-3-large-or-similar), pydantic, python, python-dotenv, react, render, sql, sqlalchemy, tailwind-css, vite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aX6u9S8C7Co)
 - **All prizes at this hackathon (1):** Creao: Smartest AI agent prize
 - **How it used Creao:** The project uses Creao.ai to accelerate UI development and component generation.
@@ -928,17 +928,17 @@ Real-time stock market visualization application with AI-powered agent analysis.
 
 A voice-controlled assistant reads the screen and operates desktop apps on the user's behalf.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2o) · Built with elevenlabs, claude, gemini, httpx
+No public code found · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2o) · Built with elevenlabs, claude, gemini, httpx
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** claude, elevenlabs, gemini, httpx, openai, pillow(pil), pyautogui, pyobjc, pyperclip, pyscreeze, python, sounddevice, soundfile
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=u0eB0bQYs2o)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **ElevenLabs:** Built with elevenlabs (listed on Devpost)
+- **ElevenLabs · Listed on Devpost:** Built with elevenlabs (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -955,14 +955,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2
 
 Put your money where your goals are. Complete your commitments to earn it back, or watch it go to a cause you really don’t want to fund.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
+No public code found · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** blockchain, ethereum, next.js, reka
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Honorable Mention
 - **How it used Ethereum Foundation:** The project deploys Solidity smart contracts on Ethereum testnet using Hardhat.
@@ -978,14 +978,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXc
 
 MedChain: A blockchain-powered app for secure, verifiable prescriptions. Built on Base with smart contracts and IPFS to eliminate fraud and streamline doctor–pharmacist workflows.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** base, coinbase, html, javascript, react, reka, solidity, tailwind, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7xqTMnFAi6U)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Best App Built on Ethereum, or an Ethereum L2
 - **How it used Ethereum Foundation:** The project uses Wagmi and Viem for Ethereum interactions and its transaction lifecycle.
@@ -1001,17 +1001,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6
 
 Rebuilding donation trust through transparent giving.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
+No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** base, claude, erc-20, ethereum, ethers.js, express.js, hardhat, next.js, node.js, open-zeppelin, react, solidity, tailwind.css, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4rg1B0A5sAA)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Honorable Mention
-- **Ethereum Foundation:** Built with ethereum (listed on Devpost)
+- **Ethereum Foundation · Listed on Devpost:** Built with ethereum (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1024,14 +1024,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sA
 
 Interoporable Trust, bring your ratings everywhere you go.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns) · Built with canva, ethereum, figma, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns) · Built with canva, ethereum, figma, nextjs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** canva, ethereum, figma, nextjs
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lMsNXfb3Fns)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Honorable Mention
 - **How it used Ethereum Foundation:** The smart contract lives on the Ethereum Sepolia Testnet.
@@ -1076,14 +1076,14 @@ Agent Santa is a multi-agent system where personality-based agents connect, unde
 
 A coordination tool delegates emergency room tasks to agents responsible for beds, labs, and pharmacy.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YaeFUbzgQFc) · Built with uagent, claude, langchain, langgraph
+No public code found · [Demo video](https://www.youtube.com/watch?v=YaeFUbzgQFc) · Built with uagent, claude, langchain, langgraph
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claude, langchain, langgraph, python, uagent
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YaeFUbzgQFc)
 - **All prizes at this hackathon (1):** Fetch AI: Best Deployment of Agentverse
 - **How it used Fetch.ai:** The project uses Agentverse for cloud deployment.
@@ -1099,17 +1099,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=YaeFUbzgQF
 
 InterViewAR: Empathy-Driven Hiring Through ARHelping interviewers detect stress, tension, and burnout cues in real time and coach candidates toward calmer, fairer, and more human interviews.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=pU3Ep86LdjM) · Built with asi:one, augmented-reality, chroma, conversion.ai
+No public code found · [Demo video](https://www.youtube.com/watch?v=pU3Ep86LdjM) · Built with asi:one, augmented-reality, chroma, conversion.ai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** asi:one, augmented-reality, chroma, conversion.ai, groq, html, javascript, llama, python, react, three.js, whisper
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pU3Ep86LdjM)
 - **All prizes at this hackathon (1):** Fetch AI: Best Use of ASI:One
-- **Fetch.ai:** Built with asi:one (listed on Devpost)
+- **Fetch.ai · Listed on Devpost:** Built with asi:one (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1145,17 +1145,17 @@ The team describes the project as “From “I should” to “I did.”Our work
 
 Imagine your mouse pointer, but upgraded and with agentic capabilities.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ub4chFUHhtw) · Built with asi:one, fetch.ai, gemini, groq
+No public code found · [Demo video](https://www.youtube.com/watch?v=ub4chFUHhtw) · Built with asi:one, fetch.ai, gemini, groq
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** asi:one, fetch.ai, gemini, groq, python, react, rust, tauri, vite, yc
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ub4chFUHhtw)
 - **All prizes at this hackathon (1):** Fetch AI: Best Deployment of Agentverse
-- **Fetch.ai:** Built with asi:one (listed on Devpost)
+- **Fetch.ai · Listed on Devpost:** Built with asi:one (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1172,17 +1172,17 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ub4chFUHht
 
 A charming game about persuading fish to get out of the pond :).
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** audio, fish, fishaudio, gemini, godot
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P2L0ae516pY)
 - **All prizes at this hackathon (1):** fish.audio: Best use of Fish Audio
-- **How it used fish.audio:** The team uses Fish Audio to make the fish say the generated response.
+- **How it used fish.audio:** The project uses Gemini to generate a response for the fish and then uses Fish Audio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1290,7 +1290,7 @@ Multiplayer Agentic AI NPCs with shared conversational memory across all players
 - **Code:** [Source 1](https://github.com/iOliver678/calhacks12)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2yZ_ZxMO7cY)
 - **All prizes at this hackathon (1):** JanitorAI: Most Functional, Novel, and Fun Project
-- **How it used JanitorAI:** Requests language model completions through the JanitorAI hackathon API.
+- **How it used JanitorAI:** Sets the JanitorAI hackathon completions endpoint.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1330,14 +1330,14 @@ You thought you were off to enjoy a fun, exciting dating show experience... but 
 
 Autonomous AI marketplace for agents: save time, money, and trees by working with specialized SLMs on Agora &gt; GPT or any large transformer model. Uses Claude, Lava, SUI, and more for agent comms.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lu_9YbU01pY) · Built with css, javascript, move, plpg
+No public code found · [Demo video](https://www.youtube.com/watch?v=lu_9YbU01pY) · Built with css, javascript, move, plpg
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, javascript, move, plpg, shell, sql, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lu_9YbU01pY)
 - **All prizes at this hackathon (1):** Lava: Best Use of Lava Gateway
 - **How it used Lava:** The project uses Lava for cost calculation and usage tracking.
@@ -1403,14 +1403,14 @@ Real-time conversation assistant with AI-powered response suggestions and emotio
 
 Clanker Town is a simulation / web-browser video game which lets player enter the town filled with other autonomous AI agents communicating between each other, gathering resources and trading.
 
-No public code linked · Built with letta, elastic-search, mcp, move
+No public code found · Built with letta, elastic-search, mcp, move
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** elastic-search, letta, mcp, move, react, sui, ts
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Letta: Honorable Mention
 - **How it used Letta:** The project uses Letta for memory blocks.
@@ -1449,14 +1449,14 @@ evolve coding agents through pvp and reinforcement on web3.
 
 An AI-powered Web IDE where you can vibe code with your team and share context effortlessly in real time.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=WtCWy65nESM) · Built with letta, claude, coderabbit, elasticsearch
+No public code found · [Demo video](https://www.youtube.com/watch?v=WtCWy65nESM) · Built with letta, claude, coderabbit, elasticsearch
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** claude, coderabbit, elasticsearch, letta, python, react
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WtCWy65nESM)
 - **All prizes at this hackathon (1):** Letta: Honorable Mention
 - **How it used Letta:** The project uses Letta to store team memory and answer context queries.
@@ -1599,14 +1599,14 @@ Analyzes crypto portfolios and generates smart liquidation strategies based on r
 
 Cryptobot is a humanoid robot that is FULLY voice-controlled.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** c++, conversion, next.js, openai, postman, python, sui, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Ag8dQyVADrI)
 - **All prizes at this hackathon (1):** Postman
 - **How it used Postman:** The team used Postman to call functions.
@@ -1626,14 +1626,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADr
 
 Making expungement simple and accessible for all.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+No public code found · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** chromadb, fastapi, google-gemini-api, httpx, lang-chain, live-kit-sdk, next.js, open-ai-gpt-4-api, pydantic, python, tailwindcss, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SS9HQw-BFXU)
 - **All prizes at this hackathon (2):** Cal Hacks: Greatest Social Impact · Promise: Public Impact Prize (sponsored by Promise)
 - **Award:** Won “Promise: Public Impact Prize (sponsored by Promise)” from Promise. The write-up gives no details on how the team used the sponsor’s tech.
@@ -1728,14 +1728,14 @@ Turn research papers into living knowledge graphs. Agentic AI finds papers, buil
 
 Using agentic AI to reinvent compliance.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=SdEoVMPPPDg) · Built with fastapi, gemini, html, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=SdEoVMPPPDg) · Built with fastapi, gemini, html, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** fastapi, gemini, html, javascript, python, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SdEoVMPPPDg)
 - **All prizes at this hackathon (1):** Regeneron: Honorable Mention
 - **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
@@ -1751,14 +1751,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=SdEoVMPPPD
 
 MIFY is an all-in-one patient recruitment platform that leverages generative AI to streamline the clinical trial pipeline for both patients and researchers.
 
-No public code linked · Built with amazon-web-services, api, chroma, claude
+No public code found · Built with amazon-web-services, api, chroma, claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-web-services, api, chroma, claude, fetch.ai, gcp, ngrok, postman, python, treehouse, vapi
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Regeneron: Honorable Mention
 - **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
@@ -1820,14 +1820,14 @@ Rescue failed clinical trials by discovering hidden responder subgroups using AI
 
 The architecture is based off of deep generative models such as GAIN and conditional GANs to impute missing clinical data while preserving correlation and variance.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k) · Built with numpy, pandas, python, tensorflow
+No public code found · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k) · Built with numpy, pandas, python, tensorflow
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** numpy, pandas, python, tensorflow
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3lCcMqWGx2k)
 - **All prizes at this hackathon (1):** Regeneron: Honorable Mention
 - **Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
@@ -1843,14 +1843,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2
 
 40% of patients drop out of clinical trials before completion, and scheduling friction drives a large share of attrition.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** creao, google-calendar-api, google-gmail-oauth, react, tailwindcss, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cCJElQkixLE)
 - **All prizes at this hackathon (1):** Regeneron: Runner-Up
 - **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
@@ -1866,14 +1866,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=cCJElQkixL
 
 TrialGuideAI uses AI to distill dense clinical trial protocols into accessible summaries, infographics, and videos that empower patients to understand studies and their broader impact on science.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY) · Built with css, gemini, git, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY) · Built with css, gemini, git, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** css, gemini, git, html, javascript, json, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GWE_4Eq-oaY)
 - **All prizes at this hackathon (1):** Regeneron: Runner-Up
 - **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
@@ -1995,7 +1995,7 @@ Mantis provides real time threat detection to help retail businesses identify an
 - **Code:** [Source 1](https://github.com/oviozz/mantis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JJ5pMXaB2X4)
 - **All prizes at this hackathon (1):** Reka: Best Use of Reka
-- **How it used Reka:** Uploads footage to Reka's vision API for analysis.
+- **How it used Reka:** Uses Reka’s video upload API URL.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2037,14 +2037,14 @@ Also won this track: [CivitasX](#project-dhdhtfgh) (listed above)
 
 Making SMB lending transparent and efficient with on-chain loan tracking on the XRP Ledger.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=6GD9fiZIC9I) · Built with ripple, auth0, fastapi, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=6GD9fiZIC9I) · Built with ripple, auth0, fastapi, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** auth0, fastapi, python, ripple, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6GD9fiZIC9I)
 - **All prizes at this hackathon (1):** Ripple: Best Use of XRP Ledger
 - **How it used Ripple:** LendX is a full-stack decentralized lending marketplace built on the XRP Ledger that connects lenders and borrowers through peer-to-peer transactions.
@@ -2060,14 +2060,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=6GD9fiZIC9
 
 A decentralized peer-to-peer lending platform built on the XRP Ledger (XRPL), enabling university students and individuals to lend and borrow funds with transparent, blockchain-backed transactions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with xrpl, blockchain, firebase, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with xrpl, blockchain, firebase, nextjs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** blockchain, firebase, nextjs, xrpl
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=i8pdWnesvh0)
 - **All prizes at this hackathon (1):** Ripple: Best Use of XRP Ledger
 - **How it used Ripple:** PeerFund is a peer-to-peer lending platform built on the XRP Ledger.
@@ -2083,14 +2083,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh
 
 XRPower is a prediction-based rewards platform built on the XRP Ledger.
 
-No public code linked · Built with ripple, node.js, react, web3
+No public code found · Built with ripple, node.js, react, web3
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** node.js, react, ripple, web3
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Ripple: Best Use of XRP Ledger
 - **How it used Ripple:** XRPower is a prediction-based rewards platform built on the XRP Ledger.
@@ -2187,14 +2187,14 @@ Smart glasses let clinicians call up visual information with voice commands.
 
 AR glasses provide memory cues for people with Alzheimer's disease.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=1LMXyNN5t1U) · Built with lensstudio, snapar, spectacle, chatgpt
+No public code found · [Demo video](https://www.youtube.com/watch?v=1LMXyNN5t1U) · Built with lensstudio, snapar, spectacle, chatgpt
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** chatgpt, chromadb, fastapi, gemini, lensstudio, livekit, llama, pokemcp, postman, python, react, reka, snapar, spectacle, typescript, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1LMXyNN5t1U)
 - **All prizes at this hackathon (1):** Snap: Best Use of Snap Spectacles
 - **How it used Snap:** The project integrates its AI pipeline with Snap Spectacles using SnapAR and Lens Studio.
@@ -2247,14 +2247,14 @@ Also won this track: [Relay](#project-https-youtu-be-dqw4w9wgxcq) (listed above)
 
 Time is money: literally. Sell your day away in 15-minute blocks.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=t7M319EIn4k) · Built with sui, ai, chromadb, claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=t7M319EIn4k) · Built with sui, ai, chromadb, claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ai, chromadb, claude, livekit, next.js, sui
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=t7M319EIn4k)
 - **All prizes at this hackathon (1):** Sui: Best Use of Sui
 - **How it used Sui:** Bidders place bids on time slots using Sui blockchain NFT auctions.
@@ -2270,14 +2270,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=t7M319EIn4
 
 Movement is the disruptive blockchain crowdfunding platform - no fees, no middlemen. Every contribution is direct, transparent, and secure, giving real-world peace of mind to backers and creators.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=QtNbxY7WupE) · Built with sui, css, move, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=QtNbxY7WupE) · Built with sui, css, move, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, move, next.js, sui, tailwind
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QtNbxY7WupE)
 - **All prizes at this hackathon (1):** Sui: Best Use of Sui
 - **How it used Sui:** The team used the SUI stack for blockchain integration.
@@ -2314,7 +2314,7 @@ Decentralizing how humans communicate using SUI.
 
 [Sui](../by-sponsor/sui.md) · **Best Use of Sui**
 
-Do you have a laptop? You're potentially losing on making at least $10/day side income with Shard.
+Shard lets laptop owners earn side income by sharing spare computing power.
 
 [Code](https://github.com/atharvalade/Shard) · [Demo video](https://www.youtube.com/watch?v=umudwop1TdY) · Built with swift, typescript
 
@@ -2391,14 +2391,14 @@ AI-powered discharge coordination connecting hospitals, shelters, and social wor
 
 Practice sales calls with AI prospects. Get real-time coaching and detailed performance insights.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMIY) · Built with vapi, chromadb, claude, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMIY) · Built with vapi, chromadb, claude, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** chromadb, claude, gemini, next.js, python, vapi
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YVRF7clpMIY)
 - **All prizes at this hackathon (1):** Vapi: Best Use of Vapi
 - **How it used Vapi:** The team integrated Vapi to handle the voice pipeline.
@@ -2418,14 +2418,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMI
 
 Tired of doing mental math and nudging someone who owes you money? Kasha is an AI chat bot that tracks real time spending, auto-split charges with friends, and sends personalized reminders.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=0Hnd_ZntowM) · Built with visa-developer-apis, anthropic, claude-ai, express.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=0Hnd_ZntowM) · Built with visa-developer-apis, anthropic, claude-ai, express.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** anthropic, claude-ai, express.js, fintech, janitorai, leaflet.js, node.js, postgresql, react, socket-io, supabase, typescript, visa-developer-apis
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0Hnd_ZntowM)
 - **All prizes at this hackathon (1):** Visa
 - **How it used Visa:** The team used Visa APIs for merchant search, offers, transaction controls and foreign exchange rates.
@@ -2526,14 +2526,14 @@ Presenting Brydge: the AI orchestration platform that turns scattered engineerin
 
 Krates is the DevOps engineer you need before you can afford to hire one—AI that automates Docker and Kubernetes for early-stage teams.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2og) · Built with anthropic-claude-api, docker, electron, electronjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2og) · Built with anthropic-claude-api, docker, electron, electronjs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** anthropic-claude-api, docker, electron, electronjs, express.js, fastapi, flask, javascript/typescript, kubernetes, next.js, node.js, python3.11
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aWgkmn3V2og)
 - **All prizes at this hackathon (1):** Y Combinator: Build an Iconic YC Company - 1st Place
 - **Award:** Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.

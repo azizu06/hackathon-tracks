@@ -23,7 +23,7 @@
 
 CodeInsight is an interactive tool that analyzes a codebase to generate a dynamic visualization of function dependencies.
 
-**Award:** Won “Codegen: Best Code Analysis Application ($1.5k Cash)” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
+**Award:** Won “Codegen: Best Code Analysis Application” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/evanng07/CodeInsight) · [Demo video](https://www.youtube.com/watch?v=AWrk2P0Nsgg) · Built with flask, groq, html, javascript
 
@@ -43,7 +43,7 @@ Agentic routing at scale for 66x cheaper and 4x faster — Powering the Agentic 
 
 It’s incredibly difficult to just pick a few, but here are the major takeaways.
 
-**Award:** Won “Codegen: Best Developer Tool ($1.5k Cash)” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
+**Award:** Won “Codegen: Best Developer Tool” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/phombal/swarm-backend-new) · [Demo video](https://www.youtube.com/watch?v=IMKAHnOzx9E) · Built with fastapi, javascript, next.js, openai
 

@@ -25,7 +25,7 @@ AiTC is transforming the aviation industry by automating ATC radio calls and pro
 
 **Award:** Won “The House Fund: "Cal" Track” from The House Fund. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with ai, python, reflex, vapi
+No public code found · Built with ai, python, reflex, vapi
 
 ### [Ducky.AI](https://devpost.com/software/ducky-ai)
 
@@ -45,7 +45,7 @@ EduGap enhances the AI models Students can use by automating the integration of 
 
 **Award:** Won “The House Fund: "Cal" Track” from The House Fund. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with api, chroma, chromadb, chrome
+No public code found · Built with api, chroma, chromadb, chrome
 
 ## Track names and requirements
 

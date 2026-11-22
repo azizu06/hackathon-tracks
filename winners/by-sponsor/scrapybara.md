@@ -23,7 +23,7 @@
 
 Your mom knows you better than you do.
 
-**How it used Scrapybara:** Uses Scrapybara to run a cloud computer for the yoga booking task.
+**Scrapybara · Imported in code:** Imports Scrapybara.
 
 [Code](https://github.com/MingkuanY/ai-mommy) · [Demo video](https://www.youtube.com/watch?v=eehiiErNsOM) · Built with next.js
 

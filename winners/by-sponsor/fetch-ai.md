@@ -85,7 +85,7 @@ A caregiver assistant coordinates appointments, calendar updates, and over-the-c
 
 **How it used Fetch.ai:** The project uses Fetch.ai uAgents for its agent runtime and messaging.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
+No public code found · [Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
 
 ### [Conjure](https://devpost.com/software/conjure-m960jz)
 
@@ -185,7 +185,7 @@ A multi agent AI tool for fire fighters.
 
 **How it used Fetch.ai:** ASI:One parses the free-text call and writes the briefing.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=aVl0IdfeYtE) · Built with fetchai, arize, aura, browserbase
+No public code found · [Demo video](https://www.youtube.com/watch?v=aVl0IdfeYtE) · Built with fetchai, arize, aura, browserbase
 
 ### [Fish Market](https://devpost.com/software/fish-market-of6te2)
 
@@ -225,7 +225,7 @@ A building safety prototype combines live sensors, evacuation planning, and oper
 
 **How it used Fetch.ai:** All seventeen agents are registered on Agentverse, with a public ASI:One session that answers questions about a live incident.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with agentverse, asi-one, fetch.ai, anthropic
+No public code found · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with agentverse, asi-one, fetch.ai, anthropic
 
 ### [Homie](https://devpost.com/software/homie-1d28pr)
 
@@ -255,7 +255,7 @@ Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents fi
 
 **How it used Fetch.ai:** Hospital staff communicate in plain English using ASI:One and the uAgents Chat Protocol.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
+No public code found · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
 
 ### [Mark8 - Go-To-Market World Model](https://devpost.com/software/mark8-go-to-market-world-model)
 
@@ -447,7 +447,7 @@ Find, Fix, and Deploy Mobile Bug Fixes - Autonomously, in Minutes.
 
 **How it used Fetch.ai:** Alto uses Fetch.ai’s uAgents framework and Agentverse for agent management.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=qFEYKyMW6tA) · Built with uagents, asi-1, flask, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=qFEYKyMW6tA) · Built with uagents, asi-1, flask, gemini
 
 ### [Bazaar - AI Agent Marketplace (Fetch.ai)](https://devpost.com/software/bazaar-ai-agent-marketplace-fetch-ai)
 
@@ -477,7 +477,7 @@ A coordination tool delegates emergency room tasks to agents responsible for bed
 
 **How it used Fetch.ai:** The project uses Agentverse for cloud deployment.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=YaeFUbzgQFc) · Built with uagent, claude, langchain, langgraph
+No public code found · [Demo video](https://www.youtube.com/watch?v=YaeFUbzgQFc) · Built with uagent, claude, langchain, langgraph
 
 ### [Fynd](https://devpost.com/software/fynd-myi2jc)
 
@@ -487,7 +487,7 @@ AI-Powered Curation : Agentic AIs crawl multiple e-commerce platforms to gather 
 
 **How it used Fetch.ai:** The project uses Fetch.ai agents for data crawling and recommendations.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=1aWK25E4rro) · Built with fetchai, butterfly, dain, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=1aWK25E4rro) · Built with fetchai, butterfly, dain, gemini
 
 ### [Haven](https://devpost.com/software/haven-536r1q)
 
@@ -505,9 +505,9 @@ A hospital coordination dashboard combines record data, nursing alerts, and pati
 
 InterViewAR: Empathy-Driven Hiring Through ARHelping interviewers detect stress, tension, and burnout cues in real time and coach candidates toward calmer, fairer, and more human interviews.
 
-**Fetch.ai:** Built with asi:one (listed on Devpost)
+**Fetch.ai · Listed on Devpost:** Built with asi:one (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=pU3Ep86LdjM) · Built with asi:one, augmented-reality, chroma, conversion.ai
+No public code found · [Demo video](https://www.youtube.com/watch?v=pU3Ep86LdjM) · Built with asi:one, augmented-reality, chroma, conversion.ai
 
 ### [Lumos](https://devpost.com/software/lumos-f8h0mn)
 
@@ -527,7 +527,7 @@ Your environment should work for you.
 
 **How it used Fetch.ai:** A Fetch.ai agent helps Snap Spectacle users navigate accessible indoor and outdoor routes.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=cnNKHDTOunw) · Built with fetch.ai, ar, base44, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=cnNKHDTOunw) · Built with fetch.ai, ar, base44, javascript
 
 ### [Orbit](https://devpost.com/software/orbit-n97hqz)
 
@@ -545,9 +545,9 @@ The team describes the project as “From “I should” to “I did.”Our work
 
 Imagine your mouse pointer, but upgraded and with agentic capabilities.
 
-**Fetch.ai:** Built with asi:one (listed on Devpost)
+**Fetch.ai · Listed on Devpost:** Built with asi:one (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=ub4chFUHhtw) · Built with asi:one, fetch.ai, gemini, groq
+No public code found · [Demo video](https://www.youtube.com/watch?v=ub4chFUHhtw) · Built with asi:one, fetch.ai, gemini, groq
 
 ### [StartNOW](https://devpost.com/software/startnow)
 
@@ -609,7 +609,7 @@ A travel planner suggests destinations and builds itineraries from user preferen
 
 **How it used Fetch.ai:** The team used Fetch AI to facilitate conversations and communication between its agents.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=anM8nKAcNgM) · Built with css, google-calendar, google-maps, javascript
+No public code found · [Demo video](https://www.youtube.com/watch?v=anM8nKAcNgM) · Built with css, google-calendar, google-maps, javascript
 
 ### [INFERmary](https://devpost.com/software/infermary)
 
@@ -619,7 +619,7 @@ Simulating virtual cities to outsmart viral outbreaks.
 
 **How it used Fetch.ai:** Individual Fetch.ai agents control their own lives and communicate with each other.
 
-No public code linked · Built with fast, fetch, groq, mapbox
+No public code found · Built with fast, fetch, groq, mapbox
 
 ### [Lecture Agent](https://devpost.com/software/lecture-agent)
 
@@ -667,7 +667,7 @@ A one-of-a-kind, AR assistant medical system is made to guide first emergency fi
 
 An augmented reality tool guides stroke survivors through physical therapy exercises.
 
-**How it used Fetch.ai:** Runs a reaction-time recovery agent using Fetch.ai's uAgents framework.
+**Fetch.ai · Imported in code:** Imports Agent and Bureau from uAgents.
 
 [Code](https://github.com/ppilli1/RecovARy) · Built with fetch.ai, groq, lensstudio, react
 

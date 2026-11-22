@@ -97,14 +97,14 @@ Staying updated with tech news is crucial. When looking at news sites, articles 
 
 The project is an innovative AI-powered web app designed to reduce vehicle carbon emissions, addressing transportation's significant impact on greenhouse gas emissions.
 
-No public code linked · Built with cloudflare, ai, amazon-web-services, databricks
+No public code found · Built with cloudflare, ai, amazon-web-services, databricks
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ai, amazon-web-services, cloudflare, databricks, jupyter, machine-learning, next.js, node.js, tailwind, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
 - **How it used Cloudflare:** FleetPulse is hosted on Cloudflare.
@@ -190,7 +190,7 @@ Introducing PrimeTime—an advanced productivity app that uses AI to track engag
 - **Code:** [Source 1](https://github.com/HackTX-2024-RAAA/PrimeTime)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Intel AI
-- **How it used Intel:** Uses Intel's LLaVA-Gemma 2B checkpoint in the activity classifier.
+- **How it used Intel:** Uses Intel’s LLaVA-Gemma 2B checkpoint.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -232,14 +232,14 @@ Also won this track: [ANGEL'S PROTECTION](#project-angel-s-protection) (listed a
 
 It's a glasses addon that takes video and audio input to answer a blind person's questions about the surrounding area.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
+No public code found · [Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** arduino, c/c++, flash, gradio, grok, intersystems, moondream, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-vkagQDbMck)
 - **All prizes at this hackathon (1):** Best use of GenAI using InterSystems IRIS Vector Search
 - **How it used InterSystems:** The team used Intersystems IRIS Vector Search to save and identify people.

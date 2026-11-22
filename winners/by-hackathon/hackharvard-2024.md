@@ -137,7 +137,7 @@ A platform to minimize carbon footprint by encouraging users to reduce their dai
 - **Code:** [Source 1](https://github.com/Jshot117/HackHarvard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Defang
-- **How it used Defang:** The dashboard posts user information to its Defang-hosted backend.
+- **How it used Defang:** Posts to the Defang user info URL.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -258,14 +258,14 @@ Your personal prescription and medical symptom tracking companion.
 
 CognitiveKeyboard is an alternative Android keyboard that updates a user’s typing statistics every 30 seconds.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
+No public code found · [Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adb, android-studio, github, java, linode, mongodb, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dRKB-PcvrnU)
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
 - **Award:** Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
@@ -281,14 +281,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=dRKB-Pcvrn
 
 SimplySign aims to make ASL more accessible and bring people together, whether by facilitating communication between patients and healthcare providers, or simply giving students a tool to practice.
 
-No public code linked · Built with css, github, html, javascript
+No public code found · Built with css, github, html, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** css, github, html, javascript, mediapipe, opencv, python, pytorch, signlanguagemnistdataset, tensorflow.js, ultralytics-yolo, visual-studio-code, visualstudiocode, yolov8
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
 - **Award:** Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.

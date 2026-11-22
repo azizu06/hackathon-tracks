@@ -23,7 +23,7 @@
 
 - Allow and encourage players to use technology in the game- Discourages cheating on other playing websites. - Collects data on technology and enables players to make the best solvers possible.
 
-**Wolfram:** Built with wolfram-technologies (listed on Devpost)
+**Wolfram · Listed on Devpost:** Built with wolfram-technologies (listed on Devpost)
 
 [Code](https://github.com/npastrami/IntelligentPokerLeague) · [Demo video](https://www.youtube.com/watch?v=mRHBn9dJj4c) · Built with wolfram-technologies, django, git, github
 
@@ -57,7 +57,7 @@ A wearable headphone that dynamically adapts audio for individuals with autism, 
 
 **Award:** Won “The Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=6jjXlH3dni0) · Built with librosa, numpy, opencv, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=6jjXlH3dni0) · Built with librosa, numpy, opencv, python
 
 ### [SurgiSafe](https://devpost.com/software/infectdetect)
 
@@ -119,7 +119,7 @@ Fingerprint based Exam hall registration, authentication system with temperature
 
 **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Awg5byHF0B8) · Built with arduino, c, ifttt, keilmicrovision
+No public code found · [Demo video](https://www.youtube.com/watch?v=Awg5byHF0B8) · Built with arduino, c, ifttt, keilmicrovision
 
 ### [CONSERVATIONIST](https://devpost.com/software/conservationist)
 
@@ -159,7 +159,7 @@ CovHub makes it effortless to find up to date information on topics related to t
 
 **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=9ekGMGMFSVg) · Built with bootstrap, css3, embedly, google-chart
+No public code found · [Demo video](https://www.youtube.com/watch?v=9ekGMGMFSVg) · Built with bootstrap, css3, embedly, google-chart
 
 ### [COVID-19 Cluster Detection App](https://devpost.com/software/covid-19-cluster-detection-app)
 
@@ -209,7 +209,7 @@ Extinguish uses machine learning to provide helpful insights about fires.
 
 **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=I-1iUyfoR4E) · Built with css3, flask, html5, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=I-1iUyfoR4E) · Built with css3, flask, html5, python
 
 ### [eyeSafe](https://devpost.com/software/eyesafe)
 
@@ -279,7 +279,7 @@ Mindful Me is a website that allows and encourages users to complete daily menta
 
 **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=dF6Cx_b8CjA) · Built with cassandra, css, datastax-astra, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=dF6Cx_b8CjA) · Built with cassandra, css, datastax-astra, flask
 
 ### [OxyControl](https://devpost.com/software/oxycontrol)
 
@@ -405,7 +405,7 @@ Detecting breast cancer cells using image analysis.
 
 **How it used Wolfram:** The team used Wolfram Alpha's machine-learning algorithm with images of mitotic cells.
 
-No public code linked · Built with wolfram-technologies, machine-learning
+No public code found · Built with wolfram-technologies, machine-learning
 
 ## Track names and requirements
 

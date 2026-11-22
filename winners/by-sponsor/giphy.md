@@ -25,7 +25,7 @@ Summarizing Youtube Videos to Meaningful Gifs.
 
 **How it used GIPHY:** The project searches GIPHY for GIFs using key words.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58) · Built with giphy, flask, nltk, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58) · Built with giphy, flask, nltk, python
 
 ## 2017 winners
 

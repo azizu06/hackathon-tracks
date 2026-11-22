@@ -25,7 +25,7 @@ Employers can have their developers use calories as currency.
 
 **How it used Fitbit:** The project uses calories tracked by Fitbit for its calorie cash.
 
-No public code linked · Built with fitbit, alchemyapi, firebase, jawbone
+No public code found · Built with fitbit, alchemyapi, firebase, jawbone
 
 ## Track names and requirements
 

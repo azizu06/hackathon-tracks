@@ -173,7 +173,7 @@ Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pr
 - **Code:** [Source 1](https://github.com/alvinzz/models)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Baidu - Best Paddle Hack: Second Place
-- **Baidu:** Built with PaddlePaddle (listed on Devpost)
+- **Baidu · Listed on Devpost:** Built with PaddlePaddle (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -196,7 +196,7 @@ ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line
 - **Code:** [Source 1](https://github.com/fervorarc/PaddleBois)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Baidu - Machine Learning Community Prize
-- **How it used Baidu:** Downloads the PaddlePaddle Word2Vec model files for inference.
+- **How it used Baidu:** Downloads PaddlePaddle’s Word2Vec inference topology.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -396,14 +396,14 @@ Allows people to join up in a "room" to work on tracks to make beats for a song.
 
 Automatic purchase detection and rounding up to make donating to charity easy and habitual for any user.
 
-No public code linked · Built with firebase, ajax, css, html
+No public code found · Built with firebase, ajax, css, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** ajax, css, firebase, html, javascript, jquery
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up
 - **How it used Google:** The Firebase JavaScript SDK helps store round-up calculations.
@@ -419,14 +419,14 @@ No public code linked · Built with firebase, ajax, css, html
 
 The product encrypts QR codes such that, if scanned by someone who is not authorized to see them, they present an incomprehensible amalgamation of symbols.
 
-No public code linked · Built with firebase, crypto, express.js, javascript
+No public code found · Built with firebase, crypto, express.js, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** crypto, express.js, firebase, javascript, react-native, rsa
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up
 - **How it used Google:** The team built the back end using cloud functions and Firebase.
@@ -452,14 +452,14 @@ Also won this track: [Fake Bananas](#project-fakebananas) (listed above)
 
 The product takes blurry images and makes them more readable.
 
-No public code linked · Built with ibm, ibm-watson, bluemix, google-image-search
+No public code found · Built with ibm, ibm-watson, bluemix, google-image-search
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bluemix, google-image-search, ibm, ibm-watson, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** General Prize - First Place · Sponsor Prize - IBM - Most Innovative Use of IBM Technology
 - **How it used IBM:** The team used the IBM Watson library.
@@ -514,14 +514,14 @@ A roomba uses machine learning and a raspberry pi with a pi camera to search for
 
 A travel itinerary generator for all major cities.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=kAxDxnKp8_s) · Built with amadeus, express.js, google-directions, mongodb
+No public code found · [Demo video](https://www.youtube.com/watch?v=kAxDxnKp8_s) · Built with amadeus, express.js, google-directions, mongodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amadeus, express.js, google-directions, mongodb, node.js, yelp
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kAxDxnKp8_s)
 - **All prizes at this hackathon (1):** Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up
 - **Award:** Won “Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up” from Jumpstart. The write-up gives no details on how the team used the sponsor’s tech.
@@ -541,14 +541,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=kAxDxnKp8_
 
 Get personal details of someone just by looking at them with the magic of a HoloLens, face recognition, and Facebook.
 
-No public code linked · Built with bottle, c++, facebook, facebook-graph
+No public code found · Built with bottle, c++, facebook, facebook-graph
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** bottle, c++, facebook, facebook-graph, microsoft-hololens, phantomjs, python
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Facebook - Best Use of Facebook API
 - **How it used Meta:** The HoloLens displays details next to faces if they match friends’ Facebook accounts.
@@ -595,14 +595,14 @@ Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Lear
 
 Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs.
 
-No public code linked · Built with flask, giphy-api, google-cloud-vision, ibm-watson
+No public code found · Built with flask, giphy-api, google-cloud-vision, ibm-watson
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** flask, giphy-api, google-cloud-vision, ibm-watson, natural-language-processing, python, react-native
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Nasdaq - Best Re-imagination of Market
 - **How it used Nasdaq:** The team used Nasdaq's API to locate a company's stock and related news about its performance.
@@ -622,14 +622,14 @@ No public code linked · Built with flask, giphy-api, google-cloud-vision, ibm-w
 
 Find your dorm culture fit Harry Potter Style.
 
-No public code linked · Built with android, arduino, c++, hardware
+No public code found · Built with android, arduino, c++, hardware
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** android, arduino, c++, hardware, java, machine-learning, microsoft, microsoft-nlp, microsoft-speech-to-text, neopixel, python, sentiment-analysis, servo, websockets
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Samsara - Best IoT Hack
 - **Award:** Won “Sponsor Prize - Samsara - Best IoT Hack” from Samsara. The write-up gives no details on how the team used the sponsor’s tech.

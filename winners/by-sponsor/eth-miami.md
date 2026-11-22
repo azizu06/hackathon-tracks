@@ -25,7 +25,7 @@ Blockchain and AI Based Verification for a Fraud-Free Future.
 
 **ETH Miami:** Sponsor use not stated on Devpost
 
-No public code linked · Built with css, ganache, google-cloud, javascript
+No public code found · Built with css, ganache, google-cloud, javascript
 
 ### [LevelUp](https://devpost.com/software/levelup-m95ou8)
 

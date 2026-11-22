@@ -25,7 +25,7 @@ Leetcode for Lawyers! An interactive courtroom simulation powered by a network o
 
 **How it used OpenRouter:** The project uses GPT-5.1 via OpenRouter for PDF case extraction and to feed dynamic variables to ElevenLabs.
 
-No public code linked · Built with openrouter, elevenlabs, react
+No public code found · Built with openrouter, elevenlabs, react
 
 ## Track names and requirements
 

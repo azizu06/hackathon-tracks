@@ -45,7 +45,7 @@ The team describes the project as “------”.
 
 **Award:** Won “NSA: Hearsay: The Audio Authentication Challenge - 1st Place” from NSA. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with ai, ml, python
+No public code found · Built with ai, ml, python
 
 ## Track names and requirements
 

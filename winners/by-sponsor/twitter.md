@@ -25,7 +25,7 @@ CloudyDay correlates the mood of the Twittersphere with precipitation patterns.
 
 **How it used Twitter:** The project used the Twitter Stream to gather tweets from 270 of the most populous US cities.
 
-No public code linked · Built with alchemyapi, weather-underground
+No public code found · Built with alchemyapi, weather-underground
 
 ## Track names and requirements
 

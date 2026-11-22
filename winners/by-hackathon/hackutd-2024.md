@@ -58,7 +58,7 @@ Backtracc reminds you of forgotten valuables when you leave rideshare vehicles b
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Rae562RAkhU)
 - **All prizes at this hackathon (3):** &#91;MLH&#93; Best AI Application Built with Cloudflare · Hardware · Samba Nova
 - **How it used Cloudflare:** The team used Terraform to deploy the frontend and manage the DNS on Cloudflare.
-- **How it used SambaNova:** Calls SambaNova's chat completions API from its backend.
+- **How it used SambaNova:** Posts to SambaNova’s chat completions API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -81,8 +81,8 @@ It takes in data about a well and tries to detect anomalies to predict when hydr
 - **Code:** [Source 1](https://github.com/zekestephens/dhy-n0)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=u_p-SZjQW9U) · [Video 2](https://www.youtube.com/watch?v=yX_HXU2jF9s)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best .Tech Domain Name · EOG Resources
-- **How it used .Tech Domains:** The team links to dhy-n0.tech as its .tech project site.
-- **How it used EOG Resources:** Reads EOG Resources challenge data from CSV files.
+- **Linked resource from .Tech Domains:** The team links to dhy-n0.tech as its .tech project site.
+- **How it used EOG Resources:** Uses EOG Resources CSV data files.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -117,7 +117,7 @@ A smart water management tool that helps households and property managers optimi
 
 [SambaNova](../by-sponsor/sambanova.md) · **Samba Nova**<br>[Streamlit](../by-sponsor/streamlit.md) · **Best Use of Streamlit**
 
-Vestique, your AI wardrobe assistant, tracks your style and ensures no clothes go unworn. Smart alerts help you wear 40% more of your closet and save $1,200 yearly.
+Vestique tracks your style and sends alerts to help you wear more of your wardrobe.
 
 [Code](https://github.com/rChwiecko/Vestique) · [Demo video](https://www.youtube.com/watch?v=ZASINIB-IOM) · Built with streamlit, brevo, llama, opencv
 
@@ -369,14 +369,14 @@ InvestIQ simplifies investing for everyone, offering real-time insights, educati
 
 Capsule, allows you to upload data into a "capsule" and retrieve it very quickly via URL, NFC, or QR Codes.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
+No public code found · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** nextjs, pinata, shadcn, tailwind
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sh2B0vi0H2c)
 - **All prizes at this hackathon (1):** Pinata
 - **How it used Pinata:** The team used Pinata to group files by adding metadata to each file.
@@ -402,7 +402,7 @@ It's a social cheese rating and sharing website.
 - **Code:** [Source 1](https://github.com/joemmalatesta/CheddarBoxd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ijk-pzGl-H0)
 - **All prizes at this hackathon (2):** Best Solo Hack · Pinata
-- **How it used Pinata:** Creates a Pinata group when a user signs up.
+- **How it used Pinata:** Creates a Pinata group.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -425,7 +425,7 @@ Meet Monch – the AI-powered app that uses photos of your food to instantly rec
 - **Code:** [Source 1](https://github.com/jacksonmoody/monch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZkMzkzsfklo)
 - **All prizes at this hackathon (1):** Pinata
-- **How it used Pinata:** Uploads user files to Pinata.
+- **How it used Pinata:** Uploads files to Pinata.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -465,14 +465,14 @@ Data Pattern Observatory combines real-time data tracking with statistical model
 
 Inspiration Managing personal finances can often feel daunting, with budgeting and saving becoming increasingly complex.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
+No public code found · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** firebase, python, streamlit
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eX-9qLLoR2E)
 - **All prizes at this hackathon (1):** PNC Bank
 - **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
@@ -517,14 +517,14 @@ Also won this track: [Backtracc](#project-project-cd41lvjbiorw), [Vestique](#pro
 
 Capture Ideas, Create Clarity, Powered by AI.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=f8wzQW5T_cQ) · Built with sambanova, databricks, fastapi, llama
+No public code found · [Demo video](https://www.youtube.com/watch?v=f8wzQW5T_cQ) · Built with sambanova, databricks, fastapi, llama
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** databricks, fastapi, llama, python, react, sambanova, supabase, tailwind, terraform
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=f8wzQW5T_cQ)
 - **All prizes at this hackathon (1):** Samba Nova
 - **How it used SambaNova:** The backend integrates with SambaNova's API for real-time transcription.
@@ -596,14 +596,14 @@ FUELICIENT gives a clean UI for Toyota fuel-efficiency data exploration, coupled
 
 ToyoTrends is a powerful web application designed for Toyota engineers to visualize and interpret fuel efficiency and carbon emissions data for both Toyota vehicles and competitor vehicles.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=lEvVw3Qg834) · Built with carsxe, chart.js, css, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=lEvVw3Qg834) · Built with carsxe, chart.js, css, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** carsxe, chart.js, css, html, javascript, openai, react, sambanova
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lEvVw3Qg834)
 - **All prizes at this hackathon (1):** Toyota
 - **Award:** Won “Toyota” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.

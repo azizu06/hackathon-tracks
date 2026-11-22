@@ -43,7 +43,7 @@ Argus is a dev tool that integrates models/dataset workflows with seamless and s
 
 DataCrawl turns plain-English data requests into fresh datasets. AI agents plan, scrape, generate, normalize, and validate the data you need, then deliver clean, usable files for analysis today.
 
-**How it used Solana:** Offers Solana as a payment method when a Solana payment request is available.
+**How it used Solana:** Checks the approval payload for a Solana payment request.
 
 [Code](https://github.com/Aarushvinod/DataCrawl) · [Demo video](https://www.youtube.com/watch?v=t-F03o3KFjQ) · Built with solana, auth0, beautiful-soup, css
 
@@ -135,7 +135,7 @@ Orkis makes it easy for people and enterprise teams to launch and manage AI agen
 
 **How it used Solana:** An agent can pay for an approved API call with x402 on Solana.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=GxNBCI4yyYI) · Built with alembic, better-auth, caddy, claude
+No public code found · [Demo video](https://www.youtube.com/watch?v=GxNBCI4yyYI) · Built with alembic, better-auth, caddy, claude
 
 ### [Rescu](https://devpost.com/software/rescu-qfuz8e)
 
@@ -165,7 +165,7 @@ Sentinel.ai monitors live camera streams and flags important activity.
 
 **How it used Solana:** The project uses Solana devnet transaction hashes for tamper-evident provenance.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_I) · Built with solana, api, atlas, cloud
+No public code found · [Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_I) · Built with solana, api, atlas, cloud
 
 ### [Settlers of Solana](https://devpost.com/software/_solanasim)
 
@@ -267,7 +267,7 @@ SolHive is a platform to navigate NFT Markets &amp; Network Congestion with AI. 
 
 **How it used Solana:** The project uses The Graph to fetch Solana network metrics and structure the data for analysis.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=anMExD1-qms) · Built with alchemyapi, graph, javascript, openai
+No public code found · [Demo video](https://www.youtube.com/watch?v=anMExD1-qms) · Built with alchemyapi, graph, javascript, openai
 
 ### [Solshare](https://devpost.com/software/solshare-cmxous)
 
@@ -277,7 +277,7 @@ Splitting bills with friends is messy—receipts get lost, people forget to pay,
 
 **How it used Solana:** The project settles payments via the Solana blockchain.
 
-No public code linked · Built with solana, cohere, firebase, gcp
+No public code found · Built with solana, cohere, firebase, gcp
 
 ### [SolSpeak](https://devpost.com/software/n-kp7oqy)
 
@@ -285,7 +285,7 @@ No public code linked · Built with solana, cohere, firebase, gcp
 
 Yes, you read that right – not just devnet, but mainnet-beta.
 
-**How it used Solana:** Uses Solana mainnet for its transaction functions.
+**How it used Solana:** Uses a client on Solana mainnet.
 
 [Code](https://github.com/Loldude0/hacknyu) · Built with solana, python, react, realtime
 
@@ -295,7 +295,7 @@ Yes, you read that right – not just devnet, but mainnet-beta.
 
 A way to be updated with the most up-to-date information on crypto and assets - compiled with AI.
 
-**How it used Solana:** Retrieves Solana token prices through the Jupiter Aggregator API.
+**How it used Solana:** Fetches Solana token prices through the Jupiter Aggregator API.
 
 [Code](https://github.com/hyungminoh2/Solvend-mhacks2025) · Built with flask, google-generative-ai-(gemini-1.5), javascript, next.js
 

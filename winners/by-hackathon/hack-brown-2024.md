@@ -106,7 +106,7 @@ After logging in, users are directed to a page requesting the title of the paper
 - **Code:** [Source 1](https://github.com/AnnieWang314/blankspace)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of MongoDB Atlas
-- **How it used MongoDB:** Defines its MongoDB project records with a Mongoose model.
+- **How it used MongoDB:** Uses Mongoose to model projects.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -123,14 +123,14 @@ After logging in, users are directed to a page requesting the title of the paper
 
 An LLM-powered TA that adapts to course material to help guide and engage students through conceptual and technical questions, focusing on reducing redundant questions and addressing overworked TAs.
 
-No public code linked · Built with chatgpt, dspy, openai, python
+No public code found · Built with chatgpt, dspy, openai, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** chatgpt, dspy, openai, python, streamlit
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AI in Education by Schmidt Futures
 - **Award:** Won “Best Use of AI in Education by Schmidt Futures” from Schmidt Futures. The write-up gives no details on how the team used the sponsor’s tech.

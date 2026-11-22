@@ -23,7 +23,7 @@
 
 Commons is a map-first community coordination platform.
 
-**How it used Hex:** The team links to its project work on Hex.
+**Linked resource from Hex:** The team links to its project work on Hex.
 
 [Code](https://github.com/candpixie/yhack-commons) · [Demo video](https://www.youtube.com/watch?v=-yewvVRouq4) · Built with express.js, k2thinkv2, maplibre, react
 

@@ -200,7 +200,7 @@ PC building made easy — ask questions, identify parts, and build confidently.
 - **Code:** [Source 1](https://github.com/kevinwu098/buildr)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lfB2SNkqhy4)
 - **All prizes at this hackathon (1):** TwelveLabs API Challenge
-- **How it used TwelveLabs:** Uses the TwelveLabs API to index videos and search them by meaning.
+- **How it used TwelveLabs:** Uses a TwelveLabs API client for video ingestion and semantic search.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -213,14 +213,14 @@ PC building made easy — ask questions, identify parts, and build confidently.
 
 Every fan watches the same basketball game, but for different moments. Some track tactics, others chase the star’s reaction after a dunk.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** javascript, node.js, python, react, typescript, video-foundation-model
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pOvZoBC0Bf0)
 - **All prizes at this hackathon (1):** TwelveLabs API Challenge
 - **How it used TwelveLabs:** The project feeds raw footage from multiple camera angles into TwelveLabs Marengo.
@@ -273,7 +273,7 @@ GradeMeIn uses a new method to detect AI plagiarism, it works through intelligen
 - **Code:** [Source 1](https://github.com/SBHacks-26/lms-sbhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dgrnQoidl2A)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **Vultr:** Built with vultr (listed on Devpost)
+- **Vultr · Listed on Devpost:** Built with vultr (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

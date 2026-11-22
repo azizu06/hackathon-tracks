@@ -45,7 +45,7 @@ StationScope turns a work address into a personalized, data-driven NYC housing g
 
 **Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with css, geocoding, google-maps, javascript
+No public code found · Built with css, geocoding, google-maps, javascript
 
 ## Track names and requirements
 

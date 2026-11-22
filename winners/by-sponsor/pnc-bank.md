@@ -99,7 +99,7 @@ Inspiration Managing personal finances can often feel daunting, with budgeting a
 
 **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
+No public code found · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
 
 ### [Hermes](https://devpost.com/software/hermes-c2onvq)
 

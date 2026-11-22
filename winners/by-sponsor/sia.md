@@ -25,7 +25,7 @@ Ad-Supported, Safe File Storage for the Masses.
 
 **Sia:** Sponsor use not stated on Devpost
 
-No public code linked · Built with blockchain, html5, node.js
+No public code found · Built with blockchain, html5, node.js
 
 ## Track names and requirements
 

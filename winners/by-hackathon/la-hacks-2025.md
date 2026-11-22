@@ -76,14 +76,14 @@ Empowering every university student to find the people they want to surround the
 
 Devin, AI Software Engineer &amp; Kevin, AI Product Manager.
 
-No public code linked · Built with dain, typescript
+No public code found · Built with dain, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** dain, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** DAIN Challenge: AI Agent Excellence &amp; Innovation Awards · Track: hack2school
 - **How it used DAIN Labs:** The project was built primarily with TypeScript and DAIN.
@@ -149,14 +149,14 @@ Determining both how much the environment can be impacted, and how money can be 
 
 Find, Fix, and Deploy Mobile Bug Fixes - Autonomously, in Minutes.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=qFEYKyMW6tA) · Built with uagents, asi-1, flask, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=qFEYKyMW6tA) · Built with uagents, asi-1, flask, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** asi-1, flask, gemini, github, instabug, maestro, python, react-native, slack, uagents
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qFEYKyMW6tA)
 - **All prizes at this hackathon (2):** Overall: 1st Place · Track: AI Agents League (Fetch.ai)
 - **How it used Fetch.ai:** Alto uses Fetch.ai’s uAgents framework and Agentverse for agent management.
@@ -172,14 +172,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=qFEYKyMW6t
 
 AI-Powered Curation : Agentic AIs crawl multiple e-commerce platforms to gather product data.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=1aWK25E4rro) · Built with fetchai, butterfly, dain, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=1aWK25E4rro) · Built with fetchai, butterfly, dain, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** butterfly, dain, fetchai, gemini, javascript, nextjs, python, react, snapchat, tensorflow, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1aWK25E4rro)
 - **All prizes at this hackathon (1):** Track: AI Agents League (Fetch.ai)
 - **How it used Fetch.ai:** The project uses Fetch.ai agents for data crawling and recommendations.
@@ -418,14 +418,14 @@ With just the press of a button, Brew will agentically send those messages via L
 
 Plan and host events smarter &amp; faster. Leadify helps event organizers automate lead generation.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=vFeyw8tJbWA) · Built with linkd, asyncio, fetch.ai, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=vFeyw8tJbWA) · Built with linkd, asyncio, fetch.ai, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** asyncio, fetch.ai, gemini, linkd, next.js, node.js, python, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vFeyw8tJbWA)
 - **All prizes at this hackathon (1):** Linkd Challenge: Best Use of Linkd People Search
 - **How it used Linkd:** The project uses the Linkd API for real-time discovery of potential leads.
@@ -455,7 +455,7 @@ Bandaid Maps is a real-time, AI-powered healthcare navigation tool that assesses
 - **Code:** [Source 1](https://github.com/GovindKurapati/bandaid-maps)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3-WHXSlJYEA)
 - **All prizes at this hackathon (1):** Melissa Data Challenge
-- **How it used Melissa Data:** Uses the Melissa Data reverse-geocoding API to look up locations.
+- **How it used Melissa Data:** Sets the Melissa Data ReverseGeoCode lookup URL.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -526,14 +526,14 @@ An AI-powered email assistant that automatically processes, analyzes, and respon
 
 Players solve puzzles to leave a haunted house in an escape-room game.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=-CYyimP0Eb4) · Built with roblox, lua
+No public code found · [Demo video](https://www.youtube.com/watch?v=-CYyimP0Eb4) · Built with roblox, lua
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** lua, roblox
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-CYyimP0Eb4)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge: Building A Better Digital World
 - **How it used Roblox:** The team used Roblox Studio and Lua to develop this game.
@@ -549,14 +549,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=-CYyimP0Eb
 
 A Roblox game lets players shape their surroundings through what they say and do.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZc) · Built with roblox, flask, gemini, nextjs
+No public code found · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZc) · Built with roblox, flask, gemini, nextjs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** flask, gemini, nextjs, python, roblox, tailwindcss
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NOM7RPY7HZc)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge: Building A Better Digital World
 - **How it used Roblox:** Bloom.AI integrates a Roblox game experience with real-time AI sentiment analysis.
@@ -572,14 +572,14 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZ
 
 A Roblox game asks players to defuse tense social situations and see how different choices play out.
 
-No public code linked · Built with roblox, express.js, gemini, javascript
+No public code found · Built with roblox, express.js, gemini, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** express.js, gemini, javascript, luau, roblox
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge: Building A Better Digital World
 - **How it used Roblox:** The team built the project in Roblox Studio using Lua scripting.
@@ -595,14 +595,14 @@ No public code linked · Built with roblox, express.js, gemini, javascript
 
 UncBlox is a multiplayer action-arena game where players embody celebrated elders from a vibrant rural town in Mexico. Through friendly players, they build respect and empathy for older generations.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=7WwD1cOzm5k) · Built with roblox
+No public code found · [Demo video](https://www.youtube.com/watch?v=7WwD1cOzm5k) · Built with roblox
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** roblox
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7WwD1cOzm5k)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge: Building A Better Digital World
 - **How it used Roblox:** The team used Roblox Studio and assets to develop combat and quizzes.
@@ -695,14 +695,14 @@ A wearable wardrobe tool catalogs clothes the user already owns and suggests out
 
 A planning tool turns a written software idea into an editable architecture graph and starter repository.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** flask, gemini, next.js, python, railway, react, typescript, vercel, vite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VxB-7LZu1D0)
 - **All prizes at this hackathon (1):** Warp Challenge: Best Developer Tool
 - **Award:** Won “Warp Challenge: Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.

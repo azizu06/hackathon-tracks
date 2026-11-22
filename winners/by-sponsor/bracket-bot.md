@@ -25,7 +25,7 @@ Pick up birdies and stack them autonomously.
 
 **How it used Bracket Bot:** The project uses an autonomous BracketBot robot to find, pick up, and stack badminton birdies.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_Y) · Built with bracketbot, python, pytorch, yolo
+No public code found · [Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_Y) · Built with bracketbot, python, pytorch, yolo
 
 ### [GitIRL Bot](https://devpost.com/software/house-bot)
 
@@ -35,7 +35,7 @@ Version control for the physical world.
 
 **How it used Bracket Bot:** Bracket Bot's web app streams telemetry, camera frames and pose.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
+No public code found · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
 
 ### [PrintDnD](https://devpost.com/software/printdnd)
 
@@ -45,7 +45,7 @@ Introducing PrintDND , a robot that is able to autonomously clear the printers f
 
 **How it used Bracket Bot:** The team used hardware and software provided by BracketBot.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
+No public code found · [Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
 
 ### [Realbot](https://devpost.com/software/realbot)
 

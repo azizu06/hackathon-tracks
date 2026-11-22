@@ -75,9 +75,9 @@ AI Legal Tender transforms messy legal data into structured, cited intelligence 
 
 In an age where AI-generated media is indistinguishable from reality, Sora2Detector is the first of its kind multi phase detection platform that verifies the authenticity of video content, end to end.
 
-**How it used AMD:** The team tested the project on Windows with AMD hardware.
+**AMD · Listed on Devpost:** Built with rocm (listed on Devpost)
 
-[Code](https://github.com/LeeMarshall1113/Sora2Detector) · [Demo video](https://www.youtube.com/watch?v=GPhHIwjohe4) · Built with amd, ai, html5, ml
+[Code](https://github.com/LeeMarshall1113/Sora2Detector) · [Demo video](https://www.youtube.com/watch?v=GPhHIwjohe4) · Built with amd, rocm, ai, html5
 
 ## Track names and requirements
 

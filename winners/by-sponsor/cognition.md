@@ -25,7 +25,7 @@ ACG helps AI coding agents work in parallel without stepping on each other.
 
 **Award:** Won “Cognition Company Challenge” from Cognition. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=eoTO5TZJbNQ) · Built with html, python, typescript
+No public code found · [Demo video](https://www.youtube.com/watch?v=eoTO5TZJbNQ) · Built with html, python, typescript
 
 ### [AlphaResearch](https://devpost.com/software/alpharesearch-9fwk4m)
 
@@ -43,7 +43,7 @@ Recursive Sandboxed Agents for Autonomous Research at Scale.
 
 Autopsy records every action your AI coding agent takes, autopsies the failures, builds a graph of why they happened, and injects into the agent's next attempt so it doesn't make mistake again.
 
-**Cognition:** Built with devin (listed on Devpost)
+**Cognition · Listed on Devpost:** Built with devin (listed on Devpost)
 
 [Code](https://github.com/balebbae/Autopsy) · [Demo video](https://www.youtube.com/watch?v=2bgq8hvJ32s) · Built with devin, claude, cloudflare, codex
 
@@ -95,7 +95,7 @@ GitHub stores your code. Lore stores your reasons.
 
 **How it used Cognition:** The project plugs into Devin via MCP.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
+No public code found · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
 
 ### [MultiEval](https://devpost.com/software/multival)
 
@@ -103,7 +103,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2
 
 An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces.
 
-**How it used Cognition:** Connects to the public Devin API to start monitored sessions.
+**How it used Cognition:** Sets the public api.devin.ai URL.
 
 [Code](https://github.com/AlfredSjoqvist/multieval) · [Demo video](https://www.youtube.com/watch?v=__OU7Ftl4EM) · Built with devin, agentverse, anthropic, asi:one
 
@@ -113,7 +113,7 @@ An evaluation dashboard compares multi-agent workflows and lets developers inspe
 
 Agentic harness for efficient codebase refactoring.
 
-**Cognition:** Built with devin (listed on Devpost)
+**Cognition · Listed on Devpost:** Built with devin (listed on Devpost)
 
 [Code](https://github.com/Tanush-A/Refactorika) · [Demo video](https://www.youtube.com/watch?v=uu6amcmRtzg) · Built with devin, claude, python, redis
 

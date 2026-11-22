@@ -33,7 +33,7 @@ a parking garage map for orbit: find the spot where your satellites do the least
 
 Space traffic control for the 99% of operators without a control room. Orbit Watch reads real collision warnings, throws out the false alarms, and tells your whole team which one matters.
 
-**How it used SpaceXAI:** Uses Grok to write a brief about a satellite close approach when the model is available.
+**How it used SpaceXAI:** Calls a text brief request for Grok.
 
 [Code](https://github.com/ArunimaV/orbit-watch) · [Demo video](https://www.youtube.com/watch?v=eroKaUhp6zY) · Built with celestrak, cesiumjs, cursor, cursor-cloud-agents
 
@@ -43,7 +43,7 @@ Space traffic control for the 99% of operators without a control room. Orbit Wat
 
 Intelligently model the effects of infrastructure collapse on local neighborhoods and visualize the impact of prospective city planning.
 
-**How it used SpaceXAI:** Uses Grok models to interpret simulated infrastructure events and generate a narrative.
+**How it used SpaceXAI:** Sets a list of Grok models.
 
 [Code](https://github.com/MannanB/HackGT13) · [Demo video](https://www.youtube.com/watch?v=DUEwUAwF8mg) · Built with deck.gl, fastapi, maplibre, postgis
 

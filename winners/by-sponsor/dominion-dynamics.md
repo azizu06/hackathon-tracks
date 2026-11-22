@@ -23,7 +23,7 @@
 
 Automated system to tackle the Dominion Dynamics track.
 
-**How it used Dominion Dynamics:** Uses Dominion Dynamics' tracks API to post and retrieve simulated tracks.
+**How it used Dominion Dynamics:** Uses a client for the Dominion Dynamics tracks API.
 
 [Code](https://github.com/Ollienel777/HTN_DOGWATCH) · Built with ardupilot, canvas, docker, gazebo
 

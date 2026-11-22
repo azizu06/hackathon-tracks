@@ -23,7 +23,7 @@
 
 Backtracc reminds you of forgotten valuables when you leave rideshare vehicles because forgetting items in strangers' cars isn't fun.
 
-**How it used SambaNova:** Calls SambaNova's chat completions API from its backend.
+**How it used SambaNova:** Posts to SambaNova’s chat completions API.
 
 [Code](https://github.com/phamleduy04/hackutd24) · [Demo video](https://www.youtube.com/watch?v=Rae562RAkhU) · Built with cloudflare, express.js, pinata, python
 
@@ -35,13 +35,13 @@ Capture Ideas, Create Clarity, Powered by AI.
 
 **How it used SambaNova:** The backend integrates with SambaNova's API for real-time transcription.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=f8wzQW5T_cQ) · Built with sambanova, databricks, fastapi, llama
+No public code found · [Demo video](https://www.youtube.com/watch?v=f8wzQW5T_cQ) · Built with sambanova, databricks, fastapi, llama
 
 ### [Vestique](https://devpost.com/software/vestique)
 
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-vestique) · **Samba Nova**
 
-Vestique, your AI wardrobe assistant, tracks your style and ensures no clothes go unworn. Smart alerts help you wear 40% more of your closet and save $1,200 yearly.
+Vestique tracks your style and sends alerts to help you wear more of your wardrobe.
 
 **How it used SambaNova:** The project uses SambaNova for identifying and classifying clothing items.
 

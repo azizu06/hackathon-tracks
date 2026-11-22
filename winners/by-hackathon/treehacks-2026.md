@@ -169,7 +169,7 @@ Jiggle Wiggle is a real-time AI movement coach that works with three input modes
 - **Code:** [Source 1](https://github.com/cindyzli/jigglewiggle)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kL3udtWY1EE)
 - **All prizes at this hackathon (2):** &#91;Modal&#93; Inference Track · &#91;Zoom x Render&#93; Best use of Zoom APIs + Render
-- **How it used Modal:** Sends video segmentation requests to a configured Modal endpoint.
+- **How it used Modal:** Calls the Modal endpoint URL.
 - **How it used Zoom / Render:** The project uses the Zoom Meeting SDK to join calls.
 - **Checked on Devpost:** 2026-11-21
 
@@ -207,14 +207,14 @@ Minerva is an AI-powered virtual educator designed to provide structured, person
 
 Mobius runs for very long periods of time completely autonomously to complete all aspects of building a venture-scale company from scratch - engineering, marketing, operations, legal, and more.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with modal, ai, anthropic, chatgpt
+No public code found · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with modal, ai, anthropic, chatgpt
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ai, anthropic, chatgpt, claude, elastic, jinai, modal, python, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KB5vgGlufa4)
 - **All prizes at this hackathon (2):** &#91;Modal&#93; Sandbox Challenge · &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
 - **How it used Modal:** The project uses Modal for isolated cloud sandbox execution.
@@ -433,17 +433,17 @@ Hate waiting on hold? kiru is a voice agent that actually calls companies, talks
 
 200K veterans transition out every year — most without real support. NextOp is a private AI coach that translates military careers into civilian résumés, benefits, and training.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with brightdata, anthropic, anthropic-sdk, embedding
+No public code found · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with brightdata, anthropic, anthropic-sdk, embedding
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** anthropic, anthropic-sdk, brightdata, embedding, fastapi, hume, python, react, sqlite, tailwind, typescript, vite
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WwUi08k8dG4)
 - **All prizes at this hackathon (1):** &#91;Bright Data&#93; Best AI-Powered Web Data Hack
-- **Bright Data:** Built with brightdata (listed on Devpost)
+- **Bright Data · Listed on Devpost:** Built with brightdata (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -669,7 +669,7 @@ Can AI agents in multi-agent systems deceive, deduce, and stay aligned.
 - **Code:** [Source 1](https://github.com/samarth-bhargav/treehacks-amogus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xhi-_4qUExg)
 - **All prizes at this hackathon (1):** &#91;Greylock&#93; Best multi-turn agent
-- **Award:** Won “&#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -692,7 +692,7 @@ Edamame creates AI clones of every employee by ingesting their Slack messages, G
 - **Code:** [Source 1](https://github.com/angelinaquan/edamame-treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6HlN98ilkzc)
 - **All prizes at this hackathon (1):** &#91;Greylock&#93; Best multi-turn agent
-- **Award:** Won “&#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -705,17 +705,17 @@ Edamame creates AI clones of every employee by ingesting their Slack messages, G
 
 The team introduce three core technical contributions:.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** claude, fastapi, modal, node.js, openai, vercel, vllm
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p0ruAH5erME)
 - **All prizes at this hackathon (1):** &#91;Greylock&#93; Best multi-turn agent
-- **Award:** Won “&#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -748,7 +748,7 @@ The hot new LLVM backend: compile your code to a spreadsheet.
 - **Code:** [Source 1](https://github.com/kognise/freak-in-the-sheets)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5Sb-QcEFHwg)
 - **All prizes at this hackathon (2):** &#91;Human Capital&#93; Human Capital Fellowship Prize · Most Technically Complex
-- **Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -761,17 +761,17 @@ The hot new LLVM backend: compile your code to a spreadsheet.
 
 Drones map real buildings in minutes, creating AI-operable world models where assistive agents navigate and search for locations (ex. food, elevator). Provides on-demand street view.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=rzGvQOiOc8c) · Built with apple-depth-pro, css, css-frontend-react-18, csv
+No public code found · [Demo video](https://www.youtube.com/watch?v=rzGvQOiOc8c) · Built with apple-depth-pro, css, css-frontend-react-18, csv
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** apple-depth-pro, css, css-frontend-react-18, csv, debian, debian-data-csv, dict), drones, eslint, fastapi, git, google-fonts, google-fonts-(inter)-backend/api-fastapi, heif, html, hub), hugging-face-(transformers, hugging-face-hub, inter, json, lucide-react, matplotlib, modal, modal-(serverless), mp4, mp4-databases-none-dev-eslint, numpy, numpy-platform/cloud-modal-(gpu, opencv, pil, pillow, pillow-heif, poke, pyright, pytest, python, pytorch, qwen-vl, qwen-vl-utils, react, react-router, rest, rest-ml/ai-pytorch, ruff, setuptools, timm, torchvision, transformers, typescript, vite, vllm, volumes
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rzGvQOiOc8c)
 - **All prizes at this hackathon (1):** &#91;Human Capital&#93; Human Capital Fellowship Prize
-- **Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -794,7 +794,7 @@ The biggest lesson was that the right level of AI autonomy depends on the domain
 - **Code:** [Source 1](https://github.com/csaye/ontab)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=76gxlzWBOzY)
 - **All prizes at this hackathon (1):** &#91;Human Capital&#93; Human Capital Fellowship Prize
-- **Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
+- **Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -840,16 +840,16 @@ Also won this track: [jiggle wiggle](#project-jiggle-wiggle), [Mobius: the first
 
 [Modal](../by-sponsor/modal.md) · **Sandbox Challenge**
 
-Built Minecraft in one shot - Burned $5500 running 100+ coding agents pushing at peak 1200+ commits/hr to research the future of "coding".
+The team built Minecraft in one shot with more than 100 coding agents, peaking at more than 1,200 commits per hour.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=5oxXfazBcaQ) · Built with modal, chatgpt, claude, cursor
+No public code found · [Demo video](https://www.youtube.com/watch?v=5oxXfazBcaQ) · Built with modal, chatgpt, claude, cursor
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** chatgpt, claude, cursor, modal, pidev, poke
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5oxXfazBcaQ)
 - **All prizes at this hackathon (1):** &#91;Modal&#93; Sandbox Challenge
 - **How it used Modal:** The team used Modal sandboxes to execute agents in parallel.
@@ -875,7 +875,7 @@ Robots and self-driving cars need training data. Mirage synthesizes 3D world-mod
 - **Code:** [Source 1](https://github.com/kyan-yang/Mirage)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;Modal&#93; Inference Track
-- **How it used Modal:** Runs its 3D reconstruction pipeline on Modal.
+- **How it used Modal:** Uses a Modal app.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1225,7 +1225,7 @@ One ad. Every market.AI-localized in seconds.
 - **Code:** [Source 1](https://github.com/ssiddhantsood/treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=C3_5c9b4zxg)
 - **All prizes at this hackathon (1):** &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).)
-- **How it used Runpod:** Configures a Runpod Flash serverless GPU worker for video editing.
+- **Runpod · Imported in code:** Imports LiveServerless from Runpod Flash.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1288,14 +1288,14 @@ GridVeda gives powerline operators predictive failure detection at edge. Ensembl
 
 The geoengineering operating system for climate renewal. Predict natural disasters, pick from a suite of rain/cloud seeding interventions, and prevent their destructive impacts.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** chatgpt, claude-code, earth2studio, gemini, graphcast, matplotlib, pandas, python, random-forest-classifier, v0, vercel, warp, xarray, zarr
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BBR3-OXCjtU)
 - **All prizes at this hackathon (1):** &#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability
 - **Award:** Won “&#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.

@@ -23,7 +23,7 @@
 
 PC building made easy — ask questions, identify parts, and build confidently.
 
-**How it used TwelveLabs:** Uses the TwelveLabs API to index videos and search them by meaning.
+**How it used TwelveLabs:** Uses a TwelveLabs API client for video ingestion and semantic search.
 
 [Code](https://github.com/kevinwu098/buildr) · [Demo video](https://www.youtube.com/watch?v=lfB2SNkqhy4) · Built with twelvelabs, chatgpt, deepgram, lancedb
 
@@ -35,7 +35,7 @@ Every fan watches the same basketball game, but for different moments. Some trac
 
 **How it used TwelveLabs:** The project feeds raw footage from multiple camera angles into TwelveLabs Marengo.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
+No public code found · [Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
 
 ### [Reel-To-Real](https://devpost.com/software/reel-to-real)
 

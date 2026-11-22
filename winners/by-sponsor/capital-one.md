@@ -113,7 +113,7 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 
 An offline guide helps survivors find state compensation programs and trace eligibility to the relevant law.
 
-**How it used Capital One:** The project uses Capital One’s Nessie bank to pay $118 only after typing a 6-digit code.
+**How it used Capital One:** The project uses Capital One’s Nessie bank to pay after typing a 6-digit code.
 
 [Code](https://github.com/thesanatt/tend) · Built with capital-one-nessie, agentverse, asi-one, c++
 
@@ -167,7 +167,7 @@ People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device t
 
 **Award:** Won “Best Financial Hack - Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · Built with beautiful-soup, gemini, javascript, mongodb
+No public code found · Built with beautiful-soup, gemini, javascript, mongodb
 
 ### [HackTX 2025](https://devpost.com/software/ecofin-carbon)
 
@@ -197,7 +197,7 @@ The team describes the project as “Productive doomscrolling”.
 
 **Award:** Won “Capital One - Best Financial Hack” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://vimeo.com/1122592767) · Built with react
+No public code found · [Demo video](https://vimeo.com/1122592767) · Built with react
 
 ### [Plately](https://devpost.com/software/plately)
 
@@ -217,7 +217,7 @@ An application that leverages Quantum Computing and Superposition to simulate mu
 
 **Award:** Won “Track: Fintech - Best Financial Hack” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=w15F0oFqkak) · Built with ai/ml, bootstrap, css, flask
+No public code found · [Demo video](https://www.youtube.com/watch?v=w15F0oFqkak) · Built with ai/ml, bootstrap, css, flask
 
 ### [SpendingWithSpendy](https://devpost.com/software/spendingwithspendy)
 
@@ -237,7 +237,7 @@ Sprout AI: Optimizing shelves, preserving the planet.
 
 **Award:** Won “CATEGORY - Finance (Capital One)” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
 
 ### [Subsave](https://devpost.com/software/subsave)
 

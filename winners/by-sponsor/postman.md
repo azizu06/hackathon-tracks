@@ -35,7 +35,7 @@ Cryptobot is a humanoid robot that is FULLY voice-controlled.
 
 **How it used Postman:** The team used Postman to call functions.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
 
 ### [Relay](https://devpost.com/software/https-youtu-be-dqw4w9wgxcq)
 

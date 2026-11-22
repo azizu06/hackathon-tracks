@@ -228,14 +228,14 @@ MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case eviden
 
 A satirical social media simulator and world builder.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=FgR3QLEW5Kc) · Built with agents, claude, multi-agent, next.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=FgR3QLEW5Kc) · Built with agents, claude, multi-agent, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** agents, claude, multi-agent, next.js, prompt-engineering, react, simulation, synthtetic-data, typescript
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FgR3QLEW5Kc)
 - **All prizes at this hackathon (1):** &#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns
 - **Award:** Won “&#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns” from Arlequin AI. The write-up gives no details on how the team used the sponsor’s tech.
@@ -307,14 +307,14 @@ Fight the fire before you get there.
 
 FarCare connects three roles around one parent.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** bleak, bluetooth, corebluetooth, fastapi, fitbit, google-gemini, google-health-api, langchain, next.js, node.js, oauth2, photon, pkce, postgresql, pytest, python, react, sqlite, tiger-data, timescaledb, typescript, vercel
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=d90HW1Gm-HY)
 - **All prizes at this hackathon (1):** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
 - **ChatOverflow:** Sponsor use not stated on Devpost
@@ -440,7 +440,7 @@ One in Three is an interactive and fully immersive AI simulation that puts men i
 - **Code:** [Source 1](https://github.com/limjiayi21/oneinthree)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dFNiASxPbck)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
+- **GoDaddy Registry · Listed on Devpost:** Built with GoDaddy (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -521,14 +521,14 @@ Boomer helps electricians throughout an entire job, from understanding the task 
 
 Lightweight, AI-powered tools built for forward-deployed engineers to adapt and deploy quickly.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc) · Built with anthropic-api, claude, claude-code, fastapi
+No public code found · [Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc) · Built with anthropic-api, claude, claude-code, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** anthropic-api, claude, claude-code, fastapi, github, google-cloud-run, linear, next.js, photon, postgresql, pytest, python, react, supabase, supabase-auth, tailwind-css, typescript, vercel, vitest, zod
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=v2oRRCjdOkc)
 - **All prizes at this hackathon (1):** &#91;Peri&#93; Forward Deployed Engineer
 - **Award:** Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri. The write-up gives no details on how the team used the sponsor’s tech.
@@ -654,14 +654,14 @@ Ever wanted to relive a moment in time? With Rewind, step inside your old videos
 
 What you deserve in your drinking water.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
+No public code found · [Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** arduino-uno, deck.gl, esp-now, esp32, fastapi, gemini-api, langchain-deepagents, langgraph, maplibre, overture, photon, python, raspberry-pi, sensors, sqlite, three.js, tiger-data/timescaledb, vite, water-filtration
-- **Code:** No public code linked
+- **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Ud5rvpX2Ixw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
 - **How it used Tiger Data:** The backend evaluates measurements against configured thresholds, tracks filter life using manufacturer-specific guidelines, and manages historical water quality data through Tiger Data.

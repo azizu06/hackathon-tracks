@@ -63,9 +63,9 @@ Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay a
 
 A physical creative harness for agentic video creation.
 
-**Google:** Built with gemini (listed on Devpost)
+**Google · Listed on Devpost:** Built with gemini (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=IDO7cJnBtp0) · Built with gemini, gemini-live, node.js, openai-codex
+No public code found · [Demo video](https://www.youtube.com/watch?v=IDO7cJnBtp0) · Built with gemini, gemini-live, node.js, openai-codex
 
 ### [Degreesº](https://devpost.com/software/degrees-gdibjk)
 
@@ -171,7 +171,7 @@ An accessible comic reader plays panels aloud and lets readers advance them with
 
 [HackUTD 2026](../by-hackathon/hackutd-2026.md#project-nueroflex) · **Best Use of Gemini API**
 
-An AI-powered robotic hand controlled by brain-to-muscle intent signals, adapting therapy in real time across stroke, Parkinson’s, and three more conditions for $30.
+An AI-powered robotic hand controlled by brain-to-muscle intent signals, adapting therapy in real time across stroke, Parkinson’s, and three more conditions.
 
 **How it used Google:** MediaPipe tracks the patient’s healthy hand with a webcam and extracts per-finger curl values.
 
@@ -205,7 +205,7 @@ Finding you the prompt you deserve.
 
 **How it used Google:** Gemini picks an icon for each new collection from its name.
 
-No public code linked · Built with gemini, google-oauth, chrome, fastapi
+No public code found · Built with gemini, google-oauth, chrome, fastapi
 
 ## 2025 winners
 
@@ -277,7 +277,7 @@ CarbonSight is a carbon-aware optimization framework for generative AI:.
 
 **How it used Google:** The project uses Gemini embeddings to detect similar prompts and avoid redundant compute.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
+No public code found · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
 
 ### [Cena Can See](https://devpost.com/software/cena-can-see)
 
@@ -457,7 +457,7 @@ Tyodor is a 10-year-old AI that students teach to, reinforcing learning while gi
 
 **How it used Google:** Google Gemini powers the learning assistant via its OpenAI-compatible interface.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
+No public code found · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
 
 ### [VibeMovie](https://devpost.com/software/promptmotion)
 
@@ -477,7 +477,7 @@ The team describes the project as “Speak worlds into reality”.
 
 **How it used Google:** Gemini generates GLSL code from a speech-to-text prompt.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=HXS_7HzJmYo) · Built with gemini, google-gemini, google-web-speech-api, glsl
+No public code found · [Demo video](https://www.youtube.com/watch?v=HXS_7HzJmYo) · Built with gemini, google-gemini, google-web-speech-api, glsl
 
 ### [WingNote](https://devpost.com/software/wingnote)
 
@@ -549,7 +549,7 @@ Democratizing pro-level Poker play in real-time with computer vision.
 
 **How it used Google:** The team integrated Google AI Breadboard for assistant feedback, gameplay highlights, and strategic recommendations.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=RsqhOLFsGEw) · Built with gemini, google-breadboard, async-storage, endpoint-api
+No public code found · [Demo video](https://www.youtube.com/watch?v=RsqhOLFsGEw) · Built with gemini, google-breadboard, async-storage, endpoint-api
 
 ### [ReadEasy](https://devpost.com/software/readeasy-eyaiv1)
 
@@ -623,7 +623,7 @@ Reinventing a touch keyboard with machine learning.
 
 **How it used Google:** The team used Google Cloud Platform to train its model.
 
-No public code linked · Built with google-cloud, tensorflow
+No public code found · Built with google-cloud, tensorflow
 
 ## 2018 winners
 
@@ -635,7 +635,7 @@ An intergalactic battle for the ages.
 
 **Award:** Won “VR Zone by Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W8) · Built with c#, htc-vive, unity
+No public code found · [Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W8) · Built with c#, htc-vive, unity
 
 ### [ViGCam](https://devpost.com/software/vigicam)
 
@@ -667,7 +667,7 @@ Automatic purchase detection and rounding up to make donating to charity easy an
 
 **How it used Google:** The Firebase JavaScript SDK helps store round-up calculations.
 
-No public code linked · Built with firebase, ajax, css, html
+No public code found · Built with firebase, ajax, css, html
 
 ### [SeQR Scanner and Generator](https://devpost.com/software/seqr-scanner-and-generator)
 
@@ -677,7 +677,7 @@ The product encrypts QR codes such that, if scanned by someone who is not author
 
 **How it used Google:** The team built the back end using cloud functions and Firebase.
 
-No public code linked · Built with firebase, crypto, express.js, javascript
+No public code found · Built with firebase, crypto, express.js, javascript
 
 ## 2016 winners
 
@@ -707,7 +707,7 @@ A platform that helps people collaborate towards finding missing people.
 
 DronAR allows users to view realtime information about their drones such as positional data and status.
 
-**How it used Google:** Toggles Google Cardboard VR mode when the user presses the spacebar.
+**How it used Google:** Toggles VR mode in the Cardboard SDK when the space key is pressed.
 
 [Code](https://github.com/sebLopezCot/DronAR) · Built with azure, express.js, mongodb, node.js
 
@@ -719,7 +719,7 @@ A collaborative virtual reality game that encourages exercise and runs wirelessl
 
 **How it used Google:** Players exchange game state over the Firebase server to synchronize their virtual reality experiences.
 
-No public code linked · Built with firebase, google-cardboard, arduino, c++
+No public code found · Built with firebase, google-cardboard, arduino, c++
 
 ### [VR DJ](https://devpost.com/software/vr-dj)
 
@@ -729,7 +729,7 @@ VR DJ allows you to visualize and manipulate music.
 
 **Google:** Sponsor use not stated on Devpost
 
-No public code linked · Built with c#, unity, vive
+No public code found · Built with c#, unity, vive
 
 ## 2013 winners
 
@@ -739,9 +739,9 @@ No public code linked · Built with c#, unity, vive
 
 The Devpost entry has no usable short project description.
 
-**Google:** Built with google-earth (listed on Devpost)
+**Google · Listed on Devpost:** Built with google-earth (listed on Devpost)
 
-No public code linked · Built with google-earth, weather-underground
+No public code found · Built with google-earth, weather-underground
 
 ## Track names and requirements
 

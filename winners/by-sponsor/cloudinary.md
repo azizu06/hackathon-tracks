@@ -65,7 +65,7 @@ Turn trash into cash: report litter, clean it up, get paid in Solana.
 
 **How it used Cloudinary:** The project uses Cloudinary AI Vision to verify photos with natural language prompts.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
+No public code found · [Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
 
 ## Track names and requirements
 
