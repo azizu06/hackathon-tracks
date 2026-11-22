@@ -1,6 +1,7 @@
 """Package the current winners index for static hosting and offline browsing."""
 
 import json
+import re
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -47,6 +48,19 @@ def first_url(*values, host=None):
     return ""
 
 
+def short_title(title, sponsor):
+    """Drop a sponsor or MLH prefix and a trailing prize-value aside from a Devpost label."""
+    text = " ".join(title.split())
+    if sponsor:
+        text = re.sub(r"^\[[^\]]+\]\s*", "", text)
+        text = re.sub(r"^MLH\s*[:\-–]\s*", "", text)
+        for separator in (": ", " - ", " – "):
+            if text.casefold().startswith(sponsor.casefold() + separator):
+                text = text[len(sponsor + separator):]
+    trimmed = re.sub(r"\s*\([^()]*\)$", "", text)
+    return trimmed if len(trimmed) >= 8 else text
+
+
 def award_rows(row, sponsors):
     prize = label(field(row, "prize", "prize_name", "award", "award_title"))
     for sponsor in sponsors or [""]:
@@ -83,7 +97,7 @@ def catalog(source):
         links = row.get("links") if isinstance(row.get("links"), dict) else {}
         devpost = first_url(field(row, "devpost_url", "devpost", "project_url", "url"), links.get("devpost"), host="devpost.com")
         key = urlsplit(devpost).path.rstrip("/").casefold() if devpost else (name.casefold(), event.casefold(), year)
-        summary = label(field(row, "summary", "project_summary", "description", "tagline", "short_description"))
+        summary = label(field(row, "description", "project_summary", "summary", "tagline", "short_description"))
         github = first_url(field(row, "github_url", "github", "github_links", "repository_url", "source_url", "source_urls", "source_links"), links.get("github"), host="github.com")
         demo = first_url(field(row, "demo_url", "demo", "demo_links", "demo_video_urls", "video_url", "video_link", "live_url"), links.get("demo"))
         image = first_url(field(row, "image_url", "thumbnail_url", "thumbnail", "project_image_url", "cover_image_url", "devpost_image_url", "image", "images"))
@@ -113,7 +127,7 @@ def catalog(source):
                 project["sponsors"].setdefault(sponsor.casefold(), sponsor)
             award_key = title.casefold()
             if sponsor or award_key not in project["awards"]:
-                project["awards"][award_key] = {"sponsor": sponsor, "title": title}
+                project["awards"][award_key] = {"sponsor": sponsor, "title": short_title(title, sponsor)}
 
     for project in projects.values():
         for key_name in ("sponsors", "tech", "awards"):
@@ -130,18 +144,6 @@ def main():
     (SITE / "catalog.js").write_text(f"window.TRACKS_CATALOG = {data};\n", encoding="utf-8")
     sponsors = {sponsor.casefold() for project in projects for sponsor in project["sponsors"]}
     editions = {(project["event"].casefold(), project["year"]) for project in projects if project["event"]}
-    award_count = len(source) if isinstance(source, list) else None
-    counts = f"`{len(projects):,} projects` · `{len(sponsors):,} sponsors` · `{len(editions):,} hackathon editions`"
-    if award_count is not None:
-        counts += f" · `{award_count:,} prize rows`"
-    (SITE / "README_HERO.md").write_text(f"""# Hackathon Tracks site preview
-
-{counts}
-
-Open [Hackathon Tracks](https://tracks.azizu.dev/), or browse the [GitHub directory](../README.md) and [download the CSV](../winners/winners.csv).
-
-![The Hackathon Tracks site with sponsor filters and winning projects](../docs/tracks-preview.webp)
-""", encoding="utf-8")
     print(f"{len(projects)} projects · {len(sponsors)} sponsors · {len(editions)} hackathon editions")
 
 

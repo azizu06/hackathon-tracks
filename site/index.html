@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Explore projects that won hackathon sponsor tracks and pick tracks for your next hackathon.">
+  <meta name="description" content="Search past hackathon winners by sponsor prize, hackathon, year and tech, and pick the tracks for your next build.">
   <meta name="color-scheme" content="light dark">
   <title>Hackathon Tracks</title>
   <script>
@@ -22,73 +22,107 @@
   <script src="./app.js" defer></script>
 </head>
 <body>
+  <svg width="0" height="0" class="sprite" aria-hidden="true">
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></symbol>
+    <symbol id="i-out" viewBox="0 0 24 24"><path d="M7 17 17 7M8 7h9v9"/></symbol>
+    <symbol id="i-code" viewBox="0 0 24 24"><path d="m8 7-5 5 5 5M16 7l5 5-5 5"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m10 8.5 5.5 3.5-5.5 3.5z"/></symbol>
+    <symbol id="i-award" viewBox="0 0 24 24"><circle cx="12" cy="9" r="5.5"/><path d="m8.5 13.5-1.5 7.5 5-2.5 5 2.5-1.5-7.5"/></symbol>
+    <symbol id="i-theme" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 3.5v17a8.5 8.5 0 0 0 0-17z" fill="currentColor" stroke="none"/></symbol>
+    <symbol id="i-back" viewBox="0 0 24 24"><path d="M19 12H5M11 6l-6 6 6 6"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+  </svg>
   <a class="skip" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="shell header-inner">
       <a class="brand" href="#browse"><span class="brand-mark" aria-hidden="true"></span> Hackathon Tracks</a>
-      <label class="theme">
-        <span class="sr-only">Theme</span>
-        <select id="theme" aria-label="Theme">
-          <option value="system">Theme: System</option>
-          <option value="light">Theme: Light</option>
-          <option value="dark">Theme: Dark</option>
-        </select>
-      </label>
+      <div class="header-actions">
+        <a class="header-link" href="https://github.com/azizu06/hackathon-tracks">GitHub</a>
+        <label class="theme">
+          <svg class="icon" aria-hidden="true"><use href="#i-theme"/></svg>
+          <span class="sr-only">Color theme</span>
+          <select id="theme">
+            <option value="system">System</option>
+            <option value="light">Light</option>
+            <option value="dark">Dark</option>
+          </select>
+        </label>
+      </div>
     </div>
   </header>
   <main id="main" class="shell" tabindex="-1">
-    <section class="hero" aria-labelledby="hero-title">
+    <section class="hero" aria-label="About Hackathon Tracks">
       <div class="hero-art" aria-hidden="true">
         <i></i><i></i><i></i><i></i><i></i>
       </div>
       <div class="hero-content">
-        <h1 id="hero-title">Pick the track<br>before the idea.</h1>
-        <p>See what won sponsor prizes. Find tracks that fit your next hackathon build.</p>
-        <ul id="catalog-stats" class="hero-stats" aria-label="Catalog coverage"></ul>
+        <p class="hero-title">Pick the track before the idea.</p>
+        <p>See what won each sponsor's prize at past hackathons, then build for the tracks that fit.</p>
+        <ul id="catalog-stats" class="hero-stats" aria-label="What the catalog covers"></ul>
       </div>
     </section>
-    <nav class="section-nav" aria-label="Explore the catalog">
-      <a href="#browse" data-view="browse">Winners</a>
-      <a href="#sponsors" data-view="sponsors">Sponsors</a>
-      <a href="#champions" data-view="champions">Champions</a>
-      <a href="#picker" data-view="picker">Track picker</a>
+    <nav class="section-nav" aria-label="Browse the catalog">
+      <div class="section-nav-inner">
+        <a href="#browse" data-view="browse">Winners</a>
+        <a href="#sponsors" data-view="sponsors">Sponsors</a>
+        <a href="#hackathons" data-view="hackathons">Hackathons</a>
+        <a href="#champions" data-view="champions">Multi-track</a>
+        <a href="#picker" data-view="picker">Track picker</a>
+      </div>
     </nav>
     <section class="workspace" aria-labelledby="view-title">
-      <h2 id="view-title" tabindex="-1">Winning projects</h2>
-      <p id="view-intro" class="view-intro" hidden></p>
+      <div class="view-head">
+        <p id="view-crumb" class="view-crumb" hidden><a href="#sponsors"><svg class="icon" aria-hidden="true"><use href="#i-back"/></svg>All sponsors</a></p>
+        <h1 id="view-title" tabindex="-1">Winning projects</h1>
+        <p id="view-intro" class="view-intro" hidden></p>
+        <p id="view-links" class="view-links" hidden></p>
+      </div>
       <div id="context" hidden></div>
-      <div id="catalog-controls" hidden>
+      <div id="catalog-controls" class="controls" hidden>
         <label class="search">
-          <span class="search-icon" aria-hidden="true"></span>
+          <svg class="icon" aria-hidden="true"><use href="#i-search"/></svg>
           <span class="sr-only">Search winners</span>
-          <input type="search" id="search" placeholder="Search projects, descriptions, tech…">
+          <input type="search" id="search" placeholder="Search projects, ideas or tech" autocomplete="off">
         </label>
-        <div class="filters" aria-label="Filters">
-          <select id="filter-sponsor" aria-label="Sponsor filter"></select>
-          <select id="filter-event" aria-label="Hackathon filter"></select>
-          <select id="filter-year" aria-label="Year filter"></select>
-          <select id="filter-tech" aria-label="Tech filter"></select>
-          <button id="clear" type="button" hidden>Clear filters</button>
+        <div class="filters">
+          <label class="field" id="field-sponsor"><span>Sponsor</span><select id="filter-sponsor"></select></label>
+          <label class="field"><span>Hackathon</span><select id="filter-event"></select></label>
+          <label class="field"><span>Year</span><select id="filter-year"></select></label>
+          <label class="field"><span>Tech</span><select id="filter-tech"></select></label>
         </div>
       </div>
       <div id="result-toolbar" class="result-toolbar" hidden>
-        <p id="result-status" role="status"></p>
+        <p class="result-count"><span id="result-status" role="status"></span>
+          <button id="clear" class="text-button" type="button" hidden>
+            <svg class="icon" aria-hidden="true"><use href="#i-x"/></svg>Clear filters
+          </button>
+        </p>
         <label class="sort">
-          <span>Sort by</span>
+          <span>Sort</span>
           <select id="sort">
             <option value="match" hidden>Best match</option>
             <option value="recent">Newest</option>
             <option value="awards">Most prizes</option>
-            <option value="name">Project name</option>
+            <option value="name">Name A to Z</option>
           </select>
         </label>
       </div>
       <div id="results" class="project-grid"></div>
-      <div class="more"><button id="more" type="button" hidden></button></div>
+      <div class="more"><button id="more" class="button" type="button" hidden></button></div>
       <p id="load-error" hidden>The winners catalog could not load. Rebuild it with <code>python3 site/build.py</code>.</p>
-      <noscript><p>Enable JavaScript to explore the catalog.</p></noscript>
+      <noscript><p>Turn on JavaScript to search the catalog, or browse it <a href="https://github.com/azizu06/hackathon-tracks">on GitHub</a>.</p></noscript>
     </section>
-    <footer class="site-footer">Award records and project details are drawn from Devpost. The catalog covers selected hackathons.</footer>
   </main>
+  <footer class="site-footer">
+    <div class="shell footer-inner">
+      <p>Winner records come from public Devpost pages. Coverage is limited to the hackathons listed.</p>
+      <ul class="footer-links">
+        <li><a href="https://github.com/azizu06/hackathon-tracks">Browse on GitHub</a></li>
+        <li><a href="https://github.com/azizu06/hackathon-tracks/blob/main/winners/winners.json">Data as JSON</a></li>
+        <li><a href="https://github.com/azizu06/hackathon-tracks/blob/main/winners/winners.csv">Data as CSV</a></li>
+        <li><a href="https://github.com/azizu06/hackathon-tracks/issues/new">Report a missing winner</a></li>
+      </ul>
+    </div>
+  </footer>
 </body>
 </html>
