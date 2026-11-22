@@ -33,7 +33,7 @@ Moods and Metrics visualizes estimated stress levels from audio, video, and tran
 
 Combat misinformation through flagged Tweets and grounded sources, and reference a realtime dashboard that visualizes trends on a global scale.
 
-**Otsuka / VALUENEX:** Sponsor use not stated on Devpost
+**Theme prize: no sponsor tech named** · Won “Otsuka Valuenex: VALUENEX Big Data Visualization Award” from Otsuka / VALUENEX.
 
 [Code](https://github.com/dav1dbai/Vigilante) · [Demo video](https://www.youtube.com/watch?v=NQWxzOrpraY) · Built with d3.js, fastapi, groq, next
 

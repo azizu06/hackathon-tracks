@@ -59,7 +59,7 @@ A code research tool indexes commit history so developers can search for earlier
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Snowflake API · &#91;Warp&#93; Best Developer Tool
 - **How it used Snowflake:** Generates semantic embeddings using Snowflake Cortex -Creates vector embeddings using Cortex-generated commit analysis as the embedding text source.
-- **Award:** Won “&#91;Warp&#93; Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Warp&#93; Best Developer Tool” from Warp.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -115,7 +115,7 @@ Agentic security testing for vibe-coded apps — before you ship.
 - **Code:** [Source 1](https://github.com/jkuo630/Trojan)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4-LN6P5TIFk)
 - **All prizes at this hackathon (1):** &#91;1Password&#93; Best Security Hack
-- **Award:** Won “&#91;1Password&#93; Best Security Hack” from 1Password. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;1Password&#93; Best Security Hack” from 1Password.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -142,7 +142,7 @@ A robot event photographer that captures moments, curates the best frames, and p
 - **Code:** [Source 1](https://github.com/elijahzhao24/BizBot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-nSwDxqMe5E)
 - **All prizes at this hackathon (1):** &#91;Block&#93; Best Real-World Ready AI Product
-- **Award:** Won “&#91;Block&#93; Best Real-World Ready AI Product” from Block. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Block&#93; Best Real-World Ready AI Product” from Block.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -169,7 +169,7 @@ Sandbox world of financial AI agents to help you learn trading.
 - **Code:** [Source 1](https://github.com/dewgong5/nwhacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Qcazd8EwHQ0)
 - **All prizes at this hackathon (1):** &#91;Connor, Clark &amp; Lunn&#93; Best Financial Hack
-- **Award:** Won “&#91;Connor, Clark &amp; Lunn&#93; Best Financial Hack” from Connor, Clark &amp; Lunn. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Connor, Clark &amp; Lunn&#93; Best Financial Hack” from Connor, Clark &amp; Lunn.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -277,7 +277,7 @@ A smart biofeedback pen and web app that guides users through quick exercises to
 - **Code:** [Source 1](https://github.com/SteadyScript/SteadyScript)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QCpoyvr15rE)
 - **All prizes at this hackathon (2):** &#91;PCCA&#93; Best Wellness Related Hack · Best Beginner Project
-- **Award:** Won “&#91;PCCA&#93; Best Wellness Related Hack” from Pacific Canadian Chinese Association. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;PCCA&#93; Best Wellness Related Hack” from Pacific Canadian Chinese Association.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -364,7 +364,7 @@ MelaNone is a limb-scanning system designed to help detect melanoma early on.
 - **Code:** [Source 1](https://github.com/jasonkwok475/MelaNone)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z7EJEKKdNtc)
 - **All prizes at this hackathon (1):** &#91;Telus&#93; The Edge of Innovation
-- **Award:** Won “&#91;Telus&#93; The Edge of Innovation” from TELUS. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Telus&#93; The Edge of Innovation” from TELUS.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

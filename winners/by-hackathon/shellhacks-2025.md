@@ -47,7 +47,7 @@ These projects won more than one prize here. Each one is listed once.
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with typescript, jetson-orin, gemini, google-adk
+No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -57,9 +57,9 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0t4X0DoKbsc)
 - **All prizes at this hackathon (3):** Microsoft · NVIDIA · Waymo
-- **Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
+- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
 - **How it used NVIDIA:** The team used SSH tunnels to connect its hosts to the Jetson Orin mounted on the Jetbot.
-- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -82,8 +82,8 @@ The hack provides the user a navigational interface similar to other popular nav
 - **Code:** [Source 1](https://github.com/davidrobinson05/birds-eye)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lzUBJfDPxwM)
 - **All prizes at this hackathon (2):** Assurant · Waymo
-- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
-- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
+- **Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -106,8 +106,8 @@ A web-app developed to help prep students for their technical interviews through
 - **Code:** [Source 1](https://github.com/Albertoh16/Bear-Necessities)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uNDWa84R2Aw)
 - **All prizes at this hackathon (2):** Assurant · Microsoft
-- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
-- **Microsoft · Listed on Devpost:** Built with TypeScript (listed on Devpost)
+- **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
+- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -130,8 +130,8 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LhTFg3cLcq8)
 - **All prizes at this hackathon (2):** Netflix · State Farm
-- **Award:** Won “Netflix” from Netflix. The write-up gives no details on how the team used the sponsor’s tech.
-- **Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Netflix” from Netflix.
+- **Theme prize: no sponsor tech named** · Won “State Farm” from State Farm.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -162,7 +162,7 @@ Meet ClariTA, your late-night study partner! Make studying easier by uploading y
 - **Code:** [Source 1](https://github.com/enzofgomes/ClariTA-Teaching-Assistant)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lab8c8u5a7M)
 - **All prizes at this hackathon (1):** Assurant
-- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -216,7 +216,7 @@ Depending on the task, an orchestrator agent decided which specialized agents to
 - **Code:** [Source 1](https://github.com/dominickdupuy/InvoiceFraudDetector)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aegOE2791Ow)
 - **All prizes at this hackathon (1):** Capital One
-- **Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Capital One” from Capital One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -243,7 +243,7 @@ Transform any GitHub repository into an interactive, visual tree structure. AI-p
 - **Code:** [Source 1](https://github.com/hieunguyent12/shellhacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oo69VDuMhTU)
 - **All prizes at this hackathon (1):** Github
-- **How it used GitHub:** The backend uses the GitHub REST API.
+- **Theme prize: no sponsor tech named** · Won “Github” from GitHub.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,7 +320,7 @@ Beacon is a smart navigation app that helps users plan safe routes by having rea
 - **Code:** [Source 1](https://github.com/Bashguy/Beacon)
 - **Demo video:** [Video 1](https://vimeo.com/1123425305)
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** Firestore stores user information and contacts, and Realtime Database handles immediately needed data such as battery level.
+- **Theme prize: no sponsor tech named** · Won “Google” from Google.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -366,7 +366,7 @@ Breaking language barriers, one word at a time.
 - **Code:** [Source 1](https://github.com/EzSpeak-development/EzSpeak-frontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0lh1fenJgQw)
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** The project uses Chrome’s tabCapture API to grab audio from the active tab.
+- **Theme prize: no sponsor tech named** · Won “Google” from Google.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -435,7 +435,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=55OuqH7E-lA)
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** Google Gemini powers the learning assistant via its OpenAI-compatible interface.
+- **Theme prize: no sponsor tech named** · Won “Google” from Google.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -454,7 +454,7 @@ Also won this track: [VL-ADK](#project-vl-adk), [PrepBear](#project-prep-bear) (
 
 Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body movements into computer input.
 
-[Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with typescript, css3, electron, gemini
+[Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with css3, electron, gemini, google-a2a
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -464,7 +464,7 @@ Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body 
 - **Code:** [Source 1](https://github.com/DanielJEfres/ctrl-arm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=81FJv9Wgcoo)
 - **All prizes at this hackathon (1):** Microsoft
-- **Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
+- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -493,7 +493,7 @@ An original choose-your-own-adventure story born in VR: tabletop storytelling tu
 - **Code:** [Source 1](https://github.com/hverd004/Quest_and_Conflicts_VR)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rvIY5CLoFOE)
 - **All prizes at this hackathon (1):** Netflix
-- **Award:** Won “Netflix” from Netflix. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Netflix” from Netflix.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -528,7 +528,7 @@ GreenLight turns dashcam footage into a learning tool. Incidents become 3D simul
 - **Code:** [Source 1](https://github.com/thashin04/GreenLight-Driving)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WQnBQUI-LtE)
 - **All prizes at this hackathon (1):** State Farm
-- **Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “State Farm” from State Farm.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -551,7 +551,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=72e2HA9fW8Y)
 - **All prizes at this hackathon (1):** State Farm
-- **Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “State Farm” from State Farm.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -580,7 +580,7 @@ Leverages computer vision, GPS, and crowdsourcing to detect potholes, warn drive
 - **Code:** [Source 1](https://github.com/OpenPotholeMap/open-pothole-map-repo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=anqbJP1ct0A)
 - **All prizes at this hackathon (1):** Waymo
-- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

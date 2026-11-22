@@ -23,7 +23,7 @@
 
 Agentic security testing for vibe-coded apps — before you ship.
 
-**Award:** Won “&#91;1Password&#93; Best Security Hack” from 1Password. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;1Password&#93; Best Security Hack” from 1Password.
 
 [Code](https://github.com/jkuo630/Trojan) · [Demo video](https://www.youtube.com/watch?v=4-LN6P5TIFk) · Built with javascript, langgraph, next.js, oauth
 
@@ -35,7 +35,7 @@ Agentic security testing for vibe-coded apps — before you ship.
 
 The team are a decentralized API key sharing intermediary service.
 
-**Award:** Won “1Password Sponsor Prize” from 1Password. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “1Password Sponsor Prize” from 1Password.
 
 [Code](https://github.com/bradeu/b.env) · Built with chakraui, ethereum, fiber, go
 
@@ -47,7 +47,7 @@ The team are a decentralized API key sharing intermediary service.
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) | &#91;1Password&#93; Best Security Hack | No specific requirement captured | [Event prize rules](https://nwhacks-2026.devpost.com/) |
-| [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | 1Password Sponsor Prize | Build a creative security-focused hackathon project that keeps simplicity and usability at its core. | [Devpost prize description](https://nwhacks-2025.devpost.com/) |
+| [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | 1Password Sponsor Prize | No specific requirement captured | [Event prize rules](https://nwhacks-2025.devpost.com/) |
 
 </details>
 

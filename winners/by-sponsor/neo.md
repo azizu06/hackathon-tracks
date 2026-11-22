@@ -23,7 +23,7 @@
 
 You can take a picture and choose from a range of filters to apply to your image.
 
-**Award:** Won “&#91;Neo&#93; Most Likely to Become a Product” from Neo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Neo&#93; Most Likely to Become a Product” from Neo.
 
 [Code](https://github.com/alexkranias/diffuji) · [Demo video](https://www.youtube.com/watch?v=JiRth1HCIag) · Built with python, raspberry-pi
 
@@ -35,7 +35,7 @@ You can take a picture and choose from a range of filters to apply to your image
 
 Connecting the dots for investigative minds.
 
-**Award:** Won “Neo: Most Likely to Become a Business (Airfare + Accomodations at Neo Summer Retreat)” from Neo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Neo: Most Likely to Become a Business (Airfare + Accomodations at Neo Summer Retreat)” from Neo.
 
 [Code](https://github.com/Honyant/Sherlock) · [Demo video](https://www.youtube.com/watch?v=n7HRhVSLlew) · Built with python, react, vite
 

@@ -35,7 +35,7 @@ No public code found · Built with react, ruby, ruby-on-rails
 
 Kiva + Invest. Kinvest allows Lenders to leverage machine learning to maximize impact in developing nations.
 
-**Award:** Won “Most Insightful Hack (BNP Paribas)” from BNP Paribas. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Most Insightful Hack (BNP Paribas)” from BNP Paribas.
 
 No public code found · Built with firebase, flask, machine-learning, pandas
 

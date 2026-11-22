@@ -82,7 +82,7 @@ This project integrates quantum simulation and machine learning to:.
 - **Code:** [Source 1](https://github.com/Sankalp-dasari/bitcamp25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DdIYIRiyi7E)
 - **All prizes at this hackathon (1):** Best Hack Promoting Public Health - Bloomberg
-- **Award:** Won “Best Hack Promoting Public Health - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Hack Promoting Public Health - Bloomberg” from Bloomberg.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -159,7 +159,7 @@ Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 - **Code:** [Source 1](https://github.com/AHumanMaybe/forens-tech)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
-- **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,7 +386,7 @@ Mobile app for users to find and share recipes. Allows for automatic calculation
 - **Code:** [Source 1](https://github.com/anhatthezoo/bitcamp2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yF3dHHbZJn8)
 - **All prizes at this hackathon (1):** Best Web Hack Using React - Peraton
-- **Award:** Won “Best Web Hack Using React - Peraton” from Peraton. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Web Hack Using React - Peraton” from Peraton.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

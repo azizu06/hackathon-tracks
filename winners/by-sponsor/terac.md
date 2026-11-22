@@ -45,7 +45,7 @@ Empowering blind and low-vision fans to follow the action, context, and emotion 
 
 Oversight is a political transparency platform that turns complex government data into clear, AI-powered insights.
 
-**Award:** Won “Best Consumer Hack by Terac” from Terac. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Consumer Hack by Terac” from Terac.
 
 [Code](https://github.com/dilzafer/oversightusa) · [Demo video](https://www.youtube.com/watch?v=ZYPj0qvPgrA) · Built with cloudflare, elevenlabs, gemini, llama
 

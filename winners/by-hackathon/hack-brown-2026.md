@@ -57,7 +57,7 @@ An agentic AI system that fights back for renters—scouting real listings, expo
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xCzTYc7mIIg)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Gemini API · Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
 - **How it used Google:** The project uses Google Gemini 2.0 Flash for reasoning.
-- **Award:** Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -80,8 +80,8 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 - **Code:** [Source 1](https://github.com/Vigneshpeddi/SpaceShare)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Capital One - Best Financial Hack · Visa - Custom Track
-- **How it used Capital One:** The project used Capital One APIs to funnel 20% of earnings into savings accounts.
-- **How it used Visa:** The team integrated payouts to homeowners and used Visa Direct APIs to push funds to lister's cards.
+- **Theme prize: no sponsor tech named** · Won “Capital One - Best Financial Hack” from Capital One.
+- **Theme prize: no sponsor tech named** · Won “Visa - Custom Track” from Visa.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -255,7 +255,7 @@ Whenever you're on a shopping site, Stopify tracks your vital signs and your act
 - **Code:** [Source 1](https://github.com/calebellenberg/hackAtBrown2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
-- **Award:** Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -278,7 +278,7 @@ Unserious is an AI trip planner learning your style via "This or That" choices t
 - **Code:** [Source 1](https://github.com/oliviaaheng/unserious)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
-- **Award:** Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -411,7 +411,7 @@ Also won this track: [SpaceShare](#project-spacesquare) (listed above)
 - **Code:** [Source 1](https://github.com/MUNDANE-MONDAYS/MEchelin_Guide)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-rXiF6k6-8Y)
 - **All prizes at this hackathon (1):** Visa - Custom Track
-- **Award:** Won “Visa - Custom Track” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Visa - Custom Track” from Visa.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

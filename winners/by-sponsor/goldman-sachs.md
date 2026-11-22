@@ -23,7 +23,7 @@
 
 Loan Wick helps loan officers flag duplicate collateral and group exposure, with source-backed findings, human review, and real-time audit trails.
 
-**Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Goldman Sachs Track” from Goldman Sachs.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=B7mWEOy4dME) · Built with css, nemotron, node.js, python
 
@@ -33,7 +33,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=B7mWEOy4dME
 
 Connect the dots. Detect the risks.
 
-**Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Goldman Sachs Track” from Goldman Sachs.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c) · Built with python, react, tailwind, vite
 
@@ -43,7 +43,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c
 
 The pipeline your team trusts to automate your commercial loans.
 
-**Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Goldman Sachs Track” from Goldman Sachs.
 
 [Code](https://github.com/mnettem21/DealPilot) · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
 
@@ -55,7 +55,7 @@ The pipeline your team trusts to automate your commercial loans.
 
 Vendor onboarding at light speed using AWS.
 
-**Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Goldman Sachs” from Goldman Sachs.
 
 [Code](https://github.com/Rabib001/HackUTD_2025) · [Demo video](https://www.youtube.com/watch?v=L-hYahgOGGk) · Built with amazon-rds-relational-database-service, amazon-web-services, api-gateway, gemini
 
@@ -65,7 +65,7 @@ Vendor onboarding at light speed using AWS.
 
 Stamped is a secure and intelligent onboarding platform designed for financial institutions. It streamlines client and vendor onboarding with AI-powered features, and comprehensive compliance tools.
 
-**Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Goldman Sachs” from Goldman Sachs.
 
 [Code](https://github.com/advegaf/stamped) · [Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
 
@@ -75,7 +75,7 @@ Stamped is a secure and intelligent onboarding platform designed for financial i
 
 TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract data, verify identity, and score risk, blending AI speed with human approval for secure, fast compliance.
 
-**Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Goldman Sachs” from Goldman Sachs.
 
 [Code](https://github.com/ybavgito/TrustIssues.AI-HackUTD-2025-Winner-Goldman-Sachs-Track) · [Demo video](https://www.youtube.com/watch?v=6aPw8P9URv0) · Built with nemotron, openaisdk, python, streamlit
 
@@ -87,7 +87,7 @@ TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract
 
 AI-Banking is the ultimate financial companion for the unbanked, underbanked, and everyone else! Welcome to the future of banking, reimagined for everyone.
 
-**Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Goldman Sachs” from Goldman Sachs.
 
 [Code](https://github.com/aprajita27/AllBank) · [Demo video](https://www.youtube.com/watch?v=PpnAEd4Dwek) · Built with firebase, gemini, react-native
 
@@ -97,7 +97,7 @@ AI-Banking is the ultimate financial companion for the unbanked, underbanked, an
 
 Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-time cost-sharing for everyone—fast, fair, and hassle-free. 💸⚡.
 
-**Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Goldman Sachs” from Goldman Sachs.
 
 [Code](https://github.com/danielodicho/lumo) · [Demo video](https://www.youtube.com/watch?v=SXQl53rMZ6Q) · Built with angular.js, axios, javascript, mongoose
 
@@ -107,7 +107,7 @@ Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-t
 
 Where YOU can talk to your own personalized bank.
 
-**Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Goldman Sachs” from Goldman Sachs.
 
 [Code](https://github.com/aurelisajuan/TalkTuahBank) · [Demo video](https://www.youtube.com/watch?v=YsH_z1azXSA) · Built with latex, nextjs, openai, pinata
 
@@ -119,7 +119,7 @@ Where YOU can talk to your own personalized bank.
 
 NewsMap utilizes global market visualization software to provide a real-time visualization of news reports mentioning companies across the world in over 65 languages.
 
-**Award:** Won “Sponsor Prize - Goldman Sachs - Second Best Data Visualization” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Goldman Sachs - Second Best Data Visualization” from Goldman Sachs.
 
 [Code](https://github.com/davidluca123/NewsMap) · Built with carto, mapbox
 
@@ -129,7 +129,7 @@ NewsMap utilizes global market visualization software to provide a real-time vis
 
 Determine the best path from two inside-building points scanning automatically the maps and based on crowd movements.
 
-**Award:** Won “Sponsor Prize - Goldman Sachs - Best Data Visualization” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Goldman Sachs - Best Data Visualization” from Goldman Sachs.
 
 [Code](https://github.com/jjgarau/HackMIT2017) · Built with flask, python, scikit
 

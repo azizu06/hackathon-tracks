@@ -773,7 +773,7 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
 
-[Code](https://github.com/kgand/shellhacks2024) · Built with typescript, axios, chatgpt, computer-vision
+[Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
 
 ### [DriveWise](https://devpost.com/software/drivewise-g09s5y)
 

@@ -23,7 +23,7 @@
 
 Meet MARC, the robot that turns text prompts into crisp drawings. In minutes, MARC uses LLM &amp; LinAlg-based framework to drive a robot arm, ready for any setting where ink, motion, &amp; imagination meet.
 
-**Award:** Won “BitRobot Network: Best Robotics Hack - 2nd Place” from BitRobot Network. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “BitRobot Network: Best Robotics Hack - 2nd Place” from BitRobot Network.
 
 [Code](https://github.com/yyardi/cal-hacks-marc) · [Demo video](https://www.youtube.com/watch?v=qy0NNvkc4do) · Built with hugging-face, lerobot, opencv, python
 
@@ -33,7 +33,7 @@ Meet MARC, the robot that turns text prompts into crisp drawings. In minutes, MA
 
 Teaching robots to see, listen, and move like us. MIRAI is an experimental human-robot interaction framework that enables natural motion and voice-based control of robots.
 
-**Award:** Won “BitRobot Network: Best Robotics Hack - 1st Place” from BitRobot Network. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “BitRobot Network: Best Robotics Hack - 1st Place” from BitRobot Network.
 
 [Code](https://github.com/A-Mundanilkunathil/Unitree-G1) · [Demo video](https://www.youtube.com/watch?v=rB6KpJc6uoU) · Built with mediapipe, opencv, pinocchio, python
 
@@ -43,7 +43,7 @@ Teaching robots to see, listen, and move like us. MIRAI is an experimental human
 
 A user wearing Snap Spectacles can point to steer a robot and gesture to operate its gripper.
 
-**Award:** Won “BitRobot Network: Best Robotics Hack - 3rd Place” from BitRobot Network. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “BitRobot Network: Best Robotics Hack - 3rd Place” from BitRobot Network.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with fastapi, snap, websocket
 

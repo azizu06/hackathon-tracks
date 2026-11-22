@@ -54,7 +54,7 @@ Your AI learning assistant. Input topic, level, and duration for a tailored cour
 - **Code:** [Source 1](https://github.com/meetgandhii/CourseAI)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ActualFood Award
-- **Award:** Won “ActualFood Award” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “ActualFood Award” from Actual Food.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -77,7 +77,7 @@ Fivi is a AI Personal Trainer that breaks down traditional barriers to fitness. 
 - **Code:** [Source 1](https://github.com/fivi-yhack/fivi)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** ActualFood Award · Health Track
-- **Award:** Won “ActualFood Award” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “ActualFood Award” from Actual Food.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -258,7 +258,7 @@ courselrns is a full-stack project that takes in a user’s major and academic i
 - **Code:** [Source 1](https://github.com/niksaitov/courselrns)
 - **Demo video:** [Video 1](https://www.loom.com/share/49f9738af8f249c7879ba9f879e8962a)
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
-- **Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best DEI Hack sponsored by Fidelity” from Fidelity.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

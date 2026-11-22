@@ -106,7 +106,7 @@ A tool to match companies to relevant climate actions. Embedding search to find 
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rUhAa9_z8zY)
 - **All prizes at this hackathon (2):** Intersystems: Best Use of GenAI using InterSystems IRIS Vector Search · Sustainability Prize: Best prototyping process
 - **How it used InterSystems:** The project uses InterSystems as its database.
-- **Award:** Won “Sustainability Prize: Best prototyping process” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sustainability Prize: Best prototyping process” from Stanford Ecopreneurship.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -129,8 +129,8 @@ Massively parallelized agentic research workflows using spreadsheets as a primit
 - **Code:** [Source 1](https://github.com/WeltonWang02/spreadsheet_hackathon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=spfLzOUNp44)
 - **All prizes at this hackathon (2):** Paradigm: Best Spreadsheet-Adjacent Hack (Air Pods Max per team member) · Pear VC: Best Customer Insights
-- **Award:** Won “Paradigm: Best Spreadsheet-Adjacent Hack (Air Pods Max per team member)” from Paradigm. The write-up gives no details on how the team used the sponsor’s tech. Prize: Air Pods Max per team member
-- **Award:** Won “Pear VC: Best Customer Insights” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Paradigm: Best Spreadsheet-Adjacent Hack (Air Pods Max per team member)” from Paradigm. Prize: Air Pods Max per team member
+- **Theme prize: no sponsor tech named** · Won “Pear VC: Best Customer Insights” from Pear VC.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -153,7 +153,7 @@ Your mom knows you better than you do.
 - **Code:** [Source 1](https://github.com/MingkuanY/ai-mommy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eehiiErNsOM)
 - **All prizes at this hackathon (2):** Delve: Best Agentic Workflow (AirPods + Delve Founder Numbers + Onsite) · Scrapybara: Capy Prize
-- **Award:** Won “Delve: Best Agentic Workflow (AirPods + Delve Founder Numbers + Onsite)” from Delve. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Delve: Best Agentic Workflow (AirPods + Delve Founder Numbers + Onsite)” from Delve.
 - **Scrapybara · Imported in code:** Imports Scrapybara.
 - **Checked on Devpost:** 2026-11-21
 
@@ -412,7 +412,7 @@ Aesthetic React Landing Pages in Minutes – AI, Code Preview / Export, OAuth, D
 - **Code:** [Source 1](https://github.com/KshitijTeotia06/frontendTreeHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hpqaYIGAKYQ)
 - **All prizes at this hackathon (1):** Delve: Most Intuitive UX (AirPods + Delve Founder Numbers + Onsite)
-- **Award:** Won “Delve: Most Intuitive UX (AirPods + Delve Founder Numbers + Onsite)” from Delve. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Delve: Most Intuitive UX (AirPods + Delve Founder Numbers + Onsite)” from Delve.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -435,7 +435,7 @@ Secure, real-time protest coordination via encrypted mesh and AI insights.
 - **Code:** [Source 1](https://github.com/wyang563/protest_app)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rx5fM67ezFQ)
 - **All prizes at this hackathon (1):** Delve: Most Secure App (AirPods + Delve Founder Numbers + Onsite)
-- **Award:** Won “Delve: Most Secure App (AirPods + Delve Founder Numbers + Onsite)” from Delve. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Delve: Most Secure App (AirPods + Delve Founder Numbers + Onsite)” from Delve.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -485,7 +485,7 @@ Mobile ECG with Wi-Fi capabilities that makes AI-powered diagnoses and stores da
 - **Code:** [Source 1](https://github.com/fightingj305/ecgo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IxavWJJbxuU)
 - **All prizes at this hackathon (1):** Web3 Prize: Most Crazy Idea
-- **Award:** Won “Web3 Prize: Most Crazy Idea” from EigenLayer. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Web3 Prize: Most Crazy Idea” from EigenLayer.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -762,7 +762,7 @@ An AI-powered tool for tracking and predicting spheroid tumor invasion kinetics 
 - **Code:** [Source 1](https://github.com/ellielin23/STIK_GUI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WknE6hNdmEc)
 - **All prizes at this hackathon (1):** Hudson River Trading: Best Use of Data Hack (HRT-branded JBL earbuds per team member)
-- **Award:** Won “Hudson River Trading: Best Use of Data Hack (HRT-branded JBL earbuds per team member)” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech. Prize: HRT-branded JBL earbuds per team member
+- **Theme prize: no sponsor tech named** · Won “Hudson River Trading: Best Use of Data Hack (HRT-branded JBL earbuds per team member)” from Hudson River Trading. Prize: HRT-branded JBL earbuds per team member
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -845,7 +845,7 @@ Iris is a sleek headset built for the blind and visually impaired, designed to p
 - **Code:** [Source 1](https://github.com/RoyceAroc/iris)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3Y1PsWWNvb4)
 - **All prizes at this hackathon (1):** Edge AI Prize: Most Creative On-Device AI Deployment
-- **Award:** Won “Edge AI Prize: Most Creative On-Device AI Deployment” from Liquid AI. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Edge AI Prize: Most Creative On-Device AI Deployment” from Liquid AI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -891,7 +891,7 @@ Your hands-free conversational survival assistant. Powered by on device LLM infe
 - **Code:** [Source 1](https://github.com/rockuutree/SurviveX-Treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aVEuAuWjVac)
 - **All prizes at this hackathon (1):** Edge AI Prize: Most Creative On-Device AI Deployment
-- **Award:** Won “Edge AI Prize: Most Creative On-Device AI Deployment” from Liquid AI. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Edge AI Prize: Most Creative On-Device AI Deployment” from Liquid AI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -972,7 +972,7 @@ Connecting the dots for investigative minds.
 - **Code:** [Source 1](https://github.com/Honyant/Sherlock)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=n7HRhVSLlew)
 - **All prizes at this hackathon (1):** Neo: Most Likely to Become a Business (Airfare + Accomodations at Neo Summer Retreat)
-- **Award:** Won “Neo: Most Likely to Become a Business (Airfare + Accomodations at Neo Summer Retreat)” from Neo. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Neo: Most Likely to Become a Business (Airfare + Accomodations at Neo Summer Retreat)” from Neo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1122,7 +1122,7 @@ interactive multimodal AI experiences for neurodivergent learners run entirely o
 - **Code:** [Source 1](https://github.com/zcsabbagh/zu-lm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ajYL27WPKcs)
 - **All prizes at this hackathon (1):** Orbstack: Best Use of Rust
-- **Award:** Won “Orbstack: Best Use of Rust” from Orbstack. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Orbstack: Best Use of Rust” from Orbstack.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1172,7 +1172,7 @@ Combat misinformation through flagged Tweets and grounded sources, and reference
 - **Code:** [Source 1](https://github.com/dav1dbai/Vigilante)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NQWxzOrpraY)
 - **All prizes at this hackathon (1):** Otsuka Valuenex: VALUENEX Big Data Visualization Award
-- **Otsuka / VALUENEX:** Sponsor use not stated on Devpost
+- **Theme prize: no sponsor tech named** · Won “Otsuka Valuenex: VALUENEX Big Data Visualization Award” from Otsuka / VALUENEX.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1240,7 +1240,7 @@ Spielberg AI is an AI-powered video editor that allows creators to edit videos u
 - **Code:** [Source 1](https://github.com/adeng27/treehacks-25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EWgFPhaG48E)
 - **All prizes at this hackathon (1):** Rox: Best Agents Hack
-- **Award:** Won “Rox: Best Agents Hack” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Rox: Best Agents Hack” from Rox.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1298,7 +1298,7 @@ An accessible carbon removal assessment platform for Enhanced Rock Weathering (E
 - **Code:** [Source 1](https://github.com/Jackal-Studios/rock-thing)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PkRRfLv6SxA)
 - **All prizes at this hackathon (1):** Sustainability Prize: Best solves the user's pain point of a provided challenge
-- **Award:** Won “Sustainability Prize: Best solves the user's pain point of a provided challenge” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sustainability Prize: Best solves the user's pain point of a provided challenge” from Stanford Ecopreneurship.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1321,7 +1321,7 @@ A simple, transparent ecommerce platform for bargain produce that connects consu
 - **Code:** [Source 1](https://github.com/twosodium/lemon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1pXlAKx7Xzo)
 - **All prizes at this hackathon (1):** Sustainability Prize: Best incorporation of broader context to enhance venture viability
-- **Award:** Won “Sustainability Prize: Best incorporation of broader context to enhance venture viability” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sustainability Prize: Best incorporation of broader context to enhance venture viability” from Stanford Ecopreneurship.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1348,7 +1348,7 @@ Making discrimination mathematically impossible via the blockchain &amp; homomor
 - **Code:** [Source 1](https://github.com/zoraizmohammad/cipher-shield)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KuZTRNEq4pU)
 - **All prizes at this hackathon (1):** Taisu Ventures: Next-Gen Web3 Security Award (4x Deeper Network Air + 1 NGRAVE cold wallet)
-- **Award:** Won “Taisu Ventures: Next-Gen Web3 Security Award (4x Deeper Network Air + 1 NGRAVE cold wallet)” from Taisu Ventures. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Taisu Ventures: Next-Gen Web3 Security Award (4x Deeper Network Air + 1 NGRAVE cold wallet)” from Taisu Ventures.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1371,7 +1371,7 @@ Intelligent, Efficient, Crypto Donation Platform powered by AI agents.
 - **Code:** [Source 1](https://github.com/emilyjsun/GivingTree)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Taisu Ventures: Web3 for Good Award (4x Deeper Network Air)
-- **Award:** Won “Taisu Ventures: Web3 for Good Award (4x Deeper Network Air)” from Taisu Ventures. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Taisu Ventures: Web3 for Good Award (4x Deeper Network Air)” from Taisu Ventures.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1394,7 +1394,7 @@ Anti-Rug AI agent for memecoins by frontrunning + sandwich attacks. Longer versi
 - **Code:** [Source 1](https://github.com/BdNWoG/watchdog-ai-final)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gup3GO98B5s)
 - **All prizes at this hackathon (1):** Taisu Ventures: Most Promising Web3 Project (4x Deeper Network Air)
-- **Award:** Won “Taisu Ventures: Most Promising Web3 Project (4x Deeper Network Air)” from Taisu Ventures. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Taisu Ventures: Most Promising Web3 Project (4x Deeper Network Air)” from Taisu Ventures.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1552,7 +1552,7 @@ Indoor navigation for the visually impaired, made easy.
 - **Code:** [Source 1](https://github.com/flatypus/miru)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kjCsRmlAYiY)
 - **All prizes at this hackathon (1):** Vespa.ai: Best Hack Using a Vision Language Model
-- **How it used Vespa.ai:** The team stored vectors in a database using Vespa AI.
+- **Theme prize: no sponsor tech named** · Won “Vespa.ai: Best Hack Using a Vision Language Model” from Vespa.ai.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1635,7 +1635,7 @@ HiveMind: Your Second Brain for Smarter Learning.
 - **Code:** [Source 1](https://github.com/AahilAliCodes/Hivemind2) · [Source 2](https://github.com/rajashekarcs2023/HiveMind) · [Source 3](https://github.com/rajashekarcs2023/knowledge-balance-network)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=krXZVuJfAOQ)
 - **All prizes at this hackathon (1):** Education Grand Prize
-- **Award:** Won “Education Grand Prize” from Zoom. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Education Grand Prize” from Zoom.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

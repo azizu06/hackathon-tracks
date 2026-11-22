@@ -14,12 +14,12 @@ from evidence import project_details
 from fetch import cache_path
 from publish import validate_cached_inference
 from sponsor_use import (
-    AWARD, CODE, VIDEO, card_coverage_text, check_cached_use, inference_source, load_award_tracks,
-    load_inferred_uses, prize_key, validate_use,
+    AWARD, CODE, THEME, THEME_HEADING, VIDEO, check_cached_use, code_coverage_text, inference_source,
+    load_award_tracks, load_inferred_uses, load_prize_kinds, prize_coverage, prize_coverage_text, prize_key,
+    track_key, validate_prize_kind, validate_use,
 )
 from render import (
-    INT_FIELDS, LIST_FIELDS, ROOT_PAGES, SITE_URL, event_file, heading_anchor, note_coverage_text,
-    render, slugify, update_readme,
+    INT_FIELDS, LIST_FIELDS, ROOT_PAGES, SITE_URL, event_file, heading_anchor, render, slugify, update_readme,
 )
 
 
@@ -65,15 +65,21 @@ def verify_site(site, rows):
     for name in ("app.js", "style.css"):
         path = site / name
         check_display_money(path.read_text(encoding="utf-8"), path)
-    disclosure = html.escape(card_coverage_text(rows))
-    assert f"<!-- BEGIN card coverage -->{disclosure}<!-- END card coverage -->" in index, (
-        "Site hero coverage counts are stale. Run python3 site/build.py."
-    )
+    for name, disclosure in (("prize coverage", prize_coverage_text(rows)), ("code coverage", code_coverage_text(rows))):
+        assert f"<!-- BEGIN {name} -->{html.escape(disclosure)}<!-- END {name} -->" in index, (
+            "Site hero coverage counts are stale. Run python3 site/build.py."
+        )
     path = site / "catalog.js"
     data = path.read_text(encoding="utf-8")
     prefix, suffix = "window.TRACKS_CATALOG = ", ";\n"
     assert data.startswith(prefix) and data.endswith(suffix), "Unexpected site catalog format"
-    check_display_money(json.loads(data.removeprefix(prefix).removesuffix(suffix)), path)
+    catalog = json.loads(data.removeprefix(prefix).removesuffix(suffix))
+    check_display_money(catalog, path)
+    expected = {(row["event_slug"], row["url"], " ".join(row["sponsor_integration"].split()))
+                for row in rows if row["prize_kind"] == "theme"}
+    actual = {(card["editionId"], card["devpost"], note["note"]) for card in catalog
+              for note in card["integrations"] if note["heading"] == THEME_HEADING}
+    assert actual == expected, "Site catalog theme prizes differ from the export"
 
 
 def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cache=None):
@@ -88,22 +94,24 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
     seen = set()
     counted = Counter()
     award_tracks = load_award_tracks()
+    prize_kinds = load_prize_kinds()
     inferred_uses = load_inferred_uses()
     for row in rows:
         key = prize_key(row)
         for field in DISPLAY_FIELDS:
             check_display_money(row[field], f"{key}/{field}")
-        if row["use_source"] == AWARD:
+        if row["use_source"] in {AWARD, THEME}:
             check_display_money(row["use_quote"], f"{key}/use_quote")
         assert key not in seen, f"Duplicate project prize {key}"
         seen.add(key)
         assert row["event_prize_count"] == len(set(row["event_prizes"])), key
         assert row["prize"] in row["event_prizes"], key
         try:
+            validate_prize_kind(row, prize_kinds)
             validate_use(row)
             source = row["use_source"]
             inferred = inference_source(source)
-            if (source == AWARD or inferred) and (row["event_slug"], row["prize"], row["sponsor"]) not in award_tracks:
+            if (source == AWARD or inferred) and track_key(row) not in award_tracks:
                 raise ValueError("Award framing requires a reviewed prize in scripts/award-framing.tsv")
             if inferred:
                 fields = ("sponsor_integration", "use_source", "use_quote", "use_evidence_url")
@@ -141,6 +149,8 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
             counted[path] += 1
 
     assert not inferred_uses, f"Reviewed inferences missing from the export: {sorted(inferred_uses)}"
+    assert set(prize_kinds) == {track_key(row) for row in rows}, "Prize kind ledger and exports cover different tracks"
+    assert sum(prize_coverage(rows).values()) == len(rows), "The three prize coverage buckets must cover every row"
     projects = {}
     for row in rows:
         projects.setdefault(root / "by-hackathon" / event_file(row), set()).add(row["url"])
@@ -183,9 +193,8 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
                 assert (readme.parent / name).read_bytes() == (replay / name).read_bytes(), f"{name} is stale"
     if readme:
         coverage = readme.parent / "docs" / "coverage.md"
-        if coverage.is_file():
-            lines = coverage.read_text(encoding="utf-8").splitlines()
-            assert note_coverage_text(rows) in lines and card_coverage_text(rows) in lines, "Coverage report counts are stale"
+        lines = coverage.read_text(encoding="utf-8").splitlines()
+        assert prize_coverage_text(rows) in lines and code_coverage_text(rows) in lines, "Coverage report counts are stale"
     checked_links = 0
     anchor_cache = {}
     for path in pages:

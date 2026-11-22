@@ -55,7 +55,7 @@ A dynamic platform for mapping real-time crisis events through peer-shared video
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Aquareum.tv Sponsor Prize · TELUS Sponsor Prize
 - **Aquareum.tv:** Sponsor use not stated on Devpost
-- **Award:** Won “TELUS Sponsor Prize” from TELUS. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “TELUS Sponsor Prize” from TELUS.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -84,7 +84,7 @@ The team are a decentralized API key sharing intermediary service.
 - **Code:** [Source 1](https://github.com/bradeu/b.env)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** 1Password Sponsor Prize
-- **Award:** Won “1Password Sponsor Prize” from 1Password. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “1Password Sponsor Prize” from 1Password.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -232,7 +232,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFNA
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sHfQ85ScFNA)
 - **All prizes at this hackathon (1):** Communications Security Establishment Sponsor Prize
-- **Award:** Won “Communications Security Establishment Sponsor Prize” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Communications Security Establishment Sponsor Prize” from Communications Security Establishment.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -332,7 +332,7 @@ Patients over paperwork- physicians want make meaningful impact on patients but 
 - **Code:** [Source 1](https://github.com/zelalemka/nwhacks_2025_chit_chart)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1tHKeyLVZSA)
 - **All prizes at this hackathon (2):** Glaive Any Open-Source LLM Prize · Most Likely to Become a Successful Startup
-- **Award:** Won “Glaive Any Open-Source LLM Prize” from Glaive. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Glaive Any Open-Source LLM Prize” from Glaive.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -60,8 +60,8 @@ Halo is a smart bike helmet that watches the road behind you and warns you about
 - **Code:** [Source 1](https://github.com/billpquach/halo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rlAuXaz6g6s)
 - **All prizes at this hackathon (2):** State Farm · Waymo
-- **Award:** Won “State Farm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
-- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “State Farm” from State Farm.
+- **Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -143,7 +143,7 @@ You're always in the loop. Never out of reach.
 - **Code:** [Source 1](https://github.com/Philluc123/Gaurdian-Loop-SHX)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VnigEnYfZt8)
 - **All prizes at this hackathon (1):** Assurant
-- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -166,7 +166,7 @@ Mind Your Prompt combines a website dashboard with a Chrome extension.
 - **Code:** [Source 1](https://github.com/krishnatejasai/ShellHacks_2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FzibFbr4i2s)
 - **All prizes at this hackathon (1):** Assurant
-- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -189,7 +189,7 @@ Don't let your AI run wild.
 - **Code:** [Source 1](https://github.com/arnovkandlikar/reigns)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=64wOp2kXgB4)
 - **All prizes at this hackathon (1):** Assurant
-- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -216,7 +216,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPOzUj3IXuM)
 - **All prizes at this hackathon (1):** Blackstone
-- **Award:** Won “Blackstone” from Blackstone. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Blackstone” from Blackstone.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -351,7 +351,7 @@ benchlog brings version control to hardware.
 - **Code:** [Source 1](https://github.com/Jrodd1203/benchlog)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BhbKYBc4kMM)
 - **All prizes at this hackathon (1):** INIT National
-- **Award:** Won “INIT National” from INIT National. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “INIT National” from INIT National.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -374,7 +374,7 @@ Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern
 - **Code:** [Source 1](https://github.com/graykookie/CrunchHack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FdCHXdTUIdM)
 - **All prizes at this hackathon (1):** INIT National
-- **Award:** Won “INIT National” from INIT National. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “INIT National” from INIT National.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -401,7 +401,7 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 - **Code:** [Source 1](https://github.com/BAAA-Hacks/cad-vision)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0-bYjncKWIs)
 - **All prizes at this hackathon (1):** Microsoft
-- **Microsoft · Listed on Devpost:** Built with c# (listed on Devpost)
+- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -414,7 +414,7 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 
 A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with typescript, docker, fastify, framer-motion
+No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -424,7 +424,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4GTQH27oGOs)
 - **All prizes at this hackathon (1):** Microsoft
-- **Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
+- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -447,7 +447,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uLmimTFwauM)
 - **All prizes at this hackathon (1):** Microsoft
-- **Microsoft · Listed on Devpost:** Built with Visual Studio Code (listed on Devpost)
+- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -555,7 +555,7 @@ The cross-utility intelligence platform that aggressively optimizes overlapping 
 - **Code:** [Source 1](https://github.com/fradicus/Shellhacks-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y5_c-f20ky4)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sperry Tech” from Sperry Tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -578,7 +578,7 @@ It then ranks those overlaps by how much coordination is actually worth.
 - **Code:** [Source 1](https://github.com/DevanshiPande/SperryTechChallenge)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ovVV4Ca8QVs)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sperry Tech” from Sperry Tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -601,7 +601,7 @@ Mr.Gridy helps neighbouring power companies share the work: it finds where their
 - **Code:** [Source 1](https://github.com/VelvetDragon/gridsight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sr1lKaowknU)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sperry Tech” from Sperry Tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -624,7 +624,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=Supupux7vtA
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Supupux7vtA)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sperry Tech” from Sperry Tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -665,7 +665,7 @@ Map the possibilities for electric autonomous fleets with data-driven market ins
 - **Code:** [Source 1](https://github.com/SimonOcampo/ShellHacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EakXPzNH4ww)
 - **All prizes at this hackathon (1):** Waymo
-- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -688,7 +688,7 @@ Decode the skies in real time: Live radar tracking powered by custom AI that det
 - **Code:** [Source 1](https://github.com/TWilliamsA7/Syren)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DAqYyY9iVos)
 - **All prizes at this hackathon (1):** Waymo
-- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

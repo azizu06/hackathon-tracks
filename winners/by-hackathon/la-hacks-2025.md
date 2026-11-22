@@ -705,7 +705,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VxB-7LZu1D0)
 - **All prizes at this hackathon (1):** Warp Challenge: Best Developer Tool
-- **Award:** Won “Warp Challenge: Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Warp Challenge: Best Developer Tool” from Warp.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

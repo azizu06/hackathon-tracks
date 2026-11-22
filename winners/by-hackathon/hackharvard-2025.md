@@ -57,7 +57,7 @@ The team describes the project as ““Real-Time Control for Safer Construction
 - **Code:** [Source 1](https://github.com/rajvratzoom/siteops-final)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aramco Power the Future Track Prize
-- **Award:** Won “Aramco Power the Future Track Prize” from Aramco. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Aramco Power the Future Track Prize” from Aramco.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -111,7 +111,7 @@ People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device t
 - **Code:** [Source 1](https://github.com/sofiaal1/C2Pay)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gnQvp3OVYmE)
 - **All prizes at this hackathon (1):** Best Financial Hack by Capital One
-- **Award:** Won “Best Financial Hack by Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Financial Hack by Capital One” from Capital One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -165,7 +165,7 @@ See your business’s footprint before you leave it. EcoSpirit finds the best ne
 - **Code:** [Source 1](https://github.com/PratGit1606/CarbonCompass)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MVzm-lyhBgc)
 - **All prizes at this hackathon (1):** Coolant Climate Tech Challenge
-- **Award:** Won “Coolant Climate Tech Challenge” from Coolant. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Coolant Climate Tech Challenge” from Coolant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -273,7 +273,7 @@ Augmenting ordinary people into heroic responders by giving them the knowledge, 
 - **Code:** [Source 1](https://github.com/Harpith2/Halo)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Infosys Human Augmentation Track Prize
-- **Award:** Won “Infosys Human Augmentation Track Prize” from Infosys. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Infosys Human Augmentation Track Prize” from Infosys.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -300,7 +300,7 @@ Oversight is a political transparency platform that turns complex government dat
 - **Code:** [Source 1](https://github.com/dilzafer/oversightusa)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZYPj0qvPgrA)
 - **All prizes at this hackathon (1):** Best Consumer Hack by Terac
-- **Award:** Won “Best Consumer Hack by Terac” from Terac. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Consumer Hack by Terac” from Terac.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -327,7 +327,7 @@ Inspiration Chargebacks cost merchants up to 3x the transaction amount.
 - **Code:** [Source 1](https://github.com/achneerov/HackHarvard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=inDMZF5X79Q)
 - **All prizes at this hackathon (1):** Visa Truth and Trust Track Prize
-- **Award:** Won “Visa Truth and Trust Track Prize” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Visa Truth and Trust Track Prize” from Visa.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -350,7 +350,7 @@ Visa Verify brings multi-factor fraud detection to online payments using behavio
 - **Code:** [Source 1](https://github.com/HaoChiBao/hackharvard2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Visa Truth and Trust Track Prize
-- **Award:** Won “Visa Truth and Trust Track Prize” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Visa Truth and Trust Track Prize” from Visa.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

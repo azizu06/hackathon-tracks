@@ -23,7 +23,7 @@
 
 The world's first fully homomorphic runtime for a Turing-complete language.
 
-**Award:** Won “Sponsor Prize - Datto - Best Use of Encryption” from Datto. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Datto - Best Use of Encryption” from Datto.
 
 [Code](https://github.com/joeltg/brainfreeze) · Built with python, tfhe
 
@@ -34,7 +34,7 @@ The world's first fully homomorphic runtime for a Turing-complete language.
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Datto - Best Use of Encryption | Encryption | [Track label](https://hackmit2017.devpost.com/) |
+| [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Datto - Best Use of Encryption | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
 
 </details>
 

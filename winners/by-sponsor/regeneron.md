@@ -135,7 +135,7 @@ TrialPilot helps teams compare clinical trial designs across cost, site workload
 
 AI Medical Assistant: Intelligent Symptom Checker and Care Connector.
 
-**Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Honorable Mention” from Regeneron.
 
 [Code](https://github.com/hongdnn/healthcare_ai_backend) · [Demo video](https://www.youtube.com/watch?v=DM4mWK8XNcI) · Built with chromadb, creao, fastapi, livekit
 
@@ -145,7 +145,7 @@ AI Medical Assistant: Intelligent Symptom Checker and Care Connector.
 
 Turn research papers into living knowledge graphs. Agentic AI finds papers, builds networks, generates hypotheses.
 
-**Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Honorable Mention” from Regeneron.
 
 [Code](https://github.com/jalenfran/empirica) · [Demo video](https://www.youtube.com/watch?v=xpLYIeUccAw) · Built with amazon-web-services, axios, claude, fastapi
 
@@ -155,7 +155,7 @@ Turn research papers into living knowledge graphs. Agentic AI finds papers, buil
 
 Using agentic AI to reinvent compliance.
 
-**Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Honorable Mention” from Regeneron.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=SdEoVMPPPDg) · Built with fastapi, gemini, html, javascript
 
@@ -165,7 +165,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=SdEoVMPPPDg
 
 Harmoniq is an AI agent system that continuously monitors clinical trial protocols for regulatory compliance:.
 
-**Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Runner-Up” from Regeneron.
 
 [Code](https://github.com/vardhanshorewala/harmoniq) · [Demo video](https://www.youtube.com/watch?v=mIZSg8rKyew) · Built with agents, chroma, llms, nextjs
 
@@ -175,7 +175,7 @@ Harmoniq is an AI agent system that continuously monitors clinical trial protoco
 
 MIFY is an all-in-one patient recruitment platform that leverages generative AI to streamline the clinical trial pipeline for both patients and researchers.
 
-**Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Honorable Mention” from Regeneron.
 
 No public code found · Built with amazon-web-services, api, chroma, claude
 
@@ -185,7 +185,7 @@ No public code found · Built with amazon-web-services, api, chroma, claude
 
 Automating clinical trial verification to cut costs, save time, bring life-saving treatments to patients faster, and spark more innovation in clinical research.
 
-**Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Honorable Mention” from Regeneron.
 
 [Code](https://github.com/sulabhkatila/MonitorMachine) · [Demo video](https://www.youtube.com/watch?v=BOXuzT-mpNw) · Built with chroma, chromadb, claude, css3
 
@@ -195,7 +195,7 @@ Automating clinical trial verification to cut costs, save time, bring life-savin
 
 Rescue failed clinical trials by discovering hidden responder subgroups using AI-powered analytics.
 
-**Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Honorable Mention” from Regeneron.
 
 [Code](https://github.com/aarnavin/calhacks25) · [Demo video](https://www.youtube.com/watch?v=R1TChJgZMsE) · Built with matplotlib, numpy, pandas, python
 
@@ -205,7 +205,7 @@ Rescue failed clinical trials by discovering hidden responder subgroups using AI
 
 The architecture is based off of deep generative models such as GAIN and conditional GANs to impute missing clinical data while preserving correlation and variance.
 
-**Award:** Won “Regeneron: Honorable Mention” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Honorable Mention” from Regeneron.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k) · Built with numpy, pandas, python, tensorflow
 
@@ -215,7 +215,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k
 
 40% of patients drop out of clinical trials before completion, and scheduling friction drives a large share of attrition.
 
-**Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Runner-Up” from Regeneron.
 
 [Code](https://github.com/sheinapribadi-star/underfilled) · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
 
@@ -225,7 +225,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k
 
 TrialGuideAI uses AI to distill dense clinical trial protocols into accessible summaries, infographics, and videos that empower patients to understand studies and their broader impact on science.
 
-**Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Runner-Up” from Regeneron.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY) · Built with css, gemini, git, html
 
@@ -235,7 +235,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY
 
 Agentic pattern AI that actively searches for and identifies trial-qualified patients on its own.
 
-**Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Runner-Up” from Regeneron.
 
 [Code](https://github.com/Calhacks-12-0/Trialmatch.ai) · [Demo video](https://www.youtube.com/watch?v=ffKEoZwoR6c) · Built with agentverse, fetch, python, react
 
@@ -245,7 +245,7 @@ Agentic pattern AI that actively searches for and identifies trial-qualified pat
 
 Your AI-driven clinical trial intelligence platform that reviews, benchmarks, and regenerates protocol drafts into USDM-ready, FDA-aligned docs: Reducing amendments, delays, and cost overruns.
 
-**Award:** Won “Regeneron: Grand Prize” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Grand Prize” from Regeneron.
 
 [Code](https://github.com/Hilo-Hilo/Trialscope-AI) · [Demo video](https://www.youtube.com/watch?v=FNYlGTxhrr4) · Built with anthropic, css, html, next.js
 
@@ -255,7 +255,7 @@ Your AI-driven clinical trial intelligence platform that reviews, benchmarks, an
 
 Turning tangled, time-consuming clinical trial data chaos into seamless, protocol-compliant automated workflows.
 
-**Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Regeneron: Runner-Up” from Regeneron.
 
 [Code](https://github.com/ShauryaJ1/trialytics) · [Demo video](https://www.youtube.com/watch?v=mKz1m1JFRIQ) · Built with admiral, amazon-web-services, aws-deep-learning-ami, aws-ec2
 

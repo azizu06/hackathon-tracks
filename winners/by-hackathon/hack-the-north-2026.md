@@ -82,7 +82,7 @@ Pixie is one inspectable risk engine presented as two products: a commercial und
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=O47V32zbv20)
 - **All prizes at this hackathon (2):** Federato: Building the Federato Insurance Agent · Intact: The Quoting Interface of the Future
 - **How it used Federato:** The demo uses a local snapshot pulled from Federato's supplied synthetic API.
-- **Award:** Won “Intact: The Quoting Interface of the Future” from Intact. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Intact: The Quoting Interface of the Future” from Intact.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -135,7 +135,7 @@ Gloves that turn your movements and voice into game controls, so instead of lear
 - **Code:** [Source 1](https://github.com/Eben-Siyabalapitiya/Gestura)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oqHZeFjPbFE)
 - **All prizes at this hackathon (1):** Aramco Americas: Best Beginner Hack
-- **Award:** Won “Aramco Americas: Best Beginner Hack” from Aramco. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Aramco Americas: Best Beginner Hack” from Aramco.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -158,7 +158,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Nec6JXXG9Cw)
 - **All prizes at this hackathon (1):** Aramco Americas: Best Beginner Hack
-- **Award:** Won “Aramco Americas: Best Beginner Hack” from Aramco. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Aramco Americas: Best Beginner Hack” from Aramco.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1282,7 +1282,7 @@ Live voice and action reactive canvas for the future of presentations.
 - **Code:** [Source 1](https://github.com/Marcus990/adlib)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7rFWjY7Ly7k)
 - **All prizes at this hackathon (1):** Rox: Best AI Agent
-- **Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Rox: Best AI Agent” from Rox.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1305,7 +1305,7 @@ Run your browser agents faster-- at a fraction of the cost.
 - **Code:** [Source 1](https://github.com/evanzyang91/jevis)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Rox: Best AI Agent
-- **Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Rox: Best AI Agent” from Rox.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,7 +23,7 @@
 
 The hot new LLVM backend: compile your code to a spreadsheet.
 
-**Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Human Capital&#93; Human Capital Fellowship Prize” from Human Capital.
 
 [Code](https://github.com/kognise/freak-in-the-sheets) · [Demo video](https://www.youtube.com/watch?v=5Sb-QcEFHwg) · Built with c, c++, javascript, llvm
 
@@ -33,7 +33,7 @@ The hot new LLVM backend: compile your code to a spreadsheet.
 
 Drones map real buildings in minutes, creating AI-operable world models where assistive agents navigate and search for locations (ex. food, elevator). Provides on-demand street view.
 
-**Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Human Capital&#93; Human Capital Fellowship Prize” from Human Capital.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=rzGvQOiOc8c) · Built with apple-depth-pro, css, css-frontend-react-18, csv
 
@@ -43,7 +43,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=rzGvQOiOc8c
 
 The biggest lesson was that the right level of AI autonomy depends on the domain.
 
-**Award:** Won “&#91;Human Capital&#93; Human Capital Fellowship Prize” from Human Capital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Human Capital&#93; Human Capital Fellowship Prize” from Human Capital.
 
 [Code](https://github.com/csaye/ontab) · [Demo video](https://www.youtube.com/watch?v=76gxlzWBOzY) · Built with anthropic, fastapi, huggingface, javascript
 

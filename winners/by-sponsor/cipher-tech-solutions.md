@@ -23,7 +23,7 @@
 
 Revolutionizing Digital Forensics through Novel Data Modeling.
 
-**Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions.
 
 [Code](https://github.com/parthm667/clarify) · Built with fastapi, next.js, react, typescript
 
@@ -33,7 +33,7 @@ Revolutionizing Digital Forensics through Novel Data Modeling.
 
 Detect hidden cyber attacks in audio. Not all noise is natural—some is malicious in disguise.
 
-**Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions.
 
 [Code](https://github.com/shreya222mishra/bitcamp-2026) · [Demo video](https://www.youtube.com/watch?v=dgCAY-YG5rw) · Built with docker, ffmpeg/pydub, gmail-smtp/imap, google-cloud-run
 
@@ -45,7 +45,7 @@ Detect hidden cyber attacks in audio. Not all noise is natural—some is malicio
 
 Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 
-**Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions.
 
 [Code](https://github.com/AHumanMaybe/forens-tech) · Built with css, fastapi, figma, python
 
@@ -57,7 +57,7 @@ Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 
 The app records audio secretly, and, using a deep-learning ML model, transcribes the audio into a keystroke log.
 
-**Award:** Won “Best Digital Forensics Related Hack - Cipher Tech” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Digital Forensics Related Hack - Cipher Tech” from Cipher Tech Solutions.
 
 [Code](https://github.com/3752V/KeyCatchAI) · Built with dart, devtunnel, flask, flutter
 

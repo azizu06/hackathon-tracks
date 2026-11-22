@@ -267,7 +267,7 @@ Multi-agent simulation platform for 2026 F1 strategy discovery and prediction. M
 - **Code:** [Source 1](https://github.com/V-prajit/Guido)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MhMhjy2-0aE)
 - **All prizes at this hackathon (1):** Best NorthMark Hack
-- **Award:** Won “Best NorthMark Hack” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best NorthMark Hack” from Northmark Compute &amp; Cloud.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -290,7 +290,7 @@ LapSynk: The AI copilot for race engineers. Using Gemini, Cloudflare, and Eleven
 - **Code:** [Source 1](https://github.com/csakilan/HackTX)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_g0CfT5yGKw)
 - **All prizes at this hackathon (1):** Best NorthMark Hack
-- **Award:** Won “Best NorthMark Hack” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best NorthMark Hack” from Northmark Compute &amp; Cloud.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -313,7 +313,7 @@ Bridging new F1 drivers and engineers with algorithmic strategy planning, real-t
 - **Code:** [Source 1](https://github.com/iampritisee/hacktx)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uKgWc20DsCs)
 - **All prizes at this hackathon (1):** Best NorthMark Hack
-- **Award:** Won “Best NorthMark Hack” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best NorthMark Hack” from Northmark Compute &amp; Cloud.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -340,7 +340,7 @@ An AI-powered space odyssey that transforms car buying into an interstellar adve
 - **Code:** [Source 1](https://github.com/applea12X/Astraeus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6AkRiYIPX7o)
 - **All prizes at this hackathon (1):** Best Toyota Hack
-- **Award:** Won “Best Toyota Hack” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Toyota Hack” from Toyota Financial Services.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -363,7 +363,7 @@ FiYota — data visualization tool to find your ideal Toyota financing options.
 - **Code:** [Source 1](https://github.com/Abhijith-utla/Fiyota)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Zb64HnzlmBk)
 - **All prizes at this hackathon (1):** Best Toyota Hack
-- **Award:** Won “Best Toyota Hack” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Toyota Hack” from Toyota Financial Services.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,7 +386,7 @@ MyToyota simplifies car financing by matching users’ income, credit, and prefe
 - **Code:** [Source 1](https://github.com/avishparekh06/my-toyota)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=t3-Gc6rqFt8)
 - **All prizes at this hackathon (1):** Best Toyota Hack
-- **Award:** Won “Best Toyota Hack” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Toyota Hack” from Toyota Financial Services.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

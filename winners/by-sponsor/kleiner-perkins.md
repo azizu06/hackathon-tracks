@@ -23,7 +23,7 @@
 
 The team developed two applications that work together on the Android phone and the Pebble smartwatch.
 
-**Award:** Won “KPCB - KPCB Fellows Award” from Kleiner Perkins. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “KPCB - KPCB Fellows Award” from Kleiner Perkins.
 
 No public code found
 

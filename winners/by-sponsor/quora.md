@@ -23,7 +23,7 @@
 
 A self-writing journal of your life, with superpowers.
 
-**Award:** Won “Most Interesting Use of Text-Based Machine Learning by Quora” from Quora. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Most Interesting Use of Text-Based Machine Learning by Quora” from Quora.
 
 [Code](https://github.com/tkyaw1/Lotus-Journal) · Built with javascript, jupyter-notebook, keras, node.js
 

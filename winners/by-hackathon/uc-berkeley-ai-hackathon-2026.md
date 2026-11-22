@@ -274,7 +274,7 @@ A band and a plush cat that catch anxiety in how you move — and interrupt it b
 - **Code:** [Source 1](https://github.com/emilyLi2020/Theracat)
 - **Demo video:** [Video 1](https://vimeo.com/1203255610)
 - **All prizes at this hackathon (3):** Finalist · GRAND PRIZE - Ddoski's Lab Track · SkyDeck Grand Prize Winner
-- **Award:** Won “SkyDeck Grand Prize Winner” from Berkeley SkyDeck. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “SkyDeck Grand Prize Winner” from Berkeley SkyDeck.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1036,7 +1036,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vdUR6xzem4s)
 - **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
-- **Award:** Won “Best Physical AI Hack by UFB” from UFB. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Physical AI Hack by UFB” from UFB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1059,7 +1059,7 @@ Supervision layer for robot fleets. A VLM watches each robot against its task an
 - **Code:** [Source 1](https://github.com/matthehzhang/hackcal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uvKU0ZPAZa4)
 - **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
-- **Award:** Won “Best Physical AI Hack by UFB” from UFB. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Physical AI Hack by UFB” from UFB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1082,7 +1082,7 @@ The project is a full pipeline that takes ordinary monocular phone videos of a p
 - **Code:** [Source 1](https://github.com/abtonmoy/ai_hackathon_calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=XCrEp2mOd_s)
 - **All prizes at this hackathon (1):** Best Physical AI Hack by UFB
-- **Award:** Won “Best Physical AI Hack by UFB” from UFB. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Physical AI Hack by UFB” from UFB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,7 +23,7 @@
 
 A real-time, mobile-based, distributed WiFi heatmap.
 
-**Award:** Won “Best Use of Location Data” from Samsara. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of Location Data” from Samsara.
 
 [Code](https://github.com/thkim1011/hotspot) · Built with core-location, coremotion, firebase, flask
 
@@ -35,7 +35,7 @@ A real-time, mobile-based, distributed WiFi heatmap.
 
 Find your dorm culture fit Harry Potter Style.
 
-**Award:** Won “Sponsor Prize - Samsara - Best IoT Hack” from Samsara. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Samsara - Best IoT Hack” from Samsara.
 
 No public code found · Built with android, arduino, c++, hardware
 
@@ -46,7 +46,7 @@ No public code found · Built with android, arduino, c++, hardware
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best Use of Location Data | Location Data | [Track label](https://hackmit-2018.devpost.com/) |
+| [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best Use of Location Data | No specific requirement captured | [Event prize rules](https://hackmit-2018.devpost.com/) |
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Samsara - Best IoT Hack | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
 
 </details>

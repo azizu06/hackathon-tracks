@@ -23,7 +23,7 @@
 
 DriveWise: Your personalized, safety-first navigation app, using 22 years of accident data to guide you on safer routes while enhancing your driving skills.
 
-**Award:** Won “Best Use of Statistics” from Susquehanna International Group. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of Statistics” from Susquehanna International Group.
 
 [Code](https://github.com/pranavponnusamy/Drivewise) · [Demo video](https://www.youtube.com/watch?v=A9ToFxCVF9c) · Built with cerebras, chroma, google-maps, mapquest
 
@@ -34,7 +34,7 @@ DriveWise: Your personalized, safety-first navigation app, using 22 years of acc
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of Statistics | Statistics | [Track label](https://pennapps-xxv.devpost.com/) |
+| [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of Statistics | No specific requirement captured | [Event prize rules](https://pennapps-xxv.devpost.com/) |
 
 </details>
 

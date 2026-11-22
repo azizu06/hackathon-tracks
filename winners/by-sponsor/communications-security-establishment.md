@@ -75,7 +75,7 @@ Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into 
 
 Scandium is local AI code secret scanning. Rather than being notified after you've uploaded your secrets, Scandium integrates with your code editor to detect leaked secrets before they get published.
 
-**Award:** Won “Communications Security Establishment Sponsor Prize” from Communications Security Establishment. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Communications Security Establishment Sponsor Prize” from Communications Security Establishment.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFNA) · Built with node.js, ollama, qwen, typescript
 

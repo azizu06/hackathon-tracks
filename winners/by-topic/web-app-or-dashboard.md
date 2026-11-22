@@ -2387,7 +2387,7 @@ Ticketry.AI bridges the gap between business stakeholders and development teams 
 
 Rebuilding donation trust through transparent giving.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
+No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with base, claude, erc-20, ethereum
 
 ### [Trialscope AI](https://devpost.com/software/trialscope-ai)
 

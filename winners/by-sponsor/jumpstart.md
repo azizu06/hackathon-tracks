@@ -23,7 +23,7 @@
 
 A travel itinerary generator for all major cities.
 
-**Award:** Won “Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up” from Jumpstart. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up” from Jumpstart.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=kAxDxnKp8_s) · Built with amadeus, express.js, google-directions, mongodb
 

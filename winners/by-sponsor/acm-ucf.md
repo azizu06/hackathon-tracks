@@ -23,7 +23,7 @@
 
 CloseCalls uses the CARLA simulator in Unreal Engine 4 to generate realistic traffic intersection data.
 
-**ACM UCF:** Sponsor use not stated on Devpost
+**Theme prize: no sponsor tech named** · Won “ACM UCF” from ACM UCF.
 
 [Code](https://github.com/RBuck8339/kh2025CVTrafficSynth) · [Demo video](https://www.youtube.com/watch?v=pNB4n_KeTZQ) · Built with amd, carla, gemini, opentad
 

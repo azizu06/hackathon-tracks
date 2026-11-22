@@ -23,7 +23,7 @@
 
 Cybersecurity done right. Cyberwright leverages AI to automate the process of identifying vulnerabilities code, helping developers fix bugs before they ship.
 
-**Award:** Won “BoundaryML - Best use of LLM Agents” from BoundaryML. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “BoundaryML - Best use of LLM Agents” from BoundaryML.
 
 [Code](https://github.com/jaydns/cyberwright) · [Demo video](https://www.youtube.com/watch?v=_6fZPsObiIw) · Built with lucide, mantine, next, react
 
@@ -45,7 +45,7 @@ PlzFix.ai is an all-in-one AI platform designed to provide devs with tailored an
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | BoundaryML - Best use of Agents using BAML | Agents using BAML | [Track label](https://mhacks-2024.devpost.com/) |
-| [MHacks 2024](../by-hackathon/mhacks-2024.md) | BoundaryML - Best use of LLM Agents | LLM Agents | [Track label](https://mhacks-2024.devpost.com/) |
+| [MHacks 2024](../by-hackathon/mhacks-2024.md) | BoundaryML - Best use of LLM Agents | No specific requirement captured | [Event prize rules](https://mhacks-2024.devpost.com/) |
 
 </details>
 

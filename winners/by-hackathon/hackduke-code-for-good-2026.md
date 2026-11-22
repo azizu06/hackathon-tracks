@@ -134,7 +134,7 @@ Help people go outside more often by making nature exploration social, rewarding
 - **Code:** [Source 1](https://github.com/EzequielBaltierra/HackDuke26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZdNEc66V0Zg)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Best Design
-- **Award:** Won “&#91;Figma&#93; Best Design” from Figma. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Figma&#93; Best Design” from Figma.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ No public code found · Built with claude, next.js, postgresql, python
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of AI powered by Reach Capital · Runner Up: Health Track
-- **Award:** Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

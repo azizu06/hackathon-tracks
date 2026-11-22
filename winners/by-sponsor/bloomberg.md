@@ -23,7 +23,7 @@
 
 Because a fall shouldn’t go unnoticed — real-time monitoring for safer independent living.
 
-**Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Most Philanthropic Hack - Bloomberg” from Bloomberg.
 
 [Code](https://github.com/Schugh26/GaitGuard) · Built with arduino, c++, css, embedded-systems
 
@@ -33,7 +33,7 @@ Because a fall shouldn’t go unnoticed — real-time monitoring for safer indep
 
 Pick a cancer type and protein target. Helix screens thousands of compounds and ranks the top candidates with real quantum circuits, allowing researchers to identify highly targeted candidates.
 
-**Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Most Philanthropic Hack - Bloomberg” from Bloomberg.
 
 [Code](https://github.com/Reyzz00/helix) · [Demo video](https://www.youtube.com/watch?v=VqTClY4_A5k) · Built with python, qiskit, react
 
@@ -43,7 +43,7 @@ Pick a cancer type and protein target. Helix screens thousands of compounds and 
 
 Recall helps dementia patients identify faces, recall past conversations, and practice active recall through memory games, restoring confidence and dignity, one interaction at a time.
 
-**Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Most Philanthropic Hack - Bloomberg” from Bloomberg.
 
 [Code](https://github.com/akhilapnuri/RecallMobileApp) · [Demo video](https://www.youtube.com/watch?v=WDXfbc8DIpw) · Built with flask, insightface, ollama, python
 
@@ -55,7 +55,7 @@ Recall helps dementia patients identify faces, recall past conversations, and pr
 
 Accelerating the voluntary carbon credit market with blockchain.
 
-**Award:** Won “CATEGORY - Sustainability (Bloomberg)” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “CATEGORY - Sustainability (Bloomberg)” from Bloomberg.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4) · Built with css, html, javascript, python
 
@@ -65,7 +65,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4
 
 This project integrates quantum simulation and machine learning to:.
 
-**Award:** Won “Best Hack Promoting Public Health - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Hack Promoting Public Health - Bloomberg” from Bloomberg.
 
 [Code](https://github.com/Sankalp-dasari/bitcamp25) · [Demo video](https://www.youtube.com/watch?v=DdIYIRiyi7E) · Built with cuda, javascript, numpy, os
 
@@ -77,7 +77,7 @@ This project integrates quantum simulation and machine learning to:.
 
 Philadelphia’s heat is rising! Enter your address to see how chill your area is. 😎 Let’s cool down Philly together.
 
-**Award:** Won “Track: Best Sustainability Hack (Sponsored by Bloomberg)” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Track: Best Sustainability Hack (Sponsored by Bloomberg)” from Bloomberg.
 
 [Code](https://github.com/carolinecummings19/Chilladelphia) · [Demo video](https://www.youtube.com/watch?v=H4WKPl8tdaI) · Built with express.js, javascript, mongodb, node.js
 
@@ -87,7 +87,7 @@ Philadelphia’s heat is rising! Enter your address to see how chill your area i
 
 Vistra puts the power in the EYES of the user.
 
-**Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Most Philanthropic Hack - Bloomberg” from Bloomberg.
 
 [Code](https://github.com/ahere84/Vistra-Smart-Mirror) · [Demo video](https://www.youtube.com/watch?v=wjHxAu6g3js) · Built with figma, gazeflow, gazerecorder, html
 

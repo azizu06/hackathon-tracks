@@ -61,7 +61,7 @@ An evaluation dashboard compares multi-agent workflows and lets developers inspe
 - **Code:** [Source 1](https://github.com/AlfredSjoqvist/multieval)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=__OU7Ftl4EM)
 - **All prizes at this hackathon (2):** Cognition Company Challenge · Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Cognition:** Sets the public api.devin.ai URL.
+- **Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
 - **How it used Fetch.ai:** An Agentverse uAgent receives a natural-language economic scenario.
 - **Checked on Devpost:** 2026-11-21
 
@@ -115,7 +115,7 @@ Nimbus is an open-source VM provisioning platform that gives you the EC2 experie
 - **Code:** [Source 1](https://github.com/smalex-z/nimbus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mk75Ryr81Y8)
 - **All prizes at this hackathon (2):** Arista Networks: Connect the Dots Challenge · High Quality Sponsormaxxing
-- **Award:** Won “Arista Networks: Connect the Dots Challenge” from Arista Networks. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Arista Networks: Connect the Dots Challenge” from Arista Networks.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -138,7 +138,7 @@ A smart productivity proxy that uses AI to filter away distractions while allowi
 - **Code:** [Source 1](https://github.com/Drime648/lahacks-timehole)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pVpUcCo96SI)
 - **All prizes at this hackathon (1):** Arista Networks: Connect the Dots Challenge
-- **Award:** Won “Arista Networks: Connect the Dots Challenge” from Arista Networks. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Arista Networks: Connect the Dots Challenge” from Arista Networks.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -161,7 +161,7 @@ Veritas is a Chrome extension that fact-checks YouTube videos in real time. It e
 - **Code:** [Source 1](https://github.com/riteshkasa/veritas)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CuinBraRAlk)
 - **All prizes at this hackathon (1):** Arista Networks: Connect the Dots Challenge
-- **Award:** Won “Arista Networks: Connect the Dots Challenge” from Arista Networks. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Arista Networks: Connect the Dots Challenge” from Arista Networks.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,7 +386,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=eoTO5TZJbNQ
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eoTO5TZJbNQ)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
-- **Award:** Won “Cognition Company Challenge” from Cognition. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -409,7 +409,7 @@ Autopsy records every action your AI coding agent takes, autopsies the failures,
 - **Code:** [Source 1](https://github.com/balebbae/Autopsy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2bgq8hvJ32s)
 - **All prizes at this hackathon (2):** 3rd Overall · Cognition Company Challenge
-- **Cognition · Listed on Devpost:** Built with devin (listed on Devpost)
+- **Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -432,7 +432,7 @@ AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent inte
 - **Code:** [Source 1](https://github.com/KevinWu098/codebreaker)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CIyWH6rkN9c)
 - **All prizes at this hackathon (2):** 1st Overall · Cognition Company Challenge
-- **How it used Cognition:** Devin built the system.
+- **Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -455,7 +455,7 @@ Ai Agent that designs computer chips in VSCode.
 - **Code:** [Source 1](https://github.com/rtsmc/lahacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R-_vN2aiRW4)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
-- **Award:** Won “Cognition Company Challenge” from Cognition. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -478,7 +478,7 @@ GitHub stores your code. Lore stores your reasons.
 - **Code:** [Source 1](https://github.com/YGao2005/loreIDE)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8-gmVsRSW2c)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
-- **How it used Cognition:** The project plugs into Devin via MCP.
+- **Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1102,7 +1102,7 @@ Type faster with less mistakes using bigram latency data.
 - **Code:** [Source 1](https://github.com/eedwardkim/Roman-Road)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All prizes at this hackathon (1):** Happy Hacking Keyboard: Type Beyond - Rethinking Interaction Through the Keyboard
-- **Award:** Won “Happy Hacking Keyboard: Type Beyond - Rethinking Interaction Through the Keyboard” from Happy Hacking Keyboard. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Happy Hacking Keyboard: Type Beyond - Rethinking Interaction Through the Keyboard” from Happy Hacking Keyboard.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

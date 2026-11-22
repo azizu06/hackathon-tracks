@@ -161,7 +161,7 @@ No public code found · Built with css, figma, groq, html
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Consumer-Driven Patient Safety Technology Track
-- **Award:** Won “Best Consumer-Driven Patient Safety Technology Track” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Consumer-Driven Patient Safety Technology Track” from Patient Safety Technology Challenge.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ Accelerating clinical decision-making with AI-driven patient simulations, real-t
 - **Code:** [Source 1](https://github.com/CharlesJoseph2003/Hack-Brown2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VQALHk_1ff0)
 - **All prizes at this hackathon (1):** Best Use of AI powered by Reach Capital
-- **Award:** Won “Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of AI powered by Reach Capital” from Reach Capital.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -215,7 +215,7 @@ No public code found · Built with amazon-ec2, amazon-web-services, dify.ai, fas
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Developer Tool, sponsored by Warp
-- **Award:** Won “Best Developer Tool, sponsored by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Developer Tool, sponsored by Warp” from Warp.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

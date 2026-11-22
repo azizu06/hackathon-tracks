@@ -23,7 +23,7 @@
 
 Multiplayer Agentic AI NPCs with shared conversational memory across all players.
 
-**How it used JanitorAI:** Sets the JanitorAI hackathon completions endpoint.
+**Theme prize: no sponsor tech named** · Won “JanitorAI: Most Functional, Novel, and Fun Project” from JanitorAI.
 
 [Code](https://github.com/iOliver678/calhacks12) · [Demo video](https://www.youtube.com/watch?v=2yZ_ZxMO7cY) · Built with janitorai, express.js, fishaudio, jllm
 
@@ -33,7 +33,7 @@ Multiplayer Agentic AI NPCs with shared conversational memory across all players
 
 You thought you were off to enjoy a fun, exciting dating show experience... but something has gone terribly wrong. Now, it's up to you to figure out what happened.
 
-**How it used JanitorAI:** The backend uses JanitorAI’s LLM API to power character responses.
+**Theme prize: no sponsor tech named** · Won “JanitorAI: Most Functional, Novel, and Fun Project” from JanitorAI.
 
 [Code](https://github.com/syenko/calhacks) · [Demo video](https://www.youtube.com/watch?v=IU9fKa8SrCQ) · Built with janitor.ai, next.js, python, react
 

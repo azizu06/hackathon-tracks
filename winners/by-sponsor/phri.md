@@ -23,7 +23,7 @@
 
 Preventable medical errors like misdiagnosis are 38% more likely when a doctor is fatigued. Clarity is a multimodal deep learning suite for the early warning detection of fatigue symptoms.
 
-**Award:** Won “PHRI Challenge - 1st Place” from PHRI. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “PHRI Challenge - 1st Place” from PHRI.
 
 [Code](https://github.com/shayaf84/clarity) · [Demo video](https://www.youtube.com/watch?v=4OZuNgmy51I) · Built with css, html, javascript, matplotlib
 

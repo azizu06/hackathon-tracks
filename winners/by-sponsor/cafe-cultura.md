@@ -23,7 +23,7 @@
 
 Latinnect is a digital marketplace that connects Latine vendors with customers, allowing vendors to easily list and manage their products, and customers to browse, filter, and purchase goods.
 
-**Award:** Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura.
 
 [Code](https://github.com/hlee18lee46/shellhacks) · Built with supabase, swift, swiftui
 
@@ -33,7 +33,7 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 
 "Empowering Latino Businesses, One Investment at a Time.".
 
-**Award:** Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
 
@@ -43,7 +43,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw
 
 Ever wondered what delicious dish you could create with the ingredients you have on hand? TasteLatino uses image recognition tech to identify your ingredients and generate latin recipes in seconds.
 
-**Award:** Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura.
 
 [Code](https://github.com/Andersg03/TasteLatino) · Built with coreml, openai, swift, xcode
 

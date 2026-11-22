@@ -23,7 +23,7 @@
 
 Real-time satellite collision risk dashboard that ingests live conjunction screening data, ranks close-approach events by actual danger, and delivers briefings so operators know what to act on.
 
-**Award:** Won “Best Data Visualization Experience - Peraton” from Peraton. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Data Visualization Experience - Peraton” from Peraton.
 
 [Code](https://github.com/po-aditya/Apsora-Brief) · [Demo video](https://www.youtube.com/watch?v=OPAUEUN1UG4) · Built with anthropic-claude-api-(claude-sonnet-4-6), beautifulsoup4, celestrak-gp-api, celestrak-socrates-api
 
@@ -35,7 +35,7 @@ Real-time satellite collision risk dashboard that ingests live conjunction scree
 
 Mobile app for users to find and share recipes. Allows for automatic calculation of grocery list costs to help users manage personal finances.
 
-**Award:** Won “Best Web Hack Using React - Peraton” from Peraton. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Web Hack Using React - Peraton” from Peraton.
 
 [Code](https://github.com/anhatthezoo/bitcamp2025) · [Demo video](https://www.youtube.com/watch?v=yF3dHHbZJn8) · Built with cheerio, cooklang, css, expo.io
 

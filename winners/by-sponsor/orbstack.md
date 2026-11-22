@@ -23,7 +23,7 @@
 
 interactive multimodal AI experiences for neurodivergent learners run entirely on the edge.
 
-**Award:** Won “Orbstack: Best Use of Rust” from Orbstack. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Orbstack: Best Use of Rust” from Orbstack.
 
 [Code](https://github.com/zcsabbagh/zu-lm) · [Demo video](https://www.youtube.com/watch?v=ajYL27WPKcs) · Built with elevenlabs, groq, javascript, langchain
 
@@ -34,7 +34,7 @@ interactive multimodal AI experiences for neurodivergent learners run entirely o
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Orbstack: Best Use of Rust | Rust | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Orbstack: Best Use of Rust | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
 

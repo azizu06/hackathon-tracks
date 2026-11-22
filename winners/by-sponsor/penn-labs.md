@@ -23,7 +23,7 @@
 
 ScholarFlow makes it easy to find research papers and professors.
 
-**Award:** Won “Best Beginner Hack” from Penn Labs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Beginner Hack” from Penn Labs.
 
 [Code](https://github.com/AjayAvasi/ScholarFlow) · [Demo video](https://www.youtube.com/watch?v=_Yydo6lTc5s) · Built with beautiful-soup, bulma, cerebras, css3
 

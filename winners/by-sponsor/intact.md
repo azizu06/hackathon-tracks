@@ -23,7 +23,7 @@
 
 Pixie is one inspectable risk engine presented as two products: a commercial underwriting desk and a consumer insurance app.
 
-**Award:** Won “Intact: The Quoting Interface of the Future” from Intact. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Intact: The Quoting Interface of the Future” from Intact.
 
 [Code](https://github.com/benz16107/pixie-htn2026) · [Demo video](https://www.youtube.com/watch?v=O47V32zbv20) · Built with elastic, expo.io, fastapi, federato
 
@@ -34,7 +34,7 @@ Pixie is one inspectable risk engine presented as two products: a commercial und
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Intact: The Quoting Interface of the Future | Build a functional prototype that reimagines how people obtain car insurance, tenant insurance, or both. | [Devpost prize description](https://hackthenorth2026.devpost.com/) |
+| [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Intact: The Quoting Interface of the Future | No specific requirement captured | [Event prize rules](https://hackthenorth2026.devpost.com/) |
 
 </details>
 

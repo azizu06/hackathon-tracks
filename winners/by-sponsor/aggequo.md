@@ -23,7 +23,7 @@
 
 CAMcogni consolidates a wide array of data sources—including camera feeds, IoT sensors, GPS-enabled construction machinery, mobile usage metrics, and vehicle idle times—to deliver a holistic view of on-site operations.
 
-**AggEquo:** Sponsor use not stated on Devpost
+**Theme prize: no sponsor tech named** · Won “AggEquo: AI-Driven Worksite Productivity Metrics” from AggEquo.
 
 [Code](https://github.com/DKoushikUMD/efficiency-tracker-ui) · [Demo video](https://www.youtube.com/watch?v=kZCDMpvuLY4) · Built with amazon-web-services, atlas, css, docker
 

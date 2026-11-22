@@ -72,7 +72,7 @@ No public code found · Built with fitbit, jawbone, alchemyapi, firebase
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Fitbit - Fitbit Flex · Jawbone - For the best health hack
 - **How it used Fitbit:** The project uses calories tracked by Fitbit for its calorie cash.
-- **How it used Jawbone:** The project uses calories tracked by Jawbone for its calorie cash.
+- **Theme prize: no sponsor tech named** · Won “Jawbone - For the best health hack” from Jawbone.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -96,7 +96,7 @@ No public code found · Built with bloomberg, weather-underground, wolfram-techn
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Bloomberg - Best Use of the Bloomberg API · Kenshō - Best Financial Data Hack
 - **How it used Bloomberg:** Clicking on the notification pulls up the Bloomberg page for the Dow Jones.
-- **Award:** Won “Kenshō - Best Financial Data Hack” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Kenshō - Best Financial Data Hack” from Kensho.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -119,7 +119,7 @@ No public code found · Built with alchemyapi, facebook, firebase, fleksy
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Amicus - What Does The Fox Say? Award · Square Inc. - Making Commerce Easy and Rounding the Corners
-- **Award:** Won “Amicus - What Does The Fox Say? Award” from Amicus. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Amicus - What Does The Fox Say? Award” from Amicus.
 - **Square:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -173,7 +173,7 @@ No public code found
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Akamai - Best Use of Algorithms
-- **Award:** Won “Akamai - Best Use of Algorithms” from Akamai. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Akamai - Best Use of Algorithms” from Akamai.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -233,7 +233,7 @@ No public code found · Built with firebase, sendgrid, venmo
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Bain Capital: Best Use of Machine Learning
-- **Award:** Won “Bain Capital: Best Use of Machine Learning” from Bain Capital. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Bain Capital: Best Use of Machine Learning” from Bain Capital.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -256,7 +256,7 @@ A tool that helps to turn web exploration into a truly social experience.
 - **Code:** [Source 1](https://github.com/allevitan/SpaceBubbles)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Bain Capital: Best Use of Data Visualization
-- **Award:** Won “Bain Capital: Best Use of Data Visualization” from Bain Capital. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Bain Capital: Best Use of Data Visualization” from Bain Capital.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -349,7 +349,7 @@ Later, you can pull up the app and watch your recorded shows -- or you can AirPl
 - **Code:** [Source 1](https://github.com/nessup/PiVision)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** 3rd Place · General Catalyst - Most likely to be the “Next Big Thing”
-- **Award:** Won “General Catalyst - Most likely to be the “Next Big Thing”” from General Catalyst. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “General Catalyst - Most likely to be the “Next Big Thing”” from General Catalyst.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -442,7 +442,7 @@ No public code found
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** KPCB - KPCB Fellows Award
-- **Award:** Won “KPCB - KPCB Fellows Award” from Kleiner Perkins. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “KPCB - KPCB Fellows Award” from Kleiner Perkins.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -523,7 +523,7 @@ No public code found · Built with firebase, ios
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MoPub - Mobile Data Award
-- **Award:** Won “MoPub - Mobile Data Award” from MoPub. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “MoPub - Mobile Data Award” from MoPub.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -733,7 +733,7 @@ No public code found · Built with css, heroku, html5, javascript
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Thiel Fellowship - “Under 20” Hack Award
-- **Award:** Won “Thiel Fellowship - “Under 20” Hack Award” from Thiel Fellowship. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Thiel Fellowship - “Under 20” Hack Award” from Thiel Fellowship.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

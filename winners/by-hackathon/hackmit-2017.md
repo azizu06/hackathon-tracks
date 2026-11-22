@@ -63,8 +63,8 @@ The world's first fully homomorphic runtime for a Turing-complete language.
 - **Code:** [Source 1](https://github.com/joeltg/brainfreeze)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Sponsor Prize - Datto - Best Use of Encryption · Sponsor Prize - Illumio - Best Security Hack
-- **Award:** Won “Sponsor Prize - Datto - Best Use of Encryption” from Datto. The write-up gives no details on how the team used the sponsor’s tech.
-- **Award:** Won “Sponsor Prize - Illumio - Best Security Hack” from Illumio. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Datto - Best Use of Encryption” from Datto.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Illumio - Best Security Hack” from Illumio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -87,8 +87,8 @@ Robust fake news detection made simple and scalable for real people.
 - **Code:** [Source 1](https://github.com/likeaj6/FakeBananas)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good · Sponsor Prize - Hudson River Trading - Most Interesting Use of Data
-- **Award:** Won “Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good” from Baidu. The write-up gives no details on how the team used the sponsor’s tech.
-- **Award:** Won “Sponsor Prize - Hudson River Trading - Most Interesting Use of Data” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good” from Baidu.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Hudson River Trading - Most Interesting Use of Data” from Hudson River Trading.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -136,7 +136,7 @@ TravelAR is an iOS travel application built using Apple's ARKit.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ACneUIVByaY)
 - **All prizes at this hackathon (2):** Sponsor Prize - Amadeus - Best Use of Amadeus APIs · Sponsor Prize - Concur - Best Travel Hack
 - **How it used Amadeus:** The team used Amadeus endpoints for information on nearby attractions, flight statistics and general travel information.
-- **Award:** Won “Sponsor Prize - Concur - Best Travel Hack” from SAP Concur. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Concur - Best Travel Hack” from SAP Concur.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -196,7 +196,7 @@ ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line
 - **Code:** [Source 1](https://github.com/fervorarc/PaddleBois)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Baidu - Machine Learning Community Prize
-- **How it used Baidu:** Downloads PaddlePaddle’s Word2Vec inference topology.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Baidu - Machine Learning Community Prize” from Baidu.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -279,7 +279,7 @@ An interactive community game with wearable devices that harness storytelling an
 - **Code:** [Source 1](https://github.com/tedmyers/hackMIT)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Category Prize - Master of Both Worlds · Sponsor Prize - Disney - Best Use of Storytelling
-- **Award:** Won “Sponsor Prize - Disney - Best Use of Storytelling” from Disney. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Disney - Best Use of Storytelling” from Disney.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -306,7 +306,7 @@ While Unity and Microsoft's UWP are powerful platforms, sometimes there can be p
 - **Code:** [Source 1](https://github.com/negitoromaki/ad-blockAR)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate
-- **How it used GIPHY:** The project uses GIPHY APIs for dynamic content in lieu of ads.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate” from GIPHY.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -333,7 +333,7 @@ NewsMap utilizes global market visualization software to provide a real-time vis
 - **Code:** [Source 1](https://github.com/davidluca123/NewsMap)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Goldman Sachs - Second Best Data Visualization
-- **Award:** Won “Sponsor Prize - Goldman Sachs - Second Best Data Visualization” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Goldman Sachs - Second Best Data Visualization” from Goldman Sachs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -356,7 +356,7 @@ Determine the best path from two inside-building points scanning automatically t
 - **Code:** [Source 1](https://github.com/jjgarau/HackMIT2017)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Goldman Sachs - Best Data Visualization
-- **Award:** Won “Sponsor Prize - Goldman Sachs - Best Data Visualization” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Goldman Sachs - Best Data Visualization” from Goldman Sachs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -524,7 +524,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=kAxDxnKp8_s
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kAxDxnKp8_s)
 - **All prizes at this hackathon (1):** Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up
-- **Award:** Won “Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up” from Jumpstart. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up” from Jumpstart.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -605,7 +605,7 @@ No public code found · Built with flask, giphy-api, google-cloud-vision, ibm-wa
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Nasdaq - Best Re-imagination of Market
-- **How it used Nasdaq:** The team used Nasdaq's API to locate a company's stock and related news about its performance.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Nasdaq - Best Re-imagination of Market” from Nasdaq.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -632,7 +632,7 @@ No public code found · Built with android, arduino, c++, hardware
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Samsara - Best IoT Hack
-- **Award:** Won “Sponsor Prize - Samsara - Best IoT Hack” from Samsara. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Samsara - Best IoT Hack” from Samsara.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

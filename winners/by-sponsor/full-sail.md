@@ -23,7 +23,7 @@
 
 Farsight presents a search-and-rescue drill through a headset, with a live driving view and a 3D replay of the room.
 
-**Award:** Won “Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge” from Full Sail. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge” from Full Sail.
 
 [Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with arduino, arkit, depth-anything, fastapi
 

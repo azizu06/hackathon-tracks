@@ -23,7 +23,7 @@
 
 "ME"chelin Guide hates tourist traps. Locals share hidden gems, you discover them on a map, and AI helps you find exactly what you're craving while also giving you the chance to earn money.
 
-**Award:** Won “Visa - Custom Track” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Visa - Custom Track” from Visa.
 
 [Code](https://github.com/MUNDANE-MONDAYS/MEchelin_Guide) · [Demo video](https://www.youtube.com/watch?v=-rXiF6k6-8Y) · Built with expo.io, javascript, openai, react-native
 
@@ -63,7 +63,7 @@ MIRA is an AI powered smart mirror that helps you decide what to wear and what t
 
 SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 
-**How it used Visa:** The team integrated payouts to homeowners and used Visa Direct APIs to push funds to lister's cards.
+**Theme prize: no sponsor tech named** · Won “Visa - Custom Track” from Visa.
 
 [Code](https://github.com/Vigneshpeddi/SpaceShare) · Built with amazon-web-services, react, tailwind, typescript
 
@@ -75,7 +75,7 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 
 A multi-agent simulator where buyer negotiates with opaque seller agents in realistic, chat-based bargaining. No scoring rules - just LLM-driven reasoning, hidden motives, and emergent market behavior.
 
-**Award:** Won “Visa Challenge - Agent Marketplace Simulation” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Visa Challenge - Agent Marketplace Simulation” from Visa.
 
 [Code](https://github.com/rohan-g0re/Hack_NYU_Arbitrage) · [Demo video](https://www.youtube.com/watch?v=z2_8AWR_qU8) · Built with docker, fastapi, git, lm-studio
 
@@ -95,7 +95,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=0Hnd_ZntowM
 
 AI agents represent buyers and sellers, negotiating ticket deals automatically. Faster, fairer, and more dynamic than StubHub/TicketSwap — with real-time matching and transparent pricing.
 
-**Award:** Won “Visa Challenge - Agent Marketplace Simulation” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Visa Challenge - Agent Marketplace Simulation” from Visa.
 
 [Code](https://github.com/praveen-bandla/agent-ticket-marketplace) · Built with javascript, node.js, openrouter, python
 
@@ -105,7 +105,7 @@ AI agents represent buyers and sellers, negotiating ticket deals automatically. 
 
 Inspiration Chargebacks cost merchants up to 3x the transaction amount.
 
-**Award:** Won “Visa Truth and Trust Track Prize” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Visa Truth and Trust Track Prize” from Visa.
 
 [Code](https://github.com/achneerov/HackHarvard) · [Demo video](https://www.youtube.com/watch?v=inDMZF5X79Q) · Built with ai, node.js, react
 
@@ -115,7 +115,7 @@ Inspiration Chargebacks cost merchants up to 3x the transaction amount.
 
 Visa Verify brings multi-factor fraud detection to online payments using behavioural biometrics, device history, and risk scoring to protect merchants and buyers.
 
-**Award:** Won “Visa Truth and Trust Track Prize” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Visa Truth and Trust Track Prize” from Visa.
 
 [Code](https://github.com/HaoChiBao/hackharvard2025) · Built with chrome, css, express.js, extension
 

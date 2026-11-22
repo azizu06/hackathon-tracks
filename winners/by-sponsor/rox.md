@@ -23,7 +23,7 @@
 
 Live voice and action reactive canvas for the future of presentations.
 
-**Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Rox: Best AI Agent” from Rox.
 
 [Code](https://github.com/Marcus990/adlib) · [Demo video](https://www.youtube.com/watch?v=7rFWjY7Ly7k) · Built with baseten, codex, openai, python
 
@@ -33,7 +33,7 @@ Live voice and action reactive canvas for the future of presentations.
 
 Run your browser agents faster-- at a fraction of the cost.
 
-**Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Rox: Best AI Agent” from Rox.
 
 [Code](https://github.com/evanzyang91/jevis) · Built with chrome, jev, openai
 
@@ -65,7 +65,7 @@ Harmoniq is an AI agent system that continuously monitors clinical trial protoco
 
 Lavoe provides an intuitive and AI-augmented DAW interface with features designed to streamline creativity:.
 
-**Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Rox: Best AI Agent” from Rox.
 
 [Code](https://github.com/Leonardomontesqui/Lavoe) · [Demo video](https://www.youtube.com/watch?v=ISKuDB2s1jM) · Built with ai-sdk, claude, cohere, python
 
@@ -85,7 +85,7 @@ PitchLab generates catered mock sales pitch calls for sales reps to learn, pract
 
 Turning creators into data-driven businesses through the power of AI.
 
-**Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Rox: Best AI Agent” from Rox.
 
 [Code](https://github.com/ochen1/creator-intelligence) · Built with javascript, node.js, openai, prisma
 
@@ -95,7 +95,7 @@ Turning creators into data-driven businesses through the power of AI.
 
 Spielberg AI is an AI-powered video editor that allows creators to edit videos using only natural language.
 
-**Award:** Won “Rox: Best Agents Hack” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Rox: Best Agents Hack” from Rox.
 
 [Code](https://github.com/adeng27/treehacks-25) · [Demo video](https://www.youtube.com/watch?v=EWgFPhaG48E) · Built with cuda, elevenlabs, fastapi, ffmpeg
 

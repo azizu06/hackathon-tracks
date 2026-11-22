@@ -23,7 +23,7 @@
 
 Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new investment opportunities that actually fit it.
 
-**Award:** Won “Blackstone” from Blackstone. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Blackstone” from Blackstone.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
 
@@ -34,7 +34,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) | Blackstone | Build a product that reimagines how investors understand their current investments and research new opportunities. | [Devpost prize description](https://shellhacks-2026.devpost.com/) |
+| [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) | Blackstone | No specific requirement captured | [Event prize rules](https://shellhacks-2026.devpost.com/) |
 
 </details>
 

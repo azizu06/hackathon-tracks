@@ -23,7 +23,7 @@
 
 The cross-utility intelligence platform that aggressively optimizes overlapping construction plans and fleet routes to slash millions in wasted time and capital.
 
-**Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sperry Tech” from Sperry Tech.
 
 [Code](https://github.com/fradicus/Shellhacks-2026) · [Demo video](https://www.youtube.com/watch?v=Y5_c-f20ky4) · Built with atlas, chatgpt, claude, cursor
 
@@ -33,7 +33,7 @@ The cross-utility intelligence platform that aggressively optimizes overlapping 
 
 It then ranks those overlaps by how much coordination is actually worth.
 
-**Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sperry Tech” from Sperry Tech.
 
 [Code](https://github.com/DevanshiPande/SperryTechChallenge) · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
 
@@ -43,7 +43,7 @@ It then ranks those overlaps by how much coordination is actually worth.
 
 Mr.Gridy helps neighbouring power companies share the work: it finds where their construction plans overlap, and when a hurricane hits, predicts which lines break and who should help whom.
 
-**Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sperry Tech” from Sperry Tech.
 
 [Code](https://github.com/VelvetDragon/gridsight) · [Demo video](https://www.youtube.com/watch?v=sr1lKaowknU) · Built with digitalocean, elevenlabs, gemini, nextjs
 
@@ -53,7 +53,7 @@ Mr.Gridy helps neighbouring power companies share the work: it finds where their
 
 AI agents that read utilities' public construction filings, map every planned project, and find where neighbors could share crews, equipment, and outages.
 
-**Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sperry Tech” from Sperry Tech.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
 

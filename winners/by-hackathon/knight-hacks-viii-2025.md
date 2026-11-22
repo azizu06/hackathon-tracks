@@ -84,7 +84,7 @@ AI Legal Tender transforms messy legal data into structured, cited intelligence 
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=toI8_0oCX8Y)
 - **All prizes at this hackathon (2):** AMD: Best use of AMD Hardware/Software Challenge · Morgan &amp; Morgan: AI Legal Tender Challenge
 - **How it used AMD:** All data stays on AMD infrastructure.
-- **How it used Morgan &amp; Morgan:** The project was tested with Morgan &amp; Morgan case files.
+- **Theme prize: no sponsor tech named** · Won “Morgan &amp; Morgan: AI Legal Tender Challenge” from Morgan &amp; Morgan.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -113,7 +113,7 @@ CloseCalls uses the CARLA simulator in Unreal Engine 4 to generate realistic tra
 - **Code:** [Source 1](https://github.com/RBuck8339/kh2025CVTrafficSynth)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pNB4n_KeTZQ)
 - **All prizes at this hackathon (1):** ACM UCF
-- **ACM UCF:** Sponsor use not stated on Devpost
+- **Theme prize: no sponsor tech named** · Won “ACM UCF” from ACM UCF.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -219,7 +219,7 @@ This program is a Python-based tool designed to read, parse, and export SAP bina
 - **Code:** [Source 1](https://github.com/Britjit/hackathon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xzq6eSaBh2o)
 - **All prizes at this hackathon (1):** Auritas: Data Visualization and Algorithm Reconstruction Challenges
-- **Award:** Won “Auritas: Data Visualization and Algorithm Reconstruction Challenges” from Auritas. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Auritas: Data Visualization and Algorithm Reconstruction Challenges” from Auritas.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -404,7 +404,7 @@ PowerLegal is a sophisticated multi-agent legal case management system that coor
 - **Code:** [Source 1](https://github.com/Kavipatel0/KnightHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SRItaUWZ1nc)
 - **All prizes at this hackathon (1):** Morgan &amp; Morgan: AI Legal Tender Challenge
-- **Award:** Won “Morgan &amp; Morgan: AI Legal Tender Challenge” from Morgan &amp; Morgan. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Morgan &amp; Morgan: AI Legal Tender Challenge” from Morgan &amp; Morgan.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -427,7 +427,7 @@ Simply Law automates the legal workflow with AI agents that extract key informat
 - **Code:** [Source 1](https://github.com/ballinyouup/morgan-ai-sdk)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-925V5YOfWs)
 - **All prizes at this hackathon (1):** Morgan &amp; Morgan: AI Legal Tender Challenge
-- **Award:** Won “Morgan &amp; Morgan: AI Legal Tender Challenge” from Morgan &amp; Morgan. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Morgan &amp; Morgan: AI Legal Tender Challenge” from Morgan &amp; Morgan.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -454,7 +454,7 @@ The perfect drone optimization algorithm that you'd ever need.
 - **Code:** [Source 1](https://github.com/a1vcm/knighthacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qbOgZGTl13M)
 - **All prizes at this hackathon (1):** NextEra Energy: Drone Optimization Challenge
-- **Award:** Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -477,7 +477,7 @@ The solution uses Google OR-Tools to solve the Vehicle Routing Problem by assign
 - **Code:** [Source 1](https://github.com/Bvqlz/GridWatch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AEEQjJ4ilyA)
 - **All prizes at this hackathon (1):** NextEra Energy: Drone Optimization Challenge
-- **Award:** Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -500,7 +500,7 @@ Optimizing autonomous drone missions for efficient, battery-aware inspection of 
 - **Code:** [Source 1](https://github.com/saniddhyaDubey/next-era-Drone-Routing-Problem)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2L7jpEtnFr4)
 - **All prizes at this hackathon (1):** NextEra Energy: Drone Optimization Challenge
-- **Award:** Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -527,7 +527,7 @@ Get daily financial news and insights tailored to your interests.
 - **Code:** [Source 1](https://github.com/jordanrobbedthesun/FinScope)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WxBUaohIQVI)
 - **All prizes at this hackathon (1):** OneEthos: AI for Financial Empowerment Challenge
-- **Award:** Won “OneEthos: AI for Financial Empowerment Challenge” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “OneEthos: AI for Financial Empowerment Challenge” from OneEthos.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -550,7 +550,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=J5wnACnaZdY)
 - **All prizes at this hackathon (1):** OneEthos: AI for Financial Empowerment Challenge
-- **Award:** Won “OneEthos: AI for Financial Empowerment Challenge” from OneEthos. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “OneEthos: AI for Financial Empowerment Challenge” from OneEthos.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

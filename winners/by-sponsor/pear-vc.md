@@ -23,7 +23,7 @@
 
 Massively parallelized agentic research workflows using spreadsheets as a primitive.
 
-**Award:** Won “Pear VC: Best Customer Insights” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Pear VC: Best Customer Insights” from Pear VC.
 
 [Code](https://github.com/WeltonWang02/spreadsheet_hackathon) · [Demo video](https://www.youtube.com/watch?v=spfLzOUNp44) · Built with agents, apis, llms, typescript
 
@@ -35,7 +35,7 @@ Massively parallelized agentic research workflows using spreadsheets as a primit
 
 Objectively quantifying reactions to media using EEG data and signal processing.
 
-**Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best "Impossible" Hack” from Pear VC.
 
 [Code](https://github.com/adampotter0105/DeterMind) · Built with arduino, matlab, neurosky, processing
 
@@ -45,7 +45,7 @@ Objectively quantifying reactions to media using EEG data and signal processing.
 
 a VR app designed for holoportation.
 
-**Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best "Impossible" Hack” from Pear VC.
 
 No public code found · Built with ik, steamvr, unity, vive
 
@@ -55,7 +55,7 @@ No public code found · Built with ik, steamvr, unity, vive
 
 The team made a cardboard piano that uses computer vision to detect and play piano sounds.
 
-**Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best "Impossible" Hack” from Pear VC.
 
 [Code](https://github.com/roberth188/music-for-all) · Built with opencv, python
 

@@ -66,7 +66,7 @@ DronAR allows users to view realtime information about their drones such as posi
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · Google Cardboard Development Prize
 - **How it used Google:** Toggles VR mode in the Cardboard SDK when the space key is pressed.
-- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -90,7 +90,7 @@ No public code found · Built with google-streetview, javascript, leaflet.js, mi
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Creative Car Hack (Ford) · Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
 - **Ford:** Sponsor use not stated on Devpost
-- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -113,7 +113,7 @@ No public code found
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Emerging Technology (Disney) · Best Use of Microsoft Technology
-- **Award:** Won “Best Use of Emerging Technology (Disney)” from Disney. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of Emerging Technology (Disney)” from Disney.
 - **How it used Microsoft:** The team sent two frames from each scene to Microsoft’s Cognitive Services to get a contextual description.
 - **Checked on Devpost:** 2026-11-21
 
@@ -167,7 +167,7 @@ No public code found · Built with firebase, flask, machine-learning, pandas
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Insightful Hack (BNP Paribas)
-- **Award:** Won “Most Insightful Hack (BNP Paribas)” from BNP Paribas. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Most Insightful Hack (BNP Paribas)” from BNP Paribas.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -335,7 +335,7 @@ No public code found · Built with javascript
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Low Level / High Performance Hack (Hudson River Trading)
-- **Award:** Won “Best Low Level / High Performance Hack (Hudson River Trading)” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Low Level / High Performance Hack (Hudson River Trading)” from Hudson River Trading.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -362,7 +362,7 @@ Turn the Chrome URL bar into a bash terminal.
 - **Code:** [Source 1](https://github.com/manna/url-term)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** KCG Prize
-- **KCG:** Sponsor use not stated on Devpost
+- **Theme prize: no sponsor tech named** · Won “KCG Prize” from KCG.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -441,7 +441,7 @@ No public code found · Built with arduino, c++, raspberry-pi
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -464,7 +464,7 @@ No public code found · Built with css, dronekit, html, javascript
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -487,7 +487,7 @@ LeapLock is a 3D-gesture based locking mechanism.
 - **Code:** [Source 1](https://github.com/Howon/LeapLock)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -510,7 +510,7 @@ No public code found · Built with flask, javascript
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -533,7 +533,7 @@ No public code found · Built with apple-maps, swift
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)
-- **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -562,7 +562,7 @@ AI-powered Chatbot which give you curated dating advice - while you're on your d
 - **Code:** [Source 1](https://github.com/96imranahmed/blackbox-public)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7KcSXuQXCng)
 - **All prizes at this hackathon (1):** Facebook Hackathon Finals Trip
-- **How it used Meta:** Black Box uses Facebook for messages.
+- **Theme prize: no sponsor tech named** · Won “Facebook Hackathon Finals Trip” from Meta.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -595,7 +595,7 @@ LogoLens presents relevant stock quote data when a user sees a company logo whil
 - **Code:** [Source 1](https://github.com/ChenJonathan/Logo-Lens)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AI54o8onLBA)
 - **All prizes at this hackathon (1):** Nasdaq MarketSite Prize
-- **How it used Nasdaq:** The project uses the NASDAQ API to check stock prices.
+- **Theme prize: no sponsor tech named** · Won “Nasdaq MarketSite Prize” from Nasdaq.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -726,7 +726,7 @@ No public code found · Built with capital-one, flask, meteor.js, mobile
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Rough Draft Ventures Prize
-- **Award:** Won “Rough Draft Ventures Prize” from Rough Draft Ventures. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Rough Draft Ventures Prize” from Rough Draft Ventures.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -753,7 +753,7 @@ No public code found · Built with api.ai, azure, capital-one, javascript
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Concur Prize for Best Travel Hack
-- **Award:** Won “Concur Prize for Best Travel Hack” from SAP Concur. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Concur Prize for Best Travel Hack” from SAP Concur.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,7 +23,7 @@
 
 Halo is a smart bike helmet that watches the road behind you and warns you about what's coming before it reaches you, so you don't have to turn your head.
 
-**Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 
 [Code](https://github.com/billpquach/halo) · [Demo video](https://www.youtube.com/watch?v=rlAuXaz6g6s) · Built with adk, arduino, javascript, opencv
 
@@ -33,7 +33,7 @@ Halo is a smart bike helmet that watches the road behind you and warns you about
 
 Map the possibilities for electric autonomous fleets with data-driven market insights and simulation.
 
-**Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 
 [Code](https://github.com/SimonOcampo/ShellHacks2026) · [Demo video](https://www.youtube.com/watch?v=EakXPzNH4ww) · Built with fastapi, gemini, mapbox, next.js
 
@@ -43,7 +43,7 @@ Map the possibilities for electric autonomous fleets with data-driven market ins
 
 Decode the skies in real time: Live radar tracking powered by custom AI that detects anomalies before official reports.
 
-**Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 
 [Code](https://github.com/TWilliamsA7/Syren) · [Demo video](https://www.youtube.com/watch?v=DAqYyY9iVos) · Built with absd, api, deck.gl, digitalocean
 
@@ -55,7 +55,7 @@ Decode the skies in real time: Live radar tracking powered by custom AI that det
 
 The hack provides the user a navigational interface similar to other popular navigation applications.
 
-**Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 
 [Code](https://github.com/davidrobinson05/birds-eye) · [Demo video](https://www.youtube.com/watch?v=lzUBJfDPxwM) · Built with css, ec2, ffmpeg, flask
 
@@ -65,7 +65,7 @@ The hack provides the user a navigational interface similar to other popular nav
 
 Leverages computer vision, GPS, and crowdsourcing to detect potholes, warn drivers, and share data with city authorities in real time.
 
-**Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 
 [Code](https://github.com/OpenPotholeMap/open-pothole-map-repo) · [Demo video](https://www.youtube.com/watch?v=anqbJP1ct0A) · Built with ai, express.js, gcp, github-actions
 
@@ -75,7 +75,7 @@ Leverages computer vision, GPS, and crowdsourcing to detect potholes, warn drive
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-**Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
 
@@ -87,7 +87,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc
 
 Creating an aware and safer world by identifying emergencies which can improve mobility, public spaces, open areas, school buildings and more.
 
-**Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 
 [Code](https://github.com/JocelynVelarde/Shell-Hacks-2024) · [Demo video](https://www.youtube.com/watch?v=Z_LuQ_Ecl8Q) · Built with aiohttp, base64, collections, cv2
 
@@ -97,7 +97,7 @@ Creating an aware and safer world by identifying emergencies which can improve m
 
 Evacuate disaster safely with seamless ride sharing.
 
-**Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 
 [Code](https://github.com/keshavbabu/shellhacks) · [Demo video](https://www.youtube.com/watch?v=RhdyCijiCcE) · Built with docker, firebase, go, maps
 
@@ -107,7 +107,7 @@ Evacuate disaster safely with seamless ride sharing.
 
 LocalPulse is an innovative app that allows users to connect with their community by providing instant access to comprehensive data and insights.
 
-**Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 
 [Code](https://github.com/SquizAI/fiu_hack) · Built with api, claude, computer-vision, deep-translator
 

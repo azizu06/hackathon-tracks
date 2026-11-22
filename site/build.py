@@ -11,7 +11,7 @@ ROOT = SITE.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from catalog_display import display_text, short_prize_title
-from sponsor_use import card_coverage_text, use_heading
+from sponsor_use import code_coverage_text, prize_coverage_text, use_heading
 
 
 def field(row, *keys):
@@ -147,10 +147,13 @@ def main():
     data = json.dumps(projects, ensure_ascii=True, separators=(",", ":"))
     (SITE / "catalog.js").write_text(f"window.TRACKS_CATALOG = {data};\n", encoding="utf-8")
     index = SITE / "index.html"
-    start, end = "<!-- BEGIN card coverage -->", "<!-- END card coverage -->"
-    before, rest = index.read_text(encoding="utf-8").split(start, 1)
-    _, after = rest.split(end, 1)
-    index.write_text(f"{before}{start}{escape(card_coverage_text(source))}{end}{after}", encoding="utf-8")
+    markup = index.read_text(encoding="utf-8")
+    for name, text in (("prize coverage", prize_coverage_text(source)), ("code coverage", code_coverage_text(source))):
+        start, end = f"<!-- BEGIN {name} -->", f"<!-- END {name} -->"
+        before, rest = markup.split(start, 1)
+        _, after = rest.split(end, 1)
+        markup = f"{before}{start}{escape(text)}{end}{after}"
+    index.write_text(markup, encoding="utf-8")
     sponsors = {sponsor.casefold() for project in projects for sponsor in project["sponsors"]}
     editions = {project["editionId"] for project in projects if project["editionId"]}
     print(f"{len(projects)} projects · {len(sponsors)} sponsors · {len(editions)} hackathon editions")

@@ -45,7 +45,7 @@ OS of tomorrow, Claude Code of today.
 
 Sweet is an iMessage native diabetes management AI assistant.
 
-**How it used Interaction Company:** Users text the Poke AI to get health insights.
+**Theme prize: no sponsor tech named** · Won “Interaction Company: Best MCP Automation” from Interaction Company.
 
 [Code](https://github.com/hemanthkapa/Sweet) · [Demo video](https://www.youtube.com/watch?v=bO0LeXn3RPY) · Built with dexcomshareapi, fastmcp, geminiapi, poke
 
@@ -57,7 +57,7 @@ Sweet is an iMessage native diabetes management AI assistant.
 
 An AI email assistant that automates form-filling, summarizes messages, and streamlines inbox tasks.
 
-**Award:** Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ) · Built with drizzle, google-cloud, groq, nextjs
 
@@ -67,7 +67,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ
 
 Nova is an automated email assistant that intelligently processes incoming emails, identifies actionable items, and seamlessly adds them to your calendar.
 
-**Award:** Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company.
 
 [Code](https://github.com/jpsingaraju/nova-ai) · Built with flask, gmail, google, google-calendar
 

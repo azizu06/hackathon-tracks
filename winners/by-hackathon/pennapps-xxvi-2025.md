@@ -79,7 +79,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=F-6xvtqcJH4)
 - **All prizes at this hackathon (1):** CATEGORY - Sustainability (Bloomberg)
-- **Award:** Won “CATEGORY - Sustainability (Bloomberg)” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “CATEGORY - Sustainability (Bloomberg)” from Bloomberg.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -106,7 +106,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7kS-5tsI1Ac)
 - **All prizes at this hackathon (1):** CATEGORY - Finance (Capital One)
-- **Award:** Won “CATEGORY - Finance (Capital One)” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “CATEGORY - Finance (Capital One)” from Capital One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -129,7 +129,7 @@ A finance prototype explores a way to earn yield on money set aside for subscrip
 - **Code:** [Source 1](https://github.com/adlonymous/subsave)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FC3KWH5CUpk)
 - **All prizes at this hackathon (1):** CATEGORY - Finance (Capital One)
-- **Award:** Won “CATEGORY - Finance (Capital One)” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “CATEGORY - Finance (Capital One)” from Capital One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

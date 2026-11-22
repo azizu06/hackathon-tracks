@@ -25,7 +25,7 @@ Prizes credited to an individual or with no identified sponsoring organization.
 
 Solar powered buoys that track water quality 200x cheaper than the next closest instrument.
 
-**Sponsor use:** Sponsor use not stated on Devpost
+**Theme prize: no sponsor tech named** · Won “&#91;Justin Bojarski&#93; Best Physical AI Hack”.
 
 [Code](https://github.com/3arii/hackprinceton-2026) · [Demo video](https://www.youtube.com/watch?v=Q-0arEQO5fQ) · Built with 3d-printing, amazon-dynamodb, amazon-web-services, aws-lambda
 
@@ -35,7 +35,7 @@ Solar powered buoys that track water quality 200x cheaper than the next closest 
 
 Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a live map of where a bleed is likely.
 
-**Sponsor use:** Sponsor use not stated on Devpost
+**Theme prize: no sponsor tech named** · Won “&#91;Justin Bojarski&#93; Best Physical AI Hack”.
 
 [Code](https://github.com/at350/hackprinceton-fall-2026) · [Demo video](https://www.youtube.com/watch?v=IY0Rr7l58Eg) · Built with anthropic, arduino, claude, deepagents
 
@@ -45,7 +45,7 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 
 Using brain activity to make the world more accessible to those with mobility disorders.
 
-**Sponsor use:** Sponsor use not stated on Devpost
+**Theme prize: no sponsor tech named** · Won “&#91;Justin Bojarski&#93; Best Physical AI Hack”.
 
 [Code](https://github.com/RoboDurden/Hoverboard-Firmware-Hack-Gen2.x) · [Demo video](https://www.youtube.com/watch?v=bIt_TQ2hsBU) · Built with arduino, brainflow, bytetrack, costar
 

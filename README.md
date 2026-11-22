@@ -2,11 +2,13 @@
 
 Past hackathon winners, organized by the sponsor prize they won, so you can see what judges rewarded before you pick your next project.
 
-<!-- BEGIN card coverage -->
+<!-- BEGIN prize coverage -->
 
-908 cards with sourced use · 24 with inferred notes · 64 with listed tech or links only · 557 award-only or unstated · 1,263 with public code links
+968 tech prizes with sponsor use (943 shown, 25 inferred) · 541 theme prizes with no sponsor tech named · 188 tech prizes where use was not found
 
-<!-- END card coverage -->
+1,263 of 1,553 project cards have public code links.
+
+<!-- END prize coverage -->
 
 **[Search every winner at tracks.azizu.dev](https://tracks.azizu.dev/)**
 
@@ -29,11 +31,9 @@ Past hackathon winners, organized by the sponsor prize they won, so you can see 
 
 ![1,553 winning projects](https://img.shields.io/badge/Winning%20projects-1,553-0F2A4A) ![60 hackathon editions](https://img.shields.io/badge/Hackathon%20editions-60-0A1F38) ![379 sponsors](https://img.shields.io/badge/Sponsors-379-0F2A4A) ![1,697 sponsor prizes](https://img.shields.io/badge/Sponsor%20prizes-1,697-0A1F38)
 
-**1,023 shown** (964 full, 59 tech listings) · **25 inferred** · **516 award-only** · 123 not stated · 10 linked resource only
-
 <!-- END coverage -->
 
-Each card represents one project at one hackathon edition. A card can have both a sourced and an inferred prize note. The sponsor count includes distinct named sponsors. The `Other` group covers individual or unattributed prizes.
+Each card represents one project at one hackathon edition. Coverage counts each prize separately. The sponsor count includes distinct named sponsors. The `Other` group covers individual or unattributed prizes.
 
 <!-- BEGIN directory -->
 
@@ -80,7 +80,7 @@ Each row is one project and one sponsor prize it won. The fields you will use mo
 | `sponsor`, `prize` | Who awarded the prize and its raw Devpost label. Displayed titles omit monetary amounts |
 | `description` | What the project does |
 | `sponsor_integration` | Documented sponsor use, a listed product, a labeled inference, or award context |
-| `use_source`, `use_quote` | Source field and supporting excerpt. Award-only rows use the display prize title |
+| `use_source`, `use_quote` | Source field and supporting excerpt. Theme and award-only rows use the display prize title |
 | `use_evidence_url` | Cited page for inferences, commit-pinned code line, or linked demo |
 | `inferred` | `true` for labeled inferences |
 | `code_match_evidence` | How a repository found outside Devpost was matched to the project |

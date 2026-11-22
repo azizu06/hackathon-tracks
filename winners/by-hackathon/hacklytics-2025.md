@@ -82,7 +82,7 @@ CAMcogni consolidates a wide array of data sources—including camera feeds, IoT
 - **Code:** [Source 1](https://github.com/DKoushikUMD/efficiency-tracker-ui) · [Source 2](https://github.com/sumi0309/efficiency-tracker-backend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kZCDMpvuLY4)
 - **All prizes at this hackathon (1):** AggEquo: AI-Driven Worksite Productivity Metrics
-- **AggEquo:** Sponsor use not stated on Devpost
+- **Theme prize: no sponsor tech named** · Won “AggEquo: AI-Driven Worksite Productivity Metrics” from AggEquo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -109,7 +109,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zAI_PrtBHB0)
 - **All prizes at this hackathon (1):** Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems
-- **Award:** Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -132,7 +132,7 @@ The platform offers two key user modes.
 - **Code:** [Source 1](https://github.com/mko02/VectorSearch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1y8h8RPQGDM)
 - **All prizes at this hackathon (1):** Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems
-- **Award:** Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -159,7 +159,7 @@ Turning uncertainty into opportunity with AI-driven market insights.
 - **Code:** [Source 1](https://github.com/kaustubhbhal/Black-Swan)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LGzhTNWSGaw)
 - **All prizes at this hackathon (1):** Best Finance Hack Sponsored by Capital One
-- **Award:** Won “Best Finance Hack Sponsored by Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Finance Hack Sponsored by Capital One” from Capital One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -213,7 +213,7 @@ Revolutionizing commercial advertising one image at a time.
 - **Code:** [Source 1](https://github.com/shreeya-garg/StoreFrontVisibility)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gYSyRGZpOw4)
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
-- **How it used GrowthFactor:** The project uses GrowthFactor.AI’s dataset to identify streets within a 75-meter radius.
+- **Theme prize: no sponsor tech named** · Won “GrowthFactor AI Impressions” from GrowthFactor.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -236,7 +236,7 @@ It gathers geospatial data from Google’s Geocoding API and Google’s Road API
 - **Code:** [Source 1](https://github.com/poojasaji1/Hacklytics25)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
-- **Award:** Won “GrowthFactor AI Impressions” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “GrowthFactor AI Impressions” from GrowthFactor.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -259,7 +259,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=17Z1GmfzP0w)
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
-- **Award:** Won “GrowthFactor AI Impressions” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “GrowthFactor AI Impressions” from GrowthFactor.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -313,7 +313,7 @@ AI-powered support for safer maternal health.
 - **Code:** [Source 1](https://github.com/bhavyat-01/Maternal-Mortality)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M4JyDZaX9GQ)
 - **All prizes at this hackathon (1):** MLH - Best Use of AI powered by Reach Capital
-- **Award:** Won “MLH - Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “MLH - Best Use of AI powered by Reach Capital” from Reach Capital.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

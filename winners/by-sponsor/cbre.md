@@ -55,7 +55,7 @@ Turn real-estate data into explainable infrastructure risk insights and prioriti
 
 Cura provides forecasting and analytical insights, commercial real estate properties, pros and cons analysis, and market sentiment.
 
-**Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
 
 [Code](https://github.com/armaanamatya/HackUTD2025) · [Demo video](https://www.youtube.com/watch?v=lFJVLqDG710) · Built with ai, crewai, fastapi, mcp
 
@@ -65,7 +65,7 @@ Cura provides forecasting and analytical insights, commercial real estate proper
 
 Expediting the contracts and document signings process between vendors and clients by bringing clarity, transparency, and accountability.
 
-**Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
 
 [Code](https://github.com/VictoriousVincent1/contracts) · [Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
 
@@ -75,7 +75,7 @@ Expediting the contracts and document signings process between vendors and clien
 
 The app is a full-featured real estate helper that helps you find and trust properties.
 
-**Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
 
@@ -87,7 +87,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k
 
 A smart water management tool that helps households and property managers optimize water usage, save on utilities, and promote conservation through personalized insights and community-driven data.
 
-**Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
 
 [Code](https://github.com/Fernando4242/HackUTD24-EcoFastTrack) · [Demo video](https://www.youtube.com/watch?v=StRry54qZMs) · Built with 3d-printer, arduino, c++, cad
 
@@ -97,7 +97,7 @@ A smart water management tool that helps households and property managers optimi
 
 Efficiency that Saves, Sustainability that Lasts.
 
-**Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
 
 [Code](https://github.com/FireboltLegend/HackUTD-2024) · [Demo video](https://www.youtube.com/watch?v=V73-WMFlnqU) · Built with blender, c#, haptics, hardware
 
@@ -107,7 +107,7 @@ Efficiency that Saves, Sustainability that Lasts.
 
 A Sustainability Platform for a Greener Future.
 
-**How it used CBRE:** The project sources information from CBRE’s internal data.
+**Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
 
 [Code](https://github.com/SaadMakda/Greenify-Test) · [Demo video](https://www.youtube.com/watch?v=W2zu9af2O0o) · Built with chart.js, d3.js, flask, framer-motion
 

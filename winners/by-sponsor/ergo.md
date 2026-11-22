@@ -23,7 +23,7 @@
 
 Unified memory across your entire AI stack, complete with codebase visualization, prompt libraries, and advanced context management.
 
-**Award:** Won “Ergo - Best Use of Mastra Agent Framework for Productivity” from Ergo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Ergo - Best Use of Mastra Agent Framework for Productivity” from Ergo.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
 
@@ -33,7 +33,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs
 
 CanDraw is the AI copilot that transforms your whiteboard into a creative partner. Describe your vision and watch it build flowcharts, connect ideas, and organize thoughts in real time.
 
-**Award:** Won “Ergo - Best Use of Mastra Agent Framework for Productivity” from Ergo. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Ergo - Best Use of Mastra Agent Framework for Productivity” from Ergo.
 
 [Code](https://github.com/V-prajit/CanDraw) · [Demo video](https://www.youtube.com/watch?v=T8f1ANKAIFk) · Built with cedar, javascript, mastra, node.js
 
@@ -44,7 +44,7 @@ CanDraw is the AI copilot that transforms your whiteboard into a creative partne
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) | Ergo - Best Use of Mastra Agent Framework for Productivity | Mastra Agent Framework for Productivity | [Track label](https://hackgt-12.devpost.com/) |
+| [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) | Ergo - Best Use of Mastra Agent Framework for Productivity | No specific requirement captured | [Event prize rules](https://hackgt-12.devpost.com/) |
 
 </details>
 

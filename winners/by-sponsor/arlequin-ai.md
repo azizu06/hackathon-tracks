@@ -23,7 +23,7 @@
 
 MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case evidence, flags contradictions, and ranks what to collect next, with every connection linked to its source.
 
-**Award:** Won “&#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI” from Arlequin AI. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI” from Arlequin AI.
 
 [Code](https://github.com/meizuflux/hackprinceton-f26) · [Demo video](https://www.youtube.com/watch?v=OyYZ1CdiKOg) · Built with ai, claude, fastapi, godaddy
 
@@ -33,7 +33,7 @@ MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case eviden
 
 A satirical social media simulator and world builder.
 
-**Award:** Won “&#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns” from Arlequin AI. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns” from Arlequin AI.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=FgR3QLEW5Kc) · Built with agents, claude, multi-agent, next.js
 

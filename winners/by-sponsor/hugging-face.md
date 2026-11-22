@@ -23,7 +23,7 @@
 
 Farsight lets a rescuer drive a rover remotely, inspect its live camera, and revisit a scan of the room in VR.
 
-**How it used Hugging Face:** The local assistant uses Hugging Face model artifacts for Qwen3-VL-2B-Instruct GGUF and Whisper base.en.
+**Theme prize: no sponsor tech named** · Won “Hugging Face: Best Use of Open Source AI” from Hugging Face.
 
 [Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with hugging-face, arduino, arkit, depth-anything
 
@@ -33,7 +33,7 @@ Farsight lets a rescuer drive a rover remotely, inspect its live camera, and rev
 
 A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from.
 
-**How it used Hugging Face:** The project runs open models from the Hub on Hugging Face.
+**Theme prize: no sponsor tech named** · Won “Hugging Face: Best Use of Open Source AI” from Hugging Face.
 
 [Code](https://github.com/Korirussell/Here) · [Demo video](https://www.youtube.com/watch?v=2gRH8oV8e80) · Built with huggingface, arkit, jev, python
 
@@ -43,7 +43,7 @@ A wearable uses directional vibrations to tell deaf and hard-of-hearing users wh
 
 A spatial awareness tool tracks objects and remembers their locations when they move out of view.
 
-**Hugging Face · Imported in code:** Imports the Qwen2.5-VL model from Transformers.
+**Theme prize: no sponsor tech named** · Won “Hugging Face: Best Use of Open Source AI” from Hugging Face.
 
 [Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with arduino, c++, cuda, javascript
 
@@ -54,7 +54,7 @@ A spatial awareness tool tracks objects and remembers their locations when they 
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Hugging Face: Best Use of Open Source AI | Open-source AI | [Track label](https://knight-hacks-ix.devpost.com/) |
+| [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Hugging Face: Best Use of Open Source AI | No specific requirement captured | [Event prize rules](https://knight-hacks-ix.devpost.com/) |
 
 </details>
 

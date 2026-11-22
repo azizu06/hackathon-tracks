@@ -23,7 +23,7 @@
 
 Making ABLLS-R assessments easier for behavioral clinicians who provide therapy to individuals with autism.
 
-**Award:** Won “CAT Digital - Best Cloud Implementation” from Cat Digital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “CAT Digital - Best Cloud Implementation” from Cat Digital.
 
 No public code found · Built with amazon-web-services, css, html, javascript
 

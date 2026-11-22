@@ -1,5 +1,5 @@
 """Validate the published claim and evidence for each sponsor use note."""
-from collections import defaultdict
+from collections import Counter
 import csv
 from functools import lru_cache
 from html import unescape
@@ -18,6 +18,9 @@ PROJECT_LINK = "devpost:project_link"
 CODE = "code"
 VIDEO = "demo_video"
 AWARD = "award"
+THEME = "theme_prize"
+THEME_HEADING = "Theme prize: no sponsor tech named"
+AWARD_GAP_NOTE = "The write-up gives no details on how the team used the sponsor’s tech."
 INFERRED_PREFIX = "inferred:"
 INFERRED_FROM = {
     "devpost:what_it_does": "write-up",
@@ -52,6 +55,7 @@ USE_EVIDENCE = {
     CODE: "GitHub source code",
     VIDEO: "Demo video captions",
     AWARD: "Devpost prize title",
+    THEME: "Devpost prize title",
 }
 USE_UNAVAILABLE = "Integration detail unavailable"
 DEPENDENCY_EVIDENCE = "GitHub dependency manifest"
@@ -59,6 +63,7 @@ IMPORT_EVIDENCE = "GitHub source import"
 ALIAS_FILE = Path(__file__).with_name("sponsor-aliases.tsv")
 USE_FILE = Path(__file__).with_name("sponsor-uses.tsv")
 AWARD_FILE = Path(__file__).with_name("award-framing.tsv")
+PRIZE_KIND_FILE = Path(__file__).with_name("prize-kinds.tsv")
 INFERRED_FILE = Path(__file__).with_name("inferred-uses.tsv")
 INFERRED_CACHE = Path(__file__).with_name("inferred-evidence.tsv")
 FRAMING_WORDS = frozenset("""
@@ -177,10 +182,12 @@ def built_with_note(product):
 
 
 def award_note(sponsor, prize):
-    return (
-        f"Won “{display_prize_title(prize)}” from {sponsor}. "
-        "The write-up gives no details on how the team used the sponsor’s tech."
-    )
+    return f"{theme_note(sponsor, prize)} {AWARD_GAP_NOTE}"
+
+
+def theme_note(sponsor, prize):
+    attribution = "" if sponsor == "Other" else f" from {sponsor}"
+    return f"Won “{display_prize_title(prize)}”{attribution}."
 
 
 def project_link_note(sponsor, quote):
@@ -215,6 +222,8 @@ def use_coverage(row):
         return "inferred"
     if source == AWARD:
         return "award-framed"
+    if source == THEME:
+        return "theme"
     if source == PROJECT_LINK:
         return "linked-resource"
     if source in {BUILT_WITH, LISTED} or row.get("summary_evidence") in {DEPENDENCY_EVIDENCE, IMPORT_EVIDENCE}:
@@ -232,6 +241,8 @@ def use_heading(row, sponsor, award_heading):
         return f"Linked resource from {sponsor}"
     if coverage == "award-framed":
         return award_heading
+    if coverage == "theme":
+        return THEME_HEADING
     if row.get("use_source") in {BUILT_WITH, LISTED}:
         return f"{sponsor} · Listed on Devpost"
     if row.get("summary_evidence") == IMPORT_EVIDENCE:
@@ -239,32 +250,30 @@ def use_heading(row, sponsor, award_heading):
     return sponsor or "Sponsor use"
 
 
-def card_coverage(rows):
-    cards = defaultdict(set)
-    code = set()
-    for row in rows:
-        key = row["event_slug"], row["url"]
-        cards[key].add(use_coverage(row))
-        if row["source_urls"]:
-            code.add(key)
+def prize_coverage(rows):
+    tech = Counter(use_coverage(row) for row in rows if row["prize_kind"] == "tech")
     return {
-        "cards": len(cards),
-        "sourced": sum("full" in types for types in cards.values()),
-        "inferred": sum("inferred" in types for types in cards.values()),
-        "listed": sum(not ({"full", "inferred"} & types) and bool({"grounded-light", "linked-resource"} & types)
-                      for types in cards.values()),
-        "award_or_unstated": sum(types <= {"award-framed", "not stated"} for types in cards.values()),
-        "code": len(code),
+        "shown": tech["full"] + tech["grounded-light"],
+        "inferred": tech["inferred"],
+        "theme": sum(row["prize_kind"] == "theme" for row in rows),
+        "gap": tech["award-framed"] + tech["not stated"] + tech["linked-resource"],
     }
 
 
-def card_coverage_text(rows):
-    counts = card_coverage(rows)
+def prize_coverage_text(rows):
+    counts = prize_coverage(rows)
     return (
-        f'{counts["sourced"]:,} cards with sourced use · {counts["inferred"]:,} with inferred notes · '
-        f'{counts["listed"]:,} with listed tech or links only · {counts["award_or_unstated"]:,} award-only or unstated · '
-        f'{counts["code"]:,} with public code links'
+        f'{counts["shown"] + counts["inferred"]:,} tech prizes with sponsor use '
+        f'({counts["shown"]:,} shown, {counts["inferred"]:,} inferred) · '
+        f'{counts["theme"]:,} theme prizes with no sponsor tech named · '
+        f'{counts["gap"]:,} tech prizes where use was not found'
     )
+
+
+def code_coverage_text(rows):
+    projects = {(row["event_slug"], row["url"]) for row in rows}
+    linked = {(row["event_slug"], row["url"]) for row in rows if row["source_urls"]}
+    return f"{len(linked):,} of {len(projects):,} project cards have public code links."
 
 
 def inference_source(source):
@@ -277,6 +286,19 @@ def inference_source(source):
 
 def prize_key(row):
     return row["event_slug"], row["url"], row["prize"]
+
+
+def track_key(row):
+    return row["event_slug"], row["prize"], row["sponsor"]
+
+
+def validate_prize_kind(row, kinds):
+    classification = kinds.get(track_key(row))
+    fields = ("prize_kind", "prize_kind_basis", "prize_kind_rules_url")
+    if classification is None or tuple(row[field] for field in fields) != classification:
+        raise ValueError("Prize kind and basis must match scripts/prize-kinds.tsv")
+    if (row["prize_kind"] == "theme") != (row["use_source"] == THEME):
+        raise ValueError("Theme prizes must use theme framing")
 
 
 def inferred_note(product, feature, source):
@@ -350,6 +372,13 @@ def validate_use(row):
         if (sponsor == "Other" or evidence_url or quote != display_prize_title(row["prize"])
                 or note != award_note(sponsor, row["prize"])):
             raise ValueError("Award framing must match the verified prize's display title")
+        return
+    if source == THEME:
+        if (evidence_url or quote != display_prize_title(row["prize"])
+                or note != theme_note(sponsor, row["prize"])
+                or AWARD_GAP_NOTE.casefold() in row["summary"].casefold()
+                or row["summary"] != f'{row["description"]} {note}'):
+            raise ValueError("Theme framing must quote the prize title without a sponsor-use claim")
         return
     max_quote = 500 if source == CODE else 200
     if not quote or len(quote) > max_quote or quote != " ".join(quote.split()):
@@ -486,4 +515,17 @@ def load_award_tracks():
             if key in tracks or not rationale.strip() or sponsor == "Other":
                 raise ValueError(f"Invalid or duplicate award framing: {key}")
             tracks.add(key)
+    return tracks
+
+
+def load_prize_kinds():
+    tracks = {}
+    with PRIZE_KIND_FILE.open(encoding="utf-8", newline="") as stream:
+        for event, prize, sponsor, kind, basis, url in csv.reader(stream, delimiter="\t"):
+            key = event, prize, sponsor
+            origin = urlsplit(url)
+            if (key in tracks or kind not in {"tech", "theme"} or not basis or basis != " ".join(basis.split())
+                    or (url and (origin.scheme != "https" or not origin.hostname or origin.username))):
+                raise ValueError(f"Invalid or duplicate prize kind: {key}")
+            tracks[key] = kind, basis, url or None
     return tracks

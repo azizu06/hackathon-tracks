@@ -167,7 +167,7 @@ Sometimes online shopping can be dull, and most of all, turn away customers who 
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=igOuQHgEvto)
 - **All prizes at this hackathon (2):** Shopify API Challenge · Ubisoft: Ubisoft Game Dev Challenge
 - **How it used Shopify:** The shirts, shorts and pants are on the Shopify-hosted store.
-- **Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -298,7 +298,7 @@ Tired of character limits on ChatGPT? Look no further than LLM Pro Max.
 - **Code:** [Source 1](https://github.com/gigabite-pro/LLM-pro-max)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Bm1PYdzCPac)
 - **All prizes at this hackathon (1):** Codegen: Build an Iron Man suit for ChatGPT
-- **Award:** Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -321,7 +321,7 @@ Ever lost your keys? Forgot if you turned off the oven.
 - **Code:** [Source 1](https://github.com/darryltanzil/reCall)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WPjF2uRGGKA)
 - **All prizes at this hackathon (1):** Codegen: Build an Iron Man suit for ChatGPT
-- **Award:** Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -539,7 +539,7 @@ Personalized stock insights scraped from your favourite websites.
 - **Code:** [Source 1](https://github.com/jnathan02222/htn-project)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
-- **Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best DEI Hack sponsored by Fidelity” from Fidelity.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -856,7 +856,7 @@ The team describes the project as “But Gesse get no merch”.
 - **Code:** [Source 1](https://github.com/nayanmapara/GeeseLoveMerch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cepJ_1Lz2-g)
 - **All prizes at this hackathon (1):** Ubisoft: Ubisoft Game Dev Challenge
-- **Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -879,7 +879,7 @@ Hackathons aren't always about improving the world. Sometimes they're about savi
 - **Code:** [Source 1](https://github.com/Greb-the-awesome/hack-the-bomb)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Ubisoft: Ubisoft Game Dev Challenge
-- **Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -902,7 +902,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VMygnUvt998)
 - **All prizes at this hackathon (1):** Ubisoft: Ubisoft Game Dev Challenge
-- **Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

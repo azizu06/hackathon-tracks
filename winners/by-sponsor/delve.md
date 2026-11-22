@@ -23,7 +23,7 @@
 
 Aesthetic React Landing Pages in Minutes – AI, Code Preview / Export, OAuth, Databases.
 
-**Award:** Won “Delve: Most Intuitive UX (AirPods + Delve Founder Numbers + Onsite)” from Delve. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Delve: Most Intuitive UX (AirPods + Delve Founder Numbers + Onsite)” from Delve.
 
 [Code](https://github.com/KshitijTeotia06/frontendTreeHacks) · [Demo video](https://www.youtube.com/watch?v=hpqaYIGAKYQ) · Built with beautiful-soup, elasticsearch, fastapi, firebase
 
@@ -33,7 +33,7 @@ Aesthetic React Landing Pages in Minutes – AI, Code Preview / Export, OAuth, D
 
 Your mom knows you better than you do.
 
-**Award:** Won “Delve: Best Agentic Workflow (AirPods + Delve Founder Numbers + Onsite)” from Delve. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Delve: Best Agentic Workflow (AirPods + Delve Founder Numbers + Onsite)” from Delve.
 
 [Code](https://github.com/MingkuanY/ai-mommy) · [Demo video](https://www.youtube.com/watch?v=eehiiErNsOM) · Built with next.js
 
@@ -43,7 +43,7 @@ Your mom knows you better than you do.
 
 Secure, real-time protest coordination via encrypted mesh and AI insights.
 
-**Award:** Won “Delve: Most Secure App (AirPods + Delve Founder Numbers + Onsite)” from Delve. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Delve: Most Secure App (AirPods + Delve Founder Numbers + Onsite)” from Delve.
 
 [Code](https://github.com/wyang563/protest_app) · [Demo video](https://www.youtube.com/watch?v=rx5fM67ezFQ) · Built with axios, bluetooth, esp32, flask
 

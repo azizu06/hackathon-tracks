@@ -23,7 +23,7 @@
 
 Automatically benefit from the optimizations of many databases, while only working with a single interface.
 
-**Award:** Won “Kensho Data Usability Challenge” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Kensho Data Usability Challenge” from Kensho.
 
 No public code found · Built with azure, cosmos-db, druid, node.js
 
@@ -33,7 +33,7 @@ No public code found · Built with azure, cosmos-db, druid, node.js
 
 The team strip the noise in raw data to find the important trends and present them in clear visualizations.
 
-**Award:** Won “Kensho Data Usability Challenge” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Kensho Data Usability Challenge” from Kensho.
 
 [Code](https://github.com/kdu4108/hackmit19) · Built with ford, html, javascript, openxc
 
@@ -79,7 +79,7 @@ Determine which candidate to vote for by throwing away your pre-conceived notion
 
 The stock market is inherently volatile, and gaining even the slightest insight into its driving factors can lead to large reward.
 
-**Award:** Won “Kenshō - Best Financial Data Hack” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Kenshō - Best Financial Data Hack” from Kensho.
 
 No public code found · Built with bloomberg, weather-underground, wolfram-technologies
 

@@ -23,7 +23,7 @@
 
 A live money room for the whole family. Plan together on every phone, or just call Brian, the AI who checks every idea against your real numbers and calls you back when something needs you.
 
-**Award:** Won “PNC Track” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “PNC Track” from PNC Bank.
 
 [Code](https://github.com/Blean69/HackUTD-2026-v2) · [Demo video](https://www.youtube.com/watch?v=aHd01BcEPJc) · Built with awsec2, caddy, collegescorecardapi, dockercompose
 
@@ -33,7 +33,7 @@ A live money room for the whole family. Plan together on every phone, or just ca
 
 All your money, One brain — Every account. Every goal.
 
-**Award:** Won “PNC Track” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “PNC Track” from PNC Bank.
 
 [Code](https://github.com/ashzaeen/FinVantage) · [Demo video](https://www.youtube.com/watch?v=p4v9ewlpKro) · Built with alpaca, chrome-extension-manifest-v3, gemini, github-action
 
@@ -43,7 +43,7 @@ All your money, One brain — Every account. Every goal.
 
 Wallet Whisperer brings accounts, bills, debts, income, and savings goals into one financial picture, then helps users explore their next decision.
 
-**Award:** Won “PNC Track” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “PNC Track” from PNC Bank.
 
 [Code](https://github.com/AfeIsm/HackUTD) · [Demo video](https://www.youtube.com/watch?v=hG9LVm12ELU) · Built with claude, codex, css, javascript
 
@@ -55,7 +55,7 @@ Wallet Whisperer brings accounts, bills, debts, income, and savings goals into o
 
 AutoPM runs an end-to-end PM workflow inside a “Space” (one project), powered by LangGraph agents:.
 
-**Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “PNC Bank” from PNC Bank.
 
 [Code](https://github.com/hrishinave/HackUTD2) · [Demo video](https://www.youtube.com/watch?v=sNpusFMyFoI) · Built with html
 
@@ -65,7 +65,7 @@ AutoPM runs an end-to-end PM workflow inside a “Space” (one project), powere
 
 Prodplex acts like a team of intelligent assistants, each powered by a different Nemotron model.
 
-**Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “PNC Bank” from PNC Bank.
 
 [Code](https://github.com/Ka2507/hackutd2025) · [Demo video](https://www.youtube.com/watch?v=pX8h4Dt-67c) · Built with javascript, nemotron, react
 
@@ -75,7 +75,7 @@ Prodplex acts like a team of intelligent assistants, each powered by a different
 
 ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discovery→Operate, works with Jira/ADO, automates busywork, and turns strategy into shippable stories—fast.
 
-**Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “PNC Bank” from PNC Bank.
 
 [Code](https://github.com/christinaduthie/produh) · [Demo video](https://www.youtube.com/watch?v=0nwymM2ZtSw) · Built with adk, agentic-architecture, ai-agent, gemini
 
@@ -87,7 +87,7 @@ ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discove
 
 Data Pattern Observatory combines real-time data tracking with statistical modeling to not only monitor but also predict data flow patterns.
 
-**Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “PNC Bank” from PNC Bank.
 
 [Code](https://github.com/siddhu-pikachu/data-observability) · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with elasticsearch, mongodb, python, redis
 
@@ -97,7 +97,7 @@ Data Pattern Observatory combines real-time data tracking with statistical model
 
 Inspiration Managing personal finances can often feel daunting, with budgeting and saving becoming increasingly complex.
 
-**Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “PNC Bank” from PNC Bank.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
 
@@ -107,7 +107,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E
 
 Providing investment and banking opportunities to overlooked individuals who are not able to obtain traditional financial opportunities.
 
-**Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “PNC Bank” from PNC Bank.
 
 [Code](https://github.com/AndrewG4404/HackUTD) · [Demo video](https://www.youtube.com/watch?v=DVqZ3ahW_lI) · Built with ai, crypto, fastapi, geckocoin
 

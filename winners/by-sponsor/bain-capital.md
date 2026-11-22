@@ -23,7 +23,7 @@
 
 Application allows users to create a quick and easy checkout for customers by utilizing Venmo.
 
-**Award:** Won “Bain Capital: Best Use of Machine Learning” from Bain Capital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Bain Capital: Best Use of Machine Learning” from Bain Capital.
 
 No public code found · Built with firebase, sendgrid, venmo
 
@@ -33,7 +33,7 @@ No public code found · Built with firebase, sendgrid, venmo
 
 A tool that helps to turn web exploration into a truly social experience.
 
-**Award:** Won “Bain Capital: Best Use of Data Visualization” from Bain Capital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Bain Capital: Best Use of Data Visualization” from Bain Capital.
 
 [Code](https://github.com/allevitan/SpaceBubbles) · Built with d3.js, heroku, mongodb
 
@@ -44,8 +44,8 @@ A tool that helps to turn web exploration into a truly social experience.
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Bain Capital: Best Use of Data Visualization | Data Visualization | [Track label](https://hackmit.devpost.com/) |
-| [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Bain Capital: Best Use of Machine Learning | Machine Learning | [Track label](https://hackmit.devpost.com/) |
+| [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Bain Capital: Best Use of Data Visualization | No specific requirement captured | [Event prize rules](https://hackmit.devpost.com/) |
+| [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Bain Capital: Best Use of Machine Learning | No specific requirement captured | [Event prize rules](https://hackmit.devpost.com/) |
 
 </details>
 

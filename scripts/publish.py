@@ -11,9 +11,9 @@ from catalog_display import display_prize_title, display_text
 from evidence import clean, normalized_link, overview_tracks, project_details
 from fetch import Fetcher, cache_path, gallery_winners, prize_label, verified_link
 from sponsor_use import (
-    ACCOMPLISHMENTS, AWARD, BUILT_WITH, CODE, VIDEO, MISSING_INTEGRATION, award_note, caption_paths, caption_words,
-    check_cached_use, inference_source, load_award_tracks, load_inferred_uses, load_uses, prize_key,
-    source_label, validate_use,
+    ACCOMPLISHMENTS, AWARD, BUILT_WITH, CODE, THEME, VIDEO, MISSING_INTEGRATION, award_note, caption_paths,
+    caption_words, check_cached_use, inference_source, load_award_tracks, load_inferred_uses, load_prize_kinds,
+    load_uses, source_label, theme_note, track_key, validate_prize_kind, validate_use,
 )
 
 
@@ -325,6 +325,7 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
     uses = load_uses()
     inferred = load_inferred_uses()
     award_tracks = load_award_tracks()
+    prize_kinds = load_prize_kinds()
     code_matches = load_code_matches(receipts)
     candidates, missing = candidate_awards(cache, receipts)
     parsed = {}
@@ -372,17 +373,25 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
             before, tags = describe(project, sponsor, overrides.get((url, sponsor), descriptions.get(url)))
             use, source, quote, location = uses.get((url, sponsor), (MISSING_INTEGRATION, None, None, None))
             key = event, url, prize
+            track = event, prize, sponsor
+            if track not in prize_kinds:
+                raise ValueError(f"Missing prize classification: {track}")
+            kind, kind_basis, kind_rules_url = prize_kinds[track]
             inference = inferred.pop(key, None)
-            if inference:
-                if source is not None or (event, prize, sponsor) not in award_tracks:
+            if kind == "theme":
+                if inference:
+                    raise ValueError(f"Theme prize cannot carry an inferred use: {key}")
+                use, source, quote, location = theme_note(sponsor, prize), THEME, display_prize_title(prize), None
+            elif inference:
+                if source is not None or track not in award_tracks:
                     raise ValueError(f"Inference requires an award-only row: {key}")
                 use, source, quote, location = inference
-            elif source is None and (event, prize, sponsor) in award_tracks:
+            elif source is None and track in award_tracks:
                 use, source, quote = award_note(sponsor, prize), AWARD, display_prize_title(prize)
             if source == BUILT_WITH and quote in project.built_with and quote not in tags:
                 tags.append(quote)
             rules = track_details.get(clean(prize), [])
-            needed, requirement_source = requirement(prize, rules)
+            needed, requirement_source = requirement(prize, rules) if kind == "tech" else (None, None)
             if needed:
                 needed = display_text(needed) or None
             observed_links["source"].update(project.source_links)
@@ -397,6 +406,7 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
             rows.append({
                 "project": project.name, "hackathon": name, "year": year, "event_slug": event,
                 "sponsor": sponsor, "prize": prize, "prize_value": stated_value(prize),
+                "prize_kind": kind, "prize_kind_basis": kind_basis, "prize_kind_rules_url": kind_rules_url,
                 "description": before, "sponsor_integration": use, "summary": f"{before} {use}",
                 "summary_evidence": source_label(source, use),
                 "use_source": source, "use_quote": quote, "use_evidence_url": location, "sponsor_tech": tags,
@@ -414,9 +424,13 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
             })
     if inferred:
         raise ValueError(f"Inferred uses refer to unknown award rows: {sorted(inferred)}")
+    unmatched = prize_kinds.keys() - {track_key(row) for row in rows}
+    if unmatched:
+        raise ValueError(f"Prize classifications refer to unknown award tracks: {sorted(unmatched)}")
     for row in rows:
         project = parsed[row["url"]]
         try:
+            validate_prize_kind(row, prize_kinds)
             validate_use(row)
             source, quote = row["use_source"], row["use_quote"]
             if inference_source(source):

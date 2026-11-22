@@ -23,7 +23,7 @@
 
 An LLM-powered TA that adapts to course material to help guide and engage students through conceptual and technical questions, focusing on reducing redundant questions and addressing overworked TAs.
 
-**Award:** Won “Best Use of AI in Education by Schmidt Futures” from Schmidt Futures. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of AI in Education by Schmidt Futures” from Schmidt Futures.
 
 No public code found · Built with chatgpt, dspy, openai, python
 
@@ -34,7 +34,7 @@ No public code found · Built with chatgpt, dspy, openai, python
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) | Best Use of AI in Education by Schmidt Futures | AI in Education by Schmidt Futures | [Track label](https://hack-brown-2024.devpost.com/) |
+| [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) | Best Use of AI in Education by Schmidt Futures | No specific requirement captured | [Event prize rules](https://hack-brown-2024.devpost.com/) |
 
 </details>
 

@@ -23,7 +23,7 @@
 
 Anima Labs is an agentic development environment for computational neuroscience.
 
-**Award:** Won “&#91;MLH&#93; Commit Fellowship” from MLH / Transcend Network. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;MLH&#93; Commit Fellowship” from MLH / Transcend Network.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with arxiv, creao, docker, europe-pmc
 

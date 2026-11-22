@@ -23,7 +23,7 @@
 
 An interactive community game with wearable devices that harness storytelling and emotive design.
 
-**Award:** Won “Sponsor Prize - Disney - Best Use of Storytelling” from Disney. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Disney - Best Use of Storytelling” from Disney.
 
 [Code](https://github.com/tedmyers/hackMIT) · Built with arduino
 
@@ -35,7 +35,7 @@ An interactive community game with wearable devices that harness storytelling an
 
 Gaze organizes un-organized videos to help the user interpret and navigate visual information.
 
-**Award:** Won “Best Use of Emerging Technology (Disney)” from Disney. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of Emerging Technology (Disney)” from Disney.
 
 No public code found
 
@@ -46,8 +46,8 @@ No public code found
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Disney - Best Use of Storytelling | Storytelling | [Track label](https://hackmit2017.devpost.com/) |
-| [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best Use of Emerging Technology (Disney) | Emerging Technology | [Track label](https://hackmit-2016.devpost.com/) |
+| [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Disney - Best Use of Storytelling | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
+| [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best Use of Emerging Technology (Disney) | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 
 </details>
 

@@ -69,7 +69,7 @@ A self-writing journal of your life, with superpowers.
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Azure Champ · Finalist · Most Interesting Use of Text-Based Machine Learning by Quora
 - **How it used Microsoft:** Returns keywords from new user text with Microsoft’s Azure Cognitive Services.
-- **Award:** Won “Most Interesting Use of Text-Based Machine Learning by Quora” from Quora. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Most Interesting Use of Text-Based Machine Learning by Quora” from Quora.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -198,7 +198,7 @@ No public code found · Built with android-studio, express.js, node.js
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cadillac: Mobility as a Service
-- **Award:** Won “Cadillac: Mobility as a Service” from Cadillac. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Cadillac: Mobility as a Service” from Cadillac.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -279,7 +279,7 @@ Troomba is a friendly robot that carries your drinks.
 - **Code:** [Source 1](https://github.com/patil215/soomba)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** element14 Presents a Robotics Kit
-- **element14:** Sponsor use not stated on Devpost
+- **Theme prize: no sponsor tech named** · Won “element14 Presents a Robotics Kit” from element14.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -333,7 +333,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W8
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M4C3eRrB2W8)
 - **All prizes at this hackathon (1):** VR Zone by Google
-- **Award:** Won “VR Zone by Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “VR Zone by Google” from Google.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -493,7 +493,7 @@ Sell dorm supplies in a seasonal market-style setting with prices determined by 
 - **Code:** [Source 1](https://github.com/m-99/dorm-market)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Nasdaq Best "Markets Everywhere" Hack
-- **How it used Nasdaq:** The team used Nasdaq's Markets Everywhere API to handle transactions and set prices for assets in item markets.
+- **Theme prize: no sponsor tech named** · Won “Nasdaq Best "Markets Everywhere" Hack” from Nasdaq.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -520,7 +520,7 @@ An Augmented Reality Powered Checkers Assistant.
 - **Code:** [Source 1](https://github.com/abeakkas/Augmented-Checkers)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Niantic Augmented Reality Prize
-- **Award:** Won “Niantic Augmented Reality Prize” from Niantic. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Niantic Augmented Reality Prize” from Niantic.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -547,7 +547,7 @@ Objectively quantifying reactions to media using EEG data and signal processing.
 - **Code:** [Source 1](https://github.com/adampotter0105/DeterMind)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
-- **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best "Impossible" Hack” from Pear VC.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -570,7 +570,7 @@ No public code found · Built with ik, steamvr, unity, vive
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
-- **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best "Impossible" Hack” from Pear VC.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -593,7 +593,7 @@ The team made a cardboard piano that uses computer vision to detect and play pia
 - **Code:** [Source 1](https://github.com/roberth188/music-for-all)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
-- **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best "Impossible" Hack” from Pear VC.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -653,7 +653,7 @@ No public code found · Built with angular.js, firebase, ionic, jupyter
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** "Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets
-- **How it used RBC:** Data obtained from RBC Capital Markets consists of 20 features recorded for 27 companies at multiple points in time for a total of 524 samples.
+- **Theme prize: no sponsor tech named** · Won “"Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets” from RBC.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -676,7 +676,7 @@ No public code found · Built with axios, azure, express.js, node.js
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** "Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets · Finalist
-- **Award:** Won “"Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets” from RBC. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “"Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets” from RBC.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -757,7 +757,7 @@ A real-time, mobile-based, distributed WiFi heatmap.
 - **Code:** [Source 1](https://github.com/thkim1011/hotspot)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Best Use of Location Data · Finalist · Take Us On an Adventure
-- **Award:** Won “Best Use of Location Data” from Samsara. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of Location Data” from Samsara.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

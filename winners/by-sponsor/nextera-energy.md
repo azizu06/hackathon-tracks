@@ -35,7 +35,7 @@ Spotlight transforms Boston Dynamics Spot data into actionable insights using AI
 
 The perfect drone optimization algorithm that you'd ever need.
 
-**Award:** Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy.
 
 [Code](https://github.com/a1vcm/knighthacks2025) · [Demo video](https://www.youtube.com/watch?v=qbOgZGTl13M) · Built with git, github, googleortools, numpy
 
@@ -45,7 +45,7 @@ The perfect drone optimization algorithm that you'd ever need.
 
 The solution uses Google OR-Tools to solve the Vehicle Routing Problem by assigning waypoints to missions while minimizing total flight distance.
 
-**Award:** Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy.
 
 [Code](https://github.com/Bvqlz/GridWatch) · [Demo video](https://www.youtube.com/watch?v=AEEQjJ4ilyA) · Built with flask, ortools, react
 
@@ -55,7 +55,7 @@ The solution uses Google OR-Tools to solve the Vehicle Routing Problem by assign
 
 Optimizing autonomous drone missions for efficient, battery-aware inspection of NextEra Energy’s power grid using intelligent routing algorithms.
 
-**Award:** Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “NextEra Energy: Drone Optimization Challenge” from NextEra Energy.
 
 [Code](https://github.com/saniddhyaDubey/next-era-Drone-Routing-Problem) · [Demo video](https://www.youtube.com/watch?v=2L7jpEtnFr4) · Built with geopandas, google-colab, matplotlib, numpy
 

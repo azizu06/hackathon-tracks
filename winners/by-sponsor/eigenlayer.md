@@ -33,7 +33,7 @@ The system consists of two specialized machine learning models:.
 
 Mobile ECG with Wi-Fi capabilities that makes AI-powered diagnoses and stores data on a remote server.
 
-**Award:** Won “Web3 Prize: Most Crazy Idea” from EigenLayer. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Web3 Prize: Most Crazy Idea” from EigenLayer.
 
 [Code](https://github.com/fightingj305/ecgo) · [Demo video](https://www.youtube.com/watch?v=IxavWJJbxuU) · Built with c, esp32, influxdb, opacity
 

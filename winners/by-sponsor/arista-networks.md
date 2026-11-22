@@ -23,7 +23,7 @@
 
 Nimbus is an open-source VM provisioning platform that gives you the EC2 experience on hardware you own.
 
-**Award:** Won “Arista Networks: Connect the Dots Challenge” from Arista Networks. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Arista Networks: Connect the Dots Challenge” from Arista Networks.
 
 [Code](https://github.com/smalex-z/nimbus) · [Demo video](https://www.youtube.com/watch?v=mk75Ryr81Y8) · Built with bash, golang, proxmox, react
 
@@ -33,7 +33,7 @@ Nimbus is an open-source VM provisioning platform that gives you the EC2 experie
 
 A smart productivity proxy that uses AI to filter away distractions while allowing task-relevant resources and traffic through based on configurable goals, schedules, and access controls.
 
-**Award:** Won “Arista Networks: Connect the Dots Challenge” from Arista Networks. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Arista Networks: Connect the Dots Challenge” from Arista Networks.
 
 [Code](https://github.com/Drime648/lahacks-timehole) · [Demo video](https://www.youtube.com/watch?v=pVpUcCo96SI) · Built with css, dns, express.js, gemini
 
@@ -43,7 +43,7 @@ A smart productivity proxy that uses AI to filter away distractions while allowi
 
 Veritas is a Chrome extension that fact-checks YouTube videos in real time. It extracts claims and checks them against sources like Wikipedia, news, and government data, showing results instantly.
 
-**Award:** Won “Arista Networks: Connect the Dots Challenge” from Arista Networks. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Arista Networks: Connect the Dots Challenge” from Arista Networks.
 
 [Code](https://github.com/riteshkasa/veritas) · [Demo video](https://www.youtube.com/watch?v=CuinBraRAlk) · Built with agentverse, chrome, extensions, fastapi
 
@@ -54,7 +54,7 @@ Veritas is a Chrome extension that fact-checks YouTube videos in real time. It e
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Arista Networks: Connect the Dots Challenge | Build a web, mobile, or desktop application that successfully connects people to resources, or routes useful data to solve a problem in daily life. | [Devpost prize description](https://la-hacks-2026.devpost.com/) |
+| [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Arista Networks: Connect the Dots Challenge | No specific requirement captured | [Event prize rules](https://la-hacks-2026.devpost.com/) |
 
 </details>
 

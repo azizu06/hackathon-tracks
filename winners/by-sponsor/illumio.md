@@ -23,7 +23,7 @@
 
 The world's first fully homomorphic runtime for a Turing-complete language.
 
-**Award:** Won “Sponsor Prize - Illumio - Best Security Hack” from Illumio. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Illumio - Best Security Hack” from Illumio.
 
 [Code](https://github.com/joeltg/brainfreeze) · Built with python, tfhe
 

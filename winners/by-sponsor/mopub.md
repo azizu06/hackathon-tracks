@@ -23,7 +23,7 @@
 
 BeaconViewer and BeaconBroadcaster are iOS applications that utilize iOS7's new iBeacons feature to provide easy access and creation of supplemental information for physical items or events.
 
-**Award:** Won “MoPub - Mobile Data Award” from MoPub. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “MoPub - Mobile Data Award” from MoPub.
 
 No public code found · Built with firebase, ios
 

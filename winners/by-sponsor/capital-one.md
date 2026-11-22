@@ -103,7 +103,7 @@ A finance app helps people moving to a new city plan expenses with their roommat
 
 SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 
-**How it used Capital One:** The project used Capital One APIs to funnel 20% of earnings into savings accounts.
+**Theme prize: no sponsor tech named** · Won “Capital One - Best Financial Hack” from Capital One.
 
 [Code](https://github.com/Vigneshpeddi/SpaceShare) · Built with amazon-web-services, react, tailwind, typescript
 
@@ -125,7 +125,7 @@ An offline guide helps survivors find state compensation programs and trace elig
 
 Depending on the task, an orchestrator agent decided which specialized agents to summon and begin assessing invoices.
 
-**Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Capital One” from Capital One.
 
 [Code](https://github.com/dominickdupuy/InvoiceFraudDetector) · [Demo video](https://www.youtube.com/watch?v=aegOE2791Ow) · Built with bigquery, express.js, fastapi, gemini
 
@@ -135,7 +135,7 @@ Depending on the task, an orchestrator agent decided which specialized agents to
 
 Turning uncertainty into opportunity with AI-driven market insights.
 
-**Award:** Won “Best Finance Hack Sponsored by Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Finance Hack Sponsored by Capital One” from Capital One.
 
 [Code](https://github.com/kaustubhbhal/Black-Swan) · [Demo video](https://www.youtube.com/watch?v=LGzhTNWSGaw) · Built with alpha-vantage-api, flask, google-oauth, html
 
@@ -155,7 +155,7 @@ A virtual pet whose physical wellness depends on your financial wellness.
 
 People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device trust, biometrics, and C2PA attestation to verify high-risk payments securely.
 
-**Award:** Won “Best Financial Hack by Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Financial Hack by Capital One” from Capital One.
 
 [Code](https://github.com/sofiaal1/C2Pay) · [Demo video](https://www.youtube.com/watch?v=gnQvp3OVYmE) · Built with bit-manipulation, c2pa, decryption, encryption
 
@@ -225,7 +225,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=w15F0oFqkak
 
 Let kids learn how to manage their own finances with Spendy.
 
-**Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Capital One” from Capital One.
 
 [Code](https://github.com/brendanshen24/SpendWithSpendy) · [Demo video](https://www.youtube.com/watch?v=EK8jEkWBTbg) · Built with expo.io, react, tailwind
 
@@ -235,7 +235,7 @@ Let kids learn how to manage their own finances with Spendy.
 
 Sprout AI: Optimizing shelves, preserving the planet.
 
-**Award:** Won “CATEGORY - Finance (Capital One)” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “CATEGORY - Finance (Capital One)” from Capital One.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
 
@@ -245,7 +245,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac
 
 A finance prototype explores a way to earn yield on money set aside for subscriptions.
 
-**Award:** Won “CATEGORY - Finance (Capital One)” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “CATEGORY - Finance (Capital One)” from Capital One.
 
 [Code](https://github.com/adlonymous/subsave) · [Demo video](https://www.youtube.com/watch?v=FC3KWH5CUpk) · Built with auth0, expo.io, gemini, lulo
 
@@ -257,7 +257,7 @@ A finance prototype explores a way to earn yield on money set aside for subscrip
 
 Calculate car lease payments, insurance, and track savings in one tool! Tailored for your budget, with support for English/Spanish.
 
-**Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Capital One” from Capital One.
 
 [Code](https://github.com/Jackal-HQ/Lease-Saving-Guide) · Built with customtkinter, matplotlib, python, sqlite
 
@@ -287,7 +287,7 @@ Puddle brings an "every drop matters" approach to your everyday spending, allowi
 
 SmartCards is a user-friendly addon for your budgeting app to help you better categorize your transactions and find investing opportunities from each purchase.
 
-**Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Capital One” from Capital One.
 
 [Code](https://github.com/chasereyn/smart-cards) · Built with express.js, flask, kaggle, node.js
 

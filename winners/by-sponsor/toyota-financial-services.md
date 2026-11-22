@@ -23,7 +23,7 @@
 
 Diagnosis, coverage and care in one.
 
-**Award:** Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services.
 
 [Code](https://github.com/buildingBuild/HackTX-Project) · [Demo video](https://www.youtube.com/watch?v=itEdbNrkp0M) · Built with ai-agent, blender, javascript, python
 
@@ -33,7 +33,7 @@ Diagnosis, coverage and care in one.
 
 It contains and offers the following services:.
 
-**Award:** Won “Toyota Financial Services Track” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Toyota Financial Services Track” from Toyota Financial Services.
 
 [Code](https://github.com/hannahrauch/HackUTD26) · [Demo video](https://www.youtube.com/watch?v=BFI5YZRLPV4) · Built with framermotion, next.js, recharts, tailwind
 
@@ -43,7 +43,7 @@ It contains and offers the following services:.
 
 Repair, Replace or Wait? NextMove lets you know.
 
-**Award:** Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services.
 
 [Code](https://github.com/ryandherb/hacktx-26) · [Demo video](https://www.youtube.com/watch?v=aazkUzhLwqo) · Built with muse, next.js, python, react
 
@@ -53,7 +53,7 @@ Repair, Replace or Wait? NextMove lets you know.
 
 NextMove has two surfaces running on one decision engine.
 
-**Award:** Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services.
 
 [Code](https://github.com/Vswashah/toyota-next) · [Demo video](https://www.youtube.com/watch?v=dPjd3_zd6So) · Built with claude-agent-sdk, fastapi, framer-motion, gemini
 
@@ -63,7 +63,7 @@ NextMove has two surfaces running on one decision engine.
 
 You can outrun the cops. Not your APR.
 
-**Award:** Won “Toyota Financial Services Track” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Toyota Financial Services Track” from Toyota Financial Services.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE) · Built with anthropic, claude, css3, elevenlabs
 
@@ -73,7 +73,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE
 
 &#42;&#42;Toyyo: Your AI-powered copilot for smarter vehicle ownership, financing, and every move ahead.&#42;&#42;.
 
-**How it used Toyota Financial Services:** The team designed Toyyo around synthetic customer profiles and data scenarios provided by Toyota Financial Services.
+**Theme prize: no sponsor tech named** · Won “Toyota Financial Services Track” from Toyota Financial Services.
 
 [Code](https://github.com/vishy-m/Toyyo) · [Demo video](https://www.youtube.com/watch?v=AxL6UkqenSE) · Built with anthropic-claude, framer-motion, google-gemini, html5
 
@@ -85,7 +85,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE
 
 An AI-powered space odyssey that transforms car buying into an interstellar adventure.
 
-**Award:** Won “Best Toyota Hack” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Toyota Hack” from Toyota Financial Services.
 
 [Code](https://github.com/applea12X/Astraeus) · [Demo video](https://www.youtube.com/watch?v=6AkRiYIPX7o) · Built with css3, firebase, gemini, javascript
 
@@ -95,7 +95,7 @@ An AI-powered space odyssey that transforms car buying into an interstellar adve
 
 FiYota — data visualization tool to find your ideal Toyota financing options.
 
-**Award:** Won “Best Toyota Hack” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Toyota Hack” from Toyota Financial Services.
 
 [Code](https://github.com/Abhijith-utla/Fiyota) · [Demo video](https://www.youtube.com/watch?v=Zb64HnzlmBk) · Built with next.js, react, recharts, typescript
 
@@ -105,7 +105,7 @@ FiYota — data visualization tool to find your ideal Toyota financing options.
 
 Discover the perfect car with a swipe. As students learn finance, Hingine uses gamified learning to guide smarter choices and unlock incentives for financing or leasing.
 
-**Award:** Won “Toyota Financial Services” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Toyota Financial Services” from Toyota Financial Services.
 
 [Code](https://github.com/Pancakemix31/Hingine) · [Demo video](https://www.youtube.com/watch?v=7elxs86J_xQ) · Built with expo.io, react, typescript
 
@@ -115,7 +115,7 @@ Discover the perfect car with a swipe. As students learn finance, Hingine uses g
 
 🚗 Don't want to end up in a financial tow-up? ⚡ 🚗 Select a car that truly maters 🛻 Avoid hidden costs, such as APRs, gas, and insurance, with no buyers remorse.
 
-**Award:** Won “Toyota Financial Services” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Toyota Financial Services” from Toyota Financial Services.
 
 [Code](https://github.com/adamFabsa/Kachow) · [Demo video](https://www.youtube.com/watch?v=ebR9JQ7yu48) · Built with javascript, mongodb, nemotron, node.js
 
@@ -125,7 +125,7 @@ Discover the perfect car with a swipe. As students learn finance, Hingine uses g
 
 MyToyota simplifies car financing by matching users’ income, credit, and preferences with personalized Toyota models, payment plans, and leasing options—all in one easy, smart platform.
 
-**Award:** Won “Best Toyota Hack” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Toyota Hack” from Toyota Financial Services.
 
 [Code](https://github.com/avishparekh06/my-toyota) · [Demo video](https://www.youtube.com/watch?v=t3-Gc6rqFt8) · Built with css, express.js, html, javascript
 
@@ -135,7 +135,7 @@ MyToyota simplifies car financing by matching users’ income, credit, and prefe
 
 Toyotron is a solution that allows users to easily find their dream Toyota through agentic AI powered by NVIDIA's intelligent open source foundational model, Nemotron.
 
-**Award:** Won “Toyota Financial Services” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Toyota Financial Services” from Toyota Financial Services.
 
 [Code](https://github.com/anbguye/hackutd-Toyota-Toyotron) · [Demo video](https://www.youtube.com/watch?v=CSc6zKQRxIY) · Built with ai, css, nemotron, next.js
 

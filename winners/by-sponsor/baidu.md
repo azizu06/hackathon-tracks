@@ -33,7 +33,7 @@ Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pr
 
 ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line of code.
 
-**How it used Baidu:** Downloads PaddlePaddle’s Word2Vec inference topology.
+**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Baidu - Machine Learning Community Prize” from Baidu.
 
 [Code](https://github.com/fervorarc/PaddleBois) · Built with paddle, python
 
@@ -43,7 +43,7 @@ ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line
 
 Robust fake news detection made simple and scalable for real people.
 
-**Award:** Won “Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good” from Baidu. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good” from Baidu.
 
 [Code](https://github.com/likeaj6/FakeBananas) · Built with azure, css, flask, html
 

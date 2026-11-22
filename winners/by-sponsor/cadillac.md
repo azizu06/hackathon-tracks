@@ -33,7 +33,7 @@ No public code found · Built with android-studio, arduino
 
 OnTheWay is an innovative P2P delivery system that harnesses the power of pre-existing routes to minimize the need for inconvenient, long-distance trips and therefore reduce environmental impact.
 
-**Award:** Won “Cadillac: Mobility as a Service” from Cadillac. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Cadillac: Mobility as a Service” from Cadillac.
 
 No public code found · Built with android-studio, express.js, node.js
 

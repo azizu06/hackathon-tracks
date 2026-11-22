@@ -23,7 +23,7 @@
 
 A website to help Atlanta residents and visitors stay safe during first-time meetups.
 
-**Award:** Won “Best AI for Human Safety by SafetyKit” from SafetyKit. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best AI for Human Safety by SafetyKit” from SafetyKit.
 
 [Code](https://github.com/IshaMadanu/hacklytics-atl-risk) · [Demo video](https://www.youtube.com/watch?v=5gWB9hfDggA) · Built with flask, geminiaistudio, html, intellij-idea
 

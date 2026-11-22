@@ -23,7 +23,7 @@
 
 Teaches you how to dance like Bruno Mars and other famous dancers.
 
-**Award:** Won “Niantic Augmented Reality Prize” from Niantic. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Niantic Augmented Reality Prize” from Niantic.
 
 [Code](https://github.com/zackpi/open-choreo) · Built with opencv, python, tensorflow, websockets
 
@@ -35,7 +35,7 @@ Teaches you how to dance like Bruno Mars and other famous dancers.
 
 An Augmented Reality Powered Checkers Assistant.
 
-**Award:** Won “Niantic Augmented Reality Prize” from Niantic. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Niantic Augmented Reality Prize” from Niantic.
 
 [Code](https://github.com/abeakkas/Augmented-Checkers) · Built with ai, android, augmented-reality, computer-vision
 

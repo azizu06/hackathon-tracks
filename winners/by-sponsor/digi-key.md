@@ -23,7 +23,7 @@
 
 OxyControl is a novel, low-cost device designed to prevent the abuse of prescription narcotics in post-operative and chronic pain patients.
 
-**Award:** Won “Best Hardware Hack Sponsored by Digi-Key” from Digi-Key. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Hardware Hack Sponsored by Digi-Key” from Digi-Key.
 
 [Code](https://github.com/blucifer22/oxycontrol) · [Demo video](https://www.youtube.com/watch?v=Ucm68nm7ov4) · Built with arduino, c, c++, cad
 
@@ -33,7 +33,7 @@ OxyControl is a novel, low-cost device designed to prevent the abuse of prescrip
 
 A machine learning application that alerts users of unattended leaky or running faucets in their homes to minimize water waste and overuse.
 
-**Award:** Won “Best Hardware Hack Sponsored by Digi-Key” from Digi-Key. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Hardware Hack Sponsored by Digi-Key” from Digi-Key.
 
 [Code](https://github.com/tamablevirus/HackDuke2020-SinkSaver) · [Demo video](https://www.youtube.com/watch?v=59taEK-VP0A) · Built with arduino, c++, flask, github
 

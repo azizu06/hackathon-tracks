@@ -23,7 +23,7 @@
 
 Understanding that the answer cannot be found in one location, but rather a harmony of several became a huge growth point in this hackathon.
 
-**Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Vanguard” from Vanguard.
 
 [Code](https://github.com/aarnavgautam/clarifin-ai) · Built with amazon-web-services, axios, cloudwatch, express.js
 
@@ -33,7 +33,7 @@ Understanding that the answer cannot be found in one location, but rather a harm
 
 The web application is designed to help train the users in common economic situations they might face to get a better grip on their finances.
 
-**Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Vanguard” from Vanguard.
 
 No public code found · Built with cloud-computing, database-management, git, json
 
@@ -43,7 +43,7 @@ No public code found · Built with cloud-computing, database-management, git, js
 
 Personalized Financial Score: Based on income, spending, and dependents to track progress.
 
-**Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Vanguard” from Vanguard.
 
 [Code](https://github.com/IsmailAbousalem/Prospera) · Built with figma, javascript, openai, react
 

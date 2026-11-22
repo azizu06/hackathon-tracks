@@ -43,7 +43,7 @@ A software development tool compares solutions created by competing coding agent
 
 A code research tool indexes commit history so developers can search for earlier decisions.
 
-**Award:** Won “&#91;Warp&#93; Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Warp&#93; Best Developer Tool” from Warp.
 
 [Code](https://github.com/OM200401/nwHacks-2026) · Built with 1password, cortex, fastapi, gemini
 
@@ -65,7 +65,7 @@ Talk, gesture, and bring your code to life.
 
 Work with untapped talents across language barriers.
 
-**Award:** Won “Best Developer Tool, sponsored by Warp” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Developer Tool, sponsored by Warp” from Warp.
 
 No public code found · Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
 
@@ -75,7 +75,7 @@ No public code found · Built with amazon-ec2, amazon-web-services, dify.ai, fas
 
 Making cloud services what they were meant to be — simple.
 
-**How it used Warp:** The team integrated Warp as the primary development environment, which was instrumental in building InfraBlocks.
+**Theme prize: no sponsor tech named** · Won “Warp - Best Developer Tool” from Warp.
 
 [Code](https://github.com/infrablocks-oss/InfraBlocks) · [Demo video](https://www.youtube.com/watch?v=n_xQXasVDbk) · Built with cedar-os, nextjs, openai, radix-ui
 
@@ -105,7 +105,7 @@ Bring your code to life. Orchestrate your code in the runtime.
 
 A planning tool turns a written software idea into an editable architecture graph and starter repository.
 
-**Award:** Won “Warp Challenge: Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Warp Challenge: Best Developer Tool” from Warp.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
 
@@ -147,7 +147,7 @@ A hierarchal multi-agent framework built from scratch. Transforms complex goals 
 
 Review : Once your code is complete, GenHint reviews it, checking for accuracy and best practices, giving you feedback to ensure your code is indeed working.
 
-**How it used Warp:** The team used Warp Drive’s shared workflows to share key processes.
+**Theme prize: no sponsor tech named** · Won “Warp - Honorable Mention Best Developer Tool” from Warp.
 
 [Code](https://github.com/zichenzhang04/GenHint) · [Demo video](https://www.youtube.com/watch?v=72yeRx4773o) · Built with warp, azure, git, github
 
@@ -167,7 +167,7 @@ A devtool for understanding codebases faster and easier.
 
 Real-time error monitoring from the terminal, helping developers spend less time solving common problems.
 
-**Award:** Won “Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Developer Tool” from Warp.
 
 [Code](https://github.com/denniwang/t-error) · [Demo video](https://www.youtube.com/watch?v=MNrN6I0-H-A) · Built with c++, javascript, mongodb, nextjs
 
@@ -195,7 +195,7 @@ A prototype implements a programming language and game engine inside Figma.
 | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) | Best Developer Tool, sponsored by Warp | No specific requirement captured | [Event prize rules](https://hack-brown-2025.devpost.com/) |
 | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) | Warp - Best Developer Tool | No specific requirement captured | [Event prize rules](https://hackgt-12.devpost.com/) |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Warp: Best Developer Tool by Warp | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
-| [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | Warp Challenge: Best Developer Tool | Build a hack that focuses on improving the developer experience in some meaningful way. | [Devpost prize description](https://la-hacks-2025.devpost.com/) |
+| [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | Warp Challenge: Best Developer Tool | No specific requirement captured | [Event prize rules](https://la-hacks-2025.devpost.com/) |
 | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Warp Sponsor Prize | No specific requirement captured | [Event prize rules](https://nwhacks-2025.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Warp: Best Developer Tool (Keychron Mechanical Keyboard per team member) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Warp: Best Developer Tool by Warp | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |

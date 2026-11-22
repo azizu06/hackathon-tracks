@@ -23,7 +23,7 @@
 
 Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay smart, and learn to protect your online world effortlessly.
 
-**Award:** Won “Break Through Tech” from Break Through Tech. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Break Through Tech” from Break Through Tech.
 
 No public code found · Built with charm.sh, go, ngrok, sqlite
 

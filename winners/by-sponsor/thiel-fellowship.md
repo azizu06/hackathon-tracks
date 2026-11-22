@@ -23,7 +23,7 @@
 
 Silkspeak is a realtime speech analysis application that helps people improve their speaking skills.
 
-**Award:** Won “Thiel Fellowship - “Under 20” Hack Award” from Thiel Fellowship. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Thiel Fellowship - “Under 20” Hack Award” from Thiel Fellowship.
 
 No public code found · Built with css, heroku, html5, javascript
 

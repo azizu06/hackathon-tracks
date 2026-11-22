@@ -58,7 +58,7 @@ Vistra puts the power in the EYES of the user.
 - **Code:** [Source 1](https://github.com/ahere84/Vistra-Smart-Mirror)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wjHxAu6g3js)
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Most Philanthropic Hack - Bloomberg” from Bloomberg.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -139,7 +139,7 @@ The app records audio secretly, and, using a deep-learning ML model, transcribes
 - **Code:** [Source 1](https://github.com/3752V/KeyCatchAI) · [Source 2](https://github.com/V-Coding/Bitcamp2024)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech
-- **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Digital Forensics Related Hack - Cipher Tech” from Cipher Tech Solutions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -239,7 +239,7 @@ The web application allows a user to understand the prevalence of certain natura
 - **Code:** [Source 1](https://github.com/jasonyih/BitcampBackend) · [Source 2](https://github.com/madelineanson/Bitcamp-Brawlers)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of APIs related to Housing/Climate Change - Fannie Mae
-- **Award:** Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -262,7 +262,7 @@ Insights for Tomorrow: Navigating Climate Challenges with Data.
 - **Code:** [Source 1](https://github.com/amantalreja/Fannnie-Mae-Challenge)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of APIs related to Housing/Climate Change - Fannie Mae
-- **Award:** Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -289,7 +289,7 @@ This app uses visualizations from analysis of various datasets relating to weath
 - **Code:** [Source 1](https://github.com/RachelK23/Forecasts-by-the-Campfire)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity - MLH
-- **Award:** Won “Best DEI Hack sponsored by Fidelity - MLH” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best DEI Hack sponsored by Fidelity - MLH” from Fidelity.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

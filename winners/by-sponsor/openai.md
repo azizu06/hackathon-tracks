@@ -33,7 +33,7 @@ Growing up, games gave the team an excuse to actually be together.
 
 A wildfire response tool uses agent workflows and physical models to help evaluate containment decisions.
 
-**How it used OpenAI:** The system uses four GPT-4o agents for fire behavior, risk assessment, notifications, and recommendations.
+**Theme prize: no sponsor tech named** · Won “&#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)” from OpenAI.
 
 [Code](https://github.com/maanitg/containment) · [Demo video](https://www.youtube.com/watch?v=EZNfc-7HeEc) · Built with codex, gpt-4o, openai, react-leaflet-fastapi-websockets-openai
 
@@ -53,7 +53,7 @@ Turn your Grandma into a Waymo.
 
 A voice and vision assistant maps rooms, helps older adults find misplaced objects, and alerts caregivers.
 
-**How it used OpenAI:** The project uses Whisper for STT and OpenAI TTS for its response.
+**Theme prize: no sponsor tech named** · Won “&#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)” from OpenAI.
 
 [Code](https://github.com/nathanjzhao/treehacks2026) · [Demo video](https://www.youtube.com/watch?v=UdgzCapZGrc) · Built with gpt-5-mini, openai, openai-whisper, depth-anything-v2
 
@@ -73,7 +73,7 @@ Orbis turns an ordinary video into a 3D world you can explore.
 
 A programming environment gives blind developers an accessible way to write and navigate code.
 
-**How it used OpenAI:** GPT 4.1-mini forms the connection between the agents, contextual layer, and user-facing conversation.
+**Theme prize: no sponsor tech named** · Won “&#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)” from OpenAI.
 
 [Code](https://github.com/ledaniel0/treehacks2026) · [Demo video](https://www.youtube.com/watch?v=aL9MrpwJXOA) · Built with agentverse, elasticsearch, electron, langgraph
 

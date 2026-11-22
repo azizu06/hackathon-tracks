@@ -23,7 +23,7 @@
 
 Empowering Artists with Blockchain: Seamless Royalty Payments and Ownership Control Through Spotify Integration.
 
-**Award:** Won “Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize” from Berkeley RDI. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize” from Berkeley RDI.
 
 [Code](https://github.com/ChiragSeth14/Blockify) · [Demo video](https://www.youtube.com/watch?v=bKVkiuuv-uM) · Built with blockchain, move, node.js, react.js
 

@@ -23,7 +23,7 @@
 
 You have too many GitHub repos that are all out of date, and you're all out of pizza. GitGud gotchu.
 
-**Lightstep:** Sponsor use not stated on Devpost
+**Theme prize: no sponsor tech named** · Won “Best Command Line Tool with LightStep” from Lightstep.
 
 [Code](https://github.com/jordynlm/GitGud) · Built with bash, python
 

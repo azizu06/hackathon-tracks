@@ -55,7 +55,7 @@ It’s incredibly difficult to just pick a few, but here are the major takeaways
 
 Tired of character limits on ChatGPT? Look no further than LLM Pro Max.
 
-**Award:** Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen.
 
 [Code](https://github.com/gigabite-pro/LLM-pro-max) · [Demo video](https://www.youtube.com/watch?v=Bm1PYdzCPac) · Built with auth0, chromadb, cohere, convex
 
@@ -65,7 +65,7 @@ Tired of character limits on ChatGPT? Look no further than LLM Pro Max.
 
 Ever lost your keys? Forgot if you turned off the oven.
 
-**Award:** Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Codegen: Build an Iron Man suit for ChatGPT” from Codegen.
 
 [Code](https://github.com/darryltanzil/reCall) · [Demo video](https://www.youtube.com/watch?v=WPjF2uRGGKA) · Built with express.js, firebase, javascript, node.js
 

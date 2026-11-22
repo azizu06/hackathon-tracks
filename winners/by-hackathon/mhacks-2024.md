@@ -61,7 +61,7 @@ Cybersecurity done right. Cyberwright leverages AI to automate the process of id
 - **Code:** [Source 1](https://github.com/jaydns/cyberwright)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_6fZPsObiIw)
 - **All prizes at this hackathon (1):** BoundaryML - Best use of LLM Agents
-- **Award:** Won “BoundaryML - Best use of LLM Agents” from BoundaryML. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “BoundaryML - Best use of LLM Agents” from BoundaryML.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -138,7 +138,7 @@ No public code found · Built with amazon-web-services, css, html, javascript
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CAT Digital - Best Cloud Implementation
-- **Award:** Won “CAT Digital - Best Cloud Implementation” from Cat Digital. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “CAT Digital - Best Cloud Implementation” from Cat Digital.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ An AI-backed solution for improving the U.S. visa experience for non-English-spe
 - **Code:** [Source 1](https://github.com/ayeahmed/visa-friend)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MLH - Best DEI Hack sponsored by Fidelity
-- **Award:** Won “MLH - Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “MLH - Best DEI Hack sponsored by Fidelity” from Fidelity.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -600,7 +600,7 @@ Review : Once your code is complete, GenHint reviews it, checking for accuracy a
 - **Code:** [Source 1](https://github.com/zichenzhang04/GenHint)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=72yeRx4773o)
 - **All prizes at this hackathon (1):** Warp - Honorable Mention Best Developer Tool
-- **How it used Warp:** The team used Warp Drive’s shared workflows to share key processes.
+- **Theme prize: no sponsor tech named** · Won “Warp - Honorable Mention Best Developer Tool” from Warp.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

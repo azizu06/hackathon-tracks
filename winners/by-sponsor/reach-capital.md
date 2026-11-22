@@ -23,7 +23,7 @@
 
 Vaccine OS is a full-stack neoantigen vaccine design platform.
 
-**Award:** Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital.
 
 No public code found · Built with claude, next.js, postgresql, python
 
@@ -35,7 +35,7 @@ No public code found · Built with claude, next.js, postgresql, python
 
 AutoCPT automates medical billing by extracting CPT codes from doctor-patient talks, seamless fracture detection, and generating bills via Capital One API—saving time and reducing errors.
 
-**Award:** Won “Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of AI powered by Reach Capital” from Reach Capital.
 
 [Code](https://github.com/Techdude01/AutoCPT) · [Demo video](https://www.youtube.com/watch?v=YdkI37ASM9w) · Built with capital-one, groq, python, react
 
@@ -45,7 +45,7 @@ AutoCPT automates medical billing by extracting CPT codes from doctor-patient ta
 
 AI-powered organizational tool for your communication platforms.
 
-**Award:** Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;MLH&#93; Best Use of AI powered by Reach Capital” from Reach Capital.
 
 [Code](https://github.com/DeanShahin5/Calendera) · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
 
@@ -55,7 +55,7 @@ AI-powered organizational tool for your communication platforms.
 
 AI-powered support for safer maternal health.
 
-**Award:** Won “MLH - Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “MLH - Best Use of AI powered by Reach Capital” from Reach Capital.
 
 [Code](https://github.com/bhavyat-01/Maternal-Mortality) · [Demo video](https://www.youtube.com/watch?v=M4JyDZaX9GQ) · Built with css, gemini, git, html
 
@@ -65,7 +65,7 @@ AI-powered support for safer maternal health.
 
 Accelerating clinical decision-making with AI-driven patient simulations, real-time feedback, and intelligent diagnostic training.
 
-**Award:** Won “Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of AI powered by Reach Capital” from Reach Capital.
 
 [Code](https://github.com/CharlesJoseph2003/Hack-Brown2025) · [Demo video](https://www.youtube.com/watch?v=VQALHk_1ff0) · Built with amazon-web-services, css, javascript, node.js
 
@@ -76,11 +76,11 @@ Accelerating clinical decision-making with AI-driven patient simulations, real-t
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md) | &#91;MLH&#93; Best Use of AI powered by Reach Capital | AI powered by Reach Capital | [Track label](https://hackduke-code-for-good-2026.devpost.com/) |
-| [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | &#91;MLH&#93; Best Use of AI powered by Reach Capital | AI powered by Reach Capital | [Track label](https://cal-hacks-12-0.devpost.com/) |
-| [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) | Best Use of AI powered by Reach Capital | AI powered by Reach Capital | [Track label](https://hack-brown-2025.devpost.com/) |
-| [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) | MLH - Best Use of AI powered by Reach Capital | AI powered by Reach Capital | [Track label](https://hacklytics2025.devpost.com/) |
-| [HackNYU 2025](../by-hackathon/hacknyu-2025.md) | Best Use of AI powered by Reach Capital | AI powered by Reach Capital | [Track label](https://hacknyu-2025.devpost.com/) |
+| [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md) | &#91;MLH&#93; Best Use of AI powered by Reach Capital | No specific requirement captured | [Event prize rules](https://hackduke-code-for-good-2026.devpost.com/) |
+| [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | &#91;MLH&#93; Best Use of AI powered by Reach Capital | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
+| [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) | Best Use of AI powered by Reach Capital | No specific requirement captured | [Event prize rules](https://hack-brown-2025.devpost.com/) |
+| [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) | MLH - Best Use of AI powered by Reach Capital | No specific requirement captured | [Event prize rules](https://hacklytics2025.devpost.com/) |
+| [HackNYU 2025](../by-hackathon/hacknyu-2025.md) | Best Use of AI powered by Reach Capital | No specific requirement captured | [Event prize rules](https://hacknyu-2025.devpost.com/) |
 
 </details>
 

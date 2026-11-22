@@ -193,7 +193,7 @@ An app estimates carbon emissions from users’ logged activities and charts the
 - **Code:** [Source 1](https://github.com/SagnikBiswasDL/SBHacksShared2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3oaDyCyiX6o)
 - **All prizes at this hackathon (1):** MLH - Sauce Labs Hot Sauce Raffle
-- **Award:** Won “MLH - Sauce Labs Hot Sauce Raffle” from Sauce Labs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “MLH - Sauce Labs Hot Sauce Raffle” from Sauce Labs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -247,7 +247,7 @@ ReCapture: Unlock the World, One Memory at a Time.
 - **Code:** [Source 1](https://github.com/NathanRLiu/reCapture)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BBudE_SngUo)
 - **All prizes at this hackathon (1):** Snag Challenge
-- **Award:** Won “Snag Challenge” from Snag. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Snag Challenge” from Snag.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

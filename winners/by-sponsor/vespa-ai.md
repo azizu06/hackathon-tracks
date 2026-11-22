@@ -23,7 +23,7 @@
 
 Indoor navigation for the visually impaired, made easy.
 
-**How it used Vespa.ai:** The team stored vectors in a database using Vespa AI.
+**Theme prize: no sponsor tech named** · Won “Vespa.ai: Best Hack Using a Vision Language Model” from Vespa.ai.
 
 [Code](https://github.com/flatypus/miru) · [Demo video](https://www.youtube.com/watch?v=kjCsRmlAYiY) · Built with arduino, clip, edge, embedding
 
@@ -34,7 +34,7 @@ Indoor navigation for the visually impaired, made easy.
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Vespa.ai: Best Hack Using a Vision Language Model | A vision-language model | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Vespa.ai: Best Hack Using a Vision Language Model | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
 

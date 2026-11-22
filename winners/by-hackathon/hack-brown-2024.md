@@ -79,7 +79,7 @@ Helping everyone at Brown find the perfect bathroom &lt;3.
 - **Code:** [Source 1](https://github.com/katieli1/bathroomsatbrown)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
-- **Award:** Won “Best DEI Hack sponsored by Fidelity” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best DEI Hack sponsored by Fidelity” from Fidelity.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -133,7 +133,7 @@ No public code found · Built with chatgpt, dspy, openai, python
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AI in Education by Schmidt Futures
-- **Award:** Won “Best Use of AI in Education by Schmidt Futures” from Schmidt Futures. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of AI in Education by Schmidt Futures” from Schmidt Futures.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

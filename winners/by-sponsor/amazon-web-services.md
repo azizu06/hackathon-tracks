@@ -23,7 +23,7 @@
 
 Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 
-**How it used Amazon Web Services:** The project used Amazon Nova on Bedrock for its AI.
+**Theme prize: no sponsor tech named** · Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services.
 
 [Code](https://github.com/aditya-baniya-ai/hack_princeton) · [Demo video](https://www.youtube.com/watch?v=nPXe5ZIrOiY) · Built with amazon-bedrock, amazon-web-services, amazon-nova-2-lite, amazon-nova-2-sonic
 
@@ -43,7 +43,7 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 
 Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a live map of where a bleed is likely.
 
-**Award:** Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services.
 
 [Code](https://github.com/at350/hackprinceton-fall-2026) · [Demo video](https://www.youtube.com/watch?v=IY0Rr7l58Eg) · Built with anthropic, arduino, claude, deepagents
 
@@ -53,7 +53,7 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 
 A wearable combines spoken assistance with spatial audio to help people with vision loss navigate.
 
-**Award:** Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services.
 
 [Code](https://github.com/Aliceeia/Meridies) · [Demo video](https://www.youtube.com/watch?v=eoBT5CGjsPA) · Built with api, costar, css, gemini
 
@@ -83,7 +83,7 @@ By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
 
 Step inside the past, see it through every view, with every line sourced and true.
 
-**Award:** Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services.
 
 [Code](https://github.com/riavadhavkar/vantage) · [Demo video](https://www.youtube.com/watch?v=Atkd0YpaIMc) · Built with chromadb, cloudflare, deepagents, elevenlabs
 

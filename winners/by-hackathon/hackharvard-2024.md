@@ -56,7 +56,7 @@ Transforming arthritis rehabilitation by advanced posture detection ensures corr
 - **Code:** [Source 1](https://github.com/Shameed4/Flexy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=l7krRFZL9R8)
 - **All prizes at this hackathon (1):** AllHealth Track Prize
-- **Award:** Won “AllHealth Track Prize” from AllHealth. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “AllHealth Track Prize” from AllHealth.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -245,7 +245,7 @@ Your personal prescription and medical symptom tracking companion.
 - **Code:** [Source 1](https://github.com/Givikap/Althea)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=y12QLSdo0zs)
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
-- **Award:** Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -268,7 +268,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dRKB-PcvrnU)
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
-- **Award:** Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -291,7 +291,7 @@ No public code found · Built with css, github, html, javascript
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
-- **Award:** Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Patient Safety Challenge: Sunrise (Hatch) Alarm Clock” from Patient Safety Technology Challenge.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -318,7 +318,7 @@ Find useful information about subreddits with a few clicks.
 - **Code:** [Source 1](https://github.com/sethmorton/embeddit)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=E9kUUpfn7_g)
 - **All prizes at this hackathon (1):** Sauce Labs Hot Sauce Raffle
-- **Award:** Won “Sauce Labs Hot Sauce Raffle” from Sauce Labs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Sauce Labs Hot Sauce Raffle” from Sauce Labs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -345,7 +345,7 @@ Real-time error monitoring from the terminal, helping developers spend less time
 - **Code:** [Source 1](https://github.com/denniwang/t-error)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MNrN6I0-H-A)
 - **All prizes at this hackathon (1):** Best Developer Tool
-- **Award:** Won “Best Developer Tool” from Warp. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Developer Tool” from Warp.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

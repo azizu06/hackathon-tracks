@@ -242,7 +242,7 @@ Giving LLM irl hands and eyes. Convert any embedded system into a plug and play 
 - **Code:** [Source 1](https://github.com/wenbox360/Conductor)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4Sr5CIKw8jU)
 - **All prizes at this hackathon (1):** Best Hardware Hack presented by Embedder
-- **Award:** Won “Best Hardware Hack presented by Embedder” from Embedder. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Hardware Hack presented by Embedder” from Embedder.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -452,7 +452,7 @@ Skip the planning, savor the eating. Optimize road trips to no longer exhaustive
 - **Code:** [Source 1](https://github.com/krrishkk/foodrunner)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uo4ONCYzjgA)
 - **All prizes at this hackathon (1):** Smart Task Accelerator presented by Grainger
-- **Award:** Won “Smart Task Accelerator presented by Grainger” from Grainger. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Smart Task Accelerator presented by Grainger” from Grainger.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -475,7 +475,7 @@ The team created a Swift app so that you can use the tool directly from the MacO
 - **Code:** [Source 1](https://github.com/evanhekman/zygonic)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=B43pgol5dvg)
 - **All prizes at this hackathon (1):** Smart Task Accelerator presented by Grainger
-- **Award:** Won “Smart Task Accelerator presented by Grainger” from Grainger. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Smart Task Accelerator presented by Grainger” from Grainger.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

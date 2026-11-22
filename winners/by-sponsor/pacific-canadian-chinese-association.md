@@ -23,7 +23,7 @@
 
 A smart biofeedback pen and web app that guides users through quick exercises to improve steadiness and control.
 
-**Award:** Won “&#91;PCCA&#93; Best Wellness Related Hack” from Pacific Canadian Chinese Association. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;PCCA&#93; Best Wellness Related Hack” from Pacific Canadian Chinese Association.
 
 [Code](https://github.com/SteadyScript/SteadyScript) · [Demo video](https://www.youtube.com/watch?v=QCpoyvr15rE) · Built with arduino, c++, fastapi, opencv
 

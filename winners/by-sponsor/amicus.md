@@ -23,7 +23,7 @@
 
 Sharity is a micro-donation platform where users share why they donate.
 
-**Award:** Won “Amicus - What Does The Fox Say? Award” from Amicus. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Amicus - What Does The Fox Say? Award” from Amicus.
 
 No public code found · Built with alchemyapi, facebook, firebase, fleksy
 

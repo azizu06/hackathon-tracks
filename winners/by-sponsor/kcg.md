@@ -23,7 +23,7 @@
 
 Turn the Chrome URL bar into a bash terminal.
 
-**KCG:** Sponsor use not stated on Devpost
+**Theme prize: no sponsor tech named** · Won “KCG Prize” from KCG.
 
 [Code](https://github.com/manna/url-term) · Built with css, html, jade, javascript
 

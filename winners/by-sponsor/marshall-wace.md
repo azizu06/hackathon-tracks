@@ -23,7 +23,7 @@
 
 An agentic AI system that fights back for renters—scouting real listings, exposing hidden lease risks, revealing true costs, and negotiating rent so tenants stop guessing and start winning.
 
-**Award:** Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace.
 
 [Code](https://github.com/optimusbuilder/Rent-Swarm) · [Demo video](https://www.youtube.com/watch?v=xCzTYc7mIIg) · Built with amazon-web-services, browserbase, gemini, langchain
 
@@ -33,7 +33,7 @@ An agentic AI system that fights back for renters—scouting real listings, expo
 
 Whenever you're on a shopping site, Stopify tracks your vital signs and your activity on the site.
 
-**Award:** Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace.
 
 [Code](https://github.com/calebellenberg/hackAtBrown2026) · Built with c++, css, html, javascript
 
@@ -43,7 +43,7 @@ Whenever you're on a shopping site, Stopify tracks your vital signs and your act
 
 Unserious is an AI trip planner learning your style via "This or That" choices to generate personalized itineraries. Document adventures with photo scrapbooks and share with travelers worldwide.
 
-**Award:** Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems” from Marshall Wace.
 
 [Code](https://github.com/oliviaaheng/unserious) · Built with gemini, python, sqlite, uv
 

@@ -23,7 +23,7 @@
 
 Every census tract is shaded by a need score built from HRSA shortage designations and CDC PLACES health data.
 
-**Award:** Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group.
 
 [Code](https://github.com/alisx255/asclepieion-public) · [Demo video](https://www.youtube.com/watch?v=llLSV0W6s7c) · Built with anthropic, cdc-open-data, costar, fastapi
 
@@ -33,7 +33,7 @@ Every census tract is shaded by a need score built from HRSA shortage designatio
 
 Siteline tells clinics where to open. It learns what drives each practice, pulls the public data that measures it, and ranks real lease spaces by the patients they’d win and the care gaps they’d fill.
 
-**Award:** Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group.
 
 [Code](https://github.com/archit2901/siteline) · [Demo video](https://www.youtube.com/watch?v=uoMErki4yTk) · Built with agents, amazon-bedrock, amazon-nova, amazon-web-services
 
@@ -43,7 +43,7 @@ Siteline tells clinics where to open. It learns what drives each practice, pulls
 
 Find your space with Stagehand! For creatives wanting to visualize before booking.
 
-**How it used CoStar Group:** The team built the project on CoStar Group property records and Matterport scans.
+**Theme prize: no sponsor tech named** · Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group.
 
 [Code](https://github.com/sofiagrimm/hackprinceton) · [Demo video](https://vimeo.com/1246959819) · Built with capital-one-nessie, costar, deepagents, fastapi
 

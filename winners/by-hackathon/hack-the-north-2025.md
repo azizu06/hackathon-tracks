@@ -95,7 +95,7 @@ Lavoe provides an intuitive and AI-augmented DAW interface with features designe
 - **Code:** [Source 1](https://github.com/Leonardomontesqui/Lavoe)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ISKuDB2s1jM)
 - **All prizes at this hackathon (2):** Rox: Best AI Agent · Windsurf: Best Project built with Windsurf
-- **Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Rox: Best AI Agent” from Rox.
 - **Windsurf · Listed on Devpost:** Built with windsurf (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
@@ -120,7 +120,7 @@ Smarter underwriting through AI-powered dashboards, deep insights, and reinforce
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R8M0fgPcW_Y)
 - **All prizes at this hackathon (2):** Federato: Best RiskOps Solution for Underwriters · Y Combinator: Unicorn Prize
 - **How it used Federato:** The team pulled the Federato API dataset and ingested it through a Python pipeline.
-- **Award:** Won “Y Combinator: Unicorn Prize” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Y Combinator: Unicorn Prize” from Y Combinator.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -599,7 +599,7 @@ Siri if it actually worked on your Mac.
 - **Code:** [Source 1](https://github.com/demanr/tango)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sK-WvZZubcc)
 - **All prizes at this hackathon (2):** Graphite: Engineering Dream Team · Hack the North 2025: Finalists
-- **How it used Graphite:** The team used Graphite to collaborate on this project and work asynchronously.
+- **Theme prize: no sponsor tech named** · Won “Graphite: Engineering Dream Team” from Graphite.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -930,7 +930,7 @@ Turning creators into data-driven businesses through the power of AI.
 - **Code:** [Source 1](https://github.com/ochen1/creator-intelligence)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Rox: Best AI Agent
-- **Award:** Won “Rox: Best AI Agent” from Rox. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Rox: Best AI Agent” from Rox.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1173,7 +1173,7 @@ Automatically transforms bodycam footage into professional evidence reports usin
 - **Code:** [Source 1](https://github.com/asalsali/evidentai-main)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=q6GD46dyJok)
 - **All prizes at this hackathon (1):** Y Combinator: Unicorn Prize
-- **Award:** Won “Y Combinator: Unicorn Prize” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Y Combinator: Unicorn Prize” from Y Combinator.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1196,7 +1196,7 @@ A gesture-first, AI-assisted 3D workspace where your hands craft the scene.
 - **Code:** [Source 1](https://github.com/itsmarsss/shapeshift)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=X7lMr9bwjqM)
 - **All prizes at this hackathon (1):** Y Combinator: Unicorn Prize
-- **Award:** Won “Y Combinator: Unicorn Prize” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Y Combinator: Unicorn Prize” from Y Combinator.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

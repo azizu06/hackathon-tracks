@@ -23,7 +23,7 @@
 
 DronAR allows users to view realtime information about their drones such as positional data and status.
 
-**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 
 [Code](https://github.com/sebLopezCot/DronAR) · Built with azure, express.js, mongodb, node.js
 
@@ -33,7 +33,7 @@ DronAR allows users to view realtime information about their drones such as posi
 
 A drone platform that not only knows how to fly itself, but also knows where to deliver aid after a natural disaster.
 
-**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 
 No public code found · Built with arduino, c++, raspberry-pi
 
@@ -43,7 +43,7 @@ No public code found · Built with arduino, c++, raspberry-pi
 
 This is a user-facing web app that allows the user to pick a delivery location and follow the delivery through real-time tracking.
 
-**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 
 No public code found · Built with css, dronekit, html, javascript
 
@@ -53,7 +53,7 @@ No public code found · Built with css, dronekit, html, javascript
 
 Advanced route planning for drone deliveries to moving targets, with tracking and control suite.
 
-**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 
 No public code found · Built with google-streetview, javascript, leaflet.js, mithril.js
 
@@ -63,7 +63,7 @@ No public code found · Built with google-streetview, javascript, leaflet.js, mi
 
 LeapLock is a 3D-gesture based locking mechanism.
 
-**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 
 [Code](https://github.com/Howon/LeapLock) · Built with arduino, beaker, firebase, javascript
 
@@ -73,7 +73,7 @@ LeapLock is a 3D-gesture based locking mechanism.
 
 With more and more advancements in drone technology, drones are becoming accessible by everyone.
 
-**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 
 No public code found · Built with flask, javascript
 
@@ -83,7 +83,7 @@ No public code found · Built with flask, javascript
 
 An iOS app for multi-drone multi-package planning, that supports variable drone capacity and package weights.
 
-**Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs.
 
 No public code found · Built with apple-maps, swift
 
@@ -94,7 +94,7 @@ No public code found · Built with apple-maps, swift
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) | FOSS in a Drone Cargo Management System App | [Track label](https://hackmit-2016.devpost.com/) |
+| [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 
 </details>
 

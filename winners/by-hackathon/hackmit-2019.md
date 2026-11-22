@@ -65,7 +65,7 @@ No public code found · Built with azure, cosmos-db, druid, node.js
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Nasdaq/Quandl Datasets · Kensho Data Usability Challenge
-- **Award:** Won “Kensho Data Usability Challenge” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Kensho Data Usability Challenge” from Kensho.
 - **How it used Nasdaq:** The team created a web app for NASDAQ financial data.
 - **Checked on Devpost:** 2026-11-21
 
@@ -89,7 +89,7 @@ Pilot encourages individuals to fill out their mood tracker, and it helps them d
 - **Code:** [Source 1](https://github.com/the-flying-circus/hackmit-2019)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** DRW: Best Data Visualization Hack · Rev.ai Speech API Challenge
-- **Award:** Won “DRW: Best Data Visualization Hack” from DRW. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “DRW: Best Data Visualization Hack” from DRW.
 - **How it used Rev:** The team used Rev for speech-to-text.
 - **Checked on Devpost:** 2026-11-21
 
@@ -246,7 +246,7 @@ No public code found · Built with flask, github, google-maps, python
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Social Impact Hack with Coding It Forward
-- **Award:** Won “Best Social Impact Hack with Coding It Forward” from Coding It Forward. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Social Impact Hack with Coding It Forward” from Coding It Forward.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -452,7 +452,7 @@ automl for heterogeneous model ensembling, giving automagical state-of-the-art s
 - **Code:** [Source 1](https://github.com/lhirschfeld/ensemble_factory)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Interesting Use of Data with HRT
-- **Award:** Won “Most Interesting Use of Data with HRT” from Hudson River Trading. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Most Interesting Use of Data with HRT” from Hudson River Trading.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -598,7 +598,7 @@ No public code found · Built with electron, ios, node.js, swift
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Secure User Healthcare Data Challenge with Imprivata
-- **Award:** Won “Secure User Healthcare Data Challenge with Imprivata” from Imprivata. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Secure User Healthcare Data Challenge with Imprivata” from Imprivata.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -654,7 +654,7 @@ The team strip the noise in raw data to find the important trends and present th
 - **Code:** [Source 1](https://github.com/kdu4108/hackmit19)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Kensho Data Usability Challenge
-- **Award:** Won “Kensho Data Usability Challenge” from Kensho. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Kensho Data Usability Challenge” from Kensho.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -681,7 +681,7 @@ You have too many GitHub repos that are all out of date, and you're all out of p
 - **Code:** [Source 1](https://github.com/jordynlm/GitGud)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Command Line Tool with LightStep
-- **Lightstep:** Sponsor use not stated on Devpost
+- **Theme prize: no sponsor tech named** · Won “Best Command Line Tool with LightStep” from Lightstep.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -708,7 +708,7 @@ The pen is mightier than the sword, nothing is more powerful than the word.
 - **Code:** [Source 1](https://github.com/jenniferlai43/rapscorer)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Hack for Building Community with Facebook
-- **Award:** Won “Best Hack for Building Community with Facebook” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Hack for Building Community with Facebook” from Meta.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -814,7 +814,7 @@ Teaches you how to dance like Bruno Mars and other famous dancers.
 - **Code:** [Source 1](https://github.com/zackpi/open-choreo)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Niantic Augmented Reality Prize
-- **Award:** Won “Niantic Augmented Reality Prize” from Niantic. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Niantic Augmented Reality Prize” from Niantic.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -874,7 +874,7 @@ Housing inequality, the disparity in housing due to socioeconomic factors, is a 
 - **Code:** [Source 1](https://github.com/ShashvatS/HappyHome)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Hack to Help the Housing Inequality Crisis with Wayfair
-- **Award:** Won “Best Hack to Help the Housing Inequality Crisis with Wayfair” from Wayfair. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Hack to Help the Housing Inequality Crisis with Wayfair” from Wayfair.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

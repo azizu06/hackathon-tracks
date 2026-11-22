@@ -23,7 +23,7 @@
 
 Troomba is a friendly robot that carries your drinks.
 
-**element14:** Sponsor use not stated on Devpost
+**Theme prize: no sponsor tech named** · Won “element14 Presents a Robotics Kit” from element14.
 
 [Code](https://github.com/patil215/soomba) · Built with arduino, c++, python, raspberry-pi
 

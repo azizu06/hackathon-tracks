@@ -60,9 +60,9 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 - **Code:** [Source 1](https://github.com/at350/hackprinceton-fall-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IY0Rr7l58Eg)
 - **All prizes at this hackathon (4):** &#91;Amazon&#93; Best Practical AI Innovation · &#91;Justin Bojarski&#93; Best Physical AI Hack · &#91;LangChain&#93; Best use of deepagents · Best Overall Hack
-- **Award:** Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services.
 - **How it used LangChain:** The project reads the LangGraph server for its dashboard and traces every run in LangSmith.
-- **Sponsor use:** Sponsor use not stated on Devpost
+- **Theme prize: no sponsor tech named** · Won “&#91;Justin Bojarski&#93; Best Physical AI Hack”.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -109,7 +109,7 @@ A wearable combines spoken assistance with spatial audio to help people with vis
 - **Code:** [Source 1](https://github.com/Aliceeia/Meridies)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eoBT5CGjsPA)
 - **All prizes at this hackathon (2):** &#91;Amazon&#93; Best Practical AI Innovation · &#91;MLH&#93; Best Use of Gemini API
-- **Award:** Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services.
 - **How it used Google:** Gemini 2.5 Pro TTS gives Meri its voice.
 - **Checked on Devpost:** 2026-11-21
 
@@ -133,7 +133,7 @@ A camera watches the ingredients, AI counts every item taken, and texts the owne
 - **Code:** [Source 1](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tsmOwUs_G00)
 - **All prizes at this hackathon (2):** &#91;Peri&#93; Forward Deployed Engineer · &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
-- **Award:** Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri.
 - **How it used Photon:** The project uses Photon 2.0 for iMessage messaging.
 - **Checked on Devpost:** 2026-11-21
 
@@ -165,7 +165,7 @@ Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 - **Code:** [Source 1](https://github.com/aditya-baniya-ai/hack_princeton)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nPXe5ZIrOiY)
 - **All prizes at this hackathon (1):** &#91;Amazon&#93; Best Practical AI Innovation
-- **How it used Amazon Web Services:** The project used Amazon Nova on Bedrock for its AI.
+- **Theme prize: no sponsor tech named** · Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ Step inside the past, see it through every view, with every line sourced and tru
 - **Code:** [Source 1](https://github.com/riavadhavkar/vantage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Atkd0YpaIMc)
 - **All prizes at this hackathon (1):** &#91;Amazon&#93; Best Practical AI Innovation
-- **Award:** Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -215,7 +215,7 @@ MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case eviden
 - **Code:** [Source 1](https://github.com/meizuflux/hackprinceton-f26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OyYZ1CdiKOg)
 - **All prizes at this hackathon (1):** &#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI
-- **Award:** Won “&#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI” from Arlequin AI. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI” from Arlequin AI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -238,7 +238,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=FgR3QLEW5Kc
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FgR3QLEW5Kc)
 - **All prizes at this hackathon (1):** &#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns
-- **Award:** Won “&#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns” from Arlequin AI. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns” from Arlequin AI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -367,7 +367,7 @@ Every census tract is shaded by a need score built from HRSA shortage designatio
 - **Code:** [Source 1](https://github.com/alisx255/asclepieion-public)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=llLSV0W6s7c)
 - **All prizes at this hackathon (2):** &#91;CoStar Group&#93; Inside and Out: AI for the Built World · Best Rookie Hack
-- **Award:** Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -390,7 +390,7 @@ Siteline tells clinics where to open. It learns what drives each practice, pulls
 - **Code:** [Source 1](https://github.com/archit2901/siteline)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uoMErki4yTk)
 - **All prizes at this hackathon (1):** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
-- **Award:** Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -413,7 +413,7 @@ Find your space with Stagehand! For creatives wanting to visualize before bookin
 - **Code:** [Source 1](https://github.com/sofiagrimm/hackprinceton)
 - **Demo video:** [Video 1](https://vimeo.com/1246959819)
 - **All prizes at this hackathon (1):** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
-- **How it used CoStar Group:** The team built the project on CoStar Group property records and Matterport scans.
+- **Theme prize: no sponsor tech named** · Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -508,7 +508,7 @@ Boomer helps electricians throughout an entire job, from understanding the task 
 - **Code:** [Source 1](https://github.com/Svanik-Palvai/Boomer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dKs6uc-Ands)
 - **All prizes at this hackathon (1):** &#91;Peri&#93; Forward Deployed Engineer
-- **Award:** Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -531,7 +531,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=v2oRRCjdOkc)
 - **All prizes at this hackathon (1):** &#91;Peri&#93; Forward Deployed Engineer
-- **Award:** Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Peri&#93; Forward Deployed Engineer” from Peri.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -699,7 +699,7 @@ Solar powered buoys that track water quality 200x cheaper than the next closest 
 - **Code:** [Source 1](https://github.com/3arii/hackprinceton-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q-0arEQO5fQ)
 - **All prizes at this hackathon (2):** &#91;Justin Bojarski&#93; Best Physical AI Hack · Best Sustainability Hack
-- **Sponsor use:** Sponsor use not stated on Devpost
+- **Theme prize: no sponsor tech named** · Won “&#91;Justin Bojarski&#93; Best Physical AI Hack”.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -722,7 +722,7 @@ Using brain activity to make the world more accessible to those with mobility di
 - **Code:** [Source 1](https://github.com/RoboDurden/Hoverboard-Firmware-Hack-Gen2.x)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bIt_TQ2hsBU)
 - **All prizes at this hackathon (2):** &#91;Justin Bojarski&#93; Best Physical AI Hack · Best Healthcare Hack
-- **Sponsor use:** Sponsor use not stated on Devpost
+- **Theme prize: no sponsor tech named** · Won “&#91;Justin Bojarski&#93; Best Physical AI Hack”.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

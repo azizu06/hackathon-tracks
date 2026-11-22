@@ -23,7 +23,7 @@
 
 Turning one photo into civic action.
 
-**SnapDev:** Sponsor use not stated on Devpost
+**Theme prize: no sponsor tech named** · Won “SnapDev” from SnapDev.
 
 [Code](https://github.com/Babagesh/Potbot) · [Demo video](https://www.youtube.com/watch?v=PoeRdtQU7hg) · Built with brightdata, fastapi, groq, javascript
 

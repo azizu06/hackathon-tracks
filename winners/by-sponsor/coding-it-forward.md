@@ -23,7 +23,7 @@
 
 Pioneer technology that prioritizes the needs of displaced persons and tailor software to uniquely address the specific challenges of homelessness.
 
-**Award:** Won “Best Social Impact Hack with Coding It Forward” from Coding It Forward. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Social Impact Hack with Coding It Forward” from Coding It Forward.
 
 No public code found · Built with flask, github, google-maps, python
 

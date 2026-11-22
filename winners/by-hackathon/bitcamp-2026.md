@@ -57,8 +57,8 @@ Terrametric: an AI-powered plantation stress detection platform that gives Live 
 - **Code:** [Source 1](https://github.com/vs-githjk/Terrametric)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qjTX93HKRNE)
 - **All prizes at this hackathon (3):** Best Champion of Open Source w/ Featherless - Featherless · Best Intermediate Data Science Track Hack - Bitcamp · Real World Prize - Ambrook
-- **Award:** Won “Real World Prize - Ambrook” from Ambrook. The write-up gives no details on how the team used the sponsor’s tech.
-- **How it used Featherless:** Sets the default Featherless API base URL.
+- **Theme prize: no sponsor tech named** · Won “Real World Prize - Ambrook” from Ambrook.
+- **Theme prize: no sponsor tech named** · Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -89,7 +89,7 @@ FundingFlow uses AI to automatically discover funding programs from government w
 - **Code:** [Source 1](https://github.com/xROBERTINOx/bitcamp2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Real World Prize - Ambrook
-- **Award:** Won “Real World Prize - Ambrook” from Ambrook. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Real World Prize - Ambrook” from Ambrook.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -112,7 +112,7 @@ Power line faults often go undetected until they escalate catastrophically. Tele
 - **Code:** [Source 1](https://github.com/Snek3471/VoltVigil)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JhbR0K8B5p8)
 - **All prizes at this hackathon (1):** Real World Prize - Ambrook
-- **Award:** Won “Real World Prize - Ambrook” from Ambrook. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Real World Prize - Ambrook” from Ambrook.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -189,7 +189,7 @@ Because a fall shouldn’t go unnoticed — real-time monitoring for safer indep
 - **Code:** [Source 1](https://github.com/Schugh26/GaitGuard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Most Philanthropic Hack - Bloomberg” from Bloomberg.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -212,7 +212,7 @@ Pick a cancer type and protein target. Helix screens thousands of compounds and 
 - **Code:** [Source 1](https://github.com/Reyzz00/helix)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VqTClY4_A5k)
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Most Philanthropic Hack - Bloomberg” from Bloomberg.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -235,7 +235,7 @@ Recall helps dementia patients identify faces, recall past conversations, and pr
 - **Code:** [Source 1](https://github.com/akhilapnuri/RecallMobileApp)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WDXfbc8DIpw)
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **Award:** Won “Most Philanthropic Hack - Bloomberg” from Bloomberg. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Most Philanthropic Hack - Bloomberg” from Bloomberg.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -289,7 +289,7 @@ Revolutionizing Digital Forensics through Novel Data Modeling.
 - **Code:** [Source 1](https://github.com/parthm667/clarify)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
-- **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -312,7 +312,7 @@ Detect hidden cyber attacks in audio. Not all noise is natural—some is malicio
 - **Code:** [Source 1](https://github.com/shreya222mishra/bitcamp-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dgCAY-YG5rw)
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
-- **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -441,7 +441,7 @@ The team built AGastIa because medical reports are often full of information but
 - **Code:** [Source 1](https://github.com/Srinickethan/AGastIa)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WyRockA-COA)
 - **All prizes at this hackathon (1):** Best Champion of Open Source w/ Featherless - Featherless
-- **Award:** Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -464,7 +464,7 @@ NARA is an autonomous penetration testing CLI that orchestrates four AI agents a
 - **Code:** [Source 1](https://github.com/HackedRico/obv-nara-box)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=a8ESQUSft0c)
 - **All prizes at this hackathon (2):** Best Champion of Open Source w/ Featherless - Featherless · Neelbauer Agentic Revolution Award (NARA) - Alumni Prize
-- **How it used Featherless:** The project uses Featherless and Phi-4-mini as its default LLM backend.
+- **Theme prize: no sponsor tech named** · Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -572,7 +572,7 @@ Real-time satellite collision risk dashboard that ingests live conjunction scree
 - **Code:** [Source 1](https://github.com/po-aditya/Apsora-Brief)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPAUEUN1UG4)
 - **All prizes at this hackathon (1):** Best Data Visualization Experience - Peraton
-- **Award:** Won “Best Data Visualization Experience - Peraton” from Peraton. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Data Visualization Experience - Peraton” from Peraton.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

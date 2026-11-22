@@ -43,7 +43,7 @@ Physical Robot Icebreaker Game; Fate, with a little help from Tina.
 
 Life opens new doors. dor keeps old ones from closing, and helps you find your way into new ones with AI-powered nudges, personalized introductions, and local events that fit you, wherever you land.
 
-**Award:** Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta.
 
 [Code](https://github.com/rishibagri/dor-calhacks) · [Demo video](https://www.youtube.com/watch?v=LXBGN2EFTMo) · Built with apify, cartesia, claude, clerk
 
@@ -53,7 +53,7 @@ Life opens new doors. dor keeps old ones from closing, and helps you find your w
 
 At the heart of HeirLoom is Loomie, an empathetic voice AI companion.
 
-**How it used Meta:** The iOS share extension lets anyone drop photos and voice memos from Instagram into the family feed.
+**Theme prize: no sponsor tech named** · Won “Meta: Bringing People Closer Together with AI - Winner” from Meta.
 
 [Code](https://github.com/Adalo-Gusa/SPIRE_GT_Hacks) · [Demo video](https://www.youtube.com/watch?v=2HFSy_1dndI) · Built with backboard.io, figma, grok, mongodb
 
@@ -63,7 +63,7 @@ At the heart of HeirLoom is Loomie, an empathetic voice AI companion.
 
 A webcam-powered horror game where your vitals shapes an AI creature’s hunt. Fix equipment, broadcast false heartbeats, conceal your presence, and outsmart the monster before it breaches your shelter.
 
-**Award:** Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta.
 
 [Code](https://github.com/samerrahman/CalHacks-13.0) · [Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
 
@@ -83,7 +83,7 @@ A quiet voice in your ear that remembers the people you love.
 
 The Nudge loop: every call seeds the next one.
 
-**Award:** Won “Meta: Bringing People Closer Together with AI - Winner” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Meta: Bringing People Closer Together with AI - Winner” from Meta.
 
 [Code](https://github.com/AlanRoybal/hackgt) · [Demo video](https://www.youtube.com/watch?v=IqrNMV-T1MQ) · Built with amazon-bedrock, amazon-chime-sdk, amazon-cognito, amazon-dynamodb
 
@@ -93,7 +93,7 @@ The Nudge loop: every call seeds the next one.
 
 Re:Collection turns a family visit or an old home video into a 3D Memory Palace someone with Alzheimer’s can walk back into, guided by a calm voice that only says what the family approved.
 
-**Award:** Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Meta&#93; Meta/Facebook: Bringing People Closer Together with AI” from Meta.
 
 [Code](https://github.com/shividoge/re-collection) · [Demo video](https://www.youtube.com/watch?v=FQ0vPIS4VM8) · Built with anthropic, arkit, bun, cartesia
 
@@ -103,7 +103,7 @@ Re:Collection turns a family visit or an old home video into a 3D Memory Palace 
 
 A cozy bear that families can use to share stories with their loved ones.
 
-**How it used Meta:** Muse Spark uses the transcript and sound effect catalog to return timestamps for when to play the sounds.
+**Theme prize: no sponsor tech named** · Won “Meta: Bringing People Closer Together with AI - Winner” from Meta.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
 
@@ -115,7 +115,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ
 
 The pen is mightier than the sword, nothing is more powerful than the word.
 
-**Award:** Won “Best Hack for Building Community with Facebook” from Meta. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Hack for Building Community with Facebook” from Meta.
 
 [Code](https://github.com/jenniferlai43/rapscorer) · Built with css3, datamuse, html5, javascript
 
@@ -151,7 +151,7 @@ No public code found · Built with bottle, c++, facebook, facebook-graph
 
 AI-powered Chatbot which give you curated dating advice - while you're on your date.
 
-**How it used Meta:** Black Box uses Facebook for messages.
+**Theme prize: no sponsor tech named** · Won “Facebook Hackathon Finals Trip” from Meta.
 
 [Code](https://github.com/96imranahmed/blackbox-public) · [Demo video](https://www.youtube.com/watch?v=7KcSXuQXCng) · Built with machine-learning, python
 

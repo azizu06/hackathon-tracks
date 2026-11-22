@@ -23,7 +23,7 @@
 
 Anima Labs is an agentic development environment for computational neuroscience.
 
-**How it used Creao:** The team also used the persistent memory feature of CREAO's agents to allow users to iterate on research projects.
+**Theme prize: no sponsor tech named** · Won “&#91;Creao AI&#93; Best AI-First Disruptor” from Creao.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with creao, arxiv, docker, europe-pmc
 
@@ -33,7 +33,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg
 
 An autonomous finance team where nothing moves without proof: Creao agents pick the right vendor and check every bill, with CRS verifying every claim before a dollar is paid.
 
-**How it used Creao:** Every live decision runs on Creao.
+**Theme prize: no sponsor tech named** · Won “&#91;Creao AI&#93; Best Team Empowerment” from Creao.
 
 [Code](https://github.com/anagpal18/CalHacks13.0) · [Demo video](https://www.youtube.com/watch?v=NeESl1hYsCw) · Built with creao, anthropic-claude, crs-credit-api, fastify
 
@@ -43,7 +43,7 @@ An autonomous finance team where nothing moves without proof: Creao agents pick 
 
 An autonomous finance desk that tracks automotive tariffs from imported parts to customer credits, catching errors, learning from decisions, and posting only with approval.
 
-**How it used Creao:** Uses Creao agents as the seats’ brains.
+**Theme prize: no sponsor tech named** · Won “&#91;Creao AI&#93; Best One-Person Company” from Creao.
 
 [Code](https://github.com/ParthGala2k/tariffic) · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
 
@@ -55,7 +55,7 @@ An autonomous finance desk that tracks automotive tariffs from imported parts to
 
 Upload ads, get clear scores, one-line reasons, and precise fixes—then a ranked Top 10 by platform/audience in minutes. AdSensei helps designers iterate fast and marketers scale winners.
 
-**How it used Creao:** The team used Creao.ai for the UI.
+**Theme prize: no sponsor tech named** · Won “Creao: Best MCP Integration” from Creao.
 
 [Code](https://github.com/G-Samarth/AdSensei-CalHacks) · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
 
@@ -65,7 +65,7 @@ Upload ads, get clear scores, one-line reasons, and precise fixes—then a ranke
 
 Talking to users early changed the entire direction.
 
-**How it used Creao:** The team used the Creao platform for application development.
+**Theme prize: no sponsor tech named** · Won “Creao: Best Designed Web App” from Creao.
 
 [Code](https://github.com/ericrcwu001/calhacks) · [Demo video](https://www.youtube.com/watch?v=rw9_SdR0mUo) · Built with creao, flask, gemini, node.js
 
@@ -75,7 +75,7 @@ Talking to users early changed the entire direction.
 
 CivitasX turns cities into autonomous digital ecosystems—AI agents that understand intent, trigger complex civic workflows, and log every verified action immutably on the XRP Ledger.
 
-**How it used Creao:** CivitasX was built entirely on the Creao agentic platform, which allows AI systems to design and deploy other AI systems.
+**Theme prize: no sponsor tech named** · Won “Creao: Best MCP Integration” from Creao.
 
 [Code](https://github.com/rajashekarcs2023/calhacks-12) · [Demo video](https://www.youtube.com/watch?v=Fu-sYqMotpg) · Built with creao, creaofileupload-mcp, creaosearch-mcp, docker
 
@@ -85,7 +85,7 @@ CivitasX turns cities into autonomous digital ecosystems—AI agents that unders
 
 Stop hunting, start researching: AI that finds opportunities and opens doors.
 
-**How it used Creao:** The project uses Creao.ai to accelerate UI development and component generation.
+**Theme prize: no sponsor tech named** · Won “Creao: Smartest AI agent prize” from Creao.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=aX6u9S8C7Co) · Built with creao.ai, alembic-(database-migrations), brightdatamcp, claude
 
@@ -95,7 +95,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=aX6u9S8C7Co
 
 Real-time map for community events around you.
 
-**How it used Creao:** The team used Creao, an AI-native tool building platform and implemented both built-in and custom API and MCP servers.
+**Theme prize: no sponsor tech named** · Won “Creao: Best Real-World Productivity Tool” from Creao.
 
 [Code](https://github.com/valerie-cal/tapped-in) · [Demo video](https://www.youtube.com/watch?v=L0yhuJi-Qkk) · Built with creao, google-maps, maps, react
 

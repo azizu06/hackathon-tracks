@@ -285,7 +285,7 @@ CitySpot uses deep learning on satellite imagery to detect and map every parking
 - **Code:** [Source 1](https://github.com/Kairavparikh/CitySpot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=67cCz4yv9Kc)
 - **All prizes at this hackathon (1):** GrowthFactor Challenge
-- **Award:** Won “GrowthFactor Challenge” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “GrowthFactor Challenge” from GrowthFactor.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -308,7 +308,7 @@ North Star that guides retailers to their best location.
 - **Code:** [Source 1](https://github.com/V-prajit/Polaris)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zUk49IYrOuw)
 - **All prizes at this hackathon (1):** GrowthFactor Challenge
-- **Award:** Won “GrowthFactor Challenge” from GrowthFactor. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “GrowthFactor Challenge” from GrowthFactor.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -362,7 +362,7 @@ A website to help Atlanta residents and visitors stay safe during first-time mee
 - **Code:** [Source 1](https://github.com/IshaMadanu/hacklytics-atl-risk)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5gWB9hfDggA)
 - **All prizes at this hackathon (1):** Best AI for Human Safety by SafetyKit
-- **Award:** Won “Best AI for Human Safety by SafetyKit” from SafetyKit. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best AI for Human Safety by SafetyKit” from SafetyKit.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

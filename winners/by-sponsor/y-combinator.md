@@ -23,7 +23,7 @@
 
 You’re walking down the street and someone passes you wearing your exact ideal blazer.
 
-**Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator.
 
 [Code](https://github.com/socratesosorio/aesthetica) · [Demo video](https://www.youtube.com/watch?v=ZhqUDfSZVuw) · Built with fastapi/uvicorn/websockets, next.js/react, postgresql-(supabase)-+-sqlalchemy/alembic, python
 
@@ -33,7 +33,7 @@ You’re walking down the street and someone passes you wearing your exact ideal
 
 The self-modifying browser for maximizing productivity.
 
-**Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator.
 
 [Code](https://github.com/adeng27/evolve-browser) · [Demo video](https://www.youtube.com/watch?v=tJDPK8Kg8XE) · Built with aiohttp, chrome-extensions-api, fastapi, graph-rag
 
@@ -43,7 +43,7 @@ The self-modifying browser for maximizing productivity.
 
 Match with the best applicants, powered by AI agents and TikTok's recommendation algorithm.
 
-**Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator.
 
 [Code](https://github.com/pahu2353/HireUp) · [Demo video](https://www.youtube.com/watch?v=a03VWeouYsk) · Built with fastapi, html, numpy, openai
 
@@ -53,7 +53,7 @@ Match with the best applicants, powered by AI agents and TikTok's recommendation
 
 Mobius runs for very long periods of time completely autonomously to complete all aspects of building a venture-scale company from scratch - engineering, marketing, operations, legal, and more.
 
-**Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with ai, anthropic, chatgpt, claude
 
@@ -63,7 +63,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4
 
 AI-Native Infrastructure that Reimagines Trade Work for Blue-Collar Careers.
 
-**Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator.
 
 [Code](https://github.com/Yaga-Yoink/tradeproof) · [Demo video](https://www.youtube.com/watch?v=087da__L-74) · Built with c#, chatgpt, claude, css
 
@@ -73,7 +73,7 @@ AI-Native Infrastructure that Reimagines Trade Work for Blue-Collar Careers.
 
 The team learned that translation from informal mathematics to formal language is highly sensitive to surface variation and implicit assumptions.
 
-**Award:** Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)” from Y Combinator.
 
 [Code](https://github.com/aryans-15/zeta) · [Demo video](https://www.youtube.com/watch?v=RJV8a8PWkxQ) · Built with amazon-web-services, fastapi, lean4, lora
 
@@ -85,7 +85,7 @@ The team learned that translation from informal mathematics to formal language i
 
 Making Google Docs (file storage, text editor) better with AI.
 
-**Award:** Won “Y Combinator: Build an Iconic YC Company - 2nd Place” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Y Combinator: Build an Iconic YC Company - 2nd Place” from Y Combinator.
 
 [Code](https://github.com/joonyoo181/dropbox-ai) · [Demo video](https://www.youtube.com/watch?v=vyKOyChcsCw) · Built with react
 
@@ -95,7 +95,7 @@ Making Google Docs (file storage, text editor) better with AI.
 
 Presenting Brydge: the AI orchestration platform that turns scattered engineering knowledge into automated workflows, transforming hours of context-switching into just minutes of autonomous execution.
 
-**Award:** Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator.
 
 [Code](https://github.com/aprabu/BrydgeCalhacks) · [Demo video](https://www.youtube.com/watch?v=I7pkua3iYAs) · Built with claude, confluence, github, jira
 
@@ -105,7 +105,7 @@ Presenting Brydge: the AI orchestration platform that turns scattered engineerin
 
 Automatically transforms bodycam footage into professional evidence reports using AI.
 
-**Award:** Won “Y Combinator: Unicorn Prize” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Y Combinator: Unicorn Prize” from Y Combinator.
 
 [Code](https://github.com/asalsali/evidentai-main) · [Demo video](https://www.youtube.com/watch?v=q6GD46dyJok) · Built with css, django, javascript, openai
 
@@ -115,7 +115,7 @@ Automatically transforms bodycam footage into professional evidence reports usin
 
 A hospital coordination dashboard combines record data, nursing alerts, and patient questions.
 
-**Award:** Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator.
 
 [Code](https://github.com/scrappydevs/haven) · [Demo video](https://www.youtube.com/watch?v=sxdgpbTRsMs) · Built with claude, fetch.ai, grok, livekit
 
@@ -125,7 +125,7 @@ A hospital coordination dashboard combines record data, nursing alerts, and pati
 
 Krates is the DevOps engineer you need before you can afford to hire one—AI that automates Docker and Kubernetes for early-stage teams.
 
-**Award:** Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2og) · Built with anthropic-claude-api, docker, electron, electronjs
 
@@ -135,7 +135,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2og
 
 Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning.
 
-**Award:** Won “Y Combinator: Unicorn Prize” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Y Combinator: Unicorn Prize” from Y Combinator.
 
 [Code](https://github.com/jruttan1/Optimate) · [Demo video](https://www.youtube.com/watch?v=R8M0fgPcW_Y) · Built with amazon-dynamodb, auth0, aws-dynamodb, cohere
 
@@ -145,7 +145,7 @@ Smarter underwriting through AI-powered dashboards, deep insights, and reinforce
 
 A gesture-first, AI-assisted 3D workspace where your hands craft the scene.
 
-**Award:** Won “Y Combinator: Unicorn Prize” from Y Combinator. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Y Combinator: Unicorn Prize” from Y Combinator.
 
 [Code](https://github.com/itsmarsss/shapeshift) · [Demo video](https://www.youtube.com/watch?v=X7lMr9bwjqM) · Built with express.js, fal, flask, martian
 

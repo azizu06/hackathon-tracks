@@ -23,7 +23,7 @@
 
 ATP speeds up prescription prior authorizations. AI handles insurer calls, brings in doctors when clinical judgment is needed, and sends the outcome back to their workflow.
 
-**Award:** Won “Impiricus: Build the next HCP Engagement Tool - 1st Place” from Impiricus. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Impiricus: Build the next HCP Engagement Tool - 1st Place” from Impiricus.
 
 [Code](https://github.com/notvasub/ATP-Access-to-Prescription) · [Demo video](https://www.youtube.com/watch?v=QD-vGYz34RU) · Built with impiricus, elevenlabs, health, openai
 
@@ -33,7 +33,7 @@ ATP speeds up prescription prior authorizations. AI handles insurer calls, bring
 
 ClearPath uses AI to connect patients and doctors in one shared workspace, helping care teams coordinate treatment, flag medication conflicts, and streamline prior authorizations.
 
-**Award:** Won “Impiricus: Build the next HCP Engagement Tool - 3rd Place” from Impiricus. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Impiricus: Build the next HCP Engagement Tool - 3rd Place” from Impiricus.
 
 [Code](https://github.com/hariomsah01/HackGT-13) · [Demo video](https://www.youtube.com/watch?v=H-q7cuVcRbA) · Built with elevenlabs, fastapi, fhir, fhir.resources
 
@@ -43,7 +43,7 @@ ClearPath uses AI to connect patients and doctors in one shared workspace, helpi
 
 An all-in-one platform for physicians to find specialists and send referrals, making connections between physicians faster and more trusted.
 
-**How it used Impiricus:** DocSpot uses the Impiricus network to map national physician connections.
+**Theme prize: no sponsor tech named** · Won “Impiricus: Build the next HCP Engagement Tool - 2nd Place” from Impiricus.
 
 [Code](https://github.com/tvisha-t/docSpot) · [Demo video](https://www.youtube.com/watch?v=ivdxPxxmPiY) · Built with css, fastapi, html, javascript
 
@@ -55,7 +55,7 @@ An all-in-one platform for physicians to find specialists and send referrals, ma
 
 Sample Generated Case Studies and Similar Patients.
 
-**Award:** Won “Impiricus” from Impiricus. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Impiricus” from Impiricus.
 
 [Code](https://github.com/hhsiao24/Doc-McQuery) · [Demo video](https://www.youtube.com/watch?v=ccRukDWABds) · Built with docker, flask, nih-api, openai-api
 
@@ -65,7 +65,7 @@ Sample Generated Case Studies and Similar Patients.
 
 Medicus is a digital platform that allows medical device sales reps to upload their products, complete with clinical research, safety data, and use cases.
 
-**Award:** Won “Impiricus” from Impiricus. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Impiricus” from Impiricus.
 
 [Code](https://github.com/Tjust032/gt-hackathon-2025) · [Demo video](https://www.youtube.com/watch?v=qiKRfgaOyok) · Built with cedar, docker, mastra, openai
 
@@ -75,7 +75,7 @@ Medicus is a digital platform that allows medical device sales reps to upload th
 
 Agentic workflow platform that links new guidelines, drug approvals, and policy changes into actionable insights on current patients, empowering providers to act faster with confidence.
 
-**How it used Impiricus:** The real-time Research Stream is integrated with Impiricus’ data feed.
+**Theme prize: no sponsor tech named** · Won “Impiricus” from Impiricus.
 
 [Code](https://github.com/IndianaJonesR/vital-HackGT-WInner) · [Demo video](https://www.youtube.com/watch?v=MJAp5AjtTmw) · Built with cedaros, openai, react, supabase
 

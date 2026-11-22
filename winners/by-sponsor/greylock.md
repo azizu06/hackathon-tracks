@@ -23,7 +23,7 @@
 
 Can AI agents in multi-agent systems deceive, deduce, and stay aligned.
 
-**Award:** Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock.
 
 [Code](https://github.com/samarth-bhargav/treehacks-amogus) · [Demo video](https://www.youtube.com/watch?v=xhi-_4qUExg) · Built with flask, modal, openrouter, python
 
@@ -33,7 +33,7 @@ Can AI agents in multi-agent systems deceive, deduce, and stay aligned.
 
 Edamame creates AI clones of every employee by ingesting their Slack messages, Google Drive docs, Gmail threads, GitHub commits, Notion pages, and Jira tickets.
 
-**Award:** Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock.
 
 [Code](https://github.com/angelinaquan/edamame-treehacks) · [Demo video](https://www.youtube.com/watch?v=6HlN98ilkzc) · Built with css, google, gpt-5.3, mem0
 
@@ -43,7 +43,7 @@ Edamame creates AI clones of every employee by ingesting their Slack messages, G
 
 The team introduce three core technical contributions:.
 
-**Award:** Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock.
 
 [Code](https://github.com/kesavanramakrishnan/power-lever) · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
 

@@ -81,7 +81,7 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z2_8AWR_qU8)
 - **All prizes at this hackathon (2):** Best Use of Qualcomm EdgeAI · Visa Challenge - Agent Marketplace Simulation
 - **How it used Qualcomm:** The project uses Qualcomm Snapdragon X Elite hardware.
-- **Award:** Won “Visa Challenge - Agent Marketplace Simulation” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Visa Challenge - Agent Marketplace Simulation” from Visa.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -161,7 +161,7 @@ Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 - **Code:** [Source 1](https://github.com/jennnniferkuang/Bobux-Bargains)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xkyIFGGAyg0)
 - **All prizes at this hackathon (2):** Aristotle Challenge: Most Cutting-Edge AI Agent · Best Funny Haha Hack
-- **Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -184,7 +184,7 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 - **Code:** [Source 1](https://github.com/NandanHemanth/BuckBounty)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rCsw2WkivC0)
 - **All prizes at this hackathon (2):** Aristotle Challenge: Most Cutting-Edge AI Agent · Fintech
-- **Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -207,7 +207,7 @@ No public code found · Built with css, geocoding, google-maps, javascript
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Aristotle Challenge: Most Cutting-Edge AI Agent · Education
-- **Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -431,7 +431,7 @@ AI agents represent buyers and sellers, negotiating ticket deals automatically. 
 - **Code:** [Source 1](https://github.com/praveen-bandla/agent-ticket-marketplace)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Visa Challenge - Agent Marketplace Simulation
-- **Award:** Won “Visa Challenge - Agent Marketplace Simulation” from Visa. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Visa Challenge - Agent Marketplace Simulation” from Visa.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

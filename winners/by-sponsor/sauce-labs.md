@@ -23,7 +23,7 @@
 
 An app estimates carbon emissions from users’ logged activities and charts their footprint over time.
 
-**Award:** Won “MLH - Sauce Labs Hot Sauce Raffle” from Sauce Labs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “MLH - Sauce Labs Hot Sauce Raffle” from Sauce Labs.
 
 [Code](https://github.com/SagnikBiswasDL/SBHacksShared2025) · [Demo video](https://www.youtube.com/watch?v=3oaDyCyiX6o) · Built with css, html, javascript, sql
 
@@ -35,7 +35,7 @@ An app estimates carbon emissions from users’ logged activities and charts the
 
 Find useful information about subreddits with a few clicks.
 
-**Award:** Won “Sauce Labs Hot Sauce Raffle” from Sauce Labs. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Sauce Labs Hot Sauce Raffle” from Sauce Labs.
 
 [Code](https://github.com/sethmorton/embeddit) · [Demo video](https://www.youtube.com/watch?v=E9kUUpfn7_g) · Built with chatgpt, css, daisyui, nextjs
 

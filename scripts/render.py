@@ -11,7 +11,7 @@ from urllib.parse import quote, urlencode, urlsplit
 from catalog_display import display_prize_title, display_text, has_money, short_prize_title
 from fetch import verified_link
 from publish import HERE, OTHER_SPONSOR, dedup_project_rows, events, gallery_url
-from sponsor_use import card_coverage_text, use_coverage, use_heading
+from sponsor_use import code_coverage_text, prize_coverage_text, use_coverage, use_heading
 
 
 SITE_URL = "https://tracks.azizu.dev/"
@@ -265,6 +265,8 @@ def integration_note(row):
     coverage = use_coverage(row)
     sponsor = row["sponsor"] if row["sponsor"] != OTHER_SPONSOR else ""
     label = use_heading(row, sponsor, "Award")
+    if coverage == "theme":
+        return f'**{md(label)}** · {md(display_text(row["sponsor_integration"]))}'
     note = f'**{md(label)}:** {md(display_text(row["sponsor_integration"]))}'
     if coverage == "inferred":
         note += f' [Evidence]({row["use_evidence_url"]})'
@@ -512,16 +514,6 @@ def directory_sections(sponsors):
     ]
 
 
-def note_coverage_text(rows):
-    counts = Counter(map(use_coverage, rows))
-    shown = counts["full"] + counts["grounded-light"]
-    return (
-        f'**{shown:,} shown** ({counts["full"]:,} full, {counts["grounded-light"]:,} tech listings) · '
-        f'**{counts["inferred"]:,} inferred** · **{counts["award-framed"]:,} award-only** · '
-        f'{counts["not stated"]:,} not stated · {counts["linked-resource"]:,} linked resource only'
-    )
-
-
 def update_readme(path, rows):
     sponsors, editions = split_directory(rows)
     badges = [
@@ -532,12 +524,12 @@ def update_readme(path, rows):
     ]
     lines = path.read_text(encoding="utf-8")
     for name, section in (
-        ("card coverage", [card_coverage_text(rows)]),
+        ("prize coverage", [prize_coverage_text(rows), "", code_coverage_text(rows)]),
         ("browse", browse_section(rows, sponsors, editions)),
         ("coverage", [" ".join(
             f"![{count:,} {label.lower()}](https://img.shields.io/badge/{label.replace(' ', '%20')}-{count:,}-{color})"
             for label, count, color in badges
-        ), "", note_coverage_text(rows)]),
+        )]),
         ("directory", directory_sections(sponsors)),
     ):
         start, end = f"<!-- BEGIN {name} -->", f"<!-- END {name} -->"
@@ -685,10 +677,11 @@ FIELDS = [
     ("hackathon, year, event_slug", "Hackathon edition name, year and Devpost subdomain"),
     ("sponsor", "Organization that awarded the prize. `Other` when the prize names no organization"),
     ("prize", "Raw prize label from the Devpost gallery. Displayed titles omit monetary amounts"),
+    ("prize_kind, prize_kind_basis, prize_kind_rules_url", "Theme or tech classification, its rationale, and the cached rules URL where available"),
     ("prize_value", "Raw placement or value stated in the label, or null"),
     ("description", "What the project does, from its Devpost page"),
     ("sponsor_integration", "Documented sponsor use, a listed product, a labeled inference, or award context"),
-    ("use_source, use_quote", "Source type and supporting excerpt. Award-only rows use the display prize title"),
+    ("use_source, use_quote", "Source type and supporting excerpt. Theme and award-only rows use the display prize title"),
     ("use_evidence_url", "Cited page for inferences, commit-pinned code line, or linked demo"),
     ("inferred", "`true` for labeled inferences. Absent in other JSON rows and blank in CSV"),
     ("summary, summary_evidence", "Description plus integration note, and how well the source supports it"),
@@ -856,8 +849,8 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         "HackMIT 2013 and 2016–2019 supplied Devpost Winner records. "
         "Hacklytics 2025 was indexed from the working `hacklytics2025` gallery after the hyphenated URL returned 410.",
         "", "## Coverage and link limits", "",
-        note_coverage_text(rows), "",
-        card_coverage_text(rows), "",
+        prize_coverage_text(rows), "",
+        code_coverage_text(rows), "",
         f"- Built With tags are available for {sum(bool(r['built_with']) for r in unique_projects):,} of {len(unique_projects):,} project editions.",
         f"- Team counts are available for {sum(r['team_size'] is not None for r in unique_projects):,} project editions.",
         f"- Summary evidence by award row: {tally_text(ranked(Counter(r['summary_evidence'] for r in rows)))}.",
@@ -869,7 +862,8 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         "- Full sponsor notes cite a role documented in a Devpost page, GitHub README, source code, or demo captions. "
         "Light notes cite a technology listing, code import or dependency manifest. Linked resource notes describe a link from the project. "
         "Inferred notes connect a documented feature to the sponsor product in its prize criteria. "
-        "Award-only notes use the verified prize title with monetary amounts removed.",
+        "Theme prizes and award-only notes use the verified prize title with monetary amounts removed. "
+        "Linked resources alone count as tech prizes where use was not found.",
         "- Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. "
         "General event awards remain visible in project prize lists.",
         "- HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. "

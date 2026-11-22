@@ -23,7 +23,7 @@
 
 Coeus is real time, big data analysis of mobile data to produce organic trending Places of Interest(POIs).
 
-**Award:** Won “Akamai - Best Use of Algorithms” from Akamai. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Akamai - Best Use of Algorithms” from Akamai.
 
 No public code found
 
@@ -34,7 +34,7 @@ No public code found
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Akamai - Best Use of Algorithms | Algorithms | [Track label](https://hackmit.devpost.com/) |
+| [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Akamai - Best Use of Algorithms | No specific requirement captured | [Event prize rules](https://hackmit.devpost.com/) |
 
 </details>
 

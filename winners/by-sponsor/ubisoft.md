@@ -23,7 +23,7 @@
 
 The team describes the project as “But Gesse get no merch”.
 
-**Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft.
 
 [Code](https://github.com/nayanmapara/GeeseLoveMerch) · [Demo video](https://www.youtube.com/watch?v=cepJ_1Lz2-g) · Built with ai-assets, blender, c, github
 
@@ -33,7 +33,7 @@ The team describes the project as “But Gesse get no merch”.
 
 Hackathons aren't always about improving the world. Sometimes they're about saving the world.
 
-**Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft.
 
 [Code](https://github.com/Greb-the-awesome/hack-the-bomb) · Built with blender, c#, unity, visual-studio
 
@@ -43,7 +43,7 @@ Hackathons aren't always about improving the world. Sometimes they're about savi
 
 A VR game about catching and firing arrows to delay the inevitable.
 
-**Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
 
@@ -53,7 +53,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998
 
 Sometimes online shopping can be dull, and most of all, turn away customers who are unsure about buying clothes online. VR will allow for customers to try on clothing in a virtual world.
 
-**Award:** Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Ubisoft: Ubisoft Game Dev Challenge” from Ubisoft.
 
 [Code](https://github.com/BenBoguslavsky18/HTN_VR) · [Demo video](https://www.youtube.com/watch?v=igOuQHgEvto) · Built with c#, github, json, oculus-gear-vr
 

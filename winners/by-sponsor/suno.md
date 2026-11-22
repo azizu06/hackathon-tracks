@@ -23,7 +23,7 @@
 
 Real-time music chord suggestions based on the elegant theory of 24D chroma vectors, enhanced with track generation features.
 
-**Award:** Won “&#91;Suno&#93; Best Musical Hack” from Suno. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Suno&#93; Best Musical Hack” from Suno.
 
 [Code](https://github.com/J4Joshua/JASS-APP) · [Demo video](https://www.youtube.com/watch?v=niFOu62-IwU) · Built with claude, nextjs, perplexity, python
 
@@ -33,7 +33,7 @@ Real-time music chord suggestions based on the elegant theory of 24D chroma vect
 
 Turn an everyday object into infinite instruments.
 
-**How it used Suno:** The output is passed to a Suno API pipeline to generate a full track.
+**Theme prize: no sponsor tech named** · Won “&#91;Suno&#93; Best Musical Hack” from Suno.
 
 [Code](https://github.com/markmusic27/treehacks-26) · [Demo video](https://www.youtube.com/watch?v=7tlVRvY_3n8) · Built with suno, gx10, nvidia, perplexity
 

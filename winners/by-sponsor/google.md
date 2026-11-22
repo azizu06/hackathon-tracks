@@ -245,7 +245,7 @@ Giving AI coding agents the power to see by letting them visually explore the we
 
 Beacon is a smart navigation app that helps users plan safe routes by having readily available safety features, making them feel that someone is always by their side.
 
-**How it used Google:** Firestore stores user information and contacts, and Realtime Database handles immediately needed data such as battery level.
+**Theme prize: no sponsor tech named** · Won “Google” from Google.
 
 [Code](https://github.com/Bashguy/Beacon) · [Demo video](https://vimeo.com/1123425305) · Built with firebase, google-cloud, google-directions, google-maps
 
@@ -335,7 +335,7 @@ AI Agents for complex human disaster dynamics simulation.
 
 Breaking language barriers, one word at a time.
 
-**How it used Google:** The project uses Chrome’s tabCapture API to grab audio from the active tab.
+**Theme prize: no sponsor tech named** · Won “Google” from Google.
 
 [Code](https://github.com/EzSpeak-development/EzSpeak-frontend) · [Demo video](https://www.youtube.com/watch?v=0lh1fenJgQw) · Built with azure, azurecognitiveservices, chrome, chromeextensionapi
 
@@ -455,7 +455,7 @@ Transforming system design interviews from holistic, expensive evaluations into 
 
 Tyodor is a 10-year-old AI that students teach to, reinforcing learning while giving teachers real-time insights, powered by Google Gemini API for interactive learning.
 
-**How it used Google:** Google Gemini powers the learning assistant via its OpenAI-compatible interface.
+**Theme prize: no sponsor tech named** · Won “Google” from Google.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
 
@@ -497,7 +497,7 @@ A nursing documentation tool turns captured conversations into structured notes.
 
 Learn ASL in AR through Computer Vision and Hand Tracking.
 
-**Award:** Won “Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Google” from Google.
 
 [Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c, c-sharp, embedded, hardware
 
@@ -517,7 +517,7 @@ Atom Suika is an innovative merge dropper chemistry learning experience. It uses
 
 Real-time computer vision software with fatigue detection system to improve accessibility of the technology and alert drivers in danger of sleepy driving, preventing accidents.
 
-**Award:** Won “Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Google” from Google.
 
 [Code](https://github.com/Alans44/DrowsyDriver) · [Demo video](https://www.youtube.com/watch?v=OK4mCpxNzVs) · Built with azure, dlib, flask, opencv
 
@@ -587,7 +587,7 @@ An interactive story gives schoolchildren branching choices while they practice 
 
 An accessible white-boarding app to voice your ideas into existence.
 
-**How it used Google:** The team generated Mermaid markup for graphs using Google Gemini.
+**Theme prize: no sponsor tech named** · Won “Google” from Google.
 
 [Code](https://github.com/DVidal1205/voiceboard) · Built with gemini, google, next, react
 
@@ -633,7 +633,7 @@ No public code found · Built with google-cloud, tensorflow
 
 An intergalactic battle for the ages.
 
-**Award:** Won “VR Zone by Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “VR Zone by Google” from Google.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W8) · Built with c#, htc-vive, unity
 

@@ -68,7 +68,7 @@ Empowering Artists with Blockchain: Seamless Royalty Payments and Ownership Cont
 - **Code:** [Source 1](https://github.com/ChiragSeth14/Blockify)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bKVkiuuv-uM)
 - **All prizes at this hackathon (2):** Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize · Sui: Reimagine the internet with Sui
-- **Award:** Won “Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize” from Berkeley RDI. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize” from Berkeley RDI.
 - **How it used Sui:** Smart contracts automate royalty distribution using Move, the programming language of Sui.
 - **Checked on Devpost:** 2026-11-21
 
@@ -796,7 +796,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aPkajwX18lQ)
 - **All prizes at this hackathon (1):** Interaction Company: Build AI Agents that Proactively Handle Your Email!
-- **Award:** Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -819,7 +819,7 @@ Nova is an automated email assistant that intelligently processes incoming email
 - **Code:** [Source 1](https://github.com/jpsingaraju/nova-ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Interaction Company: Build AI Agents that Proactively Handle Your Email!
-- **Award:** Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Interaction Company: Build AI Agents that Proactively Handle Your Email!” from Interaction Company.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -873,7 +873,7 @@ No public code found · Built with css, html, javascript
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** SCET/Pepsico: PEP+ Sustainability Prize
-- **How it used PepsiCo / Berkeley SCET:** The project uses PepsiCo’s data inputs to calculate deviation from optimal sustainability targets.
+- **Theme prize: no sponsor tech named** · Won “SCET/Pepsico: PEP+ Sustainability Prize” from PepsiCo / Berkeley SCET.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -896,7 +896,7 @@ Improvements in Pepsi's Global Value chain end with consumers but so does waste.
 - **Code:** [Source 1](https://github.com/garvcodes/sustainableshowcase)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** SCET/Pepsico: PEP+ Sustainability Prize
-- **Award:** Won “SCET/Pepsico: PEP+ Sustainability Prize” from PepsiCo / Berkeley SCET. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “SCET/Pepsico: PEP+ Sustainability Prize” from PepsiCo / Berkeley SCET.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1231,7 +1231,7 @@ No public code found · Built with ai, python, reflex, vapi
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** The House Fund: "Cal" Track
-- **Award:** Won “The House Fund: "Cal" Track” from The House Fund. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “The House Fund: "Cal" Track” from The House Fund.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1254,7 +1254,7 @@ An LLM Rubber Ducky. Never worry about being unprepared for a presentation ever 
 - **Code:** [Source 1](https://github.com/adit-bala/ducky.ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** The House Fund: "Cal" Track
-- **Award:** Won “The House Fund: "Cal" Track” from The House Fund. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “The House Fund: "Cal" Track” from The House Fund.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1277,7 +1277,7 @@ No public code found · Built with api, chroma, chromadb, chrome
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** The House Fund: "Cal" Track
-- **Award:** Won “The House Fund: "Cal" Track” from The House Fund. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “The House Fund: "Cal" Track” from The House Fund.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

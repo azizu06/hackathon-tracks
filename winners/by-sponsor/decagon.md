@@ -23,7 +23,7 @@
 
 A home assistant supports older adults with daily routines and keeps their families informed.
 
-**Award:** Won “&#91;Decagon&#93; Best Conversation Assistant (Nintendo Switch 2 Mario Kart World Bundle Guaranteed onsite interviews for internship)” from Decagon. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Decagon&#93; Best Conversation Assistant (Nintendo Switch 2 Mario Kart World Bundle Guaranteed onsite interviews for internship)” from Decagon.
 
 [Code](https://github.com/Kevinxygu/treehacks) · [Demo video](https://www.youtube.com/watch?v=vFU1GSWrbRk) · Built with browserbase, claude, elevenlabs, fastapi
 

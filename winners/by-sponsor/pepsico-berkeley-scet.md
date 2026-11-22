@@ -23,7 +23,7 @@
 
 PepsiCo has many sustainability practices, but there’s no centralized metric to assess progress across goals. 'Peps Towards Sustainability' provides a way to measure the journey to a green future.
 
-**How it used PepsiCo / Berkeley SCET:** The project uses PepsiCo’s data inputs to calculate deviation from optimal sustainability targets.
+**Theme prize: no sponsor tech named** · Won “SCET/Pepsico: PEP+ Sustainability Prize” from PepsiCo / Berkeley SCET.
 
 No public code found · Built with css, html, javascript
 
@@ -33,7 +33,7 @@ No public code found · Built with css, html, javascript
 
 Improvements in Pepsi's Global Value chain end with consumers but so does waste. Imagine if customers were inspired by AI to make beautiful projects w/ trash, promoting brand value and sustainability.
 
-**Award:** Won “SCET/Pepsico: PEP+ Sustainability Prize” from PepsiCo / Berkeley SCET. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “SCET/Pepsico: PEP+ Sustainability Prize” from PepsiCo / Berkeley SCET.
 
 [Code](https://github.com/garvcodes/sustainableshowcase) · Built with express.js, mongodb, nextjs, node.js
 

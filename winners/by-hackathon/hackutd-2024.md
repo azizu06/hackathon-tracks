@@ -105,8 +105,8 @@ A smart water management tool that helps households and property managers optimi
 - **Code:** [Source 1](https://github.com/Fernando4242/HackUTD24-EcoFastTrack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=StRry54qZMs)
 - **All prizes at this hackathon (2):** CBRE · Veolia
-- **Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
-- **Award:** Won “Veolia” from Veolia. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
+- **Theme prize: no sponsor tech named** · Won “Veolia” from Veolia.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ Efficiency that Saves, Sustainability that Lasts.
 - **Code:** [Source 1](https://github.com/FireboltLegend/HackUTD-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=V73-WMFlnqU)
 - **All prizes at this hackathon (1):** CBRE
-- **Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -190,7 +190,7 @@ A Sustainability Platform for a Greener Future.
 - **Code:** [Source 1](https://github.com/SaadMakda/Greenify-Test) · [Source 2](https://github.com/yfshaikh/greenify) · [Source 3](https://github.com/yfshaikh/greenify-scripts)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=W2zu9af2O0o)
 - **All prizes at this hackathon (1):** CBRE
-- **How it used CBRE:** The project sources information from CBRE’s internal data.
+- **Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -252,7 +252,7 @@ AI-Banking is the ultimate financial companion for the unbanked, underbanked, an
 - **Code:** [Source 1](https://github.com/aprajita27/AllBank)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PpnAEd4Dwek)
 - **All prizes at this hackathon (1):** Goldman Sachs
-- **Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Goldman Sachs” from Goldman Sachs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -275,7 +275,7 @@ Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-t
 - **Code:** [Source 1](https://github.com/danielodicho/lumo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SXQl53rMZ6Q)
 - **All prizes at this hackathon (2):** General · Goldman Sachs
-- **Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Goldman Sachs” from Goldman Sachs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -298,7 +298,7 @@ Where YOU can talk to your own personalized bank.
 - **Code:** [Source 1](https://github.com/aurelisajuan/TalkTuahBank)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YsH_z1azXSA)
 - **All prizes at this hackathon (2):** General · Goldman Sachs
-- **Award:** Won “Goldman Sachs” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Goldman Sachs” from Goldman Sachs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -352,7 +352,7 @@ InvestIQ simplifies investing for everyone, offering real-time insights, educati
 - **Code:** [Source 1](https://github.com/krish-shar/InvestIQ)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LAvZvJE8MMA)
 - **All prizes at this hackathon (1):** Infosys
-- **Award:** Won “Infosys” from Infosys. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Infosys” from Infosys.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -452,7 +452,7 @@ Data Pattern Observatory combines real-time data tracking with statistical model
 - **Code:** [Source 1](https://github.com/siddhu-pikachu/data-observability)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All prizes at this hackathon (1):** PNC Bank
-- **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “PNC Bank” from PNC Bank.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -475,7 +475,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eX-9qLLoR2E)
 - **All prizes at this hackathon (1):** PNC Bank
-- **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “PNC Bank” from PNC Bank.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -498,7 +498,7 @@ Providing investment and banking opportunities to overlooked individuals who are
 - **Code:** [Source 1](https://github.com/AndrewG4404/HackUTD)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DVqZ3ahW_lI)
 - **All prizes at this hackathon (1):** PNC Bank
-- **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “PNC Bank” from PNC Bank.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -635,7 +635,7 @@ A sustainability project to help manage buildings from afar.
 - **Code:** [Source 1](https://github.com/Sami-ul/Sustainable-Building-Manager)
 - **Demo video:** [Video 1](https://vimeo.com/1030515570)
 - **All prizes at this hackathon (1):** Veolia
-- **Award:** Won “Veolia” from Veolia. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Veolia” from Veolia.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,7 +23,7 @@
 
 "Alexa, let's catchup". Ketchup is an Alexa Skill that asks you how you're doing everyday, using sentiment and emotion analysis to give appropriate responses and track your mood over time.
 
-**Award:** Won “Duke Innovation Studio: Next Big Innovation Award” from Duke Innovation Studio. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Duke Innovation Studio: Next Big Innovation Award” from Duke Innovation Studio.
 
 [Code](https://github.com/sanhalim/ketchup) · [Demo video](https://www.youtube.com/watch?v=iT3uq3vS_PE) · Built with alexa, cockroachdb, deepaffects, flask
 

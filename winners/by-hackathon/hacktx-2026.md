@@ -57,7 +57,7 @@ Diagnosis, coverage and care in one.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=itEdbNrkp0M)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Snowflake API · &#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge
 - **How it used Snowflake:** The project uses a Snowflake Cortex Agent to return structured safety, coverage and cost data.
-- **Award:** Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -240,7 +240,7 @@ Once you describe a job, Astronom builds a budgeted, permission-checked AI agent
 - **Code:** [Source 1](https://github.com/IEXDevs/HACKTX26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xa1DizYqCy0)
 - **All prizes at this hackathon (1):** &#91;NMC2&#93; Build the Platform Behind the Agent
-- **Award:** Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -263,7 +263,7 @@ Reagent is a platform that helps teams build, test, and deploy reusable AI agent
 - **Code:** [Source 1](https://github.com/hanhg/Reagent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1d5MmQX5EGY)
 - **All prizes at this hackathon (1):** &#91;NMC2&#93; Build the Platform Behind the Agent
-- **Award:** Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -286,7 +286,7 @@ The full-lifecycle platform for enterprise AI agents: build from shared parts, c
 - **Code:** [Source 1](https://github.com/Suvan8806/shipyard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kCbge5WdPYM)
 - **All prizes at this hackathon (1):** &#91;NMC2&#93; Build the Platform Behind the Agent
-- **Award:** Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -475,7 +475,7 @@ Repair, Replace or Wait? NextMove lets you know.
 - **Code:** [Source 1](https://github.com/ryandherb/hacktx-26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aazkUzhLwqo)
 - **All prizes at this hackathon (1):** &#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge
-- **Award:** Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -498,7 +498,7 @@ NextMove has two surfaces running on one decision engine.
 - **Code:** [Source 1](https://github.com/Vswashah/toyota-next)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dPjd3_zd6So)
 - **All prizes at this hackathon (1):** &#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge
-- **Award:** Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge” from Toyota Financial Services.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

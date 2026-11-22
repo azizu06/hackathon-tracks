@@ -23,7 +23,7 @@
 
 Skip the planning, savor the eating. Optimize road trips to no longer exhaustively search for food that you like.
 
-**Award:** Won “Smart Task Accelerator presented by Grainger” from Grainger. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Smart Task Accelerator presented by Grainger” from Grainger.
 
 [Code](https://github.com/krrishkk/foodrunner) · [Demo video](https://www.youtube.com/watch?v=uo4ONCYzjgA) · Built with asyncstorage, cors, expo.io, flask
 
@@ -33,7 +33,7 @@ Skip the planning, savor the eating. Optimize road trips to no longer exhaustive
 
 The team created a Swift app so that you can use the tool directly from the MacOS icon bar.
 
-**Award:** Won “Smart Task Accelerator presented by Grainger” from Grainger. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Smart Task Accelerator presented by Grainger” from Grainger.
 
 [Code](https://github.com/evanhekman/zygonic) · [Demo video](https://www.youtube.com/watch?v=B43pgol5dvg) · Built with docker, fastapi, gemini, n8n
 

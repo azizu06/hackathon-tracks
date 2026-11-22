@@ -53,7 +53,7 @@ These projects won more than one prize here. Each one is listed once.
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
 
-[Code](https://github.com/kgand/shellhacks2024) · Built with typescript, axios, chatgpt, computer-vision
+[Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -63,9 +63,9 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 - **Code:** [Source 1](https://github.com/kgand/shellhacks2024)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Assurant · Microsoft
-- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 - **GoDaddy Registry:** Sponsor use not stated on Devpost
-- **Microsoft · Listed on Devpost:** Built with typescript (listed on Devpost)
+- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -78,7 +78,7 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 
 Learn ASL in AR through Computer Vision and Hand Tracking.
 
-[Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c-sharp, c, embedded, hardware
+[Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c, c-sharp, embedded, hardware
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -88,8 +88,8 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 - **Code:** [Source 1](https://github.com/August-Druzgal/ShellHacks2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7rRxLXnresk)
 - **All prizes at this hackathon (3):** Google · Microsoft · Second Best Overall
-- **Award:** Won “Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
-- **Microsoft · Listed on Devpost:** Built with c-sharp (listed on Devpost)
+- **Theme prize: no sponsor tech named** · Won “Google” from Google.
+- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -120,7 +120,7 @@ ESPER makes the Internet a safer place for those with epilepsy by dynamically ad
 - **Code:** [Source 1](https://github.com/LumaDevelopment/ESPER)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Assurant · Best Overall
-- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -143,7 +143,7 @@ Jet Setter traverses through a 2D array to access the different rows of seats an
 - **Code:** [Source 1](https://github.com/JessicaDLN811/Jetsetter)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fXF7-o58v5s)
 - **All prizes at this hackathon (1):** Assurant
-- **Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -197,7 +197,7 @@ AI-driven solution designed to detect and prevent fraudulent financial transacti
 - **Code:** [Source 1](https://github.com/alimuhammad-creator/ShellHacksFIU)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** BNY AI-powered Financial Fraud Detection System
-- **Award:** Won “BNY AI-powered Financial Fraud Detection System” from BNY. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “BNY AI-powered Financial Fraud Detection System” from BNY.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -220,7 +220,7 @@ Using SQL, OpenAI, Flask to detect and report suspicious transactions.
 - **Code:** [Source 1](https://github.com/z3nL/h2a)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rIAGdBaJAVE)
 - **All prizes at this hackathon (1):** BNY AI-powered Financial Fraud Detection System
-- **Award:** Won “BNY AI-powered Financial Fraud Detection System” from BNY. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “BNY AI-powered Financial Fraud Detection System” from BNY.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -247,7 +247,7 @@ No public code found · Built with charm.sh, go, ngrok, sqlite
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Break Through Tech
-- **Award:** Won “Break Through Tech” from Break Through Tech. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Break Through Tech” from Break Through Tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -274,7 +274,7 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 - **Code:** [Source 1](https://github.com/hlee18lee46/shellhacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
-- **Award:** Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -297,7 +297,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bONR9Nu1-Cw)
 - **All prizes at this hackathon (1):** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
-- **Award:** Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,7 +320,7 @@ Ever wondered what delicious dish you could create with the ingredients you have
 - **Code:** [Source 1](https://github.com/Andersg03/TasteLatino)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
-- **Award:** Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Cafe Cultura Latine' Heritage Month Digital Divide Challenge” from Cafe Cultura.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -347,7 +347,7 @@ Calculate car lease payments, insurance, and track savings in one tool! Tailored
 - **Code:** [Source 1](https://github.com/Jackal-HQ/Lease-Saving-Guide)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Capital One
-- **Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Capital One” from Capital One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -370,7 +370,7 @@ SmartCards is a user-friendly addon for your budgeting app to help you better ca
 - **Code:** [Source 1](https://github.com/chasereyn/smart-cards)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Capital One
-- **Award:** Won “Capital One” from Capital One. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Capital One” from Capital One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -547,7 +547,7 @@ No public code found · Built with css, javascript, react-native
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best DEI Hack
-- **Award:** Won “&#91;MLH&#93; Best DEI Hack” from Fidelity. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “&#91;MLH&#93; Best DEI Hack” from Fidelity.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -582,7 +582,7 @@ Real-time computer vision software with fatigue detection system to improve acce
 - **Code:** [Source 1](https://github.com/Alans44/DrowsyDriver) · [Source 2](https://github.com/javiiicz/drowsydriver-app)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OK4mCpxNzVs)
 - **All prizes at this hackathon (1):** Google
-- **Award:** Won “Google” from Google. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Google” from Google.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -605,7 +605,7 @@ An accessible white-boarding app to voice your ideas into existence.
 - **Code:** [Source 1](https://github.com/DVidal1205/voiceboard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** The team generated Mermaid markup for graphs using Google Gemini.
+- **Theme prize: no sponsor tech named** · Won “Google” from Google.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -624,7 +624,7 @@ Also won this track: [Lotion AI/AR](#project-lotion-ai-ar), [ARSL - Augmented Re
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
-No public code found · Built with c#, .net, apis, meta
+No public code found · Built with .net, apis, c#, meta
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -634,7 +634,7 @@ No public code found · Built with c#, .net, apis, meta
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Microsoft
-- **Microsoft · Listed on Devpost:** Built with c# (listed on Devpost)
+- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -661,7 +661,7 @@ The inspiration for this project stems from a deep commitment to support the lov
 - **Code:** [Source 1](https://github.com/Cantinadream/Big_Back_ShellHack2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4qyCfR1vNoE)
 - **All prizes at this hackathon (1):** Patient Safety Technology
-- **Award:** Won “Patient Safety Technology” from Patient Safety Technology Challenge. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Patient Safety Technology” from Patient Safety Technology Challenge.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -761,7 +761,7 @@ No public code found · Built with css, html
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Statefarm
-- **Award:** Won “Statefarm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Statefarm” from State Farm.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -784,7 +784,7 @@ The team offer many different ways for people to improve their finances.
 - **Code:** [Source 1](https://github.com/Juuicee/ShellHacks-2024)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Statefarm
-- **Award:** Won “Statefarm” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Statefarm” from State Farm.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -838,7 +838,7 @@ Understanding that the answer cannot be found in one location, but rather a harm
 - **Code:** [Source 1](https://github.com/aarnavgautam/clarifin-ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vanguard
-- **Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Vanguard” from Vanguard.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -861,7 +861,7 @@ No public code found · Built with cloud-computing, database-management, git, js
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vanguard
-- **Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Vanguard” from Vanguard.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -884,7 +884,7 @@ Personalized Financial Score: Based on income, spending, and dependents to track
 - **Code:** [Source 1](https://github.com/IsmailAbousalem/Prospera)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vanguard
-- **Award:** Won “Vanguard” from Vanguard. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Vanguard” from Vanguard.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -911,7 +911,7 @@ Creating an aware and safer world by identifying emergencies which can improve m
 - **Code:** [Source 1](https://github.com/JocelynVelarde/Shell-Hacks-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Z_LuQ_Ecl8Q)
 - **All prizes at this hackathon (1):** Waymo
-- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -934,7 +934,7 @@ Evacuate disaster safely with seamless ride sharing.
 - **Code:** [Source 1](https://github.com/keshavbabu/shellhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RhdyCijiCcE)
 - **All prizes at this hackathon (1):** Waymo
-- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -957,7 +957,7 @@ LocalPulse is an innovative app that allows users to connect with their communit
 - **Code:** [Source 1](https://github.com/SquizAI/fiu_hack)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Waymo
-- **Award:** Won “Waymo” from Waymo. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

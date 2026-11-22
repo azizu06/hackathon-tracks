@@ -23,7 +23,7 @@
 
 From What Happened To What Happens Next.
 
-**Award:** Won “Winstead PC Track” from Winstead PC. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Winstead PC Track” from Winstead PC.
 
 [Code](https://github.com/ly-sona/aegis) · [Demo video](https://www.youtube.com/watch?v=mnBnFZBSIoU) · Built with next.js, node.js, openai, radix-ui
 
@@ -33,7 +33,7 @@ From What Happened To What Happens Next.
 
 A secure war room for ransomware response.
 
-**Award:** Won “Winstead PC Track” from Winstead PC. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Winstead PC Track” from Winstead PC.
 
 [Code](https://github.com/ParsaBazrpash/Haven) · [Demo video](https://www.youtube.com/watch?v=2RkAbB0j9Tg) · Built with d3.js, github-actions, gitleaks, next.js
 
@@ -43,7 +43,7 @@ A secure war room for ransomware response.
 
 When your systems go down, your response stays up.
 
-**Award:** Won “Winstead PC Track” from Winstead PC. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Winstead PC Track” from Winstead PC.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=s6qzeIHrdKc) · Built with canva, figma, javascript, node.js
 

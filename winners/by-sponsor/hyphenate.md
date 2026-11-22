@@ -23,7 +23,7 @@
 
 A motorsport asset manager automates work on vehicle hardware and sends novel decisions to people for approval.
 
-**Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate.
 
 [Code](https://github.com/gaviiin/calhacks) · [Demo video](https://www.youtube.com/watch?v=x9xjdEn8OcE) · Built with apify, azure-container-apps, azure-key-vault, azure-openai
 
@@ -33,7 +33,7 @@ A motorsport asset manager automates work on vehicle hardware and sends novel de
 
 Backrooms gives small businesses a 3D office for supervising finance agents and approving sensitive actions.
 
-**Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate.
 
 [Code](https://github.com/azizu06/backrooms) · [Demo video](https://www.youtube.com/watch?v=dm1FlQTZYT8) · Built with anthropic, apify, base-sepolia, blender
 
@@ -43,7 +43,7 @@ Backrooms gives small businesses a 3D office for supervising finance agents and 
 
 An event finance assistant handles post-event accounting tasks.
 
-**Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate.
 
 [Code](https://github.com/uijincho/eve) · [Demo video](https://www.youtube.com/watch?v=_XlnhRrZf8M) · Built with anthropic, better-auth, claude, drizzle
 
@@ -53,7 +53,7 @@ An event finance assistant handles post-event accounting tasks.
 
 A system analyzes billing disputes for operators of satellite ground stations.
 
-**Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate.
 
 [Code](https://github.com/AamirAbatiyow/CalHacks26) · [Demo video](https://www.youtube.com/watch?v=JWtViWhBq-w) · Built with amazon-web-services, cedar, celestrak, llm
 
@@ -63,7 +63,7 @@ A system analyzes billing disputes for operators of satellite ground stations.
 
 A trust accounting tool reviews ledger entries and documents and escalates discrepancies that need human review.
 
-**Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate.
 
 [Code](https://github.com/jweng121/mangekyo) · [Demo video](https://www.youtube.com/watch?v=BtL7Z_5xcDw) · Built with chromium, claude-api, convex, creao
 
@@ -73,7 +73,7 @@ A trust accounting tool reviews ledger entries and documents and escalates discr
 
 A finance workspace helps AI labs automate bookkeeping and related financial tasks.
 
-**Award:** Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate.
 
 [Code](https://github.com/petersenmatthew/moa) · [Demo video](https://www.youtube.com/watch?v=K_pESfSqoDQ) · Built with agents, nextjs, typescript
 

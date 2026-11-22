@@ -23,7 +23,7 @@
 
 Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 
-**Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle.
 
 [Code](https://github.com/jennnniferkuang/Bobux-Bargains) · [Demo video](https://www.youtube.com/watch?v=xkyIFGGAyg0) · Built with luau, openrouter, roblox, robloxstudio
 
@@ -33,7 +33,7 @@ Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 
 Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, maximizes rewards, and builds your path to financial freedom.
 
-**Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle.
 
 [Code](https://github.com/NandanHemanth/BuckBounty) · [Demo video](https://www.youtube.com/watch?v=rCsw2WkivC0) · Built with beautiful-soup, elevenlabs-api, faiss-vector-database, fastapi
 
@@ -43,7 +43,7 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 
 StationScope turns a work address into a personalized, data-driven NYC housing guide—mapped stations, census insights, and a tailored AI report in minutes.
 
-**Award:** Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Aristotle Challenge: Most Cutting-Edge AI Agent” from Aristotle.
 
 No public code found · Built with css, geocoding, google-maps, javascript
 

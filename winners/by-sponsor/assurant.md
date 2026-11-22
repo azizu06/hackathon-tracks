@@ -23,7 +23,7 @@
 
 You're always in the loop. Never out of reach.
 
-**Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 
 [Code](https://github.com/Philluc123/Gaurdian-Loop-SHX) · [Demo video](https://www.youtube.com/watch?v=VnigEnYfZt8) · Built with audioworklet, deepgram, elderly, express.js
 
@@ -33,7 +33,7 @@ You're always in the loop. Never out of reach.
 
 Mind Your Prompt combines a website dashboard with a Chrome extension.
 
-**Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 
 [Code](https://github.com/krishnatejasai/ShellHacks_2026) · [Demo video](https://www.youtube.com/watch?v=FzibFbr4i2s) · Built with bert, chrome, faker, framer-motion
 
@@ -43,7 +43,7 @@ Mind Your Prompt combines a website dashboard with a Chrome extension.
 
 Don't let your AI run wild.
 
-**Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 
 [Code](https://github.com/arnovkandlikar/reigns) · [Demo video](https://www.youtube.com/watch?v=64wOp2kXgB4) · Built with elevenlabs, fastapi, mongodb, pydantic
 
@@ -55,7 +55,7 @@ Don't let your AI run wild.
 
 The hack provides the user a navigational interface similar to other popular navigation applications.
 
-**Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 
 [Code](https://github.com/davidrobinson05/birds-eye) · [Demo video](https://www.youtube.com/watch?v=lzUBJfDPxwM) · Built with css, ec2, ffmpeg, flask
 
@@ -65,7 +65,7 @@ The hack provides the user a navigational interface similar to other popular nav
 
 Introducing Caduceo, a Streamlit-based Chatbot for transparent healthcare cost estimate. Integrating MongoDB and Snowflake, it offers the user data on procedure costs, insurance and hospital ratings.
 
-**Award:** Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
 
@@ -75,7 +75,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0
 
 Meet ClariTA, your late-night study partner! Make studying easier by uploading your PDF lecture that automatically generates practice quizzes, helping you effectively retain information.
 
-**Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 
 [Code](https://github.com/enzofgomes/ClariTA-Teaching-Assistant) · [Demo video](https://www.youtube.com/watch?v=lab8c8u5a7M) · Built with drizzle, express.js, javascript, node.js
 
@@ -85,7 +85,7 @@ Meet ClariTA, your late-night study partner! Make studying easier by uploading y
 
 The platform offers two key user modes.
 
-**Award:** Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems” from Assurant.
 
 [Code](https://github.com/mko02/VectorSearch) · [Demo video](https://www.youtube.com/watch?v=1y8h8RPQGDM) · Built with flask, huggingface, next.js, python
 
@@ -95,7 +95,7 @@ The platform offers two key user modes.
 
 A web-app developed to help prep students for their technical interviews through the use of AI mock interviewer.
 
-**Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 
 [Code](https://github.com/Albertoh16/Bear-Necessities) · [Demo video](https://www.youtube.com/watch?v=uNDWa84R2Aw) · Built with gemini, javascript, react
 
@@ -107,7 +107,7 @@ A web-app developed to help prep students for their technical interviews through
 
 ESPER makes the Internet a safer place for those with epilepsy by dynamically adjusting the brightness of videos on the web to make rapid changes more gradual.
 
-**Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 
 [Code](https://github.com/LumaDevelopment/ESPER) · Built with chrome, digitalocean, java, javascript
 
@@ -117,7 +117,7 @@ ESPER makes the Internet a safer place for those with epilepsy by dynamically ad
 
 Jet Setter traverses through a 2D array to access the different rows of seats and their section letter to reserve the users' desired seat(s).
 
-**Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 
 [Code](https://github.com/JessicaDLN811/Jetsetter) · [Demo video](https://www.youtube.com/watch?v=fXF7-o58v5s) · Built with amazon-web-services, java, terraform
 
@@ -127,7 +127,7 @@ Jet Setter traverses through a 2D array to access the different rows of seats an
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
 
-**Award:** Won “Assurant” from Assurant. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 
 [Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
 

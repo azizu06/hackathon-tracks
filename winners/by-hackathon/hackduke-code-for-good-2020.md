@@ -51,8 +51,8 @@ These projects won more than one prize here. Each one is listed once.
 - **Code:** [Source 1](https://github.com/sanhalim/ketchup)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iT3uq3vS_PE)
 - **All prizes at this hackathon (2):** Duke Innovation Studio: Next Big Innovation Award · Wolfram Award
-- **Award:** Won “Duke Innovation Studio: Next Big Innovation Award” from Duke Innovation Studio. The write-up gives no details on how the team used the sponsor’s tech.
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Duke Innovation Studio: Next Big Innovation Award” from Duke Innovation Studio.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -75,8 +75,8 @@ OxyControl is a novel, low-cost device designed to prevent the abuse of prescrip
 - **Code:** [Source 1](https://github.com/blucifer22/oxycontrol)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Ucm68nm7ov4)
 - **All prizes at this hackathon (3):** Best Hardware Hack Sponsored by Digi-Key · Health Track - Best Beginner Project · Wolfram Award
-- **Award:** Won “Best Hardware Hack Sponsored by Digi-Key” from Digi-Key. The write-up gives no details on how the team used the sponsor’s tech.
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Hardware Hack Sponsored by Digi-Key” from Digi-Key.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -99,8 +99,8 @@ A machine learning application that alerts users of unattended leaky or running 
 - **Code:** [Source 1](https://github.com/tamablevirus/HackDuke2020-SinkSaver)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=59taEK-VP0A)
 - **All prizes at this hackathon (3):** Best Energy and Environment Track Hack · Best Hardware Hack Sponsored by Digi-Key · Wolfram Award
-- **Award:** Won “Best Hardware Hack Sponsored by Digi-Key” from Digi-Key. The write-up gives no details on how the team used the sponsor’s tech.
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Hardware Hack Sponsored by Digi-Key” from Digi-Key.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -251,7 +251,7 @@ A Pomodoro timer with virtual rewards and a hidden timer to encourage kids with 
 - **Code:** [Source 1](https://github.com/ACK101101/pomo-plugin)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CW_fn_HNLTI)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -274,7 +274,7 @@ Workflow of the coding for the covid prediction.
 - **Code:** [Source 1](https://github.com/Zenyi1/HackDuke_project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=J8TgUdlwKwU)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -297,7 +297,7 @@ These charity portfolios can be managed by users, and charity information pages 
 - **Code:** [Source 1](https://github.com/2018ayee/charitiesforgood)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ddlyORKBy20)
 - **All prizes at this hackathon (2):** Best Inequality Track Hack · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,7 +320,7 @@ CheckUp allows doctors to monitor patients for coronavirus symptoms before and a
 - **Code:** [Source 1](https://github.com/bluqiu001/CheckUp)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oOjFjfD9rbc)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -343,7 +343,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=Awg5byHF0B8
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Awg5byHF0B8)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -366,7 +366,7 @@ The team introduce Envokart to solve this problem, Envokart picks up the waste f
 - **Code:** [Source 1](https://github.com/prernasawhney/conservationalist)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vjgo308ZF1Y)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -389,7 +389,7 @@ Serve delicious food while conserving groceries! Keep track of the expiration da
 - **Code:** [Source 1](https://github.com/QiuhongAnnaWei/ConServe)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2O3fDAM8grI)
 - **All prizes at this hackathon (2):** Best Energy and Environment Track Hack · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -412,7 +412,7 @@ Learn new languages as you browse! Coral is a chrome extension that immerses you
 - **Code:** [Source 1](https://github.com/sahilmahendrakar/TranslationExtension)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ESSUAiiXdIA)
 - **All prizes at this hackathon (2):** Best Education Track Hack · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -435,7 +435,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=9ekGMGMFSVg
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9ekGMGMFSVg)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -458,7 +458,7 @@ The app provides users with a real-time COVID-19 risk assessment on any of their
 - **Code:** [Source 1](https://github.com/ameysunu/hackduke)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rF8mlTzNVbk)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -481,7 +481,7 @@ A VSCode extension, Chrome extension, and web app to help developers and interne
 - **Code:** [Source 1](https://github.com/catherinedparnell/ecoconscious-tech-chrome) · [Source 2](https://github.com/catherinedparnell/ecoconscious-tech-vsc) · [Source 3](https://github.com/jordantsanz/ecoconscious-tech-web)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hG0lLAeQx9E)
 - **All prizes at this hackathon (2):** Best Energy and Environment Track Hack · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -504,7 +504,7 @@ EcoEats helps to provide a quick and easy way to look at how much carbon emissio
 - **Code:** [Source 1](https://github.com/BenCrespoDuke/HackDuke)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NQBg9TyCiTM)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -527,7 +527,7 @@ Especially during COVID, people have never been more disconnected. Ensemble hope
 - **Code:** [Source 1](https://github.com/jeffreyluoxlvii/ensemble)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_-nXS1JCzkY)
 - **All prizes at this hackathon (2):** Best Health Track Hack · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -550,7 +550,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=I-1iUyfoR4E
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=I-1iUyfoR4E)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -573,7 +573,7 @@ eyeSafe uses your computer webcam to detect how often you blink.
 - **Code:** [Source 1](https://github.com/alexquach/eyeSafe)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fJ4aXA5IY6Q)
 - **All prizes at this hackathon (2):** Best Health Track Hack · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -596,7 +596,7 @@ Gauge -- a zoom add-on for teachers to gauge if their students are understanding
 - **Code:** [Source 1](https://github.com/Sharad100/Vision-Based-Classroom-AI-Assistant)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=clv6Quh8H-8)
 - **All prizes at this hackathon (2):** Best Education Track Hack · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -619,7 +619,7 @@ The team describes the project as “Social media are an important way for peopl
 - **Code:** [Source 1](https://github.com/erikmnovak/duke-hackathon-2020)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MLnl9rUTj6A)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -642,7 +642,7 @@ AI-Based Narration Camera for the Visually Impaired.
 - **Code:** [Source 1](https://github.com/samarthlamba/DukeHackathon2020)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=t95O0PvCC_I)
 - **All prizes at this hackathon (2):** Best Inequality Track Hack · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -665,7 +665,7 @@ Kaizen is a therapeutic journal for patients with a focus on privacy. Patients c
 - **Code:** [Source 1](https://github.com/akhatua2/Kaizen)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=v32u9aC71s0)
 - **All prizes at this hackathon (2):** Best Health Track Hack · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -688,7 +688,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=dF6Cx_b8CjA
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dF6Cx_b8CjA)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -711,7 +711,7 @@ This application allows an individual to outline a property, and work through ma
 - **Code:** [Source 1](https://github.com/chardorn/homestead_planner)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yiXvsZiMCDo)
 - **All prizes at this hackathon (2):** Energy and Environment Track - Best Beginner Project · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -734,7 +734,7 @@ Eye-tracking based communication for cerebral palsy patients.
 - **Code:** [Source 1](https://github.com/alvii147/pupil)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_9XTW2mqdjo)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -757,7 +757,7 @@ The automation of mask security for stores.
 - **Code:** [Source 1](https://github.com/saiccoumar/PMOI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UK3-xYVyPlM)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -780,7 +780,7 @@ A community that encourages and challenges people who stutter to practice speech
 - **Code:** [Source 1](https://github.com/HackDuke-2020/Shareapy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=04SFGBYGA2I)
 - **All prizes at this hackathon (2):** Best Education Track Hack · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -803,7 +803,7 @@ Automatically add events to GCal, just by uploading your class syllabus.
 - **Code:** [Source 1](https://github.com/rosiesr/syllabusparser)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Sa93iEYx7Hk)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -826,7 +826,7 @@ A web app that matches people with mental health therapists best suited for thei
 - **Code:** [Source 1](https://github.com/sasymer/hackduke2020)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m_ZnZd6Kcho)
 - **All prizes at this hackathon (1):** Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -849,7 +849,7 @@ An app to match foreign language learners with songs that reinforce their vocabu
 - **Code:** [Source 1](https://github.com/samaocarpenter/UniversalLanguage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7l-3FMcaKMU)
 - **All prizes at this hackathon (2):** Education Track - Best Beginner Project · Wolfram Award
-- **Award:** Won “Wolfram Award” from Wolfram. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Wolfram Award” from Wolfram.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

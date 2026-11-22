@@ -33,7 +33,7 @@ If the Wii taught the team anything, it’s that flailing your arms around is fu
 
 Automated Medication Scanner and Tracker Powered by Computer Vision.
 
-**How it used Roboflow:** The team trained a Roboflow model to detect labels.
+**Theme prize: no sponsor tech named** · Won “Best Use of Computer Vision (Sponsored by Roboflow)” from Roboflow.
 
 [Code](https://github.com/Srinikal/Snapill) · Built with roboflow, expo.io, firebase, flask
 
@@ -45,7 +45,7 @@ Automated Medication Scanner and Tracker Powered by Computer Vision.
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | Roboflow - Best Use of Roboflow Workflows | Roboflow Workflows | [Track label](https://mhacks-2024.devpost.com/) |
-| [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of Computer Vision (Sponsored by Roboflow) | Computer Vision | [Track label](https://pennapps-xxv.devpost.com/) |
+| [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of Computer Vision (Sponsored by Roboflow) | No specific requirement captured | [Event prize rules](https://pennapps-xxv.devpost.com/) |
 
 </details>
 

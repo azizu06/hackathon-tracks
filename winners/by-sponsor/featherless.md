@@ -23,7 +23,7 @@
 
 The team built AGastIa because medical reports are often full of information but empty of clarity.
 
-**Award:** Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless.
 
 [Code](https://github.com/Srinickethan/AGastIa) · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
 
@@ -33,7 +33,7 @@ The team built AGastIa because medical reports are often full of information but
 
 NARA is an autonomous penetration testing CLI that orchestrates four AI agents against an isolated Docker target:.
 
-**How it used Featherless:** The project uses Featherless and Phi-4-mini as its default LLM backend.
+**Theme prize: no sponsor tech named** · Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless.
 
 [Code](https://github.com/HackedRico/obv-nara-box) · [Demo video](https://www.youtube.com/watch?v=a8ESQUSft0c) · Built with featherless-ai-(phi-4-mini), anthropic-claude-api, bandit, docker
 
@@ -43,7 +43,7 @@ NARA is an autonomous penetration testing CLI that orchestrates four AI agents a
 
 Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day forecasts, and prescription actions telling you which fields to act on and what it saves.
 
-**How it used Featherless:** Sets the default Featherless API base URL.
+**Theme prize: no sponsor tech named** · Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless.
 
 [Code](https://github.com/vs-githjk/Terrametric) · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
 

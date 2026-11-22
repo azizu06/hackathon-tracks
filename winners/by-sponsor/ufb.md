@@ -23,7 +23,7 @@
 
 AxisGen turns one robot-task prompt into simulation-ready Physical AI prompts by varying lighting, placement, embodiment, and safety constraints, creating scalable, robust datasets before deployment.
 
-**Award:** Won “Best Physical AI Hack by UFB” from UFB. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Physical AI Hack by UFB” from UFB.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
 
@@ -33,7 +33,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s
 
 Supervision layer for robot fleets. A VLM watches each robot against its task and flags failures the second they happen; the operator pilots from anywhere via real-time hand tracking.
 
-**Award:** Won “Best Physical AI Hack by UFB” from UFB. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Physical AI Hack by UFB” from UFB.
 
 [Code](https://github.com/matthehzhang/hackcal) · [Demo video](https://www.youtube.com/watch?v=uvKU0ZPAZa4) · Built with act, antropicstructuredoutput, claude, depthanythingv2
 
@@ -43,7 +43,7 @@ Supervision layer for robot fleets. A VLM watches each robot against its task an
 
 The project is a full pipeline that takes ordinary monocular phone videos of a person jabbing and produces robot reference motions plus a trained control policy for the Unitree G1.
 
-**Award:** Won “Best Physical AI Hack by UFB” from UFB. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Physical AI Hack by UFB” from UFB.
 
 [Code](https://github.com/abtonmoy/ai_hackathon_calhacks) · [Demo video](https://www.youtube.com/watch?v=XCrEp2mOd_s) · Built with bash, cuda, ffmpeg, gmr
 

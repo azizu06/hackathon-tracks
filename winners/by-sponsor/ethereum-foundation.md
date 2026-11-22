@@ -23,7 +23,7 @@
 
 Put your money where your goals are. Complete your commitments to earn it back, or watch it go to a cause you really don’t want to fund.
 
-**How it used Ethereum Foundation:** The project deploys Solidity smart contracts on Ethereum testnet using Hardhat.
+**Theme prize: no sponsor tech named** · Won “Ethereum Foundation: Honorable Mention” from Ethereum Foundation.
 
 [Code](https://github.com/IgnasPanavas/Covenant) · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
 
@@ -43,9 +43,9 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U
 
 Rebuilding donation trust through transparent giving.
 
-**Ethereum Foundation · Listed on Devpost:** Built with ethereum (listed on Devpost)
+**Theme prize: no sponsor tech named** · Won “Ethereum Foundation: Honorable Mention” from Ethereum Foundation.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
+No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with base, claude, erc-20, ethereum
 
 ### [TrustBuddy](https://devpost.com/software/trustbuddy)
 
@@ -53,7 +53,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA
 
 Interoporable Trust, bring your ratings everywhere you go.
 
-**How it used Ethereum Foundation:** The smart contract lives on the Ethereum Sepolia Testnet.
+**Theme prize: no sponsor tech named** · Won “Ethereum Foundation: Honorable Mention” from Ethereum Foundation.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns) · Built with canva, ethereum, figma, nextjs
 

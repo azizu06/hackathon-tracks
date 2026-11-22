@@ -23,7 +23,7 @@
 
 DriveWise: Your personalized, safety-first navigation app, using 22 years of accident data to guide you on safer routes while enhancing your driving skills.
 
-**Award:** Won “Track: Best Community Impact Hack (Sponsored by Perpay)” from Perpay. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Track: Best Community Impact Hack (Sponsored by Perpay)” from Perpay.
 
 [Code](https://github.com/pranavponnusamy/Drivewise) · [Demo video](https://www.youtube.com/watch?v=A9ToFxCVF9c) · Built with cerebras, chroma, google-maps, mapquest
 

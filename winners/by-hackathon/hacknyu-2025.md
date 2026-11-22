@@ -157,7 +157,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gz_HUX_mEYY)
 - **All prizes at this hackathon (1):** Track: Security and Privacy
-- **Award:** Won “Track: Security and Privacy” from Nord Security. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Track: Security and Privacy” from Nord Security.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -180,7 +180,7 @@ FirstWave transforms your organization’s approach to cybersecurity by simulati
 - **Code:** [Source 1](https://github.com/Laphatize/firstwave)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oLO9dA-NBEQ)
 - **All prizes at this hackathon (1):** Track: Security and Privacy
-- **Award:** Won “Track: Security and Privacy” from Nord Security. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Track: Security and Privacy” from Nord Security.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -207,7 +207,7 @@ AutoCPT automates medical billing by extracting CPT codes from doctor-patient ta
 - **Code:** [Source 1](https://github.com/Techdude01/AutoCPT)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YdkI37ASM9w)
 - **All prizes at this hackathon (1):** Best Use of AI powered by Reach Capital
-- **Award:** Won “Best Use of AI powered by Reach Capital” from Reach Capital. The write-up gives no details on how the team used the sponsor’s tech.
+- **Theme prize: no sponsor tech named** · Won “Best Use of AI powered by Reach Capital” from Reach Capital.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

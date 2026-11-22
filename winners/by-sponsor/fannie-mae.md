@@ -23,7 +23,7 @@
 
 The web application allows a user to understand the prevalence of certain natural disasters in each of the 50 states.
 
-**Award:** Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae.
 
 [Code](https://github.com/jasonyih/BitcampBackend) · Built with fastapi, python, react, typescript
 
@@ -33,7 +33,7 @@ The web application allows a user to understand the prevalence of certain natura
 
 Insights for Tomorrow: Navigating Climate Challenges with Data.
 
-**Award:** Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae. The write-up gives no details on how the team used the sponsor’s tech.
+**Theme prize: no sponsor tech named** · Won “Best Use of APIs related to Housing/Climate Change - Fannie Mae” from Fannie Mae.
 
 [Code](https://github.com/amantalreja/Fannnie-Mae-Challenge) · Built with javascript, node.js, numpy, pandas
 
@@ -44,7 +44,7 @@ Insights for Tomorrow: Navigating Climate Challenges with Data.
 
 | Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best Use of APIs related to Housing/Climate Change - Fannie Mae | APIs related to Housing/Climate Change - Fannie Mae | [Track label](https://bitcamp2024.devpost.com/) |
+| [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best Use of APIs related to Housing/Climate Change - Fannie Mae | No specific requirement captured | [Event prize rules](https://bitcamp2024.devpost.com/) |
 
 </details>
 

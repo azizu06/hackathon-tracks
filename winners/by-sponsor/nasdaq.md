@@ -55,7 +55,7 @@ Buying a new house but can't decide on a neighborhood? Check out HomeUp for data
 
 Sell dorm supplies in a seasonal market-style setting with prices determined by supply and demand.
 
-**How it used Nasdaq:** The team used Nasdaq's Markets Everywhere API to handle transactions and set prices for assets in item markets.
+**Theme prize: no sponsor tech named** · Won “Nasdaq Best "Markets Everywhere" Hack” from Nasdaq.
 
 [Code](https://github.com/m-99/dorm-market) · Built with nasdaq-markets-everywhere, css, django, html
 
@@ -67,7 +67,7 @@ Sell dorm supplies in a seasonal market-style setting with prices determined by 
 
 Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs.
 
-**How it used Nasdaq:** The team used Nasdaq's API to locate a company's stock and related news about its performance.
+**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Nasdaq - Best Re-imagination of Market” from Nasdaq.
 
 No public code found · Built with flask, giphy-api, google-cloud-vision, ibm-watson
 
@@ -79,7 +79,7 @@ No public code found · Built with flask, giphy-api, google-cloud-vision, ibm-wa
 
 LogoLens presents relevant stock quote data when a user sees a company logo while wearing the HoloLens.
 
-**How it used Nasdaq:** The project uses the NASDAQ API to check stock prices.
+**Theme prize: no sponsor tech named** · Won “Nasdaq MarketSite Prize” from Nasdaq.
 
 [Code](https://github.com/ChenJonathan/Logo-Lens) · [Demo video](https://www.youtube.com/watch?v=AI54o8onLBA) · Built with nasdaq-data-on-demand, c#, google-cloud-vision, microsoft-hololens
 
