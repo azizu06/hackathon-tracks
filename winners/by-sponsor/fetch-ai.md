@@ -674,9 +674,9 @@ An augmented reality tool guides stroke survivors through physical therapy exerc
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of The Agentverse by Fetch AI | The Agentverse by Fetch AI | [Track label](https://ai-hackathon-2026.devpost.com/) |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Fetch.ai&#93; Best Use of ASI:One | ASI:One | [Track label](https://cal-hacks-13-0.devpost.com/) |
@@ -686,7 +686,7 @@ An augmented reality tool guides stroke survivors through physical therapy exerc
 | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Fetch.ai: OmegaClaw Skill Forge powered by Agentverse | Build a new specialist skill/capability for OmegaClaw using Agentverse. | [Devpost prize description](https://la-hacks-2026.devpost.com/) |
 | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Track: Agentverse - Search &amp; Discovery of Agents | Build and Register AI Agents on Agentverse, discoverable via ASI:One, that turn user intent into real, executable outcomes. | [Devpost prize description](https://la-hacks-2026.devpost.com/) |
 | [MHacks 2026](../by-hackathon/mhacks-2026.md) | FetchAI ASI:One Agent Challenge | No specific requirement captured | [Event prize rules](https://mhacks-2026.devpost.com/) |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Fetch.ai&#93; Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. (Best Overall AI Agent Solution - $2500 Best Multi-Agent Workflow - $1500 Best Monetised Agent - $1000) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Fetch.ai&#93; Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Fetch AI: Best Deployment of Agentverse | Agentverse | [Track label](https://cal-hacks-12-0.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Fetch AI: Best Use of ASI:One | ASI:One | [Track label](https://cal-hacks-12-0.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Fetch AI: Best Use of Fetch AI | Fetch AI | [Track label](https://cal-hacks-12-0.devpost.com/) |

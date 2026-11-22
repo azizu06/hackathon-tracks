@@ -40,12 +40,12 @@ Combat misinformation through flagged Tweets and grounded sources, and reference
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Otsuka Valuenex: ekkomi® Advanced Technologies for User Feedback Award ($500 Amazon + $100 ekkomi® matcha gift card per team member) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Otsuka Valuenex: VALUENEX Big Data Visualization Award ($1k Amazon Gift Card) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Otsuka Valuenex: ekkomi® Advanced Technologies for User Feedback Award | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Otsuka Valuenex: VALUENEX Big Data Visualization Award | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
 

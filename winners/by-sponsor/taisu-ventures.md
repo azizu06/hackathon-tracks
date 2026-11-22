@@ -50,9 +50,9 @@ Anti-Rug AI agent for memecoins by frontrunning + sandwich attacks. Longer versi
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Taisu Ventures: Most Promising Web3 Project (4x Deeper Network Air) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Taisu Ventures: Next-Gen Web3 Security Award (4x Deeper Network Air + 1 NGRAVE cold wallet) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |

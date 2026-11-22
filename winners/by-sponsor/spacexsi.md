@@ -60,9 +60,9 @@ Every one of the team has struggled with being the "new kid" at school, or just 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;SpaceXSI&#93; Make it Legendary with SpaceXSI | No specific requirement captured | [Event prize rules](https://cal-hacks-13-0.devpost.com/) |
 | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) | &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI | Build your hackathon project with Cursor and Grok Bot this weekend to qualify for the SpaceXSI raffle. | [Devpost prize description](https://hackprinceton-fall-26.devpost.com/) |

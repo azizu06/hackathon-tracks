@@ -29,7 +29,7 @@ Pick a track to jump to its winners on this page.
 | [Cloudflare](../by-sponsor/cloudflare.md) | 1 | [Best Agent with a Brain](#cloudflare-winners) |
 | [Cognition](../by-sponsor/cognition.md) | 1 | [Best Use of Devin](#cognition-winners) |
 | [Communications Security Establishment](../by-sponsor/communications-security-establishment.md) | 3 | [CSE: Log &amp; Order](#communications-security-establishment-winners) |
-| [Composio](../by-sponsor/composio.md) | 1 | [6 months free subscription + $10k of credits for the 6 months](#composio-winners) |
+| [Composio](../by-sponsor/composio.md) | 1 | [6 months free subscription](#composio-winners) |
 | [Dominion Dynamics](../by-sponsor/dominion-dynamics.md) | 3 | [WHITEOUT](#dominion-dynamics-winners) |
 | [Dryft](../by-sponsor/dryft.md) | 1 | [Dryft Company Challenge](#dryft-winners) |
 | [Elastic](../by-sponsor/elastic.md) | 2 | [Find the Signal - Best Use of Elasticsearch](#elastic-winners) |
@@ -471,13 +471,13 @@ Turn HTTP logs into provable, safe incident response.
 
 ### Composio winners
 
-**Track:** 6 months free subscription + $10k of credits for the 6 months · [All Composio winners](../by-sponsor/composio.md)
+**Track:** 6 months free subscription · [All Composio winners](../by-sponsor/composio.md)
 
 <a name="project-dean-your-personal-agent-at-your-command"></a>
 
 #### [Otto](https://devpost.com/software/dean-your-personal-agent-at-your-command)
 
-[Composio](../by-sponsor/composio.md) · **6 months free subscription + $10k of credits for the 6 months**
+[Composio](../by-sponsor/composio.md) · **6 months free subscription**
 
 All your apps, at your command. Just say the word and Otto already has it finished.
 
@@ -490,7 +490,7 @@ All your apps, at your command. Just say the word and Otto already has it finish
 - **Built with:** composio, esp32, hardware, openai, voiceagents, websockets
 - **Code:** [Source 1](https://github.com/Vibhor7-7/HackTheNorth-OTTO)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QVRdKxlLYfg)
-- **All prizes at this hackathon (1):** Composio: 6 months free subscription + $10k of credits for the 6 months
+- **All prizes at this hackathon (1):** Composio: 6 months free subscription
 - **How it used Composio:** Composio gives Otto a catalog of more than 1,500 integrations to search.
 - **Checked on Devpost:** 2026-11-21
 

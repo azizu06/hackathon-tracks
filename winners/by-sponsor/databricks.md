@@ -124,9 +124,9 @@ No public code linked · Built with cloudfare, flask, nextjs, openai-api
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) | Databricks Geo-Insight Challenge | Databricks | [Track label](https://hacklytics-2026.devpost.com/) |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Databricks: Best Use of Databricks | Databricks | [Track label](https://knight-hacks-ix.devpost.com/) |

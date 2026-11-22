@@ -50,9 +50,9 @@ ShadowGuard is a network-layer AI firewall that detects and redacts sensitive pa
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches) | Clinical Information | [Track label](https://treehacks-2026.devpost.com/) |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;OpenEvidence&#93; Healthcare Track Grand Prize | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |

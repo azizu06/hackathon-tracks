@@ -30,9 +30,9 @@ The team experimented with different NLP architectures and fine-tuning strategie
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group | No specific requirement captured | [Event prize rules](https://bitcamp2024.devpost.com/) |
 

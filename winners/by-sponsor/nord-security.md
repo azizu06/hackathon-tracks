@@ -40,9 +40,9 @@ FirstWave transforms your organization’s approach to cybersecurity by simulati
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) | Track: Security and Privacy | No specific requirement captured | [Event prize rules](https://hacknyu-2025.devpost.com/) |
 

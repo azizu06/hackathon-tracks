@@ -50,9 +50,9 @@ Leaf keeps AI usage sustainable, accurate, and fast by pairing powerful subagent
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) | Built With Zed | No specific requirement captured | [Event prize rules](https://yhack-2026.devpost.com/) |
 

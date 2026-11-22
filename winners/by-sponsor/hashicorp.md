@@ -112,9 +112,9 @@ Automating AWS environments for efficiency! Terraform-based solution schedules a
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) | Best Use of Terraform | Terraform | [Track label](https://hack-brown-2025.devpost.com/) |
 | [SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md) | MLH - Best Use of Terraform | Terraform | [Track label](https://sb-hacks-xi.devpost.com/) |

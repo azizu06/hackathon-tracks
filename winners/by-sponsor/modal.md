@@ -19,7 +19,7 @@
 
 ### [jiggle wiggle](https://devpost.com/software/jiggle-wiggle)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle) · **Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp;…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle) · **Inference Track**
 
 Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
 
@@ -39,7 +39,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=5oxXfazBca
 
 ### [Mirage](https://devpost.com/software/synsplatt)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-synsplatt) · **Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp;…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-synsplatt) · **Inference Track**
 
 Robots and self-driving cars need training data. Mirage synthesizes 3D world-model training data covering hard-to-capture scenes - like driving in a hailstorm.
 
@@ -69,7 +69,7 @@ Shared coding agent context powered by RLMs. One Context, Run Everywhere.
 
 ### [ShotSpot](https://devpost.com/software/shotspot-kfvp1n)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-shotspot-kfvp1n) · **Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp;…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-shotspot-kfvp1n) · **Inference Track**
 
 Stop scrubbing videos. Start training models.
 
@@ -80,11 +80,11 @@ Stop scrubbing videos. Start training models.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Modal&#93; Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp; hotel) to SF or NY Office with lunch with Modal team,. Inference Track Runner Up Prize: $1K in Modal credits, airpods for each team member.) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Modal&#93; Inference Track | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Modal&#93; Sandbox Challenge | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 
 </details>

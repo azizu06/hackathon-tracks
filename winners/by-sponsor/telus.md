@@ -42,9 +42,9 @@ A dynamic platform for mapping real-time crisis events through peer-shared video
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) | &#91;Telus&#93; The Edge of Innovation | No specific requirement captured | [Event prize rules](https://nwhacks-2026.devpost.com/) |
 | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | TELUS Sponsor Prize | No specific requirement captured | [Event prize rules](https://nwhacks-2025.devpost.com/) |

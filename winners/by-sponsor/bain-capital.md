@@ -40,9 +40,9 @@ No public code linked · Built with d3.js, heroku, mongodb
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Bain Capital: Best Use of Data Visualization | Data Visualization | [Track label](https://hackmit.devpost.com/) |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Bain Capital: Best Use of Machine Learning | Machine Learning | [Track label](https://hackmit.devpost.com/) |

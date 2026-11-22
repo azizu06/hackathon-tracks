@@ -30,9 +30,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoR
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) | Cedar - Best Use of CedarOS | CedarOS | [Track label](https://hackgt-12.devpost.com/) |
 

@@ -30,9 +30,9 @@ The application uses Optical Character Recognition (OCR) to capture items and th
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best Use of Instabase API | Instabase API | [Track label](https://hackmit-2019.devpost.com/) |
 

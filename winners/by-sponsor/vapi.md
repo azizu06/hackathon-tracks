@@ -152,9 +152,9 @@ World's First AI Study Assistant in Extended Reality.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Vapi: Best Use of Vapi | Vapi | [Track label](https://cal-hacks-12-0.devpost.com/) |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | VAPI: Best Voice AI Application | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |

@@ -72,9 +72,9 @@ Powering a Greener Future, One Trade at a Time. A Blockchain-Powered Marketplace
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Best Use of Midnight | Midnight | [Track label](https://nwhacks-2025.devpost.com/) |
 | [SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md) | MLH - Best Use of Midnight | Midnight | [Track label](https://sb-hacks-xi.devpost.com/) |

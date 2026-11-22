@@ -114,9 +114,9 @@ LocalPulse is an innovative app that allows users to connect with their communit
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) | Waymo | No specific requirement captured | [Event prize rules](https://shellhacks-2026.devpost.com/) |
 | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) | Waymo | No specific requirement captured | [Event prize rules](https://shellhacks2025.devpost.com/) |

@@ -104,9 +104,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=7VzAm0KVVo
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Best Use of FREE-WILi | FREE-WILi | [Track label](https://mhacks-2026.devpost.com/) |
 | [MHacks 2025](../by-hackathon/mhacks-2025.md) | Best Use of FREE-WiLi | FREE-WiLi | [Track label](https://mhacks-2025.devpost.com/) |

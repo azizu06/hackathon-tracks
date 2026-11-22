@@ -30,9 +30,9 @@ The world's first fully homomorphic runtime for a Turing-complete language.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Datto - Best Use of Encryption | Encryption | [Track label](https://hackmit2017.devpost.com/) |
 

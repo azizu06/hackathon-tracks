@@ -122,9 +122,9 @@ decentralizing music by empowering artists to create &amp; monetize their music 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Sui: Best Use of Sui | Sui | [Track label](https://cal-hacks-12-0.devpost.com/) |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Sui: Reimagine the internet with Sui | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |

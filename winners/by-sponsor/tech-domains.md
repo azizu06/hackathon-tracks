@@ -164,9 +164,9 @@ After your guess on what the image represents, a gallery will be presented with 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | &#91;MLH&#93; Best .Tech Domain Name | .tech domain | [Track label](https://hack-brown-2026.devpost.com/) |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | MLH: Best Domain from .tech | .tech domain | [Track label](https://hackgt13.devpost.com/) |

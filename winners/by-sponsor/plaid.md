@@ -30,9 +30,9 @@ A web app to help you track your money and where you're spending it.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best use of the Plaid API | the Plaid API | [Track label](https://hackmit-2018.devpost.com/) |
 

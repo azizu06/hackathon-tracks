@@ -30,9 +30,9 @@ Burned $300 running a 100-agent swarm to launch Simulacra and headstart the futu
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) | Best Use of K2 Think V2 | K2 Think V2 | [Track label](https://yhack-2026.devpost.com/) |
 

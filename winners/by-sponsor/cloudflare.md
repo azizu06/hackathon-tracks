@@ -164,12 +164,12 @@ No public code linked · Built with cloudflare, ai, groq, llama
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Cloudflare: Best Agent with a Brain | Build an agent that does more than chat. | [Devpost prize description](https://hackthenorth2026.devpost.com/) |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Cloudflare&#93; Best Use of Cloudflare Developer Platform (1st Place - $250K Cloudflare credits + Cloudflare swag bag for each team member. 2nd Place - $100k Cloudflare credits) | Cloudflare Developer Platform | [Track label](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Cloudflare&#93; Best Use of Cloudflare Developer Platform | Cloudflare Developer Platform | [Track label](https://treehacks-2026.devpost.com/) |
 | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) | &#91;MLH&#93; Best AI Application Built with Cloudflare | Cloudflare | [Track label](https://bitcamp2025.devpost.com/) |
 | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) | MLH - Best AI Application Built with Cloudflare | Cloudflare | [Track label](https://hackgt-12.devpost.com/) |
 | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Best AI Application Built with Cloudflare | Cloudflare | [Track label](https://hackharvard-2025.devpost.com/) |

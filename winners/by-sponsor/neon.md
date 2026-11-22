@@ -60,9 +60,9 @@ Commute used to be dead time. Shotgun turns your car into an AI agent that rides
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Neon: Best Use of Neon | Neon | [Track label](https://knight-hacks-ix.devpost.com/) |
 | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Best Use of Neon Backend | Neon Backend | [Track label](https://mhacks-2026.devpost.com/) |

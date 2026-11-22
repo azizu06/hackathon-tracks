@@ -52,9 +52,9 @@ No public code linked · Built with coinbase, ethereum, ios
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Coinbase&#93; Best Use of x402 by Coinbase | x402 by Coinbase | [Track label](https://cal-hacks-13-0.devpost.com/) |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best use of Coinbase API | Coinbase API | [Track label](https://hackmit-2016.devpost.com/) |

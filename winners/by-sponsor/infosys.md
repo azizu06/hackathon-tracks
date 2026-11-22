@@ -42,9 +42,9 @@ InvestIQ simplifies investing for everyone, offering real-time insights, educati
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Infosys Human Augmentation Track Prize | No specific requirement captured | [Event prize rules](https://hackharvard-2025.devpost.com/) |
 | [HackUTD 2024](../by-hackathon/hackutd-2024.md) | Infosys | No specific requirement captured | [Event prize rules](https://hackutd-ripple.devpost.com/) |

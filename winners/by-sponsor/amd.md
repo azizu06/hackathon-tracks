@@ -82,9 +82,9 @@ In an age where AI-generated media is indistinguishable from reality, Sora2Detec
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | AMD: Best Use of AMD Technologies | AMD Technologies | [Track label](https://knight-hacks-ix.devpost.com/) |
 | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | AMD: Best use of AMD Hardware/Software Challenge | AMD Hardware/Software Challenge | [Track label](https://knighthacksviii.devpost.com/) |

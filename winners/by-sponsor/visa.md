@@ -122,14 +122,14 @@ Visa Verify brings multi-factor fraud detection to online payments using behavio
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Visa&#93; Best use of Reimagining Shopping sponsored by Visa | Reimagining Shopping sponsored by Visa | [Track label](https://cal-hacks-13-0.devpost.com/) |
 | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | Visa - Custom Track | No specific requirement captured | [Event prize rules](https://hack-brown-2026.devpost.com/) |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | VISA: Reimagine Shopping - Winner | No specific requirement captured | [Event prize rules](https://hackgt13.devpost.com/) |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Visa&#93; The Generative Edge: Future of Commerce ($10,000 total) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Visa&#93; The Generative Edge: Future of Commerce | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Visa | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Visa Truth and Trust Track Prize | No specific requirement captured | [Event prize rules](https://hackharvard-2025.devpost.com/) |
 | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Visa Challenge - Agent Marketplace Simulation | No specific requirement captured | [Event prize rules](https://hacknyu-fall-2025.devpost.com/) |

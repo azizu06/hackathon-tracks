@@ -100,9 +100,9 @@ An AI-backed solution for improving the U.S. visa experience for non-English-spe
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best DEI Hack sponsored by Fidelity - MLH | No specific requirement captured | [Event prize rules](https://bitcamp2024.devpost.com/) |
 | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) | Best DEI Hack sponsored by Fidelity | No specific requirement captured | [Event prize rules](https://hack-brown-2024.devpost.com/) |

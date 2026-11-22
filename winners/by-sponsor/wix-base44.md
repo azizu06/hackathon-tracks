@@ -50,9 +50,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbT
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) | Wix.com &amp; Base44 | No specific requirement captured | [Event prize rules](https://shellhacks2025.devpost.com/) |
 

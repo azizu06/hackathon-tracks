@@ -90,9 +90,9 @@ No public code linked · Built with apple-maps, swift
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) | FOSS in a Drone Cargo Management System App | [Track label](https://hackmit-2016.devpost.com/) |
 

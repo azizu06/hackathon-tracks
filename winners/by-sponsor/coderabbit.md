@@ -30,9 +30,9 @@ Merj is your AI-powered merge copilot. It reviews both branches, understands int
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | CodeRabbit: Best Use of CodeRabbit AI | CodeRabbit AI | [Track label](https://cal-hacks-12-0.devpost.com/) |
 

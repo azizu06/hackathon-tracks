@@ -114,9 +114,9 @@ A Sustainability Platform for a Greener Future.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | CBRE Track | No specific requirement captured | [Event prize rules](https://hackutd-zeroday.devpost.com/) |
 | [HackUTD 2025](../by-hackathon/hackutd-2025.md) | CBRE | No specific requirement captured | [Event prize rules](https://hackutd-2025.devpost.com/) |

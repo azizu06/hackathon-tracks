@@ -30,9 +30,9 @@ Minerva is an AI-powered virtual educator designed to provide structured, person
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;HeyGen&#93; Best creation with HeyGen Avatar API (4 Airpod Pros 3, 1 year of HeyGen Creator license, guaranteed onsite interviews for FTE or intern roles) | HeyGen Avatar API | [Track label](https://treehacks-2026.devpost.com/) |
 

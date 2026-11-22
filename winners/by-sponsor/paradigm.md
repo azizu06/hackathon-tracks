@@ -30,9 +30,9 @@ Massively parallelized agentic research workflows using spreadsheets as a primit
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Paradigm: Best Spreadsheet-Adjacent Hack (Air Pods Max per team member) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 

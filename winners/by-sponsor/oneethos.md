@@ -72,9 +72,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZd
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | OneEthos: Innovation for Good | No specific requirement captured | [Event prize rules](https://knight-hacks-ix.devpost.com/) |
 | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | OneEthos: AI for Financial Empowerment Challenge | No specific requirement captured | [Event prize rules](https://knighthacksviii.devpost.com/) |

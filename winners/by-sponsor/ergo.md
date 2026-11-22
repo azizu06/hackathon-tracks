@@ -40,9 +40,9 @@ CanDraw is the AI copilot that transforms your whiteboard into a creative partne
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) | Ergo - Best Use of Mastra Agent Framework for Productivity | Mastra Agent Framework for Productivity | [Track label](https://hackgt-12.devpost.com/) |
 

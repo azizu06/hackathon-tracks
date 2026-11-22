@@ -109,7 +109,7 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 
 ### [CareLink](https://devpost.com/software/carelink-k1pzeh)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-carelink-k1pzeh)<br>[Elastic](../by-sponsor/elastic.md) · **Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-carelink-k1pzeh)<br>[Elastic](../by-sponsor/elastic.md) · **Best end-to-end Agentic system on Elasticsearch**
 
 Voice AI with RAG-powered clinical reasoning that proactively detects post-surgical complications, alerts care providers before symptoms escalate, and prevents costly hospital readmissions.
 

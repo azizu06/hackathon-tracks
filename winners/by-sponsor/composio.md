@@ -19,7 +19,7 @@
 
 ### [Otto](https://devpost.com/software/dean-your-personal-agent-at-your-command)
 
-[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-dean-your-personal-agent-at-your-command) · **6 months free subscription + $10k of credits for the 6 months**
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-dean-your-personal-agent-at-your-command) · **6 months free subscription**
 
 All your apps, at your command. Just say the word and Otto already has it finished.
 
@@ -42,11 +42,11 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=bajCGzs3QB
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Composio: 6 months free subscription + $10k of credits for the 6 months | No specific requirement captured | [Event prize rules](https://hackthenorth2026.devpost.com/) |
+| [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Composio: 6 months free subscription | No specific requirement captured | [Event prize rules](https://hackthenorth2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Composio: Best Use of Composio Toolrouter | Composio Toolrouter | [Track label](https://cal-hacks-12-0.devpost.com/) |
 
 </details>

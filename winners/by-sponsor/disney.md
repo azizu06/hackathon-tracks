@@ -42,9 +42,9 @@ No public code linked
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Disney - Best Use of Storytelling | Storytelling | [Track label](https://hackmit2017.devpost.com/) |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best Use of Emerging Technology (Disney) | Emerging Technology | [Track label](https://hackmit-2016.devpost.com/) |

@@ -30,9 +30,9 @@ Competing to build a SOTA computer use agent (Cua + Hud + Ollama).
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Cua: Best State-of-the-Art Computer-Use Agent | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
 

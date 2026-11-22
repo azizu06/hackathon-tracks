@@ -50,9 +50,9 @@ No public code linked · Built with aryn, elasticsearch, go, next.js
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md) | Best use of Sycamore (Aryn) | Sycamore | [Track label](https://sb-hacks-xi.devpost.com/) |
 

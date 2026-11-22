@@ -30,9 +30,9 @@ No public code linked · Built with firebase, ios
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | MoPub - Mobile Data Award | No specific requirement captured | [Event prize rules](https://hackmit.devpost.com/) |
 

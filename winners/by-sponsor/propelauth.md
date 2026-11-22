@@ -40,9 +40,9 @@ Unified Electronic Health Record featuring an AI- and RAG-powered search bot for
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best Use of PropelAuth - MLH | PropelAuth | [Track label](https://bitcamp2024.devpost.com/) |
 | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of PropelAuth | PropelAuth | [Track label](https://pennapps-xxv.devpost.com/) |

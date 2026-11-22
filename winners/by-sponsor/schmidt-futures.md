@@ -30,9 +30,9 @@ No public code linked · Built with chatgpt, dspy, openai, python
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) | Best Use of AI in Education by Schmidt Futures | AI in Education by Schmidt Futures | [Track label](https://hack-brown-2024.devpost.com/) |
 

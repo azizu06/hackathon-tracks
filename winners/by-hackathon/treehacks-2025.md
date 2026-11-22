@@ -79,10 +79,10 @@ FlowPilot listens, understands, and executes, transforming Zoom meetings into Sl
 - **Built with:** dain, docker, express.js, node.js, rtms, websockets, zoom
 - **Code:** [Source 1](https://github.com/CarterCote/flow-pilot) · [Source 2](https://github.com/cyu60/dain-agent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=d9pkeKJIGRg)
-- **All prizes at this hackathon (3):** DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation) · Perplexity: Hacking With Perplexity Award ($50 Gift Card per team member) · Zoom: Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;)
-- **How it used DAIN Labs:** The project uses DAIN’s memory system to maintain conversation context and user preferences. Prize: $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation
-- **How it used Perplexity:** Sponsor use not stated on Devpost Prize: $50 Gift Card per team member
-- **How it used Zoom:** The Zoom RTMS integration implements WebSocket connections for real-time audio stream processing. Prize: $250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;
+- **All prizes at this hackathon (3):** DAIN Labs: AI Agent Excellence &amp; Innovation Awards · Perplexity: Hacking With Perplexity Award · Zoom: Best Use of Zoom APIs
+- **How it used DAIN Labs:** The project uses DAIN’s memory system to maintain conversation context and user preferences.
+- **How it used Perplexity:** Sponsor use not stated on Devpost
+- **How it used Zoom:** The Zoom RTMS integration implements WebSocket connections for real-time audio stream processing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -104,9 +104,9 @@ A tool to match companies to relevant climate actions. Embedding search to find 
 - **Built with:** dain, gemini, google, intersystems-db, langchain, nvidia-llama
 - **Code:** [Source 1](https://github.com/Suzehva/bas_labs)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rUhAa9_z8zY)
-- **All prizes at this hackathon (2):** Intersystems: Best Use of GenAI using InterSystems IRIS Vector Search ($2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;) · Sustainability Prize: Best prototyping process ($800 Cash)
-- **How it used InterSystems:** The project uses InterSystems as its database. Prize: $2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;
-- **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost Prize: $800 Cash
+- **All prizes at this hackathon (2):** Intersystems: Best Use of GenAI using InterSystems IRIS Vector Search · Sustainability Prize: Best prototyping process
+- **How it used InterSystems:** The project uses InterSystems as its database.
+- **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -128,9 +128,9 @@ Massively parallelized agentic research workflows using spreadsheets as a primit
 - **Built with:** agents, apis, llms, typescript
 - **Code:** [Source 1](https://github.com/WeltonWang02/spreadsheet_hackathon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=spfLzOUNp44)
-- **All prizes at this hackathon (2):** Paradigm: Best Spreadsheet-Adjacent Hack (Air Pods Max per team member) · Pear VC: Best Customer Insights ($25k Unncapped SAFE + Office Hours w/ Partners &#91;1st&#93; &amp; Office Hours w/ Partners &#91;2nd&#93;)
+- **All prizes at this hackathon (2):** Paradigm: Best Spreadsheet-Adjacent Hack (Air Pods Max per team member) · Pear VC: Best Customer Insights
 - **How it used Paradigm:** Sponsor use not stated on Devpost Prize: Air Pods Max per team member
-- **How it used Pear VC:** Sponsor use not stated on Devpost Prize: $25k Unncapped SAFE + Office Hours w/ Partners &#91;1st&#93; &amp; Office Hours w/ Partners &#91;2nd&#93;
+- **How it used Pear VC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -152,9 +152,9 @@ Your mom knows you better than you do.
 - **Built with:** next.js
 - **Code:** [Source 1](https://github.com/MingkuanY/ai-mommy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eehiiErNsOM)
-- **All prizes at this hackathon (2):** Delve: Best Agentic Workflow (AirPods + Delve Founder Numbers + Onsite) · Scrapybara: Capy Prize (Japan offsite + $1k credits + Scrapybara Pro 6 months &#91;1st&#93; &amp; $1k credits + Scrapybara Pro 3 months &#91;2nd&#93; &amp; $100 credits + Scrapybara Pro 1 month &#91;3rd&#93;)
+- **All prizes at this hackathon (2):** Delve: Best Agentic Workflow (AirPods + Delve Founder Numbers + Onsite) · Scrapybara: Capy Prize
 - **How it used Delve:** Sponsor use not stated on Devpost
-- **How it used Scrapybara:** Sponsor use not stated on Devpost Prize: Japan offsite + $1k credits + Scrapybara Pro 6 months &#91;1st&#93; &amp; $1k credits + Scrapybara Pro 3 months &#91;2nd&#93; &amp; $100 credits + Scrapybara Pro 1 month &#91;3rd&#93;
+- **How it used Scrapybara:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -176,8 +176,8 @@ A non-invasive wearable using novel thermoregulation research to provide precise
 - **Built with:** firebase, nextjs, node.js, openai, scrapybara, tailwindcss, terraapi
 - **Code:** [Source 1](https://github.com/arnavnc/therms-platform)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=smeznyWVNhM)
-- **All prizes at this hackathon (2):** Healthcare Grand Prize (Meta Ray Ban Smart Glasses x4) and &#91;2nd place&#93; · Scrapybara: Capy Prize (Japan offsite + $1k credits + Scrapybara Pro 6 months &#91;1st&#93; &amp; $1k credits + Scrapybara Pro 3 months &#91;2nd&#93; &amp; $100 credits + Scrapybara Pro 1 month &#91;3rd&#93;)
-- **How it used Scrapybara:** Scrapybara automates tasks such as booking medical appointments and managing prescriptions based on detected trends. Prize: Japan offsite + $1k credits + Scrapybara Pro 6 months &#91;1st&#93; &amp; $1k credits + Scrapybara Pro 3 months &#91;2nd&#93; &amp; $100 credits + Scrapybara Pro 1 month &#91;3rd&#93;
+- **All prizes at this hackathon (2):** Healthcare Grand Prize (Meta Ray Ban Smart Glasses x4) and &#91;2nd place&#93; · Scrapybara: Capy Prize
+- **How it used Scrapybara:** Scrapybara automates tasks such as booking medical appointments and managing prescriptions based on detected trends.
 - **How it used Terra API:** Terra API integrates external physiological data from other wearables.
 - **Checked on Devpost:** 2026-11-21
 
@@ -200,9 +200,9 @@ VisionGuard leverages cutting-edge Vision-Language Models (VLMs) to analyze in-c
 - **Built with:** apis, colab, gpt, python, reinforcement, vscode
 - **Code:** [Source 1](https://github.com/JayYeung/tesla_kaggle)
 - **Demo video:** None listed.
-- **All prizes at this hackathon (2):** Autonomy Grand Prize (6-months use of a Tesla Model 3 or Y w/ Supervised FSD) · Tesla: Excellence Prize ($2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;)
+- **All prizes at this hackathon (2):** Autonomy Grand Prize (6-months use of a Tesla Model 3 or Y w/ Supervised FSD) · Tesla: Excellence Prize
 - **How it used Tesla:** Sponsor use not stated on Devpost
-- **How it used Tesla:** Sponsor use not stated on Devpost Prize: $2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;
+- **How it used Tesla:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -230,8 +230,8 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9
 - **Built with:** chromadb, google-cloud, langchain, luma-ai, muse-sdk, numpy, openai-api, pandas, python, pytorch, scipy, tensorflow, terra-api, typescript, vue.js
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eOo3tlCkw9o)
-- **All prizes at this hackathon (1):** Chroma: Best Chroma Cloud AI Application ($200 per team member)
-- **How it used Chroma:** The project stores thought embeddings in ChromaDB for real-time retrieval. Prize: $200 per team member
+- **All prizes at this hackathon (1):** Chroma: Best Chroma Cloud AI Application
+- **How it used Chroma:** The project stores thought embeddings in ChromaDB for real-time retrieval.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -257,8 +257,8 @@ CodeInsight is an interactive tool that analyzes a codebase to generate a dynami
 - **Built with:** flask, groq, html, javascript, mistral, perplexity, python
 - **Code:** [Source 1](https://github.com/evanng07/CodeInsight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AWrk2P0Nsgg)
-- **All prizes at this hackathon (1):** Codegen: Best Code Analysis Application ($1.5k Cash)
-- **How it used Codegen:** Sponsor use not stated on Devpost Prize: $1.5k Cash
+- **All prizes at this hackathon (1):** Codegen: Best Code Analysis Application
+- **How it used Codegen:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -280,8 +280,8 @@ Agentic routing at scale for 66x cheaper and 4x faster — Powering the Agentic 
 - **Built with:** agents, ai-agents, contrastive-learning, knn, python, pytorch, recommendation-systems
 - **Code:** [Source 1](https://github.com/codegen-sh/codegen) · [Source 2](https://github.com/shloknatarajan/ariadne-routing)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0vY9tj6UDJE)
-- **All prizes at this hackathon (1):** Codegen: Best Code Generation Application ($1.5k Cash)
-- **How it used Codegen:** The team uses Codegen’s SDK to run, test and evaluate on SWE-Bench. Prize: $1.5k Cash
+- **All prizes at this hackathon (1):** Codegen: Best Code Generation Application
+- **How it used Codegen:** The team uses Codegen’s SDK to run, test and evaluate on SWE-Bench.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -303,8 +303,8 @@ It’s incredibly difficult to just pick a few, but here are the major takeaways
 - **Built with:** fastapi, javascript, next.js, openai, python, render, supabase, vercel
 - **Code:** [Source 1](https://github.com/phombal/swarm-backend-new) · [Source 2](https://github.com/sidjavvaji/swarm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IMKAHnOzx9E)
-- **All prizes at this hackathon (1):** Codegen: Best Developer Tool ($1.5k Cash)
-- **How it used Codegen:** Sponsor use not stated on Devpost Prize: $1.5k Cash
+- **All prizes at this hackathon (1):** Codegen: Best Developer Tool
+- **How it used Codegen:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -330,8 +330,8 @@ Trade smarter not harder! Upgrade your financial literacy with traider.
 - **Built with:** fast-api, figma, google-search-api, nvidia, openai, perplexity, v0, vercel
 - **Code:** [Source 1](https://github.com/ajagtapdev/traider)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CUTdrkfdz1M)
-- **All prizes at this hackathon (1):** Context: Best AI Employee Workflow ($2.5k Cash + $2.5k Context API Credits)
-- **How it used Context:** Sponsor use not stated on Devpost Prize: $2.5k Cash + $2.5k Context API Credits
+- **All prizes at this hackathon (1):** Context: Best AI Employee Workflow
+- **How it used Context:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -359,8 +359,8 @@ Monitoring the Health and Safety of First Responders and Military Personnel.
 - **Built with:** brev.dev, dain, python, tensorflow, terraapi, typescript
 - **Code:** [Source 1](https://github.com/nipunbatra8/healthbot) · [Source 2](https://github.com/nipunbatra8/mapagent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=H3TpX43lDUs)
-- **All prizes at this hackathon (1):** DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation)
-- **How it used DAIN Labs:** The team designed a DAIN-powered AI service for timely alerts. Prize: $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation
+- **All prizes at this hackathon (1):** DAIN Labs: AI Agent Excellence &amp; Innovation Awards
+- **How it used DAIN Labs:** The team designed a DAIN-powered AI service for timely alerts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -382,8 +382,8 @@ Less paperwork, more patient care: the AI therapist's assistant.
 - **Built with:** dain, python, scrapybara, typescript
 - **Code:** [Source 1](https://github.com/cherylwu834/treehacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=q_3Y3kjbpZ0)
-- **All prizes at this hackathon (1):** DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation)
-- **How it used DAIN Labs:** The project uses DAIN to trigger service tools such as checking the therapist’s appointment database and sending reminders. Prize: $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation
+- **All prizes at this hackathon (1):** DAIN Labs: AI Agent Excellence &amp; Innovation Awards
+- **How it used DAIN Labs:** The project uses DAIN to trigger service tools such as checking the therapist’s appointment database and sending reminders.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -461,8 +461,8 @@ The system consists of two specialized machine learning models:.
 - **Built with:** eigenlayer, gnark, go, python
 - **Code:** [Source 1](https://github.com/2pir2/TreeHack2025)
 - **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Web3 Prize: Best AI Agents ($8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;)
-- **How it used EigenLayer:** The team built the system by integrating EigenLayer for fetching real-time news data and Dune for pulling Ethereum price data. Prize: $8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;
+- **All prizes at this hackathon (1):** Web3 Prize: Best AI Agents
+- **How it used EigenLayer:** The team built the system by integrating EigenLayer for fetching real-time news data and Dune for pulling Ethereum price data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -484,8 +484,8 @@ Mobile ECG with Wi-Fi capabilities that makes AI-powered diagnoses and stores da
 - **Built with:** c, esp32, influxdb, opacity, python, pytorch, streamlit
 - **Code:** [Source 1](https://github.com/fightingj305/ecgo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IxavWJJbxuU)
-- **All prizes at this hackathon (1):** Web3 Prize: Most Crazy Idea ($7k Cash + 7k EIGEN)
-- **How it used EigenLayer:** Sponsor use not stated on Devpost Prize: $7k Cash + 7k EIGEN
+- **All prizes at this hackathon (1):** Web3 Prize: Most Crazy Idea
+- **How it used EigenLayer:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -507,8 +507,8 @@ A privacy-preserving drug availability search powered by EigenDA and ZK-PTLS.
 - **Built with:** data, eigenda, express.js, flutterflow, merkle-proofs, merkle-trees, node.js, sha256, typescript, web3
 - **Code:** [Source 1](https://github.com/shayaansultan/treehacks-final)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=N1Zv7cgQSQ0)
-- **All prizes at this hackathon (1):** Web3 Prize: Best AI Agents ($8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;)
-- **How it used EigenLayer:** The project uses EigenLayer’s extensible agent framework for verifiable AI capabilities and data availability logging. Prize: $8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;
+- **All prizes at this hackathon (1):** Web3 Prize: Best AI Agents
+- **How it used EigenLayer:** The project uses EigenLayer’s extensible agent framework for verifiable AI capabilities and data availability logging.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -534,8 +534,8 @@ Democratizing information across the electric grid.
 - **Built with:** elastic, mapbox, mongodb, node.js, openai, react, tailwind
 - **Code:** [Source 1](https://github.com/shrenikpatel17/treeHacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hBLujsLhRaA)
-- **All prizes at this hackathon (1):** Elastic: Best use of Elasticsearch Serverless ($2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;)
-- **How it used Elastic:** The team used Elastic for the RAG model and geospatial analysis. Prize: $2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;
+- **All prizes at this hackathon (1):** Elastic: Best use of Elasticsearch Serverless
+- **How it used Elastic:** The team used Elastic for the RAG model and geospatial analysis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -557,8 +557,8 @@ a cognition copilot that distills your thoughts from pen to perspective.
 - **Built with:** agents, ai, elasticsearch, embeddings, firebase, google-cloud, mistral-large, rag, react-native
 - **Code:** [Source 1](https://github.com/RALS-TreeHacks-25/backend) · [Source 2](https://github.com/RALS-TreeHacks-25/frontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qbKc0O2uQv8)
-- **All prizes at this hackathon (1):** Elastic: Best use of Elasticsearch Serverless ($2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;)
-- **How it used Elastic:** The team used Elasticsearch to run vector search on embeddings. Prize: $2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;
+- **All prizes at this hackathon (1):** Elastic: Best use of Elasticsearch Serverless
+- **How it used Elastic:** The team used Elasticsearch to run vector search on embeddings.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -634,8 +634,8 @@ Because everyone deserves someone who cares.
 - **Built with:** ai, ai-agents, dart, elevenlabs, firebase, flutterflow, gemini, perplexity, twilio
 - **Code:** [Source 1](https://github.com/Tap2Call/flutterflow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8ZOR9M53RlM)
-- **All prizes at this hackathon (1):** Flutterflow: Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;)
-- **How it used FlutterFlow:** The project was built using FlutterFlow. Prize: $2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;
+- **All prizes at this hackathon (1):** Flutterflow: Best Use of FlutterFlow
+- **How it used FlutterFlow:** The project was built using FlutterFlow.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -657,8 +657,8 @@ EcoBite is a mobile app meant for users to take pictures of their leftover food 
 - **Built with:** flask, flutterflow, gemini, perplexity, python
 - **Code:** [Source 1](https://github.com/SirKentut/EcoBite)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=g1RofQA9R_o)
-- **All prizes at this hackathon (1):** Flutterflow: Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;)
-- **How it used FlutterFlow:** The team used FlutterFlow to develop the mobile application. Prize: $2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;
+- **All prizes at this hackathon (1):** Flutterflow: Best Use of FlutterFlow
+- **How it used FlutterFlow:** The team used FlutterFlow to develop the mobile application.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -680,8 +680,8 @@ The adventure is filled with grade-level vocabulary to hit comprehension goals, 
 - **Built with:** dart, fastapi, flutterflow, gemini, genai, google-cloud, imgur, luma, lumalabs, multimodal, python
 - **Code:** [Source 1](https://github.com/sdoshi4/Sprout-Treehacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GbGJ_mDDeCE)
-- **All prizes at this hackathon (1):** Flutterflow: Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;)
-- **How it used FlutterFlow:** Sprout.io was developed using FlutterFlow. Prize: $2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;
+- **All prizes at this hackathon (1):** Flutterflow: Best Use of FlutterFlow
+- **How it used FlutterFlow:** Sprout.io was developed using FlutterFlow.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -734,8 +734,8 @@ A browser copilot helps users find their way around web pages.
 - **Built with:** context, elevenlabs, gemini, groq, javascript, mistral, next.js, openai, perplexity, scrapybara, typescript, windsurf
 - **Code:** [Source 1](https://github.com/danieltyx/navi-browser-agent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=XXGyFPQvcPk)
-- **All prizes at this hackathon (1):** Groq: Best on Groq Multimodal App Challenge ($1,000 of Groq Swag Store Credit)
-- **How it used Groq:** The project uses Groq to convert audio commands to prompts for the OpenAI LLM. Prize: $1,000 of Groq Swag Store Credit
+- **All prizes at this hackathon (1):** Groq: Best on Groq Multimodal App Challenge
+- **How it used Groq:** The project uses Groq to convert audio commands to prompts for the OpenAI LLM.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -790,8 +790,8 @@ Adaptive Learning Content Generation for Students with Disabilities.
 - **Built with:** intersystems, iris, mistral, rag, vectors
 - **Code:** [Source 1](https://github.com/airjlee/superclassroom)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2CCohCdx4zk)
-- **All prizes at this hackathon (1):** Intersystems: Best Use of GenAI using InterSystems IRIS Vector Search ($2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;)
-- **InterSystems:** Built with intersystems (listed on Devpost) Prize: $2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;
+- **All prizes at this hackathon (1):** Intersystems: Best Use of GenAI using InterSystems IRIS Vector Search
+- **InterSystems:** Built with intersystems (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -817,8 +817,8 @@ Plot delivers comprehensive insights on any location. Whether you're scouting in
 - **Built with:** langchain, mapbox, mistralai, next.js, openai, perplexity, react, recharts, typescript, zustand
 - **Code:** [Source 1](https://github.com/toni-akintola/plot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jkV3BTOF3GQ)
-- **All prizes at this hackathon (1):** LangChain: Best Use of LangChain (LangChain Swag Box, $250 LangSmith Credits, and access to LangGraph Cloud per team member)
-- **How it used LangChain:** The project uses LangChain to build its AI workflows. Prize: LangChain Swag Box, $250 LangSmith Credits, and access to LangGraph Cloud per team member
+- **All prizes at this hackathon (1):** LangChain: Best Use of LangChain
+- **How it used LangChain:** The project uses LangChain to build its AI workflows.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -844,8 +844,8 @@ Iris is a sleek headset built for the blind and visually impaired, designed to p
 - **Built with:** cuda, expo.io, groq, nvidia, python, pytorch
 - **Code:** [Source 1](https://github.com/RoyceAroc/iris)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3Y1PsWWNvb4)
-- **All prizes at this hackathon (1):** Edge AI Prize: Most Creative On-Device AI Deployment ($10k Cash)
-- **How it used Liquid AI:** Sponsor use not stated on Devpost Prize: $10k Cash
+- **All prizes at this hackathon (1):** Edge AI Prize: Most Creative On-Device AI Deployment
+- **How it used Liquid AI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -867,8 +867,8 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=-p4GfOiM0G
 - **Built with:** executorch, gemini, langchain, llama.cpp, pytorch, vercel
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-p4GfOiM0GY)
-- **All prizes at this hackathon (1):** Edge AI Prize: Operator Optimization Champion ($5k Cash)
-- **How it used Liquid AI:** Sponsor use not stated on Devpost Prize: $5k Cash
+- **All prizes at this hackathon (1):** Edge AI Prize: Operator Optimization Champion
+- **How it used Liquid AI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -890,8 +890,8 @@ Your hands-free conversational survival assistant. Powered by on device LLM infe
 - **Built with:** executetorch, finetuning, github, llama, mixedreality, nvidia-brev, python, pytorch, swift, torchtune, vision, visionos, visionpro, vscode, xcode
 - **Code:** [Source 1](https://github.com/rockuutree/SurviveX-Treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aVEuAuWjVac)
-- **All prizes at this hackathon (1):** Edge AI Prize: Most Creative On-Device AI Deployment ($10k Cash)
-- **How it used Liquid AI:** Sponsor use not stated on Devpost Prize: $10k Cash
+- **All prizes at this hackathon (1):** Edge AI Prize: Most Creative On-Device AI Deployment
+- **How it used Liquid AI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -917,8 +917,8 @@ History isn’t just studied, it’s lived. Enter a 3D time-travel adventure.
 - **Built with:** elevenlabs, gemini, godot, langchain, lumalabs, nitrode, openai
 - **Code:** [Source 1](https://github.com/rgu0114/the-anachronist)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BXpIBv4q-kQ)
-- **All prizes at this hackathon (1):** LumaLabs: Reimagining Visual Creation with AI ($2,500 Cash + $5,000 Luma Credits)
-- **How it used Luma AI:** Sponsor use not stated on Devpost Prize: $2,500 Cash + $5,000 Luma Credits
+- **All prizes at this hackathon (1):** LumaLabs: Reimagining Visual Creation with AI
+- **How it used Luma AI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -944,8 +944,8 @@ Reflecting on your past work, relationships, and learning has never been easier.
 - **Built with:** augmentos, elasticsearch, java, mistral, nextjs, react, typescript, windsurf
 - **Code:** [Source 1](https://github.com/kevinzhu12/treehacks-glasses) · [Source 2](https://github.com/sarahjsu/tree_augmentos)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3FzmbTFD_9I)
-- **All prizes at this hackathon (1):** Mistral: Best Use of Mistral AI API (AirPods x4 + $1,000 Cash + $1,000 API Credits)
-- **Mistral:** Built with mistral (listed on Devpost) Prize: AirPods x4 + $1,000 Cash + $1,000 API Credits
+- **All prizes at this hackathon (1):** Mistral: Best Use of Mistral AI API
+- **Mistral:** Built with mistral (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1121,8 +1121,8 @@ interactive multimodal AI experiences for neurodivergent learners run entirely o
 - **Built with:** elevenlabs, groq, javascript, langchain, lumalabs, mistral, openai, perplexity, rust, typescript
 - **Code:** [Source 1](https://github.com/zcsabbagh/zu-lm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ajYL27WPKcs)
-- **All prizes at this hackathon (1):** Orbstack: Best Use of Rust ($1k Cash)
-- **How it used Orbstack:** Sponsor use not stated on Devpost Prize: $1k Cash
+- **All prizes at this hackathon (1):** Orbstack: Best Use of Rust
+- **How it used Orbstack:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1148,8 +1148,8 @@ Moods and Metrics visualizes estimated stress levels from audio, video, and tran
 - **Built with:** d3.js, fastapi, gemini, huggingface, python, pytorch, react, tailwind, three.js
 - **Code:** [Source 1](https://github.com/corey-shen/stress-level-audio-analysis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3kKoX5IYdJQ)
-- **All prizes at this hackathon (1):** Otsuka Valuenex: ekkomi® Advanced Technologies for User Feedback Award ($500 Amazon + $100 ekkomi® matcha gift card per team member)
-- **How it used Otsuka / VALUENEX:** Sponsor use not stated on Devpost Prize: $500 Amazon + $100 ekkomi® matcha gift card per team member
+- **All prizes at this hackathon (1):** Otsuka Valuenex: ekkomi® Advanced Technologies for User Feedback Award
+- **How it used Otsuka / VALUENEX:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1171,8 +1171,8 @@ Combat misinformation through flagged Tweets and grounded sources, and reference
 - **Built with:** d3.js, fastapi, groq, next, perplexity, plasmo, postgresql, python, react, supabase
 - **Code:** [Source 1](https://github.com/dav1dbai/Vigilante)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NQWxzOrpraY)
-- **All prizes at this hackathon (1):** Otsuka Valuenex: VALUENEX Big Data Visualization Award ($1k Amazon Gift Card)
-- **How it used Otsuka / VALUENEX:** Sponsor use not stated on Devpost Prize: $1k Amazon Gift Card
+- **All prizes at this hackathon (1):** Otsuka Valuenex: VALUENEX Big Data Visualization Award
+- **How it used Otsuka / VALUENEX:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1212,8 +1212,8 @@ Although intended primarily for political awareness, the tool can be used to ass
 - **Built with:** css, html, javascript, json, perplexity
 - **Code:** [Source 1](https://github.com/jcub-gold/TreeHacks_25_Project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kRgA_4Bvj5o)
-- **All prizes at this hackathon (1):** Perplexity: Best Search Hack ($250 Gift Card per team member + HQ visit)
-- **How it used Perplexity:** The project uses Perplexity for customized prompt responses. Prize: $250 Gift Card per team member + HQ visit
+- **All prizes at this hackathon (1):** Perplexity: Best Search Hack
+- **How it used Perplexity:** The project uses Perplexity for customized prompt responses.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1239,8 +1239,8 @@ Spielberg AI is an AI-powered video editor that allows creators to edit videos u
 - **Built with:** cuda, elevenlabs, fastapi, ffmpeg, gemini, googlegenai, huggingfacetransformers, langchain, lumalabs, next.js, openai-gpt, openai-whispr, opencv, tailwind
 - **Code:** [Source 1](https://github.com/adeng27/treehacks-25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EWgFPhaG48E)
-- **All prizes at this hackathon (1):** Rox: Best Agents Hack ($7k Cash)
-- **How it used Rox:** Sponsor use not stated on Devpost Prize: $7k Cash
+- **All prizes at this hackathon (1):** Rox: Best Agents Hack
+- **How it used Rox:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1268,8 +1268,8 @@ Control your computer with just your mind.
 - **Built with:** api, brainflow, firebase, huggingface, openai, openbci, python, pytorch, scrapybara
 - **Code:** [Source 1](https://github.com/nicolesplaining/treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3N0p7cLAVO4)
-- **All prizes at this hackathon (1):** Scrapybara: Capy Prize (Japan offsite + $1k credits + Scrapybara Pro 6 months &#91;1st&#93; &amp; $1k credits + Scrapybara Pro 3 months &#91;2nd&#93; &amp; $100 credits + Scrapybara Pro 1 month &#91;3rd&#93;)
-- **How it used Scrapybara:** NeuroPilot integrates neural and language data modalities with agentic workflows powered by Scrapybara. Prize: Japan offsite + $1k credits + Scrapybara Pro 6 months &#91;1st&#93; &amp; $1k credits + Scrapybara Pro 3 months &#91;2nd&#93; &amp; $100 credits + Scrapybara Pro 1 month &#91;3rd&#93;
+- **All prizes at this hackathon (1):** Scrapybara: Capy Prize
+- **How it used Scrapybara:** NeuroPilot integrates neural and language data modalities with agentic workflows powered by Scrapybara.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1297,8 +1297,8 @@ An accessible carbon removal assessment platform for Enhanced Rock Weathering (E
 - **Built with:** beautifulsoup4, crunchflow, docker, flask-(python), javascript, mapbox-api, open-meteo, qiskit-(python), selenium, soilgrid-api
 - **Code:** [Source 1](https://github.com/Jackal-Studios/rock-thing)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PkRRfLv6SxA)
-- **All prizes at this hackathon (1):** Sustainability Prize: Best solves the user's pain point of a provided challenge ($800 Cash)
-- **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost Prize: $800 Cash
+- **All prizes at this hackathon (1):** Sustainability Prize: Best solves the user's pain point of a provided challenge
+- **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1320,8 +1320,8 @@ A simple, transparent ecommerce platform for bargain produce that connects consu
 - **Built with:** dart, flutter, supabase
 - **Code:** [Source 1](https://github.com/twosodium/lemon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1pXlAKx7Xzo)
-- **All prizes at this hackathon (1):** Sustainability Prize: Best incorporation of broader context to enhance venture viability ($800 Cash)
-- **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost Prize: $800 Cash
+- **All prizes at this hackathon (1):** Sustainability Prize: Best incorporation of broader context to enhance venture viability
+- **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1474,8 +1474,8 @@ CyberDrive - Transforming driving footage into intelligent insights.
 - **Built with:** amazon, async, gemini, google, openai, opencv, python, pytorch
 - **Code:** [Source 1](https://github.com/KoaChang/CyberDrive)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BLKCyMwn-xY)
-- **All prizes at this hackathon (1):** Tesla: Excellence Prize ($2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;)
-- **How it used Tesla:** Sponsor use not stated on Devpost Prize: $2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;
+- **All prizes at this hackathon (1):** Tesla: Excellence Prize
+- **How it used Tesla:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1497,8 +1497,8 @@ HorizonX is a dual-purpose platform using !!on-device!! VLMs to empower blind pe
 - **Built with:** docker, javascript, nextjs, python, pytorch, react, webgpu
 - **Code:** [Source 1](https://github.com/bsflll/treehack2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dFowTJUub4U)
-- **All prizes at this hackathon (1):** Tesla: Excellence Prize ($2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;)
-- **How it used Tesla:** Sponsor use not stated on Devpost Prize: $2k Tesla Store Gift Card &#91;1st&#93;, $1k Gift Card &#91;2nd&#93;, $1k Gift Card &#91;3rd&#93;
+- **All prizes at this hackathon (1):** Tesla: Excellence Prize
+- **How it used Tesla:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1524,8 +1524,8 @@ Lumora is a Personal Assistant Marketplace. No need to manually set meetings or 
 - **Built with:** groq, next.js, perplexity-api, supabase, tailwindcss, typescript, v0.dev, zoom-api
 - **Code:** [Source 1](https://github.com/ShaneYokota72/Lumora)
 - **Demo video:** None listed.
-- **All prizes at this hackathon (1):** Vercel: Most Creative Use of Vercel/v0 in Edge AI track ($1.2k in Vercel Pro Credits)
-- **How it used Vercel:** Sponsor use not stated on Devpost Prize: $1.2k in Vercel Pro Credits
+- **All prizes at this hackathon (1):** Vercel: Most Creative Use of Vercel/v0 in Edge AI track
+- **How it used Vercel:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1551,8 +1551,8 @@ Indoor navigation for the visually impaired, made easy.
 - **Built with:** arduino, clip, edge, embedding, groq, healthcare, llms, meta-rayban, metaraybans, navigation, python, typescript, vespa, vlms
 - **Code:** [Source 1](https://github.com/flatypus/miru)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kjCsRmlAYiY)
-- **All prizes at this hackathon (1):** Vespa.ai: Best Hack Using a Vision Language Model ($500 Amazon gift card per team member)
-- **How it used Vespa.ai:** The team stored vectors in a database using Vespa AI. Prize: $500 Amazon gift card per team member
+- **All prizes at this hackathon (1):** Vespa.ai: Best Hack Using a Vision Language Model
+- **How it used Vespa.ai:** The team stored vectors in a database using Vespa AI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1605,8 +1605,8 @@ An AI code agent tool that integrates live browser session context for smarter c
 - **Built with:** cascade, chroma, codeium, css3, fastapi, html5, javascript, mistral, mpc, perplexity, python, rag, react, sonar, structuredoutputs, windsurf
 - **Code:** [Source 1](https://github.com/ekang7/PulseAI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wFDW0y9zVGU)
-- **All prizes at this hackathon (1):** Codeium: Best Use of Windsurf ($1k Cash + 1-Year Windsurf + Codeium Subscription)
-- **How it used Windsurf:** The project uses retrieval augmented generation for AI-assisted coding in Codeium’s Windsurf-Cascade editor. Prize: $1k Cash + 1-Year Windsurf + Codeium Subscription
+- **All prizes at this hackathon (1):** Codeium: Best Use of Windsurf
+- **How it used Windsurf:** The project uses retrieval augmented generation for AI-assisted coding in Codeium’s Windsurf-Cascade editor.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1634,8 +1634,8 @@ HiveMind: Your Second Brain for Smarter Learning.
 - **Built with:** api, chromadb, flask, gemini, intersystems, nextjs, perplexity, python, sonar, streamlit, superbase, three.js, typescript, vector-embedding, vespa, zoom
 - **Code:** [Source 1](https://github.com/AahilAliCodes/Hivemind2) · [Source 2](https://github.com/rajashekarcs2023/HiveMind) · [Source 3](https://github.com/rajashekarcs2023/knowledge-balance-network)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=krXZVuJfAOQ)
-- **All prizes at this hackathon (1):** Education Grand Prize ($1k Cash + Meta Ray Ban Smart Glasses x4 + Marine Layer Zoom Hoodie x4)
-- **How it used Zoom:** Sponsor use not stated on Devpost Prize: $1k Cash + Meta Ray Ban Smart Glasses x4 + Marine Layer Zoom Hoodie x4
+- **All prizes at this hackathon (1):** Education Grand Prize
+- **How it used Zoom:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1657,8 +1657,8 @@ AI-powered lecture companion: Transforms speech into real-time visualizations, i
 - **Built with:** bash, gemini, html/css, javascript, ngrok, node.js, openai, p5.js, perplexity, playwrightapi, postman, python, react, zoomapi
 - **Code:** [Source 1](https://github.com/arushisharmaa/stanford-tree-hacks-)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m_1f7-KvGmQ)
-- **All prizes at this hackathon (1):** Zoom: Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;)
-- **How it used Zoom:** The project uses Zoom’s Calendar API to populate it with students’ calendar data. Prize: $250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;
+- **All prizes at this hackathon (1):** Zoom: Best Use of Zoom APIs
+- **How it used Zoom:** The project uses Zoom’s Calendar API to populate it with students’ calendar data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1680,8 +1680,8 @@ Zoned out during a lecture? Your very own lecture buddy is here to save you.
 - **Built with:** chromadb, colpali, openai, rtms, vlm, zoom-api
 - **Code:** [Source 1](https://github.com/NxtGenLegend/TreeHacks-ZoneOut)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Be4lfvVzMRQ)
-- **All prizes at this hackathon (1):** Zoom: Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;)
-- **How it used Zoom:** The project uses the Zoom API to connect its client to a Real-Time Media Server. Prize: $250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;
+- **All prizes at this hackathon (1):** Zoom: Best Use of Zoom APIs
+- **How it used Zoom:** The project uses the Zoom API to connect its client to a Real-Time Media Server.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

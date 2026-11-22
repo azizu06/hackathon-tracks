@@ -30,9 +30,9 @@ Type faster with less mistakes using bigram latency data.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Happy Hacking Keyboard: Type Beyond - Rethinking Interaction Through the Keyboard | Build a new experience where the keyboard is the primary medium of interaction, enabling new ways to create, play, communicate, or explore. | [Devpost prize description](https://la-hacks-2026.devpost.com/) |
 

@@ -30,9 +30,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516p
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | fish.audio: Best use of Fish Audio | Fish Audio | [Track label](https://cal-hacks-12-0.devpost.com/) |
 

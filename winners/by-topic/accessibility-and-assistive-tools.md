@@ -109,7 +109,7 @@ A wearable gives deaf and hard-of-hearing users visual and tactile cues about su
 
 ### [Keryx](https://devpost.com/software/keryx-k49dta)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-keryx-k49dta)<br>[Human Capital](../by-sponsor/human-capital.md) · **Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-keryx-k49dta)<br>[Human Capital](../by-sponsor/human-capital.md) · **Human Capital Fellowship Prize**
 
 Drones map real buildings in minutes, creating AI-operable world models where assistive agents navigate and search for locations (ex. food, elevator). Provides on-demand street view.
 

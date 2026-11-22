@@ -74,11 +74,11 @@ Nova is an automated email assistant that intelligently processes incoming email
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;The Interaction Company of California&#93; Build with Poke (Challenge 1: iPhone Air for everyone in the team Challenge 2: iPhone 17 Pro for everyone in the team Challenge 3: iPhone Air for everyone in the team Bonus: up to $100k in cash) | Poke | [Track label](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;The Interaction Company of California&#93; Build with Poke | Poke | [Track label](https://treehacks-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Interaction Company: Best MCP Automation | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Interaction Company: Build AI Agents that Proactively Handle Your Email! | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 

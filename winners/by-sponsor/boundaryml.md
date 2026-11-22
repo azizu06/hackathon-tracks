@@ -40,9 +40,9 @@ PlzFix.ai is an all-in-one AI platform designed to provide devs with tailored an
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | BoundaryML - Best use of Agents using BAML | Agents using BAML | [Track label](https://mhacks-2024.devpost.com/) |
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | BoundaryML - Best use of LLM Agents | LLM Agents | [Track label](https://mhacks-2024.devpost.com/) |

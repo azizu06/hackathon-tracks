@@ -30,9 +30,9 @@ A website to help Atlanta residents and visitors stay safe during first-time mee
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) | Best AI for Human Safety by SafetyKit | No specific requirement captured | [Event prize rules](https://hacklytics-2026.devpost.com/) |
 

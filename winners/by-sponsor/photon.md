@@ -140,9 +140,9 @@ Your protections know it's you. Titan detects scammer-coached account changes, p
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) | Build a Messaging Agent with Photon 2.0 | Build an agent that lives where people already talk. | [Devpost prize description](https://hackharvard2026.devpost.com/) |
 | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) | &#91;Photon&#93; Best Voice Agent | No specific requirement captured | [Event prize rules](https://hackprinceton-fall-26.devpost.com/) |

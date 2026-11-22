@@ -82,12 +82,12 @@ Pawn Up: Your Personal AI Chess Coach—Analyze, Train, and Master Chess on Your
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Chroma: Best AI application using Chroma | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Chroma: Best Chroma Cloud AI Application ($200 per team member) | Build an AI application with Chroma Cloud. | [Devpost prize description](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Chroma: Best Chroma Cloud AI Application | Build an AI application with Chroma Cloud. | [Devpost prize description](https://treehacks-2025.devpost.com/) |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Chroma: Build your project with Chroma in an AI application | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Chroma: Retrieval for AI | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 

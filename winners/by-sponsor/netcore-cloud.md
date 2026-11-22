@@ -30,9 +30,9 @@ No public code linked · [Demo video](https://vimeo.com/1182382881) · Built wit
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | Best Use of Netcore - Netcore | Netcore - Netcore | [Track label](https://bitcamp-2026.devpost.com/) |
 

@@ -30,9 +30,9 @@ It guarantees you the best line for your sales pitch, the smoothest rizz for you
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Most Wacky Hack (presented by Wordware) | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 

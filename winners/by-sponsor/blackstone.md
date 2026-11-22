@@ -30,9 +30,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXu
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) | Blackstone | Build a product that reimagines how investors understand their current investments and research new opportunities. | [Devpost prize description](https://shellhacks-2026.devpost.com/) |
 

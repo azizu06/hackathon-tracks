@@ -42,9 +42,9 @@ The team are a decentralized API key sharing intermediary service.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) | &#91;1Password&#93; Best Security Hack | No specific requirement captured | [Event prize rules](https://nwhacks-2026.devpost.com/) |
 | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | 1Password Sponsor Prize | Build a creative security-focused hackathon project that keeps simplicity and usability at its core. | [Devpost prize description](https://nwhacks-2025.devpost.com/) |

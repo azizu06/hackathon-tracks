@@ -19,7 +19,7 @@
 
 ### [Snappier](https://devpost.com/software/snappier)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-snappier) · **Best Use of Vercel/Best Deployed on Vercel (2k cash prize + $2.4k in Pro-level access credits**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-snappier) · **Best Use of Vercel/Best Deployed on Vercel**
 
 Show Snappier your workflow once by recording your screen. AI figures out what you did and why, then automates it across any connected app.
 
@@ -42,12 +42,12 @@ Lumora is a Personal Assistant Marketplace. No need to manually set meetings or 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Vercel&#93; Best Use of Vercel/Best Deployed on Vercel (2k cash prize + $2.4k in Pro-level access credits ($100/month for 4 winners, access for 6 months.) | Vercel/Best Deployed on Vercel | [Track label](https://treehacks-2026.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Vercel: Most Creative Use of Vercel/v0 in Edge AI track ($1.2k in Vercel Pro Credits) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Vercel&#93; Best Use of Vercel/Best Deployed on Vercel | Vercel/Best Deployed on Vercel | [Track label](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Vercel: Most Creative Use of Vercel/v0 in Edge AI track | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
 

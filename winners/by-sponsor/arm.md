@@ -60,9 +60,9 @@ Location-based transaction validation using arm-based cloud computing for end-to
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Best Use of Arm | Arm | [Track label](https://hackharvard-2025.devpost.com/) |
 | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | MLH - Best Use of Arm | Arm | [Track label](https://hacknyu-fall-2025.devpost.com/) |

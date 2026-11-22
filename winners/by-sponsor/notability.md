@@ -110,9 +110,9 @@ A navigation aid gives visually impaired users real-time scene feedback through 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Notability&#93; Best Use of Notability | Notability | [Track label](https://cal-hacks-13-0.devpost.com/) |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | Notability: Trust the Process | No specific requirement captured | [Event prize rules](https://hackgt13.devpost.com/) |

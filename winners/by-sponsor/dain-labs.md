@@ -80,12 +80,12 @@ Less paperwork, more patient care: the AI therapist's assistant.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | DAIN Challenge: AI Agent Excellence &amp; Innovation Awards | Use the DAIN platform and Butterfly client app to rapidly develop and deploy AI agent services for consumers or businesses. | [Devpost prize description](https://la-hacks-2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | DAIN Labs: AI Agent Excellence &amp; Innovation Awards | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
 

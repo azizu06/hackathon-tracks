@@ -72,13 +72,13 @@ Ever lost your keys? Forgot if you turned off the oven.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Codegen: Best Code Analysis Application ($1.5k Cash) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Codegen: Best Code Generation Application ($1.5k Cash) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Codegen: Best Developer Tool ($1.5k Cash) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Codegen: Best Code Analysis Application | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Codegen: Best Code Generation Application | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Codegen: Best Developer Tool | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Codegen: Build an Iron Man suit for ChatGPT | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 
 </details>

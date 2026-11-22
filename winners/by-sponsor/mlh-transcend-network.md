@@ -30,9 +30,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopS
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;MLH&#93; Commit Fellowship | No specific requirement captured | [Event prize rules](https://cal-hacks-13-0.devpost.com/) |
 

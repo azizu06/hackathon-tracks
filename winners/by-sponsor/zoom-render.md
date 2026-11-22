@@ -19,7 +19,7 @@
 
 ### [jiggle wiggle](https://devpost.com/software/jiggle-wiggle)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle) · **Best use of Zoom APIs + Render:**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle) · **Best use of Zoom APIs + Render**
 
 Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
 
@@ -30,11 +30,11 @@ Jiggle Wiggle is a real-time AI movement coach that works with three input modes
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Zoom x Render&#93; Best use of Zoom APIs + Render: (Bose Headphones x 4 Zoom Ocean Bottle x 4$2000 Render Credits) | Zoom APIs + Render: | [Track label](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Zoom x Render&#93; Best use of Zoom APIs + Render | Zoom APIs + Render: | [Track label](https://treehacks-2026.devpost.com/) |
 
 </details>
 

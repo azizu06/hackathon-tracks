@@ -565,7 +565,7 @@ Life opens new doors. dor keeps old ones from closing, and helps you find your w
 
 ### [Edamame](https://devpost.com/software/m-4f2iwy)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-m-4f2iwy)<br>[Greylock](../by-sponsor/greylock.md) · **Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-m-4f2iwy)<br>[Greylock](../by-sponsor/greylock.md) · **Best multi-turn agent**
 
 Edamame creates AI clones of every employee by ingesting their Slack messages, Google Drive docs, Gmail threads, GitHub commits, Notion pages, and Jira tickets.
 
@@ -653,7 +653,7 @@ The autonomous back office for freight finance.
 
 ### [Gallop](https://devpost.com/software/gallop)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-gallop)<br>[Elastic](../by-sponsor/elastic.md) · **Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-gallop)<br>[Elastic](../by-sponsor/elastic.md) · **Best end-to-end Agentic system on Elasticsearch**
 
 Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity control platform that detects intrusion activity and converts security signals into immediate defensive actions.
 

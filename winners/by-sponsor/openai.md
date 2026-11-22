@@ -102,9 +102,9 @@ A monitoring system measures what people throw away and reports waste trends.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | OpenAI: API Prizes | Use the OpenAI API to build something ambitious, with Codex as your development teammate. | [Devpost prize description](https://hackthenorth2026.devpost.com/) |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |

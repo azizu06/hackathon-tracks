@@ -82,9 +82,9 @@ A Pomodoro timer that keeps you on track, summarizes your browsing, and turns st
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Cohere: Best Use of Cohere API | Cohere API | [Track label](https://hackthenorth2025.devpost.com/) |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Cohere: Best Use of Cohere | Cohere | [Track label](https://hackthenorth2024.devpost.com/) |

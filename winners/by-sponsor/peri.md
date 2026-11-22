@@ -50,9 +50,9 @@ A camera watches the ingredients, AI counts every item taken, and texts the owne
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) | &#91;Peri&#93; Forward Deployed Engineer | No specific requirement captured | [Event prize rules](https://hackprinceton-fall-26.devpost.com/) |
 

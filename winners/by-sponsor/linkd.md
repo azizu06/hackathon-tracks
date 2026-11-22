@@ -40,9 +40,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=vFeyw8tJbW
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | Linkd Challenge: Best Use of Linkd People Search | Linkd People Search | [Track label](https://la-hacks-2025.devpost.com/) |
 

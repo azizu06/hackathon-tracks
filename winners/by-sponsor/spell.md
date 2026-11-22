@@ -40,9 +40,9 @@ An accessible Google StreetView for the visually impaired through visceral scene
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best Spell API hack | Best use of the Spell API. | [Devpost prize description](https://hackmit-2018.devpost.com/) |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best Use of Deep Neural Networks | Deep Neural Networks | [Track label](https://hackmit-2018.devpost.com/) |

@@ -40,9 +40,9 @@ While official evacuation orders often come late and cover whole zones, Trace is
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) | Best Data-Driven Agent Built on Chalk | Build an agent that runs on real-world or contextual data, and prove it works. | [Devpost prize description](https://hackharvard2026.devpost.com/) |
 

@@ -92,13 +92,13 @@ Zoned out during a lecture? Your very own lecture buddy is here to save you.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Zoom&#93; Education Track | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Education Grand Prize ($1k Cash + Meta Ray Ban Smart Glasses x4 + Marine Layer Zoom Hoodie x4) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Zoom: Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;) | Zoom APIs | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Education Grand Prize | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Zoom: Best Use of Zoom APIs | Zoom APIs | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
 

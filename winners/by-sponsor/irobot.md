@@ -40,9 +40,9 @@ Use your favorite cleaning robot to transform the floor into a canvas for Mathem
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
 

@@ -50,9 +50,9 @@ A spatial awareness tool tracks objects and remembers their locations when they 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Hugging Face: Best Use of Open Source AI | Open-source AI | [Track label](https://knight-hacks-ix.devpost.com/) |
 

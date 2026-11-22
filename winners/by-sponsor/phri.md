@@ -30,9 +30,9 @@ Preventable medical errors like misdiagnosis are 38% more likely when a doctor i
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackGT 11 2024](../by-hackathon/hackgt-11-2024.md) | PHRI Challenge - 1st Place | No specific requirement captured | [Event prize rules](https://hackgt-11-circus-of-invention.devpost.com/) |
 

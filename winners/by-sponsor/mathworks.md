@@ -50,9 +50,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=PxOkQkR-gh
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackGT 11 2024](../by-hackathon/hackgt-11-2024.md) | Best Use of MATLAB | MATLAB | [Track label](https://hackgt-11-circus-of-invention.devpost.com/) |
 | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) | Best Use of MATLAB | MATLAB | [Track label](https://hackharvard-2024.devpost.com/) |

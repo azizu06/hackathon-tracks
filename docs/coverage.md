@@ -4,7 +4,7 @@
 
 How this index was built, which hackathon galleries it covers and where public sources fall short.
 
-Indexed **1,553 distinct projects**, **60 editions**, **379 sponsors** and **1,697 prize rows**.
+Indexed **1,553 winning projects**, **60 editions**, **379 sponsors** and **1,697 prize rows**.
 
 1,697 candidate award rows were found in the audited galleries. The candidate total includes one prize confirmed by its sponsor instead of a Devpost Winner label. Each indexed Devpost Winner label was confirmed on both the gallery and its project page.
 

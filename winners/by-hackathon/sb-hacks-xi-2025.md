@@ -9,7 +9,7 @@
 ## What winners have in common
 
 - **Most used tech:** aryn (4), singlestore (4), python (3), react (3), sycamore (3)
-- **Project areas:** Education and learning (3), Climate and environment (1)
+- **Project areas:** Education and learning (3), Climate and environment (2)
 - **Demo formats:** Web app or dashboard (4), Mobile app (1)
 - **Demo videos:** 6 of 8 winners link one
 
@@ -181,7 +181,7 @@ Also won this track: [VotEdu](#project-votedu-p2n806) (listed above)
 
 [Sauce Labs](../by-sponsor/sauce-labs.md) · **Sauce Labs Hot Sauce Raffle**
 
-Building NetZero was an incredible journey of growth and innovation.
+An app estimates carbon emissions from users’ logged activities and charts their footprint over time.
 
 [Code](https://github.com/SagnikBiswasDL/SBHacksShared2025) · [Demo video](https://www.youtube.com/watch?v=3oaDyCyiX6o) · Built with css, html, javascript, sql
 

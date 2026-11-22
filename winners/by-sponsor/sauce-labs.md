@@ -9,7 +9,7 @@
 ## What winners have in common
 
 - **Most used tech:** css (2), chatgpt (1), daisyui (1), html (1), javascript (1)
-- **Project areas:** None listed
+- **Project areas:** Climate and environment (1)
 - **Demo formats:** Web app or dashboard (1)
 - **Demo videos:** 2 of 2 winners link one
 
@@ -21,7 +21,7 @@
 
 [SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md#project-netzero-ie1d27) · **Sauce Labs Hot Sauce Raffle**
 
-Building NetZero was an incredible journey of growth and innovation.
+An app estimates carbon emissions from users’ logged activities and charts their footprint over time.
 
 **How it used Sauce Labs:** Sponsor use not stated on Devpost
 
@@ -42,9 +42,9 @@ Find useful information about subreddits with a few clicks.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md) | MLH - Sauce Labs Hot Sauce Raffle | No specific requirement captured | [Event prize rules](https://sb-hacks-xi.devpost.com/) |
 | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) | Sauce Labs Hot Sauce Raffle | No specific requirement captured | [Event prize rules](https://hackharvard-2024.devpost.com/) |

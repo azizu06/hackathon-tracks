@@ -42,9 +42,9 @@ No public code linked · Built with firebase, flask, machine-learning, pandas
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best Use of BNP Paribas APIs | BNP Paribas APIs | [Track label](https://hackmit-2018.devpost.com/) |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Most Insightful Hack (BNP Paribas) | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |

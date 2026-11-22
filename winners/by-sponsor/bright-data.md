@@ -112,12 +112,12 @@ Defend against suspicious charges before they even reach your account, utilizing
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data | No specific requirement captured | [Event prize rules](https://cal-hacks-13-0.devpost.com/) |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Bright Data&#93; Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Bright Data&#93; Best AI-Powered Web Data Hack | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | The Bright Data: Best Use of Bright Data | Bright Data | [Track label](https://cal-hacks-12-0.devpost.com/) |
 
 </details>

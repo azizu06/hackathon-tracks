@@ -50,9 +50,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=baX5qnjcYc
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | World U: Build for the future of the internet with World | Build a Mini App with MiniKit or use IDKit to create a product for real humans on the internet. | [Devpost prize description](https://la-hacks-2026.devpost.com/) |
 

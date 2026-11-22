@@ -2,7 +2,7 @@
 
 # Climate and environment
 
-**43 winning projects** · 26 hackathons
+**44 winning projects** · 26 hackathons
 
 Matched from keywords in the project description.
 
@@ -10,10 +10,10 @@ Matched from keywords in the project description.
 
 ## What winners have in common
 
-- **Most used tech:** python (20), react (18), javascript (13), node.js (13), typescript (12)
-- **Project areas:** Climate and environment (43), Finance and commerce (4), Accessibility and assistive tools (1)
+- **Most used tech:** python (20), react (18), javascript (14), node.js (13), typescript (12)
+- **Project areas:** Climate and environment (44), Finance and commerce (4), Accessibility and assistive tools (1)
 - **Demo formats:** Web app or dashboard (12), Hardware or robotics (3), Mobile app (3)
-- **Demo videos:** 33 of 43 winners link one
+- **Demo videos:** 34 of 44 winners link one
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
@@ -212,6 +212,14 @@ EcoFin Carbon calculates and visualizes the carbon footprint of your financial t
 A simple, transparent ecommerce platform for bargain produce that connects consumers and businesses with local farmers to reduce food waste and fight climate change.
 
 [Code](https://github.com/twosodium/lemon) · [Demo video](https://www.youtube.com/watch?v=1pXlAKx7Xzo) · Built with dart, flutter, supabase
+
+### [NetZero](https://devpost.com/software/netzero-ie1d27)
+
+[SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md#project-netzero-ie1d27)<br>[Sauce Labs](../by-sponsor/sauce-labs.md) · **Sauce Labs Hot Sauce Raffle**
+
+An app estimates carbon emissions from users’ logged activities and charts their footprint over time.
+
+[Code](https://github.com/SagnikBiswasDL/SBHacksShared2025) · [Demo video](https://www.youtube.com/watch?v=3oaDyCyiX6o) · Built with css, html, javascript, sql
 
 ### [PUSHPA - Pyro UAV System for High-risk Patrol and Alerting](https://devpost.com/software/pushpa-pyro-uav-system-for-high-risk-patrol-and-alerting)
 

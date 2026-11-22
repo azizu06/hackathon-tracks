@@ -30,9 +30,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0LENXMAW3C
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Hume: Best use of emotionally intelligent voice AI | emotionally intelligent voice AI | [Track label](https://cal-hacks-11-0.devpost.com/) |
 

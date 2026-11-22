@@ -30,11 +30,11 @@ interactive multimodal AI experiences for neurodivergent learners run entirely o
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Orbstack: Best Use of Rust ($1k Cash) | Rust | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Orbstack: Best Use of Rust | Rust | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
 

@@ -42,9 +42,9 @@ Siri if it actually worked on your Mac.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Graphite&#93; Most Likely to get Acquired by a Sponsor (OB–4 black bluetooth speaker) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Graphite: Engineering Dream Team | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |

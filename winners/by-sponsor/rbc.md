@@ -106,9 +106,9 @@ No public code linked · Built with axios, azure, express.js, node.js
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | RBC: Signal in the Noise | Build the infrastructure that scales—no shortcuts, no excuses. | [Devpost prize description](https://hackthenorth2026.devpost.com/) |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | RBC: RBC InvestEase - Investing for the Future | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |

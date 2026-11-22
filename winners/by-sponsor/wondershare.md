@@ -30,9 +30,9 @@ Nuggetmon is a desktop application designed to gamify productivity! With the hel
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | Wondershare Sponsor Prize | No specific requirement captured | [Event prize rules](https://nwhacks-2025.devpost.com/) |
 

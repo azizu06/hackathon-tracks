@@ -40,9 +40,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=yy6YSp-quu
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Build the Financial Revolution on Algorand | No specific requirement captured | [Event prize rules](https://hackmit-2019.devpost.com/) |
 

@@ -72,15 +72,15 @@ A simple, transparent ecommerce platform for bargain produce that connects consu
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Stanford Ecopreneurship&#93; Sustainability: Best prototyping process | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Sustainability Prize: Best incorporation of broader context to enhance venture viability ($800 Cash) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Sustainability Prize: Best prototyping process ($800 Cash) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Sustainability Prize: Best solves the user's pain point of a provided challenge ($800 Cash) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Sustainability Prize: Best incorporation of broader context to enhance venture viability | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Sustainability Prize: Best prototyping process | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Sustainability Prize: Best solves the user's pain point of a provided challenge | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
 

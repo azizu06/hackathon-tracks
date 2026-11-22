@@ -122,9 +122,9 @@ A dining-hall dashboard helps chefs measure which meals produce the most plate w
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;MLH&#93; Best Use of Snowflake API | Snowflake API | [Track label](https://cal-hacks-13-0.devpost.com/) |
 | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) | &#91;MLH&#93; Best Use of Snowflake API | Snowflake API | [Track label](https://hacklytics-2026.devpost.com/) |

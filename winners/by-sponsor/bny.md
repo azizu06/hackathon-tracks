@@ -62,9 +62,9 @@ Using SQL, OpenAI, Flask to detect and report suspicious transactions.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | BNY: Financial Services Challenge | No specific requirement captured | [Event prize rules](https://knight-hacks-ix.devpost.com/) |
 | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | BNY AI-powered Financial Fraud Detection System | No specific requirement captured | [Event prize rules](https://shellhacks2024.devpost.com/) |

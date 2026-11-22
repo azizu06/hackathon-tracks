@@ -30,9 +30,9 @@ ScholarFlow makes it easy to find research papers and professors.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Beginner Hack | No specific requirement captured | [Event prize rules](https://pennapps-xxv.devpost.com/) |
 

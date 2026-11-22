@@ -50,11 +50,11 @@ A non-invasive wearable using novel thermoregulation research to provide precise
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Scrapybara: Capy Prize (Japan offsite + $1k credits + Scrapybara Pro 6 months &#91;1st&#93; &amp; $1k credits + Scrapybara Pro 3 months &#91;2nd&#93; &amp; $100 credits + Scrapybara Pro 1 month &#91;3rd&#93;) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Scrapybara: Capy Prize | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
 

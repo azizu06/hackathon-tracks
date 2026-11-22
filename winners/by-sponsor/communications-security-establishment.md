@@ -104,9 +104,9 @@ A vulnerability scanner and WiFi penetration tool, using Raspberry Pi. Designed 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | CSE: Log &amp; Order | No specific requirement captured | [Event prize rules](https://hackthenorth2026.devpost.com/) |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | CSE: Network Traffic Exploration | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |

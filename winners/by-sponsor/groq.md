@@ -132,14 +132,14 @@ The WiLi Watch is an innovative, interactive wearable wristband designed to enab
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Groq: Best Use of Groq | Groq | [Track label](https://cal-hacks-12-0.devpost.com/) |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Groq | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
 | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | Best of Groq | Build a creative and interactive multimodal app powered by Groq. | [Devpost prize description](https://la-hacks-2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Groq: Best on Groq Multimodal App Challenge ($1,000 of Groq Swag Store Credit) | Build a creative and interactive multimodal app powered by Groq. | [Devpost prize description](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Groq: Best on Groq Multimodal App Challenge | Build a creative and interactive multimodal app powered by Groq. | [Devpost prize description](https://treehacks-2025.devpost.com/) |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Groq: The Best on Groq | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Groq: Best App Built on Groq | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | Groq - Best App Built on Groq | No specific requirement captured | [Event prize rules](https://mhacks-2024.devpost.com/) |

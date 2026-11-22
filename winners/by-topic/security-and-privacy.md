@@ -85,7 +85,7 @@ Fire Drill runs invoice fraud against an accounts-payable agent as a drill , by 
 
 ### [Gallop](https://devpost.com/software/gallop)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-gallop)<br>[Elastic](../by-sponsor/elastic.md) · **Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-gallop)<br>[Elastic](../by-sponsor/elastic.md) · **Best end-to-end Agentic system on Elasticsearch**
 
 Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity control platform that detects intrusion activity and converts security signals into immediate defensive actions.
 

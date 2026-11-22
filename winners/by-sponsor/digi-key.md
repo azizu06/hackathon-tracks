@@ -40,9 +40,9 @@ A machine learning application that alerts users of unattended leaky or running 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md) | Best Hardware Hack Sponsored by Digi-Key | No specific requirement captured | [Event prize rules](https://code-for-good.devpost.com/) |
 

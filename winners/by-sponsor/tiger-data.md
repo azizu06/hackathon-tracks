@@ -110,9 +110,9 @@ By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;MLH&#93; Best Use of Tiger Data | Tiger Data | [Track label](https://cal-hacks-13-0.devpost.com/) |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | MLH: Best Use of Tiger Data | Tiger Data | [Track label](https://hackgt13.devpost.com/) |

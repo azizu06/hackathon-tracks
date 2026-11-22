@@ -50,11 +50,11 @@ The adventure is filled with grade-level vocabulary to hit comprehension goals, 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Flutterflow: Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;) | FlutterFlow | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Flutterflow: Best Use of FlutterFlow | FlutterFlow | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
 

@@ -50,9 +50,9 @@ Veritas is a Chrome extension that fact-checks YouTube videos in real time. It e
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Arista Networks: Connect the Dots Challenge | Build a web, mobile, or desktop application that successfully connects people to resources, or routes useful data to solve a problem in daily life. | [Devpost prize description](https://la-hacks-2026.devpost.com/) |
 

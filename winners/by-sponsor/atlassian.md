@@ -50,9 +50,9 @@ An operating environment isolates each AI agent task in a separate Linux user an
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Atlassian&#93; Best Agent / Best Security Solution for Agents | No specific requirement captured | [Event prize rules](https://cal-hacks-13-0.devpost.com/) |
 

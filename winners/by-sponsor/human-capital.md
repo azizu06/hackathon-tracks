@@ -19,7 +19,7 @@
 
 ### [Freak in the Sheets](https://devpost.com/software/freak-in-the-sheets-7jl542)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-freak-in-the-sheets-7jl542) · **Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-freak-in-the-sheets-7jl542) · **Human Capital Fellowship Prize**
 
 The hot new LLVM backend: compile your code to a spreadsheet.
 
@@ -29,7 +29,7 @@ The hot new LLVM backend: compile your code to a spreadsheet.
 
 ### [Keryx](https://devpost.com/software/keryx-k49dta)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-keryx-k49dta) · **Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-keryx-k49dta) · **Human Capital Fellowship Prize**
 
 Drones map real buildings in minutes, creating AI-operable world models where assistive agents navigate and search for locations (ex. food, elevator). Provides on-demand street view.
 
@@ -39,7 +39,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=rzGvQOiOc8
 
 ### [OnTab](https://devpost.com/software/ontab)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-ontab) · **Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-ontab) · **Human Capital Fellowship Prize**
 
 The biggest lesson was that the right level of AI autonomy depends on the domain.
 
@@ -50,11 +50,11 @@ The biggest lesson was that the right level of AI autonomy depends on the domain
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total)) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Human Capital&#93; Human Capital Fellowship Prize | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 
 </details>
 

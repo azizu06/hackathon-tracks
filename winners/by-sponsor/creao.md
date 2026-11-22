@@ -102,9 +102,9 @@ Real-time map for community events around you.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Creao AI&#93; Best AI-First Disruptor | No specific requirement captured | [Event prize rules](https://cal-hacks-13-0.devpost.com/) |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Creao AI&#93; Best One-Person Company | No specific requirement captured | [Event prize rules](https://cal-hacks-13-0.devpost.com/) |

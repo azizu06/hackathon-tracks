@@ -62,9 +62,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Adobe: Prettiest Hack | No specific requirement captured | [Event prize rules](https://knight-hacks-ix.devpost.com/) |
 | [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md) | Most Creative Adobe Express Add-On | Build an Adobe Express add-on this weekend for a chance to win a Wacom Wireless Drawing Tablet and JBL Go3 Speaker for you and each member of your team. | [Devpost prize description](https://yhack.devpost.com/) |

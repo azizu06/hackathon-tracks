@@ -52,9 +52,9 @@ Using brain activity to make the world more accessible to those with mobility di
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) | &#91;Justin Bojarski&#93; Best Physical AI Hack | No specific requirement captured | [Event prize rules](https://hackprinceton-fall-26.devpost.com/) |
 

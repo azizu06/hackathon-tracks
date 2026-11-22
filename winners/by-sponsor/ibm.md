@@ -104,9 +104,9 @@ No public code linked · Built with ibm, ibm-watson, bluemix, google-image-searc
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best IBM Disaster Preparedness &amp; Relief Solutions | No specific requirement captured | [Event prize rules](https://hackmit-2019.devpost.com/) |
 | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best Use of IBM Visual Recognition | IBM Visual Recognition | [Track label](https://hackmit-2019.devpost.com/) |

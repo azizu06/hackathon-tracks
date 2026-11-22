@@ -50,9 +50,9 @@ A robot that plays Word Hunt on its own—powered by a jury-rigged 3D printer, c
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2025](../by-hackathon/mhacks-2025.md) | Best Use of MemryX Edge AI Accelerator | MemryX Edge AI Accelerator | [Track label](https://mhacks-2025.devpost.com/) |
 

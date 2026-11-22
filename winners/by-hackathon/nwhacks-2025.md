@@ -331,8 +331,8 @@ Patients over paperwork- physicians want make meaningful impact on patients but 
 - **Built with:** fastapi, netlify, react.js, supabase
 - **Code:** [Source 1](https://github.com/zelalemka/nwhacks_2025_chit_chart)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1tHKeyLVZSA)
-- **All prizes at this hackathon (2):** Glaive Any Open-Source LLM Prize ($2000) · Most Likely to Become a Successful Startup
-- **How it used Glaive:** Sponsor use not stated on Devpost Prize: $2000
+- **All prizes at this hackathon (2):** Glaive Any Open-Source LLM Prize · Most Likely to Become a Successful Startup
+- **How it used Glaive:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

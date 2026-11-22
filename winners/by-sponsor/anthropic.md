@@ -112,13 +112,13 @@ No public code linked · Built with html5, java, javascript, python
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Claude | Claude | [Track label](https://ai-hackathon-2026.devpost.com/) |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Anthropic&#93; Claude for Public Benefit | Claude | [Track label](https://cal-hacks-13-0.devpost.com/) |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Best Use of Claude Agent SDK ($2,500 in Claude Developer Platform credits) | Claude Agent SDK | [Track label](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Best Use of Claude Agent SDK | Claude Agent SDK | [Track label](https://treehacks-2026.devpost.com/) |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Claude: Best Use of Claude | Claude | [Track label](https://cal-hacks-12-0.devpost.com/) |
 

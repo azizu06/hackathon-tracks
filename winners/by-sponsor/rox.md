@@ -102,14 +102,14 @@ Spielberg AI is an AI-powered video editor that allows creators to edit videos u
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Rox: Best AI Agent | No specific requirement captured | [Event prize rules](https://hackthenorth2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Rox: Best Use of Rox | Rox | [Track label](https://cal-hacks-12-0.devpost.com/) |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Rox: Best AI Agent | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Rox: Best Agents Hack ($7k Cash) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Rox: Best Agents Hack | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
 

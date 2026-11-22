@@ -30,9 +30,9 @@ LangSketch is a visual agent builder that leverages Databricks for data processi
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Martian: LLM Routing with Martian | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
 

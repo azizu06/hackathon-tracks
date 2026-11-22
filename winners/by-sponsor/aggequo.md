@@ -30,9 +30,9 @@ CAMcogni consolidates a wide array of data sources—including camera feeds, IoT
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) | AggEquo: AI-Driven Worksite Productivity Metrics | No specific requirement captured | [Event prize rules](https://hacklytics2025.devpost.com/) |
 

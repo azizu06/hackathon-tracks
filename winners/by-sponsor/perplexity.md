@@ -62,13 +62,13 @@ Although intended primarily for political awareness, the tool can be used to ass
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Perplexity&#93; Best Use of Perplexity's Sonar API ($500 per team member and trip to Perplexity office) | Perplexity's Sonar API | [Track label](https://treehacks-2026.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Perplexity: Best Search Hack ($250 Gift Card per team member + HQ visit) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Perplexity: Hacking With Perplexity Award ($50 Gift Card per team member) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Perplexity&#93; Best Use of Perplexity's Sonar API | Perplexity's Sonar API | [Track label](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Perplexity: Best Search Hack | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Perplexity: Hacking With Perplexity Award | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
 

@@ -82,9 +82,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=mRfVJjCFLf
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Most Innovative use of Synaptics Fingerprint Sensor | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Most Innovative use of Synaptics Large Touch Sensor | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |

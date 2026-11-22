@@ -246,9 +246,9 @@ No public code linked
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | &#91;MLH&#93; Best Use of MongoDB | MongoDB | [Track label](https://hack-brown-2026.devpost.com/) |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | MLH: Best Use of MongoDB Atlas | MongoDB Atlas | [Track label](https://hackgt13.devpost.com/) |

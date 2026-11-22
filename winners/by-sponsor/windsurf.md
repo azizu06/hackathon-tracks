@@ -60,12 +60,12 @@ An AI code agent tool that integrates live browser session context for smarter c
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Windsurf: Best Project built with Windsurf | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Codeium: Best Use of Windsurf ($1k Cash + 1-Year Windsurf + Codeium Subscription) | Windsurf | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Codeium: Best Use of Windsurf | Windsurf | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
 

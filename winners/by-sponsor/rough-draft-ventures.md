@@ -30,9 +30,9 @@ No public code linked · Built with capital-one, flask, meteor.js, mobile
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Rough Draft Ventures Prize | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 

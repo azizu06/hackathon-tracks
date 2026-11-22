@@ -42,9 +42,9 @@ No public code linked · Built with android, arduino, c++, hardware
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best Use of Location Data | Location Data | [Track label](https://hackmit-2018.devpost.com/) |
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Samsara - Best IoT Hack | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |

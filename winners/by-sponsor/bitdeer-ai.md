@@ -40,9 +40,9 @@ Autonomous security for the medical devices hospitals can't patch.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Bitdeer AI&#93; Best Use of Bitdeer AI Model Studio | Bitdeer AI Model Studio | [Track label](https://cal-hacks-13-0.devpost.com/) |
 

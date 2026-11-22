@@ -60,9 +60,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fn
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Ethereum Foundation: Best App Built on Ethereum, or an Ethereum L2 | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Ethereum Foundation: Honorable Mention | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |

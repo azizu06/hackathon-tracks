@@ -64,9 +64,9 @@ The app records audio secretly, and, using a deep-learning ML model, transcribes
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | Best Digital Forensics Related Hack - Cipher Tech Solutions | No specific requirement captured | [Event prize rules](https://bitcamp-2026.devpost.com/) |
 | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) | Best Digital Forensics Related Hack - Cipher Tech Solutions | No specific requirement captured | [Event prize rules](https://bitcamp2025.devpost.com/) |

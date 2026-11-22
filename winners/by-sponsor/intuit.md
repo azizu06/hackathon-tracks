@@ -42,9 +42,9 @@ A Pebble Smartwatch app which uses the Intuit Customer Account Data API to monit
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Intuit: Win a VR Headset! | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Intuit - API Innovation Award | No specific requirement captured | [Event prize rules](https://hackmit.devpost.com/) |

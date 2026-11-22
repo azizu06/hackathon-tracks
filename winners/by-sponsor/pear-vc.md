@@ -62,11 +62,11 @@ No public code linked · Built with opencv, python
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Pear VC: Best Customer Insights ($25k Unncapped SAFE + Office Hours w/ Partners &#91;1st&#93; &amp; Office Hours w/ Partners &#91;2nd&#93;) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Pear VC: Best Customer Insights | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best "Impossible" Hack | No specific requirement captured | [Event prize rules](https://hackmit-2018.devpost.com/) |
 
 </details>

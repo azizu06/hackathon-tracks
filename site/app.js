@@ -55,7 +55,7 @@ const projects = (window.TRACKS_CATALOG ?? []).map((project) => ({
   ].join(" ")),
 }));
 const sponsors = tally(projects, (project) => project.sponsors);
-const editions = tally(projects, (project) => project.event ? [project.edition] : []);
+const editions = new Set(projects.map((project) => project.editionId || project.edition).filter(Boolean));
 const options = {
   sponsor: { label: "All sponsors", values: sponsors },
   event: { label: "All hackathons", values: tally(projects, (project) => [project.event]) },
@@ -248,7 +248,7 @@ function showHackathonDirectory() {
   const rows = new Map();
   for (const project of projects) {
     if (!project.event) continue;
-    const key = normalize(project.edition);
+    const key = project.editionId || project.edition;
     if (!rows.has(key)) rows.set(key, { event: project.event, year: project.year, winners: 0, sponsors: new Set() });
     const row = rows.get(key);
     row.winners++;
@@ -618,7 +618,7 @@ if (!projects.length) {
   byId("load-error").hidden = false;
 } else {
   byId("catalog-stats").append(
-    stat("winning projects", projects.length), stat("sponsors", sponsors.length), stat("hackathons", editions.length),
+    stat("winning projects", projects.length), stat("sponsors", sponsors.length), stat("hackathon editions", editions.size),
   );
   for (const [key, { label, values }] of Object.entries(options)) {
     const ordered = [...values].sort((a, b) => key === "year"

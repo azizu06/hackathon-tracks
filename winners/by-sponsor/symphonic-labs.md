@@ -50,9 +50,9 @@ No public code linked · Built with figma, flask, react, symphonic
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Symphonic Labs: Best use of Symphonic Labs API | Symphonic Labs API | [Track label](https://hackthenorth2024.devpost.com/) |
 

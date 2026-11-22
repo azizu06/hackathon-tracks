@@ -19,7 +19,7 @@
 
 ### [aimogus](https://devpost.com/software/aimogus)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-aimogus) · **Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-aimogus) · **Best multi-turn agent**
 
 Can AI agents in multi-agent systems deceive, deduce, and stay aligned.
 
@@ -29,7 +29,7 @@ Can AI agents in multi-agent systems deceive, deduce, and stay aligned.
 
 ### [Edamame](https://devpost.com/software/m-4f2iwy)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-m-4f2iwy) · **Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-m-4f2iwy) · **Best multi-turn agent**
 
 Edamame creates AI clones of every employee by ingesting their Slack messages, Google Drive docs, Gmail threads, GitHub commits, Notion pages, and Jira tickets.
 
@@ -39,7 +39,7 @@ Edamame creates AI clones of every employee by ingesting their Slack messages, G
 
 ### [Power Lever](https://devpost.com/software/power-lever)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-power-lever) · **Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-power-lever) · **Best multi-turn agent**
 
 The team introduce three core technical contributions:.
 
@@ -50,11 +50,11 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erM
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Greylock&#93; Best multi-turn agent | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 
 </details>
 

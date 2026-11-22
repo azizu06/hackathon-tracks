@@ -30,9 +30,9 @@ CloseCalls uses the CARLA simulator in Unreal Engine 4 to generate realistic tra
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | ACM UCF | No specific requirement captured | [Event prize rules](https://knighthacksviii.devpost.com/) |
 

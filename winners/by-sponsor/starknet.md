@@ -50,9 +50,9 @@ The project creates a fungible blockchain token (a cryptocurrency) called "Exper
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best Use of Starknet - MLH | Starknet | [Track label](https://bitcamp2024.devpost.com/) |
 | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) | Best Use of Starknet | Starknet | [Track label](https://hack-brown-2024.devpost.com/) |

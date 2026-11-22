@@ -50,9 +50,9 @@ Secure, real-time protest coordination via encrypted mesh and AI insights.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Delve: Best Agentic Workflow (AirPods + Delve Founder Numbers + Onsite) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Delve: Most Intuitive UX (AirPods + Delve Founder Numbers + Onsite) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |

@@ -112,9 +112,9 @@ Memento helps elderly people connect with their families by reflecting on and sh
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Ripple: Best Use of XRP Ledger | XRP Ledger | [Track label](https://cal-hacks-12-0.devpost.com/) |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Ripple: Best in Ledger Award | Build a financial service MVP that leverages the XRP Ledger's core features to solve a real-world problem. | [Devpost prize description](https://hackthenorth2025.devpost.com/) |

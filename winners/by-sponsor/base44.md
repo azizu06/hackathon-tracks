@@ -30,9 +30,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2025](../by-hackathon/mhacks-2025.md) | Best integration with Base44 | No specific requirement captured | [Event prize rules](https://mhacks-2025.devpost.com/) |
 

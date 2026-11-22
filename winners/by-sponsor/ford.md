@@ -54,9 +54,9 @@ No public code linked · Built with google-streetview, javascript, leaflet.js, m
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2025](../by-hackathon/mhacks-2025.md) | Vision Alignment Tool presented by Ford | No specific requirement captured | [Event prize rules](https://mhacks-2025.devpost.com/) |
 | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best Ford Car Mobility Challenge Hack | No specific requirement captured | [Event prize rules](https://hackmit-2019.devpost.com/) |

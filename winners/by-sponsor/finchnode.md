@@ -50,9 +50,9 @@ A wearable AI agent that detects patterns in elder patients to provide life-savi
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2026](../by-hackathon/mhacks-2026.md) | FinchNode (HealthTech) | No specific requirement captured | [Event prize rules](https://mhacks-2026.devpost.com/) |
 

@@ -142,9 +142,9 @@ Bridging new F1 drivers and engineers with algorithmic strategy planning, real-t
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackTX 2026](../by-hackathon/hacktx-2026.md) | &#91;NMC2&#93; Build the Platform Behind the Agent | No specific requirement captured | [Event prize rules](https://hacktx26.devpost.com/) |
 | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | NMC^2 Track | No specific requirement captured | [Event prize rules](https://hackutd-zeroday.devpost.com/) |

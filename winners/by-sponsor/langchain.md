@@ -42,12 +42,12 @@ Plot delivers comprehensive insights on any location. Whether you're scouting in
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) | &#91;LangChain&#93; Best use of deepagents | deepagents | [Track label](https://hackprinceton-fall-26.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | LangChain: Best Use of LangChain (LangChain Swag Box, $250 LangSmith Credits, and access to LangGraph Cloud per team member) | LangChain | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | LangChain: Best Use of LangChain | LangChain | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
 

@@ -52,9 +52,9 @@ The system rethinks video compression by mirroring how the human eye perceives i
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Baseten: Best Use of Baseten | Baseten | [Track label](https://hackthenorth2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | BaseTen: Best Use of Open Source Models | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |

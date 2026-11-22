@@ -72,11 +72,11 @@ Therable offers a safe, smart way to track moods, recognize patterns, and provid
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Intersystems: Best Use of GenAI using InterSystems IRIS Vector Search ($2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;) | GenAI using InterSystems IRIS Vector Search | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Intersystems: Best Use of GenAI using InterSystems IRIS Vector Search | GenAI using InterSystems IRIS Vector Search | [Track label](https://treehacks-2025.devpost.com/) |
 | [HackTX 2024](../by-hackathon/hacktx-2024.md) | Best use of GenAI using InterSystems IRIS Vector Search | GenAI using InterSystems IRIS Vector Search | [Track label](https://hacktx-2024.devpost.com/) |
 
 </details>

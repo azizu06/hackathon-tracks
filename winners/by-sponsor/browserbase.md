@@ -90,13 +90,13 @@ TrAIde is the AI agent that sells your stuff for you. Just text a photo and pric
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Browserbase | Browserbase | [Track label](https://ai-hackathon-2026.devpost.com/) |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Browserbase: Best Use of Browserbase | Browserbase | [Track label](https://hackthenorth2026.devpost.com/) |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Browserbase&#93; Best Web Automation with Stagehand ($1,000) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Browserbase&#93; Best Web Automation with Stagehand | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 
 </details>
 

@@ -120,9 +120,9 @@ Agentic harness for efficient codebase refactoring.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Cognition | Cognition | [Track label](https://ai-hackathon-2026.devpost.com/) |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Cognition: Best Use of Devin | Devin | [Track label](https://hackthenorth2026.devpost.com/) |

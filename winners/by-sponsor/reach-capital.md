@@ -72,9 +72,9 @@ Accelerating clinical decision-making with AI-driven patient simulations, real-t
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md) | &#91;MLH&#93; Best Use of AI powered by Reach Capital | AI powered by Reach Capital | [Track label](https://hackduke-code-for-good-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | &#91;MLH&#93; Best Use of AI powered by Reach Capital | AI powered by Reach Capital | [Track label](https://cal-hacks-12-0.devpost.com/) |

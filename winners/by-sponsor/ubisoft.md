@@ -60,9 +60,9 @@ Sometimes online shopping can be dull, and most of all, turn away customers who 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Ubisoft: Ubisoft Game Dev Challenge | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 

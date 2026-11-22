@@ -30,9 +30,9 @@ Sandbox world of financial AI agents to help you learn trading.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) | &#91;Connor, Clark &amp; Lunn&#93; Best Financial Hack | No specific requirement captured | [Event prize rules](https://nwhacks-2026.devpost.com/) |
 

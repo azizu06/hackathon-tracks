@@ -37,7 +37,7 @@ A property planning tool lets builders compare potential sites, visualize projec
 
 ### [jiggle wiggle](https://devpost.com/software/jiggle-wiggle)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle)<br>[Modal](../by-sponsor/modal.md) · **Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp;…**<br>[Zoom / Render](../by-sponsor/zoom-render.md) · **Best use of Zoom APIs + Render:**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle)<br>[Modal](../by-sponsor/modal.md) · **Inference Track**<br>[Zoom / Render](../by-sponsor/zoom-render.md) · **Best use of Zoom APIs + Render**
 
 Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
 
@@ -45,7 +45,7 @@ Jiggle Wiggle is a real-time AI movement coach that works with three input modes
 
 ### [Snappier](https://devpost.com/software/snappier)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-snappier)<br>[Graphite](../by-sponsor/graphite.md) · **Most Likely to get Acquired by a Sponsor**<br>[Vercel](../by-sponsor/vercel.md) · **Best Use of Vercel/Best Deployed on Vercel (2k cash prize + $2.4k in Pro-level access credits**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-snappier)<br>[Graphite](../by-sponsor/graphite.md) · **Most Likely to get Acquired by a Sponsor**<br>[Vercel](../by-sponsor/vercel.md) · **Best Use of Vercel/Best Deployed on Vercel**
 
 Show Snappier your workflow once by recording your screen. AI figures out what you did and why, then automates it across any connected app.
 
@@ -93,7 +93,7 @@ A mobile finance prototype turns market events into short research tasks and wai
 
 ### [CareLink](https://devpost.com/software/carelink-k1pzeh)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-carelink-k1pzeh)<br>[Elastic](../by-sponsor/elastic.md) · **Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-carelink-k1pzeh)<br>[Elastic](../by-sponsor/elastic.md) · **Best end-to-end Agentic system on Elasticsearch**
 
 Voice AI with RAG-powered clinical reasoning that proactively detects post-surgical complications, alerts care providers before symptoms escalate, and prevents costly hospital readmissions.
 

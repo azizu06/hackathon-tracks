@@ -134,9 +134,9 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) | Assurant | No specific requirement captured | [Event prize rules](https://shellhacks-2026.devpost.com/) |
 | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) | Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems | No specific requirement captured | [Event prize rules](https://hacklytics2025.devpost.com/) |

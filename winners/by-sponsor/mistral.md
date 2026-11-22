@@ -30,11 +30,11 @@ Reflecting on your past work, relationships, and learning has never been easier.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Mistral: Best Use of Mistral AI API (AirPods x4 + $1,000 Cash + $1,000 API Credits) | Mistral AI API | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Mistral: Best Use of Mistral AI API | Mistral AI API | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
 

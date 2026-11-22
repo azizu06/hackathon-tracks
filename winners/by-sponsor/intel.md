@@ -80,9 +80,9 @@ Unlock the power of the command line with superMAN, an AI assistant that convert
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackTX 2024](../by-hackathon/hacktx-2024.md) | Best Use of Intel AI | Intel AI | [Track label](https://hacktx-2024.devpost.com/) |
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | Intel - 1st Place Best Use of Intel AI | Intel AI | [Track label](https://mhacks-2024.devpost.com/) |

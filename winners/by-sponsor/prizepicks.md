@@ -40,9 +40,9 @@ The team built a semi-automatic football tracking system that determines how far
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) | PrizePicks - Signal from the Noise | No specific requirement captured | [Event prize rules](https://hackgt-12.devpost.com/) |
 | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) | PrizePicks - The Second Screen Experience | No specific requirement captured | [Event prize rules](https://hackgt-12.devpost.com/) |

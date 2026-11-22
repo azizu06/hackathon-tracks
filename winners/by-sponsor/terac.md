@@ -52,9 +52,9 @@ Oversight is a political transparency platform that turns complex government dat
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of Terac | Terac | [Track label](https://ai-hackathon-2026.devpost.com/) |
 | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Best Consumer Hack by Terac | No specific requirement captured | [Event prize rules](https://hackharvard-2025.devpost.com/) |

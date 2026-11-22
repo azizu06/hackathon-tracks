@@ -82,9 +82,9 @@ A gateway for blind/visually impaired people to experience the world independent
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Cerebras: Best Use of Cerebras | Cerebras | [Track label](https://hackthenorth2025.devpost.com/) |
 | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) | Cerebus - Best use of Cerebras | Cerebras | [Track label](https://pennapps-xxvi.devpost.com/) |

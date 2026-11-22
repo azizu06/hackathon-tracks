@@ -40,9 +40,9 @@ Notefly is your real time online meeting note taker. See meeting transcript and 
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Agora: Best Innovation of TEN | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Agora: Best Practice of TEN | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |

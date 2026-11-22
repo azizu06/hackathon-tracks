@@ -19,7 +19,7 @@
 
 ### [CareLink](https://devpost.com/software/carelink-k1pzeh)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-carelink-k1pzeh) · **Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-carelink-k1pzeh) · **Best end-to-end Agentic system on Elasticsearch**
 
 Voice AI with RAG-powered clinical reasoning that proactively detects post-surgical complications, alerts care providers before symptoms escalate, and prevents costly hospital readmissions.
 
@@ -29,7 +29,7 @@ Voice AI with RAG-powered clinical reasoning that proactively detects post-surgi
 
 ### [Gallop](https://devpost.com/software/gallop)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-gallop) · **Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-gallop) · **Best end-to-end Agentic system on Elasticsearch**
 
 Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity control platform that detects intrusion activity and converts security signals into immediate defensive actions.
 
@@ -122,15 +122,15 @@ a cognition copilot that distills your thoughts from pen to perspective.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Elastic&#93; Best use of the Elastic Agent Builder on a Serverless Instance | the Elastic Agent Builder on a Serverless Instance | [Track label](https://cal-hacks-13-0.devpost.com/) |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Elastic: Find the Signal - Best Use of Elasticsearch | Elasticsearch | [Track label](https://hackthenorth2026.devpost.com/) |
-| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Elastic&#93; Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd Place: $1,000 (split across team members)) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
+| [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Elastic&#93; Best end-to-end Agentic system on Elasticsearch | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Elastic: Best use of the Elastic Agent Builder on a Serverless instance | the Elastic Agent Builder on a Serverless instance | [Track label](https://cal-hacks-12-0.devpost.com/) |
-| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Elastic: Best use of Elasticsearch Serverless ($2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;) | Elasticsearch Serverless | [Track label](https://treehacks-2025.devpost.com/) |
+| [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Elastic: Best use of Elasticsearch Serverless | Elasticsearch Serverless | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
 

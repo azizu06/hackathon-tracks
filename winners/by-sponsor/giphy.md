@@ -42,9 +42,9 @@ While Unity and Microsoft's UWP are powerful platforms, sometimes there can be p
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best Use of GIPHY API | GIPHY API | [Track label](https://hackmit-2018.devpost.com/) |
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |

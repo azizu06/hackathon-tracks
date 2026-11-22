@@ -82,9 +82,9 @@ Vestique, your AI wardrobe assistant, tracks your style and ensures no clothes g
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackDuke Code for Good 2025](../by-hackathon/hackduke-code-for-good-2025.md) | &#91;MLH&#93; Best Use of Streamlit | Streamlit | [Track label](https://hackduke-code-for-good-2025.devpost.com/) |
 | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) | MLH - Best Use of Streamlit | Streamlit | [Track label](https://hacklytics2025.devpost.com/) |

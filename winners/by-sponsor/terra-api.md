@@ -50,9 +50,9 @@ A non-invasive wearable using novel thermoregulation research to provide precise
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Healthcare Grand Prize (Meta Ray Ban Smart Glasses x4) and &#91;2nd place&#93; | Build the ultimate performance-enhancing hack inspired by Captain America’s legendary transformation. | [Devpost prize description](https://treehacks-2025.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Terra API: Health Command Center (Ultrahuman Air Ring per team member) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |

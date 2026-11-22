@@ -274,9 +274,9 @@ Step 1: AR Interaction: Users interact with a virtual marker (e.g., light switch
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) | Best use of Snap Lens Studio | Lens Studio | [Track label](https://yhack-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Snap: Best Use of Snap Spectacles | Snap Spectacles | [Track label](https://cal-hacks-12-0.devpost.com/) |

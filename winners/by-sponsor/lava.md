@@ -82,9 +82,9 @@ Real-time conversation assistant with AI-powered response suggestions and emotio
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) | Best use of Lava API | Lava API | [Track label](https://yhack-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Lava: Best Use of Lava Gateway | Lava Gateway | [Track label](https://cal-hacks-12-0.devpost.com/) |

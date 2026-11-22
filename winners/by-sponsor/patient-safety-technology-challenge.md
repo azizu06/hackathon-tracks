@@ -92,9 +92,9 @@ Real-time infection monitoring with moisture, temperature, and pH sensors.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) | Best Consumer-Driven Patient Safety Technology Track | No specific requirement captured | [Event prize rules](https://hack-brown-2025.devpost.com/) |
 | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) | Patient Safety Challenge: Sunrise (Hatch) Alarm Clock | No specific requirement captured | [Event prize rules](https://hackharvard-2024.devpost.com/) |

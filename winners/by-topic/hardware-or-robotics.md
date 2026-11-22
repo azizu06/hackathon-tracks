@@ -485,7 +485,7 @@ Solar powered buoys that track water quality 200x cheaper than the next closest 
 
 ### [Mirage](https://devpost.com/software/synsplatt)
 
-[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-synsplatt)<br>[Modal](../by-sponsor/modal.md) · **Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp;…**
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-synsplatt)<br>[Modal](../by-sponsor/modal.md) · **Inference Track**
 
 Robots and self-driving cars need training data. Mirage synthesizes 3D world-model training data covering hard-to-capture scenes - like driving in a hailstorm.
 
@@ -541,7 +541,7 @@ A rehab-game station where four agents filter, fact-check, decide and act, and s
 
 ### [Otto](https://devpost.com/software/dean-your-personal-agent-at-your-command)
 
-[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-dean-your-personal-agent-at-your-command)<br>[Composio](../by-sponsor/composio.md) · **6 months free subscription + $10k of credits for the 6 months**
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-dean-your-personal-agent-at-your-command)<br>[Composio](../by-sponsor/composio.md) · **6 months free subscription**
 
 All your apps, at your command. Just say the word and Otto already has it finished.
 

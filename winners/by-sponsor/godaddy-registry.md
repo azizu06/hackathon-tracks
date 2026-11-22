@@ -304,9 +304,9 @@ Want practice problems but LeetCode and HackerRank aren't enough? Sit Down and S
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | &#91;MLH&#93; Best Domain Name from GoDaddy Registry | GoDaddy Registry domain | [Track label](https://bitcamp-2026.devpost.com/) |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;MLH&#93; Best Domain Name from GoDaddy Registry | GoDaddy Registry domain | [Track label](https://cal-hacks-13-0.devpost.com/) |

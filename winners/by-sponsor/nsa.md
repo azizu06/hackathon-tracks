@@ -50,9 +50,9 @@ No public code linked · Built with ai, ml, python
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | NSA: Hearsay: The Audio Authentication Challenge - 1st Place | No specific requirement captured | [Event prize rules](https://hackgt13.devpost.com/) |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | NSA: Hearsay: The Audio Authentication Challenge - 2nd Place | No specific requirement captured | [Event prize rules](https://hackgt13.devpost.com/) |

@@ -30,9 +30,9 @@ A home assistant supports older adults with daily routines and keeps their famil
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Decagon&#93; Best Conversation Assistant (Nintendo Switch 2 Mario Kart World Bundle Guaranteed onsite interviews for internship) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 

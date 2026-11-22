@@ -70,9 +70,9 @@ The command center for ocean climate intervention. Simulate alkalinity deploymen
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) | ASUS Sustainability: Save the Earth | No specific requirement captured | [Event prize rules](https://hackharvard2026.devpost.com/) |
 | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | ASUS Company Challenge | No specific requirement captured | [Event prize rules](https://la-hacks-2026.devpost.com/) |

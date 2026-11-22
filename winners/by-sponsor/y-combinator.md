@@ -152,9 +152,9 @@ A gesture-first, AI-assisted 3D workspace where your hands craft the scene.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Y Combinator: Build an Iconic YC Company - 1st Place | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |

@@ -42,9 +42,9 @@ An Augmented Reality Powered Checkers Assistant.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Niantic Augmented Reality Prize | No specific requirement captured | [Event prize rules](https://hackmit-2019.devpost.com/) |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Niantic Augmented Reality Prize | No specific requirement captured | [Event prize rules](https://hackmit-2018.devpost.com/) |

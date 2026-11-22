@@ -50,9 +50,9 @@ No public code linked · Built with azure, javascript, next.js, node.js
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce | No specific requirement captured | [Event prize rules](https://bitcamp2024.devpost.com/) |
 

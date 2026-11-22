@@ -30,9 +30,9 @@ Quizzo uses OCR, AR, and voice commands to gamify the learning process, increase
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md) | Best use of DataStax Astra | DataStax Astra | [Track label](https://code-for-good.devpost.com/) |
 

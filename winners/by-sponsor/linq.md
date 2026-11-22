@@ -40,9 +40,9 @@ Play a game, shop for the party, or book an entire trip end to end. Whim puts cu
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Linq: Best Use of Linq | Linq | [Track label](https://hackthenorth2026.devpost.com/) |
 

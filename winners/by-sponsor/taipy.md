@@ -30,9 +30,9 @@ A large part of the weekend was spent exploring the various quantum algorithms.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best Use of Taipy - MLH | Taipy | [Track label](https://bitcamp2024.devpost.com/) |
 

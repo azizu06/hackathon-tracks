@@ -60,9 +60,9 @@ AI-native research engine to discover FDA-approved drug repurposing candidates f
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).) | Flash | [Track label](https://treehacks-2026.devpost.com/) |
 

@@ -12,6 +12,8 @@ Project entries link to Devpost and explain how the team used the sponsor's tech
 
 <!-- END coverage -->
 
+A winning project is one Devpost URL at one hackathon edition, identified by its event slug. The sponsor count includes distinct named sponsors. The `Other` group covers individual or unattributed prizes.
+
 **[Search every winner at tracks.azizu.dev](https://tracks.azizu.dev/)**
 
 <!-- BEGIN directory -->

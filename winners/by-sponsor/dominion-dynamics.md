@@ -50,9 +50,9 @@ Shadow Stalker is a secure program that commands an aerial fleet and multiple gr
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Dominion Dynamics: WHITEOUT | No specific requirement captured | [Event prize rules](https://hackthenorth2026.devpost.com/) |
 

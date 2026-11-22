@@ -50,9 +50,9 @@ No public code linked · Built with gpt, natural-language-processing, openai, py
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | University Course Catalog Data Extraction and Query Challenge - Xficient | No specific requirement captured | [Event prize rules](https://bitcamp2024.devpost.com/) |
 

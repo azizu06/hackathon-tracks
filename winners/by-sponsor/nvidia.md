@@ -182,9 +182,9 @@ WiiWork is a voice-controlled website designed for people and AI agents to use.
 ## Track names and requirements
 
 <details>
-<summary>Show the exact Devpost track names, required tech and rule sources</summary>
+<summary>Show track names, required tech and rule sources</summary>
 
-| Hackathon | Track name on Devpost | Required tech or brief | Source |
+| Hackathon | Track name | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackUTD 2026](../by-hackathon/hackutd-2026.md) | Nvidia Track | No specific requirement captured | [Event prize rules](https://hackutd-zeroday.devpost.com/) |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | NVIDIA: Best Use of Jetson Nano | NVIDIA Jetson Nano | [Track label](https://knight-hacks-ix.devpost.com/) |
