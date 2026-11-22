@@ -343,5 +343,34 @@ The gaps below have a category-style title or a brief that leaves the technology
 ### Verification
 
 - Rebuilt the exports, Markdown directory, coverage report and static site. The required offline verifier and the source-cache run passed.
+
+## R4 FIXES
+
+Rechecked all 541 theme rows across 294 edition-specific tracks against their prize labels, cached rule descriptions and project evidence. Compared the existing notes with `3420589` and `f767319`. Row numbers below are one-based positions in `winners/winners.json`.
+
+| Change | Rows and basis |
+| --- | --- |
+| Cal Hacks startup prize | **901** Haven's Devpost write-up describes LiveKit in the voice assistant. The prize brief names LiveKit. [Cal Hacks prizes](https://live.calhacks.io/prizes) |
+| TreeHacks Education Track | **1690–1692** Minerva uses Zoom Video SDK, Prereq uses Zoom RTMS, and TA-DA uses Zoom's Real-Time Meeting SDK. The organizer brief names Zoom APIs and SDKs. [TreeHacks organizer](https://www.linkedin.com/company/treehacks/) |
+| Other documented roles | **63** moved from theme to tech with sourced notes, including **334** MultiEval's pinned Devin endpoint, **642** GitFlow's GitHub REST API, **951** Spitball's VS Code extension runtime, and **1008** Dorm Market's Markets Everywhere API. |
+| Sauce Labs raffles | **1283–1284** moved from theme to tech. The cached prize descriptions invite teams to test projects on Sauce Labs. The two projects have no documented Sauce Labs use. [HackHarvard rules](https://hackharvard-2024.devpost.com/), [SB Hacks rules](https://sb-hacks-xi.devpost.com/) |
+| Theme cards with supplemental evidence | **18** retain theme framing and show their evidence. **14** show Devpost listings, including Autopsy, TraceFund and HiveMind. **805** Permanence preserves its pinned Transformers import. **592, 614, 615** preserve linked Figma resources. |
+
+All **67** rows moved to tech with documented roles are **53, 79, 80, 82, 159, 223, 262, 331, 333, 334, 370, 375–382, 502, 505, 515–516, 593–594, 641–642, 724, 726, 729, 740, 761, 778, 803–804, 833, 836, 852, 864–866, 901, 935, 937, 944, 951, 998, 1001, 1003, 1008–1010, 1084–1086, 1119, 1199, 1260, 1448, 1503, 1550, 1554, 1584, 1594, 1690–1692**.
+
+The Cognition rules leave teams free to choose their tools. The build classifies codebreaker, Lore IDE and MultiEval from their documented Devin roles. Autopsy's Devpost tag appears alongside the theme award. The Microsoft language listings and the Transformers import retain the evidence labels from the earlier review. The pinned import establishes the import itself. Spitball's write-up establishes that its extension runs inside VS Code.
+
+| Coverage across README, site hero and coverage report | Prize rows |
+| --- | ---: |
+| Documented role | 965 |
+| Technology listed only | 45 |
+| Inferred use | 25 |
+| Theme prize | 472 |
+| No use found | 190 |
+| **Total** | **1,697** |
+
+Theme rows with a listing, import or link count once in the theme total. The no-use-found count includes 70 award-only notes, 113 rows with no evidence and 7 linked resources without a role or technology listing.
+
+Rebuilt from the saved Devpost, README, pinned-code and demo-caption caches. `python3 site/build.py` and `python3 scripts/verify.py --readme README.md` passed. The verifier checks the five coverage buckets and compares all catalog sponsor notes and headings with the export.
 - Checked that every prize appears in exactly one of the three buckets, every theme row has a matching ledger record and award quote, and the README, site and coverage report publish identical totals. Also checked the exact theme heading in the catalog, with failing fixtures for a stale count, missing basis, incorrect heading and old gap wording.
 - Compared prize identities, public code links and all previously inferred notes with the resource-fix baseline. Confirmed the disclosure and sampled theme, tech-gap and inference headings in Chrome at 1,280 and 390 pixels.
