@@ -23,6 +23,8 @@
 
 Event coordination through intelligent email management.
 
+**How it used AgentMail:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/ishaan-builds/concord) · [Demo video](https://www.youtube.com/watch?v=nLlxsbItr3U) · Built with agentmail, chromadb, flask, gemini
 
 ### [GreenPrint](https://devpost.com/software/greenprint-c2deb1)
@@ -31,6 +33,8 @@ Event coordination through intelligent email management.
 
 An all-in-one proactive monitoring system for sustainability and safety.
 
+**How it used AgentMail:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/greenprint-live/website) · Built with agentmail, amazon-web-services, elixir, gemini
 
 ### [Ticketry.AI](https://devpost.com/software/ticketry-ai)
@@ -38,6 +42,8 @@ An all-in-one proactive monitoring system for sustainability and safety.
 [MHacks 2025](../by-hackathon/mhacks-2025.md#project-ticketry-ai) · **Best Use of AgentMail API**
 
 Ticketry.AI bridges the gap between business stakeholders and development teams by automatically converting email requests into structured, actionable tickets.
+
+**How it used AgentMail:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/signal86/ticketry.ai) · Built with agentmail, auth0, gemini, mongodb
 

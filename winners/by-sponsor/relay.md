@@ -23,13 +23,17 @@
 
 The wireless camera bear that watches, remembers, and answers when you ask.
 
-[Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
+**How it used Relay:** On Relay, a single WebSocket consumer handles events; event IDs are committed to Postgres before the ACK (Relay redelivers otherwise), and every send carries a idempotency key so a reconnect replay can't double-send.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
 
 ### [Amyna](https://devpost.com/software/billdozer)
 
 [MHacks 2026](../by-hackathon/mhacks-2026.md#project-billdozer) · **Relay Interactive Agents Track Winner**
 
 An AI agent crew that checks your medical bill against what actually happened at your visit, flags charges that don't add up, and disputes them with you in control.
+
+**How it used Relay:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/tiwari-ira/amyna) · Built with relay, agentverse, asi-one, fastapi
 

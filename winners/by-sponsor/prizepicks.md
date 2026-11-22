@@ -23,13 +23,17 @@
 
 Sideline turns watching into experiencing. With real-time updates, interactive challenges, and friendly rivalries that make every play matter, you’re not just watching the game… you’re part of it.
 
-[Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY8) · Built with expo.io, express.js, firebase, firestore
+**How it used PrizePicks:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY8) · Built with expo.io, express.js, firebase, firestore
 
 ### [The Kick is Good](https://devpost.com/software/the-kick-is-good)
 
 [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md#project-the-kick-is-good) · **Signal from the Noise**
 
 The team built a semi-automatic football tracking system that determines how far a field goal was kicked from by analyzing video footage.
+
+**How it used PrizePicks:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ColinVu/FGtracking) · [Demo video](https://www.youtube.com/watch?v=Ugg36PxM_qI) · Built with opencv, python, react
 

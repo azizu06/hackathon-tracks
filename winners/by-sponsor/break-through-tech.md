@@ -23,7 +23,9 @@
 
 Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay smart, and learn to protect your online world effortlessly.
 
-Built with charm.sh, go, ngrok, sqlite
+**How it used Break Through Tech:** Sponsor use not stated on Devpost
+
+No public code linked · Built with charm.sh, go, ngrok, sqlite
 
 ## Track names and requirements
 

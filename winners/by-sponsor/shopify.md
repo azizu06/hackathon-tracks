@@ -45,6 +45,8 @@ An AI shopkeeper for Shopify that helps shoppers find products and negotiate dea
 
 An e-commerce platform with two faces: customers checkout by camera no barcode, just the item’s look while businesses get catalog, inventory, sales, forecasting &amp; intelligent procurement.
 
+**How it used Shopify:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/MeharPro/Tarazoo) · [Demo video](https://www.youtube.com/watch?v=6TfBS77bEAU) · Built with shopify, claude, cohere, cplex
 
 ## 2024 winners
@@ -54,6 +56,8 @@ An e-commerce platform with two faces: customers checkout by camera no barcode, 
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-shop-the-north) · **Shopify API Challenge**
 
 Sometimes online shopping can be dull, and most of all, turn away customers who are unsure about buying clothes online. VR will allow for customers to try on clothing in a virtual world.
+
+**How it used Shopify:** Yellow shirt, black shirt, tropical shorts and black pants on the Shopify-hosted store.
 
 [Code](https://github.com/BenBoguslavsky18/HTN_VR) · [Demo video](https://www.youtube.com/watch?v=igOuQHgEvto) · Built with shopify, c#, github, json
 

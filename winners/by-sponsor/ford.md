@@ -23,7 +23,9 @@
 
 The Ford Vision Station Alignment System is a comprehensive computer vision solution that provides real-time alignment detection and guidance for automotive manufacturing operations.
 
-Built with 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras
+**How it used Ford:** The Ford Vision Station Alignment System is a comprehensive computer vision solution that provides real-time alignment detection and guidance for automotive manufacturing operations.
+
+No public code linked · Built with 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras
 
 ## 2019 winners
 
@@ -33,7 +35,9 @@ Built with 3d-projection-mathematics, a2a2448-23gcbas, base64, basler-cameras
 
 SafeLink is an app for drivers and monitors.
 
-Built with ford, amazon-cognito, amazon-web-services, android
+**How it used Ford:** Sponsor use not stated on Devpost
+
+No public code linked · Built with ford, amazon-cognito, amazon-web-services, android
 
 ## 2016 winners
 
@@ -43,7 +47,9 @@ Built with ford, amazon-cognito, amazon-web-services, android
 
 Advanced route planning for drone deliveries to moving targets, with tracking and control suite.
 
-Built with google-streetview, javascript, leaflet.js, mithril.js
+**How it used Ford:** Sponsor use not stated on Devpost
+
+No public code linked · Built with google-streetview, javascript, leaflet.js, mithril.js
 
 ## Track names and requirements
 

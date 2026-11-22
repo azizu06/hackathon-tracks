@@ -23,7 +23,9 @@
 
 Put your money where your goals are. Complete your commitments to earn it back, or watch it go to a cause you really don’t want to fund.
 
-[Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
+**How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
 
 ### [MedChain](https://devpost.com/software/medchain-s7dz60)
 
@@ -31,7 +33,9 @@ Put your money where your goals are. Complete your commitments to earn it back, 
 
 MedChain: A blockchain-powered app for secure, verifiable prescriptions. Built on Base with smart contracts and IPFS to eliminate fraud and streamline doctor–pharmacist workflows.
 
-[Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
+**How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
 
 ### [TraceFund](https://devpost.com/software/trustfund-24cmnh)
 
@@ -39,7 +43,9 @@ MedChain: A blockchain-powered app for secure, verifiable prescriptions. Built o
 
 Rebuilding donation trust through transparent giving.
 
-[Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with base, claude, erc-20, ethereum
+**How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with base, claude, erc-20, ethereum
 
 ### [TrustBuddy](https://devpost.com/software/trustbuddy)
 
@@ -47,7 +53,9 @@ Rebuilding donation trust through transparent giving.
 
 Interoporable Trust, bring your ratings everywhere you go.
 
-[Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns) · Built with canva, ethereum, figma, nextjs
+**How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns) · Built with canva, ethereum, figma, nextjs
 
 ## Track names and requirements
 

@@ -51,7 +51,7 @@ These projects won more than one prize here. Each one is listed once.
 
 An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces.
 
-[Code](https://github.com/AlfredSjoqvist/multieval) · [Demo video](https://www.youtube.com/watch?v=__OU7Ftl4EM) · Built with agentverse, asi:one, fetch.ai, anthropic
+[Code](https://github.com/AlfredSjoqvist/multieval) · [Demo video](https://www.youtube.com/watch?v=__OU7Ftl4EM) · Built with devin, agentverse, asi:one, fetch.ai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -61,8 +61,8 @@ An evaluation dashboard compares multi-agent workflows and lets developers inspe
 - **Code:** [Source 1](https://github.com/AlfredSjoqvist/multieval)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=__OU7Ftl4EM)
 - **All prizes at this hackathon (2):** Cognition Company Challenge · Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Cognition:** MultiEval is an end-to-end platform for measuring, comparing, debugging, and autonomously evolving multi-agent orchestration patterns.
-- **How it used Fetch.ai:** The project lists agentverse, asi:one, fetch.ai among its Built With tags.
+- **How it used Cognition:** Sponsor use not stated on Devpost
+- **How it used Fetch.ai:** MultiEval ran an economic simulation with agents registered on Fetch.ai's Agentverse.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -75,7 +75,7 @@ An evaluation dashboard compares multi-agent workflows and lets developers inspe
 
 The light that guides you home.
 
-[Code](https://github.com/continuitylabs/lahacks26) · [Demo video](https://www.youtube.com/watch?v=UO3zezz21EY) · Built with fetch.ai, zetic, elevenlabs, expo.io
+[Code](https://github.com/continuitylabs/lahacks26) · [Demo video](https://www.youtube.com/watch?v=UO3zezz21EY) · Built with fetch.ai, melange, zetic, elevenlabs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -86,7 +86,7 @@ The light that guides you home.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UO3zezz21EY)
 - **All prizes at this hackathon (2):** Track: Agentverse - Search &amp; Discovery of Agents · Zetic Company Challenge
 - **How it used Fetch.ai:** The agent swarm was done using a series of fetch.ai agentverse agents, each customized to have a specific speciality.
-- **How it used Zetic:** Northstar also uses a Zetic based local audio-analysis model YAMNet in order to detect sounds of pain from the user and check in.
+- **How it used Zetic:** Northstar is a multifunctional mobile app, build on React Native with Expo with an additional native module to handle the native optimized zetic LLMs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -115,6 +115,7 @@ Nimbus is an open-source VM provisioning platform that gives you the EC2 experie
 - **Code:** [Source 1](https://github.com/smalex-z/nimbus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mk75Ryr81Y8)
 - **All prizes at this hackathon (2):** Arista Networks: Connect the Dots Challenge · High Quality Sponsormaxxing
+- **How it used Arista Networks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -137,7 +138,7 @@ A smart productivity proxy that uses AI to filter away distractions while allowi
 - **Code:** [Source 1](https://github.com/Drime648/lahacks-timehole)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pVpUcCo96SI)
 - **All prizes at this hackathon (1):** Arista Networks: Connect the Dots Challenge
-- **How it used Arista Networks:** TimeHole is a network-level productivity filter that combines a DNS server and a web proxy to analyze and control internet traffic in real time.
+- **How it used Arista Networks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -160,7 +161,7 @@ Veritas is a Chrome extension that fact-checks YouTube videos in real time. It e
 - **Code:** [Source 1](https://github.com/riteshkasa/veritas)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CuinBraRAlk)
 - **All prizes at this hackathon (1):** Arista Networks: Connect the Dots Challenge
-- **How it used Arista Networks:** Veritas is a minimalistic Chrome extension that fact-checks YouTube videos in real time.
+- **How it used Arista Networks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -187,7 +188,7 @@ Zero-trust autonomous triage for networked medical hardware. Localized frontier 
 - **Code:** [Source 1](https://github.com/jackdeye/LAHACKS2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=v-JXrRFZ2OM)
 - **All prizes at this hackathon (1):** ASUS Company Challenge
-- **How it used ASUS:** Aegis Edge is an air-gapped autonomous defense for embedded hardware.
+- **How it used ASUS:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -210,6 +211,7 @@ The command center for ocean climate intervention. Simulate alkalinity deploymen
 - **Code:** [Source 1](https://github.com/A-Choudhari/LaHacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gyvOeVgc2KM)
 - **All prizes at this hackathon (1):** ASUS Company Challenge
+- **How it used ASUS:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -236,7 +238,7 @@ The team describes the project as “StandIn on Business”.
 - **Code:** [Source 1](https://github.com/Boroshilov03/StandIn)
 - **Demo video:** [Video 1](https://vimeo.com/1186688249)
 - **All prizes at this hackathon (1):** MLH: Best Use of Auth0 AI Agents
-- **How it used Auth0:** The project lists auth0 among its Built With tags.
+- **How it used Auth0:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -263,7 +265,7 @@ AgriMind combines a robotic guardian with live farm sensors and AI video/image a
 - **Code:** [Source 1](https://github.com/ClosetCoderSad/AgriMind-LAHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y-L3LzDw2ig)
 - **All prizes at this hackathon (1):** Cloudinary Company Challenge
-- **How it used Cloudinary:** Run an image analysis pipeline using Cloudinary for uploaded farm photos with cloud storage + annotation of sustainability metrics (CO2 impact, water usage, and risk insights).
+- **How it used Cloudinary:** AgriMind uses Cloudinary to store and annotate farm photos for sustainability analysis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -332,7 +334,7 @@ Your tabs, turned into a study session.
 - **Code:** [Source 1](https://github.com/sudarshan-krishnan/StudyO_LAHacks_2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jQ3Fq21-e_k)
 - **All prizes at this hackathon (1):** Cloudinary Company Challenge
-- **How it used Cloudinary:** StudyO is a personalized AI learning workspace built around three core loops:.
+- **How it used Cloudinary:** StudyO uses Cloudinary transformations to assemble educational videos and sync captions to narration.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -345,17 +347,17 @@ Your tabs, turned into a study session.
 
 Turn trash into cash: report litter, clean it up, get paid in Solana.
 
-[Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
+No public code linked · [Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cloudinary, react-native, solana, supabase, world-u
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=D_P7spBpfyQ)
 - **All prizes at this hackathon (1):** Cloudinary Company Challenge
-- **How it used Cloudinary:** The project lists cloudinary among its Built With tags.
+- **How it used Cloudinary:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -374,16 +376,17 @@ Also won this track: [MultiEval](#project-multival) (listed above)
 
 ACG helps AI coding agents work in parallel without stepping on each other.
 
-[Demo video](https://www.youtube.com/watch?v=eoTO5TZJbNQ) · Built with html, python, typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=eoTO5TZJbNQ) · Built with html, python, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** html, python, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eoTO5TZJbNQ)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
+- **How it used Cognition:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -396,7 +399,7 @@ ACG helps AI coding agents work in parallel without stepping on each other.
 
 Autopsy records every action your AI coding agent takes, autopsies the failures, builds a graph of why they happened, and injects into the agent's next attempt so it doesn't make mistake again.
 
-[Code](https://github.com/balebbae/Autopsy) · [Demo video](https://www.youtube.com/watch?v=2bgq8hvJ32s) · Built with claude, cloudflare, codex, devin
+[Code](https://github.com/balebbae/Autopsy) · [Demo video](https://www.youtube.com/watch?v=2bgq8hvJ32s) · Built with devin, claude, cloudflare, codex
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -406,7 +409,7 @@ Autopsy records every action your AI coding agent takes, autopsies the failures,
 - **Code:** [Source 1](https://github.com/balebbae/Autopsy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2bgq8hvJ32s)
 - **All prizes at this hackathon (2):** 3rd Overall · Cognition Company Challenge
-- **How it used Cognition:** Autopsy is a diagnostic and prevention layer for AI coding agents.
+- **How it used Cognition:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -419,7 +422,7 @@ Autopsy records every action your AI coding agent takes, autopsies the failures,
 
 AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent intelligence, powered by an open harness and an expansive benchmark.
 
-[Code](https://github.com/KevinWu098/codebreaker) · [Demo video](https://www.youtube.com/watch?v=CIyWH6rkN9c) · Built with cloudflare, devin, github, modal
+[Code](https://github.com/KevinWu098/codebreaker) · [Demo video](https://www.youtube.com/watch?v=CIyWH6rkN9c) · Built with devin, cloudflare, github, modal
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -429,7 +432,7 @@ AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent inte
 - **Code:** [Source 1](https://github.com/KevinWu098/codebreaker)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CIyWH6rkN9c)
 - **All prizes at this hackathon (2):** 1st Overall · Cognition Company Challenge
-- **How it used Cognition:** Codebreaker is an end-to-end cybersecurity platform that pushes the frontier of what AI agents can do in security workflows.
+- **How it used Cognition:** Codebreaker integrates Devin to drive the full loop — once a candidate vuln is surfaced, Devin reproduces it, validates the exploit against the vulnerable commit, and generates a fix, accelerating security responses.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -452,7 +455,7 @@ Ai Agent that designs computer chips in VSCode.
 - **Code:** [Source 1](https://github.com/rtsmc/lahacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R-_vN2aiRW4)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
-- **How it used Cognition:** The team built an AI assistant that designs computer chips, packaged directly into a seamless plugin for VSCode.
+- **How it used Cognition:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -465,16 +468,17 @@ Ai Agent that designs computer chips in VSCode.
 
 GitHub stores your code. Lore stores your reasons.
 
-[Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with anthropic, claude, deepseek, devin
+No public code linked · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** anthropic, claude, deepseek, devin, gemma, tauri, windsurf
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8-gmVsRSW2c)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
+- **How it used Cognition:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -501,7 +505,7 @@ A navigation aid turns the live camera view into spoken directions for people wi
 - **Code:** [Source 1](https://github.com/AK20202007/A-Eye)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m7Ee3nlPFwQ)
 - **All prizes at this hackathon (1):** MLH: Best Use of ElevenLabs
-- **How it used ElevenLabs:** The project lists elevenlabs among its Built With tags.
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -520,17 +524,17 @@ Also won this track: [MultiEval](#project-multival), [Northstar](#project-norths
 
 A caregiver assistant coordinates appointments, calendar updates, and over-the-counter medicine requests.
 
-[Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** agentverse, asi:one, browser-use, fet, fetch.ai, ocr, python, telegram, uagents
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4RKYgNmFiSM)
 - **All prizes at this hackathon (1):** Fetch.ai: OmegaClaw Skill Forge powered by Agentverse
-- **How it used Fetch.ai:** In ASI:One, CareLoop uses native Fetch.ai payment protocol cards for FET service fees.
+- **How it used Fetch.ai:** CareLoop is a bottom-up Fetch.ai/uAgents care-coordination system.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -553,7 +557,7 @@ A 3D scene builder turns a text prompt into an environment the user can walk thr
 - **Code:** [Source 1](https://github.com/pauligwe/Conjure)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=x404jLbdaVs)
 - **All prizes at this hackathon (1):** Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Fetch.ai:** The team make heavy use of Fetch.AI and Agentverse agents for orchestration and task completion.
+- **How it used Fetch.ai:** The team makes heavy use of Fetch.AI and Agentverse agents for orchestration and task completion.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -599,7 +603,7 @@ Edith is a real-time multimodal AI assistant that runs on Meta Ray-Ban glasses.
 - **Code:** [Source 1](https://github.com/rishi-golla/lahacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Be9H4JvpBDg)
 - **All prizes at this hackathon (1):** Fetch.ai: OmegaClaw Skill Forge powered by Agentverse
-- **How it used Fetch.ai:** The team defined skills in OmegaClaw, built bridge functions to connect them into the runtime, and exposed actual executable capabilities through Agentverse.
+- **How it used Fetch.ai:** Edith delegates from OmegaClaw into the registered uAgents, including Gmail-connected workflows and locally hosted Playwright MCP automation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -622,7 +626,7 @@ Your proactive AI copilot — lives in your browser, reads your world, acts befo
 - **Code:** [Source 1](https://github.com/saigudisa6/jarvis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cpjTxFlSH58)
 - **All prizes at this hackathon (1):** Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Fetch.ai:** The project lists agentverse, asi:one, fetch.ai among its Built With tags.
+- **How it used Fetch.ai:** Everything runs through ASI:One ( asi1-mini ) and is agent-deployed on Agentverse, making JARVIS a true member of the Fetch.ai agent ecosystem — not just a wrapper around an LLM.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -645,7 +649,7 @@ A content tool evaluates where viewers may focus their attention and uses that f
 - **Code:** [Source 1](https://github.com/anirudhmazumder/NeuralLens)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Bf8ngLD5BEY)
 - **All prizes at this hackathon (1):** Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Fetch.ai:** Multi-Agent Pipeline on Fetch.ai NeuralLens runs as a six-agent system on Fetch.ai's Agentverse, discoverable and invocable through ASI:One:.
+- **How it used Fetch.ai:** NeuralLens runs its image optimization agents on Fetch.ai's Agentverse and exposes them through ASI:One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -668,7 +672,7 @@ toolbox for aspiring politicians to campaign, stress-test their policies, and ru
 - **Code:** [Source 1](https://github.com/PranAD-dev/pols-15)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pVwl8clqHy4)
 - **All prizes at this hackathon (1):** Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Fetch.ai:** The project lists agentverse among its Built With tags.
+- **How it used Fetch.ai:** Dual-mode cluster agents — same uagent process serves the orchestrator's pipeline /process AND a chat protocol where users converse with an in-character persona.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -691,7 +695,7 @@ A study tool helps users understand their focus habits and find a study partner.
 - **Code:** [Source 1](https://github.com/MaanPatel2005/Residue)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dgqo7zdmHD0)
 - **All prizes at this hackathon (1):** Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Fetch.ai:** Residue is a personalized acoustic intelligence app for studying.
+- **How it used Fetch.ai:** The app first attempts to call a Python Fetch.ai uAgents orchestrator.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -714,7 +718,7 @@ An incident response system organizes information quickly for people coordinatin
 - **Code:** [Source 1](https://github.com/srinisriram/RIIS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=juhHSR9_-UE)
 - **All prizes at this hackathon (2):** 2nd Overall · Fetch.ai: Best Use of ASI:One
-- **How it used Fetch.ai:** RIIS sends a ground robot into collapsed structures ahead of human responders.
+- **How it used Fetch.ai:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -741,7 +745,7 @@ A macOS assistant takes a spoken question and highlights the relevant control fo
 - **Code:** [Source 1](https://github.com/RyloRiz/accent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=XmlBhFCtorw)
 - **All prizes at this hackathon (2):** Figma Make Challenge · Track: Light The Way
-- **How it used Figma:** Accent is a local macOS assistant that lets you press a keyboard shortcut, ask what you want to do on screen, and get a highlighted UI element plus verbal directions.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -764,6 +768,7 @@ How to combine AI with deterministic logic.
 - **Code:** [Source 1](https://github.com/Dirtblob/AutoGear)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RYnkUSRhRUk)
 - **All prizes at this hackathon (1):** Figma Make Challenge
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -776,17 +781,17 @@ How to combine AI with deterministic logic.
 
 A hiking app gives users activities to complete outside and helps clinicians suggest walks.
 
-[Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** avfoundation, core-location, figma-make, mapkit, onnx, plantnet-300k, sqlite, supabase, swift, swiftui, zetic-melange
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0ANuoizXoxE)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** The project lists figma-make among its Built With tags.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -799,17 +804,17 @@ A hiking app gives users activities to complete outside and helps clinicians sug
 
 A shared app helps friend groups coordinate rides, plans, and payments.
 
-[Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** figma, framer, godaddy, react, supabase, typescript, vercel, vite
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mNkgHS3Sgk0)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** The project lists figma among its Built With tags.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -832,7 +837,7 @@ EMTs deserve better than a radio and a clipboard.
 - **Code:** [Source 1](https://github.com/MarcDasilva/Impulse)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FwS_lDUnjMY)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** IMPULSE is a real-time incident response platform that turns any iPhone into a smart body camera and gives commanders a live, intelligent picture of what's happening on the ground.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -845,17 +850,17 @@ EMTs deserve better than a radio and a clipboard.
 
 One who understands: your healthcare, handled.
 
-[Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
+No public code linked · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** elevenlabs, expo.io, fastapi, playwright, python, railway, react-native, tavily-api, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rHKdiMtREt0)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** The app is a voice-controlled healthcare assistant that:.
+- **How it used Figma:** The team used Figma Make to prototype the onboarding flow, voice interface, and provider results.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -901,7 +906,7 @@ A desktop assistant finds local files and gathers context for the user's current
 - **Code:** [Source 1](https://github.com/LAHacks2026/Obi_Laptop)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=r7eSFDm4Wd4)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** Retrieval matters more than generation The quality of search has a bigger impact than model size.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -924,7 +929,7 @@ A booking workspace helps performers find venues and manage pitches and follow-u
 - **Code:** [Source 1](https://github.com/RC3371/Scaena-LAHacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DCTjE99embY)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** The project lists figma among its Built With tags.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -937,17 +942,17 @@ A booking workspace helps performers find venues and manage pitches and follow-u
 
 Because good music gives us sera-tonin :).
 
-[Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
+No public code linked · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** colab, python, spotify, supabase, tribev2, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M60_I4LMtPM)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** You bring Sera a playlist or a few songs.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -983,17 +988,17 @@ Snitch is an accountability platform built for students without something on the
 
 A dashboard shows how internship pipelines connect employers and schools.
 
-[Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
+No public code linked · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** agentverse, claude, fastapi, figmamake, javascript, next.js, python, react, render, supabase, tailwindcss, uagents, vercel
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2_2BNhwoFno)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** Using Figma Make to experiment with the hero section designs.
+- **How it used Figma:** The team used Figma Make to try different designs for the hero section.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1006,17 +1011,17 @@ A dashboard shows how internship pipelines connect employers and schools.
 
 A browser extension helps users find and understand medical research relevant to women's health.
 
-[Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
+No public code linked · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** canva, chrome, css, express.js, figma, figmamake, gemma, git, github, html, javascript, node.js, ollama, postgresql, react, resend, sql, supabase, typescript, vite, vultr
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TyN5sk7KFns)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** Using Figma Make for the first full flow.
+- **How it used Figma:** The team used Figma Make to prototype the app's initial user flow.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1043,7 +1048,7 @@ A coding tool maps relationships between files and passes the graph to a coding 
 - **Code:** [Source 1](https://github.com/michelllinstar/MarkCodePolo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DNzF3zk9gi4)
 - **All prizes at this hackathon (1):** MLH: Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** MarkCodePolo is a website that generates diagrams for both user and agent.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1070,7 +1075,7 @@ By mapping the user's eye movements to an on-screen cursor, individuals can navi
 - **Code:** [Source 1](https://github.com/chrisconnell7/My-Voice-LA-HACKS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IZJ1qQYpXeE)
 - **All prizes at this hackathon (1):** MLH: Best Use of Gemma
-- **How it used Google:** The project lists gemma among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1097,7 +1102,7 @@ Type faster with less mistakes using bigram latency data.
 - **Code:** [Source 1](https://github.com/eedwardkim/Roman-Road)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All prizes at this hackathon (1):** Happy Hacking Keyboard: Type Beyond - Rethinking Interaction Through the Keyboard
-- **How it used Happy Hacking Keyboard:** Roman Road is the most attentive typing tutor on the internet.
+- **How it used Happy Hacking Keyboard:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1124,7 +1129,7 @@ A study app turns a textbook scan into an interactive learning session.
 - **Code:** [Source 1](https://github.com/AntonK0/lahacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5XL32aCzCJg)
 - **All prizes at this hackathon (1):** MLH: Best Use of MongoDB Atlas
-- **How it used MongoDB:** Users simply scan the ISBN barcode of any supported textbook.
+- **How it used MongoDB:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1141,14 +1146,14 @@ A study app turns a textbook scan into an interactive learning session.
 
 Play as a hacker taking advantage of a data breach to crack as many accounts as possible, learning the secrets and mechanisms behind what makes a password truly secure.
 
-[Demo video](https://www.youtube.com/watch?v=jMh-X4L-k2U) · Built with roblox, lua
+No public code linked · [Demo video](https://www.youtube.com/watch?v=jMh-X4L-k2U) · Built with roblox, lua
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** lua, roblox
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jMh-X4L-k2U)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge
 - **How it used Roblox:** This project was built entirely in Roblox Studio using Lua.
@@ -1164,14 +1169,14 @@ Play as a hacker taking advantage of a data breach to crack as many accounts as 
 
 A Roblox tower-defense game teaches players to recognize phishing messages and malware.
 
-[Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
+No public code linked · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claudeapi, luau, robloxstudio
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jjYTbE1EEbk)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge
 - **How it used Roblox:** The team built the project in Roblox Studio using Luau for gameplay systems, UI interactions, scoring, mini-games, player progression, and storyline.
@@ -1220,7 +1225,7 @@ A Roblox safety game teaches players to identify grooming and scams in chat.
 - **Code:** [Source 1](https://github.com/Anthony-Yangg/overseer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aoXezdkHLYc)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge
-- **How it used Roblox:** The project lists roblox-engine, roblox-studio among its Built With tags.
+- **How it used Roblox:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1260,17 +1265,17 @@ A Roblox detective game asks players to verify news stories by interviewing witn
 
 Sentinel.ai monitors live camera streams and flags important activity.
 
-[Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_I) · Built with solana, api, atlas, cloud
+No public code linked · [Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_I) · Built with solana, api, atlas, cloud
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** api, atlas, cloud, cloudinary, compute, dlib, elevenlabs, embeddings), face-recognition, fastapi, gemini, gemma, git, github, google, mongodb, opencv, python, pytorch, react, solana, stream/event, torchvision, transaction, typescript, ultralytics, vite, vultr, websockets, yolov8
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8iKrZ4sSS_I)
 - **All prizes at this hackathon (1):** MLH: Best Use of Solana
-- **How it used Solana:** The project lists solana among its Built With tags.
+- **How it used Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1287,17 +1292,17 @@ Sentinel.ai monitors live camera streams and flags important activity.
 
 A guided movement app helps older adults with limited mobility practice activities with camera feedback.
 
-[Demo video](https://www.youtube.com/watch?v=EXR-oseYXUs) · Built with css, html, javascript, typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=EXR-oseYXUs) · Built with css, html, javascript, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, html, javascript, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EXR-oseYXUs)
 - **All prizes at this hackathon (1):** MLH: Best Use of Vultr
-- **How it used Vultr:** Just Replay starts off with intaking user information on their age and mobility limits to generate a safe, personalized session with a guiding video demo.
+- **How it used Vultr:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1324,6 +1329,7 @@ Online marketplaces in 2026: Bots are everywhere.
 - **Code:** [Source 1](https://github.com/aryank09/banter-mart)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hn_EWcW0pX0)
 - **All prizes at this hackathon (1):** World U: Build for the future of the internet with World
+- **How it used World U:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1336,17 +1342,17 @@ Online marketplaces in 2026: Bots are everywhere.
 
 Agent-powered hiring built for humans, using each applicant’s unique application history to generate a trust rating so people apply more thoughtfully and ethically while getting matched faster.
 
-[Demo video](https://www.youtube.com/watch?v=avU8l6qmFD4) · Built with express.js, gcp, gemini, node.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD4) · Built with express.js, gcp, gemini, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** express.js, gcp, gemini, node.js, react, worldu
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=avU8l6qmFD4)
 - **All prizes at this hackathon (1):** World U: Build for the future of the internet with World
-- **How it used World U:** The team learned that real-world feedback is everything.
+- **How it used World U:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1359,17 +1365,17 @@ Agent-powered hiring built for humans, using each applicant’s unique applicati
 
 Scale your business with faster authentic hiring and real outbound, not ai.
 
-[Demo video](https://www.youtube.com/watch?v=baX5qnjcYcc) · Built with typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=baX5qnjcYcc) · Built with typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=baX5qnjcYcc)
 - **All prizes at this hackathon (1):** World U: Build for the future of the internet with World
-- **How it used World U:** startupOS helps small businesses create and manage jobs, campaigns, projects, and chat channels from one workspace.
+- **How it used World U:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1421,7 +1427,7 @@ Cropt: AI-powered crop disease detector that works completely offline. Snap a ph
 - **Code:** [Source 1](https://github.com/JacobScheff/Knova)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Tn3k2QwK0Hk)
 - **All prizes at this hackathon (1):** Zetic Company Challenge
-- **How it used Zetic:** Dynamically adapts content based on prior interactions. → All computed locally using Zetic , enabling fully offline intelligence.
+- **How it used Zetic:** Dynamically adapts content based on prior interactions. → All computed locally using Zetic, enabling fully offline intelligence.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1434,7 +1440,7 @@ Cropt: AI-powered crop disease detector that works completely offline. Snap a ph
 
 Physical therapy fails at home because no one's watching. PhysioPal fixes that — AI pose correction, Apple Health-adaptive routines, and instant physiotherapist escalation, all on-device.
 
-[Code](https://github.com/rutujanemane/PhysioPal) · [Demo video](https://www.youtube.com/watch?v=4mJqV782Fp0) · Built with applehealthkit, melange, ngrok, swift
+[Code](https://github.com/rutujanemane/PhysioPal) · [Demo video](https://www.youtube.com/watch?v=4mJqV782Fp0) · Built with melange, zeticai, applehealthkit, ngrok
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -1444,7 +1450,7 @@ Physical therapy fails at home because no one's watching. PhysioPal fixes that �
 - **Code:** [Source 1](https://github.com/rutujanemane/PhysioPal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4mJqV782Fp0)
 - **All prizes at this hackathon (1):** Zetic Company Challenge
-- **How it used Zetic:** PhysioPal is a fully on-device iOS app with three engines working together:.
+- **How it used Zetic:** PhysioPal uses ZeticAI Melange to run pose estimation on the phone and give feedback on exercise form.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1467,7 +1473,7 @@ Scrubs is an iPhone app that auto-redacts PHI — names, MRNs, faces — from he
 - **Code:** [Source 1](https://github.com/Dvlta/medimask)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L_9q2m4YNkE)
 - **All prizes at this hackathon (1):** Zetic Company Challenge
-- **How it used Zetic:** On-device OCR to read text from healthcare photos without a network round-trip.
+- **How it used Zetic:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1480,17 +1486,17 @@ Scrubs is an iPhone app that auto-redacts PHI — names, MRNs, faces — from he
 
 Turning iPhone's $25 LiDAR into industrial-grade dense depth maps. On-device, real-time, no cloud.
 
-[Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
+No public code linked · [Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, fastapi, gx10, html, javascript, python, pytorch, swift
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M_QiPFWFkys)
 - **All prizes at this hackathon (2):** Track: Flicker To Flow · Zetic Company Challenge
-- **How it used Zetic:** SPECTRA turns the iPhone Pro's sparse 192×256 LiDAR signal into a dense 768×1024 metric depth map, in real time, on-device.
+- **How it used Zetic:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

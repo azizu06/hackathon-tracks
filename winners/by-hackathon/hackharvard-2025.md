@@ -57,6 +57,7 @@ The team describes the project as ““Real-Time Control for Safer Construction
 - **Code:** [Source 1](https://github.com/rajvratzoom/siteops-final)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aramco Power the Future Track Prize
+- **How it used Aramco:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -83,7 +84,7 @@ Location-based transaction validation using arm-based cloud computing for end-to
 - **Code:** [Source 1](https://github.com/eiyer28/HackHarvard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0aO7TBcvifA)
 - **All prizes at this hackathon (1):** Best Use of Arm
-- **How it used Arm:** The project lists arm among its Built With tags.
+- **How it used Arm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -110,7 +111,7 @@ People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device t
 - **Code:** [Source 1](https://github.com/sofiaal1/C2Pay)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gnQvp3OVYmE)
 - **All prizes at this hackathon (1):** Best Financial Hack by Capital One
-- **How it used Capital One:** C2Pay is a mobile SDK that provides risk-based, adaptive multi-factor authentication (MFA) for payments.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -137,7 +138,7 @@ Preventing crowd crush before it happens.
 - **Code:** [Source 1](https://github.com/treehill05/eyrie)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** The project lists cloudflare among its Built With tags.
+- **How it used Cloudflare:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -164,7 +165,7 @@ See your business’s footprint before you leave it. EcoSpirit finds the best ne
 - **Code:** [Source 1](https://github.com/PratGit1606/CarbonCompass)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MVzm-lyhBgc)
 - **All prizes at this hackathon (1):** Coolant Climate Tech Challenge
-- **How it used Coolant:** CarbonCompass analyzes cities and recommends the most sustainable neighborhoods for starting a business.
+- **How it used Coolant:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -191,7 +192,7 @@ An Apple Vision Pro application that immerses you in different languages and cul
 - **Code:** [Source 1](https://github.com/SaketR3/Lingua-Spatial-Gemini-API) · [Source 2](https://github.com/SaketR3/Vision-Pro-Language-Immersion)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FVoM-Fj_TL8)
 - **All prizes at this hackathon (1):** Best Use of ElevenLabs
-- **How it used ElevenLabs:** The project lists elevenlabs among its Built With tags.
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -218,7 +219,7 @@ Item2Art — Save memories and culture in real objects.Turn any item into a livi
 - **Code:** [Source 1](https://github.com/meulencv/item2art)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Rmd5dRmqMEw)
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Item2Art lets anyone save memories and culture in real objects using NFC technology .
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -245,7 +246,7 @@ AI-powered auditor that lives at the top of your screen. Instantly scan files fo
 - **Code:** [Source 1](https://github.com/Evandabest/Hackharvard2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WgSNcEAPhr8)
 - **All prizes at this hackathon (1):** Best Use of Gemini API
-- **How it used Google:** The team built HaloAudit using Next.js, Cloudflare, Gemini API, Electron, Swift, LangGraph, TypeScript, React, JavaScript, and Python.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -272,7 +273,7 @@ Augmenting ordinary people into heroic responders by giving them the knowledge, 
 - **Code:** [Source 1](https://github.com/Harpith2/Halo)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Infosys Human Augmentation Track Prize
-- **How it used Infosys:** Halo is a Swift-native iOS application for iPhone and iPad that fuses Augmented Reality (AR) with an empathetic AI voice agent .
+- **How it used Infosys:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -299,6 +300,7 @@ Oversight is a political transparency platform that turns complex government dat
 - **Code:** [Source 1](https://github.com/dilzafer/oversightusa)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZYPj0qvPgrA)
 - **All prizes at this hackathon (1):** Best Consumer Hack by Terac
+- **How it used Terac:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -325,6 +327,7 @@ Inspiration Chargebacks cost merchants up to 3x the transaction amount.
 - **Code:** [Source 1](https://github.com/achneerov/HackHarvard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=inDMZF5X79Q)
 - **All prizes at this hackathon (1):** Visa Truth and Trust Track Prize
+- **How it used Visa:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -347,7 +350,7 @@ Visa Verify brings multi-factor fraud detection to online payments using behavio
 - **Code:** [Source 1](https://github.com/HaoChiBao/hackharvard2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Visa Truth and Trust Track Prize
-- **How it used Visa:** The team built Visa Verify using a combination of web technologies and API integrations :.
+- **How it used Visa:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

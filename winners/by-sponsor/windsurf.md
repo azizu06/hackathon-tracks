@@ -33,6 +33,8 @@ Design 3D aircraft using AI, and simulate piloting them in AR. On mobile browser
 
 Lavoe provides an intuitive and AI-augmented DAW interface with features designed to streamline creativity:.
 
+**How it used Windsurf:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Leonardomontesqui/Lavoe) · [Demo video](https://www.youtube.com/watch?v=ISKuDB2s1jM) · Built with windsurf, ai-sdk, claude, cohere
 
 ### [Orbit](https://devpost.com/software/orbit-59jths)
@@ -41,6 +43,8 @@ Lavoe provides an intuitive and AI-augmented DAW interface with features designe
 
 Real-time facial recognition that identifies connections, remembers conversations, and maps your professional network.
 
+**How it used Windsurf:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/qiuethan/Orbit) · [Demo video](https://www.youtube.com/watch?v=-XV-iJZak3I) · Built with cerebras, deepface, fastapi, groq
 
 ### [PULSE.AI](https://devpost.com/software/pulse-ai-0oafm5)
@@ -48,6 +52,8 @@ Real-time facial recognition that identifies connections, remembers conversation
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-pulse-ai-0oafm5) · **Codeium: Best Use of Windsurf**
 
 An AI code agent tool that integrates live browser session context for smarter coding assistance. It analyzes tabs, runs extra searches, and uses RAG to provide Codeium’s Cascade with extra context.
+
+**How it used Windsurf:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ekang7/PulseAI) · [Demo video](https://www.youtube.com/watch?v=wFDW0y9zVGU) · Built with windsurf, cascade, chroma, codeium
 

@@ -23,6 +23,8 @@
 
 A mobile app that pairs friends together for everyday activities such as eating or jogging seamlessly.
 
+**How it used Progress:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/TheMichaelHu/PickyPusheen) · Built with 3dprinting, arduino, nativescript, photon
 
 ### [Pusheats](https://devpost.com/software/pusheats)
@@ -31,7 +33,9 @@ A mobile app that pairs friends together for everyday activities such as eating 
 
 Pusheen + psychology research = healthier eating habits via mobile app.
 
-Built with css, flask, javascript, monkeylearn
+**How it used Progress:** Sponsor use not stated on Devpost
+
+No public code linked · Built with css, flask, javascript, monkeylearn
 
 ## Track names and requirements
 

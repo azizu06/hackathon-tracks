@@ -23,6 +23,8 @@
 
 Helping everyone at Brown find the perfect bathroom &lt;3.
 
+**How it used Fidelity:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/katieli1/bathroomsatbrown) · Built with css, html, java, mongodb
 
 ### [courselrns](https://devpost.com/software/courselrns)
@@ -30,6 +32,8 @@ Helping everyone at Brown find the perfect bathroom &lt;3.
 [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md#project-courselrns) · **Best DEI Hack sponsored by Fidelity**
 
 courselrns is a full-stack project that takes in a user’s major and academic interests and uses a machine learning model to recommend classes from the Yale Course Catalog.
+
+**How it used Fidelity:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/niksaitov/courselrns) · [Demo video](https://www.loom.com/share/49f9738af8f249c7879ba9f879e8962a) · Built with docker, flask, intersystems, iris-intersystems
 
@@ -39,13 +43,17 @@ courselrns is a full-stack project that takes in a user’s major and academic i
 
 FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting.
 
-Built with css, javascript, react-native
+**How it used Fidelity:** Sponsor use not stated on Devpost
+
+No public code linked · Built with css, javascript, react-native
 
 ### [Forecasts by the Campfire](https://devpost.com/software/butcamp)
 
 [Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-butcamp) · **Best DEI Hack sponsored by Fidelity - MLH**
 
 This app uses visualizations from analysis of various datasets relating to weather and climate and their impacts on housing, such as foreclosures, housing costs, and more.
+
+**How it used Fidelity:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/RachelK23/Forecasts-by-the-Campfire) · Built with figma, git, github, jupyter
 
@@ -55,6 +63,8 @@ This app uses visualizations from analysis of various datasets relating to weath
 
 Have you ever wanted to trade stocks, but don't have the money to do so? Perhaps, maybe you want to battle it out against fellow traders.
 
+**How it used Fidelity:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/vennreddy490/Market-Melee) · [Demo video](https://www.youtube.com/watch?v=eMy3T-jELM0) · Built with bcrypt, bootstrap, css3, flask
 
 ### [MoneyMoves](https://devpost.com/software/moneymoves)
@@ -62,6 +72,8 @@ Have you ever wanted to trade stocks, but don't have the money to do so? Perhaps
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-moneymoves) · **Best DEI Hack sponsored by Fidelity**
 
 Personalized stock insights scraped from your favourite websites.
+
+**How it used Fidelity:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jnathan02222/htn-project) · Built with amazon-web-services, beautiful-soup, express.js, next.js
 
@@ -71,13 +83,17 @@ Personalized stock insights scraped from your favourite websites.
 
 Sera helps people with limited banking experience take control of their money. No jargon—just real support when it’s needed most.
 
-[Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
+**How it used Fidelity:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
 
 ### [Visa Friend](https://devpost.com/software/visa-friend)
 
 [MHacks 2024](../by-hackathon/mhacks-2024.md#project-visa-friend) · **Best DEI Hack sponsored by Fidelity**
 
 An AI-backed solution for improving the U.S. visa experience for non-English-speaking immigrants.
+
+**How it used Fidelity:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ayeahmed/visa-friend) · Built with chatgpt, google-translate, javascript, python
 

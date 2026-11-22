@@ -23,6 +23,8 @@
 
 One unexpected expense can trigger a chain of financial crisis. BreakingPoint builds you a plan to break that chain.
 
+**How it used Capital One:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/MMehta45/hacktx26) · [Demo video](https://vimeo.com/1239255718) · Built with nessie, fastapi, gemini, next.js
 
 ### [cryptX by Moonshot](https://devpost.com/software/cryptx-zceo69)
@@ -30,6 +32,8 @@ One unexpected expense can trigger a chain of financial crisis. BreakingPoint bu
 [Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-cryptx-zceo69) · **Best Financial Hack - Capital One**
 
 is a reverse-engineered hardware ledger for the Solana blockchain, with custom PIN + seed phrase authentication, real-time balance monitoring, and live fraud detection using log analysis.
+
+**How it used Capital One:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/navincodesalot/cryptx) · [Demo video](https://www.youtube.com/watch?v=ckU2XB6r1WQ) · Built with arduino, bs58, gemini, hashing
 
@@ -39,6 +43,8 @@ is a reverse-engineered hardware ledger for the Solana blockchain, with custom P
 
 Remember the elves who finished the shoemaker’s work overnight? Elfie brings them to your move: you text, and they find the apartment, sell the furniture, and settle the bills.
 
+**How it used Capital One:** Totals are always read back from Nessie, so the database only stores what Nessie can’t, like who owes whom.
+
 [Code](https://github.com/arshiyasharma/hackharvard) · [Demo video](https://www.youtube.com/watch?v=GTRrbq8RdjU) · Built with nessie, browserbase, claude, photon
 
 ### [Guardian](https://devpost.com/software/guardian-mbuwlp)
@@ -46,6 +52,8 @@ Remember the elves who finished the shoemaker’s work overnight? Elfie brings t
 [MHacks 2026](../by-hackathon/mhacks-2026.md#project-guardian-mbuwlp) · **Best Use of Nessie @ Capital One**
 
 A billing assistant reviews medical bills and organizes evidence that patients can use to question charges.
+
+**How it used Capital One:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/SNBest1/medical-bill-guardian) · [Demo video](https://www.youtube.com/watch?v=WQIiy8kV0qI) · Built with capital-one-nessie, anime.js, finchnode, fish-audio
 
@@ -55,7 +63,7 @@ A billing assistant reviews medical bills and organizes evidence that patients c
 
 Nessential turns passive financial management into proactive, real-world savings:.
 
-**How it used Capital One:** Semi-Automated Loyalty Stacking: Semi-automatically enrolls users into store loyalty programs (Chipotle, Panera, etc.) using private burner email aliases, stacking merchant perks on top of Capital One card rewards.
+**How it used Capital One:** Unified Financial Ledger &amp; Onboarding: Seamlessly connects via Capital One's Nessie API to ingest checking balances, transactions, recurring bills, and loans into a unified financial profile.
 
 [Code](https://github.com/Owen-Isenhart/HackUTD-2026) · [Demo video](https://www.youtube.com/watch?v=_Eh5HyNtzVU) · Built with brev, expo.dev, nemotron, node.js
 
@@ -65,6 +73,8 @@ Nessential turns passive financial management into proactive, real-world savings
 
 A shopping tool learns someone's style from photos and searches across retailers for items within their size and budget.
 
+**How it used Capital One:** Technical execution: Claude plans and visually ranks; Apify and Bright Data search stores, resale and independent labels in parallel; SpacetimeDB streams results; Snowflake Cortex checks prices; Nessie keeps the agent on budget.
+
 [Code](https://github.com/arissazheng/niche) · [Demo video](https://www.youtube.com/watch?v=OPB7mJICaS4) · Built with capital-one-nessie, apify, bright-data, cartesia
 
 ### [Play It First](https://devpost.com/software/hackprinceton26)
@@ -73,7 +83,7 @@ A shopping tool learns someone's style from photos and searches across retailers
 
 A simulator lets prospective business owners test how they could operate in an actual commercial space.
 
-**How it used Capital One:** Financial integration: Nessie V2 connects the authoritative game ledger to sandbox accounts, deposits, merchant purchases, bills, and read-only reconciliation.
+**How it used Capital One:** After owner approval, Nessie processed the merchant purchase, and the confirmed bank balance reconciled with the game's operating cash.
 
 [Code](https://github.com/farhanmir/playitfirst) · [Demo video](https://www.youtube.com/watch?v=xamUK8so4zI) · Built with nessie-api, anthropic-claude, costar, deepagents
 
@@ -83,6 +93,8 @@ A simulator lets prospective business owners test how they could operate in an a
 
 A finance app helps people moving to a new city plan expenses with their roommates.
 
+**How it used Capital One:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/andrew-oriti18/settlr-mhack26) · Built with css, html, javascript, nessieapi
 
 ### [SpaceShare](https://devpost.com/software/spacesquare)
@@ -91,6 +103,8 @@ A finance app helps people moving to a new city plan expenses with their roommat
 
 SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 
+**How it used Capital One:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Vigneshpeddi/SpaceShare) · Built with amazon-web-services, react, tailwind, typescript
 
 ### [Tend](https://devpost.com/software/tend-ua9rm8)
@@ -98,6 +112,8 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 [MHacks 2026](../by-hackathon/mhacks-2026.md#project-tend-ua9rm8) · **Best Use of Nessie @ Capital One**
 
 An offline guide helps survivors find state compensation programs and trace eligibility to the relevant law.
+
+**How it used Capital One:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/thesanatt/tend) · Built with capital-one-nessie, agentverse, asi-one, c++
 
@@ -109,6 +125,8 @@ An offline guide helps survivors find state compensation programs and trace elig
 
 Depending on the task, an orchestrator agent decided which specialized agents to summon and begin assessing invoices.
 
+**How it used Capital One:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/dominickdupuy/InvoiceFraudDetector) · [Demo video](https://www.youtube.com/watch?v=aegOE2791Ow) · Built with bigquery, express.js, fastapi, gemini
 
 ### [Black Swan](https://devpost.com/software/black-swan)
@@ -116,6 +134,8 @@ Depending on the task, an orchestrator agent decided which specialized agents to
 [Hacklytics 2025](../by-hackathon/hacklytics-2025.md#project-black-swan) · **Best Finance Hack Sponsored by Capital One**
 
 Turning uncertainty into opportunity with AI-driven market insights.
+
+**How it used Capital One:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/kaustubhbhal/Black-Swan) · [Demo video](https://www.youtube.com/watch?v=LGzhTNWSGaw) · Built with alpha-vantage-api, flask, google-oauth, html
 
@@ -125,7 +145,7 @@ Turning uncertainty into opportunity with AI-driven market insights.
 
 A virtual pet whose physical wellness depends on your financial wellness.
 
-**How it used Capital One:** Integrated the Nessie API to simulate real-world financial transactions.
+**How it used Capital One:** The team integrated the Nessie API to simulate real-world financial transactions.
 
 [Code](https://github.com/team-moondust/BudgetBuddy-backend) · [Demo video](https://www.youtube.com/watch?v=4BS5oXi7l7U) · Built with nessie, css, flask, gemini
 
@@ -135,6 +155,8 @@ A virtual pet whose physical wellness depends on your financial wellness.
 
 People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device trust, biometrics, and C2PA attestation to verify high-risk payments securely.
 
+**How it used Capital One:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/sofiaal1/C2Pay) · [Demo video](https://www.youtube.com/watch?v=gnQvp3OVYmE) · Built with bit-manipulation, c2pa, decryption, encryption
 
 ### [FinGuard](https://devpost.com/software/finguard-x1akuc)
@@ -143,13 +165,17 @@ People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device t
 
 "Smart Spending, Safer Shopping, Healthier Finances.".
 
-Built with beautiful-soup, gemini, javascript, mongodb
+**How it used Capital One:** Sponsor use not stated on Devpost
+
+No public code linked · Built with beautiful-soup, gemini, javascript, mongodb
 
 ### [HackTX 2025](https://devpost.com/software/ecofin-carbon)
 
 [HackTX 2025](../by-hackathon/hacktx-2025.md#project-ecofin-carbon) · **Best Capital One Hack**
 
 EcoFin Carbon calculates and visualizes the carbon footprint of your financial transactions.
+
+**How it used Capital One:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/arnavvalvekar/hacktx) · [Demo video](https://www.youtube.com/watch?v=QrL9U7CnT8Y) · Built with nessie, auth0, ci/cd, express.js
 
@@ -159,6 +185,8 @@ EcoFin Carbon calculates and visualizes the carbon footprint of your financial t
 
 Complete AI agent ecosystem for fraud detection &amp; banking. Multiple specialized agents handle alerts, voice calls, account protection, and transactions.
 
+**How it used Capital One:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/heyitsprashant/HR-Audit) · [Demo video](https://www.youtube.com/watch?v=w3t9JDyL-ks) · Built with capital-one-nessie-api, cedaros, flask, javascript
 
 ### [I'd Rather Scroll](https://devpost.com/software/i-d-rather-scroll)
@@ -167,7 +195,9 @@ Complete AI agent ecosystem for fraud detection &amp; banking. Multiple speciali
 
 The team describes the project as “Productive doomscrolling”.
 
-[Demo video](https://vimeo.com/1122592767) · Built with react
+**How it used Capital One:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://vimeo.com/1122592767) · Built with react
 
 ### [Plately](https://devpost.com/software/plately)
 
@@ -175,7 +205,9 @@ The team describes the project as “Productive doomscrolling”.
 
 The team describes the project as “AI-powered Menu Engineer”.
 
-Built with d3.js, fastapi, javascript, monogodb
+**How it used Capital One:** Sponsor use not stated on Devpost
+
+No public code linked · Built with d3.js, fastapi, javascript, monogodb
 
 ### [QuStoch](https://devpost.com/software/qustoch)
 
@@ -183,13 +215,17 @@ Built with d3.js, fastapi, javascript, monogodb
 
 An application that leverages Quantum Computing and Superposition to simulate multiple Stochastic States in a Brownian motion simulation to more effectively represent stock behavior.
 
-[Demo video](https://www.youtube.com/watch?v=w15F0oFqkak) · Built with ai/ml, bootstrap, css, flask
+**How it used Capital One:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=w15F0oFqkak) · Built with ai/ml, bootstrap, css, flask
 
 ### [SpendingWithSpendy](https://devpost.com/software/spendingwithspendy)
 
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-spendingwithspendy) · **Capital One**
 
 Let kids learn how to manage their own finances with Spendy.
+
+**How it used Capital One:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/brendanshen24/SpendWithSpendy) · [Demo video](https://www.youtube.com/watch?v=EK8jEkWBTbg) · Built with expo.io, react, tailwind
 
@@ -199,13 +235,17 @@ Let kids learn how to manage their own finances with Spendy.
 
 Sprout AI: Optimizing shelves, preserving the planet.
 
-[Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
+**How it used Capital One:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
 
 ### [Subsave](https://devpost.com/software/subsave)
 
 [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md#project-subsave) · **CATEGORY - Finance**
 
 A finance prototype explores a way to earn yield on money set aside for subscriptions.
+
+**How it used Capital One:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/adlonymous/subsave) · [Demo video](https://www.youtube.com/watch?v=FC3KWH5CUpk) · Built with auth0, expo.io, gemini, lulo
 
@@ -217,6 +257,8 @@ A finance prototype explores a way to earn yield on money set aside for subscrip
 
 Calculate car lease payments, insurance, and track savings in one tool! Tailored for your budget, with support for English/Spanish.
 
+**How it used Capital One:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Jackal-HQ/Lease-Saving-Guide) · Built with customtkinter, matplotlib, python, sqlite
 
 ### [Plate-O](https://devpost.com/software/plate-o)
@@ -225,7 +267,7 @@ Calculate car lease payments, insurance, and track savings in one tool! Tailored
 
 Revolutionize your takeout habits — get financially savvy meal choices and ideal restaurant picks with an AI that seamlessly learns from your every order.
 
-**How it used Capital One:** By integrating the Capital One API, Plate-O can analyze your income, expenses, and savings to calculate an ideal takeout budget—maximizing enjoyment while minimizing financial strain. 💵📈.
+**How it used Capital One:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/pennapps-w/plate-o) · [Demo video](https://www.youtube.com/watch?v=aZ8MMSoKCXc) · Built with atlas, defang, docker, fastapi
 
@@ -235,6 +277,8 @@ Revolutionize your takeout habits — get financially savvy meal choices and ide
 
 Puddle brings an "every drop matters" approach to your everyday spending, allowing you to easily split expenses without having to wait for repayment.
 
+**How it used Capital One:** The card management screen, also powered by the nessie api.
+
 [Code](https://github.com/TigerHacks-Competition-Team/Bitcamp-2024) · [Demo video](https://www.youtube.com/watch?v=iI8CfmVSa98) · Built with css3, figma, firebase, firestore
 
 ### [SmartCards](https://devpost.com/software/smartcards-qxdusb)
@@ -242,6 +286,8 @@ Puddle brings an "every drop matters" approach to your everyday spending, allowi
 [ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-smartcards-qxdusb) · **Capital One**
 
 SmartCards is a user-friendly addon for your budgeting app to help you better categorize your transactions and find investing opportunities from each purchase.
+
+**How it used Capital One:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/chasereyn/smart-cards) · Built with express.js, flask, kaggle, node.js
 
@@ -253,7 +299,7 @@ SmartCards is a user-friendly addon for your budgeting app to help you better ca
 
 Want to shop online on a site that doesn't accept bitcoin? Now you can -- via the Coinbase and Nessie APIs.
 
-**How it used Capital One:** The team use the coinbase and Nessie APIs to handle the money, and deliver the app via a chrome extension.
+**How it used Capital One:** The team uses the coinbase and Nessie APIs to handle the money, and deliver the app via a chrome extension.
 
 [Code](https://github.com/ravirahman/bitcard-backend) · Built with html, javascript
 

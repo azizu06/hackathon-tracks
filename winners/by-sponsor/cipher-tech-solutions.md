@@ -23,13 +23,17 @@
 
 Revolutionizing Digital Forensics through Novel Data Modeling.
 
-Built with fastapi, next.js, react, typescript
+**How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
+
+No public code linked · Built with fastapi, next.js, react, typescript
 
 ### [QWave](https://devpost.com/software/quanterp)
 
 [Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-quanterp) · **Best Digital Forensics Related Hack - Cipher Tech Solutions**
 
 Detect hidden cyber attacks in audio. Not all noise is natural—some is malicious in disguise.
+
+**How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/shreya222mishra/bitcamp-2026) · [Demo video](https://www.youtube.com/watch?v=dgCAY-YG5rw) · Built with docker, ffmpeg/pydub, gmail-smtp/imap, google-cloud-run
 
@@ -41,6 +45,8 @@ Detect hidden cyber attacks in audio. Not all noise is natural—some is malicio
 
 Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 
+**How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/AHumanMaybe/forens-tech) · Built with css, fastapi, figma, python
 
 ## 2024 winners
@@ -50,6 +56,8 @@ Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 [Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-keycatchai) · **Best Digital Forensics Related Hack - Cipher Tech**
 
 The app records audio secretly, and, using a deep-learning ML model, transcribes the audio into a keystroke log.
+
+**How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/3752V/KeyCatchAI) · Built with dart, devtunnel, flask, flutter
 

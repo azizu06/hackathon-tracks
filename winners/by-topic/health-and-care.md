@@ -81,7 +81,7 @@ Zero-trust autonomous triage for networked medical hardware. Localized frontier 
 
 The team built AGastIa because medical reports are often full of information but empty of clarity.
 
-[Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
+No public code linked · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
 
 ### [Amyna](https://devpost.com/software/billdozer)
 
@@ -105,7 +105,7 @@ Every census tract is shaded by a need score built from HRSA shortage designatio
 
 Voice AI with RAG-powered clinical reasoning that proactively detects post-surgical complications, alerts care providers before symptoms escalate, and prevents costly hospital readmissions.
 
-[Code](https://github.com/JoyZhuoz/carelink) · [Demo video](https://www.youtube.com/watch?v=C60iv-taFpQ) · Built with claude-sdk, elasticsearch, elevenlabs, esql
+[Code](https://github.com/JoyZhuoz/carelink) · [Demo video](https://www.youtube.com/watch?v=C60iv-taFpQ) · Built with elasticsearch, claude-sdk, elevenlabs, esql
 
 ### [CareLoop](https://devpost.com/software/careloop-gsiy8w)
 
@@ -121,7 +121,7 @@ CareLoop is a voice-first healthcare concierge that triages urgency, finds nearb
 
 A caregiver assistant coordinates appointments, calendar updates, and over-the-counter medicine requests.
 
-[Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
 
 ### [ClearPath](https://devpost.com/software/clearpath-chvrpy)
 
@@ -169,7 +169,7 @@ A platform helps students stay connected to class during medical care.
 
 A research platform pairs an evidence workspace with tools for patients to review consent and compensation.
 
-[Demo video](https://www.youtube.com/watch?v=9DtLgJCZ3oQ) · Built with notability, 3dmol, amazon-bedrock, anthropic-claude
+No public code linked · [Demo video](https://www.youtube.com/watch?v=9DtLgJCZ3oQ) · Built with notability, 3dmol, amazon-bedrock, anthropic-claude
 
 ### [Eleven](https://devpost.com/software/eleven-j84ur5)
 
@@ -201,7 +201,7 @@ Fetch Health is a hospital-staff-facing donor and recipient intake and matching 
 
 GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
 
-[Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
+No public code linked · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
 
 ### [GoTrail](https://devpost.com/software/gotrail)
 
@@ -209,7 +209,7 @@ GaitGuard is a wearable sensor system that measures a patient's gait against a p
 
 A hiking app gives users activities to complete outside and helps clinicians suggest walks.
 
-[Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
 
 ### [GridVeda](https://devpost.com/software/gridveda)
 
@@ -233,7 +233,7 @@ A billing assistant reviews medical bills and organizes evidence that patients c
 
 Language shouldn't cut anyone off. Buddy joins any phone call to interpret both sides live and warn people about scams, and gives energy and health hotlines a record of every call.
 
-[Demo video](https://www.youtube.com/watch?v=QRPmRg4-4KU) · Built with elevenlabs, express.js, grok, meta
+No public code linked · [Demo video](https://www.youtube.com/watch?v=QRPmRg4-4KU) · Built with elevenlabs, express.js, grok, meta
 
 ### [InnoPair](https://devpost.com/software/innopair)
 
@@ -241,7 +241,7 @@ Language shouldn't cut anyone off. Buddy joins any phone call to interpret both 
 
 Clinical trials lose millions recruiting, while patients miss life-saving treatments. InnoPair automatically matches patients to trials, helping studies recruit faster and patients find new options.
 
-[Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
 
 ### [Interlude](https://devpost.com/software/interlude-yhdm1t)
 
@@ -257,7 +257,7 @@ Interlude is a companion for the whole care cycle: before, during, and after eve
 
 Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, allocates units, manages payment, and proves delivery through SLA.
 
-[Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
+No public code linked · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
 
 ### [MAVN](https://devpost.com/software/mavn)
 
@@ -265,7 +265,7 @@ Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents fi
 
 One who understands: your healthcare, handled.
 
-[Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
+No public code linked · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
 
 ### [MedBot](https://devpost.com/software/medbot-2e40oh)
 
@@ -321,7 +321,7 @@ Making mobility accessible, cheap, simple. and modular to the health sector and 
 
 Physical therapy fails at home because no one's watching. PhysioPal fixes that — AI pose correction, Apple Health-adaptive routines, and instant physiotherapist escalation, all on-device.
 
-[Code](https://github.com/rutujanemane/PhysioPal) · [Demo video](https://www.youtube.com/watch?v=4mJqV782Fp0) · Built with applehealthkit, melange, ngrok, swift
+[Code](https://github.com/rutujanemane/PhysioPal) · [Demo video](https://www.youtube.com/watch?v=4mJqV782Fp0) · Built with melange, zeticai, applehealthkit, ngrok
 
 ### [ProtocolOS](https://devpost.com/software/protocolos-sjat3b)
 
@@ -345,7 +345,7 @@ Recall helps dementia patients identify faces, recall past conversations, and pr
 
 Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from the first conversation with the patient to the end of the operation.
 
-[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with .tech, blender, c#, cloudflare
+[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with spacetimedb, .tech, blender, c#
 
 ### [Scrubs](https://devpost.com/software/scrubs)
 
@@ -385,7 +385,7 @@ Siteline tells clinics where to open. It learns what drives each practice, pulls
 
 When Parkinson's symptoms mimic a stroke, missing context can mean misdiagnosis. TapChart puts a patient's motor baseline one NFC tap away, giving care teams a vital point of comparison.
 
-[Demo video](https://www.youtube.com/watch?v=A9tN4Z6MoyE) · Built with claude, css, html, javascript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=A9tN4Z6MoyE) · Built with claude, css, html, javascript
 
 ### [Telekinesis](https://devpost.com/software/telekinesis-bvyi5h)
 
@@ -393,7 +393,7 @@ When Parkinson's symptoms mimic a stroke, missing context can mean misdiagnosis.
 
 Gamified clinical trials with computer vision.
 
-[Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
 
 ### [Tendly](https://devpost.com/software/tendly-smolpq)
 
@@ -401,7 +401,7 @@ Gamified clinical trials with computer vision.
 
 Tendly gives elderly patients one button to speak any need. Claude triages it in real time, caregivers get a live priority feed, and Simular automates the rest.
 
-[Demo video](https://www.youtube.com/watch?v=YVdjN4_6iEU) · Built with claude, css, fastapi, html
+No public code linked · [Demo video](https://www.youtube.com/watch?v=YVdjN4_6iEU) · Built with claude, css, fastapi, html
 
 ### [TrialMate](https://devpost.com/software/trialmate)
 
@@ -433,7 +433,7 @@ TrialPilot helps teams compare clinical trial designs across cost, site workload
 
 A browser extension helps users find and understand medical research relevant to women's health.
 
-[Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
+No public code linked · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
 
 ## 2025 winners
 
@@ -459,7 +459,7 @@ Harmoniq is an AI agent system that continuously monitors clinical trial protoco
 
 Monitoring the Health and Safety of First Responders and Military Personnel.
 
-[Code](https://github.com/nipunbatra8/healthbot) · [Demo video](https://www.youtube.com/watch?v=H3TpX43lDUs) · Built with brev.dev, dain, python, tensorflow
+[Code](https://github.com/nipunbatra8/healthbot) · [Demo video](https://www.youtube.com/watch?v=H3TpX43lDUs) · Built with dain, brev.dev, python, tensorflow
 
 ### [AutoCPT](https://devpost.com/software/autocpt)
 
@@ -491,7 +491,7 @@ The team describes the project as “For leaders in high-performance environment
 
 Introducing Caduceo, a Streamlit-based Chatbot for transparent healthcare cost estimate. Integrating MongoDB and Snowflake, it offers the user data on procedure costs, insurance and hospital ratings.
 
-[Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
 
 ### [CareLink](https://devpost.com/software/carelink-mf4qvr)
 
@@ -539,7 +539,7 @@ Sample Generated Case Studies and Similar Patients.
 
 Have you ever imagined a world where navigation is effortless, safety is guaranteed, and health is monitored- all with just a backpack.
 
-[Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
+No public code linked · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
 
 ### [Elda AI](https://devpost.com/software/elda-ai)
 
@@ -547,7 +547,7 @@ Have you ever imagined a world where navigation is effortless, safety is guarant
 
 An eldercare assistant identifies changes in daily behavior and surfaces them to caregivers.
 
-Built with html5, java, javascript, python
+No public code linked · Built with html5, java, javascript, python
 
 ### [HeartTalk](https://devpost.com/software/hearttalk)
 
@@ -587,7 +587,7 @@ Medicus is a digital platform that allows medical device sales reps to upload th
 
 An all-in-one app for understanding medical documentation and tracking medications seamlessly.
 
-[Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
+No public code linked · [Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
 
 ### [MediSim](https://devpost.com/software/medisim)
 
@@ -619,7 +619,7 @@ Fighting Drug Waste, Fueling Health Equity.
 
 MIFY is an all-in-one patient recruitment platform that leverages generative AI to streamline the clinical trial pipeline for both patients and researchers.
 
-Built with amazon-web-services, api, chroma, claude
+No public code linked · Built with amazon-web-services, api, chroma, claude
 
 ### [MonitorMachine](https://devpost.com/software/monitormachine)
 
@@ -643,7 +643,7 @@ Leveraging healthcare data to improve the performance of fighter jet pilots.
 
 integrated AI pain assessment aid to help patients with timing + dosage towards mitigating opioid abuse risk :) won in healthcare Hack@Brown 2025.
 
-Built with css, figma, groq, html
+No public code linked · Built with css, figma, groq, html
 
 ### [Sublytics](https://devpost.com/software/sublytics-h3ks70)
 
@@ -659,7 +659,7 @@ Rescue failed clinical trials by discovering hidden responder subgroups using AI
 
 The architecture is based off of deep generative models such as GAIN and conditional GANs to impute missing clinical data while preserving correlation and variance.
 
-[Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k) · Built with numpy, pandas, python, tensorflow
+No public code linked · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k) · Built with numpy, pandas, python, tensorflow
 
 ### [TheraMind](https://devpost.com/software/theramind)
 
@@ -675,7 +675,7 @@ Less paperwork, more patient care: the AI therapist's assistant.
 
 40% of patients drop out of clinical trials before completion, and scheduling friction drives a large share of attrition.
 
-[Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
 
 ### [TrialGuideAI](https://devpost.com/software/trialguideai)
 
@@ -683,7 +683,7 @@ Less paperwork, more patient care: the AI therapist's assistant.
 
 TrialGuideAI uses AI to distill dense clinical trial protocols into accessible summaries, infographics, and videos that empower patients to understand studies and their broader impact on science.
 
-[Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY) · Built with css, gemini, git, html
+No public code linked · [Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY) · Built with css, gemini, git, html
 
 ### [trialmatch.ai](https://devpost.com/software/trial-match-ai)
 
@@ -765,7 +765,7 @@ Preventable medical errors like misdiagnosis are 38% more likely when a doctor i
 
 Making ABLLS-R assessments easier for behavioral clinicians who provide therapy to individuals with autism.
 
-Built with amazon-web-services, css, html, javascript
+No public code linked · Built with amazon-web-services, css, html, javascript
 
 ### [Echocare](https://devpost.com/software/echocare-i6csrv)
 
@@ -781,7 +781,7 @@ Echocare is an intuitive platform designed to assist users in locating and conne
 
 "Healora, powered by Nurse Joy, uses empathetic AI for symptom tracking and predictive analysis, helping patients receive faster care while easing the workload for healthcare professionals.".
 
-[Demo video](https://www.youtube.com/watch?v=0LENXMAW3Cs) · Built with hume.ai, fastapi, fetch.ai, figma
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0LENXMAW3Cs) · Built with hume.ai, fastapi, fetch.ai, figma
 
 ### [Healthcare Helper](https://devpost.com/software/healthcare-helper)
 
@@ -789,7 +789,7 @@ Echocare is an intuitive platform designed to assist users in locating and conne
 
 The doctor can view this before a patient visit and gain more information to better and more efficiently help the patient.
 
-[Code](https://github.com/qwopp/healthcare-helper) · [Demo video](https://www.youtube.com/watch?v=JMK3KGh9Wr8) · Built with cartesia-sonic, flask, google-ai-breadboard, html
+[Code](https://github.com/qwopp/healthcare-helper) · [Demo video](https://www.youtube.com/watch?v=JMK3KGh9Wr8) · Built with google-ai-breadboard, cartesia-sonic, flask, html
 
 ### [MedKnight](https://devpost.com/software/medknight)
 
@@ -805,7 +805,7 @@ A one-of-a-kind, AR assistant medical system is made to guide first emergency fi
 
 an AI platform that automates data entry from text and speech, anonymizes patient information, and delivers treatment recommendations, enhancing diagnostic accuracy for healthcare professionals.
 
-Built with cloudfare, flask, nextjs, openai-api
+No public code linked · Built with cloudfare, flask, nextjs, openai-api
 
 ### [Repro-Health Companion Bot](https://devpost.com/software/repro-health-companion-bot)
 
@@ -821,7 +821,7 @@ AI Chatbot that helps bridge the gap between healthcare providers and patients b
 
 SimplySign aims to make ASL more accessible and bring people together, whether by facilitating communication between patients and healthcare providers, or simply giving students a tool to practice.
 
-Built with css, github, html, javascript
+No public code linked · Built with css, github, html, javascript
 
 ### [SnapSecure](https://devpost.com/software/snapsecure)
 
@@ -879,7 +879,7 @@ Kaizen is a therapeutic journal for patients with a focus on privacy. Patients c
 
 Mindful Me is a website that allows and encourages users to complete daily mental health checks in and provides tailored mental health resources based on a user's identity.
 
-[Demo video](https://www.youtube.com/watch?v=dF6Cx_b8CjA) · Built with cassandra, css, datastax-astra, flask
+No public code linked · [Demo video](https://www.youtube.com/watch?v=dF6Cx_b8CjA) · Built with cassandra, css, datastax-astra, flask
 
 ### [pupil](https://devpost.com/software/pupil-3sctez)
 
@@ -929,6 +929,6 @@ Choose between a private insurance system, a national model, or something else e
 
 Very fast, secure log in systems for healthcare professionals.
 
-Built with electron, ios, node.js, swift
+No public code linked · Built with electron, ios, node.js, swift
 
 [Back to top](#health-and-care)

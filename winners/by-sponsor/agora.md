@@ -23,6 +23,8 @@
 
 Deep Retention of Concepts using research-backed techniques.
 
+**How it used Agora:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Priyansh4444/DeeR) · [Demo video](https://www.youtube.com/watch?v=1LN9q6boel8) · Built with cartesia, chromadb, deepgram, fastapi
 
 ### [Notefly - AI Meeting Notes on the Fly](https://devpost.com/software/notefly-ai-meeting-notes-on-the-fly)

@@ -23,6 +23,8 @@
 
 Transforming arthritis rehabilitation by advanced posture detection ensures correct movements. Gamify your recovery by drawing shapes with your body—making recovery fun and accelerating healing.
 
+**How it used AllHealth:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Shameed4/Flexy) · [Demo video](https://www.youtube.com/watch?v=l7krRFZL9R8) · Built with blockchain, cloudflare, cosine, flask
 
 ## Track names and requirements

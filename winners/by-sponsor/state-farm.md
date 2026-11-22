@@ -23,6 +23,8 @@
 
 ANCHOR connects a device in the customer’s home to a claims dashboard that State Farm agents can see.
 
+**How it used State Farm:** ANCHOR connects a device in the customer’s home to a claims dashboard that State Farm agents can see.
+
 [Code](https://github.com/aparnabalaji07/anchor) · [Demo video](https://www.youtube.com/watch?v=aimbrYK_4GA) · Built with arduino, c++, canva, esp32
 
 ### [Halo](https://devpost.com/software/halo-1q59hf)
@@ -30,6 +32,8 @@ ANCHOR connects a device in the customer’s home to a claims dashboard that Sta
 [ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-halo-1q59hf) · **State Farm**
 
 Halo is a smart bike helmet that watches the road behind you and warns you about what's coming before it reaches you, so you don't have to turn your head.
+
+**How it used State Farm:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/billpquach/halo) · [Demo video](https://www.youtube.com/watch?v=rlAuXaz6g6s) · Built with adk, arduino, javascript, opencv
 
@@ -39,7 +43,9 @@ Halo is a smart bike helmet that watches the road behind you and warns you about
 
 LifeLine is a disaster recovery platform that connects residents, responders, and organizations in real time.
 
-[Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
+**How it used State Farm:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
 ### [SafeHome](https://devpost.com/software/safehome-tqfu6n)
 
@@ -47,7 +53,9 @@ LifeLine is a disaster recovery platform that connects residents, responders, an
 
 Privacy-first home safety system that detects hazards like leaks and power loss, alerts homeowners early, and securely shares incident details with approved contacts.
 
-[Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
+**How it used State Farm:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
 
 ## 2025 winners
 
@@ -57,6 +65,8 @@ Privacy-first home safety system that detects hazards like leaks and power loss,
 
 GreenLight turns dashcam footage into a learning tool. Incidents become 3D simulations in Three.js with a quiz to boost your driving score, reinforce learning, plus tips on safe driving and insurance.
 
+**How it used State Farm:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/thashin04/GreenLight-Driving) · [Demo video](https://www.youtube.com/watch?v=WQnBQUI-LtE) · Built with adk, firebase, gemini, google
 
 ### [MirrorAPI](https://devpost.com/software/mirror-api)
@@ -64,6 +74,8 @@ GreenLight turns dashcam footage into a learning tool. Incidents become 3D simul
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-mirror-api) · **StateFarm**
 
 Compare Your API Versions with Confidence.
+
+**How it used State Farm:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ParsaBazrpash/MirrorAPI) · [Demo video](https://www.youtube.com/watch?v=zJ3Deft3lVo) · Built with react, typescript
 
@@ -73,13 +85,17 @@ Compare Your API Versions with Confidence.
 
 Learn how to take your Next Step in insurance education by practicing in high pressure scenarios.
 
-[Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
+**How it used State Farm:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
 
 ### [qAPIbara](https://devpost.com/software/in-progress-2awbie)
 
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-in-progress-2awbie) · **StateFarm**
 
 qAPIbara is an AI-powered regression analysis platform that automatically compares, tests, and explains API version differences.
+
+**How it used State Farm:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/nathanhanxp/qAPIbara) · [Demo video](https://www.youtube.com/watch?v=TCHkbt_CPrM) · Built with javascript, python, react
 
@@ -89,13 +105,17 @@ qAPIbara is an AI-powered regression analysis platform that automatically compar
 
 Gamified Experience: Players engage in quirky yet educational tasks, from fetching coffee for the elusive "King Rat" (the boss) to handling customer claims with empathy and professionalism.
 
-[Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
+**How it used State Farm:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
 
 ### [UpGuardian](https://devpost.com/software/upguard)
 
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-upguard) · **StateFarm**
 
 Struggling with accidentally making subtle breaking changes to your APIs? Are those sensitive unit tests failing all of the time even though unimportant things have changed.
+
+**How it used State Farm:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Arian04/UpGuardian) · [Demo video](https://www.youtube.com/watch?v=VLvWZeT5NOk) · Built with fastapi, flutter, nemotron, python
 
@@ -107,13 +127,17 @@ Struggling with accidentally making subtle breaking changes to your APIs? Are th
 
 The goal is to educate and guide students in a simple and fun way.
 
-Built with css, html
+**How it used State Farm:** Sponsor use not stated on Devpost
+
+No public code linked · Built with css, html
 
 ### [Treasure Keepers](https://devpost.com/software/treasure-keepers)
 
 [ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-treasure-keepers) · **Statefarm**
 
 The team offer many different ways for people to improve their finances.
+
+**How it used State Farm:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Juuicee/ShellHacks-2024) · Built with css, html, openai, python
 

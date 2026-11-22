@@ -23,6 +23,8 @@
 
 The autonomous command center for your academic life.
 
+**How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/purabshah12/bitcamp2026) · [Demo video](https://www.youtube.com/watch?v=eRcqv4_pCCQ) · Built with css, elevenlabs-tts, fastapi, framer-motion
 
 ### [EcoBuddy](https://devpost.com/software/ecobuddy-i4dyre)
@@ -30,6 +32,8 @@ The autonomous command center for your academic life.
 [Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-ecobuddy-i4dyre) · **TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft**
 
 EcoBuddy gamifies sustainability—track your actions, level up your buddy, and earn real rewards for making UMD greener.
+
+**How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/KaushalGorla/eco-buddy-voice) · [Demo video](https://www.youtube.com/watch?v=r4HnScF_29w) · Built with api, idempotent-pipelines, languages:-javascript, modular
 
@@ -39,7 +43,9 @@ EcoBuddy gamifies sustainability—track your actions, level up your buddy, and 
 
 An AI safety net for UMD students. TerpWallet watches your bank account and connects you to free campus resources, Campus Pantry, SafeRide, emergency funds, before you go broke.
 
-[Code](https://github.com/rishikathakre/terpwallet-ai) · [Demo video](https://www.youtube.com/watch?v=vD4VIui3jSs) · Built with auth0, azure, capital-one-nessie-api, cloudforce
+**How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/rishikathakre/terpwallet-ai) · [Demo video](https://www.youtube.com/watch?v=vD4VIui3jSs) · Built with azure, cloudforce, auth0, capital-one-nessie-api
 
 ## 2025 winners
 
@@ -49,6 +55,8 @@ An AI safety net for UMD students. TerpWallet watches your bank account and conn
 
 Fighting Drug Waste, Fueling Health Equity.
 
+**How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/arsh-goenka/MedSave) · Built with css, flask, googleauth, html
 
 ### [Roameo](https://devpost.com/software/roameo-dtrzau)
@@ -56,6 +64,8 @@ Fighting Drug Waste, Fueling Health Equity.
 [Bitcamp 2025](../by-hackathon/bitcamp-2025.md#project-roameo-dtrzau) · **Best Use of GenAI in Business - Cloudforce/Microsoft**
 
 Complex API management and integration, especially in dynamic, real-time scenarios.
+
+**How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Vitthal-Agarwal/travel) · [Demo video](https://www.youtube.com/watch?v=dqq1xoLwDOY) · Built with browser-use, elevenlabs, flask, gemini
 
@@ -65,7 +75,9 @@ Complex API management and integration, especially in dynamic, real-time scenari
 
 SkinForReal is a GenAI skincare app that uses daily selfies to detect skin issues, track product impact, and deliver personalized, real-time insights and safety alerts.
 
-[Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, faceai, flutter
+**How it used Cloudforce / Microsoft:** Successfully integrated Microsoft Azure Face API to detect visible skin conditions from live user selfies.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, vscode, faceai
 
 ## Track names and requirements
 

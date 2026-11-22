@@ -23,13 +23,17 @@
 
 Independent Agentic AI oversight that tracks every dollar from owner to management company to vendor, so owners catch problems before they affect finances, operations or relationships.
 
-[Code](https://github.com/ozr0013/AccountableAI) · [Demo video](https://www.youtube.com/watch?v=3eNnbQb081M) · Built with .md, agent, agentic, ai
+**How it used Microsoft:** The team used Visual Studio Code for front-end development.
+
+[Code](https://github.com/ozr0013/AccountableAI) · [Demo video](https://www.youtube.com/watch?v=3eNnbQb081M) · Built with visual-studio, .md, agent, agentic
 
 ### [CADVision](https://devpost.com/software/cadvision)
 
 [ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-cadvision) · **Microsoft**
 
 CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN AI helps engineers inspect designs, surface issues, and understand complex assemblies faster.
+
+**How it used Microsoft:** The team wrote its SolidWorks add-in in Microsoft's C# to extract assembly information.
 
 [Code](https://github.com/BAAA-Hacks/cad-vision) · [Demo video](https://www.youtube.com/watch?v=0-bYjncKWIs) · Built with c#, elevenlabs, geminiapi, metaquest
 
@@ -39,7 +43,9 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 
 A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
 
-[Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
+**How it used Microsoft:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
 
 ### [Spitball](https://devpost.com/software/spitball)
 
@@ -47,13 +53,17 @@ A project designed to be an open-source repository diagnostic and repair platfor
 
 Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
 
-[Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
+**How it used Microsoft:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
 
 ### [Standard Response](https://devpost.com/software/standard-response)
 
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-standard-response) · **Built for the Real World (1st), Customer Impact Award**
 
 An emergency response dashboard helps teams coordinate mass evacuation and identify people who need help leaving.
+
+**How it used Microsoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Imhaohao/Standard-Response) · [Demo video](https://www.youtube.com/watch?v=eNsAGHFnFJY) · Built with anthropic, apify, cartesia, claude
 
@@ -65,6 +75,8 @@ An emergency response dashboard helps teams coordinate mass evacuation and ident
 
 Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body movements into computer input.
 
+**How it used Microsoft:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with css3, electron, gemini, google-a2a
 
 ### [PrepBear](https://devpost.com/software/prep-bear)
@@ -72,6 +84,8 @@ Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body 
 [ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-prep-bear) · **Microsoft**
 
 A web-app developed to help prep students for their technical interviews through the use of AI mock interviewer.
+
+**How it used Microsoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Albertoh16/Bear-Necessities) · [Demo video](https://www.youtube.com/watch?v=uNDWa84R2Aw) · Built with gemini, javascript, react
 
@@ -81,7 +95,9 @@ A web-app developed to help prep students for their technical interviews through
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-[Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
+**How it used Microsoft:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
 
 ## 2024 winners
 
@@ -91,13 +107,17 @@ A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
-Built with .net, apis, c#, meta
+**How it used Microsoft:** Sponsor use not stated on Devpost
+
+No public code linked · Built with .net, apis, c#, meta
 
 ### [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning)
 
 [ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-arsl-vr-asl-learning) · **Microsoft**
 
 Learn ASL in AR through Computer Vision and Hand Tracking.
+
+**How it used Microsoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c, c-sharp, embedded, hardware
 
@@ -106,6 +126,8 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 [ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-lotion-ai-ar) · **Microsoft**
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
+
+**How it used Microsoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
 
@@ -119,7 +141,7 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 
 **How it used Microsoft:** Integrating many different complex technologies together including 4 AWS Services, Microsoft's Computer Vision Azure API, and a Google Chrome Extension.
 
-Built with amazon-dynamodb, amazon-web-services, aws-api-gateway, azure
+No public code linked · Built with azure, amazon-dynamodb, amazon-web-services, aws-api-gateway
 
 ## 2018 winners
 
@@ -129,7 +151,9 @@ Built with amazon-dynamodb, amazon-web-services, aws-api-gateway, azure
 
 A self-writing journal of your life, with superpowers.
 
-Built with javascript, jupyter-notebook, keras, node.js
+**How it used Microsoft:** Sponsor use not stated on Devpost
+
+No public code linked · Built with javascript, jupyter-notebook, keras, node.js
 
 ## 2017 winners
 
@@ -138,6 +162,8 @@ Built with javascript, jupyter-notebook, keras, node.js
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-pure-interact) · **Sponsor Prize - Microsoft - Best Microsoft Hack**
 
 Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Learning.
+
+**How it used Microsoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/96imranahmed/pure-interaction) · Built with cntk, css3, html5, javascript
 
@@ -148,6 +174,10 @@ Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Lear
 [HackMIT 2016](../by-hackathon/hackmit-2016.md#project-gaze-09xkmb) · **Best Use of Microsoft Technology**
 
 Gaze organizes un-organized videos to help the user interpret and navigate visual information.
+
+**How it used Microsoft:** Sponsor use not stated on Devpost
+
+No public code linked
 
 ## Track names and requirements
 

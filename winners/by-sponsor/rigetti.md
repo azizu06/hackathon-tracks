@@ -23,9 +23,9 @@
 
 The pharmacy of the future: an automated medicine dispenser &amp; streamlined method for securely acquiring prescriptions.
 
-**How it used Rigetti:** Next, this authorization is piped into Rigetti’s quantum computing platform, in which an entangled pair of quantum bits is generated as highly secure authorization tokens.
+**How it used Rigetti:** One developed the integration with Rigetti's quantum computing platform, alongside a Rigetti representative who marveled at this unique application of quantum computing.
 
-[Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
+No public code linked · [Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
 
 ## Track names and requirements
 

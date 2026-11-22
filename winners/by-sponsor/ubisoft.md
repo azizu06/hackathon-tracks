@@ -23,6 +23,8 @@
 
 The team describes the project as “But Gesse get no merch”.
 
+**How it used Ubisoft:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/nayanmapara/GeeseLoveMerch) · [Demo video](https://www.youtube.com/watch?v=cepJ_1Lz2-g) · Built with ai-assets, blender, c, github
 
 ### [Hack the Bomb](https://devpost.com/software/hack-the-bomb)
@@ -30,6 +32,8 @@ The team describes the project as “But Gesse get no merch”.
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-hack-the-bomb) · **Ubisoft Game Dev Challenge**
 
 Hackathons aren't always about improving the world. Sometimes they're about saving the world.
+
+**How it used Ubisoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Greb-the-awesome/hack-the-bomb) · Built with blender, c#, unity, visual-studio
 
@@ -39,13 +43,17 @@ Hackathons aren't always about improving the world. Sometimes they're about savi
 
 A VR game about catching and firing arrows to delay the inevitable.
 
-[Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
+**How it used Ubisoft:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
 
 ### [Shop The North](https://devpost.com/software/shop-the-north)
 
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-shop-the-north) · **Ubisoft Game Dev Challenge**
 
 Sometimes online shopping can be dull, and most of all, turn away customers who are unsure about buying clothes online. VR will allow for customers to try on clothing in a virtual world.
+
+**How it used Ubisoft:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/BenBoguslavsky18/HTN_VR) · [Demo video](https://www.youtube.com/watch?v=igOuQHgEvto) · Built with c#, github, json, oculus-gear-vr
 

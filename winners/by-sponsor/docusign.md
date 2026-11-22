@@ -25,7 +25,7 @@
 
 **How it used DocuSign:** AgreeAble integrates with with the DocuSign Click API to sign agreements quickly and securely.
 
-Built with docusign, azure, css, django
+No public code linked · Built with docusign, azure, css, django
 
 ### [Disaster Relief](https://devpost.com/software/memory-qnsyo2)
 
@@ -33,7 +33,7 @@ Built with docusign, azure, css, django
 
 Helping terrible men control the consequences of their actions.
 
-**How it used DocuSign:** The team use the Docusign Python API in tandem with a Flask server to allow for queries of a user's docusign envelopes through a web interface.
+**How it used DocuSign:** The team uses the Docusign Python API in tandem with a Flask server to allow for queries of a user's docusign envelopes through a web interface.
 
 [Code](https://github.com/SreyaV/memory) · Built with docusign, flask, html, python
 
@@ -42,6 +42,8 @@ Helping terrible men control the consequences of their actions.
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-gpuppy) · **Best Use of the DocuSign Agreement Cloud APIs**
 
 Share underutilized GPU power for machine learning education.
+
+**How it used DocuSign:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/as-com/gpuppy)
 
@@ -65,7 +67,7 @@ The product summarizes the content of documents into a few key lines which will 
 
 **How it used DocuSign:** Then using DocuSign's API, the user can share the contract to be signed by the recipient.
 
-Built with docusign, beautiful-soup, bootstrap, css
+No public code linked · Built with docusign, beautiful-soup, bootstrap, css
 
 ## Track names and requirements
 

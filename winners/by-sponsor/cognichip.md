@@ -23,6 +23,8 @@
 
 Runs YOLOv10n (NMS-free) at 640×640, 80-class COCO entirely on-chip — no DRAM weight traffic.
 
+**How it used Cognichip:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/kejiwuxian/SiliconYOLO) · [Demo video](https://www.youtube.com/watch?v=0lajMaVrj0A) · Built with cognichip, claude-code, digilent-genesys-2(kintex-7-xc7k325t), int8/csd-multiplier-less-arithmetic
 
 ## Track names and requirements

@@ -127,12 +127,13 @@ def project_details(html):
                 paragraphs.append((heading, safe))
     source_links = set()
     demo_links = set()
-    for _, url, _ in PageLinks(app_links(left)).links:
-        kind, link = normalized_link(url)
-        if kind == "demo":
-            demo_links.add(link)
-        if kind == "source":
-            source_links.add(link)
+    for _, urls, _ in PageLinks(app_links(left)).links:
+        for url in re.split(r",\s+(?=https?://)", urls):
+            kind, link = normalized_link(url)
+            if kind == "demo":
+                demo_links.add(link)
+            if kind == "source":
+                source_links.add(link)
     story_sources = set()
     for tag, url, label in PageLinks(story_html).links:
         kind, link = normalized_link(url)
@@ -141,6 +142,10 @@ def project_details(html):
         if kind == "source" and re.search(r"(?i)source code|github|repo(?:sitory)?|our code", label):
             story_sources.add(link)
     if not source_links:
+        for url in re.findall(r"\bgit clone\s+(https?://[^\s<>]+)", story_html):
+            kind, link = normalized_link(url)
+            if kind == "source" and urlsplit(link).path.split("/")[1] != "your-repo":
+                story_sources.add(link)
         source_links = story_sources
     name = clean(data["name"])
     return Project(

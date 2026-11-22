@@ -23,7 +23,9 @@
 
 Flashback is a VR experience that transforms your cherished memories into immersive, interactive exhibits. Relive key moments as photos, videos, and soundbites come alive in 3D environments.
 
-[Demo video](https://www.youtube.com/watch?v=heeJFvhzwao) · Built with c#, convex, express.js, figma
+**How it used Intuit:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=heeJFvhzwao) · Built with c#, convex, express.js, figma
 
 ## 2013 winners
 
@@ -32,6 +34,8 @@ Flashback is a VR experience that transforms your cherished memories into immers
 [HackMIT 2013](../by-hackathon/hackmit-2013.md#project-balance) · **API Innovation Award**
 
 A Pebble Smartwatch app which uses the Intuit Customer Account Data API to monitor the user's bank account balance and update it on the Pebble's screen as they buy things.
+
+**How it used Intuit:** A Pebble Smartwatch app which uses the Intuit Customer Account Data API to monitor the user's bank account balance and update it on the Pebble's screen as they buy things.
 
 [Code](https://github.com/ajwootto/Alerta)
 

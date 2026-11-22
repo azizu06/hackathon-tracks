@@ -23,6 +23,8 @@
 
 Fight for the top position in a HackTheNorth lip-syncing challenge.
 
+**How it used Symphonic Labs:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, nextjs, symphonic-labs, web
 
 ### [SpyWatch](https://devpost.com/software/spywatch)
@@ -41,7 +43,9 @@ Spy on your enemies (or your friends) by reading their lips through a live drone
 
 Unmute is designed for those private moments during video calls when you can't speak out loud, yet still want to fully participate in the conversation.
 
-Built with figma, flask, react, symphonic
+**How it used Symphonic Labs:** Sponsor use not stated on Devpost
+
+No public code linked · Built with figma, flask, react, symphonic
 
 ## Track names and requirements
 

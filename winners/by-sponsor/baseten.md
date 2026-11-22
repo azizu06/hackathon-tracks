@@ -23,6 +23,8 @@
 
 An agent loop that searches fusions, layouts and launch structure trying to approach the memory bandwidth floor.
 
+**How it used Baseten:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/cogniera/neoKernel) · Built with claude, codex, cuda, python
 
 ### [VoiceBridge](https://devpost.com/software/voicebridge-xh0nv9)
@@ -42,6 +44,8 @@ Dysarthric speech recovery, in your own voice.
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-salient-9ohv4q) · **Best Use of Open Source Models**
 
 The system rethinks video compression by mirroring how the human eye perceives importance in a scene.
+
+**How it used Baseten:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/k-kochhar/Salient) · [Demo video](https://www.youtube.com/watch?v=bSFhoFY6hIY) · Built with baseten, amazon-web-services, ffmeg, next
 

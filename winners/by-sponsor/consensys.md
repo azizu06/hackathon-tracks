@@ -23,7 +23,9 @@
 
 DecentPass is a decentralized application that stores your passwords securely on the Ethereum blockchain.
 
-Built with ethereum, metamask, node.js, solidity
+**How it used ConsenSys:** Sponsor use not stated on Devpost
+
+No public code linked · Built with ethereum, metamask, node.js, solidity
 
 ## Track names and requirements
 

@@ -41,7 +41,7 @@ A sovereign AI security mesh that detects threats, coordinates autonomous agents
 
 Elevated and autonomous security for the vibe coded world. Argus deploys five specialized agents to attack your app in a sandbox, prove vulnerabilities, generate fixes, and verify the patch works.
 
-[Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
+No public code linked · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
 
 ### [Athena](https://devpost.com/software/callguard)
 
@@ -89,7 +89,7 @@ Fire Drill runs invoice fraud against an accounts-payable agent as a drill , by 
 
 Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity control platform that detects intrusion activity and converts security signals into immediate defensive actions.
 
-[Code](https://github.com/Eth007/gallop) · [Demo video](https://www.youtube.com/watch?v=QRSf0SUPioM) · Built with elastic, codex, ebpf, elasticcloud
+[Code](https://github.com/Eth007/gallop) · [Demo video](https://www.youtube.com/watch?v=QRSf0SUPioM) · Built with elastic, elasticsearch, codex, ebpf
 
 ### [Inbox Invaders](https://devpost.com/software/inbox-invaders)
 
@@ -97,7 +97,7 @@ Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity con
 
 A Roblox tower-defense game teaches players to recognize phishing messages and malware.
 
-[Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
+No public code linked · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
 
 ### [PinkyPromise](https://devpost.com/software/pinkypromise)
 
@@ -121,7 +121,7 @@ Approve at-home iPLEDGE pregnancy tests in one tap, with fraud checks and an aud
 
 Poysson is a game-style training platform covering five attack types: ransomware, SIM-swap fraud, smishing, phishing, and insider/vendor leaks.
 
-[Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
+No public code linked · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
 
 ### [Red Ledger](https://devpost.com/software/red-ledger)
 
@@ -137,7 +137,7 @@ A live fraud agent attacks an AI accounts-payable clerk while a controller gates
 
 Privacy-first home safety system that detects hazards like leaks and power loss, alerts homeowners early, and securely shares incident details with approved contacts.
 
-[Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
+No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
 
 ### [STING](https://devpost.com/software/sting-bfqvia)
 
@@ -145,7 +145,7 @@ Privacy-first home safety system that detects hazards like leaks and power loss,
 
 STING is AI anti-scam protection that protects elderly and naive users from phishing, fake stores, and risky sites in real time — stopping scams before money is lost and making scammers unprofitable.
 
-[Demo video](https://www.youtube.com/watch?v=YHRKJ472k7k) · Built with simular, simular-for-autonomous-qa-testing, anthropic, anthropic-claude
+No public code linked · [Demo video](https://www.youtube.com/watch?v=YHRKJ472k7k) · Built with simular, simular-for-autonomous-qa-testing, anthropic, anthropic-claude
 
 ### [Trojan](https://devpost.com/software/trojan)
 
@@ -179,7 +179,7 @@ Complete AI agent ecosystem for fraud detection &amp; banking. Multiple speciali
 
 MedChain: A blockchain-powered app for secure, verifiable prescriptions. Built on Base with smart contracts and IPFS to eliminate fraud and streamline doctor–pharmacist workflows.
 
-[Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
 
 ### [MediLedger](https://devpost.com/software/mediledger)
 
@@ -253,7 +253,7 @@ ANGEL'S PROTECTION processes live video feeds, storing data based on individuals
 
 Blockchain and AI Based Verification for a Fraud-Free Future.
 
-Built with css, ganache, google-cloud, javascript
+No public code linked · Built with css, ganache, google-cloud, javascript
 
 ### [Cyberwright](https://devpost.com/software/cyberwright)
 
@@ -277,7 +277,7 @@ AI-driven solution designed to detect and prevent fraudulent financial transacti
 
 Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay smart, and learn to protect your online world effortlessly.
 
-Built with charm.sh, go, ngrok, sqlite
+No public code linked · Built with charm.sh, go, ngrok, sqlite
 
 ### [Vanguard](https://devpost.com/software/vanguard-lm40dt)
 
@@ -313,6 +313,6 @@ The automation of mask security for stores.
 
 Social Security helps to combat social media spam and ensures you never tweet the wrong thing.
 
-Built with sendgrid, alchemyapi, google-prediction, mongodb
+No public code linked · Built with sendgrid, alchemyapi, google-prediction, mongodb
 
 [Back to top](#security-and-privacy)

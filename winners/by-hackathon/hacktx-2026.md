@@ -56,8 +56,8 @@ Diagnosis, coverage and care in one.
 - **Code:** [Source 1](https://github.com/buildingBuild/HackTX-Project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=itEdbNrkp0M)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Snowflake API · &#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge
-- **How it used Snowflake:** Low severity: repair guides and videos for that exact car and fault code.
-- **How it used Toyota Financial Services:** Low severity: repair guides and videos for that exact car and fault code.
+- **How it used Snowflake:** Sponsor use not stated on Devpost
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -86,7 +86,7 @@ Helping employee ideas get off the ground.
 - **Code:** [Source 1](https://github.com/malki-aal/MalakaiSaleh_H26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RvQH93zIyyM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
-- **How it used .Tech Domains:** An employee describes an item, quantity, budget, deadline, and required specifications.
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -113,7 +113,7 @@ One unexpected expense can trigger a chain of financial crisis. BreakingPoint bu
 - **Code:** [Source 1](https://github.com/MMehta45/hacktx26)
 - **Demo video:** [Video 1](https://vimeo.com/1239255718)
 - **All prizes at this hackathon (1):** &#91;Capital One&#93; The Best Use of Nessie
-- **How it used Capital One:** The project lists nessie among its Built With tags.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -130,7 +130,7 @@ One unexpected expense can trigger a chain of financial crisis. BreakingPoint bu
 
 New city, used car, nobody to ask? Junction finds owners who’ve had your problem: how it was fixed, what it cost, who fixed it.
 
-[Code](https://github.com/madmax-10/junction) · [Demo video](https://www.youtube.com/watch?v=kixGH1NAsAo) · Built with gemini, django, google-adk, javascript
+[Code](https://github.com/madmax-10/junction) · [Demo video](https://www.youtube.com/watch?v=kixGH1NAsAo) · Built with gemini, google-adk, django, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -140,7 +140,7 @@ New city, used car, nobody to ask? Junction finds owners who’ve had your probl
 - **Code:** [Source 1](https://github.com/madmax-10/junction)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kixGH1NAsAo)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The team designed Junction around a multi-agent architecture using Google Agent Development Kit (ADK) and Gemini .
+- **How it used Google:** The team designed Junction around a multi-agent architecture using Google Agent Development Kit (ADK) and Gemini.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ Your friends shouldn't have to ask. CloseMates gives everyone a FirstMate, an AI
 - **Code:** [Source 1](https://github.com/sendtovishnu/hacktx26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dcHFqio6nO0)
 - **All prizes at this hackathon (1):** &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI
-- **How it used Meta:** The project lists meta-muse-spark among its Built With tags.
+- **How it used Meta:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -190,7 +190,7 @@ Physical Robot Icebreaker Game; Fate, with a little help from Tina.
 - **Code:** [Source 1](https://github.com/Dhivyeshp/hacktx_26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=V9zV0iFYMNA)
 - **All prizes at this hackathon (1):** &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI
-- **How it used Meta:** Destina is a tabletop party game for a group of friends, hosted by Tina.
+- **How it used Meta:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -213,7 +213,7 @@ A quiet voice in your ear that remembers the people you love.
 - **Code:** [Source 1](https://github.com/harshaldhaduk/myst)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3lROw3SQE4s)
 - **All prizes at this hackathon (1):** &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI
-- **How it used Meta:** 🛣️ Next: testing with strangers and with no one in view, timed end-to-end runs, Meta's accessibility approval, alerts for remote family, and testing the voice with real caregivers.
+- **How it used Meta:** Myst uses Ray-Ban Meta glasses and the Wearables Device Access Toolkit to take photos on demand.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -230,17 +230,17 @@ A quiet voice in your ear that remembers the people you love.
 
 Once you describe a job, Astronom builds a budgeted, permission-checked AI agent team, red-teams it, and fixes what breaks, with approval at every step, using its multi-agent swarm technology.
 
-[Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** composio, drizzle-orm, meta-muse-spark-1.3, muse, next.js, react, serpapi, sqlite, supabase, tailwind-css, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xa1DizYqCy0)
 - **All prizes at this hackathon (1):** &#91;NMC2&#93; Build the Platform Behind the Agent
-- **How it used Northmark Compute &amp; Cloud:** Astronom is a platform for creating and managing teams of AI agents.
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -263,7 +263,7 @@ Reagent is a platform that helps teams build, test, and deploy reusable AI agent
 - **Code:** [Source 1](https://github.com/hanhg/Reagent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1d5MmQX5EGY)
 - **All prizes at this hackathon (1):** &#91;NMC2&#93; Build the Platform Behind the Agent
-- **How it used Northmark Compute &amp; Cloud:** Reagent is an enterprise AI agent platform that standardizes how agents are created, configured, tested, deployed, and monitored.
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -286,7 +286,7 @@ The full-lifecycle platform for enterprise AI agents: build from shared parts, c
 - **Code:** [Source 1](https://github.com/Suvan8806/shipyard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kCbge5WdPYM)
 - **All prizes at this hackathon (1):** &#91;NMC2&#93; Build the Platform Behind the Agent
-- **How it used Northmark Compute &amp; Cloud:** Shipyard is the platform behind the agent.
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -336,7 +336,7 @@ Dance Fantasy turns any song into an original dance routine, taught by a 3D danc
 - **Code:** [Source 1](https://github.com/luvudeshi/dance-fantasy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DB1vOln3nSA)
 - **All prizes at this hackathon (2):** &#91;Best Overall&#93; Cinderella's Castle · &#91;SerpApi&#93; Best Use of SerpApi
-- **How it used SerpApi:** The project lists serpapi among its Built With tags.
+- **How it used SerpApi:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -359,7 +359,7 @@ A world of stories. A story only you can tell.
 - **Code:** [Source 1](https://github.com/TanishC4444/ParaMyth)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nDaxrcF-xis)
 - **All prizes at this hackathon (1):** &#91;SerpApi&#93; Best Use of SerpApi
-- **How it used SerpApi:** The project lists serpapi among its Built With tags.
+- **How it used SerpApi:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -382,17 +382,17 @@ Also won this track: [Drivn](#project-car-of-the-future) (listed above)
 
 Orkis makes it easy for people and enterprise teams to launch and manage AI agents. Orkis configures the agents and coordinates their work, with each new agent reusing the setup you already have.
 
-[Demo video](https://www.youtube.com/watch?v=GxNBCI4yyYI) · Built with alembic, better-auth, caddy, claude
+No public code linked · [Demo video](https://www.youtube.com/watch?v=GxNBCI4yyYI) · Built with alembic, better-auth, caddy, claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** alembic, better-auth, caddy, claude, docker, fastapi, firecracker, hermes-agent, mcp, meta-muse, next.js, postgresql, pydantic, python, react, react-flow, serpapi, shadcn/ui, sqlalchemy, tailwind-css, typescript, vultr
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GxNBCI4yyYI)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** Building an agent shouldn't become another IT ticket.
+- **How it used Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -419,6 +419,7 @@ Every one of the team has struggled with being the "new kid" at school, or just 
 - **Code:** [Source 1](https://github.com/Ethanwashere1/HackTX-Project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gzq8r-Xo2YY)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
+- **How it used SpaceXSI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -435,14 +436,14 @@ Every one of the team has struggled with being the "new kid" at school, or just 
 
 AI-native workflows, built straight from your existing SOPs.
 
-[Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
+No public code linked · [Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** caddy, capital-one-nessie, docker, fastapi, google-finance, google-gemini, google-oauth, lucide, next.js, postgresql, pytest, python, react, sec-edgar, serp-api, simpleeval, tailwind-css, tiger-data, timescaledb, typescript, uvicorn, vultr
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=v9erU_vIlWk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
 - **How it used Tiger Data:** Tiger Data stores SOPs and their versions, along with a full trace of every run.
@@ -474,7 +475,7 @@ Repair, Replace or Wait? NextMove lets you know.
 - **Code:** [Source 1](https://github.com/ryandherb/hacktx-26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aazkUzhLwqo)
 - **All prizes at this hackathon (1):** &#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge
-- **How it used Toyota Financial Services:** NextMove helps Toyota owners explore whether to repair and keep their current vehicle, trade it in for a newer Toyota, or refinance an existing auto loan.
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -497,6 +498,7 @@ NextMove has two surfaces running on one decision engine.
 - **Code:** [Source 1](https://github.com/Vswashah/toyota-next)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dPjd3_zd6So)
 - **All prizes at this hackathon (1):** &#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -523,7 +525,7 @@ Every attacker leaves a trail! Breadcrumbs traps real hackers in a fake server, 
 - **Code:** [Source 1](https://github.com/aryansvt/hacktx2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SOlFxgQSVgk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** The project lists vultr among its Built With tags.
+- **How it used Vultr:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

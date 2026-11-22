@@ -33,6 +33,8 @@ A code research tool indexes commit history so developers can search for earlier
 
 Diagnosis, coverage and care in one.
 
+**How it used Snowflake:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/buildingBuild/HackTX-Project) · [Demo video](https://www.youtube.com/watch?v=itEdbNrkp0M) · Built with ai-agent, blender, javascript, python
 
 ### [Graption](https://devpost.com/software/graption)
@@ -51,6 +53,8 @@ A group conversation tool places live captions to help deaf participants follow 
 
 Practice hurricane prep decisions under real financial pressure (before the real storm hits).
 
+**How it used Snowflake:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/varshith-k/hurricaneweek) · [Demo video](https://www.youtube.com/watch?v=Y_qwLNbf1Cg) · Built with snowflake, cortex, css, digitalocean
 
 ### [PiHive](https://devpost.com/software/primacore)
@@ -58,6 +62,8 @@ Practice hurricane prep decisions under real financial pressure (before the real
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-primacore) · **Best Use of Snowflake API**
 
 PiHive is a cluster of Raspberry Pis running one LLM together via tensor-parallel distributed inference, no GPU anywhere, behind a single-compatible endpoint.
+
+**How it used Snowflake:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/mariamelsahharr/htn-2026-dist-inf) · [Demo video](https://www.youtube.com/watch?v=3rHr03Vt5Rw) · Built with ansible, baseten, codex, distributed-llama
 
@@ -89,9 +95,9 @@ An AI assistant to help Lawyers manage clients.
 
 Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
 
-**How it used Snowflake:** Analytics &amp; ML : Snowflake integration for data warehousing, analytics scoring system.
+**How it used Snowflake:** Eco Nexus uses Snowflake for data warehousing and analytics.
 
-[Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
+No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
 
 ### [Relay](https://devpost.com/software/https-youtu-be-dqw4w9wgxcq)
 
@@ -109,7 +115,7 @@ Postman AI Agent Automation that transforms vague and slow product requirements 
 
 A dining-hall dashboard helps chefs measure which meals produce the most plate waste.
 
-**How it used Snowflake:** The team stored all of this data in Supabase, and used the Snowflake API for many of the other backend processes.
+**How it used Snowflake:** Waste2Taste is a Snowflake-powered platform that measures food waste in dining halls and transforms that data into actionable insights for chefs.
 
 [Code](https://github.com/NavadeepBudda/waste2taste-api) · [Demo video](https://www.youtube.com/watch?v=Y-lFZVAZ9Hg) · Built with snowflake, snowflake-cortex, depth-anything, groundingdino
 

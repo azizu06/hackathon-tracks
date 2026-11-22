@@ -33,7 +33,9 @@ Helps UCSB and SBCC students in IV locate housing. Powered by a data ingestion p
 
 In addition, the live scraping of academic databases and the future goals of scraping news articles and more sources will keep all the information up-to-date.
 
-[Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
+**How it used Aryn:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
 
 ### [Share Tome](https://devpost.com/software/share-tome)
 
@@ -43,7 +45,7 @@ Drag and drop, shareable and searchable vector databases.
 
 **How it used Aryn:** ShareTome is built with a Go backend, Next.JS Frontend, Aryn Sycamore for document parsing and uploading, and ElasticSearch as a vector store / search engine.
 
-Built with aryn, elasticsearch, go, next.js
+No public code linked · Built with aryn, elasticsearch, go, next.js
 
 ## Track names and requirements
 

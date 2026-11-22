@@ -33,7 +33,7 @@ A student caseworker looks up immigration and finance rules and asks the student
 
 Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay aware, and handle what happens next.
 
-[Code](https://github.com/abhiwasabi/Clarity) · [Demo video](https://vimeo.com/1230684959) · Built with google-gemini, elevenlabs, esp-32-cam, ft232
+[Code](https://github.com/abhiwasabi/Clarity) · [Demo video](https://vimeo.com/1230684959) · Built with google-gemini, google-genai, google-live-api, elevenlabs
 
 ### [CuraLink](https://devpost.com/software/curalink-ut2lnv)
 
@@ -81,7 +81,7 @@ NeuroBlocks is a visual, drag-and-drop educational platform for building and und
 
 A planning app connects student clubs' communication, spreadsheets, and code tools in one workspace.
 
-[Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
+No public code linked · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
 ### [Retention](https://devpost.com/software/retention)
 
@@ -89,7 +89,7 @@ A planning app connects student clubs' communication, spreadsheets, and code too
 
 Retention uses Meta's brain-simulation model to optimize educational videos for students of all ages, automatically editing clips and maximizing retention with a multi-agent generator/evaluator loop.
 
-[Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
+No public code linked · [Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
 
 ### [scalpal.](https://devpost.com/software/scalpal)
 
@@ -97,7 +97,7 @@ Retention uses Meta's brain-simulation model to optimize educational videos for 
 
 Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from the first conversation with the patient to the end of the operation.
 
-[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with .tech, blender, c#, cloudflare
+[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with spacetimedb, .tech, blender, c#
 
 ### [Snitch](https://devpost.com/software/snitch-ackp1s)
 
@@ -129,7 +129,7 @@ Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching
 
 An AI safety net for UMD students. TerpWallet watches your bank account and connects you to free campus resources, Campus Pantry, SafeRide, emergency funds, before you go broke.
 
-[Code](https://github.com/rishikathakre/terpwallet-ai) · [Demo video](https://www.youtube.com/watch?v=vD4VIui3jSs) · Built with auth0, azure, capital-one-nessie-api, cloudforce
+[Code](https://github.com/rishikathakre/terpwallet-ai) · [Demo video](https://www.youtube.com/watch?v=vD4VIui3jSs) · Built with azure, cloudforce, auth0, capital-one-nessie-api
 
 ## 2025 winners
 
@@ -155,7 +155,7 @@ A web-app developed to help prep students for their technical interviews through
 
 Gamified Experience: Players engage in quirky yet educational tasks, from fetching coffee for the elusive "King Rat" (the boss) to handling customer claims with empathy and professionalism.
 
-[Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
 
 ### [VotEdu](https://devpost.com/software/votedu-p2n806)
 
@@ -235,7 +235,7 @@ Teaching robots to see, listen, and move like us. MIRAI is an experimental human
 
 Smart student budgeting app that gives students from monthly financial plans to personalized tips with an AI-generated financial education section that make students stay on top of their finances.
 
-[Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
 
 ### [Next Step](https://devpost.com/software/next-step-cme06a)
 
@@ -243,7 +243,7 @@ Smart student budgeting app that gives students from monthly financial plans to 
 
 Learn how to take your Next Step in insurance education by practicing in high pressure scenarios.
 
-[Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
 
 ### [Orbit - Find Your Circle](https://devpost.com/software/orbit-w84iq1)
 
@@ -259,7 +259,7 @@ Empowering every university student to find the people they want to surround the
 
 A decentralized peer-to-peer lending platform built on the XRP Ledger (XRPL), enabling university students and individuals to lend and borrow funds with transparent, blockchain-backed transactions.
 
-[Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with blockchain, firebase, nextjs, xrpl
+No public code linked · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with xrpl, blockchain, firebase, nextjs
 
 ### [Portable Braille](https://devpost.com/software/portable-braille-cdq8v5)
 
@@ -315,7 +315,7 @@ Stock market simulation game where students race to beat the market.
 
 Tyodor is a 10-year-old AI that students teach to, reinforcing learning while giving teachers real-time insights, powered by Google Gemini API for interactive learning.
 
-[Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
+No public code linked · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
 
 ### [UCSBites](https://devpost.com/software/ucsbites)
 
@@ -341,7 +341,7 @@ interactive multimodal AI experiences for neurodivergent learners run entirely o
 
 An LLM-powered TA that adapts to course material to help guide and engage students through conceptual and technical questions, focusing on reducing redundant questions and addressing overworked TAs.
 
-Built with chatgpt, dspy, openai, python
+No public code linked · Built with chatgpt, dspy, openai, python
 
 ### [EduGap](https://devpost.com/software/edugap)
 
@@ -349,7 +349,7 @@ Built with chatgpt, dspy, openai, python
 
 EduGap enhances the AI models Students can use by automating the integration of class-specific materials in Google Classroom while Teachers gain insight on student problem-areas.
 
-Built with api, chroma, chromadb, chrome
+No public code linked · Built with api, chroma, chromadb, chrome
 
 ### [FIU Financial Education - Scholarship Plug](https://devpost.com/software/financial-education-for-women-at-fiu)
 
@@ -357,7 +357,7 @@ Built with api, chroma, chromadb, chrome
 
 FIU Scholarship Plug helps students find relevant scholarships by assessing demographics. It gathers data on academic background, financial status, and career goals for personalized recommendations.
 
-Built with defang, auth0, bash, css
+No public code linked · Built with defang, auth0, bash, css
 
 ### [FiveHacks](https://devpost.com/software/fivehacks)
 
@@ -365,7 +365,7 @@ Built with defang, auth0, bash, css
 
 The goal is to educate and guide students in a simple and fun way.
 
-Built with css, html
+No public code linked · Built with css, html
 
 ### [Hivemind](https://devpost.com/software/education-2-0)
 
@@ -389,7 +389,7 @@ InvestIQ simplifies investing for everyone, offering real-time insights, educati
 
 SimplySign aims to make ASL more accessible and bring people together, whether by facilitating communication between patients and healthcare providers, or simply giving students a tool to practice.
 
-Built with css, github, html, javascript
+No public code linked · Built with css, github, html, javascript
 
 ### [SpeakEasy: AI Language Companion](https://devpost.com/software/speakeasy-ai-language-companion)
 
@@ -405,7 +405,7 @@ A speaking coach helps language learners practice pronunciation and hear example
 
 Talk to your toys with Teddy.AI; the worlds first AI powered teddy bear that can tell children stories and tutor them through its fun journeys riddled with interactive academic puzzles.
 
-[Demo video](https://www.youtube.com/watch?v=PFFHGMIax6E) · Built with hyperbolic, gemini, generativeai, hume
+No public code linked · [Demo video](https://www.youtube.com/watch?v=PFFHGMIax6E) · Built with hyperbolic, gemini, generativeai, hume
 
 ## 2020 winners
 
@@ -449,7 +449,7 @@ Share underutilized GPU power for machine learning education.
 
 A website that creates customized tests based on students' notes.
 
-[Code](https://github.com/juliustao/text2test-aws) · Built with lambda, adobe-creative-suite, amazon-web-services, comprehend
+[Code](https://github.com/juliustao/text2test-aws) · Built with amazon-web-services, adobe-creative-suite, comprehend, gateway
 
 ## 2018 winners
 

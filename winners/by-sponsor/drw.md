@@ -23,6 +23,8 @@
 
 Pilot encourages individuals to fill out their mood tracker, and it helps them do so in an efficient, natural, and engaging way.
 
+**How it used DRW:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/the-flying-circus/hackmit-2019) · Built with amadeus, css, django, google-cloud
 
 ## Track names and requirements

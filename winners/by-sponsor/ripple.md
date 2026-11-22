@@ -23,13 +23,17 @@
 
 CivitasX turns cities into autonomous digital ecosystems—AI agents that understand intent, trigger complex civic workflows, and log every verified action immutably on the XRP Ledger.
 
-[Code](https://github.com/rajashekarcs2023/calhacks-12) · [Demo video](https://www.youtube.com/watch?v=Fu-sYqMotpg) · Built with creao, creaofileupload-mcp, creaosearch-mcp, docker
+**How it used Ripple:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/rajashekarcs2023/calhacks-12) · [Demo video](https://www.youtube.com/watch?v=Fu-sYqMotpg) · Built with xrpl, creao, creaofileupload-mcp, creaosearch-mcp
 
 ### [Help Me If You Can](https://devpost.com/software/help-me-if-you-can)
 
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-help-me-if-you-can) · **Best in Ledger Award**
 
 A task &amp; reward hub with AI-powered candidate matching and XRPL payments.
+
+**How it used Ripple:** Seamless XRPL testnet integration, successfully funding wallets and paying out in both RLUSD and XRP.
 
 [Code](https://github.com/Afformativ/HackTheNorth) · [Demo video](https://www.youtube.com/watch?v=s_kBH_H0Pmw) · Built with ripple, flask, gemini, mongodb
 
@@ -39,7 +43,9 @@ A task &amp; reward hub with AI-powered candidate matching and XRPL payments.
 
 Making SMB lending transparent and efficient with on-chain loan tracking on the XRP Ledger.
 
-[Demo video](https://www.youtube.com/watch?v=6GD9fiZIC9I) · Built with ripple, auth0, fastapi, python
+**How it used Ripple:** LendX is a full-stack decentralized lending marketplace built on the XRP Ledger that connects lenders and borrowers through peer-to-peer transactions.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=6GD9fiZIC9I) · Built with ripple, auth0, fastapi, python
 
 ### [PeerFund](https://devpost.com/software/r-fund)
 
@@ -47,13 +53,17 @@ Making SMB lending transparent and efficient with on-chain loan tracking on the 
 
 A decentralized peer-to-peer lending platform built on the XRP Ledger (XRPL), enabling university students and individuals to lend and borrow funds with transparent, blockchain-backed transactions.
 
-[Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with blockchain, firebase, nextjs, xrpl
+**How it used Ripple:** PeerFund uses the XRP Ledger to record funding commitments and process loan payments.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with xrpl, blockchain, firebase, nextjs
 
 ### [RippleRelief](https://devpost.com/software/ripplerelief)
 
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-ripplerelief) · **Best in Ledger Award**
 
 RippleRelief is a web app that connects donors, NGOs, recipients, and merchants in a transparent aid ecosystem:.
+
+**How it used Ripple:** Payments: Integrated Stripe so donors can give in fiat (credit card, bank, etc.), while each donation is mirrored on XRPL as a transparent, traceable transaction.
 
 [Code](https://github.com/peterson-htn252/PulseRelief) · Built with ripple, flask, javascript, node.js
 
@@ -63,7 +73,9 @@ RippleRelief is a web app that connects donors, NGOs, recipients, and merchants 
 
 Play, Pay, Pulverize - on chain! ⛓️‍💥.
 
-[Code](https://github.com/KlausMikhaelson/hackthenorth) · [Demo video](https://www.youtube.com/watch?v=PfwjjiSaMgU) · Built with escrow, express.js, ipfs, javascript
+**How it used Ripple:** The team built a real-time multiplayer tank game from scratch and fully integrated XRPL.
+
+[Code](https://github.com/KlausMikhaelson/hackthenorth) · [Demo video](https://www.youtube.com/watch?v=PfwjjiSaMgU) · Built with xrpl, xrpl-(rlusd, escrow, express.js
 
 ### [XRPower](https://devpost.com/software/xrpower)
 
@@ -71,7 +83,9 @@ Play, Pay, Pulverize - on chain! ⛓️‍💥.
 
 XRPower is a prediction-based rewards platform built on the XRP Ledger.
 
-Built with ripple, node.js, react, web3
+**How it used Ripple:** XRPower is a prediction-based rewards platform built on the XRP Ledger.
+
+No public code linked · Built with ripple, node.js, react, web3
 
 ## 2024 winners
 
@@ -81,13 +95,17 @@ Built with ripple, node.js, react, web3
 
 Create and deploy audited smart contracts on the XRPL EVM side chain using easy to understand smart contract blocks.
 
-[Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeVU) · Built with ripple, evm, nextjs, rainbowkit
+**How it used Ripple:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeVU) · Built with ripple, evm, nextjs, rainbowkit
 
 ### [Memento](https://devpost.com/software/memento-1p0jel)
 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-memento-1p0jel) · **Best App by Ripple**
 
 Memento helps elderly people connect with their families by reflecting on and sharing cherished memories, sparking meaningful conversations that strengthen bonds across generations.
+
+**How it used Ripple:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/AlexLuu1/Memento) · Built with chroma, deepgram, gemini, groq
 

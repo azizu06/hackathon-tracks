@@ -23,6 +23,8 @@
 
 Indoor navigation for the visually impaired, made easy.
 
+**How it used Vespa.ai:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/flatypus/miru) · [Demo video](https://www.youtube.com/watch?v=kjCsRmlAYiY) · Built with arduino, clip, edge, embedding
 
 ## Track names and requirements

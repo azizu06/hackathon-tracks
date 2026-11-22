@@ -25,7 +25,7 @@ Matched from keywords in the project description and its tech tags.
 
 Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored.
 
-[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with arduino, arkit, lidar, meta-quest
+[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with hugging-face, nvidia-jetson, tensorrt, arduino
 
 ### [Shepherd](https://devpost.com/software/raising-cane)
 
@@ -113,7 +113,7 @@ Orbis turns an ordinary video into a 3D world you can explore.
 
 Providence unifies your devices and AI conversations through one superagent that carries context between tasks and coordinates work across devices simultaneously, all from a single interface.
 
-[Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
 
 ### [Re:collection](https://devpost.com/software/re-collection)
 
@@ -137,7 +137,7 @@ Ever wanted to relive a moment in time? With Rewind, step inside your old videos
 
 Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from the first conversation with the patient to the end of the operation.
 
-[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with .tech, blender, c#, cloudflare
+[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with spacetimedb, .tech, blender, c#
 
 ### [Show Before](https://devpost.com/software/show-before)
 
@@ -145,7 +145,7 @@ Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from 
 
 One iPhone walkthrough builds a complete listing. Renters speed-tour real homes in VR, say what they love or hate, and see if their own couch fits before they ever visit.
 
-[Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
+No public code linked · [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
 
 ### [TouchSpace](https://devpost.com/software/touchspace)
 
@@ -163,7 +163,7 @@ A mapping tool turns real spaces into tactile and audio guides for blind and low
 
 A user wearing Snap Spectacles can point to steer a robot and gesture to operate its gripper.
 
-[Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with snap, fastapi, websocket
+No public code linked · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with snap, fastapi, websocket
 
 ### [Aircraft Studio](https://devpost.com/software/aircraft-studio)
 
@@ -195,7 +195,7 @@ Real-time AR &amp; AI coach for better conversations and addressing the fear of 
 
 Simply lay out the ingredients you already have, take a quick screenshot with the Meta Quest, and let the AI assistant recognize them.
 
-[Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
+No public code linked · [Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
 
 ### [EnforcAR](https://devpost.com/software/enforcar)
 
@@ -285,7 +285,7 @@ An augmented reality tool guides stroke survivors through physical therapy exerc
 
 Welcome to the JARVIS for first responders.
 
-[Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
+No public code linked · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
 
 ### [Snapchat AR Tower Defense](https://devpost.com/software/snapchat-ar-tower-defense)
 
@@ -355,6 +355,6 @@ Virtual reality 3D coloring/painting experience for Google Daydream.
 
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
-Built with firebase, arduino, c++, google-cardboard
+No public code linked · Built with firebase, google-cardboard, arduino, c++
 
 [Back to top](#ar-vr-or-spatial)

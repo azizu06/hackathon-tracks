@@ -23,6 +23,8 @@
 
 Your mom knows you better than you do.
 
+**How it used Scrapybara:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/MingkuanY/ai-mommy) · [Demo video](https://www.youtube.com/watch?v=eehiiErNsOM) · Built with next.js
 
 ### [NeuroPilot: Brainwave Computer Control](https://devpost.com/software/mindcontrolpc-control-computer-with-brainwaves)
@@ -31,7 +33,7 @@ Your mom knows you better than you do.
 
 Control your computer with just your mind.
 
-**How it used Scrapybara:** NeuroPilot integrates neural and language data modalities with agentic workflows powered by Scrapybara .
+**How it used Scrapybara:** NeuroPilot integrates neural and language data modalities with agentic workflows powered by Scrapybara.
 
 [Code](https://github.com/nicolesplaining/treehacks) · [Demo video](https://www.youtube.com/watch?v=3N0p7cLAVO4) · Built with scrapybara, api, brainflow, firebase
 
@@ -40,6 +42,8 @@ Control your computer with just your mind.
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-therms-thermoregulation-wearables-with-ai-powered-insights) · **Capy Prize**
 
 A non-invasive wearable using novel thermoregulation research to provide precise heating/cooling to maintain core temperature. Built to enhance physical performance and battle geriatric disorders.
+
+**How it used Scrapybara:** Therms also connects to APIs (Terra, Scrapybara, OpenAI) to incorporate additional physiological data, such as heart rate, sleep patterns, and chronic conditions.
 
 [Code](https://github.com/arnavnc/therms-platform) · [Demo video](https://www.youtube.com/watch?v=smeznyWVNhM) · Built with scrapybara, firebase, nextjs, node.js
 

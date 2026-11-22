@@ -23,6 +23,8 @@
 
 Cybersecurity done right. Cyberwright leverages AI to automate the process of identifying vulnerabilities code, helping developers fix bugs before they ship.
 
+**How it used BoundaryML:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jaydns/cyberwright) · [Demo video](https://www.youtube.com/watch?v=_6fZPsObiIw) · Built with lucide, mantine, next, react
 
 ### [plzfix.ai](https://devpost.com/software/fixplz-ai)
@@ -30,6 +32,8 @@ Cybersecurity done right. Cyberwright leverages AI to automate the process of id
 [MHacks 2024](../by-hackathon/mhacks-2024.md#project-fixplz-ai) · **Best use of Agents using BAML**
 
 PlzFix.ai is an all-in-one AI platform designed to provide devs with tailored and data-driven insights on how to optimize their code.
+
+**How it used BoundaryML:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/aliceli465/MHacks24) · [Demo video](https://www.youtube.com/watch?v=aK9hMI6NKJY) · Built with baml, c, docker, flask
 

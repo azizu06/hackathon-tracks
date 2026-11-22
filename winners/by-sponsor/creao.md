@@ -25,7 +25,7 @@ Anima Labs is an agentic development environment for computational neuroscience.
 
 **How it used Creao:** Study analyst: Interprets saved simulation measurements and generates figures, cited manuscripts, and downloadable LaTeX PDFs inside CREAO.
 
-[Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with creao, arxiv, docker, europe-pmc
+No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with creao, arxiv, docker, europe-pmc
 
 ### [Bursar](https://devpost.com/software/bursar-hej2yl)
 
@@ -33,7 +33,7 @@ Anima Labs is an agentic development environment for computational neuroscience.
 
 An autonomous finance team where nothing moves without proof: Creao agents pick the right vendor and check every bill, with CRS verifying every claim before a dollar is paid.
 
-**How it used Creao:** Every decision-making agent runs on Creao .
+**How it used Creao:** Every decision-making agent runs on Creao.
 
 [Code](https://github.com/anagpal18/CalHacks13.0) · [Demo video](https://www.youtube.com/watch?v=NeESl1hYsCw) · Built with creao, anthropic-claude, crs-credit-api, fastify
 
@@ -43,7 +43,9 @@ An autonomous finance team where nothing moves without proof: Creao agents pick 
 
 An autonomous finance desk that tracks automotive tariffs from imported parts to customer credits, catching errors, learning from decisions, and posting only with approval.
 
-[Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
+**How it used Creao:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
 
 ## 2025 winners
 
@@ -53,13 +55,17 @@ An autonomous finance desk that tracks automotive tariffs from imported parts to
 
 Upload ads, get clear scores, one-line reasons, and precise fixes—then a ranked Top 10 by platform/audience in minutes. AdSensei helps designers iterate fast and marketers scale winners.
 
-[Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
+**How it used Creao:** AdSensei uses Creao for the interface that presents ad recommendations.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
 
 ### [AI-Powered Food Bank Management System](https://devpost.com/software/foodbank-automation)
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-foodbank-automation) · **Best Designed Web App**
 
 Talking to users early changed the entire direction.
+
+**How it used Creao:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ericrcwu001/calhacks) · [Demo video](https://www.youtube.com/watch?v=rw9_SdR0mUo) · Built with creao, flask, gemini, node.js
 
@@ -69,7 +75,7 @@ Talking to users early changed the entire direction.
 
 CivitasX turns cities into autonomous digital ecosystems—AI agents that understand intent, trigger complex civic workflows, and log every verified action immutably on the XRP Ledger.
 
-**How it used Creao:** CivitasX was built entirely on the Creao agentic platform , which allows AI systems to design and deploy other AI systems.
+**How it used Creao:** CivitasX was built entirely on the Creao agentic platform, which allows AI systems to design and deploy other AI systems.
 
 [Code](https://github.com/rajashekarcs2023/calhacks-12) · [Demo video](https://www.youtube.com/watch?v=Fu-sYqMotpg) · Built with creao, creaofileupload-mcp, creaosearch-mcp, docker
 
@@ -79,7 +85,9 @@ CivitasX turns cities into autonomous digital ecosystems—AI agents that unders
 
 Stop hunting, start researching: AI that finds opportunities and opens doors.
 
-[Demo video](https://www.youtube.com/watch?v=aX6u9S8C7Co) · Built with creao.ai, alembic-(database-migrations), brightdatamcp, claude
+**How it used Creao:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=aX6u9S8C7Co) · Built with creao.ai, alembic-(database-migrations), brightdatamcp, claude
 
 ### [Tapped In](https://devpost.com/software/tapped-in)
 

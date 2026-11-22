@@ -23,6 +23,8 @@
 
 Automated system to tackle the Dominion Dynamics track.
 
+**How it used Dominion Dynamics:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Ollienel777/HTN_DOGWATCH) · Built with ardupilot, canvas, docker, gazebo
 
 ### [DominIQ](https://devpost.com/software/dominiq)
@@ -31,6 +33,8 @@ Automated system to tackle the Dominion Dynamics track.
 
 4 drones, dropped with no idea where the enemy ship is. Within minutes, it's found - using just camera geometry, and tracked by an algorithm, all while you watch in VR and clarify by voice.
 
+**How it used Dominion Dynamics:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/savirsingh/DominIQ) · [Demo video](https://www.youtube.com/watch?v=zN7Yl_UZopU) · Built with html5, python, typescript
 
 ### [Shadow Stalker](https://devpost.com/software/temp-p5ogjk)
@@ -38,6 +42,8 @@ Automated system to tackle the Dominion Dynamics track.
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-temp-p5ogjk) · **WHITEOUT**
 
 Shadow Stalker is a secure program that commands an aerial fleet and multiple ground assets to search for, detect, and report shadow vessels.
+
+**How it used Dominion Dynamics:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/malekhammoud/Drone-Sim) · [Demo video](https://www.youtube.com/watch?v=6RL2bwKpjxA) · Built with bash, dominion-dynamics, linux, python
 

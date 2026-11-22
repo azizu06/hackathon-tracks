@@ -23,6 +23,8 @@
 
 The Soldier isolates the threat, evolves a working "cure" (a sandboxed containment payload), and applies it, then self-terminates.
 
+**How it used DigitalOcean:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Joshua-Song007/Shellhacks) · [Demo video](https://www.youtube.com/watch?v=swDZNF3l3KU) · Built with digitalocean, applescript, c, css
 
 ### [VerdictX](https://devpost.com/software/verdictx)
@@ -30,6 +32,8 @@ The Soldier isolates the threat, evolves a working "cure" (a sandboxed containme
 [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md#project-verdictx) · **Best Use of DigitalOcean**
 
 An algorithm denied you. No explanation.
+
+**How it used DigitalOcean:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/noteesh/HackDuke) · [Demo video](https://www.youtube.com/watch?v=KcBM_uwu5As) · Built with digitalocean, auth0, elevenlabs, express.js
 
@@ -41,9 +45,9 @@ An algorithm denied you. No explanation.
 
 Website that allows small business owners to create and manage their business's website with AI agents.
 
-**How it used DigitalOcean:** The team built Agentify Web on DigitalOcean Gradient , leveraging its infrastructure to host and manage the AI agents.
+**How it used DigitalOcean:** The team built Agentify Web on DigitalOcean Gradient, leveraging its infrastructure to host and manage the AI agents.
 
-[Demo video](https://www.youtube.com/watch?v=9gLRo36z474) · Built with digitalocean, javascript, next.js, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=9gLRo36z474) · Built with digitalocean, javascript, next.js, react
 
 ### [bevinAI](https://devpost.com/software/bevinai)
 
@@ -51,13 +55,17 @@ Website that allows small business owners to create and manage their business's 
 
 bevinAI is an AI powered orchestration engine that acts as the central nervous system for your development lifecycle.
 
-[Demo video](https://www.youtube.com/watch?v=a4IBdqUq1vI) · Built with api, confluence, css, django
+**How it used DigitalOcean:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=a4IBdqUq1vI) · Built with api, confluence, css, django
 
 ### [I-IMO](https://devpost.com/software/i-imo)
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-i-imo) · **Best Use of DigitalOcean Gradient™ AIOpt**
 
 Intelligent IRL Meeting Organizer - A conversational AI agent designed with the busiest people in mind.
+
+**How it used DigitalOcean:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/satvikprasad/calhacks25-imo) · [Demo video](https://www.youtube.com/watch?v=fTmvGxSzU3I) · Built with chromadb, convex, digtalocean, express.js
 
@@ -66,6 +74,8 @@ Intelligent IRL Meeting Organizer - A conversational AI agent designed with the 
 [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-scenergy) · **Best Use of DigitalOcean Gradient™ AI**
 
 A new energy behind world-building. Where imagination meets energy, Scenergy turns your ideas into 3D cinematic worlds.
+
+**How it used DigitalOcean:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Niwant/KNIGHTHACKS) · [Demo video](https://www.youtube.com/watch?v=PQAzobRVGgU) · Built with amd, amd-rocm, fastapi, javascript
 

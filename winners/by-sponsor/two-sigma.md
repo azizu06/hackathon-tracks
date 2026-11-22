@@ -23,7 +23,9 @@
 
 Ami creates a planner for what you should do on vacation! Just tell it what you want to do, and it will plan your day.
 
-Built with beaker, java, javascript, python
+**How it used Two Sigma:** Sponsor use not stated on Devpost
+
+No public code linked · Built with beaker, java, javascript, python
 
 ## Track names and requirements
 

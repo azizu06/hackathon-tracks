@@ -23,7 +23,9 @@
 
 A travel itinerary generator for all major cities.
 
-[Demo video](https://www.youtube.com/watch?v=kAxDxnKp8_s) · Built with amadeus, express.js, google-directions, mongodb
+**How it used Jumpstart:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=kAxDxnKp8_s) · Built with amadeus, express.js, google-directions, mongodb
 
 ## Track names and requirements
 

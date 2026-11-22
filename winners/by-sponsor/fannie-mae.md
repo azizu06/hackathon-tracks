@@ -23,6 +23,8 @@
 
 The web application allows a user to understand the prevalence of certain natural disasters in each of the 50 states.
 
+**How it used Fannie Mae:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jasonyih/BitcampBackend) · Built with fastapi, python, react, typescript
 
 ### [Mortgage Master](https://devpost.com/software/mortgage-master)
@@ -30,6 +32,8 @@ The web application allows a user to understand the prevalence of certain natura
 [Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-mortgage-master) · **Best Use of APIs related to Housing/Climate Change - Fannie Mae**
 
 Insights for Tomorrow: Navigating Climate Challenges with Data.
+
+**How it used Fannie Mae:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/amantalreja/Fannnie-Mae-Challenge) · Built with javascript, node.js, numpy, pandas
 

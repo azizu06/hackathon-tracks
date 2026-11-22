@@ -83,8 +83,8 @@ AI Legal Tender transforms messy legal data into structured, cited intelligence 
 - **Code:** [Source 1](https://github.com/dominickdupuy/Paralegal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=toI8_0oCX8Y)
 - **All prizes at this hackathon (2):** AMD: Best use of AMD Hardware/Software Challenge · Morgan &amp; Morgan: AI Legal Tender Challenge
-- **How it used AMD:** The project lists amd among its Built With tags.
-- **How it used Morgan &amp; Morgan:** Lawgorithm is an intelligent paralegal system that orchestrates specialist AI agents to automate law firm workflows:.
+- **How it used AMD:** Self-hosted AI - all data stays on AMD infrastructure, addressing law firms' privacy concerns.
+- **How it used Morgan &amp; Morgan:** Lawgorithm uses Morgan &amp; Morgan case files to test its legal assistant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -113,6 +113,7 @@ CloseCalls uses the CARLA simulator in Unreal Engine 4 to generate realistic tra
 - **Code:** [Source 1](https://github.com/RBuck8339/kh2025CVTrafficSynth)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pNB4n_KeTZQ)
 - **All prizes at this hackathon (1):** ACM UCF
+- **How it used ACM UCF:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -164,7 +165,7 @@ In an age where AI-generated media is indistinguishable from reality, Sora2Detec
 - **Code:** [Source 1](https://github.com/LeeMarshall1113/Sora2Detector)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GPhHIwjohe4)
 - **All prizes at this hackathon (1):** AMD: Best use of AMD Hardware/Software Challenge
-- **How it used AMD:** The project lists amd among its Built With tags.
+- **How it used AMD:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -181,16 +182,17 @@ In an age where AI-generated media is indistinguishable from reality, Sora2Detec
 
 HeliosAI uses a solar cell connected to an Arduino with light sensors and servo motors.
 
-[Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** agent-to-agent-architecture, arduino, flask, flask-sock, flask-socketio, gemini-live-api, google-gemeni-ai, googlegeminiapi, html/css, javascript, openweathermapapi, pyserial, python, webaudioapi, websocket
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mZV5om5oVVE)
 - **All prizes at this hackathon (1):** MLH - Best Use of Arm
+- **How it used Arm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -217,6 +219,7 @@ This program is a Python-based tool designed to read, parse, and export SAP bina
 - **Code:** [Source 1](https://github.com/Britjit/hackathon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xzq6eSaBh2o)
 - **All prizes at this hackathon (1):** Auritas: Data Visualization and Algorithm Reconstruction Challenges
+- **How it used Auritas:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -243,7 +246,7 @@ A new energy behind world-building. Where imagination meets energy, Scenergy tur
 - **Code:** [Source 1](https://github.com/Niwant/KNIGHTHACKS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PQAzobRVGgU)
 - **All prizes at this hackathon (1):** MLH - Best Use of DigitalOcean Gradient™ AI
-- **How it used DigitalOcean:** Scenergy turns a single prompt (or a reference image) into a playable, editable 3D scene—live in your browser.
+- **How it used DigitalOcean:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -297,7 +300,7 @@ Turn your live performances into real time digital sheet music or challenge frie
 - **Code:** [Source 1](https://github.com/viannahuynh/CanesChicken)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bMZOmNP666s)
 - **All prizes at this hackathon (1):** MLH - Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** What doesn’t it do, Awww Sheet is an interaction violin performance and training platform that combines real time music transcription, learning and gaming.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -339,7 +342,7 @@ AI Agents for complex human disaster dynamics simulation.
 
 See the world. Speak its stories.
 
-[Code](https://github.com/skatari172/Hermes) · [Demo video](https://www.youtube.com/watch?v=DD6ZQVk9QJE) · Built with gemini-vision, fastapi, firestore, google-adk
+[Code](https://github.com/skatari172/Hermes) · [Demo video](https://www.youtube.com/watch?v=DD6ZQVk9QJE) · Built with gemini-vision, google-adk, fastapi, firestore
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -349,7 +352,7 @@ See the world. Speak its stories.
 - **Code:** [Source 1](https://github.com/skatari172/Hermes)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DD6ZQVk9QJE)
 - **All prizes at this hackathon (1):** Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge
-- **How it used Google:** The project lists gemini-vision among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -372,7 +375,7 @@ Transforming system design interviews from holistic, expensive evaluations into 
 - **Code:** [Source 1](https://github.com/ethan-dean/sherm-team-6)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IMPi_oKzPc8)
 - **All prizes at this hackathon (1):** MLH - Best Use of Gemini API
-- **How it used Google:** The project lists gemini among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -401,6 +404,7 @@ PowerLegal is a sophisticated multi-agent legal case management system that coor
 - **Code:** [Source 1](https://github.com/Kavipatel0/KnightHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SRItaUWZ1nc)
 - **All prizes at this hackathon (1):** Morgan &amp; Morgan: AI Legal Tender Challenge
+- **How it used Morgan &amp; Morgan:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -423,7 +427,7 @@ Simply Law automates the legal workflow with AI agents that extract key informat
 - **Code:** [Source 1](https://github.com/ballinyouup/morgan-ai-sdk)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-925V5YOfWs)
 - **All prizes at this hackathon (1):** Morgan &amp; Morgan: AI Legal Tender Challenge
-- **How it used Morgan &amp; Morgan:** AI Orchestrator: Routes requests to specialists using keyword scoring and intent analysis.
+- **How it used Morgan &amp; Morgan:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -450,7 +454,7 @@ The perfect drone optimization algorithm that you'd ever need.
 - **Code:** [Source 1](https://github.com/a1vcm/knighthacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qbOgZGTl13M)
 - **All prizes at this hackathon (1):** NextEra Energy: Drone Optimization Challenge
-- **How it used NextEra Energy:** Uses the given sample flight data from drones provided and converts this data into latitude/longitude coordinates.
+- **How it used NextEra Energy:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -473,6 +477,7 @@ The solution uses Google OR-Tools to solve the Vehicle Routing Problem by assign
 - **Code:** [Source 1](https://github.com/Bvqlz/GridWatch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AEEQjJ4ilyA)
 - **All prizes at this hackathon (1):** NextEra Energy: Drone Optimization Challenge
+- **How it used NextEra Energy:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -495,7 +500,7 @@ Optimizing autonomous drone missions for efficient, battery-aware inspection of 
 - **Code:** [Source 1](https://github.com/saniddhyaDubey/next-era-Drone-Routing-Problem)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2L7jpEtnFr4)
 - **All prizes at this hackathon (1):** NextEra Energy: Drone Optimization Challenge
-- **How it used NextEra Energy:** The team created a smart algorithm which helps the team plan the drone missions making sure it is cost effective in terms of time/distance and battery usage.
+- **How it used NextEra Energy:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -522,7 +527,7 @@ Get daily financial news and insights tailored to your interests.
 - **Code:** [Source 1](https://github.com/jordanrobbedthesun/FinScope)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WxBUaohIQVI)
 - **All prizes at this hackathon (1):** OneEthos: AI for Financial Empowerment Challenge
-- **How it used OneEthos:** Gathers and summarizes financial news from trusted global sources every morning.
+- **How it used OneEthos:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -535,17 +540,17 @@ Get daily financial news and insights tailored to your interests.
 
 Money Mentor AI: your stress-free path to financial freedom - one confident step at a time.
 
-[Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** css3, flask, html5, node.js, python, react, typescript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=J5wnACnaZdY)
 - **All prizes at this hackathon (1):** OneEthos: AI for Financial Empowerment Challenge
-- **How it used OneEthos:** Money Mentor.ai is your personal financial coach - calm, private, and ruthlessly practical.
+- **How it used OneEthos:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -562,17 +567,17 @@ Money Mentor AI: your stress-free path to financial freedom - one confident step
 
 In life-or-death moments, guessing isn’t an option. Deploy a robot swarm that maps hazards, learns from one another's mistakes, and guides everyone to a safe exit.
 
-[Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
+No public code linked · [Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** arduino, elevenlabs, flask, flutter, gemini, python, pytorch, ros
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m-iLFeIfq-s)
 - **All prizes at this hackathon (1):** Pheratech Systems: ROS2 Autonomy Challenge
-- **How it used Pheratech Systems:** ZPM acts as an autonomous evacuation assistant deployed by building administrators.
+- **How it used Pheratech Systems:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -622,7 +627,7 @@ ServiceLater turns ServiceNow feedback into accelerator roadmaps, using AI to sp
 - **Code:** [Source 1](https://github.com/NagelPoulose/KnighHacksVIII-Project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1cckS4RC1tM)
 - **All prizes at this hackathon (1):** ServiceNow: Knowledge Gap Request Agent Challenge
-- **How it used ServiceNow:** ServiceLater analyzes customer needs and recommends accelerators with a Pattern Analysis Agent that surfaces trends and an Accelerator Recommendation Agent that proposes new accelerators with justification.
+- **How it used ServiceNow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -635,16 +640,17 @@ ServiceLater turns ServiceNow feedback into accelerator roadmaps, using AI to sp
 
 Synapse isn’t another assistant — it’s the nervous system of AI itself, where specialized agents think together to power the next era of intelligent collaboration.
 
-[Demo video](https://www.youtube.com/watch?v=irFW-f8mvoE)
+No public code linked · [Demo video](https://www.youtube.com/watch?v=irFW-f8mvoE)
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** No tags listed
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=irFW-f8mvoE)
 - **All prizes at this hackathon (1):** ServiceNow: Knowledge Gap Request Agent Challenge
+- **How it used ServiceNow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -688,16 +694,17 @@ An AI assistant to help Lawyers manage clients.
 
 Simply lay out the ingredients you already have, take a quick screenshot with the Meta Quest, and let the AI assistant recognize them.
 
-[Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
+No public code linked · [Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ar, digitalocean, elevenlabs, fastapi, figma, gemini, geminiapi, github, metaquest, metasdk, python, unity, vr
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QAaYWL-Mr1g)
 - **All prizes at this hackathon (2):** MLH - Best Use of Vultr · Most "Useful" Hack
+- **How it used Vultr:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

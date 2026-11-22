@@ -23,6 +23,8 @@
 
 Your friends shouldn't have to ask. CloseMates gives everyone a FirstMate, an AI twin that reads your week and quietly tells your closest people when and how to show up.
 
+**How it used Meta:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/sendtovishnu/hacktx26) · [Demo video](https://www.youtube.com/watch?v=dcHFqio6nO0) · Built with meta-muse-spark, cloudflare, express.js, gemini
 
 ### [Destina](https://devpost.com/software/destina)
@@ -30,6 +32,8 @@ Your friends shouldn't have to ask. CloseMates gives everyone a FirstMate, an AI
 [HackTX 2026](../by-hackathon/hacktx-2026.md#project-destina) · **Bringing People Closer Together with AI**
 
 Physical Robot Icebreaker Game; Fate, with a little help from Tina.
+
+**How it used Meta:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Dhivyeshp/hacktx_26) · [Demo video](https://www.youtube.com/watch?v=V9zV0iFYMNA) · Built with 3d-printing, anchor, apple-vision-pro, c++
 
@@ -39,6 +43,8 @@ Physical Robot Icebreaker Game; Fate, with a little help from Tina.
 
 Life opens new doors. dor keeps old ones from closing, and helps you find your way into new ones with AI-powered nudges, personalized introductions, and local events that fit you, wherever you land.
 
+**How it used Meta:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/rishibagri/dor-calhacks) · [Demo video](https://www.youtube.com/watch?v=LXBGN2EFTMo) · Built with apify, cartesia, claude, clerk
 
 ### [HeirLoom](https://devpost.com/software/heirloom-3q2bn9)
@@ -46,6 +52,8 @@ Life opens new doors. dor keeps old ones from closing, and helps you find your w
 [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md#project-heirloom-3q2bn9) · **Bringing People Closer Together with AI - Winner**
 
 At the heart of HeirLoom is Loomie, an empathetic voice AI companion.
+
+**How it used Meta:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Adalo-Gusa/SPIRE_GT_Hacks) · [Demo video](https://www.youtube.com/watch?v=2HFSy_1dndI) · Built with backboard.io, figma, grok, mongodb
 
@@ -55,7 +63,9 @@ At the heart of HeirLoom is Loomie, an empathetic voice AI companion.
 
 A webcam-powered horror game where your vitals shapes an AI creature’s hunt. Fix equipment, broadcast false heartbeats, conceal your presence, and outsmart the monster before it breaches your shelter.
 
-[Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
+**How it used Meta:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
 
 ### [Myst](https://devpost.com/software/myst-78dz52)
 
@@ -63,7 +73,7 @@ A webcam-powered horror game where your vitals shapes an AI creature’s hunt. F
 
 A quiet voice in your ear that remembers the people you love.
 
-**How it used Meta:** 🛣️ Next: testing with strangers and with no one in view, timed end-to-end runs, Meta's accessibility approval, alerts for remote family, and testing the voice with real caregivers.
+**How it used Meta:** Myst uses Ray-Ban Meta glasses and the Wearables Device Access Toolkit to take photos on demand.
 
 [Code](https://github.com/harshaldhaduk/myst) · [Demo video](https://www.youtube.com/watch?v=3lROw3SQE4s) · Built with meta, meta-ai, meta-wearables-device-access-toolkit, ray-ban-meta
 
@@ -73,6 +83,8 @@ A quiet voice in your ear that remembers the people you love.
 
 The Nudge loop: every call seeds the next one.
 
+**How it used Meta:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/AlanRoybal/hackgt) · [Demo video](https://www.youtube.com/watch?v=IqrNMV-T1MQ) · Built with amazon-bedrock, amazon-chime-sdk, amazon-cognito, amazon-dynamodb
 
 ### [Re:collection](https://devpost.com/software/re-collection)
@@ -80,6 +92,8 @@ The Nudge loop: every call seeds the next one.
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-re-collection) · **Meta/Facebook: Bringing People Closer Together with AI**
 
 Re:Collection turns a family visit or an old home video into a 3D Memory Palace someone with Alzheimer’s can walk back into, guided by a calm voice that only says what the family approved.
+
+**How it used Meta:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/shividoge/re-collection) · [Demo video](https://www.youtube.com/watch?v=FQ0vPIS4VM8) · Built with anthropic, arkit, bun, cartesia
 
@@ -89,7 +103,9 @@ Re:Collection turns a family visit or an old home video into a 3D Memory Palace 
 
 A cozy bear that families can use to share stories with their loved ones.
 
-[Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
+**How it used Meta:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
 
 ## 2019 winners
 
@@ -98,6 +114,8 @@ A cozy bear that families can use to share stories with their loved ones.
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-rap-scorer) · **Best Hack for Building Community with Facebook**
 
 The pen is mightier than the sword, nothing is more powerful than the word.
+
+**How it used Meta:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jenniferlai43/rapscorer) · Built with css3, datamuse, html5, javascript
 
@@ -109,6 +127,8 @@ The pen is mightier than the sword, nothing is more powerful than the word.
 
 Helping individuals as they overcome opioid dependency by providing them with volunteer mentors.
 
+**How it used Meta:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/the-flying-circus/HackMIT2018) · Built with facebook-graph, facebook-login-api, flask, giphy
 
 ## 2017 winners
@@ -119,7 +139,9 @@ Helping individuals as they overcome opioid dependency by providing them with vo
 
 Get personal details of someone just by looking at them with the magic of a HoloLens, face recognition, and Facebook.
 
-Built with bottle, c++, facebook, facebook-graph
+**How it used Meta:** Sponsor use not stated on Devpost
+
+No public code linked · Built with bottle, c++, facebook, facebook-graph
 
 ## 2016 winners
 
@@ -129,6 +151,8 @@ Built with bottle, c++, facebook, facebook-graph
 
 AI-powered Chatbot which give you curated dating advice - while you're on your date.
 
+**How it used Meta:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/96imranahmed/blackbox-public) · [Demo video](https://www.youtube.com/watch?v=7KcSXuQXCng) · Built with machine-learning, python
 
 ### [VR DJ](https://devpost.com/software/vr-dj)
@@ -137,7 +161,9 @@ AI-powered Chatbot which give you curated dating advice - while you're on your d
 
 VR DJ allows you to visualize and manipulate music.
 
-Built with c#, unity, vive
+**How it used Meta:** Sponsor use not stated on Devpost
+
+No public code linked · Built with c#, unity, vive
 
 ## 2013 winners
 
@@ -147,7 +173,9 @@ Built with c#, unity, vive
 
 An online collection and viewer of PowerPoint presentations for large events/conferences with many speakers.
 
-[Demo video](https://www.youtube.com/watch?v=6cKSB5mMAFo)
+**How it used Meta:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=6cKSB5mMAFo)
 
 ## Track names and requirements
 

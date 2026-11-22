@@ -55,7 +55,7 @@ PitPerfect is an AI-powered F1 platform that detects car damage from footage and
 - **Code:** [Source 1](https://github.com/CodyGargar/PitPerfect)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HPvYgMUh-NI)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
-- **How it used .Tech Domains:** PitPerfect analyzes race footage and telemetry data to detect car damage, assess severity, and recommend pit stop strategies in real time.
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -82,7 +82,7 @@ Your AI-powered campus companion and navigation app with an autonomous robotic U
 - **Code:** [Source 1](https://github.com/Ahnaf-Muizz/Longhorns-Guide) · [Source 2](https://github.com/notzabir/HackTX)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YRbaXEND_-M)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ARM
-- **How it used Arm:** The team built an intelligent, multilingual campus assistant that meets students wherever they are — on their phones, through chat, or even with a physical robot escort.
+- **How it used Arm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -109,7 +109,7 @@ EcoFin Carbon calculates and visualizes the carbon footprint of your financial t
 - **Code:** [Source 1](https://github.com/arnavvalvekar/hacktx)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QrL9U7CnT8Y)
 - **All prizes at this hackathon (1):** Best Capital One Hack
-- **How it used Capital One:** The project lists nessie among its Built With tags.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -136,7 +136,7 @@ Instant, data-driven race strategy suggestions for teams.
 - **Code:** [Source 1](https://github.com/phamleduy04/hacktx-25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4SxP2n9fwpM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** This is deployed using Terraform to Cloudflare Workers .
+- **How it used Cloudflare:** This is deployed using Terraform to Cloudflare Workers.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -153,17 +153,17 @@ Instant, data-driven race strategy suggestions for teams.
 
 Website that allows small business owners to create and manage their business's website with AI agents.
 
-[Demo video](https://www.youtube.com/watch?v=9gLRo36z474) · Built with digitalocean, javascript, next.js, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=9gLRo36z474) · Built with digitalocean, javascript, next.js, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** digitalocean, javascript, next.js, react
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9gLRo36z474)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of DigitalOcean Gradient™ AI
-- **How it used DigitalOcean:** The team built Agentify Web on DigitalOcean Gradient , leveraging its infrastructure to host and manage the AI agents.
+- **How it used DigitalOcean:** The team built Agentify Web on DigitalOcean Gradient, leveraging its infrastructure to host and manage the AI agents.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -190,7 +190,7 @@ Vigilant watches live campus cameras, detects visible weapons, and computes risk
 - **Code:** [Source 1](https://github.com/rajpatel923/goonbytes)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uu312-oYY3c)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** The project lists elevenlabs among its Built With tags.
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -240,7 +240,7 @@ Live Space-to-Sound (or any video): Pick an ISS/telescope livestream or paste a 
 - **Code:** [Source 1](https://github.com/emw8105/hacktx-25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cLJeS1mnDq8)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** MLH Best Use of Gemini API: multimodal reasoning + optional Vertex SFT.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -267,7 +267,7 @@ Multi-agent simulation platform for 2026 F1 strategy discovery and prediction. M
 - **Code:** [Source 1](https://github.com/V-prajit/Guido)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MhMhjy2-0aE)
 - **All prizes at this hackathon (1):** Best NorthMark Hack
-- **How it used Northmark Compute &amp; Cloud:** The system runs 1000+ realistic F1 races in 5 seconds, analyzes patterns with AI Agents, and provides a visual decision recommendation and opportunity cost analysis for every decision.
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -290,7 +290,7 @@ LapSynk: The AI copilot for race engineers. Using Gemini, Cloudflare, and Eleven
 - **Code:** [Source 1](https://github.com/csakilan/HackTX)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_g0CfT5yGKw)
 - **All prizes at this hackathon (1):** Best NorthMark Hack
-- **How it used Northmark Compute &amp; Cloud:** LapSynk is an AI-powered dashboard that gives race engineers real-time awareness of driver communication, telemetry, and AI reasoning.
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -313,7 +313,7 @@ Bridging new F1 drivers and engineers with algorithmic strategy planning, real-t
 - **Code:** [Source 1](https://github.com/iampritisee/hacktx)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uKgWc20DsCs)
 - **All prizes at this hackathon (1):** Best NorthMark Hack
-- **How it used Northmark Compute &amp; Cloud:** Wheel Be Fine is a comprehensive driver-team integration and health monitoring platform that helps F1 teams reduce the learning curve with new drivers while promoting racer longevity through physiological analysis.
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -340,7 +340,7 @@ An AI-powered space odyssey that transforms car buying into an interstellar adve
 - **Code:** [Source 1](https://github.com/applea12X/Astraeus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6AkRiYIPX7o)
 - **All prizes at this hackathon (1):** Best Toyota Hack
-- **How it used Toyota Financial Services:** Simplicity wins: Users prefer clear, guardrailed defaults, then progressively deeper control.
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -363,7 +363,7 @@ FiYota — data visualization tool to find your ideal Toyota financing options.
 - **Code:** [Source 1](https://github.com/Abhijith-utla/Fiyota)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Zb64HnzlmBk)
 - **All prizes at this hackathon (1):** Best Toyota Hack
-- **How it used Toyota Financial Services:** FiYota is your friendly car-financing companion that helps you find the right Toyota and the right plan.
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,7 +386,7 @@ MyToyota simplifies car financing by matching users’ income, credit, and prefe
 - **Code:** [Source 1](https://github.com/avishparekh06/my-toyota)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=t3-Gc6rqFt8)
 - **All prizes at this hackathon (1):** Best Toyota Hack
-- **How it used Toyota Financial Services:** MyToyota is an AI-driven platform that helps users find their perfect Toyota vehicle through intelligent recommendations and interactive experiences.
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

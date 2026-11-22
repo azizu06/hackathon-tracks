@@ -23,6 +23,8 @@
 
 A study game for dopamine-hungry brains: turn your notes into AI-made levels built for how you learn, beat the final boss, and battle friends in AR and grow from tiny krill into a mighty fish.
 
+**How it used Aramco:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Srihansi-Sagi/dopamarine) · [Demo video](https://www.youtube.com/watch?v=fypMoDu_UN0) · Built with css3, figma, gemini, github
 
 ### [Gestura](https://devpost.com/software/gestura-6m3xfv)
@@ -30,6 +32,8 @@ A study game for dopamine-hungry brains: turn your notes into AI-made levels bui
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-gestura-6m3xfv) · **Aramco Americas: Best Beginner Hack**
 
 Gloves that turn your movements and voice into game controls, so instead of learning the controller, the controller learns you.
+
+**How it used Aramco:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Eben-Siyabalapitiya/Gestura) · [Demo video](https://www.youtube.com/watch?v=oqHZeFjPbFE) · Built with c++, esp32, gemini, html
 
@@ -39,7 +43,9 @@ Gloves that turn your movements and voice into game controls, so instead of lear
 
 Providence unifies your devices and AI conversations through one superagent that carries context between tasks and coordinates work across devices simultaneously, all from a single interface.
 
-[Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
+**How it used Aramco:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
 
 ### [TapChart](https://devpost.com/software/tapchart)
 
@@ -47,7 +53,9 @@ Providence unifies your devices and AI conversations through one superagent that
 
 When Parkinson's symptoms mimic a stroke, missing context can mean misdiagnosis. TapChart puts a patient's motor baseline one NFC tap away, giving care teams a vital point of comparison.
 
-[Demo video](https://www.youtube.com/watch?v=A9tN4Z6MoyE) · Built with claude, css, html, javascript
+**How it used Aramco:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=A9tN4Z6MoyE) · Built with claude, css, html, javascript
 
 ## 2025 winners
 
@@ -56,6 +64,8 @@ When Parkinson's symptoms mimic a stroke, missing context can mean misdiagnosis.
 [HackHarvard 2025](../by-hackathon/hackharvard-2025.md#project-siteops) · **Aramco Power the Future Track Prize**
 
 The team describes the project as ““Real-Time Control for Safer Construction.””.
+
+**How it used Aramco:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/rajvratzoom/siteops-final) · Built with bytetrack, bytetrack-(object-tracking)-ai/ml:-google-gemini-2.5-flash-(rag-based-chat-assistant-and-autonomous-site-monitoring-agent)-infrastructure:-supabase-for-database-and-storage, coco-ssd, fastapi
 

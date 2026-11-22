@@ -42,17 +42,17 @@ Pick a track to jump to its winners on this page.
 
 Greener AI, one prompt at a time.
 
-[Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** accessible, cerebras-(chat), framer-motion, google-gemini-(optimize), local-per-token-estimation-fallback-(deterministic-simulation), lucide-react, next.js-15-(app-router), responsive, serverless-api-routes, shadcn/ui, tailwind-css, three.js-(svg-fallback-for-wireframe-globe), typescript, ui
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mIMQKbmX5O4)
 - **All prizes at this hackathon (1):** MLH - Best use of Auth0
-- **How it used Auth0:** Analyzes any prompt and estimates its environmental footprint across energy (kWh) , CO₂ (g) , and water (L) , scaled to a 10,000,000-token scenario for easy sense-making.
+- **How it used Auth0:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -69,16 +69,17 @@ Greener AI, one prompt at a time.
 
 Accelerating the voluntary carbon credit market with blockchain.
 
-[Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4) · Built with css, html, javascript, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=F-6xvtqcJH4) · Built with css, html, javascript, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, html, javascript, python, react
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=F-6xvtqcJH4)
 - **All prizes at this hackathon (1):** CATEGORY - Sustainability (Bloomberg)
+- **How it used Bloomberg:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -95,17 +96,17 @@ Accelerating the voluntary carbon credit market with blockchain.
 
 Sprout AI: Optimizing shelves, preserving the planet.
 
-[Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
+No public code linked · [Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** cerebrus, css, gemini, html, java, javascript, json, python, react
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7kS-5tsI1Ac)
 - **All prizes at this hackathon (1):** CATEGORY - Finance (Capital One)
-- **How it used Capital One:** SproutAI optimizes inventory chains using machine learning to:.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -128,7 +129,7 @@ A finance prototype explores a way to earn yield on money set aside for subscrip
 - **Code:** [Source 1](https://github.com/adlonymous/subsave)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FC3KWH5CUpk)
 - **All prizes at this hackathon (1):** CATEGORY - Finance (Capital One)
-- **How it used Capital One:** You prepay for your monthly subscriptions for a year, and Subsave puts that money into a DeFi yield vault.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -155,7 +156,7 @@ Learn programming through personalized project-focused AI-guided courses. Design
 - **Code:** [Source 1](https://github.com/camelCasedAditya/PennApps)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0yEQR8HrBoE)
 - **All prizes at this hackathon (1):** Cerebus - Best use of Cerebras
-- **How it used Cerebras:** The project lists cerebras among its Built With tags.
+- **How it used Cerebras:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -178,7 +179,7 @@ A mixture of agents expert running on cutting edge inference hardware, that in p
 - **Code:** [Source 1](https://github.com/V-prajit/Terminator)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5CZHU31kQrs)
 - **All prizes at this hackathon (1):** Cerebus - Best use of Cerebras
-- **How it used Cerebras:** The project lists cerebras among its Built With tags.
+- **How it used Cerebras:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -195,17 +196,17 @@ A mixture of agents expert running on cutting edge inference hardware, that in p
 
 CarbonSight is a carbon-aware optimization framework for generative AI:.
 
-[Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adk, fastapi, gemini, node.js, polygon, python, react, supabase
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=b30umZp1RZU)
 - **All prizes at this hackathon (1):** MLH - Best use of Gemini API
-- **How it used Google:** Built a working agentic framework that routes queries across Gemini models dynamically.
+- **How it used Google:** The team built a working agentic framework that routes queries across Gemini models dynamically.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -232,7 +233,7 @@ A movie recommender finds reviews that match the reasons a viewer enjoys a film.
 - **Code:** [Source 1](https://github.com/amheuer/moviemind)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=etUSOAJqu00)
 - **All prizes at this hackathon (1):** MLH - Best use of MongoDB Atlas
-- **How it used MongoDB:** The team use MongoDB for the vector database and semantic search.
+- **How it used MongoDB:** The team uses MongoDB for the vector database and semantic search.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

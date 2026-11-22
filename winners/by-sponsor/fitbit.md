@@ -23,7 +23,9 @@
 
 Employers can have their developers use calories as currency.
 
-Built with fitbit, alchemyapi, firebase, jawbone
+**How it used Fitbit:** Sponsor use not stated on Devpost
+
+No public code linked · Built with fitbit, alchemyapi, firebase, jawbone
 
 ## Track names and requirements
 

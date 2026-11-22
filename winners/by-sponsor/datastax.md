@@ -23,6 +23,8 @@
 
 Quizzo uses OCR, AR, and voice commands to gamify the learning process, increase your engagement with the content, and enrich your online studying experience.
 
+**How it used DataStax:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/apangasa/hackduke-quizzo) · [Demo video](https://www.youtube.com/watch?v=lfjNs9mp4sM) · Built with aframe, ar.js, azure, azure-cognitive-services
 
 ## Track names and requirements

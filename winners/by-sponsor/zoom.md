@@ -33,6 +33,8 @@ Minerva is an AI-powered virtual educator designed to provide structured, person
 
 Real-time knowledge graphs that make every lecture impossible to fall behind in.
 
+**How it used Zoom:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jasonyi33/prereq) · [Demo video](https://www.youtube.com/watch?v=Xaod8It2Wko) · Built with zoom, claude, claudehaiku, claudesonnet
 
 ### [TA-DA: Intelligent Teaching Assistant](https://devpost.com/software/ta-da-intelligent-teaching-assistant)
@@ -63,6 +65,8 @@ FlowPilot listens, understands, and executes, transforming Zoom meetings into Sl
 
 HiveMind: Your Second Brain for Smarter Learning.
 
+**How it used Zoom:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/AahilAliCodes/Hivemind2) · [Demo video](https://www.youtube.com/watch?v=krXZVuJfAOQ) · Built with zoom, api, chromadb, flask
 
 ### [Noteworthy: Visualize, Capture, Remember.](https://devpost.com/software/noteworthy-visualize-capture-remember)
@@ -71,7 +75,7 @@ HiveMind: Your Second Brain for Smarter Learning.
 
 AI-powered lecture companion: Transforms speech into real-time visualizations, incorporates notes, and enhances learning with summaries, resources, and chatbot integration—effortless and efficient.
 
-**How it used Zoom:** Utilizing data generated from Zoom’s WebSocket Technology for text extraction.
+**How it used Zoom:** Leveraging Zoom's powerful servers to capture and process audio in real-time.
 
 [Code](https://github.com/arushisharmaa/stanford-tree-hacks-) · [Demo video](https://www.youtube.com/watch?v=m_1f7-KvGmQ) · Built with bash, gemini, html/css, javascript
 
@@ -80,6 +84,8 @@ AI-powered lecture companion: Transforms speech into real-time visualizations, i
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-zoneout-atz5pe) · **Best Use of Zoom APIs**
 
 Zoned out during a lecture? Your very own lecture buddy is here to save you.
+
+**How it used Zoom:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/NxtGenLegend/TreeHacks-ZoneOut) · [Demo video](https://www.youtube.com/watch?v=Be4lfvVzMRQ) · Built with zoom-api, chromadb, colpali, openai
 

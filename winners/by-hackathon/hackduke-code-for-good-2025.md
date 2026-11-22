@@ -48,6 +48,7 @@ SunlightSavings is a sophisticated yet user-friendly tool that empowers users to
 - **Code:** [Source 1](https://github.com/Kriti-Negi/DukeHacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9F4FJOiGohM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -64,14 +65,14 @@ SunlightSavings is a sophisticated yet user-friendly tool that empowers users to
 
 Wildfires is a platform offering real-time wildfire updates with live data, interactive visuals, and an AI-powered chatbot for fire safety and prevention information.
 
-Built with streamlit, altair, openai, pydeck
+No public code linked · Built with streamlit, altair, openai, pydeck
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** altair, openai, pydeck, python, streamlit
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Streamlit
 - **How it used Streamlit:** The team then used Streamlit to plot them onto a map.

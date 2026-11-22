@@ -35,6 +35,8 @@ A voice project helps people affected by cancer communicate using synthesized sp
 
 Dive into intense 3D dance-offs! Use simple gestures to animate a 3D version of yourself performing insane breakdance moves and challenge friends side by side.
 
+**How it used Cartesia:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/ishaan-arya/boogie-battle) · [Demo video](https://www.youtube.com/watch?v=Jslk5cH8ezo) · Built with cartesia, c#, groq, opencv
 
 ### [SpeakEasy: AI Language Companion](https://devpost.com/software/speakeasy-ai-language-companion)

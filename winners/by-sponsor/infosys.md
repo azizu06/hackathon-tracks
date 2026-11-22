@@ -23,6 +23,8 @@
 
 Augmenting ordinary people into heroic responders by giving them the knowledge, confidence &amp; clarity to save lives.
 
+**How it used Infosys:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Harpith2/Halo) · Built with arkit, chromadb, cloudflare-pages, cloudflare-workers-ai
 
 ## 2024 winners
@@ -32,6 +34,8 @@ Augmenting ordinary people into heroic responders by giving them the knowledge, 
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-investiq-1b0cio) · **Infosys**
 
 InvestIQ simplifies investing for everyone, offering real-time insights, educational chatbot support, and custom algorithm creation—no coding needed. Learn, test, and invest confidently.
+
+**How it used Infosys:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/krish-shar/InvestIQ) · [Demo video](https://www.youtube.com/watch?v=LAvZvJE8MMA) · Built with autogen, cohere, flask, next.js
 

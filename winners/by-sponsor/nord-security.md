@@ -23,13 +23,17 @@
 
 Have you ever imagined a world where navigation is effortless, safety is guaranteed, and health is monitored- all with just a backpack.
 
-[Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
+**How it used Nord Security:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
 
 ### [FirstWave](https://devpost.com/software/firstwave-5wbld1)
 
 [HackNYU 2025](../by-hackathon/hacknyu-2025.md#project-firstwave-5wbld1) · **Track: Security and Privacy**
 
 FirstWave transforms your organization’s approach to cybersecurity by simulating targeted spear phishing campaigns.
+
+**How it used Nord Security:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Laphatize/firstwave) · [Demo video](https://www.youtube.com/watch?v=oLO9dA-NBEQ) · Built with gpt-4o, mongodb, next.js, node.js
 

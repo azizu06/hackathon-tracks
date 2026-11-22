@@ -25,7 +25,7 @@ Bin-It lets residents report overflowing bins from a phone while a dashboard hel
 
 **How it used Databricks:** Databricks processes locations, bin inventory and 311 complaints to estimate where trash accumulates and rank potential sites.
 
-[Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
 
 ### [CrisisLens](https://devpost.com/software/crisislens-rlebdw)
 
@@ -43,6 +43,8 @@ CrisisLens combines humanitarian risk and funding data in a country-level dashbo
 
 A dashboard maps humanitarian funding against local needs to identify crises that receive too little aid.
 
+**How it used Databricks:** GeoInsight connects OCHA’s Financial Tracking Service (FTS) and INFORM Severity data via a Databricks Genie AI Space.
+
 [Code](https://github.com/Angelr327/DSL-Hackalytics) · [Demo video](https://www.youtube.com/watch?v=jn_rcXjV_zw) · Built with databricks, fastapi, html, javascript
 
 ### [Paralassist](https://devpost.com/software/paralassist)
@@ -51,6 +53,8 @@ A dashboard maps humanitarian funding against local needs to identify crises tha
 
 An accessibility prototype uses EEG readings from a visual interface to let people with paralysis select messages.
 
+**How it used Databricks:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/shashankshaga/Paralassist) · [Demo video](https://www.youtube.com/watch?v=hmhprJgUFRA) · Built with css, html, javascript, python
 
 ### [SteadyForum: A Form-Correcting, Gym Journey, Social Media](https://devpost.com/software/steadyflow-a-form-correction-gym-journey-social-media)
@@ -58,6 +62,8 @@ An accessibility prototype uses EEG readings from a visual interface to let peop
 [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-steadyflow-a-form-correction-gym-journey-social-media) · **Best Use of Databricks**
 
 A gym app uses phone-based exercise feedback to help people learn proper form.
+
+**How it used Databricks:** Databricks Pipelines: ingests exported workout telemetry to build a multi-tier lakehouse processing raw logs (Bronze), validated set metrics (Silver), and aggregate process summaries (Gold).
 
 [Code](https://github.com/Del0m/KnightHacks2026) · [Demo video](https://www.youtube.com/watch?v=PPEBBCLeCrA) · Built with databricks, chatgpt, cv, expo.io
 
@@ -69,6 +75,8 @@ A gym app uses phone-based exercise feedback to help people learn proper form.
 
 The team describes the project as “Making academic and professional lives easier for students around the world! Our project scrapes community data to provide students with valuable information to simplify the course…
 
+**How it used Databricks:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/SultanAlzoghaibi/Hack-the-North-2025) · Built with databricks, css, html, llama
 
 ## 2024 winners
@@ -79,15 +87,17 @@ The team describes the project as “Making academic and professional lives easi
 
 What your heart and mind really have to say.
 
-**How it used Databricks:** There is also an opportunity for future extension in collecting streaming data of the user’s brain waves / heart rate information for more intensive processing using Databricks’ pipelines.
+**How it used Databricks:** Sponsor use not stated on Devpost
 
-[Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
+No public code linked · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
 
 ### [citewise](https://devpost.com/software/citewise)
 
 [HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-citewise) · **Best AI Project with Databricks Open Source**
 
 Transform legal research with an AI-powered tool that delivers precise case matches from open-source databases. Streamline workflows and make research faster.
+
+**How it used Databricks:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/FelixNgFender/HackHarvard24) · [Demo video](https://www.youtube.com/watch?v=VuqHDqgFIkg) · Built with cloudflare, courtlistener, fastapi, gpt-4o-mini
 
@@ -97,6 +107,8 @@ Transform legal research with an AI-powered tool that delivers precise case matc
 
 Revolutionizing accessibility through natural-sounding TTS and insightful image and text summarization.
 
+**How it used Databricks:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Prasad-Katkade/AI-Screen-Reader) · [Demo video](https://www.youtube.com/watch?v=kf5yGIl9vkg) · Built with css, express.js, fastapi, html
 
 ### [Percival](https://devpost.com/software/percival-nr46ol)
@@ -105,7 +117,9 @@ Revolutionizing accessibility through natural-sounding TTS and insightful image 
 
 an AI platform that automates data entry from text and speech, anonymizes patient information, and delivers treatment recommendations, enhancing diagnostic accuracy for healthcare professionals.
 
-Built with cloudfare, flask, nextjs, openai-api
+**How it used Databricks:** Sponsor use not stated on Devpost
+
+No public code linked · Built with cloudfare, flask, nextjs, openai-api
 
 ## Track names and requirements
 

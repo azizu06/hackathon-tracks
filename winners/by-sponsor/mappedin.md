@@ -23,6 +23,8 @@
 
 A social app for uncovering university locations and competing with friends.
 
+**How it used MappedIn:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/HTN-2024-LooGuessr/LooGuessr) · Built with express.js, mapped-in, mongodb, node.js
 
 ### [Rex](https://devpost.com/software/rex-inywpb)
@@ -40,6 +42,8 @@ If you can dream it, Rex will find it.
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-securestep) · **Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK**
 
 SecureStep is a smart walking cane designed for seniors in old age homes, responsible for notifying care workers when a fall has occurred.
+
+**How it used MappedIn:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Aidan-Hynes/SecureStep) · [Demo video](https://www.youtube.com/watch?v=qb31FZBE7Ng) · Built with mappedin, 3dprinting, c, caffeine
 

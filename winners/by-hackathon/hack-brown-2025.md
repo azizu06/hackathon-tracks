@@ -43,14 +43,14 @@ Pick a track to jump to its winners on this page.
 
 Signify brings AI into the web accessibility space.
 
-[Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, dynamodb, lambda, amazon-ec2
+No public code linked · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-bedrock, amazon-ec2, amazon-media-convert, amazon-transcribe, amazon-web-services, dynamodb, lambda, natural-language-processing, nextjs, node.js, python, react
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=b_AvCD3fC-I)
 - **All prizes at this hackathon (1):** Best Use of AWS
 - **How it used Amazon Web Services:** Text-to-ASL conversion using AWS Bedrock Speech-to-Text using Amazon Transcribe Real-time processing via Lambda functions.
@@ -70,17 +70,17 @@ Signify brings AI into the web accessibility space.
 
 An arcade-style game where the player can go on a journey of introspection and self-discovery as a little wolf. Collect stars, answer questions, and create a vision board of your future.
 
-Built with chatgpt, css, fastapi, html5
+No public code linked · Built with chatgpt, css, fastapi, html5
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** chatgpt, css, fastapi, html5, phaser.js, react, typescript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** In this game, the player plays as a wolf and collects stars.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -97,17 +97,17 @@ Built with chatgpt, css, fastapi, html5
 
 An all-in-one app for understanding medical documentation and tracking medications seamlessly.
 
-[Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
+No public code linked · [Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** augmented-reality, express.js, firebase, javascript, mongodb, node.js, openai, swift, terraform
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hecJHlorSy0)
 - **All prizes at this hackathon (1):** Best Use of Terraform
-- **How it used HashiCorp:** The project lists terraform among its Built With tags.
+- **How it used HashiCorp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -151,16 +151,17 @@ An LLM-powered web game curated for children to improve their debate and convers
 
 integrated AI pain assessment aid to help patients with timing + dosage towards mitigating opioid abuse risk :) won in healthcare Hack@Brown 2025.
 
-Built with css, figma, groq, html
+No public code linked · Built with css, figma, groq, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, figma, groq, html, json, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Consumer-Driven Patient Safety Technology Track
+- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -187,7 +188,7 @@ Accelerating clinical decision-making with AI-driven patient simulations, real-t
 - **Code:** [Source 1](https://github.com/CharlesJoseph2003/Hack-Brown2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VQALHk_1ff0)
 - **All prizes at this hackathon (1):** Best Use of AI powered by Reach Capital
-- **How it used Reach Capital:** MediSim is an dynamic medical education simulation platform that empowers medical professionals to enhance patient care through life like avatar interactions.
+- **How it used Reach Capital:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -204,17 +205,17 @@ Accelerating clinical decision-making with AI-driven patient simulations, real-t
 
 Work with untapped talents across language barriers.
 
-Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
+No public code linked · Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-ec2, amazon-web-services, dify.ai, fastapi, firebase, github, mongodb, nextjs, python, typescript, vercel
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Developer Tool, sponsored by Warp
-- **How it used Warp:** Many of the team have never used AWS or had to integrate complex frontend functions with backend APIs.
+- **How it used Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

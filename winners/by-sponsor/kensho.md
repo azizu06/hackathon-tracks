@@ -23,13 +23,17 @@
 
 Automatically benefit from the optimizations of many databases, while only working with a single interface.
 
-Built with azure, cosmos-db, druid, node.js
+**How it used Kensho:** Sponsor use not stated on Devpost
+
+No public code linked · Built with azure, cosmos-db, druid, node.js
 
 ### [MPGreen](https://devpost.com/software/mpgreen)
 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-mpgreen) · **Kensho Data Usability Challenge**
 
 The team strip the noise in raw data to find the important trends and present them in clear visualizations.
+
+**How it used Kensho:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/kdu4108/hackmit19) · Built with ford, html, javascript, openxc
 
@@ -41,6 +45,8 @@ The team strip the noise in raw data to find the important trends and present th
 
 A natural language processing framework for collecting data and statistics relevant to a video or audio input.
 
+**How it used Kensho:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/shiftsayan/nemo) · Built with angular.js, flask, machine-learning, mathematica
 
 ## 2016 winners
@@ -51,6 +57,8 @@ A natural language processing framework for collecting data and statistics relev
 
 Finally ask Donald Trump and Hillary Clinton your burning questions - the catch is that they're actually robots.
 
+**How it used Kensho:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/alexwolson/AskTheCandidates) · Built with css, flask, html, python
 
 ### [xkcd For America](https://devpost.com/software/xkcd-for-america)
@@ -58,6 +66,8 @@ Finally ask Donald Trump and Hillary Clinton your burning questions - the catch 
 [HackMIT 2016](../by-hackathon/hackmit-2016.md#project-xkcd-for-america) · **Most interesting use of Wikipedia data around the US presidential candidates, campaigns and/or…**
 
 Determine which candidate to vote for by throwing away your pre-conceived notions – using the art of xkcd.
+
+**How it used Kensho:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/exsmiley/xkcd-for-america) · Built with angular.js, css, firebase, gensim
 
@@ -69,7 +79,9 @@ Determine which candidate to vote for by throwing away your pre-conceived notion
 
 The stock market is inherently volatile, and gaining even the slightest insight into its driving factors can lead to large reward.
 
-Built with bloomberg, weather-underground, wolfram-technologies
+**How it used Kensho:** Sponsor use not stated on Devpost
+
+No public code linked · Built with bloomberg, weather-underground, wolfram-technologies
 
 ## Track names and requirements
 

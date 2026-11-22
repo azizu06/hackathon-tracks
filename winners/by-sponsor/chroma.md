@@ -23,6 +23,8 @@
 
 AI-native interior design platform that learns your taste and generates personalized 3D room visualizations from products you could buy off of Amazon w/ recommendations.
 
+**How it used Chroma:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/MurtazaKafka/artki) · [Demo video](https://www.youtube.com/watch?v=klPlCoSgnOA) · Built with amazon-web-scraping, anthropic-sdk, chromadb, chromadb-cloud
 
 ### [SynapseAI](https://devpost.com/software/synapseai)
@@ -31,7 +33,9 @@ AI-native interior design platform that learns your taste and generates personal
 
 Transforming Thoughts into Visual Expression - Empowering Minds Beyond Words.
 
-[Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9o) · Built with chromadb, google-cloud, langchain, luma-ai
+**How it used Chroma:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9o) · Built with chromadb, google-cloud, langchain, luma-ai
 
 ## 2024 winners
 
@@ -41,6 +45,8 @@ Transforming Thoughts into Visual Expression - Empowering Minds Beyond Words.
 
 GenomIQ streamlines plasmid engineering by combining AI-powered gene generation with a curated gene database.
 
+**How it used Chroma:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/nomitchell/genomiq) · Built with chroma, alphafold, cohere, flask
 
 ### [Ground Truth](https://devpost.com/software/ground-truth-97nqws)
@@ -48,6 +54,8 @@ GenomIQ streamlines plasmid engineering by combining AI-powered gene generation 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-ground-truth-97nqws) · **Build your project with Chroma in an AI application**
 
 Remove the need to manually update your docs. When you make a PR, Doc's are auto updated based on the changes you committed.
+
+**How it used Chroma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Hassanmushtaq524/groundtruth) · Built with chromadb, groq, python, rag
 
@@ -57,6 +65,8 @@ Remove the need to manually update your docs. When you make a PR, Doc's are auto
 
 Military personnel will utilize Lucy to identify potential threats during field operations.
 
+**How it used Chroma:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Jinash-Rouniyar/SpotDog) · [Demo video](https://www.youtube.com/watch?v=Qpsvuxynwek) · Built with arduino, chromadb, deepgram, groq
 
 ### [Pawn Up](https://devpost.com/software/gambit-y0j7mu)
@@ -64,6 +74,8 @@ Military personnel will utilize Lucy to identify potential threats during field 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-gambit-y0j7mu) · **Build your project with Chroma in an AI application**
 
 Pawn Up: Your Personal AI Chess Coach—Analyze, Train, and Master Chess on Your Own Time.
+
+**How it used Chroma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/satwikug25/calhacks) · Built with chroma, css3, docker, flask
 

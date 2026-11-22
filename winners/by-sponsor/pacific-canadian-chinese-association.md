@@ -23,6 +23,8 @@
 
 A smart biofeedback pen and web app that guides users through quick exercises to improve steadiness and control.
 
+**How it used Pacific Canadian Chinese Association:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/SteadyScript/SteadyScript) · [Demo video](https://www.youtube.com/watch?v=QCpoyvr15rE) · Built with arduino, c++, fastapi, opencv
 
 ## Track names and requirements

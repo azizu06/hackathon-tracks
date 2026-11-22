@@ -23,6 +23,8 @@
 
 Social deduction game Mafia played in your iMessages group chat; AI story narration, roles &amp; actions managed in DMs, group discussion in chat, polls, message effects, and more.
 
+**How it used Linq:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/lolasanchezz/text-mafia) · Built with linq, express.js, supabase, typescript
 
 ### [Whim](https://devpost.com/software/idk-man-794g6v)
@@ -30,6 +32,8 @@ Social deduction game Mafia played in your iMessages group chat; AI story narrat
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-idk-man-794g6v) · **Best Use of Linq**
 
 Play a game, shop for the party, or book an entire trip end to end. Whim puts custom AI-powered widgets right in your group chat.
+
+**How it used Linq:** Linq connects Whim to iMessage and supports interactive Experiences.
 
 [Code](https://github.com/chang-07/htn-26) · [Demo video](https://www.youtube.com/watch?v=5nbMa-0Q6Io) · Built with linq, browse.sh, browserbase, cloudflare-d1
 

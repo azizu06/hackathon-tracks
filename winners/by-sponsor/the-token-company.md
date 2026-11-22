@@ -23,6 +23,8 @@
 
 Context management you can trust - Say goodbye to /compact.
 
+**How it used The Token Company:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/a-Fig/Accordion) · [Demo video](https://www.youtube.com/watch?v=T1omrI2VjLA) · Built with claude, javascript, jiti, node.js
 
 ### [Re:Compress](https://devpost.com/software/re-compress)
@@ -30,6 +32,8 @@ Context management you can trust - Say goodbye to /compact.
 [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-re-compress) · **Best Compression Model for The Token Company**
 
 A query-aware rewriting layer that extends compression into the regime deletion can't reach — distilled into a 1.5B model, then carried into multi-turn conversations.
+
+**How it used The Token Company:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with 2wikimultihop, deepseek-api, h100, hotpotqa
 

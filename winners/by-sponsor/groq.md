@@ -23,7 +23,7 @@
 
 An emergency response prototype uses drones to map hazards and help responders choose routes.
 
-**How it used Groq:** 🚀 CV Pipeline Pipeline: FastAPI server exposing REST endpoints to ingest frames, run YOLOv8 object detection, invoke Groq LLaMA for victim triage, and persist results to Supabase.
+**How it used Groq:** Aeris uses a Llama model through Groq to assess victims in drone footage.
 
 [Code](https://github.com/Jeffuz/AERIS) · [Demo video](https://www.youtube.com/watch?v=_vMgX7R_PX0) · Built with groq, butterfly, dain, docker
 
@@ -32,6 +32,8 @@ An emergency response prototype uses drones to map hazards and help responders c
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-jadeai) · **Best Use of Groq**
 
 A data analysis assistant helps users explore and ask questions about their data.
+
+**How it used Groq:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/erik-ksth/jade-ai) · [Demo video](https://www.youtube.com/watch?v=NeEhUii2XYk) · Built with groq, chart.js, fastapi, pandas
 
@@ -51,6 +53,8 @@ LeafPilot is an AI-powered LaTeX editor, built for education. Ask about a concep
 
 A browser copilot helps users find their way around web pages.
 
+**How it used Groq:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/danieltyx/navi-browser-agent) · [Demo video](https://www.youtube.com/watch?v=XXGyFPQvcPk) · Built with groq, context, elevenlabs, gemini
 
 ### [One Take](https://devpost.com/software/one-take)
@@ -58,6 +62,8 @@ A browser copilot helps users find their way around web pages.
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-one-take) · **Groq**
 
 One Take generates professional product demos in minutes. Provide your GitHub or website URL, One Take navigates your product, captures the perfect shots, and adds an authentic AI voiceover.
+
+**How it used Groq:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/NikhilHooda/One-Take) · [Demo video](https://www.youtube.com/watch?v=pDBiWdD8Y8M) · Built with groq, chromium, cohere, ffmpeg
 
@@ -67,6 +73,8 @@ One Take generates professional product demos in minutes. Provide your GitHub or
 
 Real-time facial recognition that identifies connections, remembers conversations, and maps your professional network.
 
+**How it used Groq:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/qiuethan/Orbit) · [Demo video](https://www.youtube.com/watch?v=-XV-iJZak3I) · Built with groq, cerebras, deepface, fastapi
 
 ### [SpeakEasy](https://devpost.com/software/speakeasy-arzjmb)
@@ -75,7 +83,7 @@ Real-time facial recognition that identifies connections, remembers conversation
 
 SpeakEasy gives nonverbal users a voice. Built on Snap Spectacles, it detects the world around them, offers smart prompts, and speaks responses instantly.
 
-**How it used Groq:** The team integrated Gemini’s object detection model to understand the user’s surroundings and ran it through Groq for ultra-fast language generation.
+**How it used Groq:** Using an object detection system powered by Gemini and accelerated by Groq, the glasses analyze the user’s surroundings and generate context-aware conversation prompts on an interactive AR keyboard built in Lens Studio.
 
 [Code](https://github.com/ammiellewb/SpeakEasy-public) · [Demo video](https://www.youtube.com/watch?v=8TX48L2IG18) · Built with groq, bluetooth, gemini, lensstudio
 
@@ -87,13 +95,17 @@ SpeakEasy gives nonverbal users a voice. Built on Snap Spectacles, it detects th
 
 Take a picture, get a 3D print of it.
 
-[Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g0) · Built with groq, 3dprinting, ai, cohere
+**How it used Groq:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g0) · Built with groq, 3dprinting, ai, cohere
 
 ### [Noq](https://devpost.com/software/noq-92iysh)
 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-noq-92iysh) · **The Best on Groq**
 
 A note taker turns live audio into written notes.
+
+**How it used Groq:** The team connected its embedding models to Groq in a multi-server setup.
 
 [Code](https://github.com/pnavab/calhacks11) · [Demo video](https://www.youtube.com/watch?v=NWODx14Z6pw) · Built with groq, chromadb, next.js, tailwind
 
@@ -103,6 +115,8 @@ A note taker turns live audio into written notes.
 
 Automate your notes so that you can focus on listening :).
 
+**How it used Groq:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/HTN-2024-AI-App/NoteHacks) · [Demo video](https://www.youtube.com/watch?v=6Eo_dfUz-wI) · Built with groq, convex, openai, opencv
 
 ### [The WiLi Watch](https://devpost.com/software/wili-watch)
@@ -110,6 +124,8 @@ Automate your notes so that you can focus on listening :).
 [MHacks 2024](../by-hackathon/mhacks-2024.md#project-wili-watch) · **Best App Built on Groq**
 
 The WiLi Watch is an innovative, interactive wearable wristband designed to enable voice-activated control over various smart home functions, particularly benefiting movement-impaired individuals.
+
+**How it used Groq:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ethanmckean/The-WiLi-Watch-mhacks24) · [Demo video](https://www.youtube.com/watch?v=UYSAEgx3lSQ) · Built with groq, arduino-nano, cartesia, freewili
 

@@ -23,6 +23,8 @@
 
 Building NetZero was an incredible journey of growth and innovation.
 
+**How it used Sauce Labs:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/SagnikBiswasDL/SBHacksShared2025) · [Demo video](https://www.youtube.com/watch?v=3oaDyCyiX6o) · Built with css, html, javascript, sql
 
 ## 2024 winners
@@ -32,6 +34,8 @@ Building NetZero was an incredible journey of growth and innovation.
 [HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-embeddit) · **Sauce Labs Hot Sauce Raffle**
 
 Find useful information about subreddits with a few clicks.
+
+**How it used Sauce Labs:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/sethmorton/embeddit) · [Demo video](https://www.youtube.com/watch?v=E9kUUpfn7_g) · Built with chatgpt, css, daisyui, nextjs
 

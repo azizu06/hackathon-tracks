@@ -10,7 +10,7 @@
 
 - **Most used tech:** python (12), arduino (5), typescript (5), fastapi (4), jetson-nano (4)
 - **Project areas:** Safety and emergency response (2), Accessibility and assistive tools (1), Climate and environment (1)
-- **Demo formats:** Hardware or robotics (8), Web app or dashboard (4), Mobile app (2)
+- **Demo formats:** Hardware or robotics (8), Web app or dashboard (5), Mobile app (2)
 - **Demo videos:** 16 of 16 winners link one
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
@@ -23,7 +23,7 @@
 
 Using mass surveillance to keep people safe - predicting impact, affected areas, and coordinating faster emergency response in disasters.
 
-**How it used NVIDIA:** The fire-risk overlay is powered by NVIDIA Earth-2, which provides predictive weather patterns that indicate conditions conducive to forest fires.
+**How it used NVIDIA:** The team deployed NVIDIA’s DGX Spark systems to host NVIDIA open models, including the Nemotron-class Personaplex model and Earth-2.
 
 [Code](https://github.com/alangrewco/treehacks) · [Demo video](https://www.youtube.com/watch?v=51RLdw6FQOg) · Built with nvidia, docker, earth2studio, fastapi
 
@@ -32,6 +32,8 @@ Using mass surveillance to keep people safe - predicting impact, affected areas,
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-detour-64kpds) · **Edge AI Track**
 
 An onboard satellite agent evaluates possible debris collisions and proposes an avoidance maneuver.
+
+**How it used NVIDIA:** The core of Detour is a multi-agent workflow powered by a local NVIDIA open model via vLLM.
 
 [Code](https://github.com/keanucz/detour) · [Demo video](https://www.youtube.com/watch?v=XTLts_t78IQ) · Built with dgx-spark, nvidia, agents, cdm
 
@@ -61,6 +63,8 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 
 Custom voxel engine on a ARTY A7-100T FPGA with a realistic trading sim.
 
+**How it used NVIDIA:** The banker, trader and builder use tool-calling agents on Nemotron 3 Ultra (hosted) by default, or Nemotron 3 Super self-hosted on a Brev H200.
+
 [Code](https://github.com/Sweet-Rice/kennycraft-alpha) · [Demo video](https://www.youtube.com/watch?v=Qakh5g6futU) · Built with arty-a7-100t-fpga, assembly, c, graphics
 
 ### [Permanence](https://devpost.com/software/permanence)
@@ -69,7 +73,7 @@ Custom voxel engine on a ARTY A7-100T FPGA with a realistic trading sim.
 
 A spatial awareness tool tracks objects and remembers their locations when they move out of view.
 
-**How it used NVIDIA:** Everything runs on an NVIDIA Jetson Orin Nano (8 GB) .
+**How it used NVIDIA:** Permanence runs its rover's vision pipeline and motor control on an NVIDIA Jetson Orin Nano.
 
 [Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with cuda, jetson-nano, arduino, c++
 
@@ -99,6 +103,8 @@ A Jetson-based retrofit tests autonomous driving functions in vehicles that were
 
 Introducing TripWir3! Powered by NVIDIA Nemotron™ agents, this weight-provenance framework audits a given open-weight model's LoRA weights and trigger behaviors and returns an evidence-backed verdict.
 
+**How it used NVIDIA:** A Nemotron 3.5 Super orchestrator on the NVIDIA API plans and does the tool calling, while the Investigator, Skeptic, and Report agents run locally on Nemotron 3.5 Lightning 30B-A3B through LM Studio.
+
 [Code](https://github.com/mukherjeeabhirup/tripwir3) · [Demo video](https://www.youtube.com/watch?v=vPMd6Ijjr3M) · Built with nvidia-api, nvidia-brev, nvidia-nemotron, css
 
 ## 2025 winners
@@ -111,7 +117,7 @@ Alchemetrics is a real-time AI dashboard that tracks cauldrons, matches tickets,
 
 **How it used NVIDIA:** The team built a multi-agent system orchestrated by Nemotron (NVIDIA’s LLM planner).
 
-[Code](https://github.com/Lanisha20/Alchemetrics) · [Demo video](https://www.youtube.com/watch?v=_XkRiy9jCP8) · Built with css, fastapi, nemotron, nextjs
+[Code](https://github.com/Lanisha20/Alchemetrics) · [Demo video](https://www.youtube.com/watch?v=_XkRiy9jCP8) · Built with nemotron, css, fastapi, nextjs
 
 ### [DataDriver](https://devpost.com/software/datadriver)
 
@@ -119,7 +125,9 @@ Alchemetrics is a real-time AI dashboard that tracks cauldrons, matches tickets,
 
 DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to generate detailed step by step work plans, inspect real time inventory availability, and replan tasks when issues arise.
 
-[Code](https://github.com/Jeanpascal-Gauthier/Data-Driver) · [Demo video](https://www.youtube.com/watch?v=w0YteTzoGc4) · Built with agents, ai, flask, langchain
+**How it used NVIDIA:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/Jeanpascal-Gauthier/Data-Driver) · [Demo video](https://www.youtube.com/watch?v=w0YteTzoGc4) · Built with nemotron, agents, ai, flask
 
 ### [Portable Braille](https://devpost.com/software/portable-braille-cdq8v5)
 
@@ -127,7 +135,7 @@ DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to ge
 
 A portable teaching device helps children with visual impairments practice Braille.
 
-**How it used NVIDIA:** Also device allows to "read" face expressions while talking to people, by face expression recognition using RayBan&#124;Meta glasses and doing computing on the Jetson Orin Nano.
+**How it used NVIDIA:** The project runs its facial-expression recognition on an NVIDIA Jetson Orin Nano.
 
 [Code](https://github.com/Adil-Jussupov/PortableBraille) · [Demo video](https://www.youtube.com/watch?v=0vI_fjJIOsE) · Built with arduino, bluetooth, braille, c
 
@@ -147,7 +155,9 @@ An AR wearable displays cues about nearby sounds to deaf and hard-of-hearing use
 
 Toyotron is a solution that allows users to easily find their dream Toyota through agentic AI powered by NVIDIA's intelligent open source foundational model, Nemotron.
 
-[Code](https://github.com/anbguye/hackutd-Toyota-Toyotron) · [Demo video](https://www.youtube.com/watch?v=CSc6zKQRxIY) · Built with ai, css, nemotron, next.js
+**How it used NVIDIA:** The team orchestrated agents using Nemotron as the reasoning core, wrapped in a Next.js frontend that delivers both chat and simulated phone-call experiences.
+
+[Code](https://github.com/anbguye/hackutd-Toyota-Toyotron) · [Demo video](https://www.youtube.com/watch?v=CSc6zKQRxIY) · Built with nemotron, ai, css, next.js
 
 ### [VL-ADK](https://devpost.com/software/vl-adk)
 
@@ -155,15 +165,17 @@ Toyotron is a solution that allows users to easily find their dream Toyota throu
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-**How it used NVIDIA:** The team used SSH tunnels to connect between the hosts and the Jetson Orin mounted on top of the Jetbot.
+**How it used NVIDIA:** VL-ADK uses a Jetson Orin Nano on the rover and connects to it over SSH for remote control.
 
-[Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
 
 ### [WiiWork](https://devpost.com/software/wiiwork-8u1x62)
 
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-wiiwork-8u1x62) · **Best Accelerated Compute**
 
-Real-time voice interaction using ElevenLabs for speech synthesis and Open AI whisper for speech regognition.
+WiiWork is a voice-controlled website designed for people and AI agents to use.
+
+**How it used NVIDIA:** WiiWork uses a DeepSeek model through NVIDIA for complex reasoning in its voice-controlled web interface.
 
 [Code](https://github.com/Alezander9/WiiWork) · [Demo video](https://www.youtube.com/watch?v=rkLqYKocnNc) · Built with nvidia, anthropic, convex, deepseek
 

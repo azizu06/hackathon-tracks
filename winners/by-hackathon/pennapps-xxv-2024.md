@@ -59,8 +59,8 @@ DriveWise: Your personalized, safety-first navigation app, using 22 years of acc
 - **Code:** [Source 1](https://github.com/pranavponnusamy/Drivewise)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=A9ToFxCVF9c)
 - **All prizes at this hackathon (2):** Best Use of Statistics · Track: Best Community Impact Hack (Sponsored by Perpay)
-- **How it used Perpay:** The team developed DriveWise , a route-planning app that empowers users to make informed decisions about the safest routes.
-- **How it used Susquehanna International Group:** The team developed DriveWise , a route-planning app that empowers users to make informed decisions about the safest routes.
+- **How it used Perpay:** Sponsor use not stated on Devpost
+- **How it used Susquehanna International Group:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -83,7 +83,7 @@ Automated Medication Scanner and Tracker Powered by Computer Vision.
 - **Code:** [Source 1](https://github.com/Srinikal/Snapill)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Computer Vision (Sponsored by Roboflow) · Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)
-- **How it used Patient Safety Technology Challenge:** You may notice Snapill is very similar to the popular messaging app Snapchat.
+- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
 - **How it used Roboflow:** They were used to train both a Roboflow model to detect labels, and test a custom OpenCV unwarping pipeline.
 - **Checked on Devpost:** 2026-11-21
 
@@ -107,8 +107,8 @@ Real-time infection monitoring with moisture, temperature, and pH sensors.
 - **Code:** [Source 1](https://github.com/katelynkywong/SurgiSafe)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RFui9r2ybFU)
 - **All prizes at this hackathon (2):** The Wolfram Award · Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)
-- **How it used Patient Safety Technology Challenge:** SurgiSafe is a wearable device designed to monitor wounds by detecting moisture, temperature, and pH levels in real time.
-- **How it used Wolfram:** SurgiSafe is a wearable device designed to monitor wounds by detecting moisture, temperature, and pH levels in real time.
+- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
+- **How it used Wolfram:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -137,7 +137,7 @@ Philadelphia’s heat is rising! Enter your address to see how chill your area i
 - **Code:** [Source 1](https://github.com/carolinecummings19/Chilladelphia)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=H4WKPl8tdaI)
 - **All prizes at this hackathon (1):** Track: Best Sustainability Hack (Sponsored by Bloomberg)
-- **How it used Bloomberg:** The main page features a heat map that visually highlights the hottest and coolest areas around Philadelphia.
+- **How it used Bloomberg:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -164,7 +164,7 @@ Revolutionize your takeout habits — get financially savvy meal choices and ide
 - **Code:** [Source 1](https://github.com/pennapps-w/plate-o)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aZ8MMSoKCXc)
 - **All prizes at this hackathon (1):** Track: Best Financial Hack (Sponsored by Capital One)
-- **How it used Capital One:** By integrating the Capital One API, Plate-O can analyze your income, expenses, and savings to calculate an ideal takeout budget—maximizing enjoyment while minimizing financial strain. 💵📈.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -191,7 +191,7 @@ Predict Elections Way Better With LLM Agents.
 - **Code:** [Source 1](https://github.com/SahraMohamad/Electra)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=c6X9n7o9Zjk)
 - **All prizes at this hackathon (1):** Super Fast AI
-- **How it used Cerebras:** The project lists cerebras among its Built With tags.
+- **How it used Cerebras:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -204,14 +204,14 @@ Predict Elections Way Better With LLM Agents.
 
 The app allows users to have on-demand check-ins with a chatbot.
 
-[Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uR7UlKGjseE)
 - **All prizes at this hackathon (1):** Super Fast AI
 - **How it used Cerebras:** The team used Cerebras for the chatbot to ensure fast and efficient inference.
@@ -237,7 +237,7 @@ A gateway for blind/visually impaired people to experience the world independent
 - **Code:** [Source 1](https://github.com/ddiyas/OpticaV2)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZD9LP6MjzG8)
 - **All prizes at this hackathon (1):** Super Fast AI
-- **How it used Cerebras:** The project lists cerebras among its Built With tags.
+- **How it used Cerebras:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -264,7 +264,7 @@ Minimize your tech stack's developmental cost.
 - **Code:** [Source 1](https://github.com/stevensusas/Underflow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lGFKiZR0MNk)
 - **All prizes at this hackathon (1):** Best Use of Defang
-- **How it used Defang:** Underflow is a command-line tool that helps developers optimize their tech stack by analyzing the codebase and identifying opportunities to reduce costs while maintaining performance.
+- **How it used Defang:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -281,17 +281,17 @@ Minimize your tech stack's developmental cost.
 
 Sera helps people with limited banking experience take control of their money. No jargon—just real support when it’s needed most.
 
-[Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** atlas, cerebras, express.js, javascript, mongdb, nextjs, node.js, roboflow, tailwind, tailwindcss, tune
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=E-Cg1Y2ALKc)
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
-- **How it used Fidelity:** Sera simplifies financial management by providing users with an intuitive dashboard where they can track their recent transactions, bills, budgets, and overall balances - all in one place.
+- **How it used Fidelity:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -318,7 +318,7 @@ Then everyone with access can choose which times work best for them.
 - **Code:** [Source 1](https://github.com/tbwrigh/PennAppsXXV)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vbNhfhMT3vs)
 - **All prizes at this hackathon (1):** Best Use of Terraform
-- **How it used HashiCorp:** The team used a lot of Terraform.
+- **How it used HashiCorp:** The team used Terraform to deploy AWS Lambda functions and configure API Gateway permissions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -378,7 +378,7 @@ ScholarFlow makes it easy to find research papers and professors.
 - **Code:** [Source 1](https://github.com/AjayAvasi/ScholarFlow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_Yydo6lTc5s)
 - **All prizes at this hackathon (1):** Best Beginner Hack
-- **How it used Penn Labs:** Additionally, you can talk to the chatbot, "Scholar Chat" 🤖.
+- **How it used Penn Labs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -411,7 +411,7 @@ Unified Electronic Health Record featuring an AI- and RAG-powered search bot for
 - **Code:** [Source 1](https://github.com/gibranoderenz/unifymd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=c1NckGLl0TI)
 - **All prizes at this hackathon (1):** Best Use of PropelAuth
-- **How it used PropelAuth:** UnifyMD is a unified health record system that aggregates patient data and historical health records.
+- **How it used PropelAuth:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -450,7 +450,7 @@ CoffeeStarter is the ultimate networking tool. It leverages your resume to craft
 - **Code:** [Source 1](https://github.com/sutharsikakumar/PennApps-XXV)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-Sh9W3QzrO4)
 - **All prizes at this hackathon (1):** Best Next-Gen LLM-Powered Application (Sponsored by Tune)
-- **How it used Tune:** The project lists tune among its Built With tags.
+- **How it used Tune:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -473,7 +473,7 @@ Empowering students to collectively build smarter, interactive lessons for a bet
 - **Code:** [Source 1](https://github.com/danielodicho/upenn)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-HKme-4BvmY)
 - **All prizes at this hackathon (1):** Best Next-Gen LLM-Powered Application (Sponsored by Tune)
-- **How it used Tune:** Hivemind is an AI-powered learning platform designed to empower students to actively engage with their course material and create personalized, interactive lessons.
+- **How it used Tune:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -502,7 +502,7 @@ Bringing politicians and voters closer, one personalized ad at a time.
 - **Code:** [Source 1](https://github.com/pr28416/rally)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OfkKmmvT_OY)
 - **All prizes at this hackathon (3):** Best Design · Best Overall 2nd · The Wolfram Award
-- **How it used Wolfram:** Rally helps politicians meet voters where they are – in a figurative and digital sense.
+- **How it used Wolfram:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -515,17 +515,17 @@ Bringing politicians and voters closer, one personalized ad at a time.
 
 A wearable headphone that dynamically adapts audio for individuals with autism, providing comfort while keeping users connected to their surroundings.
 
-[Demo video](https://www.youtube.com/watch?v=6jjXlH3dni0) · Built with librosa, numpy, opencv, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=6jjXlH3dni0) · Built with librosa, numpy, opencv, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** librosa, numpy, opencv, python, raspberrypi, scipy
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6jjXlH3dni0)
 - **All prizes at this hackathon (2):** Best Overall 1st · The Wolfram Award
-- **How it used Wolfram:** SoundShield is a wearable device that adapts to noisy environments by automatically adjusting calming background audio and applying noise reduction.
+- **How it used Wolfram:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,6 +23,8 @@
 
 ScholarFlow makes it easy to find research papers and professors.
 
+**How it used Penn Labs:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/AjayAvasi/ScholarFlow) · [Demo video](https://www.youtube.com/watch?v=_Yydo6lTc5s) · Built with beautiful-soup, bulma, cerebras, css3
 
 ## Track names and requirements

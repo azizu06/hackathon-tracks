@@ -23,6 +23,8 @@
 
 OxyControl is a novel, low-cost device designed to prevent the abuse of prescription narcotics in post-operative and chronic pain patients.
 
+**How it used Digi-Key:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/blucifer22/oxycontrol) · [Demo video](https://www.youtube.com/watch?v=Ucm68nm7ov4) · Built with arduino, c, c++, cad
 
 ### [Sink Saver](https://devpost.com/software/sink-saver)
@@ -30,6 +32,8 @@ OxyControl is a novel, low-cost device designed to prevent the abuse of prescrip
 [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-sink-saver) · **Best Hardware Hack Sponsored by Digi-Key**
 
 A machine learning application that alerts users of unattended leaky or running faucets in their homes to minimize water waste and overuse.
+
+**How it used Digi-Key:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/tamablevirus/HackDuke2020-SinkSaver) · [Demo video](https://www.youtube.com/watch?v=59taEK-VP0A) · Built with arduino, c++, flask, github
 

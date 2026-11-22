@@ -43,16 +43,17 @@ Pick a track to jump to its winners on this page.
 
 The team describes the project as “AI-powered Menu Engineer”.
 
-Built with d3.js, fastapi, javascript, monogodb
+No public code linked · Built with d3.js, fastapi, javascript, monogodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** d3.js, fastapi, javascript, monogodb, python, react
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Track: Fintech - Best Financial Hack
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -65,17 +66,17 @@ Built with d3.js, fastapi, javascript, monogodb
 
 An application that leverages Quantum Computing and Superposition to simulate multiple Stochastic States in a Brownian motion simulation to more effectively represent stock behavior.
 
-[Demo video](https://www.youtube.com/watch?v=w15F0oFqkak) · Built with ai/ml, bootstrap, css, flask
+No public code linked · [Demo video](https://www.youtube.com/watch?v=w15F0oFqkak) · Built with ai/ml, bootstrap, css, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ai/ml, bootstrap, css, flask, html, javascript, numpy, python, quantum
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=w15F0oFqkak)
 - **All prizes at this hackathon (1):** Track: Fintech - Best Financial Hack
-- **How it used Capital One:** QuStoch utilizes quantum computing principles to enhance financial market simulations.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -102,7 +103,7 @@ Giveo is a swipe-based app, built to connect users with a feed of charities pers
 - **Code:** [Source 1](https://github.com/spcoughlin/Giveo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KTbUzU5nbEg)
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** The project lists godaddy among its Built With tags.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -129,7 +130,7 @@ SolMate – the AI agent that turns crypto talk into action. Voice-powered tradi
 - **Code:** [Source 1](https://github.com/yusufsallam64/solmate)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WdXHG4r3xuk)
 - **All prizes at this hackathon (1):** Best Use of MongoDB Atlas
-- **How it used MongoDB:** Built RAG system using bge-large-en-v1.5 embeddings and MongoDB vector search.
+- **How it used MongoDB:** The team built RAG system using bge-large-en-v1.5 embeddings and MongoDB vector search.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -146,16 +147,17 @@ SolMate – the AI agent that turns crypto talk into action. Voice-powered tradi
 
 Have you ever imagined a world where navigation is effortless, safety is guaranteed, and health is monitored- all with just a backpack.
 
-[Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
+No public code linked · [Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** c++, geopy, hardware, libraries, mediapipe, opencv, python, pyttx3, sensors, threading
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gz_HUX_mEYY)
 - **All prizes at this hackathon (1):** Track: Security and Privacy
+- **How it used Nord Security:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -178,6 +180,7 @@ FirstWave transforms your organization’s approach to cybersecurity by simulati
 - **Code:** [Source 1](https://github.com/Laphatize/firstwave)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oLO9dA-NBEQ)
 - **All prizes at this hackathon (1):** Track: Security and Privacy
+- **How it used Nord Security:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -204,7 +207,7 @@ AutoCPT automates medical billing by extracting CPT codes from doctor-patient ta
 - **Code:** [Source 1](https://github.com/Techdude01/AutoCPT)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YdkI37ASM9w)
 - **All prizes at this hackathon (1):** Best Use of AI powered by Reach Capital
-- **How it used Reach Capital:** AutoCPT listens to live speech, transcribes medical conversations, and extracts the most relevant CPT codes.
+- **How it used Reach Capital:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -231,7 +234,7 @@ A decentralized car marketplace operating on the Solana block chain. No middleme
 - **Code:** [Source 1](https://github.com/HassanZafar-2021/AutoTrust)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lWGJleFYmqM)
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
-- **How it used Solana:** The project lists anchor among its Built With tags.
+- **How it used Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -254,7 +257,7 @@ Solana based game with a goal of winning an argument against a LLM.
 - **Code:** [Source 1](https://github.com/lawaldemur/HackNYU)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-JSJSiqH1JE)
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
-- **How it used Solana:** The project lists anchor, solana among its Built With tags.
+- **How it used Solana:** The SOL smart-contract written on Rust is deployed to the devnet of Solana.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -267,14 +270,14 @@ Solana based game with a goal of winning an argument against a LLM.
 
 SolHive is a platform to navigate NFT Markets &amp; Network Congestion with AI. It uses real-time blockchain metrics, NFT recommendations, and predictive analytics to optimize transactions.
 
-[Demo video](https://www.youtube.com/watch?v=anMExD1-qms) · Built with alchemyapi, graph, javascript, openai
+No public code linked · [Demo video](https://www.youtube.com/watch?v=anMExD1-qms) · Built with alchemyapi, graph, javascript, openai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** alchemyapi, graph, javascript, openai, pinata, python, react
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=anMExD1-qms)
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
 - **How it used Solana:** The application provides real-time insights into Solana’s network performance by analyzing key metrics such as TPS, transaction fees, failed transactions, NFT trading volume, and minting activity.
@@ -300,7 +303,7 @@ Yes, you read that right – not just devnet, but mainnet-beta.
 - **Code:** [Source 1](https://github.com/Loldude0/hacknyu)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
-- **How it used Solana:** The project lists solana among its Built With tags.
+- **How it used Solana:** It all happens in real-time, powered by State of the Art ML Models and Solana's lightning-fast network.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -317,17 +320,17 @@ Yes, you read that right – not just devnet, but mainnet-beta.
 
 Your Vision, Reborn. A complex collection of pipelines, all working in tandem to restore sight capabilities for the visually impaired.
 
-[Demo video](https://www.youtube.com/watch?v=kDdEKuB_Qy4) · Built with streamlit, mongodb, opencv, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=kDdEKuB_Qy4) · Built with streamlit, mongodb, opencv, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** mongodb, opencv, python, solana, streamlit, transformers
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kDdEKuB_Qy4)
 - **All prizes at this hackathon (1):** Best Use of Streamlit
-- **How it used Streamlit:** The project lists streamlit among its Built With tags.
+- **How it used Streamlit:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

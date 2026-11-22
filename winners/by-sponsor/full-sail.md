@@ -23,9 +23,9 @@
 
 Farsight presents a search-and-rescue drill through a headset, with a live driving view and a 3D replay of the room.
 
-**How it used Full Sail:** The simulation-track demo combines route scoring, person detection and a WebXR walkthrough.
+**How it used Full Sail:** Sponsor use not stated on Devpost
 
-[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with meta-quest, three.js, webxr, arduino
+[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with arduino, arkit, depth-anything, fastapi
 
 ## Track names and requirements
 

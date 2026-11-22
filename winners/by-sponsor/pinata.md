@@ -25,13 +25,15 @@ Capsule, allows you to upload data into a "capsule" and retrieve it very quickly
 
 **How it used Pinata:** The team built it using Next.JS, TailwindCSS, ShadCN, Pinata, and QRCode.
 
-[Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
+No public code linked · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
 
 ### [Cheddarboxd](https://devpost.com/software/cheddarboxd)
 
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-cheddarboxd) · **Pinata**
 
 It's a social cheese rating and sharing website.
+
+**How it used Pinata:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/joemmalatesta/CheddarBoxd) · [Demo video](https://www.youtube.com/watch?v=ijk-pzGl-H0) · Built with pinata, sveltekit, tailwind
 
@@ -41,7 +43,9 @@ It's a social cheese rating and sharing website.
 
 Meet Monch – the AI-powered app that uses photos of your food to instantly recognizes ingredients, portion sizes, and calculates complete macro breakdowns.
 
-[Demo video](https://www.youtube.com/watch?v=ZkMzkzsfklo) · Built with pinata, clerk, next, react
+**How it used Pinata:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ZkMzkzsfklo) · Built with pinata, clerk, next, react
 
 ## Track names and requirements
 

@@ -23,7 +23,9 @@
 
 Voice AI with RAG-powered clinical reasoning that proactively detects post-surgical complications, alerts care providers before symptoms escalate, and prevents costly hospital readmissions.
 
-[Code](https://github.com/JoyZhuoz/carelink) · [Demo video](https://www.youtube.com/watch?v=C60iv-taFpQ) · Built with claude-sdk, elasticsearch, elevenlabs, esql
+**How it used Elastic:** The team built CareLink with React for the frontend, Express.js for the backend, and a demo patient database stored using Elasticsearch’s powerful vector embedding and retrieval capabilities.
+
+[Code](https://github.com/JoyZhuoz/carelink) · [Demo video](https://www.youtube.com/watch?v=C60iv-taFpQ) · Built with elasticsearch, claude-sdk, elevenlabs, esql
 
 ### [Gallop](https://devpost.com/software/gallop)
 
@@ -31,9 +33,9 @@ Voice AI with RAG-powered clinical reasoning that proactively detects post-surgi
 
 Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity control platform that detects intrusion activity and converts security signals into immediate defensive actions.
 
-**How it used Elastic:** Essentially, Elastic provides the necessary retrieval and sensing system, and Gallop provides the reflexes and operational control plane, compressing detection-to-action cycles from human to operational timescales.
+**How it used Elastic:** Gallop uses Elasticsearch vector search with Jina embeddings to retrieve context for its agents.
 
-[Code](https://github.com/Eth007/gallop) · [Demo video](https://www.youtube.com/watch?v=QRSf0SUPioM) · Built with elastic, codex, ebpf, elasticcloud
+[Code](https://github.com/Eth007/gallop) · [Demo video](https://www.youtube.com/watch?v=QRSf0SUPioM) · Built with elastic, elasticsearch, codex, ebpf
 
 ### [hereafter](https://devpost.com/software/physical-studio-code)
 
@@ -41,15 +43,17 @@ Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity con
 
 Builds a life out of unstructured input.
 
-**How it used Elastic:** Using a cross-encoder as a decision function with Elastic JINA embeddings.
+**How it used Elastic:** Physical Studio Code uses Elastic's Jina embeddings with a cross-encoder to make decisions.
 
-[Code](https://github.com/archangelinux/hereafter) · [Demo video](https://www.youtube.com/watch?v=G1VDjOIsy6M) · Built with browserbase, elasticsearch, openai, python
+[Code](https://github.com/archangelinux/hereafter) · [Demo video](https://www.youtube.com/watch?v=G1VDjOIsy6M) · Built with elasticsearch, browserbase, openai, python
 
 ### [Interlude](https://devpost.com/software/interlude-yhdm1t)
 
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-interlude-yhdm1t) · **Best use of the Elastic Agent Builder on a Serverless Instance**
 
 Interlude is a companion for the whole care cycle: before, during, and after every medical visit.
+
+**How it used Elastic:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/cwanggang/Interlude) · [Demo video](https://vimeo.com/1239254895) · Built with elastic, elastic-agent-builder, elastic-workflows, anthropic-claude-api
 
@@ -59,6 +63,8 @@ Interlude is a companion for the whole care cycle: before, during, and after eve
 
 PawTrace is a missing-pet search platform that combines community sightings and available camera footage to determine where a lost pet is most likely to be.
 
+**How it used Elastic:** The team built the frontend with Next.js, TypeScript, Tailwind CSS, and React Leaflet, with a FastAPI backend connected to Elasticsearch.
+
 [Code](https://github.com/joeyhlu/htn) · [Demo video](https://www.youtube.com/watch?v=mJMGNQhIAtM) · Built with elasticsearch, fastapi, nextjs, node.js
 
 ### [Quota](https://devpost.com/software/quota-t3h6i9)
@@ -67,7 +73,7 @@ PawTrace is a missing-pet search platform that combines community sightings and 
 
 A web app that works out how much commission each sales rep has earned, catches mistakes in the sales records, and explains every number when questioned.
 
-**How it used Elastic:** python, fastapi, sqlite, react, vite, typescript, elasticsearch, elastic-agent-builder, elastic-workflows, esql, jina-embeddings, mcp, stripe, stripe-test-clocks, claude, anthropic, computer-use, bun, prisma, asc-340-40, sec-edgar, pytest,…
+**How it used Elastic:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/aaditisinghal/Quota) · [Demo video](https://www.youtube.com/watch?v=iVvCbKBY73w) · Built with elastic, python, stripe
 
@@ -89,7 +95,7 @@ Democratizing information across the electric grid.
 
 Stack Overflow 2.0: break the prompt spiral-&gt; jump straight to the proven fix.
 
-**How it used Elastic:** The team scrape your current conversation, build a “query JSON,” and run a hybrid Elastic search over validated fixes.
+**How it used Elastic:** User adds short human context in the web app → LAVA re-checks summary alignment → stored + indexed in Elastic.
 
 [Code](https://github.com/Ishaannarang22/agentoverflow) · [Demo video](https://www.youtube.com/watch?v=GIcHKhtuh74) · Built with chrome, gemini, javascript, node.js
 
@@ -101,7 +107,7 @@ Real-time stock market visualization application with AI-powered agent analysis.
 
 **How it used Elastic:** Six agents, each built with Elastic Agent Builder, analyze a different layer of the market: price movement, company fundamentals, news sentiment, volatility, etc.
 
-[Code](https://github.com/AlexLuu1/MarketMind) · [Demo video](https://www.youtube.com/watch?v=fEeDajzAcTY) · Built with elasticagentbuilder, elasticsearch, lava, next.js
+[Code](https://github.com/AlexLuu1/MarketMind) · [Demo video](https://www.youtube.com/watch?v=fEeDajzAcTY) · Built with elasticsearch, elasticagentbuilder, lava, next.js
 
 ### [theo](https://devpost.com/software/theo-k1enau)
 
@@ -109,7 +115,9 @@ Real-time stock market visualization application with AI-powered agent analysis.
 
 a cognition copilot that distills your thoughts from pen to perspective.
 
-[Code](https://github.com/RALS-TreeHacks-25/backend) · [Demo video](https://www.youtube.com/watch?v=qbKc0O2uQv8) · Built with agents, ai, elasticsearch, embeddings
+**How it used Elastic:** The team used Firestore as a general-purpose no-SQL datastore and ElasticSearch to run vector search on the embeddings.
+
+[Code](https://github.com/RALS-TreeHacks-25/backend) · [Demo video](https://www.youtube.com/watch?v=qbKc0O2uQv8) · Built with elasticsearch, agents, ai, embeddings
 
 ## Track names and requirements
 

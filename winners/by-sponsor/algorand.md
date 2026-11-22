@@ -23,6 +23,8 @@
 
 An ethical marketplace for commute and transit data.
 
+**How it used Algorand:** The team used React.js to build the frontend, a Node.js/Express powered backend; Python to scrape through personal data dumps accessed via Google Takeout, and the Algorand JavaScript SDK to implement the blockchain-based transaction management system.
+
 [Code](https://github.com/bharatkashyap/argonaut-be) · Built with algorand, node.js, python, react
 
 ### [Mess-Blockchain-enger](https://devpost.com/software/mess-blockchain-enger)
@@ -31,9 +33,9 @@ An ethical marketplace for commute and transit data.
 
 The team often go out with a lot of amazing friends for trips, restaurants, tourism, weekend expedition and what not.
 
-**How it used Algorand:** The team complete the payment using the blockchain set up with Algorand API.
+**How it used Algorand:** The team completes the payment using the blockchain set up with Algorand API.
 
-[Demo video](https://www.youtube.com/watch?v=yy6YSp-quu4) · Built with algorand, algocoin, amazon-web-services, facebook-messenger
+No public code linked · [Demo video](https://www.youtube.com/watch?v=yy6YSp-quu4) · Built with algorand, algocoin, amazon-web-services, facebook-messenger
 
 ## Track names and requirements
 

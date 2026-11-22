@@ -13,6 +13,7 @@ from fetch import Fetcher, cache_path, gallery_winners, prize_label, verified_li
 
 HERE = Path(__file__).resolve().parent
 OTHER_SPONSOR = "Other"
+MISSING_INTEGRATION = "Sponsor use not stated on Devpost"
 FEATURED_URL = "https://devpost.com/software/backrooms-h4o783"
 FEATURED_EVENT = "cal-hacks-13-0"
 FEATURED_PRIZE = "[Hyphenate] The Hyphenated Enterprise: Autonomous Systems for Finance"
@@ -92,52 +93,69 @@ def event_prizes(data, event):
 
 
 SPONSOR_TERMS = {
-    "Amazon Web Services": r"\baws\b|amazon web services|dynamodb|\bbedrock\b|\blambda\b|\bsagemaker\b",
+    "Amazon Web Services": r"\baws\b|amazon[ .-]web[ .-]services|dynamodb|\bbedrock\b|\bsagemaker\b|amazon[ .-](?:s3|transcribe)|aws[ .-]lambda",
     "Anthropic": r"anthropic|claude",
     "Capital One": r"capital[ .-]one|\bnessie\b",
+    "Cognition": r"\bdevin\b",
+    "DAIN Labs": r"\bdain\b",
     "Databricks": r"databricks|\bgenie\b|delta[- ]lake",
+    "Elastic": r"\belasticsearch\b",
     "ElevenLabs": r"eleven[ .-]?labs",
-    "Encompass": r"arduino|esp32|esp-now|u-blox|lidar|arkit|arcore|ar-foundation",
     "Fetch.ai": r"fetch[. -]?ai|agentverse|asi[.:-]?one|uagents?",
-    "Full Sail": r"meta-quest|webxr|three\.js",
+    "FREE-WILi": r"free[ .-]?wili",
     "GoDaddy Registry": r"godaddy|\.tech\b",
-    "Google": r"gemini|gemma|google[ .-]cloud|vertex[ .-]ai|firebase|\bgcp\b",
+    "Google": r"gemini|gemma|google[ .-](?:cloud|adk|maps)|vertex[ .-]ai|firebase|\bgcp\b",
     "HashiCorp": r"terraform|hashicorp",
-    "Hugging Face": r"hugging[ .-]?face|\bqwen\b|\btransformers\b",
-    "Meta": r"\bmeta\b|llama|muse spark",
+    "Hugging Face": r"hugging[ .-]?face",
+    "MathWorks": r"\bmatlab\b|\bsimulink\b",
+    "Meta": r"\bmeta\b|\bllama[- .0-9]|muse spark|tribe v2",
+    "Microsoft": r"\bazure\b|visual[ .-]studio|\bvs[ .-]?code\b|\bgit(?:hub)?[ .-]copilot\b",
     "MongoDB": r"mongo(?:db)?|\batlas\b",
-    "NVIDIA": r"nvidia|jetson|tensorrt|\bcuda\b|\bdgx\b",
+    "NVIDIA": r"nvidia|jetson|tensorrt|\bcuda\b|\bdgx\b|\bnemotron\b",
     "OpenAI": r"openai|\bgpt[- .0-9]|chatgpt|\bwhisper\b|\bcodex\b",
     "QNX": r"\bqnx\b|\bqos\b",
+    "Ripple": r"\bxrpl\b|\bxrp[ .-]ledger\b",
     "Snap": r"spectacles?|lens[ .-]?studio|\bsnap(?:ar)?\b",
     "Solana": r"solana|\banchor\b|\bsolders\b",
+    "Spacetime": r"\bspacetimedb\b",
     "Tiger Data": r"tiger[ .-]data|timescale",
+    "Zetic": r"\bzetic(?:ai)?\b|\bmelange\b",
 }
+
 
 def sentence(value):
     return value.strip().rstrip(".!?") + "."
 
 
-def evidence_sentences(text):
+def complete_ending(value):
+    return not re.search(
+        r"(?:[:,;–—(]|\b(?:and|or|the|with|in|to|for|of|via|that|high|such as|as follows))\s*[.!?]*$",
+        value, re.I,
+    )
+
+
+def evidence_sentences(text, max_words=30):
     for part in re.split(r"(?<=[.!?])\s+(?=[A-Z])", text):
         part = re.sub(r"^We\b", "The team", part.strip().lstrip("-• "))
         part = re.sub(r"^Our\b", "The", part)
         part = re.sub(r"\b(?:our|us)\b", lambda match: "the" if match[0] == "our" else "the team", part)
-        if not (7 <= len(part.split()) <= 30) or re.search(r"[\x00-\x1f<>{}`]|\b(?:we|our|us|my|I)\b", part, re.I):
+        if not (7 <= len(part.split()) <= max_words) or re.search(r"[\x00-\x1f<>{}`]|\b(?:we|our|us|my|I)\b", part, re.I):
             continue
         yield sentence(part)
 
 
 def sponsor_pattern(sponsor):
-    return re.compile(SPONSOR_TERMS.get(sponsor, rf"(?<!\w){re.escape(sponsor)}(?!\w)"), re.I)
+    names = sponsor.split(" / ")
+    terms = [rf"(?<!\w){re.escape(name)}(?!\w)" for name in names]
+    terms.extend(SPONSOR_TERMS[name] for name in names if name in SPONSOR_TERMS)
+    return re.compile("|".join(terms), re.I)
 
 
 def describe(project, sponsor, curated, authored):
     pattern = sponsor_pattern(sponsor)
     tags = [tag for tag in project.built_with if sponsor != OTHER_SPONSOR and pattern.search(tag)]
-    if authored:
-        evidence = "Project write-up without a specific integration" if project.data["url"] == FEATURED_URL else "Edited from project page"
-        return (*authored, tags, evidence)
+    if authored and authored[0]:
+        curated = authored[0]
     features = [
         s for heading, text in project.story if re.search(r"what (?:it|this|we)|features|overview", heading)
         for s in evidence_sentences(text)
@@ -156,26 +174,49 @@ def describe(project, sponsor, curated, authored):
         description = f'The team describes the project as “{caption.rstrip(".!?")}”.'
     else:
         description = "The Devpost entry has no usable short project description."
-    usage = next((
-        s for heading, text in project.story
-        if not re.search(r"inspiration|(?:what.s|up) next|learned|future|challenges", heading)
-        for s in evidence_sentences(text)
-        if sponsor != OTHER_SPONSOR and pattern.search(s) and s.casefold() not in description.casefold()
-        and re.search(r"\b(?:us(?:e[sd]?|ing)|powers?|runs?|built|train(?:s|ed)?|generate[sd]?|integrat\w+|provide[sd]?)\b", s, re.I)
-        and not re.search(r"\b(?:never|will|plan to|wanted to|could|would|did not)\b", s, re.I)
-    ), "")
-    if usage:
-        evidence = "Project write-up"
-    elif tags:
-        usage = "The project lists " + ", ".join(tags) + " among its Built With tags."
-        evidence = "Built With tags"
-    elif feature and feature.casefold() not in description.casefold():
-        usage = feature
-        evidence = "Project write-up without a specific integration"
+    if authored:
+        usage = authored[1]
+        evidence = "Edited from project page"
     else:
-        usage = "The project page provides no specific sponsor integration detail in the indexed fields."
-        evidence = "Integration detail unavailable"
+        usage = sponsor_usage(project, sponsor, pattern)
+        evidence = "Project write-up"
+    if not usage or usage == MISSING_INTEGRATION:
+        return description, MISSING_INTEGRATION, tags, "Integration detail unavailable"
     return description, usage, tags, evidence
+
+
+def sponsor_usage(project, sponsor, pattern):
+    if sponsor == OTHER_SPONSOR:
+        return ""
+    for heading, text in project.story:
+        if re.search(r"inspiration|\bnext\b|learned|future|challenges|acknowledg|credits", heading):
+            continue
+        for note in evidence_sentences(text, max_words=35):
+            if not complete_ending(note) or not pattern.search(note) or re.search(
+                r"\b(?:never|will|plan to|wanted to|could|would|did not|a lot of|thanks to|similar to|"
+                r"inspired by|compared to|for example|if unavailable|future extension|built using the following|you|your)\b|"
+                r"\b\d+[.)]\s|"
+                r"^(?:[^\w“\"]+\s*)?(?:next|tech(?:nology)? stack|built with the following|best use of|mlh)\b",
+                note, re.I,
+            ):
+                continue
+            if not re.search(
+                r"\b(?:us(?:e[sd]?|ing)|power(?:s|ed)?|runs?|built|train(?:s|ed)?|generate[sd]?|integrat\w+|"
+                r"provide[sd]?|stor(?:es|ed)|deploy(?:s|ed)?|host(?:s|ed)?|quer(?:ies|ied)|process(?:es|ed)?|"
+                r"handle[sd]?|connect[sd]?|measure[sd]?|synchroniz\w+|fetch(?:es|ed)?|driv(?:es|en))\b",
+                note, re.I,
+            ):
+                continue
+            if note.count("“") != note.count("”") or note.count('"') % 2 or note.count("(") != note.count(")") or note.count(",") > 6:
+                continue
+            note = re.sub(r"\s+([,.!?])", r"\1", note.lstrip("\u200b ").strip())
+            note = re.sub(r"^The team['’]ve\b", "The team has", note)
+            note = re.sub(r"^The team['’]re\b", "The team is", note)
+            if re.match(r"^(?:Also )?(?:used|integrated|deployed|developed|built|created)\b", note, re.I):
+                note = "The team " + note[0].lower() + note[1:]
+            note = re.sub(r"^The team (use|make|run|complete|employ)\b", r"The team \1s", note)
+            return note
+    return ""
 
 
 REQUIRED_PRODUCTS = {

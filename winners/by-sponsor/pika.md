@@ -33,13 +33,17 @@ QNX-powered, computer-vision-driven viral arcade system. Compete in instant 1v1 
 
 End to End AGENT BASED RE-Selling.
 
-[Demo video](https://www.youtube.com/watch?v=2RdGKlS07a8) · Built with typescript
+**How it used Pika:** Reseller uses Pika to generate product videos for resale listings.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=2RdGKlS07a8) · Built with typescript
 
 ### [Senya](https://devpost.com/software/senya)
 
 [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-senya) · **Most Creative Use of Pika**
 
 Making music something you can feel, see, and sign.
+
+**How it used Pika:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Deeksha-Vaidyanathan/senya) · Built with pika, claude, lifeprint, numpy
 

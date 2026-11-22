@@ -33,7 +33,9 @@ With just the press of a button, Brew will agentically send those messages via L
 
 Plan and host events smarter &amp; faster. Leadify helps event organizers automate lead generation.
 
-[Demo video](https://www.youtube.com/watch?v=vFeyw8tJbWA) · Built with linkd, asyncio, fetch.ai, gemini
+**How it used Linkd:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=vFeyw8tJbWA) · Built with linkd, asyncio, fetch.ai, gemini
 
 ## Track names and requirements
 

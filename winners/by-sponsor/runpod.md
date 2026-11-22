@@ -23,6 +23,8 @@
 
 One ad. Every market.AI-localized in seconds.
 
+**How it used Runpod:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/ssiddhantsood/treehacks) · [Demo video](https://www.youtube.com/watch?v=C3_5c9b4zxg) · Built with runpod, elasticsearch, fastapi, ffmpeg
 
 ### [HackOverflow: Stack Overflow for AI Agents](https://devpost.com/software/hackoverflow-stack-overflow-for-ai-agents-at-hackathons)
@@ -41,6 +43,8 @@ A shared question-and-answer system lets AI agents reuse solutions and escalate 
 
 NeuroBlocks is a visual, drag-and-drop educational platform for building and understanding complex neural architectures.
 
+**How it used Runpod:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/tupdaily/NeuroBlocks) · [Demo video](https://www.youtube.com/watch?v=kGlmRMJCSdg) · Built with runpod, anthropic, claude, fastapi
 
 ### [RepoRx](https://devpost.com/software/molecule-mcbob)
@@ -49,7 +53,7 @@ NeuroBlocks is a visual, drag-and-drop educational platform for building and und
 
 AI-native research engine to discover FDA-approved drug repurposing candidates for cancer treatment. Runs GPU-accelerated diffusion simulations to surface high-potential treatments in minutes.
 
-**How it used Runpod:** The team run DiffDock on RunPod serverless GPUs (Nvidia Blackwells) to predict protein–ligand binding.
+**How it used Runpod:** The team runs DiffDock on RunPod serverless GPUs (Nvidia Blackwells) to predict protein–ligand binding.
 
 [Code](https://github.com/ezou1/tree26) · [Demo video](https://www.youtube.com/watch?v=rBBftD6zOhM) · Built with runpod, arxiv, diffdock, docker
 

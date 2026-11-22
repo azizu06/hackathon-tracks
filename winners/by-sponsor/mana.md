@@ -25,13 +25,15 @@ Campanion turns college wellness into a game. Your pet avatar reflects how you s
 
 **How it used Mana:** The team built Campanion with Mana, using React for the interface and Firebase for persistent data and real-time updates.
 
-[Demo video](https://www.youtube.com/watch?v=c00p0ouf_hw) · Built with mana, firebase, google-calendar-api, javascript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=c00p0ouf_hw) · Built with mana, firebase, google-calendar-api, javascript
 
 ### [Docket](https://devpost.com/software/docket-ezaum8)
 
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-docket-ezaum8) · **Best Use of Mana**
 
 A student caseworker looks up immigration and finance rules and asks the student to approve proposed actions.
+
+**How it used Mana:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/AnushaAgarwal27/Docket) · [Demo video](https://www.youtube.com/watch?v=nAIJZyXKaSo) · Built with mana, agentverse, anthropic, apify
 
@@ -41,7 +43,7 @@ A student caseworker looks up immigration and finance rules and asks the student
 
 GRIDPILOT: Your 3 a.m. on-call crew that fixes the data center and closes the books on what the night cost. It cools the racks, calls the engineer, and catches the overcharge.
 
-**How it used Mana:** The spec, backend, 3D control room, finance desk, agent integrations, tests and these docs were planned, written, deployed and debugged in a single Mana conversation.
+**How it used Mana:** Mana runs the Python backend as a supervised daemon in its sandbox, exposes it through Mana ingress with a signed URL, and verifies every caller's identity ( X-Sender-Uid ) at the edge.
 
 [Code](https://github.com/pateldhruv1672/gridpilot) · [Demo video](https://www.youtube.com/watch?v=KgQwf55Fm-M) · Built with agentic, cartesia, digital-twin, hyphenate
 

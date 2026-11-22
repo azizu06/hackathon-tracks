@@ -23,7 +23,9 @@
 
 Too busy or lazy to leave your spot but you want food NOW.
 
-Built with venmo, firebase, google-maps, locu
+**How it used Venmo:** Sponsor use not stated on Devpost
+
+No public code linked · Built with venmo, firebase, google-maps, locu
 
 ## Track names and requirements
 

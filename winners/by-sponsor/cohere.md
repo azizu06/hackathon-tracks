@@ -23,6 +23,8 @@
 
 An OSINT tool specializes in generating an accurate profile card from a username by leveraging artificial intelligence.
 
+**How it used Cohere:** Reason → Cohere embeddings correlate personas, detect behavioral patterns, and connect fuzzy signals.
+
 [Code](https://github.com/Sai-sys-cmd/Deepsint) · Built with cohere, python, sqlite, streamlit
 
 ### [Fragments](https://devpost.com/software/fragments-gmleoj)
@@ -33,7 +35,7 @@ Clip, save, and organize the exact moments that spark your ideas.
 
 **How it used Cohere:** Cohere Vision AI Integration : Based on extracted frames, Cohere's vision AI model generates video summaries and intelligent tags.
 
-[Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with cohere, amazon-web-services, css, figma
+No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with cohere, amazon-web-services, css, figma
 
 ### [Solshare](https://devpost.com/software/solshare-cmxous)
 
@@ -43,7 +45,7 @@ Splitting bills with friends is messy—receipts get lost, people forget to pay,
 
 **How it used Cohere:** Cohere API – Handles receipt scanning and item parsing using a self-criticism learning process, reducing errors and automating item assignment.
 
-Built with cohere, firebase, gcp, solana
+No public code linked · Built with cohere, firebase, gcp, solana
 
 ## 2024 winners
 
@@ -63,6 +65,8 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 
 Empowering Vision Through Voice. Revolutionizing indoor mobility with real-time, adaptive AI-enabled guidance for seamless navigation in complex spaces.
 
+**How it used Cohere:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/akjadhav/hackthenorth-2024) · [Demo video](https://www.youtube.com/watch?v=wdksaTAZA7A) · Built with cohere, auth0, convex, detectron2
 
 ### [Studylingo](https://devpost.com/software/studiolingo)
@@ -70,6 +74,8 @@ Empowering Vision Through Voice. Revolutionizing indoor mobility with real-time,
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-studiolingo) · **Best Use of Cohere**
 
 A Pomodoro timer that keeps you on track, summarizes your browsing, and turns study time into a fun quiz challenge.
+
+**How it used Cohere:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jrang188/hack-the-north-2024) · [Demo video](https://www.youtube.com/watch?v=7Msy0SZR9cY) · Built with cohere, defang, fastapi, javascript
 

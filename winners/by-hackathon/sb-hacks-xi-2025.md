@@ -51,8 +51,8 @@ Anonymous voting platform powered by the Midnight Blockchain. Students can now v
 - **Code:** [Source 1](https://github.com/Edwin-Yee/SBHacks-XI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Bm5nX9-Txrg)
 - **All prizes at this hackathon (2):** MLH - Best .Tech Domain Name · MLH - Best Use of Midnight
-- **How it used .Tech Domains:** VotEdu uses Google's Authentication platform to validate that the user's profile is coming from an educational domain (.edu).
-- **How it used Midnight:** The project lists midnight among its Built With tags.
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
+- **How it used Midnight:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -100,17 +100,17 @@ Helps UCSB and SBCC students in IV locate housing. Powered by a data ingestion p
 
 In addition, the live scraping of academic databases and the future goals of scraping news articles and more sources will keep all the information up-to-date.
 
-[Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
+No public code linked · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** aryn, firebase, flask, gpt, nextjs, python, react, singlestore, sycamore
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L52sdmP66Yo)
 - **All prizes at this hackathon (1):** Best use of Sycamore (Aryn)
-- **How it used Aryn:** The project lists aryn among its Built With tags.
+- **How it used Aryn:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -123,14 +123,14 @@ In addition, the live scraping of academic databases and the future goals of scr
 
 Drag and drop, shareable and searchable vector databases.
 
-Built with aryn, elasticsearch, go, next.js
+No public code linked · Built with aryn, elasticsearch, go, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** aryn, elasticsearch, go, next.js, sycamore
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of Sycamore (Aryn)
 - **How it used Aryn:** ShareTome is built with a Go backend, Next.JS Frontend, Aryn Sycamore for document parsing and uploading, and ElasticSearch as a vector store / search engine.
@@ -193,6 +193,7 @@ Building NetZero was an incredible journey of growth and innovation.
 - **Code:** [Source 1](https://github.com/SagnikBiswasDL/SBHacksShared2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3oaDyCyiX6o)
 - **All prizes at this hackathon (1):** MLH - Sauce Labs Hot Sauce Raffle
+- **How it used Sauce Labs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -246,7 +247,7 @@ ReCapture: Unlock the World, One Memory at a Time.
 - **Code:** [Source 1](https://github.com/NathanRLiu/reCapture)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BBudE_SngUo)
 - **All prizes at this hackathon (1):** Snag Challenge
-- **How it used Snag:** Familiar areas (your immediate radius) are not grayed, while darker areas with pins mark uncharted spots—places your friends have explored but you haven’t… yet.
+- **How it used Snag:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

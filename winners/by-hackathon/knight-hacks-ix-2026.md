@@ -53,7 +53,7 @@ These projects won more than one prize here. Each one is listed once.
 
 Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored.
 
-[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with arduino, arkit, lidar, meta-quest
+[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with hugging-face, nvidia-jetson, tensorrt, arduino
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -63,8 +63,8 @@ Farsight combines a remotely operated rescue rover with a walkable reconstructio
 - **Code:** [Source 1](https://github.com/azizu06/farsight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AmrOGcTBTKU) · [Video 2](https://www.youtube.com/watch?v=Km9CGWip4h4)
 - **All prizes at this hackathon (4):** Encompass: Data Capturing Hardware · Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
-- **How it used Encompass:** A LiDAR-equipped phone on the rover records aligned camera frames, depth and pose for the reconstruction and encounter records.
-- **How it used Full Sail:** The simulation-track demo combines route scoring, person detection and a WebXR walkthrough.
+- **How it used Encompass:** Sponsor use not stated on Devpost
+- **How it used Full Sail:** Sponsor use not stated on Devpost
 - **How it used Hugging Face:** Hugging Face model artifacts power the on-device voice and vision assistant, which can draft notes from field observations.
 - **How it used NVIDIA:** An NVIDIA Jetson runs TensorRT inference, the camera stream and the navigation and motor interfaces on the rover.
 - **Checked on Devpost:** 2026-11-21
@@ -90,6 +90,7 @@ GEarth simulates how citizens, institutions, and governments interact across a f
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7h_nXEkdgIM)
 - **All prizes at this hackathon (3):** AMD: Best Use of AMD Technologies · BNY: Financial Services Challenge · Neon: Best Use of Neon
 - **How it used AMD:** Python workers run Qwen models across an AMD GPU and two NVIDIA systems to supply agent decisions to the shared simulation.
+- **How it used BNY:** Sponsor use not stated on Devpost
 - **How it used Neon:** Neon PostgreSQL stores checkpoints and event history so viewers can revisit recorded worlds.
 - **Checked on Devpost:** 2026-11-21
 
@@ -103,18 +104,18 @@ GEarth simulates how citizens, institutions, and governments interact across a f
 
 Bin-It lets residents report overflowing bins from a phone while a dashboard helps city staff compare candidate locations for new bins.
 
-[Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** clip, databricks, docker, expo.io, fastapi, hugging-face, neon, next.js, ngrok, python, react, react-native, typescript, vercel
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zmApNlPyh9I)
 - **All prizes at this hackathon (2):** Databricks: Best Use of Databricks · OneEthos: Innovation for Good
 - **How it used Databricks:** Databricks processes locations, bin inventory and 311 complaints to estimate where trash accumulates and rank potential sites.
-- **How it used OneEthos:** Citizens can take pictures of overflowing trash that they want to be cleaned up in the app and make a report.
+- **How it used OneEthos:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -138,7 +139,7 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vhKG4MiWa9A)
 - **All prizes at this hackathon (2):** NVIDIA: Best Use of Jetson Nano · OneEthos: Innovation for Good
 - **How it used NVIDIA:** Smoke detection on the device: Pyronear's open YOLO smoke model runs on the Jetson's GPU.
-- **How it used OneEthos:** Fireline is a flock of tree-mounted camera units and a live console for the crew that manages them.
+- **How it used OneEthos:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -151,18 +152,18 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-[Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
+No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** expo.io, gemini, neon, react-native
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RWAbxd6hSjE)
 - **All prizes at this hackathon (2):** Adobe: Prettiest Hack · Figma: Best Design
-- **How it used Adobe:** It shows when you're full, not just when you're free, and helps you decide what to do about it.
-- **How it used Figma:** It shows when you're full, not just when you're free, and helps you decide what to do about it.
+- **How it used Adobe:** Sponsor use not stated on Devpost
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -175,7 +176,7 @@ A calendar app weighs upcoming commitments against the user's energy level to he
 
 A spatial awareness tool tracks objects and remembers their locations when they move out of view.
 
-[Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with qwen-3d, cuda, jetson-nano, arduino
+[Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with cuda, jetson-nano, arduino, c++
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -185,8 +186,8 @@ A spatial awareness tool tracks objects and remembers their locations when they 
 - **Code:** [Source 1](https://github.com/billpquach/permanence)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GexOIHp7s1w)
 - **All prizes at this hackathon (3):** Best Overall Hack (1st) · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
-- **How it used Hugging Face:** The project lists qwen-3d among its Built With tags.
-- **How it used NVIDIA:** Everything runs on an NVIDIA Jetson Orin Nano (8 GB) .
+- **How it used Hugging Face:** Sponsor use not stated on Devpost
+- **How it used NVIDIA:** Permanence runs its rover's vision pipeline and motor control on an NVIDIA Jetson Orin Nano.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -217,7 +218,7 @@ PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is 
 - **Code:** [Source 1](https://github.com/Ilan101/peaheads)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=chAkjLDZ9Hk)
 - **All prizes at this hackathon (2):** Adobe: Prettiest Hack · Best Game Dev Hack
-- **How it used Adobe:** Up to four players join a match and get split evenly into Bloom (yellow) and Blight (purple).
+- **How it used Adobe:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -240,7 +241,7 @@ An interactive, hand-illustrated, digital storybook featuring point-and-click pr
 - **Code:** [Source 1](https://github.com/NiDesai08/Plu-s-Sanctuary)
 - **Demo video:** [Video 1](https://vimeo.com/1234804142)
 - **All prizes at this hackathon (1):** Adobe: Prettiest Hack
-- **How it used Adobe:** Plu's Sanctuary is a digital, point-and-click storybook that follows a little plush plant creature named Plu as it navigates through a corrupted forest.
+- **How it used Adobe:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -269,6 +270,7 @@ A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-10
 - **Code:** [Source 1](https://github.com/techcolly/fpga_LM)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** AMD: Best Use of AMD Technologies
+- **How it used AMD:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,7 +322,7 @@ Make shopping easier through the art of accessibility.
 - **Code:** [Source 1](https://github.com/Dove0Day/knighthacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WCmblC_Qs0o)
 - **All prizes at this hackathon (1):** BNY: Financial Services Challenge
-- **How it used BNY:** Sophro Shoppers allows shoppers to get a more in-depth analysis of the items in their cart, while keeping track of needs catered to them.
+- **How it used BNY:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -349,7 +351,7 @@ An accessibility prototype uses EEG readings from a visual interface to let peop
 - **Code:** [Source 1](https://github.com/shashankshaga/Paralassist)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hmhprJgUFRA)
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
-- **How it used Databricks:** Paralassist uses an electroencephalogram (EEG) with a visual stimulus to convert a user's brain signals into messages.
+- **How it used Databricks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -372,7 +374,7 @@ A gym app uses phone-based exercise feedback to help people learn proper form.
 - **Code:** [Source 1](https://github.com/Del0m/KnightHacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PPEBBCLeCrA)
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
-- **How it used Databricks:** The project lists databricks among its Built With tags.
+- **How it used Databricks:** Databricks Pipelines: ingests exported workout telemetry to build a multi-tier lakehouse processing raw logs (Bronze), validated set metrics (Silver), and aggregate process summaries (Gold).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -418,17 +420,17 @@ Also won this track: [Farsight](#project-farsight-t4qyli) (listed above)
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-[Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with ar-foundation, arcore, android, android-speech-recognizer
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** android, android-speech-recognizer, android-text-to-speech, ar-foundation, arcore, c#, hugging-face, java, ml-kit, numpy, opencv, openstreetmap, python, unity
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zb3Xrg7Hfq4)
 - **All prizes at this hackathon (1):** Encompass: Data Capturing Hardware
-- **How it used Encompass:** Doorway is built in Unity 6 with C# , using AR Foundation and ARCore on Android.
+- **How it used Encompass:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -441,7 +443,7 @@ A mobile accessibility tool uses walls and room signs to place an indoor AR rout
 
 A drone control system combines local detection and GPS tracking using low-cost hardware.
 
-[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, esp-now, esp32, u-blox
+[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, bytetrack, c++, cuda
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -451,7 +453,7 @@ A drone control system combines local detection and GPS tracking using low-cost 
 - **Code:** [Source 1](https://github.com/FrLagoSoft/Dronautics)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pPoEXRLnYJc)
 - **All prizes at this hackathon (1):** Encompass: Data Capturing Hardware
-- **How it used Encompass:** The project lists arduino, esp-now, esp32, u-blox among its Built With tags.
+- **How it used Encompass:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -490,7 +492,7 @@ An operations dashboard summarizes the sensor data collected by a Spot robot on 
 - **Code:** [Source 1](https://github.com/Monisha-Repos/spot-mission-dashboard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UN3DJZA4GO8)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** spotat.work helps operators monitor inspections, investigate findings, and track performance over time.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -517,7 +519,7 @@ An accessible comic reader plays panels aloud and lets readers advance them with
 - **Code:** [Source 1](https://github.com/PinedaMiguel/panel-reader)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CLpOsb9VDGU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The project lists google-gemini among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -546,7 +548,7 @@ A wearable uses directional vibrations to tell deaf and hard-of-hearing users wh
 - **Code:** [Source 1](https://github.com/Korirussell/Here)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2gRH8oV8e80)
 - **All prizes at this hackathon (1):** Hugging Face: Best Use of Open Source AI
-- **How it used Hugging Face:** The project lists huggingface among its Built With tags.
+- **How it used Hugging Face:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -579,7 +581,7 @@ Spotlight transforms Boston Dynamics Spot data into actionable insights using AI
 - **Code:** [Source 1](https://github.com/doberto6/SpotLight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=76OSgHFP13s)
 - **All prizes at this hackathon (1):** NextEra Energy: SPOT Management Dashboard
-- **How it used NextEra Energy:** Spotlight is an intelligent monitoring and visualization platform that transforms Boston Dynamics Spot's inspection data into meaningful, actionable insights.
+- **How it used NextEra Energy:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -614,6 +616,7 @@ Jolteon captures waste heat, turns it into stored electricity, and shows you exa
 - **Code:** [Source 1](https://github.com/TomasTorrado/Jolteon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8vnv30qKB9w)
 - **All prizes at this hackathon (1):** OneEthos: Innovation for Good
+- **How it used OneEthos:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -640,7 +643,7 @@ An interactive evacuation simulator lets trainees clear exits and redirect crowd
 - **Code:** [Source 1](https://github.com/lyanisbarreto-mercado/crowdclear)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pNp_bZqdGGw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Presage
-- **How it used Presage:** CrowdClear is an evacuation training game that runs in a laptop browser or in VR through WebXR .
+- **How it used Presage:** A small Node helper ( npm run sensor ) uses the Presage SmartSpectra Node.js SDK to read breathing rate, breathing amplitude, pulse and heart-rate variability (Baevsky stress index) from the laptop webcam.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -667,7 +670,7 @@ A marketplace lets developers browse GPU capacity and reserve it through a block
 - **Code:** [Source 1](https://github.com/OzBoz-Dev/knighthacks-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EDPen_Iu5QY)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** The project lists solana among its Built With tags.
+- **How it used Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -694,7 +697,7 @@ A workspace matches hackathon tasks to teammates and tracks progress through Git
 - **Code:** [Source 1](https://github.com/maxjb-xyz/hakit)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=X3Ex2pmvqaU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
-- **How it used Tiger Data:** Sign up with your GitHub account, and invite everyone the same way.
+- **How it used Tiger Data:** TimescaleDB stores activity history and pgvector stores skill vectors.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -721,7 +724,7 @@ A dashboard turns telemetry from robots into reports operators can use.
 - **Code:** [Source 1](https://github.com/teafany/spotlight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WguR9jFeBeo)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** The project lists vultr among its Built With tags.
+- **How it used Vultr:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,6 +23,8 @@
 
 Real-world data, verified by AI, paid out instantly.
 
+**How it used Coinbase:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/stephenhungg/skarl) · [Demo video](https://www.youtube.com/watch?v=mSNAkI_mGPY) · Built with coinbase-developer-platform, atlassian-forge, base, capital-one-nessie
 
 ### [StockUp](https://devpost.com/software/stockup-y21xrv)
@@ -30,6 +32,8 @@ Real-world data, verified by AI, paid out instantly.
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-stockup-y21xrv) · **Best Use of x402 by Coinbase**
 
 Make trading intuitive, fun, and physically rewarding.
+
+**How it used Coinbase:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/sarah-min/StockUp) · [Demo video](https://www.youtube.com/watch?v=7Vt0G7edMeM) · Built with coinbase, creao, mana, node.js
 
@@ -41,7 +45,9 @@ Make trading intuitive, fun, and physically rewarding.
 
 Ethereum Piggy lets you save money with a virtual Piggy Bank.
 
-Built with coinbase, ethereum, ios
+**How it used Coinbase:** Sponsor use not stated on Devpost
+
+No public code linked · Built with coinbase, ethereum, ios
 
 ## Track names and requirements
 

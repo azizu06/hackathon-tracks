@@ -23,6 +23,8 @@
 
 Every attacker leaves a trail! Breadcrumbs traps real hackers in a fake server, unmasks the AI agents among them, and shows every intrusion live as creatures marching across a 3D globe.
 
+**How it used Vultr:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/aryansvt/hacktx2026) · [Demo video](https://www.youtube.com/watch?v=SOlFxgQSVgk) · Built with vultr, anthropic, asyncssh, caddy
 
 ### [FlameScout](https://devpost.com/software/flamescout)
@@ -30,6 +32,8 @@ Every attacker leaves a trail! Breadcrumbs traps real hackers in a fake server, 
 [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-flamescout) · **Best Use of Vultr**
 
 A dashboard supplies incident information to fire dispatchers.
+
+**How it used Vultr:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/param-mans/FlameScout) · [Demo video](https://www.youtube.com/watch?v=LlK6Ls93_Ys) · Built with vultr, caddy, costar, docker
 
@@ -39,6 +43,8 @@ A dashboard supplies incident information to fire dispatchers.
 
 GradeMeIn uses a new method to detect AI plagiarism, it works through intelligent prompt mutation and then verification.
 
+**How it used Vultr:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/SBHacks-26/lms-sbhacks) · [Demo video](https://www.youtube.com/watch?v=dgrnQoidl2A) · Built with vultr, cursor, deepgram, geminiapi
 
 ### [Just Replay](https://devpost.com/software/just-replay)
@@ -47,7 +53,9 @@ GradeMeIn uses a new method to detect AI plagiarism, it works through intelligen
 
 A guided movement app helps older adults with limited mobility practice activities with camera feedback.
 
-[Demo video](https://www.youtube.com/watch?v=EXR-oseYXUs) · Built with css, html, javascript, typescript
+**How it used Vultr:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=EXR-oseYXUs) · Built with css, html, javascript, typescript
 
 ### [Nexus](https://devpost.com/software/nexus-g349ko)
 
@@ -57,13 +65,15 @@ A planning app connects student clubs' communication, spreadsheets, and code too
 
 **How it used Vultr:** Seamless integration between Vultr using their serverless inference, Gemini, and ChatGPT.
 
-[Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
+No public code linked · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
 ### [PledgeCheck](https://devpost.com/software/pledgecheck-qrusc1)
 
 [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md#project-pledgecheck-qrusc1) · **Best use of Vultr**
 
 Approve at-home iPLEDGE pregnancy tests in one tap, with fraud checks and an audit trail that proves you met the FDA's anti-falsification rule.
+
+**How it used Vultr:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/adrit-ganeriwala-05/PledgeCheck) · [Demo video](https://www.youtube.com/watch?v=NMlzaJIiSvo) · Built with vultr, elevenlabs, grok, nextjs
 
@@ -73,13 +83,17 @@ Approve at-home iPLEDGE pregnancy tests in one tap, with fraud checks and an aud
 
 Poysson is a game-style training platform covering five attack types: ransomware, SIM-swap fraud, smishing, phishing, and insider/vendor leaks.
 
-[Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
+**How it used Vultr:** Publishing goes over SSH, servers are provisioned with cloud-init, and deploys are single scripts in deploy/vultr/.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
 
 ### [Sortacle](https://devpost.com/software/sortacle)
 
 [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-sortacle) · **Best Use of Vultr**
 
 Sortacle is an autonomous smart waste bin that identifies and sorts items in real time using AI and robotics.
+
+**How it used Vultr:** Cloud inference is handled by a FastAPI server running YOLO-World on a Vultr compute instance, enabling low-latency, high-accuracy classification without overloading the edge device.
 
 [Code](https://github.com/flxnaf/sortacle) · [Demo video](https://www.youtube.com/watch?v=g5Y1oJZ6-ws) · Built with vultr, adafruit-circuitpython-servokit, chart.js, fastapi
 
@@ -89,6 +103,8 @@ Sortacle is an autonomous smart waste bin that identifies and sorts items in rea
 
 A dashboard turns telemetry from robots into reports operators can use.
 
+**How it used Vultr:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/teafany/spotlight) · [Demo video](https://www.youtube.com/watch?v=WguR9jFeBeo) · Built with vultr, django, postgresql, python
 
 ### [Synaptix](https://devpost.com/software/synaptix)
@@ -96,6 +112,8 @@ A dashboard turns telemetry from robots into reports operators can use.
 [Hacklytics 2026](../by-hackathon/hacklytics-2026.md#project-synaptix) · **Best Use of Vultr**
 
 Synaptix is an AI-powered drug repurposing platform.
+
+**How it used Vultr:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Sanjavan7/Drugreuse) · [Demo video](https://www.youtube.com/watch?v=QKEs6iViyJc) · Built with vultr-cloud, actian-vectorai-db, axios, clinicaltrials.gov-api
 
@@ -105,7 +123,7 @@ Synaptix is an AI-powered drug repurposing platform.
 
 Triviality combines an interactive mathematical atlas with a workspace for running AI research teams.
 
-**How it used Vultr:** The team used Vultr to host the mathematical experiment worker and Lean runner .
+**How it used Vultr:** The team used Vultr to host the mathematical experiment worker and Lean runner.
 
 [Code](https://github.com/sharonbasovich/norththehackers) · [Demo video](https://www.youtube.com/watch?v=JoDcHAMOXgo) · Built with docker, lean, mongodb, python
 
@@ -114,6 +132,8 @@ Triviality combines an interactive mathematical atlas with a workspace for runni
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-warden-p3uifn) · **Best Use of Vultr**
 
 The hardware guardian for software you can't trust.
+
+**How it used Vultr:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/share-a-byte/warden) · [Demo video](https://www.youtube.com/watch?v=ahTiwQ9xVaE) · Built with vultr, arduino, blender, python
 
@@ -125,6 +145,8 @@ The hardware guardian for software you can't trust.
 
 No more passive reading, just active chats! - AGORA.
 
+**How it used Vultr:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Ashish-Reddy-T/hackNYUEducation) · [Demo video](https://www.youtube.com/watch?v=hNmpppkJaBo) · Built with python
 
 ### [CookQuest](https://devpost.com/software/cookquest)
@@ -133,7 +155,9 @@ No more passive reading, just active chats! - AGORA.
 
 Simply lay out the ingredients you already have, take a quick screenshot with the Meta Quest, and let the AI assistant recognize them.
 
-[Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
+**How it used Vultr:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=QAaYWL-Mr1g) · Built with ar, digitalocean, elevenlabs, fastapi
 
 ### [HealthSense](https://devpost.com/software/healthsense-0qxrs4)
 

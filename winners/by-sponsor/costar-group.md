@@ -23,6 +23,8 @@
 
 Every census tract is shaded by a need score built from HRSA shortage designations and CDC PLACES health data.
 
+**How it used CoStar Group:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/alisx255/asclepieion-public) · [Demo video](https://www.youtube.com/watch?v=llLSV0W6s7c) · Built with anthropic, cdc-open-data, costar, fastapi
 
 ### [Siteline](https://devpost.com/software/siteline-vus4jl)
@@ -31,6 +33,8 @@ Every census tract is shaded by a need score built from HRSA shortage designatio
 
 Siteline tells clinics where to open. It learns what drives each practice, pulls the public data that measures it, and ranks real lease spaces by the patients they’d win and the care gaps they’d fill.
 
+**How it used CoStar Group:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/archit2901/siteline) · [Demo video](https://www.youtube.com/watch?v=uoMErki4yTk) · Built with agents, amazon-bedrock, amazon-nova, amazon-web-services
 
 ### [Stagehand](https://devpost.com/software/stagehand-241isj)
@@ -38,6 +42,8 @@ Siteline tells clinics where to open. It learns what drives each practice, pulls
 [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-stagehand-241isj) · **Inside and Out: AI for the Built World**
 
 Find your space with Stagehand! For creatives wanting to visualize before booking.
+
+**How it used CoStar Group:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/sofiagrimm/hackprinceton) · [Demo video](https://vimeo.com/1246959819) · Built with capital-one-nessie, costar, deepagents, fastapi
 

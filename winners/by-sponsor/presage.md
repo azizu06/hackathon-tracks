@@ -23,6 +23,8 @@
 
 An interactive evacuation simulator lets trainees clear exits and redirect crowds in a building.
 
+**How it used Presage:** A small Node helper ( npm run sensor ) uses the Presage SmartSpectra Node.js SDK to read breathing rate, breathing amplitude, pulse and heart-rate variability (Baevsky stress index) from the laptop webcam.
+
 [Code](https://github.com/lyanisbarreto-mercado/crowdclear) · [Demo video](https://www.youtube.com/watch?v=pNp_bZqdGGw) · Built with a-frame, css3, elevenlabs, express.js
 
 ### [Hazard Intelligence](https://devpost.com/software/hazard-intelligence)
@@ -50,6 +52,8 @@ Gene+Drug+Drug interaction app with live computer vision made for patients.
 [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-thirdeye-a74whv) · **Best Use of Presage**
 
 Providing an AI powered safety layer for cars that never had one.
+
+**How it used Presage:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Aditya100907/HackBrown) · [Demo video](https://www.youtube.com/watch?v=Y6IJaTW2l84) · Built with presage, elevenlabs, python, swift
 

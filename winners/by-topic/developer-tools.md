@@ -33,7 +33,7 @@ A code research tool indexes commit history so developers can search for earlier
 
 An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces.
 
-[Code](https://github.com/AlfredSjoqvist/multieval) · [Demo video](https://www.youtube.com/watch?v=__OU7Ftl4EM) · Built with agentverse, asi:one, fetch.ai, anthropic
+[Code](https://github.com/AlfredSjoqvist/multieval) · [Demo video](https://www.youtube.com/watch?v=__OU7Ftl4EM) · Built with devin, agentverse, asi:one, fetch.ai
 
 ### [ARDB: AR Debugger](https://devpost.com/software/ardb)
 
@@ -57,7 +57,7 @@ A software development tool compares solutions created by competing coding agent
 
 Collab3D is a web tool using a Spacetime database to allow real-time collaboration on 3D scenes, encouraging a faster workflow for art studios, game developers, video editors, and many more.
 
-[Code](https://github.com/hendohpp/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=Q5XlCu8Cxjg) · Built with spacetime, 3d-modeling, database, javascript
+[Code](https://github.com/hendohpp/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=Q5XlCu8Cxjg) · Built with spacetime, spacetimedb, 3d-modeling, database
 
 ### [Docket](https://devpost.com/software/docket-2r9wke)
 
@@ -65,7 +65,7 @@ Collab3D is a web tool using a Spacetime database to allow real-time collaborati
 
 Docket is a web app that gives developers a visual, AI-summarized history of their GitHub repositories.
 
-[Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
+No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
 
 ### [GeoStar](https://devpost.com/software/geostar-5engd7)
 
@@ -97,7 +97,7 @@ Grep is your organization’s intelligence layer - turning AI coding into shared
 
 Agentic harness for efficient codebase refactoring.
 
-[Code](https://github.com/Tanush-A/Refactorika) · [Demo video](https://www.youtube.com/watch?v=uu6amcmRtzg) · Built with claude, devin, python, redis
+[Code](https://github.com/Tanush-A/Refactorika) · [Demo video](https://www.youtube.com/watch?v=uu6amcmRtzg) · Built with devin, claude, python, redis
 
 ### [solGPU](https://devpost.com/software/solgpu)
 
@@ -113,7 +113,7 @@ A marketplace lets developers browse GPU capacity and reserve it through a block
 
 Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
 
-[Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
+No public code linked · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
 
 ### [VisionOS](https://devpost.com/software/visionos-5euxo7)
 
@@ -131,7 +131,7 @@ A programming environment gives blind developers an accessible way to write and 
 
 Unified memory across your entire AI stack, complete with codebase visualization, prompt libraries, and advanced context management.
 
-[Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
+No public code linked · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
 
 ### [CodeInsight](https://devpost.com/software/code-insight)
 
@@ -185,12 +185,14 @@ A VSCode extension, Chrome extension, and web app to help developers and interne
 
 Employers can have their developers use calories as currency.
 
-Built with fitbit, jawbone, alchemyapi, firebase
+No public code linked · Built with fitbit, jawbone, alchemyapi, firebase
 
 ### [RESTful Ships](https://devpost.com/software/restful-ships)
 
 [HackMIT 2013](../by-hackathon/hackmit-2013.md#project-restful-ships)<br>[Synaptics](../by-sponsor/synaptics.md) · **Synaptics, Inc. - Most Innovative project with Hover - 2nd Prize**
 
 RESTful Ships is an application that allows developers to hook into an exposed REST API to create whatever they wish within the context of the platform.
+
+No public code linked
 
 [Back to top](#developer-tools)

@@ -23,6 +23,8 @@
 
 Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 
+**How it used Aristotle:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jennnniferkuang/Bobux-Bargains) · [Demo video](https://www.youtube.com/watch?v=xkyIFGGAyg0) · Built with luau, openrouter, roblox, robloxstudio
 
 ### [BuckBounty](https://devpost.com/software/buckbounty)
@@ -30,6 +32,8 @@ Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md#project-buckbounty) · **Aristotle Challenge: Most Cutting-Edge AI Agent**
 
 Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, maximizes rewards, and builds your path to financial freedom.
+
+**How it used Aristotle:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/NandanHemanth/BuckBounty) · [Demo video](https://www.youtube.com/watch?v=rCsw2WkivC0) · Built with beautiful-soup, elevenlabs-api, faiss-vector-database, fastapi
 
@@ -39,7 +43,9 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 
 StationScope turns a work address into a personalized, data-driven NYC housing guide—mapped stations, census insights, and a tailored AI report in minutes.
 
-Built with css, geocoding, google-maps, javascript
+**How it used Aristotle:** Sponsor use not stated on Devpost
+
+No public code linked · Built with css, geocoding, google-maps, javascript
 
 ## Track names and requirements
 

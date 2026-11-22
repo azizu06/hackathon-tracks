@@ -23,7 +23,9 @@
 
 Clanker Town is a simulation / web-browser video game which lets player enter the town filled with other autonomous AI agents communicating between each other, gathering resources and trading.
 
-Built with letta, elastic-search, mcp, move
+**How it used Letta:** Sponsor use not stated on Devpost
+
+No public code linked · Built with letta, elastic-search, mcp, move
 
 ### [darwin.](https://devpost.com/software/darwin-w6fez0)
 
@@ -41,7 +43,9 @@ evolve coding agents through pvp and reinforcement on web3.
 
 An AI-powered Web IDE where you can vibe code with your team and share context effortlessly in real time.
 
-[Demo video](https://www.youtube.com/watch?v=WtCWy65nESM) · Built with letta, claude, coderabbit, elasticsearch
+**How it used Letta:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=WtCWy65nESM) · Built with letta, claude, coderabbit, elasticsearch
 
 ### [Mentora](https://devpost.com/software/planevent)
 
@@ -49,7 +53,7 @@ An AI-powered Web IDE where you can vibe code with your team and share context e
 
 Rewriting the stereotypes of AI with a human-first mentor built to assist you live a better life.
 
-**How it used Letta:** The team make use of Letta to create a persistent memory for the AI assistant that collects data trends and uses them to craft responses or provide suggestions.
+**How it used Letta:** The team makes use of Letta to create a persistent memory for the AI assistant that collects data trends and uses them to craft responses or provide suggestions.
 
 [Code](https://github.com/EugeneVuong/calhacks12) · [Demo video](https://www.youtube.com/watch?v=CDGuY-KRXOc) · Built with letta, typescript
 
@@ -68,6 +72,8 @@ PaperTrail is an AI research assistant that uses deep memory architectures to le
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-temp-031caq) · **Build Your First Stateful AI Agent with Letta Cloud**
 
 A smart AI lecture chatbot that follows along in class, lets you ask questions live, gives immediate answers, and keeps track of context across lectures and uploaded recordings.
+
+**How it used Letta:** These chunks are asynchronously processed and forwarded to two separate Letta agents via API calls.
 
 [Code](https://github.com/nightowl23/calhacks-2025) · [Demo video](https://www.youtube.com/watch?v=DPN2NaGX0sA) · Built with letta, flask, livekit, react
 

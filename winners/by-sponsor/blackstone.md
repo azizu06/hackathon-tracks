@@ -23,7 +23,9 @@
 
 Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new investment opportunities that actually fit it.
 
-[Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
+**How it used Blackstone:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
 
 ## Track names and requirements
 

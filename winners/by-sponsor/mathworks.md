@@ -23,7 +23,9 @@
 
 This was a new experience when it came to handling large local files and overall integration.
 
-[Demo video](https://www.youtube.com/watch?v=vSVR6ap2Z0c) · Built with amazon-web-services, css, ec2, expo.io
+**How it used MathWorks:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=vSVR6ap2Z0c) · Built with matlab, amazon-web-services, css, ec2
 
 ### [Invaders](https://devpost.com/software/invaders-uq02re)
 
@@ -31,15 +33,19 @@ This was a new experience when it came to handling large local files and overall
 
 Using MATLAB to make a Galaga-style game.
 
-[Code](https://github.com/ttran134/invaders) · [Demo video](https://vimeo.com/1019066017) · Built with c++, freetype, matlab, miniaudio
+**How it used MathWorks:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/ttran134/invaders) · [Demo video](https://vimeo.com/1019066017) · Built with matlab, c++, freetype, miniaudio
 
 ### [SolarVista](https://devpost.com/software/solarvista)
 
 [MHacks 2024](../by-hackathon/mhacks-2024.md#project-solarvista) · **Best use of MATLAB**
 
-Empowering Communities with Data-Driven Solar Solutions.
+SolarVista maps areas with high solar energy potential to help planners choose sites for solar installations.
 
-[Demo video](https://www.youtube.com/watch?v=PxOkQkR-ghM) · Built with apis, css3, flask, html5
+**How it used MathWorks:** SolarVista uses MathWorks MATLAB to generate a heat map for its solar siting analysis.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=PxOkQkR-ghM) · Built with apis, css3, flask, html5
 
 ## Track names and requirements
 

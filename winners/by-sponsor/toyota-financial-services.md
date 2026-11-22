@@ -23,6 +23,8 @@
 
 Diagnosis, coverage and care in one.
 
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/buildingBuild/HackTX-Project) · [Demo video](https://www.youtube.com/watch?v=itEdbNrkp0M) · Built with ai-agent, blender, javascript, python
 
 ### [My Little Toyota](https://devpost.com/software/my-little-toyota)
@@ -30,6 +32,8 @@ Diagnosis, coverage and care in one.
 [HackUTD 2026](../by-hackathon/hackutd-2026.md#project-my-little-toyota) · **Toyota Financial Services Track**
 
 It contains and offers the following services:.
+
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/hannahrauch/HackUTD26) · [Demo video](https://www.youtube.com/watch?v=BFI5YZRLPV4) · Built with framermotion, next.js, recharts, tailwind
 
@@ -39,6 +43,8 @@ It contains and offers the following services:.
 
 Repair, Replace or Wait? NextMove lets you know.
 
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/ryandherb/hacktx-26) · [Demo video](https://www.youtube.com/watch?v=aazkUzhLwqo) · Built with muse, next.js, python, react
 
 ### [Nxt](https://devpost.com/software/trustfundbabies)
@@ -46,6 +52,8 @@ Repair, Replace or Wait? NextMove lets you know.
 [HackTX 2026](../by-hackathon/hacktx-2026.md#project-trustfundbabies) · **“What’s Your Next Move?” Challenge**
 
 NextMove has two surfaces running on one decision engine.
+
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Vswashah/toyota-next) · [Demo video](https://www.youtube.com/watch?v=dPjd3_zd6So) · Built with claude-agent-sdk, fastapi, framer-motion, gemini
 
@@ -55,7 +63,9 @@ NextMove has two surfaces running on one decision engine.
 
 You can outrun the cops. Not your APR.
 
-[Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE) · Built with anthropic, claude, css3, elevenlabs
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE) · Built with anthropic, claude, css3, elevenlabs
 
 ### [Toyyo](https://devpost.com/software/toyo-zxjwfe)
 
@@ -75,6 +85,8 @@ You can outrun the cops. Not your APR.
 
 An AI-powered space odyssey that transforms car buying into an interstellar adventure.
 
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/applea12X/Astraeus) · [Demo video](https://www.youtube.com/watch?v=6AkRiYIPX7o) · Built with css3, firebase, gemini, javascript
 
 ### [FiYota](https://devpost.com/software/random-8rgnzc)
@@ -82,6 +94,8 @@ An AI-powered space odyssey that transforms car buying into an interstellar adve
 [HackTX 2025](../by-hackathon/hacktx-2025.md#project-random-8rgnzc) · **Best Toyota Hack**
 
 FiYota — data visualization tool to find your ideal Toyota financing options.
+
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Abhijith-utla/Fiyota) · [Demo video](https://www.youtube.com/watch?v=Zb64HnzlmBk) · Built with next.js, react, recharts, typescript
 
@@ -91,6 +105,8 @@ FiYota — data visualization tool to find your ideal Toyota financing options.
 
 Discover the perfect car with a swipe. As students learn finance, Hingine uses gamified learning to guide smarter choices and unlock incentives for financing or leasing.
 
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Pancakemix31/Hingine) · [Demo video](https://www.youtube.com/watch?v=7elxs86J_xQ) · Built with expo.io, react, typescript
 
 ### [Kachow](https://devpost.com/software/car-thing-1dsxyk)
@@ -98,6 +114,8 @@ Discover the perfect car with a swipe. As students learn finance, Hingine uses g
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-car-thing-1dsxyk) · **Toyota Financial Services**
 
 🚗 Don't want to end up in a financial tow-up? ⚡ 🚗 Select a car that truly maters 🛻 Avoid hidden costs, such as APRs, gas, and insurance, with no buyers remorse.
+
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/adamFabsa/Kachow) · [Demo video](https://www.youtube.com/watch?v=ebR9JQ7yu48) · Built with javascript, mongodb, nemotron, node.js
 
@@ -107,6 +125,8 @@ Discover the perfect car with a swipe. As students learn finance, Hingine uses g
 
 MyToyota simplifies car financing by matching users’ income, credit, and preferences with personalized Toyota models, payment plans, and leasing options—all in one easy, smart platform.
 
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/avishparekh06/my-toyota) · [Demo video](https://www.youtube.com/watch?v=t3-Gc6rqFt8) · Built with css, express.js, html, javascript
 
 ### [Toyotron](https://devpost.com/software/toyotron)
@@ -114,6 +134,8 @@ MyToyota simplifies car financing by matching users’ income, credit, and prefe
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-toyotron) · **Toyota Financial Services**
 
 Toyotron is a solution that allows users to easily find their dream Toyota through agentic AI powered by NVIDIA's intelligent open source foundational model, Nemotron.
+
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/anbguye/hackutd-Toyota-Toyotron) · [Demo video](https://www.youtube.com/watch?v=CSc6zKQRxIY) · Built with ai, css, nemotron, next.js
 
@@ -125,7 +147,9 @@ Toyotron is a solution that allows users to easily find their dream Toyota throu
 
 Data to thrive, keeping Toyota’s edge alive.
 
-[Demo video](https://www.youtube.com/watch?v=P7VKxnk-iFQ) · Built with nextjs, numpy, openai, pandas
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/srutiswathi/hackUTD_24) · [Demo video](https://www.youtube.com/watch?v=P7VKxnk-iFQ) · Built with nextjs, numpy, openai, pandas
 
 ### [FUELICIENT](https://devpost.com/software/fuelicient)
 
@@ -133,7 +157,9 @@ Data to thrive, keeping Toyota’s edge alive.
 
 FUELICIENT gives a clean UI for Toyota fuel-efficiency data exploration, coupled with a system for retaining previous analyses on a per-account basis.
 
-[Demo video](https://www.youtube.com/watch?v=fIVCgdzMGAA) · Built with dns, firebase, github, github.io
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=fIVCgdzMGAA) · Built with dns, firebase, github, github.io
 
 ### [ToyoTrends](https://devpost.com/software/toyota-car-analytics-app)
 
@@ -141,7 +167,9 @@ FUELICIENT gives a clean UI for Toyota fuel-efficiency data exploration, coupled
 
 ToyoTrends is a powerful web application designed for Toyota engineers to visualize and interpret fuel efficiency and carbon emissions data for both Toyota vehicles and competitor vehicles.
 
-[Demo video](https://www.youtube.com/watch?v=lEvVw3Qg834) · Built with carsxe, chart.js, css, html
+**How it used Toyota Financial Services:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=lEvVw3Qg834) · Built with carsxe, chart.js, css, html
 
 ## Track names and requirements
 

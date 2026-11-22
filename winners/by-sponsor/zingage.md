@@ -23,6 +23,8 @@
 
 Agentified personal in-home care for the elderly. Multimodal S2S agent system handles patient charts, leading medical knowledge, medicine routines, and emergency contacts, all in a friendly package.
 
+**How it used Zingage:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/o-bm/dot) · [Demo video](https://www.youtube.com/watch?v=ziUp2ybO3vc) · Built with anthropic, arduino, barcode-scanner, browserbase
 
 ## Track names and requirements

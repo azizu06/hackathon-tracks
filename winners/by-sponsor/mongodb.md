@@ -23,6 +23,8 @@
 
 A property planning tool helps developers evaluate sites and visualize them in 3D.
 
+**How it used MongoDB:** MongoDB Atlas for Studio projects, decisions, Atlas Search, Vector Search, geo queries, change streams and user accounts.
+
 [Code](https://github.com/sudarshan-krishnan/GeoStar_PtonHacks_2026) · [Demo video](https://www.youtube.com/watch?v=0TEguSxAemc) · Built with mongodb, chatoverflow, costar, gemini
 
 ### [Grep](https://devpost.com/software/cortisol)
@@ -31,6 +33,8 @@ A property planning tool helps developers evaluate sites and visualize them in 3
 
 Grep is your organization’s intelligence layer - turning AI coding into shared knowledge, developer insights, and personalized guidance.
 
+**How it used MongoDB:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/DinhPhucLe/grep) · [Demo video](https://www.youtube.com/watch?v=mru6d0wAI-k) · Built with mongodb, amazon-web-services, golang, react
 
 ### [J.I.T.](https://devpost.com/software/j-i-t)
@@ -38,6 +42,8 @@ Grep is your organization’s intelligence layer - turning AI coding into shared
 [LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-j-i-t) · **Best Use of MongoDB Atlas**
 
 A study app turns a textbook scan into an interactive learning session.
+
+**How it used MongoDB:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/AntonK0/lahacks26) · [Demo video](https://www.youtube.com/watch?v=5XL32aCzCJg) · Built with arkit, cloudinary, elevenlabs, embeddingsgemma-300m
 
@@ -57,7 +63,9 @@ Name a city. An AI crew plans your days on real streets, and then a magic goose 
 
 RescueMEsh is a low-cost device for SOS communication when disasters disrupt cellular networks. Nemotron agents prioritize emergencies &amp; coordinate resources across nearby hubs to help dispatchers.
 
-[Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
+**How it used MongoDB:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
 
 ### [SideQuests](https://devpost.com/software/sidequestz)
 
@@ -65,7 +73,7 @@ RescueMEsh is a low-cost device for SOS communication when disasters disrupt cel
 
 Turn waiting into wandering: tell SideQuests your free window and mood, and get a timed plan of nearby events and places, with transit, that you can open up for others to join.
 
-**How it used MongoDB:** Vultr: the whole production stack (API, ML inference, MongoDB, WebSockets) runs on one Vultr VPS.
+**How it used MongoDB:** MongoDB: one database for everything: geo and time queries, TTL expiry, stored vectors, per-user catalogs, and planner logs that make every recommendation explainable.
 
 [Code](https://github.com/karthiksing05/HackGT-13-Proj) · [Demo video](https://www.youtube.com/watch?v=uPllwgXpkpY) · Built with mongodb, antigravity, claude, cloudflare
 
@@ -85,6 +93,8 @@ Sift indexes all your files into the same optimized embedding space.
 
 Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfect recs in minutes—not hours.
 
+**How it used MongoDB:** This data is stored in MongoDB Atlas, enabling fast query performance and scalable data retrieval.
+
 [Code](https://github.com/trevordodge/sbhacks-project) · [Demo video](https://www.youtube.com/watch?v=_WCacm2iJ_s) · Built with mongodb-atlas, dart, flask, flutter
 
 ### [What's Up, New York!](https://devpost.com/software/what-s-up-new-york)
@@ -92,6 +102,8 @@ Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfe
 [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-what-s-up-new-york) · **Best Use of MongoDB**
 
 What’s Up, New York! is a data driven platform that converts natural language requests into complete, optimized NYC itineraries with real subway directions, timing, and costs.
+
+**How it used MongoDB:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/z1ros/planneeer) · [Demo video](https://www.youtube.com/watch?v=ag7kS5ZL1D0) · Built with mongodbvectorsearh, 11labs, express.js, fetchai
 
@@ -103,7 +115,9 @@ What’s Up, New York! is a data driven platform that converts natural language 
 
 Vibe CAD to 3D print the solutions to everyday problems in your environment, Tony Stark style, no design experience required.
 
-[Demo video](https://www.youtube.com/watch?v=32oY_iV8jRo) · Built with mongodb, fastapi, javascript, next.js
+**How it used MongoDB:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=32oY_iV8jRo) · Built with mongodb, fastapi, javascript, next.js
 
 ### [MovieMind](https://devpost.com/software/moviemind-85pfcw)
 
@@ -111,7 +125,7 @@ Vibe CAD to 3D print the solutions to everyday problems in your environment, Ton
 
 A movie recommender finds reviews that match the reasons a viewer enjoys a film.
 
-**How it used MongoDB:** The team use MongoDB for the vector database and semantic search.
+**How it used MongoDB:** The team uses MongoDB for the vector database and semantic search.
 
 [Code](https://github.com/amheuer/moviemind) · [Demo video](https://www.youtube.com/watch?v=etUSOAJqu00) · Built with mongodb, cerebras, gemini, next.js
 
@@ -120,6 +134,8 @@ A movie recommender finds reviews that match the reasons a viewer enjoys a film.
 [LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-munchkin) · **Best Use of MongoDB Atlas**
 
 A desktop assistant watches for new files and sorts them based on their contents.
+
+**How it used MongoDB:** MongoDB Atlas Vector Search : Stores these brainy embeddings for instant semantic lookups.
 
 [Code](https://github.com/alex-szy/munchkin) · [Demo video](https://www.youtube.com/watch?v=qM3muuWOKmg) · Built with mongodb, mongodb-atlas, click, faiss-cpu
 
@@ -139,7 +155,7 @@ An LLM-powered web game curated for children to improve their debate and convers
 
 SolMate – the AI agent that turns crypto talk into action. Voice-powered trading, round-the-clock monitoring, and smart alerts.
 
-**How it used MongoDB:** Built RAG system using bge-large-en-v1.5 embeddings and MongoDB vector search.
+**How it used MongoDB:** The team built RAG system using bge-large-en-v1.5 embeddings and MongoDB vector search.
 
 [Code](https://github.com/yusufsallam64/solmate) · [Demo video](https://www.youtube.com/watch?v=WdXHG4r3xuk) · Built with mongodb, eleven-labs, embedding-model, llama
 
@@ -149,6 +165,8 @@ SolMate – the AI agent that turns crypto talk into action. Voice-powered tradi
 
 Tariffs made simple — track, compare, and calculate in seconds.
 
+**How it used MongoDB:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Adr1an04/Tariffix) · [Demo video](https://www.youtube.com/watch?v=OPF4dyn6LrM) · Built with mongodb, cheerio, chrome-extension-api, chrome-extension-types
 
 ### [Vesalius](https://devpost.com/software/vesalius)
@@ -156,6 +174,8 @@ Tariffs made simple — track, compare, and calculate in seconds.
 [Hacklytics 2025](../by-hackathon/hacklytics-2025.md#project-vesalius) · **Best Use of MongoDB Atlas**
 
 Countless public health datasets have been taken down. Vesalius scrubs the Internet Archive, stores metadata, and facilitates key data operations without the user having to install anything locally.
+
+**How it used MongoDB:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/mikeiioo/Vesalius) · [Demo video](https://www.youtube.com/watch?v=DN6NTqMk2cE) · Built with flask, llm, python, pytorch
 
@@ -167,6 +187,8 @@ Countless public health datasets have been taken down. Vesalius scrubs the Inter
 
 After logging in, users are directed to a page requesting the title of the paper they want to write, along with a question about the paper's topic.
 
+**How it used MongoDB:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/AnnieWang314/blankspace) · Built with mongodb, css, express.js, github
 
 ### [FoundAI](https://devpost.com/software/foundai)
@@ -174,6 +196,8 @@ After logging in, users are directed to a page requesting the title of the paper
 [MHacks 2024](../by-hackathon/mhacks-2024.md#project-foundai) · **Best use of MongoDB Atlas**
 
 Revolutionizing the campuses' lost and found with smart image recognition.
+
+**How it used MongoDB:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/g3npar/FoundAI) · Built with mongodb, amazon-web-services, flask, html5
 
@@ -183,7 +207,7 @@ Revolutionizing the campuses' lost and found with smart image recognition.
 
 Fight for the top position in a HackTheNorth lip-syncing challenge.
 
-**How it used MongoDB:** The team’re using OpenAI’s embedding models to determine the lip sync’s accuracy/similarity and MongoDB as the database for score data.
+**How it used MongoDB:** The team uses MongoDB to store lip-sync scores.
 
 [Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, nextjs, symphonic-labs, web
 
@@ -205,7 +229,7 @@ Intelligent data processing and diagnosis for doctors.
 
 **How it used MongoDB:** The team used MongoDb to store user information, RAG vector database, and PDF storage.
 
-[Demo video](https://www.youtube.com/watch?v=2s-sg1melAo) · Built with mongodb, astro, llama-index, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=2s-sg1melAo) · Built with mongodb, astro, llama-index, python
 
 ## 2013 winners
 
@@ -214,6 +238,10 @@ Intelligent data processing and diagnosis for doctors.
 [HackMIT 2013](../by-hackathon/hackmit-2013.md#project-news-neutrality) · **MongoDB - Best Use of MongoDB**
 
 The team correlate this data with data regarding which sentences from each article are related and then attempt to generate a completely objective version of the article.
+
+**How it used MongoDB:** Sponsor use not stated on Devpost
+
+No public code linked
 
 ## Track names and requirements
 

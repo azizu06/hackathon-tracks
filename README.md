@@ -4,9 +4,11 @@
 
 Past hackathon winners, organized by the sponsor prize they won, so you can see what judges rewarded before you pick your next project.
 
+Project entries link to Devpost and explain how the team used the sponsor's tech where the Devpost write-up says. Code is linked where public.
+
 <!-- BEGIN coverage -->
 
-![1,553 winning projects](https://img.shields.io/badge/Winning%20projects-1,553-6D4FA3) ![60 hackathon editions](https://img.shields.io/badge/Hackathon%20editions-60-356A8A) ![379 sponsors](https://img.shields.io/badge/Sponsors-379-377662) ![1,697 sponsor prizes](https://img.shields.io/badge/Sponsor%20prizes-1,697-90613D)
+![1,553 winning projects](https://img.shields.io/badge/Winning%20projects-1,553-0F2A4A) ![60 hackathon editions](https://img.shields.io/badge/Hackathon%20editions-60-3B82F6) ![379 sponsors](https://img.shields.io/badge/Sponsors-379-0F2A4A) ![1,697 sponsor prizes](https://img.shields.io/badge/Sponsor%20prizes-1,697-3B82F6)
 
 <!-- END coverage -->
 
@@ -18,7 +20,7 @@ Past hackathon winners, organized by the sponsor prize they won, so you can see 
 
 | Start with | What you get |
 | --- | --- |
-| **[By sponsor](SPONSORS.md)** | 379 sponsors, A to Z. Every winning project, what it built and how it used the sponsor. |
+| **[By sponsor](SPONSORS.md)** | 379 sponsors, A to Z. See what won and what the Devpost write-ups say about sponsor tech. |
 | **[By hackathon](HACKATHONS.md)** | 60 editions of 23 hackathons, with every sponsor track and its winners. |
 | **[By tech or project type](TOPICS.md)** | Health, finance, hardware, voice and more, plus the most used tech. |
 | **[Search the site](https://tracks.azizu.dev/)** | Filter all 1,553 winners by sponsor, hackathon, year and tech. |
@@ -47,7 +49,7 @@ Past hackathon winners, organized by the sponsor prize they won, so you can see 
 ## Pick your tracks
 
 1. **List your event's sponsor tracks.** Check its Devpost page and rules for each track's required tech and judging criteria.
-2. **Read what won before.** Open each sponsor in [the sponsor list](SPONSORS.md) and note how past winners used the sponsor's product.
+2. **Read what won before.** Open each sponsor in [the sponsor list](SPONSORS.md) to see what past winners built and look for sponsor-use notes.
 3. **Score your ideas.** Copy the [track matrix](templates/track-matrix.md) and mark each idea against each track. Pick the smallest build you can demo that fits two to four tracks.
 
 ## Use it with your AI agent

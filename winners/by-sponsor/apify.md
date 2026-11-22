@@ -23,6 +23,8 @@
 
 BrickBots lets you plan and assemble a robot from real parts in your browser.
 
+**How it used Apify:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/nnapper/calhacks-13.0-brickbots) · [Demo video](https://www.youtube.com/watch?v=NaJhNkEO_Bk) · Built with apify, bitdeer, claude, context.dev
 
 ### [CoFounder](https://devpost.com/software/cofounder-q1g570)
@@ -51,6 +53,8 @@ Helping ALS patients do simple tasks by using their mind to run AI Agents.
 
 Fire Drill runs invoice fraud against an accounts-payable agent as a drill , by invoice, email or a real phone call, then:.
 
+**How it used Apify:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/shokhabbos-mukhammatov/calhacks13) · [Demo video](https://www.youtube.com/watch?v=TZ16uPUPuRw) · Built with apify, anthropic, capital-one-nessie, cartesia
 
 ### [FreightLine](https://devpost.com/software/tbd-i18cf9)
@@ -58,6 +62,8 @@ Fire Drill runs invoice fraud against an accounts-payable agent as a drill , by 
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-tbd-i18cf9) · **1st Customer Award**
 
 The autonomous back office for freight finance.
+
+**How it used Apify:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/rishi-golla/calhacks-26) · [Demo video](https://www.youtube.com/watch?v=TkP7p4THipM) · Built with apify, a2a-sdk, asus-ascent-gx10, asus-gx10
 
@@ -77,7 +83,9 @@ NightFall is an AI-powered safety companion that detects and prevents dementia-r
 
 an ai teammate in your cursor.
 
-[Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, accessibility-api, anthropic, appkit
+**How it used Apify:** The team used Claude for reasoning, Apify for connectors, Convex for the backend and real-time collaboration, Moss for indexing, and Cartesia for voice, alongside the custom computer-use engine and replay framework.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, accessibility-api, anthropic, appkit
 
 ### [Pupil](https://devpost.com/software/pupil-utzxy2)
 
@@ -85,7 +93,7 @@ an ai teammate in your cursor.
 
 Hands-free computer control with eye tracking, voice and an AI agent.
 
-**How it used Apify:** Pupil turns your webcam into an eye tracker and your voice into the keyboard, using Cartesia for speech-to-text, and pairs them with an AI agent and Apify.
+**How it used Apify:** Apify: the agent starts background research runs on a custom Apify Actor ( Apify ID = anthonylu/accessible-decision-researcher ) and fetches public pages through Apify, with hard caps on time and cost.
 
 [Code](https://github.com/itsmarsss/pupil) · [Demo video](https://www.youtube.com/watch?v=6Uv1twCgDMY) · Built with apify, claude, mcp, mediapipe
 
@@ -94,6 +102,8 @@ Hands-free computer control with eye tracking, voice and an AI agent.
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-recount-spgda6) · **Best Actor sponsored by Apify**
 
 Scan your ER bill. See which charges don't match the hospital's own prices, whether California law entitles you to free or discounted care, and get the letters to ask for it.
+
+**How it used Apify:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/VolodymyrLinuxovich/recount) · [Demo video](https://www.youtube.com/watch?v=24TXyeufQPs) · Built with apify, anthropic-api, azure-ai-content-safety, azure-ai-document-intelligence
 

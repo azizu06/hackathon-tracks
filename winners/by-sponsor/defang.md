@@ -23,6 +23,8 @@
 
 HeartTalk is your senior care companion, combining AI chat support with health monitoring. Keep loved ones engaged while tracking vital signs – ensuring peace of mind when caregivers can't be there.
 
+**How it used Defang:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Carol-cs/nwhacks2025) · Built with defang, 1password, express.js, javascript
 
 ### [HIPT](https://devpost.com/software/hipt-hip-interactive-physical-training)
@@ -30,6 +32,8 @@ HeartTalk is your senior care companion, combining AI chat support with health m
 [nwHacks 2025](../by-hackathon/nwhacks-2025.md#project-hipt-hip-interactive-physical-training) · **Defang.io Sponsor Prize**
 
 Say Hi to PT 👋. A Hip Interactive Physical Therapy Application where you can transform your experience and recover in a hip way.
+
+**How it used Defang:** Deployment: The entire application is deployed with Defang.
 
 [Code](https://github.com/TrabLimit/nwHacks-2025) · Built with defang, express.js, javascript, mongodb
 
@@ -51,13 +55,17 @@ A group sleep scheduling app that combines accountability and competition to bui
 
 FIU Scholarship Plug helps students find relevant scholarships by assessing demographics. It gathers data on academic background, financial status, and career goals for personalized recommendations.
 
-Built with defang, auth0, bash, css
+**How it used Defang:** Sponsor use not stated on Devpost
+
+No public code linked · Built with defang, auth0, bash, css
 
 ### [FootPrint Mayhem](https://devpost.com/software/footprint-mayhem)
 
 [HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-footprint-mayhem) · **Best Use of Defang**
 
 A platform to minimize carbon footprint by encouraging users to reduce their daily waste through streaks, games, and points.
+
+**How it used Defang:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Jshot117/HackHarvard) · Built with defan.io, express.js, firebase, javascript
 
@@ -66,6 +74,8 @@ A platform to minimize carbon footprint by encouraging users to reduce their dai
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-waterwaterwater-loolooloo) · **Best Use of Defang**
 
 The team gained valuable experience in integrating proximity detection systems with cloud services, handling real-time data, and optimizing the full stack application for responsive and secure user interactions.
+
+**How it used Defang:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/qiz-li/loolooloo) · [Demo video](https://www.youtube.com/watch?v=z4kfvKR1sek) · Built with bluetooth, css, html, node.js
 
@@ -85,6 +95,8 @@ A Pomodoro timer that keeps you on track, summarizes your browsing, and turns st
 
 Minimize your tech stack's developmental cost.
 
+**How it used Defang:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/stevensusas/Underflow) · [Demo video](https://www.youtube.com/watch?v=lGFKiZR0MNk) · Built with amazon-web-services, cli, fastapi, mysql
 
 ### [VerbaTeX](https://devpost.com/software/verbatex)
@@ -92,6 +104,8 @@ Minimize your tech stack's developmental cost.
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-verbatex) · **Best Use of Defang**
 
 LaTeX made easy. Speech to code in real time.
+
+**How it used Defang:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/leozhang14/VerbaTeX) · Built with defang, amazon-web-services, chatgpt, firebase
 

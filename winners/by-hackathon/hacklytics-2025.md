@@ -55,6 +55,7 @@ By simply entering your phone number on the website, an AI Agent calls you and s
 - **Code:** [Source 1](https://github.com/ColeKaplan/phishybusiness)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LAumATWI2zE)
 - **All prizes at this hackathon (1):** MLH - Best .Tech Domain Name
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -81,6 +82,7 @@ CAMcogni consolidates a wide array of data sources—including camera feeds, IoT
 - **Code:** [Source 1](https://github.com/DKoushikUMD/efficiency-tracker-ui) · [Source 2](https://github.com/sumi0309/efficiency-tracker-backend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kZCDMpvuLY4)
 - **All prizes at this hackathon (1):** AggEquo: AI-Driven Worksite Productivity Metrics
+- **How it used AggEquo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -97,17 +99,17 @@ CAMcogni consolidates a wide array of data sources—including camera feeds, IoT
 
 Introducing Caduceo, a Streamlit-based Chatbot for transparent healthcare cost estimate. Integrating MongoDB and Snowflake, it offers the user data on procedure costs, insurance and hospital ratings.
 
-[Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zAI_PrtBHB0) · Built with azure-cv, llama, mongodb, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** azure-cv, llama, mongodb, python, snowflake, streamlit
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zAI_PrtBHB0)
 - **All prizes at this hackathon (1):** Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems
-- **How it used Assurant:** The importance of data consistency and accuracy when integrating multiple data sources.
+- **How it used Assurant:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -130,6 +132,7 @@ The platform offers two key user modes.
 - **Code:** [Source 1](https://github.com/mko02/VectorSearch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1y8h8RPQGDM)
 - **All prizes at this hackathon (1):** Assurant: Revolutionize AI Solutioning with Multimodal Agentic AI or Accelerate Predictive Insights-at-Scale with Multi-Agent AI Systems
+- **How it used Assurant:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -156,7 +159,7 @@ Turning uncertainty into opportunity with AI-driven market insights.
 - **Code:** [Source 1](https://github.com/kaustubhbhal/Black-Swan)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LGzhTNWSGaw)
 - **All prizes at this hackathon (1):** Best Finance Hack Sponsored by Capital One
-- **How it used Capital One:** Black Swan is a cutting-edge web application that provides investors with comprehensive portfolio risk analysis through advanced quantitative modeling and stress testing.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -183,7 +186,7 @@ Boosting confidence in the gym with proper form.
 - **Code:** [Source 1](https://github.com/danielachacon/SquatSpot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2_E6xy6R6-I)
 - **All prizes at this hackathon (1):** MLH - Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** The project lists cloudflare among its Built With tags.
+- **How it used Cloudflare:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -210,7 +213,7 @@ Revolutionizing commercial advertising one image at a time.
 - **Code:** [Source 1](https://github.com/shreeya-garg/StoreFrontVisibility)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gYSyRGZpOw4)
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
-- **How it used GrowthFactor:** The final output is a visibility score that businesses can use to evaluate how effectively their storefronts are seen by pedestrians and drivers.
+- **How it used GrowthFactor:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -233,6 +236,7 @@ It gathers geospatial data from Google’s Geocoding API and Google’s Road API
 - **Code:** [Source 1](https://github.com/poojasaji1/Hacklytics25)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
+- **How it used GrowthFactor:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -245,17 +249,17 @@ It gathers geospatial data from Google’s Geocoding API and Google’s Road API
 
 VisiFy: Storefront Selection with AI-Powered Visibility &amp; Insights.
 
-[Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w) · Built with a-frame, css, flask, html
+No public code linked · [Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w) · Built with a-frame, css, flask, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** a-frame, css, flask, html, javascript, python, react
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=17Z1GmfzP0w)
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
-- **How it used GrowthFactor:** VisiFy is storefront evaluation tool powered by AI that assigns a combined, comprehensive score based on a combined score of visibility analysis and suitability of businesses.
+- **How it used GrowthFactor:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -282,7 +286,7 @@ Countless public health datasets have been taken down. Vesalius scrubs the Inter
 - **Code:** [Source 1](https://github.com/mikeiioo/Vesalius)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DN6NTqMk2cE)
 - **All prizes at this hackathon (1):** MLH - Best Use of MongoDB Atlas
-- **How it used MongoDB:** The application takes in a user query for datasets they want.
+- **How it used MongoDB:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -309,7 +313,7 @@ AI-powered support for safer maternal health.
 - **Code:** [Source 1](https://github.com/bhavyat-01/Maternal-Mortality)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M4JyDZaX9GQ)
 - **All prizes at this hackathon (1):** MLH - Best Use of AI powered by Reach Capital
-- **How it used Reach Capital:** This platform enables patients and healthcare professionals to anonymously report instances of racial discrimination or unfair treatment.
+- **How it used Reach Capital:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -336,7 +340,7 @@ Instantly distinguish genuine fouls from flops with video analysis through user 
 - **Code:** [Source 1](https://github.com/Arnav2610/streamlit_dive_detector)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q0bEOvrx4BA)
 - **All prizes at this hackathon (1):** MLH - Best Use of Streamlit
-- **How it used Streamlit:** The project lists streamlit among its Built With tags.
+- **How it used Streamlit:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

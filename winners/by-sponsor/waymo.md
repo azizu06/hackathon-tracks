@@ -23,6 +23,8 @@
 
 Halo is a smart bike helmet that watches the road behind you and warns you about what's coming before it reaches you, so you don't have to turn your head.
 
+**How it used Waymo:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/billpquach/halo) · [Demo video](https://www.youtube.com/watch?v=rlAuXaz6g6s) · Built with adk, arduino, javascript, opencv
 
 ### [ODDyssey](https://devpost.com/software/oddyssey)
@@ -31,7 +33,9 @@ Halo is a smart bike helmet that watches the road behind you and warns you about
 
 Map the possibilities for electric autonomous fleets with data-driven market insights and simulation.
 
-[Demo video](https://www.youtube.com/watch?v=EakXPzNH4ww) · Built with fastapi, gemini, mapbox, next.js
+**How it used Waymo:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=EakXPzNH4ww) · Built with fastapi, gemini, mapbox, next.js
 
 ### [Syren](https://devpost.com/software/syren-piz0qc)
 
@@ -39,7 +43,9 @@ Map the possibilities for electric autonomous fleets with data-driven market ins
 
 Decode the skies in real time: Live radar tracking powered by custom AI that detects anomalies before official reports.
 
-[Demo video](https://www.youtube.com/watch?v=DAqYyY9iVos) · Built with absd, api, deck.gl, digitalocean
+**How it used Waymo:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=DAqYyY9iVos) · Built with absd, api, deck.gl, digitalocean
 
 ## 2025 winners
 
@@ -49,6 +55,8 @@ Decode the skies in real time: Live radar tracking powered by custom AI that det
 
 The hack provides the user a navigational interface similar to other popular navigation applications.
 
+**How it used Waymo:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/davidrobinson05/birds-eye) · [Demo video](https://www.youtube.com/watch?v=lzUBJfDPxwM) · Built with css, ec2, ffmpeg, flask
 
 ### [OpenPotholeMap](https://devpost.com/software/openpotholemap)
@@ -56,6 +64,8 @@ The hack provides the user a navigational interface similar to other popular nav
 [ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-openpotholemap) · **Waymo**
 
 Leverages computer vision, GPS, and crowdsourcing to detect potholes, warn drivers, and share data with city authorities in real time.
+
+**How it used Waymo:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/OpenPotholeMap/open-pothole-map-repo) · [Demo video](https://www.youtube.com/watch?v=anqbJP1ct0A) · Built with ai, express.js, gcp, github-actions
 
@@ -65,7 +75,9 @@ Leverages computer vision, GPS, and crowdsourcing to detect potholes, warn drive
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-[Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
+**How it used Waymo:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
 
 ## 2024 winners
 
@@ -75,6 +87,8 @@ A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
 Creating an aware and safer world by identifying emergencies which can improve mobility, public spaces, open areas, school buildings and more.
 
+**How it used Waymo:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/JocelynVelarde/Shell-Hacks-2024) · [Demo video](https://www.youtube.com/watch?v=Z_LuQ_Ecl8Q) · Built with aiohttp, base64, collections, cv2
 
 ### [hurrycane](https://devpost.com/software/evac-for-all)
@@ -83,6 +97,8 @@ Creating an aware and safer world by identifying emergencies which can improve m
 
 Evacuate disaster safely with seamless ride sharing.
 
+**How it used Waymo:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/keshavbabu/shellhacks) · [Demo video](https://www.youtube.com/watch?v=RhdyCijiCcE) · Built with docker, firebase, go, maps
 
 ### [LocalPulse](https://devpost.com/software/localpulse-uwr83x)
@@ -90,6 +106,8 @@ Evacuate disaster safely with seamless ride sharing.
 [ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-localpulse-uwr83x) · **Waymo**
 
 LocalPulse is an innovative app that allows users to connect with their community by providing instant access to comprehensive data and insights.
+
+**How it used Waymo:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/SquizAI/fiu_hack) · Built with api, claude, computer-vision, deep-translator
 

@@ -23,6 +23,8 @@
 
 Online marketplaces in 2026: Bots are everywhere.
 
+**How it used World U:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/aryank09/banter-mart) · [Demo video](https://www.youtube.com/watch?v=hn_EWcW0pX0) · Built with css, gemini, react, supabase
 
 ### [Impulse](https://devpost.com/software/impulse-khf8l4)
@@ -31,7 +33,9 @@ Online marketplaces in 2026: Bots are everywhere.
 
 Agent-powered hiring built for humans, using each applicant’s unique application history to generate a trust rating so people apply more thoughtfully and ethically while getting matched faster.
 
-[Demo video](https://www.youtube.com/watch?v=avU8l6qmFD4) · Built with express.js, gcp, gemini, node.js
+**How it used World U:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD4) · Built with express.js, gcp, gemini, node.js
 
 ### [startupOS](https://devpost.com/software/startupos)
 
@@ -39,7 +43,9 @@ Agent-powered hiring built for humans, using each applicant’s unique applicati
 
 Scale your business with faster authentic hiring and real outbound, not ai.
 
-[Demo video](https://www.youtube.com/watch?v=baX5qnjcYcc) · Built with typescript
+**How it used World U:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=baX5qnjcYcc) · Built with typescript
 
 ## Track names and requirements
 

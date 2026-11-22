@@ -53,6 +53,8 @@ Turn your Grandma into a Waymo.
 
 A voice and vision assistant maps rooms, helps older adults find misplaced objects, and alerts caregivers.
 
+**How it used OpenAI:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/nathanjzhao/treehacks2026) · [Demo video](https://www.youtube.com/watch?v=UdgzCapZGrc) · Built with gpt-5-mini, openai, openai-whisper, depth-anything-v2
 
 ### [Orbis Engine](https://devpost.com/software/temp-jcyltx)
@@ -71,6 +73,8 @@ Orbis turns an ordinary video into a 3D world you can explore.
 
 A programming environment gives blind developers an accessible way to write and navigate code.
 
+**How it used OpenAI:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/ledaniel0/treehacks2026) · [Demo video](https://www.youtube.com/watch?v=aL9MrpwJXOA) · Built with agentverse, elasticsearch, electron, langgraph
 
 ## 2025 winners
@@ -81,7 +85,7 @@ A programming environment gives blind developers an accessible way to write and 
 
 An interactive storyteller changes the narrative and visuals in response to brainwave readings.
 
-**How it used OpenAI:** The team then feed both the text-to-speech lines and OpenAI-generated SFX prompts into ElevenLabs (streamed via WebSocket), allowing the team to seamlessly produce both TTS dialogue and ambient sound effects.
+**How it used OpenAI:** The main story loop runs every 30 seconds, checking the user’s current state and using the OpenAI API to generate story scripts (and corresponding sound effect prompts) based on those EEG readings.
 
 [Code](https://github.com/StiopaPopa/fable) · [Demo video](https://www.youtube.com/watch?v=Q8udHqdKbKw) · Built with openai-api, 3.js, eeg, elevenlabs
 
@@ -90,6 +94,8 @@ An interactive storyteller changes the narrative and visuals in response to brai
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-treetrash) · **Most Creative Use of OpenAI API**
 
 A monitoring system measures what people throw away and reports waste trends.
+
+**How it used OpenAI:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/sonnetx/treehacks-2025) · [Demo video](https://www.youtube.com/watch?v=2TJLV-r9Qss) · Built with openai, adafruit, gemini, perplexity
 

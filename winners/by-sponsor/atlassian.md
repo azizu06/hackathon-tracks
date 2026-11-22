@@ -23,6 +23,8 @@
 
 Argo is your real-time Jira assistant for meetings. Don't worry about managing Jira changes while in the middle of important discussions, just ask Argo.
 
+**How it used Atlassian:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Babagesh/Argo) · [Demo video](https://www.youtube.com/watch?v=Drz3VmP_8tU) · Built with atlassian, cartesia, claude, codex
 
 ### [Credo](https://devpost.com/software/credo-sxpmav)
@@ -31,6 +33,8 @@ Argo is your real-time Jira assistant for meetings. Don't worry about managing J
 
 Don’t take its word for it. Watch it.
 
+**How it used Atlassian:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jadenmli/credo) · [Demo video](https://www.youtube.com/watch?v=NZFvDoftuiY) · Built with atlassian-forge, azure, caddy, confluence
 
 ### [GurtOS](https://devpost.com/software/gurtos)
@@ -38,6 +42,8 @@ Don’t take its word for it. Watch it.
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-gurtos) · **Best Agent / Best Security Solution for Agents**
 
 An operating environment isolates each AI agent task in a separate Linux user and lets people review spending and undo changes.
+
+**How it used Atlassian:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/benz16107/gurtos) · [Demo video](https://www.youtube.com/watch?v=3hDnLuUqmjM) · Built with apify, asi-one, claude, coinbase-cdp
 

@@ -23,13 +23,17 @@
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-[Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
+**How it used Adobe:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
 ### [PeaHeads](https://devpost.com/software/peaheads)
 
 [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-peaheads) · **Prettiest Hack**
 
 PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is the controller: you dodge with your real head, open your mouth to spit peas, and wink to zoom.
+
+**How it used Adobe:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Ilan101/peaheads) · [Demo video](https://www.youtube.com/watch?v=chAkjLDZ9Hk) · Built with c#, netcode, python, unity
 
@@ -38,6 +42,8 @@ PeaHeads is a multiplayer shooter where you play a pea plant and your webcam is 
 [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-plu-s-sanctuary) · **Prettiest Hack**
 
 An interactive, hand-illustrated, digital storybook featuring point-and-click progression and branching cinematic endings.
+
+**How it used Adobe:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/NiDesai08/Plu-s-Sanctuary) · [Demo video](https://vimeo.com/1234804142) · Built with css, html, ibispaintx, javascript
 
@@ -51,7 +57,7 @@ An Adobe add-on that generates a Reel/Short video from prompt.
 
 **How it used Adobe:** The team built an Adobe Express add-on that helps user make educational or awareness reels/shorts faster by generating half of the work for them.
 
-[Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
+No public code linked · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
 
 ## Track names and requirements
 

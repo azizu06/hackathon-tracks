@@ -23,6 +23,8 @@
 
 A multi-agent simulator where buyer negotiates with opaque seller agents in realistic, chat-based bargaining. No scoring rules - just LLM-driven reasoning, hidden motives, and emergent market behavior.
 
+**How it used Qualcomm:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/rohan-g0re/Hack_NYU_Arbitrage) · [Demo video](https://www.youtube.com/watch?v=z2_8AWR_qU8) · Built with docker, fastapi, git, lm-studio
 
 ### [Insight Loop](https://devpost.com/software/insight-loop)
@@ -30,6 +32,8 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md#project-insight-loop) · **Best Use of Qualcomm EdgeAI**
 
 An edge-AI tutoring agent that listens in real time and guides you the moment confusion appears.
+
+**How it used Qualcomm:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Baozzz04/insight-loop) · [Demo video](https://www.youtube.com/watch?v=0WAUHLDkyHI) · Built with fastapi, ffpmeg, indexeddb, llama
 
@@ -39,7 +43,9 @@ An edge-AI tutoring agent that listens in real time and guides you the moment co
 
 The team describes the project as “Nodal”.
 
-Built with test
+**How it used Qualcomm:** Sponsor use not stated on Devpost
+
+No public code linked · Built with test
 
 ### [Tuffr](https://devpost.com/software/tuffr)
 
@@ -47,7 +53,9 @@ Built with test
 
 Increase your strength with cutting-edge computer vision and agentic AI.
 
-[Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
+**How it used Qualcomm:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
 
 ## Track names and requirements
 

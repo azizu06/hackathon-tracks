@@ -47,18 +47,18 @@ These projects won more than one prize here. Each one is listed once.
 
 Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day forecasts, and prescription actions telling you which fields to act on and what it saves.
 
-[Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** fastapi, glsl, javascript, next.js, python, react-native, sqlite, typescript, uvicorn, vercel, xgboost
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qjTX93HKRNE)
 - **All prizes at this hackathon (3):** Best Champion of Open Source w/ Featherless - Featherless · Best Intermediate Data Science Track Hack - Bitcamp · Real World Prize - Ambrook
-- **How it used Ambrook:** Terrametric delivers a personalized console of the farm's live stress score, a 14-day yield forecast, and a prescription for what needs to be done, with all the math already done.
-- **How it used Featherless:** Terrametric delivers a personalized console of the farm's live stress score, a 14-day yield forecast, and a prescription for what needs to be done, with all the math already done.
+- **How it used Ambrook:** Sponsor use not stated on Devpost
+- **How it used Featherless:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -89,6 +89,7 @@ FundingFlow uses AI to automatically discover funding programs from government w
 - **Code:** [Source 1](https://github.com/xROBERTINOx/bitcamp2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Real World Prize - Ambrook
+- **How it used Ambrook:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -111,7 +112,7 @@ Power line faults often go undetected until they escalate catastrophically. Tele
 - **Code:** [Source 1](https://github.com/Snek3471/VoltVigil)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JhbR0K8B5p8)
 - **All prizes at this hackathon (1):** Real World Prize - Ambrook
-- **How it used Ambrook:** TeleGrid is a real-time, affordable monitoring system that detects corona discharge &#42; , an early indicator of power line faults.
+- **How it used Ambrook:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -128,14 +129,14 @@ Power line faults often go undetected until they escalate catastrophically. Tele
 
 Docket is a web app that gives developers a visual, AI-summarized history of their GitHub repositories.
 
-[Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
+No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** auth0, gemini, next.js, supabase, terpai, typescript, vercel
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=coq8SSweYCs)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Auth0
 - **How it used Auth0:** Building a working GitHub authentication service using auth0, allowing anyone to sign in and use the app right away using their GitHub information.
@@ -161,7 +162,7 @@ GhostKode uses your Git history to identify the most unstable lines in your code
 - **Code:** [Source 1](https://github.com/bbmullen72/ghostkode)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=H6tUjbQjOkg)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Auth0 AI Agents
-- **How it used Auth0:** Built with @auth0/nextjs-auth0 v4 and Next.js 16 App Router.
+- **How it used Auth0:** The team built with @auth0/nextjs-auth0 v4 and Next.js 16 App Router.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +189,7 @@ Because a fall shouldn’t go unnoticed — real-time monitoring for safer indep
 - **Code:** [Source 1](https://github.com/Schugh26/GaitGuard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **How it used Bloomberg:** GaitGuard is a real-time fall detection system designed to monitor motion, posture, and risk continuously.
+- **How it used Bloomberg:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -211,7 +212,7 @@ Pick a cancer type and protein target. Helix screens thousands of compounds and 
 - **Code:** [Source 1](https://github.com/Reyzz00/helix)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VqTClY4_A5k)
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **How it used Bloomberg:** Quantum computing is a very specific tool and knowing where it fits matters more than using it everywhere.
+- **How it used Bloomberg:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -234,7 +235,7 @@ Recall helps dementia patients identify faces, recall past conversations, and pr
 - **Code:** [Source 1](https://github.com/akhilapnuri/RecallMobileApp)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WDXfbc8DIpw)
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **How it used Bloomberg:** The app is designed to help individuals with dementia recognize and recall important people in their lives.
+- **How it used Bloomberg:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -261,7 +262,7 @@ is a reverse-engineered hardware ledger for the Solana blockchain, with custom P
 - **Code:** [Source 1](https://github.com/navincodesalot/cryptx)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ckU2XB6r1WQ)
 - **All prizes at this hackathon (2):** Best App Dev Track Hack - Bitcamp · Best Financial Hack - Capital One
-- **How it used Capital One:** cryptX is a fully functional hardware crypto wallet built on top of the Solana network, designed to bring real security to blockchain transactions without the $150 price tag.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -278,16 +279,17 @@ is a reverse-engineered hardware ledger for the Solana blockchain, with custom P
 
 Revolutionizing Digital Forensics through Novel Data Modeling.
 
-Built with fastapi, next.js, react, typescript
+No public code linked · Built with fastapi, next.js, react, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** fastapi, next.js, react, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
+- **How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -310,7 +312,7 @@ Detect hidden cyber attacks in audio. Not all noise is natural—some is malicio
 - **Code:** [Source 1](https://github.com/shreya222mishra/bitcamp-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dgCAY-YG5rw)
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
-- **How it used Cipher Tech Solutions:** Quanterp is a hybrid quantum-classical audio security system that detects suspicious noise and malicious manipulation in audio files.
+- **How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -337,7 +339,7 @@ The autonomous command center for your academic life.
 - **Code:** [Source 1](https://github.com/purabshah12/bitcamp2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eRcqv4_pCCQ)
 - **All prizes at this hackathon (2):** Best Bitcamp Hack - Bitcamp · TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** Aether is an intelligent command center designed to turn academic chaos into autonomous clarity:.
+- **How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -360,7 +362,7 @@ EcoBuddy gamifies sustainability—track your actions, level up your buddy, and 
 - **Code:** [Source 1](https://github.com/KaushalGorla/eco-buddy-voice)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=r4HnScF_29w)
 - **All prizes at this hackathon (1):** TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** EcoBuddy is an AI-powered sustainability companion that:.
+- **How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -373,7 +375,7 @@ EcoBuddy gamifies sustainability—track your actions, level up your buddy, and 
 
 An AI safety net for UMD students. TerpWallet watches your bank account and connects you to free campus resources, Campus Pantry, SafeRide, emergency funds, before you go broke.
 
-[Code](https://github.com/rishikathakre/terpwallet-ai) · [Demo video](https://www.youtube.com/watch?v=vD4VIui3jSs) · Built with auth0, azure, capital-one-nessie-api, cloudforce
+[Code](https://github.com/rishikathakre/terpwallet-ai) · [Demo video](https://www.youtube.com/watch?v=vD4VIui3jSs) · Built with azure, cloudforce, auth0, capital-one-nessie-api
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -383,7 +385,7 @@ An AI safety net for UMD students. TerpWallet watches your bank account and conn
 - **Code:** [Source 1](https://github.com/rishikathakre/terpwallet-ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vD4VIui3jSs)
 - **All prizes at this hackathon (1):** TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** TerpWallet AI connects to a UMD student's bank account and monitors their financial health continuously.
+- **How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -400,14 +402,14 @@ An AI safety net for UMD students. TerpWallet watches your bank account and conn
 
 Your doorbell doesn’t just ring anymore… it sees, thinks, and talks in any language while judging who’s at your door.
 
-[Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa4) · Built with elevenlabs, fastapi, gemini, multimap
+No public code linked · [Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa4) · Built with elevenlabs, fastapi, gemini, multimap
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** elevenlabs, fastapi, gemini, multimap, next.js, opencv, python, raspberry-pi, wbp-systems-torch, yolo
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=S6FTw6NNaa4)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of ElevenLabs · People's Choice Hack - Bitcamp
 - **How it used ElevenLabs:** The team integrated ElevenLabs conversational agents to generate low-latency, natural voice responses.
@@ -429,16 +431,17 @@ Also won this track: [Terrametric](#project-terrametric) (listed above)
 
 The team built AGastIa because medical reports are often full of information but empty of clarity.
 
-[Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
+No public code linked · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** alembic, auth0, bio-clinicalbert, celery, fastapi, geminiapi, huggingfacetransformer, javascript, medgemma, medsam, paddleocr, postgresql, python, pytorch, react, redis, sqlalchemy, tailwindcss, typescript, vite
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WyRockA-COA)
 - **All prizes at this hackathon (1):** Best Champion of Open Source w/ Featherless - Featherless
+- **How it used Featherless:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -461,7 +464,7 @@ NARA is an autonomous penetration testing CLI that orchestrates four AI agents a
 - **Code:** [Source 1](https://github.com/HackedRico/obv-nara-box)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=a8ESQUSft0c)
 - **All prizes at this hackathon (2):** Best Champion of Open Source w/ Featherless - Featherless · Neelbauer Agentic Revolution Award (NARA) - Alumni Prize
-- **How it used Featherless:** The project lists featherless-ai-(phi-4-mini) among its Built With tags.
+- **How it used Featherless:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -488,7 +491,7 @@ A 2D platformer where you leave interactive echoes of yourself that replay your 
 - **Code:** [Source 1](https://github.com/Parth12358/ThatsMyEcho)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OGyCVrdRYaw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** ThatsMyEcho is a 2D platformer where you play as a breath, a sound born from wind cutting through ancient mountains.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -515,7 +518,7 @@ From script to scene in minutes.
 - **Code:** [Source 1](https://github.com/zlyuan9/ani.mate)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hPwpqFpdsEk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The project lists firebase, gemini among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -532,16 +535,17 @@ From script to scene in minutes.
 
 Miss a daily tap, and your people get notified. Still Here is the safety net for the 36 million Americans living alone.
 
-[Demo video](https://vimeo.com/1182382881) · Built with aws-sns, celery, docker, fastapi
+No public code linked · [Demo video](https://vimeo.com/1182382881) · Built with aws-sns, celery, docker, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** aws-sns, celery, docker, fastapi, firebase-fcm, python, redis, sqlalchemy, supabase, vanilla-js
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://vimeo.com/1182382881)
 - **All prizes at this hackathon (1):** Best Use of Netcore - Netcore
+- **How it used Netcore Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -568,7 +572,7 @@ Real-time satellite collision risk dashboard that ingests live conjunction scree
 - **Code:** [Source 1](https://github.com/po-aditya/Apsora-Brief)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPAUEUN1UG4)
 - **All prizes at this hackathon (1):** Best Data Visualization Experience - Peraton
-- **How it used Peraton:** It then calls Claude to generate a plain-language situational brief that an operator can read in 30 seconds and act on.
+- **How it used Peraton:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -595,7 +599,7 @@ Real vanilla, real proof. Extract is a digital trust system for the vanilla indu
 - **Code:** [Source 1](https://github.com/SujanPoudel23/Extract)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AUpQ-0V719o)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** The project lists anchor, solana among its Built With tags.
+- **How it used Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

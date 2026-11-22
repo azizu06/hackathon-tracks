@@ -23,6 +23,8 @@
 
 An AI prototype that processes ad creatives, both images and videos, to extract rich visual, textual, and audio insights that reveal brand intent and power next-generation recommendation engines.
 
+**How it used AppLovin:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/SisuKah/calhacks2) · [Demo video](https://www.youtube.com/watch?v=yLyytqlP2Ik) · Built with chromadb, claude, clip, easyocr
 
 ### [Duck Duck Goose](https://devpost.com/software/duck-duck-goose-jelxr9)
@@ -30,6 +32,8 @@ An AI prototype that processes ad creatives, both images and videos, to extract 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-duck-duck-goose-jelxr9) · **Query Planner Challenge**
 
 A fast, intelligent query engine built on DuckDB.
+
+**How it used AppLovin:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/KevinL10/applovin-query) · [Demo video](https://www.youtube.com/watch?v=_QnZ6bNqfr4) · Built with python
 

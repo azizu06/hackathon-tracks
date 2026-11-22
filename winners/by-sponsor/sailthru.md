@@ -23,6 +23,10 @@
 
 Combines electric imp with big data provided by Sailthru to make a simple game where players try to predict which browser was more popular, given a location as a hint.
 
+**How it used Sailthru:** Combines electric imp with big data provided by Sailthru to make a simple game where players try to predict which browser was more popular, given a location as a hint.
+
+No public code linked
+
 ## Track names and requirements
 
 <details>

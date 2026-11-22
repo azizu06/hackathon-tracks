@@ -23,6 +23,8 @@
 
 Boomer helps electricians throughout an entire job, from understanding the task and navigating local requirements to coordinating supervisor approval, checking their work, and documenting the results.
 
+**How it used Peri:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Svanik-Palvai/Boomer) · [Demo video](https://www.youtube.com/watch?v=dKs6uc-Ands) · Built with 3d-printing, computer-vision, elevenlabs, ffmpeg
 
 ### [Mise](https://devpost.com/software/mise-3kjnqz)
@@ -31,13 +33,17 @@ Boomer helps electricians throughout an entire job, from understanding the task 
 
 Lightweight, AI-powered tools built for forward-deployed engineers to adapt and deploy quickly.
 
-[Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc) · Built with anthropic-api, claude, claude-code, fastapi
+**How it used Peri:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc) · Built with anthropic-api, claude, claude-code, fastapi
 
 ### [Restock](https://devpost.com/software/restock-v3pkq8)
 
 [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-restock-v3pkq8) · **Forward Deployed Engineer**
 
 A camera watches the ingredients, AI counts every item taken, and texts the owner to reorder before anything runs out. Tested live at Casa Piada in Greenwich.
+
+**How it used Peri:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton) · [Demo video](https://www.youtube.com/watch?v=tsmOwUs_G00) · Built with arduino-uno-q, d1, deepagents, fastapi
 

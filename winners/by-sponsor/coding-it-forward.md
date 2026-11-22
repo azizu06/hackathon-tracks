@@ -23,7 +23,9 @@
 
 Pioneer technology that prioritizes the needs of displaced persons and tailor software to uniquely address the specific challenges of homelessness.
 
-Built with flask, github, google-maps, python
+**How it used Coding It Forward:** Sponsor use not stated on Devpost
+
+No public code linked · Built with flask, github, google-maps, python
 
 ## Track names and requirements
 

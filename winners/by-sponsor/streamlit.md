@@ -23,6 +23,8 @@
 
 Instantly distinguish genuine fouls from flops with video analysis through user inputted soccer clips. Provides referee-style analysis based on the verdict.
 
+**How it used Streamlit:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Arnav2610/streamlit_dive_detector) · [Demo video](https://www.youtube.com/watch?v=Q0bEOvrx4BA) · Built with streamlit, gemini, genai, joblib
 
 ### [SpotiFind](https://devpost.com/software/spotifind-4i8lts)
@@ -31,7 +33,9 @@ Instantly distinguish genuine fouls from flops with video analysis through user 
 
 Your Vision, Reborn. A complex collection of pipelines, all working in tandem to restore sight capabilities for the visually impaired.
 
-[Demo video](https://www.youtube.com/watch?v=kDdEKuB_Qy4) · Built with streamlit, mongodb, opencv, python
+**How it used Streamlit:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=kDdEKuB_Qy4) · Built with streamlit, mongodb, opencv, python
 
 ### [Wildfires](https://devpost.com/software/wildfires-c0pfv1)
 
@@ -41,7 +45,7 @@ Wildfires is a platform offering real-time wildfire updates with live data, inte
 
 **How it used Streamlit:** The team then used Streamlit to plot them onto a map.
 
-Built with streamlit, altair, openai, pydeck
+No public code linked · Built with streamlit, altair, openai, pydeck
 
 ## 2024 winners
 
@@ -70,6 +74,8 @@ FlowCast is an innovative web application that visualizes and analyzes water qua
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-vestique) · **Best Use of Streamlit**
 
 Vestique, your AI wardrobe assistant, tracks your style and ensures no clothes go unworn. Smart alerts help you wear 40% more of your closet and save $1,200 yearly.
+
+**How it used Streamlit:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/rChwiecko/Vestique) · [Demo video](https://www.youtube.com/watch?v=ZASINIB-IOM) · Built with streamlit, brevo, llama, opencv
 

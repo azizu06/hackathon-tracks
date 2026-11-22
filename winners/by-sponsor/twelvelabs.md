@@ -33,7 +33,9 @@ PC building made easy — ask questions, identify parts, and build confidently.
 
 Every fan watches the same basketball game, but for different moments. Some track tactics, others chase the star’s reaction after a dunk.
 
-[Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
+**How it used TwelveLabs:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
 
 ### [Reel-To-Real](https://devpost.com/software/reel-to-real)
 

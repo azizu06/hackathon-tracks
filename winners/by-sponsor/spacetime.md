@@ -23,7 +23,9 @@
 
 🏢 Prepare buildings. 🔥 Save every resident. 🛡️.
 
-[Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with anthropic-api, blender, cal-fire, claude
+**How it used Spacetime:** ⚡ SpacetimeDB is the backend (hosted on Maincloud).
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with spacetimedb, anthropic-api, blender, cal-fire
 
 ### [Bandit - The only band you need](https://devpost.com/software/bandit-the-only-band-you-need)
 
@@ -31,7 +33,9 @@
 
 A wearable tracks crowd conditions and helps attendees reconnect with their group at an event.
 
-[Code](https://github.com/viktorinkov/cal-hacks-13) · [Demo video](https://www.youtube.com/watch?v=K7r8HDhk8a4) · Built with bright-data, c++, capital-one-nessie, claude
+**How it used Spacetime:** The attendee page, the organizer portal and the photographer page are TypeScript on SpacetimeDB's TypeScript SDK, built with Bun.
+
+[Code](https://github.com/viktorinkov/cal-hacks-13) · [Demo video](https://www.youtube.com/watch?v=K7r8HDhk8a4) · Built with spacetimedb, bright-data, c++, capital-one-nessie
 
 ### [CoClip](https://devpost.com/software/coclip)
 
@@ -39,7 +43,9 @@ A wearable tracks crowd conditions and helps attendees reconnect with their grou
 
 A shared editor lets teammates work on a video together with help from AI assistants.
 
-[Code](https://github.com/anuragsk05/CoClip) · [Demo video](https://www.youtube.com/watch?v=0Oz84yuXpbE) · Built with gemini, google, json, spacetimedb
+**How it used Spacetime:** CoClip uses SpacetimeDB to sync the video timeline and media state across collaborators.
+
+[Code](https://github.com/anuragsk05/CoClip) · [Demo video](https://www.youtube.com/watch?v=0Oz84yuXpbE) · Built with spacetimedb, gemini, google, json
 
 ### [Collab3D](https://devpost.com/software/collab3d)
 
@@ -47,7 +53,9 @@ A shared editor lets teammates work on a video together with help from AI assist
 
 Collab3D is a web tool using a Spacetime database to allow real-time collaboration on 3D scenes, encouraging a faster workflow for art studios, game developers, video editors, and many more.
 
-[Code](https://github.com/hendohpp/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=Q5XlCu8Cxjg) · Built with spacetime, 3d-modeling, database, javascript
+**How it used Spacetime:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/hendohpp/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=Q5XlCu8Cxjg) · Built with spacetime, spacetimedb, 3d-modeling, database
 
 ### [Ender's Bench](https://devpost.com/software/ender-s-bench)
 
@@ -55,7 +63,9 @@ Collab3D is a web tool using a Spacetime database to allow real-time collaborati
 
 A benchmark lets users watch how AI agents make decisions and inspect the measured outcomes.
 
-[Code](https://github.com/BeanyZoldyck/endersbench) · [Demo video](https://www.youtube.com/watch?v=tvfnVoL_0-o) · Built with anthropic-api, css, cuda, html
+**How it used Spacetime:** Generated TypeScript bindings connect the viewer, harness, and recorder; results are exported over SpacetimeDB's SQL HTTP API.
+
+[Code](https://github.com/BeanyZoldyck/endersbench) · [Demo video](https://www.youtube.com/watch?v=tvfnVoL_0-o) · Built with spacetimedb, anthropic-api, css, cuda
 
 ### [GeonosisAI](https://devpost.com/software/robofactory)
 
@@ -63,7 +73,9 @@ A benchmark lets users watch how AI agents make decisions and inspect the measur
 
 A robotics workflow coordinates collection of demonstrations and uses them to fine-tune policies for physical robots.
 
-[Code](https://github.com/jaximus808/GeonosisAI) · [Demo video](https://www.youtube.com/watch?v=HToL9LhmV2s) · Built with anthropic, claude, claude-code, cloudflare
+**How it used Spacetime:** RoboFactory uses SpacetimeDB to share tasks, robot control leases, and payout records across services.
+
+[Code](https://github.com/jaximus808/GeonosisAI) · [Demo video](https://www.youtube.com/watch?v=HToL9LhmV2s) · Built with spacetimedb, anthropic, claude, claude-code
 
 ### [InSync](https://devpost.com/software/insync-7hisxp)
 
@@ -71,7 +83,9 @@ A robotics workflow coordinates collection of demonstrations and uses them to fi
 
 Live coordination for AI coding agents. InSync catches conflicting changes, even ones git would merge cleanly, while agents are still coding, and an NVIDIA Nemotron coordinator resolves them.
 
-[Code](https://github.com/Kolby-Schulz/HackUTD2026) · [Demo video](https://www.youtube.com/watch?v=48Lb0jSEhU4) · Built with claude, daemon, nemotron, node.js
+**How it used Spacetime:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/Kolby-Schulz/HackUTD2026) · [Demo video](https://www.youtube.com/watch?v=48Lb0jSEhU4) · Built with spacetimedb, claude, daemon, nemotron
 
 ### [Luyten](https://devpost.com/software/cafoo)
 
@@ -79,7 +93,9 @@ Live coordination for AI coding agents. InSync catches conflicting changes, even
 
 A finance workflow uses agents for month-end close tasks and waits for human approval before posting.
 
-[Code](https://github.com/3nvyx/luyten) · [Demo video](https://www.youtube.com/watch?v=is1IP042_v8) · Built with anthropic, apify, bright-data, claude-agent-sdk
+**How it used Spacetime:** On every pull request, CI runs the module smoke test, which tries every gate and refusal against a real SpacetimeDB.
+
+[Code](https://github.com/3nvyx/luyten) · [Demo video](https://www.youtube.com/watch?v=is1IP042_v8) · Built with spacetimedb, anthropic, apify, bright-data
 
 ### [Orkio](https://devpost.com/software/gehub)
 
@@ -87,7 +103,9 @@ A finance workflow uses agents for month-end close tasks and waits for human app
 
 A shared coding workspace coordinates AI agents working across devices.
 
-[Code](https://github.com/chuddrw/CalHacks26) · [Demo video](https://www.youtube.com/watch?v=8ImPqzqmFgQ) · Built with claude-api, claude-code, css, factory-droid-sdk
+**How it used Spacetime:** The team built Orkio using Factory Droid SDK, SpacetimeDB, Claude Code hooks, MCP, Git, TypeScript, and Vitest.
+
+[Code](https://github.com/chuddrw/CalHacks26) · [Demo video](https://www.youtube.com/watch?v=8ImPqzqmFgQ) · Built with spacetimedb, claude-api, claude-code, css
 
 ### [Pacioli](https://devpost.com/software/pacioli)
 
@@ -95,7 +113,9 @@ A shared coding workspace coordinates AI agents working across devices.
 
 A collaborative canvas gives a team a shared place to do its accounting.
 
-[Code](https://github.com/Rahuchpred/Pacilio) · [Demo video](https://www.youtube.com/watch?v=F4qrINg8msw) · Built with droidsdk, factoryai, figma, nessie
+**How it used Spacetime:** The app is built using SpacetimeDB.
+
+[Code](https://github.com/Rahuchpred/Pacilio) · [Demo video](https://www.youtube.com/watch?v=F4qrINg8msw) · Built with spacetimedb, droidsdk, factoryai, figma
 
 ### [Rally](https://devpost.com/software/locomotion-5i4gzy)
 
@@ -103,7 +123,9 @@ A collaborative canvas gives a team a shared place to do its accounting.
 
 Players use their phones as motion controllers to play racket sports on a laptop.
 
-[Code](https://github.com/JacobQuion/Cal-Hacks-Final-Project) · [Demo video](https://www.youtube.com/watch?v=czPDelomrt4) · Built with cloudflare-tunnel, cloudlfare, css, devicemotion-api
+**How it used Spacetime:** The team built it with Three.js for the 3D court, phone motion sensors for swings and SpacetimeDB as the referee, which decides every shot, landing, point and CPU move on the server.
+
+[Code](https://github.com/JacobQuion/Cal-Hacks-Final-Project) · [Demo video](https://www.youtube.com/watch?v=czPDelomrt4) · Built with spacetimedb, cloudflare-tunnel, cloudlfare, css
 
 ### [SafeNight](https://devpost.com/software/safenight-nrqwpo)
 
@@ -111,7 +133,9 @@ Players use their phones as motion controllers to play racket sports on a laptop
 
 An autonomous agentic system that helps you end your night safely.
 
-[Code](https://github.com/sabharwalainesh/SafeNight) · [Demo video](https://www.youtube.com/watch?v=jR3KpfDd_MY) · Built with claude, codex, nemotron, photon
+**How it used Spacetime:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/sabharwalainesh/SafeNight) · [Demo video](https://www.youtube.com/watch?v=jR3KpfDd_MY) · Built with spacetimedb, claude, codex, nemotron
 
 ### [scalpal.](https://devpost.com/software/scalpal)
 
@@ -119,7 +143,9 @@ An autonomous agentic system that helps you end your night safely.
 
 Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from the first conversation with the patient to the end of the operation.
 
-[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with .tech, blender, c#, cloudflare
+**How it used Spacetime:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with spacetimedb, .tech, blender, c#
 
 ### [skyFall](https://devpost.com/software/skyfall-uca4i9)
 
@@ -127,7 +153,9 @@ Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from 
 
 A satellite-tracking dashboard estimates where debris from reentry might land.
 
-[Code](https://github.com/bobbybendola/skyFall) · [Demo video](https://www.youtube.com/watch?v=m9VnLBoztKQ) · Built with claude, css, cursor, grok
+**How it used Spacetime:** SKYFALL uses SpacetimeDB to store satellite decay outcomes and score its forecasts.
+
+[Code](https://github.com/bobbybendola/skyFall) · [Demo video](https://www.youtube.com/watch?v=m9VnLBoztKQ) · Built with spacetimedb, claude, css, cursor
 
 ### [Tessera](https://devpost.com/software/bean-4970h3)
 
@@ -135,7 +163,9 @@ A satellite-tracking dashboard estimates where debris from reentry might land.
 
 Drop a photo of a place. Tessera finds where the photographer stood, the heading and the lens, then your group plans its own version in a live 3D set, even by text.
 
-[Code](https://github.com/benz16107/tessera) · [Demo video](https://www.youtube.com/watch?v=CyivsP2lXpc) · Built with astro, brev, caddy, colmap
+**How it used Spacetime:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/benz16107/tessera) · [Demo video](https://www.youtube.com/watch?v=CyivsP2lXpc) · Built with spacetimedb, astro, brev, caddy
 
 ### [Traycer: Food-waste Intelligence](https://devpost.com/software/traycer-ai-food-waste-intelligence)
 
@@ -143,7 +173,9 @@ Drop a photo of a place. Tessera finds where the photographer stood, the heading
 
 A food-waste dashboard shows what gets thrown away so kitchens can decide what to change.
 
-[Code](https://github.com/anton-3/traycer) · [Demo video](https://www.youtube.com/watch?v=ueDxreMXbMQ) · Built with elevenlabs, fastapi, gemini, google-gemini-api
+**How it used Spacetime:** A Node.js worker uses OpenAI to drive individual simulated students’ food choices, eating behavior, and conversations, while shared TypeScript rules and SpacetimeDB manage the world and waste accounting.
+
+[Code](https://github.com/anton-3/traycer) · [Demo video](https://www.youtube.com/watch?v=ueDxreMXbMQ) · Built with spacetimedb, elevenlabs, fastapi, gemini
 
 ### [Vouch](https://devpost.com/software/vouch-7i3bft)
 
@@ -151,7 +183,9 @@ A food-waste dashboard shows what gets thrown away so kitchens can decide what t
 
 A commerce tool lets merchants review AI-organized evidence when investigating refunds.
 
-[Code](https://github.com/shubhaych/vouch) · [Demo video](https://www.youtube.com/watch?v=pf4iXxd5D_o) · Built with creao, duckdb, factory-droid-sdk, faster-whisper
+**How it used Spacetime:** SpacetimeDB stores finance events; deterministic code reconciles decision, processor, bank, warehouse, and ledger records.
+
+[Code](https://github.com/shubhaych/vouch) · [Demo video](https://www.youtube.com/watch?v=pf4iXxd5D_o) · Built with spacetimedb, creao, duckdb, factory-droid-sdk
 
 ## Track names and requirements
 

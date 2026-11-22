@@ -23,6 +23,8 @@
 
 TravelAR is an iOS travel application built using Apple's ARKit.
 
+**How it used SAP Concur:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Averylamp/TravelAR) · [Demo video](https://www.youtube.com/watch?v=ACneUIVByaY) · Built with amadeus, arkit, azure, bing-search-api
 
 ## 2016 winners
@@ -33,7 +35,9 @@ TravelAR is an iOS travel application built using Apple's ARKit.
 
 Home-cooked meals for anyone. Share a dinner and an experience.
 
-Built with api.ai, azure, capital-one, javascript
+**How it used SAP Concur:** Sponsor use not stated on Devpost
+
+No public code linked · Built with api.ai, azure, capital-one, javascript
 
 ## Track names and requirements
 

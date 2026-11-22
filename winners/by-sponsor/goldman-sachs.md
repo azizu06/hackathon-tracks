@@ -23,7 +23,9 @@
 
 Loan Wick helps loan officers flag duplicate collateral and group exposure, with source-backed findings, human review, and real-time audit trails.
 
-[Demo video](https://www.youtube.com/watch?v=B7mWEOy4dME) · Built with css, nemotron, node.js, python
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=B7mWEOy4dME) · Built with css, nemotron, node.js, python
 
 ### [RiskRadar](https://devpost.com/software/risk-radar-jlbiqk)
 
@@ -31,7 +33,9 @@ Loan Wick helps loan officers flag duplicate collateral and group exposure, with
 
 Connect the dots. Detect the risks.
 
-[Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c) · Built with python, react, tailwind, vite
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c) · Built with python, react, tailwind, vite
 
 ### [UndeRight](https://devpost.com/software/ore-pli82r)
 
@@ -39,7 +43,9 @@ Connect the dots. Detect the risks.
 
 The pipeline your team trusts to automate your commercial loans.
 
-[Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
 
 ## 2025 winners
 
@@ -49,6 +55,8 @@ The pipeline your team trusts to automate your commercial loans.
 
 Vendor onboarding at light speed using AWS.
 
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Rabib001/HackUTD_2025) · [Demo video](https://www.youtube.com/watch?v=L-hYahgOGGk) · Built with amazon-rds-relational-database-service, amazon-web-services, api-gateway, gemini
 
 ### [Stamped](https://devpost.com/software/stamped-6hnl4w)
@@ -57,13 +65,17 @@ Vendor onboarding at light speed using AWS.
 
 Stamped is a secure and intelligent onboarding platform designed for financial institutions. It streamlines client and vendor onboarding with AI-powered features, and comprehensive compliance tools.
 
-[Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
 
 ### [TrustIssues.AI](https://devpost.com/software/coffee-overflow)
 
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-coffee-overflow) · **Goldman Sachs**
 
 TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract data, verify identity, and score risk, blending AI speed with human approval for secure, fast compliance.
+
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ybavgito/TrustIssues.AI-HackUTD-2025-Winner-Goldman-Sachs-Track) · [Demo video](https://www.youtube.com/watch?v=6aPw8P9URv0) · Built with nemotron, openaisdk, python, streamlit
 
@@ -75,6 +87,8 @@ TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract
 
 AI-Banking is the ultimate financial companion for the unbanked, underbanked, and everyone else! Welcome to the future of banking, reimagined for everyone.
 
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/aprajita27/AllBank) · [Demo video](https://www.youtube.com/watch?v=PpnAEd4Dwek) · Built with firebase, gemini, react-native
 
 ### [Lumo](https://devpost.com/software/pay-your-daddy)
@@ -83,6 +97,8 @@ AI-Banking is the ultimate financial companion for the unbanked, underbanked, an
 
 Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-time cost-sharing for everyone—fast, fair, and hassle-free. 💸⚡.
 
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/danielodicho/lumo) · [Demo video](https://www.youtube.com/watch?v=SXQl53rMZ6Q) · Built with angular.js, axios, javascript, mongoose
 
 ### [TalkTuahBank](https://devpost.com/software/talktuahbank)
@@ -90,6 +106,8 @@ Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-t
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-talktuahbank) · **Goldman Sachs**
 
 Where YOU can talk to your own personalized bank.
+
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/aurelisajuan/TalkTuahBank) · [Demo video](https://www.youtube.com/watch?v=YsH_z1azXSA) · Built with latex, nextjs, openai, pinata
 
@@ -101,13 +119,17 @@ Where YOU can talk to your own personalized bank.
 
 NewsMap utilizes global market visualization software to provide a real-time visualization of news reports mentioning companies across the world in over 65 languages.
 
-Built with carto, mapbox
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
+
+No public code linked · Built with carto, mapbox
 
 ### [SmartPaths](https://devpost.com/software/smartpaths-5d6mzq)
 
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-smartpaths-5d6mzq) · **Sponsor Prize - Goldman Sachs - Best Data Visualization**
 
 Determine the best path from two inside-building points scanning automatically the maps and based on crowd movements.
+
+**How it used Goldman Sachs:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jjgarau/HackMIT2017) · Built with flask, python, scikit
 

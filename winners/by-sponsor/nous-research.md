@@ -23,6 +23,8 @@
 
 Most people do not know how their scattered data points connect.
 
+**How it used Nous Research:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with fastapi, hermes, hexapi, instaloader
 
 ### [CiteSite](https://devpost.com/software/citesite-i80hlo)
@@ -41,6 +43,8 @@ agentic peer review citation verification for research papers.
 
 Your guided path through regulatory complexity.
 
+**How it used Nous Research:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with beautiful-soup, docker, fastapi, framer-motion
 
 ### [neuro-trading.](https://devpost.com/software/neuro-trader)
@@ -49,6 +53,8 @@ Your guided path through regulatory complexity.
 
 fMRI-enhanced swarm simulations for prediction markets.
 
+**How it used Nous Research:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/cicinel/YNeurotrading) · [Demo video](https://www.youtube.com/watch?v=WmDdycsx_a0) · Built with camel-ai-oasis, d3.js, docker, fastapi
 
 ### [Second Self](https://devpost.com/software/second-self-giwmxh)
@@ -56,6 +62,8 @@ fMRI-enhanced swarm simulations for prediction markets.
 [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md#project-second-self-giwmxh) · **Best Use of Hermes -- Nous Research**
 
 Second Self is a digital twin that runs as a parallel user session on your very own Mac.
+
+**How it used Nous Research:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/23jmo/second-self) · [Demo video](https://www.youtube.com/watch?v=ZpCst-PS7t0) · Built with agentation, appkit, auth0, beautifulsoup4
 

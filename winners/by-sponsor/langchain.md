@@ -23,6 +23,8 @@
 
 Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a live map of where a bleed is likely.
 
+**How it used LangChain:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/at350/hackprinceton-fall-2026) · [Demo video](https://www.youtube.com/watch?v=IY0Rr7l58Eg) · Built with langchain, anthropic, arduino, claude
 
 ## 2025 winners
@@ -32,6 +34,8 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-plot-3pi8c4) · **Best Use of LangChain**
 
 Plot delivers comprehensive insights on any location. Whether you're scouting investments or shaping skylines, Plot helps you shape your plot’s plot—making smarter decisions before you break ground.
+
+**How it used LangChain:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/toni-akintola/plot) · [Demo video](https://www.youtube.com/watch?v=jkV3BTOF3GQ) · Built with langchain, mapbox, mistralai, next.js
 

@@ -23,6 +23,8 @@
 
 Pixie is one inspectable risk engine presented as two products: a commercial underwriting desk and a consumer insurance app.
 
+**How it used Intact:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/benz16107/pixie-htn2026) · [Demo video](https://www.youtube.com/watch?v=O47V32zbv20) · Built with elastic, expo.io, fastapi, federato
 
 ## Track names and requirements

@@ -23,6 +23,8 @@
 
 Agentic security testing for vibe-coded apps — before you ship.
 
+**How it used 1Password:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jkuo630/Trojan) · [Demo video](https://www.youtube.com/watch?v=4-LN6P5TIFk) · Built with javascript, langgraph, next.js, oauth
 
 ## 2025 winners
@@ -32,6 +34,8 @@ Agentic security testing for vibe-coded apps — before you ship.
 [nwHacks 2025](../by-hackathon/nwhacks-2025.md#project-b-env) · **1Password Sponsor Prize**
 
 The team are a decentralized API key sharing intermediary service.
+
+**How it used 1Password:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/bradeu/b.env) · Built with chakraui, ethereum, fiber, go
 

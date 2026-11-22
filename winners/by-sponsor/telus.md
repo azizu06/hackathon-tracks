@@ -23,6 +23,8 @@
 
 MelaNone is a limb-scanning system designed to help detect melanoma early on.
 
+**How it used TELUS:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jasonkwok475/MelaNone) · [Demo video](https://www.youtube.com/watch?v=z7EJEKKdNtc) · Built with c, cv, flask, python
 
 ## 2025 winners
@@ -32,6 +34,8 @@ MelaNone is a limb-scanning system designed to help detect melanoma early on.
 [nwHacks 2025](../by-hackathon/nwhacks-2025.md#project-crisislens) · **TELUS Sponsor Prize**
 
 A dynamic platform for mapping real-time crisis events through peer-shared videos, empowering communities to act and stay informed.
+
+**How it used TELUS:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/bpbrianpark/CrisisLens) · Built with algorithms, css, firebase, github
 

@@ -23,7 +23,7 @@
 
 Cospray transforms the real world into a shared canvas. Paint AR graffiti on any surface, and anyone walking by can see your artwork.
 
-**How it used Expo:** expo widget kit extension — used for both the Android and iOS Widgets.
+**How it used Expo:** Fresco uses Expo Widget Kit to build home-screen widgets for Android and iOS.
 
 [Code](https://github.com/McMuf/htn26) · [Demo video](https://vimeo.com/1228517458) · Built with expo.io, arcore, arkit, augmented-reality
 

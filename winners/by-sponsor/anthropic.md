@@ -33,6 +33,8 @@ A home assistant supports older adults with daily routines and keeps their famil
 
 Smart glasses coach workers with intellectual and developmental disabilities through job tasks using their supervisor's voice.
 
+**How it used Anthropic:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/shraddha11-408/CalHacks-13.0) · [Demo video](https://www.youtube.com/watch?v=f2uZQ9IpAVU) · Built with anthropic, claude, 3d-printing, accessibility
 
 ### [Project Lend](https://devpost.com/software/project-lend)
@@ -41,7 +43,7 @@ Smart glasses coach workers with intellectual and developmental disabilities thr
 
 A prototype food-bank workflow pairs AI and robotics to collect and distribute food to local shelters.
 
-**How it used Anthropic:** The team basically replicated the entire front and back office of a traditional food rescue operation using the Claude Agent SDK as the brain.
+**How it used Anthropic:** Project Lend uses the Claude Agent SDK to coordinate work for its food rescue operation.
 
 [Code](https://github.com/PranavViswanath/project-lend) · [Demo video](https://www.youtube.com/watch?v=hBcCNg_U3t4) · Built with claude-agent-sdk, claude-code, claude-vision-api-(haiku-3.5), computer-vision
 
@@ -53,7 +55,7 @@ A civic reporting tool flags street hazards in images and pairs them with city r
 
 **How it used Anthropic:** Claude (Haiku) runs the two-stage vision pipeline.
 
-[Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
+No public code linked · [Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
 
 ### [Standard Response](https://devpost.com/software/standard-response)
 
@@ -71,7 +73,7 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 
 A group chat assistant coordinates dinner plans and other errands.
 
-**How it used Anthropic:** The Agent runs an HTTP server powered by the Claude Agent SDK with 17 custom MCP tools.
+**How it used Anthropic:** Sunday uses the Claude Agent SDK to run an agent server that exposes 17 MCP tools.
 
 [Code](https://github.com/priyanshbhatter24/sunday) · Built with anthropic-api, claude-agent-sdk, browserbase, browserbase-stagehand
 
@@ -81,6 +83,8 @@ A group chat assistant coordinates dinner plans and other errands.
 
 A mapping tool turns real spaces into tactile and audio guides for blind and low-vision people.
 
+**How it used Anthropic:** Claude-Powered Spatial Understanding help interpret free-form questions.
+
 [Code](https://github.com/holokcheung/touchspace) · [Demo video](https://www.youtube.com/watch?v=zCSkCPO-3cc) · Built with claude, arkit, avfoundation, fastapi
 
 ### [Tribune](https://devpost.com/software/tribune)
@@ -89,7 +93,7 @@ A mapping tool turns real spaces into tactile and audio guides for blind and low
 
 A civic discussion tool connects proposed policy changes to the public input behind them.
 
-**How it used Anthropic:** Integrated 5 AI providers (Gemini, OpenAI, Anthropic Claude, JINA, Elasticsearch) into a coherent pipeline.
+**How it used Anthropic:** The platform also includes a Research Desk : an AI agent powered by Claude that can answer natural language questions about the entire policy corpus.
 
 [Code](https://github.com/arihantjain4/Tribune) · [Demo video](https://www.youtube.com/watch?v=CNRvU4jK34c) · Built with anthropic-claude, elasticsearch, fastapi, framer-motion
 
@@ -103,7 +107,7 @@ An eldercare assistant identifies changes in daily behavior and surfaces them to
 
 **How it used Anthropic:** It listens, learns, and detects using Claude to understand speech and emotion, Letta to learn daily behavior patterns, and Chroma to detect changes over time.
 
-Built with html5, java, javascript, python
+No public code linked · Built with html5, java, javascript, python
 
 ## Track names and requirements
 

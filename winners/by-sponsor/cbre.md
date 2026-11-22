@@ -23,6 +23,8 @@
 
 Data centers and commercial buildings run on siloed systems, leaving gaps threats slip through. BluePrint connects that data, detects risks and failures early, and stops them at the first domino.
 
+**How it used CBRE:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/adhigithub/BluePrint-HackUTD_2026) · [Demo video](https://www.youtube.com/watch?v=Bvyfo08BG3w) · Built with eas, expo.io, postgresql, react-native
 
 ### [Canary](https://devpost.com/software/crbe-jr)
@@ -30,6 +32,8 @@ Data centers and commercial buildings run on siloed systems, leaving gaps threat
 [HackUTD 2026](../by-hackathon/hackutd-2026.md#project-crbe-jr) · **CBRE Track**
 
 Canary catches small building warnings before they become expensive outages: AI agents price the risk and draft the fix for one-click approval.
+
+**How it used CBRE:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/anothergrind/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=va6dAmJMIG4) · Built with ai-agents, brev, docker, lucide-react
 
@@ -39,7 +43,9 @@ Canary catches small building warnings before they become expensive outages: AI 
 
 Turn real-estate data into explainable infrastructure risk insights and prioritized investigations.
 
-[Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
+**How it used CBRE:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
 ## 2025 winners
 
@@ -49,6 +55,8 @@ Turn real-estate data into explainable infrastructure risk insights and prioriti
 
 Cura provides forecasting and analytical insights, commercial real estate properties, pros and cons analysis, and market sentiment.
 
+**How it used CBRE:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/armaanamatya/HackUTD2025) · [Demo video](https://www.youtube.com/watch?v=lFJVLqDG710) · Built with ai, crewai, fastapi, mcp
 
 ### [Pact](https://devpost.com/software/autotract)
@@ -57,7 +65,9 @@ Cura provides forecasting and analytical insights, commercial real estate proper
 
 Expediting the contracts and document signings process between vendors and clients by bringing clarity, transparency, and accountability.
 
-[Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
+**How it used CBRE:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
 
 ### [TrustEstate AI](https://devpost.com/software/cbre-project)
 
@@ -65,7 +75,9 @@ Expediting the contracts and document signings process between vendors and clien
 
 The app is a full-featured real estate helper that helps you find and trust properties.
 
-[Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
+**How it used CBRE:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
 
 ## 2024 winners
 
@@ -75,6 +87,8 @@ The app is a full-featured real estate helper that helps you find and trust prop
 
 A smart water management tool that helps households and property managers optimize water usage, save on utilities, and promote conservation through personalized insights and community-driven data.
 
+**How it used CBRE:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Fernando4242/HackUTD24-EcoFastTrack) · [Demo video](https://www.youtube.com/watch?v=StRry54qZMs) · Built with 3d-printer, arduino, c++, cad
 
 ### [EcoVerse](https://devpost.com/software/ecoverse-5dczmp)
@@ -83,6 +97,8 @@ A smart water management tool that helps households and property managers optimi
 
 Efficiency that Saves, Sustainability that Lasts.
 
+**How it used CBRE:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/FireboltLegend/HackUTD-2024) · [Demo video](https://www.youtube.com/watch?v=V73-WMFlnqU) · Built with blender, c#, haptics, hardware
 
 ### [Greenify](https://devpost.com/software/greenwise-y6o4bu)
@@ -90,6 +106,8 @@ Efficiency that Saves, Sustainability that Lasts.
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-greenwise-y6o4bu) · **CBRE**
 
 A Sustainability Platform for a Greener Future.
+
+**How it used CBRE:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/SaadMakda/Greenify-Test) · [Demo video](https://www.youtube.com/watch?v=W2zu9af2O0o) · Built with chart.js, d3.js, flask, framer-motion
 

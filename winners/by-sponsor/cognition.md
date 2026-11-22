@@ -23,13 +23,17 @@
 
 ACG helps AI coding agents work in parallel without stepping on each other.
 
-[Demo video](https://www.youtube.com/watch?v=eoTO5TZJbNQ) · Built with html, python, typescript
+**How it used Cognition:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=eoTO5TZJbNQ) · Built with html, python, typescript
 
 ### [AlphaResearch](https://devpost.com/software/alpharesearch-9fwk4m)
 
 [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-alpharesearch-9fwk4m) · **Best Use of Cognition**
 
 Recursive Sandboxed Agents for Autonomous Research at Scale.
+
+**How it used Cognition:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/JasonLai150/AlphaResearch) · [Demo video](https://www.youtube.com/watch?v=LcH4rdKbF6Y) · Built with anthropic, browserbase, fastapi, gcp
 
@@ -39,13 +43,17 @@ Recursive Sandboxed Agents for Autonomous Research at Scale.
 
 Autopsy records every action your AI coding agent takes, autopsies the failures, builds a graph of why they happened, and injects into the agent's next attempt so it doesn't make mistake again.
 
-[Code](https://github.com/balebbae/Autopsy) · [Demo video](https://www.youtube.com/watch?v=2bgq8hvJ32s) · Built with claude, cloudflare, codex, devin
+**How it used Cognition:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/balebbae/Autopsy) · [Demo video](https://www.youtube.com/watch?v=2bgq8hvJ32s) · Built with devin, claude, cloudflare, codex
 
 ### [BrowserDelta](https://devpost.com/software/browserdelta)
 
 [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-browserdelta) · **Best Use of Cognition**
 
 BrowserDelta cuts browser-agent context by &#126;78% while matching the vision-full-state baseline on 12/12 next-action predictions! Compression layer for browser use.
+
+**How it used Cognition:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jaykbpark/browser-use-compaction-co) · [Demo video](https://www.youtube.com/watch?v=rEbSwp6_rc8) · Built with arize, browserbase, browsergym, fastapi
 
@@ -55,7 +63,9 @@ BrowserDelta cuts browser-agent context by &#126;78% while matching the vision-f
 
 AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent intelligence, powered by an open harness and an expansive benchmark.
 
-[Code](https://github.com/KevinWu098/codebreaker) · [Demo video](https://www.youtube.com/watch?v=CIyWH6rkN9c) · Built with cloudflare, devin, github, modal
+**How it used Cognition:** Codebreaker integrates Devin to drive the full loop — once a candidate vuln is surfaced, Devin reproduces it, validates the exploit against the vulnerable commit, and generates a fix, accelerating security responses.
+
+[Code](https://github.com/KevinWu098/codebreaker) · [Demo video](https://www.youtube.com/watch?v=CIyWH6rkN9c) · Built with devin, cloudflare, github, modal
 
 ### [Gods Plan](https://devpost.com/software/shift-t15x3m)
 
@@ -73,6 +83,8 @@ A 3D god-mode sandbox for real cities, where physics and thousands of AI agents 
 
 Ai Agent that designs computer chips in VSCode.
 
+**How it used Cognition:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/rtsmc/lahacks2026) · [Demo video](https://www.youtube.com/watch?v=R-_vN2aiRW4) · Built with python, typescript, verilator
 
 ### [Lore IDE - The First IDE for Agentic Code](https://devpost.com/software/lore-ide-the-first-ide-for-agentic-code)
@@ -81,7 +93,9 @@ Ai Agent that designs computer chips in VSCode.
 
 GitHub stores your code. Lore stores your reasons.
 
-[Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with anthropic, claude, deepseek, devin
+**How it used Cognition:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
 
 ### [MultiEval](https://devpost.com/software/multival)
 
@@ -89,7 +103,9 @@ GitHub stores your code. Lore stores your reasons.
 
 An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces.
 
-[Code](https://github.com/AlfredSjoqvist/multieval) · [Demo video](https://www.youtube.com/watch?v=__OU7Ftl4EM) · Built with agentverse, anthropic, asi:one, claude
+**How it used Cognition:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/AlfredSjoqvist/multieval) · [Demo video](https://www.youtube.com/watch?v=__OU7Ftl4EM) · Built with devin, agentverse, anthropic, asi:one
 
 ### [Refactorika](https://devpost.com/software/refactorika)
 
@@ -97,7 +113,9 @@ An evaluation dashboard compares multi-agent workflows and lets developers inspe
 
 Agentic harness for efficient codebase refactoring.
 
-[Code](https://github.com/Tanush-A/Refactorika) · [Demo video](https://www.youtube.com/watch?v=uu6amcmRtzg) · Built with claude, devin, python, redis
+**How it used Cognition:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/Tanush-A/Refactorika) · [Demo video](https://www.youtube.com/watch?v=uu6amcmRtzg) · Built with devin, claude, python, redis
 
 ## Track names and requirements
 

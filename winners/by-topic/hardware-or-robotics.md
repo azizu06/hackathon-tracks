@@ -25,7 +25,7 @@ Matched from keywords in the project description and its tech tags.
 
 Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored.
 
-[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with arduino, arkit, lidar, meta-quest
+[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with hugging-face, nvidia-jetson, tensorrt, arduino
 
 ### [Lucid](https://devpost.com/software/lucid-k078qt)
 
@@ -57,7 +57,7 @@ Halo is a smart bike helmet that watches the road behind you and warns you about
 
 A building safety prototype combines live sensors, evacuation planning, and operator approval in one dashboard.
 
-[Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, asi-one, fetch.ai
+No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, asi-one, fetch.ai
 
 ### [LifeLine](https://devpost.com/software/lifeline-nf86zy)
 
@@ -89,7 +89,7 @@ QNX-powered, computer-vision-driven viral arcade system. Compete in instant 1v1 
 
 A spatial awareness tool tracks objects and remembers their locations when they move out of view.
 
-[Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with qwen-3d, cuda, jetson-nano, arduino
+[Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with cuda, jetson-nano, arduino, c++
 
 ### [PreVent](https://devpost.com/software/prevent-5ymas0)
 
@@ -137,7 +137,7 @@ Agentified personal in-home care for the elderly. Multimodal S2S agent system ha
 
 The wireless camera bear that watches, remembers, and answers when you ask.
 
-[Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
+No public code linked · [Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
 
 ### [A hand for my aunt](https://devpost.com/software/a-hand-for-my-aunt)
 
@@ -145,7 +145,7 @@ The wireless camera bear that watches, remembers, and answers when you ask.
 
 Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 
-[Code](https://github.com/aditya-baniya-ai/hack_princeton) · [Demo video](https://www.youtube.com/watch?v=nPXe5ZIrOiY) · Built with amazon-bedrock, amazon-nova-2-lite, amazon-nova-2-sonic, amazon-web-services
+[Code](https://github.com/aditya-baniya-ai/hack_princeton) · [Demo video](https://www.youtube.com/watch?v=nPXe5ZIrOiY) · Built with amazon-bedrock, amazon-web-services, amazon-nova-2-lite, amazon-nova-2-sonic
 
 ### [Aegis Edge](https://devpost.com/software/aegis-edge)
 
@@ -209,7 +209,7 @@ It's a wearable narrator AI that watches your day and announces it out loud in a
 
 AxisGen turns one robot-task prompt into simulation-ready Physical AI prompts by varying lighting, placement, embodiment, and safety constraints, creating scalable, robust datasets before deployment.
 
-[Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
+No public code linked · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
 
 ### [Bandit - The only band you need](https://devpost.com/software/bandit-the-only-band-you-need)
 
@@ -217,7 +217,7 @@ AxisGen turns one robot-task prompt into simulation-ready Physical AI prompts by
 
 A wearable tracks crowd conditions and helps attendees reconnect with their group at an event.
 
-[Code](https://github.com/viktorinkov/cal-hacks-13) · [Demo video](https://www.youtube.com/watch?v=K7r8HDhk8a4) · Built with bright-data, c++, capital-one-nessie, claude
+[Code](https://github.com/viktorinkov/cal-hacks-13) · [Demo video](https://www.youtube.com/watch?v=K7r8HDhk8a4) · Built with spacetimedb, bright-data, c++, capital-one-nessie
 
 ### [benchlog](https://devpost.com/software/benchlog)
 
@@ -265,7 +265,7 @@ Everyday glasses that watch high-risk hearts and speak up before an emergency.
 
 What you deserve in your drinking water.
 
-[Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
 
 ### [Combadge](https://devpost.com/software/combadge)
 
@@ -273,7 +273,7 @@ What you deserve in your drinking water.
 
 Inspired by Star Trek’s combadge and ship’s computer: a wearable AI communicator combining voice, vision, and actions. Just say, “Computer.”.
 
-[Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
 
 ### [cryptX by Moonshot](https://devpost.com/software/cryptx-zceo69)
 
@@ -305,7 +305,7 @@ You can take a picture and choose from a range of filters to apply to your image
 
 Your doorbell doesn’t just ring anymore… it sees, thinks, and talks in any language while judging who’s at your door.
 
-[Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa4) · Built with elevenlabs, fastapi, gemini, multimap
+No public code linked · [Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa4) · Built with elevenlabs, fastapi, gemini, multimap
 
 ### [Drigil](https://devpost.com/software/drigil)
 
@@ -321,7 +321,7 @@ Smart glasses coach workers with intellectual and developmental disabilities thr
 
 A drone control system combines local detection and GPS tracking using low-cost hardware.
 
-[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, esp-now, esp32, u-blox
+[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, bytetrack, c++, cuda
 
 ### [EyeMelody](https://devpost.com/software/dual-vision-glasses)
 
@@ -361,7 +361,7 @@ Because a fall shouldn’t go unnoticed — real-time monitoring for safer indep
 
 GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
 
-[Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
+No public code linked · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
 
 ### [GeonosisAI](https://devpost.com/software/robofactory)
 
@@ -369,7 +369,7 @@ GaitGuard is a wearable sensor system that measures a patient's gait against a p
 
 A robotics workflow coordinates collection of demonstrations and uses them to fine-tune policies for physical robots.
 
-[Code](https://github.com/jaximus808/GeonosisAI) · [Demo video](https://www.youtube.com/watch?v=HToL9LhmV2s) · Built with anthropic, claude, claude-code, cloudflare
+[Code](https://github.com/jaximus808/GeonosisAI) · [Demo video](https://www.youtube.com/watch?v=HToL9LhmV2s) · Built with spacetimedb, anthropic, claude, claude-code
 
 ### [Gestura](https://devpost.com/software/gestura-6m3xfv)
 
@@ -385,7 +385,7 @@ Gloves that turn your movements and voice into game controls, so instead of lear
 
 Version control for the physical world.
 
-[Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
+No public code linked · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
 
 ### [Goosetriever](https://devpost.com/software/robot-pickup-helper)
 
@@ -441,7 +441,7 @@ A wearable uses directional vibrations to tell deaf and hard-of-hearing users wh
 
 A hands-free recipe player lets families cook along to recordings made by their relatives.
 
-[Code](https://github.com/calebwang26/homecookd) · [Demo video](https://www.youtube.com/watch?v=8Ibl2QnL9dw) · Built with gemini, google-cloud, google-cloud-run, anthropic
+[Code](https://github.com/calebwang26/homecookd) · [Demo video](https://www.youtube.com/watch?v=8Ibl2QnL9dw) · Built with gemini, google-cloud, google-cloud-run, google-compute-engine
 
 ### [HUDson](https://devpost.com/software/hudson-uw5kn7)
 
@@ -537,7 +537,7 @@ Supervision layer for robot fleets. A VLM watches each robot against its task an
 
 A rehab-game station where four agents filter, fact-check, decide and act, and show their reasoning on a wearable screen.
 
-[Code](https://github.com/Dee-1862/Ocra) · [Demo video](https://www.youtube.com/watch?v=x5cxIVRhaSU) · Built with agentverse, asi:one, c, fetch.ai-uagents
+[Code](https://github.com/Dee-1862/Ocra) · [Demo video](https://www.youtube.com/watch?v=x5cxIVRhaSU) · Built with freewili-og, agentverse, asi:one, c
 
 ### [Otto](https://devpost.com/software/dean-your-personal-agent-at-your-command)
 
@@ -569,7 +569,7 @@ Pse is a novel wearable technology that tracks slouching and turns posture aware
 
 Introducing PrintDND , a robot that is able to autonomously clear the printers from their previous job and place the print down in a desired location.
 
-[Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
+No public code linked · [Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
 
 ### [Project Lend](https://devpost.com/software/project-lend)
 
@@ -609,7 +609,7 @@ Avatar Build: You're able to dress up your fish, immersing your avatar into the 
 
 RescueMEsh is a low-cost device for SOS communication when disasters disrupt cellular networks. Nemotron agents prioritize emergencies &amp; coordinate resources across nearby hubs to help dispatchers.
 
-[Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
+No public code linked · [Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
 
 ### [Rest Easy](https://devpost.com/software/rest-easy)
 
@@ -641,7 +641,7 @@ The project is a full pipeline that takes ordinary monocular phone videos of a p
 
 Privacy-first home safety system that detects hazards like leaks and power loss, alerts homeowners early, and securely shares incident details with approved contacts.
 
-[Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
+No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
 
 ### [Show Before](https://devpost.com/software/show-before)
 
@@ -649,7 +649,7 @@ Privacy-first home safety system that detects hazards like leaks and power loss,
 
 One iPhone walkthrough builds a complete listing. Renters speed-tour real homes in VR, say what they love or hate, and see if their own couch fits before they ever visit.
 
-[Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
+No public code linked · [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
 
 ### [Silent Voice](https://devpost.com/software/silent-voice-s1f74p)
 
@@ -729,7 +729,7 @@ A smart biofeedback pen and web app that guides users through quick exercises to
 
 A cozy bear that families can use to share stories with their loved ones.
 
-[Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
+No public code linked · [Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
 
 ### [Theracat](https://devpost.com/software/theracat)
 
@@ -745,7 +745,7 @@ A band and a plush cat that catch anxiety in how you move — and interrupt it b
 
 You can either describe a machine/robot you want to build, or you record a video of your workbench with all the hardware parts and machinery you have available to you.
 
-[Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
 
 ### [TORQ](https://devpost.com/software/torq)
 
@@ -795,7 +795,7 @@ Over 6000 people are still missing after Nepal's landslide. Rescue teams are far
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-[Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
 
 ### [Atlas](https://devpost.com/software/atlas-tlfpkz)
 
@@ -803,7 +803,7 @@ A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
 Unified memory across your entire AI stack, complete with codebase visualization, prompt libraries, and advanced context management.
 
-[Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
+No public code linked · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
 
 ### [Therms - Thermoregulation Wearables with AI-powered Insights](https://devpost.com/software/therms-thermoregulation-wearables-with-ai-powered-insights)
 
@@ -819,7 +819,7 @@ A non-invasive wearable using novel thermoregulation research to provide precise
 
 A user wearing Snap Spectacles can point to steer a robot and gesture to operate its gripper.
 
-[Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with snap, fastapi, websocket
+No public code linked · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with snap, fastapi, websocket
 
 ### [BallAR](https://devpost.com/software/ballar)
 
@@ -859,7 +859,7 @@ A robot uses what it sees to attempt everyday tasks without training separately 
 
 Cryptobot is a humanoid robot that is FULLY voice-controlled.
 
-[Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
 
 ### [ECGo](https://devpost.com/software/ecgo)
 
@@ -891,7 +891,7 @@ HeartTalk is your senior care companion, combining AI chat support with health m
 
 HeliosAI uses a solar cell connected to an Arduino with light sensors and servo motors.
 
-[Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
 
 ### [iPalo](https://devpost.com/software/ipalo)
 
@@ -987,7 +987,7 @@ A wearable wardrobe tool catalogs clothes the user already owns and suggests out
 
 A multimodal AI companion that fuses emotion sensing, language understanding, and real-time biofeedback to support children’s mental wellness.
 
-[Demo video](https://www.youtube.com/watch?v=3bj86ky1eAc) · Built with amazon-web-services, arduino, docker, fetchai
+No public code linked · [Demo video](https://www.youtube.com/watch?v=3bj86ky1eAc) · Built with amazon-web-services, arduino, docker, fetchai
 
 ### [TorqIt](https://devpost.com/software/torqit)
 
@@ -995,7 +995,7 @@ A multimodal AI companion that fuses emotion sensing, language understanding, an
 
 Building TorqIt was an intensive learning experience that spanned multiple domains:.
 
-Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
+No public code linked · Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
 
 ### [Vraille](https://devpost.com/software/vraille)
 
@@ -1035,7 +1035,7 @@ A robot that plays Word Hunt on its own—powered by a jury-rigged 3D printer, c
 
 In life-or-death moments, guessing isn’t an option. Deploy a robot swarm that maps hazards, learns from one another's mistakes, and guides everyone to a safe exit.
 
-[Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
+No public code linked · [Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
 
 ## 2024 winners
 
@@ -1093,7 +1093,7 @@ Clean Sweep — Smart city waste management using real-time data.
 
 FRED is a satellite-powered emergency response tool that allows users in remote areas to send GPS coordinates, images, and voice data to responders, ensuring help can be dispatched from anywhere.
 
-[Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
+No public code linked · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
 
 ### [Lightning McScream](https://devpost.com/software/car-hf3moa)
 
@@ -1101,7 +1101,7 @@ FRED is a satellite-powered emergency response tool that allows users in remote 
 
 a motorized car raced on an AR track, driven by screams.
 
-[Demo video](https://www.youtube.com/watch?v=E8YCZCZ9BIo) · Built with accelerometer, ar, arduino, c++
+No public code linked · [Demo video](https://www.youtube.com/watch?v=E8YCZCZ9BIo) · Built with accelerometer, ar, arduino, c++
 
 ### [Lucy](https://devpost.com/software/lucy-x0wd86)
 
@@ -1149,7 +1149,7 @@ Gesture-based authentication in augmented and virtual reality to access unique I
 
 A wearable headphone that dynamically adapts audio for individuals with autism, providing comfort while keeping users connected to their surroundings.
 
-[Demo video](https://www.youtube.com/watch?v=6jjXlH3dni0) · Built with librosa, numpy, opencv, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=6jjXlH3dni0) · Built with librosa, numpy, opencv, python
 
 ### [SOUR](https://devpost.com/software/sour)
 
@@ -1157,7 +1157,7 @@ A wearable headphone that dynamically adapts audio for individuals with autism, 
 
 It's a glasses addon that takes video and audio input to answer a blind person's questions about the surrounding area.
 
-[Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
+No public code linked · [Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
 
 ### [Talk Tuah](https://devpost.com/software/talk-tuah)
 
@@ -1181,7 +1181,7 @@ Tool Assisted Shopping; Accelerate your shopping to robot-like efficiency.
 
 Talk to your toys with Teddy.AI; the worlds first AI powered teddy bear that can tell children stories and tutor them through its fun journeys riddled with interactive academic puzzles.
 
-[Demo video](https://www.youtube.com/watch?v=PFFHGMIax6E) · Built with hyperbolic, gemini, generativeai, hume
+No public code linked · [Demo video](https://www.youtube.com/watch?v=PFFHGMIax6E) · Built with hyperbolic, gemini, generativeai, hume
 
 ### [The WiLi Watch](https://devpost.com/software/wili-watch)
 
@@ -1223,7 +1223,7 @@ A machine learning application that alerts users of unattended leaky or running 
 
 Fingerprint based Exam hall registration, authentication system with temperature sensing of the candidate, recording it on Thingspeak plus sending email alert to authorities when temperature is high.
 
-[Demo video](https://www.youtube.com/watch?v=Awg5byHF0B8) · Built with arduino, c, ifttt, keilmicrovision
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Awg5byHF0B8) · Built with arduino, c, ifttt, keilmicrovision
 
 ## 2019 winners
 
@@ -1249,7 +1249,7 @@ Efficient and impactful supply chain management platform to prevent food waste w
 
 The web app allows a user to verify their identity to unlock a box storing all their prescription pill bottles.
 
-[Demo video](https://www.youtube.com/watch?v=R4zeNen51FQ) · Built with ibm-watson, javascript, node-red, raspberry-pi
+No public code linked · [Demo video](https://www.youtube.com/watch?v=R4zeNen51FQ) · Built with ibm-watson, javascript, node-red, raspberry-pi
 
 ### [Water Crusader](https://devpost.com/software/water-crusader)
 
@@ -1275,7 +1275,7 @@ Objectively quantifying reactions to media using EEG data and signal processing.
 
 The pharmacy of the future: an automated medicine dispenser &amp; streamlined method for securely acquiring prescriptions.
 
-[Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
+No public code linked · [Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
 
 ### [Drink+Dryve](https://devpost.com/software/hackmit2018-1apx5i)
 
@@ -1283,7 +1283,7 @@ The pharmacy of the future: an automated medicine dispenser &amp; streamlined me
 
 It passively senses the alcohol levels in a vehicle using a gas sensor that can be embedded into a car’s wheel or seat.
 
-Built with android-studio, arduino
+No public code linked · Built with android-studio, arduino
 
 ### [Troomba](https://devpost.com/software/troomba)
 
@@ -1299,7 +1299,7 @@ Troomba is a friendly robot that carries your drinks.
 
 ViGCam spots active shooters and tracks them through buildings.
 
-[Code](https://github.com/xTEddie/HackMIT2018) · [Demo video](https://www.youtube.com/watch?v=ZCWxii9Kp-k) · Built with django, google-vision, mysql, picam
+[Code](https://github.com/xTEddie/HackMIT2018) · [Demo video](https://www.youtube.com/watch?v=ZCWxii9Kp-k) · Built with google-vision, django, mysql, picam
 
 ## 2017 winners
 
@@ -1325,7 +1325,7 @@ A roomba uses machine learning and a raspberry pi with a pi camera to search for
 
 Find your dorm culture fit Harry Potter Style.
 
-Built with android, arduino, c++, hardware
+No public code linked · Built with android, arduino, c++, hardware
 
 ### [Nova](https://devpost.com/software/nova-ytczl4)
 
@@ -1359,7 +1359,7 @@ Augmenting ordinary paper with new interactive experiences.
 
 Unlock the full potential of the electronics you love by controlling them wirelessly through easy hand gestures.
 
-Built with synaptics, javascript, love, python
+No public code linked · Built with synaptics, javascript, love, python
 
 ### [Drones For Humanity - Second-Order Autonomy](https://devpost.com/software/second-order-autonomy)
 
@@ -1367,7 +1367,7 @@ Built with synaptics, javascript, love, python
 
 A drone platform that not only knows how to fly itself, but also knows where to deliver aid after a natural disaster.
 
-Built with arduino, c++, raspberry-pi
+No public code linked · Built with arduino, c++, raspberry-pi
 
 ### [LeapLock](https://devpost.com/software/leaplock-piof9q)
 
@@ -1391,7 +1391,7 @@ A mobile app that pairs friends together for everyday activities such as eating 
 
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
-Built with firebase, arduino, c++, google-cardboard
+No public code linked · Built with firebase, google-cardboard, arduino, c++
 
 ## 2013 winners
 
@@ -1401,6 +1401,6 @@ Built with firebase, arduino, c++, google-cardboard
 
 The aim of the project to create automated windows, which open and close to maximize energy conservation.
 
-Built with twilio, android, arduino, electric-imp
+No public code linked · Built with twilio, android, arduino, electric-imp
 
 [Back to top](#hardware-or-robotics)

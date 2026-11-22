@@ -49,6 +49,7 @@ GotchuGaucho is a platform designed to connect party hosts with party-goers at U
 - **Code:** [Source 1](https://github.com/sanilkatula/GotchuGaucho)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_XnOOqrw9dc)
 - **All prizes at this hackathon (1):** MLH - Best Domain Name from GoDaddy Registry
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -65,7 +66,7 @@ GotchuGaucho is a platform designed to connect party hosts with party-goers at U
 
 ReadEasy: An AI-powered Google Docs add-on that transforms documents into accessible formats, ensuring readability for screen readers and users with visual impairments.
 
-[Code](https://github.com/byrencheema/ReadEasy) · [Demo video](https://www.youtube.com/watch?v=wyKA449dB8w) · Built with css, google-apps-script, html, javascript
+[Code](https://github.com/byrencheema/ReadEasy) · [Demo video](https://www.youtube.com/watch?v=wyKA449dB8w) · Built with google-apps-script, css, html, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -92,17 +93,17 @@ ReadEasy: An AI-powered Google Docs add-on that transforms documents into access
 
 Calculate carbon emissions from travel expense reports and verify thresholds using smart contracts.
 
-[Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
+No public code linked · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** css, flask, google-directions, javascript, python, react, starknet
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pJKejAEEwkU)
 - **All prizes at this hackathon (1):** MLH - Best Use of Starknet
-- **How it used Starknet:** The project lists starknet among its Built With tags.
+- **How it used Starknet:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -35,7 +35,9 @@ All your apps, at your command. Just say the word and Otto already has it finish
 
 You create a smart application form and share it anywhere — LinkedIn, Handshake, your own site.
 
-[Demo video](https://www.youtube.com/watch?v=bajCGzs3QBk) · Built with brightdata, chromadb, claude, letta
+**How it used Composio:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=bajCGzs3QBk) · Built with brightdata, chromadb, claude, letta
 
 ## Track names and requirements
 

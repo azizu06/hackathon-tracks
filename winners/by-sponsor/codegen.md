@@ -23,6 +23,8 @@
 
 CodeInsight is an interactive tool that analyzes a codebase to generate a dynamic visualization of function dependencies.
 
+**How it used Codegen:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/evanng07/CodeInsight) · [Demo video](https://www.youtube.com/watch?v=AWrk2P0Nsgg) · Built with flask, groq, html, javascript
 
 ### [Conductor AI](https://devpost.com/software/conductor-ai)
@@ -31,7 +33,7 @@ CodeInsight is an interactive tool that analyzes a codebase to generate a dynami
 
 Agentic routing at scale for 66x cheaper and 4x faster — Powering the Agentic Future.
 
-**How it used Codegen:** The team've made it very easy to run, test, and evaluate on SWE-Bench using Codegen's SDK, and included the own Codegen Agent that works on SWE-Bench.
+**How it used Codegen:** Conductor uses the Codegen SDK to run and evaluate a coding agent on SWE-bench.
 
 [Code](https://github.com/codegen-sh/codegen) · [Demo video](https://www.youtube.com/watch?v=0vY9tj6UDJE) · Built with agents, ai-agents, contrastive-learning, knn
 
@@ -40,6 +42,8 @@ Agentic routing at scale for 66x cheaper and 4x faster — Powering the Agentic 
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-swarm-ai-s6lhd0) · **Best Developer Tool**
 
 It’s incredibly difficult to just pick a few, but here are the major takeaways.
+
+**How it used Codegen:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/phombal/swarm-backend-new) · [Demo video](https://www.youtube.com/watch?v=IMKAHnOzx9E) · Built with fastapi, javascript, next.js, openai
 
@@ -51,6 +55,8 @@ It’s incredibly difficult to just pick a few, but here are the major takeaways
 
 Tired of character limits on ChatGPT? Look no further than LLM Pro Max.
 
+**How it used Codegen:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/gigabite-pro/LLM-pro-max) · [Demo video](https://www.youtube.com/watch?v=Bm1PYdzCPac) · Built with auth0, chromadb, cohere, convex
 
 ### [ReCall: Memories done for you](https://devpost.com/software/recall-memories-done-for-you)
@@ -58,6 +64,8 @@ Tired of character limits on ChatGPT? Look no further than LLM Pro Max.
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-recall-memories-done-for-you) · **Build an Iron Man suit for ChatGPT**
 
 Ever lost your keys? Forgot if you turned off the oven.
+
+**How it used Codegen:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/darryltanzil/reCall) · [Demo video](https://www.youtube.com/watch?v=WPjF2uRGGKA) · Built with express.js, firebase, javascript, node.js
 

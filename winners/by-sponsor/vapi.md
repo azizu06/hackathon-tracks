@@ -33,6 +33,8 @@ AI-powered discharge coordination connecting hospitals, shelters, and social wor
 
 A wildfire operations dashboard brings live video and voice controls into the incident workflow.
 
+**How it used Vapi:** Orion uses Vapi to answer hands-free questions about wildfire incidents and weather.
+
 [Code](https://github.com/SupratikPanuganti/CalHacks) · [Demo video](https://www.youtube.com/watch?v=MX_pJRwUJjU) · Built with vapi, amazon-web-services, clsx, composio
 
 ### [Rep](https://devpost.com/software/rep-ja9oqw)
@@ -41,15 +43,17 @@ A wildfire operations dashboard brings live video and voice controls into the in
 
 Practice sales calls with AI prospects. Get real-time coaching and detailed performance insights.
 
-**How it used Vapi:** The team integrated Vapi to handle the entire voice pipeline.
+**How it used Vapi:** The team uses Vapi to handle the full audio pipeline for live voice conversations.
 
-[Demo video](https://www.youtube.com/watch?v=YVRF7clpMIY) · Built with vapi, chromadb, claude, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMIY) · Built with vapi, chromadb, claude, gemini
 
 ### [Stacy](https://devpost.com/software/stacy-g7zptj)
 
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-stacy-g7zptj) · **Best Voice AI Application**
 
 Stacy is a voice safety companion. Stacy logs incidents, your live location, alerts your loved ones, and dispatches to the police.
+
+**How it used Vapi:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/apollo-ullah/HackTheNorth2025) · [Demo video](https://www.youtube.com/watch?v=nHx5KazGawQ) · Built with vapi, openai, swift, twilio
 
@@ -59,6 +63,8 @@ Stacy is a voice safety companion. Stacy logs incidents, your live location, ale
 
 AI Agents for Simulated Market Research.
 
+**How it used Vapi:** Natural Dialogue : Powered by Vapi, have actual phone-like conversations with personas.
+
 [Code](https://github.com/krish1905/tunnel) · [Demo video](https://www.youtube.com/watch?v=d6M5oSDxqxw) · Built with vapi, auth0, cloudflare, cohere
 
 ### [Vraille](https://devpost.com/software/vraille)
@@ -66,6 +72,8 @@ AI Agents for Simulated Market Research.
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-vraille) · **Best Voice AI Application**
 
 Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gemini-Powered Glasses &amp; Dynamic Braille.
+
+**How it used Vapi:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/KaivalSShah/vraille-htn2025) · [Demo video](https://www.youtube.com/watch?v=4gdPROUsaRw) · Built with vapi, arduino, c++, cohere
 
@@ -87,13 +95,17 @@ AngelShot simulates a realistic phone call a variety of user-customizable AI-bas
 
 Companion is a voice-powered web AI agent that can autonomously execute web tasks based on user requests, made for seniors/people with disabilities who are unfamiliar with technology.
 
-[Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
+**How it used Vapi:** The team utilized components for input fields, buttons, and real-time feedback to enhance usability as well as integrated VAPI, a voice recognition API, to enable voice commands, making it easier for users with accessibility needs.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
 
 ### [Echocare](https://devpost.com/software/echocare-i6csrv)
 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-echocare-i6csrv) · **Show us your Voice AI**
 
 Echocare is an intuitive platform designed to assist users in locating and connecting with nearby care services, such as medical centers, pharmacies, or home care providers.
+
+**How it used Vapi:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/rishitx/echocare) · [Demo video](https://www.youtube.com/watch?v=CMhPyazI5N4) · Built with vapi-ai, aceternity-ui, ant-design, axios
 
@@ -102,6 +114,8 @@ Echocare is an intuitive platform designed to assist users in locating and conne
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-langualine) · **Show us your Voice AI**
 
 Are you anxious about speaking a foreign language or don't know where to start? Practice your conversational language skills and get real-time feedback with LanguaLine.
+
+**How it used Vapi:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/SrimanCode/CalHacks-11.0) · [Demo video](https://www.youtube.com/watch?v=sJRIEn7pzM4) · Built with vapi, deepgram, express.js, firebase
 
@@ -121,6 +135,8 @@ The system includes a form where clients can enter their name, phone number, and
 
 Talk to the characters in your favourite story.
 
+**How it used Vapi:** Custom assistants powered by Vapi, Groq, Deepgram, and 11Labs to simulate character interactions.
+
 [Code](https://github.com/pranavbedi/LiveStory) · [Demo video](https://www.youtube.com/watch?v=E7Z3YmKI0LI) · Built with vapi, 11labs, deepgram, groq
 
 ### [TeachXR](https://devpost.com/software/teachxr)
@@ -129,7 +145,7 @@ Talk to the characters in your favourite story.
 
 World's First AI Study Assistant in Extended Reality.
 
-**How it used Vapi:** There are many excellent pre-built solutions available, such as Vapi , which has been invaluable in helping the team implement a voice interface.
+**How it used Vapi:** There are many excellent pre-built solutions available, such as Vapi, which has been invaluable in helping the team implement a voice interface.
 
 [Code](https://github.com/VietRocHack/TeachXR-backend-dataflow) · [Demo video](https://www.youtube.com/watch?v=qVoCHS9BaIc) · Built with vapi, cartesia, deepgram, gemini
 

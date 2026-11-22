@@ -23,6 +23,8 @@
 
 A tool to match companies to relevant climate actions. Embedding search to find climate initiatives and agentic workflows+tool usage to discover corporate climate actions from sustainability reports.
 
+**How it used InterSystems:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Suzehva/bas_labs) · [Demo video](https://www.youtube.com/watch?v=rUhAa9_z8zY) · Built with intersystems-db, dain, gemini, google
 
 ### [Superclassroom](https://devpost.com/software/superclassroom)
@@ -30,6 +32,8 @@ A tool to match companies to relevant climate actions. Embedding search to find 
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-superclassroom) · **Best Use of GenAI using InterSystems IRIS Vector Search**
 
 Adaptive Learning Content Generation for Students with Disabilities.
+
+**How it used InterSystems:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/airjlee/superclassroom) · [Demo video](https://www.youtube.com/watch?v=2CCohCdx4zk) · Built with intersystems, iris, mistral, rag
 
@@ -41,6 +45,8 @@ Adaptive Learning Content Generation for Students with Disabilities.
 
 ANGEL'S PROTECTION processes live video feeds, storing data based on individuals’ clothing rather than facial recognition, thereby prioritizing privacy.
 
+**How it used InterSystems:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/phamleduy04/hacktx24) · [Demo video](https://www.youtube.com/watch?v=wCfq8UI903w) · Built with computer-vision, fast, intel, iris-database
 
 ### [SOUR](https://devpost.com/software/sour)
@@ -51,7 +57,7 @@ It's a glasses addon that takes video and audio input to answer a blind person's
 
 **How it used InterSystems:** The team used Intersystems IRIS Vector Search to save and identify people.
 
-[Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
+No public code linked · [Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
 
 ### [Therable](https://devpost.com/software/therable)
 
@@ -59,7 +65,7 @@ It's a glasses addon that takes video and audio input to answer a blind person's
 
 Therable offers a safe, smart way to track moods, recognize patterns, and provide personalized, research-backed support for every mental health journey.
 
-**How it used InterSystems:** With every entry you make – whether it’s a thought, feeling, or mood – Therable analyzes your notes using Intersystems IRIS vector search technology.
+**How it used InterSystems:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Jaehoonoo/therable) · [Demo video](https://www.youtube.com/watch?v=nkdaUeRp0Dw) · Built with flask, javascript, next.js, python
 

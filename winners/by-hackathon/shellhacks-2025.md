@@ -47,19 +47,19 @@ These projects won more than one prize here. Each one is listed once.
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-[Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** gemini, google-adk, jetson-orin, python, react, typescript, yolo
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0t4X0DoKbsc)
 - **All prizes at this hackathon (3):** Microsoft · NVIDIA · Waymo
-- **How it used Microsoft:** A robot, a control panel, and a group of Google ADK AI agents controlling its every move.
-- **How it used NVIDIA:** The team used SSH tunnels to connect between the hosts and the Jetson Orin mounted on top of the Jetbot.
-- **How it used Waymo:** A robot, a control panel, and a group of Google ADK AI agents controlling its every move.
+- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **How it used NVIDIA:** VL-ADK uses a Jetson Orin Nano on the rover and connects to it over SSH for remote control.
+- **How it used Waymo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -82,6 +82,8 @@ The hack provides the user a navigational interface similar to other popular nav
 - **Code:** [Source 1](https://github.com/davidrobinson05/birds-eye)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lzUBJfDPxwM)
 - **All prizes at this hackathon (2):** Assurant · Waymo
+- **How it used Assurant:** Sponsor use not stated on Devpost
+- **How it used Waymo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -104,8 +106,8 @@ A web-app developed to help prep students for their technical interviews through
 - **Code:** [Source 1](https://github.com/Albertoh16/Bear-Necessities)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uNDWa84R2Aw)
 - **All prizes at this hackathon (2):** Assurant · Microsoft
-- **How it used Assurant:** Company Research Tool 🏢 Enter a company’s website, and PrepBear digs up insights about its history, culture, and values.
-- **How it used Microsoft:** Company Research Tool 🏢 Enter a company’s website, and PrepBear digs up insights about its history, culture, and values.
+- **How it used Assurant:** Sponsor use not stated on Devpost
+- **How it used Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -118,16 +120,18 @@ A web-app developed to help prep students for their technical interviews through
 
 Gamified Experience: Players engage in quirky yet educational tasks, from fetching coffee for the elusive "King Rat" (the boss) to handling customer claims with empathy and professionalism.
 
-[Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adobe, next.js, react
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LhTFg3cLcq8)
 - **All prizes at this hackathon (2):** Netflix · State Farm
+- **How it used Netflix:** Sponsor use not stated on Devpost
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -148,17 +152,17 @@ Also won this track: [BirdsEye](#project-birdseye-ck0j12), [PrepBear](#project-p
 
 Meet ClariTA, your late-night study partner! Make studying easier by uploading your PDF lecture that automatically generates practice quizzes, helping you effectively retain information.
 
-[Demo video](https://www.youtube.com/watch?v=lab8c8u5a7M) · Built with drizzle, express.js, javascript, node.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=lab8c8u5a7M) · Built with drizzle, express.js, javascript, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** drizzle, express.js, javascript, node.js, postgresql, react, supabase, typescript, vite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lab8c8u5a7M)
 - **All prizes at this hackathon (1):** Assurant
-- **How it used Assurant:** ClariTA is an AI-powered teaching assistant that transforms lecture slides into interactive learning experiences.
+- **How it used Assurant:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -212,6 +216,7 @@ Depending on the task, an orchestrator agent decided which specialized agents to
 - **Code:** [Source 1](https://github.com/dominickdupuy/InvoiceFraudDetector)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aegOE2791Ow)
 - **All prizes at this hackathon (1):** Capital One
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -238,7 +243,7 @@ Transform any GitHub repository into an interactive, visual tree structure. AI-p
 - **Code:** [Source 1](https://github.com/hieunguyent12/shellhacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oo69VDuMhTU)
 - **All prizes at this hackathon (1):** Github
-- **How it used GitHub:** GitFlow is a full-stack web application that revolutionizes how developers explore and understand GitHub repositories.
+- **How it used GitHub:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -265,7 +270,7 @@ Memory just moved from your brain to your frames. Your memories are getting a fi
 - **Code:** [Source 1](https://github.com/kgand/shellhacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L-pTiP87G1A)
 - **All prizes at this hackathon (1):** MLH &#124;&#124; Best Domain Name from GoDaddy Registry &#124;&#124; Digital Gift Card
-- **How it used GoDaddy Registry:** Not described. Prize: Digital Gift Card
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost Prize: Digital Gift Card
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -292,7 +297,7 @@ A Google Chrome extension that elevates the limitations of people with disabilit
 - **Code:** [Source 1](https://github.com/ibraouh/a11y-tools)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=evGVk7XjDH4)
 - **All prizes at this hackathon (1):** Google Cloud
-- **How it used Google:** The project lists gemini, google-cloud-ai among its Built With tags.
+- **How it used Google:** This includes automatic Google Form detection, which triggers a script that seamlessly integrates the Speech-to-Instruction feature with Google Forms.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -305,7 +310,7 @@ A Google Chrome extension that elevates the limitations of people with disabilit
 
 Beacon is a smart navigation app that helps users plan safe routes by having readily available safety features, making them feel that someone is always by their side.
 
-[Code](https://github.com/Bashguy/Beacon) · [Demo video](https://vimeo.com/1123425305) · Built with firebase, google-cloud, expo-go, expo.io
+[Code](https://github.com/Bashguy/Beacon) · [Demo video](https://vimeo.com/1123425305) · Built with firebase, google-cloud, google-directions, google-maps
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -315,7 +320,7 @@ Beacon is a smart navigation app that helps users plan safe routes by having rea
 - **Code:** [Source 1](https://github.com/Bashguy/Beacon)
 - **Demo video:** [Video 1](https://vimeo.com/1123425305)
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** The project lists firebase, google-cloud among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -338,7 +343,7 @@ AI-powered browser extension that protects infant brain development by detecting
 - **Code:** [Source 1](https://github.com/abbasidaniyal/BrainSafe)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aABEnFQ2MPE)
 - **All prizes at this hackathon (1):** Google Cloud
-- **How it used Google:** The project lists gcp, gemini among its Built With tags.
+- **How it used Google:** The prototype was built in Python and JavaScript, connected with a Django backend, and enhanced with prompt engineering and Google ADK multimodal agents for optimized video analysis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -361,7 +366,7 @@ Breaking language barriers, one word at a time.
 - **Code:** [Source 1](https://github.com/EzSpeak-development/EzSpeak-frontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0lh1fenJgQw)
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** EzSpeak listens to the audio from your current browser tab.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -374,7 +379,7 @@ Breaking language barriers, one word at a time.
 
 AI powered ergonomic for healthier minds and bodies.
 
-[Code](https://github.com/abrown33914/iMPOSTURE) · [Demo video](https://www.youtube.com/watch?v=MXY6PnkB3dA) · Built with google-cloud, google-adk, mediapipe, python
+[Code](https://github.com/abrown33914/iMPOSTURE) · [Demo video](https://www.youtube.com/watch?v=MXY6PnkB3dA) · Built with google-adk, google-cloud, mediapipe, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -384,7 +389,7 @@ AI powered ergonomic for healthier minds and bodies.
 - **Code:** [Source 1](https://github.com/abrown33914/iMPOSTURE)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MXY6PnkB3dA)
 - **All prizes at this hackathon (1):** Google Cloud
-- **How it used Google:** The project lists google-cloud among its Built With tags.
+- **How it used Google:** Leverages Google ADK to process raw posture and distraction data into personalized health scores, insights, and tips.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -407,7 +412,7 @@ Text-to-speech is a near-essential tool for the legally blind; However, normal t
 - **Code:** [Source 1](https://github.com/groffbo/sight-to-speech)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LW55VXFaXiE)
 - **All prizes at this hackathon (1):** MLH &#124;&#124; Best Use of Gemini API &#124;&#124; Mechanical Keyboards
-- **How it used Google:** The project lists gemini-api among its Built With tags. Prize: Mechanical Keyboards
+- **How it used Google:** Sponsor use not stated on Devpost Prize: Mechanical Keyboards
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -420,14 +425,14 @@ Text-to-speech is a near-essential tool for the legally blind; However, normal t
 
 Tyodor is a 10-year-old AI that students teach to, reinforcing learning while giving teachers real-time insights, powered by Google Gemini API for interactive learning.
 
-[Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
+No public code linked · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** css, flask, googleai, html, javascript, openai, python
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=55OuqH7E-lA)
 - **All prizes at this hackathon (1):** Google
 - **How it used Google:** The team integrated Google Gemini AI via its OpenAI-compatible interface to power the AI learning assistant, with sophisticated prompts and NLP capabilities to ensure context-aware student interactions.
@@ -459,6 +464,7 @@ Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body 
 - **Code:** [Source 1](https://github.com/DanielJEfres/ctrl-arm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=81FJv9Wgcoo)
 - **All prizes at this hackathon (1):** Microsoft
+- **How it used Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -487,7 +493,7 @@ An original choose-your-own-adventure story born in VR: tabletop storytelling tu
 - **Code:** [Source 1](https://github.com/hverd004/Quest_and_Conflicts_VR)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rvIY5CLoFOE)
 - **All prizes at this hackathon (1):** Netflix
-- **How it used Netflix:** And even some cool blender and animation tricks.
+- **How it used Netflix:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -522,7 +528,7 @@ GreenLight turns dashcam footage into a learning tool. Incidents become 3D simul
 - **Code:** [Source 1](https://github.com/thashin04/GreenLight-Driving)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WQnBQUI-LtE)
 - **All prizes at this hackathon (1):** State Farm
-- **How it used State Farm:** GreenLight is an AI-powered educational platform that helps users become safer drivers through immersive, personalized learning.
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -535,17 +541,17 @@ GreenLight turns dashcam footage into a learning tool. Incidents become 3D simul
 
 Learn how to take your Next Step in insurance education by practicing in high pressure scenarios.
 
-[Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=72e2HA9fW8Y) · Built with flask, nextjs, python, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** flask, nextjs, python, react, tailwind-css, typescript, vapi
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=72e2HA9fW8Y)
 - **All prizes at this hackathon (1):** State Farm
-- **How it used State Farm:** The team learned even more about git and github, especially the first time hackers in the team.
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -574,7 +580,7 @@ Leverages computer vision, GPS, and crowdsourcing to detect potholes, warn drive
 - **Code:** [Source 1](https://github.com/OpenPotholeMap/open-pothole-map-repo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=anqbJP1ct0A)
 - **All prizes at this hackathon (1):** Waymo
-- **How it used Waymo:** OpenPotholeMap is a crowdsourced pothole mapping system.
+- **How it used Waymo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -591,17 +597,17 @@ Leverages computer vision, GPS, and crowdsourcing to detect potholes, warn drive
 
 With AWF, private flight managers are able to easily access a complete report of the entire state of their operations, from individual employee management to customer relations &amp; metrics.
 
-[Demo video](https://vimeo.com/1122618072) · Built with base44, cloudskyapi, oauth, react
+No public code linked · [Demo video](https://vimeo.com/1122618072) · Built with base44, cloudskyapi, oauth, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** base44, cloudskyapi, oauth, react, tailwind, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://vimeo.com/1122618072)
 - **All prizes at this hackathon (1):** Wix.com &amp; Base44
-- **How it used Wix / Base44:** AWF provides a "one-stop-shop" for private flight operations.
+- **How it used Wix / Base44:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -614,16 +620,17 @@ With AWF, private flight managers are able to easily access a complete report of
 
 The app EcoSort makes sustainability simple by helping people build better recycling and donation habits.
 
-[Demo video](https://www.youtube.com/watch?v=p3F8s9jy8qk) · Built with base44, css, github, javascript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=p3F8s9jy8qk) · Built with base44, css, github, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** base44, css, github, javascript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p3F8s9jy8qk)
 - **All prizes at this hackathon (2):** 1st, 2nd, &amp; 3rd Best Overall · Wix.com &amp; Base44
+- **How it used Wix / Base44:** The app was developed using Vibe Code on the Base44 platform and later uploaded to GitHub for collaboration.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -636,17 +643,17 @@ The app EcoSort makes sustainability simple by helping people build better recyc
 
 Smart student budgeting app that gives students from monthly financial plans to personalized tips with an AI-generated financial education section that make students stay on top of their finances.
 
-[Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** base44, javascript, react
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=59egQoVTbTw)
 - **All prizes at this hackathon (1):** Wix.com &amp; Base44
-- **How it used Wix / Base44:** Money Sensei converts a student’s monthly transaction PDF into clear, actionable insight.
+- **How it used Wix / Base44:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -673,7 +680,7 @@ Smart student budgeting app that gives students from monthly financial plans to 
 - **Code:** [Source 1](https://github.com/npastrami/IntelligentPokerLeague)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mRHBn9dJj4c)
 - **All prizes at this hackathon (1):** Wolfram
-- **How it used Wolfram:** The project lists wolfram-technologies among its Built With tags.
+- **How it used Wolfram:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -696,7 +703,7 @@ The team describes the project as “Math Visuals Made Simple”.
 - **Code:** [Source 1](https://github.com/Alans44/wolfranimation)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Wolfram
-- **How it used Wolfram:** Integration : A lightweight Python bridge calls Wolfram, retrieves JSON results, and feeds them directly into the Manim scene.
+- **How it used Wolfram:** Wolfranimation calls Wolfram from Python and passes the results to Manim to generate animations.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

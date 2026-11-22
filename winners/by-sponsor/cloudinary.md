@@ -23,7 +23,7 @@
 
 AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water waste, detect crop disease early, and reduce fertilizer overuse for smart &amp; sustainable farming.
 
-**How it used Cloudinary:** Run an image analysis pipeline using Cloudinary for uploaded farm photos with cloud storage + annotation of sustainability metrics (CO2 impact, water usage, and risk insights).
+**How it used Cloudinary:** AgriMind uses Cloudinary to store and annotate farm photos for sustainability analysis.
 
 [Code](https://github.com/ClosetCoderSad/AgriMind-LAHacks) · [Demo video](https://www.youtube.com/watch?v=Y-L3LzDw2ig) · Built with cloudinary, auth0, elevenlabs, fast-api
 
@@ -53,6 +53,8 @@ Grounded AI tutoring, built on your curriculum, Interactive Learning.
 
 Your tabs, turned into a study session.
 
+**How it used Cloudinary:** StudyO uses Cloudinary transformations to assemble educational videos and sync captions to narration.
+
 [Code](https://github.com/sudarshan-krishnan/StudyO_LAHacks_2026) · [Demo video](https://www.youtube.com/watch?v=jQ3Fq21-e_k) · Built with cloudnary, elevenlabs, mongodb
 
 ### [Waste2Wealth](https://devpost.com/software/waste2wealth-0o4tah)
@@ -61,7 +63,9 @@ Your tabs, turned into a study session.
 
 Turn trash into cash: report litter, clean it up, get paid in Solana.
 
-[Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
+**How it used Cloudinary:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
 
 ## Track names and requirements
 

@@ -23,6 +23,8 @@
 
 Introducing Curserve: a fast and scalable server-side engine for agentic coding.
 
+**How it used Crater:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/alexkranias/curserve) · [Demo video](https://www.youtube.com/watch?v=30VpcKWD0MU) · Built with python, qwen, rust, shell
 
 ### [DIAL(&#42;)](https://devpost.com/software/dial-4rqzc3)
@@ -31,13 +33,17 @@ Introducing Curserve: a fast and scalable server-side engine for agentic coding.
 
 DIAL (&#42;) is an optimized customer service agent designed for data-heavy use cases.
 
-[Demo video](https://www.youtube.com/watch?v=32DSdO1V-z0) · Built with duckdb, elevenlabs, express.js, ngrok
+**How it used Crater:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=32DSdO1V-z0) · Built with duckdb, elevenlabs, express.js, ngrok
 
 ### [Hardware Context Protocol (MCP for Hardware)](https://devpost.com/software/hardware-context-protocol)
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-hardware-context-protocol) · **Play-Do Prize**
 
 Giving AI a physical embodiment for the world. Control multiple hardware platforms cooperatively via LLM prompts.
+
+**How it used Crater:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/danielzyy/calhacks2025) · [Demo video](https://www.youtube.com/watch?v=Zj-G-9aPG8w) · Built with asi:one, cv, flask, inverse-kinematics
 
@@ -46,6 +52,8 @@ Giving AI a physical embodiment for the world. Control multiple hardware platfor
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-iris-ojrmnv) · **Play-Do Prize**
 
 Changing lives, one blink at a time :).
+
+**How it used Crater:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/tgondil/iris) · [Demo video](https://www.youtube.com/watch?v=T3Psh8Hm7so) · Built with electron, eyetrax, fastapi, git
 

@@ -35,7 +35,9 @@ Pilot encourages individuals to fill out their mood tracker, and it helps them d
 
 Automatic video simplification for your busy life.
 
-Built with rev, bash, css3, ffmpeg
+**How it used Rev:** Sponsor use not stated on Devpost
+
+No public code linked · Built with rev, bash, css3, ffmpeg
 
 ## Track names and requirements
 

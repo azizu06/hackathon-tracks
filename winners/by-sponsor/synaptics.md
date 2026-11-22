@@ -23,13 +23,17 @@
 
 Unlock the full potential of the electronics you love by controlling them wirelessly through easy hand gestures.
 
-Built with synaptics, javascript, love, python
+**How it used Synaptics:** Sponsor use not stated on Devpost
+
+No public code linked · Built with synaptics, javascript, love, python
 
 ### [Tinderprint](https://devpost.com/software/tinderprint)
 
 [HackMIT 2016](../by-hackathon/hackmit-2016.md#project-tinderprint) · **Most Innovative use of Synaptics Fingerprint Sensor**
 
 Tinderprint is a dating app that matches you with people based on true physical and spiritual compatibility.
+
+**How it used Synaptics:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/vinaymayar/tinderprint) · Built with convolutional-neural-network, css, ejs, html
 
@@ -41,6 +45,8 @@ Tinderprint is a dating app that matches you with people based on true physical 
 
 This app aims to make taking pictures and video more intuitive.
 
+**How it used Synaptics:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/dianeyang/hackmit) · [Demo video](https://www.youtube.com/watch?v=pongityping)
 
 ### [Lenovo Touchpad 3D Theremin](https://devpost.com/software/lenovo-touchpad-3d-theremin)
@@ -49,11 +55,19 @@ This app aims to make taking pictures and video more intuitive.
 
 The group (RPIDeis) used the Synaptics Forcepad to create a theremin type instrument.
 
+**How it used Synaptics:** The group (RPIDeis) used the Synaptics Forcepad to create a theremin type instrument.
+
+No public code linked
+
 ### [RESTful Ships](https://devpost.com/software/restful-ships)
 
 [HackMIT 2013](../by-hackathon/hackmit-2013.md#project-restful-ships) · **Synaptics, Inc. - Most Innovative project with Hover - 2nd Prize**
 
 RESTful Ships is an application that allows developers to hook into an exposed REST API to create whatever they wish within the context of the platform.
+
+**How it used Synaptics:** Sponsor use not stated on Devpost
+
+No public code linked
 
 ### [TouchBeat](https://devpost.com/software/touchbeat)
 
@@ -61,7 +75,9 @@ RESTful Ships is an application that allows developers to hook into an exposed R
 
 Use Synaptics ForcePad to play a rhythm game - not a mundane one but with sliding and pressure.
 
-[Demo video](https://www.youtube.com/watch?v=mRfVJjCFLfY)
+**How it used Synaptics:** Use Synaptics ForcePad to play a rhythm game - not a mundane one but with sliding and pressure.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mRfVJjCFLfY)
 
 ## Track names and requirements
 

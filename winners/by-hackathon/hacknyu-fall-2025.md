@@ -45,16 +45,19 @@ These projects won more than one prize here. Each one is listed once.
 
 The team describes the project as “Nodal”.
 
-Built with test
+No public code linked · Built with test
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** test
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Best Use of Nodal CLI · Best Use of Qualcomm EdgeAI · MLH - Best Use of Arm
+- **How it used Arm:** Sponsor use not stated on Devpost
+- **How it used Nodal:** Sponsor use not stated on Devpost
+- **How it used Qualcomm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -77,8 +80,8 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 - **Code:** [Source 1](https://github.com/rohan-g0re/Hack_NYU_Arbitrage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z2_8AWR_qU8)
 - **All prizes at this hackathon (2):** Best Use of Qualcomm EdgeAI · Visa Challenge - Agent Marketplace Simulation
-- **How it used Qualcomm:** A Session stores buyer configuration and seller profiles.
-- **How it used Visa:** A Session stores buyer configuration and seller profiles.
+- **How it used Qualcomm:** Sponsor use not stated on Devpost
+- **How it used Visa:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -91,18 +94,18 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 
 Increase your strength with cutting-edge computer vision and agentic AI.
 
-[Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adafruit, cloudflare, opencv, openserver, platformio, react
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZHPY_1P-ulU)
 - **All prizes at this hackathon (2):** Best Use of Nodal CLI · Best Use of Qualcomm EdgeAI
-- **How it used Nodal:** Tuffr lets you choose a workout and sends that information to the AI agent.
-- **How it used Qualcomm:** Tuffr lets you choose a workout and sends that information to the AI agent.
+- **How it used Nodal:** Sponsor use not stated on Devpost
+- **How it used Qualcomm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -131,7 +134,7 @@ Increase your strength with cutting-edge computer vision and agentic AI.
 - **Code:** [Source 1](https://github.com/shivvyas2/SATistics)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AErgCTfmmbw)
 - **All prizes at this hackathon (2):** Education · MLH - Best .Tech Domain Name
-- **How it used .Tech Domains:** Get surprised by quick SAT questions integrated into gameplay.
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -158,7 +161,7 @@ Are YOU a finance bro!? Do YOU want to learn how to negotiate.
 - **Code:** [Source 1](https://github.com/jennnniferkuang/Bobux-Bargains)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xkyIFGGAyg0)
 - **All prizes at this hackathon (2):** Aristotle Challenge: Most Cutting-Edge AI Agent · Best Funny Haha Hack
-- **How it used Aristotle:** Bobux bargains simulates a real world economy including supply and demand and financial transactions, on Roblox.
+- **How it used Aristotle:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -181,7 +184,7 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 - **Code:** [Source 1](https://github.com/NandanHemanth/BuckBounty)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rCsw2WkivC0)
 - **All prizes at this hackathon (2):** Aristotle Challenge: Most Cutting-Edge AI Agent · Fintech
-- **How it used Aristotle:** BuckBounty is an AI-powered personal finance assistant that:.
+- **How it used Aristotle:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -194,17 +197,17 @@ Turn every dollar into opportunity. BuckBounty's AI uncovers hidden savings, max
 
 StationScope turns a work address into a personalized, data-driven NYC housing guide—mapped stations, census insights, and a tailored AI report in minutes.
 
-Built with css, geocoding, google-maps, javascript
+No public code linked · Built with css, geocoding, google-maps, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** css, geocoding, google-maps, javascript, json, mapquest, python, r, typescript, us-census-bureau
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Aristotle Challenge: Most Cutting-Edge AI Agent · Education
-- **How it used Aristotle:** You can type in a desired address on the StationScope landing screen, and a geolocation API helps you find a valid address.
+- **How it used Aristotle:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -237,6 +240,7 @@ The team created On The Go Storyteller , an interactive reading platform that br
 - **Code:** [Source 1](https://github.com/KeiraJames/nyu-hacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Interactive Media Arts/Entertainment · MLH - Best Use of ElevenLabs
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -255,16 +259,17 @@ Also won this track: [NodalCLI](#project-hacknyu-v3nyx1), [Tuffr](#project-tuffr
 
 Building TorqIt was an intensive learning experience that spanned multiple domains:.
 
-Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
+No public code linked · Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** adafruit-icm20948, arduino-uno-r3, cors, eslint, express.js, filtering)-&#42;&#42;matplotlib&#42;&#42;-data-visualization-and-plotting-##-hardware-&#42;&#42;arduino-uno-r3&#42;&#42;-microcontroller-&#42;&#42;adafruit-icm20948&#42;&#42;-9-dof-imu-sensors-(accelerometer, framer-motion, git, gyroscope, i2c, matplotlib, node.js, numpy, pandas, postcss, python, radix-ui, react, react-router, react-three-fiber, scipy, serialport, shadcn/ui, tailwind-css, three.js, typescript, vite, websocket
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Nodal CLI · Healthcare
+- **How it used Nodal:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -281,17 +286,17 @@ Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
 
 Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you learn the language of the law.
 
-Built with openrouter, elevenlabs, react
+No public code linked · Built with openrouter, elevenlabs, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** elevenlabs, openrouter, react
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Best AI Wrapper Hack · Best Use of OpenRouter · Education
-- **How it used OpenRouter:** The project lists openrouter among its Built With tags.
+- **How it used OpenRouter:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,7 +325,7 @@ An edge-AI tutoring agent that listens in real time and guides you the moment co
 - **Code:** [Source 1](https://github.com/Baozzz04/insight-loop)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0WAUHLDkyHI)
 - **All prizes at this hackathon (1):** Best Use of Qualcomm EdgeAI
-- **How it used Qualcomm:** The system lets students upload their own learning materials and transforms their study session into a live, interactive experience.
+- **How it used Qualcomm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -337,17 +342,17 @@ An edge-AI tutoring agent that listens in real time and guides you the moment co
 
 Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
 
-[Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
+No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** axios, bcryptjs, built-with-##-languages-javascript, express.js, framer-motion, joblib-##-blockchain-solana-web3.js, jwt, meta-llama-3.2-3b-instruct, mongodb-##-databases-mongodb, mongodb-atlas, mongodb-atlas-##-apis-openrouter-api, numpy, pandas, python, react-18, recharts, render, scikit-learn, snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, socket.io, socket.io-client, solana-devnet-##-cloud-&amp;-hosting-vercel, solana-rpc, solana/spl-token, sql-##-frontend-next.js-14, tailwindcss, typescript, zustand-##-backend-node.js
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5qtlaak3W9Y)
 - **All prizes at this hackathon (2):** MLH - Best Use of Snowflake · Sustainability
-- **How it used Snowflake:** Analytics &amp; ML : Snowflake integration for data warehousing, analytics scoring system:.
+- **How it used Snowflake:** Eco Nexus uses Snowflake for data warehousing and analytics.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -397,7 +402,7 @@ When disasters strike, traditional insurance is slow.InstaRelief delivers instan
 - **Code:** [Source 1](https://github.com/aakash2060/insta-relief)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=friog1wMYu8)
 - **All prizes at this hackathon (1):** MLH - Best Use of Solana
-- **How it used Solana:** The project lists solana among its Built With tags.
+- **How it used Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -426,7 +431,7 @@ AI agents represent buyers and sellers, negotiating ticket deals automatically. 
 - **Code:** [Source 1](https://github.com/praveen-bandla/agent-ticket-marketplace)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Visa Challenge - Agent Marketplace Simulation
-- **How it used Visa:** TicketTrade AI is an agent-driven ticket marketplace .
+- **How it used Visa:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -453,7 +458,7 @@ No more passive reading, just active chats! - AGORA.
 - **Code:** [Source 1](https://github.com/Ashish-Reddy-T/hackNYUEducation)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hNmpppkJaBo)
 - **All prizes at this hackathon (2):** Best First Time Hack · MLH - Best Use of Vultr Cloud
-- **How it used Vultr:** Agora is a voice-first, multimodal AI tutor that you study with.
+- **How it used Vultr:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

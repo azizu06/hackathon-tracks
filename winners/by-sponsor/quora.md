@@ -23,7 +23,9 @@
 
 A self-writing journal of your life, with superpowers.
 
-Built with javascript, jupyter-notebook, keras, node.js
+**How it used Quora:** Sponsor use not stated on Devpost
+
+No public code linked · Built with javascript, jupyter-notebook, keras, node.js
 
 ## Track names and requirements
 

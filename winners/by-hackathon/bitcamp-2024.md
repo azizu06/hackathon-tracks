@@ -58,7 +58,7 @@ Vistra puts the power in the EYES of the user.
 - **Code:** [Source 1](https://github.com/ahere84/Vistra-Smart-Mirror)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wjHxAu6g3js)
 - **All prizes at this hackathon (1):** Most Philanthropic Hack - Bloomberg
-- **How it used Bloomberg:** Vistra is designed to cater to the diverse needs and abilities of people with disabilities, offering a range of features and functionalities that allow for seamless interaction.
+- **How it used Bloomberg:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -85,6 +85,7 @@ The team experimented with different NLP architectures and fine-tuning strategie
 - **Code:** [Source 1](https://github.com/TylerK4832/ContractScope)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_HmigEf25Q4)
 - **All prizes at this hackathon (1):** Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group
+- **How it used Bloomberg Industry Group:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -111,7 +112,7 @@ Puddle brings an "every drop matters" approach to your everyday spending, allowi
 - **Code:** [Source 1](https://github.com/TigerHacks-Competition-Team/Bitcamp-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iI8CfmVSa98)
 - **All prizes at this hackathon (2):** Best Financial Hack - Capital One · Best UI/UX Hack - Bitcamp
-- **How it used Capital One:** Puddle is an app that makes the process of pooling money easier.
+- **How it used Capital One:** The card management screen, also powered by the nessie api.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -138,6 +139,7 @@ The app records audio secretly, and, using a deep-learning ML model, transcribes
 - **Code:** [Source 1](https://github.com/3752V/KeyCatchAI) · [Source 2](https://github.com/V-Coding/Bitcamp2024)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech
+- **How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -164,7 +166,7 @@ Copilot for support fieldOps teams to aid reconstruction of the Francis Scott Ke
 - **Code:** [Source 1](https://github.com/urstrulykkr/BuildKey-AI)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce
-- **How it used Cloudforce:** Provide real-time traffic maps all in one place.
+- **How it used Cloudforce:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -187,7 +189,7 @@ Using AI/ML to enhance rescuing and rebuilding processes after a disaster.
 - **Code:** [Source 1](https://github.com/NSP909/cmdfmydebris)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce
-- **How it used Cloudforce:** Search&amp;Rescue: Helps detecting and marking people in real time video to let authorities know where survivors are after a disaster.
+- **How it used Cloudforce:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -200,17 +202,17 @@ Using AI/ML to enhance rescuing and rebuilding processes after a disaster.
 
 Leveraging AI to assess bridge damage.
 
-Built with azure, javascript, next.js, node.js
+No public code linked · Built with azure, javascript, next.js, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** azure, javascript, next.js, node.js, react, vercel
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce
-- **How it used Cloudforce:** StructSure is designed to analyze images of bridges, to identify zones of critical damage and zones of least critical damage.
+- **How it used Cloudforce:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -237,6 +239,7 @@ The web application allows a user to understand the prevalence of certain natura
 - **Code:** [Source 1](https://github.com/jasonyih/BitcampBackend) · [Source 2](https://github.com/madelineanson/Bitcamp-Brawlers)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of APIs related to Housing/Climate Change - Fannie Mae
+- **How it used Fannie Mae:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -259,7 +262,7 @@ Insights for Tomorrow: Navigating Climate Challenges with Data.
 - **Code:** [Source 1](https://github.com/amantalreja/Fannnie-Mae-Challenge)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of APIs related to Housing/Climate Change - Fannie Mae
-- **How it used Fannie Mae:** Mortgage Master harnesses the power of data-driven insights to empower stakeholders with real-time information and accessible tools.
+- **How it used Fannie Mae:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -286,6 +289,7 @@ This app uses visualizations from analysis of various datasets relating to weath
 - **Code:** [Source 1](https://github.com/RachelK23/Forecasts-by-the-Campfire)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity - MLH
+- **How it used Fidelity:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -312,7 +316,7 @@ A fun interactive way to track and pay your bills on time while competing with f
 - **Code:** [Source 1](https://github.com/CChiang3/bitcamp2024)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry - MLH
-- **How it used GoDaddy Registry:** Tracks bills that are due and paid.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -329,14 +333,14 @@ A fun interactive way to track and pay your bills on time while competing with f
 
 Easily get the money you need when you need it most.
 
-Built with propelauth, cloudflare, javascript, json
+No public code linked · Built with propelauth, cloudflare, javascript, json
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** cloudflare, javascript, json, node.js, propelauth, react-native, sql, typescript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of PropelAuth - MLH
 - **How it used PropelAuth:** The team are also using PropelAuth to minimize account fraud and implementing a unique approach through the Artificial Intelligence model to minimize loan fraud, revolutionizing the loan industry.
@@ -366,7 +370,7 @@ The project creates a fungible blockchain token (a cryptocurrency) called "Exper
 - **Code:** [Source 1](https://github.com/adventuringsociety/Starknetproject)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Starknet - MLH
-- **How it used Starknet:** The team used the Cairo programming language to write and deploy a Smart Contract on the Starknet developer blockchain.
+- **How it used Starknet:** Experience Points officially deployed on Starknet's Sepolia blockchain.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -393,7 +397,7 @@ A large part of the weekend was spent exploring the various quantum algorithms.
 - **Code:** [Source 1](https://github.com/leemzius/whseurddy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wGPTKrjOgko)
 - **All prizes at this hackathon (2):** Best Advanced Quantum Track Hack - Bitcamp · Best Use of Taipy - MLH
-- **How it used Taipy:** Developed using Taipy for frontend and backend functionality.
+- **How it used Taipy:** The team developed using Taipy for frontend and backend functionality.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -410,16 +414,17 @@ A large part of the weekend was spent exploring the various quantum algorithms.
 
 The project, Course Catalog Intelligence, pulls important information from university course catalog PDFs and lets you ask questions in plain language.
 
-Built with flask, git, github, langchain
+No public code linked · Built with flask, git, github, langchain
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** flask, git, github, langchain, langsmith, llama3, python, rag
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** University Course Catalog Data Extraction and Query Challenge - Xficient
+- **How it used Xficient:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -432,17 +437,17 @@ Built with flask, git, github, langchain
 
 Search Made Simple: Ask questions, find answers – AI parses documents, chatbot delivers.
 
-Built with flask, github, gpt-4, neon
+No public code linked · Built with flask, github, gpt-4, neon
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** flask, github, gpt-4, neon, next.js, pdfplumber, pinecone, propelauth, python, react, vercel
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** University Course Catalog Data Extraction and Query Challenge - Xficient
-- **How it used Xficient:** Using the given course catalog for the University Course Catalog Data Extraction and Query Challenge, users can ask a chatbot to search through this catalog based on queried phrases.
+- **How it used Xficient:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -455,17 +460,17 @@ Built with flask, github, gpt-4, neon
 
 Xficient Bot revolutionizes course catalog management by using unsupervised learning to cluster uploaded files.
 
-Built with gpt, natural-language-processing, openai, python
+No public code linked · Built with gpt, natural-language-processing, openai, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** gpt, natural-language-processing, openai, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** University Course Catalog Data Extraction and Query Challenge - Xficient
-- **How it used Xficient:** The team built Xficient Bot using a combination of advanced unsupervised learning algorithms for data clustering and the GPT API for natural language understanding.
+- **How it used Xficient:** Xficient Bot revolutionizes course catalog management by using unsupervised learning to cluster uploaded files.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,7 +23,7 @@
 
 If you can dream it, Rex will find it.
 
-**How it used Voiceflow:** The team used VoiceFlow's Supabase integration to log a request in the database to begin a trip in the database (that the Raspberry Pi picks up on).
+**How it used Voiceflow:** The team used a custom knowledge base on VoiceFlow to customize the agent to be very specific to the different rooms in E7 and point of interests at Hack the North.
 
 [Code](https://github.com/jshan9078/Rex) · [Demo video](https://www.youtube.com/watch?v=A5594U-kSKc) · Built with voiceflow, 3d-printing, cad, elevenlabs
 
@@ -33,7 +33,7 @@ If you can dream it, Rex will find it.
 
 the.right.(and.intelligent).new.training method for customers and support agents.
 
-**How it used Voiceflow:** traint was built using the following technologies: Next.js React, Tailwind and shadcn/ui Voiceflow API Groq API Genesys API.
+**How it used Voiceflow:** The Voiceflow API was used mainly to develop the two customer archetypes.
 
 [Code](https://github.com/efliu7/hackthenorth2024) · [Demo video](https://www.youtube.com/watch?v=27zgZ8F4CUA) · Built with voiceflow, css, genesys, groq
 

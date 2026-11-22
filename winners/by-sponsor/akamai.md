@@ -23,6 +23,10 @@
 
 Coeus is real time, big data analysis of mobile data to produce organic trending Places of Interest(POIs).
 
+**How it used Akamai:** Sponsor use not stated on Devpost
+
+No public code linked
+
 ## Track names and requirements
 
 <details>

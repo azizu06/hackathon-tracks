@@ -23,7 +23,9 @@
 
 Teaches you how to dance like Bruno Mars and other famous dancers.
 
-Built with opencv, python, tensorflow, websockets
+**How it used Niantic:** Sponsor use not stated on Devpost
+
+No public code linked · Built with opencv, python, tensorflow, websockets
 
 ## 2018 winners
 
@@ -32,6 +34,8 @@ Built with opencv, python, tensorflow, websockets
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-augmented-checkers) · **Niantic Augmented Reality Prize**
 
 An Augmented Reality Powered Checkers Assistant.
+
+**How it used Niantic:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/abeakkas/Augmented-Checkers) · Built with ai, android, augmented-reality, computer-vision
 

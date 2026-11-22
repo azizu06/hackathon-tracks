@@ -23,6 +23,8 @@
 
 An original choose-your-own-adventure story born in VR: tabletop storytelling turned into immersive theater, where your choices create the journey.
 
+**How it used Netflix:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/hverd004/Quest_and_Conflicts_VR) · [Demo video](https://www.youtube.com/watch?v=rvIY5CLoFOE) · Built with c#, oculus-gear-vr, quest3, unity
 
 ### [The Rat Race](https://devpost.com/software/the-rat-race)
@@ -31,7 +33,9 @@ An original choose-your-own-adventure story born in VR: tabletop storytelling tu
 
 Gamified Experience: Players engage in quirky yet educational tasks, from fetching coffee for the elusive "King Rat" (the boss) to handling customer claims with empathy and professionalism.
 
-[Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
+**How it used Netflix:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=LhTFg3cLcq8) · Built with adobe, next.js, react
 
 ## Track names and requirements
 

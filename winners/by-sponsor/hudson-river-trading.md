@@ -23,6 +23,8 @@
 
 An AI-powered tool for tracking and predicting spheroid tumor invasion kinetics that eliminates the need for manual tracing, featuring an intuitive graphical user interface.
 
+**How it used Hudson River Trading:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/ellielin23/STIK_GUI) · [Demo video](https://www.youtube.com/watch?v=WknE6hNdmEc) · Built with conda, cvat, pyqt, python
 
 ## 2019 winners
@@ -32,6 +34,8 @@ An AI-powered tool for tracking and predicting spheroid tumor invasion kinetics 
 [HackMIT 2019](../by-hackathon/hackmit-2019.md#project-ensemble_factory) · **Most Interesting Use of Data with HRT**
 
 automl for heterogeneous model ensembling, giving automagical state-of-the-art statistical inference.
+
+**How it used Hudson River Trading:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/lhirschfeld/ensemble_factory) · Built with networkx, python, scikit-learn, tensorflow
 
@@ -43,6 +47,8 @@ automl for heterogeneous model ensembling, giving automagical state-of-the-art s
 
 Robust fake news detection made simple and scalable for real people.
 
+**How it used Hudson River Trading:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/likeaj6/FakeBananas) · Built with azure, css, flask, html
 
 ## 2016 winners
@@ -53,7 +59,9 @@ Robust fake news detection made simple and scalable for real people.
 
 JS Policy allows web devs to keep user data safe by subjecting 3rd party Javascript to rich runtime policies.
 
-Built with javascript
+**How it used Hudson River Trading:** Sponsor use not stated on Devpost
+
+No public code linked · Built with javascript
 
 ## Track names and requirements
 

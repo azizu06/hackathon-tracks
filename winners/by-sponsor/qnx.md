@@ -25,7 +25,7 @@ Inspired by Star Trek’s combadge and ship’s computer: a wearable AI communic
 
 **How it used QNX:** The Pi runs QNX 8.0 and connects to a microphone, speaker, and camera.
 
-[Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
 
 ### [EyeMelody](https://devpost.com/software/dual-vision-glasses)
 
@@ -43,7 +43,7 @@ The team've built a headset where one camera watches your eye, one watches the t
 
 QNX-powered, computer-vision-driven viral arcade system. Compete in instant 1v1 battles from online trends like six-seven and mogging.
 
-**How it used QNX:** The team got a real Raspberry Pi Camera Module 3 feed running inside a Pygame game on QNX, a use case in uncharted territory for QNX.
+**How it used QNX:** The team configured the QNX Sensor Framework for the Raspberry Pi Camera Module 3 / IMX708 stack, then wrote moggi&#95;camgrab, a small C program that uses CamAPI’s read-only viewfinder path to receive NV12 frames.
 
 [Code](https://github.com/BeanyZoldyck/moggie) · [Demo video](https://www.youtube.com/watch?v=YuO-1lJqAFQ) · Built with qnx, mediapipe, opencv, pika
 
@@ -55,7 +55,7 @@ Real-time monitoring and AI-powered predictive maintenance for factory plants.
 
 **How it used QNX:** A key part of the system is QNX RTOS, an industry-grade real-time operating system commonly used in safety-critical and industrial applications.
 
-Built with c++, python
+No public code linked · Built with c++, python
 
 ### [SpideyIRL](https://devpost.com/software/sixth-sense-pk24ul)
 
@@ -72,6 +72,8 @@ SpideyIRL is built around one core idea: &#42;reflexes should never have to wait
 [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-vanguard-telematics) · **Best Use of QNX**
 
 Fire truck crash? Radio too slow.
+
+**How it used QNX:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/bencejdanko/VanguardTelematics) · [Demo video](https://www.youtube.com/watch?v=6oMx5WiXiPE) · Built with qnx, deepgram, fastapi, framer-motion
 
@@ -93,7 +95,9 @@ Configuring your QNX Raspberry Pi can be a long and boring process. Accelerate i
 
 In a world where productivity is everything, every second counts, time spent away from the desk is time wasted. With, QNXMobility move around your workspace with ease, speed and greater efficiency.
 
-Built with qnx, o-drive, python
+**How it used QNX:** Sponsor use not stated on Devpost
+
+No public code linked · Built with qnx, o-drive, python
 
 ## Track names and requirements
 

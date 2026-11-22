@@ -23,13 +23,17 @@
 
 Making ABLLS-R assessments easier for behavioral clinicians who provide therapy to individuals with autism.
 
-Built with amazon-web-services, css, html, javascript
+**How it used Cat Digital:** Sponsor use not stated on Devpost
+
+No public code linked · Built with amazon-web-services, css, html, javascript
 
 ### [predicTerminal](https://devpost.com/software/predicterminal)
 
 [MHacks 2024](../by-hackathon/mhacks-2024.md#project-predicterminal) · **Best Use of API**
 
 The Bloomberg Terminal of Prediction Markets.
+
+**How it used Cat Digital:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/rcookie777/guava) · Built with docker, flask, github, gpt4
 

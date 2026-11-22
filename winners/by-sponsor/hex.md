@@ -23,7 +23,7 @@
 
 Commons is a map-first community coordination platform.
 
-**How it used Hex:** Data: GNews API with SSE push to frontend, 8 seeded Brooklyn neighborhood events with K2-generated community impact analysis, H3 hex grid for government dashboard aggregation.
+**How it used Hex:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/candpixie/yhack-commons) · [Demo video](https://www.youtube.com/watch?v=-yewvVRouq4) · Built with express.js, k2thinkv2, maplibre, react
 
@@ -32,6 +32,8 @@ Commons is a map-first community coordination platform.
 [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md#project-foodchain-4sq9t7) · **Best use of Hex API**
 
 Food banks today find out about crises when the line gets longer. CrisisGrid detects the signal before the surge hits and creates analytics-powered response plans and supply orders in minutes.
+
+**How it used Hex:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/richykim7/YHack2026) · [Demo video](https://www.youtube.com/watch?v=KBmjbQHAL_0) · Built with hex, anthropic-claude-api, fastapi, framer-motion
 

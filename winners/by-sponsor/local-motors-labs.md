@@ -23,7 +23,9 @@
 
 DronAR allows users to view realtime information about their drones such as positional data and status.
 
-Built with azure, express.js, mongodb, node.js
+**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+
+No public code linked · Built with azure, express.js, mongodb, node.js
 
 ### [Drones For Humanity - Second-Order Autonomy](https://devpost.com/software/second-order-autonomy)
 
@@ -31,7 +33,9 @@ Built with azure, express.js, mongodb, node.js
 
 A drone platform that not only knows how to fly itself, but also knows where to deliver aid after a natural disaster.
 
-Built with arduino, c++, raspberry-pi
+**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+
+No public code linked · Built with arduino, c++, raspberry-pi
 
 ### [Flight Aid](https://devpost.com/software/flight-aid)
 
@@ -39,7 +43,9 @@ Built with arduino, c++, raspberry-pi
 
 This is a user-facing web app that allows the user to pick a delivery location and follow the delivery through real-time tracking.
 
-Built with css, dronekit, html, javascript
+**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+
+No public code linked · Built with css, dronekit, html, javascript
 
 ### [Game of Drones](https://devpost.com/software/game-of-drones-rsafv0)
 
@@ -47,13 +53,17 @@ Built with css, dronekit, html, javascript
 
 Advanced route planning for drone deliveries to moving targets, with tracking and control suite.
 
-Built with google-streetview, javascript, leaflet.js, mithril.js
+**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+
+No public code linked · Built with google-streetview, javascript, leaflet.js, mithril.js
 
 ### [LeapLock](https://devpost.com/software/leaplock-piof9q)
 
 [HackMIT 2016](../by-hackathon/hackmit-2016.md#project-leaplock-piof9q) · **Best Use of FOSS in a Drone Cargo Management System App**
 
 LeapLock is a 3D-gesture based locking mechanism.
+
+**How it used Local Motors Labs:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Howon/LeapLock) · Built with arduino, beaker, firebase, javascript
 
@@ -63,7 +73,9 @@ LeapLock is a 3D-gesture based locking mechanism.
 
 With more and more advancements in drone technology, drones are becoming accessible by everyone.
 
-Built with flask, javascript
+**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+
+No public code linked · Built with flask, javascript
 
 ### [Smart Drone Delivery Planning](https://devpost.com/software/smart-drone-delivery-planning)
 
@@ -71,7 +83,9 @@ Built with flask, javascript
 
 An iOS app for multi-drone multi-package planning, that supports variable drone capacity and package weights.
 
-Built with apple-maps, swift
+**How it used Local Motors Labs:** Sponsor use not stated on Devpost
+
+No public code linked · Built with apple-maps, swift
 
 ## Track names and requirements
 

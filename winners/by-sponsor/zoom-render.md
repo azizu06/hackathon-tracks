@@ -23,7 +23,9 @@
 
 Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
 
-[Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with elevenlabs, grok, heygen, mediapipe
+**How it used Zoom / Render:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with render, zoom-sdk, elevenlabs, grok
 
 ## Track names and requirements
 

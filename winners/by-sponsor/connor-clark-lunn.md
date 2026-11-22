@@ -23,6 +23,8 @@
 
 Sandbox world of financial AI agents to help you learn trading.
 
+**How it used Connor, Clark &amp; Lunn:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/dewgong5/nwhacks2026) · [Demo video](https://www.youtube.com/watch?v=Qcazd8EwHQ0) · Built with fastapi, gemini, lovable, openrouter
 
 ## Track names and requirements

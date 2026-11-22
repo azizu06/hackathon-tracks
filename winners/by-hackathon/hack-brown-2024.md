@@ -52,6 +52,7 @@ After your guess on what the image represents, a gallery will be presented with 
 - **Code:** [Source 1](https://github.com/NuoWenLei/ai-image-telephone)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best .Tech Domain Name
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -78,7 +79,7 @@ Helping everyone at Brown find the perfect bathroom &lt;3.
 - **Code:** [Source 1](https://github.com/katieli1/bathroomsatbrown)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
-- **How it used Fidelity:** The team have a map in a website and pins representing bathrooms placed on this map.
+- **How it used Fidelity:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -105,7 +106,7 @@ After logging in, users are directed to a page requesting the title of the paper
 - **Code:** [Source 1](https://github.com/AnnieWang314/blankspace)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of MongoDB Atlas
-- **How it used MongoDB:** The project lists mongodb among its Built With tags.
+- **How it used MongoDB:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -122,17 +123,17 @@ After logging in, users are directed to a page requesting the title of the paper
 
 An LLM-powered TA that adapts to course material to help guide and engage students through conceptual and technical questions, focusing on reducing redundant questions and addressing overworked TAs.
 
-Built with chatgpt, dspy, openai, python
+No public code linked · Built with chatgpt, dspy, openai, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** chatgpt, dspy, openai, python, streamlit
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AI in Education by Schmidt Futures
-- **How it used Schmidt Futures:** Best Use of AI in Education by Schmidt Futures.
+- **How it used Schmidt Futures:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -186,7 +187,7 @@ A devtool for understanding codebases faster and easier.
 - **Code:** [Source 1](https://github.com/Sharwin24/HackAtBrown)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Developer Tool sponsored by Warp
-- **How it used Warp:** Napkin is a graph retrieval-augmented generation tool that converts a codebase into a knowledge graph containing detailed relationships between all files, functions, and classes.
+- **How it used Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

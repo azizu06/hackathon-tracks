@@ -49,7 +49,7 @@ Growing up, games gave the team an excuse to actually be together.
 
 Campanion turns college wellness into a game. Your pet avatar reflects how you sleep, eat, study, move, and recover, while quests and shared goals help you build balanced habits with friends.
 
-[Demo video](https://www.youtube.com/watch?v=c00p0ouf_hw) · Built with mana, firebase, google-calendar-api, javascript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=c00p0ouf_hw) · Built with mana, firebase, google-calendar-api, javascript
 
 ### [Collab3D](https://devpost.com/software/collab3d)
 
@@ -57,7 +57,7 @@ Campanion turns college wellness into a game. Your pet avatar reflects how you s
 
 Collab3D is a web tool using a Spacetime database to allow real-time collaboration on 3D scenes, encouraging a faster workflow for art studios, game developers, video editors, and many more.
 
-[Code](https://github.com/hendohpp/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=Q5XlCu8Cxjg) · Built with spacetime, 3d-modeling, database, javascript
+[Code](https://github.com/hendohpp/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=Q5XlCu8Cxjg) · Built with spacetime, spacetimedb, 3d-modeling, database
 
 ### [Destina](https://devpost.com/software/destina)
 
@@ -97,7 +97,7 @@ Gloves that turn your movements and voice into game controls, so instead of lear
 
 A game tells the story of a ghost through passes in Apple Wallet.
 
-[Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
+No public code linked · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
 
 ### [Hear me Out](https://devpost.com/software/hear-me-out-548os6)
 
@@ -105,7 +105,7 @@ A game tells the story of a ghost through passes in Apple Wallet.
 
 A party game uses group conversations to make plans for an in-person hangout.
 
-[Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
+No public code linked · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
 
 ### [HUSH](https://devpost.com/software/hush-k0jdb6)
 
@@ -113,7 +113,7 @@ A party game uses group conversations to make plans for an in-person hangout.
 
 A webcam-powered horror game where your vitals shapes an AI creature’s hunt. Fix equipment, broadcast false heartbeats, conceal your presence, and outsmart the monster before it breaches your shelter.
 
-[Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
+No public code linked · [Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1TM) · Built with canvas, css3, electron, elevenlabs
 
 ### [Inbox Invaders](https://devpost.com/software/inbox-invaders)
 
@@ -121,7 +121,7 @@ A webcam-powered horror game where your vitals shapes an AI creature’s hunt. F
 
 A Roblox tower-defense game teaches players to recognize phishing messages and malware.
 
-[Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
+No public code linked · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
 
 ### [LeLamp Play Pack](https://devpost.com/software/wip-qdk9hm)
 
@@ -153,7 +153,7 @@ A Roblox game uses a growing egg companion to reward rest, journaling, and other
 
 A rehab-game station where four agents filter, fact-check, decide and act, and show their reasoning on a wearable screen.
 
-[Code](https://github.com/Dee-1862/Ocra) · [Demo video](https://www.youtube.com/watch?v=x5cxIVRhaSU) · Built with agentverse, asi:one, c, fetch.ai-uagents
+[Code](https://github.com/Dee-1862/Ocra) · [Demo video](https://www.youtube.com/watch?v=x5cxIVRhaSU) · Built with freewili-og, agentverse, asi:one, c
 
 ### [Overseer.exe](https://devpost.com/software/entelecheia)
 
@@ -169,7 +169,7 @@ A Roblox safety game teaches players to identify grooming and scams in chat.
 
 Every fan watches the same basketball game, but for different moments. Some track tactics, others chase the star’s reaction after a dunk.
 
-[Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
 
 ### [PatchLab](https://devpost.com/software/patchlab)
 
@@ -193,7 +193,7 @@ A Roblox detective game asks players to verify news stories by interviewing witn
 
 Poysson is a game-style training platform covering five attack types: ransomware, SIM-swap fraud, smishing, phishing, and insider/vendor leaks.
 
-[Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
+No public code linked · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
 
 ### [Project Xavier](https://devpost.com/software/project-xavier-tbd)
 
@@ -209,7 +209,7 @@ Using brain activity to make the world more accessible to those with mobility di
 
 Players use their phones as motion controllers to play racket sports on a laptop.
 
-[Code](https://github.com/JacobQuion/Cal-Hacks-Final-Project) · [Demo video](https://www.youtube.com/watch?v=czPDelomrt4) · Built with cloudflare-tunnel, cloudlfare, css, devicemotion-api
+[Code](https://github.com/JacobQuion/Cal-Hacks-Final-Project) · [Demo video](https://www.youtube.com/watch?v=czPDelomrt4) · Built with spacetimedb, cloudflare-tunnel, cloudlfare, css
 
 ### [Recall](https://devpost.com/software/recall-1wr8y9)
 
@@ -241,7 +241,7 @@ A camera estimates a player's state and changes the game in response.
 
 Similar to a piano tiles game where the tiles come towards the player, the tiles come towards the center.
 
-[Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
 
 ### [You Light, I Lift](https://devpost.com/software/you-light-i-lift)
 
@@ -249,7 +249,7 @@ Similar to a piano tiles game where the tiles come towards the player, the tiles
 
 Dynamic Visibility: The digital game world begins in pitch darkness.
 
-[Demo video](https://www.youtube.com/watch?v=3Xcl9w1WM0U) · Built with codex, lelamp, python, unity
+No public code linked · [Demo video](https://www.youtube.com/watch?v=3Xcl9w1WM0U) · Built with codex, lelamp, python, unity
 
 ### [蚁群 YiQun](https://devpost.com/software/project-ki3u7vwhj0x8)
 
@@ -267,7 +267,7 @@ Over 6000 people are still missing after Nepal's landslide. Rescue teams are far
 
 Players solve puzzles to leave a haunted house in an escape-room game.
 
-[Demo video](https://www.youtube.com/watch?v=-CYyimP0Eb4) · Built with roblox, lua
+No public code linked · [Demo video](https://www.youtube.com/watch?v=-CYyimP0Eb4) · Built with roblox, lua
 
 ### [BallAR](https://devpost.com/software/ballar)
 
@@ -283,7 +283,7 @@ Unite AR and electro-stimulation to perfect your beer pong game.
 
 A Roblox game lets players shape their surroundings through what they say and do.
 
-[Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZc) · Built with roblox, flask, gemini, nextjs
+No public code linked · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZc) · Built with roblox, flask, gemini, nextjs
 
 ### [Clanker Town](https://devpost.com/software/clanker-town)
 
@@ -291,7 +291,7 @@ A Roblox game lets players shape their surroundings through what they say and do
 
 Clanker Town is a simulation / web-browser video game which lets player enter the town filled with other autonomous AI agents communicating between each other, gathering resources and trading.
 
-Built with letta, elastic-search, mcp, move
+No public code linked · Built with letta, elastic-search, mcp, move
 
 ### [CloseCalls](https://devpost.com/software/closecalled)
 
@@ -307,7 +307,7 @@ CloseCalls uses the CARLA simulator in Unreal Engine 4 to generate realistic tra
 
 A charming game about persuading fish to get out of the pond :).
 
-[Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
 
 ### [Intelligent Poker League](https://devpost.com/software/intelligent-poker-league)
 
@@ -323,7 +323,7 @@ A charming game about persuading fish to get out of the pond :).
 
 A Roblox game asks players to defuse tense social situations and see how different choices play out.
 
-Built with roblox, express.js, gemini, javascript
+No public code linked · Built with roblox, express.js, gemini, javascript
 
 ### [Paw &amp; Order](https://devpost.com/software/paw-order)
 
@@ -339,7 +339,7 @@ An LLM-powered web game curated for children to improve their debate and convers
 
 Experience contact tracing in this game (with AI, because why not).
 
-Built with cloudflare, css3, gemini, html5
+No public code linked · Built with cloudflare, css3, gemini, html5
 
 ### [Roominate](https://devpost.com/software/roominate-vp1aqu)
 
@@ -363,7 +363,7 @@ Ever stuck procrastinating on important tasks? Roominate breaks down your tasks 
 
 Sideline turns watching into experiencing. With real-time updates, interactive challenges, and friendly rivalries that make every play matter, you’re not just watching the game… you’re part of it.
 
-[Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY8) · Built with expo.io, express.js, firebase, firestore
+No public code linked · [Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY8) · Built with expo.io, express.js, firebase, firestore
 
 ### [Solbate](https://devpost.com/software/solbate)
 
@@ -403,7 +403,7 @@ Stock market simulation game where students race to beat the market.
 
 An arcade-style game where the player can go on a journey of introspection and self-discovery as a little wolf. Collect stars, answer questions, and create a vision board of your future.
 
-Built with chatgpt, css, fastapi, html5
+No public code linked · Built with chatgpt, css, fastapi, html5
 
 ### [UncBlox](https://devpost.com/software/uncblox)
 
@@ -411,7 +411,7 @@ Built with chatgpt, css, fastapi, html5
 
 UncBlox is a multiplayer action-arena game where players embody celebrated elders from a vibrant rural town in Mexico. Through friendly players, they build respect and empathy for older generations.
 
-[Demo video](https://www.youtube.com/watch?v=7WwD1cOzm5k) · Built with roblox
+No public code linked · [Demo video](https://www.youtube.com/watch?v=7WwD1cOzm5k) · Built with roblox
 
 ## 2024 winners
 
@@ -437,7 +437,7 @@ A platform to minimize carbon footprint by encouraging users to reduce their dai
 
 Using MATLAB to make a Galaga-style game.
 
-[Code](https://github.com/ttran134/invaders) · [Demo video](https://vimeo.com/1019066017) · Built with c++, freetype, matlab, miniaudio
+[Code](https://github.com/ttran134/invaders) · [Demo video](https://vimeo.com/1019066017) · Built with matlab, c++, freetype, miniaudio
 
 ### [One in the Chamber](https://devpost.com/software/one-in-the-chamber)
 
@@ -445,7 +445,7 @@ Using MATLAB to make a Galaga-style game.
 
 A VR game about catching and firing arrows to delay the inevitable.
 
-[Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
+No public code linked · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
 
 ### [PathSense](https://devpost.com/software/pathsense-athy2r)
 
@@ -477,7 +477,7 @@ A prototype implements a programming language and game engine inside Figma.
 
 Gives users the ability to play four 1v1 games.
 
-[Demo video](https://www.youtube.com/watch?v=7VzAm0KVVoo) · Built with c++, freewili, pygame, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=7VzAm0KVVoo) · Built with freewili, c++, pygame, python
 
 ## 2017 winners
 
@@ -497,7 +497,7 @@ An interactive community game with wearable devices that harness storytelling an
 
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
-Built with firebase, arduino, c++, google-cardboard
+No public code linked · Built with firebase, google-cardboard, arduino, c++
 
 ## 2013 winners
 
@@ -507,12 +507,14 @@ Built with firebase, arduino, c++, google-cardboard
 
 Combines electric imp with big data provided by Sailthru to make a simple game where players try to predict which browser was more popular, given a location as a hint.
 
+No public code linked
+
 ### [TouchBeat](https://devpost.com/software/touchbeat)
 
 [HackMIT 2013](../by-hackathon/hackmit-2013.md#project-touchbeat)<br>[Synaptics](../by-sponsor/synaptics.md) · **Synaptics, Inc. - Most Innovative project with ForcePad - 1st Prize**
 
 Use Synaptics ForcePad to play a rhythm game - not a mundane one but with sliding and pressure.
 
-[Demo video](https://www.youtube.com/watch?v=mRfVJjCFLfY)
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mRfVJjCFLfY)
 
 [Back to top](#playable-game)

@@ -23,6 +23,8 @@
 
 Multiplayer Agentic AI NPCs with shared conversational memory across all players.
 
+**How it used JanitorAI:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/iOliver678/calhacks12) · [Demo video](https://www.youtube.com/watch?v=2yZ_ZxMO7cY) · Built with janitorai, express.js, fishaudio, jllm
 
 ### [Love Island: To Die For!](https://devpost.com/software/love-island-to-die-for)

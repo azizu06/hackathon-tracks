@@ -23,6 +23,8 @@
 
 Challenge friends to webcam slap battles, dodge hits like Neo, and win egos—not hospital bills! It's Will Smith's Oscar moment, minus the drama.
 
+**How it used Midnight:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/devnull03/nwhacks25-nameTBA) · [Demo video](https://www.youtube.com/watch?v=CQN2vw13LlA) · Built with ai, express.js, hardhat, machine-learning
 
 ### [VotEdu](https://devpost.com/software/votedu-p2n806)
@@ -30,6 +32,8 @@ Challenge friends to webcam slap battles, dodge hits like Neo, and win egos—no
 [SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md#project-votedu-p2n806) · **Best Use of Midnight**
 
 Anonymous voting platform powered by the Midnight Blockchain. Students can now vote privately by utilizing zero-knowledge proofs and decentralized blockchain network verification.
+
+**How it used Midnight:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Edwin-Yee/SBHacks-XI) · [Demo video](https://www.youtube.com/watch?v=Bm5nX9-Txrg) · Built with midnight, anchor, next.js, npm
 
@@ -51,7 +55,9 @@ Elevyn empowers creators to monetize exclusive content and fundraisers through b
 
 monitoring dashboards, uniquely effective to each problem.
 
-[Demo video](https://www.youtube.com/watch?v=HIYSX7clnl8) · Built with typescript
+**How it used Midnight:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=HIYSX7clnl8) · Built with typescript
 
 ### [TradeREC](https://devpost.com/software/energy-trading)
 
@@ -59,7 +65,7 @@ monitoring dashboards, uniquely effective to each problem.
 
 Powering a Greener Future, One Trade at a Time. A Blockchain-Powered Marketplace for Trading Clean Energy Contracts.
 
-**How it used Midnight:** Blockchain for Transparency : TradeREC uses Hedera and Midnight blockchain technology to provide secure, transparent records of every transaction .
+**How it used Midnight:** Blockchain for Transparency : TradeREC uses Hedera and Midnight blockchain technology to provide secure, transparent records of every transaction.
 
 [Code](https://github.com/eshansinghal14/hack-harvard-24) · [Demo video](https://www.youtube.com/watch?v=kejAyXxu1fU) · Built with midnight, hedera, mongodb, ocr
 

@@ -23,7 +23,9 @@
 
 Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you learn the language of the law.
 
-Built with openrouter, elevenlabs, react
+**How it used OpenRouter:** Sponsor use not stated on Devpost
+
+No public code linked · Built with openrouter, elevenlabs, react
 
 ## Track names and requirements
 

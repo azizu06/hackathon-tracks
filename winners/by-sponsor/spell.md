@@ -23,13 +23,17 @@
 
 Visualize, modify, and deploy neural networks either locally on the cloud to gain unique architectural insights.
 
-[Demo video](https://www.youtube.com/watch?v=9v1aXlQLu_w) · Built with docker, javascript, keras, kubernetes
+**How it used Spell:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=9v1aXlQLu_w) · Built with docker, javascript, keras, kubernetes
 
 ### [YeetView](https://devpost.com/software/yeetview)
 
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-yeetview) · **Best Spell API hack**
 
 An accessible Google StreetView for the visually impaired through visceral scene description built with Deep Learning.
+
+**How it used Spell:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/R0bk/image_captioning) · Built with spell, deep-learning, google-streetview, javascript
 

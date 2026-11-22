@@ -25,13 +25,15 @@ What you deserve in your drinking water.
 
 **How it used Tiger Data:** The backend evaluates measurements against configured thresholds, tracks filter life using manufacturer-specific guidelines, and manages historical water quality data through Tiger Data.
 
-[Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
 
 ### [Flare](https://devpost.com/software/bee-movie-script)
 
 [HackUTD 2026](../by-hackathon/hackutd-2026.md#project-bee-movie-script) · **Best Use of Tiger Data**
 
 Spots the failure before it burns.
+
+**How it used Tiger Data:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Siriapps/HackUTD-26) · [Demo video](https://www.youtube.com/watch?v=IZHkkpYGtdE) · Built with tiger-data, timescaledb, elevenlabs, gemini
 
@@ -41,6 +43,8 @@ Spots the failure before it burns.
 
 A workspace matches hackathon tasks to teammates and tracks progress through GitHub.
 
+**How it used Tiger Data:** TimescaleDB stores activity history and pgvector stores skill vectors.
+
 [Code](https://github.com/maxjb-xyz/hakit) · [Demo video](https://www.youtube.com/watch?v=X3Ex2pmvqaU) · Built with cloudflare, gemini, github, huggingface
 
 ### [Laminar](https://devpost.com/software/laminar-ma1h69)
@@ -49,7 +53,7 @@ A workspace matches hackathon tasks to teammates and tracks progress through Git
 
 The team built a live dashboard so that any scientist/lab technician can view the real-time data and analysis of past logs.
 
-**How it used Tiger Data:** SQL functions in Tiger (run&#95;smoothness, run&#95;trace) compute per-joint tracking error, jerk and stick-slip, and the console's Tiger Data tab charts and replays any real run on the 3D arm.
+**How it used Tiger Data:** Telemetry streams to Tiger Data, and other labs can send test requests through Fetch.ai agents on ASI:One, still gated by a technician at the bench.
 
 [Code](https://github.com/Omm2005/laminar) · [Demo video](https://www.youtube.com/watch?v=CZ1orYlswwY) · Built with tiger-data, timescaledb, anthropic, asi:one
 
@@ -59,6 +63,8 @@ The team built a live dashboard so that any scientist/lab technician can view th
 
 Pse is a novel wearable technology that tracks slouching and turns posture awareness into friendly competition. See your trends, challenge friends, and build upright habits.
 
+**How it used Tiger Data:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Keipydesu/Pose.) · [Demo video](https://www.youtube.com/watch?v=ratTdsDwklM) · Built with assembly, bluetooth, bno055, claude
 
 ### [Save My Rims](https://devpost.com/software/detect-pot)
@@ -66,6 +72,8 @@ Pse is a novel wearable technology that tracks slouching and turns posture aware
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-detect-pot) · **Best Use of Tiger Data**
 
 But how does it know where the defects are.
+
+**How it used Tiger Data:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Georgeyy07/HackTheNorth2026) · Built with expo.io, fastapi, gcloud&amp;docker, godaddy
 
@@ -77,13 +85,15 @@ AI-native workflows, built straight from your existing SOPs.
 
 **How it used Tiger Data:** Tiger Data stores SOPs and their versions, along with a full trace of every run.
 
-[Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
+No public code linked · [Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
 
 ### [TapTrack](https://devpost.com/software/taptrack-4hni2z)
 
 [MHacks 2026](../by-hackathon/mhacks-2026.md#project-taptrack-4hni2z) · **Best Use of Tiger Data**
 
 TapTrack PD is a wrist-worn Parkinson's tracker built on a FREE-WILi strapped to a watch band.
+
+**How it used Tiger Data:** Caregiver Dashboard - FinchNode + Gemini + Fetch.ai + Neon + Tiger Data.
 
 [Code](https://github.com/ahansoty/taptrack-pd) · [Demo video](https://www.youtube.com/watch?v=NyzD97cP5SY) · Built with timescaledb, agentverse, asi-one, css
 
@@ -92,6 +102,8 @@ TapTrack PD is a wrist-worn Parkinson's tracker built on a FREE-WILi strapped to
 [ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-transpeaktation) · **Best Use of Tiger Data**
 
 By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
+
+**How it used Tiger Data:** Incoming records are normalized, deduplicated, geocoded, and stored across MongoDB Atlas and Tiger Data/TimescaleDB.
 
 [Code](https://github.com/No-Way-Mo/transpeaktation) · [Demo video](https://www.youtube.com/watch?v=maBHLULKMVc) · Built with tiger-data, claude, digitalocean, elevenlabs
 

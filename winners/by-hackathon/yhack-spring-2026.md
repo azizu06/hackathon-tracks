@@ -57,7 +57,7 @@ agentic peer review citation verification for research papers.
 - **Code:** [Source 1](https://github.com/suryar2007/peer-review-system)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=am-y6yt0Ais)
 - **All prizes at this hackathon (2):** Best Use of Hermes -- Nous Research · Best use of Lava API
-- **How it used Lava:** The project lists lava among its Built With tags.
+- **How it used Lava:** Sponsor use not stated on Devpost
 - **How it used Nous Research:** Hermes 4 70B (Nous Research) powers all extraction tasks.
 - **Checked on Devpost:** 2026-11-21
 
@@ -81,7 +81,8 @@ Commons is a map-first community coordination platform.
 - **Code:** [Source 1](https://github.com/candpixie/yhack-commons)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-yewvVRouq4)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Best use of Hex API
-- **How it used Hex:** Data: GNews API with SSE push to frontend, 8 seeded Brooklyn neighborhood events with K2-generated community impact analysis, H3 hex grid for government dashboard aggregation.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **How it used Hex:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -110,7 +111,7 @@ track pain and symptoms of chronic conditions like endometriosis in a machine le
 - **Code:** [Source 1](https://github.com/ZacharyYW/perennial)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=71_IR5COyFY)
 - **All prizes at this hackathon (1):** ActualFoods
-- **How it used Actual Food:** wearos integration: Seamlessly pulls in continuous health data from your smartwatch to automatically detect and log potential pain sessions, reducing the cognitive load on high-pain days.
+- **How it used Actual Food:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -137,7 +138,7 @@ Imposture is an AI desk pet that tracks your posture and focus use via computer 
 - **Code:** [Source 1](https://github.com/argsdio/imposture)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=plD5TCyZjgI)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of ElevenLabs · Most Useless Hack
-- **How it used ElevenLabs:** The project lists elevenlabs among its Built With tags.
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -166,7 +167,7 @@ Voice-first local farm marketplace — farmers list by talking, consumers shop w
 - **Code:** [Source 1](https://github.com/alexanderlapratt/trust-your-food)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=srIbSfnjMU8)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** The project lists godaddy among its Built With tags.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -183,7 +184,7 @@ Voice-first local farm marketplace — farmers list by talking, consumers shop w
 
 Explore the world through an cinematic AI-guided journey — just speak, and the world comes alive.
 
-[Code](https://github.com/prith27/Ayana) · [Demo video](https://www.youtube.com/watch?v=4lwFH0fWW0E) · Built with gemini-2.5-flash-(itinerary-generation), gemini-live-api-/-gemini-2.5-flash-native-audio-preview-(real-time-voice-agent), fastapi, google-agent-development-kit-(adk)
+[Code](https://github.com/prith27/Ayana) · [Demo video](https://www.youtube.com/watch?v=4lwFH0fWW0E) · Built with gemini-2.5-flash-(itinerary-generation), gemini-live-api-/-gemini-2.5-flash-native-audio-preview-(real-time-voice-agent), google-agent-development-kit-(adk), google-maps-elevationservice
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -193,7 +194,7 @@ Explore the world through an cinematic AI-guided journey — just speak, and the
 - **Code:** [Source 1](https://github.com/prith27/Ayana)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4lwFH0fWW0E)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Ayana's prep engine then generates three curated itineraries tailored to your personality using Gemini 2.5 Flash .
+- **How it used Google:** The map layer uses the Google Maps JavaScript API 3D (alpha) with programmatic flyCameraTo and flyCameraAround to create cinematic arrivals at each landmark.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -222,7 +223,7 @@ Food banks today find out about crises when the line gets longer. CrisisGrid det
 - **Code:** [Source 1](https://github.com/richykim7/YHack2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KBmjbQHAL_0)
 - **All prizes at this hackathon (1):** Best use of Hex API
-- **How it used Hex:** The project lists hex among its Built With tags.
+- **How it used Hex:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -272,6 +273,7 @@ Burned $300 running a 100-agent swarm to launch Simulacra and headstart the futu
 - **Code:** [Source 1](https://github.com/0xABAN/simulacra)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fPZQB1WaVC4)
 - **All prizes at this hackathon (1):** Best Use of K2 Think V2
+- **How it used K2 Think:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -290,17 +292,17 @@ Also won this track: [CiteSite](#project-citesite-i80hlo) (listed above)
 
 Ambient sits on your desktop, learns how you work, and handles the busywork before you even think about it. Scheduling, research, and analysis done instantly.
 
-[Demo video](https://www.youtube.com/watch?v=lX8BuX64JwI) · Built with lava-api, anthropic-api, electron, google-calendar-api
+No public code linked · [Demo video](https://www.youtube.com/watch?v=lX8BuX64JwI) · Built with lava-api, anthropic-api, electron, google-calendar-api
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** anthropic-api, electron, google-calendar-api, hex-api, lava-api, node.js, openai-api, pnpm, react, sqlite, tailwind-css, turborepo, typescript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lX8BuX64JwI)
 - **All prizes at this hackathon (1):** Best use of Lava API
-- **How it used Lava:** The project lists lava-api among its Built With tags.
+- **How it used Lava:** Synthesis engine: LLM pipeline (OpenAI primary, Anthropic secondary, Lava gateway tertiary) generates actionable recommendations as structured JSON -- including executable actions like create&#95;calendar&#95;event, draft&#95;reply, run&#95;hex&#95;project, and copy&#95;text.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -323,7 +325,7 @@ CareCost is a map-first GI care shopper: AI turns symptoms into the right proced
 - **Code:** [Source 1](https://github.com/Kedylind/carecost)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UKChab_e1Hc)
 - **All prizes at this hackathon (1):** Best use of Lava API
-- **How it used Lava:** The project lists lava among its Built With tags.
+- **How it used Lava:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -379,6 +381,7 @@ Most people do not know how their scattered data points connect.
 - **Code:** [Source 1](https://github.com/danielkwan-dev/aegis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Nf_50lff9Rc)
 - **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
+- **How it used Nous Research:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -401,7 +404,7 @@ Your guided path through regulatory complexity.
 - **Code:** [Source 1](https://github.com/xyaei/forseen)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=S-HOp3EjmWo)
 - **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **How it used Nous Research:** Forseen is a compliance intelligence platform that transforms a company's profile into actionable regulatory insights.
+- **How it used Nous Research:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -424,7 +427,7 @@ fMRI-enhanced swarm simulations for prediction markets.
 - **Code:** [Source 1](https://github.com/cicinel/YNeurotrading)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WmDdycsx_a0)
 - **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **How it used Nous Research:** Simulation quality depends more on persona diversity than agent count. 50 carefully generated personas with distinct backgrounds produce richer discourse than 200 generic ones.
+- **How it used Nous Research:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -447,6 +450,7 @@ Second Self is a digital twin that runs as a parallel user session on your very 
 - **Code:** [Source 1](https://github.com/23jmo/second-self)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZpCst-PS7t0)
 - **All prizes at this hackathon (2):** Best Use of Hermes -- Nous Research · Personal AI Agent
+- **How it used Nous Research:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -463,17 +467,17 @@ Second Self is a digital twin that runs as a parallel user session on your very 
 
 Compose electronic music just by wiggling your fingers, hand positions swapping live instruments in real time. Once you're done, go full party mode.
 
-[Demo video](https://www.youtube.com/watch?v=cohE1Eti1dU) · Built with snap
+No public code linked · [Demo video](https://www.youtube.com/watch?v=cohE1Eti1dU) · Built with snap
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** snap
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cohE1Eti1dU)
 - **All prizes at this hackathon (1):** Best use of Snap Lens Studio
-- **How it used Snap:** The project lists snap among its Built With tags.
+- **How it used Snap:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -496,7 +500,7 @@ Learn any dance head-to-head in AR with full-body tracking and scoring in real-t
 - **Code:** [Source 1](https://github.com/YHack-Project/dance)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=D44gx8M5m84)
 - **All prizes at this hackathon (2):** Best use of Snap Lens Studio · Entertainment
-- **How it used Snap:** Tracks 18 skeletal landmarks (nose, ears, shoulders, elbows, wrists, hips, knees, ankles) plus composite points like the hip center, using Snap's ObjectTracking ML pipeline.
+- **How it used Snap:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -509,14 +513,14 @@ Learn any dance head-to-head in AR with full-body tracking and scoring in real-t
 
 Act it out. Guess it right.
 
-[Demo video](https://www.youtube.com/watch?v=c4J5046t_68) · Built with javascript, typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=c4J5046t_68) · Built with javascript, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** javascript, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=c4J5046t_68)
 - **All prizes at this hackathon (1):** Best use of Snap Lens Studio
 - **How it used Snap:** The team built Split World in Lens Studio using its scripting framework and AR capabilities.
@@ -546,7 +550,7 @@ A prediction market for physical goods and services.
 - **Code:** [Source 1](https://github.com/darthmaulsw/KiwiMarket)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fTe_Vp-uYDk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** The project lists solana among its Built With tags.
+- **How it used Solana:** A prediction market for physical goods — powered by Solana and verified by AI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -573,7 +577,7 @@ Making mobility accessible, cheap, simple. and modular to the health sector and 
 - **Code:** [Source 1](https://github.com/ryanli222/yHack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RzqbO86LRXQ)
 - **All prizes at this hackathon (2):** Best Use of Viam · Hardware
-- **How it used Viam:** The project lists viam among its Built With tags.
+- **How it used Viam:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -613,17 +617,17 @@ Raw watts or joules-per-token misses the carbon picture entirely.
 
 GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
 
-[Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
+No public code linked · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claude, python, qnx, raspberry-pi, zed
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VRsa9P1m8z0)
 - **All prizes at this hackathon (2):** Built With Zed · Third Place Overall
-- **How it used Zed:** The project lists zed among its Built With tags.
+- **How it used Zed:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

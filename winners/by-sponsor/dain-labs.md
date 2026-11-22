@@ -23,7 +23,9 @@
 
 Monitoring the Health and Safety of First Responders and Military Personnel.
 
-[Code](https://github.com/nipunbatra8/healthbot) · [Demo video](https://www.youtube.com/watch?v=H3TpX43lDUs) · Built with brev.dev, dain, python, tensorflow
+**How it used DAIN Labs:** The team designed a DAIN-powered AI service the provides timely alerts to keep safe.
+
+[Code](https://github.com/nipunbatra8/healthbot) · [Demo video](https://www.youtube.com/watch?v=H3TpX43lDUs) · Built with dain, brev.dev, python, tensorflow
 
 ### [Devin &amp; Kevin](https://devpost.com/software/kevin-4m6rbf)
 
@@ -31,13 +33,17 @@ Monitoring the Health and Safety of First Responders and Military Personnel.
 
 Devin, AI Software Engineer &amp; Kevin, AI Product Manager.
 
-Built with dain, typescript
+**How it used DAIN Labs:** The team built its product management assistant with DAIN and TypeScript.
+
+No public code linked · Built with dain, typescript
 
 ### [FlowPilot: Your Agentic Co-Pilot](https://devpost.com/software/flowpilot-zoom-agent-that-automates-your-workflows)
 
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-flowpilot-zoom-agent-that-automates-your-workflows) · **AI Agent Excellence &amp; Innovation Awards**
 
 FlowPilot listens, understands, and executes, transforming Zoom meetings into Slide decks and Notion workflows. No more lost action items - just approve and watch it execute.
+
+**How it used DAIN Labs:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/CarterCote/flow-pilot) · [Demo video](https://www.youtube.com/watch?v=d9pkeKJIGRg) · Built with dain, docker, express.js, node.js
 
@@ -47,7 +53,9 @@ FlowPilot listens, understands, and executes, transforming Zoom meetings into Sl
 
 Cut the crap. Focus on real human interactions.
 
-[Code](https://github.com/KARTIK-PANDEY-KP/Project-Dave) · [Demo video](https://www.youtube.com/watch?v=aS2-N1W5mjk) · Built with apollo.io, browserbase, container, dain
+**How it used DAIN Labs:** React + TailwindCSS + Butterfly UI (DAIN-powered).
+
+[Code](https://github.com/KARTIK-PANDEY-KP/Project-Dave) · [Demo video](https://www.youtube.com/watch?v=aS2-N1W5mjk) · Built with dain, apollo.io, browserbase, container
 
 ### [Solar Flair ☀️](https://devpost.com/software/solar-flair-rkxz0f)
 
@@ -55,13 +63,17 @@ Cut the crap. Focus on real human interactions.
 
 Determining both how much the environment can be impacted, and how money can be saved by installing solar panels on the roof of a given address.
 
-[Code](https://github.com/ymorsi7/solar-flair) · [Demo video](https://www.youtube.com/watch?v=rRz-idbllX8) · Built with apis, css, dain, gemini
+**How it used DAIN Labs:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/ymorsi7/solar-flair) · [Demo video](https://www.youtube.com/watch?v=rRz-idbllX8) · Built with dain, apis, css, gemini
 
 ### [TheraMind](https://devpost.com/software/theramind)
 
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-theramind) · **AI Agent Excellence &amp; Innovation Awards**
 
 Less paperwork, more patient care: the AI therapist's assistant.
+
+**How it used DAIN Labs:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/cherylwu834/treehacks25) · [Demo video](https://www.youtube.com/watch?v=q_3Y3kjbpZ0) · Built with dain, python, scrapybara, typescript
 

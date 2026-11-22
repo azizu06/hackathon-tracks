@@ -63,6 +63,8 @@ The world's first fully homomorphic runtime for a Turing-complete language.
 - **Code:** [Source 1](https://github.com/joeltg/brainfreeze)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Sponsor Prize - Datto - Best Use of Encryption · Sponsor Prize - Illumio - Best Security Hack
+- **How it used Datto:** Sponsor use not stated on Devpost
+- **How it used Illumio:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -85,6 +87,8 @@ Robust fake news detection made simple and scalable for real people.
 - **Code:** [Source 1](https://github.com/likeaj6/FakeBananas)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good · Sponsor Prize - Hudson River Trading - Most Interesting Use of Data
+- **How it used Baidu:** Sponsor use not stated on Devpost
+- **How it used Hudson River Trading:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -107,8 +111,8 @@ Use your favorite cleaning robot to transform the floor into a canvas for Mathem
 - **Code:** [Source 1](https://github.com/cyanophycean314-zz/plot_roomba)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** General Prize - Runner Up · Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack · Sponsor Prize - Wolfram Alpha - Best Use of Wolfram Technologies
-- **How it used iRobot:** The project lists irobot-create2 among its Built With tags.
-- **How it used Wolfram:** The project lists wolfram-development-platform, wolfram-mathematica among its Built With tags.
+- **How it used iRobot:** Sponsor use not stated on Devpost
+- **How it used Wolfram:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -131,7 +135,8 @@ TravelAR is an iOS travel application built using Apple's ARKit.
 - **Code:** [Source 1](https://github.com/Averylamp/TravelAR)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ACneUIVByaY)
 - **All prizes at this hackathon (2):** Sponsor Prize - Amadeus - Best Use of Amadeus APIs · Sponsor Prize - Concur - Best Travel Hack
-- **How it used Amadeus:** The project lists amadeus among its Built With tags.
+- **How it used Amadeus:** The team built TravelAR with Apple's iOS ARKit, a Flask server hosted with Microsoft Azure, and many APIs including the Amadeus Travel APIs, the Microsoft Bing Image Search API, and the WolframAlpha Simple API.
+- **How it used SAP Concur:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -168,6 +173,7 @@ Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pr
 - **Code:** [Source 1](https://github.com/alvinzz/models)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Baidu - Best Paddle Hack: Second Place
+- **How it used Baidu:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -190,7 +196,7 @@ ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line
 - **Code:** [Source 1](https://github.com/fervorarc/PaddleBois)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Baidu - Machine Learning Community Prize
-- **How it used Baidu:** Since setup is extracted away, it's possible to quickly use and iterate upon various models.
+- **How it used Baidu:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -213,6 +219,7 @@ The team describes the project as “We use Baidu's Paddle Deep Learning framewo
 - **Code:** [Source 1](https://github.com/rfblue2/resentiment-analysis)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Baidu - Best Paddle Hack: First Place
+- **How it used Baidu:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -229,16 +236,17 @@ The team describes the project as “We use Baidu's Paddle Deep Learning framewo
 
 DecentPass is a decentralized application that stores your passwords securely on the Ethereum blockchain.
 
-Built with ethereum, metamask, node.js, solidity
+No public code linked · Built with ethereum, metamask, node.js, solidity
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** ethereum, metamask, node.js, solidity, truffle
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - ConsenSys - Best Use of Ethereum
+- **How it used ConsenSys:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -271,7 +279,7 @@ An interactive community game with wearable devices that harness storytelling an
 - **Code:** [Source 1](https://github.com/tedmyers/hackMIT)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Category Prize - Master of Both Worlds · Sponsor Prize - Disney - Best Use of Storytelling
-- **How it used Disney:** Nova communicates with the user through lights and sound.
+- **How it used Disney:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -298,7 +306,7 @@ While Unity and Microsoft's UWP are powerful platforms, sometimes there can be p
 - **Code:** [Source 1](https://github.com/negitoromaki/ad-blockAR)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate
-- **How it used GIPHY:** The project lists giphy among its Built With tags.
+- **How it used GIPHY:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -315,16 +323,17 @@ While Unity and Microsoft's UWP are powerful platforms, sometimes there can be p
 
 NewsMap utilizes global market visualization software to provide a real-time visualization of news reports mentioning companies across the world in over 65 languages.
 
-Built with carto, mapbox
+No public code linked · Built with carto, mapbox
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** carto, mapbox
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Goldman Sachs - Second Best Data Visualization
+- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -347,7 +356,7 @@ Determine the best path from two inside-building points scanning automatically t
 - **Code:** [Source 1](https://github.com/jjgarau/HackMIT2017)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Goldman Sachs - Best Data Visualization
-- **How it used Goldman Sachs:** Moreover, using fictional crowd data, it avoids big crowds so that it is safer and faster to walk inside buildings.
+- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -374,7 +383,7 @@ Allows people to join up in a "room" to work on tracks to make beats for a song.
 - **Code:** [Source 1](https://github.com/sbower213/band-together)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Firebase/Google - Best Use of Firebase
-- **How it used Google:** Used firebase for server and database/storage as well as to sync up sessions.
+- **How it used Google:** The team used firebase for server and database/storage as well as to sync up sessions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -387,17 +396,17 @@ Allows people to join up in a "room" to work on tracks to make beats for a song.
 
 Automatic purchase detection and rounding up to make donating to charity easy and habitual for any user.
 
-Built with firebase, ajax, css, html
+No public code linked · Built with firebase, ajax, css, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** ajax, css, firebase, html, javascript, jquery
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up
-- **How it used Google:** The project lists firebase among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -410,14 +419,14 @@ Built with firebase, ajax, css, html
 
 The product encrypts QR codes such that, if scanned by someone who is not authorized to see them, they present an incomprehensible amalgamation of symbols.
 
-Built with firebase, crypto, express.js, javascript
+No public code linked · Built with firebase, crypto, express.js, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** crypto, express.js, firebase, javascript, react-native, rsa
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up
 - **How it used Google:** This was built using cloud functions and Firebase as the back end and a Native-react front end.
@@ -443,14 +452,14 @@ Also won this track: [Fake Bananas](#project-fakebananas) (listed above)
 
 The product takes blurry images and makes them more readable.
 
-Built with ibm, ibm-watson, bluemix, google-image-search
+No public code linked · Built with ibm, ibm-watson, bluemix, google-image-search
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bluemix, google-image-search, ibm, ibm-watson, python
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** General Prize - First Place · Sponsor Prize - IBM - Most Innovative Use of IBM Technology
 - **How it used IBM:** The team used python3 and the IBM Watson library.
@@ -488,7 +497,7 @@ A roomba uses machine learning and a raspberry pi with a pi camera to search for
 - **Code:** [Source 1](https://github.com/dratini0/Roomba4E)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack
-- **How it used iRobot:** The project lists irobot-create among its Built With tags.
+- **How it used iRobot:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -505,17 +514,17 @@ A roomba uses machine learning and a raspberry pi with a pi camera to search for
 
 A travel itinerary generator for all major cities.
 
-[Demo video](https://www.youtube.com/watch?v=kAxDxnKp8_s) · Built with amadeus, express.js, google-directions, mongodb
+No public code linked · [Demo video](https://www.youtube.com/watch?v=kAxDxnKp8_s) · Built with amadeus, express.js, google-directions, mongodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amadeus, express.js, google-directions, mongodb, node.js, yelp
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kAxDxnKp8_s)
 - **All prizes at this hackathon (1):** Sponsor Prize - Jumpstart - Best Hack with Startup Opportunity, Runner Up
-- **How it used Jumpstart:** The team are an easy-to-use website that will take your current location, interests, and generate a custom itinerary that will fill the time you have to kill.
+- **How it used Jumpstart:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -532,17 +541,17 @@ A travel itinerary generator for all major cities.
 
 Get personal details of someone just by looking at them with the magic of a HoloLens, face recognition, and Facebook.
 
-Built with bottle, c++, facebook, facebook-graph
+No public code linked · Built with bottle, c++, facebook, facebook-graph
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** bottle, c++, facebook, facebook-graph, microsoft-hololens, phantomjs, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Facebook - Best Use of Facebook API
-- **How it used Meta:** NSAR shows names and other details next to the faces of people you look at with a HoloLens.
+- **How it used Meta:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -569,6 +578,7 @@ Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Lear
 - **Code:** [Source 1](https://github.com/96imranahmed/pure-interaction)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Microsoft - Best Microsoft Hack
+- **How it used Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -585,17 +595,17 @@ Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Lear
 
 Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs.
 
-Built with flask, giphy-api, google-cloud-vision, ibm-watson
+No public code linked · Built with flask, giphy-api, google-cloud-vision, ibm-watson
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** flask, giphy-api, google-cloud-vision, ibm-watson, natural-language-processing, python, react-native
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Nasdaq - Best Re-imagination of Market
-- **How it used Nasdaq:** A user opens the app, takes a picture of a company's logo, and the company's brand name will be recognized.
+- **How it used Nasdaq:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -612,17 +622,17 @@ Built with flask, giphy-api, google-cloud-vision, ibm-watson
 
 Find your dorm culture fit Harry Potter Style.
 
-Built with android, arduino, c++, hardware
+No public code linked · Built with android, arduino, c++, hardware
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** android, arduino, c++, hardware, java, machine-learning, microsoft, microsoft-nlp, microsoft-speech-to-text, neopixel, python, sentiment-analysis, servo, websockets
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Samsara - Best IoT Hack
-- **How it used Samsara:** This sorting hat imitates the Harry Potter experience.
+- **How it used Samsara:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

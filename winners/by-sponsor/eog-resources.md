@@ -23,6 +23,8 @@
 
 FlowState is an intelligent operations console that combines real-time telemetry, automated failure detection, and cost-optimized response planning to help operators save time and costs.
 
+**How it used EOG Resources:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/LegendaryPenguin/HackUTD-2026) · [Demo video](https://www.youtube.com/watch?v=R7WwG0Z0Jv4) · Built with framer, gsap, react, three.js
 
 ### [Hivemind](https://devpost.com/software/hivemind-lnhy8g)
@@ -30,6 +32,8 @@ FlowState is an intelligent operations console that combines real-time telemetry
 [HackUTD 2026](../by-hackathon/hackutd-2026.md#project-hivemind-lnhy8g) · **EOG Resources Track**
 
 The night shift, with a hive behind it.
+
+**How it used EOG Resources:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Jazmin5465/Hivemind) · [Demo video](https://www.youtube.com/watch?v=tDWAyvH1agU) · Built with brev, docker, fastapi, lightgbm
 
@@ -41,6 +45,8 @@ The night shift, with a hive behind it.
 
 The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at varying fill and drain rates, with witches randomly collecting their contents.
 
+**How it used EOG Resources:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/LegendaryPenguin/Enchantress) · [Demo video](https://www.youtube.com/watch?v=wmMVLoRToEE) · Built with css, html, javascript, typescript
 
 ### [PoyoLabs](https://devpost.com/software/poyolabs-47n0fz)
@@ -49,7 +55,9 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 
 PoyoLabs is a gamified dashboard that allows users to track and monitor multiple cauldrons (data points) from one hand-designed interface.
 
-[Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
+**How it used EOG Resources:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
 
 ## 2024 winners
 
@@ -59,6 +67,8 @@ PoyoLabs is a gamified dashboard that allows users to track and monitor multiple
 
 It takes in data about a well and tries to detect anomalies to predict when hydrate buildups might be happening.
 
+**How it used EOG Resources:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/zekestephens/dhy-n0) · [Demo video](https://www.youtube.com/watch?v=u_p-SZjQW9U) · Built with flask, pandas, python, react
 
 ### [PipeBrAIns](https://devpost.com/software/pipebrains)
@@ -66,6 +76,8 @@ It takes in data about a well and tries to detect anomalies to predict when hydr
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-pipebrains) · **EOG Resources**
 
 Monitor your pipes and and the likelihood that there is a hydrate.
+
+**How it used EOG Resources:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/lightningbolt7/HackUTD-XI) · [Demo video](https://www.youtube.com/watch?v=A-HWoCepzhw) · Built with css, firebase, html, javascript
 

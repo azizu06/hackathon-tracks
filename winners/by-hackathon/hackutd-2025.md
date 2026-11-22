@@ -51,7 +51,7 @@ These projects won more than one prize here. Each one is listed once.
 
 DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to generate detailed step by step work plans, inspect real time inventory availability, and replan tasks when issues arise.
 
-[Code](https://github.com/Jeanpascal-Gauthier/Data-Driver) · [Demo video](https://www.youtube.com/watch?v=w0YteTzoGc4) · Built with agents, ai, flask, langchain
+[Code](https://github.com/Jeanpascal-Gauthier/Data-Driver) · [Demo video](https://www.youtube.com/watch?v=w0YteTzoGc4) · Built with nemotron, agents, ai, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -61,8 +61,8 @@ DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to ge
 - **Code:** [Source 1](https://github.com/Jeanpascal-Gauthier/Data-Driver)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=w0YteTzoGc4)
 - **All prizes at this hackathon (2):** Northmark Compute &amp; Cloud · Nvidia
-- **How it used Northmark Compute &amp; Cloud:** DataDriver is an Agentic AI-powered copilot for data center technicians.
-- **How it used NVIDIA:** DataDriver is an Agentic AI-powered copilot for data center technicians.
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+- **How it used NVIDIA:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -85,8 +85,8 @@ A command-center for T-Mobile product managers to anticipate customer needs. See
 - **Code:** [Source 1](https://github.com/Siriapps/HarmoniQ)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rJU3_Fffqnc)
 - **All prizes at this hackathon (2):** Best Use of Auth0 · T-Mobile
-- **How it used Auth0:** HarmoniQ is an AI-driven dashboard that integrates live network performance analytics, social sentiment streams, resource allocation and predictive insights into a single workspace.
-- **How it used T-Mobile:** HarmoniQ is an AI-driven dashboard that integrates live network performance analytics, social sentiment streams, resource allocation and predictive insights into a single workspace.
+- **How it used Auth0:** Sponsor use not stated on Devpost
+- **How it used T-Mobile:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -99,17 +99,17 @@ A command-center for T-Mobile product managers to anticipate customer needs. See
 
 Expediting the contracts and document signings process between vendors and clients by bringing clarity, transparency, and accountability.
 
-[Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** anchor, gemini, node.js, react, rust
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OgYibmNNUD8)
 - **All prizes at this hackathon (2):** Best Use of Solana · CBRE
-- **How it used CBRE:** Pact is a comprehensive blockchain-powered contract management system that revolutionizes how organizations create, collaborate on, and enforce legal agreements.
+- **How it used CBRE:** Sponsor use not stated on Devpost
 - **How it used Solana:** Pact runs on three Solana programs written in Rust with Anchor.
 - **Checked on Devpost:** 2026-11-21
 
@@ -123,7 +123,7 @@ Expediting the contracts and document signings process between vendors and clien
 
 Toyotron is a solution that allows users to easily find their dream Toyota through agentic AI powered by NVIDIA's intelligent open source foundational model, Nemotron.
 
-[Code](https://github.com/anbguye/hackutd-Toyota-Toyotron) · [Demo video](https://www.youtube.com/watch?v=CSc6zKQRxIY) · Built with ai, css, nemotron, next.js
+[Code](https://github.com/anbguye/hackutd-Toyota-Toyotron) · [Demo video](https://www.youtube.com/watch?v=CSc6zKQRxIY) · Built with nemotron, ai, css, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -133,8 +133,8 @@ Toyotron is a solution that allows users to easily find their dream Toyota throu
 - **Code:** [Source 1](https://github.com/anbguye/hackutd-Toyota-Toyotron)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CSc6zKQRxIY)
 - **All prizes at this hackathon (2):** Nvidia · Toyota Financial Services
-- **How it used NVIDIA:** It conducts an onboarding survey to understand a shopper’s budget, lifestyle, and preferences, then recommends vehicles that truly fit.
-- **How it used Toyota Financial Services:** It conducts an onboarding survey to understand a shopper’s budget, lifestyle, and preferences, then recommends vehicles that truly fit.
+- **How it used NVIDIA:** The team orchestrated agents using Nemotron as the reasoning core, wrapped in a Next.js frontend that delivers both chat and simulated phone-call experiences.
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -169,7 +169,7 @@ Let kids learn how to manage their own finances with Spendy.
 - **Code:** [Source 1](https://github.com/brendanshen24/SpendWithSpendy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EK8jEkWBTbg)
 - **All prizes at this hackathon (2):** Best Design · Capital One
-- **How it used Capital One:** Kids will have a Spendy card that can be spend on their favorite games.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -198,6 +198,7 @@ Cura provides forecasting and analytical insights, commercial real estate proper
 - **Code:** [Source 1](https://github.com/armaanamatya/HackUTD2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lFJVLqDG710)
 - **All prizes at this hackathon (1):** CBRE
+- **How it used CBRE:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -210,16 +211,17 @@ Cura provides forecasting and analytical insights, commercial real estate proper
 
 The app is a full-featured real estate helper that helps you find and trust properties.
 
-[Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
+No public code linked · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** google-gemini, google-maps, react, recharts, shadn, sonner, tailwind, typescript, vite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SQlAZdMoI2k)
 - **All prizes at this hackathon (1):** CBRE
+- **How it used CBRE:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -236,16 +238,17 @@ The app is a full-featured real estate helper that helps you find and trust prop
 
 bevinAI is an AI powered orchestration engine that acts as the central nervous system for your development lifecycle.
 
-[Demo video](https://www.youtube.com/watch?v=a4IBdqUq1vI) · Built with api, confluence, css, django
+No public code linked · [Demo video](https://www.youtube.com/watch?v=a4IBdqUq1vI) · Built with api, confluence, css, django
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** api, confluence, css, django, express.js, html5, javascript, jira, mcp, mysql, node.js, npm, nvidia, pnc, python, react, server, slack, solana
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=a4IBdqUq1vI)
 - **All prizes at this hackathon (1):** Best Use of DigitalOcean Gradient AI by MLH
+- **How it used DigitalOcean:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -262,16 +265,17 @@ bevinAI is an AI powered orchestration engine that acts as the central nervous s
 
 Agentic assistant for data center technicians to streamline repairs and improve efficiency with automated tests and ticket management.
 
-[Demo video](https://www.youtube.com/watch?v=-osJDI2GaQE) · Built with .
+No public code linked · [Demo video](https://www.youtube.com/watch?v=-osJDI2GaQE) · Built with .
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** .
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-osJDI2GaQE)
 - **All prizes at this hackathon (1):** Best Use of ElevenLabs by MLH
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -298,6 +302,7 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 - **Code:** [Source 1](https://github.com/LegendaryPenguin/Enchantress)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wmMVLoRToEE)
 - **All prizes at this hackathon (1):** EOG Resources
+- **How it used EOG Resources:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -310,16 +315,17 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 
 PoyoLabs is a gamified dashboard that allows users to track and monitor multiple cauldrons (data points) from one hand-designed interface.
 
-[Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** auth0, css, flask, godaddy, html, nemotron, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ah0ZCHMdz_8)
 - **All prizes at this hackathon (1):** EOG Resources
+- **How it used EOG Resources:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -346,7 +352,7 @@ The team set out to solve the often ineffective ticket-to-response systems prese
 - **Code:** [Source 1](https://github.com/zekestephens/hyperlynx)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wL78va-T-Ug)
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** The project lists godaddy among its Built With tags.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -373,7 +379,7 @@ Vendor onboarding at light speed using AWS.
 - **Code:** [Source 1](https://github.com/Rabib001/HackUTD_2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L-hYahgOGGk)
 - **All prizes at this hackathon (1):** Goldman Sachs
-- **How it used Goldman Sachs:** AutoBoard transforms the vendor lifecycle into a streamlined, automated workflow:.
+- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,17 +392,17 @@ Vendor onboarding at light speed using AWS.
 
 Stamped is a secure and intelligent onboarding platform designed for financial institutions. It streamlines client and vendor onboarding with AI-powered features, and comprehensive compliance tools.
 
-[Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** next.js, react, supabase, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=umt6t5bXJXo)
 - **All prizes at this hackathon (1):** Goldman Sachs
-- **How it used Goldman Sachs:** Stamped is an intelligent onboarding platform that manages the entire client lifecycle from lead prospecting to full onboarding.
+- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -419,7 +425,7 @@ TrustIssues.AI automates vendor onboarding with a multi-agent AI. Agents extract
 - **Code:** [Source 1](https://github.com/ybavgito/TrustIssues.AI-HackUTD-2025-Winner-Goldman-Sachs-Track)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6aPw8P9URv0)
 - **All prizes at this hackathon (1):** Goldman Sachs
-- **How it used Goldman Sachs:** The team learned a shocking amount about the power and pitfalls of agentic AI, in equally shocking amount of time.
+- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -475,7 +481,7 @@ A platform that supports data center technicians in a multitude of daily tasks, 
 - **Code:** [Source 1](https://github.com/anishalle/hackutd2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sbdnZRNmm8o)
 - **All prizes at this hackathon (1):** Northmark Compute &amp; Cloud
-- **How it used Northmark Compute &amp; Cloud:** DC Daddy is a comprehensive data center operations platform that solves five critical pain points through an integrated ecosystem:.
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -498,7 +504,7 @@ A tool for helping Engineers and on-site technicians communicate and organize th
 - **Code:** [Source 1](https://github.com/NEjim2001/hackutd-2025) · [Source 2](https://github.com/stardestro/Hackutd2025IOSapp)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sQVzqluIUdQ)
 - **All prizes at this hackathon (1):** Northmark Compute &amp; Cloud
-- **How it used Northmark Compute &amp; Cloud:** Some of learned react for the first time, other got to work on their design skills in high stakes discussions.
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -517,7 +523,7 @@ Also won this track: [DataDriver](#project-datadriver), [Toyotron](#project-toyo
 
 Alchemetrics is a real-time AI dashboard that tracks cauldrons, matches tickets, and forecasts overflows, bringing automation and clarity to Poyo’s Potion Factory’s magical chaos.
 
-[Code](https://github.com/Lanisha20/Alchemetrics) · [Demo video](https://www.youtube.com/watch?v=_XkRiy9jCP8) · Built with css, fastapi, nemotron, nextjs
+[Code](https://github.com/Lanisha20/Alchemetrics) · [Demo video](https://www.youtube.com/watch?v=_XkRiy9jCP8) · Built with nemotron, css, fastapi, nextjs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -554,6 +560,7 @@ AutoPM runs an end-to-end PM workflow inside a “Space” (one project), powere
 - **Code:** [Source 1](https://github.com/hrishinave/HackUTD2)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sNpusFMyFoI)
 - **All prizes at this hackathon (1):** PNC Bank
+- **How it used PNC Bank:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -576,6 +583,7 @@ Prodplex acts like a team of intelligent assistants, each powered by a different
 - **Code:** [Source 1](https://github.com/Ka2507/hackutd2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pX8h4Dt-67c)
 - **All prizes at this hackathon (1):** PNC Bank
+- **How it used PNC Bank:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -598,6 +606,7 @@ ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discove
 - **Code:** [Source 1](https://github.com/christinaduthie/produh)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0nwymM2ZtSw)
 - **All prizes at this hackathon (1):** PNC Bank
+- **How it used PNC Bank:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -630,7 +639,7 @@ Compare Your API Versions with Confidence.
 - **Code:** [Source 1](https://github.com/ParsaBazrpash/MirrorAPI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zJ3Deft3lVo)
 - **All prizes at this hackathon (1):** StateFarm
-- **How it used State Farm:** The team learned countless industry best practices when it came to API design and version control.
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -653,6 +662,7 @@ qAPIbara is an AI-powered regression analysis platform that automatically compar
 - **Code:** [Source 1](https://github.com/nathanhanxp/qAPIbara)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TCHkbt_CPrM)
 - **All prizes at this hackathon (1):** StateFarm
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -675,7 +685,7 @@ Struggling with accidentally making subtle breaking changes to your APIs? Are th
 - **Code:** [Source 1](https://github.com/Arian04/UpGuardian)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VLvWZeT5NOk)
 - **All prizes at this hackathon (1):** StateFarm
-- **How it used State Farm:** UpGuardian helps developers with the process of updating their codebases to handle upgraded versions of the APIs they rely on.
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -704,7 +714,7 @@ A real-time, cross-domain Customer Happiness Index that detects, tracks, and hel
 - **Code:** [Source 1](https://github.com/iampritisee/hackutd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VelZ-2xXLAw)
 - **All prizes at this hackathon (1):** T-Mobile
-- **How it used T-Mobile:** A real-time, multimodal Customer Happiness Index built to detect, understand, and improve how people feel about T-Mobile.
+- **How it used T-Mobile:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -727,7 +737,7 @@ Unified dashboard for T-Mobile PMs to track real-time customer sentiment, perfor
 - **Code:** [Source 1](https://github.com/AbdullahMoghal/t-insight-hack2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4c7uRVxoJfc)
 - **All prizes at this hackathon (1):** T-Mobile
-- **How it used T-Mobile:** Consolidates multi‑source customer signals (Reddit, outage trackers, community forums, internal feedback) into a unified timeline.
+- **How it used T-Mobile:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -756,7 +766,7 @@ Discover the perfect car with a swipe. As students learn finance, Hingine uses g
 - **Code:** [Source 1](https://github.com/Pancakemix31/Hingine)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7elxs86J_xQ)
 - **All prizes at this hackathon (1):** Toyota Financial Services
-- **How it used Toyota Financial Services:** Hingine helps students find cars that fit their budget and credit profile through a swipe interface connected to Toyota Financial Services.
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -779,7 +789,7 @@ Discover the perfect car with a swipe. As students learn finance, Hingine uses g
 - **Code:** [Source 1](https://github.com/adamFabsa/Kachow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ebR9JQ7yu48)
 - **All prizes at this hackathon (1):** Toyota Financial Services
-- **How it used Toyota Financial Services:** With no AI hallucinations , Kachow eliminates the headache of purchasing a car.
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

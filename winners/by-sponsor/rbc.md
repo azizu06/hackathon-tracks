@@ -23,6 +23,8 @@
 
 An evidence-first finance research harness that uses AI to deliver fully auditable, citation-backed financial insights.
 
+**How it used RBC:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/pravinpaudel/ai-harnesss-htn-2026) · Built with agent, ai, harness, openai
 
 ### [Signal](https://devpost.com/software/temp-project-0sp3zv)
@@ -30,6 +32,8 @@ An evidence-first finance research harness that uses AI to deliver fully auditab
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-temp-project-0sp3zv) · **Signal in the Noise**
 
 Multi-agent research that cites its sources and flags conflicts.
+
+**How it used RBC:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/liamma06/searchGM) · [Demo video](https://www.youtube.com/watch?v=uoozwdHRqZA) · Built with mongodb, python
 
@@ -40,6 +44,8 @@ Multi-agent research that cites its sources and flags conflicts.
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-honkanomics) · **RBC InvestEase - Investing for the Future**
 
 Learn investing through AI-tailored lessons, playful goose gamification, and real portfolio simulations linked to RBC InvestEase.
+
+**How it used RBC:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/svn05/v2webhonkonomics) · Built with gemeni, investease, next.js, openai
 
@@ -61,6 +67,8 @@ Money Talks transforms raw bank statements into actionable financial insights th
 
 Earn and burn rewards points by making green choices 🔥.
 
+**How it used RBC:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jeffrey-zang/ecorewards) · [Demo video](https://www.youtube.com/watch?v=xUVjvFS3gB4) · Built with rbc-avion-api, agi, express.js, friendship
 
 ### [Savvy Saver](https://devpost.com/software/savvy-saver)
@@ -68,6 +76,8 @@ Earn and burn rewards points by making green choices 🔥.
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-savvy-saver) · **RBC Avion Rewards – Making Your Point with Our Points**
 
 Your #1 financial advisor that knows everything about your current spending, your stage of life, and your investment desires, and gamifies better spending habits.
+
+**How it used RBC:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/asavy79/hack-the-north-budget-tracker) · [Demo video](https://www.youtube.com/watch?v=3O8A6GM1vic) · Built with rbc, cohere, firebase, javascript
 
@@ -79,7 +89,9 @@ Your #1 financial advisor that knows everything about your current spending, you
 
 A data-driven application for predicting corporate credit ratings.
 
-Built with angular.js, firebase, ionic, jupyter
+**How it used RBC:** FujiFusion trains its credit-rating model on an RBC dataset of company financial indicators and ratings.
+
+No public code linked · Built with angular.js, firebase, ionic, jupyter
 
 ### [Structurall](https://devpost.com/software/structurall)
 
@@ -87,7 +99,9 @@ Built with angular.js, firebase, ionic, jupyter
 
 Structurall enables investment banks to leverage unstructured data with natural language processing.
 
-Built with axios, azure, express.js, node.js
+**How it used RBC:** Sponsor use not stated on Devpost
+
+No public code linked · Built with axios, azure, express.js, node.js
 
 ## Track names and requirements
 

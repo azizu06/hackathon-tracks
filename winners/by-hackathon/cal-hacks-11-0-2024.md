@@ -68,7 +68,7 @@ Empowering Artists with Blockchain: Seamless Royalty Payments and Ownership Cont
 - **Code:** [Source 1](https://github.com/ChiragSeth14/Blockify)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bKVkiuuv-uM)
 - **All prizes at this hackathon (2):** Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize · Sui: Reimagine the internet with Sui
-- **How it used Berkeley RDI:** This would allow artists to have full ownership over their work and receive a fair compensation from streams which is currently far from the reality.
+- **How it used Berkeley RDI:** Sponsor use not stated on Devpost
 - **How it used Sui:** Wallet Integration: Sui wallets were integrated to enable direct payments to artists, with real-time updates on royalties as songs are streamed.
 - **Checked on Devpost:** 2026-11-21
 
@@ -92,8 +92,8 @@ Memento helps elderly people connect with their families by reflecting on and sh
 - **Code:** [Source 1](https://github.com/AlexLuu1/Memento)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Reflex: Best app built using reflex.dev · Ripple: Best App by Ripple
-- **How it used Reflex:** The project lists reflex among its Built With tags.
-- **How it used Ripple:** Memento allows families to document fond memories that they have, and share them to the user.
+- **How it used Reflex:** Sponsor use not stated on Devpost
+- **How it used Ripple:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -116,7 +116,7 @@ An augmented reality tool guides stroke survivors through physical therapy exerc
 - **Code:** [Source 1](https://github.com/ppilli1/RecovARy) · [Source 2](https://github.com/pranavi-ch/recovARy-agents)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Fetch.ai: Agentic Track Prize · Snap: Dream it. Build it.
-- **How it used Fetch.ai:** The project lists fetch.ai among its Built With tags.
+- **How it used Fetch.ai:** Spectacles, Lens Studio, Fetch.ai, Groq, Xano, and React JS.
 - **How it used Snap:** The team built this app using the following technologies: Snap Inc.
 - **Checked on Devpost:** 2026-11-21
 
@@ -146,7 +146,7 @@ Deep Retention of Concepts using research-backed techniques.
 - **Code:** [Source 1](https://github.com/Priyansh4444/DeeR)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1LN9q6boel8)
 - **All prizes at this hackathon (1):** Agora: Best Practice of TEN
-- **How it used Agora:** DeeR is an AI-powered study companion that:.
+- **How it used Agora:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -229,7 +229,7 @@ Remove the need to manually update your docs. When you make a PR, Doc's are auto
 - **Code:** [Source 1](https://github.com/Hassanmushtaq524/groundtruth)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Chroma: Build your project with Chroma in an AI application
-- **How it used Chroma:** Each time you make a commit to a specific repo, a new entry is made.
+- **How it used Chroma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -252,7 +252,7 @@ Military personnel will utilize Lucy to identify potential threats during field 
 - **Code:** [Source 1](https://github.com/Jinash-Rouniyar/SpotDog)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Qpsvuxynwek)
 - **All prizes at this hackathon (1):** Chroma: Build your project with Chroma in an AI application
-- **How it used Chroma:** Lucy uses the capabilities of Spot Robot Dog to help identify potentially threatening elements in a surrounding through computer vision and advanced wave sensing capabilities.
+- **How it used Chroma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -275,7 +275,7 @@ Pawn Up: Your Personal AI Chess Coach—Analyze, Train, and Master Chess on Your
 - **Code:** [Source 1](https://github.com/satwikug25/calhacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Chroma: Build your project with Chroma in an AI application
-- **How it used Chroma:** The project lists chroma among its Built With tags.
+- **How it used Chroma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -348,7 +348,7 @@ Real time translation from text to braille.
 - **Code:** [Source 1](https://github.com/rami-maalouf/text2dot)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Deepgram: Deepgram Voice Agent Quest
-- **How it used Deepgram:** The project lists deepgram among its Built With tags.
+- **How it used Deepgram:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -400,7 +400,7 @@ A browser assistant helps blind users interact with websites through an accessib
 - **Code:** [Source 1](https://github.com/RoyceAroc/browseblind)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=39JkocXmKnA)
 - **All prizes at this hackathon (1):** Fetch.ai: Agentic Track Prize
-- **How it used Fetch.ai:** A user can ask the browser to click on any element/part of the page and also fill in information on the page via true NLP.
+- **How it used Fetch.ai:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -423,7 +423,7 @@ Let's introduce you to your new friend, Databae.
 - **Code:** [Source 1](https://github.com/trungtran1234/databae)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=b37oVjFhQ5s)
 - **All prizes at this hackathon (1):** Fetch.ai: Agentic Track Prize
-- **How it used Fetch.ai:** The project lists uagents among its Built With tags.
+- **How it used Fetch.ai:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -436,14 +436,14 @@ Let's introduce you to your new friend, Databae.
 
 A travel planner suggests destinations and builds itineraries from user preferences.
 
-[Demo video](https://www.youtube.com/watch?v=anM8nKAcNgM) · Built with css, google-calendar, google-maps, javascript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=anM8nKAcNgM) · Built with css, google-calendar, google-maps, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, google-calendar, google-maps, javascript, large-language-model, natural-language-processing, python, reddit
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=anM8nKAcNgM)
 - **All prizes at this hackathon (1):** Fetch.ai: Agentic Track Prize
 - **How it used Fetch.ai:** The team used Fetch AI to facilitate conversations and communication between the agents.
@@ -459,17 +459,17 @@ A travel planner suggests destinations and builds itineraries from user preferen
 
 Simulating virtual cities to outsmart viral outbreaks.
 
-Built with fast, fetch, groq, mapbox
+No public code linked · Built with fast, fetch, groq, mapbox
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** fast, fetch, groq, mapbox, python, react
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Fetch.ai: Agentic Track Prize
-- **How it used Fetch.ai:** fetch.ai: Used for creating multiple AI agents for simulating.
+- **How it used Fetch.ai:** These personalities are turned into their own individual Fetch.ai agents who control their own lives and communicate with each other.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -515,7 +515,7 @@ A one-of-a-kind, AR assistant medical system is made to guide first emergency fi
 - **Code:** [Source 1](https://github.com/amanpdesai/calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=q3oeRe1I9VY)
 - **All prizes at this hackathon (1):** Fetch.ai: Agentic Track Prize
-- **How it used Fetch.ai:** Fetch.ai provided the framework that powered the agents driving the entire system design.
+- **How it used Fetch.ai:** Fetch.ai : Manages the system with LLM-based agents, facilitating task automation and improving system performance through iterative feedback.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -542,7 +542,7 @@ A kitchen planner uses pantry inventory and dietary preferences to suggest recip
 - **Code:** [Source 1](https://github.com/Sachin-dot-py/Grocify)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3mnrfpyawdU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Grocify is like having a personal grocery assistant in your pocket, making food management easy.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -615,7 +615,7 @@ An interactive story gives schoolchildren branching choices while they practice 
 - **Code:** [Source 1](https://github.com/catfeeshing/storyscape)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Google: Most creative app
-- **How it used Google:** The project lists firebase, gemini among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -642,7 +642,7 @@ A note taker turns live audio into written notes.
 - **Code:** [Source 1](https://github.com/pnavab/calhacks11)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NWODx14Z6pw)
 - **All prizes at this hackathon (1):** Groq: The Best on Groq
-- **How it used Groq:** The project lists groq among its Built With tags.
+- **How it used Groq:** The team connected its embedding models to Groq in a multi-server setup.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -669,7 +669,7 @@ Have you ever written insecure code? Probably, but how do you know.
 - **Code:** [Source 1](https://github.com/tbwrigh/CalHacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Terraform
-- **How it used HashiCorp:** AutoLock automates the security of your GitHub repositories.
+- **How it used HashiCorp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -686,14 +686,14 @@ Have you ever written insecure code? Probably, but how do you know.
 
 "Healora, powered by Nurse Joy, uses empathetic AI for symptom tracking and predictive analysis, helping patients receive faster care while easing the workload for healthcare professionals.".
 
-[Demo video](https://www.youtube.com/watch?v=0LENXMAW3Cs) · Built with hume.ai, fastapi, fetch.ai, figma
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0LENXMAW3Cs) · Built with hume.ai, fastapi, fetch.ai, figma
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** fastapi, fetch.ai, figma, framermotion, github, groq, hume.ai, next.js, shadcn, supabase, tailwindcss
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0LENXMAW3Cs)
 - **All prizes at this hackathon (1):** Hume: Best use of emotionally intelligent voice AI
 - **How it used Hume:** Empathetic AI : Helora incorporates emotional intelligence to provide compassionate, context-aware responses, ensuring that patients feel understood and supported during their care, powered by Hume AI.
@@ -723,7 +723,7 @@ Automatically file home insurance claims after natural disasters.
 - **Code:** [Source 1](https://github.com/SonavAgarwal/calhacks-24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2fkQlLvGIrQ)
 - **All prizes at this hackathon (1):** Hyperbolic: AI Inference Application Bounty
-- **How it used Hyperbolic:** The team use Hyperbolic's inference (Qwen2 VL7B) to analyze each area and decide if it is an object to record and find its estimated monetary value.
+- **How it used Hyperbolic:** The team uses Hyperbolic's inference (Qwen2 VL7B) to analyze each area and decide if it is an object to record and find its estimated monetary value.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -736,17 +736,17 @@ Automatically file home insurance claims after natural disasters.
 
 Talk to your toys with Teddy.AI; the worlds first AI powered teddy bear that can tell children stories and tutor them through its fun journeys riddled with interactive academic puzzles.
 
-[Demo video](https://www.youtube.com/watch?v=PFFHGMIax6E) · Built with hyperbolic, gemini, generativeai, hume
+No public code linked · [Demo video](https://www.youtube.com/watch?v=PFFHGMIax6E) · Built with hyperbolic, gemini, generativeai, hume
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** gemini, generativeai, hume, hyperbolic, javascript, large-language-models, node.js, raspberry-pi
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PFFHGMIax6E)
 - **All prizes at this hackathon (1):** Hyperbolic: AI Inference Application Bounty
-- **How it used Hyperbolic:** The project lists hyperbolic among its Built With tags.
+- **How it used Hyperbolic:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -786,17 +786,17 @@ The product leverages advanced AI technology to enhance school safety by detecti
 
 An AI email assistant that automates form-filling, summarizes messages, and streamlines inbox tasks.
 
-[Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ) · Built with drizzle, google-cloud, groq, nextjs
+No public code linked · [Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ) · Built with drizzle, google-cloud, groq, nextjs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** drizzle, google-cloud, groq, nextjs, shadcn, supabase, tailwind, typescript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aPkajwX18lQ)
 - **All prizes at this hackathon (1):** Interaction Company: Build AI Agents that Proactively Handle Your Email!
-- **How it used Interaction Company:** Leyline connects to your Gmail account and parses incoming emails.
+- **How it used Interaction Company:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -819,6 +819,7 @@ Nova is an automated email assistant that intelligently processes incoming email
 - **Code:** [Source 1](https://github.com/jpsingaraju/nova-ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Interaction Company: Build AI Agents that Proactively Handle Your Email!
+- **How it used Interaction Company:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -862,16 +863,17 @@ Elevyn empowers creators to monetize exclusive content and fundraisers through b
 
 PepsiCo has many sustainability practices, but there’s no centralized metric to assess progress across goals. 'Peps Towards Sustainability' provides a way to measure the journey to a green future.
 
-Built with css, html, javascript
+No public code linked · Built with css, html, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, html, javascript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** SCET/Pepsico: PEP+ Sustainability Prize
+- **How it used PepsiCo / Berkeley SCET:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -894,6 +896,7 @@ Improvements in Pepsi's Global Value chain end with consumers but so does waste.
 - **Code:** [Source 1](https://github.com/garvcodes/sustainableshowcase)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** SCET/Pepsico: PEP+ Sustainability Prize
+- **How it used PepsiCo / Berkeley SCET:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -922,7 +925,7 @@ Tool Assisted Shopping; Accelerate your shopping to robot-like efficiency.
 - **Code:** [Source 1](https://github.com/Turtdle/TAS-Frontend) · [Source 2](https://github.com/Turtdle/TAShopping-Backend) · [Source 3](https://github.com/s-akhtar-dev/TAS-Shopping-App)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Reflex: Best app built using reflex.dev
-- **How it used Reflex:** Webapp: The web application is developed using Reflex , providing a responsive and modern interface for users.
+- **How it used Reflex:** Webapp: The web application is developed using Reflex, providing a responsive and modern interface for users.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -941,17 +944,17 @@ Also won this track: [Memento](#project-memento-1p0jel) (listed above)
 
 Create and deploy audited smart contracts on the XRPL EVM side chain using easy to understand smart contract blocks.
 
-[Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeVU) · Built with ripple, evm, nextjs, rainbowkit
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeVU) · Built with ripple, evm, nextjs, rainbowkit
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** evm, nextjs, rainbowkit, ripple, sidechain, tailwind, typescript, wagmi
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Tjbo1wRPeVU)
 - **All prizes at this hackathon (1):** Ripple: Best App by Ripple
-- **How it used Ripple:** The project lists ripple among its Built With tags.
+- **How it used Ripple:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1005,7 +1008,7 @@ Satellite-enabled wireless sensor network for early wildfire detection.
 - **Code:** [Source 1](https://github.com/tsai-henry/canary)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OwAMRadd5Y8)
 - **All prizes at this hackathon (1):** Skylo: Seamlessly Switch from Cellular to Satellite
-- **How it used Skylo:** The project lists skylo among its Built With tags.
+- **How it used Skylo:** The gateway computer leverages a Monogoto Satellite NTN (graciously provided by Skylo) and receives all of the incoming sensor data from its local network, which is then relayed to a geostationary satellite.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1018,17 +1021,17 @@ Satellite-enabled wireless sensor network for early wildfire detection.
 
 FRED is a satellite-powered emergency response tool that allows users in remote areas to send GPS coordinates, images, and voice data to responders, ensuring help can be dispatched from anywhere.
 
-[Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
+No public code linked · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cellular, firebase, ios, llama, python, raspberry-pi, satellite, skylo, swift
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://vimeo.com/1021488745)
 - **All prizes at this hackathon (1):** Skylo: Seamlessly Switch from Cellular to Satellite
-- **How it used Skylo:** The project lists skylo among its Built With tags.
+- **How it used Skylo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1051,7 +1054,7 @@ A Lifeline When It Matters Most.
 - **Code:** [Source 1](https://github.com/12458/calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=W8BvOO4-qPs)
 - **All prizes at this hackathon (2):** Cal Hacks: Hack for Impact · Skylo: Seamlessly Switch from Cellular to Satellite
-- **How it used Skylo:** The core hardware components include LoRa radios, which provide long-range communication, and Skylo satellite connectivity, enabling nodes to transmit data to the internet using the MQTT protocol.
+- **How it used Skylo:** A key feature of this network is the integration of a "super" node equipped with satellite connectivity (via Skylo), which serves as the bridge between local nodes and a centralized server.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1070,14 +1073,14 @@ Also won this track: [RecovARy](#project-recovary) (listed above)
 
 Welcome to the JARVIS for first responders.
 
-[Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
+No public code linked · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** face-recognition, flask, javascript, lens-studio, pil, python, snapchat, spectacles, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iVBfLWnqzRc)
 - **All prizes at this hackathon (1):** Snap: Dream it. Build it.
 - **How it used Snap:** The team built EYEdentity using a combination of advanced facial recognition and facial tracking algorithms and the new Snap Spectacles.
@@ -1103,7 +1106,7 @@ A treasure hunt uses Snap Spectacles to show clues and phone vibrations to guide
 - **Code:** [Source 1](https://github.com/dawoon19/treasure-hunt-spectacles)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Snap: Dream it. Build it.
-- **How it used Snap:** Nearly everything was done using in-house libraries, assets, and the GenAI suite within Snap's Lens Studio.
+- **How it used Snap:** This game integrates the Spectacles gear and smartphones together by allowing users to leverage the gyroscopic, haptic, and tactile functionalities of phones to control or receive input about their AR environment.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1132,7 +1135,7 @@ Clients talk to the AI, explaining the type of candidate they need and any speci
 - **Code:** [Source 1](https://github.com/DPulavarthy/CalHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0uHPTtYydYI)
 - **All prizes at this hackathon (1):** Sui: Reimagine the internet with Sui
-- **How it used Sui:** The project lists sui among its Built With tags.
+- **How it used Sui:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1145,17 +1148,17 @@ Clients talk to the AI, explaining the type of candidate they need and any speci
 
 The website serves as a decentralized gift card trading marketplace .
 
-[Demo video](https://www.youtube.com/watch?v=W1QGVNJGV7g) · Built with sui, express.js, node.js, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=W1QGVNJGV7g) · Built with sui, express.js, node.js, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** express.js, node.js, react, sui
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=W1QGVNJGV7g)
 - **All prizes at this hackathon (1):** Sui: Reimagine the internet with Sui
-- **How it used Sui:** The project lists sui among its Built With tags.
+- **How it used Sui:** A user who wants to trade their own gift card for a different one can log in and connect to their Sui wallet.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1201,7 +1204,7 @@ decentralizing music by empowering artists to create &amp; monetize their music 
 - **Code:** [Source 1](https://github.com/m20arcusk/soundchain)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sui: Reimagine the internet with Sui
-- **How it used Sui:** The project lists sui among its Built With tags.
+- **How it used Sui:** The team utilized the Sui blockchain for its scalability and performance, implementing smart contracts to handle transactions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1218,17 +1221,17 @@ decentralizing music by empowering artists to create &amp; monetize their music 
 
 AiTC is transforming the aviation industry by automating ATC radio calls and providing analytics for faster, more accurate responses, allowing air traffic controllers to focus on critical situations.
 
-Built with ai, python, reflex, vapi
+No public code linked · Built with ai, python, reflex, vapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** ai, python, reflex, vapi
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** The House Fund: "Cal" Track
-- **How it used The House Fund:** AiTC is an AI-driven platform designed to assist air traffic controllers by automating routine radio communication with pilots and providing real-time flight data insights.
+- **How it used The House Fund:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1251,7 +1254,7 @@ An LLM Rubber Ducky. Never worry about being unprepared for a presentation ever 
 - **Code:** [Source 1](https://github.com/adit-bala/ducky.ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** The House Fund: "Cal" Track
-- **How it used The House Fund:** Ducky.AI is a platform for you to upload, present, and persist your presentations.
+- **How it used The House Fund:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1264,17 +1267,17 @@ An LLM Rubber Ducky. Never worry about being unprepared for a presentation ever 
 
 EduGap enhances the AI models Students can use by automating the integration of class-specific materials in Google Classroom while Teachers gain insight on student problem-areas.
 
-Built with api, chroma, chromadb, chrome
+No public code linked · Built with api, chroma, chromadb, chrome
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** api, chroma, chromadb, chrome, css, dbscan, gemini, google-cloud, html, huggingface, javascript, json, langchain, machine-learning, pca, python, sklearn
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** The House Fund: "Cal" Track
-- **How it used The House Fund:** Students will use AI for their school work anyway, so why not bridge the gap between students and teachers.
+- **How it used The House Fund:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1314,17 +1317,17 @@ AngelShot simulates a realistic phone call a variety of user-customizable AI-bas
 
 Companion is a voice-powered web AI agent that can autonomously execute web tasks based on user requests, made for seniors/people with disabilities who are unfamiliar with technology.
 
-[Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
+No public code linked · [Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** flask, gpt, openai, opencv, pinecone, python, react, selenium, vapi
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gFd_lrVoTtQ)
 - **All prizes at this hackathon (1):** Vapi: Show us your Voice AI
-- **How it used Vapi:** The project lists vapi among its Built With tags.
+- **How it used Vapi:** The team utilized components for input fields, buttons, and real-time feedback to enhance usability as well as integrated VAPI, a voice recognition API, to enable voice commands, making it easier for users with accessibility needs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1347,7 +1350,7 @@ Echocare is an intuitive platform designed to assist users in locating and conne
 - **Code:** [Source 1](https://github.com/rishitx/echocare)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CMhPyazI5N4)
 - **All prizes at this hackathon (1):** Vapi: Show us your Voice AI
-- **How it used Vapi:** The project lists vapi-ai among its Built With tags.
+- **How it used Vapi:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1370,7 +1373,7 @@ Are you anxious about speaking a foreign language or don't know where to start? 
 - **Code:** [Source 1](https://github.com/SrimanCode/CalHacks-11.0)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sJRIEn7pzM4)
 - **All prizes at this hackathon (1):** Vapi: Show us your Voice AI
-- **How it used Vapi:** The project lists vapi among its Built With tags.
+- **How it used Vapi:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1416,7 +1419,7 @@ Talk to the characters in your favourite story.
 - **Code:** [Source 1](https://github.com/pranavbedi/LiveStory)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=E7Z3YmKI0LI)
 - **All prizes at this hackathon (1):** Vapi: Show us your Voice AI
-- **How it used Vapi:** The project lists vapi among its Built With tags.
+- **How it used Vapi:** Custom assistants powered by Vapi, Groq, Deepgram, and 11Labs to simulate character interactions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1439,7 +1442,7 @@ World's First AI Study Assistant in Extended Reality.
 - **Code:** [Source 1](https://github.com/VietRocHack/TeachXR-backend-dataflow) · [Source 2](https://github.com/VietRocHack/TeachXR-backend-gesture) · [Source 3](https://github.com/VietRocHack/TeachXR-frontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qVoCHS9BaIc)
 - **All prizes at this hackathon (2):** Cal Hacks: Hackers' Choice · Vapi: Show us your Voice AI
-- **How it used Vapi:** There are many excellent pre-built solutions available, such as Vapi , which has been invaluable in helping the team implement a voice interface.
+- **How it used Vapi:** There are many excellent pre-built solutions available, such as Vapi, which has been invaluable in helping the team implement a voice interface.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1466,6 +1469,7 @@ A prototype implements a programming language and game engine inside Figma.
 - **Code:** [Source 1](https://github.com/kognise/aldente)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=765IiE3aNFA)
 - **All prizes at this hackathon (2):** Cal Hacks: Most Entertaining Hack · Warp: Best Developer Tool by Warp
+- **How it used Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

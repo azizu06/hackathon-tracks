@@ -23,7 +23,7 @@
 
 VisionGuard leverages cutting-edge Vision-Language Models (VLMs) to analyze in-car video footage , transcribing and interpreting driver behavior with high precision.
 
-**How it used Tesla:** Trained on the NuScenes-QA dataset , similar to Tesla-provided data .
+**How it used Tesla:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/JayYeung/tesla_kaggle) · Built with apis, colab, gpt, python
 
@@ -33,6 +33,8 @@ VisionGuard leverages cutting-edge Vision-Language Models (VLMs) to analyze in-c
 
 CyberDrive - Transforming driving footage into intelligent insights.
 
+**How it used Tesla:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/KoaChang/CyberDrive) · [Demo video](https://www.youtube.com/watch?v=BLKCyMwn-xY) · Built with amazon, async, gemini, google
 
 ### [HorizonX](https://devpost.com/software/horizonx)
@@ -40,6 +42,8 @@ CyberDrive - Transforming driving footage into intelligent insights.
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-horizonx) · **Excellence Prize**
 
 HorizonX is a dual-purpose platform using !!on-device!! VLMs to empower blind people with real-time haptic guider while crowdsourcing anonymized data to help governments improve public safety.
+
+**How it used Tesla:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/bsflll/treehack2025) · [Demo video](https://www.youtube.com/watch?v=dFowTJUub4U) · Built with docker, javascript, nextjs, python
 

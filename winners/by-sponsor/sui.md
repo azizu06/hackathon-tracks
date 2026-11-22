@@ -25,7 +25,7 @@ Time is money: literally. Sell your day away in 15-minute blocks.
 
 **How it used Sui:** Bidders place bids on time slots using Sui blockchain NFT auctions.
 
-[Demo video](https://www.youtube.com/watch?v=t7M319EIn4k) · Built with sui, ai, chromadb, claude
+No public code linked · [Demo video](https://www.youtube.com/watch?v=t7M319EIn4k) · Built with sui, ai, chromadb, claude
 
 ### [Movement](https://devpost.com/software/movement-f4nyob)
 
@@ -33,7 +33,9 @@ Time is money: literally. Sell your day away in 15-minute blocks.
 
 Movement is the disruptive blockchain crowdfunding platform - no fees, no middlemen. Every contribution is direct, transparent, and secure, giving real-world peace of mind to backers and creators.
 
-[Demo video](https://www.youtube.com/watch?v=QtNbxY7WupE) · Built with sui, css, move, next.js
+**How it used Sui:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=QtNbxY7WupE) · Built with sui, css, move, next.js
 
 ### [Otter](https://devpost.com/software/otter)
 
@@ -61,6 +63,8 @@ Do you have a laptop? You're potentially losing on making at least $10/day side 
 
 Sui-powered blockchain-based ticketing and loyalty platform with policy-enforced, fraud-proof resale via Kiosk; buy in one click, resell fairly, and earn perks from purchase to check-in.
 
+**How it used Sui:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/RohanChintakindi/sui-tix) · [Demo video](https://www.youtube.com/watch?v=Whz3DoW8TeI) · Built with sui, sui-kiosk, sui-move, blockchain
 
 ## 2024 winners
@@ -81,6 +85,8 @@ Empowering Artists with Blockchain: Seamless Royalty Payments and Ownership Cont
 
 Clients talk to the AI, explaining the type of candidate they need and any specific skills they're looking for.
 
+**How it used Sui:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/DPulavarthy/CalHacks) · [Demo video](https://www.youtube.com/watch?v=0uHPTtYydYI) · Built with sui, deepgram, express.js, fetch.ai
 
 ### [GifTr](https://devpost.com/software/giftr-uo159g)
@@ -89,7 +95,9 @@ Clients talk to the AI, explaining the type of candidate they need and any speci
 
 The website serves as a decentralized gift card trading marketplace .
 
-[Demo video](https://www.youtube.com/watch?v=W1QGVNJGV7g) · Built with sui, express.js, node.js, react
+**How it used Sui:** A user who wants to trade their own gift card for a different one can log in and connect to their Sui wallet.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=W1QGVNJGV7g) · Built with sui, express.js, node.js, react
 
 ### [Notic3.](https://devpost.com/software/notic3)
 
@@ -106,6 +114,8 @@ The blockchain solution for content creators offering a decentralized platform f
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-soundchain) · **Reimagine the internet with Sui**
 
 decentralizing music by empowering artists to create &amp; monetize their music independently, with backers that care about even the smallest ideas.
+
+**How it used Sui:** The team utilized the Sui blockchain for its scalability and performance, implementing smart contracts to handle transactions.
 
 [Code](https://github.com/m20arcusk/soundchain) · Built with sui, enoki, google-auth, materialui
 

@@ -23,7 +23,9 @@
 
 Application allows users to create a quick and easy checkout for customers by utilizing Venmo.
 
-Built with firebase, sendgrid, venmo
+**How it used Bain Capital:** Sponsor use not stated on Devpost
+
+No public code linked · Built with firebase, sendgrid, venmo
 
 ### [SpaceBubbles](https://devpost.com/software/spacebubbles)
 
@@ -31,7 +33,9 @@ Built with firebase, sendgrid, venmo
 
 A tool that helps to turn web exploration into a truly social experience.
 
-Built with d3.js, heroku, mongodb
+**How it used Bain Capital:** Sponsor use not stated on Devpost
+
+No public code linked · Built with d3.js, heroku, mongodb
 
 ## Track names and requirements
 

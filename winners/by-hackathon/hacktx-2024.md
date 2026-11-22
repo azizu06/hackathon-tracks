@@ -50,7 +50,8 @@ ANGEL'S PROTECTION processes live video feeds, storing data based on individuals
 - **Code:** [Source 1](https://github.com/phamleduy04/hacktx24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wCfq8UI903w)
 - **All prizes at this hackathon (3):** Best Ground-Up Model · Best use of GenAI using InterSystems IRIS Vector Search · Best Use of Intel AI
-- **How it used Intel:** The project lists intel among its Built With tags.
+- **How it used Intel:** The team employs YOLOv11 (with custom dataset and trained from the ground up on Intel AI Developer Cloud) for real-time human detection, coupled with segmentation model to extract clothing features from detected individuals.
+- **How it used InterSystems:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -79,7 +80,7 @@ Staying updated with tech news is crucial. When looking at news sites, articles 
 - **Code:** [Source 1](https://github.com/natemillner/ArticleScraper)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best .Tech Domain Name
-- **How it used .Tech Domains:** This application also allows the user to choose what they are looking to read about whether its company based or topic based.
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -96,14 +97,14 @@ Staying updated with tech news is crucial. When looking at news sites, articles 
 
 The project is an innovative AI-powered web app designed to reduce vehicle carbon emissions, addressing transportation's significant impact on greenhouse gas emissions.
 
-Built with cloudflare, ai, amazon-web-services, databricks
+No public code linked · Built with cloudflare, ai, amazon-web-services, databricks
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ai, amazon-web-services, cloudflare, databricks, jupyter, machine-learning, next.js, node.js, tailwind, typescript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
 - **How it used Cloudflare:** Cloudflare Workers &amp; Cloudflare AI : Cloudflare provides robust, scalable hosting and API integration, ensuring security and speed in processing data and delivering insights.
@@ -133,7 +134,7 @@ Revolutionizing accessibility through natural-sounding TTS and insightful image 
 - **Code:** [Source 1](https://github.com/Prasad-Katkade/AI-Screen-Reader)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kf5yGIl9vkg)
 - **All prizes at this hackathon (1):** Best AI Project with Databricks Open Source
-- **How it used Databricks:** Capture Screen: Users can capture their screen and receive summarized content.
+- **How it used Databricks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -160,7 +161,7 @@ Automating AWS environments for efficiency! Terraform-based solution schedules a
 - **Code:** [Source 1](https://github.com/IamAryanDubey/TempTerra)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Terraform
-- **How it used HashiCorp:** The project lists terraform among its Built With tags.
+- **How it used HashiCorp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -189,7 +190,7 @@ Introducing PrimeTime—an advanced productivity app that uses AI to track engag
 - **Code:** [Source 1](https://github.com/HackTX-2024-RAAA/PrimeTime)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Intel AI
-- **How it used Intel:** PrimeTime captures usage data and then stores all of that data into a database to categorize productivity into four separate categories.
+- **How it used Intel:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -231,14 +232,14 @@ Also won this track: [ANGEL'S PROTECTION](#project-angel-s-protection) (listed a
 
 It's a glasses addon that takes video and audio input to answer a blind person's questions about the surrounding area.
 
-[Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
+No public code linked · [Demo video](https://www.youtube.com/watch?v=-vkagQDbMck) · Built with intersystems, arduino, c/c++, flash
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** arduino, c/c++, flash, gradio, grok, intersystems, moondream, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-vkagQDbMck)
 - **All prizes at this hackathon (1):** Best use of GenAI using InterSystems IRIS Vector Search
 - **How it used InterSystems:** The team used Intersystems IRIS Vector Search to save and identify people.
@@ -264,7 +265,7 @@ Therable offers a safe, smart way to track moods, recognize patterns, and provid
 - **Code:** [Source 1](https://github.com/Jaehoonoo/therable)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nkdaUeRp0Dw)
 - **All prizes at this hackathon (1):** Best use of GenAI using InterSystems IRIS Vector Search
-- **How it used InterSystems:** With every entry you make – whether it’s a thought, feeling, or mood – Therable analyzes your notes using Intersystems IRIS vector search technology.
+- **How it used InterSystems:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

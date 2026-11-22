@@ -23,7 +23,9 @@
 
 Pick up birdies and stack them autonomously.
 
-[Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_Y) · Built with bracketbot, python, pytorch, yolo
+**How it used Bracket Bot:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_Y) · Built with bracketbot, python, pytorch, yolo
 
 ### [GitIRL Bot](https://devpost.com/software/house-bot)
 
@@ -31,7 +33,9 @@ Pick up birdies and stack them autonomously.
 
 Version control for the physical world.
 
-[Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
+**How it used Bracket Bot:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
 
 ### [PrintDnD](https://devpost.com/software/printdnd)
 
@@ -39,13 +43,17 @@ Version control for the physical world.
 
 Introducing PrintDND , a robot that is able to autonomously clear the printers from their previous job and place the print down in a desired location.
 
-[Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
+**How it used Bracket Bot:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
 
 ### [Realbot](https://devpost.com/software/realbot)
 
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-realbot) · **Best Use of Bracket Bot Hardware**
 
 Realbot allows landlords and realtors to easily set up autonomous virtual tours for prospective tenants and buyers.
+
+**How it used Bracket Bot:** On the robot, Python services connect LiveKit to Bracket Bot’s existing bbOS hardware and mapping systems.
 
 [Code](https://github.com/ariobarin/RealBot) · [Demo video](https://www.youtube.com/watch?v=EkgG5Q7dZB0) · Built with bracketbot, fastapi, livekit, numpy
 

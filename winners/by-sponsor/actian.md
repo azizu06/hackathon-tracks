@@ -23,6 +23,8 @@
 
 The team admit a machine learning model shouldn't be the only frontier for diagnosis.
 
+**How it used Actian:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/dominickdupuy/Aura) · [Demo video](https://www.youtube.com/watch?v=7oUk6SBtJcA) · Built with actain, databricks, figma, python
 
 ### [PayBack](https://devpost.com/software/payback-tnauqm)
@@ -31,6 +33,8 @@ The team admit a machine learning model shouldn't be the only frontier for diagn
 
 AI that fights your hospital bill.
 
+**How it used Actian:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Itz-Viggy/payBack) · [Demo video](https://www.youtube.com/watch?v=5uq6HO8El3I) · Built with actian, fastapi, langgraph, mongodb
 
 ### [RXGUARD](https://devpost.com/software/guess-xp546j)
@@ -38,6 +42,8 @@ AI that fights your hospital bill.
 [Hacklytics 2026](../by-hackathon/hacklytics-2026.md#project-guess-xp546j) · **Best Use of Actian VectorAI DB**
 
 RxGuard is a semantic engine that uses vector embeddings to bridge "vocabulary gap" in FDA adverse medication, uncovering critical drug safety signals that traditional searche miss.
+
+**How it used Actian:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/gt12889/hacklytics2026) · [Demo video](https://www.youtube.com/watch?v=dwmhyQ5ZIQA) · Built with actian, gemini, python, rag
 

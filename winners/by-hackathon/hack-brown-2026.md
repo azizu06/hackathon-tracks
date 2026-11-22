@@ -56,8 +56,8 @@ An agentic AI system that fights back for renters—scouting real listings, expo
 - **Code:** [Source 1](https://github.com/optimusbuilder/Rent-Swarm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xCzTYc7mIIg)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Gemini API · Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
-- **How it used Google:** The project lists gemini among its Built With tags.
-- **How it used Marshall Wace:** Rent-Swarm is an agentic AI platform that acts on behalf of tenants.
+- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Marshall Wace:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -80,6 +80,7 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 - **Code:** [Source 1](https://github.com/Vigneshpeddi/SpaceShare)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Capital One - Best Financial Hack · Visa - Custom Track
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **How it used Visa:** The team integrated payouts to homeowners and used Visa Direct APIs to push funds to lister's cards.
 - **Checked on Devpost:** 2026-11-21
 
@@ -109,6 +110,7 @@ Search up a city and Munchy Munchy will create a food tour through it, taking yo
 - **Code:** [Source 1](https://github.com/jessiiishin/munchymunchy)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -135,7 +137,7 @@ Walking alone at night on campus? SafePulse is here to walk you home safe.
 - **Code:** [Source 1](https://github.com/danielzhu04/SafePulse)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AWS
-- **How it used Amazon Web Services:** SafePulse provides a student view and a volunteer view.
+- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -168,7 +170,7 @@ Facetime your dad for home repair advice at anytime.
 - **Code:** [Source 1](https://github.com/ponita05/hack-brown)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xD_QGRqzkvo)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** The project lists elevenlabs among its Built With tags.
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -195,7 +197,7 @@ AdVantage lets you build entire ad campaigns with one prompt. It runs comprehens
 - **Code:** [Source 1](https://github.com/BABTUNA/marky)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iRTw5n2BYqI)
 - **All prizes at this hackathon (1):** Fetch.ai Challenge
-- **How it used Fetch.ai:** The project lists agentverse, asi:one, fetch.ai, uagents among its Built With tags.
+- **How it used Fetch.ai:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -253,6 +255,7 @@ Whenever you're on a shopping site, Stopify tracks your vital signs and your act
 - **Code:** [Source 1](https://github.com/calebellenberg/hackAtBrown2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
+- **How it used Marshall Wace:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -275,7 +278,7 @@ Unserious is an AI trip planner learning your style via "This or That" choices t
 - **Code:** [Source 1](https://github.com/oliviaaheng/unserious)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
-- **How it used Marshall Wace:** Brown University Community Hub : Students can share local Providence recommendations, creating a curated guide by students, for students.
+- **How it used Marshall Wace:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -302,7 +305,7 @@ What’s Up, New York! is a data driven platform that converts natural language 
 - **Code:** [Source 1](https://github.com/z1ros/planneeer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ag7kS5ZL1D0)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB
-- **How it used MongoDB:** The project lists mongodbvectorsearh among its Built With tags.
+- **How it used MongoDB:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -352,7 +355,7 @@ Providing an AI powered safety layer for cars that never had one.
 - **Code:** [Source 1](https://github.com/Aditya100907/HackBrown)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y6IJaTW2l84)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Presage
-- **How it used Presage:** The project lists presage among its Built With tags.
+- **How it used Presage:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -379,7 +382,7 @@ crowdsourced diffusion data for world models on solana.
 - **Code:** [Source 1](https://github.com/theodorechapman/scale-diffusion)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_E0CEj3cWFg)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** The project lists solana among its Built With tags.
+- **How it used Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -408,7 +411,7 @@ Also won this track: [SpaceShare](#project-spacesquare) (listed above)
 - **Code:** [Source 1](https://github.com/MUNDANE-MONDAYS/MEchelin_Guide)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-rXiF6k6-8Y)
 - **All prizes at this hackathon (1):** Visa - Custom Track
-- **How it used Visa:** "ME"chelin guide lets people monetize from sharing their knowledge about their neighborhood.
+- **How it used Visa:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -435,7 +438,7 @@ Sortacle is an autonomous smart waste bin that identifies and sorts items in rea
 - **Code:** [Source 1](https://github.com/flxnaf/sortacle)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=g5Y1oJZ6-ws)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Vultr · Best Overall Hack
-- **How it used Vultr:** The project lists vultr among its Built With tags.
+- **How it used Vultr:** Cloud inference is handled by a FastAPI server running YOLO-World on a Vultr compute instance, enabling low-latency, high-accuracy classification without overloading the edge device.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

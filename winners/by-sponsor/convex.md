@@ -23,7 +23,9 @@
 
 A building safety prototype combines live sensors, evacuation planning, and operator approval in one dashboard.
 
-[Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, anthropic, arduino
+**How it used Convex:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, anthropic, arduino
 
 ### [Lobe](https://devpost.com/software/lobe)
 
@@ -62,6 +64,8 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 [Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-perceiv-io) · **Best App and Startup Idea Built on Convex**
 
 🪶 PERCEIV/IO leverages AI image recognition and various LLMs to assist persons with visual and/or auditory impairments perceive the world around them through an innovative tactile display solution.
+
+**How it used Convex:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ddynamix/HackTheNorth2024) · [Demo video](https://www.youtube.com/watch?v=spMJ8vr8XnA) · Built with convex, groq, javascript, python
 

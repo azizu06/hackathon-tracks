@@ -23,7 +23,9 @@
 
 integrated AI pain assessment aid to help patients with timing + dosage towards mitigating opioid abuse risk :) won in healthcare Hack@Brown 2025.
 
-Built with css, figma, groq, html
+**How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
+
+No public code linked · Built with css, figma, groq, html
 
 ## 2024 winners
 
@@ -33,6 +35,8 @@ Built with css, figma, groq, html
 
 Your personal prescription and medical symptom tracking companion.
 
+**How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Givikap/Althea) · [Demo video](https://www.youtube.com/watch?v=y12QLSdo0zs) · Built with amazon-web-services, django, flutter, gemini
 
 ### [CognitiveKeyboard](https://devpost.com/software/cognitivekeyboard)
@@ -41,13 +45,17 @@ Your personal prescription and medical symptom tracking companion.
 
 CognitiveKeyboard is an alternative Android keyboard that updates a user’s typing statistics every 30 seconds.
 
-[Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
+**How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
 
 ### [Medicine Dispensary](https://devpost.com/software/bigback)
 
 [ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-bigback) · **Patient Safety Technology**
 
 The inspiration for this project stems from a deep commitment to support the loved ones and the wider community.
+
+**How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Cantinadream/Big_Back_ShellHack2024) · [Demo video](https://www.youtube.com/watch?v=4qyCfR1vNoE) · Built with flask, micropython, python, raspberry-pi
 
@@ -57,13 +65,17 @@ The inspiration for this project stems from a deep commitment to support the lov
 
 SimplySign aims to make ASL more accessible and bring people together, whether by facilitating communication between patients and healthcare providers, or simply giving students a tool to practice.
 
-Built with css, github, html, javascript
+**How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
+
+No public code linked · Built with css, github, html, javascript
 
 ### [Snapill - PennApps XXV Best Healthcare Hack](https://devpost.com/software/snapill)
 
 [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-snapill) · **Track: Best Healthcare Hack**
 
 Automated Medication Scanner and Tracker Powered by Computer Vision.
+
+**How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Srinikal/Snapill) · Built with expo.io, firebase, flask, heroku
 
@@ -72,6 +84,8 @@ Automated Medication Scanner and Tracker Powered by Computer Vision.
 [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-infectdetect) · **Track: Best Healthcare Hack**
 
 Real-time infection monitoring with moisture, temperature, and pH sensors.
+
+**How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/katelynkywong/SurgiSafe) · [Demo video](https://www.youtube.com/watch?v=RFui9r2ybFU) · Built with adafruit, arduino, autodesk-fusion-360
 

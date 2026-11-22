@@ -52,8 +52,8 @@ FirstLight recruits, consents and retains trial participants over iMessage, and 
 - **Code:** [Source 1](https://github.com/SunfishTK1/hackharvard-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BNi3T0CI5m4)
 - **All prizes at this hackathon (2):** Build a Messaging Agent with Photon 2.0 · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Photon:** The project lists photon among its Built With tags.
-- **How it used Regeneron:** FirstLight is two AI agents in iMessage, on one consent-first trial platform: Sage for participants, Trial Ops for the study team.
+- **How it used Photon:** Sponsor use not stated on Devpost
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -82,6 +82,7 @@ Physical AI for low-pesticide agriculture to help farmers spray less and grow mo
 - **Code:** [Source 1](https://github.com/mraruziev/cropscout-live-tomato)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nkYR_oS4BKQ)
 - **All prizes at this hackathon (1):** ASUS Sustainability: Save the Earth
+- **How it used ASUS:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -104,7 +105,7 @@ Trash in the recycling? Compost in the trash.
 - **Code:** [Source 1](https://github.com/Ishan-Wakade/Caught_in_4K)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3-jCaqzQ2cg)
 - **All prizes at this hackathon (1):** ASUS Sustainability: Save the Earth
-- **How it used ASUS:** Whenever a customer or employee walks towards a set of trash, recycling, and/or compost bins, CAUGHT&#95;IN&#95;4K notices them approaching and tells them where to drop their waste.
+- **How it used ASUS:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -127,7 +128,7 @@ Nemo combines a webcam tank experiment, ocean-current data and transparent physi
 - **Code:** [Source 1](https://github.com/cjxsez/Nemo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xcj1ZIWv9gU)
 - **All prizes at this hackathon (2):** ASUS Sustainability: Save the Earth · Third Place Overall
-- **How it used ASUS:** Nemo brings observation, modeling and explanation into one workspace, with three distinct evidence paths:.
+- **How it used ASUS:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -154,7 +155,7 @@ Remember the elves who finished the shoemaker’s work overnight? Elfie brings t
 - **Code:** [Source 1](https://github.com/arshiyasharma/hackharvard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GTRrbq8RdjU) · [Video 2](https://www.youtube.com/watch?v=h2k7D7NcFDU)
 - **All prizes at this hackathon (1):** Best Use of Nessie
-- **How it used Capital One:** The project lists nessie among its Built With tags.
+- **How it used Capital One:** Totals are always read back from Nessie, so the database only stores what Nessie can’t, like who owes whom.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -181,7 +182,7 @@ A LiDAR iPhone and a 24-pin palm puck that turn the room into touch. Feel what�
 - **Code:** [Source 1](https://github.com/MartinPuli/feel)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NzBkQcUejH0)
 - **All prizes at this hackathon (3):** Best Data-Driven Agent Built on Chalk · First Place Overall · Hardware for Good
-- **How it used Chalk:** The project lists chalk among its Built With tags.
+- **How it used Chalk:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -254,7 +255,7 @@ Don't just block a rogue AI agent. Trap it.
 - **Code:** [Source 1](https://github.com/MrFiscus/Mirage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=k3fzKzdrOyA)
 - **All prizes at this hackathon (1):** Best Use of Daytona
-- **How it used Daytona:** The project lists daytona among its Built With tags.
+- **How it used Daytona:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -281,7 +282,7 @@ An immune system for vibe-coded apps. It finds the holes AI coding tools leave b
 - **Code:** [Source 1](https://github.com/antibody-hq/Antibody)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=spl0ptVzQsw)
 - **All prizes at this hackathon (1):** Best Use of Factory Droid SDK
-- **How it used Factory:** Antibody scans your live app URL for security flaws to give you an idea of what risks you could be facing if no changes are made.
+- **How it used Factory:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -310,7 +311,7 @@ Andi helps people quitting alcohol stay sober. It texts them in iMessage when th
 - **Code:** [Source 1](https://github.com/kushmirchandani/andi)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=N-oXvhoNrzw)
 - **All prizes at this hackathon (1):** Build a Messaging Agent with Photon 2.0
-- **How it used Photon:** The project lists photon among its Built With tags.
+- **How it used Photon:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -362,7 +363,7 @@ ClearPath spots clinical-trial drug shipments at risk of delay, proposes fixes a
 - **Code:** [Source 1](https://github.com/oliverywu/ClearPath)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yicXCW7Uulg)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** ClearPath keeps clinical-trial drug shipments on track from the warehouse to the patient:.
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -385,7 +386,7 @@ Turn a clinical trial protocol into a site budget both sides can check: procedur
 - **Code:** [Source 1](https://github.com/CosmicOdyssey/concord)
 - **Demo video:** [Video 1](https://vimeo.com/1236934994)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Protocol to terms turns a trial's schedule of assessments into a budget both sides can check:.
+- **How it used Regeneron:** Concord compares public records of Regeneron trials to show where they share registered sites.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -408,7 +409,7 @@ Clinical trials are complex, and mistakes can delay new treatments and cost mill
 - **Code:** [Source 1](https://github.com/rinatrizvanov/ProtocolOS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WkWDWfHbal4)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** ProtocolOS helps pharmaceutical companies review, verify, and draft clinical trial eligibility requirements while keeping medical experts responsible for the decisions.
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -421,17 +422,17 @@ Clinical trials are complex, and mistakes can delay new treatments and cost mill
 
 Find sanctioned investigators, not their namesakes.
 
-[Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
+No public code linked · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** cloudflare, docker, fastapi, google-cloud, javascript, lightgbm, matplotlib, metaphone, nginx, pandas, pydantic, pytest, python, rapidfuzz, react, recharts, reportlab, scikit-learn, shap, sqlalchemy, sqlite, tailwindcss, vite
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OY-HqXfXzR8)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Upload a CSV of investigators (name, city, state, specialty, NPI if known) — or use the 300-investigator demo set.
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -454,7 +455,7 @@ Turn your past clinical trial agreements into a central intelligence playbook th
 - **Code:** [Source 1](https://github.com/duna-akin/SiteLine)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p0ZqxplwPwU)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Siteline turns a sponsor's past negotiating positions into a central playbook and applies it to every redline that comes in.
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -477,7 +478,7 @@ StreamCare is an all-in-one longitudinal research tool that allows study partici
 - **Code:** [Source 1](https://github.com/CarstenMacosko/HackHarvard2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ItVIDKM9HO8)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** StreamCare enables researchers to create a tighter data loop with participants, receiving more data.
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -490,17 +491,17 @@ StreamCare is an all-in-one longitudinal research tool that allows study partici
 
 Gamified clinical trials with computer vision.
 
-[Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** computervision, react
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mTHAhDZ4RGs)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Telekinesis turns standard clinical motor tests into short games you play at home with a webcam.
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -523,7 +524,7 @@ A texting companion for clinical trials: it finds trials, answers participants a
 - **Code:** [Source 1](https://github.com/egornikot/trialmate)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q-O1BSkJvRI)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** TrialMate is a text-message agent for clinical trials, with a console for the study team.
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -546,7 +547,7 @@ TrialMax shows researchers why trial recruitment fails and helps them find safer
 - **Code:** [Source 1](https://github.com/Arnavvvkumar/TrialMax)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5BlGfMiELQc)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** TrialMax turns a public ClinicalTrials.gov protocol into an interactive eligibility and recruitment analysis.
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -569,7 +570,7 @@ TrialPilot helps teams compare clinical trial designs across cost, site workload
 - **Code:** [Source 1](https://github.com/KryptonNii/YANZHENG_NI_HACKHARVARD2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KLeeAnTy4M8)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** The built-in trial library uses public ClinicalTrials.gov records of trials of Regeneron medicines:.
+- **How it used Regeneron:** TrialPilot uses public records of Regeneron trials as examples in its trial-design comparison workflow.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -596,7 +597,7 @@ a parking garage map for orbit: find the spot where your satellites do the least
 - **Code:** [Source 1](https://github.com/candpixie/hackharvard26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=x_iGKuHw0B0)
 - **All prizes at this hackathon (1):** SpaceXAI Make it Legendary
-- **How it used SpaceXAI:** About 20,000 satellites, debris and rocket bodies with public orbits, positioned live and colored by type.
+- **How it used SpaceXAI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,6 +23,8 @@
 
 You can take a picture and choose from a range of filters to apply to your image.
 
+**How it used Neo:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/alexkranias/diffuji) · [Demo video](https://www.youtube.com/watch?v=JiRth1HCIag) · Built with python, raspberry-pi
 
 ## 2025 winners
@@ -32,6 +34,8 @@ You can take a picture and choose from a range of filters to apply to your image
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-sherlock-n4fikj) · **Most Likely to Become a Business**
 
 Connecting the dots for investigative minds.
+
+**How it used Neo:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Honyant/Sherlock) · [Demo video](https://www.youtube.com/watch?v=n7HRhVSLlew) · Built with python, react, vite
 

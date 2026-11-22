@@ -23,6 +23,8 @@
 
 Choose between a private insurance system, a national model, or something else entirely. The global medical landscape at your fingertips.
 
+**How it used Amadeus:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/lyronctk/DHEA) · Built with amadeus, css, django, html
 
 ## 2018 winners
@@ -32,6 +34,8 @@ Choose between a private insurance system, a national model, or something else e
 [HackMIT 2018](../by-hackathon/hackmit-2018.md#project-dream-flight) · **Best Use of Data**
 
 Plenty of people hope to travel and explore the world, and it's no surprise that traveling often ends up on bucket lists.
+
+**How it used Amadeus:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/PaliC/Dream-Flight) · Built with amadeus, css, html, javascript
 
@@ -52,6 +56,8 @@ SOS Squad is a platform for connecting good Samaritans to disaster victims.
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-travelar-g4sq6y) · **Sponsor Prize - Amadeus - Best Use of Amadeus APIs**
 
 TravelAR is an iOS travel application built using Apple's ARKit.
+
+**How it used Amadeus:** The team built TravelAR with Apple's iOS ARKit, a Flask server hosted with Microsoft Azure, and many APIs including the Amadeus Travel APIs, the Microsoft Bing Image Search API, and the WolframAlpha Simple API.
 
 [Code](https://github.com/Averylamp/TravelAR) · [Demo video](https://www.youtube.com/watch?v=ACneUIVByaY) · Built with amadeus, arkit, azure, bing-search-api
 

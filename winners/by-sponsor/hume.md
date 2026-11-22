@@ -25,7 +25,7 @@
 
 **How it used Hume:** Empathetic AI : Helora incorporates emotional intelligence to provide compassionate, context-aware responses, ensuring that patients feel understood and supported during their care, powered by Hume AI.
 
-[Demo video](https://www.youtube.com/watch?v=0LENXMAW3Cs) · Built with hume.ai, fastapi, fetch.ai, figma
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0LENXMAW3Cs) · Built with hume.ai, fastapi, fetch.ai, figma
 
 ## Track names and requirements
 

@@ -23,6 +23,8 @@
 
 Autonomous security for the medical devices hospitals can't patch.
 
+**How it used Armadin:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Sanjavan7/PreVent) · [Demo video](https://www.youtube.com/watch?v=5u1bG7nEzvI) · Built with agentverse, anthropic, arduino, asi-one
 
 ## Track names and requirements

@@ -54,7 +54,7 @@ Your AI learning assistant. Input topic, level, and duration for a tailored cour
 - **Code:** [Source 1](https://github.com/meetgandhii/CourseAI)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ActualFood Award
-- **How it used Actual Food:** CourseAI is an innovative platform that creates personalized course schedules on any topic, tailored to the user's time frame and desired depth of study.
+- **How it used Actual Food:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -67,17 +67,17 @@ Your AI learning assistant. Input topic, level, and duration for a tailored cour
 
 Fivi is a AI Personal Trainer that breaks down traditional barriers to fitness. The intuitive UI and voice based command system will lead to more people than ever engaging in healthy home exercise.
 
-Built with flask, javascript, numpy, opencv
+No public code linked · Built with flask, javascript, numpy, opencv
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** flask, javascript, numpy, opencv, python, react, vosk
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** ActualFood Award · Health Track
-- **How it used Actual Food:** The AI personal trainer is a web application compatible with laptops equipped with webcams, designed to lower the barriers to fitness.
+- **How it used Actual Food:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -94,14 +94,14 @@ Built with flask, javascript, numpy, opencv
 
 An Adobe add-on that generates a Reel/Short video from prompt.
 
-[Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
+No public code linked · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adobe-ad-on, ai, cloudflare, flask, gemini, javascript, tts
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dZgIqzT754Y)
 - **All prizes at this hackathon (1):** Most Creative Adobe Express Add-On
 - **How it used Adobe:** The team built an Adobe Express add-on that helps user make educational or awareness reels/shorts faster by generating half of the work for them.
@@ -121,17 +121,17 @@ An Adobe add-on that generates a Reel/Short video from prompt.
 
 Automate your event extraction from emails.
 
-Built with cloudflare, ai, groq, llama
+No public code linked · Built with cloudflare, ai, groq, llama
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** ai, cloudflare, groq, llama, next.js, postgresql, react, sql, supabase, vercel
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** The project lists cloudflare among its Built With tags.
+- **How it used Cloudflare:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -148,17 +148,17 @@ Built with cloudflare, ai, groq, llama
 
 an AI platform that automates data entry from text and speech, anonymizes patient information, and delivers treatment recommendations, enhancing diagnostic accuracy for healthcare professionals.
 
-Built with cloudfare, flask, nextjs, openai-api
+No public code linked · Built with cloudfare, flask, nextjs, openai-api
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cloudfare, flask, nextjs, openai-api, vector-database, whisper
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** 1st Place · Best AI Project with Databricks Open Source
-- **How it used Databricks:** Percival automates data entry by seamlessly accepting inputs from various sources, including text, speech-to-text transcripts, and PDFs.
+- **How it used Databricks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -185,7 +185,7 @@ ConvSim is not just another chatbot or simulation tool – it's a window into a 
 - **Code:** [Source 1](https://github.com/apurvagyan/conv-sim)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** FetchAI · Media/entertainment Track
-- **How it used Fetch.ai:** The project lists fetchai among its Built With tags.
+- **How it used Fetch.ai:** The team leveraged cutting-edge AI frameworks, including Fetch AI and OpenAI, to create a robust and flexible multi-agent system.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -208,7 +208,7 @@ Struggling to catch up after missing classes? Tired of going through boring lect
 - **Code:** [Source 1](https://github.com/kiriland/YHack2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9G3IMeVYQMo)
 - **All prizes at this hackathon (1):** FetchAI
-- **How it used Fetch.ai:** The project lists uagents among its Built With tags.
+- **How it used Fetch.ai:** The team then leveraged fetch ai's framework to utilize their agents intensively throughout the application.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -231,7 +231,7 @@ Now, learning is made interactive and engaging, more than ever.
 - **Code:** [Source 1](https://github.com/pulkitkalra28/yhack_frontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=F_PwJoNvFsM)
 - **All prizes at this hackathon (1):** FetchAI
-- **How it used Fetch.ai:** Also used fetch.ai ai agents to deploy on test net - blockchain.
+- **How it used Fetch.ai:** The team also used fetch.ai ai agents to deploy on test net - blockchain.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -258,6 +258,7 @@ courselrns is a full-stack project that takes in a user’s major and academic i
 - **Code:** [Source 1](https://github.com/niksaitov/courselrns)
 - **Demo video:** [Video 1](https://www.loom.com/share/49f9738af8f249c7879ba9f879e8962a)
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
+- **How it used Fidelity:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -284,7 +285,7 @@ Want practice problems but LeetCode and HackerRank aren't enough? Sit Down and S
 - **Code:** [Source 1](https://github.com/trentwiles/SitDownAndStudy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=XHelkVvScNQ)
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sit Down and Study is a platform designed to help you improve your programming skills through LeetCode-style questions.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -311,7 +312,7 @@ Cropscape analyzes location-specific soil, climate, and hardiness data to provid
 - **Code:** [Source 1](https://github.com/Superhero1015/YHack2024-25_Proj)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iuZZZnOtsdk)
 - **All prizes at this hackathon (1):** LightBox
-- **How it used LightBox:** The project lists lightbox among its Built With tags.
+- **How it used LightBox:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

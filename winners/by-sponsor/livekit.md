@@ -33,7 +33,9 @@ A hospital coordination dashboard combines record data, nursing alerts, and pati
 
 A multimodal AI companion that fuses emotion sensing, language understanding, and real-time biofeedback to support children’s mental wellness.
 
-[Demo video](https://www.youtube.com/watch?v=3bj86ky1eAc) · Built with amazon-web-services, arduino, docker, fetchai
+**How it used LiveKit:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=3bj86ky1eAc) · Built with amazon-web-services, arduino, docker, fetchai
 
 ## Track names and requirements
 

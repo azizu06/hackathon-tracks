@@ -23,6 +23,8 @@
 
 A macOS assistant takes a spoken question and highlights the relevant control for the user.
 
+**How it used Figma:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/RyloRiz/accent) · [Demo video](https://www.youtube.com/watch?v=XmlBhFCtorw) · Built with appkit, claudecode, codex, elevenlabs
 
 ### [autoGear](https://devpost.com/software/autogear)
@@ -30,6 +32,8 @@ A macOS assistant takes a spoken question and highlights the relevant control fo
 [LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-autogear) · **Figma Make Challenge**
 
 How to combine AI with deterministic logic.
+
+**How it used Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Dirtblob/AutoGear) · [Demo video](https://www.youtube.com/watch?v=RYnkUSRhRUk) · Built with best-buy, clerk, coco-ssd, css
 
@@ -39,6 +43,8 @@ How to combine AI with deterministic logic.
 
 A mobile finance prototype turns market events into short research tasks and waits for confirmation before trading.
 
+**How it used Figma:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/adylagad/baseland) · [Demo video](https://www.youtube.com/watch?v=wzT5thvdSHw) · Built with activitykit, anthropic, app-intents, base
 
 ### [Bounty](https://devpost.com/software/bounty-hkz38e)
@@ -46,6 +52,8 @@ A mobile finance prototype turns market events into short research tasks and wai
 [MHacks 2026](../by-hackathon/mhacks-2026.md#project-bounty-hkz38e) · **Figma Best Design Track**
 
 A job board holds payment in escrow until a worker submits the agreed proof of completion.
+
+**How it used Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/AlanRoybal/mhacks2026) · [Demo video](https://www.youtube.com/watch?v=vXkbfQ2L-Gc) · Built with activitykit, amazon-bedrock, amazon-dynamodb, amazon-web-services
 
@@ -55,6 +63,8 @@ A job board holds payment in escrow until a worker submits the agreed proof of c
 
 A camera-based biomechanics tool tracks movement and fatigue to give athletes feedback while they train.
 
+**How it used Figma:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jiekaitao/BRACE) · [Demo video](https://www.youtube.com/watch?v=DvQncQ3JfmE) · Built with figma-make, actian-vectorai-db, avfoundation, c#
 
 ### [FarmCast](https://devpost.com/software/the-last-human-internet)
@@ -63,7 +73,9 @@ A camera-based biomechanics tool tracks movement and fatigue to give athletes fe
 
 A local weather app gives gardeners and small farmers forecasts tailored to growing decisions.
 
-[Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
+**How it used Figma:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
 
 ### [Fobo](https://devpost.com/software/fobo-fear-of-burning-out)
 
@@ -71,13 +83,17 @@ A local weather app gives gardeners and small farmers forecasts tailored to grow
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-[Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
+**How it used Figma:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
 ### [Forage](https://devpost.com/software/gaia-r3jwo5)
 
 [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md#project-gaia-r3jwo5) · **Best Design**
 
 Help people go outside more often by making nature exploration social, rewarding, and habit-forming.
+
+**How it used Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/EzequielBaltierra/HackDuke26) · [Demo video](https://www.youtube.com/watch?v=ZdNEc66V0Zg) · Built with auth0, expo.io, openai, postgresql
 
@@ -87,6 +103,8 @@ Help people go outside more often by making nature exploration social, rewarding
 
 A computer control interface uses eye tracking to point and speech to issue commands.
 
+**How it used Figma:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/dakshshahani/mhacks) · Built with elevenlabs-api, gemini-3.5-flash-lite-api, git, javascript
 
 ### [Ghostphone](https://devpost.com/software/ghostphone)
@@ -95,7 +113,9 @@ A computer control interface uses eye tracking to point and speech to issue comm
 
 A game tells the story of a ghost through passes in Apple Wallet.
 
-[Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
+**How it used Figma:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
 
 ### [GoTrail](https://devpost.com/software/gotrail)
 
@@ -103,7 +123,9 @@ A game tells the story of a ghost through passes in Apple Wallet.
 
 A hiking app gives users activities to complete outside and helps clinicians suggest walks.
 
-[Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
+**How it used Figma:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
 
 ### [Grouper](https://devpost.com/software/grouper-fr2h1q)
 
@@ -111,13 +133,17 @@ A hiking app gives users activities to complete outside and helps clinicians sug
 
 A shared app helps friend groups coordinate rides, plans, and payments.
 
-[Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
+**How it used Figma:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
 
 ### [IMPULSE](https://devpost.com/software/erewhon)
 
 [LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-erewhon) · **Figma Make Challenge**
 
 EMTs deserve better than a radio and a clipboard.
+
+**How it used Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/MarcDasilva/Impulse) · [Demo video](https://www.youtube.com/watch?v=FwS_lDUnjMY) · Built with asus-gx10, cloudinary, colmap, docker
 
@@ -127,7 +153,9 @@ EMTs deserve better than a radio and a clipboard.
 
 One who understands: your healthcare, handled.
 
-[Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
+**How it used Figma:** The team used Figma Make to prototype the onboarding flow, voice interface, and provider results.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
 
 ### [moa](https://devpost.com/software/moa)
 
@@ -155,6 +183,8 @@ A grocery tracker reads receipts and flags food that may expire soon.
 
 A desktop assistant finds local files and gathers context for the user's current task.
 
+**How it used Figma:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/LAHacks2026/Obi_Laptop) · [Demo video](https://www.youtube.com/watch?v=r7eSFDm4Wd4) · Built with better-sqlite3, chokidar, electron, embeddings
 
 ### [Orbit](https://devpost.com/software/orbit-qrgmd8)
@@ -162,6 +192,8 @@ A desktop assistant finds local files and gathers context for the user's current
 [MHacks 2026](../by-hackathon/mhacks-2026.md#project-orbit-qrgmd8) · **Figma Best Design Track**
 
 A learning app helps users explore stock movements and practice investment decisions.
+
+**How it used Figma:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/daniel3606/Orbit_MHacks26) · [Demo video](https://www.youtube.com/watch?v=Mj4wTCKH8oE) · Built with alpaca, eas, expo.io, fastapi
 
@@ -171,6 +203,8 @@ A learning app helps users explore stock movements and practice investment decis
 
 A booking workspace helps performers find venues and manage pitches and follow-ups.
 
+**How it used Figma:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/RC3371/Scaena-LAHacks2026) · [Demo video](https://www.youtube.com/watch?v=DCTjE99embY) · Built with figma, agentverse, asi-1-mini, css
 
 ### [Sera](https://devpost.com/software/sera-lvthzo)
@@ -179,7 +213,9 @@ A booking workspace helps performers find venues and manage pitches and follow-u
 
 Because good music gives us sera-tonin :).
 
-[Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
+**How it used Figma:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
 
 ### [Snitch](https://devpost.com/software/snitch-ackp1s)
 
@@ -197,9 +233,9 @@ Snitch is an accountability platform built for students without something on the
 
 A dashboard shows how internship pipelines connect employers and schools.
 
-**How it used Figma:** Using Figma Make to experiment with the hero section designs.
+**How it used Figma:** The team used Figma Make to try different designs for the hero section.
 
-[Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
+No public code linked · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
 
 ### [Two Figma](https://devpost.com/software/2-figma)
 
@@ -217,9 +253,9 @@ A working design editor inside Figma uses variables to implement a processor, co
 
 A browser extension helps users find and understand medical research relevant to women's health.
 
-**How it used Figma:** Using Figma Make for the first full flow.
+**How it used Figma:** The team used Figma Make to prototype the app's initial user flow.
 
-[Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
+No public code linked · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
 
 ## Track names and requirements
 

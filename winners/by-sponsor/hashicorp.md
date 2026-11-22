@@ -33,7 +33,9 @@ Anticipate and respond to supply chain disruptions by analyzing current events, 
 
 An all-in-one app for understanding medical documentation and tracking medications seamlessly.
 
-[Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
+**How it used HashiCorp:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
 
 ## 2024 winners
 
@@ -43,6 +45,8 @@ An all-in-one app for understanding medical documentation and tracking medicatio
 
 Have you ever written insecure code? Probably, but how do you know.
 
+**How it used HashiCorp:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/tbwrigh/CalHacks) · Built with gin, go, javascript, postgresql
 
 ### [Clean Sweep](https://devpost.com/software/cleansweep-tjq36w)
@@ -50,6 +54,8 @@ Have you ever written insecure code? Probably, but how do you know.
 [HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-cleansweep-tjq36w) · **Best Use of Terraform**
 
 Clean Sweep — Smart city waste management using real-time data.
+
+**How it used HashiCorp:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/DPulavarthy/HackHarvard) · [Demo video](https://www.youtube.com/watch?v=iU_6u-RygyQ) · Built with terraform, databricks, google-cloud, google-maps
 
@@ -59,6 +65,8 @@ Clean Sweep — Smart city waste management using real-time data.
 
 Git for ANY file type - Reducing storage costs by 500x, streamlining version control, and fostering efficient collaboration.
 
+**How it used HashiCorp:** The team used Terraform to provision the Azure virtual machine that hosts its frontend.
+
 [Code](https://github.com/ssaniya-dev/GitFile) · [Demo video](https://www.youtube.com/watch?v=5T_aJ0k165M) · Built with terraform, azure, c, cloudfare
 
 ### [Let's Meet](https://devpost.com/software/let-s-meet-e15zt7)
@@ -67,7 +75,7 @@ Git for ANY file type - Reducing storage costs by 500x, streamlining version con
 
 Then everyone with access can choose which times work best for them.
 
-**How it used HashiCorp:** The team used a lot of Terraform.
+**How it used HashiCorp:** The team used Terraform to deploy AWS Lambda functions and configure API Gateway permissions.
 
 [Code](https://github.com/tbwrigh/PennAppsXXV) · [Demo video](https://www.youtube.com/watch?v=vbNhfhMT3vs) · Built with terraform, amazon-dynamodb, amazon-web-services, amplify
 
@@ -76,6 +84,8 @@ Then everyone with access can choose which times work best for them.
 [HackGT 11 2024](../by-hackathon/hackgt-11-2024.md#project-saferoute-2iyzml) · **Best Use of Terraform**
 
 A safer way to get from Point A to Point B.
+
+**How it used HashiCorp:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/CalebBunch/hackGT11) · [Demo video](https://www.youtube.com/watch?v=On4-2V-CPRI) · Built with terraform, apis, css, docker
 
@@ -94,6 +104,8 @@ When you're at Hack the North... but still want pizza.
 [HackTX 2024](../by-hackathon/hacktx-2024.md#project-tempterra) · **Best Use of Terraform**
 
 Automating AWS environments for efficiency! Terraform-based solution schedules automatic shutdowns of AWS virtual environments after a set time, saving resources and preventing accidental overcharges.
+
+**How it used HashiCorp:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/IamAryanDubey/TempTerra) · Built with terraform, amazon-web-services, javascript
 

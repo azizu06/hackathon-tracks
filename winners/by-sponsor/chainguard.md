@@ -43,6 +43,8 @@ Cloud Vault is a containerized file uploader using Chainguard Images for secure 
 
 Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting/Searching, Math, DP, Trees, Graph Algorithms, and Strings), each of which offer a set of problems to be solved.
 
+**How it used Chainguard:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/brianush1/leetcode-ai) · [Demo video](https://www.youtube.com/watch?v=_Cjp8x99bII) · Built with chainguard, svelte, typescript
 
 ## Track names and requirements

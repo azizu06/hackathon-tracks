@@ -23,13 +23,17 @@
 
 HeliosAI uses a solar cell connected to an Arduino with light sensors and servo motors.
 
-[Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
+**How it used Arm:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mZV5om5oVVE) · Built with agent-to-agent-architecture, arduino, flask, flask-sock
 
 ### [LongHorn Guide](https://devpost.com/software/cool-project-omanx6)
 
 [HackTX 2025](../by-hackathon/hacktx-2025.md#project-cool-project-omanx6) · **Best Use of ARM**
 
 Your AI-powered campus companion and navigation app with an autonomous robotic UT tour guide.
+
+**How it used Arm:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Ahnaf-Muizz/Longhorns-Guide) · [Demo video](https://www.youtube.com/watch?v=YRbaXEND_-M) · Built with arduino, css, elevenlabs, expo.io
 
@@ -39,13 +43,17 @@ Your AI-powered campus companion and navigation app with an autonomous robotic U
 
 The team describes the project as “Nodal”.
 
-Built with test
+**How it used Arm:** Sponsor use not stated on Devpost
+
+No public code linked · Built with test
 
 ### [ProxyPay](https://devpost.com/software/proxypay-rutqac)
 
 [HackHarvard 2025](../by-hackathon/hackharvard-2025.md#project-proxypay-rutqac) · **Best Use of Arm**
 
 Location-based transaction validation using arm-based cloud computing for end-to-end security; features a mobile application and mock web transaction portal.
+
+**How it used Arm:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/eiyer28/HackHarvard) · [Demo video](https://www.youtube.com/watch?v=0aO7TBcvifA) · Built with arm, amazon-web-services, flask, python
 

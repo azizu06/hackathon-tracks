@@ -2,7 +2,7 @@
 
 # Sponsors
 
-379 sponsors awarded prizes at the hackathons in this index. Open one to see every winning project, what it built and the tech it used.
+379 sponsors awarded prizes at the hackathons in this index. Open one to see every winning project and what it built. Sponsor-use notes appear where the Devpost write-up says how the team used the tech. Code is linked where public.
 
 **Jump to:** [Most awarded](#most-awarded) · [0-9](#0-9) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z)
 

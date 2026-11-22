@@ -23,6 +23,8 @@
 
 Massively parallelized agentic research workflows using spreadsheets as a primitive.
 
+**How it used Pear VC:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/WeltonWang02/spreadsheet_hackathon) · [Demo video](https://www.youtube.com/watch?v=spfLzOUNp44) · Built with agents, apis, llms, typescript
 
 ## 2018 winners
@@ -33,6 +35,8 @@ Massively parallelized agentic research workflows using spreadsheets as a primit
 
 Objectively quantifying reactions to media using EEG data and signal processing.
 
+**How it used Pear VC:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/adampotter0105/DeterMind) · Built with arduino, matlab, neurosky, processing
 
 ### [Kimoyo](https://devpost.com/software/kimoyo-v14wya)
@@ -41,7 +45,9 @@ Objectively quantifying reactions to media using EEG data and signal processing.
 
 a VR app designed for holoportation.
 
-Built with ik, steamvr, unity, vive
+**How it used Pear VC:** Sponsor use not stated on Devpost
+
+No public code linked · Built with ik, steamvr, unity, vive
 
 ### [Music for all](https://devpost.com/software/music-for-all)
 
@@ -49,7 +55,9 @@ Built with ik, steamvr, unity, vive
 
 The team made a cardboard piano that uses computer vision to detect and play piano sounds.
 
-Built with opencv, python
+**How it used Pear VC:** Sponsor use not stated on Devpost
+
+No public code linked · Built with opencv, python
 
 ## Track names and requirements
 

@@ -41,7 +41,7 @@ A property planning tool lets builders compare potential sites, visualize projec
 
 Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
 
-[Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with elevenlabs, grok, heygen, mediapipe
+[Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with render, zoom-sdk, elevenlabs, grok
 
 ### [Snappier](https://devpost.com/software/snappier)
 
@@ -73,7 +73,7 @@ A software development tool compares solutions created by competing coding agent
 
 AxisGen turns one robot-task prompt into simulation-ready Physical AI prompts by varying lighting, placement, embodiment, and safety constraints, creating scalable, robust datasets before deployment.
 
-[Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
+No public code linked · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
 
 ### [Backrooms](https://devpost.com/software/backrooms-h4o783)
 
@@ -97,7 +97,7 @@ A mobile finance prototype turns market events into short research tasks and wai
 
 Voice AI with RAG-powered clinical reasoning that proactively detects post-surgical complications, alerts care providers before symptoms escalate, and prevents costly hospital readmissions.
 
-[Code](https://github.com/JoyZhuoz/carelink) · [Demo video](https://www.youtube.com/watch?v=C60iv-taFpQ) · Built with claude-sdk, elasticsearch, elevenlabs, esql
+[Code](https://github.com/JoyZhuoz/carelink) · [Demo video](https://www.youtube.com/watch?v=C60iv-taFpQ) · Built with elasticsearch, claude-sdk, elevenlabs, esql
 
 ### [ChatGPU](https://devpost.com/software/ji-review)
 
@@ -145,7 +145,7 @@ FundingFlow uses AI to automatically discover funding programs from government w
 
 A party game uses group conversations to make plans for an in-person hangout.
 
-[Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
+No public code linked · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
 
 ### [Luyten](https://devpost.com/software/cafoo)
 
@@ -153,7 +153,7 @@ A party game uses group conversations to make plans for an in-person hangout.
 
 A finance workflow uses agents for month-end close tasks and waits for human approval before posting.
 
-[Code](https://github.com/3nvyx/luyten) · [Demo video](https://www.youtube.com/watch?v=is1IP042_v8) · Built with anthropic, apify, bright-data, claude-agent-sdk
+[Code](https://github.com/3nvyx/luyten) · [Demo video](https://www.youtube.com/watch?v=is1IP042_v8) · Built with spacetimedb, anthropic, apify, bright-data
 
 ### [MomentumX](https://devpost.com/software/momentumx-er2kg9)
 
@@ -185,7 +185,7 @@ fMRI-enhanced swarm simulations for prediction markets.
 
 200K veterans transition out every year — most without real support. NextOp is a private AI coach that translates military careers into civilian résumés, benefits, and training.
 
-[Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with anthropic, anthropic-sdk, brightdata, embedding
+No public code linked · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with anthropic, anthropic-sdk, brightdata, embedding
 
 ### [Nudge](https://devpost.com/software/nudge-hcvxfq)
 
@@ -209,7 +209,7 @@ NextMove has two surfaces running on one decision engine.
 
 A shared coding workspace coordinates AI agents working across devices.
 
-[Code](https://github.com/chuddrw/CalHacks26) · [Demo video](https://www.youtube.com/watch?v=8ImPqzqmFgQ) · Built with claude-api, claude-code, css, factory-droid-sdk
+[Code](https://github.com/chuddrw/CalHacks26) · [Demo video](https://www.youtube.com/watch?v=8ImPqzqmFgQ) · Built with spacetimedb, claude-api, claude-code, css
 
 ### [perennial](https://devpost.com/software/perennial-t62nhb)
 
@@ -289,7 +289,7 @@ Personal agent for college students that lives in iMessage - text it your syllab
 
 A food-waste dashboard shows what gets thrown away so kitchens can decide what to change.
 
-[Code](https://github.com/anton-3/traycer) · [Demo video](https://www.youtube.com/watch?v=ueDxreMXbMQ) · Built with elevenlabs, fastapi, gemini, google-gemini-api
+[Code](https://github.com/anton-3/traycer) · [Demo video](https://www.youtube.com/watch?v=ueDxreMXbMQ) · Built with spacetimedb, elevenlabs, fastapi, gemini
 
 ### [TrialMate](https://devpost.com/software/trialmate)
 
@@ -313,7 +313,7 @@ An accessibility tool converts facial expressions into audio cues for blind user
 
 A commerce tool lets merchants review AI-organized evidence when investigating refunds.
 
-[Code](https://github.com/shubhaych/vouch) · [Demo video](https://www.youtube.com/watch?v=pf4iXxd5D_o) · Built with creao, duckdb, factory-droid-sdk, faster-whisper
+[Code](https://github.com/shubhaych/vouch) · [Demo video](https://www.youtube.com/watch?v=pf4iXxd5D_o) · Built with spacetimedb, creao, duckdb, factory-droid-sdk
 
 ## 2025 winners
 
@@ -347,7 +347,7 @@ People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device t
 
 AI-powered organizational tool for your communication platforms.
 
-[Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
+No public code linked · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
 
 ### [darwin.](https://devpost.com/software/darwin-w6fez0)
 
@@ -371,7 +371,7 @@ Automatically transforms bodycam footage into professional evidence reports usin
 
 Making expungement simple and accessible for all.
 
-[Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+No public code linked · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 
 ### [Grindstone](https://devpost.com/software/grindstone)
 
@@ -395,7 +395,7 @@ Turning snapshots into spaces you can actually explore.
 
 Transforming Thoughts into Visual Expression - Empowering Minds Beyond Words.
 
-[Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9o) · Built with chromadb, google-cloud, langchain, luma-ai
+No public code linked · [Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9o) · Built with chromadb, google-cloud, langchain, luma-ai
 
 ### [Trialytics](https://devpost.com/software/trialytics)
 
@@ -413,7 +413,7 @@ Turning tangled, time-consuming clinical trial data chaos into seamless, protoco
 
 Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay smart, and learn to protect your online world effortlessly.
 
-Built with charm.sh, go, ngrok, sqlite
+No public code linked · Built with charm.sh, go, ngrok, sqlite
 
 ### [SuperMAN](https://devpost.com/software/superman-2wigou)
 

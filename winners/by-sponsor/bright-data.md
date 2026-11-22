@@ -23,6 +23,8 @@
 
 An app where AI agents read every nearby store's Instagram, TikTok, and website 24/7, from cafes, gyms, to barbershops, and alert you the second a new deal drops. Never miss a deal again.
 
+**How it used Bright Data:** Quality: 241 pytest tests with fake Claude, Bright Data, Apify and Elastic (no keys or credits needed), Convex tests with Vitest, and GitHub Actions CI that tests and deploys on every merge.
+
 [Code](https://github.com/azh05/dibs-app) · [Demo video](https://www.youtube.com/watch?v=YFD5S7mlP5E) · Built with anthropic-api, apify, bright-data, claude
 
 ### [kiru](https://devpost.com/software/kiru)
@@ -30,6 +32,8 @@ An app where AI agents read every nearby store's Instagram, TikTok, and website 
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-kiru) · **Best AI-Powered Web Data Hack**
 
 Hate waiting on hold? kiru is a voice agent that actually calls companies, talks to customer support, and negotiates your bills down. Just type what you want and watch the live transcript.
+
+**How it used Bright Data:** The team also added a pre-call research layer using Perplexity and Bright Data so the agent walks into every conversation armed with actual data: competitor offers, market rates, that kind of thing.
 
 [Code](https://github.com/Pranav-Karra-3301/treehacks-26) · [Demo video](https://www.youtube.com/watch?v=73PZw1LwPow) · Built with asyncio, fast-api, nextjs, node.js
 
@@ -39,13 +43,17 @@ Hate waiting on hold? kiru is a voice agent that actually calls companies, talks
 
 200K veterans transition out every year — most without real support. NextOp is a private AI coach that translates military careers into civilian résumés, benefits, and training.
 
-[Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with anthropic, anthropic-sdk, brightdata, embedding
+**How it used Bright Data:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with anthropic, anthropic-sdk, brightdata, embedding
 
 ### [Remy](https://devpost.com/software/remy-h9dbx1)
 
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-remy-h9dbx1) · **Best Agent/App Using Public Web Data sponsored by Bright Data**
 
 Drop in your hospital bill and insurance statement.
+
+**How it used Bright Data:** Bright Data (SERP API and Web Unlocker): finds and fetches each hospital's financial-assistance pages and policy PDFs into a versioned policy database for 12 Bay Area hospitals.
 
 [Code](https://github.com/gsonntag/calhacks) · [Demo video](https://www.youtube.com/watch?v=sja3NhjxxBM) · Built with bright-data, capital-one-nessie, cartesia, claude
 
@@ -65,7 +73,9 @@ Stop scrubbing videos. Start training models.
 
 One iPhone walkthrough builds a complete listing. Renters speed-tour real homes in VR, say what they love or hate, and see if their own couch fits before they ever visit.
 
-[Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
+**How it used Bright Data:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
 
 ## 2025 winners
 
@@ -75,6 +85,8 @@ One iPhone walkthrough builds a complete listing. Renters speed-tour real homes 
 
 ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Specialized rooms for D&amp;D, AA, and therapy with intelligent, personalized moderation.
 
+**How it used Bright Data:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with anthropic-claude-api, asi-one, brightdata-api, docker
 
 ### [FairVal](https://devpost.com/software/reclaim-ai)
@@ -83,15 +95,17 @@ ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn s
 
 Your post-purchase autopilot that automatically tracks online price changes and writes emails to give you refunds, returns, and savings.
 
-**How it used Bright Data:** The application employs Vercel Analytics for performance monitoring and uses Axios for HTTP requests to external APIs, including Bright Data's dataset triggers for structured product data collection.
+**How it used Bright Data:** Web scraping is powered by Bright Data's Scraping Browser via Puppeteer Core, connecting to Bright Data's proxy network for reliable, anti-bot-detection browser automation.
 
-[Demo video](https://www.youtube.com/watch?v=JZJVVK4-EEU) · Built with claude, react, typescript, vercel
+No public code linked · [Demo video](https://www.youtube.com/watch?v=JZJVVK4-EEU) · Built with claude, react, typescript, vercel
 
 ### [Guardian: AI-powered Scam and Fraud Prevention](https://devpost.com/software/guardian-ai-powered-fraud-prevention-for-your-money)
 
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-guardian-ai-powered-fraud-prevention-for-your-money) · **The Bright Data: Best Use of Bright Data**
 
 Defend against suspicious charges before they even reach your account, utilizing voice alerts, agentic reasoning, and real-time merchant intelligence.
+
+**How it used Bright Data:** combines Bright Data, Anthropic, Fish Audio, and Fetch.ai into one smooth agent.
 
 [Code](https://github.com/aryan-gupta123/Guardian) · [Demo video](https://www.youtube.com/watch?v=dWRFXnRT234) · Built with anthropic, brightdata, claude, coderabbit
 

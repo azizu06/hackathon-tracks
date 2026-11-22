@@ -33,7 +33,9 @@ Make accountable long-term wagers using the blockchain.
 
 Calculate carbon emissions from travel expense reports and verify thresholds using smart contracts.
 
-[Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
+**How it used Starknet:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
 
 ### [Experience Points](https://devpost.com/software/experience-points)
 
@@ -41,7 +43,7 @@ Calculate carbon emissions from travel expense reports and verify thresholds usi
 
 The project creates a fungible blockchain token (a cryptocurrency) called "Experience Points".
 
-**How it used Starknet:** The team used the Cairo programming language to write and deploy a Smart Contract on the Starknet developer blockchain.
+**How it used Starknet:** Experience Points officially deployed on Starknet's Sepolia blockchain.
 
 [Code](https://github.com/adventuringsociety/Starknetproject) · Built with starknet, cairo
 

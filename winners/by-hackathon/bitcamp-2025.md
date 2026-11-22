@@ -45,17 +45,17 @@ Pick a track to jump to its winners on this page.
 
 🐨 Improving the koala-ity of your job search 🐨.
 
-[Demo video](https://www.youtube.com/watch?v=hJH72qWVECM) · Built with express.js, materialui, mongodb, node.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=hJH72qWVECM) · Built with express.js, materialui, mongodb, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** express.js, materialui, mongodb, node.js, photoshop, postman, react
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hJH72qWVECM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of .Tech
-- **How it used .Tech Domains:** Enter Koalafied , a gamified way to keep track of your job applications and important information like interviews and offers.
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -72,16 +72,17 @@ Pick a track to jump to its winners on this page.
 
 This project integrates quantum simulation and machine learning to:.
 
-[Demo video](https://www.youtube.com/watch?v=DdIYIRiyi7E) · Built with cuda, javascript, numpy, os
+No public code linked · [Demo video](https://www.youtube.com/watch?v=DdIYIRiyi7E) · Built with cuda, javascript, numpy, os
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cuda, javascript, numpy, os, pandas, pennylane, python, pytorch, react
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DdIYIRiyi7E)
 - **All prizes at this hackathon (1):** Best Hack Promoting Public Health - Bloomberg
+- **How it used Bloomberg:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -108,7 +109,7 @@ A virtual pet whose physical wellness depends on your financial wellness.
 - **Code:** [Source 1](https://github.com/team-moondust/BudgetBuddy-backend) · [Source 2](https://github.com/team-moondust/BudgetBuddy-frontend) · [Source 3](https://github.com/team-moondust/BudgetBuddy-notifications-api)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4BS5oXi7l7U)
 - **All prizes at this hackathon (2):** Best Bitcamp Hack - Bitcamp · Best Financial Hack - Capital One
-- **How it used Capital One:** Integrated the Nessie API to simulate real-world financial transactions.
+- **How it used Capital One:** The team integrated the Nessie API to simulate real-world financial transactions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -121,17 +122,17 @@ A virtual pet whose physical wellness depends on your financial wellness.
 
 "Smart Spending, Safer Shopping, Healthier Finances.".
 
-Built with beautiful-soup, gemini, javascript, mongodb
+No public code linked · Built with beautiful-soup, gemini, javascript, mongodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** beautiful-soup, gemini, javascript, mongodb, python, react, selenium, tailwind
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Financial Hack - Capital One
-- **How it used Capital One:** FinGuard is a browser extension and web dashboard that helps users spend smarter, stay safer, and build better financial habits.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -158,7 +159,7 @@ Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 - **Code:** [Source 1](https://github.com/AHumanMaybe/forens-tech)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
-- **How it used Cipher Tech Solutions:** Forens.tech takes an innovative approach to common digital forensics techniques—combining a fresh, well-planned, and deliberate user experience with reliable methods to quickly parse and display memory dump data.
+- **How it used Cipher Tech Solutions:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -175,14 +176,14 @@ Accelerating Digital Forensics with Friendly UI and Emerging Tech.
 
 Experience contact tracing in this game (with AI, because why not).
 
-Built with cloudflare, css3, gemini, html5
+No public code linked · Built with cloudflare, css3, gemini, html5
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** cloudflare, css3, gemini, html5, javascript, mongodb
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best AI Application Built with Cloudflare
 - **How it used Cloudflare:** HTML/CSS/JS/jQuery was used to develop the game frontend which is hosted on Cloudflare Pages.
@@ -212,7 +213,7 @@ Fighting Drug Waste, Fueling Health Equity.
 - **Code:** [Source 1](https://github.com/arsh-goenka/MedSave)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of GenAI in Business - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** MedSave bridges the gap between surplus medications and communities in need.
+- **How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -235,6 +236,7 @@ Complex API management and integration, especially in dynamic, real-time scenari
 - **Code:** [Source 1](https://github.com/Vitthal-Agarwal/travel)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dqq1xoLwDOY)
 - **All prizes at this hackathon (1):** Best Use of GenAI in Business - Cloudforce/Microsoft
+- **How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -247,17 +249,17 @@ Complex API management and integration, especially in dynamic, real-time scenari
 
 SkinForReal is a GenAI skincare app that uses daily selfies to detect skin issues, track product impact, and deliver personalized, real-time insights and safety alerts.
 
-[Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, faceai, flutter
+No public code linked · [Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, vscode, faceai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** azure, cloudforce, faceai, flutter, terpai, vscode
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hbxiwaTTwiw)
 - **All prizes at this hackathon (1):** Best Use of GenAI in Business - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** SkinForReal analyzes your skin using a daily post-wash selfie and delivers real-time, personalized feedback on your skin’s condition — powered by TerpAI and Microsoft Azure Face API.
+- **How it used Cloudforce / Microsoft:** Successfully integrated Microsoft Azure Face API to detect visible skin conditions from live user selfies.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -284,7 +286,7 @@ Burnout Buddy watches your steps, commits, and eye bags to decide if you need a 
 - **Code:** [Source 1](https://github.com/CSin007/Bitcamp2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The project lists gemini among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -307,7 +309,7 @@ Jesture is a magical gesture-based drawing experience where your hands become th
 - **Code:** [Source 1](https://github.com/jinson-j/jesture)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=K0joSJFCJzc)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The project lists gemini among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,14 +322,14 @@ Jesture is a magical gesture-based drawing experience where your hands become th
 
 The team describes the project as “Speak worlds into reality”.
 
-[Demo video](https://www.youtube.com/watch?v=HXS_7HzJmYo) · Built with gemini, google-gemini, glsl, google-web-speech-api
+No public code linked · [Demo video](https://www.youtube.com/watch?v=HXS_7HzJmYo) · Built with gemini, google-gemini, google-web-speech-api, glsl
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** gemini, glsl, google-gemini, google-web-speech-api, graphics, next, react, tailwind, three.js, webgl
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HXS_7HzJmYo)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Gemini API · Prettiest Hack - Alumni Team
 - **How it used Google:** The team then embedded it all using OpenAI's embedding models to a RAG database using ChromaDB to make Gemini even more powerful.
@@ -357,7 +359,7 @@ Tariffs made simple — track, compare, and calculate in seconds.
 - **Code:** [Source 1](https://github.com/Adr1an04/Tariffix)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPF4dyn6LrM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** The project lists mongodb among its Built With tags.
+- **How it used MongoDB:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -384,7 +386,7 @@ Mobile app for users to find and share recipes. Allows for automatic calculation
 - **Code:** [Source 1](https://github.com/anhatthezoo/bitcamp2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yF3dHHbZJn8)
 - **All prizes at this hackathon (1):** Best Web Hack Using React - Peraton
-- **How it used Peraton:** CookHub supports many features, including the following:.
+- **How it used Peraton:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

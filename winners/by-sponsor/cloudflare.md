@@ -23,6 +23,8 @@
 
 AI-powered biometric and visual monitoring that predicts when you’re prone to bad decisions. With autonomously triggered interventions, 4sight helps you make better decisions for a better you.
 
+**How it used Cloudflare:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/kl527/4sight) · [Demo video](https://vimeo.com/1165159968) · Built with cloudflare-containers, cloudflare-d1, cloudflare-durable-objects, cloudflare-workers
 
 ### [Whim](https://devpost.com/software/idk-man-794g6v)
@@ -43,13 +45,17 @@ Play a game, shop for the party, or book an entire trip end to end. Whim puts cu
 
 Friend asking you silly questions mid-show-dialogue during the climax? No fear, CompOnion (a play on words for Companion) is here.
 
-Built with cloudflare, gemini, javascript, neon
+**How it used Cloudflare:** Sponsor use not stated on Devpost
+
+No public code linked · Built with cloudflare, gemini, javascript, neon
 
 ### [Eyrie](https://devpost.com/software/eyrie-idxhj8)
 
 [HackHarvard 2025](../by-hackathon/hackharvard-2025.md#project-eyrie-idxhj8) · **Best AI Application Built with Cloudflare**
 
 Preventing crowd crush before it happens.
+
+**How it used Cloudflare:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/treehill05/eyrie) · Built with cloudflare, gemini, godaddy, nextjs
 
@@ -71,13 +77,15 @@ Have you ever walked into a dirty bathroom? Sometimes you just want a bathroom t
 
 **How it used Cloudflare:** The team used React.js for the frontend and a SQLite database hosted on Cloudflare as the backend.
 
-[Demo video](https://www.youtube.com/watch?v=-M6MWgq48NU) · Built with cloudflare, google-maps, javascript, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=-M6MWgq48NU) · Built with cloudflare, google-maps, javascript, python
 
 ### [Orbit - Find Your Circle](https://devpost.com/software/orbit-w84iq1)
 
 [LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-orbit-w84iq1) · **Best AI Application Built with Cloudflare**
 
 Empowering every university student to find the people they want to surround themselves with, whether that be mentors, peers in their field, or even just friends.
+
+**How it used Cloudflare:** The team built on DAIN's agentic AI platform and Cloudflare's vector database which stores the user's details like interests, weaknesses and strengths, Linkd's API scrapes Linkedin profiles to find personal similarities within profiles.
 
 [Code](https://github.com/rami-maalouf/dain-orbit) · [Demo video](https://www.youtube.com/watch?v=Ksm0Xa9MfkU) · Built with cloudflare, api, css, dain
 
@@ -89,13 +97,15 @@ Experience contact tracing in this game (with AI, because why not).
 
 **How it used Cloudflare:** HTML/CSS/JS/jQuery was used to develop the game frontend which is hosted on Cloudflare Pages.
 
-Built with cloudflare, css3, gemini, html5
+No public code linked · Built with cloudflare, css3, gemini, html5
 
 ### [SquatSpot](https://devpost.com/software/squatspot)
 
 [Hacklytics 2025](../by-hackathon/hacklytics-2025.md#project-squatspot) · **Best AI Application Built with Cloudflare**
 
 Boosting confidence in the gym with proper form.
+
+**How it used Cloudflare:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/danielachacon/SquatSpot) · [Demo video](https://www.youtube.com/watch?v=2_E6xy6R6-I) · Built with cloudflare, css, github, html
 
@@ -105,7 +115,7 @@ Boosting confidence in the gym with proper form.
 
 Instant, data-driven race strategy suggestions for teams.
 
-**How it used Cloudflare:** This is deployed using Terraform to Cloudflare Workers .
+**How it used Cloudflare:** This is deployed using Terraform to Cloudflare Workers.
 
 [Code](https://github.com/phamleduy04/hacktx-25) · [Demo video](https://www.youtube.com/watch?v=4SxP2n9fwpM) · Built with convex, digitalocean, flask, python
 
@@ -129,13 +139,15 @@ The project is an innovative AI-powered web app designed to reduce vehicle carbo
 
 **How it used Cloudflare:** Cloudflare Workers &amp; Cloudflare AI : Cloudflare provides robust, scalable hosting and API integration, ensuring security and speed in processing data and delivering insights.
 
-Built with cloudflare, ai, amazon-web-services, databricks
+No public code linked · Built with cloudflare, ai, amazon-web-services, databricks
 
 ### [Open Context](https://devpost.com/software/open-context)
 
 [HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-open-context) · **Best AI Application Built with Cloudflare**
 
 A platform for open-source course data collection, and quiz generation.
+
+**How it used Cloudflare:** Infrastructure: Hosted with Defang for production-grade API management, alongside Cloudflare for data operations and performance optimization.
 
 [Code](https://github.com/SunfishTK1/open-context) · [Demo video](https://www.youtube.com/watch?v=q9SSeZdKo4U) · Built with cloudflare, defang, fastapi, nginx
 
@@ -145,7 +157,9 @@ A platform for open-source course data collection, and quiz generation.
 
 Automate your event extraction from emails.
 
-Built with cloudflare, ai, groq, llama
+**How it used Cloudflare:** Sponsor use not stated on Devpost
+
+No public code linked · Built with cloudflare, ai, groq, llama
 
 ## Track names and requirements
 

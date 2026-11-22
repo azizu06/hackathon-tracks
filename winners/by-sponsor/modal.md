@@ -23,6 +23,8 @@
 
 Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
 
+**How it used Modal:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with elevenlabs, grok, heygen, mediapipe
 
 ### [Longshot](https://devpost.com/software/longshot)
@@ -33,13 +35,15 @@ Built Minecraft in one shot - Burned $5500 running 100+ coding agents pushing at
 
 **How it used Modal:** Modal: Serverless GPU backend that runs each sandboxed agent at scale with high-performance compute and automatic resource provisioning.
 
-[Demo video](https://www.youtube.com/watch?v=5oxXfazBcaQ) · Built with modal, chatgpt, claude, cursor
+No public code linked · [Demo video](https://www.youtube.com/watch?v=5oxXfazBcaQ) · Built with modal, chatgpt, claude, cursor
 
 ### [Mirage](https://devpost.com/software/synsplatt)
 
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-synsplatt) · **Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp;…**
 
 Robots and self-driving cars need training data. Mirage synthesizes 3D world-model training data covering hard-to-capture scenes - like driving in a hailstorm.
+
+**How it used Modal:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/kyan-yang/Mirage) · Built with modal, gpu, python
 
@@ -51,13 +55,15 @@ Mobius runs for very long periods of time completely autonomously to complete al
 
 **How it used Modal:** Run on a modal sandbox for privacy and asynchronous running.
 
-[Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with modal, ai, anthropic, chatgpt
+No public code linked · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with modal, ai, anthropic, chatgpt
 
 ### [Monolith](https://devpost.com/software/monolith-z10684)
 
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-monolith-z10684) · **Sandbox Challenge**
 
 Shared coding agent context powered by RLMs. One Context, Run Everywhere.
+
+**How it used Modal:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/WingchunSiu/Monolith) · [Demo video](https://www.youtube.com/watch?v=Ie0ZMGYPhS8) · Built with modal, claude, cloudflare, mcp
 

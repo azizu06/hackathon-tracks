@@ -23,13 +23,17 @@
 
 Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 
-[Code](https://github.com/aditya-baniya-ai/hack_princeton) · [Demo video](https://www.youtube.com/watch?v=nPXe5ZIrOiY) · Built with amazon-bedrock, amazon-nova-2-lite, amazon-nova-2-sonic, amazon-web-services
+**How it used Amazon Web Services:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/aditya-baniya-ai/hack_princeton) · [Demo video](https://www.youtube.com/watch?v=nPXe5ZIrOiY) · Built with amazon-bedrock, amazon-web-services, amazon-nova-2-lite, amazon-nova-2-sonic
 
 ### [Budgie On A Budget](https://devpost.com/software/budgie-on-a-budget)
 
 [ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-budgie-on-a-budget) · **Best Use of AWS**
 
 Budgie on a Budget helps you find a home that fits both your budget and your lifestyle.
+
+**How it used Amazon Web Services:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/veronica-lab/shellhacks2026-Budgie-on-a-Budget) · [Demo video](https://www.youtube.com/watch?v=rStyASEtwMQ) · Built with apis, claude, code/zip, elevenlabs
 
@@ -39,6 +43,8 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 
 Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a live map of where a bleed is likely.
 
+**How it used Amazon Web Services:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/at350/hackprinceton-fall-2026) · [Demo video](https://www.youtube.com/watch?v=IY0Rr7l58Eg) · Built with anthropic, arduino, claude, deepagents
 
 ### [Meridies](https://devpost.com/software/meridies)
@@ -47,6 +53,8 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 
 A wearable combines spoken assistance with spatial audio to help people with vision loss navigate.
 
+**How it used Amazon Web Services:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Aliceeia/Meridies) · [Demo video](https://www.youtube.com/watch?v=eoBT5CGjsPA) · Built with api, costar, css, gemini
 
 ### [SafePulse](https://devpost.com/software/safepulse-4vsq2l)
@@ -54,6 +62,8 @@ A wearable combines spoken assistance with spatial audio to help people with vis
 [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-safepulse-4vsq2l) · **Best Use of AWS**
 
 Walking alone at night on campus? SafePulse is here to walk you home safe.
+
+**How it used Amazon Web Services:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/danielzhu04/SafePulse) · Built with amazon-web-services, expo.io, go, react-native
 
@@ -73,6 +83,8 @@ By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
 
 Step inside the past, see it through every view, with every line sourced and true.
 
+**How it used Amazon Web Services:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/riavadhavkar/vantage) · [Demo video](https://www.youtube.com/watch?v=Atkd0YpaIMc) · Built with chromadb, cloudflare, deepagents, elevenlabs
 
 ## 2025 winners
@@ -85,7 +97,7 @@ Clip, save, and organize the exact moments that spark your ideas.
 
 **How it used Amazon Web Services:** Format Optimization : The original WebM video files are converted using FFmpeg to GIFs &amp; MP4s, stored in S3, and then stored with the video metadata in DynamoDB.
 
-[Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
+No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
 
 ### [Sematic](https://devpost.com/software/diaframe)
 
@@ -105,13 +117,15 @@ Signify brings AI into the web accessibility space.
 
 **How it used Amazon Web Services:** Text-to-ASL conversion using AWS Bedrock Speech-to-Text using Amazon Transcribe Real-time processing via Lambda functions.
 
-[Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, dynamodb, lambda, amazon-ec2
+No public code linked · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
 ### [TradeOff](https://devpost.com/software/tradeoff-c24mwv)
 
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-tradeoff-c24mwv) · **Amazon: AWS Campus Champions - Best Use of DynamoDB Streams**
 
 Stock market simulation game where students race to beat the market.
+
+**How it used Amazon Web Services:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/redmac135/TradeOff) · [Demo video](https://www.youtube.com/watch?v=KtQ0IwOUMy4) · Built with dynamodb, api, cerebras, english
 
@@ -125,7 +139,7 @@ Building community among pro bono lawyers through an easy to use conversational 
 
 **How it used Amazon Web Services:** It is a web platform with a built in AWS chatbot that utilizes numerous legal APIs to effectively search previous cases based on a number of descriptors.
 
-Built with amazon-lex, amazon-web-services, case.law, google-cloud
+No public code linked · Built with amazon-web-services, amazon-lex, case.law, google-cloud
 
 ### [Text2Test](https://devpost.com/software/text2test)
 
@@ -135,7 +149,7 @@ A website that creates customized tests based on students' notes.
 
 **How it used Amazon Web Services:** The team used AWS APIs, specifically Lambda, Comprehend, Gateway.
 
-[Code](https://github.com/juliustao/text2test-aws) · Built with lambda, adobe-creative-suite, amazon-web-services, comprehend
+[Code](https://github.com/juliustao/text2test-aws) · Built with amazon-web-services, adobe-creative-suite, comprehend, gateway
 
 ## Track names and requirements
 

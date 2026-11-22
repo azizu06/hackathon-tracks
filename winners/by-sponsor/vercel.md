@@ -23,6 +23,8 @@
 
 Show Snappier your workflow once by recording your screen. AI figures out what you did and why, then automates it across any connected app.
 
+**How it used Vercel:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/nintang/snappier) · [Demo video](https://www.youtube.com/watch?v=Mi4oWY_EkYc) · Built with vercel, ai, anthropic-claude-(workflow-planning-&amp;-execution), api
 
 ## 2025 winners
@@ -32,6 +34,8 @@ Show Snappier your workflow once by recording your screen. AI figures out what y
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-lumora) · **Most Creative Use of Vercel/v0 in Edge AI track**
 
 Lumora is a Personal Assistant Marketplace. No need to manually set meetings or write to-do lists any longer.
+
+**How it used Vercel:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ShaneYokota72/Lumora) · Built with groq, next.js, perplexity-api, supabase
 

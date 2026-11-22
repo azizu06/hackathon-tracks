@@ -54,8 +54,8 @@ A dynamic platform for mapping real-time crisis events through peer-shared video
 - **Code:** [Source 1](https://github.com/bpbrianpark/CrisisLens)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Aquareum.tv Sponsor Prize · TELUS Sponsor Prize
-- **How it used Aquareum.tv:** Creating CrisisLens offered the team incredible insights across technology, design, and human-centered problem-solving:.
-- **How it used TELUS:** Creating CrisisLens offered the team incredible insights across technology, design, and human-centered problem-solving:.
+- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
+- **How it used TELUS:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -84,6 +84,7 @@ The team are a decentralized API key sharing intermediary service.
 - **Code:** [Source 1](https://github.com/bradeu/b.env)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** 1Password Sponsor Prize
+- **How it used 1Password:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -112,7 +113,7 @@ VR Conferences, Concerts, &amp; Events powered by Streamspace.
 - **Code:** [Source 1](https://github.com/Axzyl/nwhacks-official)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
-- **How it used Aquareum.tv:** Eventis is a decentralized platform that creates immersive and interactive 3D environments for virtual conferences, events, and concerts.
+- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -135,6 +136,7 @@ The Story To build a community, you must first protect it.
 - **Code:** [Source 1](https://github.com/eshuaiii/nwhacks-2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
+- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -157,7 +159,7 @@ Meet in person, point in virtual.
 - **Code:** [Source 1](https://github.com/gracetownland/NwHacks2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
-- **How it used Aquareum.tv:** The app provides users with gamified reward based incentives which motivates users to attend more events.
+- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -180,7 +182,7 @@ Helping you find the perfect study spot or gym time on campus.
 - **Code:** [Source 1](https://github.com/romansinkus/spotlight)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
-- **How it used Aquareum.tv:** Spotlight is a real-time campus assistant designed to help students find study spots and check gym availability with ease.
+- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -203,7 +205,7 @@ Helping you find the perfect study spot or gym time on campus.
 - **Code:** [Source 1](https://github.com/tyin76/sum-up-sundae)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
-- **How it used Aquareum.tv:** Sum-Up Sundae lets users upload a short video to their group once a week, every Sunday.
+- **How it used Aquareum.tv:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -220,17 +222,17 @@ Helping you find the perfect study spot or gym time on campus.
 
 Scandium is local AI code secret scanning. Rather than being notified after you've uploaded your secrets, Scandium integrates with your code editor to detect leaked secrets before they get published.
 
-[Demo video](https://www.youtube.com/watch?v=sHfQ85ScFNA) · Built with node.js, ollama, qwen, typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=sHfQ85ScFNA) · Built with node.js, ollama, qwen, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** node.js, ollama, qwen, typescript, vsc-extensions
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sHfQ85ScFNA)
 - **All prizes at this hackathon (1):** Communications Security Establishment Sponsor Prize
-- **How it used Communications Security Establishment:** Instead, Scandium takes a proactive approach, identifying security issues far before they ever get pushed to a repository.
+- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -257,7 +259,7 @@ HeartTalk is your senior care companion, combining AI chat support with health m
 - **Code:** [Source 1](https://github.com/Carol-cs/nwhacks2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Defang.io Sponsor Prize
-- **How it used Defang:** The project lists defang among its Built With tags.
+- **How it used Defang:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -280,7 +282,7 @@ Say Hi to PT 👋. A Hip Interactive Physical Therapy Application where you can 
 - **Code:** [Source 1](https://github.com/TrabLimit/nwHacks-2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Defang.io Sponsor Prize
-- **How it used Defang:** The project lists defang among its Built With tags.
+- **How it used Defang:** Deployment: The entire application is deployed with Defang.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -330,7 +332,7 @@ Patients over paperwork- physicians want make meaningful impact on patients but 
 - **Code:** [Source 1](https://github.com/zelalemka/nwhacks_2025_chit_chart)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1tHKeyLVZSA)
 - **All prizes at this hackathon (2):** Glaive Any Open-Source LLM Prize ($2000) · Most Likely to Become a Successful Startup
-- **How it used Glaive:** The team did so many cool things. Prize: $2000
+- **How it used Glaive:** Sponsor use not stated on Devpost Prize: $2000
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -357,7 +359,7 @@ A menu companion translates unfamiliar menus and helps diners visualize the dish
 - **Code:** [Source 1](https://github.com/stevenxu27/Dishcovery)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Large visual pictures to showcase sample images of the dish to users.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -384,7 +386,7 @@ Challenge friends to webcam slap battles, dodge hits like Neo, and win egos—no
 - **Code:** [Source 1](https://github.com/devnull03/nwhacks25-nameTBA)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CQN2vw13LlA)
 - **All prizes at this hackathon (1):** Best Use of Midnight
-- **How it used Midnight:** Building Virtual Power Slap taught the team valuable lessons:.
+- **How it used Midnight:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -417,7 +419,7 @@ A terminal search tool runs user-defined commands against selected databases.
 - **Code:** [Source 1](https://github.com/zhangLily2020/nwhacks2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** nwHacks 2025 Finalists · Warp Sponsor Prize
-- **How it used Warp:** The project lists warp among its Built With tags.
+- **How it used Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -444,7 +446,7 @@ Nuggetmon is a desktop application designed to gamify productivity! With the hel
 - **Code:** [Source 1](https://github.com/asnbl/nuggetmon-productivity-app)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9VkhzWEAR-g)
 - **All prizes at this hackathon (1):** Wondershare Sponsor Prize
-- **How it used Wondershare:** Nuggetmon is your personal productivity companion that helps you stay focused and on task.
+- **How it used Wondershare:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

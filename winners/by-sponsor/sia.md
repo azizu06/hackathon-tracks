@@ -23,7 +23,9 @@
 
 Ad-Supported, Safe File Storage for the Masses.
 
-Built with blockchain, html5, node.js
+**How it used Sia:** On the reverse side, the file needs to be queried from Sia to the web server, then downloaded to the client.
+
+No public code linked · Built with blockchain, html5, node.js
 
 ## Track names and requirements
 

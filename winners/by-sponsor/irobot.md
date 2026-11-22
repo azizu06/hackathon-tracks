@@ -23,6 +23,8 @@
 
 A roomba uses machine learning and a raspberry pi with a pi camera to search for objects.
 
+**How it used iRobot:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/dratini0/Roomba4E) · Built with irobot-create, azure, json, machine-learning
 
 ### [PlotRoomba](https://devpost.com/software/plotroomba)
@@ -30,6 +32,8 @@ A roomba uses machine learning and a raspberry pi with a pi camera to search for
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-plotroomba) · **Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack**
 
 Use your favorite cleaning robot to transform the floor into a canvas for Mathematica plots.
+
+**How it used iRobot:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/cyanophycean314-zz/plot_roomba) · Built with irobot-create2, facebook-live-api, python, wolfram-development-platform
 

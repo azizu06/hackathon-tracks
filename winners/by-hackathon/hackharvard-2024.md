@@ -56,7 +56,7 @@ Transforming arthritis rehabilitation by advanced posture detection ensures corr
 - **Code:** [Source 1](https://github.com/Shameed4/Flexy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=l7krRFZL9R8)
 - **All prizes at this hackathon (1):** AllHealth Track Prize
-- **How it used AllHealth:** The team use an advanced posture detection algorithm to identify key body joints and landmarks in real-time videos.
+- **How it used AllHealth:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -83,7 +83,7 @@ A platform for open-source course data collection, and quiz generation.
 - **Code:** [Source 1](https://github.com/SunfishTK1/open-context)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=q9SSeZdKo4U)
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** The project lists cloudflare among its Built With tags.
+- **How it used Cloudflare:** Infrastructure: Hosted with Defang for production-grade API management, alongside Cloudflare for data operations and performance optimization.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -110,7 +110,7 @@ Transform legal research with an AI-powered tool that delivers precise case matc
 - **Code:** [Source 1](https://github.com/FelixNgFender/HackHarvard24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VuqHDqgFIkg)
 - **All prizes at this hackathon (1):** Best AI Project with Databricks Open Source
-- **How it used Databricks:** The tool transforms legal research by offering AI-powered legal case search.
+- **How it used Databricks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -137,7 +137,7 @@ A platform to minimize carbon footprint by encouraging users to reduce their dai
 - **Code:** [Source 1](https://github.com/Jshot117/HackHarvard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Defang
-- **How it used Defang:** FootPrint Mayhem makes sustainability part of your daily routine with these features:.
+- **How it used Defang:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -164,7 +164,7 @@ Clean Sweep — Smart city waste management using real-time data.
 - **Code:** [Source 1](https://github.com/DPulavarthy/HackHarvard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iU_6u-RygyQ)
 - **All prizes at this hackathon (1):** Best Use of Terraform
-- **How it used HashiCorp:** The project lists terraform among its Built With tags.
+- **How it used HashiCorp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -181,7 +181,7 @@ Clean Sweep — Smart city waste management using real-time data.
 
 Using MATLAB to make a Galaga-style game.
 
-[Code](https://github.com/ttran134/invaders) · [Demo video](https://vimeo.com/1019066017) · Built with c++, freetype, matlab, miniaudio
+[Code](https://github.com/ttran134/invaders) · [Demo video](https://vimeo.com/1019066017) · Built with matlab, c++, freetype, miniaudio
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -191,7 +191,7 @@ Using MATLAB to make a Galaga-style game.
 - **Code:** [Source 1](https://github.com/ttran134/invaders)
 - **Demo video:** [Video 1](https://vimeo.com/1019066017)
 - **All prizes at this hackathon (1):** Best Use of MATLAB
-- **How it used MathWorks:** Interfaced with the native sound libraries for audio playback (example being PulseAudio for Linux!).
+- **How it used MathWorks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -218,7 +218,7 @@ Powering a Greener Future, One Trade at a Time. A Blockchain-Powered Marketplace
 - **Code:** [Source 1](https://github.com/eshansinghal14/hack-harvard-24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kejAyXxu1fU)
 - **All prizes at this hackathon (1):** Best Use of Midnight
-- **How it used Midnight:** Blockchain for Transparency : TradeREC uses Hedera and Midnight blockchain technology to provide secure, transparent records of every transaction .
+- **How it used Midnight:** Blockchain for Transparency : TradeREC uses Hedera and Midnight blockchain technology to provide secure, transparent records of every transaction.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -245,7 +245,7 @@ Your personal prescription and medical symptom tracking companion.
 - **Code:** [Source 1](https://github.com/Givikap/Althea)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=y12QLSdo0zs)
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
-- **How it used Patient Safety Technology Challenge:** Althea allows users to enter which prescriptions drugs they are taking so that they can have a checklist to remember what they have taken on a certain day.
+- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -258,16 +258,17 @@ Your personal prescription and medical symptom tracking companion.
 
 CognitiveKeyboard is an alternative Android keyboard that updates a user’s typing statistics every 30 seconds.
 
-[Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
+No public code linked · [Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adb, android-studio, github, java, linode, mongodb, python
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dRKB-PcvrnU)
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
+- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -280,17 +281,17 @@ CognitiveKeyboard is an alternative Android keyboard that updates a user’s typ
 
 SimplySign aims to make ASL more accessible and bring people together, whether by facilitating communication between patients and healthcare providers, or simply giving students a tool to practice.
 
-Built with css, github, html, javascript
+No public code linked · Built with css, github, html, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** css, github, html, javascript, mediapipe, opencv, python, pytorch, signlanguagemnistdataset, tensorflow.js, ultralytics-yolo, visual-studio-code, visualstudiocode, yolov8
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Patient Safety Challenge: Sunrise (Hatch) Alarm Clock
-- **How it used Patient Safety Technology Challenge:** The web app captures hand gestures using a webcam, processes the images, and then translates the detected signs into text displayed on the screen.
+- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -317,7 +318,7 @@ Find useful information about subreddits with a few clicks.
 - **Code:** [Source 1](https://github.com/sethmorton/embeddit)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=E9kUUpfn7_g)
 - **All prizes at this hackathon (1):** Sauce Labs Hot Sauce Raffle
-- **How it used Sauce Labs:** Embeddit allows users to ask questions about a specific subreddit.
+- **How it used Sauce Labs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -344,7 +345,7 @@ Real-time error monitoring from the terminal, helping developers spend less time
 - **Code:** [Source 1](https://github.com/denniwang/t-error)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MNrN6I0-H-A)
 - **All prizes at this hackathon (1):** Best Developer Tool
-- **How it used Warp:** T-Error is a terminal error-monitoring tool that captures and logs errors as developers run commands.
+- **How it used Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

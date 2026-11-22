@@ -23,6 +23,8 @@
 
 Satellite-enabled wireless sensor network for early wildfire detection.
 
+**How it used Skylo:** The gateway computer leverages a Monogoto Satellite NTN (graciously provided by Skylo) and receives all of the incoming sensor data from its local network, which is then relayed to a geostationary satellite.
+
 [Code](https://github.com/tsai-henry/canary) · [Demo video](https://www.youtube.com/watch?v=OwAMRadd5Y8) · Built with skylo, arduino, esp8266, gcp
 
 ### [FRED](https://devpost.com/software/fred-bpszwn)
@@ -31,7 +33,9 @@ Satellite-enabled wireless sensor network for early wildfire detection.
 
 FRED is a satellite-powered emergency response tool that allows users in remote areas to send GPS coordinates, images, and voice data to responders, ensuring help can be dispatched from anywhere.
 
-[Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
+**How it used Skylo:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
 
 ### [Resililink](https://devpost.com/software/resilink)
 
@@ -39,7 +43,7 @@ FRED is a satellite-powered emergency response tool that allows users in remote 
 
 A Lifeline When It Matters Most.
 
-**How it used Skylo:** The core hardware components include LoRa radios, which provide long-range communication, and Skylo satellite connectivity, enabling nodes to transmit data to the internet using the MQTT protocol.
+**How it used Skylo:** A key feature of this network is the integration of a "super" node equipped with satellite connectivity (via Skylo), which serves as the bridge between local nodes and a centralized server.
 
 [Code](https://github.com/12458/calhacks) · [Demo video](https://www.youtube.com/watch?v=W8BvOO4-qPs) · Built with skylo, lora, modem, python
 

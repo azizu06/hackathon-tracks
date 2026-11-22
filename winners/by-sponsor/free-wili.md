@@ -33,7 +33,9 @@ A wearable AI agent that detects patterns in elder patients to provide life-savi
 
 Meet the right people. Only when it's mutual.
 
-[Code](https://github.com/maiaPaperTowns/mutuals) · [Demo video](https://www.youtube.com/watch?v=UMzRICNUTBQ) · Built with c, c++, claude, freewili
+**How it used FREE-WILi:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/maiaPaperTowns/mutuals) · [Demo video](https://www.youtube.com/watch?v=UMzRICNUTBQ) · Built with freewili, c, c++, claude
 
 ### [Orca](https://devpost.com/software/orca-03zer4)
 
@@ -41,7 +43,9 @@ Meet the right people. Only when it's mutual.
 
 A rehab-game station where four agents filter, fact-check, decide and act, and show their reasoning on a wearable screen.
 
-[Code](https://github.com/Dee-1862/Ocra) · [Demo video](https://www.youtube.com/watch?v=x5cxIVRhaSU) · Built with agentverse, asi:one, c, fetch.ai-uagents
+**How it used FREE-WILi:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/Dee-1862/Ocra) · [Demo video](https://www.youtube.com/watch?v=x5cxIVRhaSU) · Built with freewili-og, agentverse, asi:one, c
 
 ### [Otto: One Less Trip to the Mechanic](https://devpost.com/software/otto-one-less-trip-to-the-mechanic)
 
@@ -61,7 +65,7 @@ Similar to a piano tiles game where the tiles come towards the player, the tiles
 
 **How it used FREE-WILi:** The team used the FREE-WILi API, wrote the display and main files in C, and used the board's built-in accelerometer to measure positional data as the player moved their wrist.
 
-[Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
 
 ## 2025 winners
 
@@ -71,6 +75,8 @@ Similar to a piano tiles game where the tiles come towards the player, the tiles
 
 Gesture-based mouse built using FreeWILi and Vosk text-to-speech used to increase accessibility in using the web for disabled people, such as amputees and people with lost-mobility in their hands.
 
+**How it used FREE-WILi:** Gestura reads the FREE-WILi accelerometer to turn hand gestures into mouse movement.
+
 [Code](https://github.com/imzaynb/MHacks2025) · [Demo video](https://www.youtube.com/watch?v=7x3D7nPJlRc) · Built with freewili, git, github, pynput
 
 ### [Wattson](https://devpost.com/software/wattson-5btsyd)
@@ -79,7 +85,9 @@ Gesture-based mouse built using FreeWILi and Vosk text-to-speech used to increas
 
 Nurture a pet by being sustainable.
 
-[Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
+**How it used FREE-WILi:** These functions and variables are utilized to connect with the user interface of the Free-Wili device.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
 
 ## 2024 winners
 
@@ -89,7 +97,9 @@ Nurture a pet by being sustainable.
 
 Gives users the ability to play four 1v1 games.
 
-[Demo video](https://www.youtube.com/watch?v=7VzAm0KVVoo) · Built with c++, freewili, pygame, python
+**How it used FREE-WILi:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=7VzAm0KVVoo) · Built with freewili, c++, pygame, python
 
 ## Track names and requirements
 

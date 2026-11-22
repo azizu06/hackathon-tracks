@@ -23,7 +23,9 @@
 
 The project, Course Catalog Intelligence, pulls important information from university course catalog PDFs and lets you ask questions in plain language.
 
-Built with flask, git, github, langchain
+**How it used Xficient:** Sponsor use not stated on Devpost
+
+No public code linked · Built with flask, git, github, langchain
 
 ### [ParsePal](https://devpost.com/software/parsepal)
 
@@ -31,7 +33,9 @@ Built with flask, git, github, langchain
 
 Search Made Simple: Ask questions, find answers – AI parses documents, chatbot delivers.
 
-Built with flask, github, gpt-4, neon
+**How it used Xficient:** Sponsor use not stated on Devpost
+
+No public code linked · Built with flask, github, gpt-4, neon
 
 ### [Xficient Bot](https://devpost.com/software/xficient-bot)
 
@@ -39,9 +43,9 @@ Built with flask, github, gpt-4, neon
 
 Xficient Bot revolutionizes course catalog management by using unsupervised learning to cluster uploaded files.
 
-**How it used Xficient:** The team built Xficient Bot using a combination of advanced unsupervised learning algorithms for data clustering and the GPT API for natural language understanding.
+**How it used Xficient:** Xficient Bot revolutionizes course catalog management by using unsupervised learning to cluster uploaded files.
 
-Built with gpt, natural-language-processing, openai, python
+No public code linked · Built with gpt, natural-language-processing, openai, python
 
 ## Track names and requirements
 

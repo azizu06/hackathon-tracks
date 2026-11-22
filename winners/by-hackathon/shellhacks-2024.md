@@ -63,9 +63,9 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 - **Code:** [Source 1](https://github.com/kgand/shellhacks2024)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Assurant · Microsoft
-- **How it used Assurant:** ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking.
-- **How it used GoDaddy Registry:** ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking.
-- **How it used Microsoft:** ✨ Note Classification: Automatically classifies and stores your handwritten or typed notes based on content and the classes you are taking.
+- **How it used Assurant:** Sponsor use not stated on Devpost
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **How it used Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -88,8 +88,8 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 - **Code:** [Source 1](https://github.com/August-Druzgal/ShellHacks2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7rRxLXnresk)
 - **All prizes at this hackathon (3):** Google · Microsoft · Second Best Overall
-- **How it used Google:** ARSL uses Computer Vision to detect objects through your Quest headset passthrough and translate detected objects into ASL alphabet.
-- **How it used Microsoft:** ARSL uses Computer Vision to detect objects through your Quest headset passthrough and translate detected objects into ASL alphabet.
+- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -120,7 +120,7 @@ ESPER makes the Internet a safer place for those with epilepsy by dynamically ad
 - **Code:** [Source 1](https://github.com/LumaDevelopment/ESPER)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Assurant · Best Overall
-- **How it used Assurant:** ESPER dynamically processes image frames from video HTML elements and analyzes their perceived luminosity.
+- **How it used Assurant:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -143,6 +143,7 @@ Jet Setter traverses through a 2D array to access the different rows of seats an
 - **Code:** [Source 1](https://github.com/JessicaDLN811/Jetsetter)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fXF7-o58v5s)
 - **All prizes at this hackathon (1):** Assurant
+- **How it used Assurant:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -169,7 +170,7 @@ A real time LLM based threat identification application.
 - **Code:** [Source 1](https://github.com/nikil1506/ShellHacks-WatchDog)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Auth0
-- **How it used Auth0:** WatchDog is like having your own superhero security guard who never sleeps.
+- **How it used Auth0:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -196,7 +197,7 @@ AI-driven solution designed to detect and prevent fraudulent financial transacti
 - **Code:** [Source 1](https://github.com/alimuhammad-creator/ShellHacksFIU)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** BNY AI-powered Financial Fraud Detection System
-- **How it used BNY:** FraudGuard is an AI-powered fraud detection system that uses advanced machine learning algorithms and data analysis to identify outliers and detect potential financial fraud in transactions.
+- **How it used BNY:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -219,6 +220,7 @@ Using SQL, OpenAI, Flask to detect and report suspicious transactions.
 - **Code:** [Source 1](https://github.com/z3nL/h2a)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rIAGdBaJAVE)
 - **All prizes at this hackathon (1):** BNY AI-powered Financial Fraud Detection System
+- **How it used BNY:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -235,17 +237,17 @@ Using SQL, OpenAI, Flask to detect and report suspicious transactions.
 
 Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay smart, and learn to protect your online world effortlessly.
 
-Built with charm.sh, go, ngrok, sqlite
+No public code linked · Built with charm.sh, go, ngrok, sqlite
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** charm.sh, go, ngrok, sqlite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Break Through Tech
-- **How it used Break Through Tech:** ShellHacked is a command-line tool designed to boost your digital security literacy through interactive lessons and real-world challenges.
+- **How it used Break Through Tech:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -272,6 +274,7 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 - **Code:** [Source 1](https://github.com/hlee18lee46/shellhacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
+- **How it used Cafe Cultura:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -284,17 +287,17 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 
 "Empowering Latino Businesses, One Investment at a Time.".
 
-[Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
+No public code linked · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** ai, firebase, python, streamlit
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bONR9Nu1-Cw)
 - **All prizes at this hackathon (1):** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
-- **How it used Cafe Cultura:** Mercado is a micro-investment platform that allows users to browse and invest in Latino-owned small businesses.
+- **How it used Cafe Cultura:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -307,17 +310,17 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 
 Ever wondered what delicious dish you could create with the ingredients you have on hand? TasteLatino uses image recognition tech to identify your ingredients and generate latin recipes in seconds.
 
-Built with coreml, openai, swift, xcode
+No public code linked · Built with coreml, openai, swift, xcode
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** coreml, openai, swift, xcode
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cafe Cultura Latine' Heritage Month Digital Divide Challenge
-- **How it used Cafe Cultura:** The mobile app has multiple features, the main one being a camera that captures a picture of an ingredient and uses a machine learning model to recognize the item.
+- **How it used Cafe Cultura:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -344,7 +347,7 @@ Calculate car lease payments, insurance, and track savings in one tool! Tailored
 - **Code:** [Source 1](https://github.com/Jackal-HQ/Lease-Saving-Guide)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Capital One
-- **How it used Capital One:** Lease Saving Plan calculates monthly lease payments based on user inputs like down payment, lease term, and car selection.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -367,7 +370,7 @@ SmartCards is a user-friendly addon for your budgeting app to help you better ca
 - **Code:** [Source 1](https://github.com/chasereyn/smart-cards)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Capital One
-- **How it used Capital One:** SmartCards is a user-friendly addon for budgeting apps that helps users better categorize their transactions and discover investing opportunities from each purchase.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -440,7 +443,7 @@ Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting
 - **Code:** [Source 1](https://github.com/brianush1/leetcode-ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_Cjp8x99bII)
 - **All prizes at this hackathon (1):** Wolfi OS Container Security Hackathon
-- **How it used Chainguard:** The project lists chainguard among its Built With tags.
+- **How it used Chainguard:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -457,17 +460,17 @@ Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting
 
 FIU Scholarship Plug helps students find relevant scholarships by assessing demographics. It gathers data on academic background, financial status, and career goals for personalized recommendations.
 
-Built with defang, auth0, bash, css
+No public code linked · Built with defang, auth0, bash, css
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** auth0, bash, css, defang, flask, gemini, html, javascript, machine-learning, python, sqlite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Defang
-- **How it used Defang:** The project lists defang among its Built With tags.
+- **How it used Defang:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -484,17 +487,17 @@ Built with defang, auth0, bash, css
 
 Blockchain and AI Based Verification for a Fraud-Free Future.
 
-Built with css, ganache, google-cloud, javascript
+No public code linked · Built with css, ganache, google-cloud, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** css, ganache, google-cloud, javascript, python, scaffold, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ETH Miami
-- **How it used ETH Miami:** BlockchainAIED allows university and job institutions to verify credentials securely using blockchain technology.
+- **How it used ETH Miami:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -517,6 +520,7 @@ The inspiration came from FIU's passion for hospitality and the potential of blo
 - **Code:** [Source 1](https://github.com/npastrami/lvlupmiami)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ETH Miami
+- **How it used ETH Miami:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -533,17 +537,17 @@ The inspiration came from FIU's passion for hospitality and the potential of blo
 
 FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting.
 
-Built with css, javascript, react-native
+No public code linked · Built with css, javascript, react-native
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, javascript, react-native
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best DEI Hack
-- **How it used Fidelity:** Working on FairShare has been an incredible learning experience for the team.
+- **How it used Fidelity:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -578,7 +582,7 @@ Real-time computer vision software with fatigue detection system to improve acce
 - **Code:** [Source 1](https://github.com/Alans44/DrowsyDriver) · [Source 2](https://github.com/javiiicz/drowsydriver-app)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OK4mCpxNzVs)
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** The system monitors and detects signs of drowsiness in the driver by analyzing facial landmarks and expressions.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -601,7 +605,7 @@ An accessible white-boarding app to voice your ideas into existence.
 - **Code:** [Source 1](https://github.com/DVidal1205/voiceboard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** The project lists gemini among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -620,17 +624,17 @@ Also won this track: [Lotion AI/AR](#project-lotion-ai-ar), [ARSL - Augmented Re
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
-Built with .net, apis, c#, meta
+No public code linked · Built with .net, apis, c#, meta
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** .net, apis, c#, meta, unity
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** Its VR game that allows the player to be immersive into the country of their choosing and go through scenarios that feel natural to that country's landscape.
+- **How it used Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -657,6 +661,7 @@ The inspiration for this project stems from a deep commitment to support the lov
 - **Code:** [Source 1](https://github.com/Cantinadream/Big_Back_ShellHack2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4qyCfR1vNoE)
 - **All prizes at this hackathon (1):** Patient Safety Technology
+- **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -673,14 +678,14 @@ The inspiration for this project stems from a deep commitment to support the lov
 
 Encouraging physical activity with an thrilling experience where individuals must collect pellets while escaping a persistent ghost.
 
-Built with lens-studio, javascript, typescript
+No public code linked · Built with lens-studio, javascript, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** javascript, lens-studio, typescript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Snap AR Dream it. Build it.
 - **How it used Snap:** The team built it in Snapchat's Lens Studio using JavaScript and TypeScript.
@@ -696,17 +701,17 @@ Built with lens-studio, javascript, typescript
 
 The AR app reinvents the classic shuttle run by having users chase randomly spawning stars in their surroundings.
 
-[Demo video](https://www.youtube.com/watch?v=fIQ6sltKv1w) · Built with lensstudio, javascript, snapchat, typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=fIQ6sltKv1w) · Built with lensstudio, javascript, snapchat, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** javascript, lensstudio, snapchat, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fIQ6sltKv1w)
 - **All prizes at this hackathon (1):** Snap AR Dream it. Build it.
-- **How it used Snap:** The project lists lensstudio among its Built With tags.
+- **How it used Snap:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -729,7 +734,7 @@ AR Game created in Snapchat's Lens Studio 5 using Javascript, Typescript, and Gi
 - **Code:** [Source 1](https://github.com/wakens/spectacles-tower-defense)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rfoBo7SyMh4)
 - **All prizes at this hackathon (1):** Snap AR Dream it. Build it.
-- **How it used Snap:** Created using Lens Studio 5, using scripts made with Typescript and Javascript .
+- **How it used Snap:** The team created using Lens Studio 5, using scripts made with Typescript and Javascript.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -746,16 +751,17 @@ AR Game created in Snapchat's Lens Studio 5 using Javascript, Typescript, and Gi
 
 The goal is to educate and guide students in a simple and fun way.
 
-Built with css, html
+No public code linked · Built with css, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, html
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Statefarm
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -778,6 +784,7 @@ The team offer many different ways for people to improve their finances.
 - **Code:** [Source 1](https://github.com/Juuicee/ShellHacks-2024)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Statefarm
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -821,16 +828,17 @@ FlowCast is an innovative web application that visualizes and analyzes water qua
 
 Understanding that the answer cannot be found in one location, but rather a harmony of several became a huge growth point in this hackathon.
 
-Built with amazon-web-services, axios, cloudwatch, express.js
+No public code linked · Built with amazon-web-services, axios, cloudwatch, express.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-web-services, axios, cloudwatch, express.js, figma, firebase, javasc, node.js, openai, s3, textract, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vanguard
+- **How it used Vanguard:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -843,16 +851,17 @@ Built with amazon-web-services, axios, cloudwatch, express.js
 
 The web application is designed to help train the users in common economic situations they might face to get a better grip on their finances.
 
-Built with cloud-computing, database-management, git, json
+No public code linked · Built with cloud-computing, database-management, git, json
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cloud-computing, database-management, git, json, microsoft-copilot-studio, mysql, next.js, power-platform, react, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vanguard
+- **How it used Vanguard:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -875,6 +884,7 @@ Personalized Financial Score: Based on income, spending, and dependents to track
 - **Code:** [Source 1](https://github.com/IsmailAbousalem/Prospera)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vanguard
+- **How it used Vanguard:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -901,7 +911,7 @@ Creating an aware and safer world by identifying emergencies which can improve m
 - **Code:** [Source 1](https://github.com/JocelynVelarde/Shell-Hacks-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Z_LuQ_Ecl8Q)
 - **All prizes at this hackathon (1):** Waymo
-- **How it used Waymo:** EmergencyAct is a real-time, video-based fall detection system designed specifically for public transport.
+- **How it used Waymo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -924,7 +934,7 @@ Evacuate disaster safely with seamless ride sharing.
 - **Code:** [Source 1](https://github.com/keshavbabu/shellhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RhdyCijiCcE)
 - **All prizes at this hackathon (1):** Waymo
-- **How it used Waymo:** hurrycane is a disaster evacuation ride-sharing app that connects people in need with volunteer drivers during emergencies.
+- **How it used Waymo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -947,6 +957,7 @@ LocalPulse is an innovative app that allows users to connect with their communit
 - **Code:** [Source 1](https://github.com/SquizAI/fiu_hack)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Waymo
+- **How it used Waymo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

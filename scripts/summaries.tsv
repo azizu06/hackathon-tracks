@@ -1,15 +1,81 @@
-https://devpost.com/software/backrooms-h4o783	Hyphenate	Backrooms gives small businesses a 3D office for supervising finance agents and approving sensitive actions.	The write-up shows Claude agents passing finance work through TypeScript policies and WebAuthn approvals.
+https://devpost.com/software/accountableai	Microsoft		The team used Visual Studio Code for front-end development.
+https://devpost.com/software/adsensei-3vmh4n	Creao		AdSensei uses Creao for the interface that presents ad recommendations.
+https://devpost.com/software/aeris-ej7d9k	Groq		Aeris uses a Llama model through Groq to assess victims in drone footage.
+https://devpost.com/software/agrimind-97zntd	Cloudinary		AgriMind uses Cloudinary to store and annotate farm photos for sustainability analysis.
+https://devpost.com/software/alto	Fetch.ai		Alto uses Fetch.ai uAgents for its debugging pipeline and Agentverse to manage the agents.
+https://devpost.com/software/backrooms-h4o783	Hyphenate	Backrooms gives small businesses a 3D office for supervising finance agents and approving sensitive actions.	Sponsor use not stated on Devpost
+https://devpost.com/software/bazaar-ai-agent-marketplace-fetch-ai	Fetch.ai		Bazaar uses Fetch.ai's uAgent library for communication between marketplace agents.
 https://devpost.com/software/bin-it-yg2xb7	Databricks	Bin-It lets residents report overflowing bins from a phone while a dashboard helps city staff compare candidate locations for new bins.	Databricks processes locations, bin inventory and 311 complaints to estimate where trash accumulates and rank potential sites.
+https://devpost.com/software/cadvision	Microsoft		The team wrote its SolidWorks add-in in Microsoft's C# to extract assembly information.
+https://devpost.com/software/chit-chart-f04kn3	Glaive		Sponsor use not stated on Devpost
+https://devpost.com/software/coclip	Spacetime		CoClip uses SpacetimeDB to sync the video timeline and media state across collaborators.
+https://devpost.com/software/commune-1qpezk	Hex		Sponsor use not stated on Devpost
+https://devpost.com/software/concord-17as0b	Regeneron		Concord compares public records of Regeneron trials to show where they share registered sites.
+https://devpost.com/software/conductor-ai	Codegen		Conductor uses the Codegen SDK to run and evaluate a coding agent on SWE-bench.
 https://devpost.com/software/crisislens-rlebdw	Databricks	CrisisLens combines humanitarian risk and funding data in a country-level dashboard where response teams can compare needs and run intervention scenarios.	Databricks supplies the country data and Genie answers natural-language questions inside the dashboard.
 https://devpost.com/software/diarockets	AMD	GEarth simulates how citizens, institutions, and governments interact across a fictional world that viewers can explore from a browser dashboard.	Python workers run Qwen models across an AMD GPU and two NVIDIA systems to supply agent decisions to the shared simulation.
 https://devpost.com/software/diarockets	Neon	GEarth simulates how citizens, institutions, and governments interact across a fictional world that viewers can explore from a browser dashboard.	Neon PostgreSQL stores checkpoints and event history so viewers can revisit recorded worlds.
+https://devpost.com/software/dlm	Schmidt Futures		Sponsor use not stated on Devpost
+https://devpost.com/software/eco-nexus-pluwok	Snowflake		Eco Nexus uses Snowflake for data warehousing and analytics.
+https://devpost.com/software/ecoscout-g01h43	Base44		EcoScout uses Base44 to build its scan forms and product cards and to run its backend agents.
 https://devpost.com/software/excus-us	Cohere	excus.us helps event attendees find people with complementary backgrounds and skills, then start a conversation.	Cohere embeds attendee bios and interests so the matching pipeline can compare profiles and suggest connections.
 https://devpost.com/software/excus-us	Convex	excus.us helps event attendees find people with complementary backgrounds and skills, then start a conversation.	Convex stores profiles across events and handles live chat and authentication tokens.
-https://devpost.com/software/farsight-t4qyli	Encompass	Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored.	A LiDAR-equipped phone on the rover records aligned camera frames, depth and pose for the reconstruction and encounter records.
-https://devpost.com/software/farsight-t4qyli	Full Sail	Farsight presents a search-and-rescue drill through a headset, with a live driving view and a 3D replay of the room.	The simulation-track demo combines route scoring, person detection and a WebXR walkthrough.
+https://devpost.com/software/farsight-t4qyli	Encompass	Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored.	Sponsor use not stated on Devpost
+https://devpost.com/software/farsight-t4qyli	Full Sail	Farsight presents a search-and-rescue drill through a headset, with a live driving view and a 3D replay of the room.	Sponsor use not stated on Devpost
 https://devpost.com/software/farsight-t4qyli	Hugging Face	Farsight lets a rescuer drive a rover remotely, inspect its live camera, and revisit a scan of the room in VR.	Hugging Face model artifacts power the on-device voice and vision assistant, which can draft notes from field observations.
 https://devpost.com/software/farsight-t4qyli	NVIDIA	Farsight is a rescue rover that streams its surroundings to an operator and turns measured room captures into a walkthrough for a VR headset.	An NVIDIA Jetson runs TensorRT inference, the camera stream and the navigation and motor interfaces on the rover.
+https://devpost.com/software/flow-8pgm1k	ElevenLabs		Flow uses ElevenLabs for educational narration and spoken answers.
+https://devpost.com/software/fresco-b1riws	Expo		Fresco uses Expo Widget Kit to build home-screen widgets for Android and iOS.
+https://devpost.com/software/fujifusion-hackmit2018	RBC		FujiFusion trains its credit-rating model on an RBC dataset of company financial indicators and ratings.
+https://devpost.com/software/gallop	Elastic		Gallop uses Elasticsearch vector search with Jina embeddings to retrieve context for its agents.
+https://devpost.com/software/gestura-9oaugq	FREE-WILi		Gestura reads the FREE-WILi accelerometer to turn hand gestures into mouse movement.
+https://devpost.com/software/gitfile	HashiCorp		The team used Terraform to provision the Azure virtual machine that hosts its frontend.
+https://devpost.com/software/haven-536r1q	Fetch.ai		Haven uses Fetch.ai agents to track patient vitals and flag concerning patterns.
+https://devpost.com/software/keep-my-wife-s-name-out-your-fkn-mouth	Midnight		Sponsor use not stated on Devpost
+https://devpost.com/software/kevin-4m6rbf	DAIN Labs		The team built its product management assistant with DAIN and TypeScript.
+https://devpost.com/software/lawgorithm-815k2x	Morgan & Morgan		Lawgorithm uses Morgan & Morgan case files to test its legal assistant.
+https://devpost.com/software/let-s-meet-e15zt7	HashiCorp		The team used Terraform to deploy AWS Lambda functions and configure API Gateway permissions.
+https://devpost.com/software/lipslips-revolution	MongoDB		The team uses MongoDB to store lip-sync scores.
+https://devpost.com/software/luma-ai-powered-personalized-health-context	Figma		The team used Figma Make to prototype the app's initial user flow.
+https://devpost.com/software/mavn	Figma		The team used Figma Make to prototype the onboarding flow, voice interface, and provider results.
+https://devpost.com/software/moodmap-ai	Otsuka / VALUENEX	Moods and Metrics visualizes estimated stress levels from audio, video, and transcripts.	Sponsor use not stated on Devpost
+https://devpost.com/software/multival	Cognition		Sponsor use not stated on Devpost
+https://devpost.com/software/multival	Fetch.ai		MultiEval ran an economic simulation with agents registered on Fetch.ai's Agentverse.
+https://devpost.com/software/myst-78dz52	Meta		Myst uses Ray-Ban Meta glasses and the Wearables Device Access Toolkit to take photos on demand.
+https://devpost.com/software/na-504rkg	T-Mobile		Sponsor use not stated on Devpost
+https://devpost.com/software/neurolens-2qgdm8	Fetch.ai		NeuralLens runs its image optimization agents on Fetch.ai's Agentverse and exposes them through ASI:One.
+https://devpost.com/software/nextop	Bright Data		Sponsor use not stated on Devpost
+https://devpost.com/software/noq-92iysh	Groq		The team connected its embedding models to Groq in a multi-server setup.
+https://devpost.com/software/openpotholemap	Waymo		Sponsor use not stated on Devpost
+https://devpost.com/software/orion-p5ayks	Vapi		Orion uses Vapi to answer hands-free questions about wildfire incidents and weather.
+https://devpost.com/software/peps-towards-sustainability	PepsiCo / Berkeley SCET		Sponsor use not stated on Devpost
+https://devpost.com/software/permanence	NVIDIA		Permanence runs its rover's vision pipeline and motor control on an NVIDIA Jetson Orin Nano.
+https://devpost.com/software/physical-studio-code	Elastic		Physical Studio Code uses Elastic's Jina embeddings with a cross-encoder to make decisions.
+https://devpost.com/software/physiopal-r148d6	Zetic		PhysioPal uses ZeticAI Melange to run pose estimation on the phone and give feedback on exercise form.
+https://devpost.com/software/portable-braille-cdq8v5	NVIDIA		The project runs its facial-expression recognition on an NVIDIA Jetson Orin Nano.
+https://devpost.com/software/project-lend	Anthropic		Project Lend uses the Claude Agent SDK to coordinate work for its food rescue operation.
+https://devpost.com/software/r-fund	Ripple		PeerFund uses the XRP Ledger to record funding commitments and process loan payments.
+https://devpost.com/software/remixify	Google		Remixify uses Google's Gemini API to edit images.
+https://devpost.com/software/rep-ja9oqw	Vapi		The team uses Vapi to handle the full audio pipeline for live voice conversations.
+https://devpost.com/software/reseller-mkjlfg	Pika		Reseller uses Pika to generate product videos for resale listings.
+https://devpost.com/software/robofactory	Spacetime		RoboFactory uses SpacetimeDB to share tasks, robot control leases, and payout records across services.
+https://devpost.com/software/robot-pickup-helper	Huawei		Goosetriever uses the Qwen-Omni API from Huawei's challenge to turn voice and camera inputs into commands for the robot.
+https://devpost.com/software/skyfall-uca4i9	Spacetime		SKYFALL uses SpacetimeDB to store satellite decay outcomes and score its forecasts.
+https://devpost.com/software/solarvista	MathWorks	SolarVista maps areas with high solar energy potential to help planners choose sites for solar installations.	SolarVista uses MathWorks MATLAB to generate a heat map for its solar siting analysis.
 https://devpost.com/software/standard-response	Anthropic	Standard Response coordinates evacuation calls and routes neighbors and accessible vehicles to households that need help.	Claude turns callers' responses into dispatch fields and drafts short replies in the reviewed languages.
 https://devpost.com/software/standard-response	Apify	Standard Response coordinates evacuation calls and routes neighbors and accessible vehicles to households that need help.	An Apify Actor consolidates California evacuation zones, fire notices, and road closures so new warnings can trigger calls.
 https://devpost.com/software/standard-response	Convex	Standard Response coordinates evacuation calls and routes neighbors and accessible vehicles to households that need help.	Convex connects the dispatch dashboard and voice worker so a resident gets a callback as soon as a driver accepts.
 https://devpost.com/software/standard-response	Moss	Standard Response coordinates evacuation calls and routes neighbors and accessible vehicles to households that need help.	Moss retrieves approved call-taking guidance by hazard and language before Claude responds to a resident.
+https://devpost.com/software/studyo-mju34e	Cloudinary		StudyO uses Cloudinary transformations to assemble educational videos and sync captions to narration.
+https://devpost.com/software/sunday-94odas	Anthropic		Sunday uses the Claude Agent SDK to run an agent server that exposes 17 MCP tools.
+https://devpost.com/software/talantis	Figma		The team used Figma Make to try different designs for the hero section.
+https://devpost.com/software/trashtotreasure-sustainable-showcase	PepsiCo / Berkeley SCET		Sponsor use not stated on Devpost
+https://devpost.com/software/trialpilot	Regeneron		TrialPilot uses public records of Regeneron trials as examples in its trial-design comparison workflow.
+https://devpost.com/software/visa-verify	Visa		Sponsor use not stated on Devpost
+https://devpost.com/software/vl-adk	Microsoft		Sponsor use not stated on Devpost
+https://devpost.com/software/vl-adk	NVIDIA		VL-ADK uses a Jetson Orin Nano on the rover and connects to it over SSH for remote control.
+https://devpost.com/software/vl-adk	Waymo		Sponsor use not stated on Devpost
+https://devpost.com/software/wiiwork-8u1x62	NVIDIA	WiiWork is a voice-controlled website designed for people and AI agents to use.	WiiWork uses a DeepSeek model through NVIDIA for complex reasoning in its voice-controlled web interface.
+https://devpost.com/software/wingman-9xok8b	Snap		Wingman uses Snap Spectacles for spatial mapping and hand tracking so the wearer can control a robot.
+https://devpost.com/software/wolframination	Wolfram		Wolfranimation calls Wolfram from Python and passes the results to Manim to generate animations.
+https://devpost.com/software/yourcall-0epzc4	Zip		YourCall reads live procurement requests through Zip REST and uses Zip MCP to investigate approval context.

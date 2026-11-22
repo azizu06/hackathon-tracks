@@ -23,6 +23,8 @@
 
 MedBot turns viral health claims into evidence-backed insights and shareable videos, helping people separate hype from science.
 
+**How it used GPTZero:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/RayanMalki/medbot-htn2026) · [Demo video](https://www.youtube.com/watch?v=utDEHZVCYtU) · Built with elasticsearch, openai, react, typescript
 
 ### [Sham](https://devpost.com/software/cool-ppl-from-amplify)
@@ -40,6 +42,8 @@ Sham is a Chrome extension that helps you spot sketchy online stores before chec
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-snitch-ldyzh9) · **Best Use of GPTZero API**
 
 Snitch helps recruiters spot suspicious moments in remote interviews by combining behavioral signals, AI-language detection, CV checks, and visual canaries.
+
+**How it used GPTZero:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/amelialon/Snitch) · [Demo video](https://www.youtube.com/watch?v=Yi8CKzDzxrU) · Built with gptzero, fastapi, firebase, firestore
 

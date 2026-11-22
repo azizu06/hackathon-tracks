@@ -23,7 +23,9 @@
 
 Understanding that the answer cannot be found in one location, but rather a harmony of several became a huge growth point in this hackathon.
 
-Built with amazon-web-services, axios, cloudwatch, express.js
+**How it used Vanguard:** Sponsor use not stated on Devpost
+
+No public code linked · Built with amazon-web-services, axios, cloudwatch, express.js
 
 ### [financio](https://devpost.com/software/financio-xg15bp)
 
@@ -31,13 +33,17 @@ Built with amazon-web-services, axios, cloudwatch, express.js
 
 The web application is designed to help train the users in common economic situations they might face to get a better grip on their finances.
 
-Built with cloud-computing, database-management, git, json
+**How it used Vanguard:** Sponsor use not stated on Devpost
+
+No public code linked · Built with cloud-computing, database-management, git, json
 
 ### [Prospera](https://devpost.com/software/prospera-1bpnya)
 
 [ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-prospera-1bpnya) · **Vanguard**
 
 Personalized Financial Score: Based on income, spending, and dependents to track progress.
+
+**How it used Vanguard:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/IsmailAbousalem/Prospera) · Built with figma, javascript, openai, react
 

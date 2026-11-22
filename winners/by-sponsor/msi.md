@@ -23,6 +23,8 @@
 
 An AI-powered email assistant that automatically processes, analyzes, and responds to emails.
 
+**How it used MSI:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/aroy23/GMax) · [Demo video](https://www.youtube.com/watch?v=HjPrTQSjSwo) · Built with chrome, fast-api, gemini, gmail-api
 
 ## Track names and requirements

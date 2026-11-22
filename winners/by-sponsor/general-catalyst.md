@@ -23,6 +23,10 @@
 
 Later, you can pull up the app and watch your recorded shows -- or you can AirPlay them or download them for later.
 
+**How it used General Catalyst:** Sponsor use not stated on Devpost
+
+No public code linked
+
 ## Track names and requirements
 
 <details>

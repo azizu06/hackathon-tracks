@@ -23,7 +23,9 @@
 
 CloudyDay correlates the mood of the Twittersphere with precipitation patterns.
 
-Built with alchemyapi, weather-underground
+**How it used Twitter:** Sponsor use not stated on Devpost
+
+No public code linked · Built with alchemyapi, weather-underground
 
 ## Track names and requirements
 

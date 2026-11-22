@@ -23,6 +23,8 @@
 
 The team describes the project as “For leaders in high-performance environments, we aggregate real-time wearable data from teams, providing LLM-driven insights, detecting arrhythmias, and reconstructing ECGs—no medical…
 
+**How it used Terra API:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with cuda, python, pytorch, react-native
 
 ### [Project AVIA](https://devpost.com/software/project-avia-autonomous-vigilance-insights-for-aviation)
@@ -30,6 +32,8 @@ The team describes the project as “For leaders in high-performance environment
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-project-avia-autonomous-vigilance-insights-for-aviation) · **Healthcare Grand Prize (Meta Ray Ban Smart Glasses x4) and &#91;2nd place&#93;**
 
 Leveraging healthcare data to improve the performance of fighter jet pilots.
+
+**How it used Terra API:** Project AVIA is an AI-driven command center that consolidates real-time biometric data—heart rate, heart rate variability, oxygen saturation (SpO2), sleep quality, stress levels, exercise, and estimated blood pressure—sourced from Terra API and PPG recordings.
 
 [Code](https://github.com/Harsh-Karia/TreeHacks) · [Demo video](https://www.youtube.com/watch?v=5l3HpXGMlks) · Built with cors, express.js, flask, mistral
 

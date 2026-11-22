@@ -23,6 +23,8 @@
 
 Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pronunciations.
 
+**How it used Baidu:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/alvinzz/models) · Built with paddlepaddle, python, tears, the-biggest-data
 
 ### [ezPaddle](https://devpost.com/software/ezpaddle)
@@ -30,6 +32,8 @@ Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pr
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-ezpaddle) · **Sponsor Prize - Baidu - Machine Learning Community Prize**
 
 ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line of code.
+
+**How it used Baidu:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/fervorarc/PaddleBois) · Built with paddle, python
 
@@ -39,6 +43,8 @@ ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line
 
 Robust fake news detection made simple and scalable for real people.
 
+**How it used Baidu:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/likeaj6/FakeBananas) · Built with azure, css, flask, html
 
 ### [Resent(i)ment Analysis](https://devpost.com/software/news-sentiment)
@@ -46,6 +52,8 @@ Robust fake news detection made simple and scalable for real people.
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-news-sentiment) · **Sponsor Prize - Baidu - Best Paddle Hack: First Place**
 
 The team describes the project as “We use Baidu's Paddle Deep Learning framework to uncover and call attention to online harassment and its biases”.
+
+**How it used Baidu:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/rfblue2/resentiment-analysis) · Built with css, facebook, flask, html
 

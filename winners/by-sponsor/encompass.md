@@ -23,9 +23,9 @@
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-**How it used Encompass:** Doorway is built in Unity 6 with C# , using AR Foundation and ARCore on Android.
+**How it used Encompass:** Sponsor use not stated on Devpost
 
-[Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with ar-foundation, arcore, android, android-speech-recognizer
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 ### [Dronautics](https://devpost.com/software/dronautics)
 
@@ -33,7 +33,9 @@ A mobile accessibility tool uses walls and room signs to place an indoor AR rout
 
 A drone control system combines local detection and GPS tracking using low-cost hardware.
 
-[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, esp-now, esp32, u-blox
+**How it used Encompass:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, bytetrack, c++, cuda
 
 ### [Farsight](https://devpost.com/software/farsight-t4qyli)
 
@@ -41,9 +43,9 @@ A drone control system combines local detection and GPS tracking using low-cost 
 
 Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored.
 
-**How it used Encompass:** A LiDAR-equipped phone on the rover records aligned camera frames, depth and pose for the reconstruction and encounter records.
+**How it used Encompass:** Sponsor use not stated on Devpost
 
-[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with arduino, arkit, lidar, depth-anything
+[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with arduino, arkit, depth-anything, fastapi
 
 ## Track names and requirements
 

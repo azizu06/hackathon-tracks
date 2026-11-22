@@ -23,6 +23,8 @@
 
 Everyday glasses that watch high-risk hearts and speak up before an emergency.
 
+**How it used FinchNode:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/tTong32/CardioGlasses) · [Demo video](https://www.youtube.com/watch?v=-MuYmrTTWag) · Built with finchnode, c++, elevenlabs, esp32
 
 ### [InnoPair](https://devpost.com/software/innopair)
@@ -31,13 +33,17 @@ Everyday glasses that watch high-risk hearts and speak up before an emergency.
 
 Clinical trials lose millions recruiting, while patients miss life-saving treatments. InnoPair automatically matches patients to trials, helping studies recruit faster and patients find new options.
 
-[Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
+**How it used FinchNode:** FinchNode's all-in-one API makes this possible by giving patients one way to connect their health records across providers.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
 
 ### [LifeLine](https://devpost.com/software/lifeline-nf86zy)
 
 [MHacks 2026](../by-hackathon/mhacks-2026.md#project-lifeline-nf86zy) · **FinchNode**
 
 A wearable AI agent that detects patterns in elder patients to provide life-saving care through voice and iMessage.
+
+**How it used FinchNode:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Taz33m/mhacks) · [Demo video](https://www.youtube.com/watch?v=ETHa01jEUWA) · Built with finchnode, airpods, blender, cloudflare-pages
 

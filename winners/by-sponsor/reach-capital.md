@@ -23,7 +23,9 @@
 
 Vaccine OS is a full-stack neoantigen vaccine design platform.
 
-Built with claude, next.js, postgresql, python
+**How it used Reach Capital:** Sponsor use not stated on Devpost
+
+No public code linked · Built with claude, next.js, postgresql, python
 
 ## 2025 winners
 
@@ -33,6 +35,8 @@ Built with claude, next.js, postgresql, python
 
 AutoCPT automates medical billing by extracting CPT codes from doctor-patient talks, seamless fracture detection, and generating bills via Capital One API—saving time and reducing errors.
 
+**How it used Reach Capital:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Techdude01/AutoCPT) · [Demo video](https://www.youtube.com/watch?v=YdkI37ASM9w) · Built with capital-one, groq, python, react
 
 ### [Calendera](https://devpost.com/software/clarity-joixz0)
@@ -41,13 +45,17 @@ AutoCPT automates medical billing by extracting CPT codes from doctor-patient ta
 
 AI-powered organizational tool for your communication platforms.
 
-[Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
+**How it used Reach Capital:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=HqscSvOJMzA) · Built with beeper-mcp, claude-api, claude-sdk, dotenv
 
 ### [Maternalyze](https://devpost.com/software/maternalyze)
 
 [Hacklytics 2025](../by-hackathon/hacklytics-2025.md#project-maternalyze) · **Best Use of AI powered by Reach Capital**
 
 AI-powered support for safer maternal health.
+
+**How it used Reach Capital:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/bhavyat-01/Maternal-Mortality) · [Demo video](https://www.youtube.com/watch?v=M4JyDZaX9GQ) · Built with css, gemini, git, html
 
@@ -56,6 +64,8 @@ AI-powered support for safer maternal health.
 [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md#project-medisim) · **Best Use of AI powered by Reach Capital**
 
 Accelerating clinical decision-making with AI-driven patient simulations, real-time feedback, and intelligent diagnostic training.
+
+**How it used Reach Capital:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/CharlesJoseph2003/Hack-Brown2025) · [Demo video](https://www.youtube.com/watch?v=VQALHk_1ff0) · Built with amazon-web-services, css, javascript, node.js
 

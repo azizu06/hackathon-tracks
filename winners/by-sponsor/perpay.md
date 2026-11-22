@@ -23,6 +23,8 @@
 
 DriveWise: Your personalized, safety-first navigation app, using 22 years of accident data to guide you on safer routes while enhancing your driving skills.
 
+**How it used Perpay:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/pranavponnusamy/Drivewise) · [Demo video](https://www.youtube.com/watch?v=A9ToFxCVF9c) · Built with cerebras, chroma, google-maps, mapquest
 
 ## Track names and requirements

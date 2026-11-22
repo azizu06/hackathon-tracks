@@ -33,7 +33,7 @@ Cropt: AI-powered crop disease detector that works completely offline. Snap a ph
 
 2/3 of young students lack internet. Knova is an offline-first AI tutor, powered by local edge-AI and a gamified "Learning Constellation" UI.
 
-**How it used Zetic:** Dynamically adapts content based on prior interactions. → All computed locally using Zetic , enabling fully offline intelligence.
+**How it used Zetic:** Dynamically adapts content based on prior interactions. → All computed locally using Zetic, enabling fully offline intelligence.
 
 [Code](https://github.com/JacobScheff/Knova) · [Demo video](https://www.youtube.com/watch?v=Tn3k2QwK0Hk) · Built with zetic, apple-push-notifications, elevenlabs, gemini
 
@@ -43,9 +43,9 @@ Cropt: AI-powered crop disease detector that works completely offline. Snap a ph
 
 The light that guides you home.
 
-**How it used Zetic:** Northstar also uses a Zetic based local audio-analysis model YAMNet in order to detect sounds of pain from the user and check in.
+**How it used Zetic:** Northstar is a multifunctional mobile app, build on React Native with Expo with an additional native module to handle the native optimized zetic LLMs.
 
-[Code](https://github.com/continuitylabs/lahacks26) · [Demo video](https://www.youtube.com/watch?v=UO3zezz21EY) · Built with zetic, elevenlabs, expo.io, fetch.ai
+[Code](https://github.com/continuitylabs/lahacks26) · [Demo video](https://www.youtube.com/watch?v=UO3zezz21EY) · Built with melange, zetic, elevenlabs, expo.io
 
 ### [PhysioPal](https://devpost.com/software/physiopal-r148d6)
 
@@ -53,13 +53,17 @@ The light that guides you home.
 
 Physical therapy fails at home because no one's watching. PhysioPal fixes that — AI pose correction, Apple Health-adaptive routines, and instant physiotherapist escalation, all on-device.
 
-[Code](https://github.com/rutujanemane/PhysioPal) · [Demo video](https://www.youtube.com/watch?v=4mJqV782Fp0) · Built with applehealthkit, melange, ngrok, swift
+**How it used Zetic:** PhysioPal uses ZeticAI Melange to run pose estimation on the phone and give feedback on exercise form.
+
+[Code](https://github.com/rutujanemane/PhysioPal) · [Demo video](https://www.youtube.com/watch?v=4mJqV782Fp0) · Built with melange, zeticai, applehealthkit, ngrok
 
 ### [Scrubs](https://devpost.com/software/scrubs)
 
 [LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-scrubs) · **Zetic Company Challenge**
 
 Scrubs is an iPhone app that auto-redacts PHI — names, MRNs, faces — from healthcare photos before sharing. Fully on-device, so patient data never leaves the phone.
+
+**How it used Zetic:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Dvlta/medimask) · [Demo video](https://www.youtube.com/watch?v=L_9q2m4YNkE) · Built with coreml, swift, swiftui, vision
 
@@ -69,7 +73,9 @@ Scrubs is an iPhone app that auto-redacts PHI — names, MRNs, faces — from he
 
 Turning iPhone's $25 LiDAR into industrial-grade dense depth maps. On-device, real-time, no cloud.
 
-[Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
+**How it used Zetic:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
 
 ## Track names and requirements
 

@@ -23,7 +23,9 @@
 
 The team describes the project as “Nodal”.
 
-Built with test
+**How it used Nodal:** Sponsor use not stated on Devpost
+
+No public code linked · Built with test
 
 ### [TorqIt](https://devpost.com/software/torqit)
 
@@ -31,7 +33,9 @@ Built with test
 
 Building TorqIt was an intensive learning experience that spanned multiple domains:.
 
-Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
+**How it used Nodal:** Sponsor use not stated on Devpost
+
+No public code linked · Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
 
 ### [Tuffr](https://devpost.com/software/tuffr)
 
@@ -39,7 +43,9 @@ Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
 
 Increase your strength with cutting-edge computer vision and agentic AI.
 
-[Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
+**How it used Nodal:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
 
 ## Track names and requirements
 

@@ -23,7 +23,9 @@
 
 A charming game about persuading fish to get out of the pond :).
 
-[Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
+**How it used fish.audio:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
 
 ## Track names and requirements
 

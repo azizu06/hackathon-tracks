@@ -23,6 +23,8 @@
 
 Andi helps people quitting alcohol stay sober. It texts them in iMessage when they're near a bar or buying liquor, talks them through the urge, and calls their sponsor when they need them.
 
+**How it used Photon:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/kushmirchandani/andi) · [Demo video](https://www.youtube.com/watch?v=N-oXvhoNrzw) · Built with photon, anthropic, capital-one-nessie, chalk
 
 ### [Beacon](https://devpost.com/software/beacon-n7hbs0)
@@ -31,7 +33,7 @@ Andi helps people quitting alcohol stay sober. It texts them in iMessage when th
 
 Light the Way! Beacon is an accessibility map with step-free routes for people with mobility disabilities, with Beau, an AI agent you text on iMessage to find routes and reports obstacles efficently.
 
-**How it used Photon:** The AI companion runs on Photon 2.0’s Spectrum SDK, which puts Beacon into iMessage.
+**How it used Photon:** The application combines smart routing, real-time accessibility reports, community contributions, and an AI messaging companion powered by Photon 2.0.
 
 [Code](https://github.com/preethi-seereddy/Beacon) · [Demo video](https://www.youtube.com/watch?v=GxJQYUc_s_c) · Built with git, github, next.js, openaiapi
 
@@ -40,6 +42,8 @@ Light the Way! Beacon is an accessibility map with step-free routes for people w
 [MHacks 2026](../by-hackathon/mhacks-2026.md#project-concierge-o38bu5) · **Photon iMessage Agents Track Winner**
 
 Amex Concierge on steroids for small businesses: text a problem, AI agents and real people get it done.
+
+**How it used Photon:** The owner's conversation, in iMessage, powered by Photon.
 
 [Code](https://github.com/sszz01/zero-knowledge-team) · [Demo video](https://www.youtube.com/watch?v=9dYmaWoG2a8) · Built with photon, cursor, eleven-labs, openai
 
@@ -59,6 +63,8 @@ Disaster plans go stale in minutes. EMBER turns texts and calls into a new perso
 
 FirstLight recruits, consents and retains trial participants over iMessage, and Trial Ops gives the study team one agent to act on what FirstLight finds, with the safety rules built into the database.
 
+**How it used Photon:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/SunfishTK1/hackharvard-2026) · [Demo video](https://www.youtube.com/watch?v=BNi3T0CI5m4) · Built with photon, anthropic, caddy, claude
 
 ### [FirstRing](https://devpost.com/software/firstring)
@@ -66,6 +72,8 @@ FirstLight recruits, consents and retains trial participants over iMessage, and 
 [HackUTD 2026](../by-hackathon/hackutd-2026.md#project-firstring) · **Photon Track**
 
 A disclosed AI call screener for an older adult: Nemotron proposes, Rust decides, only her keypad can connect a call, and the offer is revoked the instant a caller pivots to a scam.
+
+**How it used Photon:** The team also built a robot caller: ElevenLabs-synthesized caller clips played through a second Photon line to place real calls to FirstRing, graded against a rubric written before synthesis, with receipts for every run.
 
 [Code](https://github.com/cxdima/hackutd26) · [Demo video](https://www.youtube.com/watch?v=pPmL-vXP1OQ) · Built with photon, amazon-web-services, angular.js, axum
 
@@ -75,6 +83,8 @@ A disclosed AI call screener for an older adult: Nemotron proposes, Rust decides
 
 AI roommate that fairly manages shared finances in your group chat: splits bills by house rules, schedules payments around payday, and transfers funds after everyone agrees—without revealing balances.
 
+**How it used Photon:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jspinerola/house-rules) · [Demo video](https://www.youtube.com/watch?v=Quiicn_2FOc) · Built with photon, capital-one-nessie, cursor, fastapi
 
 ### [LifeLine](https://devpost.com/software/lifeline-forswd)
@@ -82,6 +92,8 @@ AI roommate that fairly manages shared finances in your group chat: splits bills
 [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-lifeline-forswd) · **Best Voice Agent**
 
 Turn an emergency call into an indoor rescue map. With CoStar’s 3D building data and Photon's voice agent, LifeLine guides first responders to the caller, down to the room.
+
+**How it used Photon:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ben-du1/LifeLine) · [Demo video](https://www.youtube.com/watch?v=Sw2sJuAJ5v8) · Built with photon, cloudflare-tunnel, costar, elevenlabs
 
@@ -91,6 +103,8 @@ Turn an emergency call into an indoor rescue map. With CoStar’s 3D building da
 
 A camera watches the ingredients, AI counts every item taken, and texts the owner to reorder before anything runs out. Tested live at Casa Piada in Greenwich.
 
+**How it used Photon:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton) · [Demo video](https://www.youtube.com/watch?v=tsmOwUs_G00) · Built with photon, arduino-uno-q, d1, deepagents
 
 ### [Syllabus Crew](https://devpost.com/software/syllabus-crew)
@@ -98,6 +112,8 @@ A camera watches the ingredients, AI counts every item taken, and texts the owne
 [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-syllabus-crew) · **Build a Messaging Agent using Photon 2.0**
 
 Personal agent for college students that lives in iMessage - text it your syllabus and get ready for the semester.
+
+**How it used Photon:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/zhoulinhua0-star/hackprinceton-2026) · [Demo video](https://www.youtube.com/watch?v=frTz_ULVTXY) · Built with photon, agentic-framework, amazon-bedrock, amazon-dynamodb
 
@@ -107,7 +123,9 @@ Personal agent for college students that lives in iMessage - text it your syllab
 
 Tab is a friend in your iMessage group chat who keeps track of shared expenses. Say "got pizza, $48" or snap a receipt; Tab splits it, nudges people, and settles up with one 👍.
 
-[Demo video](https://www.youtube.com/watch?v=4GrYcrm64tg) · Built with capital-one-nessie-api, github, github-actions, grok-(xai-api)
+**How it used Photon:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4GrYcrm64tg) · Built with capital-one-nessie-api, github, github-actions, grok-(xai-api)
 
 ### [Titan](https://devpost.com/software/titan-vx59lz)
 

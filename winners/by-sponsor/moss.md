@@ -23,7 +23,9 @@
 
 an ai teammate in your cursor.
 
-[Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with moss, accessibility-api, anthropic, apify
+**How it used Moss:** The team used Claude for reasoning, Apify for connectors, Convex for the backend and real-time collaboration, Moss for indexing, and Cartesia for voice, alongside the custom computer-use engine and replay framework.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with moss, accessibility-api, anthropic, apify
 
 ### [Standard Response](https://devpost.com/software/standard-response)
 
@@ -40,6 +42,8 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-unstep) · **Long Horizon Agent**
 
 A second set of ears for every air traffic controller: AI agents that catch missed calls and wrong readbacks, with the controller in command.
+
+**How it used Moss:** Every plane has its own in-process Moss session holding every clearance it heard, on board.
 
 [Code](https://github.com/Dee-1862/unstep) · [Demo video](https://www.youtube.com/watch?v=HQD8kuxBE3U) · Built with moss, moss-inference, cartesia, cartesia-ink
 

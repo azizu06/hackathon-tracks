@@ -23,7 +23,9 @@
 
 Unified memory across your entire AI stack, complete with codebase visualization, prompt libraries, and advanced context management.
 
-[Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
+**How it used Cedar:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
 
 ## Track names and requirements
 

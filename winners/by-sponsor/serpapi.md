@@ -33,6 +33,8 @@ The practice audience that helps you show up for the real one.
 
 Dance Fantasy turns any song into an original dance routine, taught by a 3D dancer, while your webcam scores every beat.
 
+**How it used SerpApi:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/luvudeshi/dance-fantasy) · [Demo video](https://www.youtube.com/watch?v=DB1vOln3nSA) · Built with serpapi, aist++, claude-code, cursor
 
 ### [ParaMyth](https://devpost.com/software/paramyth)
@@ -40,6 +42,8 @@ Dance Fantasy turns any song into an original dance routine, taught by a 3D danc
 [HackTX 2026](../by-hackathon/hacktx-2026.md#project-paramyth) · **Best Use of SerpApi**
 
 A world of stories. A story only you can tell.
+
+**How it used SerpApi:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/TanishC4444/ParaMyth) · [Demo video](https://www.youtube.com/watch?v=nDaxrcF-xis) · Built with serpapi, anime.js, d3-geo, docker
 

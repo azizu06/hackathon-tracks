@@ -67,7 +67,7 @@ Explode a legacy program into a live Blueprint-style graph. Replace its nodes wi
 - **Code:** [Source 1](https://github.com/isthmus1/Argo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1xfBraB95hI)
 - **All prizes at this hackathon (1):** 8090 Track
-- **How it used 8090:** Parsing : Argo first parses the whole C codebase into an AST using a generic parser, then uses a custom parser to have more control over the result.
+- **How it used 8090:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -90,7 +90,7 @@ Pact turns smart user interviews into behavior contracts, then checks those cont
 - **Code:** [Source 1](https://github.com/hrishinave/HackUTD2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Zh8dlSbYoVU)
 - **All prizes at this hackathon (1):** 8090 Track
-- **How it used 8090:** Pact turns the people who use a legacy system into requirements that can be checked.
+- **How it used 8090:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -113,7 +113,7 @@ Every system you've ever owned, in one universe your agents can reach.
 - **Code:** [Source 1](https://github.com/jaiom-rola-sp/REPLIC8)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=K3ivYgFE7I0)
 - **All prizes at this hackathon (1):** 8090 Track
-- **How it used 8090:** REPLIC8 makes legacy code callable and easy to understand.
+- **How it used 8090:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -140,7 +140,7 @@ Nessential turns passive financial management into proactive, real-world savings
 - **Code:** [Source 1](https://github.com/Owen-Isenhart/HackUTD-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_Eh5HyNtzVU)
 - **All prizes at this hackathon (1):** Capital One Track
-- **How it used Capital One:** Semi-Automated Loyalty Stacking: Semi-automatically enrolls users into store loyalty programs (Chipotle, Panera, etc.) using private burner email aliases, stacking merchant perks on top of Capital One card rewards.
+- **How it used Capital One:** Unified Financial Ledger &amp; Onboarding: Seamlessly connects via Capital One's Nessie API to ingest checking balances, transactions, recurring bills, and loans into a unified financial profile.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ Data centers and commercial buildings run on siloed systems, leaving gaps threat
 - **Code:** [Source 1](https://github.com/adhigithub/BluePrint-HackUTD_2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Bvyfo08BG3w)
 - **All prizes at this hackathon (1):** CBRE Track
-- **How it used CBRE:** BluePrint connects building systems into one app to reduce confusion for users.
+- **How it used CBRE:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -190,7 +190,7 @@ Canary catches small building warnings before they become expensive outages: AI 
 - **Code:** [Source 1](https://github.com/anothergrind/hackutd-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=va6dAmJMIG4)
 - **All prizes at this hackathon (1):** CBRE Track
-- **How it used CBRE:** Canary is a crew of AI agents for building operations.
+- **How it used CBRE:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -203,17 +203,17 @@ Canary catches small building warnings before they become expensive outages: AI 
 
 Turn real-estate data into explainable infrastructure risk insights and prioritized investigations.
 
-[Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** html, javascript, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sJX_GgbqtNI)
 - **All prizes at this hackathon (1):** CBRE Track
-- **How it used CBRE:** Riskalytics is able to use real fragmented data sources to display a dashboard that displays all the instances from those datasets.
+- **How it used CBRE:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -240,6 +240,7 @@ FlowState is an intelligent operations console that combines real-time telemetry
 - **Code:** [Source 1](https://github.com/LegendaryPenguin/HackUTD-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R7WwG0Z0Jv4)
 - **All prizes at this hackathon (1):** EOG Resources Track
+- **How it used EOG Resources:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -262,7 +263,7 @@ The night shift, with a hive behind it.
 - **Code:** [Source 1](https://github.com/Jazmin5465/Hivemind)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tDWAyvH1agU)
 - **All prizes at this hackathon (1):** EOG Resources Track
-- **How it used EOG Resources:** Hivemind is a live operations console for networks of tanks, pumps and pipelines, built on EOG's salt water disposal data.
+- **How it used EOG Resources:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -279,16 +280,17 @@ The night shift, with a hive behind it.
 
 For code with some catching up to do. ketchup uses an AI agent to work through TypeScript upgrades and return a checked patch you can review.
 
-[Demo video](https://www.youtube.com/watch?v=hoLp4GRSbAI) · Built with claude, css, html, javascript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=hoLp4GRSbAI) · Built with claude, css, html, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** claude, css, html, javascript, node.js, npm, nvidia-dcgm-exporter, nvidia-nemotron, openai-codex, opentelemetry, playwright, prometheus, typescript, typescript-compiler-api, zod
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hoLp4GRSbAI)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -305,17 +307,17 @@ For code with some catching up to do. ketchup uses an AI agent to work through T
 
 Loan Wick helps loan officers flag duplicate collateral and group exposure, with source-backed findings, human review, and real-time audit trails.
 
-[Demo video](https://www.youtube.com/watch?v=B7mWEOy4dME) · Built with css, nemotron, node.js, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=B7mWEOy4dME) · Built with css, nemotron, node.js, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, nemotron, node.js, python, spacetimedb, typescript, vultr
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=B7mWEOy4dME)
 - **All prizes at this hackathon (1):** Goldman Sachs Track
-- **How it used Goldman Sachs:** Loan Wick is a commercial loan review prototype that compares applications for potential concerns.
+- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -328,17 +330,17 @@ Loan Wick helps loan officers flag duplicate collateral and group exposure, with
 
 Connect the dots. Detect the risks.
 
-[Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c) · Built with python, react, tailwind, vite
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c) · Built with python, react, tailwind, vite
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** python, react, tailwind, vite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0AvDX1Ru_-c)
 - **All prizes at this hackathon (1):** Goldman Sachs Track
-- **How it used Goldman Sachs:** DealPilot - RiskRadar is a commercial loan intelligence platform that automates loan processing, analyzes supporting documents, and detects potential fraud patterns and clusters across multiple applications.
+- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -351,16 +353,17 @@ Connect the dots. Detect the risks.
 
 The pipeline your team trusts to automate your commercial loans.
 
-[Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** docker, pocketbase, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RYIeD--Azeo)
 - **All prizes at this hackathon (1):** Goldman Sachs Track
+- **How it used Goldman Sachs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -387,7 +390,7 @@ An AI-powered robotic hand controlled by brain-to-muscle intent signals, adaptin
 - **Code:** [Source 1](https://github.com/HassanKhan20/nuero-grip)
 - **Demo video:** [Video 1](https://vimeo.com/1244909388)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The project lists google-gemini among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -404,17 +407,17 @@ An AI-powered robotic hand controlled by brain-to-muscle intent signals, adaptin
 
 RescueMEsh is a low-cost device for SOS communication when disasters disrupt cellular networks. Nemotron agents prioritize emergencies &amp; coordinate resources across nearby hubs to help dispatchers.
 
-[Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
+No public code linked · [Demo video](https://www.youtube.com/watch?v=cqpzf7NP9gY) · Built with mongodb, c++, core-location, corebluetooth
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** c++, core-location, corebluetooth, esp32, html, javascript, mongodb, nemotron, node.js, powershell, qwen, shell, swift
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cqpzf7NP9gY)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** The project lists mongodb among its Built With tags.
+- **How it used MongoDB:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -441,7 +444,7 @@ Schedule GPU maintenance at market prices without overheating. Nemotron plans: p
 - **Code:** [Source 1](https://github.com/Fawazjams/utdhacksDCRouter)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hx9T6iEOAJk)
 - **All prizes at this hackathon (1):** NMC^2 Track
-- **How it used Northmark Compute &amp; Cloud:** It optimizes when each task runs, respecting vendor windows and cooling-zone conflicts, and checks every candidate schedule against a thermal simulator.
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -464,6 +467,7 @@ See the chain before it breaks: a digital twin that predicts data center failure
 - **Code:** [Source 1](https://github.com/saroshaprasla/FaultZero)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YXXUOWcC47I)
 - **All prizes at this hackathon (1):** NMC^2 Track
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -486,6 +490,7 @@ Every shift ends, but critical information shouldn't get lost. Meet ShiftSync: A
 - **Code:** [Source 1](https://github.com/ethnmz/ShiftSync)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uXlWITjkI0I)
 - **All prizes at this hackathon (1):** NMC^2 Track
+- **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -512,6 +517,7 @@ Custom voxel engine on a ARTY A7-100T FPGA with a realistic trading sim.
 - **Code:** [Source 1](https://github.com/Sweet-Rice/kennycraft-alpha)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Qakh5g6futU)
 - **All prizes at this hackathon (1):** Nvidia Track
+- **How it used NVIDIA:** The banker, trader and builder use tool-calling agents on Nemotron 3 Ultra (hosted) by default, or Nemotron 3 Super self-hosted on a Brev H200.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -534,7 +540,7 @@ Introducing TripWir3! Powered by NVIDIA Nemotron™ agents, this weight-provenan
 - **Code:** [Source 1](https://github.com/mukherjeeabhirup/tripwir3)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vPMd6Ijjr3M)
 - **All prizes at this hackathon (1):** Nvidia Track
-- **How it used NVIDIA:** The project lists nvidia-api, nvidia-brev, nvidia-nemotron among its Built With tags.
+- **How it used NVIDIA:** A Nemotron 3.5 Super orchestrator on the NVIDIA API plans and does the tool calling, while the Investigator, Skeptic, and Report agents run locally on Nemotron 3.5 Lightning 30B-A3B through LM Studio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -561,7 +567,7 @@ Light the Way! Beacon is an accessibility map with step-free routes for people w
 - **Code:** [Source 1](https://github.com/preethi-seereddy/Beacon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GxJQYUc_s_c)
 - **All prizes at this hackathon (1):** Photon Track
-- **How it used Photon:** The AI companion runs on Photon 2.0’s Spectrum SDK, which puts Beacon into iMessage.
+- **How it used Photon:** The application combines smart routing, real-time accessibility reports, community contributions, and an AI messaging companion powered by Photon 2.0.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -584,7 +590,7 @@ A disclosed AI call screener for an older adult: Nemotron proposes, Rust decides
 - **Code:** [Source 1](https://github.com/cxdima/hackutd26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pPmL-vXP1OQ)
 - **All prizes at this hackathon (1):** Photon Track
-- **How it used Photon:** The project lists photon among its Built With tags.
+- **How it used Photon:** The team also built a robot caller: ElevenLabs-synthesized caller clips played through a second Photon line to place real calls to FirstRing, graded against a rubric written before synthesis, with receipts for every run.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -607,7 +613,7 @@ AI roommate that fairly manages shared finances in your group chat: splits bills
 - **Code:** [Source 1](https://github.com/jspinerola/house-rules)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Quiicn_2FOc)
 - **All prizes at this hackathon (1):** Photon Track
-- **How it used Photon:** The project lists photon among its Built With tags.
+- **How it used Photon:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -657,6 +663,7 @@ A live money room for the whole family. Plan together on every phone, or just ca
 - **Code:** [Source 1](https://github.com/Blean69/HackUTD-2026-v2)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aHd01BcEPJc)
 - **All prizes at this hackathon (1):** PNC Track
+- **How it used PNC Bank:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -679,7 +686,7 @@ All your money, One brain — Every account. Every goal.
 - **Code:** [Source 1](https://github.com/ashzaeen/FinVantage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p4v9ewlpKro)
 - **All prizes at this hackathon (1):** PNC Track
-- **How it used PNC Bank:** Let code decide and let the model explain.
+- **How it used PNC Bank:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -702,6 +709,7 @@ Wallet Whisperer brings accounts, bills, debts, income, and savings goals into o
 - **Code:** [Source 1](https://github.com/AfeIsm/HackUTD)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hG9LVm12ELU)
 - **All prizes at this hackathon (1):** PNC Track
+- **How it used PNC Bank:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -745,17 +753,17 @@ Night Watch is an oracle for data center operations, built around two goals.
 
 🏢 Prepare buildings. 🔥 Save every resident. 🛡️.
 
-[Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with anthropic-api, blender, cal-fire, claude
+No public code linked · [Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with spacetimedb, anthropic-api, blender, cal-fire
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** anthropic-api, blender, cal-fire, claude, nasa-firms, node.js, numpy, pandas, postgresql, puppeteer, python, react, scikit-learn, spacetimedb, svg, tiger-data, timescaledb, typescript, vercel, vite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lORYwjN39mg)
 - **All prizes at this hackathon (1):** Spacetime Track
-- **How it used Spacetime:** Aegis is an AI coach for property managers 🏢 and the insurers behind them.
+- **How it used Spacetime:** ⚡ SpacetimeDB is the backend (hosted on Maincloud).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -768,7 +776,7 @@ Night Watch is an oracle for data center operations, built around two goals.
 
 Collab3D is a web tool using a Spacetime database to allow real-time collaboration on 3D scenes, encouraging a faster workflow for art studios, game developers, video editors, and many more.
 
-[Code](https://github.com/hendohpp/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=Q5XlCu8Cxjg) · Built with spacetime, 3d-modeling, database, javascript
+[Code](https://github.com/hendohpp/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=Q5XlCu8Cxjg) · Built with spacetime, spacetimedb, 3d-modeling, database
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -778,7 +786,7 @@ Collab3D is a web tool using a Spacetime database to allow real-time collaborati
 - **Code:** [Source 1](https://github.com/hendohpp/hackutd-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q5XlCu8Cxjg)
 - **All prizes at this hackathon (2):** Spacetime Track · Virality Track -- HackUTD Track
-- **How it used Spacetime:** The project lists spacetime among its Built With tags.
+- **How it used Spacetime:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -791,7 +799,7 @@ Collab3D is a web tool using a Spacetime database to allow real-time collaborati
 
 Live coordination for AI coding agents. InSync catches conflicting changes, even ones git would merge cleanly, while agents are still coding, and an NVIDIA Nemotron coordinator resolves them.
 
-[Code](https://github.com/Kolby-Schulz/HackUTD2026) · [Demo video](https://www.youtube.com/watch?v=48Lb0jSEhU4) · Built with claude, daemon, nemotron, node.js
+[Code](https://github.com/Kolby-Schulz/HackUTD2026) · [Demo video](https://www.youtube.com/watch?v=48Lb0jSEhU4) · Built with spacetimedb, claude, daemon, nemotron
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -801,7 +809,7 @@ Live coordination for AI coding agents. InSync catches conflicting changes, even
 - **Code:** [Source 1](https://github.com/Kolby-Schulz/HackUTD2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=48Lb0jSEhU4)
 - **All prizes at this hackathon (1):** Spacetime Track
-- **How it used Spacetime:** InSync lets a team's AI coding agents coordinate live.
+- **How it used Spacetime:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -814,7 +822,7 @@ Live coordination for AI coding agents. InSync catches conflicting changes, even
 
 An autonomous agentic system that helps you end your night safely.
 
-[Code](https://github.com/sabharwalainesh/SafeNight) · [Demo video](https://www.youtube.com/watch?v=jR3KpfDd_MY) · Built with claude, codex, nemotron, photon
+[Code](https://github.com/sabharwalainesh/SafeNight) · [Demo video](https://www.youtube.com/watch?v=jR3KpfDd_MY) · Built with spacetimedb, claude, codex, nemotron
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -824,7 +832,7 @@ An autonomous agentic system that helps you end your night safely.
 - **Code:** [Source 1](https://github.com/sabharwalainesh/SafeNight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jR3KpfDd_MY)
 - **All prizes at this hackathon (1):** Spacetime Track
-- **How it used Spacetime:** SafeNight helps friends stay in touch during a night out and coordinate if someone needs help getting back to the group or getting home.
+- **How it used Spacetime:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -837,7 +845,7 @@ An autonomous agentic system that helps you end your night safely.
 
 Drop a photo of a place. Tessera finds where the photographer stood, the heading and the lens, then your group plans its own version in a live 3D set, even by text.
 
-[Code](https://github.com/benz16107/tessera) · [Demo video](https://www.youtube.com/watch?v=CyivsP2lXpc) · Built with astro, brev, caddy, colmap
+[Code](https://github.com/benz16107/tessera) · [Demo video](https://www.youtube.com/watch?v=CyivsP2lXpc) · Built with spacetimedb, astro, brev, caddy
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -847,6 +855,7 @@ Drop a photo of a place. Tessera finds where the photographer stood, the heading
 - **Code:** [Source 1](https://github.com/benz16107/tessera)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CyivsP2lXpc) · [Video 2](https://www.youtube.com/watch?v=KxeUG-_GlKs) · [Video 3](https://www.youtube.com/watch?v=fsq3ry87EZ8)
 - **All prizes at this hackathon (1):** Spacetime Track
+- **How it used Spacetime:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -873,7 +882,7 @@ An AI-powered disaster response command center that identifies urgent needs, inv
 - **Code:** [Source 1](https://github.com/vikramaharshith/res-q)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
-- **How it used SpaceXSI:** RES-Q is an AI-assisted disaster response command center built around fictional emergency scenarios.
+- **How it used SpaceXSI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -900,6 +909,7 @@ ANCHOR connects a device in the customer’s home to a claims dashboard that Sta
 - **Code:** [Source 1](https://github.com/aparnabalaji07/anchor)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aimbrYK_4GA)
 - **All prizes at this hackathon (1):** State Farm Track
+- **How it used State Farm:** ANCHOR connects a device in the customer’s home to a claims dashboard that State Farm agents can see.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -912,16 +922,17 @@ ANCHOR connects a device in the customer’s home to a claims dashboard that Sta
 
 LifeLine is a disaster recovery platform that connects residents, responders, and organizations in real time.
 
-[Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** photon, react-native, spacetime, typescript, vercel
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CMUDwhV0rCA)
 - **All prizes at this hackathon (1):** State Farm Track
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -934,17 +945,17 @@ LifeLine is a disaster recovery platform that connects residents, responders, an
 
 Privacy-first home safety system that detects hazards like leaks and power loss, alerts homeowners early, and securely shares incident details with approved contacts.
 
-[Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
+No public code linked · [Demo video](https://www.youtube.com/watch?v=FLlMLdGa3LY) · Built with c++, cloudflare, esp32, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** c++, cloudflare, esp32, html, mongodb, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FLlMLdGa3LY)
 - **All prizes at this hackathon (2):** Beginner Track -- HackUTD Track · State Farm Track
-- **How it used State Farm:** SafeHome connects sensor-equipped devices to a household dashboard and an authorized operator command center.
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -971,6 +982,7 @@ Backfire serves scammers some of their own medicine while protecting the people 
 - **Code:** [Source 1](https://github.com/Proton-Designer/HackUTD26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-CsNGYiIACo)
 - **All prizes at this hackathon (2):** General Track · T-Mobile Track
+- **How it used T-Mobile:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -993,7 +1005,7 @@ Raise a pet. Dodge the scams.
 - **Code:** [Source 1](https://github.com/kvictores/hashling)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0Bl4ftEqlno)
 - **All prizes at this hackathon (1):** T-Mobile Track
-- **How it used T-Mobile:** Hashling is a cyber-pet that lives in your browser.
+- **How it used T-Mobile:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1016,6 +1028,7 @@ PinkyPromise is a research-backed scam-prevention application that helps users r
 - **Code:** [Source 1](https://github.com/aasthas23/pinkypromise)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6B-SsBP-8iM)
 - **All prizes at this hackathon (1):** T-Mobile Track
+- **How it used T-Mobile:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1042,7 +1055,7 @@ Spots the failure before it burns.
 - **Code:** [Source 1](https://github.com/Siriapps/HackUTD-26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IZHkkpYGtdE)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
-- **How it used Tiger Data:** The project lists tiger-data, timescaledb among its Built With tags.
+- **How it used Tiger Data:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1069,6 +1082,7 @@ It contains and offers the following services:.
 - **Code:** [Source 1](https://github.com/hannahrauch/HackUTD26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BFI5YZRLPV4)
 - **All prizes at this hackathon (1):** Toyota Financial Services Track
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1081,17 +1095,17 @@ It contains and offers the following services:.
 
 You can outrun the cops. Not your APR.
 
-[Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE) · Built with anthropic, claude, css3, elevenlabs
+No public code linked · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE) · Built with anthropic, claude, css3, elevenlabs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** anthropic, claude, css3, elevenlabs, express.js, frame-motion, html5, javascript, node.js, photon, react, render, sip, socket.io, typescript, vite, vitest
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CvIqv4w5MvE)
 - **All prizes at this hackathon (1):** Toyota Financial Services Track
-- **How it used Toyota Financial Services:** You tap "Get a call." Your phone rings from a real Texas number within seconds.
+- **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1131,17 +1145,17 @@ You can outrun the cops. Not your APR.
 
 Poysson is a game-style training platform covering five attack types: ransomware, SIM-swap fraud, smishing, phishing, and insider/vendor leaks.
 
-[Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
+No public code linked · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** gemini, nemotron, nuxt, nvidia, solana, spacetimedb, typescript, vue, vultr, zod
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=StT_H0f3DPw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** The project lists vultr among its Built With tags.
+- **How it used Vultr:** Publishing goes over SSH, servers are provisioned with cloud-init, and deploys are single scripts in deploy/vultr/.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1168,7 +1182,7 @@ From What Happened To What Happens Next.
 - **Code:** [Source 1](https://github.com/ly-sona/aegis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mnBnFZBSIoU)
 - **All prizes at this hackathon (1):** Winstead PC Track
-- **How it used Winstead PC:** Building AEGIS taught the team how much an investigation depends on handling uncertainty correctly.
+- **How it used Winstead PC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1191,7 +1205,7 @@ A secure war room for ransomware response.
 - **Code:** [Source 1](https://github.com/ParsaBazrpash/Haven)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2RkAbB0j9Tg)
 - **All prizes at this hackathon (1):** Winstead PC Track
-- **How it used Winstead PC:** Haven is a sealed incident command center for the first 72 hours of a ransomware response.
+- **How it used Winstead PC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1204,17 +1218,17 @@ A secure war room for ransomware response.
 
 When your systems go down, your response stays up.
 
-[Demo video](https://www.youtube.com/watch?v=s6qzeIHrdKc) · Built with canva, figma, javascript, node.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=s6qzeIHrdKc) · Built with canva, figma, javascript, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** canva, figma, javascript, node.js, npm, react-19, rust, spacetimedb, tailwind-css-4, typescript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=s6qzeIHrdKc)
 - **All prizes at this hackathon (1):** Winstead PC Track
-- **How it used Winstead PC:** Lyfeline is a real-time cyber incident response command center designed to help organizations coordinate, document, and recover from cyberattacks.
+- **How it used Winstead PC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

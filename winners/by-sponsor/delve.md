@@ -23,6 +23,8 @@
 
 Aesthetic React Landing Pages in Minutes – AI, Code Preview / Export, OAuth, Databases.
 
+**How it used Delve:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/KshitijTeotia06/frontendTreeHacks) · [Demo video](https://www.youtube.com/watch?v=hpqaYIGAKYQ) · Built with beautiful-soup, elasticsearch, fastapi, firebase
 
 ### [Motherly.ai](https://devpost.com/software/ai-mama)
@@ -31,6 +33,8 @@ Aesthetic React Landing Pages in Minutes – AI, Code Preview / Export, OAuth, D
 
 Your mom knows you better than you do.
 
+**How it used Delve:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/MingkuanY/ai-mommy) · [Demo video](https://www.youtube.com/watch?v=eehiiErNsOM) · Built with next.js
 
 ### [ProtestLink](https://devpost.com/software/protestlink)
@@ -38,6 +42,8 @@ Your mom knows you better than you do.
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-protestlink) · **Most Secure App**
 
 Secure, real-time protest coordination via encrypted mesh and AI insights.
+
+**How it used Delve:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/wyang563/protest_app) · [Demo video](https://www.youtube.com/watch?v=rx5fM67ezFQ) · Built with axios, bluetooth, esp32, flask
 

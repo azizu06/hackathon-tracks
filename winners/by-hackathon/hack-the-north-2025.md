@@ -61,14 +61,14 @@ These projects won more than one prize here. Each one is listed once.
 
 Clip, save, and organize the exact moments that spark your ideas.
 
-[Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with cohere, amazon-web-services, css, figma
+No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-web-services, cohere, css, figma, html, javascript, nextjs, opencv, python
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rs7uaWL67tQ)
 - **All prizes at this hackathon (2):** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · Cohere: Best Use of Cohere API
 - **How it used Amazon Web Services:** Format Optimization : The original WebM video files are converted using FFmpeg to GIFs &amp; MP4s, stored in S3, and then stored with the video metadata in DynamoDB.
@@ -95,7 +95,8 @@ Lavoe provides an intuitive and AI-augmented DAW interface with features designe
 - **Code:** [Source 1](https://github.com/Leonardomontesqui/Lavoe)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ISKuDB2s1jM)
 - **All prizes at this hackathon (2):** Rox: Best AI Agent · Windsurf: Best Project built with Windsurf
-- **How it used Windsurf:** The project lists windsurf among its Built With tags.
+- **How it used Rox:** Sponsor use not stated on Devpost
+- **How it used Windsurf:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -118,8 +119,8 @@ Smarter underwriting through AI-powered dashboards, deep insights, and reinforce
 - **Code:** [Source 1](https://github.com/jruttan1/Optimate)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R8M0fgPcW_Y)
 - **All prizes at this hackathon (2):** Federato: Best RiskOps Solution for Underwriters · Y Combinator: Unicorn Prize
-- **How it used Federato:** The project lists federato-api among its Built With tags.
-- **How it used Y Combinator:** Optimate is an AI-powered underwriting dashboard designed to make risk assessment smarter, faster, and more transparent.
+- **How it used Federato:** Sponsor use not stated on Devpost
+- **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -142,8 +143,8 @@ Real-time facial recognition that identifies connections, remembers conversation
 - **Code:** [Source 1](https://github.com/qiuethan/Orbit)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-XV-iJZak3I)
 - **All prizes at this hackathon (2):** Groq · Windsurf: Best Project built with Windsurf
-- **How it used Groq:** The project lists groq among its Built With tags.
-- **How it used Windsurf:** Instant face recognition pulls public profiles the moment someone enters your view.
+- **How it used Groq:** Sponsor use not stated on Devpost
+- **How it used Windsurf:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -156,14 +157,14 @@ Real-time facial recognition that identifies connections, remembers conversation
 
 Splitting bills with friends is messy—receipts get lost, people forget to pay, and tracking balances is a headache. SolShare fixes this: scan, assign, and settle instantly on Solana.
 
-Built with cohere, solana, firebase, gcp
+No public code linked · Built with cohere, solana, firebase, gcp
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cohere, firebase, gcp, solana, swift, swiftui, typescript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Cohere: Best Use of Cohere API · Solana: Best Consumer Payment Experience with Solana Pay
 - **How it used Cohere:** Cohere API – Handles receipt scanning and item parsing using a self-criticism learning process, reducing errors and automating item assignment.
@@ -191,7 +192,7 @@ AI Agents for Simulated Market Research.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=d6M5oSDxqxw)
 - **All prizes at this hackathon (2):** MLH: Best Use of Auth0 · VAPI: Best Voice AI Application
 - **How it used Auth0:** Multi-Tenant Isolation Each user's workspace is completely isolated using Auth0's tenant features.
-- **How it used Vapi:** The project lists vapi among its Built With tags.
+- **How it used Vapi:** Natural Dialogue : Powered by Vapi, have actual phone-like conversations with personas.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -245,7 +246,7 @@ Stock market simulation game where students race to beat the market.
 - **Code:** [Source 1](https://github.com/redmac135/TradeOff)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KtQ0IwOUMy4)
 - **All prizes at this hackathon (1):** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams
-- **How it used Amazon Web Services:** The project lists dynamodb among its Built With tags.
+- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -295,17 +296,17 @@ Learn about the process of how any GitHub project came to be! Get a timeline of 
 
 Friend asking you silly questions mid-show-dialogue during the climax? No fear, CompOnion (a play on words for Companion) is here.
 
-Built with cloudflare, gemini, javascript, neon
+No public code linked · Built with cloudflare, gemini, javascript, neon
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** cloudflare, gemini, javascript, neon, python, react
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MLH: Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** The project lists cloudflare among its Built With tags.
+- **How it used Cloudflare:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -334,7 +335,7 @@ An OSINT tool specializes in generating an accurate profile card from a username
 - **Code:** [Source 1](https://github.com/Sai-sys-cmd/Deepsint)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cohere: Best Use of Cohere API
-- **How it used Cohere:** The project lists cohere among its Built With tags.
+- **How it used Cohere:** Reason → Cohere embeddings correlate personas, detect behavioral patterns, and connect fuzzy signals.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -361,7 +362,7 @@ Insightful Network Traffic Visualization and Analysis.
 - **Code:** [Source 1](https://github.com/JeremyFriesenGitHub/nte)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZuAKIEh6PcA)
 - **All prizes at this hackathon (1):** CSE: Network Traffic Exploration
-- **How it used Communications Security Establishment:** The project is made to help analyze threats and anomalies within network traffic.
+- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -384,7 +385,7 @@ Pew Pew is a FastAPI analyzer that turns the legacy CCDC intrusion dataset into 
 - **Code:** [Source 1](https://github.com/stony-su/network-traffic-ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Network Traffic Exploration
-- **How it used Communications Security Establishment:** Parses full Suricata fast.log once at startup Builds force-directed network graph (hosts + alert signature nodes) Simple z-score based anomaly detection on per-source alert volume Pure FastAPI + D3.js frontend.
+- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -407,7 +408,7 @@ From packets to plain‑English, actionable security narratives.
 - **Code:** [Source 1](https://github.com/ashokcpg/YeetThePacket)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Network Traffic Exploration
-- **How it used Communications Security Establishment:** Detects events like port scans, brute-force attempts, beaconing/C2, suspicious connections, and data exfiltration from PCAPs.
+- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -434,7 +435,7 @@ Competing to build a SOTA computer use agent (Cua + Hud + Ollama).
 - **Code:** [Source 1](https://github.com/Ram-Raghav-S/cua)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cua: Best State-of-the-Art Computer-Use Agent
-- **How it used Cua:** The project lists cua among its Built With tags.
+- **How it used Cua:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -461,7 +462,7 @@ The team describes the project as “Making academic and professional lives easi
 - **Code:** [Source 1](https://github.com/SultanAlzoghaibi/Hack-the-North-2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
-- **How it used Databricks:** The project lists databricks among its Built With tags.
+- **How it used Databricks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -488,6 +489,7 @@ ScholarMarket is essentially Polymarket for students to bet on their grades.
 - **Code:** [Source 1](https://github.com/joshua-z-zheng/hack-the-north-2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=a8MW0_Mg53o)
 - **All prizes at this hackathon (1):** ETHGlobal: Ethereum's Infinite Garden
+- **How it used ETHGlobal:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -510,7 +512,7 @@ Voting outcomes often face backlash. That’s why trust matters.
 - **Code:** [Source 1](https://github.com/MartinPatr/TrueCount)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DhhBWVDUrU4)
 - **All prizes at this hackathon (1):** ETHGlobal: Ethereum's Infinite Garden
-- **How it used ETHGlobal:** The team're incredibly proud that True Count isn't just a technical demo—it's a solution with genuine real-world impact.
+- **How it used ETHGlobal:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -543,7 +545,7 @@ BeyondSight is a full wearable ecosystem designed to empower DeafBlind individua
 - **Code:** [Source 1](https://github.com/WhyILived/BeyondSight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tEvHlx3xCRA)
 - **All prizes at this hackathon (1):** Genesys: Empathy in Action with Genesys Cloud APIs
-- **How it used Genesys:** The project lists genesys among its Built With tags.
+- **How it used Genesys:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -570,7 +572,7 @@ VibeMovie is an AI-native video editor that turns natural language into a render
 - **Code:** [Source 1](https://github.com/EvanJYHe/vibe-movie)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CYJZUQVHnmU)
 - **All prizes at this hackathon (1):** MLH: Best Use of Gemini API
-- **How it used Google:** The project lists gemini among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -649,7 +651,7 @@ One Take generates professional product demos in minutes. Provide your GitHub or
 - **Code:** [Source 1](https://github.com/NikhilHooda/One-Take)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pDBiWdD8Y8M)
 - **All prizes at this hackathon (1):** Groq
-- **How it used Groq:** The project lists groq among its Built With tags.
+- **How it used Groq:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -672,7 +674,7 @@ SpeakEasy gives nonverbal users a voice. Built on Snap Spectacles, it detects th
 - **Code:** [Source 1](https://github.com/ammiellewb/SpeakEasy-public)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8TX48L2IG18)
 - **All prizes at this hackathon (1):** Groq
-- **How it used Groq:** The team integrated Gemini’s object detection model to understand the user’s surroundings and ran it through Groq for ultra-fast language generation.
+- **How it used Groq:** Using an object detection system powered by Gemini and accelerated by Groq, the glasses analyze the user’s surroundings and generate context-aware conversation prompts on an interactive AR keyboard built in Lens Studio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -699,7 +701,7 @@ LangSketch is a visual agent builder that leverages Databricks for data processi
 - **Code:** [Source 1](https://github.com/rajshah6/langsketch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L6CZgvak0hQ)
 - **All prizes at this hackathon (1):** Martian: LLM Routing with Martian
-- **How it used Martian:** LangSketch is a comprehensive platform that democratizes agentic AI development through a visual, no-code interface.
+- **How it used Martian:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -716,17 +718,17 @@ LangSketch is a visual agent builder that leverages Databricks for data processi
 
 Vibe CAD to 3D print the solutions to everyday problems in your environment, Tony Stark style, no design experience required.
 
-[Demo video](https://www.youtube.com/watch?v=32oY_iV8jRo) · Built with mongodb, fastapi, javascript, next.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=32oY_iV8jRo) · Built with mongodb, fastapi, javascript, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** fastapi, javascript, mongodb, next.js, python, snapos, typescript, vercel
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=32oY_iV8jRo) · [Video 2](https://www.youtube.com/watch?v=AeguwtHqEjc)
 - **All prizes at this hackathon (1):** MLH: Best Use of MongoDB Atlas
-- **How it used MongoDB:** The project lists mongodb among its Built With tags.
+- **How it used MongoDB:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -766,17 +768,17 @@ Configuring your QNX Raspberry Pi can be a long and boring process. Accelerate i
 
 In a world where productivity is everything, every second counts, time spent away from the desk is time wasted. With, QNXMobility move around your workspace with ease, speed and greater efficiency.
 
-Built with qnx, o-drive, python
+No public code linked · Built with qnx, o-drive, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** o-drive, python, qnx
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** QNX: Best Use of QNX: Hardware and Software Prizes
-- **How it used QNX:** The project lists qnx among its Built With tags.
+- **How it used QNX:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -803,6 +805,7 @@ Learn investing through AI-tailored lessons, playful goose gamification, and rea
 - **Code:** [Source 1](https://github.com/svn05/v2webhonkonomics)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** RBC: RBC InvestEase - Investing for the Future
+- **How it used RBC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -852,7 +855,7 @@ A task &amp; reward hub with AI-powered candidate matching and XRPL payments.
 - **Code:** [Source 1](https://github.com/Afformativ/HackTheNorth)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=s_kBH_H0Pmw)
 - **All prizes at this hackathon (1):** Ripple: Best in Ledger Award
-- **How it used Ripple:** The project lists ripple among its Built With tags.
+- **How it used Ripple:** Seamless XRPL testnet integration, successfully funding wallets and paying out in both RLUSD and XRP.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -875,7 +878,7 @@ RippleRelief is a web app that connects donors, NGOs, recipients, and merchants 
 - **Code:** [Source 1](https://github.com/peterson-htn252/PulseRelief)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Ripple: Best in Ledger Award
-- **How it used Ripple:** The project lists ripple among its Built With tags.
+- **How it used Ripple:** Payments: Integrated Stripe so donors can give in fiat (credit card, bank, etc.), while each donation is mirrored on XRPL as a transparent, traceable transaction.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -888,7 +891,7 @@ RippleRelief is a web app that connects donors, NGOs, recipients, and merchants 
 
 Play, Pay, Pulverize - on chain! ⛓️‍💥.
 
-[Code](https://github.com/KlausMikhaelson/hackthenorth) · [Demo video](https://www.youtube.com/watch?v=PfwjjiSaMgU) · Built with escrow, express.js, ipfs, javascript
+[Code](https://github.com/KlausMikhaelson/hackthenorth) · [Demo video](https://www.youtube.com/watch?v=PfwjjiSaMgU) · Built with xrpl, xrpl-(rlusd, escrow, express.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -898,7 +901,7 @@ Play, Pay, Pulverize - on chain! ⛓️‍💥.
 - **Code:** [Source 1](https://github.com/KlausMikhaelson/hackthenorth)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PfwjjiSaMgU)
 - **All prizes at this hackathon (1):** Ripple: Best in Ledger Award
-- **How it used Ripple:** Token Turrets is a real-time multiplayer tank battle where anyone can create a room, start a tournament pot, and let the players fight it out.
+- **How it used Ripple:** The team built a real-time multiplayer tank game from scratch and fully integrated XRPL.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -927,7 +930,7 @@ Turning creators into data-driven businesses through the power of AI.
 - **Code:** [Source 1](https://github.com/ochen1/creator-intelligence)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Rox: Best AI Agent
-- **How it used Rox:** Creator Intelligence is a platform that brings Agentic CRM vision to the content creation world.
+- **How it used Rox:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -954,7 +957,7 @@ An e-commerce platform with two faces: customers checkout by camera no barcode, 
 - **Code:** [Source 1](https://github.com/MeharPro/Tarazoo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6TfBS77bEAU)
 - **All prizes at this hackathon (1):** Shopify: Hack Shopping with AI
-- **How it used Shopify:** The project lists shopify among its Built With tags.
+- **How it used Shopify:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1004,7 +1007,7 @@ lets you crash out, whenever, wherever, whatever (on the drums).
 - **Code:** [Source 1](https://github.com/dagsion/HTN25_CRASHOUT)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=222g1xCWzGk)
 - **All prizes at this hackathon (1):** Snap: Spectacles AR Hackathon: Game On!
-- **How it used Snap:** The project lists spectacle among its Built With tags.
+- **How it used Snap:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1027,7 +1030,7 @@ Turning snapshots into spaces you can actually explore.
 - **Code:** [Source 1](https://github.com/tyseer2335/SpectraSphere)
 - **Demo video:** [Video 1](https://vimeo.com/1118489387)
 - **All prizes at this hackathon (1):** Snap: Spectacles AR Hackathon: Game On!
-- **How it used Snap:** SpectraSphere turns your prompts and images into immersive AR stories 🌌 that you can step inside using Snapchat Spectacles.
+- **How it used Snap:** The backend includes custom error handling, request batching, and asset optimization to keep responses fast enough for real-time use inside Spectacles.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1062,7 +1065,7 @@ Stacy is a voice safety companion. Stacy logs incidents, your live location, ale
 - **Code:** [Source 1](https://github.com/apollo-ullah/HackTheNorth2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nHx5KazGawQ)
 - **All prizes at this hackathon (1):** VAPI: Best Voice AI Application
-- **How it used Vapi:** The project lists vapi among its Built With tags.
+- **How it used Vapi:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1085,7 +1088,7 @@ Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gem
 - **Code:** [Source 1](https://github.com/KaivalSShah/vraille-htn2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4gdPROUsaRw)
 - **All prizes at this hackathon (1):** VAPI: Best Voice AI Application
-- **How it used Vapi:** The project lists vapi among its Built With tags.
+- **How it used Vapi:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1112,7 +1115,7 @@ Bring your code to life. Orchestrate your code in the runtime.
 - **Code:** [Source 1](https://github.com/BrianLi23/puppeteer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_AtQyyInhEY)
 - **All prizes at this hackathon (2):** Hack the North 2025: Finalists · Warp: Best Developer Tool by Warp
-- **How it used Warp:** Puppeteer looks deeper into the runtime by probing into variables.
+- **How it used Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1170,7 +1173,7 @@ Automatically transforms bodycam footage into professional evidence reports usin
 - **Code:** [Source 1](https://github.com/asalsali/evidentai-main)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=q6GD46dyJok)
 - **All prizes at this hackathon (1):** Y Combinator: Unicorn Prize
-- **How it used Y Combinator:** Evident AI orchestrates specialized AI agents across the full evidence lifecycle:.
+- **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1193,7 +1196,7 @@ A gesture-first, AI-assisted 3D workspace where your hands craft the scene.
 - **Code:** [Source 1](https://github.com/itsmarsss/shapeshift)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=X7lMr9bwjqM)
 - **All prizes at this hackathon (1):** Y Combinator: Unicorn Prize
-- **How it used Y Combinator:** ShapeShift is an innovative, browser-based 3D modeling platform that transforms your webcam into a powerful creation tool.
+- **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

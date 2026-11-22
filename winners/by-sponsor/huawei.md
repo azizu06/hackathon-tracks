@@ -23,6 +23,8 @@
 
 A voice-controlled robot built to help retrieve dropped objects—with multimodal AI, autonomous navigation, and a learned grasping policy, restoring daily autonomy for those with mobility challenges.
 
+**How it used Huawei:** Goosetriever uses the Qwen-Omni API from Huawei's challenge to turn voice and camera inputs into commands for the robot.
+
 [Code](https://github.com/dark-sorceror/Goosetriever) · [Demo video](https://www.youtube.com/watch?v=G8Z7QbDx5YE) · Built with act, lerobot, lidar, qnx
 
 ### [Octavius](https://devpost.com/software/octavius-nkl4x3)
@@ -30,6 +32,8 @@ A voice-controlled robot built to help retrieve dropped objects—with multimoda
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-octavius-nkl4x3) · **OMNI Live Challenge**
 
 Extra DIY arm, made with cardboard, code, and love.
+
+**How it used Huawei:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/savcode066/octavius) · [Demo video](https://www.youtube.com/watch?v=Nh9v-tnl4-o) · Built with arduino, c++, javascript, python
 
@@ -39,6 +43,8 @@ Extra DIY arm, made with cardboard, code, and love.
 
 Specialized AI agents divide tasks, share knowledge, and migrate code across languages through parallel implementation and collaboration.
 
+**How it used Huawei:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/KenC2006/Parity) · [Demo video](https://www.youtube.com/watch?v=k8ffGmC7734) · Built with huawei-swarmflow, arkts, c, harmonyos
 
 ### [蚁群 YiQun](https://devpost.com/software/project-ki3u7vwhj0x8)
@@ -46,6 +52,8 @@ Specialized AI agents divide tasks, share knowledge, and migrate code across lan
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-project-ki3u7vwhj0x8) · **openJiuwen Multi-Agent Challenge**
 
 Over 6000 people are still missing after Nepal's landslide. Rescue teams are far too few, too slow, and too late.
+
+**How it used Huawei:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ImperialKoi/swarm-robotics-openJiuwen) · [Demo video](https://www.youtube.com/watch?v=6Lp22BUJxl0) · Built with auction-algorithm, cnn, computer-vision, disaster-response
 

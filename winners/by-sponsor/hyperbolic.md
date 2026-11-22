@@ -23,7 +23,7 @@
 
 Automatically file home insurance claims after natural disasters.
 
-**How it used Hyperbolic:** The team use Hyperbolic's inference (Qwen2 VL7B) to analyze each area and decide if it is an object to record and find its estimated monetary value.
+**How it used Hyperbolic:** The team uses Hyperbolic's inference (Qwen2 VL7B) to analyze each area and decide if it is an object to record and find its estimated monetary value.
 
 [Code](https://github.com/SonavAgarwal/calhacks-24) · [Demo video](https://www.youtube.com/watch?v=2fkQlLvGIrQ) · Built with amazon-ec2, amazon-web-services, chromadb, flask
 
@@ -33,7 +33,9 @@ Automatically file home insurance claims after natural disasters.
 
 Talk to your toys with Teddy.AI; the worlds first AI powered teddy bear that can tell children stories and tutor them through its fun journeys riddled with interactive academic puzzles.
 
-[Demo video](https://www.youtube.com/watch?v=PFFHGMIax6E) · Built with hyperbolic, gemini, generativeai, hume
+**How it used Hyperbolic:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=PFFHGMIax6E) · Built with hyperbolic, gemini, generativeai, hume
 
 ### [Watchdog](https://devpost.com/software/watchdog-2vwqlf)
 

@@ -23,7 +23,9 @@
 
 Automatically benefit from the optimizations of many databases, while only working with a single interface.
 
-Built with azure, cosmos-db, druid, node.js
+**How it used Nasdaq:** Sponsor use not stated on Devpost
+
+No public code linked · Built with azure, cosmos-db, druid, node.js
 
 ### [Driversity](https://devpost.com/software/driversity)
 
@@ -31,7 +33,9 @@ Built with azure, cosmos-db, druid, node.js
 
 Making ridesharing safer and more accessible.
 
-[Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
+**How it used Nasdaq:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
 
 ### [HomeUp](https://devpost.com/software/homeup)
 
@@ -63,7 +67,9 @@ Sell dorm supplies in a seasonal market-style setting with prices determined by 
 
 Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs.
 
-Built with flask, giphy-api, google-cloud-vision, ibm-watson
+**How it used Nasdaq:** Sponsor use not stated on Devpost
+
+No public code linked · Built with flask, giphy-api, google-cloud-vision, ibm-watson
 
 ## 2016 winners
 

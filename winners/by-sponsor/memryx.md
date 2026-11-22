@@ -43,6 +43,8 @@ Digital ears for the deaf community - AI that turns critical sounds into instant
 
 A robot that plays Word Hunt on its own—powered by a jury-rigged 3D printer, computer vision, and distributed intelligence.
 
+**How it used MemryX:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/TSKoduru/mhacks-gamehawk) · [Demo video](https://www.youtube.com/watch?v=WktVaFtu6HE) · Built with gemini, opencv, python, raspberry-pi
 
 ## Track names and requirements

@@ -23,6 +23,8 @@
 
 You’re walking down the street and someone passes you wearing your exact ideal blazer.
 
+**How it used Y Combinator:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/socratesosorio/aesthetica) · [Demo video](https://www.youtube.com/watch?v=ZhqUDfSZVuw) · Built with fastapi/uvicorn/websockets, next.js/react, postgresql-(supabase)-+-sqlalchemy/alembic, python
 
 ### [evolve(browser)](https://devpost.com/software/evolve-browser)
@@ -30,6 +32,8 @@ You’re walking down the street and someone passes you wearing your exact ideal
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-evolve-browser) · **Build an Iconic YC Company with AI**
 
 The self-modifying browser for maximizing productivity.
+
+**How it used Y Combinator:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/adeng27/evolve-browser) · [Demo video](https://www.youtube.com/watch?v=tJDPK8Kg8XE) · Built with aiohttp, chrome-extensions-api, fastapi, graph-rag
 
@@ -39,6 +43,8 @@ The self-modifying browser for maximizing productivity.
 
 Match with the best applicants, powered by AI agents and TikTok's recommendation algorithm.
 
+**How it used Y Combinator:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/pahu2353/HireUp) · [Demo video](https://www.youtube.com/watch?v=a03VWeouYsk) · Built with fastapi, html, numpy, openai
 
 ### [Mobius: the first AI Agent to build a billion dollar company](https://devpost.com/software/mobius-the-first-ai-agent-to-build-a-unicorn)
@@ -47,13 +53,17 @@ Match with the best applicants, powered by AI agents and TikTok's recommendation
 
 Mobius runs for very long periods of time completely autonomously to complete all aspects of building a venture-scale company from scratch - engineering, marketing, operations, legal, and more.
 
-[Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with ai, anthropic, chatgpt, claude
+**How it used Y Combinator:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with ai, anthropic, chatgpt, claude
 
 ### [TradeProof](https://devpost.com/software/tradeproof)
 
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-tradeproof) · **Build an Iconic YC Company with AI**
 
 AI-Native Infrastructure that Reimagines Trade Work for Blue-Collar Careers.
+
+**How it used Y Combinator:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Yaga-Yoink/tradeproof) · [Demo video](https://www.youtube.com/watch?v=087da__L-74) · Built with c#, chatgpt, claude, css
 
@@ -62,6 +72,8 @@ AI-Native Infrastructure that Reimagines Trade Work for Blue-Collar Careers.
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-zeta-jwq9te) · **Build an Iconic YC Company with AI**
 
 The team learned that translation from informal mathematics to formal language is highly sensitive to surface variation and implicit assumptions.
+
+**How it used Y Combinator:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/aryans-15/zeta) · [Demo video](https://www.youtube.com/watch?v=RJV8a8PWkxQ) · Built with amazon-web-services, fastapi, lean4, lora
 
@@ -73,6 +85,8 @@ The team learned that translation from informal mathematics to formal language i
 
 Making Google Docs (file storage, text editor) better with AI.
 
+**How it used Y Combinator:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/joonyoo181/dropbox-ai) · [Demo video](https://www.youtube.com/watch?v=vyKOyChcsCw) · Built with react
 
 ### [Brydge](https://devpost.com/software/brydge)
@@ -80,6 +94,8 @@ Making Google Docs (file storage, text editor) better with AI.
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-brydge) · **Build an Iconic YC Company - 1st Place**
 
 Presenting Brydge: the AI orchestration platform that turns scattered engineering knowledge into automated workflows, transforming hours of context-switching into just minutes of autonomous execution.
+
+**How it used Y Combinator:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/aprabu/BrydgeCalhacks) · [Demo video](https://www.youtube.com/watch?v=I7pkua3iYAs) · Built with claude, confluence, github, jira
 
@@ -89,6 +105,8 @@ Presenting Brydge: the AI orchestration platform that turns scattered engineerin
 
 Automatically transforms bodycam footage into professional evidence reports using AI.
 
+**How it used Y Combinator:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/asalsali/evidentai-main) · [Demo video](https://www.youtube.com/watch?v=q6GD46dyJok) · Built with css, django, javascript, openai
 
 ### [Haven](https://devpost.com/software/haven-536r1q)
@@ -96,6 +114,8 @@ Automatically transforms bodycam footage into professional evidence reports usin
 [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-haven-536r1q) · **Build an Iconic YC Company - 1st Place**
 
 A hospital coordination dashboard combines record data, nursing alerts, and patient questions.
+
+**How it used Y Combinator:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/scrappydevs/haven) · [Demo video](https://www.youtube.com/watch?v=sxdgpbTRsMs) · Built with claude, fetch.ai, grok, livekit
 
@@ -105,13 +125,17 @@ A hospital coordination dashboard combines record data, nursing alerts, and pati
 
 Krates is the DevOps engineer you need before you can afford to hire one—AI that automates Docker and Kubernetes for early-stage teams.
 
-[Demo video](https://www.youtube.com/watch?v=aWgkmn3V2og) · Built with anthropic-claude-api, docker, electron, electronjs
+**How it used Y Combinator:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=aWgkmn3V2og) · Built with anthropic-claude-api, docker, electron, electronjs
 
 ### [Optimate](https://devpost.com/software/optimate)
 
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-optimate) · **Unicorn Prize**
 
 Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning.
+
+**How it used Y Combinator:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jruttan1/Optimate) · [Demo video](https://www.youtube.com/watch?v=R8M0fgPcW_Y) · Built with amazon-dynamodb, auth0, aws-dynamodb, cohere
 
@@ -120,6 +144,8 @@ Smarter underwriting through AI-powered dashboards, deep insights, and reinforce
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-shapeshift-kvhjxr) · **Unicorn Prize**
 
 A gesture-first, AI-assisted 3D workspace where your hands craft the scene.
+
+**How it used Y Combinator:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/itsmarsss/shapeshift) · [Demo video](https://www.youtube.com/watch?v=X7lMr9bwjqM) · Built with express.js, fal, flask, martian
 

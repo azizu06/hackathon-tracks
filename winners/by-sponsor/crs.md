@@ -33,7 +33,7 @@ A loan marketplace where AI agents negotiate for you but can't be tricked: a ref
 
 An autonomous finance team where nothing moves without proof: Creao agents pick the right vendor and check every bill, with CRS verifying every claim before a dollar is paid.
 
-**How it used CRS:** What's real: live CRS sandbox calls for every person; real Nessie accounts, payments and history; real Creao agent runs behind every decision.
+**How it used CRS:** The team uses CRS responsibly: only sandbox test personas, consent before any credit data, no criminal or eviction records, masked identifiers, and a live log showing every CRS call and why it was made.
 
 [Code](https://github.com/anagpal18/CalHacks13.0) · [Demo video](https://www.youtube.com/watch?v=NeESl1hYsCw) · Built with crs-credit-api, anthropic-claude, creao, fastify
 
@@ -53,6 +53,8 @@ A risk-aware debt autopilot for people whose income changes every week: it finds
 
 Unfamiliar callers reach InterHoot before the phone rings.
 
+**How it used CRS:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/nelsonli0409/InterHoot) · [Demo video](https://www.youtube.com/watch?v=1aBhaf3elns) · Built with crs-credit-api, apns-push, call-directory-extension, cartesia-ink-2
 
 ### [Red Ledger](https://devpost.com/software/red-ledger)
@@ -60,6 +62,8 @@ Unfamiliar callers reach InterHoot before the phone rings.
 [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-red-ledger) · **Best Use of CRS API**
 
 A live fraud agent attacks an AI accounts-payable clerk while a controller gates every payment at the ledger. You get the dollars it lost, the dollars it cost, and why.
+
+**How it used CRS:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/md-racc/redledger) · [Demo video](https://www.youtube.com/watch?v=YSVCM4_Lzrc) · Built with asyncpg, caddy, cloudflare, docker
 

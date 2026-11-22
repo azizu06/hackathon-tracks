@@ -23,7 +23,9 @@
 
 Anima Labs is an agentic development environment for computational neuroscience.
 
-[Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with arxiv, creao, docker, europe-pmc
+**How it used MLH / Transcend Network:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with arxiv, creao, docker, europe-pmc
 
 ## Track names and requirements
 

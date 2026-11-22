@@ -23,6 +23,8 @@
 
 Stop guessing gifts! Concierge lets 2 Poke agents collaborate with shared context across your email, the web, and your texts, then auto-finds and configures the perfect buy via Browserbase web agents.
 
+**How it used Interaction Company:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/andaero/treehacks26) · [Demo video](https://www.youtube.com/watch?v=fjbazc6t0t4) · Built with browserbase, bun, fastmcp, next.js
 
 ### [The Orchestration Company of Palo Alto](https://devpost.com/software/the-orchestration-company-of-palo-alto)
@@ -30,6 +32,8 @@ Stop guessing gifts! Concierge lets 2 Poke agents collaborate with shared contex
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-the-orchestration-company-of-palo-alto) · **Build with Poke**
 
 OS of tomorrow, Claude Code of today.
+
+**How it used Interaction Company:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/FO214/treehacks) · [Demo video](https://www.youtube.com/watch?v=imelOPlGLgQ) · Built with browserbase, claude, cloudflare, docker
 
@@ -41,6 +45,8 @@ OS of tomorrow, Claude Code of today.
 
 Sweet is an iMessage native diabetes management AI assistant.
 
+**How it used Interaction Company:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/hemanthkapa/Sweet) · [Demo video](https://www.youtube.com/watch?v=bO0LeXn3RPY) · Built with dexcomshareapi, fastmcp, geminiapi, poke
 
 ## 2024 winners
@@ -51,13 +57,17 @@ Sweet is an iMessage native diabetes management AI assistant.
 
 An AI email assistant that automates form-filling, summarizes messages, and streamlines inbox tasks.
 
-[Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ) · Built with drizzle, google-cloud, groq, nextjs
+**How it used Interaction Company:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=aPkajwX18lQ) · Built with drizzle, google-cloud, groq, nextjs
 
 ### [Nova AI](https://devpost.com/software/nova-your-automated-pa)
 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-nova-your-automated-pa) · **Build AI Agents that Proactively Handle Your Email!**
 
 Nova is an automated email assistant that intelligently processes incoming emails, identifies actionable items, and seamlessly adds them to your calendar.
+
+**How it used Interaction Company:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jpsingaraju/nova-ai) · Built with flask, gmail, google, google-calendar
 

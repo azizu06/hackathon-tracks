@@ -23,6 +23,8 @@
 
 A home assistant supports older adults with daily routines and keeps their families informed.
 
+**How it used Decagon:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Kevinxygu/treehacks) · [Demo video](https://www.youtube.com/watch?v=vFU1GSWrbRk) · Built with browserbase, claude, elevenlabs, fastapi
 
 ## Track names and requirements

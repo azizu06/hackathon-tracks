@@ -23,6 +23,8 @@
 
 Can AI agents in multi-agent systems deceive, deduce, and stay aligned.
 
+**How it used Greylock:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/samarth-bhargav/treehacks-amogus) · [Demo video](https://www.youtube.com/watch?v=xhi-_4qUExg) · Built with flask, modal, openrouter, python
 
 ### [Edamame](https://devpost.com/software/m-4f2iwy)
@@ -30,6 +32,8 @@ Can AI agents in multi-agent systems deceive, deduce, and stay aligned.
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-m-4f2iwy) · **Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock…**
 
 Edamame creates AI clones of every employee by ingesting their Slack messages, Google Drive docs, Gmail threads, GitHub commits, Notion pages, and Jira tickets.
+
+**How it used Greylock:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/angelinaquan/edamame-treehacks) · [Demo video](https://www.youtube.com/watch?v=6HlN98ilkzc) · Built with css, google, gpt-5.3, mem0
 
@@ -39,7 +43,9 @@ Edamame creates AI clones of every employee by ingesting their Slack messages, G
 
 The team introduce three core technical contributions:.
 
-[Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
+**How it used Greylock:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
 
 ## Track names and requirements
 

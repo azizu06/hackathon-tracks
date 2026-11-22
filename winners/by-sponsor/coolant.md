@@ -23,6 +23,8 @@
 
 See your business’s footprint before you leave it. EcoSpirit finds the best neighborhood for your venture, balancing profit, people, and planet for truly sustainable growth.
 
+**How it used Coolant:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/PratGit1606/CarbonCompass) · [Demo video](https://www.youtube.com/watch?v=MVzm-lyhBgc) · Built with api, blender, cloudflare, d1
 
 ## Track names and requirements

@@ -58,16 +58,18 @@ These projects won more than one prize here. Each one is listed once.
 
 A self-writing journal of your life, with superpowers.
 
-Built with javascript, jupyter-notebook, keras, node.js
+No public code linked · Built with javascript, jupyter-notebook, keras, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** javascript, jupyter-notebook, keras, node.js, python, react, tensorflow
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Azure Champ · Finalist · Most Interesting Use of Text-Based Machine Learning by Quora
+- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **How it used Quora:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -96,7 +98,7 @@ Plenty of people hope to travel and explore the world, and it's no surprise that
 - **Code:** [Source 1](https://github.com/PaliC/Dream-Flight)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Data
-- **How it used Amadeus:** The project lists amadeus among its Built With tags.
+- **How it used Amadeus:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -136,17 +138,17 @@ SOS Squad is a platform for connecting good Samaritans to disaster victims.
 
 TradeGO is an application that enables people to participate in financial markets without financial literacy.
 
-Built with react, ruby, ruby-on-rails
+No public code linked · Built with react, ruby, ruby-on-rails
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** react, ruby, ruby-on-rails
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of BNP Paribas APIs
-- **How it used BNP Paribas:** It will enable to invest and trade in the stock by using HFT and technical analysis techniques.
+- **How it used BNP Paribas:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -163,16 +165,17 @@ Built with react, ruby, ruby-on-rails
 
 It passively senses the alcohol levels in a vehicle using a gas sensor that can be embedded into a car’s wheel or seat.
 
-Built with android-studio, arduino
+No public code linked · Built with android-studio, arduino
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** android-studio, arduino
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Cadillac: Time = Luxury · Finalist · Hack for a Night Out
+- **How it used Cadillac:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -185,16 +188,17 @@ Built with android-studio, arduino
 
 OnTheWay is an innovative P2P delivery system that harnesses the power of pre-existing routes to minimize the need for inconvenient, long-distance trips and therefore reduce environmental impact.
 
-Built with android-studio, express.js, node.js
+No public code linked · Built with android-studio, express.js, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** android-studio, express.js, node.js
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cadillac: Mobility as a Service
+- **How it used Cadillac:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -221,7 +225,7 @@ Distributed mobile cloud computing, harnessing the power of idle devices to perf
 - **Code:** [Source 1](https://github.com/cwu2020/nimbus)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Novel Data Mobility Hack by Dell
-- **How it used Dell:** Nimbus iOS harnesses the processing power of idle mobile phones in order to serve compute tasks.
+- **How it used Dell:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -238,14 +242,14 @@ Distributed mobile cloud computing, harnessing the power of idle devices to perf
 
 The product summarizes the content of documents into a few key lines which will give an overview to the user about the contract.
 
-Built with docusign, beautiful-soup, bootstrap, css
+No public code linked · Built with docusign, beautiful-soup, bootstrap, css
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** beautiful-soup, bootstrap, css, django, docusign, heroku, html, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of DocuSign's eSignature API
 - **How it used DocuSign:** Then using DocuSign's API, the user can share the contract to be signed by the recipient.
@@ -275,7 +279,7 @@ Troomba is a friendly robot that carries your drinks.
 - **Code:** [Source 1](https://github.com/patil215/soomba)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** element14 Presents a Robotics Kit
-- **How it used element14:** It has a small container at its top to hold a few drinks, and autonomously navigates around the room.
+- **How it used element14:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -292,17 +296,17 @@ Troomba is a friendly robot that carries your drinks.
 
 Summarizing Youtube Videos to Meaningful Gifs.
 
-[Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58) · Built with giphy, flask, nltk, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58) · Built with giphy, flask, nltk, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** flask, giphy, nltk, python, react, redux, rev, revspeech
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L_SCo0XBZ58)
 - **All prizes at this hackathon (1):** Best Use of GIPHY API
-- **How it used GIPHY:** The project lists giphy among its Built With tags.
+- **How it used GIPHY:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -319,17 +323,17 @@ Summarizing Youtube Videos to Meaningful Gifs.
 
 An intergalactic battle for the ages.
 
-[Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W8) · Built with c#, htc-vive, unity
+No public code linked · [Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W8) · Built with c#, htc-vive, unity
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** c#, htc-vive, unity
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M4C3eRrB2W8)
 - **All prizes at this hackathon (1):** VR Zone by Google
-- **How it used Google:** You are spawned in a world that has randomly generated asteroids and must approach one of four green asteroids to beat the stage.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -342,7 +346,7 @@ An intergalactic battle for the ages.
 
 ViGCam spots active shooters and tracks them through buildings.
 
-[Code](https://github.com/xTEddie/HackMIT2018) · [Demo video](https://www.youtube.com/watch?v=ZCWxii9Kp-k) · Built with django, google-vision, mysql, picam
+[Code](https://github.com/xTEddie/HackMIT2018) · [Demo video](https://www.youtube.com/watch?v=ZCWxii9Kp-k) · Built with google-vision, django, mysql, picam
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -352,7 +356,7 @@ ViGCam spots active shooters and tracks them through buildings.
 - **Code:** [Source 1](https://github.com/xTEddie/HackMIT2018)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZCWxii9Kp-k)
 - **All prizes at this hackathon (2):** 3rd Place · Best Use of Google Cloud Platform or Firebase
-- **How it used Google:** ViGCam spots and tracks weapons as they move through buildings.
+- **How it used Google:** It uses existing camera infrastructure, location tags and Google Vision to recognize weapons.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -369,16 +373,17 @@ ViGCam spots active shooters and tracks them through buildings.
 
 The project uses block chain technology to track donations, their contents, and location.
 
-Built with hyperledger, node-red
+No public code linked · Built with hyperledger, node-red
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** hyperledger, node-red
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Disaster Preparedness &amp; Relief Solutions for IBM Call for Code Challenge
+- **How it used IBM:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -401,7 +406,7 @@ Are you prepared for the worst.
 - **Code:** [Source 1](https://github.com/disaster-rescue/disaster-rescue.github.io)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=o8giqAKmIZw)
 - **All prizes at this hackathon (1):** Best Disaster Preparedness &amp; Relief Solutions for IBM Call for Code Challenge
-- **How it used IBM:** The project lists ibm-watson among its Built With tags.
+- **How it used IBM:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -428,7 +433,7 @@ A natural language processing framework for collecting data and statistics relev
 - **Code:** [Source 1](https://github.com/shiftsayan/nemo)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Kensho Knowledge Graph API
-- **How it used Kensho:** The program first translates speech in audio into text.
+- **How it used Kensho:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -455,7 +460,7 @@ Helping individuals as they overcome opioid dependency by providing them with vo
 - **Code:** [Source 1](https://github.com/the-flying-circus/HackMIT2018)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Facebook API
-- **How it used Meta:** Core seeks to provide individuals looking to overcome opiate and other drug addictions with strong and supportive connections with volunteer mentors.
+- **How it used Meta:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -515,7 +520,7 @@ An Augmented Reality Powered Checkers Assistant.
 - **Code:** [Source 1](https://github.com/abeakkas/Augmented-Checkers)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Niantic Augmented Reality Prize
-- **How it used Niantic:** You can point your phone's camera at a checkers board and it will show you all of the legal moves and mark the best one.
+- **How it used Niantic:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -542,7 +547,7 @@ Objectively quantifying reactions to media using EEG data and signal processing.
 - **Code:** [Source 1](https://github.com/adampotter0105/DeterMind)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
-- **How it used Pear VC:** The project uses raw data from a NeuroSky-based EEG toy, MindFlex, to measure a user's reaction to a given piece of media over time.
+- **How it used Pear VC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -555,17 +560,17 @@ Objectively quantifying reactions to media using EEG data and signal processing.
 
 a VR app designed for holoportation.
 
-Built with ik, steamvr, unity, vive
+No public code linked · Built with ik, steamvr, unity, vive
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** ik, steamvr, unity, vive, vrtk
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
-- **How it used Pear VC:** Currently, Kimoyo has a prototype IK system working, and has a sample avatar and sample environment to experience.
+- **How it used Pear VC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -578,16 +583,17 @@ Built with ik, steamvr, unity, vive
 
 The team made a cardboard piano that uses computer vision to detect and play piano sounds.
 
-Built with opencv, python
+No public code linked · Built with opencv, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** opencv, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
+- **How it used Pear VC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -614,7 +620,7 @@ A web app to help you track your money and where you're spending it.
 - **Code:** [Source 1](https://github.com/shawnaness/geocash)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of the Plaid API
-- **How it used Plaid:** The project lists plaid among its Built With tags.
+- **How it used Plaid:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -637,16 +643,17 @@ Also won this track: [Lotus Journal](#project-bananaexpress) (listed above)
 
 A data-driven application for predicting corporate credit ratings.
 
-Built with angular.js, firebase, ionic, jupyter
+No public code linked · Built with angular.js, firebase, ionic, jupyter
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** angular.js, firebase, ionic, jupyter, python, typescript
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** "Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets
+- **How it used RBC:** FujiFusion trains its credit-rating model on an RBC dataset of company financial indicators and ratings.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -659,17 +666,17 @@ Built with angular.js, firebase, ionic, jupyter
 
 Structurall enables investment banks to leverage unstructured data with natural language processing.
 
-Built with axios, azure, express.js, node.js
+No public code linked · Built with axios, azure, express.js, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** axios, azure, express.js, node.js, react, rev, styled-components
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** "Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets · Finalist
-- **How it used RBC:** Structerall is a web application that translates phone call recordings to structured data for client querying, portfolio switching/management and novel client insight.
+- **How it used RBC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -686,17 +693,17 @@ Built with axios, azure, express.js, node.js
 
 Automatic video simplification for your busy life.
 
-Built with rev, bash, css3, ffmpeg
+No public code linked · Built with rev, bash, css3, ffmpeg
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bash, css3, ffmpeg, flask, html5, javascript, nltk, python, rev, revspeech
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of RevSpeech
-- **How it used Rev:** The project lists rev among its Built With tags.
+- **How it used Rev:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -713,17 +720,17 @@ Built with rev, bash, css3, ffmpeg
 
 The pharmacy of the future: an automated medicine dispenser &amp; streamlined method for securely acquiring prescriptions.
 
-[Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
+No public code linked · [Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** arduino, azure, flask, html, mit-app-inventor, python, qr-codes, rigetti
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YzvRMnlJ91Q)
 - **All prizes at this hackathon (1):** Rigetti Quantum Prize
-- **How it used Rigetti:** Next, this authorization is piped into Rigetti’s quantum computing platform, in which an entangled pair of quantum bits is generated as highly secure authorization tokens.
+- **How it used Rigetti:** One developed the integration with Rigetti's quantum computing platform, alongside a Rigetti representative who marveled at this unique application of quantum computing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -750,7 +757,7 @@ A real-time, mobile-based, distributed WiFi heatmap.
 - **Code:** [Source 1](https://github.com/thkim1011/hotspot)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Best Use of Location Data · Finalist · Take Us On an Adventure
-- **How it used Samsara:** The app runs in the background (completely quietly) and maps out the WiFi landscape of the world.
+- **How it used Samsara:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -767,17 +774,17 @@ A real-time, mobile-based, distributed WiFi heatmap.
 
 Visualize, modify, and deploy neural networks either locally on the cloud to gain unique architectural insights.
 
-[Demo video](https://www.youtube.com/watch?v=9v1aXlQLu_w) · Built with docker, javascript, keras, kubernetes
+No public code linked · [Demo video](https://www.youtube.com/watch?v=9v1aXlQLu_w) · Built with docker, javascript, keras, kubernetes
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** docker, javascript, keras, kubernetes, machine-learning, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9v1aXlQLu_w)
 - **All prizes at this hackathon (2):** 1st Place · Best Use of Deep Neural Networks
-- **How it used Spell:** ENNUI allows for fast iteration of neural network architectures.
+- **How it used Spell:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -800,7 +807,7 @@ An accessible Google StreetView for the visually impaired through visceral scene
 - **Code:** [Source 1](https://github.com/R0bk/image_captioning) · [Source 2](https://github.com/mitchmcdee/yeetview)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** 2nd Place · Best Spell API hack
-- **How it used Spell:** The project lists spell among its Built With tags.
+- **How it used Spell:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -854,7 +861,7 @@ A Mathematica notebook that converts online lecture videos into LaTeX code, for 
 - **Code:** [Source 1](https://github.com/jautung/r00t)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Wolfram Technologies
-- **How it used Wolfram:** The project lists wolfram-technologies among its Built With tags.
+- **How it used Wolfram:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

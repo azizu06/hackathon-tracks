@@ -60,6 +60,8 @@ Halo is a smart bike helmet that watches the road behind you and warns you about
 - **Code:** [Source 1](https://github.com/billpquach/halo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rlAuXaz6g6s)
 - **All prizes at this hackathon (2):** State Farm · Waymo
+- **How it used State Farm:** Sponsor use not stated on Devpost
+- **How it used Waymo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -83,7 +85,7 @@ By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=maBHLULKMVc)
 - **All prizes at this hackathon (2):** &#91;AWS&#93; Best Use of AWS · &#91;MLH&#93; Best Use of Tiger Data
 - **How it used Amazon Web Services:** The team used AWS services to generate data and train all of the model before deploying them onto DigitalOcean.
-- **How it used Tiger Data:** The project lists tiger-data among its Built With tags.
+- **How it used Tiger Data:** Incoming records are normalized, deduplicated, geocoded, and stored across MongoDB Atlas and Tiger Data/TimescaleDB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -114,7 +116,7 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 - **Code:** [Source 1](https://github.com/veronica-lab/shellhacks2026-Budgie-on-a-Budget)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rStyASEtwMQ)
 - **All prizes at this hackathon (1):** &#91;AWS&#93; Best Use of AWS
-- **How it used Amazon Web Services:** Budgie on a Budget is a housing and neighborhood discovery platform designed to make moving easier and more affordable.
+- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -131,17 +133,17 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 
 You're always in the loop. Never out of reach.
 
-[Demo video](https://www.youtube.com/watch?v=VnigEnYfZt8) · Built with audioworklet, deepgram, elderly, express.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=VnigEnYfZt8) · Built with audioworklet, deepgram, elderly, express.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** audioworklet, deepgram, elderly, express.js, gemini, github-actions, google-genai, javascript, node.js, npm, react, transparency, typescript, vite, vitest, vulnerable, webrtc, websockets
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VnigEnYfZt8)
 - **All prizes at this hackathon (1):** Assurant
-- **How it used Assurant:** Guardian Loop is a second pair of ears on a loved one's phone calls.
+- **How it used Assurant:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -164,6 +166,7 @@ Mind Your Prompt combines a website dashboard with a Chrome extension.
 - **Code:** [Source 1](https://github.com/krishnatejasai/ShellHacks_2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FzibFbr4i2s)
 - **All prizes at this hackathon (1):** Assurant
+- **How it used Assurant:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -176,16 +179,17 @@ Mind Your Prompt combines a website dashboard with a Chrome extension.
 
 Don't let your AI run wild.
 
-[Demo video](https://www.youtube.com/watch?v=64wOp2kXgB4) · Built with elevenlabs, fastapi, mongodb, pydantic
+No public code linked · [Demo video](https://www.youtube.com/watch?v=64wOp2kXgB4) · Built with elevenlabs, fastapi, mongodb, pydantic
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** elevenlabs, fastapi, mongodb, pydantic, pytest, python, sqlite, swift, tavily, uvicorn, websockets, xcode
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=64wOp2kXgB4)
 - **All prizes at this hackathon (1):** Assurant
+- **How it used Assurant:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -202,17 +206,17 @@ Don't let your AI run wild.
 
 Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new investment opportunities that actually fit it.
 
-[Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
+No public code linked · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** elevenlabs, eslint, finnhub, fred-api, github, motion, next.js, node.js, npm, openai, react, recharts, tailwind-css, typesafe-ai-(jev), typescript, vercel-ai-gateway, vitest, yahoo-finance, zod, zustand
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPOzUj3IXuM)
 - **All prizes at this hackathon (1):** Blackstone
-- **How it used Blackstone:** PortfolioFit is an investing companion built around three things:.
+- **How it used Blackstone:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -239,7 +243,7 @@ The Soldier isolates the threat, evolves a working "cure" (a sandboxed containme
 - **Code:** [Source 1](https://github.com/Joshua-Song007/Shellhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=swDZNF3l3KU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of DigitalOcean
-- **How it used DigitalOcean:** The project lists digitalocean among its Built With tags.
+- **How it used DigitalOcean:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -266,7 +270,7 @@ The neighbor who reads every city agenda and calls you when it matters.
 - **Code:** [Source 1](https://github.com/Alans44/public-city-announcements)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=D6od6VAIAPM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** PCA reads City of Miami and Miami-Dade agendas, finds the residents each decision affects, and calls them before the vote, in English or Spanish.
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -283,14 +287,14 @@ The neighbor who reads every city agenda and calls you when it matters.
 
 No more sweat in your walk. Take the Shaadiest path.
 
-[Demo video](https://www.youtube.com/watch?v=IRjQ7plFcqE) · Built with godaddy, codex, express.js, github
+No public code linked · [Demo video](https://www.youtube.com/watch?v=IRjQ7plFcqE) · Built with godaddy, codex, express.js, github
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** codex, express.js, github, godaddy, javascript, leaflet.js, node.js, open-meteo, overpass-openstreetmap, suncalc, vite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IRjQ7plFcqE)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
 - **How it used GoDaddy Registry:** The team built Shaadiest with JavaScript, Codex, Vite, Leaflet, Node.js, and Express, with deployment support for GoDaddy.
@@ -310,7 +314,7 @@ No more sweat in your walk. Take the Shaadiest path.
 
 Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay aware, and handle what happens next.
 
-[Code](https://github.com/abhiwasabi/Clarity) · [Demo video](https://vimeo.com/1230684959) · Built with google-gemini, elevenlabs, esp-32-cam, ft232
+[Code](https://github.com/abhiwasabi/Clarity) · [Demo video](https://vimeo.com/1230684959) · Built with google-gemini, google-genai, google-live-api, elevenlabs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -320,7 +324,7 @@ Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay a
 - **Code:** [Source 1](https://github.com/abhiwasabi/Clarity) · [Source 2](https://github.com/work-yugtilva/shellhacks-hardware)
 - **Demo video:** [Video 1](https://vimeo.com/1230684959)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The team use the Gemini API to give Clarity multimodal AI capabilities.
+- **How it used Google:** The team uses the Gemini API to give Clarity multimodal AI capabilities.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -347,7 +351,7 @@ benchlog brings version control to hardware.
 - **Code:** [Source 1](https://github.com/Jrodd1203/benchlog)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BhbKYBc4kMM)
 - **All prizes at this hackathon (1):** INIT National
-- **How it used INIT National:** One command: benchlog init opens a hardware project to collaboration the same way git init opens a codebase.
+- **How it used INIT National:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -360,17 +364,17 @@ benchlog brings version control to hardware.
 
 Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern" with scope locking, visual system topology, and sprint tracking to take teams from zero to a live Devpost demo.
 
-[Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
+No public code linked · [Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** css3, git, github, html5, javascript, lucide-react, react, tailwindcss, vercel, vite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FdCHXdTUIdM)
 - **All prizes at this hackathon (1):** INIT National
-- **How it used INIT National:** CrunchHack serves as a central survival console that strips away hackathon chaos and keeps developers locked onto what actually matters:.
+- **How it used INIT National:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -397,7 +401,7 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 - **Code:** [Source 1](https://github.com/BAAA-Hacks/cad-vision)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0-bYjncKWIs)
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** CADVision takes a SolidWorks assembly and converts it into two connected pieces of information:.
+- **How it used Microsoft:** The team wrote its SolidWorks add-in in Microsoft's C# to extract assembly information.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -410,17 +414,17 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 
 A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
 
-[Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** docker, fastify, framer-motion, gemini, git, github-api, gitleaks, google-cloud, google-genai, model-context-protocol, mongodb, mongodb-atlas, node.js, npm, octokit, osv-scanner, python, react, ruff, semgrep, trpc, typescript, vite, vitest, zod
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4GTQH27oGOs)
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** Repro points AI agents at a codebase, grounds every finding in evidence you can re-run, and repairs the code with proof that the fix actually holds.
+- **How it used Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -433,17 +437,17 @@ A project designed to be an open-source repository diagnostic and repair platfor
 
 Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
 
-[Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
+No public code linked · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claude, css, digitalocean, github-api, google-gemini-api, javascript, mongodb-atlas, next.js, node.js, react, react-force-graph, tailwind-css, typescript, zod
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uLmimTFwauM)
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** Paste a public GitHub repo URL, and Spitball reads the file tree and key files.
+- **How it used Microsoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -470,7 +474,7 @@ Grep is your organization’s intelligence layer - turning AI coding into shared
 - **Code:** [Source 1](https://github.com/DinhPhucLe/grep)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mru6d0wAI-k)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** The project lists mongodb among its Built With tags.
+- **How it used MongoDB:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -497,7 +501,7 @@ Practice hurricane prep decisions under real financial pressure (before the real
 - **Code:** [Source 1](https://github.com/varshith-k/hurricaneweek)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y_qwLNbf1Cg)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Snowflake API
-- **How it used Snowflake:** The project lists snowflake among its Built With tags.
+- **How it used Snowflake:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -524,7 +528,7 @@ MomentumX gives global traders an edge by pairing tokenized stocks with real-tim
 - **Code:** [Source 1](https://github.com/FastMartini/Shellhacks-2026)
 - **Demo video:** [Video 1](https://vimeo.com/1230689653)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** The project lists solana-sdk among its Built With tags.
+- **How it used Solana:** MomentumX is a Solana-powered platform for discovering, trading, and evaluating tokenized U.S. stocks.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -551,7 +555,7 @@ The cross-utility intelligence platform that aggressively optimizes overlapping 
 - **Code:** [Source 1](https://github.com/fradicus/Shellhacks-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y5_c-f20ky4)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **How it used Sperry Tech:** Common Ground helps transmission planners and project managers find nearby planned power-line projects that may be worth coordinating around.
+- **How it used Sperry Tech:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -564,16 +568,17 @@ The cross-utility intelligence platform that aggressively optimizes overlapping 
 
 It then ranks those overlaps by how much coordination is actually worth.
 
-[Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, fastapi, gemini, google-maps, html, javascript, mongodb-atlas, openstreetmap, pandas, pdf.js, pyproj, python, render, scikit-learn, shapely
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ovVV4Ca8QVs)
 - **All prizes at this hackathon (1):** Sperry Tech
+- **How it used Sperry Tech:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -596,7 +601,7 @@ Mr.Gridy helps neighbouring power companies share the work: it finds where their
 - **Code:** [Source 1](https://github.com/VelvetDragon/gridsight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sr1lKaowknU)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **How it used Sperry Tech:** Before they build: find where the plans overlap.
+- **How it used Sperry Tech:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -609,17 +614,17 @@ Mr.Gridy helps neighbouring power companies share the work: it finds where their
 
 AI agents that read utilities' public construction filings, map every planned project, and find where neighbors could share crews, equipment, and outages.
 
-[Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claude, digitalocean, docker, fastapi, gemini, geonames, maplibre, next.js, nominatim, openai, openfreemap, openstreetmap, overpass-api, poppler, postgresql, pydantic, python, react, tiger-data, timescaledb, typesafe-jev, typescript, us-census, zustand
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Supupux7vtA)
 - **All prizes at this hackathon (1):** Sperry Tech
-- **How it used Sperry Tech:** UtiliTies reads two neighboring utilities' public construction plans, Dominion Energy South Carolina and Georgia Power, and finds where they could coordinate.
+- **How it used Sperry Tech:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -650,17 +655,17 @@ Also won this track: [Halo](#project-halo-1q59hf) (listed above)
 
 Map the possibilities for electric autonomous fleets with data-driven market insights and simulation.
 
-[Demo video](https://www.youtube.com/watch?v=EakXPzNH4ww) · Built with fastapi, gemini, mapbox, next.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=EakXPzNH4ww) · Built with fastapi, gemini, mapbox, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** fastapi, gemini, mapbox, next.js, numpy, playwright, pydantic, pytest, python, react, typescript, uv
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EakXPzNH4ww)
 - **All prizes at this hackathon (1):** Waymo
-- **How it used Waymo:** ODDyssey combines public data about population, commuting, climate, charging access, and roads to rank candidate markets.
+- **How it used Waymo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -673,17 +678,17 @@ Map the possibilities for electric autonomous fleets with data-driven market ins
 
 Decode the skies in real time: Live radar tracking powered by custom AI that detects anomalies before official reports.
 
-[Demo video](https://www.youtube.com/watch?v=DAqYyY9iVos) · Built with absd, api, deck.gl, digitalocean
+No public code linked · [Demo video](https://www.youtube.com/watch?v=DAqYyY9iVos) · Built with absd, api, deck.gl, digitalocean
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** absd, api, deck.gl, digitalocean, elevenlabs, gemini, godaddy, json, jsonl, maplibre, python, react, tailwind, vite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DAqYyY9iVos)
 - **All prizes at this hackathon (1):** Waymo
-- **How it used Waymo:** Syren is a real-time and historical flight tracking platform with an integrated AI copilot:.
+- **How it used Waymo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

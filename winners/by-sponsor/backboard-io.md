@@ -23,6 +23,8 @@
 
 Campfire is an AI that turns your group's trip chat into a shared story.
 
+**How it used Backboard.io:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Suhas0723/Campfire) · [Demo video](https://www.youtube.com/watch?v=3HljGGzLvkY) · Built with backboard, baileys, caddy, celery
 
 ### [Tinker](https://devpost.com/software/tinker-pwamby)
@@ -31,7 +33,9 @@ Campfire is an AI that turns your group's trip chat into a shared story.
 
 You can either describe a machine/robot you want to build, or you record a video of your workbench with all the hardware parts and machinery you have available to you.
 
-[Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
+**How it used Backboard.io:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
 
 ## Track names and requirements
 

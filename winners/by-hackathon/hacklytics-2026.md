@@ -58,6 +58,7 @@ The team admit a machine learning model shouldn't be the only frontier for diagn
 - **Code:** [Source 1](https://github.com/dominickdupuy/Aura)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7oUk6SBtJcA)
 - **All prizes at this hackathon (1):** Best Use of Actian VectorAI DB
+- **How it used Actian:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -80,7 +81,7 @@ AI that fights your hospital bill.
 - **Code:** [Source 1](https://github.com/Itz-Viggy/payBack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5uq6HO8El3I)
 - **All prizes at this hackathon (1):** Best Use of Actian VectorAI DB
-- **How it used Actian:** The project lists actian among its Built With tags.
+- **How it used Actian:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -103,7 +104,7 @@ RxGuard is a semantic engine that uses vector embeddings to bridge "vocabulary g
 - **Code:** [Source 1](https://github.com/gt12889/hacklytics2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dwmhyQ5ZIQA)
 - **All prizes at this hackathon (1):** Best Use of Actian VectorAI DB
-- **How it used Actian:** The project lists actian among its Built With tags.
+- **How it used Actian:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -153,7 +154,7 @@ A dashboard maps humanitarian funding against local needs to identify crises tha
 - **Code:** [Source 1](https://github.com/Angelr327/DSL-Hackalytics) · [Source 2](https://github.com/Icygamer5/DSLFrontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jn_rcXjV_zw)
 - **All prizes at this hackathon (1):** Databricks Geo-Insight Challenge
-- **How it used Databricks:** The project lists databricks among its Built With tags.
+- **How it used Databricks:** GeoInsight connects OCHA’s Financial Tracking Service (FTS) and INFORM Severity data via a Databricks Genie AI Space.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -180,7 +181,7 @@ A language-learning tool combines speech and translation exercises to help users
 - **Code:** [Source 1](https://github.com/ConicalDrupe/janulus.ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5NwICUGROWw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** The project lists eleven-labs-text-to-speech among its Built With tags.
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -207,7 +208,7 @@ A camera-based biomechanics tool tracks movement and fatigue to give athletes fe
 - **Code:** [Source 1](https://github.com/jiekaitao/BRACE)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DvQncQ3JfmE)
 - **All prizes at this hackathon (2):** Figma Make Most Creative Data Visualization · First in Sports
-- **How it used Figma:** The project lists figma-make among its Built With tags.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -220,17 +221,17 @@ A camera-based biomechanics tool tracks movement and fatigue to give athletes fe
 
 A local weather app gives gardeners and small farmers forecasts tailored to growing decisions.
 
-[Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBwQ) · Built with react, tailwind, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** react, tailwind, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TLGly6WWBwQ)
 - **All prizes at this hackathon (1):** Figma Make Most Creative Data Visualization
-- **How it used Figma:** FarmCast is the weather app that actually gets it.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -247,7 +248,7 @@ A local weather app gives gardeners and small farmers forecasts tailored to grow
 
 A filmmaker can turn a screenplay into video previews and storyboard frames.
 
-[Code](https://github.com/akabandaru/Playwright) · [Demo video](https://www.youtube.com/watch?v=W5MAby_ONxk) · Built with gemini, colab, databricks, elevenlabs
+[Code](https://github.com/akabandaru/Playwright) · [Demo video](https://www.youtube.com/watch?v=W5MAby_ONxk) · Built with gemini, google, colab, databricks
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -257,7 +258,7 @@ A filmmaker can turn a screenplay into video previews and storyboard frames.
 - **Code:** [Source 1](https://github.com/akabandaru/Playwright)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=W5MAby_ONxk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The team use the Gemini API to segment the script into narrative beats.
+- **How it used Google:** The team uses the Gemini API to segment the script into narrative beats.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -284,7 +285,7 @@ CitySpot uses deep learning on satellite imagery to detect and map every parking
 - **Code:** [Source 1](https://github.com/Kairavparikh/CitySpot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=67cCz4yv9Kc)
 - **All prizes at this hackathon (1):** GrowthFactor Challenge
-- **How it used GrowthFactor:** CitySpot uses deep learning on NAIP satellite imagery to automatically detect and map every surface parking lot in Atlanta.
+- **How it used GrowthFactor:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -307,7 +308,7 @@ North Star that guides retailers to their best location.
 - **Code:** [Source 1](https://github.com/V-prajit/Polaris)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zUk49IYrOuw)
 - **All prizes at this hackathon (1):** GrowthFactor Challenge
-- **How it used GrowthFactor:** Polaris is a scalable ML platform that quantifies parking inventory from space.
+- **How it used GrowthFactor:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -361,6 +362,7 @@ A website to help Atlanta residents and visitors stay safe during first-time mee
 - **Code:** [Source 1](https://github.com/IshaMadanu/hacklytics-atl-risk)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5gWB9hfDggA)
 - **All prizes at this hackathon (1):** Best AI for Human Safety by SafetyKit
+- **How it used SafetyKit:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -414,7 +416,7 @@ A lender can screen potential properties for environmental risks before approvin
 - **Code:** [Source 1](https://github.com/9nesh/VERA)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=62N696AcAkE)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** It serializes the payload, computes a SHA-256 fingerprint, and submits a compact summary and fingerprint through Solana's SPL Memo program , using solders and solana-py .
+- **How it used Solana:** It serializes the payload, computes a SHA-256 fingerprint, and submits a compact summary and fingerprint through Solana's SPL Memo program, using solders and solana-py.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -441,7 +443,7 @@ PatchLab tracks what players feel during playtests, not just what they click. It
 - **Code:** [Source 1](https://github.com/NSang22/PatchLab)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IrHYcadESSk)
 - **All prizes at this hackathon (1):** Most Unique Application of Sphinx
-- **How it used Sphinx:** PatchLab is a playtesting platform that captures player emotion in real time.
+- **How it used Sphinx:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -468,7 +470,7 @@ Synaptix is an AI-powered drug repurposing platform.
 - **Code:** [Source 1](https://github.com/Sanjavan7/Drugreuse)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QKEs6iViyJc)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** The project lists vultr-cloud among its Built With tags.
+- **How it used Vultr:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

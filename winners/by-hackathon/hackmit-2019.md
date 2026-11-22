@@ -55,18 +55,18 @@ These projects won more than one prize here. Each one is listed once.
 
 Automatically benefit from the optimizations of many databases, while only working with a single interface.
 
-Built with azure, cosmos-db, druid, node.js
+No public code linked · Built with azure, cosmos-db, druid, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** azure, cosmos-db, druid, node.js, react, typescript, victory
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Nasdaq/Quandl Datasets · Kensho Data Usability Challenge
-- **How it used Kensho:** The team set up a simple database auto-selector that makes the decision of whether to use Druid or MySQL.
-- **How it used Nasdaq:** The team set up a simple database auto-selector that makes the decision of whether to use Druid or MySQL.
+- **How it used Kensho:** Sponsor use not stated on Devpost
+- **How it used Nasdaq:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -89,6 +89,7 @@ Pilot encourages individuals to fill out their mood tracker, and it helps them d
 - **Code:** [Source 1](https://github.com/the-flying-circus/hackmit-2019)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** DRW: Best Data Visualization Hack · Rev.ai Speech API Challenge
+- **How it used DRW:** Sponsor use not stated on Devpost
 - **How it used Rev:** The team used Watson for sentiment analysis, Rev for speech-to-text, and Amadeus to identify sights and Mapbox and Wikipedia to display information about locations.
 - **Checked on Devpost:** 2026-11-21
 
@@ -118,7 +119,7 @@ An ethical marketplace for commute and transit data.
 - **Code:** [Source 1](https://github.com/bharatkashyap/argonaut-be)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Build the Financial Revolution on Algorand
-- **How it used Algorand:** The project lists algorand among its Built With tags.
+- **How it used Algorand:** The team used React.js to build the frontend, a Node.js/Express powered backend; Python to scrape through personal data dumps accessed via Google Takeout, and the Algorand JavaScript SDK to implement the blockchain-based transaction management system.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -131,17 +132,17 @@ An ethical marketplace for commute and transit data.
 
 The team often go out with a lot of amazing friends for trips, restaurants, tourism, weekend expedition and what not.
 
-[Demo video](https://www.youtube.com/watch?v=yy6YSp-quu4) · Built with algorand, algocoin, amazon-web-services, facebook-messenger
+No public code linked · [Demo video](https://www.youtube.com/watch?v=yy6YSp-quu4) · Built with algorand, algocoin, amazon-web-services, facebook-messenger
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** algocoin, algorand, amazon-web-services, facebook-messenger, google-cloud, ibm-watson, python, rev.ai
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yy6YSp-quu4)
 - **All prizes at this hackathon (1):** Build the Financial Revolution on Algorand
-- **How it used Algorand:** The team complete the payment using the blockchain set up with Algorand API.
+- **How it used Algorand:** The team completes the payment using the blockchain set up with Algorand API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -168,7 +169,7 @@ Choose between a private insurance system, a national model, or something else e
 - **Code:** [Source 1](https://github.com/lyronctk/DHEA)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Amadeus APIs
-- **How it used Amadeus:** The project lists amadeus among its Built With tags.
+- **How it used Amadeus:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -185,14 +186,14 @@ Choose between a private insurance system, a national model, or something else e
 
 Building community among pro bono lawyers through an easy to use conversational legal assistant.
 
-Built with amazon-lex, amazon-web-services, case.law, google-cloud
+No public code linked · Built with amazon-web-services, amazon-lex, case.law, google-cloud
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-lex, amazon-web-services, case.law, google-cloud, html/css, javascript, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AWS AI / ML Services
 - **How it used Amazon Web Services:** It is a web platform with a built in AWS chatbot that utilizes numerous legal APIs to effectively search previous cases based on a number of descriptors.
@@ -208,7 +209,7 @@ Built with amazon-lex, amazon-web-services, case.law, google-cloud
 
 A website that creates customized tests based on students' notes.
 
-[Code](https://github.com/juliustao/text2test-aws) · Built with lambda, adobe-creative-suite, amazon-web-services, comprehend
+[Code](https://github.com/juliustao/text2test-aws) · Built with amazon-web-services, adobe-creative-suite, comprehend, gateway
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -235,17 +236,17 @@ A website that creates customized tests based on students' notes.
 
 Pioneer technology that prioritizes the needs of displaced persons and tailor software to uniquely address the specific challenges of homelessness.
 
-Built with flask, github, google-maps, python
+No public code linked · Built with flask, github, google-maps, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** flask, github, google-maps, python, twilio
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Social Impact Hack with Coding It Forward
-- **How it used Coding It Forward:** Most homeless people have basic cell phones with only calling and sms capabilities.
+- **How it used Coding It Forward:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -262,14 +263,14 @@ Built with flask, github, google-maps, python
 
 1) A family member or caretaker helps the user set up an account, storing a special "Visual Key" as their login instead of a password.
 
-Built with docusign, azure, css, django
+No public code linked · Built with docusign, azure, css, django
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** azure, css, django, docusign, html, ibm-watson, javascript, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of the DocuSign Agreement Cloud APIs
 - **How it used DocuSign:** AgreeAble integrates with with the DocuSign Click API to sign agreements quickly and securely.
@@ -295,7 +296,7 @@ Helping terrible men control the consequences of their actions.
 - **Code:** [Source 1](https://github.com/SreyaV/memory)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of the DocuSign Agreement Cloud APIs
-- **How it used DocuSign:** The team use the Docusign Python API in tandem with a Flask server to allow for queries of a user's docusign envelopes through a web interface.
+- **How it used DocuSign:** The team uses the Docusign Python API in tandem with a Flask server to allow for queries of a user's docusign envelopes through a web interface.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -318,7 +319,7 @@ Share underutilized GPU power for machine learning education.
 - **Code:** [Source 1](https://github.com/as-com/gpuppy)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of the DocuSign Agreement Cloud APIs
-- **How it used DocuSign:** GPUppy allows you to run or train your machine learning models on other peoples' powerful GPUs when they are idle.
+- **How it used DocuSign:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -364,17 +365,17 @@ Also won this track: [Pilot](#project-pilot-81xkaf) (listed above)
 
 SafeLink is an app for drivers and monitors.
 
-Built with ford, amazon-cognito, amazon-web-services, android
+No public code linked · Built with ford, amazon-cognito, amazon-web-services, android
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** amazon-cognito, amazon-web-services, android, aws-iam, aws-lambda, firebase, firebase-authentication, firebase-cloud-firestore, ford, java, kotlin, opencv, openxc, python, serverless
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Ford Car Mobility Challenge Hack
-- **How it used Ford:** The project lists ford among its Built With tags.
+- **How it used Ford:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -401,7 +402,7 @@ Exit the echo chamber with the help of AI.
 - **Code:** [Source 1](https://github.com/arytonhoi/hackmit2019)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Google Cloud
-- **How it used Google:** The project lists google-cloud among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -414,14 +415,14 @@ Exit the echo chamber with the help of AI.
 
 Reinventing a touch keyboard with machine learning.
 
-Built with google-cloud, tensorflow
+No public code linked · Built with google-cloud, tensorflow
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** google-cloud, tensorflow
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Google Cloud
 - **How it used Google:** The team used Google Cloud Platform to train the model.
@@ -451,6 +452,7 @@ automl for heterogeneous model ensembling, giving automagical state-of-the-art s
 - **Code:** [Source 1](https://github.com/lhirschfeld/ensemble_factory)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Interesting Use of Data with HRT
+- **How it used Hudson River Trading:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -477,7 +479,7 @@ An enhancement for white canes to help the blind navigate their surroundings wit
 - **Code:** [Source 1](https://github.com/Monterrey-Dynamics/CaneAssist)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of IBM Visual Recognition
-- **How it used IBM:** It adds a camera and sensors which instruct a pair of motors that will lightly pull the user in a direction to avoid a collision with an obstacle.
+- **How it used IBM:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -500,7 +502,7 @@ A map that shows where the nearest natural disasters are located.
 - **Code:** [Source 1](https://github.com/tyl21938/crisisMap)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best IBM Disaster Preparedness &amp; Relief Solutions
-- **How it used IBM:** This website shows the location of the nearest natural disasters.
+- **How it used IBM:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -523,7 +525,7 @@ Efficient and impactful supply chain management platform to prevent food waste w
 - **Code:** [Source 1](https://github.com/lizzij/HackMIT)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best IBM Disaster Preparedness &amp; Relief Solutions
-- **How it used IBM:** Uses sensors, Computer Vision, and ML to improve the efficiency of current supply chain management.
+- **How it used IBM:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -536,14 +538,14 @@ Efficient and impactful supply chain management platform to prevent food waste w
 
 The web app allows a user to verify their identity to unlock a box storing all their prescription pill bottles.
 
-[Demo video](https://www.youtube.com/watch?v=R4zeNen51FQ) · Built with ibm-watson, javascript, node-red, raspberry-pi
+No public code linked · [Demo video](https://www.youtube.com/watch?v=R4zeNen51FQ) · Built with ibm-watson, javascript, node-red, raspberry-pi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ibm-watson, javascript, node-red, raspberry-pi, visual-recognition
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R4zeNen51FQ)
 - **All prizes at this hackathon (1):** Best Use of IBM Visual Recognition
 - **How it used IBM:** The team used IBM's node-red cloud platform to construct a node flow which utilizes IBM Watson's Visual Recognition service.
@@ -586,17 +588,17 @@ Your future for knowing what's in your water.
 
 Very fast, secure log in systems for healthcare professionals.
 
-Built with electron, ios, node.js, swift
+No public code linked · Built with electron, ios, node.js, swift
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** electron, ios, node.js, swift
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Secure User Healthcare Data Challenge with Imprivata
-- **How it used Imprivata:** Verifast is a mobile app, an authentication server, and a client server.
+- **How it used Imprivata:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -623,7 +625,7 @@ The application uses Optical Character Recognition (OCR) to capture items and th
 - **Code:** [Source 1](https://github.com/avgupta456/HackMIT-2019)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Instabase API · Track Prizes
-- **How it used Instabase:** The team use AWS Textract and Instabase API for OCR to analyze the words and prices in receipts.
+- **How it used Instabase:** The team uses AWS Textract and Instabase API for OCR to analyze the words and prices in receipts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -652,6 +654,7 @@ The team strip the noise in raw data to find the important trends and present th
 - **Code:** [Source 1](https://github.com/kdu4108/hackmit19)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Kensho Data Usability Challenge
+- **How it used Kensho:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -678,7 +681,7 @@ You have too many GitHub repos that are all out of date, and you're all out of p
 - **Code:** [Source 1](https://github.com/jordynlm/GitGud)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Command Line Tool with LightStep
-- **How it used Lightstep:** GitGud allows you to do git commands on several repositories at once, including pushing, pulling, and cloning.
+- **How it used Lightstep:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -705,7 +708,7 @@ The pen is mightier than the sword, nothing is more powerful than the word.
 - **Code:** [Source 1](https://github.com/jenniferlai43/rapscorer)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Hack for Building Community with Facebook
-- **How it used Meta:** Battle your friends in a game of wits, who shall be the first to call it quits.
+- **How it used Meta:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -722,14 +725,14 @@ The pen is mightier than the sword, nothing is more powerful than the word.
 
 (Helper for Accessibility Needs &amp; Disabilities) A chrome extension which provides an accessibility layer on top of any webpage.
 
-Built with amazon-dynamodb, amazon-web-services, aws-api-gateway, azure
+No public code linked · Built with azure, amazon-dynamodb, amazon-web-services, aws-api-gateway
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-dynamodb, amazon-web-services, aws-api-gateway, azure, javascript, lambda
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Microsoft Azure Champ Prize - Hack for Good
 - **How it used Microsoft:** Integrating many different complex technologies together including 4 AWS Services, Microsoft's Computer Vision Azure API, and a Google Chrome Extension.
@@ -751,17 +754,17 @@ Also won this track: [1DB: One Database to rule them all](#project-1db) (listed 
 
 Making ridesharing safer and more accessible.
 
-[Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amadeus, android-studio, docusign, firebase, firebase-storage, google-maps, java, openxc
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Su83aPedkx4)
 - **All prizes at this hackathon (1):** Best Use of Nasdaq/Quandl Datasets
-- **How it used Nasdaq:** The app, Driversity (stylized DRiveristy), works similarly to other ridesharing apps, with features put in place to assure that both riders and drivers feel safe.
+- **How it used Nasdaq:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -801,16 +804,17 @@ Buying a new house but can't decide on a neighborhood? Check out HomeUp for data
 
 Teaches you how to dance like Bruno Mars and other famous dancers.
 
-Built with opencv, python, tensorflow, websockets
+No public code linked · Built with opencv, python, tensorflow, websockets
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** opencv, python, tensorflow, websockets
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Niantic Augmented Reality Prize
+- **How it used Niantic:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -833,17 +837,17 @@ Also won this track: [Pilot](#project-pilot-81xkaf) (listed above)
 
 Ad-Supported, Safe File Storage for the Masses.
 
-Built with blockchain, html5, node.js
+No public code linked · Built with blockchain, html5, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** blockchain, html5, node.js
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Product or Idea that Leverages Sia Storage Platform
-- **How it used Sia:** Sia is a decentralized storage platform secured by blockchain technology.
+- **How it used Sia:** On the reverse side, the file needs to be queried from Sia to the web server, then downloaded to the client.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -870,6 +874,7 @@ Housing inequality, the disparity in housing due to socioeconomic factors, is a 
 - **Code:** [Source 1](https://github.com/ShashvatS/HappyHome)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Hack to Help the Housing Inequality Crisis with Wayfair
+- **How it used Wayfair:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

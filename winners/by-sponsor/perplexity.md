@@ -23,7 +23,7 @@
 
 Claim-level truth forensics–trace any idea back to its origin and know what's actually true. Powered by Perplexity Sonar, Claude Sonnet, and Semantic Scholar, orchestrated for multi-step verification.
 
-**How it used Perplexity:** The team run an iterative reasoning loop pairing Perplexity's search capabilities with Claude's extended thinking for deep analytical reasoning.
+**How it used Perplexity:** The team runs an iterative reasoning loop pairing Perplexity's search capabilities with Claude's extended thinking for deep analytical reasoning.
 
 [Code](https://github.com/yravipati/TreeHacks-2026) · [Demo video](https://www.youtube.com/watch?v=8encAO9qYUY) · Built with perplexity-sonar-api, anthropic-claude-api, css, deepgram-api
 
@@ -32,6 +32,8 @@ Claim-level truth forensics–trace any idea back to its origin and know what's 
 [TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-tonguekeeper) · **Best Use of Perplexity's Sonar API**
 
 Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-reference vocabulary and grammar from scattered sources, forging them into a living language atlas.
+
+**How it used Perplexity:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/lourdrickvalsote/tonguekeeper) · [Demo video](https://www.youtube.com/watch?v=nCSd-ZjfpkI) · Built with perplexity-sonar-api, anthropic-claude-api, brightdata-mcp, browserbase/stagehand
 
@@ -42,6 +44,8 @@ Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that c
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-flowpilot-zoom-agent-that-automates-your-workflows) · **Hacking With Perplexity Award**
 
 FlowPilot listens, understands, and executes, transforming Zoom meetings into Slide decks and Notion workflows. No more lost action items - just approve and watch it execute.
+
+**How it used Perplexity:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/CarterCote/flow-pilot) · [Demo video](https://www.youtube.com/watch?v=d9pkeKJIGRg) · Built with dain, docker, express.js, node.js
 

@@ -23,6 +23,8 @@
 
 Physical AI for low-pesticide agriculture to help farmers spray less and grow more crop. #1 RFS on YC S26.
 
+**How it used ASUS:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/mraruziev/cropscout-live-tomato) · [Demo video](https://www.youtube.com/watch?v=nkYR_oS4BKQ) · Built with javascript, mujoco, python, solidworks
 
 ### [Aegis Edge](https://devpost.com/software/aegis-edge)
@@ -30,6 +32,8 @@ Physical AI for low-pesticide agriculture to help farmers spray less and grow mo
 [LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-aegis-edge) · **ASUS Company Challenge**
 
 Zero-trust autonomous triage for networked medical hardware. Localized frontier intelligence detects sensor tampering and patches embedded firmware in real time, without ever leaving the device.
+
+**How it used ASUS:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/jackdeye/LAHACKS2026) · [Demo video](https://www.youtube.com/watch?v=v-JXrRFZ2OM) · Built with arduino, c, flipper, javascript
 
@@ -39,6 +43,8 @@ Zero-trust autonomous triage for networked medical hardware. Localized frontier 
 
 Trash in the recycling? Compost in the trash.
 
+**How it used ASUS:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Ishan-Wakade/Caught_in_4K) · [Demo video](https://www.youtube.com/watch?v=3-jCaqzQ2cg) · Built with chalk, claude, clip, css
 
 ### [Nemo](https://devpost.com/software/nemo-i69rus)
@@ -47,6 +53,8 @@ Trash in the recycling? Compost in the trash.
 
 Nemo combines a webcam tank experiment, ocean-current data and transparent physics to compare likely pollution sources, test interception layouts, and explain evidence through Chalk and Photon.
 
+**How it used ASUS:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/cjxsez/Nemo) · [Demo video](https://www.youtube.com/watch?v=Xcj1ZIWv9gU) · Built with chalk, cursor, docker, fastapi
 
 ### [OceanOps](https://devpost.com/software/oceanops)
@@ -54,6 +62,8 @@ Nemo combines a webcam tank experiment, ocean-current data and transparent physi
 [LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-oceanops) · **ASUS Company Challenge**
 
 The command center for ocean climate intervention. Simulate alkalinity deployments, optimize ship routes, and verify the carbon impact on the atmosphere.
+
+**How it used ASUS:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/A-Choudhari/LaHacks26) · [Demo video](https://www.youtube.com/watch?v=gyvOeVgc2KM) · Built with ais-stream, asyncio, autoprefixer, calcofi
 

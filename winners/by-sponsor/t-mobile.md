@@ -23,6 +23,8 @@
 
 Backfire serves scammers some of their own medicine while protecting the people they target at the same time.
 
+**How it used T-Mobile:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Proton-Designer/HackUTD26) · [Demo video](https://www.youtube.com/watch?v=-CsNGYiIACo) · Built with android, java, javascript, kotlin
 
 ### [Hashling](https://devpost.com/software/hello-ze1av6)
@@ -31,6 +33,8 @@ Backfire serves scammers some of their own medicine while protecting the people 
 
 Raise a pet. Dodge the scams.
 
+**How it used T-Mobile:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/kvictores/hashling) · [Demo video](https://www.youtube.com/watch?v=0Bl4ftEqlno) · Built with chrome, fastapi, gemini, javascript
 
 ### [PinkyPromise](https://devpost.com/software/pinkypromise)
@@ -38,6 +42,8 @@ Raise a pet. Dodge the scams.
 [HackUTD 2026](../by-hackathon/hackutd-2026.md#project-pinkypromise) · **T-Mobile Track**
 
 PinkyPromise is a research-backed scam-prevention application that helps users recognize, respond to, and avoid phishing and fraudulent phone calls.
+
+**How it used T-Mobile:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/aasthas23/pinkypromise) · [Demo video](https://www.youtube.com/watch?v=6B-SsBP-8iM) · Built with fastapi, gemini, ollama, python
 
@@ -49,7 +55,7 @@ PinkyPromise is a research-backed scam-prevention application that helps users r
 
 A real-time, cross-domain Customer Happiness Index that detects, tracks, and helps act on customer sentiment for T-Mobile.
 
-**How it used T-Mobile:** A real-time, multimodal Customer Happiness Index built to detect, understand, and improve how people feel about T-Mobile.
+**How it used T-Mobile:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/iampritisee/hackutd) · [Demo video](https://www.youtube.com/watch?v=VelZ-2xXLAw) · Built with downdetector, figma, flask, forumscout
 
@@ -59,6 +65,8 @@ A real-time, cross-domain Customer Happiness Index that detects, tracks, and hel
 
 A command-center for T-Mobile product managers to anticipate customer needs. See sentiment in real time, predict outages, and allocate resources—all to strengthen every customer connection.
 
+**How it used T-Mobile:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Siriapps/HarmoniQ) · [Demo video](https://www.youtube.com/watch?v=rJU3_Fffqnc) · Built with fastapi, flask, gemini, python
 
 ### [InsighT](https://devpost.com/software/t-insights)
@@ -66,6 +74,8 @@ A command-center for T-Mobile product managers to anticipate customer needs. See
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-t-insights) · **T-Mobile**
 
 Unified dashboard for T-Mobile PMs to track real-time customer sentiment, performance, and operational data, driving smarter, data-driven decisions and improved customer satisfaction.
+
+**How it used T-Mobile:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/AbdullahMoghal/t-insight-hack2025) · [Demo video](https://www.youtube.com/watch?v=4c7uRVxoJfc) · Built with cheerio, css, gemini, next.js
 

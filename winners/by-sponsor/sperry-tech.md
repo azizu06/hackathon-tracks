@@ -23,6 +23,8 @@
 
 The cross-utility intelligence platform that aggressively optimizes overlapping construction plans and fleet routes to slash millions in wasted time and capital.
 
+**How it used Sperry Tech:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/fradicus/Shellhacks-2026) · [Demo video](https://www.youtube.com/watch?v=Y5_c-f20ky4) · Built with atlas, chatgpt, claude, cursor
 
 ### [ContractMap](https://devpost.com/software/contractmap)
@@ -31,13 +33,17 @@ The cross-utility intelligence platform that aggressively optimizes overlapping 
 
 It then ranks those overlaps by how much coordination is actually worth.
 
-[Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
+**How it used Sperry Tech:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
 
 ### [Mr.Gridy](https://devpost.com/software/mr-gridy)
 
 [ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-mr-gridy) · **Sperry Tech**
 
 Mr.Gridy helps neighbouring power companies share the work: it finds where their construction plans overlap, and when a hurricane hits, predicts which lines break and who should help whom.
+
+**How it used Sperry Tech:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/VelvetDragon/gridsight) · [Demo video](https://www.youtube.com/watch?v=sr1lKaowknU) · Built with digitalocean, elevenlabs, gemini, nextjs
 
@@ -47,7 +53,9 @@ Mr.Gridy helps neighbouring power companies share the work: it finds where their
 
 AI agents that read utilities' public construction filings, map every planned project, and find where neighbors could share crews, equipment, and outages.
 
-[Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
+**How it used Sperry Tech:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Supupux7vtA) · Built with claude, digitalocean, docker, fastapi
 
 ## Track names and requirements
 

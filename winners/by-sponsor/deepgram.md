@@ -23,6 +23,8 @@
 
 It's a wearable narrator AI that watches your day and announces it out loud in any personality you want.
 
+**How it used Deepgram:** Deepgram handles speech-to-text (ears) and text-to-speech (voice), and Redis stores memory + which personality is active.
+
 [Code](https://github.com/Da0t/AsideAI) · [Demo video](https://www.youtube.com/watch?v=3NdMEDV5Ews) · Built with libjpeg-turbo, python, raspberry-pi, tcp
 
 ### [Cartify](https://devpost.com/software/cartify-10bjse)
@@ -31,7 +33,9 @@ It's a wearable narrator AI that watches your day and announces it out loud in a
 
 Cartify: Your AI voice assistant for personalized grocery lists and automated shopping.
 
-[Demo video](https://www.youtube.com/watch?v=VV_kdMY3P4A) · Built with deepgram, gemini, next.js, playwright
+**How it used Deepgram:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/Max-Changg/Cartify) · [Demo video](https://www.youtube.com/watch?v=VV_kdMY3P4A) · Built with deepgram, gemini, next.js, playwright
 
 ### [DispatchIQ](https://devpost.com/software/dispatchiq-usn87o)
 
@@ -48,6 +52,8 @@ An AI copilot for dispatchers that calmly guides them through urgent situations,
 [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md#project-nomad-ha90qx) · **Deepgram API Challenge**
 
 Turn live conversations into a shared itinerary—maps, places, and bookings update as you talk.
+
+**How it used Deepgram:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/SanjayMarathe/nomad) · [Demo video](https://www.youtube.com/watch?v=JQJX066AJHk) · Built with deepgram, gemini, livekit, mapbox
 
@@ -78,6 +84,8 @@ Ever struggled in social settings? Not knowing what to say next.
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-text-to-dot) · **Deepgram Voice Agent Quest**
 
 Real time translation from text to braille.
+
+**How it used Deepgram:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/rami-maalouf/text2dot) · Built with deepgram, cartesia, groq, hyperbolic
 

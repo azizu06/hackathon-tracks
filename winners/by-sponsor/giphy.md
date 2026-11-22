@@ -23,7 +23,9 @@
 
 Summarizing Youtube Videos to Meaningful Gifs.
 
-[Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58) · Built with giphy, flask, nltk, python
+**How it used GIPHY:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58) · Built with giphy, flask, nltk, python
 
 ## 2017 winners
 
@@ -32,6 +34,8 @@ Summarizing Youtube Videos to Meaningful Gifs.
 [HackMIT 2017](../by-hackathon/hackmit-2017.md#project-ad-block-ar) · **Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate**
 
 While Unity and Microsoft's UWP are powerful platforms, sometimes there can be powerful issues that can hinder development in a big way.
+
+**How it used GIPHY:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/negitoromaki/ad-blockAR) · Built with giphy, c#, microsoft-hololens, unity
 

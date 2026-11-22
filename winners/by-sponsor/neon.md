@@ -23,7 +23,9 @@
 
 Elevated and autonomous security for the vibe coded world. Argus deploys five specialized agents to attack your app in a sandbox, prove vulnerabilities, generate fixes, and verify the patch works.
 
-[Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
+**How it used Neon:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
 
 ### [GEarth](https://devpost.com/software/diarockets)
 
@@ -50,6 +52,8 @@ Smart glasses for the glasses you already own.
 [MHacks 2026](../by-hackathon/mhacks-2026.md#project-shotgun-7iv6qb) · **Best Use of Neon Backend**
 
 Commute used to be dead time. Shotgun turns your car into an AI agent that rides... shotgun.
+
+**How it used Neon:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/25danielc/shotgun) · [Demo video](https://www.youtube.com/watch?v=P9eiu86cmdE) · Built with neon, anthropic-api, carplay, claude
 

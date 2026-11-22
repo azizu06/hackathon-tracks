@@ -74,7 +74,7 @@ A home assistant supports older adults with daily routines and keeps their famil
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vFU1GSWrbRk)
 - **All prizes at this hackathon (2):** &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro) · &#91;Decagon&#93; Best Conversation Assistant (Nintendo Switch 2 Mario Kart World Bundle Guaranteed onsite interviews for internship)
 - **How it used Anthropic:** The team used Browserbase's Stagehand, Claude, and ElevenLabs to automate web navigation across pharmacy websites, insurance portals, Uber, and healthcare systems.
-- **How it used Decagon:** Bloom is an AI caretaker that transforms how elderly individuals manage their health and stay connected.
+- **How it used Decagon:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -98,6 +98,7 @@ Buy! is an AI agent marketplace that sells your stuff for you.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Dv-Bqklp-RE)
 - **All prizes at this hackathon (2):** &#91;Browserbase&#93; Best Web Automation with Stagehand ($1,000) · &#91;Google&#93; Cloud AI Track
 - **How it used Browserbase:** Cloud browser sessions via Browserbase + Stagehand give the agents real browser access to Facebook Marketplace, and GPT models power the negotiation intelligence. Prize: $1,000
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -120,8 +121,8 @@ Stop guessing gifts! Concierge lets 2 Poke agents collaborate with shared contex
 - **Code:** [Source 1](https://github.com/andaero/treehacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fjbazc6t0t4)
 - **All prizes at this hackathon (2):** &#91;Browserbase&#93; Best Web Automation with Stagehand ($1,000) · &#91;The Interaction Company of California&#93; Build with Poke (Challenge 1: iPhone Air for everyone in the team Challenge 2: iPhone 17 Pro for everyone in the team Challenge 3: iPhone Air for everyone in the team Bonus: up to $100k in cash)
-- **How it used Browserbase:** The project lists browserbase among its Built With tags. Prize: $1,000
-- **How it used Interaction Company:** Concierge is an Agentic gift-giving workflow built on top of Poke that helps you find deeply personalized gifts through peer-to-peer agent collaboration and research. Prize: Challenge 1: iPhone Air for everyone in the team Challenge 2: iPhone 17 Pro for everyone in the team Challenge 3: iPhone Air for everyone in the team Bonus: up to $100k in cash
+- **How it used Browserbase:** Finally, a browser automation agent uses Browserbase + Stagehand to find the right gift, configure the right variant (size, color, model), and generate a ready-to-checkout link with an estimated final price. Prize: $1,000
+- **How it used Interaction Company:** Sponsor use not stated on Devpost Prize: Challenge 1: iPhone Air for everyone in the team Challenge 2: iPhone 17 Pro for everyone in the team Challenge 3: iPhone Air for everyone in the team Bonus: up to $100k in cash
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -158,7 +159,7 @@ A shared question-and-answer system lets AI agents reuse solutions and escalate 
 
 Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
 
-[Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with elevenlabs, grok, heygen, mediapipe
+[Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with render, zoom-sdk, elevenlabs, grok
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -168,7 +169,8 @@ Jiggle Wiggle is a real-time AI movement coach that works with three input modes
 - **Code:** [Source 1](https://github.com/cindyzli/jigglewiggle)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kL3udtWY1EE)
 - **All prizes at this hackathon (2):** &#91;Modal&#93; Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp; hotel) to SF or NY Office with lunch with Modal team,. Inference Track Runner Up Prize: $1K in Modal credits, airpods for each team member.) · &#91;Zoom x Render&#93; Best use of Zoom APIs + Render: (Bose Headphones x 4 Zoom Ocean Bottle x 4$2000 Render Credits)
-- **How it used Zoom / Render:** Not described. Prize: Bose Headphones x 4 Zoom Ocean Bottle x 4$2000 Render Credits
+- **How it used Modal:** Sponsor use not stated on Devpost
+- **How it used Zoom / Render:** Sponsor use not stated on Devpost Prize: Bose Headphones x 4 Zoom Ocean Bottle x 4$2000 Render Credits
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -205,18 +207,18 @@ Minerva is an AI-powered virtual educator designed to provide structured, person
 
 Mobius runs for very long periods of time completely autonomously to complete all aspects of building a venture-scale company from scratch - engineering, marketing, operations, legal, and more.
 
-[Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with modal, ai, anthropic, chatgpt
+No public code linked · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with modal, ai, anthropic, chatgpt
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ai, anthropic, chatgpt, claude, elastic, jinai, modal, python, vercel
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KB5vgGlufa4)
 - **All prizes at this hackathon (2):** &#91;Modal&#93; Sandbox Challenge · &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
 - **How it used Modal:** Run on a modal sandbox for privacy and asynchronous running.
-- **How it used Y Combinator:** Mobius is a multi-turn autonomous founder agent that runs continuously, remembers context, executes real-world actions, and allows real-time human steering.
+- **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -240,7 +242,7 @@ AI-native research engine to discover FDA-approved drug repurposing candidates f
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rBBftD6zOhM)
 - **All prizes at this hackathon (2):** &#91;Fetch.ai&#93; Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. (Best Overall AI Agent Solution - $2500 Best Multi-Agent Workflow - $1500 Best Monetised Agent - $1000) · &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).)
 - **How it used Fetch.ai:** Orchestrated agent flows using Fetch.ai – registered an agent on AgentVerse where it can be used in ASI:One, an alternative UI to the platform. Prize: Best Overall AI Agent Solution - $2500 Best Multi-Agent Workflow - $1500 Best Monetised Agent - $1000
-- **How it used Runpod:** The team run DiffDock on RunPod serverless GPUs (Nvidia Blackwells) to predict protein–ligand binding.
+- **How it used Runpod:** The team runs DiffDock on RunPod serverless GPUs (Nvidia Blackwells) to predict protein–ligand binding.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -263,8 +265,8 @@ A smart cane that guides indoor and outdoor navigation for blind people, costing
 - **Code:** [Source 1](https://github.com/tonywangs/shepherd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nJ5YjK1-0c0)
 - **All prizes at this hackathon (3):** &#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches) · &#91;OpenEvidence&#93; Healthcare Track Grand Prize · Treehacks Grand Prize (1st)
-- **How it used OpenEvidence:** A small motor on the cane applies lateral force, nudging the cane left or right, so the user feels which direction is clear without needing audio cues or screen interaction.
-- **How it used OpenEvidence:** A small motor on the cane applies lateral force, nudging the cane left or right, so the user feels which direction is clear without needing audio cues or screen interaction.
+- **How it used OpenEvidence:** Sponsor use not stated on Devpost
+- **How it used OpenEvidence:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -311,8 +313,8 @@ Show Snappier your workflow once by recording your screen. AI figures out what y
 - **Code:** [Source 1](https://github.com/nintang/snappier)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Mi4oWY_EkYc)
 - **All prizes at this hackathon (2):** &#91;Graphite&#93; Most Likely to get Acquired by a Sponsor (OB–4 black bluetooth speaker) · &#91;Vercel&#93; Best Use of Vercel/Best Deployed on Vercel (2k cash prize + $2.4k in Pro-level access credits ($100/month for 4 winners, access for 6 months.)
-- **How it used Graphite:** Snappier turns screen recordings into automated workflows in 3 steps:.
-- **How it used Vercel:** The project lists vercel among its Built With tags. Prize: $100/month for 4 winners, access for 6 months.
+- **How it used Graphite:** Sponsor use not stated on Devpost
+- **How it used Vercel:** Sponsor use not stated on Devpost Prize: $100/month for 4 winners, access for 6 months.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -343,7 +345,7 @@ A prototype food-bank workflow pairs AI and robotics to collect and distribute f
 - **Code:** [Source 1](https://github.com/PranavViswanath/project-lend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hBcCNg_U3t4)
 - **All prizes at this hackathon (1):** &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)
-- **How it used Anthropic:** The team basically replicated the entire front and back office of a traditional food rescue operation using the Claude Agent SDK as the brain:.
+- **How it used Anthropic:** Project Lend uses the Claude Agent SDK to coordinate work for its food rescue operation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -366,7 +368,7 @@ A group chat assistant coordinates dinner plans and other errands.
 - **Code:** [Source 1](https://github.com/priyanshbhatter24/sunday)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;Anthropic&#93; Best Use of Claude Agent SDK ($2,500 in Claude Developer Platform credits)
-- **How it used Anthropic:** The Agent runs an HTTP server powered by the Claude Agent SDK with 17 custom MCP tools:. Prize: $2,500 in Claude Developer Platform credits
+- **How it used Anthropic:** Sunday uses the Claude Agent SDK to run an agent server that exposes 17 MCP tools. Prize: $2,500 in Claude Developer Platform credits
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -389,7 +391,7 @@ A civic discussion tool connects proposed policy changes to the public input beh
 - **Code:** [Source 1](https://github.com/arihantjain4/Tribune)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CNRvU4jK34c)
 - **All prizes at this hackathon (1):** &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)
-- **How it used Anthropic:** Integrated 5 AI providers (Gemini, OpenAI, Anthropic Claude, JINA, Elasticsearch) into a coherent pipeline.
+- **How it used Anthropic:** The platform also includes a Research Desk : an AI agent powered by Claude that can answer natural language questions about the entire policy corpus.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -418,7 +420,7 @@ Hate waiting on hold? kiru is a voice agent that actually calls companies, talks
 - **Code:** [Source 1](https://github.com/Pranav-Karra-3301/treehacks-26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=73PZw1LwPow)
 - **All prizes at this hackathon (1):** &#91;Bright Data&#93; Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;)
-- **How it used Bright Data:** Before the call even starts, it does its homework: researching the company, pulling competitor pricing, finding leverage. Prize: $500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;
+- **How it used Bright Data:** The team also added a pre-call research layer using Perplexity and Bright Data so the agent walks into every conversation armed with actual data: competitor offers, market rates, that kind of thing. Prize: $500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -431,17 +433,17 @@ Hate waiting on hold? kiru is a voice agent that actually calls companies, talks
 
 200K veterans transition out every year — most without real support. NextOp is a private AI coach that translates military careers into civilian résumés, benefits, and training.
 
-[Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with anthropic, anthropic-sdk, brightdata, embedding
+No public code linked · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with anthropic, anthropic-sdk, brightdata, embedding
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** anthropic, anthropic-sdk, brightdata, embedding, fastapi, hume, python, react, sqlite, tailwind, typescript, vite
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WwUi08k8dG4)
 - **All prizes at this hackathon (1):** &#91;Bright Data&#93; Best AI-Powered Web Data Hack ($500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;)
-- **How it used Bright Data:** NextOp is an end-to-end AI-powered transition coach with five core capabilities:. Prize: $500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;
+- **How it used Bright Data:** Sponsor use not stated on Devpost Prize: $500 Cash + $1.5k Credits &#91;1st&#93; &amp; $350 Cash + $1K Credits &#91;2nd&#93; &amp; $250 Cash + $500 Credits &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -497,7 +499,7 @@ AI-powered biometric and visual monitoring that predicts when you’re prone to 
 - **Code:** [Source 1](https://github.com/kl527/4sight)
 - **Demo video:** [Video 1](https://vimeo.com/1165159968)
 - **All prizes at this hackathon (1):** &#91;Cloudflare&#93; Best Use of Cloudflare Developer Platform (1st Place - $250K Cloudflare credits + Cloudflare swag bag for each team member. 2nd Place - $100k Cloudflare credits)
-- **How it used Cloudflare:** The project lists cloudflare-containers, cloudflare-d1, cloudflare-durable-objects, cloudflare-workers among its Built With tags. Prize: 1st Place - $250K Cloudflare credits + Cloudflare swag bag for each team member. 2nd Place - $100k Cloudflare credits
+- **How it used Cloudflare:** Sponsor use not stated on Devpost Prize: 1st Place - $250K Cloudflare credits + Cloudflare swag bag for each team member. 2nd Place - $100k Cloudflare credits
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -520,7 +522,7 @@ Also won this track: [Bloom](#project-bloom-dvjpea) (listed above)
 
 Voice AI with RAG-powered clinical reasoning that proactively detects post-surgical complications, alerts care providers before symptoms escalate, and prevents costly hospital readmissions.
 
-[Code](https://github.com/JoyZhuoz/carelink) · [Demo video](https://www.youtube.com/watch?v=C60iv-taFpQ) · Built with claude-sdk, elasticsearch, elevenlabs, esql
+[Code](https://github.com/JoyZhuoz/carelink) · [Demo video](https://www.youtube.com/watch?v=C60iv-taFpQ) · Built with elasticsearch, claude-sdk, elevenlabs, esql
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -530,7 +532,7 @@ Voice AI with RAG-powered clinical reasoning that proactively detects post-surgi
 - **Code:** [Source 1](https://github.com/JoyZhuoz/carelink)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=C60iv-taFpQ)
 - **All prizes at this hackathon (1):** &#91;Elastic&#93; Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd Place: $1,000 (split across team members))
-- **How it used Elastic:** 1) Automate patient post-surgical follow-up through agentic and adaptive voice call.
+- **How it used Elastic:** The team built CareLink with React for the frontend, Express.js for the backend, and a demo patient database stored using Elasticsearch’s powerful vector embedding and retrieval capabilities.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -543,7 +545,7 @@ Voice AI with RAG-powered clinical reasoning that proactively detects post-surgi
 
 Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity control platform that detects intrusion activity and converts security signals into immediate defensive actions.
 
-[Code](https://github.com/Eth007/gallop) · [Demo video](https://www.youtube.com/watch?v=QRSf0SUPioM) · Built with elastic, codex, ebpf, elasticcloud
+[Code](https://github.com/Eth007/gallop) · [Demo video](https://www.youtube.com/watch?v=QRSf0SUPioM) · Built with elastic, elasticsearch, codex, ebpf
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -553,7 +555,7 @@ Stop breaches in real-time. Gallop is a multi-agent, AI-native cybersecurity con
 - **Code:** [Source 1](https://github.com/Eth007/gallop)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QRSf0SUPioM)
 - **All prizes at this hackathon (1):** &#91;Elastic&#93; Best end-to-end Agentic system on Elasticsearch (1st Place: $2,000 (split across team members) 2nd Place: $1,000 (split across team members))
-- **How it used Elastic:** Essentially, Elastic provides the necessary retrieval and sensing system, and Gallop provides the reflexes and operational control plane, compressing detection-to-action cycles from human to operational timescales.
+- **How it used Elastic:** Gallop uses Elasticsearch vector search with Jina embeddings to retrieve context for its agents.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -605,7 +607,7 @@ A voice shopping tool compares prices across stores and coordinates payments thr
 - **Code:** [Source 1](https://github.com/Sohamiscurious/TreeHacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZoUQvbh24mM)
 - **All prizes at this hackathon (1):** &#91;Fetch.ai&#93; Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes. (Best Overall AI Agent Solution - $2500 Best Multi-Agent Workflow - $1500 Best Monetised Agent - $1000)
-- **How it used Fetch.ai:** The project lists fetch.ai among its Built With tags. Prize: Best Overall AI Agent Solution - $2500 Best Multi-Agent Workflow - $1500 Best Monetised Agent - $1000
+- **How it used Fetch.ai:** Agent Network: Fetch.ai uAgents for ASI:One discovery and payment protocol ($1 USDC/order). Prize: Best Overall AI Agent Solution - $2500 Best Multi-Agent Workflow - $1500 Best Monetised Agent - $1000
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -634,7 +636,7 @@ Left the doctor confused or worried you forgot something? Your grandparents prob
 - **Code:** [Source 1](https://github.com/smallboar/HelloCare)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=45H1t7bpw9U)
 - **All prizes at this hackathon (1):** &#91;Google&#93; Cloud AI Track
-- **How it used Google:** The project lists firebase among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -667,7 +669,7 @@ Can AI agents in multi-agent systems deceive, deduce, and stay aligned.
 - **Code:** [Source 1](https://github.com/samarth-bhargav/treehacks-amogus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xhi-_4qUExg)
 - **All prizes at this hackathon (1):** &#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)
-- **How it used Greylock:** Capabilities evals: win-rate, deception/deduction ELO, persuasion benchmarks.
+- **How it used Greylock:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -690,6 +692,7 @@ Edamame creates AI clones of every employee by ingesting their Slack messages, G
 - **Code:** [Source 1](https://github.com/angelinaquan/edamame-treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6HlN98ilkzc)
 - **All prizes at this hackathon (1):** &#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)
+- **How it used Greylock:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -702,16 +705,17 @@ Edamame creates AI clones of every employee by ingesting their Slack messages, G
 
 The team introduce three core technical contributions:.
 
-[Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** claude, fastapi, modal, node.js, openai, vercel, vllm
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p0ruAH5erME)
 - **All prizes at this hackathon (1):** &#91;Greylock&#93; Best multi-turn agent (Courtside tickets to Warriors game ($10k value) Office hours with Greylock Partners)
+- **How it used Greylock:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -744,6 +748,7 @@ The hot new LLVM backend: compile your code to a spreadsheet.
 - **Code:** [Source 1](https://github.com/kognise/freak-in-the-sheets)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5Sb-QcEFHwg)
 - **All prizes at this hackathon (2):** &#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total)) · Most Technically Complex
+- **How it used Human Capital:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -756,17 +761,17 @@ The hot new LLVM backend: compile your code to a spreadsheet.
 
 Drones map real buildings in minutes, creating AI-operable world models where assistive agents navigate and search for locations (ex. food, elevator). Provides on-demand street view.
 
-[Demo video](https://www.youtube.com/watch?v=rzGvQOiOc8c) · Built with apple-depth-pro, css, css-frontend-react-18, csv
+No public code linked · [Demo video](https://www.youtube.com/watch?v=rzGvQOiOc8c) · Built with apple-depth-pro, css, css-frontend-react-18, csv
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** apple-depth-pro, css, css-frontend-react-18, csv, debian, debian-data-csv, dict), drones, eslint, fastapi, git, google-fonts, google-fonts-(inter)-backend/api-fastapi, heif, html, hub), hugging-face-(transformers, hugging-face-hub, inter, json, lucide-react, matplotlib, modal, modal-(serverless), mp4, mp4-databases-none-dev-eslint, numpy, numpy-platform/cloud-modal-(gpu, opencv, pil, pillow, pillow-heif, poke, pyright, pytest, python, pytorch, qwen-vl, qwen-vl-utils, react, react-router, rest, rest-ml/ai-pytorch, ruff, setuptools, timm, torchvision, transformers, typescript, vite, vllm, volumes
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rzGvQOiOc8c)
 - **All prizes at this hackathon (1):** &#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))
-- **How it used Human Capital:** Keryx turns a real building into an AI-operable world.
+- **How it used Human Capital:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -789,6 +794,7 @@ The biggest lesson was that the right level of AI autonomy depends on the domain
 - **Code:** [Source 1](https://github.com/csaye/ontab)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=76gxlzWBOzY)
 - **All prizes at this hackathon (1):** &#91;Human Capital&#93; Human Capital Fellowship Prize ( $50k equity-free check per team member (up to $200k total))
+- **How it used Human Capital:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -817,7 +823,7 @@ OS of tomorrow, Claude Code of today.
 - **Code:** [Source 1](https://github.com/FO214/treehacks) · [Source 2](https://github.com/soooooooot/treehacks-agent-repo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=imelOPlGLgQ)
 - **All prizes at this hackathon (1):** &#91;The Interaction Company of California&#93; Build with Poke (Challenge 1: iPhone Air for everyone in the team Challenge 2: iPhone 17 Pro for everyone in the team Challenge 3: iPhone Air for everyone in the team Bonus: up to $100k in cash)
-- **How it used Interaction Company:** The team allow you to manage all of your coding agents through a brand-new AR interface. Prize: Challenge 1: iPhone Air for everyone in the team Challenge 2: iPhone 17 Pro for everyone in the team Challenge 3: iPhone Air for everyone in the team Bonus: up to $100k in cash
+- **How it used Interaction Company:** Sponsor use not stated on Devpost Prize: Challenge 1: iPhone Air for everyone in the team Challenge 2: iPhone 17 Pro for everyone in the team Challenge 3: iPhone Air for everyone in the team Bonus: up to $100k in cash
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -836,14 +842,14 @@ Also won this track: [jiggle wiggle](#project-jiggle-wiggle), [Mobius: the first
 
 Built Minecraft in one shot - Burned $5500 running 100+ coding agents pushing at peak 1200+ commits/hr to research the future of "coding".
 
-[Demo video](https://www.youtube.com/watch?v=5oxXfazBcaQ) · Built with modal, chatgpt, claude, cursor
+No public code linked · [Demo video](https://www.youtube.com/watch?v=5oxXfazBcaQ) · Built with modal, chatgpt, claude, cursor
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** chatgpt, claude, cursor, modal, pidev, poke
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5oxXfazBcaQ)
 - **All prizes at this hackathon (1):** &#91;Modal&#93; Sandbox Challenge
 - **How it used Modal:** Modal: Serverless GPU backend that runs each sandboxed agent at scale with high-performance compute and automatic resource provisioning.
@@ -869,7 +875,7 @@ Robots and self-driving cars need training data. Mirage synthesizes 3D world-mod
 - **Code:** [Source 1](https://github.com/kyan-yang/Mirage)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;Modal&#93; Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp; hotel) to SF or NY Office with lunch with Modal team,. Inference Track Runner Up Prize: $1K in Modal credits, airpods for each team member.)
-- **How it used Modal:** The project lists modal among its Built With tags.
+- **How it used Modal:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -892,7 +898,7 @@ Shared coding agent context powered by RLMs. One Context, Run Everywhere.
 - **Code:** [Source 1](https://github.com/WingchunSiu/Monolith)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Ie0ZMGYPhS8)
 - **All prizes at this hackathon (1):** &#91;Modal&#93; Sandbox Challenge
-- **How it used Modal:** The project lists modal among its Built With tags.
+- **How it used Modal:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -919,6 +925,7 @@ You can take a picture and choose from a range of filters to apply to your image
 - **Code:** [Source 1](https://github.com/alexkranias/diffuji)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JiRth1HCIag)
 - **All prizes at this hackathon (2):** &#91;Neo&#93; Most Likely to Become a Product · Most Creative
+- **How it used Neo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -945,7 +952,7 @@ Using mass surveillance to keep people safe - predicting impact, affected areas,
 - **Code:** [Source 1](https://github.com/alangrewco/treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=51RLdw6FQOg)
 - **All prizes at this hackathon (1):** &#91;NVIDIA&#93; Edge AI Track
-- **How it used NVIDIA:** The fire-risk overlay is powered by NVIDIA Earth-2, which provides predictive weather patterns that indicate conditions conducive to forest fires.
+- **How it used NVIDIA:** The team deployed NVIDIA’s DGX Spark systems to host NVIDIA open models, including the Nemotron-class Personaplex model and Earth-2.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -968,7 +975,7 @@ An onboard satellite agent evaluates possible debris collisions and proposes an 
 - **Code:** [Source 1](https://github.com/keanucz/detour)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=XTLts_t78IQ)
 - **All prizes at this hackathon (1):** &#91;NVIDIA&#93; Edge AI Track
-- **How it used NVIDIA:** The project lists dgx-spark, nvidia among its Built With tags.
+- **How it used NVIDIA:** The core of Detour is a multi-agent workflow powered by a local NVIDIA open model via vLLM.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1064,7 +1071,7 @@ A voice and vision assistant maps rooms, helps older adults find misplaced objec
 - **Code:** [Source 1](https://github.com/nathanjzhao/treehacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UdgzCapZGrc)
 - **All prizes at this hackathon (2):** &#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag) · Most Impactful
-- **How it used OpenAI:** The project lists gpt-5-mini, openai, openai-whisper among its Built With tags. Prize: &#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag
+- **How it used OpenAI:** Sponsor use not stated on Devpost Prize: &#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1087,7 +1094,7 @@ A programming environment gives blind developers an accessible way to write and 
 - **Code:** [Source 1](https://github.com/ledaniel0/treehacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aL9MrpwJXOA)
 - **All prizes at this hackathon (1):** &#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)
-- **How it used OpenAI:** The system is fully conversational agentic operating system for visually-impaired users. Prize: &#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag
+- **How it used OpenAI:** Sponsor use not stated on Devpost Prize: &#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1116,6 +1123,7 @@ RescueRX is a multi-agent AI system that uncovers pre-existing drugs that could 
 - **Code:** [Source 1](https://github.com/Donglomur/TreeHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bNT22FCYhoA)
 - **All prizes at this hackathon (1):** &#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches)
+- **How it used OpenEvidence:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1138,7 +1146,7 @@ ShadowGuard is a network-layer AI firewall that detects and redacts sensitive pa
 - **Code:** [Source 1](https://github.com/shamanthak-hegde/ShadowGuard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=n0ntGM6gGk8)
 - **All prizes at this hackathon (1):** &#91;OpenEvidence&#93; Healthcare Track Grand Prize
-- **How it used OpenEvidence:** ShadowGuard is a real-time AI-powered PII firewall for hospitals.
+- **How it used OpenEvidence:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1165,7 +1173,7 @@ Claim-level truth forensics–trace any idea back to its origin and know what's 
 - **Code:** [Source 1](https://github.com/yravipati/TreeHacks-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8encAO9qYUY)
 - **All prizes at this hackathon (1):** &#91;Perplexity&#93; Best Use of Perplexity's Sonar API ($500 per team member and trip to Perplexity office)
-- **How it used Perplexity:** The team run an iterative reasoning loop pairing Perplexity's search capabilities with Claude's extended thinking for deep analytical reasoning. Prize: $500 per team member and trip to Perplexity office
+- **How it used Perplexity:** The team runs an iterative reasoning loop pairing Perplexity's search capabilities with Claude's extended thinking for deep analytical reasoning. Prize: $500 per team member and trip to Perplexity office
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1188,7 +1196,7 @@ Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that c
 - **Code:** [Source 1](https://github.com/lourdrickvalsote/tonguekeeper)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nCSd-ZjfpkI)
 - **All prizes at this hackathon (1):** &#91;Perplexity&#93; Best Use of Perplexity's Sonar API ($500 per team member and trip to Perplexity office)
-- **How it used Perplexity:** The project lists perplexity-sonar-api among its Built With tags. Prize: $500 per team member and trip to Perplexity office
+- **How it used Perplexity:** Sponsor use not stated on Devpost Prize: $500 per team member and trip to Perplexity office
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1217,7 +1225,7 @@ One ad. Every market.AI-localized in seconds.
 - **Code:** [Source 1](https://github.com/ssiddhantsood/treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=C3_5c9b4zxg)
 - **All prizes at this hackathon (1):** &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).)
-- **How it used Runpod:** The project lists runpod among its Built With tags.
+- **How it used Runpod:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1240,7 +1248,7 @@ NeuroBlocks is a visual, drag-and-drop educational platform for building and und
 - **Code:** [Source 1](https://github.com/tupdaily/NeuroBlocks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kGlmRMJCSdg)
 - **All prizes at this hackathon (1):** &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).)
-- **How it used Runpod:** The project lists runpod among its Built With tags.
+- **How it used Runpod:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1267,7 +1275,7 @@ GridVeda gives powerline operators predictive failure detection at edge. Ensembl
 - **Code:** [Source 1](https://github.com/TheRaven5520/GridVeda)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xun8Srjo-jY)
 - **All prizes at this hackathon (1):** &#91;Stanford Ecopreneurship&#93; Sustainability: Best prototyping process
-- **How it used Stanford Ecopreneurship:** GridVeda is an AI-powered early warning system for electrical transformers that runs on-site at substations, predicting failures before blackouts occur.
+- **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1280,16 +1288,17 @@ GridVeda gives powerline operators predictive failure detection at edge. Ensembl
 
 The geoengineering operating system for climate renewal. Predict natural disasters, pick from a suite of rain/cloud seeding interventions, and prevent their destructive impacts.
 
-[Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** chatgpt, claude-code, earth2studio, gemini, graphcast, matplotlib, pandas, python, random-forest-classifier, v0, vercel, warp, xarray, zarr
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BBR3-OXCjtU)
 - **All prizes at this hackathon (1):** &#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability
+- **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1316,7 +1325,7 @@ Real-time music chord suggestions based on the elegant theory of 24D chroma vect
 - **Code:** [Source 1](https://github.com/J4Joshua/JASS-APP)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=niFOu62-IwU)
 - **All prizes at this hackathon (2):** &#91;Suno&#93; Best Musical Hack · Treehacks Grand Prize (3rd)
-- **How it used Suno:** ChromaChord is a real-time AI jazz assistant that listens to your improvisation and helps you navigate harmony.
+- **How it used Suno:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1339,7 +1348,7 @@ Turn an everyday object into infinite instruments.
 - **Code:** [Source 1](https://github.com/markmusic27/treehacks-26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7tlVRvY_3n8)
 - **All prizes at this hackathon (1):** &#91;Suno&#93; Best Musical Hack
-- **How it used Suno:** The output is passed to a Suno API pipeline to generate a full track based on what you played.
+- **How it used Suno:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1372,7 +1381,7 @@ MIRA is an AI powered smart mirror that helps you decide what to wear and what t
 - **Code:** [Source 1](https://github.com/23jmo/mirrorless)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ki_rh4TUoOQ)
 - **All prizes at this hackathon (1):** &#91;Visa&#93; The Generative Edge: Future of Commerce ($10,000 total)
-- **How it used Visa:** Not described. Prize: $10,000 total
+- **How it used Visa:** Sponsor use not stated on Devpost Prize: $10,000 total
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1428,6 +1437,7 @@ You’re walking down the street and someone passes you wearing your exact ideal
 - **Code:** [Source 1](https://github.com/socratesosorio/aesthetica)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZhqUDfSZVuw)
 - **All prizes at this hackathon (1):** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
+- **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1450,7 +1460,7 @@ The self-modifying browser for maximizing productivity.
 - **Code:** [Source 1](https://github.com/adeng27/evolve-browser)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tJDPK8Kg8XE)
 - **All prizes at this hackathon (1):** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
-- **How it used Y Combinator:** evolve(browser) pairs an advanced coding agent with complete browser context.
+- **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1473,7 +1483,7 @@ Match with the best applicants, powered by AI agents and TikTok's recommendation
 - **Code:** [Source 1](https://github.com/pahu2353/HireUp)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=a03VWeouYsk)
 - **All prizes at this hackathon (1):** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
-- **How it used Y Combinator:** HireUp turns hiring from a volume game into a quality and fit game.
+- **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1496,7 +1506,7 @@ AI-Native Infrastructure that Reimagines Trade Work for Blue-Collar Careers.
 - **Code:** [Source 1](https://github.com/Yaga-Yoink/tradeproof)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=087da__L-74)
 - **All prizes at this hackathon (1):** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
-- **How it used Y Combinator:** The team also learned that local codes matter enormously.
+- **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1519,6 +1529,7 @@ The team learned that translation from informal mathematics to formal language i
 - **Code:** [Source 1](https://github.com/aryans-15/zeta)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RJV8a8PWkxQ)
 - **All prizes at this hackathon (1):** &#91;Y Combinator&#93; Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview 2nd Place: Guaranteed YC Office Hours 3rd Place: Guaranteed YC Office Hours)
+- **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1545,7 +1556,7 @@ Agentified personal in-home care for the elderly. Multimodal S2S agent system ha
 - **Code:** [Source 1](https://github.com/o-bm/dot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ziUp2ybO3vc)
 - **All prizes at this hackathon (1):** &#91;Zingage&#93; Best Voice AI for Healthcare (Airpods Max + fast-track to superday with Zingage)
-- **How it used Zingage:** .dot is an AI-powered healthcare companion that lets elderly patients interact with their full medical records through natural voice conversation.
+- **How it used Zingage:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1574,7 +1585,7 @@ Real-time knowledge graphs that make every lecture impossible to fall behind in.
 - **Code:** [Source 1](https://github.com/jasonyi33/prereq)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xaod8It2Wko)
 - **All prizes at this hackathon (1):** &#91;Zoom&#93; Education Track
-- **How it used Zoom:** The project lists zoom among its Built With tags.
+- **How it used Zoom:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

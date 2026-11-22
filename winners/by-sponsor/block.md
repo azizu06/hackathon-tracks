@@ -23,6 +23,8 @@
 
 A robot event photographer that captures moments, curates the best frames, and publishes them instantly so guests can relive the event in real time.
 
+**How it used Block:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/elijahzhao24/BizBot) · [Demo video](https://www.youtube.com/watch?v=-nSwDxqMe5E) · Built with arduino, fastapi, gemini, opencv
 
 ## Track names and requirements

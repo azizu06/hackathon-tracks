@@ -49,7 +49,7 @@ A finance workspace helps AI labs automate bookkeeping and related financial tas
 
 Independent Agentic AI oversight that tracks every dollar from owner to management company to vendor, so owners catch problems before they affect finances, operations or relationships.
 
-[Code](https://github.com/ozr0013/AccountableAI) · [Demo video](https://www.youtube.com/watch?v=3eNnbQb081M) · Built with .md, agent, agentic, ai
+[Code](https://github.com/ozr0013/AccountableAI) · [Demo video](https://www.youtube.com/watch?v=3eNnbQb081M) · Built with visual-studio, .md, agent, agentic
 
 ### [Astronom](https://devpost.com/software/astronom)
 
@@ -57,7 +57,7 @@ Independent Agentic AI oversight that tracks every dollar from owner to manageme
 
 Once you describe a job, Astronom builds a budgeted, permission-checked AI agent team, red-teams it, and fixes what breaks, with approval at every step, using its multi-agent swarm technology.
 
-[Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
 
 ### [Backrooms](https://devpost.com/software/backrooms-h4o783)
 
@@ -105,7 +105,7 @@ Budgie on a Budget helps you find a home that fits both your budget and your lif
 
 Captain Ddoski gives AI finance agents instant source trust scores, risk tags, and evidence capsules via API/MCP, helping them cite reliable proof, flag weak claims, and avoid scams.
 
-[Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
+No public code linked · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
 
 ### [Cartify](https://devpost.com/software/cartify-10bjse)
 
@@ -113,7 +113,7 @@ Captain Ddoski gives AI finance agents instant source trust scores, risk tags, a
 
 Cartify: Your AI voice assistant for personalized grocery lists and automated shopping.
 
-[Demo video](https://www.youtube.com/watch?v=VV_kdMY3P4A) · Built with deepgram, gemini, next.js, playwright
+[Code](https://github.com/Max-Changg/Cartify) · [Demo video](https://www.youtube.com/watch?v=VV_kdMY3P4A) · Built with deepgram, gemini, next.js, playwright
 
 ### [Concord](https://devpost.com/software/concord-17as0b)
 
@@ -177,7 +177,7 @@ The autonomous back office for freight finance.
 
 A shared app helps friend groups coordinate rides, plans, and payments.
 
-[Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
 
 ### [House Rules](https://devpost.com/software/house-rules-dfzg75)
 
@@ -217,7 +217,7 @@ JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives e
 
 Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, allocates units, manages payment, and proves delivery through SLA.
 
-[Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
+No public code linked · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
 
 ### [Lullabuy](https://devpost.com/software/lullabuy)
 
@@ -233,7 +233,7 @@ See the recall before your money moves. Lullabuy holds a Visa payment until a ca
 
 A finance workflow uses agents for month-end close tasks and waits for human approval before posting.
 
-[Code](https://github.com/3nvyx/luyten) · [Demo video](https://www.youtube.com/watch?v=is1IP042_v8) · Built with anthropic, apify, bright-data, claude-agent-sdk
+[Code](https://github.com/3nvyx/luyten) · [Demo video](https://www.youtube.com/watch?v=is1IP042_v8) · Built with spacetimedb, anthropic, apify, bright-data
 
 ### [MapleTrace](https://devpost.com/software/mapletrace)
 
@@ -289,7 +289,7 @@ A learning app helps users explore stock movements and practice investment decis
 
 Your portfolio, explained: Chat with your portfolio, understand what you already own, and discover new investment opportunities that actually fit it.
 
-[Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
+No public code linked · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM) · Built with elevenlabs, eslint, finnhub, fred-api
 
 ### [Radar](https://devpost.com/software/radar-hz5yqe)
 
@@ -297,7 +297,7 @@ Your portfolio, explained: Chat with your portfolio, understand what you already
 
 Find sanctioned investigators, not their namesakes.
 
-[Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
+No public code linked · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
 
 ### [Red Ledger](https://devpost.com/software/red-ledger)
 
@@ -329,7 +329,7 @@ An AI-powered disaster response command center that identifies urgent needs, inv
 
 Turn real-estate data into explainable infrastructure risk insights and prioritized investigations.
 
-[Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
 ### [Settlr](https://devpost.com/software/settlr-s4gr9y)
 
@@ -361,7 +361,7 @@ Whenever you're on a shopping site, Stopify tracks your vital signs and your act
 
 An autonomous finance desk that tracks automotive tariffs from imported parts to customer credits, catching errors, learning from decisions, and posting only with approval.
 
-[Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz0) · Built with anthropic-api, beancount, claude, claude-code
 
 ### [Toyyo](https://devpost.com/software/toyo-zxjwfe)
 
@@ -393,7 +393,7 @@ A voice shopping tool compares prices across stores and coordinates payments thr
 
 A commerce tool lets merchants review AI-organized evidence when investigating refunds.
 
-[Code](https://github.com/shubhaych/vouch) · [Demo video](https://www.youtube.com/watch?v=pf4iXxd5D_o) · Built with creao, duckdb, factory-droid-sdk, faster-whisper
+[Code](https://github.com/shubhaych/vouch) · [Demo video](https://www.youtube.com/watch?v=pf4iXxd5D_o) · Built with spacetimedb, creao, duckdb, factory-droid-sdk
 
 ### [Wallet Whisperer](https://devpost.com/software/wallet-whisperer-9jyax1)
 
@@ -475,7 +475,7 @@ Mobile app for users to find and share recipes. Allows for automatic calculation
 
 Ever wondered if your shopping cart is hurting the planet? 🌍 EcoScout scans products, gives instant EcoScores, and suggests greener swaps—helping you shop smart and sustainably.
 
-[Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71g) · Built with base44, ethical-sourcing)-&#42;&#42;cloud-/-hosting&#42;&#42;-?-base44-integrated-cloud-environment-&#42;&#42;programming&#42;&#42;-?-javascript/typescript-(for-custom-logic), ai, aiagents
 
 ### [ERWIN: Enhanced Rock Weathering Impact Navigator](https://devpost.com/software/erwin-enhanced-rock-weathering-impact-navigator)
 
@@ -491,7 +491,7 @@ An accessible carbon removal assessment platform for Enhanced Rock Weathering (E
 
 "Smart Spending, Safer Shopping, Healthier Finances.".
 
-Built with beautiful-soup, gemini, javascript, mongodb
+No public code linked · Built with beautiful-soup, gemini, javascript, mongodb
 
 ### [FinScope](https://devpost.com/software/finscope-02o4qt)
 
@@ -563,7 +563,7 @@ Complete AI agent ecosystem for fraud detection &amp; banking. Multiple speciali
 
 Money Mentor AI: your stress-free path to financial freedom - one confident step at a time.
 
-[Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
 
 ### [Money Talks](https://devpost.com/software/money-talks-d93izn)
 
@@ -579,7 +579,7 @@ Money Talks transforms raw bank statements into actionable financial insights th
 
 Smart student budgeting app that gives students from monthly financial plans to personalized tips with an AI-generated financial education section that make students stay on top of their finances.
 
-[Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
 
 ### [MyToyota](https://devpost.com/software/mytoyota)
 
@@ -619,7 +619,7 @@ Let kids learn how to manage their own finances with Spendy.
 
 Stamped is a secure and intelligent onboarding platform designed for financial institutions. It streamlines client and vendor onboarding with AI-powered features, and comprehensive compliance tools.
 
-[Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=umt6t5bXJXo) · Built with next.js, react, supabase, typescript
 
 ### [Subsave](https://devpost.com/software/subsave)
 
@@ -709,7 +709,7 @@ Elevyn empowers creators to monetize exclusive content and fundraisers through b
 
 FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting.
 
-Built with css, javascript, react-native
+No public code linked · Built with css, javascript, react-native
 
 ### [financio](https://devpost.com/software/financio-xg15bp)
 
@@ -717,7 +717,7 @@ Built with css, javascript, react-native
 
 The web application is designed to help train the users in common economic situations they might face to get a better grip on their finances.
 
-Built with cloud-computing, database-management, git, json
+No public code linked · Built with cloud-computing, database-management, git, json
 
 ### [FinnAI](https://devpost.com/software/finnai)
 
@@ -725,7 +725,7 @@ Built with cloud-computing, database-management, git, json
 
 Inspiration Managing personal finances can often feel daunting, with budgeting and saving becoming increasingly complex.
 
-[Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
+No public code linked · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
 
 ### [FIU Financial Education - Scholarship Plug](https://devpost.com/software/financial-education-for-women-at-fiu)
 
@@ -733,7 +733,7 @@ Inspiration Managing personal finances can often feel daunting, with budgeting a
 
 FIU Scholarship Plug helps students find relevant scholarships by assessing demographics. It gathers data on academic background, financial status, and career goals for personalized recommendations.
 
-Built with defang, auth0, bash, css
+No public code linked · Built with defang, auth0, bash, css
 
 ### [FraudGuard](https://devpost.com/software/fraudguard-3gxd0w)
 
@@ -797,7 +797,7 @@ Lumo: Split expenses instantly, no upfront payments. Empowering seamless, real-t
 
 "Empowering Latino Businesses, One Investment at a Time.".
 
-[Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
+No public code linked · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
 
 ### [Plate-O](https://devpost.com/software/plate-o)
 
@@ -829,7 +829,7 @@ Your #1 financial advisor that knows everything about your current spending, you
 
 Sera helps people with limited banking experience take control of their money. No jargon—just real support when it’s needed most.
 
-[Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=E-Cg1Y2ALKc) · Built with atlas, cerebras, express.js, javascript
 
 ### [SmartCards](https://devpost.com/software/smartcards-qxdusb)
 
@@ -871,7 +871,7 @@ Quick Relief uses blockchain technology to enable faster, secure, and transparen
 
 Structurall enables investment banks to leverage unstructured data with natural language processing.
 
-Built with axios, azure, express.js, node.js
+No public code linked · Built with axios, azure, express.js, node.js
 
 ### [TradeGO](https://devpost.com/software/trade-bot-uhvcny)
 
@@ -879,7 +879,7 @@ Built with axios, azure, express.js, node.js
 
 TradeGO is an application that enables people to participate in financial markets without financial literacy.
 
-Built with react, ruby, ruby-on-rails
+No public code linked · Built with react, ruby, ruby-on-rails
 
 ## 2016 winners
 
@@ -889,6 +889,6 @@ Built with react, ruby, ruby-on-rails
 
 Kiva + Invest. Kinvest allows Lenders to leverage machine learning to maximize impact in developing nations.
 
-Built with firebase, flask, machine-learning, pandas
+No public code linked · Built with firebase, flask, machine-learning, pandas
 
 [Back to top](#finance-and-commerce)

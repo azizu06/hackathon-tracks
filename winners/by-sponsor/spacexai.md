@@ -23,6 +23,8 @@
 
 a parking garage map for orbit: find the spot where your satellites do the least harm.
 
+**How it used SpaceXAI:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/candpixie/hackharvard26) · [Demo video](https://www.youtube.com/watch?v=x_iGKuHw0B0) · Built with chalk, cursor, fastapi, globe.gl
 
 ### [Orbit Watch](https://devpost.com/software/orbit-watch-lwqitd)
@@ -31,6 +33,8 @@ a parking garage map for orbit: find the spot where your satellites do the least
 
 Space traffic control for the 99% of operators without a control room. Orbit Watch reads real collision warnings, throws out the false alarms, and tells your whole team which one matters.
 
+**How it used SpaceXAI:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/ArunimaV/orbit-watch) · [Demo video](https://www.youtube.com/watch?v=eroKaUhp6zY) · Built with celestrak, cesiumjs, cursor, cursor-cloud-agents
 
 ### [Ripple](https://devpost.com/software/ripple-vepi8b)
@@ -38,6 +42,8 @@ Space traffic control for the 99% of operators without a control room. Orbit Wat
 [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md#project-ripple-vepi8b) · **Make it Legendary**
 
 Intelligently model the effects of infrastructure collapse on local neighborhoods and visualize the impact of prospective city planning.
+
+**How it used SpaceXAI:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/MannanB/HackGT13) · [Demo video](https://www.youtube.com/watch?v=DUEwUAwF8mg) · Built with deck.gl, fastapi, maplibre, postgis
 

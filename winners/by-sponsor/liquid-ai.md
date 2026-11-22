@@ -23,6 +23,8 @@
 
 Iris is a sleek headset built for the blind and visually impaired, designed to provide real-time guidance through the world.
 
+**How it used Liquid AI:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/RoyceAroc/iris) · [Demo video](https://www.youtube.com/watch?v=3Y1PsWWNvb4) · Built with cuda, expo.io, groq, nvidia
 
 ### [PUSHPA - Pyro UAV System for High-risk Patrol and Alerting](https://devpost.com/software/pushpa-pyro-uav-system-for-high-risk-patrol-and-alerting)
@@ -31,13 +33,17 @@ Iris is a sleek headset built for the blind and visually impaired, designed to p
 
 PUSHPA gives firefighters eyes on the ground and in the air. Smart glasses steer drones for real-time wildfire mitigation w optical &amp; UAV input + x20 kernel-optimized edge compute on custom SDKs.
 
-[Demo video](https://www.youtube.com/watch?v=-p4GfOiM0GY) · Built with executorch, gemini, langchain, llama.cpp
+**How it used Liquid AI:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=-p4GfOiM0GY) · Built with executorch, gemini, langchain, llama.cpp
 
 ### [SurviveX](https://devpost.com/software/survivex)
 
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-survivex) · **Edge AI Prize: Most Creative On-Device AI Deployment**
 
 Your hands-free conversational survival assistant. Powered by on device LLM inference, offering step-by-step instructions to keep you smarter and safer anytime, anywhere.
+
+**How it used Liquid AI:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/rockuutree/SurviveX-Treehacks) · [Demo video](https://www.youtube.com/watch?v=aVEuAuWjVac) · Built with executetorch, finetuning, github, llama
 

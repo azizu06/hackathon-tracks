@@ -23,13 +23,17 @@
 
 AxisGen turns one robot-task prompt into simulation-ready Physical AI prompts by varying lighting, placement, embodiment, and safety constraints, creating scalable, robust datasets before deployment.
 
-[Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
+**How it used UFB:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=vdUR6xzem4s) · Built with ai, cli, cloud, configuration
 
 ### [Omniscient](https://devpost.com/software/ribbit-rtnfvg)
 
 [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-ribbit-rtnfvg) · **Best Physical AI Hack by UFB**
 
 Supervision layer for robot fleets. A VLM watches each robot against its task and flags failures the second they happen; the operator pilots from anywhere via real-time hand tracking.
+
+**How it used UFB:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/matthehzhang/hackcal) · [Demo video](https://www.youtube.com/watch?v=uvKU0ZPAZa4) · Built with act, antropicstructuredoutput, claude, depthanythingv2
 
@@ -38,6 +42,8 @@ Supervision layer for robot fleets. A VLM watches each robot against its task an
 [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-robo-jab) · **Best Physical AI Hack by UFB**
 
 The project is a full pipeline that takes ordinary monocular phone videos of a person jabbing and produces robot reference motions plus a trained control policy for the Unitree G1.
+
+**How it used UFB:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/abtonmoy/ai_hackathon_calhacks) · [Demo video](https://www.youtube.com/watch?v=XCrEp2mOd_s) · Built with bash, cuda, ffmpeg, gmr
 

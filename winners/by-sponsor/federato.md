@@ -35,6 +35,8 @@ Pixie is one inspectable risk engine presented as two products: a commercial und
 
 Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning.
 
+**How it used Federato:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jruttan1/Optimate) · [Demo video](https://www.youtube.com/watch?v=R8M0fgPcW_Y) · Built with federato-api, amazon-dynamodb, auth0, aws-dynamodb
 
 ## Track names and requirements

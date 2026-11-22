@@ -23,6 +23,8 @@
 
 Analyzes crypto portfolios and generates smart liquidation strategies based on risk tolerance.Uses real-time Gemini Exchange data and Fetch.ai agents to help decisions about converting crypto to cash.
 
+**How it used Postman:** The project demonstrates both technical excellence and practical utility, combining Postman's powerful orchestration capabilities with Fetch.ai's autonomous agent framework to solve a genuine problem facing millions of young investors.
+
 [Code](https://github.com/yuktaablitz/cryptoagent-cfo) · [Demo video](https://www.youtube.com/watch?v=6Pv9YAOo3Ic) · Built with python
 
 ### [CryptoBot](https://devpost.com/software/cryptobot-ecytaj)
@@ -33,7 +35,7 @@ Cryptobot is a humanoid robot that is FULLY voice-controlled.
 
 **How it used Postman:** The team used Sui, Postman, and Booster K1 humanoid to power this.
 
-[Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
 
 ### [Relay](https://devpost.com/software/https-youtu-be-dqw4w9wgxcq)
 

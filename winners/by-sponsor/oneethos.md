@@ -23,13 +23,17 @@
 
 A city dashboard adjusts for biases in residents' reports of overflowing bins and ranks where to add bins.
 
-[Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with clip, databricks, docker, expo.io
+**How it used OneEthos:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with clip, databricks, docker, expo.io
 
 ### [Fireline](https://devpost.com/software/fireline-764nir)
 
 [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-fireline-764nir) · **Innovation for Good**
 
 An edge device identifies early signs of wildfire smoke and reports them to a dashboard.
+
+**How it used OneEthos:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/kateye31/fireline) · [Demo video](https://www.youtube.com/watch?v=vhKG4MiWa9A) · Built with arduino, azure, dht11, docker
 
@@ -38,6 +42,8 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-jolteon) · **Innovation for Good**
 
 Jolteon captures waste heat, turns it into stored electricity, and shows you exactly how much it has collected, live.
+
+**How it used OneEthos:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/TomasTorrado/Jolteon) · [Demo video](https://www.youtube.com/watch?v=8vnv30qKB9w) · Built with c++, esp32, fastapi, ina219
 
@@ -49,6 +55,8 @@ Jolteon captures waste heat, turns it into stored electricity, and shows you exa
 
 Get daily financial news and insights tailored to your interests.
 
+**How it used OneEthos:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/jordanrobbedthesun/FinScope) · [Demo video](https://www.youtube.com/watch?v=WxBUaohIQVI) · Built with express.js, fastapi, javascript, node.js
 
 ### [Money Mentor AI](https://devpost.com/software/moneymentor-ai)
@@ -57,7 +65,9 @@ Get daily financial news and insights tailored to your interests.
 
 Money Mentor AI: your stress-free path to financial freedom - one confident step at a time.
 
-[Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
+**How it used OneEthos:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=J5wnACnaZdY) · Built with css3, flask, html5, node.js
 
 ## Track names and requirements
 

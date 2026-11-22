@@ -23,6 +23,8 @@
 
 A live, on-chain prediction market that thrives on hackathon chaos. Seamlessly bet on props with just a tap of your HTN badge.
 
+**How it used Dryft:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Erenius-Valoraen/pred-market) · [Demo video](https://www.youtube.com/watch?v=iZufLdMMyhc) · Built with ble, esp32, javascript, lua
 
 ## Track names and requirements

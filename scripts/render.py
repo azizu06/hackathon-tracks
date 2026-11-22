@@ -281,17 +281,14 @@ def prize_text(row):
 
 
 def integration_note(row):
-    if row["summary_evidence"] not in {"Project write-up", "Edited from project page"}:
-        return None
-    note = re.sub(r":\.$", ".", " ".join(row["sponsor_integration"].split()))
-    return f'**How it used {md(row["sponsor"])}:** {compact(note, 240)}'
+    label = "Sponsor use" if row["sponsor"] == OTHER_SPONSOR else f'How it used {md(row["sponsor"])}'
+    return f'**{label}:** {md(row["sponsor_integration"])}'
 
 
 def entry_links(entries, details_url=None):
     row = entries[0]
     parts = []
-    if row["source_urls"]:
-        parts.append(f'[Code]({row["source_urls"][0]})')
+    parts.append(f'[Code]({row["source_urls"][0]})' if row["source_urls"] else "No public code linked")
     if row["demo_video_urls"]:
         parts.append(f'[Demo video]({row["demo_video_urls"][0]})')
     if details_url:
@@ -314,13 +311,8 @@ def entry_details(entries):
         + " · ".join(md(label) for label in row["event_prizes"]),
     ]
     for item in entries:
-        note = "" if item["summary_evidence"] == "Integration detail unavailable" else md(item["sponsor_integration"])
         value = item["prize_value"] if item["prize_value"] and item["prize_value"] != item["prize"] else ""
-        if note or value:
-            body.append(
-                f'- **How it used {md(item["sponsor"])}:** {note or "Not described."}'
-                + (f" Prize: {md(value)}" if value else "")
-            )
+        body.append(f'- {integration_note(item)}' + (f" Prize: {md(value)}" if value else ""))
     body.append(f'- **Checked on Devpost:** {row["fetched_on"]}')
     return details("Team, all prizes and sponsor notes", body)
 
@@ -341,9 +333,7 @@ def project_entry(entries, context, level=3):
         prize_line = "<br>".join(awards)
     lines += [prize_line, "", compact(row["description"], 220), ""]
     if context == "sponsor":
-        notes = [note for note in map(integration_note, entries) if note]
-        if notes:
-            lines += [notes[0], ""]
+        lines += [integration_note(row), ""]
     links = entry_links(entries)
     if links:
         lines += [links, ""]
@@ -396,7 +386,8 @@ def sponsors_page(sponsors):
         breadcrumb("[Hackathon Tracks](README.md)", "Sponsors"), "",
         "# Sponsors", "",
         f"{len(named):,} sponsors awarded prizes at the hackathons in this index. Open one to see every "
-        "winning project, what it built and the tech it used.", "",
+        "winning project and what it built. Sponsor-use notes appear where the Devpost write-up says how the "
+        "team used the tech. Code is linked where public.", "",
         jump_bar(["Most awarded", *order]), "",
         "## Most awarded", "",
         *data_table(headings, (sponsor_rows(name, entries, "winners/") for name, entries in by_size[:20])), "",
@@ -513,7 +504,7 @@ def directory_sections(rows, sponsors, editions):
         "## Browse", "",
         *data_table(["Start with", "What you get"], [
             ("**[By sponsor](SPONSORS.md)**",
-             f"{len(named):,} sponsors, A to Z. Every winning project, what it built and how it used the sponsor."),
+             f"{len(named):,} sponsors, A to Z. See what won and what the Devpost write-ups say about sponsor tech."),
             ("**[By hackathon](HACKATHONS.md)**",
              f"{len(editions)} editions of {len(series)} hackathons, with every sponsor track and its winners."),
             ("**[By tech or project type](TOPICS.md)**",
@@ -532,10 +523,10 @@ def directory_sections(rows, sponsors, editions):
 def update_readme(path, rows):
     sponsors, editions = split_directory(rows)
     badges = [
-        ("Winning projects", len({row["url"] for row in rows}), "6D4FA3"),
-        ("Hackathon editions", len(editions), "356A8A"),
-        ("Sponsors", len(sponsors.keys() - {OTHER_SPONSOR}), "377662"),
-        ("Sponsor prizes", len(rows), "90613D"),
+        ("Winning projects", len({row["url"] for row in rows}), "0F2A4A"),
+        ("Hackathon editions", len(editions), "3B82F6"),
+        ("Sponsors", len(sponsors.keys() - {OTHER_SPONSOR}), "0F2A4A"),
+        ("Sponsor prizes", len(rows), "3B82F6"),
     ]
     lines = path.read_text(encoding="utf-8")
     for name, section in (
@@ -560,6 +551,8 @@ def write_lines(path, lines):
 
 def publish_links(urls, listed, label):
     if not urls:
+        if label == "Source":
+            return "No public code linked"
         return "Listed on Devpost but not verified." if listed else "None listed."
     return " · ".join(f"[{label} {i}]({url})" for i, url in enumerate(urls, 1))
 
@@ -857,7 +850,7 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         f"- Demo video links verified HTTP 200 for {len(verified_links['demo'])} of {len(links['demo'])} unique recognized links.",
         "- The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.",
         "- Project summaries use edited notes, Devpost project captions and short evidence sentences. "
-        "When the project supplies only a stack tag or omits an integration description, the row labels that evidence.",
+        "A Built With tag can identify a tool. The integration note requires a description of its role.",
         "- Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. "
         "General event awards remain visible in project prize lists.",
         "- HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. "

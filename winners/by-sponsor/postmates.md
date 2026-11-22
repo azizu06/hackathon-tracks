@@ -23,7 +23,9 @@
 
 An easy way to sell your stuff – just push, and sell.
 
-Built with firebase, ios, pusheen, swift
+**How it used Postmates:** Sponsor use not stated on Devpost
+
+No public code linked · Built with firebase, ios, pusheen, swift
 
 ## Track names and requirements
 

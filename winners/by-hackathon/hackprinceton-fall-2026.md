@@ -60,7 +60,9 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 - **Code:** [Source 1](https://github.com/at350/hackprinceton-fall-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IY0Rr7l58Eg)
 - **All prizes at this hackathon (4):** &#91;Amazon&#93; Best Practical AI Innovation · &#91;Justin Bojarski&#93; Best Physical AI Hack · &#91;LangChain&#93; Best use of deepagents · Best Overall Hack
-- **How it used LangChain:** The project lists langchain among its Built With tags.
+- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
+- **How it used LangChain:** Sponsor use not stated on Devpost
+- **Sponsor use:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -83,8 +85,8 @@ A dashboard supplies incident information to fire dispatchers.
 - **Code:** [Source 1](https://github.com/param-mans/FlameScout)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LlK6Ls93_Ys)
 - **All prizes at this hackathon (2):** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard · &#91;MLH&#93; Best Use of Vultr
-- **How it used ChatOverflow:** FlameScout turns live fire-dispatch calls into a building-specific advisory brief on the crew's tablet before arrival.
-- **How it used Vultr:** The project lists vultr among its Built With tags.
+- **How it used ChatOverflow:** Sponsor use not stated on Devpost
+- **How it used Vultr:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -107,8 +109,8 @@ A wearable combines spoken assistance with spatial audio to help people with vis
 - **Code:** [Source 1](https://github.com/Aliceeia/Meridies)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eoBT5CGjsPA)
 - **All prizes at this hackathon (2):** &#91;Amazon&#93; Best Practical AI Innovation · &#91;MLH&#93; Best Use of Gemini API
-- **How it used Amazon Web Services:** Meridies is a wearable hat with four parts, all controlled by voice through Meri , the AI assistant ("Hi Meri"):.
-- **How it used Google:** The project lists gemini among its Built With tags.
+- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
+- **How it used Google:** Gemini 3.8 Flash handles real-time object detection on camera frames, understanding spoken requests, and function calling: each Meridies feature is a tool Meri can call, so one sentence moves the user between features.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -131,8 +133,8 @@ A camera watches the ingredients, AI counts every item taken, and texts the owne
 - **Code:** [Source 1](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tsmOwUs_G00)
 - **All prizes at this hackathon (2):** &#91;Peri&#93; Forward Deployed Engineer · &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
-- **How it used Peri:** Every time a hand reaches in, Restock cuts a short clip and a vision model (Liquid d1) says what was taken and how many.
-- **How it used Photon:** The project lists photon among its Built With tags.
+- **How it used Peri:** Sponsor use not stated on Devpost
+- **How it used Photon:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -153,7 +155,7 @@ Also won this track: [Lucid](#project-lucid-k078qt), [Meridies](#project-meridie
 
 Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 
-[Code](https://github.com/aditya-baniya-ai/hack_princeton) · [Demo video](https://www.youtube.com/watch?v=nPXe5ZIrOiY) · Built with amazon-bedrock, amazon-nova-2-lite, amazon-nova-2-sonic, amazon-web-services
+[Code](https://github.com/aditya-baniya-ai/hack_princeton) · [Demo video](https://www.youtube.com/watch?v=nPXe5ZIrOiY) · Built with amazon-bedrock, amazon-web-services, amazon-nova-2-lite, amazon-nova-2-sonic
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -163,7 +165,7 @@ Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 - **Code:** [Source 1](https://github.com/aditya-baniya-ai/hack_princeton)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nPXe5ZIrOiY)
 - **All prizes at this hackathon (1):** &#91;Amazon&#93; Best Practical AI Innovation
-- **How it used Amazon Web Services:** The project lists amazon-bedrock among its Built With tags.
+- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -186,7 +188,7 @@ Step inside the past, see it through every view, with every line sourced and tru
 - **Code:** [Source 1](https://github.com/riavadhavkar/vantage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Atkd0YpaIMc)
 - **All prizes at this hackathon (1):** &#91;Amazon&#93; Best Practical AI Innovation
-- **How it used Amazon Web Services:** Vantage turns any event into an interactive documentary: history, current events, science, sports, anything that happened to real people.
+- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -213,7 +215,7 @@ MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case eviden
 - **Code:** [Source 1](https://github.com/meizuflux/hackprinceton-f26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OyYZ1CdiKOg)
 - **All prizes at this hackathon (1):** &#91;Arlequin AI&#93; AI-Driven Forensics — by Arlequin AI
-- **How it used Arlequin AI:** MapleTrace takes a ZIP of case evidence and produces an interactive investigation board:.
+- **How it used Arlequin AI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -226,17 +228,17 @@ MapleTrace is an investigation dashboard utilizing ML+LLMs that maps case eviden
 
 A satirical social media simulator and world builder.
 
-[Demo video](https://www.youtube.com/watch?v=FgR3QLEW5Kc) · Built with agents, claude, multi-agent, next.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=FgR3QLEW5Kc) · Built with agents, claude, multi-agent, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** agents, claude, multi-agent, next.js, prompt-engineering, react, simulation, synthtetic-data, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FgR3QLEW5Kc)
 - **All prizes at this hackathon (1):** &#91;Arlequin AI&#93; Social Media Analysis: Combining Content &amp; Connectivity Patterns
-- **How it used Arlequin AI:** Tangents is the conception of what media and entertainment can look like in the AI era.
+- **How it used Arlequin AI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -263,7 +265,7 @@ A simulator lets prospective business owners test how they could operate in an a
 - **Code:** [Source 1](https://github.com/farhanmir/playitfirst)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xamUK8so4zI)
 - **All prizes at this hackathon (1):** &#91;Capital One&#93; Best Usage of Nessie
-- **How it used Capital One:** Financial integration: Nessie V2 connects the authoritative game ledger to sandbox accounts, deposits, merchant purchases, bills, and read-only reconciliation.
+- **How it used Capital One:** After owner approval, Nessie processed the merchant purchase, and the confirmed bank balance reconciled with the game's operating cash.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -292,7 +294,7 @@ Fight the fire before you get there.
 - **Code:** [Source 1](https://github.com/tanaydonde/agni)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rfisjmBsxcM)
 - **All prizes at this hackathon (1):** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
-- **How it used ChatOverflow:** The solution uses Matterport and Costar data to find the layout and materials of a house.
+- **How it used ChatOverflow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -305,16 +307,17 @@ Fight the fire before you get there.
 
 FarCare connects three roles around one parent.
 
-[Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
+No public code linked · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** bleak, bluetooth, corebluetooth, fastapi, fitbit, google-gemini, google-health-api, langchain, next.js, node.js, oauth2, photon, pkce, postgresql, pytest, python, react, sqlite, tiger-data, timescaledb, typescript, vercel
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=d90HW1Gm-HY)
 - **All prizes at this hackathon (1):** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
+- **How it used ChatOverflow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -327,17 +330,17 @@ FarCare connects three roles around one parent.
 
 An interface powered by deep AI agents to help operators manage electrical grids during crisis.
 
-[Demo video](https://www.youtube.com/watch?v=QIxE59QN_GA) · Built with census, costar, css, deepagents
+No public code linked · [Demo video](https://www.youtube.com/watch?v=QIxE59QN_GA) · Built with census, costar, css, deepagents
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** census, costar, css, deepagents, fastapi, google-gemini, hifld, landfire, langchain, langgraph, open-meteo, openstreetmap, pydantic, pytest, python, react, three.js, typescript, vexcel, vite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QIxE59QN_GA)
 - **All prizes at this hackathon (1):** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
-- **How it used ChatOverflow:** Rewire is an operator co-pilot for the real Los Angeles grid (829 power lines, 66 kV and up).
+- **How it used ChatOverflow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -364,6 +367,7 @@ Every census tract is shaded by a need score built from HRSA shortage designatio
 - **Code:** [Source 1](https://github.com/alisx255/asclepieion-public)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=llLSV0W6s7c)
 - **All prizes at this hackathon (2):** &#91;CoStar Group&#93; Inside and Out: AI for the Built World · Best Rookie Hack
+- **How it used CoStar Group:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,7 +390,7 @@ Siteline tells clinics where to open. It learns what drives each practice, pulls
 - **Code:** [Source 1](https://github.com/archit2901/siteline)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uoMErki4yTk)
 - **All prizes at this hackathon (1):** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
-- **How it used CoStar Group:** It figures out what matters for your practice.
+- **How it used CoStar Group:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -409,7 +413,7 @@ Find your space with Stagehand! For creatives wanting to visualize before bookin
 - **Code:** [Source 1](https://github.com/sofiagrimm/hackprinceton)
 - **Demo video:** [Video 1](https://vimeo.com/1246959819)
 - **All prizes at this hackathon (1):** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
-- **How it used CoStar Group:** Pick a scanned room and press play.
+- **How it used CoStar Group:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -436,7 +440,7 @@ One in Three is an interactive and fully immersive AI simulation that puts men i
 - **Code:** [Source 1](https://github.com/limjiayi21/oneinthree)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dFNiASxPbck)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** The project lists godaddy among its Built With tags.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -475,7 +479,7 @@ A property planning tool helps developers evaluate sites and visualize them in 3
 - **Code:** [Source 1](https://github.com/sudarshan-krishnan/GeoStar_PtonHacks_2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0TEguSxAemc)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** The project lists mongodb among its Built With tags.
+- **How it used MongoDB:** MongoDB Atlas for Studio projects, decisions, Atlas Search, Vector Search, geo queries, change streams and user accounts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -504,6 +508,7 @@ Boomer helps electricians throughout an entire job, from understanding the task 
 - **Code:** [Source 1](https://github.com/Svanik-Palvai/Boomer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dKs6uc-Ands)
 - **All prizes at this hackathon (1):** &#91;Peri&#93; Forward Deployed Engineer
+- **How it used Peri:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -516,17 +521,17 @@ Boomer helps electricians throughout an entire job, from understanding the task 
 
 Lightweight, AI-powered tools built for forward-deployed engineers to adapt and deploy quickly.
 
-[Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc) · Built with anthropic-api, claude, claude-code, fastapi
+No public code linked · [Demo video](https://www.youtube.com/watch?v=v2oRRCjdOkc) · Built with anthropic-api, claude, claude-code, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** anthropic-api, claude, claude-code, fastapi, github, google-cloud-run, linear, next.js, photon, postgresql, pytest, python, react, supabase, supabase-auth, tailwind-css, typescript, vercel, vitest, zod
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=v2oRRCjdOkc)
 - **All prizes at this hackathon (1):** &#91;Peri&#93; Forward Deployed Engineer
-- **How it used Peri:** Mise is a tool box for FDE’s to integrate, build, and transform business problems in hours versus what would normally be weeks.
+- **How it used Peri:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -555,7 +560,7 @@ Turn an emergency call into an indoor rescue map. With CoStar’s 3D building da
 - **Code:** [Source 1](https://github.com/ben-du1/LifeLine)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Sw2sJuAJ5v8)
 - **All prizes at this hackathon (1):** &#91;Photon&#93; Best Voice Agent
-- **How it used Photon:** The project lists photon among its Built With tags.
+- **How it used Photon:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -578,7 +583,7 @@ Personal agent for college students that lives in iMessage - text it your syllab
 - **Code:** [Source 1](https://github.com/zhoulinhua0-star/hackprinceton-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=frTz_ULVTXY)
 - **All prizes at this hackathon (1):** &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
-- **How it used Photon:** The project lists photon among its Built With tags.
+- **How it used Photon:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -595,14 +600,14 @@ Personal agent for college students that lives in iMessage - text it your syllab
 
 16,000 people in the U.S. are still waiting for their names. One wrong branch can point to the wrong person.
 
-[Demo video](https://www.youtube.com/watch?v=DKfr1q-T7UU) · Built with solana, deepagents, gemini, google-ai-studio
+No public code linked · [Demo video](https://www.youtube.com/watch?v=DKfr1q-T7UU) · Built with solana, deepagents, gemini, google-ai-studio
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** deepagents, gemini, google-ai-studio, langchain, mongodb-atlas, node.js, playwright, python, solana, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DKfr1q-T7UU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
 - **How it used Solana:** Gemini, LangChain, MongoDB and Solana all working in one weekend, and the demo still runs offline.
@@ -632,7 +637,7 @@ Ever wanted to relive a moment in time? With Rewind, step inside your old videos
 - **Code:** [Source 1](https://github.com/SriSrik123/HackPrinceton)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
-- **How it used SpaceXSI:** Rewind puts you inside a moment from a video, using just your phone and a Google Cardboard viewer.
+- **How it used SpaceXSI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -649,14 +654,14 @@ Ever wanted to relive a moment in time? With Rewind, step inside your old videos
 
 What you deserve in your drinking water.
 
-[Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** arduino-uno, deck.gl, esp-now, esp32, fastapi, gemini-api, langchain-deepagents, langgraph, maplibre, overture, photon, python, raspberry-pi, sensors, sqlite, three.js, tiger-data/timescaledb, vite, water-filtration
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Ud5rvpX2Ixw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
 - **How it used Tiger Data:** The backend evaluates measurements against configured thresholds, tracks filter life using manufacturer-specific guidelines, and manages historical water quality data through Tiger Data.
@@ -694,6 +699,7 @@ Solar powered buoys that track water quality 200x cheaper than the next closest 
 - **Code:** [Source 1](https://github.com/3arii/hackprinceton-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q-0arEQO5fQ)
 - **All prizes at this hackathon (2):** &#91;Justin Bojarski&#93; Best Physical AI Hack · Best Sustainability Hack
+- **Sponsor use:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -716,7 +722,7 @@ Using brain activity to make the world more accessible to those with mobility di
 - **Code:** [Source 1](https://github.com/RoboDurden/Hoverboard-Firmware-Hack-Gen2.x)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bIt_TQ2hsBU)
 - **All prizes at this hackathon (2):** &#91;Justin Bojarski&#93; Best Physical AI Hack · Best Healthcare Hack
-- **How it used Other:** The project allows those who cannot use their hands to navigate using only their eyes.
+- **Sponsor use:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

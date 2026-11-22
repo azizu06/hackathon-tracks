@@ -23,6 +23,8 @@
 
 A dynamic platform for mapping real-time crisis events through peer-shared videos, empowering communities to act and stay informed.
 
+**How it used Aquareum.tv:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/bpbrianpark/CrisisLens) · Built with algorithms, css, firebase, github
 
 ### [Eventis](https://devpost.com/software/converge-u31fqw)
@@ -30,6 +32,8 @@ A dynamic platform for mapping real-time crisis events through peer-shared video
 [nwHacks 2025](../by-hackathon/nwhacks-2025.md#project-converge-u31fqw) · **Aquareum.tv Sponsor Prize**
 
 VR Conferences, Concerts, &amp; Events powered by Streamspace.
+
+**How it used Aquareum.tv:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Axzyl/nwhacks-official) · Built with faiss, llama, oculus, python
 
@@ -39,6 +43,8 @@ VR Conferences, Concerts, &amp; Events powered by Streamspace.
 
 The Story To build a community, you must first protect it.
 
+**How it used Aquareum.tv:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/eshuaiii/nwhacks-2025) · Built with flask, livepeer, postgresql, react
 
 ### [Meet.Point](https://devpost.com/software/meet-point)
@@ -46,6 +52,8 @@ The Story To build a community, you must first protect it.
 [nwHacks 2025](../by-hackathon/nwhacks-2025.md#project-meet-point) · **Aquareum.tv Sponsor Prize**
 
 Meet in person, point in virtual.
+
+**How it used Aquareum.tv:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/gracetownland/NwHacks2025) · Built with geojson, react, turf.js, typscript
 
@@ -55,6 +63,8 @@ Meet in person, point in virtual.
 
 Helping you find the perfect study spot or gym time on campus.
 
+**How it used Aquareum.tv:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/romansinkus/spotlight) · Built with figma, flask, javascript, livepeer
 
 ### [Sum-up Sundae](https://devpost.com/software/sum-up-sundae)
@@ -62,6 +72,8 @@ Helping you find the perfect study spot or gym time on campus.
 [nwHacks 2025](../by-hackathon/nwhacks-2025.md#project-sum-up-sundae) · **Aquareum.tv Sponsor Prize**
 
 "Stay connected with Sum-Up Sundae! Share quick weekly video updates with your group and catch everyone’s highlights in one fun, effortless platform.
+
+**How it used Aquareum.tv:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/tyin76/sum-up-sundae) · Built with bahnmi, bigwayhotpot, express.js, figma
 

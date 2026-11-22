@@ -23,7 +23,7 @@
 
 The system consists of two specialized machine learning models:.
 
-**How it used EigenLayer:** The team built the system by integrating EigenLayer for fetching real-time news data and Dune for pulling Ethereum price data.
+**How it used EigenLayer:** News Model: This model processes real-time news from Eigenlayer and other sources, analyzing sentiment, keywords, and market-moving narratives to gauge the impact of external events on ETH prices using the finBERT large language model.
 
 [Code](https://github.com/2pir2/TreeHack2025) · Built with eigenlayer, gnark, go, python
 
@@ -33,6 +33,8 @@ The system consists of two specialized machine learning models:.
 
 Mobile ECG with Wi-Fi capabilities that makes AI-powered diagnoses and stores data on a remote server.
 
+**How it used EigenLayer:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/fightingj305/ecgo) · [Demo video](https://www.youtube.com/watch?v=IxavWJJbxuU) · Built with c, esp32, influxdb, opacity
 
 ### [MediLedger](https://devpost.com/software/mediledger)
@@ -40,6 +42,8 @@ Mobile ECG with Wi-Fi capabilities that makes AI-powered diagnoses and stores da
 [TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-mediledger) · **Web3 Prize: Best AI Agents**
 
 A privacy-preserving drug availability search powered by EigenDA and ZK-PTLS.
+
+**How it used EigenLayer:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/shayaansultan/treehacks-final) · [Demo video](https://www.youtube.com/watch?v=N1Zv7cgQSQ0) · Built with data, eigenda, express.js, flutterflow
 

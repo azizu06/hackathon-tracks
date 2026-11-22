@@ -25,7 +25,7 @@ Matched from keywords in the project description and its tech tags.
 
 Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored.
 
-[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with arduino, arkit, lidar, meta-quest
+[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with hugging-face, nvidia-jetson, tensorrt, arduino
 
 ### [Bin-It](https://devpost.com/software/bin-it-yg2xb7)
 
@@ -33,7 +33,7 @@ Farsight combines a remotely operated rescue rover with a walkable reconstructio
 
 Bin-It lets residents report overflowing bins from a phone while a dashboard helps city staff compare candidate locations for new bins.
 
-[Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
 
 ### [Bloom](https://devpost.com/software/bloom-dvjpea)
 
@@ -49,7 +49,7 @@ A home assistant supports older adults with daily routines and keeps their famil
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-[Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
+No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
 ### [Northstar](https://devpost.com/software/northstar-7lcg45)
 
@@ -57,7 +57,7 @@ A calendar app weighs upcoming commitments against the user's energy level to he
 
 The light that guides you home.
 
-[Code](https://github.com/continuitylabs/lahacks26) · [Demo video](https://www.youtube.com/watch?v=UO3zezz21EY) · Built with fetch.ai, zetic, elevenlabs, expo.io
+[Code](https://github.com/continuitylabs/lahacks26) · [Demo video](https://www.youtube.com/watch?v=UO3zezz21EY) · Built with fetch.ai, melange, zetic, elevenlabs
 
 ### [okidoki](https://devpost.com/software/okidoki)
 
@@ -65,7 +65,7 @@ The light that guides you home.
 
 an ai teammate in your cursor.
 
-[Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, moss, accessibility-api, anthropic
+No public code linked · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, moss, accessibility-api, anthropic
 
 ### [Shepherd](https://devpost.com/software/raising-cane)
 
@@ -81,7 +81,7 @@ A smart cane that guides indoor and outdoor navigation for blind people, costing
 
 Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day forecasts, and prescription actions telling you which fields to act on and what it saves.
 
-[Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
 
 ### [transPEAKtation](https://devpost.com/software/transpeaktation)
 
@@ -201,7 +201,7 @@ Cropt: AI-powered crop disease detector that works completely offline. Snap a ph
 
 This is Degrees, a social app that turns one-off interactions into continued relationships. The only app designed to give you continued real world interactions with a growing network of friends.
 
-[Code](https://github.com/prbhagam/degrees) · [Demo video](https://www.youtube.com/watch?v=icFwk9vNgV4) · Built with gemini-embeddings, google-gemini, expo-camera, expo-router
+[Code](https://github.com/prbhagam/degrees) · [Demo video](https://www.youtube.com/watch?v=icFwk9vNgV4) · Built with gemini-embeddings, google-gemini, google-maps, google-places
 
 ### [dibs](https://devpost.com/software/dibs-8upsd4)
 
@@ -217,7 +217,7 @@ An app where AI agents read every nearby store's Instagram, TikTok, and website 
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-[Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with ar-foundation, arcore, android, android-speech-recognizer
+No public code linked · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 ### [Dronautics](https://devpost.com/software/dronautics)
 
@@ -225,7 +225,7 @@ A mobile accessibility tool uses walls and room signs to place an indoor AR rout
 
 A drone control system combines local detection and GPS tracking using low-cost hardware.
 
-[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, esp-now, esp32, u-blox
+[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, bytetrack, c++, cuda
 
 ### [Feel The Music](https://devpost.com/software/feel-the-music)
 
@@ -249,7 +249,7 @@ A LiDAR iPhone and a 24-pin palm puck that turn the room into touch. Feel what�
 
 A game tells the story of a ghost through passes in Apple Wallet.
 
-[Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
+No public code linked · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
 
 ### [GoTrail](https://devpost.com/software/gotrail)
 
@@ -257,7 +257,7 @@ A game tells the story of a ghost through passes in Apple Wallet.
 
 A hiking app gives users activities to complete outside and helps clinicians suggest walks.
 
-[Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
+No public code linked · [Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
 
 ### [Hazard Intelligence](https://devpost.com/software/hazard-intelligence)
 
@@ -273,7 +273,7 @@ A robotics team collects human skiing and hiking motions to train a humanoid on 
 
 A hands-free recipe player lets families cook along to recordings made by their relatives.
 
-[Code](https://github.com/calebwang26/homecookd) · [Demo video](https://www.youtube.com/watch?v=8Ibl2QnL9dw) · Built with gemini, google-cloud, google-cloud-run, anthropic
+[Code](https://github.com/calebwang26/homecookd) · [Demo video](https://www.youtube.com/watch?v=8Ibl2QnL9dw) · Built with gemini, google-cloud, google-cloud-run, google-compute-engine
 
 ### [House Rules](https://devpost.com/software/house-rules-dfzg75)
 
@@ -305,7 +305,7 @@ Interlude is a companion for the whole care cycle: before, during, and after eve
 
 LifeLine is a disaster recovery platform that connects residents, responders, and organizations in real time.
 
-[Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
 ### [Lullabuy](https://devpost.com/software/lullabuy)
 
@@ -321,7 +321,7 @@ See the recall before your money moves. Lullabuy holds a Visa payment until a ca
 
 One who understands: your healthcare, handled.
 
-[Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
+No public code linked · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
 
 ### [Myst](https://devpost.com/software/myst-78dz52)
 
@@ -369,7 +369,7 @@ PinkyPromise is a research-backed scam-prevention application that helps users r
 
 Providence unifies your devices and AI conversations through one superagent that carries context between tasks and coordinates work across devices simultaneously, all from a single interface.
 
-[Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
 
 ### [Re:collection](https://devpost.com/software/re-collection)
 
@@ -417,7 +417,7 @@ But how does it know where the defects are.
 
 Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from the first conversation with the patient to the end of the operation.
 
-[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with .tech, blender, c#, cloudflare
+[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with spacetimedb, .tech, blender, c#
 
 ### [Scrubs](https://devpost.com/software/scrubs)
 
@@ -449,7 +449,7 @@ Commute used to be dead time. Shotgun turns your car into an AI agent that rides
 
 One iPhone walkthrough builds a complete listing. Renters speed-tour real homes in VR, say what they love or hate, and see if their own couch fits before they ever visit.
 
-[Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
+No public code linked · [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJc) · Built with apify, arduino, arkit, bright-data
 
 ### [skarl.](https://devpost.com/software/skarl)
 
@@ -481,7 +481,7 @@ Personal agent for college students that lives in iMessage - text it your syllab
 
 A cozy bear that families can use to share stories with their loved ones.
 
-[Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
+No public code linked · [Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
 
 ### [The Orchestration Company of Palo Alto](https://devpost.com/software/the-orchestration-company-of-palo-alto)
 
@@ -521,7 +521,7 @@ A nursing-home monitoring system learns each resident's baseline and flags chang
 
 Turn trash into cash: report litter, clean it up, get paid in Solana.
 
-[Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
+No public code linked · [Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
 
 ## 2025 winners
 
@@ -539,7 +539,7 @@ The hack provides the user a navigational interface similar to other popular nav
 
 Splitting bills with friends is messy—receipts get lost, people forget to pay, and tracking balances is a headache. SolShare fixes this: scan, assign, and settle instantly on Solana.
 
-Built with cohere, solana, firebase, gcp
+No public code linked · Built with cohere, solana, firebase, gcp
 
 ### [Alto](https://devpost.com/software/alto)
 
@@ -547,7 +547,7 @@ Built with cohere, solana, firebase, gcp
 
 Find, Fix, and Deploy Mobile Bug Fixes - Autonomously, in Minutes.
 
-[Demo video](https://www.youtube.com/watch?v=qFEYKyMW6tA) · Built with uagents, asi-1, flask, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=qFEYKyMW6tA) · Built with uagents, asi-1, flask, gemini
 
 ### [AutoCPT](https://devpost.com/software/autocpt)
 
@@ -611,7 +611,7 @@ A Mastra AI-Agent powered goal tracker that gamifies your goals.
 
 See the world. Speak its stories.
 
-[Code](https://github.com/skatari172/Hermes) · [Demo video](https://www.youtube.com/watch?v=DD6ZQVk9QJE) · Built with gemini-vision, fastapi, firestore, google-adk
+[Code](https://github.com/skatari172/Hermes) · [Demo video](https://www.youtube.com/watch?v=DD6ZQVk9QJE) · Built with gemini-vision, google-adk, fastapi, firestore
 
 ### [Item2Art (formerly Art2Life)](https://devpost.com/software/item2life)
 
@@ -691,7 +691,7 @@ RippleRelief is a web app that connects donors, NGOs, recipients, and merchants 
 
 Sideline turns watching into experiencing. With real-time updates, interactive challenges, and friendly rivalries that make every play matter, you’re not just watching the game… you’re part of it.
 
-[Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY8) · Built with expo.io, express.js, firebase, firestore
+No public code linked · [Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY8) · Built with expo.io, express.js, firebase, firestore
 
 ### [SkinForReal](https://devpost.com/software/skinforreal)
 
@@ -699,7 +699,7 @@ Sideline turns watching into experiencing. With real-time updates, interactive c
 
 SkinForReal is a GenAI skincare app that uses daily selfies to detect skin issues, track product impact, and deliver personalized, real-time insights and safety alerts.
 
-[Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, faceai, flutter
+No public code linked · [Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, vscode, faceai
 
 ### [Snuz](https://devpost.com/software/snuz)
 
@@ -739,7 +739,7 @@ Intelligent, Efficient, Crypto Donation Platform powered by AI agents.
 
 a cognition copilot that distills your thoughts from pen to perspective.
 
-[Code](https://github.com/RALS-TreeHacks-25/backend) · [Demo video](https://www.youtube.com/watch?v=qbKc0O2uQv8) · Built with agents, ai, elasticsearch, embeddings
+[Code](https://github.com/RALS-TreeHacks-25/backend) · [Demo video](https://www.youtube.com/watch?v=qbKc0O2uQv8) · Built with elasticsearch, agents, ai, embeddings
 
 ### [UpGuardian](https://devpost.com/software/upguard)
 
@@ -755,7 +755,7 @@ Struggling with accidentally making subtle breaking changes to your APIs? Are th
 
 In life-or-death moments, guessing isn’t an option. Deploy a robot swarm that maps hazards, learns from one another's mistakes, and guides everyone to a safe exit.
 
-[Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
+No public code linked · [Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
 
 ## 2024 winners
 
@@ -797,7 +797,7 @@ Automated Medication Scanner and Tracker Powered by Computer Vision.
 
 This was a new experience when it came to handling large local files and overall integration.
 
-[Demo video](https://www.youtube.com/watch?v=vSVR6ap2Z0c) · Built with amazon-web-services, css, ec2, expo.io
+No public code linked · [Demo video](https://www.youtube.com/watch?v=vSVR6ap2Z0c) · Built with matlab, amazon-web-services, css, ec2
 
 ### [AllBank: Inclusive, Intelligent, Impactful](https://devpost.com/software/allbank)
 
@@ -821,7 +821,7 @@ Your personal prescription and medical symptom tracking companion.
 
 What your heart and mind really have to say.
 
-[Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
+No public code linked · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
 
 ### [CognitiveKeyboard](https://devpost.com/software/cognitivekeyboard)
 
@@ -829,7 +829,7 @@ What your heart and mind really have to say.
 
 CognitiveKeyboard is an alternative Android keyboard that updates a user’s typing statistics every 30 seconds.
 
-[Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
+No public code linked · [Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
 
 ### [FairShare](https://devpost.com/software/fair-share-nt0qx7)
 
@@ -837,7 +837,7 @@ CognitiveKeyboard is an alternative Android keyboard that updates a user’s typ
 
 FairShare: Get Your Piece of the Financial Pie with AI-Powered Expense Splitting.
 
-Built with css, javascript, react-native
+No public code linked · Built with css, javascript, react-native
 
 ### [FRED](https://devpost.com/software/fred-bpszwn)
 
@@ -845,7 +845,7 @@ Built with css, javascript, react-native
 
 FRED is a satellite-powered emergency response tool that allows users in remote areas to send GPS coordinates, images, and voice data to responders, ensuring help can be dispatched from anywhere.
 
-[Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
+No public code linked · [Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
 
 ### [Futon](https://devpost.com/software/futon)
 
@@ -901,7 +901,7 @@ A gateway for blind/visually impaired people to experience the world independent
 
 Easily get the money you need when you need it most.
 
-Built with propelauth, cloudflare, javascript, json
+No public code linked · Built with propelauth, cloudflare, javascript, json
 
 ### [Poker Face](https://devpost.com/software/poker-face)
 
@@ -909,7 +909,7 @@ Built with propelauth, cloudflare, javascript, json
 
 Democratizing pro-level Poker play in real-time with computer vision.
 
-[Demo video](https://www.youtube.com/watch?v=RsqhOLFsGEw) · Built with gemini, async-storage, endpoint-api, fastapi
+No public code linked · [Demo video](https://www.youtube.com/watch?v=RsqhOLFsGEw) · Built with gemini, google-breadboard, async-storage, endpoint-api
 
 ### [Talk Tuah](https://devpost.com/software/talk-tuah)
 
@@ -977,7 +977,7 @@ A community that encourages and challenges people who stutter to practice speech
 
 Making ridesharing safer and more accessible.
 
-[Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
 
 ### [SafeLink](https://devpost.com/software/safelink-029txi)
 
@@ -985,7 +985,7 @@ Making ridesharing safer and more accessible.
 
 SafeLink is an app for drivers and monitors.
 
-Built with ford, amazon-cognito, amazon-web-services, android
+No public code linked · Built with ford, amazon-cognito, amazon-web-services, android
 
 ### [Verifast](https://devpost.com/software/verifast)
 
@@ -993,7 +993,7 @@ Built with ford, amazon-cognito, amazon-web-services, android
 
 Very fast, secure log in systems for healthcare professionals.
 
-Built with electron, ios, node.js, swift
+No public code linked · Built with electron, ios, node.js, swift
 
 ## 2018 winners
 
@@ -1011,7 +1011,7 @@ An Augmented Reality Powered Checkers Assistant.
 
 It passively senses the alcohol levels in a vehicle using a gas sensor that can be embedded into a car’s wheel or seat.
 
-Built with android-studio, arduino
+No public code linked · Built with android-studio, arduino
 
 ### [Hotspot](https://devpost.com/software/hotspot-i2x0bm)
 
@@ -1035,7 +1035,7 @@ Distributed mobile cloud computing, harnessing the power of idle devices to perf
 
 OnTheWay is an innovative P2P delivery system that harnesses the power of pre-existing routes to minimize the need for inconvenient, long-distance trips and therefore reduce environmental impact.
 
-Built with android-studio, express.js, node.js
+No public code linked · Built with android-studio, express.js, node.js
 
 ## 2017 winners
 
@@ -1053,7 +1053,7 @@ TravelAR is an iOS travel application built using Apple's ARKit.
 
 Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs.
 
-Built with flask, giphy-api, google-cloud-vision, ibm-watson
+No public code linked · Built with flask, giphy-api, google-cloud-vision, ibm-watson
 
 ### [MIT Sorting Hat, Harry Potter Style](https://devpost.com/software/mit-sorting-hat)
 
@@ -1061,7 +1061,7 @@ Built with flask, giphy-api, google-cloud-vision, ibm-watson
 
 Find your dorm culture fit Harry Potter Style.
 
-Built with android, arduino, c++, hardware
+No public code linked · Built with android, arduino, c++, hardware
 
 ### [SeQR Scanner and Generator](https://devpost.com/software/seqr-scanner-and-generator)
 
@@ -1069,7 +1069,7 @@ Built with android, arduino, c++, hardware
 
 The product encrypts QR codes such that, if scanned by someone who is not authorized to see them, they present an incomprehensible amalgamation of symbols.
 
-Built with firebase, crypto, express.js, javascript
+No public code linked · Built with firebase, crypto, express.js, javascript
 
 ## 2016 winners
 
@@ -1079,7 +1079,7 @@ Built with firebase, crypto, express.js, javascript
 
 Ethereum Piggy lets you save money with a virtual Piggy Bank.
 
-Built with coinbase, ethereum, ios
+No public code linked · Built with coinbase, ethereum, ios
 
 ### [Picky Pusheen](https://devpost.com/software/picky-pusheen)
 
@@ -1095,7 +1095,7 @@ A mobile app that pairs friends together for everyday activities such as eating 
 
 Pusheen + psychology research = healthier eating habits via mobile app.
 
-Built with css, flask, javascript, monkeylearn
+No public code linked · Built with css, flask, javascript, monkeylearn
 
 ### [Pusheen Sell](https://devpost.com/software/pusheen-sell)
 
@@ -1103,7 +1103,7 @@ Built with css, flask, javascript, monkeylearn
 
 An easy way to sell your stuff – just push, and sell.
 
-Built with firebase, ios, pusheen, swift
+No public code linked · Built with firebase, ios, pusheen, swift
 
 ### [Smart Drone Delivery Planning](https://devpost.com/software/smart-drone-delivery-planning)
 
@@ -1111,7 +1111,7 @@ Built with firebase, ios, pusheen, swift
 
 An iOS app for multi-drone multi-package planning, that supports variable drone capacity and package weights.
 
-Built with apple-maps, swift
+No public code linked · Built with apple-maps, swift
 
 ### [TourDeMarsVR](https://devpost.com/software/tourdemarsvr)
 
@@ -1119,7 +1119,7 @@ Built with apple-maps, swift
 
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
-Built with firebase, arduino, c++, google-cardboard
+No public code linked · Built with firebase, google-cardboard, arduino, c++
 
 ## 2013 winners
 
@@ -1129,7 +1129,7 @@ Built with firebase, arduino, c++, google-cardboard
 
 The aim of the project to create automated windows, which open and close to maximize energy conservation.
 
-Built with twilio, android, arduino, electric-imp
+No public code linked · Built with twilio, android, arduino, electric-imp
 
 ### [BeaconViewer](https://devpost.com/software/beaconviewer)
 
@@ -1137,12 +1137,14 @@ Built with twilio, android, arduino, electric-imp
 
 BeaconViewer and BeaconBroadcaster are iOS applications that utilize iOS7's new iBeacons feature to provide easy access and creation of supplemental information for physical items or events.
 
-Built with firebase, ios
+No public code linked · Built with firebase, ios
 
 ### [Pebble Go](https://devpost.com/software/pebble-go)
 
 [HackMIT 2013](../by-hackathon/hackmit-2013.md#project-pebble-go)<br>[Kleiner Perkins](../by-sponsor/kleiner-perkins.md) · **KPCB - KPCB Fellows Award**
 
 The team developed two applications that work together on the Android phone and the Pebble smartwatch.
+
+No public code linked
 
 [Back to top](#mobile-app)

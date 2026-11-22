@@ -33,6 +33,8 @@ Buy! is an AI agent marketplace that sells your stuff for you.
 
 Stop guessing gifts! Concierge lets 2 Poke agents collaborate with shared context across your email, the web, and your texts, then auto-finds and configures the perfect buy via Browserbase web agents.
 
+**How it used Browserbase:** Finally, a browser automation agent uses Browserbase + Stagehand to find the right gift, configure the right variant (size, color, model), and generate a ready-to-checkout link with an estimated final price.
+
 [Code](https://github.com/andaero/treehacks26) · [Demo video](https://www.youtube.com/watch?v=fjbazc6t0t4) · Built with browserbase, bun, fastmcp, next.js
 
 ### [Constructa](https://devpost.com/software/constructa)
@@ -40,6 +42,8 @@ Stop guessing gifts! Concierge lets 2 Poke agents collaborate with shared contex
 [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-constructa) · **Best Use of Browserbase**
 
 A property planning tool lets builders compare potential sites, visualize projects, and organize permit paperwork.
+
+**How it used Browserbase:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/shubhaych/Constructa) · [Demo video](https://www.youtube.com/watch?v=Wa2UlZcN85A) · Built with browserbase-(headless-scraping), playwright-(image-verification-with-browserbase), agentverse, anthropic-claude-sdk
 
@@ -68,6 +72,8 @@ An AI undercover agent to detect and intercept online drug advertising.
 [Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-plus1-1imlbz) · **Best Use of Browserbase**
 
 plus1 joins your Google Meet with a face and a voice, is an expert in whatever you need, and can take on action items or screenshare.
+
+**How it used Browserbase:** Browserbase + Stagehand. browserbaseWork.ts and jevAgent.ts run a cloud Chrome session: Stagehand act / extract steps (Maps search, FEMA lookups, form fields), Gemini for the step planner, and every step logged with an ok/fail detail.
 
 [Code](https://github.com/DonaldKLee/plus1) · [Demo video](https://www.youtube.com/watch?v=0zWkyvdc30Y) · Built with browserbase, elevenlabs, federato, gemini
 

@@ -33,7 +33,9 @@ Raw watts or joules-per-token misses the carbon picture entirely.
 
 GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
 
-[Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
+**How it used Zed:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
 
 ### [Leaf - A Modern, Sustainable LLM Interface](https://devpost.com/software/leaf-10tjin)
 

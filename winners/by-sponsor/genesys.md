@@ -23,6 +23,8 @@
 
 BeyondSight is a full wearable ecosystem designed to empower DeafBlind individuals with independence, communication, and safety.
 
+**How it used Genesys:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/WhyILived/BeyondSight) · [Demo video](https://www.youtube.com/watch?v=tEvHlx3xCRA) · Built with genesys, docker, elevenlabs, python
 
 ## 2024 winners
@@ -33,7 +35,7 @@ BeyondSight is a full wearable ecosystem designed to empower DeafBlind individua
 
 the.right.(and.intelligent).new.training method for customers and support agents.
 
-**How it used Genesys:** traint was built using the following technologies: Next.js React, Tailwind and shadcn/ui Voiceflow API Groq API Genesys API.
+**How it used Genesys:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/efliu7/hackthenorth2024) · [Demo video](https://www.youtube.com/watch?v=27zgZ8F4CUA) · Built with genesys, css, groq, html
 

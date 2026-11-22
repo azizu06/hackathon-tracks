@@ -23,6 +23,8 @@
 
 Augmenting ordinary paper with new interactive experiences.
 
+**How it used Philips:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/adityavishwanath/augmented_paper) · Built with arduino, c++, google-cloud, python
 
 ## Track names and requirements

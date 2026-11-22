@@ -71,7 +71,7 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 - **All prizes at this hackathon (3):** Cohere: Best Use of Cohere · Convex: Best App and Startup Idea Built on Convex · Web Summit: Web Summit challenge
 - **How it used Cohere:** Cohere embeds attendee bios and interests so the matching pipeline can compare profiles and suggest connections.
 - **How it used Convex:** Convex stores profiles across events and handles live chat and authentication tokens.
-- **How it used Web Summit:** Cross-Event Persistence : Unlike traditional event-specific apps, Excus.the team stays with users across multiple events, building a comprehensive profile and network over time.
+- **How it used Web Summit:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -84,18 +84,18 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 
 Take a picture, get a 3D print of it.
 
-[Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g0) · Built with groq, masv, 3dprinting, ai
+No public code linked · [Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g0) · Built with groq, masv, 3dprinting, ai
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** 3dprinting, ai, cohere, groq, masv, meta, python, rbc, react, voiceflow
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1F65Qt2n9g0)
 - **All prizes at this hackathon (2):** Groq: Best App Built on Groq · MASV
-- **How it used Groq:** The project lists groq among its Built With tags.
-- **How it used MASV:** The project lists masv among its Built With tags.
+- **How it used Groq:** Sponsor use not stated on Devpost
+- **How it used MASV:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -118,7 +118,8 @@ Fight for the top position in a HackTheNorth lip-syncing challenge.
 - **Code:** [Source 1](https://github.com/KaranChawlaD/lipslipsrevolution)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=C_vZ8xYM-pw)
 - **All prizes at this hackathon (2):** Best Use of MongoDB Atlas · Symphonic Labs: Best use of Symphonic Labs API
-- **How it used MongoDB:** The team’re using OpenAI’s embedding models to determine the lip sync’s accuracy/similarity and MongoDB as the database for score data.
+- **How it used MongoDB:** The team uses MongoDB to store lip-sync scores.
+- **How it used Symphonic Labs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -142,7 +143,7 @@ If you can dream it, Rex will find it.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=A5594U-kSKc)
 - **All prizes at this hackathon (2):** MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK · Voiceflow: Best Non-Chatbot AI Agent Built on Voiceflow
 - **How it used MappedIn:** Supabase was used to connect the Raspberry Pi, VoiceFlow Agent, and Mappedin wayfinding.
-- **How it used Voiceflow:** The team used VoiceFlow's Supabase integration to log a request in the database to begin a trip in the database (that the Raspberry Pi picks up on).
+- **How it used Voiceflow:** The team used a custom knowledge base on VoiceFlow to customize the agent to be very specific to the different rooms in E7 and point of interests at Hack the North.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -165,8 +166,8 @@ Sometimes online shopping can be dull, and most of all, turn away customers who 
 - **Code:** [Source 1](https://github.com/BenBoguslavsky18/HTN_VR)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=igOuQHgEvto)
 - **All prizes at this hackathon (2):** Shopify API Challenge · Ubisoft: Ubisoft Game Dev Challenge
-- **How it used Shopify:** The project lists shopify among its Built With tags.
-- **How it used Ubisoft:** The user that enters the virtual clothing store may choose between a black/yellow shirt, and black/tropical pants which are products from an online Shopify store (see screenshots).
+- **How it used Shopify:** Yellow shirt, black shirt, tropical shorts and black pants on the Shopify-hosted store.
+- **How it used Ubisoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -189,7 +190,7 @@ A Pomodoro timer that keeps you on track, summarizes your browsing, and turns st
 - **Code:** [Source 1](https://github.com/jrang188/hack-the-north-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7Msy0SZR9cY)
 - **All prizes at this hackathon (2):** Cohere: Best Use of Cohere · Defang: Best Use of Defang
-- **How it used Cohere:** The project lists cohere among its Built With tags.
+- **How it used Cohere:** Sponsor use not stated on Devpost
 - **How it used Defang:** The team deployed the backend using Defang.
 - **Checked on Devpost:** 2026-11-21
 
@@ -213,8 +214,8 @@ the.right.(and.intelligent).new.training method for customers and support agents
 - **Code:** [Source 1](https://github.com/efliu7/hackthenorth2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=27zgZ8F4CUA)
 - **All prizes at this hackathon (2):** Genesys: Empowering Empathetic Experiences - Unleashing the Power of Genesys Cloud APIs · Voiceflow: Best Non-Chatbot AI Agent Built on Voiceflow
-- **How it used Genesys:** traint was built using the following technologies: Next.js React, Tailwind and shadcn/ui Voiceflow API Groq API Genesys API.
-- **How it used Voiceflow:** traint was built using the following technologies: Next.js React, Tailwind and shadcn/ui Voiceflow API Groq API Genesys API.
+- **How it used Genesys:** Sponsor use not stated on Devpost
+- **How it used Voiceflow:** The Voiceflow API was used mainly to develop the two customer archetypes.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -270,7 +271,7 @@ GenomIQ streamlines plasmid engineering by combining AI-powered gene generation 
 - **Code:** [Source 1](https://github.com/nomitchell/genomiq)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Chroma: Retrieval for AI
-- **How it used Chroma:** The project lists chroma among its Built With tags.
+- **How it used Chroma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -297,7 +298,7 @@ Tired of character limits on ChatGPT? Look no further than LLM Pro Max.
 - **Code:** [Source 1](https://github.com/gigabite-pro/LLM-pro-max)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Bm1PYdzCPac)
 - **All prizes at this hackathon (1):** Codegen: Build an Iron Man suit for ChatGPT
-- **How it used Codegen:** LLM Pro Max intelligently breaks a codebase into manageable chunks and feeds only the relevant information to the LLM, ensuring token efficiency and improved response accuracy.
+- **How it used Codegen:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,7 +321,7 @@ Ever lost your keys? Forgot if you turned off the oven.
 - **Code:** [Source 1](https://github.com/darryltanzil/reCall)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WPjF2uRGGKA)
 - **All prizes at this hackathon (1):** Codegen: Build an Iron Man suit for ChatGPT
-- **How it used Codegen:** This can help with knowing where you placed your keys, if you locked your door/garage, and other day to day life.
+- **How it used Codegen:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -349,7 +350,7 @@ Empowering Vision Through Voice. Revolutionizing indoor mobility with real-time,
 - **Code:** [Source 1](https://github.com/akjadhav/hackthenorth-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wdksaTAZA7A)
 - **All prizes at this hackathon (2):** Cohere: Best Use of Cohere · Hack the North 2024 Finalists
-- **How it used Cohere:** The project lists cohere among its Built With tags.
+- **How it used Cohere:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -376,6 +377,7 @@ A vulnerability scanner and WiFi penetration tool, using Raspberry Pi. Designed 
 - **Code:** [Source 1](https://github.com/ACCISA/Vanguard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Working in an Air-Gapped Environment
+- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -404,7 +406,7 @@ Also won this track: [excus.us](#project-excus-us) (listed above)
 - **Code:** [Source 1](https://github.com/ddynamix/HackTheNorth2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=spMJ8vr8XnA)
 - **All prizes at this hackathon (1):** Convex: Best App and Startup Idea Built on Convex
-- **How it used Convex:** The project lists convex among its Built With tags.
+- **How it used Convex:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -421,17 +423,17 @@ Also won this track: [excus.us](#project-excus-us) (listed above)
 
 What your heart and mind really have to say.
 
-[Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
+No public code linked · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** amazon-web-services, databricks, fastapi, groq, python, react, react-native, render, swift, typescript
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AEJ2ikDVvMo)
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
-- **How it used Databricks:** There is also an opportunity for future extension in collecting streaming data of the user’s brain waves / heart rate information for more intensive processing using Databricks’ pipelines.
+- **How it used Databricks:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -460,6 +462,7 @@ The team gained valuable experience in integrating proximity detection systems w
 - **Code:** [Source 1](https://github.com/qiz-li/loolooloo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z4kfvKR1sek)
 - **All prizes at this hackathon (1):** Defang: Best Use of Defang
+- **How it used Defang:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -482,7 +485,7 @@ LaTeX made easy. Speech to code in real time.
 - **Code:** [Source 1](https://github.com/leozhang14/VerbaTeX)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Defang: Best Use of Defang
-- **How it used Defang:** The project lists defang among its Built With tags.
+- **How it used Defang:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -509,7 +512,7 @@ Empowering startups and small investors through a decentralized, transparent, an
 - **Code:** [Source 1](https://github.com/shardaishwak/htn-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HjSpr-ZNBmM)
 - **All prizes at this hackathon (1):** ETHGlobal: Ethereum's Infinite Garden
-- **How it used ETHGlobal:** To achieve this, the platform leverages blockchain technology and the DAO structure.
+- **How it used ETHGlobal:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -536,7 +539,7 @@ Personalized stock insights scraped from your favourite websites.
 - **Code:** [Source 1](https://github.com/jnathan02222/htn-project)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best DEI Hack sponsored by Fidelity
-- **How it used Fidelity:** This website automatically scrapes news articles from the domain of the user's choosing to gather the latests updates and reports on various companies.
+- **How it used Fidelity:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -569,7 +572,7 @@ Seeing geese all over campus? Well now you can befriend and study with them.
 - **Code:** [Source 1](https://github.com/eyevyl/gooseontheloose)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Goose on the Loose allows the user to "capture" geese across the Waterloo campus and beyond by snapping a photo using their phone camera.
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -598,7 +601,7 @@ Automate your notes so that you can focus on listening :).
 - **Code:** [Source 1](https://github.com/HTN-2024-AI-App/NoteHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6Eo_dfUz-wI)
 - **All prizes at this hackathon (1):** Groq: Best App Built on Groq
-- **How it used Groq:** The project lists groq among its Built With tags.
+- **How it used Groq:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -642,17 +645,17 @@ When you're at Hack the North... but still want pizza.
 
 Flashback is a VR experience that transforms your cherished memories into immersive, interactive exhibits. Relive key moments as photos, videos, and soundbites come alive in 3D environments.
 
-[Demo video](https://www.youtube.com/watch?v=heeJFvhzwao) · Built with c#, convex, express.js, figma
+No public code linked · [Demo video](https://www.youtube.com/watch?v=heeJFvhzwao) · Built with c#, convex, express.js, figma
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** c#, convex, express.js, figma, materialui, node.js, react, spotifyapi, unity
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=heeJFvhzwao)
 - **All prizes at this hackathon (2):** Hack the North 2024 Finalists · Intuit: Win a VR Headset!
-- **How it used Intuit:** Flashback is a VR experience that transforms your personal memories and achievements into interactive, immersive museum exhibits.
+- **How it used Intuit:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -681,7 +684,7 @@ A social app for uncovering university locations and competing with friends.
 - **Code:** [Source 1](https://github.com/HTN-2024-LooGuessr/LooGuessr)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK
-- **How it used MappedIn:** A social media app for students to share daily images of their campus and earn points by accurately guessing the locations of their friend's image.
+- **How it used MappedIn:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -704,7 +707,7 @@ SecureStep is a smart walking cane designed for seniors in old age homes, respon
 - **Code:** [Source 1](https://github.com/Aidan-Hynes/SecureStep)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qb31FZBE7Ng)
 - **All prizes at this hackathon (1):** MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK
-- **How it used MappedIn:** The project lists mappedin among its Built With tags.
+- **How it used MappedIn:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -743,7 +746,7 @@ Earn and burn rewards points by making green choices 🔥.
 - **Code:** [Source 1](https://github.com/jeffrey-zang/ecorewards)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xUVjvFS3gB4)
 - **All prizes at this hackathon (1):** RBC: RBC Avion Rewards – Making Your Point with Our Points
-- **How it used RBC:** The project lists rbc-avion-api among its Built With tags.
+- **How it used RBC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -766,7 +769,7 @@ Your #1 financial advisor that knows everything about your current spending, you
 - **Code:** [Source 1](https://github.com/asavy79/hack-the-north-budget-tracker)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3O8A6GM1vic)
 - **All prizes at this hackathon (1):** RBC: RBC Avion Rewards – Making Your Point with Our Points
-- **How it used RBC:** The project lists rbc among its Built With tags.
+- **How it used RBC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -814,17 +817,17 @@ Spy on your enemies (or your friends) by reading their lips through a live drone
 
 Unmute is designed for those private moments during video calls when you can't speak out loud, yet still want to fully participate in the conversation.
 
-Built with figma, flask, react, symphonic
+No public code linked · Built with figma, flask, react, symphonic
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** figma, flask, react, symphonic, typescript, vite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Symphonic Labs: Best use of Symphonic Labs API
-- **How it used Symphonic Labs:** The team like to introduce you to Unmute, your solution to clear and efficient virtual communication.
+- **How it used Symphonic Labs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -853,6 +856,7 @@ The team describes the project as “But Gesse get no merch”.
 - **Code:** [Source 1](https://github.com/nayanmapara/GeeseLoveMerch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cepJ_1Lz2-g)
 - **All prizes at this hackathon (1):** Ubisoft: Ubisoft Game Dev Challenge
+- **How it used Ubisoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -875,7 +879,7 @@ Hackathons aren't always about improving the world. Sometimes they're about savi
 - **Code:** [Source 1](https://github.com/Greb-the-awesome/hack-the-bomb)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Ubisoft: Ubisoft Game Dev Challenge
-- **How it used Ubisoft:** Hack the Bomb is a scavenger hunt game where the player goes around the E7 building solving puzzles and getting codes to defuse the bomb.
+- **How it used Ubisoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -888,17 +892,17 @@ Hackathons aren't always about improving the world. Sometimes they're about savi
 
 A VR game about catching and firing arrows to delay the inevitable.
 
-[Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
+No public code linked · [Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** c#, oculus, unity
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VMygnUvt998)
 - **All prizes at this hackathon (1):** Ubisoft: Ubisoft Game Dev Challenge
-- **How it used Ubisoft:** It entertains (and it's good at it too!).
+- **How it used Ubisoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -931,6 +935,7 @@ Schema generation : users provide a website URL and an empty JSON schema, which 
 - **Code:** [Source 1](https://github.com/Zackydout101/htn)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uMJXzlMF9NI)
 - **All prizes at this hackathon (1):** Warp: Best Developer Tool by Warp
+- **How it used Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -959,7 +964,7 @@ Empowering Founder and VC Discovery and with You and Your Voice.
 - **Code:** [Source 1](https://github.com/dannyl1u/aligned.ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IsymCVWdaI0)
 - **All prizes at this hackathon (1):** Web Summit: Web Summit challenge
-- **How it used Web Summit:** Aligned.ai is a matchmaking platform designed to connect individuals in the startup ecosystem based on deep personality and goal alignment.
+- **How it used Web Summit:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -972,16 +977,17 @@ Empowering Founder and VC Discovery and with You and Your Voice.
 
 The team saw an opportunity to reimagine how people connect by creating a more dynamic and visual way of representing relationships formed at events.
 
-[Demo video](https://www.youtube.com/watch?v=tUX08bXxr2I) · Built with ai, cohere, convex, figma
+No public code linked · [Demo video](https://www.youtube.com/watch?v=tUX08bXxr2I) · Built with ai, cohere, convex, figma
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ai, cohere, convex, figma, git, node.js, react, semantic-search, typescript, vectorization, vite
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tUX08bXxr2I)
 - **All prizes at this hackathon (1):** Web Summit: Web Summit challenge
+- **How it used Web Summit:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

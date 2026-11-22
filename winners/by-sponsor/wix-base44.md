@@ -23,7 +23,9 @@
 
 With AWF, private flight managers are able to easily access a complete report of the entire state of their operations, from individual employee management to customer relations &amp; metrics.
 
-[Demo video](https://vimeo.com/1122618072) · Built with base44, cloudskyapi, oauth, react
+**How it used Wix / Base44:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://vimeo.com/1122618072) · Built with base44, cloudskyapi, oauth, react
 
 ### [EcoSort](https://devpost.com/software/ecosort-ofyuie)
 
@@ -31,7 +33,9 @@ With AWF, private flight managers are able to easily access a complete report of
 
 The app EcoSort makes sustainability simple by helping people build better recycling and donation habits.
 
-[Demo video](https://www.youtube.com/watch?v=p3F8s9jy8qk) · Built with base44, css, github, javascript
+**How it used Wix / Base44:** The app was developed using Vibe Code on the Base44 platform and later uploaded to GitHub for collaboration.
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=p3F8s9jy8qk) · Built with base44, css, github, javascript
 
 ### [MoneySensei](https://devpost.com/software/moneysensei)
 
@@ -39,7 +43,9 @@ The app EcoSort makes sustainability simple by helping people build better recyc
 
 Smart student budgeting app that gives students from monthly financial plans to personalized tips with an AI-generated financial education section that make students stay on top of their finances.
 
-[Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
+**How it used Wix / Base44:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
 
 ## Track names and requirements
 

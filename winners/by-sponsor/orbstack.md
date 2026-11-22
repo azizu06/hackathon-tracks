@@ -23,6 +23,8 @@
 
 interactive multimodal AI experiences for neurodivergent learners run entirely on the edge.
 
+**How it used Orbstack:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/zcsabbagh/zu-lm) · [Demo video](https://www.youtube.com/watch?v=ajYL27WPKcs) · Built with elevenlabs, groq, javascript, langchain
 
 ## Track names and requirements

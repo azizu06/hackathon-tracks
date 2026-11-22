@@ -33,6 +33,8 @@ Learn about the process of how any GitHub project came to be! Get a timeline of 
 
 Learn programming through personalized project-focused AI-guided courses. Designed to help new coders build a project start to finish.
 
+**How it used Cerebras:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/camelCasedAditya/PennApps) · [Demo video](https://www.youtube.com/watch?v=0yEQR8HrBoE) · Built with cerebras, code-server, css, django
 
 ### [Terminator](https://devpost.com/software/terminator-g02u6t)
@@ -40,6 +42,8 @@ Learn programming through personalized project-focused AI-guided courses. Design
 [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md#project-terminator-g02u6t) · **Cerebus - Best use of Cerebras**
 
 A mixture of agents expert running on cutting edge inference hardware, that in practise can lead to simulation that you can control and experiment or play with.
+
+**How it used Cerebras:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/V-prajit/Terminator) · [Demo video](https://www.youtube.com/watch?v=5CZHU31kQrs) · Built with cerebras, express.js, game-engine, genai
 
@@ -51,6 +55,8 @@ A mixture of agents expert running on cutting edge inference hardware, that in p
 
 Predict Elections Way Better With LLM Agents.
 
+**How it used Cerebras:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/SahraMohamad/Electra) · [Demo video](https://www.youtube.com/watch?v=c6X9n7o9Zjk) · Built with cerebras, css, d3.js, geojson
 
 ### [muni](https://devpost.com/software/muni-5t9jih)
@@ -61,13 +67,15 @@ The app allows users to have on-demand check-ins with a chatbot.
 
 **How it used Cerebras:** The team used Cerebras for the chatbot to ensure fast and efficient inference.
 
-[Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
+No public code linked · [Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
 
 ### [Optica](https://devpost.com/software/optica-gar7hw)
 
 [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-optica-gar7hw) · **Super Fast AI**
 
 A gateway for blind/visually impaired people to experience the world independently through computer vision.
+
+**How it used Cerebras:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ddiyas/OpticaV2) · [Demo video](https://www.youtube.com/watch?v=ZD9LP6MjzG8) · Built with cerebras, android-studio, java, kotlin
 

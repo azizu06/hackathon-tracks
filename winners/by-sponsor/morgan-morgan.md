@@ -23,6 +23,8 @@
 
 AI Legal Tender transforms messy legal data into structured, cited intelligence using AMD powered ADKs that listen, learn, research, and help lawyers litigate smarter, faster, and more accurately.
 
+**How it used Morgan &amp; Morgan:** Lawgorithm uses Morgan &amp; Morgan case files to test its legal assistant.
+
 [Code](https://github.com/dominickdupuy/Paralegal) · [Demo video](https://www.youtube.com/watch?v=toI8_0oCX8Y) · Built with amd, chatgpt-whisper, flask, google-adk
 
 ### [PowerLegal](https://devpost.com/software/eagleeye-powerlegal)
@@ -31,6 +33,8 @@ AI Legal Tender transforms messy legal data into structured, cited intelligence 
 
 PowerLegal is a sophisticated multi-agent legal case management system that coordinates 3 specialized AI agents:.
 
+**How it used Morgan &amp; Morgan:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Kavipatel0/KnightHacks) · [Demo video](https://www.youtube.com/watch?v=SRItaUWZ1nc) · Built with adk, gemini, next.js, openai
 
 ### [Simply Law](https://devpost.com/software/lexiloop)
@@ -38,6 +42,8 @@ PowerLegal is a sophisticated multi-agent legal case management system that coor
 [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-lexiloop) · **AI Legal Tender Challenge**
 
 Simply Law automates the legal workflow with AI agents that extract key information, draft client responses, and streamline case management empowering attorneys to focus on strategy, not paperwork.
+
+**How it used Morgan &amp; Morgan:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/ballinyouup/morgan-ai-sdk) · [Demo video](https://www.youtube.com/watch?v=-925V5YOfWs) · Built with fastapi, google-adk, google-gemini, next.js
 

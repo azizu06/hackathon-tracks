@@ -23,6 +23,8 @@
 
 AI-powered DJ: Enhancing live performances by analyzing crowd energy and adjusting music in real-time to match the vibe.
 
+**How it used Intel:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/tesims/mhacks) · Built with flask, mangodb, openvino
 
 ### [ANGEL'S PROTECTION](https://devpost.com/software/angel-s-protection)
@@ -30,6 +32,8 @@ AI-powered DJ: Enhancing live performances by analyzing crowd energy and adjusti
 [HackTX 2024](../by-hackathon/hacktx-2024.md#project-angel-s-protection) · **Best Use of Intel AI**
 
 ANGEL'S PROTECTION processes live video feeds, storing data based on individuals’ clothing rather than facial recognition, thereby prioritizing privacy.
+
+**How it used Intel:** The team employs YOLOv11 (with custom dataset and trained from the ground up on Intel AI Developer Cloud) for real-time human detection, coupled with segmentation model to extract clothing features from detected individuals.
 
 [Code](https://github.com/phamleduy04/hacktx24) · [Demo video](https://www.youtube.com/watch?v=wCfq8UI903w) · Built with intel, computer-vision, fast, iris-database
 
@@ -39,6 +43,8 @@ ANGEL'S PROTECTION processes live video feeds, storing data based on individuals
 
 The webcam will recognize food that is in frame (using a Computer Vision model) and label it.
 
+**How it used Intel:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Orbital-Web/plaite) · [Demo video](https://www.youtube.com/watch?v=ODBwwHjMowQ) · Built with openai, python, streamlit, usda-nutrition-data
 
 ### [PrimeTime](https://devpost.com/software/primetime-285zcm)
@@ -46,6 +52,8 @@ The webcam will recognize food that is in frame (using a Computer Vision model) 
 [HackTX 2024](../by-hackathon/hacktx-2024.md#project-primetime-285zcm) · **Best Use of Intel AI**
 
 Introducing PrimeTime—an advanced productivity app that uses AI to track engagement and optimize time spent on your computer to help you maximize focus and boost efficiency.
+
+**How it used Intel:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with javascript, llms, next.js, npus
 
@@ -57,7 +65,7 @@ Search for the song on the tip of your tongue.
 
 **How it used Intel:** This was built using Intel AI PCs, with the remote desktop.
 
-[Demo video](https://www.youtube.com/watch?v=70ziSQVSEqI) · Built with bootstrap, flask, mongodb, node.js
+No public code linked · [Demo video](https://www.youtube.com/watch?v=70ziSQVSEqI) · Built with bootstrap, flask, mongodb, node.js
 
 ### [SuperMAN](https://devpost.com/software/superman-2wigou)
 

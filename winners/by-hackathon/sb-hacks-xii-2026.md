@@ -75,7 +75,7 @@ Turn live conversations into a shared itinerary—maps, places, and bookings upd
 - **Code:** [Source 1](https://github.com/SanjayMarathe/nomad)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JQJX066AJHk)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Solana · Deepgram API Challenge
-- **How it used Deepgram:** The project lists deepgram among its Built With tags.
+- **How it used Deepgram:** Sponsor use not stated on Devpost
 - **How it used Solana:** Payments: Solana Web3.js integrates with Phantom wallet for devnet transactions.
 - **Checked on Devpost:** 2026-11-21
 
@@ -97,17 +97,17 @@ Also won this track: [DispatchIQ](#project-dispatchiq-usn87o), [Nomad](#project-
 
 Cartify: Your AI voice assistant for personalized grocery lists and automated shopping.
 
-[Demo video](https://www.youtube.com/watch?v=VV_kdMY3P4A) · Built with deepgram, gemini, next.js, playwright
+[Code](https://github.com/Max-Changg/Cartify) · [Demo video](https://www.youtube.com/watch?v=VV_kdMY3P4A) · Built with deepgram, gemini, next.js, playwright
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** deepgram, gemini, next.js, playwright, react, tailwind, typescript
-- **Code:** None listed.
+- **Code:** [Source 1](https://github.com/Max-Changg/Cartify)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VV_kdMY3P4A)
 - **All prizes at this hackathon (1):** Deepgram API Challenge
-- **How it used Deepgram:** The project lists deepgram among its Built With tags.
+- **How it used Deepgram:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -134,7 +134,7 @@ speak a concept, step inside it in 3d.
 - **Code:** [Source 1](https://github.com/stephenhungg/flow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m0bSZZ2EIdg)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of ElevenLabs · President's Pick
-- **How it used ElevenLabs:** elevenlabs : educational narration, voice q&amp;a responses, integrated real-time audio.
+- **How it used ElevenLabs:** Flow uses ElevenLabs for educational narration and spoken answers.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfe
 - **Code:** [Source 1](https://github.com/trevordodge/sbhacks-project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_WCacm2iJ_s)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** The project lists mongodb-atlas among its Built With tags.
+- **How it used MongoDB:** This data is stored in MongoDB Atlas, enabling fast query performance and scalable data retrieval.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -213,17 +213,17 @@ PC building made easy — ask questions, identify parts, and build confidently.
 
 Every fan watches the same basketball game, but for different moments. Some track tactics, others chase the star’s reaction after a dunk.
 
-[Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
+No public code linked · [Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** javascript, node.js, python, react, typescript, video-foundation-model
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pOvZoBC0Bf0)
 - **All prizes at this hackathon (1):** TwelveLabs API Challenge
-- **How it used TwelveLabs:** The team learned how to make recommendation system that acts like a real-time director with the help of Foundation models.
+- **How it used TwelveLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -273,7 +273,7 @@ GradeMeIn uses a new method to detect AI plagiarism, it works through intelligen
 - **Code:** [Source 1](https://github.com/SBHacks-26/lms-sbhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dgrnQoidl2A)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** The project lists vultr among its Built With tags.
+- **How it used Vultr:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

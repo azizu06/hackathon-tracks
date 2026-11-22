@@ -23,6 +23,8 @@
 
 Latinnect is a digital marketplace that connects Latine vendors with customers, allowing vendors to easily list and manage their products, and customers to browse, filter, and purchase goods.
 
+**How it used Cafe Cultura:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/hlee18lee46/shellhacks) · Built with supabase, swift, swiftui
 
 ### [Mercado](https://devpost.com/software/mercado)
@@ -31,7 +33,9 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 
 "Empowering Latino Businesses, One Investment at a Time.".
 
-[Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
+**How it used Cafe Cultura:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=bONR9Nu1-Cw) · Built with ai, firebase, python, streamlit
 
 ### [TasteLatino](https://devpost.com/software/tastelatino)
 
@@ -39,7 +43,9 @@ Latinnect is a digital marketplace that connects Latine vendors with customers, 
 
 Ever wondered what delicious dish you could create with the ingredients you have on hand? TasteLatino uses image recognition tech to identify your ingredients and generate latin recipes in seconds.
 
-Built with coreml, openai, swift, xcode
+**How it used Cafe Cultura:** Sponsor use not stated on Devpost
+
+No public code linked · Built with coreml, openai, swift, xcode
 
 ## Track names and requirements
 

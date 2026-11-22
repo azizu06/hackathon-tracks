@@ -59,6 +59,7 @@ A code research tool indexes commit history so developers can search for earlier
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Snowflake API · &#91;Warp&#93; Best Developer Tool
 - **How it used Snowflake:** Generates semantic embeddings using Snowflake Cortex -Creates vector embeddings using Cortex-generated commit analysis as the embedding text source.
+- **How it used Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -87,6 +88,7 @@ Play It Forward pairs families in need of toys with households that have more th
 - **Code:** [Source 1](https://github.com/vvictort/nwhacks-2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -113,6 +115,7 @@ Agentic security testing for vibe-coded apps — before you ship.
 - **Code:** [Source 1](https://github.com/jkuo630/Trojan)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4-LN6P5TIFk)
 - **All prizes at this hackathon (1):** &#91;1Password&#93; Best Security Hack
+- **How it used 1Password:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -139,7 +142,7 @@ A robot event photographer that captures moments, curates the best frames, and p
 - **Code:** [Source 1](https://github.com/elijahzhao24/BizBot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-nSwDxqMe5E)
 - **All prizes at this hackathon (1):** &#91;Block&#93; Best Real-World Ready AI Product
-- **How it used Block:** BIZBOT is a robot “event photographer” designed for real environments: crowded rooms, messy backgrounds, unpredictable lighting, and lots of motion.
+- **How it used Block:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -166,7 +169,7 @@ Sandbox world of financial AI agents to help you learn trading.
 - **Code:** [Source 1](https://github.com/dewgong5/nwhacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Qcazd8EwHQ0)
 - **All prizes at this hackathon (1):** &#91;Connor, Clark &amp; Lunn&#93; Best Financial Hack
-- **How it used Connor, Clark &amp; Lunn:** The team learned how to build a full web app, including front-end, back-end, and making them work together.
+- **How it used Connor, Clark &amp; Lunn:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -193,7 +196,7 @@ A wearable gives deaf and hard-of-hearing users visual and tactile cues about su
 - **Code:** [Source 1](https://github.com/iancdev/hudglasses)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4YbXLKoHIKk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Elevenlabs
-- **How it used ElevenLabs:** The project lists elevenlabs among its Built With tags.
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -220,7 +223,7 @@ A voice tool suggests words to stroke survivors based on how they describe the w
 - **Code:** [Source 1](https://github.com/Bardia-Masudy/nwHacks-listen.me)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The project lists firebase, google-gemini-live-api among its Built With tags.
+- **How it used Google:** Backend &amp; Database: Firebase Authentication for secure user management and Firestore for real-time session data synchronization.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -247,7 +250,7 @@ Turn any smartphone into a live emergency camera, providing first responders wit
 - **Code:** [Source 1](https://github.com/dave22r/emergency-eye)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xgd0_N_PSHc)
 - **All prizes at this hackathon (1):** &#91;Lovable&#93; Best use of Lovable
-- **How it used Lovable:** Emergency Eye transforms smartphones into live emergency broadcast cameras.
+- **How it used Lovable:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -274,7 +277,7 @@ A smart biofeedback pen and web app that guides users through quick exercises to
 - **Code:** [Source 1](https://github.com/SteadyScript/SteadyScript)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QCpoyvr15rE)
 - **All prizes at this hackathon (2):** &#91;PCCA&#93; Best Wellness Related Hack · Best Beginner Project
-- **How it used Pacific Canadian Chinese Association:** SteadyScript makes fine-motor therapy more accessible, using real-time biofeedback to help users build steadier, more controlled movements.
+- **How it used Pacific Canadian Chinese Association:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -334,7 +337,7 @@ Argus is a dev tool that integrates models/dataset workflows with seamless and s
 - **Code:** [Source 1](https://github.com/JohnsonL111/argus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p849nn0xS1k)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** The project lists solana among its Built With tags.
+- **How it used Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -361,6 +364,7 @@ MelaNone is a limb-scanning system designed to help detect melanoma early on.
 - **Code:** [Source 1](https://github.com/jasonkwok475/MelaNone)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z7EJEKKdNtc)
 - **All prizes at this hackathon (1):** &#91;Telus&#93; The Edge of Innovation
+- **How it used TELUS:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -377,14 +381,14 @@ MelaNone is a limb-scanning system designed to help detect melanoma early on.
 
 A planning app connects student clubs' communication, spreadsheets, and code tools in one workspace.
 
-[Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
+No public code linked · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** asyncio, fastapi, httpx, langchain, langgraph, lucide, mongodb, motor, next.js, python, radix, react, redis, shadcn, tailwind, typescript, uvicorn, voltr
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TmAf5cKU6G4)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
 - **How it used Vultr:** Seamless integration between Vultr using their serverless inference, Gemini, and ChatGPT.

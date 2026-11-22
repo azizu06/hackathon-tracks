@@ -23,6 +23,10 @@
 
 The team developed two applications that work together on the Android phone and the Pebble smartwatch.
 
+**How it used Kleiner Perkins:** Sponsor use not stated on Devpost
+
+No public code linked
+
 ## Track names and requirements
 
 <details>

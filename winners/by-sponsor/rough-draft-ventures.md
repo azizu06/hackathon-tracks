@@ -23,7 +23,9 @@
 
 Receipts are hard; automation is easy.
 
-Built with capital-one, flask, meteor.js, mobile
+**How it used Rough Draft Ventures:** Sponsor use not stated on Devpost
+
+No public code linked · Built with capital-one, flask, meteor.js, mobile
 
 ## Track names and requirements
 

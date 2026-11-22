@@ -37,17 +37,17 @@ Pick a track to jump to its winners on this page.
 
 Bringing Transparency and Ease into Job Search.
 
-Built with api, css, firebase, flask
+No public code linked · Built with api, css, firebase, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** api, css, firebase, flask, python, react
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ActualFood
-- **How it used Actual Food:** "Connect Campus" is a matchmaking platform that facilitates connections between students and organizations through campus liaisons and AI.
+- **How it used Actual Food:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -70,6 +70,7 @@ For households across the United States, the single greatest usage of water is i
 - **Code:** [Source 1](https://github.com/VSandwar74/evergreen-yhack-s24)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** ActualFood · Sustainability Award
+- **How it used Actual Food:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -92,6 +93,7 @@ Users can create a host profile and post their room on the map, along with detai
 - **Code:** [Source 1](https://github.com/ldang04/futon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ckPW4HWQE9Q)
 - **All prizes at this hackathon (1):** ActualFood
+- **How it used Actual Food:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -114,7 +116,7 @@ AI Chatbot that helps bridge the gap between healthcare providers and patients b
 - **Code:** [Source 1](https://github.com/reiyi-lai/yhacks-repro-health)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ActualFood
-- **How it used Actual Food:** ReproBot is an AI chatbot that interprets user descriptions of their health concerns in everyday language into precise medical information for healthcare providers.
+- **How it used Actual Food:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -137,6 +139,7 @@ Imagine if Person A speaks English and Person B speaks German.
 - **Code:** [Source 1](https://github.com/NandVinchhi/reslate)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LU7aPZCt5uI)
 - **All prizes at this hackathon (2):** ActualFood · Entertainment &amp; Media
+- **How it used Actual Food:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

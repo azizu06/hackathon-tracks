@@ -23,6 +23,8 @@
 
 Spotlight transforms Boston Dynamics Spot data into actionable insights using AI, real-time monitoring, predictive analytics, and 3D visualization to make power plant operations safer and smarter.
 
+**How it used NextEra Energy:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/doberto6/SpotLight) · [Demo video](https://www.youtube.com/watch?v=76OSgHFP13s) · Built with blender, css3, databricks, github
 
 ## 2025 winners
@@ -33,6 +35,8 @@ Spotlight transforms Boston Dynamics Spot data into actionable insights using AI
 
 The perfect drone optimization algorithm that you'd ever need.
 
+**How it used NextEra Energy:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/a1vcm/knighthacks2025) · [Demo video](https://www.youtube.com/watch?v=qbOgZGTl13M) · Built with git, github, googleortools, numpy
 
 ### [GridWatch](https://devpost.com/software/gridwatch)
@@ -41,6 +45,8 @@ The perfect drone optimization algorithm that you'd ever need.
 
 The solution uses Google OR-Tools to solve the Vehicle Routing Problem by assigning waypoints to missions while minimizing total flight distance.
 
+**How it used NextEra Energy:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Bvqlz/GridWatch) · [Demo video](https://www.youtube.com/watch?v=AEEQjJ4ilyA) · Built with flask, ortools, react
 
 ### [NextEra Energy Drone Optimization Challenge](https://devpost.com/software/nextera-energy-drone-optimization-challenge)
@@ -48,6 +54,8 @@ The solution uses Google OR-Tools to solve the Vehicle Routing Problem by assign
 [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-nextera-energy-drone-optimization-challenge) · **Drone Optimization Challenge**
 
 Optimizing autonomous drone missions for efficient, battery-aware inspection of NextEra Energy’s power grid using intelligent routing algorithms.
+
+**How it used NextEra Energy:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/saniddhyaDubey/next-era-Drone-Routing-Problem) · [Demo video](https://www.youtube.com/watch?v=2L7jpEtnFr4) · Built with geopandas, google-colab, matplotlib, numpy
 

@@ -23,6 +23,8 @@
 
 A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-100T.
 
+**How it used AMD:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/techcolly/fpga_LM) · Built with claude, fpga, python, pytorch
 
 ### [GEarth](https://devpost.com/software/diarockets)
@@ -63,6 +65,8 @@ See the world through sound and LiDAR. Inspired by echolocation, EchoAI is a han
 
 AI Legal Tender transforms messy legal data into structured, cited intelligence using AMD powered ADKs that listen, learn, research, and help lawyers litigate smarter, faster, and more accurately.
 
+**How it used AMD:** Self-hosted AI - all data stays on AMD infrastructure, addressing law firms' privacy concerns.
+
 [Code](https://github.com/dominickdupuy/Paralegal) · [Demo video](https://www.youtube.com/watch?v=toI8_0oCX8Y) · Built with amd, chatgpt-whisper, flask, google-adk
 
 ### [Sora2Detector](https://devpost.com/software/sora2detector)
@@ -70,6 +74,8 @@ AI Legal Tender transforms messy legal data into structured, cited intelligence 
 [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-sora2detector) · **Best use of AMD Hardware/Software Challenge**
 
 In an age where AI-generated media is indistinguishable from reality, Sora2Detector is the first of its kind multi phase detection platform that verifies the authenticity of video content, end to end.
+
+**How it used AMD:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/LeeMarshall1113/Sora2Detector) · [Demo video](https://www.youtube.com/watch?v=GPhHIwjohe4) · Built with amd, ai, html5, ml
 

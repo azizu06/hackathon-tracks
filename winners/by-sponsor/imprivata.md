@@ -23,7 +23,9 @@
 
 Very fast, secure log in systems for healthcare professionals.
 
-Built with electron, ios, node.js, swift
+**How it used Imprivata:** Sponsor use not stated on Devpost
+
+No public code linked · Built with electron, ios, node.js, swift
 
 ## Track names and requirements
 

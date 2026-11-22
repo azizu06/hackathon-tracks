@@ -23,6 +23,8 @@
 
 A website to help Atlanta residents and visitors stay safe during first-time meetups.
 
+**How it used SafetyKit:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/IshaMadanu/hacklytics-atl-risk) · [Demo video](https://www.youtube.com/watch?v=5gWB9hfDggA) · Built with flask, geminiaistudio, html, intellij-idea
 
 ## Track names and requirements

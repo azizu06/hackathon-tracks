@@ -62,7 +62,7 @@ An apartment search assistant helps people moving to the US find listings, conta
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zl_fpA4hX9Q)
 - **All prizes at this hackathon (2):** Best Use of Notability Winner · FetchAI ASI:One Agent Challenge
 - **How it used Fetch.ai:** The whole workflow runs inside an ASI:One conversation: request, pick buildings by replying with numbers, live progress, the held deal, the application, and the Payment Protocol fee.
-- **How it used Notability:** The project lists notability among its Built With tags.
+- **How it used Notability:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -85,7 +85,7 @@ A wearable AI agent that detects patterns in elder patients to provide life-savi
 - **Code:** [Source 1](https://github.com/Taz33m/mhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ETHa01jEUWA)
 - **All prizes at this hackathon (2):** Best Use of FREE-WILi · FinchNode (HealthTech)
-- **How it used FinchNode:** The project lists finchnode among its Built With tags.
+- **How it used FinchNode:** Sponsor use not stated on Devpost
 - **How it used FREE-WILi:** FREE-WILi provides chest acceleration, a microphone, speaker, display, and physical buttons.
 - **Checked on Devpost:** 2026-11-21
 
@@ -115,7 +115,7 @@ Two exes, two agents, zero awkward conversations.
 - **Code:** [Source 1](https://github.com/PRANAVMAHALINGAM/gudtrms)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8O_62JRIgR4)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
-- **How it used .Tech Domains:** gudtrms ("good terms") is a breakup mediator that lives in iMessage.
+- **How it used .Tech Domains:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -142,7 +142,7 @@ A billing assistant reviews medical bills and organizes evidence that patients c
 - **Code:** [Source 1](https://github.com/SNBest1/medical-bill-guardian)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WQIiy8kV0qI)
 - **All prizes at this hackathon (1):** Best Use of Nessie @ Capital One
-- **How it used Capital One:** The project lists capital-one-nessie among its Built With tags.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -165,7 +165,7 @@ A finance app helps people moving to a new city plan expenses with their roommat
 - **Code:** [Source 1](https://github.com/andrew-oriti18/settlr-mhack26)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Nessie @ Capital One
-- **How it used Capital One:** This website solves that by providing a platform that allows for live communication and updating when viewing properties.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ An offline guide helps survivors find state compensation programs and trace elig
 - **Code:** [Source 1](https://github.com/thesanatt/tend)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Nessie @ Capital One
-- **How it used Capital One:** The project lists capital-one-nessie among its Built With tags.
+- **How it used Capital One:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -244,7 +244,7 @@ A content planning tool simulates how an audience might respond to competing pos
 - **Code:** [Source 1](https://github.com/irfan-firosh/ripple)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=T5fnHDuklZo)
 - **All prizes at this hackathon (1):** FetchAI ASI:One Agent Challenge
-- **How it used Fetch.ai:** The project lists agentverse, asi:one, fetch.ai, uagents among its Built With tags.
+- **How it used Fetch.ai:** Ripple is also an agent on Fetch.ai's Agentverse, so anyone can ask it from ASI:One to test two posts for a brand and get the winner back.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -294,7 +294,7 @@ A job board holds payment in escrow until a worker submits the agreed proof of c
 - **Code:** [Source 1](https://github.com/AlanRoybal/mhacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vXkbfQ2L-Gc)
 - **All prizes at this hackathon (1):** Figma Best Design Track
-- **How it used Figma:** Post a job with a price, location and deadline.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -317,7 +317,7 @@ A computer control interface uses eye tracking to point and speech to issue comm
 - **Code:** [Source 1](https://github.com/dakshshahani/mhacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Figma Best Design Track
-- **How it used Figma:** Gaze allows a user to build and modify frontend interfaces by steering an on-screen pointer with their head and describing a change aloud.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -340,7 +340,7 @@ A learning app helps users explore stock movements and practice investment decis
 - **Code:** [Source 1](https://github.com/daniel3606/Orbit_MHacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Mj4wTCKH8oE)
 - **All prizes at this hackathon (1):** Figma Best Design Track
-- **How it used Figma:** Orbit is an AI-powered stock discovery and paper-trading app designed for people who are new to investing.
+- **How it used Figma:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -369,7 +369,7 @@ Everyday glasses that watch high-risk hearts and speak up before an emergency.
 - **Code:** [Source 1](https://github.com/tTong32/CardioGlasses)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-MuYmrTTWag)
 - **All prizes at this hackathon (1):** FinchNode (HealthTech)
-- **How it used FinchNode:** The project lists finchnode among its Built With tags.
+- **How it used FinchNode:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -382,17 +382,17 @@ Everyday glasses that watch high-risk hearts and speak up before an emergency.
 
 Clinical trials lose millions recruiting, while patients miss life-saving treatments. InnoPair automatically matches patients to trials, helping studies recruit faster and patients find new options.
 
-[Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css3, fhir, finchnode, gemini, google-gemini-api, html5, javascript, loinc, mammoth.js, mcp, neon, node.js, notability, pdf.js, postgresql, rest-api, serverless, vercel, vercel-serverless-functions
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Fg-wfUvkk1U)
 - **All prizes at this hackathon (1):** FinchNode (HealthTech)
-- **How it used FinchNode:** The project lists finchnode among its Built With tags.
+- **How it used FinchNode:** FinchNode's all-in-one API makes this possible by giving patients one way to connect their health records across providers.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -411,7 +411,7 @@ Also won this track: [LifeLine](#project-lifeline-nf86zy) (listed above)
 
 Meet the right people. Only when it's mutual.
 
-[Code](https://github.com/maiaPaperTowns/mutuals) · [Demo video](https://www.youtube.com/watch?v=UMzRICNUTBQ) · Built with c, c++, claude, freewili
+[Code](https://github.com/maiaPaperTowns/mutuals) · [Demo video](https://www.youtube.com/watch?v=UMzRICNUTBQ) · Built with freewili, c, c++, claude
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -421,7 +421,7 @@ Meet the right people. Only when it's mutual.
 - **Code:** [Source 1](https://github.com/maiaPaperTowns/mutuals)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UMzRICNUTBQ)
 - **All prizes at this hackathon (1):** Best Use of FREE-WILi
-- **How it used FREE-WILi:** Mutuals is a networking agent that lives on the web, with a live map and a physical badge as companions.
+- **How it used FREE-WILi:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -434,7 +434,7 @@ Meet the right people. Only when it's mutual.
 
 A rehab-game station where four agents filter, fact-check, decide and act, and show their reasoning on a wearable screen.
 
-[Code](https://github.com/Dee-1862/Ocra) · [Demo video](https://www.youtube.com/watch?v=x5cxIVRhaSU) · Built with agentverse, asi:one, c, fetch.ai-uagents
+[Code](https://github.com/Dee-1862/Ocra) · [Demo video](https://www.youtube.com/watch?v=x5cxIVRhaSU) · Built with freewili-og, agentverse, asi:one, c
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -444,7 +444,7 @@ A rehab-game station where four agents filter, fact-check, decide and act, and s
 - **Code:** [Source 1](https://github.com/Dee-1862/Ocra)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=x5cxIVRhaSU)
 - **All prizes at this hackathon (1):** Best Use of FREE-WILi
-- **How it used FREE-WILi:** Orca turns FreeWili OG devices into a two-handed rehab game station.
+- **How it used FREE-WILi:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -480,14 +480,14 @@ Your car already knows what's wrong. Otto uses a FREE-WILi and AI to turn its tr
 
 Similar to a piano tiles game where the tiles come towards the player, the tiles come towards the center.
 
-[Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
+No public code linked · [Demo video](https://www.youtube.com/watch?v=DdY-U816Krw) · Built with free-wili, c, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** c, free-wili, python
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DdY-U816Krw)
 - **All prizes at this hackathon (1):** Best Use of FREE-WILi
 - **How it used FREE-WILi:** The team used the FREE-WILi API, wrote the display and main files in C, and used the board's built-in accelerometer to measure positional data as the player moved their wrist.
@@ -507,14 +507,14 @@ Similar to a piano tiles game where the tiles come towards the player, the tiles
 
 Finding you the prompt you deserve.
 
-Built with gemini, chrome, fastapi, google-oauth
+No public code linked · Built with gemini, google-oauth, chrome, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** chrome, fastapi, gemini, google-oauth, node.js, numpy, playwright, pytest, python, react, scikit-learn, sentence-transformers, spacetimedb, tailwindcss, typescript, vite, vitest, wxt
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
 - **How it used Google:** If Gemini is unavailable, the embedding ranking is used, and if the server is unreachable, the extension falls back to a keyword match in the browser.
@@ -534,17 +534,17 @@ Built with gemini, chrome, fastapi, google-oauth
 
 Elevated and autonomous security for the vibe coded world. Argus deploys five specialized agents to attack your app in a sandbox, prove vulnerabilities, generate fixes, and verify the patch works.
 
-[Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
+No public code linked · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** asi:one, browserbase, elevenlabs, fetch.ai, figma, neon, notability, photon, relay, spacetimedb
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P7_du8KrKDo)
 - **All prizes at this hackathon (1):** Best Use of Neon Backend
-- **How it used Neon:** The project lists neon among its Built With tags.
+- **How it used Neon:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -590,7 +590,7 @@ Commute used to be dead time. Shotgun turns your car into an AI agent that rides
 - **Code:** [Source 1](https://github.com/25danielc/shotgun)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P9eiu86cmdE)
 - **All prizes at this hackathon (1):** Best Use of Neon Backend
-- **How it used Neon:** The project lists neon among its Built With tags.
+- **How it used Neon:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -623,7 +623,7 @@ Amex Concierge on steroids for small businesses: text a problem, AI agents and r
 - **Code:** [Source 1](https://github.com/sszz01/zero-knowledge-team)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9dYmaWoG2a8)
 - **All prizes at this hackathon (1):** Photon iMessage Agents Track Winner
-- **How it used Photon:** The project lists photon among its Built With tags.
+- **How it used Photon:** The owner's conversation, in iMessage, powered by Photon.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -636,17 +636,17 @@ Amex Concierge on steroids for small businesses: text a problem, AI agents and r
 
 Tab is a friend in your iMessage group chat who keeps track of shared expenses. Say "got pizza, $48" or snap a receipt; Tab splits it, nudges people, and settles up with one 👍.
 
-[Demo video](https://www.youtube.com/watch?v=4GrYcrm64tg) · Built with capital-one-nessie-api, github, github-actions, grok-(xai-api)
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4GrYcrm64tg) · Built with capital-one-nessie-api, github, github-actions, grok-(xai-api)
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** capital-one-nessie-api, github, github-actions, grok-(xai-api), grok-vision, imessage, node.js, react, react-flow, spacetimedb, typesafe-jev, typescript, vercel, vite, vitest, zod
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4GrYcrm64tg)
 - **All prizes at this hackathon (1):** Photon iMessage Agents Track Winner
-- **How it used Photon:** Tab is a member of your iMessage group chat.
+- **How it used Photon:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -690,17 +690,17 @@ A robotics team collects human skiing and hiking motions to train a humanoid on 
 
 The wireless camera bear that watches, remembers, and answers when you ask.
 
-[Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
+No public code linked · [Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** esp32, figma, grok, neon, relay
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iHHdCwF_NRU)
 - **All prizes at this hackathon (1):** Relay Interactive Agents Track Winner
-- **How it used Relay:** The project lists relay among its Built With tags.
+- **How it used Relay:** On Relay, a single WebSocket consumer handles events; event IDs are committed to Postgres before the ACK (Relay redelivers otherwise), and every send carries a idempotency key so a reconnect replay can't double-send.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -723,7 +723,7 @@ An AI agent crew that checks your medical bill against what actually happened at
 - **Code:** [Source 1](https://github.com/tiwari-ira/amyna)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Relay Interactive Agents Track Winner
-- **How it used Relay:** The project lists relay among its Built With tags.
+- **How it used Relay:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -750,7 +750,7 @@ A hardware wallet shows who will receive a payment and what the user is about to
 - **Code:** [Source 1](https://github.com/ayushmk7/NoBadgeActors)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZWM99jsHEmQ)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Solana · Judged by an LLM
-- **How it used Solana:** The project lists solana, solana-attestation-service among its Built With tags.
+- **How it used Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -767,7 +767,7 @@ A hardware wallet shows who will receive a payment and what the user is about to
 
 A shared editor lets teammates work on a video together with help from AI assistants.
 
-[Code](https://github.com/anuragsk05/CoClip) · [Demo video](https://www.youtube.com/watch?v=0Oz84yuXpbE) · Built with gemini, google, json, spacetimedb
+[Code](https://github.com/anuragsk05/CoClip) · [Demo video](https://www.youtube.com/watch?v=0Oz84yuXpbE) · Built with spacetimedb, gemini, google, json
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -777,7 +777,7 @@ A shared editor lets teammates work on a video together with help from AI assist
 - **Code:** [Source 1](https://github.com/anuragsk05/CoClip)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0Oz84yuXpbE)
 - **All prizes at this hackathon (1):** Best Use of Spacetime
-- **How it used Spacetime:** CoClip is essentially Google Docs for video editing .
+- **How it used Spacetime:** CoClip uses SpacetimeDB to sync the video timeline and media state across collaborators.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -790,7 +790,7 @@ A shared editor lets teammates work on a video together with help from AI assist
 
 Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from the first conversation with the patient to the end of the operation.
 
-[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with .tech, blender, c#, cloudflare
+[Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with spacetimedb, .tech, blender, c#
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -800,6 +800,7 @@ Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from 
 - **Code:** [Source 1](https://github.com/stephenhungg/scalpal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9m1Pt74R2lY)
 - **All prizes at this hackathon (1):** Best Use of Spacetime
+- **How it used Spacetime:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -812,7 +813,7 @@ Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from 
 
 A food-waste dashboard shows what gets thrown away so kitchens can decide what to change.
 
-[Code](https://github.com/anton-3/traycer) · [Demo video](https://www.youtube.com/watch?v=ueDxreMXbMQ) · Built with elevenlabs, fastapi, gemini, google-gemini-api
+[Code](https://github.com/anton-3/traycer) · [Demo video](https://www.youtube.com/watch?v=ueDxreMXbMQ) · Built with spacetimedb, elevenlabs, fastapi, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -822,7 +823,7 @@ A food-waste dashboard shows what gets thrown away so kitchens can decide what t
 - **Code:** [Source 1](https://github.com/anton-3/traycer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ueDxreMXbMQ)
 - **All prizes at this hackathon (1):** Best Use of Spacetime
-- **How it used Spacetime:** Traycer turns the trash bin into data.
+- **How it used Spacetime:** A Node.js worker uses OpenAI to drive individual simulated students’ food choices, eating behavior, and conversations, while shared TypeScript rules and SpacetimeDB manage the world and waste accounting.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -849,7 +850,7 @@ Space traffic control for the 99% of operators without a control room. Orbit Wat
 - **Code:** [Source 1](https://github.com/ArunimaV/orbit-watch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eroKaUhp6zY)
 - **All prizes at this hackathon (1):** SpaceXAI Make it Legendary Track Winner
-- **How it used SpaceXAI:** Orbit Watch is a Grok voice copilot for space traffic.
+- **How it used SpaceXAI:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -876,7 +877,7 @@ TapTrack PD is a wrist-worn Parkinson's tracker built on a FREE-WILi strapped to
 - **Code:** [Source 1](https://github.com/ahansoty/taptrack-pd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NyzD97cP5SY)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
-- **How it used Tiger Data:** The project lists timescaledb among its Built With tags.
+- **How it used Tiger Data:** Caregiver Dashboard - FinchNode + Gemini + Fetch.ai + Neon + Tiger Data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

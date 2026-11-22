@@ -23,6 +23,8 @@
 
 The world's first fully homomorphic runtime for a Turing-complete language.
 
+**How it used Datto:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/joeltg/brainfreeze) · Built with python, tfhe
 
 ## Track names and requirements

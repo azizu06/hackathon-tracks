@@ -23,6 +23,8 @@
 
 The project “SPCH” involves a text editor and Google Chrome extension that scans for hate speech and offensive language within a block of text.
 
+**How it used Domain.com:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/BryantH24/SPCH) · [Demo video](https://www.youtube.com/watch?v=ejlorFZdnkA) · Built with chrome, datastax-astra, docker, firebase
 
 ## Track names and requirements

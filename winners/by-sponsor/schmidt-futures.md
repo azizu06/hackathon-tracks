@@ -23,9 +23,9 @@
 
 An LLM-powered TA that adapts to course material to help guide and engage students through conceptual and technical questions, focusing on reducing redundant questions and addressing overworked TAs.
 
-**How it used Schmidt Futures:** Best Use of AI in Education by Schmidt Futures.
+**How it used Schmidt Futures:** Sponsor use not stated on Devpost
 
-Built with chatgpt, dspy, openai, python
+No public code linked · Built with chatgpt, dspy, openai, python
 
 ## Track names and requirements
 

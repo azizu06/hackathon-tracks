@@ -23,6 +23,8 @@
 
 Copilot for support fieldOps teams to aid reconstruction of the Francis Scott Key Bridge. Enhances data access for decision-making.
 
+**How it used Cloudforce:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/urstrulykkr/BuildKey-AI) · Built with ai, astro, azure, github
 
 ### [ResQVision](https://devpost.com/software/resqvision)
@@ -30,6 +32,8 @@ Copilot for support fieldOps teams to aid reconstruction of the Francis Scott Ke
 [Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-resqvision) · **Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce**
 
 Using AI/ML to enhance rescuing and rebuilding processes after a disaster.
+
+**How it used Cloudforce:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/NSP909/cmdfmydebris) · Built with css, flask, html, javascript
 
@@ -39,7 +43,9 @@ Using AI/ML to enhance rescuing and rebuilding processes after a disaster.
 
 Leveraging AI to assess bridge damage.
 
-Built with azure, javascript, next.js, node.js
+**How it used Cloudforce:** Sponsor use not stated on Devpost
+
+No public code linked · Built with azure, javascript, next.js, node.js
 
 ## Track names and requirements
 

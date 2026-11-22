@@ -479,25 +479,25 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 
 **Knight Hacks IX 2026 · Encompass · Encompass: Data Capturing Hardware**
 
-Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored. A LiDAR-equipped phone on the rover records aligned camera frames, depth and pose for the reconstruction and encounter records.
+Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored. Sponsor use not stated on Devpost
 
 - Team size 4. 4 event prize labels.
 - Built With arduino, arkit, depth-anything, fastapi, ffmpeg, h.264, hugging-face, ios, lidar, meta-quest, nav2, nvidia-jetson, python, qwen, ros2, rust, swift, tailscale, tensorrt, three.js, typescript, webxr, whisper, yolo.
 - Event prizes Encompass: Data Capturing Hardware · Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano.
 - Code [Source 1](https://github.com/azizu06/farsight)
 - Video [Video 1](https://www.youtube.com/watch?v=AmrOGcTBTKU) · [Video 2](https://www.youtube.com/watch?v=Km9CGWip4h4)
-- Evidence Devpost Winner label. Integration evidence Edited from project page.
+- Evidence Devpost Winner label. Integration evidence Integration detail unavailable.
 
 ### [DIAL(&#42;)](https://devpost.com/software/dial-4rqzc3)
 
 **Cal Hacks 12.0 2025 · Conversion · Conversion: Best Use of Conversion**
 
-DIAL (&#42;) is an optimized customer service agent designed for data-heavy use cases. The project page provides no specific sponsor integration detail in the indexed fields.
+DIAL (&#42;) is an optimized customer service agent designed for data-heavy use cases. Sponsor use not stated on Devpost
 
 - Team size 5. 3 event prize labels.
 - Built With duckdb, elevenlabs, express.js, ngrok, node.js, sql, twilio.
 - Event prizes Conversion: Best Use of Conversion · Crater: Play-Do Prize · Rox: Best Use of Rox.
-- Code None listed.
+- Code No public code linked
 - Video [Video 1](https://www.youtube.com/watch?v=32DSdO1V-z0)
 - Evidence Devpost Winner label. Integration evidence Integration detail unavailable.
 
@@ -532,11 +532,11 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 
 - Built With tags are available for 1,536 of 1,553 project editions.
 - Team counts are available for 1,553 project editions.
-- Summary evidence by award row: Project write-up without a specific integration (611), Project write-up (396), Built With tags (370), Integration detail unavailable (306), Edited from project page (14).
-- Source code links verified HTTP 200 for 1219 of 1349 unique recognized links.
+- Summary evidence by award row: Integration detail unavailable (1158), Project write-up (475), Edited from project page (64).
+- Source code links verified HTTP 200 for 1221 of 1351 unique recognized links.
 - Demo video links verified HTTP 200 for 1251 of 1251 unique recognized links.
 - The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.
-- Project summaries use edited notes, Devpost project captions and short evidence sentences. When the project supplies only a stack tag or omits an integration description, the row labels that evidence.
+- Project summaries use edited notes, Devpost project captions and short evidence sentences. A Built With tag can identify a tool. The integration note requires a description of its role.
 - Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. General event awards remain visible in project prize lists.
 - HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. The public prize entry supplies no sponsor identity, so those two awards fall outside the named-sponsor index.
 - Prize values come from the track label. Multiple placements, team totals, and service credits stay in the source wording.
@@ -544,4 +544,4 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 - University labs, foundations and student organizations stay as sponsors where the official award text credits them, for example Penn Labs for the PennApps Best Beginner Hack prize.
 
 - Demo link check results by status: 200 (1251).
-- Source link check results by status: 200 (1067), redirect landed on HTTP 200 (152), 404 (123), 302 (7).
+- Source link check results by status: 200 (1069), redirect landed on HTTP 200 (152), 404 (123), 302 (7).

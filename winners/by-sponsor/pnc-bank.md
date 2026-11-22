@@ -23,6 +23,8 @@
 
 A live money room for the whole family. Plan together on every phone, or just call Brian, the AI who checks every idea against your real numbers and calls you back when something needs you.
 
+**How it used PNC Bank:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Blean69/HackUTD-2026-v2) · [Demo video](https://www.youtube.com/watch?v=aHd01BcEPJc) · Built with awsec2, caddy, collegescorecardapi, dockercompose
 
 ### [FinVantage](https://devpost.com/software/finvantange)
@@ -31,6 +33,8 @@ A live money room for the whole family. Plan together on every phone, or just ca
 
 All your money, One brain — Every account. Every goal.
 
+**How it used PNC Bank:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/ashzaeen/FinVantage) · [Demo video](https://www.youtube.com/watch?v=p4v9ewlpKro) · Built with alpaca, chrome-extension-manifest-v3, gemini, github-action
 
 ### [Wallet Whisperer](https://devpost.com/software/wallet-whisperer-9jyax1)
@@ -38,6 +42,8 @@ All your money, One brain — Every account. Every goal.
 [HackUTD 2026](../by-hackathon/hackutd-2026.md#project-wallet-whisperer-9jyax1) · **PNC Track**
 
 Wallet Whisperer brings accounts, bills, debts, income, and savings goals into one financial picture, then helps users explore their next decision.
+
+**How it used PNC Bank:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/AfeIsm/HackUTD) · [Demo video](https://www.youtube.com/watch?v=hG9LVm12ELU) · Built with claude, codex, css, javascript
 
@@ -49,6 +55,8 @@ Wallet Whisperer brings accounts, bills, debts, income, and savings goals into o
 
 AutoPM runs an end-to-end PM workflow inside a “Space” (one project), powered by LangGraph agents:.
 
+**How it used PNC Bank:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/hrishinave/HackUTD2) · [Demo video](https://www.youtube.com/watch?v=sNpusFMyFoI) · Built with html
 
 ### [ProdPlex](https://devpost.com/software/prodify-94vbpk)
@@ -57,6 +65,8 @@ AutoPM runs an end-to-end PM workflow inside a “Space” (one project), powere
 
 Prodplex acts like a team of intelligent assistants, each powered by a different Nemotron model.
 
+**How it used PNC Bank:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Ka2507/hackutd2025) · [Demo video](https://www.youtube.com/watch?v=pX8h4Dt-67c) · Built with javascript, nemotron, react
 
 ### [ProDuh! - The “duh” way to ship smarter](https://devpost.com/software/produh)
@@ -64,6 +74,8 @@ Prodplex acts like a team of intelligent assistants, each powered by a different
 [HackUTD 2025](../by-hackathon/hackutd-2025.md#project-produh) · **PNC Bank**
 
 ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discovery→Operate, works with Jira/ADO, automates busywork, and turns strategy into shippable stories—fast.
+
+**How it used PNC Bank:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/christinaduthie/produh) · [Demo video](https://www.youtube.com/watch?v=0nwymM2ZtSw) · Built with adk, agentic-architecture, ai-agent, gemini
 
@@ -75,6 +87,8 @@ ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discove
 
 Data Pattern Observatory combines real-time data tracking with statistical modeling to not only monitor but also predict data flow patterns.
 
+**How it used PNC Bank:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/siddhu-pikachu/data-observability) · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with elasticsearch, mongodb, python, redis
 
 ### [FinnAI](https://devpost.com/software/finnai)
@@ -83,13 +97,17 @@ Data Pattern Observatory combines real-time data tracking with statistical model
 
 Inspiration Managing personal finances can often feel daunting, with budgeting and saving becoming increasingly complex.
 
-[Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
+**How it used PNC Bank:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=eX-9qLLoR2E) · Built with firebase, python, streamlit
 
 ### [Hermes](https://devpost.com/software/hermes-c2onvq)
 
 [HackUTD 2024](../by-hackathon/hackutd-2024.md#project-hermes-c2onvq) · **PNC Bank**
 
 Providing investment and banking opportunities to overlooked individuals who are not able to obtain traditional financial opportunities.
+
+**How it used PNC Bank:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/AndrewG4404/HackUTD) · [Demo video](https://www.youtube.com/watch?v=DVqZ3ahW_lI) · Built with ai, crypto, fastapi, geckocoin
 

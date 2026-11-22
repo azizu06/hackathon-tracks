@@ -82,6 +82,7 @@ Pixie is one inspectable risk engine presented as two products: a commercial und
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=O47V32zbv20)
 - **All prizes at this hackathon (2):** Federato: Building the Federato Insurance Agent · Intact: The Quoting Interface of the Future
 - **How it used Federato:** Federato provided the insurance-shaped data and the language needed to interpret it.
+- **How it used Intact:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -105,7 +106,7 @@ Play a game, shop for the party, or book an entire trip end to end. Whim puts cu
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5nbMa-0Q6Io)
 - **All prizes at this hackathon (2):** Cloudflare: Best Agent with a Brain · Linq: Best Use of Linq
 - **How it used Cloudflare:** The team built Whim on Cloudflare Workers, with a Durable Object for each chat to maintain its conversation history, preferences, and plan state.
-- **How it used Linq:** The project lists linq among its Built With tags.
+- **How it used Linq:** Linq connects Whim to iMessage and supports interactive Experiences.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -134,7 +135,7 @@ Gloves that turn your movements and voice into game controls, so instead of lear
 - **Code:** [Source 1](https://github.com/Eben-Siyabalapitiya/Gestura)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oqHZeFjPbFE)
 - **All prizes at this hackathon (1):** Aramco Americas: Best Beginner Hack
-- **How it used Aramco:** Gestura turns hand movement and finger touches into game controls.
+- **How it used Aramco:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -147,17 +148,17 @@ Gloves that turn your movements and voice into game controls, so instead of lear
 
 Providence unifies your devices and AI conversations through one superagent that carries context between tasks and coordinates work across devices simultaneously, all from a single interface.
 
-[Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** cloudflare, codex, github, nginx, node.js, openai, react, swift, swiftui, three.js, typescript, vite, watchos, websockets, webxr
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Nec6JXXG9Cw)
 - **All prizes at this hackathon (1):** Aramco Americas: Best Beginner Hack
-- **How it used Aramco:** Providence lets you direct work across your connected computers through one superagent.
+- **How it used Aramco:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -174,16 +175,17 @@ Providence unifies your devices and AI conversations through one superagent that
 
 You can either describe a machine/robot you want to build, or you record a video of your workbench with all the hardware parts and machinery you have available to you.
 
-[Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
+No public code linked · [Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** backboard, brush, codex, composio, elastic, gemini, openai, openjiuwen, python, rapier, react, rox, typescript, unity
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Hl7-T8QNkPY)
 - **All prizes at this hackathon (1):** Backboard.io: Built on Backboard
+- **How it used Backboard.io:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -210,7 +212,7 @@ An agent loop that searches fusions, layouts and launch structure trying to appr
 - **Code:** [Source 1](https://github.com/cogniera/neoKernel)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Baseten: Best Use of Baseten
-- **How it used Baseten:** neoKernel is an autoresearch harness for LLM inference engines, and the Qwen3-4B engine it produced.
+- **How it used Baseten:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -250,17 +252,17 @@ Dysarthric speech recovery, in your own voice.
 
 Pick up birdies and stack them autonomously.
 
-[Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_Y) · Built with bracketbot, python, pytorch, yolo
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_Y) · Built with bracketbot, python, pytorch, yolo
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bracketbot, python, pytorch, yolo
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4XYj7Ok1-_Y)
 - **All prizes at this hackathon (1):** Bracket Bot: Best Use of Bracket Bot Hardware
-- **How it used Bracket Bot:** This autonomous BracketBot robot finds badminton birdies scattered on the floor, picks them up and stacks them to hand back to people.
+- **How it used Bracket Bot:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -273,17 +275,17 @@ Pick up birdies and stack them autonomously.
 
 Version control for the physical world.
 
-[Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
+No public code linked · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bracketbot, elasticsearch, fastapi, gaussian-splatting, git, google-cloud, javascript, mongodb, numpy, open3d, openai, opencv, opensplat, python, pytorch, raspberry-pi, react, sentry, tailscale, three.js, vercel, vla, webgl, websockets, yolo
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FEGR3mJmXMg)
 - **All prizes at this hackathon (1):** Bracket Bot: Best Use of Bracket Bot Hardware
-- **How it used Bracket Bot:** GitIRL puts a room under real version control.
+- **How it used Bracket Bot:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -296,16 +298,17 @@ Version control for the physical world.
 
 Introducing PrintDND , a robot that is able to autonomously clear the printers from their previous job and place the print down in a desired location.
 
-[Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
+No public code linked · [Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bracketbot
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HfM9EMc2IQs)
 - **All prizes at this hackathon (1):** Bracket Bot: Best Use of Bracket Bot Hardware
+- **How it used Bracket Bot:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -328,6 +331,7 @@ Realbot allows landlords and realtors to easily set up autonomous virtual tours 
 - **Code:** [Source 1](https://github.com/ariobarin/RealBot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EkgG5Q7dZB0)
 - **All prizes at this hackathon (1):** Bracket Bot: Best Use of Bracket Bot Hardware
+- **How it used Bracket Bot:** On the robot, Python services connect LiveKit to Bracket Bot’s existing bbOS hardware and mapping systems.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -354,7 +358,7 @@ plus1 joins your Google Meet with a face and a voice, is an expert in whatever y
 - **Code:** [Source 1](https://github.com/DonaldKLee/plus1)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0zWkyvdc30Y)
 - **All prizes at this hackathon (1):** Browserbase: Best Use of Browserbase
-- **How it used Browserbase:** The project lists browserbase among its Built With tags.
+- **How it used Browserbase:** Browserbase + Stagehand. browserbaseWork.ts and jevAgent.ts run a cloud Chrome session: Stagehand act / extract steps (Maps search, FEMA lookups, form fields), Gemini for the step planner, and every step logged with an ok/fail detail.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -414,7 +418,7 @@ Cover your blind spots. Model behaviour, correlate anomalies.
 - **Code:** [Source 1](https://github.com/Ch33zig/Minny)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EaLT4MyxxX4)
 - **All prizes at this hackathon (1):** CSE: Log &amp; Order
-- **How it used Communications Security Establishment:** Minny takes raw web access logs and produces three things that share one evidence base.
+- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -437,6 +441,7 @@ Doing this is tedious work, which is why automation and AI for completing these 
 - **Code:** [Source 1](https://github.com/JeremyFriesenGitHub/htn26)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Log &amp; Order
+- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -459,7 +464,7 @@ Turn HTTP logs into provable, safe incident response.
 - **Code:** [Source 1](https://github.com/Hayden9898/WatchTower)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** CSE: Log &amp; Order
-- **How it used Communications Security Establishment:** WatchTower ingests chronological HTTP logs and analyzes historical baselines to uncover multi-stage attacks.
+- **How it used Communications Security Establishment:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -513,7 +518,7 @@ Automated system to tackle the Dominion Dynamics track.
 - **Code:** [Source 1](https://github.com/Ollienel777/HTN_DOGWATCH)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Dominion Dynamics: WHITEOUT
-- **How it used Dominion Dynamics:** Dogwatch is a command and control system that coordinates four ArduPilot vehicles (a quadcopter, a fixed-wing, and two fixed towers) to find and track a shadow vessel in Bellot Strait.
+- **How it used Dominion Dynamics:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -536,7 +541,7 @@ Automated system to tackle the Dominion Dynamics track.
 - **Code:** [Source 1](https://github.com/savirsingh/DominIQ)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zN7Yl_UZopU)
 - **All prizes at this hackathon (1):** Dominion Dynamics: WHITEOUT
-- **How it used Dominion Dynamics:** DominIQ autonomously detects, locates, and tracks a moving vessel across a 6.5km Arctic environment using coordinated drones and AI.
+- **How it used Dominion Dynamics:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -559,7 +564,7 @@ Shadow Stalker is a secure program that commands an aerial fleet and multiple gr
 - **Code:** [Source 1](https://github.com/malekhammoud/Drone-Sim)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6RL2bwKpjxA)
 - **All prizes at this hackathon (1):** Dominion Dynamics: WHITEOUT
-- **How it used Dominion Dynamics:** Shadow Stalker is a program that searches for and detects "shadow vessels", sea craft that do not emit any Automatic Identification System (AIS) signals.
+- **How it used Dominion Dynamics:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -586,7 +591,7 @@ A live, on-chain prediction market that thrives on hackathon chaos. Seamlessly b
 - **Code:** [Source 1](https://github.com/Erenius-Valoraen/pred-market)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iZufLdMMyhc)
 - **All prizes at this hackathon (1):** Dryft: Dryft Company Challenge
-- **How it used Dryft:** Hedge The North lets attendees place bets on real things happening throughout the hackathon: category winners, sponsor-tied stats (like total energy drinks consumed), and community-submitted prop bets.
+- **How it used Dryft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -603,7 +608,7 @@ A live, on-chain prediction market that thrives on hackathon chaos. Seamlessly b
 
 Builds a life out of unstructured input.
 
-[Code](https://github.com/archangelinux/hereafter) · [Demo video](https://www.youtube.com/watch?v=G1VDjOIsy6M) · Built with browserbase, elasticsearch, openai, python
+[Code](https://github.com/archangelinux/hereafter) · [Demo video](https://www.youtube.com/watch?v=G1VDjOIsy6M) · Built with elasticsearch, browserbase, openai, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -613,7 +618,7 @@ Builds a life out of unstructured input.
 - **Code:** [Source 1](https://github.com/archangelinux/hereafter)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=G1VDjOIsy6M)
 - **All prizes at this hackathon (1):** Elastic: Find the Signal - Best Use of Elasticsearch
-- **How it used Elastic:** Using a cross-encoder as a decision function with Elastic JINA embeddings.
+- **How it used Elastic:** Physical Studio Code uses Elastic's Jina embeddings with a cross-encoder to make decisions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -636,7 +641,7 @@ PawTrace is a missing-pet search platform that combines community sightings and 
 - **Code:** [Source 1](https://github.com/joeyhlu/htn)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mJMGNQhIAtM)
 - **All prizes at this hackathon (1):** Elastic: Find the Signal - Best Use of Elasticsearch
-- **How it used Elastic:** PawTrace combines community sightings with footage from doorbell cameras, home cameras, and local businesses to determine where a missing pet is most likely to be.
+- **How it used Elastic:** The team built the frontend with Next.js, TypeScript, Tailwind CSS, and React Leaflet, with a FastAPI backend connected to Elasticsearch.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -653,17 +658,17 @@ PawTrace is a missing-pet search platform that combines community sightings and 
 
 An AI copilot for air traffic controllers. It plans conflict-free routes, listens to the radio with a model tuned on real ATC audio, and catches wrong pilot readbacks before they become incidents.
 
-[Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
+No public code linked · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** baseten, deck.gl, elasticsearch, elevenlabs, fastapi, huggingface, kibana, maplibre, nextjs, numpy, pydantic, python, pytorch, react, roberta, typescript, websockets, whisper
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kBiB2bNY1BI)
 - **All prizes at this hackathon (1):** MLH: Best Use of ElevenLabs
-- **How it used ElevenLabs:** The project lists elevenlabs among its Built With tags.
+- **How it used ElevenLabs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -690,7 +695,7 @@ Cospray transforms the real world into a shared canvas. Paint AR graffiti on any
 - **Code:** [Source 1](https://github.com/McMuf/htn26)
 - **Demo video:** [Video 1](https://vimeo.com/1228517458)
 - **All prizes at this hackathon (1):** Expo: Best Mobile Experience Built with Expo
-- **How it used Expo:** expo widget kit extension — used for both the Android and iOS Widgets.
+- **How it used Expo:** Fresco uses Expo Widget Kit to build home-screen widgets for Android and iOS.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -723,6 +728,7 @@ S.L.O.P. searches thousands of projects, companies and the web.
 - **Code:** [Source 1](https://github.com/enkai-liu/htn-2026)
 - **Demo video:** [Video 1](https://vimeo.com/1228515893)
 - **All prizes at this hackathon (1):** MLH: Best Domain Name from GoDaddy Registry
+- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -739,17 +745,17 @@ S.L.O.P. searches thousands of projects, companies and the web.
 
 A physical creative harness for agentic video creation.
 
-[Demo video](https://www.youtube.com/watch?v=IDO7cJnBtp0) · Built with gemini, gemini-live, node.js, openai-codex
+No public code linked · [Demo video](https://www.youtube.com/watch?v=IDO7cJnBtp0) · Built with gemini, gemini-live, node.js, openai-codex
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** gemini, gemini-live, node.js, openai-codex, react, three.js, typescript, zod
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IDO7cJnBtp0)
 - **All prizes at this hackathon (2):** Hack the North 2026: Finalists · MLH: Best Use of Gemini API
-- **How it used Google:** The project lists gemini, gemini-live among its Built With tags.
+- **How it used Google:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -776,7 +782,7 @@ MedBot turns viral health claims into evidence-backed insights and shareable vid
 - **Code:** [Source 1](https://github.com/RayanMalki/medbot-htn2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=utDEHZVCYtU)
 - **All prizes at this hackathon (1):** GPTZero: Best Use of GPTZero API
-- **How it used GPTZero:** MedBot compares a video's claim with the product label and relevant scientific evidence.
+- **How it used GPTZero:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -822,7 +828,7 @@ Snitch helps recruiters spot suspicious moments in remote interviews by combinin
 - **Code:** [Source 1](https://github.com/amelialon/Snitch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Yi8CKzDzxrU)
 - **All prizes at this hackathon (1):** GPTZero: Best Use of GPTZero API
-- **How it used GPTZero:** The project lists gptzero among its Built With tags.
+- **How it used GPTZero:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -849,7 +855,7 @@ A voice-controlled robot built to help retrieve dropped objects—with multimoda
 - **Code:** [Source 1](https://github.com/dark-sorceror/Goosetriever)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=G8Z7QbDx5YE)
 - **All prizes at this hackathon (1):** Huawei: OMNI Live Challenge
-- **How it used Huawei:** Goosetriever is an assistive robotics prototype built around a simple request:.
+- **How it used Huawei:** Goosetriever uses the Qwen-Omni API from Huawei's challenge to turn voice and camera inputs into commands for the robot.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -872,7 +878,7 @@ Extra DIY arm, made with cardboard, code, and love.
 - **Code:** [Source 1](https://github.com/savcode066/octavius)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Nh9v-tnl4-o)
 - **All prizes at this hackathon (1):** Huawei: OMNI Live Challenge
-- **How it used Huawei:** Octavius is a backpack-mounted robotic arm controlled through a Raspberry Pi and Arduino Nano.
+- **How it used Huawei:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -895,7 +901,7 @@ Specialized AI agents divide tasks, share knowledge, and migrate code across lan
 - **Code:** [Source 1](https://github.com/KenC2006/Parity)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=k8ffGmC7734)
 - **All prizes at this hackathon (1):** Huawei: openJiuwen Multi-Agent Challenge
-- **How it used Huawei:** The project lists huawei-swarmflow among its Built With tags.
+- **How it used Huawei:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -918,7 +924,7 @@ Over 6000 people are still missing after Nepal's landslide. Rescue teams are far
 - **Code:** [Source 1](https://github.com/ImperialKoi/swarm-robotics-openJiuwen)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6Lp22BUJxl0)
 - **All prizes at this hackathon (1):** Huawei: openJiuwen Multi-Agent Challenge
-- **How it used Huawei:** 蚁群 YiQun is a disaster search-and-rescue system where a human incident commander talks to a 512-robot swarm and it answers out loud.
+- **How it used Huawei:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -945,7 +951,7 @@ A full-body immersive music experience that transforms music into synchronized l
 - **Code:** [Source 1](https://github.com/Karanvir1729/feelthemusic)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WmgGEp0IGl8)
 - **All prizes at this hackathon (1):** Human Computer Lab: Build with LeLamp SDK
-- **How it used Human Computer Lab:** Switch the speakers to the OFF position all the way.
+- **How it used Human Computer Lab:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -968,6 +974,7 @@ The project consists of a main physical contribution to the LeLamp, along with m
 - **Code:** [Source 1](https://github.com/tessaSlice/lelamp-play-pack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Hx11IIzHZcw)
 - **All prizes at this hackathon (1):** Human Computer Lab: Build with LeLamp SDK
+- **How it used Human Computer Lab:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -980,16 +987,17 @@ The project consists of a main physical contribution to the LeLamp, along with m
 
 Dynamic Visibility: The digital game world begins in pitch darkness.
 
-[Demo video](https://www.youtube.com/watch?v=3Xcl9w1WM0U) · Built with codex, lelamp, python, unity
+No public code linked · [Demo video](https://www.youtube.com/watch?v=3Xcl9w1WM0U) · Built with codex, lelamp, python, unity
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** codex, lelamp, python, unity
-- **Code:** None listed.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3Xcl9w1WM0U)
 - **All prizes at this hackathon (1):** Human Computer Lab: Build with LeLamp SDK
+- **How it used Human Computer Lab:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1024,7 +1032,7 @@ Social deduction game Mafia played in your iMessages group chat; AI story narrat
 - **Code:** [Source 1](https://github.com/lolasanchezz/text-mafia)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Linq: Best Use of Linq
-- **How it used Linq:** The project lists linq among its Built With tags.
+- **How it used Linq:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1141,14 +1149,14 @@ Orbis turns an ordinary video into a 3D world you can explore.
 
 Inspired by Star Trek’s combadge and ship’s computer: a wearable AI communicator combining voice, vision, and actions. Just say, “Computer.”.
 
-[Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
+No public code linked · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** bluetooth, browserbase, btstack, c, codex, composio, conductive-fabric, conductive-thread, gmail, google-calendar, gpt-6-astra, graphql, mpr121, openai, python, qnx, raspberry-pi, shopify, turbojpeg, twilio, websockets
-- **Code:** Listed on Devpost but not verified.
+- **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZbD7XTCFx-I)
 - **All prizes at this hackathon (2):** Hack the North 2026: Finalists · QNX: Create an Embedded System with QNX that Uses AI
 - **How it used QNX:** The Pi runs QNX 8.0 and connects to a microphone, speaker, and camera.
@@ -1224,7 +1232,7 @@ An evidence-first finance research harness that uses AI to deliver fully auditab
 - **Code:** [Source 1](https://github.com/pravinpaudel/ai-harnesss-htn-2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** RBC: Signal in the Noise
-- **How it used RBC:** The harness ingests financial research from MCP data source, structures the corpus into searchable evidence, and answers research questions with verified citations.
+- **How it used RBC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1247,7 +1255,7 @@ Multi-agent research that cites its sources and flags conflicts.
 - **Code:** [Source 1](https://github.com/liamma06/searchGM)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uoozwdHRqZA)
 - **All prizes at this hackathon (1):** RBC: Signal in the Noise
-- **How it used RBC:** Answers questions over large financial research corpora with &#91;n&#93; citations that open the exact source lines.
+- **How it used RBC:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1274,6 +1282,7 @@ Live voice and action reactive canvas for the future of presentations.
 - **Code:** [Source 1](https://github.com/Marcus990/adlib)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7rFWjY7Ly7k)
 - **All prizes at this hackathon (1):** Rox: Best AI Agent
+- **How it used Rox:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1296,7 +1305,7 @@ Run your browser agents faster-- at a fraction of the cost.
 - **Code:** [Source 1](https://github.com/evanzyang91/jevis)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Rox: Best AI Agent
-- **How it used Rox:** The first time, it explores the site step by step.
+- **How it used Rox:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1323,7 +1332,7 @@ Agent for adapting, optimizing, and running code on any machine, anywhere.
 - **Code:** [Source 1](https://github.com/ji24077/HTN)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0Jx7tl-mJ9Y)
 - **All prizes at this hackathon (1):** Sentry: Best Use of Sentry
-- **How it used Sentry:** The team use Sentry as the telemetry platform across the system, collecting errors, logs, traces, and performance measurements.
+- **How it used Sentry:** The team uses Sentry as the telemetry platform across the system, collecting errors, logs, traces, and performance measurements.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1369,7 +1378,7 @@ Once enough keyframes have been extracted, the model samples up to 220 frames an
 - **Code:** [Source 1](https://github.com/akashngb/punching-face)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wWvFjsOJgjA)
 - **All prizes at this hackathon (2):** Hack the North 2026: Finalists · Sentry: Best Use of Sentry
-- **How it used Sentry:** The project lists sentry among its Built With tags.
+- **How it used Sentry:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1446,6 +1455,7 @@ PiHive is a cluster of Raspberry Pis running one LLM together via tensor-paralle
 - **Code:** [Source 1](https://github.com/mariamelsahharr/htn-2026-dist-inf)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3rHr03Vt5Rw)
 - **All prizes at this hackathon (1):** MLH: Best Use of Snowflake API
+- **How it used Snowflake:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1472,6 +1482,7 @@ Every player is armed with an ESP32-C3 badge with an LED strip, a small screen, 
 - **Code:** [Source 1](https://github.com/s-illly/htn-amongus)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Solana: Best Use of Solana and Badge Hack
+- **How it used Solana:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1571,6 +1582,7 @@ But how does it know where the defects are.
 - **Code:** [Source 1](https://github.com/Georgeyy07/HackTheNorth2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MLH: Best Use of Tiger Data
+- **How it used Tiger Data:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1597,6 +1609,7 @@ C. elegans (or the roundworm) was the first.
 - **Code:** [Source 1](https://github.com/MarcDasilva/flyVSworm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uWx6xYoPXUY)
 - **All prizes at this hackathon (1):** Unto Labs: Best Use of Thru
+- **How it used Unto Labs:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1623,7 +1636,7 @@ Triviality combines an interactive mathematical atlas with a workspace for runni
 - **Code:** [Source 1](https://github.com/sharonbasovich/norththehackers)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JoDcHAMOXgo)
 - **All prizes at this hackathon (1):** MLH: Best Use of Vultr
-- **How it used Vultr:** The team used Vultr to host the mathematical experiment worker and Lean runner .
+- **How it used Vultr:** The team used Vultr to host the mathematical experiment worker and Lean runner.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1650,7 +1663,7 @@ Augmented Reality debugging tool. Spatial diagnostics for embedded systems.
 - **Code:** [Source 1](https://github.com/PyneKoyne/AR-Debugger)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lSqLyfDsvgU)
 - **All prizes at this hackathon (1):** Warp: Best Developer Tool by Warp
-- **How it used Warp:** ARDB allows you to view sensor data values simultaneously , in augmented reality .
+- **How it used Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1677,7 +1690,7 @@ A policy firewall for AI agents. Whatever your enterprise cares about, AgentGate
 - **Code:** [Source 1](https://github.com/japneet250/Agent-Gate)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Zip: Best Use of Zip
-- **How it used Zip:** The project lists zip among its Built With tags.
+- **How it used Zip:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1700,7 +1713,7 @@ turn a message into enterprise action.
 - **Code:** [Source 1](https://github.com/reneeyyx/YourCall)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0poH1JGydeM)
 - **All prizes at this hackathon (1):** Zip: Best Use of Zip
-- **How it used Zip:** The team use Zip REST and Zip MCP for deliberately different jobs .
+- **How it used Zip:** YourCall reads live procurement requests through Zip REST and uses Zip MCP to investigate approval context.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

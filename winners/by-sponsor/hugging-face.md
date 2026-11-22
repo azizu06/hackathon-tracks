@@ -25,13 +25,15 @@ Farsight lets a rescuer drive a rover remotely, inspect its live camera, and rev
 
 **How it used Hugging Face:** Hugging Face model artifacts power the on-device voice and vision assistant, which can draft notes from field observations.
 
-[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with hugging-face, qwen, arduino, arkit
+[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with hugging-face, arduino, arkit, depth-anything
 
 ### [Here](https://devpost.com/software/here-vqlrhg)
 
 [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-here-vqlrhg) · **Best Use of Open Source AI**
 
 A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from.
+
+**How it used Hugging Face:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Korirussell/Here) · [Demo video](https://www.youtube.com/watch?v=2gRH8oV8e80) · Built with huggingface, arkit, jev, python
 
@@ -41,7 +43,9 @@ A wearable uses directional vibrations to tell deaf and hard-of-hearing users wh
 
 A spatial awareness tool tracks objects and remembers their locations when they move out of view.
 
-[Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with qwen-3d, arduino, c++, cuda
+**How it used Hugging Face:** Sponsor use not stated on Devpost
+
+[Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with arduino, c++, cuda, javascript
 
 ## Track names and requirements
 

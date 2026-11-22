@@ -23,6 +23,8 @@
 
 Augmented Reality debugging tool. Spatial diagnostics for embedded systems.
 
+**How it used Warp:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/PyneKoyne/AR-Debugger) · [Demo video](https://www.youtube.com/watch?v=lSqLyfDsvgU) · Built with augmented-reality, embedded, esp32, mqtt
 
 ### [Arena](https://devpost.com/software/arena-lz2m84)
@@ -41,6 +43,8 @@ A software development tool compares solutions created by competing coding agent
 
 A code research tool indexes commit history so developers can search for earlier decisions.
 
+**How it used Warp:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/OM200401/nwHacks-2026) · Built with 1password, cortex, fastapi, gemini
 
 ## 2025 winners
@@ -51,6 +55,8 @@ A code research tool indexes commit history so developers can search for earlier
 
 Talk, gesture, and bring your code to life.
 
+**How it used Warp:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/vsahni3/CodeFusion) · [Demo video](https://www.youtube.com/watch?v=iqgE5-5C61M) · Built with flask, gemini, intersystems, openai
 
 ### [Codex](https://devpost.com/software/codex-r2toqu)
@@ -59,7 +65,9 @@ Talk, gesture, and bring your code to life.
 
 Work with untapped talents across language barriers.
 
-Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
+**How it used Warp:** Sponsor use not stated on Devpost
+
+No public code linked · Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
 
 ### [InfraBlocks](https://devpost.com/software/infrablocks)
 
@@ -77,6 +85,8 @@ Making cloud services what they were meant to be — simple.
 
 A wildfire operations dashboard brings live video and voice controls into the incident workflow.
 
+**How it used Warp:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/SupratikPanuganti/CalHacks) · [Demo video](https://www.youtube.com/watch?v=MX_pJRwUJjU) · Built with amazon-web-services, clsx, composio, date-fns
 
 ### [Puppeteer](https://devpost.com/software/puppeteer-7429qv)
@@ -84,6 +94,8 @@ A wildfire operations dashboard brings live video and voice controls into the in
 [Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-puppeteer-7429qv) · **Best Developer Tool by Warp**
 
 Bring your code to life. Orchestrate your code in the runtime.
+
+**How it used Warp:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/BrianLi23/puppeteer) · [Demo video](https://www.youtube.com/watch?v=_AtQyyInhEY) · Built with agents, ai, cohere, gemini
 
@@ -93,13 +105,17 @@ Bring your code to life. Orchestrate your code in the runtime.
 
 A planning tool turns a written software idea into an editable architecture graph and starter repository.
 
-[Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
+**How it used Warp:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
 
 ### [termiknow](https://devpost.com/software/termiknow)
 
 [nwHacks 2025](../by-hackathon/nwhacks-2025.md#project-termiknow) · **Warp Sponsor Prize**
 
 A terminal search tool runs user-defined commands against selected databases.
+
+**How it used Warp:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/zhangLily2020/nwhacks2025) · Built with warp, chromadb, python, rich
 
@@ -111,6 +127,8 @@ A terminal search tool runs user-defined commands against selected databases.
 
 Schema generation : users provide a website URL and an empty JSON schema, which is automatically filled and returned by the Cohere AI backend as a well-structured API.
 
+**How it used Warp:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Zackydout101/htn) · [Demo video](https://www.youtube.com/watch?v=uMJXzlMF9NI) · Built with cohere, eth, next.js, tailwind
 
 ### [Ensemble](https://devpost.com/software/ensemble-e8gxja)
@@ -118,6 +136,8 @@ Schema generation : users provide a website URL and an empty JSON schema, which 
 [MHacks 2024](../by-hackathon/mhacks-2024.md#project-ensemble-e8gxja) · **Best Developer Tool**
 
 A hierarchal multi-agent framework built from scratch. Transforms complex goals into subproblems, that are dynamically assigned to specialized agents, boosting productivity and lowering cost.
+
+**How it used Warp:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/slainhedden/mhacks-ensemble) · [Demo video](https://www.youtube.com/watch?v=LuE2RwMGqi4) · Built with amazon-web-services, docker, json, openai
 
@@ -127,6 +147,8 @@ A hierarchal multi-agent framework built from scratch. Transforms complex goals 
 
 Review : Once your code is complete, GenHint reviews it, checking for accuracy and best practices, giving you feedback to ensure your code is indeed working.
 
+**How it used Warp:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/zichenzhang04/GenHint) · [Demo video](https://www.youtube.com/watch?v=72yeRx4773o) · Built with warp, azure, git, github
 
 ### [Napkin AI](https://devpost.com/software/napkin-ymh5f4)
@@ -134,6 +156,8 @@ Review : Once your code is complete, GenHint reviews it, checking for accuracy a
 [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md#project-napkin-ymh5f4) · **Best Developer Tool sponsored by Warp**
 
 A devtool for understanding codebases faster and easier.
+
+**How it used Warp:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Sharwin24/HackAtBrown) · Built with machine-learning, natural-language-processing, python, torch
 
@@ -143,6 +167,8 @@ A devtool for understanding codebases faster and easier.
 
 Real-time error monitoring from the terminal, helping developers spend less time solving common problems.
 
+**How it used Warp:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/denniwang/t-error) · [Demo video](https://www.youtube.com/watch?v=MNrN6I0-H-A) · Built with c++, javascript, mongodb, nextjs
 
 ### [Unreal EngJam](https://devpost.com/software/unreal-engjam)
@@ -150,6 +176,8 @@ Real-time error monitoring from the terminal, helping developers spend less time
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-unreal-engjam) · **Best Developer Tool by Warp**
 
 A prototype implements a programming language and game engine inside Figma.
+
+**How it used Warp:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/kognise/aldente) · [Demo video](https://www.youtube.com/watch?v=765IiE3aNFA) · Built with figma, typescript
 

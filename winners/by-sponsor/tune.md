@@ -23,6 +23,8 @@
 
 CoffeeStarter is the ultimate networking tool. It leverages your resume to craft personalized coffee chat emails to alumni professionals in your desired field, helping you stand out in today's market.
 
+**How it used Tune:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/sutharsikakumar/PennApps-XXV) · [Demo video](https://www.youtube.com/watch?v=-Sh9W3QzrO4) · Built with tune, css, figma, html
 
 ### [Hivemind](https://devpost.com/software/education-2-0)
@@ -30,6 +32,8 @@ CoffeeStarter is the ultimate networking tool. It leverages your resume to craft
 [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-education-2-0) · **Best Next-Gen LLM-Powered Application**
 
 Empowering students to collectively build smarter, interactive lessons for a better learning experience.
+
+**How it used Tune:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/danielodicho/upenn) · [Demo video](https://www.youtube.com/watch?v=-HKme-4BvmY) · Built with cerebras, chatgpt, chroma, codeium
 

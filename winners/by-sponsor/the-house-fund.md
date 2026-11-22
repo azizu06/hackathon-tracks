@@ -23,13 +23,17 @@
 
 AiTC is transforming the aviation industry by automating ATC radio calls and providing analytics for faster, more accurate responses, allowing air traffic controllers to focus on critical situations.
 
-Built with ai, python, reflex, vapi
+**How it used The House Fund:** Sponsor use not stated on Devpost
+
+No public code linked · Built with ai, python, reflex, vapi
 
 ### [Ducky.AI](https://devpost.com/software/ducky-ai)
 
 [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-ducky-ai) · **"Cal" Track**
 
 An LLM Rubber Ducky. Never worry about being unprepared for a presentation ever again.
+
+**How it used The House Fund:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/adit-bala/ducky.ai) · Built with amazon-web-services, deno, docker, mongodb
 
@@ -39,7 +43,9 @@ An LLM Rubber Ducky. Never worry about being unprepared for a presentation ever 
 
 EduGap enhances the AI models Students can use by automating the integration of class-specific materials in Google Classroom while Teachers gain insight on student problem-areas.
 
-Built with api, chroma, chromadb, chrome
+**How it used The House Fund:** Sponsor use not stated on Devpost
+
+No public code linked · Built with api, chroma, chromadb, chrome
 
 ## Track names and requirements
 

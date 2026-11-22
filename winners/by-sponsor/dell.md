@@ -23,6 +23,8 @@
 
 Distributed mobile cloud computing, harnessing the power of idle devices to perform arbitrary tasks.
 
+**How it used Dell:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/cwu2020/nimbus) · Built with css, docker, express.js, html
 
 ## Track names and requirements

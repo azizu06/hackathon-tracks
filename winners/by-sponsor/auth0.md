@@ -23,6 +23,8 @@
 
 Aladin is an AI agent that lives in your browser.
 
+**How it used Auth0:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/ThomasKidane/aladin) · [Demo video](https://www.youtube.com/watch?v=bl4MjAQ5oZ8) · Built with auth0
 
 ### [Docket](https://devpost.com/software/docket-2r9wke)
@@ -33,7 +35,7 @@ Docket is a web app that gives developers a visual, AI-summarized history of the
 
 **How it used Auth0:** Building a working GitHub authentication service using auth0, allowing anyone to sign in and use the app right away using their GitHub information.
 
-[Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
+No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
 
 ### [GhostKode](https://devpost.com/software/ghostkode)
 
@@ -41,7 +43,7 @@ Docket is a web app that gives developers a visual, AI-summarized history of the
 
 GhostKode uses your Git history to identify the most unstable lines in your codebase.
 
-**How it used Auth0:** Built with @auth0/nextjs-auth0 v4 and Next.js 16 App Router.
+**How it used Auth0:** The team built with @auth0/nextjs-auth0 v4 and Next.js 16 App Router.
 
 [Code](https://github.com/bbmullen72/ghostkode) · [Demo video](https://www.youtube.com/watch?v=H6tUjbQjOkg) · Built with ast, embeddings, gemini, github
 
@@ -50,6 +52,8 @@ GhostKode uses your Git history to identify the most unstable lines in your code
 [LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-standin-skpgje) · **Best Use of Auth0 AI Agents**
 
 The team describes the project as “StandIn on Business”.
+
+**How it used Auth0:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/Boroshilov03/StandIn) · [Demo video](https://vimeo.com/1186688249) · Built with auth0, asusgx10, fetch.ai, gemini
 
@@ -61,6 +65,8 @@ The team describes the project as “StandIn on Business”.
 
 A command-center for T-Mobile product managers to anticipate customer needs. See sentiment in real time, predict outages, and allocate resources—all to strengthen every customer connection.
 
+**How it used Auth0:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/Siriapps/HarmoniQ) · [Demo video](https://www.youtube.com/watch?v=rJU3_Fffqnc) · Built with fastapi, flask, gemini, python
 
 ### [Splitr](https://devpost.com/software/splitr-vbt924)
@@ -69,7 +75,9 @@ A command-center for T-Mobile product managers to anticipate customer needs. See
 
 Your Face, Your Share, Your Bill.
 
-[Demo video](https://www.youtube.com/watch?v=tZ9x2874vH4) · Built with auth0, css, flask, git
+**How it used Auth0:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=tZ9x2874vH4) · Built with auth0, css, flask, git
 
 ### [Sustain-A-Prompt](https://devpost.com/software/sustain-a-prompt)
 
@@ -77,7 +85,9 @@ Your Face, Your Share, Your Bill.
 
 Greener AI, one prompt at a time.
 
-[Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
+**How it used Auth0:** Sponsor use not stated on Devpost
+
+No public code linked · [Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O4) · Built with accessible, cerebras-(chat), framer-motion, google-gemini-(optimize)
 
 ### [Sylly](https://devpost.com/software/sylly)
 
@@ -116,6 +126,8 @@ The project reads your lips and puts it into text, creating notes for the video 
 [ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-watchdog-vz03q8) · **Best Use of Auth0**
 
 A real time LLM based threat identification application.
+
+**How it used Auth0:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/nikil1506/ShellHacks-WatchDog) · Built with cv2, firebase, flutter, gemini
 

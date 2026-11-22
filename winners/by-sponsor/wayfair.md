@@ -23,6 +23,8 @@
 
 Housing inequality, the disparity in housing due to socioeconomic factors, is a major issue in the society.
 
+**How it used Wayfair:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/ShashvatS/HappyHome) · Built with azure, css, google-cloud, google-maps
 
 ## Track names and requirements

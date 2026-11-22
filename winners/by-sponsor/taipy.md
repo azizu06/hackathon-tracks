@@ -23,7 +23,7 @@
 
 A large part of the weekend was spent exploring the various quantum algorithms.
 
-**How it used Taipy:** Developed using Taipy for frontend and backend functionality.
+**How it used Taipy:** The team developed using Taipy for frontend and backend functionality.
 
 [Code](https://github.com/leemzius/whseurddy) · [Demo video](https://www.youtube.com/watch?v=wGPTKrjOgko) · Built with taipy, cirq, css, openai
 

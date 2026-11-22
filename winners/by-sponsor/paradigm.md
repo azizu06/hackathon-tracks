@@ -23,6 +23,8 @@
 
 Massively parallelized agentic research workflows using spreadsheets as a primitive.
 
+**How it used Paradigm:** Sponsor use not stated on Devpost
+
 [Code](https://github.com/WeltonWang02/spreadsheet_hackathon) · [Demo video](https://www.youtube.com/watch?v=spfLzOUNp44) · Built with agents, apis, llms, typescript
 
 ## Track names and requirements
