@@ -14,7 +14,7 @@ from evidence import project_details
 from fetch import cache_path
 from publish import validate_cached_inference
 from sponsor_use import (
-    AWARD, CODE, THEME, VIDEO, check_cached_use, code_coverage_text, inference_source,
+    AWARD, CODE, COVERAGE_DISCLOSURE, VIDEO, check_cached_use, code_coverage_text, inference_source,
     load_award_tracks, load_inferred_uses, load_prize_kinds, load_uses, prize_coverage, prize_coverage_text, prize_key,
     track_key, use_heading, validate_prize_kind, validate_use,
 )
@@ -65,10 +65,18 @@ def verify_site(site, rows):
     for name in ("app.js", "style.css"):
         path = site / name
         check_display_money(path.read_text(encoding="utf-8"), path)
-    for name, disclosure in (("prize coverage", prize_coverage_text(rows)), ("code coverage", code_coverage_text(rows))):
-        assert f"<!-- BEGIN {name} -->{html.escape(disclosure)}<!-- END {name} -->" in index, (
-            "Site hero coverage counts are stale. Run python3 site/build.py."
+    hero = index.partition('<section class="hero"')[2].partition("</section>")[0]
+    coverage = [
+        f"<p><!-- BEGIN {name} -->{html.escape(text)}<!-- END {name} --></p>"
+        for name, text in (
+            ("coverage disclosure", COVERAGE_DISCLOSURE),
+            ("prize coverage", prize_coverage_text(rows)),
+            ("code coverage", code_coverage_text(rows)),
         )
+    ]
+    assert re.search(r"\s*".join(map(re.escape, coverage)), hero), (
+        "Site hero disclosure or coverage counts are stale. Run python3 site/build.py."
+    )
     path = site / "catalog.js"
     data = path.read_text(encoding="utf-8")
     prefix, suffix = "window.TRACKS_CATALOG = ", ";\n"
@@ -105,8 +113,7 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
         key = prize_key(row)
         for field in DISPLAY_FIELDS:
             check_display_money(row[field], f"{key}/{field}")
-        if row["use_source"] in {AWARD, THEME}:
-            check_display_money(row["use_quote"], f"{key}/use_quote")
+        check_display_money(row["use_quote"], f"{key}/use_quote")
         assert key not in seen, f"Duplicate project prize {key}"
         seen.add(key)
         assert row["event_prize_count"] == len(set(row["event_prizes"])), key
@@ -195,9 +202,13 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
             assert (root / relative_path).read_bytes() == (replay / relative_path).read_bytes(), relative_path
         if readme:
             preview = replay / "root-readme.md"
-            preview.write_bytes(readme.read_bytes())
+            readme_bytes = readme.read_bytes()
+            assert readme_bytes.split(b"\n\n", 2)[1:2] == [b"<!-- BEGIN prize coverage -->"], (
+                "README coverage disclosure must appear directly below the title"
+            )
+            preview.write_bytes(readme_bytes)
             update_readme(preview, rows)
-            assert readme.read_bytes() == preview.read_bytes(), "Root README indexes or badges are stale"
+            assert readme_bytes == preview.read_bytes(), "Root README disclosure, counts, indexes or badges are stale"
             for name in ROOT_PAGES:
                 assert (readme.parent / name).read_bytes() == (replay / name).read_bytes(), f"{name} is stale"
     if readme:

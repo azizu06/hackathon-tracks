@@ -20,6 +20,7 @@ VIDEO = "demo_video"
 AWARD = "award"
 THEME = "theme_prize"
 THEME_HEADING = "Theme prize"
+COVERAGE_DISCLOSURE = "Sponsor use and code links are shown wherever the write-up, demo or repo has them."
 AWARD_GAP_NOTE = "The write-up gives no details on how the team used the sponsor’s tech."
 INFERRED_PREFIX = "inferred:"
 INFERRED_FROM = {
@@ -285,8 +286,7 @@ def prize_coverage_text(rows):
     return (
         f'{counts["shown"]:,} prize rows with a documented role · '
         f'{counts["listed"]:,} with technology listed only · {counts["inferred"]:,} inferred · '
-        f'{counts["theme"]:,} theme prizes · {counts["gap"]:,} with no use found. '
-        "Theme prize cards show the award, plus any listed tools or linked resources."
+        f'{counts["theme"]:,} theme prizes · {counts["gap"]:,} with no use found.'
     )
 
 

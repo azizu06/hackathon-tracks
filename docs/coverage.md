@@ -530,13 +530,13 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 
 ## Coverage and link limits
 
-965 prize rows with a documented role · 45 with technology listed only · 25 inferred · 472 theme prizes · 190 with no use found. Theme prize cards show the award, plus any listed tools or linked resources.
+965 prize rows with a documented role · 45 with technology listed only · 19 inferred · 472 theme prizes · 196 with no use found.
 
 1,263 of 1,553 project cards have public code links.
 
 - Built With tags are available for 1,536 of 1,553 project editions.
 - Team counts are available for 1,553 project editions.
-- Summary evidence by award row: Devpost project write-up (852), Devpost prize title (526), Integration detail unavailable (113), GitHub source code (59), Devpost Built With (44), GitHub README (42).
+- Summary evidence by award row: Devpost project write-up (852), Devpost prize title (532), Integration detail unavailable (113), GitHub source code (59), Devpost Built With (44), GitHub README (42).
 - Source code links verified HTTP 200 for 1311 of 1441 unique recognized links.
 - The 60 editions use 34 display names. The Markdown hackathon index groups them into 23 event series.
 - Demo video links verified HTTP 200 for 1251 of 1251 unique recognized links.

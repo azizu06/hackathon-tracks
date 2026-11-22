@@ -10,7 +10,7 @@
 
 - **Most used tech:** amazon-dynamodb (1), amazon-web-services (1), beautiful-soup (1), eventbridge (1), lambda (1)
 - **Project areas:** None listed
-- **Demo formats:** None listed
+- **Demo formats:** Web app or dashboard (1)
 - **Demo videos:** 1 of 1 winners link one
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
@@ -21,9 +21,9 @@
 
 [Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-contractscope) · **Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group**
 
-The team experimented with different NLP architectures and fine-tuning strategies to ensure the accuracy and efficiency of the model while still being robust and lightweight.
+The team scraped contract pages from the Department of Defense website and fed the results into its custom NLP model.
 
-**Inferred use of Bloomberg Industry Group:** Likely used the Bloomberg Industry Group challenge’s Defense Department contract notices for parsing government contract details with an NLP model (inferred from the write-up). [Evidence](https://devpost.com/software/contractscope)
+**Award:** Won “Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group” from Bloomberg Industry Group. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/TylerK4832/ContractScope) · [Demo video](https://www.youtube.com/watch?v=_HmigEf25Q4) · Built with amazon-dynamodb, amazon-web-services, beautiful-soup, eventbridge
 

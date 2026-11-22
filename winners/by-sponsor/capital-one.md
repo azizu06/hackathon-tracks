@@ -113,7 +113,7 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 
 An offline guide helps survivors find state compensation programs and trace eligibility to the relevant law.
 
-**How it used Capital One:** The project uses Capital One’s Nessie bank to pay after typing a 6-digit code.
+**How it used Capital One:** Capital One’s Nessie bank is used only after typing a 6-digit code.
 
 [Code](https://github.com/thesanatt/tend) · Built with capital-one-nessie, agentverse, asi-one, c++
 

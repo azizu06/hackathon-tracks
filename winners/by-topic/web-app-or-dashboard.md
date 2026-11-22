@@ -2,7 +2,7 @@
 
 # Web app or dashboard
 
-**371 winning projects** · 56 hackathons
+**372 winning projects** · 56 hackathons
 
 Matched from keywords in the project description and its tech tags.
 
@@ -10,10 +10,10 @@ Matched from keywords in the project description and its tech tags.
 
 ## What winners have in common
 
-- **Most used tech:** typescript (234), next.js (221), python (203), react (199), fastapi (103)
+- **Most used tech:** typescript (235), next.js (221), python (204), react (200), fastapi (103)
 - **Project areas:** Finance and commerce (35), Health and care (21), Education and learning (20)
-- **Demo formats:** Web app or dashboard (371), Voice or conversational interface (25), Hardware or robotics (19)
-- **Demo videos:** 322 of 371 winners link one
+- **Demo formats:** Web app or dashboard (372), Voice or conversational interface (25), Hardware or robotics (19)
+- **Demo videos:** 323 of 372 winners link one
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
@@ -2558,6 +2558,14 @@ It's a social cheese rating and sharing website.
 Automatically file home insurance claims after natural disasters.
 
 [Code](https://github.com/SonavAgarwal/calhacks-24) · [Demo video](https://www.youtube.com/watch?v=2fkQlLvGIrQ) · Built with amazon-ec2, amazon-web-services, chromadb, flask
+
+### [ContractScope](https://devpost.com/software/contractscope)
+
+[Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-contractscope)<br>[Bloomberg Industry Group](../by-sponsor/bloomberg-industry-group.md) · **Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group**
+
+The team scraped contract pages from the Department of Defense website and fed the results into its custom NLP model.
+
+[Code](https://github.com/TylerK4832/ContractScope) · [Demo video](https://www.youtube.com/watch?v=_HmigEf25Q4) · Built with amazon-dynamodb, amazon-web-services, beautiful-soup, eventbridge
 
 ### [courselrns](https://devpost.com/software/courselrns)
 

@@ -24,7 +24,7 @@ Find winners by what they were about, how they were demoed, or what they were bu
 
 | Type | Winning projects | Top sponsors |
 | --- | --- | --- |
-| [Web app or dashboard](winners/by-topic/web-app-or-dashboard.md) | 371 | [Fetch.ai](winners/by-sponsor/fetch-ai.md), [Google](winners/by-sponsor/google.md), [.Tech Domains](winners/by-sponsor/tech-domains.md) |
+| [Web app or dashboard](winners/by-topic/web-app-or-dashboard.md) | 372 | [Fetch.ai](winners/by-sponsor/fetch-ai.md), [Google](winners/by-sponsor/google.md), [.Tech Domains](winners/by-sponsor/tech-domains.md) |
 | [Hardware or robotics](winners/by-topic/hardware-or-robotics.md) | 171 | [Google](winners/by-sponsor/google.md), [NVIDIA](winners/by-sponsor/nvidia.md), [QNX](winners/by-sponsor/qnx.md) |
 | [Mobile app](winners/by-topic/mobile-app.md) | 139 | [Google](winners/by-sponsor/google.md), [Figma](winners/by-sponsor/figma.md), [Meta](winners/by-sponsor/meta.md) |
 | [Voice or conversational interface](winners/by-topic/voice-or-conversational-interface.md) | 102 | [Google](winners/by-sponsor/google.md), [Fetch.ai](winners/by-sponsor/fetch-ai.md), [ElevenLabs](winners/by-sponsor/elevenlabs.md) |

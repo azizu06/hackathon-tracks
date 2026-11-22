@@ -11,7 +11,7 @@ from urllib.parse import quote, urlencode, urlsplit
 from catalog_display import display_prize_title, display_text, has_money, short_prize_title
 from fetch import verified_link
 from publish import HERE, OTHER_SPONSOR, dedup_project_rows, events, gallery_url
-from sponsor_use import code_coverage_text, prize_coverage_text, use_coverage, use_heading
+from sponsor_use import COVERAGE_DISCLOSURE, code_coverage_text, prize_coverage_text, use_coverage, use_heading
 
 
 SITE_URL = "https://tracks.azizu.dev/"
@@ -524,7 +524,7 @@ def update_readme(path, rows):
     ]
     lines = path.read_text(encoding="utf-8")
     for name, section in (
-        ("prize coverage", [prize_coverage_text(rows), "", code_coverage_text(rows)]),
+        ("prize coverage", [COVERAGE_DISCLOSURE, "", prize_coverage_text(rows), "", code_coverage_text(rows)]),
         ("browse", browse_section(rows, sponsors, editions)),
         ("coverage", [" ".join(
             f"![{count:,} {label.lower()}](https://img.shields.io/badge/{label.replace(' ', '%20')}-{count:,}-{color})"

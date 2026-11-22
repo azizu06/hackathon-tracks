@@ -10,7 +10,7 @@
 
 - **Most used tech:** python (12), javascript (7), react (6), github (5), node.js (5)
 - **Project areas:** Climate and environment (2), Safety and emergency response (2), Finance and commerce (1)
-- **Demo formats:** Mobile app (2), Web app or dashboard (2), Voice or conversational interface (1)
+- **Demo formats:** Web app or dashboard (3), Mobile app (2), Voice or conversational interface (1)
 - **Demo videos:** 4 of 17 winners link one
 
 <sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
@@ -73,7 +73,7 @@ Vistra puts the power in the EYES of the user.
 
 [Bloomberg Industry Group](../by-sponsor/bloomberg-industry-group.md) · **Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group**
 
-The team experimented with different NLP architectures and fine-tuning strategies to ensure the accuracy and efficiency of the model while still being robust and lightweight.
+The team scraped contract pages from the Department of Defense website and fed the results into its custom NLP model.
 
 [Code](https://github.com/TylerK4832/ContractScope) · [Demo video](https://www.youtube.com/watch?v=_HmigEf25Q4) · Built with amazon-dynamodb, amazon-web-services, beautiful-soup, eventbridge
 
@@ -85,7 +85,7 @@ The team experimented with different NLP architectures and fine-tuning strategie
 - **Code:** [Source 1](https://github.com/TylerK4832/ContractScope)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_HmigEf25Q4)
 - **All prizes at this hackathon (1):** Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group
-- **Inferred use of Bloomberg Industry Group:** Likely used the Bloomberg Industry Group challenge’s Defense Department contract notices for parsing government contract details with an NLP model (inferred from the write-up). [Evidence](https://devpost.com/software/contractscope)
+- **Award:** Won “Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group” from Bloomberg Industry Group. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -188,7 +188,7 @@ An offline guide helps survivors find state compensation programs and trace elig
 - **Code:** [Source 1](https://github.com/thesanatt/tend)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Nessie @ Capital One
-- **How it used Capital One:** The project uses Capital One’s Nessie bank to pay after typing a 6-digit code.
+- **How it used Capital One:** Capital One’s Nessie bank is used only after typing a 6-digit code.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

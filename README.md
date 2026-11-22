@@ -1,14 +1,16 @@
 # Hackathon Tracks
 
-Past hackathon winners, organized by the sponsor prize they won, so you can see what judges rewarded before you pick your next project.
-
 <!-- BEGIN prize coverage -->
 
-965 prize rows with a documented role · 45 with technology listed only · 25 inferred · 472 theme prizes · 190 with no use found. Theme prize cards show the award, plus any listed tools or linked resources.
+Sponsor use and code links are shown wherever the write-up, demo or repo has them.
+
+965 prize rows with a documented role · 45 with technology listed only · 19 inferred · 472 theme prizes · 196 with no use found.
 
 1,263 of 1,553 project cards have public code links.
 
 <!-- END prize coverage -->
+
+Past hackathon winners, organized by the sponsor prize they won, so you can see what judges rewarded before you pick your next project.
 
 **[Search every winner at tracks.azizu.dev](https://tracks.azizu.dev/)**
 

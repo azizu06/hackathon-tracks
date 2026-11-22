@@ -372,5 +372,11 @@ The Cognition rules leave teams free to choose their tools. The build classifies
 Theme rows with a listing, import or link count once in the theme total. The no-use-found count includes 70 award-only notes, 113 rows with no evidence and 7 linked resources without a role or technology listing.
 
 Rebuilt from the saved Devpost, README, pinned-code and demo-caption caches. `python3 site/build.py` and `python3 scripts/verify.py --readme README.md` passed. The verifier checks the five coverage buckets and compares all catalog sponsor notes and headings with the export.
+
+### R4 ship follow-up
+
+Moved Duck Duck Goose (**95**), ContractScope (**186**), CyberDrive (**1477**), HorizonX (**1478**), and both VisionGuard rows (**1479–1480**) from inferred use to award framing. ContractScope's project description records the Department of Defense website scraping and the custom NLP model. The 311.ai note now credits PaleBlue.ai with powering the rating system and identifies Token Router as what PaleBlue.ai runs on. Tend, Voider and Poke SDR cite shorter verbatim excerpts.
+
+The README, site hero and coverage report now count **965** documented roles, **45** technology listings only, **19** inferences, **472** theme prizes and **196** with no use found, for **1,697** prize rows. **1,263** of **1,553** projects have public code links.
 - Checked that every prize appears in exactly one of the three buckets, every theme row has a matching ledger record and award quote, and the README, site and coverage report publish identical totals. Also checked the exact theme heading in the catalog, with failing fixtures for a stale count, missing basis, incorrect heading and old gap wording.
 - Compared prize identities, public code links and all previously inferred notes with the resource-fix baseline. Confirmed the disclosure and sampled theme, tech-gap and inference headings in Chrome at 1,280 and 390 pixels.
