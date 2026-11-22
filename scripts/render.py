@@ -499,10 +499,8 @@ def directory_sections(rows, sponsors, editions):
              f"Filter all {projects:,} winners by sponsor, hackathon, year and tech."),
         ]), "",
         "## Top sponsors", "",
-        *data_table(["Sponsor", "Winning projects", "Hackathons", "Winners often used"], (
-            (*sponsor_rows(name, entries, "winners/"),
-             ", ".join(md(tag) for tag, _ in common_tech(entries)[:3]) or "—")
-            for name, entries in top
+        *data_table(["Sponsor", "Winning projects", "Hackathons"], (
+            sponsor_rows(name, entries, "winners/") for name, entries in top
         )), "",
         f"[See all {len(named):,} sponsors](SPONSORS.md)",
     ]

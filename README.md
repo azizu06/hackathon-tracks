@@ -25,20 +25,20 @@ Past hackathon winners, organized by the sponsor prize they won, so you can see 
 
 ## Top sponsors
 
-| Sponsor | Winning projects | Hackathons | Winners often used |
-| --- | --- | --- | --- |
-| [Google](winners/by-sponsor/google.md) | 71 | 41 | python, react, gemini |
-| [Fetch.ai](winners/by-sponsor/fetch-ai.md) | 65 | 11 | python, fetch.ai, react |
-| [Wolfram](winners/by-sponsor/wolfram.md) | 38 | 6 | python, javascript, google-cloud |
-| [Solana](winners/by-sponsor/solana.md) | 29 | 22 | solana, react, python |
-| [Capital One](winners/by-sponsor/capital-one.md) | 28 | 21 | react, python, typescript |
-| [GoDaddy Registry](winners/by-sponsor/godaddy-registry.md) | 28 | 27 | react, typescript, javascript |
-| [Snap](winners/by-sponsor/snap.md) | 25 | 8 | typescript, javascript, python |
-| [Figma](winners/by-sponsor/figma.md) | 24 | 6 | typescript, react, python |
-| [Regeneron](winners/by-sponsor/regeneron.md) | 24 | 2 | python, react, typescript |
-| [MongoDB](winners/by-sponsor/mongodb.md) | 22 | 22 | mongodb, react, python |
-| [ElevenLabs](winners/by-sponsor/elevenlabs.md) | 21 | 20 | elevenlabs, python, gemini |
-| [Spacetime](winners/by-sponsor/spacetime.md) | 17 | 3 | spacetimedb, typescript, node.js |
+| Sponsor | Winning projects | Hackathons |
+| --- | --- | --- |
+| [Google](winners/by-sponsor/google.md) | 71 | 41 |
+| [Fetch.ai](winners/by-sponsor/fetch-ai.md) | 65 | 11 |
+| [Wolfram](winners/by-sponsor/wolfram.md) | 38 | 6 |
+| [Solana](winners/by-sponsor/solana.md) | 29 | 22 |
+| [Capital One](winners/by-sponsor/capital-one.md) | 28 | 21 |
+| [GoDaddy Registry](winners/by-sponsor/godaddy-registry.md) | 28 | 27 |
+| [Snap](winners/by-sponsor/snap.md) | 25 | 8 |
+| [Figma](winners/by-sponsor/figma.md) | 24 | 6 |
+| [Regeneron](winners/by-sponsor/regeneron.md) | 24 | 2 |
+| [MongoDB](winners/by-sponsor/mongodb.md) | 22 | 22 |
+| [ElevenLabs](winners/by-sponsor/elevenlabs.md) | 21 | 20 |
+| [Spacetime](winners/by-sponsor/spacetime.md) | 17 | 3 |
 
 [See all 379 sponsors](SPONSORS.md)
 
