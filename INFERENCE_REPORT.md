@@ -197,3 +197,37 @@ Likely used the LumaLabs AI API for generating opening and closing videos for th
 - `python3 site/build.py` passed. All 1,553 project cards matched their exported notes and headings. The card renderer emitted 24 distinct inferred headings, including one shared by the two VisionGuard prize rows.
 - The verifier rejected fixtures with a missing or false flag, invalid wording, an empty or fabricated quote, an unrelated URL and a mismatched source suffix.
 - Compared all 1,697 prize identities and the HTTP receipts with the baseline. The notes changed on 27 rows.
+
+## Resource review fixes
+
+Coverage before this follow-up is measured from `f767319`. Prize rows and project cards use different denominators because one project at one edition can win more than one prize.
+
+| Prize-row coverage | Before | After |
+| --- | ---: | ---: |
+| Shown, including full notes and tech listings | 1,034 | 1,023 |
+| Inferred | 25 | 25 |
+| Award-only | 514 | 516 |
+| Not stated | 124 | 123 |
+| Linked resource only, counted separately | Included in shown | 10 |
+| **Total prize rows** | **1,697** | **1,697** |
+
+The 1,023 shown rows include 964 full notes and 59 tech listings. The 59 comprise 44 Built With tags, three write-up listings and 12 code imports. The first-screen disclosure counts 908 cards with sourced use, 24 with inferred notes, 64 with listed tech or links only and 557 that are award-only or unstated. Four cards have both sourced and inferred notes.
+
+### Public code
+
+The Nov. 22 research snapshot at 01:49 ET contained 47 high-confidence matches. Each matched the exact Devpost URL, project title, edition and year, and its public GitHub URL returned HTTP 200. All 47 were added with their match evidence and check time. Code coverage increased from **1,216 to 1,263 of 1,553 cards**, leaving 290 cards labeled “No public code found.” Poysson’s evidence now records that the repository owner handle is absent from the Devpost team roster.
+
+### Sponsor notes
+
+- Microsoft’s PrepBear and Repro list TypeScript. VL-ADK also lists TypeScript. CADVision lists C#. AccountableAI and Spitball list VS Code. Standard Response already used a TypeScript tag and now has the same “Listed on Devpost” heading. These notes record the language or editor named by the project.
+- Sora2Detector lists ROCm. Aether and EcoBuddy use the verified TerpAI prize label and award-only framing. GitFlow now cites the write-up’s explicit use of the GitHub REST API. Ad BlockAR cites its Accomplishments section.
+- The code audit found 12 pins that establish imports. They now use an “Imported in code” heading. The projects are RecovARy, Permanence, Crisis Maps, FreshDetect, Emergency Eye, Wordhawk, Forseen, ADapt, Motherly.ai, DIVE-DE.TECH, fly VS worm and Omni-Assist.
+- Underflow says it calls `defang generate`. Smart Window says it creates a Twilio TwiML response. Ripple says it sets a list of Grok models. Lotus Journal refers to new user text. HandyDaddy now pins the ElevenLabs text-to-speech call, and Snitch pins the extraction of the GPTZero probability. Fish Persuasion follows the caption’s attribution to Gemini and Fish Audio.
+- The award notes use sanitized prize labels. Tend keeps the Nessie flow without the payment amount. Seven project descriptions were edited to retain the supported feature while dropping the cost. Among the checked award labels were CodeInsight, Spielberg and Lemon.
+
+### Presentation and verification
+
+- The README and site hero lead with coverage. The README moves Browse above the banner. The site and Markdown label linked resources separately. The site’s light and dark themes, icon and README badges use the navy and blue palette.
+- Rebuilt the exports, Markdown and static site. The required verifier and a second run with source caches passed. All 71 pinned code excerpts matched their recorded commits. Negative checks rejected unsupported code behavior, a mismatched code pin and money in display fields and site output, including currency escaped in catalog JSON.
+- Checked the site in Chrome at 1,280 and 390 pixels, and checked cards for the code link, missing-code label, award-only note, inferred note, linked resource and listed tech. All 1,553 catalog code fields agree with the exported source URLs.
+- The public site and GitHub raw export still need the release check after an authorized deployment.
