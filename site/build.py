@@ -98,7 +98,10 @@ def catalog(source):
         devpost = first_url(field(row, "devpost_url", "devpost", "project_url", "url"), links.get("devpost"), host="devpost.com")
         key = urlsplit(devpost).path.rstrip("/").casefold() if devpost else (name.casefold(), event.casefold(), year)
         summary = label(field(row, "description", "project_summary", "summary", "tagline", "short_description"))
-        github = first_url(field(row, "github_url", "github", "github_links", "repository_url", "source_url", "source_urls", "source_links"), links.get("github"), host="github.com")
+        code = first_url(
+            row.get("source_urls"), field(row, "repository_url", "source_url", "source_links"),
+            field(row, "github_url", "github", "github_links"), links.get("github"),
+        )
         demo = first_url(field(row, "demo_url", "demo", "demo_links", "demo_video_urls", "video_url", "video_link", "live_url"), links.get("demo"))
         image = first_url(field(row, "image_url", "thumbnail_url", "thumbnail", "project_image_url", "cover_image_url", "devpost_image_url", "image", "images"))
         if image and urlsplit(image).scheme != "https":
@@ -107,22 +110,29 @@ def catalog(source):
         if isinstance(team, str) and team.isascii() and team.isdigit():
             team = int(team)
         sponsors = [label(value) for value in items(field(row, "sponsor", "sponsors", "sponsor_name"))]
-        sponsors = [sponsor for sponsor in sponsors if sponsor and sponsor.casefold() != "other"]
+        award_sponsors = [sponsor for sponsor in sponsors if sponsor and sponsor.casefold() != "other"]
+        integration = label(row.get("sponsor_integration"))
         tech = [label(value) for key_name in ("built_with", "tech", "technologies", "tech_stack", "sponsor_tech") for value in items(row.get(key_name))]
         project = projects.setdefault(key, {
             "name": name, "event": event, "year": year, "devpost": devpost,
-            "sponsors": {}, "tech": {}, "awards": {},
+            "sponsors": {}, "tech": {}, "awards": {}, "integrations": {},
         })
-        for key_name, value in {"github": github, "demo": demo, "image": image, "team": team, "event": event, "year": year}.items():
+        for key_name, value in {"code": code, "demo": demo, "image": image, "team": team, "event": event, "year": year}.items():
             if value and not project.get(key_name):
                 project[key_name] = value
         if len(summary) > len(project.get("summary", "")):
             project["summary"] = summary
-        for sponsor in sponsors:
+        for sponsor in award_sponsors:
             project["sponsors"].setdefault(sponsor.casefold(), sponsor)
+        if integration:
+            named_sponsors = award_sponsors or [""]
+            for sponsor in named_sponsors:
+                project["integrations"].setdefault(
+                    sponsor.casefold(), {"sponsor": sponsor, "note": integration}
+                )
         for tag in filter(None, tech):
             project["tech"].setdefault(tag.casefold(), tag)
-        for sponsor, title in award_rows(row, sponsors):
+        for sponsor, title in award_rows(row, award_sponsors):
             if sponsor:
                 project["sponsors"].setdefault(sponsor.casefold(), sponsor)
             award_key = title.casefold()
@@ -130,7 +140,7 @@ def catalog(source):
                 project["awards"][award_key] = {"sponsor": sponsor, "title": short_title(title, sponsor)}
 
     for project in projects.values():
-        for key_name in ("sponsors", "tech", "awards"):
+        for key_name in ("sponsors", "tech", "awards", "integrations"):
             project[key_name] = list(project[key_name].values())
     return list(projects.values())
 

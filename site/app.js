@@ -144,7 +144,7 @@ function showSponsor(sponsor) {
   const hackathons = new Set(entries.map((project) => project.edition)).size;
   byId("view-intro").textContent = `${plural(entries.length, "winning project")} at ${plural(hackathons, "hackathon")}.`;
   byId("view-intro").hidden = false;
-  setLinks([["Track rules and integration notes on GitHub", `${repo}winners/by-sponsor/${slugify(sponsor)}.md`]]);
+  setLinks([["Track rules on GitHub", `${repo}winners/by-sponsor/${slugify(sponsor)}.md`]]);
   const panel = element("section", "", "insights");
   panel.append(element("h2", "What winners have in common"));
   const group = element("div", "", "insight-grid");
@@ -379,7 +379,7 @@ function applyView(view, focus = false) {
     picker: "Track picker",
   };
   const intros = {
-    sponsors: "Pick a sponsor to see every project that won its prize and the tech those winners used.",
+    sponsors: "Pick a sponsor to see its winners and how they used its tech where Devpost describes it.",
     hackathons: "Pick a hackathon to see every project that won a sponsor prize there.",
     champions: "Projects that won prizes from two or more sponsors at the same hackathon.",
     picker: "Tick the sponsors at your event. Past winners of those prizes appear below, best match first.",
@@ -474,6 +474,16 @@ function projectCard(project) {
     summary.title = project.summary;
     card.append(summary);
   }
+  const integrations = [...(project.integrations ?? [])].sort((a, b) =>
+    Number(normalize(b.sponsor) === focus) - Number(normalize(a.sponsor) === focus));
+  const notes = element("dl", "", "card-integrations");
+  for (const { sponsor, note } of integrations) {
+    notes.append(
+      element("dt", sponsor ? `How it used ${sponsor}` : "Sponsor use"),
+      element("dd", note),
+    );
+  }
+  if (integrations.length) card.append(notes);
   if (project.tech.length) {
     const tech = element("p", "", "card-tech");
     tech.append(element("span", "Built with ", "sr-only"), project.tech.slice(0, 8).join(" · "));
@@ -482,7 +492,9 @@ function projectCard(project) {
   }
 
   const links = element("div", "", "card-links");
-  for (const [label, url, name] of [["Devpost", project.devpost, "out"], ["Code", project.github, "code"], ["Demo", project.demo, "play"]]) {
+  const code = project.code || project.github;
+  for (const [label, url, name] of [["Devpost", project.devpost, "out"], ["Code", code, "code"], ["Demo", project.demo, "play"]]) {
+    if (!url && name === "code") links.append(element("span", "No public code linked", "card-code-missing"));
     if (!url) continue;
     const anchor = link("", url);
     anchor.append(icon(name), element("span", label));

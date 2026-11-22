@@ -394,6 +394,10 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
   -webkit-line-clamp: 3;
   overflow: hidden;
 }
+.card-integrations { margin: var(--s-3) 0 0; overflow-wrap: anywhere; font-size: 0.92rem; line-height: 1.5; }
+.card-integrations dt { font-weight: 700; }
+.card-integrations dt:not(:first-child) { margin-top: var(--s-2); }
+.card-integrations dd { margin: 0; color: var(--ink-2); }
 .card-tech {
   margin-top: var(--s-3);
   color: var(--muted);
@@ -420,6 +424,13 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
   text-decoration: none;
 }
 .card-links a:hover span { text-decoration: underline; }
+.card-code-missing {
+  display: inline-flex;
+  align-items: center;
+  min-height: 3rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
 .more { display: flex; justify-content: center; margin-top: var(--s-6); }
 .empty-state {
   grid-column: 1 / -1;
@@ -568,7 +579,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
   .theme .icon { left: 50%; translate: -50% 0; color: var(--ink-2); }
   .theme select { width: 2.75rem; padding: 0; color: transparent; background-image: none; appearance: none; }
   .theme select option { color: var(--ink); }
-  .section-nav-inner { gap: 0 var(--s-5); mask-image: linear-gradient(90deg, #000 85%, transparent); padding-right: var(--s-5); }
+  .section-nav-inner { flex-wrap: wrap; gap: 0 var(--s-4); overflow: visible; }
   .workspace { padding-top: var(--s-5); }
   .controls { gap: var(--s-4); padding: var(--s-4); }
   .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-4) var(--s-3); }
