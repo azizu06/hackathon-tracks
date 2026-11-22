@@ -517,10 +517,10 @@ def directory_sections(sponsors):
 def update_readme(path, rows):
     sponsors, editions = split_directory(rows)
     badges = [
-        ("Winning projects", winner_count(rows), "0F2A4A"),
-        ("Hackathon editions", len(editions), "0A1F38"),
-        ("Sponsors", len(sponsors.keys() - {OTHER_SPONSOR}), "0F2A4A"),
-        ("Sponsor prizes", len(rows), "0A1F38"),
+        ("Winning projects", winner_count(rows), "6D4FA3"),
+        ("Hackathon editions", len(editions), "356A8A"),
+        ("Sponsors", len(sponsors.keys() - {OTHER_SPONSOR}), "377662"),
+        ("Sponsor prizes", len(rows), "90613D"),
     ]
     lines = path.read_text(encoding="utf-8")
     for name, section in (

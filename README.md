@@ -31,7 +31,7 @@ Past hackathon winners, organized by the sponsor prize they won, so you can see 
 
 <!-- BEGIN coverage -->
 
-![1,553 winning projects](https://img.shields.io/badge/Winning%20projects-1,553-0F2A4A) ![60 hackathon editions](https://img.shields.io/badge/Hackathon%20editions-60-0A1F38) ![379 sponsors](https://img.shields.io/badge/Sponsors-379-0F2A4A) ![1,697 sponsor prizes](https://img.shields.io/badge/Sponsor%20prizes-1,697-0A1F38)
+![1,553 winning projects](https://img.shields.io/badge/Winning%20projects-1,553-6D4FA3) ![60 hackathon editions](https://img.shields.io/badge/Hackathon%20editions-60-356A8A) ![379 sponsors](https://img.shields.io/badge/Sponsors-379-377662) ![1,697 sponsor prizes](https://img.shields.io/badge/Sponsor%20prizes-1,697-90613D)
 
 <!-- END coverage -->
 
