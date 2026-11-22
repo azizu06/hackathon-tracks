@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / fish.audio
+
 # fish.audio
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=fish.audio)
 
 ## What winners have in common
 
-- **Most listed tech** audio (1), fish (1), fishaudio (1)
-- **Common project areas** Games and entertainment (1)
-- **Common demo formats** Game (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** audio (1), fish (1), fishaudio (1), gemini (1), godot (1)
+- **Project areas:** Games and entertainment (1)
+- **Demo formats:** Playable game (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Fish Persuasion](https://devpost.com/software/fish-persuasion) · [demo](https://www.youtube.com/watch?v=P2L0ae516pY) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best use of Fish Audio · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-fish-persuasion) | A charming game about persuading fish to get out of the pond :). | audio, fish, fishaudio |
+Newest hackathons first.
+
+### [Fish Persuasion](https://devpost.com/software/fish-persuasion)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-fish-persuasion) · **Best use of Fish Audio**
+
+A charming game about persuading fish to get out of the pond :).
+
+[Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | fish.audio: Best use of Fish Audio | Fish Audio | [Track label](https://cal-hacks-12-0.devpost.com/) |
 
 </details>
+
+[Back to top](#fishaudio)

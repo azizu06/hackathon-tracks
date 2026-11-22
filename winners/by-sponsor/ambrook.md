@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Ambrook
+
 # Ambrook
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Ambrook)
 
 ## What winners have in common
 
-- **Most listed tech** javascript (3), node.js (2), python (2)
-- **Common project areas** None listed
-- **Common demo formats** CLI or developer tool (1), Mobile app (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 3
+- **Most used tech:** javascript (3), node.js (2), python (2), typescript (2), c++ (1)
+- **Project areas:** None listed
+- **Demo formats:** Command line or SDK (1), Mobile app (1), Web app or dashboard (1)
+- **Demo videos:** 2 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [fundingflow](https://devpost.com/software/fundingflow) · [code](https://github.com/xROBERTINOx/bitcamp2026) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Real World Prize - Ambrook · [details](../by-hackathon/bitcamp-2026.md#project-fundingflow) | FundingFlow uses AI to automatically discover funding programs from government websites, match farmers to… | cheerio, express.js, featherless.ai |
-| [TeleGrid](https://devpost.com/software/linewatch) · [code](https://github.com/Snek3471/VoltVigil) · [demo](https://www.youtube.com/watch?v=JhbR0K8B5p8) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Real World Prize - Ambrook · [details](../by-hackathon/bitcamp-2026.md#project-linewatch) | Power line faults often go undetected until they escalate catastrophically. TeleGrid delivers real-time… | c++, javascript, mongodb |
-| [Terrametric](https://devpost.com/software/terrametric) · [demo](https://www.youtube.com/watch?v=qjTX93HKRNE) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Real World Prize - Ambrook · [details](../by-hackathon/bitcamp-2026.md#project-terrametric) | Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day… | fastapi, glsl, javascript |
+Newest hackathons first.
+
+### [fundingflow](https://devpost.com/software/fundingflow)
+
+[Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-fundingflow) · **Real World Prize - Ambrook**
+
+FundingFlow uses AI to automatically discover funding programs from government websites, match farmers to them via natural language, and generate personalized application plans with auto-filled PDF forms.
+
+[Code](https://github.com/xROBERTINOx/bitcamp2026) · Built with cheerio, express.js, featherless.ai, html
+
+### [TeleGrid](https://devpost.com/software/linewatch)
+
+[Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-linewatch) · **Real World Prize - Ambrook**
+
+Power line faults often go undetected until they escalate catastrophically. TeleGrid delivers real-time corona discharge detection, enabling continuous, low-cost, and scalable grid protection.
+
+[Code](https://github.com/Snek3471/VoltVigil) · [Demo video](https://www.youtube.com/watch?v=JhbR0K8B5p8) · Built with c++, javascript, mongodb, node.js
+
+### [Terrametric](https://devpost.com/software/terrametric)
+
+[Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-terrametric) · **Real World Prize - Ambrook**
+
+Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day forecasts, and prescription actions telling you which fields to act on and what it saves.
+
+[Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | Real World Prize - Ambrook | Build a creative project that has a real world component. | [Devpost prize description](https://bitcamp-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#ambrook)

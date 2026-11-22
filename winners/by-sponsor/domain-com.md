@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Domain.com
+
 # Domain.com
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Domain.com)
 
 ## What winners have in common
 
-- **Most listed tech** chrome (1), datastax-astra (1), docker (1)
-- **Common project areas** None listed
-- **Common demo formats** Voice or conversational interface (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** chrome (1), datastax-astra (1), docker (1), firebase (1), flask (1)
+- **Project areas:** None listed
+- **Demo formats:** Voice or conversational interface (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [SPCH](https://devpost.com/software/spch) · [code](https://github.com/BryantH24/SPCH) · [demo](https://www.youtube.com/watch?v=ejlorFZdnkA) | [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md) · Best Domain Registered with Domain.com · [details](../by-hackathon/hackduke-code-for-good-2020.md#project-spch) | The project “SPCH” involves a text editor and Google Chrome extension that scans for hate speech and… | chrome, datastax-astra, docker |
+Newest hackathons first.
+
+### [SPCH](https://devpost.com/software/spch)
+
+[HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-spch) · **Best Domain Registered with Domain.com**
+
+The project “SPCH” involves a text editor and Google Chrome extension that scans for hate speech and offensive language within a block of text.
+
+[Code](https://github.com/BryantH24/SPCH) · [Demo video](https://www.youtube.com/watch?v=ejlorFZdnkA) · Built with chrome, datastax-astra, docker, firebase
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md) | Best Domain Registered with Domain.com | No specific requirement captured | [Event prize rules](https://code-for-good.devpost.com/) |
 
 </details>
+
+[Back to top](#domaincom)

@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Embedder
+
 # Embedder
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Embedder)
 
 ## What winners have in common
 
-- **Most listed tech** c (1), css (1), fastmcpcloud (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** c (1), css (1), fastmcpcloud (1), llm (1), mcp (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Conductor](https://devpost.com/software/temp-cbdzve) · [code](https://github.com/wenbox360/Conductor) · [demo](https://www.youtube.com/watch?v=4Sr5CIKw8jU) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · Best Hardware Hack presented by Embedder · [details](../by-hackathon/mhacks-2025.md#project-temp-cbdzve) | Giving LLM irl hands and eyes. Convert any embedded system into a plug and play device with the power of… | c, css, fastmcpcloud |
+Newest hackathons first.
+
+### [Conductor](https://devpost.com/software/temp-cbdzve)
+
+[MHacks 2025](../by-hackathon/mhacks-2025.md#project-temp-cbdzve) · **Best Hardware Hack presented by Embedder**
+
+Giving LLM irl hands and eyes. Convert any embedded system into a plug and play device with the power of Conductor.
+
+[Code](https://github.com/wenbox360/Conductor) · [Demo video](https://www.youtube.com/watch?v=4Sr5CIKw8jU) · Built with c, css, fastmcpcloud, llm
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2025](../by-hackathon/mhacks-2025.md) | Best Hardware Hack presented by Embedder | No specific requirement captured | [Event prize rules](https://mhacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#embedder)

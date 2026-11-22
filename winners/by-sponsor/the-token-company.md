@@ -1,30 +1,47 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / The Token Company
+
 # The Token Company
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=The%20Token%20Company)
 
 ## What winners have in common
 
-- **Most listed tech** 2wikimultihop (1), claude (1), deepseek-api (1)
-- **Common project areas** None listed
-- **Common demo formats** CLI or developer tool (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** 2wikimultihop (1), claude (1), deepseek-api (1), h100 (1), hotpotqa (1)
+- **Project areas:** None listed
+- **Demo formats:** Command line or SDK (1), Web app or dashboard (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Accordion](https://devpost.com/software/accordion-jwarge) · [code](https://github.com/a-Fig/Accordion) · [demo](https://www.youtube.com/watch?v=T1omrI2VjLA) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Compression Model for The Token Company · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-accordion-jwarge) | Context management you can trust - Say goodbye to /compact. | claude, javascript, jiti |
-| [Re:Compress](https://devpost.com/software/re-compress) · [code](https://github.com/Kart-ing/ReCompress) · [demo](https://www.youtube.com/watch?v=2cx1czVpz8I) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Compression Model for The Token Company · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-re-compress) | A query-aware rewriting layer that extends compression into the regime deletion can't reach — distilled into… | 2wikimultihop, deepseek-api, h100 |
+Newest hackathons first.
+
+### [Accordion](https://devpost.com/software/accordion-jwarge)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-accordion-jwarge) · **Best Compression Model for The Token Company**
+
+Context management you can trust - Say goodbye to /compact.
+
+[Code](https://github.com/a-Fig/Accordion) · [Demo video](https://www.youtube.com/watch?v=T1omrI2VjLA) · Built with claude, javascript, jiti, node.js
+
+### [Re:Compress](https://devpost.com/software/re-compress)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-re-compress) · **Best Compression Model for The Token Company**
+
+A query-aware rewriting layer that extends compression into the regime deletion can't reach — distilled into a 1.5B model, then carried into multi-turn conversations.
+
+[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with 2wikimultihop, deepseek-api, h100, hotpotqa
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Compression Model for The Token Company | No specific requirement captured | [Event prize rules](https://ai-hackathon-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#the-token-company)

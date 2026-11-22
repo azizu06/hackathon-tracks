@@ -1,31 +1,57 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Skylo
+
 # Skylo
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Skylo)
 
 ## What winners have in common
 
-- **Most listed tech** python (3), skylo (3), raspberry-pi (2)
-- **Common project areas** Climate and environment (1), Safety and emergency response (1)
-- **Common demo formats** Hardware or robotics (3), Mobile app (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** python (3), skylo (3), raspberry-pi (2), arduino (1), cellular (1)
+- **Project areas:** Climate and environment (1), Safety and emergency response (1)
+- **Demo formats:** Hardware or robotics (3), Mobile app (1), Voice or conversational interface (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Canary](https://devpost.com/software/canary-lrg3ep) · [code](https://github.com/tsai-henry/canary) · [demo](https://www.youtube.com/watch?v=OwAMRadd5Y8) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Seamlessly Switch from Cellular to Satellite · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-canary-lrg3ep) | Satellite-enabled wireless sensor network for early wildfire detection. | skylo, arduino, esp8266 |
-| [FRED](https://devpost.com/software/fred-bpszwn) · [demo](https://vimeo.com/1021488745) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Seamlessly Switch from Cellular to Satellite · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-fred-bpszwn) | FRED is a satellite-powered emergency response tool that allows users in remote areas to send GPS… | skylo, cellular, firebase |
-| [Resililink](https://devpost.com/software/resilink) · [code](https://github.com/12458/calhacks) · [demo](https://www.youtube.com/watch?v=W8BvOO4-qPs) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Seamlessly Switch from Cellular to Satellite · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-resilink) | A Lifeline When It Matters Most. | skylo, lora, modem |
+Newest hackathons first.
+
+### [Canary](https://devpost.com/software/canary-lrg3ep)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-canary-lrg3ep) · **Seamlessly Switch from Cellular to Satellite**
+
+Satellite-enabled wireless sensor network for early wildfire detection.
+
+[Code](https://github.com/tsai-henry/canary) · [Demo video](https://www.youtube.com/watch?v=OwAMRadd5Y8) · Built with skylo, arduino, esp8266, gcp
+
+### [FRED](https://devpost.com/software/fred-bpszwn)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-fred-bpszwn) · **Seamlessly Switch from Cellular to Satellite**
+
+FRED is a satellite-powered emergency response tool that allows users in remote areas to send GPS coordinates, images, and voice data to responders, ensuring help can be dispatched from anywhere.
+
+[Demo video](https://vimeo.com/1021488745) · Built with skylo, cellular, firebase, ios
+
+### [Resililink](https://devpost.com/software/resilink)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-resilink) · **Seamlessly Switch from Cellular to Satellite**
+
+A Lifeline When It Matters Most.
+
+**How it used Skylo:** The core hardware components include LoRa radios, which provide long-range communication, and Skylo satellite connectivity, enabling nodes to transmit data to the internet using the MQTT protocol.
+
+[Code](https://github.com/12458/calhacks) · [Demo video](https://www.youtube.com/watch?v=W8BvOO4-qPs) · Built with skylo, lora, modem, python
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Skylo: Seamlessly Switch from Cellular to Satellite | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 
 </details>
+
+[Back to top](#skylo)

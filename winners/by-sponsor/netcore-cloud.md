@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Netcore Cloud
+
 # Netcore Cloud
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Netcore%20Cloud)
 
 ## What winners have in common
 
-- **Most listed tech** aws-sns (1), celery (1), docker (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** aws-sns (1), celery (1), docker (1), fastapi (1), firebase-fcm (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Still Here](https://devpost.com/software/still-here) · [demo](https://vimeo.com/1182382881) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Best Use of Netcore - Netcore · [details](../by-hackathon/bitcamp-2026.md#project-still-here) | Miss a daily tap, and your people get notified. Still Here is the safety net for the 36 million Americans… | aws-sns, celery, docker |
+Newest hackathons first.
+
+### [Still Here](https://devpost.com/software/still-here)
+
+[Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-still-here) · **Best Use of Netcore - Netcore**
+
+Miss a daily tap, and your people get notified. Still Here is the safety net for the 36 million Americans living alone.
+
+[Demo video](https://vimeo.com/1182382881) · Built with aws-sns, celery, docker, fastapi
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | Best Use of Netcore - Netcore | Netcore - Netcore | [Track label](https://bitcamp-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#netcore-cloud)

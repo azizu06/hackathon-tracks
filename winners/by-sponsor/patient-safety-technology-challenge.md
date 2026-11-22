@@ -1,34 +1,84 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Patient Safety Technology Challenge
+
 # Patient Safety Technology Challenge
 
-**7 projects · 4 editions · 7 prize rows**
-
-[Winners index](../README.md)
+**7 winning projects** · 4 hackathons · 7 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Patient%20Safety%20Technology%20Challenge)
 
 ## What winners have in common
 
-- **Most listed tech** python (6), css (2), flask (2)
-- **Common project areas** Health and care (3), Accessibility and assistive tools (1), Education and learning (1)
-- **Common demo formats** Mobile app (3), Hardware or robotics (2)
-- **Projects with a listed demo video** 4 of 7
+- **Most used tech:** python (6), css (2), flask (2), github (2), html (2)
+- **Project areas:** Health and care (3), Accessibility and assistive tools (1), Education and learning (1)
+- **Demo formats:** Mobile app (3), Hardware or robotics (2)
+- **Demo videos:** 4 of 7 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [RelieveRX](https://devpost.com/software/relieve-wrazi7) | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) · Best Consumer-Driven Patient Safety Technology Track · [details](../by-hackathon/hack-brown-2025.md#project-relieve-wrazi7) | integrated AI pain assessment aid to help patients with timing + dosage towards mitigating opioid abuse risk… | css, figma, groq |
-| [Althea](https://devpost.com/software/althea) · [code](https://github.com/Givikap/Althea) · [demo](https://www.youtube.com/watch?v=y12QLSdo0zs) | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) · Patient Safety Challenge: Sunrise (Hatch) Alarm Clock · [details](../by-hackathon/hackharvard-2024.md#project-althea) | Your personal prescription and medical symptom tracking companion. | amazon-web-services, django, flutter |
-| [CognitiveKeyboard](https://devpost.com/software/cognitivekeyboard) · [demo](https://www.youtube.com/watch?v=dRKB-PcvrnU) | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) · Patient Safety Challenge: Sunrise (Hatch) Alarm Clock · [details](../by-hackathon/hackharvard-2024.md#project-cognitivekeyboard) | CognitiveKeyboard is an alternative Android keyboard that updates a user’s typing statistics every 30 seconds. | adb, android-studio, github |
-| [SimplySign](https://devpost.com/software/simplysign) | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) · Patient Safety Challenge: Sunrise (Hatch) Alarm Clock · [details](../by-hackathon/hackharvard-2024.md#project-simplysign) | SimplySign aims to make ASL more accessible and bring people together, whether by facilitating communication… | css, github, html |
-| [Snapill - PennApps XXV Best Healthcare Hack](https://devpost.com/software/snapill) · [code](https://github.com/Srinikal/Snapill) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge) · [details](../by-hackathon/pennapps-xxv-2024.md#project-snapill) | Automated Medication Scanner and Tracker Powered by Computer Vision. | expo.io, firebase, flask |
-| [SurgiSafe](https://devpost.com/software/infectdetect) · [code](https://github.com/katelynkywong/SurgiSafe) · [demo](https://www.youtube.com/watch?v=RFui9r2ybFU) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge) · [details](../by-hackathon/pennapps-xxv-2024.md#project-infectdetect) | Real-time infection monitoring with moisture, temperature, and pH sensors. | adafruit, arduino, autodesk-fusion-360 |
-| [Medicine Dispensary](https://devpost.com/software/bigback) · [code](https://github.com/Cantinadream/Big_Back_ShellHack2024) · [demo](https://www.youtube.com/watch?v=4qyCfR1vNoE) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Patient Safety Technology · [details](../by-hackathon/shellhacks-2024.md#project-bigback) | The inspiration for this project stems from a deep commitment to support the loved ones and the wider… | flask, micropython, python |
+Newest hackathons first.
+
+### [RelieveRX](https://devpost.com/software/relieve-wrazi7)
+
+[Hack@Brown 2025](../by-hackathon/hack-brown-2025.md#project-relieve-wrazi7) · **Best Consumer-Driven Patient Safety Technology Track**
+
+integrated AI pain assessment aid to help patients with timing + dosage towards mitigating opioid abuse risk :) won in healthcare Hack@Brown 2025.
+
+Built with css, figma, groq, html
+
+### [Althea](https://devpost.com/software/althea)
+
+[HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-althea) · **Patient Safety Challenge: Sunrise (Hatch) Alarm Clock**
+
+Your personal prescription and medical symptom tracking companion.
+
+[Code](https://github.com/Givikap/Althea) · [Demo video](https://www.youtube.com/watch?v=y12QLSdo0zs) · Built with amazon-web-services, django, flutter, gemini
+
+### [CognitiveKeyboard](https://devpost.com/software/cognitivekeyboard)
+
+[HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-cognitivekeyboard) · **Patient Safety Challenge: Sunrise (Hatch) Alarm Clock**
+
+CognitiveKeyboard is an alternative Android keyboard that updates a user’s typing statistics every 30 seconds.
+
+[Demo video](https://www.youtube.com/watch?v=dRKB-PcvrnU) · Built with adb, android-studio, github, java
+
+### [Medicine Dispensary](https://devpost.com/software/bigback)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-bigback) · **Patient Safety Technology**
+
+The inspiration for this project stems from a deep commitment to support the loved ones and the wider community.
+
+[Code](https://github.com/Cantinadream/Big_Back_ShellHack2024) · [Demo video](https://www.youtube.com/watch?v=4qyCfR1vNoE) · Built with flask, micropython, python, raspberry-pi
+
+### [SimplySign](https://devpost.com/software/simplysign)
+
+[HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-simplysign) · **Patient Safety Challenge: Sunrise (Hatch) Alarm Clock**
+
+SimplySign aims to make ASL more accessible and bring people together, whether by facilitating communication between patients and healthcare providers, or simply giving students a tool to practice.
+
+Built with css, github, html, javascript
+
+### [Snapill - PennApps XXV Best Healthcare Hack](https://devpost.com/software/snapill)
+
+[PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-snapill) · **Track: Best Healthcare Hack**
+
+Automated Medication Scanner and Tracker Powered by Computer Vision.
+
+[Code](https://github.com/Srinikal/Snapill) · Built with expo.io, firebase, flask, heroku
+
+### [SurgiSafe](https://devpost.com/software/infectdetect)
+
+[PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-infectdetect) · **Track: Best Healthcare Hack**
+
+Real-time infection monitoring with moisture, temperature, and pH sensors.
+
+[Code](https://github.com/katelynkywong/SurgiSafe) · [Demo video](https://www.youtube.com/watch?v=RFui9r2ybFU) · Built with adafruit, arduino, autodesk-fusion-360
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) | Best Consumer-Driven Patient Safety Technology Track | No specific requirement captured | [Event prize rules](https://hack-brown-2025.devpost.com/) |
 | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) | Patient Safety Challenge: Sunrise (Hatch) Alarm Clock | No specific requirement captured | [Event prize rules](https://hackharvard-2024.devpost.com/) |
@@ -36,3 +86,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | Patient Safety Technology | No specific requirement captured | [Event prize rules](https://shellhacks2024.devpost.com/) |
 
 </details>
+
+[Back to top](#patient-safety-technology-challenge)

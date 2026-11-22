@@ -1,41 +1,140 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / .Tech Domains
+
 # .Tech Domains
 
-**14 projects · 14 editions · 14 prize rows**
-
-[Winners index](../README.md)
+**14 winning projects** · 14 hackathons · 14 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=.Tech%20Domains)
 
 ## What winners have in common
 
-- **Most listed tech** react (10), typescript (9), node.js (8)
-- **Common project areas** Education and learning (2), Games and entertainment (1), Security and privacy (1)
-- **Common demo formats** Web app or dashboard (7), Game (2), Voice or conversational interface (1)
-- **Projects with a listed demo video** 10 of 14
+- **Most used tech:** react (10), typescript (9), node.js (8), claude (5), next.js (5)
+- **Project areas:** Education and learning (2), Games and entertainment (1), Security and privacy (1)
+- **Demo formats:** Web app or dashboard (7), Playable game (2), Voice or conversational interface (1)
+- **Demo videos:** 10 of 14 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Munchy Munchy](https://devpost.com/software/munchy) · [code](https://github.com/jessiiishin/munchymunchy) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Best .Tech Domain Name · [details](../by-hackathon/hack-brown-2026.md#project-munchy) | Search up a city and Munchy Munchy will create a food tour through it, taking you to the best restaurants and… | .tech, chatgpt, claude |
-| [Bear With Me](https://devpost.com/software/bear-with-me-8ijcef) · [demo](https://www.youtube.com/watch?v=VBKAxZX6Gmc) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · MLH: Best Domain from .tech · [details](../by-hackathon/hackgt-13-2026.md#project-bear-with-me-8ijcef) | A talking bear turns the pediatric wait into intake: kids tell their side, parents answer separately in real… | cursor, get-tech, grok |
-| [Runway](https://devpost.com/software/runway-5i4r6e) · [code](https://github.com/malki-aal/MalakaiSaleh_H26) · [demo](https://www.youtube.com/watch?v=RvQH93zIyyM) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · Best .Tech Domain Name · [details](../by-hackathon/hacktx-2026.md#project-runway-5i4r6e) | Helping employee ideas get off the ground. | capital-one, claude, clerk |
-| [gudtrms](https://devpost.com/software/gudtrms) · [code](https://github.com/PRANAVMAHALINGAM/gudtrms) · [demo](https://www.youtube.com/watch?v=8O_62JRIgR4) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best .Tech Domain Name · [details](../by-hackathon/mhacks-2026.md#project-gudtrms) | Two exes, two agents, zero awkward conversations. | anthropic, aws-lightsail, caddy |
-| [Play It Forward](https://devpost.com/software/toyshare) · [code](https://github.com/vvictort/nwhacks-2026) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) · Best .Tech Domain Name · [details](../by-hackathon/nwhacks-2026.md#project-toyshare) | Play It Forward pairs families in need of toys with households that have more than enough to go around. | css, docker, express.js |
-| [Koalafied](https://devpost.com/software/koalafied) · [demo](https://www.youtube.com/watch?v=hJH72qWVECM) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Use of .Tech · [details](../by-hackathon/bitcamp-2025.md#project-koalafied) | 🐨 Improving the koala-ity of your job search 🐨. | express.js, materialui, mongodb |
-| [Roominate](https://devpost.com/software/roominate-vp1aqu) · [code](https://github.com/XitoAliferis/calhacks12) · [demo](https://www.youtube.com/watch?v=0LMzgVUCBIg) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best .Tech Domain Name · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-roominate-vp1aqu) | Ever stuck procrastinating on important tasks? Roominate breaks down your tasks into smaller steps, and… | asi:one, claude, godot |
-| [PhishyBusiness](https://devpost.com/software/phishybusiness) · [code](https://github.com/ColeKaplan/phishybusiness) · [demo](https://www.youtube.com/watch?v=LAumATWI2zE) | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) · MLH - Best .Tech Domain Name · [details](../by-hackathon/hacklytics-2025.md#project-phishybusiness) | By simply entering your phone number on the website, an AI Agent calls you and simulates a phishing call,… | next.js, react, retell |
-| [SATistics](https://devpost.com/software/saturday-usdbjn) · [code](https://github.com/shivvyas2/SATistics) · [demo](https://www.youtube.com/watch?v=AErgCTfmmbw) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · MLH - Best .Tech Domain Name · [details](../by-hackathon/hacknyu-fall-2025.md#project-saturday-usdbjn) | 'SATistics' is an arcade-inspired web app where classic games are blend with AI-powered SAT quiz challenges,… | claude, fastapi, nextjs |
-| [PitPerfect](https://devpost.com/software/pitperfect) · [code](https://github.com/CodyGargar/PitPerfect) · [demo](https://www.youtube.com/watch?v=HPvYgMUh-NI) | [HackTX 2025](../by-hackathon/hacktx-2025.md) · Best .Tech Domain Name · [details](../by-hackathon/hacktx-2025.md#project-pitperfect) | PitPerfect is an AI-powered F1 platform that detects car damage from footage and telemetry, visualizes it in… | css, gemini, google-gemini-api |
-| [VotEdu](https://devpost.com/software/votedu-p2n806) · [code](https://github.com/Edwin-Yee/SBHacks-XI) · [demo](https://www.youtube.com/watch?v=Bm5nX9-Txrg) | [SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md) · MLH - Best .Tech Domain Name · [details](../by-hackathon/sb-hacks-xi-2025.md#project-votedu-p2n806) | Anonymous voting platform powered by the Midnight Blockchain. Students can now vote privately by utilizing… | anchor, midnight, next.js |
-| [TelePhoto](https://devpost.com/software/telephoto) · [code](https://github.com/NuoWenLei/ai-image-telephone) | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) · Best .Tech Domain Name · [details](../by-hackathon/hack-brown-2024.md#project-telephoto) | After your guess on what the image represents, a gallery will be presented with the history of all past… | firebase, getimg.ai, github |
-| [Neural News](https://devpost.com/software/neural-news) · [code](https://github.com/natemillner/ArticleScraper) | [HackTX 2024](../by-hackathon/hacktx-2024.md) · Best .Tech Domain Name · [details](../by-hackathon/hacktx-2024.md#project-neural-news) | Staying updated with tech news is crucial. When looking at news sites, articles range from social experiments… | node.js, python, react |
-| [DHy-n0](https://devpost.com/software/dhy-n0) · [code](https://github.com/zekestephens/dhy-n0) · [demo](https://www.youtube.com/watch?v=u_p-SZjQW9U) | [HackUTD 2024](../by-hackathon/hackutd-2024.md) · Best .Tech Domain Name · [details](../by-hackathon/hackutd-2024.md#project-dhy-n0) | It takes in data about a well and tries to detect anomalies to predict when hydrate buildups might be… | flask, pandas, python |
+Newest hackathons first.
+
+### [Bear With Me](https://devpost.com/software/bear-with-me-8ijcef)
+
+[HackGT 13 2026](../by-hackathon/hackgt-13-2026.md#project-bear-with-me-8ijcef) · **Best Domain from .tech**
+
+A talking bear turns the pediatric wait into intake: kids tell their side, parents answer separately in real time, and doctors walk in with one page showing where the stories differ.
+
+[Demo video](https://www.youtube.com/watch?v=VBKAxZX6Gmc) · Built with cursor, get-tech, grok, grok-tts
+
+### [gudtrms](https://devpost.com/software/gudtrms)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-gudtrms) · **Best .Tech Domain Name**
+
+Two exes, two agents, zero awkward conversations.
+
+[Code](https://github.com/PRANAVMAHALINGAM/gudtrms) · [Demo video](https://www.youtube.com/watch?v=8O_62JRIgR4) · Built with anthropic, aws-lightsail, caddy, claude
+
+### [Munchy Munchy](https://devpost.com/software/munchy)
+
+[Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-munchy) · **Best .Tech Domain Name**
+
+Search up a city and Munchy Munchy will create a food tour through it, taking you to the best restaurants and the best landmarks.
+
+[Code](https://github.com/jessiiishin/munchymunchy) · Built with .tech, chatgpt, claude, css
+
+### [Play It Forward](https://devpost.com/software/toyshare)
+
+[nwHacks 2026](../by-hackathon/nwhacks-2026.md#project-toyshare) · **Best .Tech Domain Name**
+
+Play It Forward pairs families in need of toys with households that have more than enough to go around.
+
+[Code](https://github.com/vvictort/nwhacks-2026) · Built with css, docker, express.js, firebase
+
+### [Runway](https://devpost.com/software/runway-5i4r6e)
+
+[HackTX 2026](../by-hackathon/hacktx-2026.md#project-runway-5i4r6e) · **Best .Tech Domain Name**
+
+Helping employee ideas get off the ground.
+
+[Code](https://github.com/malki-aal/MalakaiSaleh_H26) · [Demo video](https://www.youtube.com/watch?v=RvQH93zIyyM) · Built with capital-one, claude, clerk, docker
+
+### [Koalafied](https://devpost.com/software/koalafied)
+
+[Bitcamp 2025](../by-hackathon/bitcamp-2025.md#project-koalafied) · **Best Use of .Tech**
+
+🐨 Improving the koala-ity of your job search 🐨.
+
+[Demo video](https://www.youtube.com/watch?v=hJH72qWVECM) · Built with express.js, materialui, mongodb, node.js
+
+### [PhishyBusiness](https://devpost.com/software/phishybusiness)
+
+[Hacklytics 2025](../by-hackathon/hacklytics-2025.md#project-phishybusiness) · **Best .Tech Domain Name**
+
+By simply entering your phone number on the website, an AI Agent calls you and simulates a phishing call, responding to you and encouraging you with classic scam call tactics.
+
+[Code](https://github.com/ColeKaplan/phishybusiness) · [Demo video](https://www.youtube.com/watch?v=LAumATWI2zE) · Built with next.js, react, retell, typescript
+
+### [PitPerfect](https://devpost.com/software/pitperfect)
+
+[HackTX 2025](../by-hackathon/hacktx-2025.md#project-pitperfect) · **Best .Tech Domain Name**
+
+PitPerfect is an AI-powered F1 platform that detects car damage from footage and telemetry, visualizes it in 3D, and delivers instant, data-driven pit stop calls—turning milliseconds into wins.
+
+[Code](https://github.com/CodyGargar/PitPerfect) · [Demo video](https://www.youtube.com/watch?v=HPvYgMUh-NI) · Built with css, gemini, google-gemini-api, next.js
+
+### [Roominate](https://devpost.com/software/roominate-vp1aqu)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-roominate-vp1aqu) · **Best .Tech Domain Name**
+
+Ever stuck procrastinating on important tasks? Roominate breaks down your tasks into smaller steps, and incentivizes completing them by allowing you to decorate a home just for you.
+
+[Code](https://github.com/XitoAliferis/calhacks12) · [Demo video](https://www.youtube.com/watch?v=0LMzgVUCBIg) · Built with asi:one, claude, godot, python
+
+### [SATistics](https://devpost.com/software/saturday-usdbjn)
+
+[HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md#project-saturday-usdbjn) · **Best .Tech Domain Name**
+
+'SATistics' is an arcade-inspired web app where classic games are blend with AI-powered SAT quiz challenges, making learning fun and impactful for students preparing for SATs.
+
+[Code](https://github.com/shivvyas2/SATistics) · [Demo video](https://www.youtube.com/watch?v=AErgCTfmmbw) · Built with claude, fastapi, nextjs, supabase
+
+### [VotEdu](https://devpost.com/software/votedu-p2n806)
+
+[SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md#project-votedu-p2n806) · **Best .Tech Domain Name**
+
+Anonymous voting platform powered by the Midnight Blockchain. Students can now vote privately by utilizing zero-knowledge proofs and decentralized blockchain network verification.
+
+[Code](https://github.com/Edwin-Yee/SBHacks-XI) · [Demo video](https://www.youtube.com/watch?v=Bm5nX9-Txrg) · Built with anchor, midnight, next.js, npm
+
+### [DHy-n0](https://devpost.com/software/dhy-n0)
+
+[HackUTD 2024](../by-hackathon/hackutd-2024.md#project-dhy-n0) · **Best .Tech Domain Name**
+
+It takes in data about a well and tries to detect anomalies to predict when hydrate buildups might be happening.
+
+[Code](https://github.com/zekestephens/dhy-n0) · [Demo video](https://www.youtube.com/watch?v=u_p-SZjQW9U) · Built with flask, pandas, python, react
+
+### [Neural News](https://devpost.com/software/neural-news)
+
+[HackTX 2024](../by-hackathon/hacktx-2024.md#project-neural-news) · **Best .Tech Domain Name**
+
+Staying updated with tech news is crucial. When looking at news sites, articles range from social experiments to legal issues involving tech, making it difficult to find information that is wanted.
+
+[Code](https://github.com/natemillner/ArticleScraper) · Built with node.js, python, react, tiber
+
+### [TelePhoto](https://devpost.com/software/telephoto)
+
+[Hack@Brown 2024](../by-hackathon/hack-brown-2024.md#project-telephoto) · **Best .Tech Domain Name**
+
+After your guess on what the image represents, a gallery will be presented with the history of all past players before you.
+
+[Code](https://github.com/NuoWenLei/ai-image-telephone) · Built with firebase, getimg.ai, github, google-cloud
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | &#91;MLH&#93; Best .Tech Domain Name | .tech domain | [Track label](https://hack-brown-2026.devpost.com/) |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | MLH: Best Domain from .tech | .tech domain | [Track label](https://hackgt13.devpost.com/) |
@@ -53,3 +152,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [HackUTD 2024](../by-hackathon/hackutd-2024.md) | &#91;MLH&#93; Best .Tech Domain Name | .tech domain | [Track label](https://hackutd-ripple.devpost.com/) |
 
 </details>
+
+[Back to top](#tech-domains)

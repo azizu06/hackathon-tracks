@@ -1,30 +1,47 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Bitdeer AI
+
 # Bitdeer AI
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Bitdeer%20AI)
 
 ## What winners have in common
 
-- **Most listed tech** bitdeer (2), claude (2), typescript (2)
-- **Common project areas** Security and privacy (2), Health and care (1)
-- **Common demo formats** Hardware or robotics (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** bitdeer (2), claude (2), typescript (2), agentverse (1), anthropic (1)
+- **Project areas:** Security and privacy (2), Health and care (1)
+- **Demo formats:** Hardware or robotics (1), Voice or conversational interface (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Bellhop](https://devpost.com/software/bellhop-fkc7sn) · [code](https://github.com/Happy-Key/Bellhop) · [demo](https://www.youtube.com/watch?v=h9w0MqiIO4o) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Bitdeer AI Model Studio · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-bellhop-fkc7sn) | Bellhop uses voice agents to help victims of fraud receive timely, structured assistance from banks. Its… | bitdeer, cartesia, claude |
-| [PreVent](https://devpost.com/software/prevent-5ymas0) · [code](https://github.com/Sanjavan7/PreVent) · [demo](https://www.youtube.com/watch?v=5u1bG7nEzvI) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Bitdeer AI Model Studio · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-prevent-5ymas0) | Autonomous security for the medical devices hospitals can't patch. | agentverse, anthropic, arduino |
+Newest hackathons first.
+
+### [Bellhop](https://devpost.com/software/bellhop-fkc7sn)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-bellhop-fkc7sn) · **Best Use of Bitdeer AI Model Studio**
+
+Bellhop uses voice agents to help victims of fraud receive timely, structured assistance from banks. Its intelligent dialogue targets the information that actually speeds up claims processing.
+
+[Code](https://github.com/Happy-Key/Bellhop) · [Demo video](https://www.youtube.com/watch?v=h9w0MqiIO4o) · Built with bitdeer, cartesia, claude, convex
+
+### [PreVent](https://devpost.com/software/prevent-5ymas0)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-prevent-5ymas0) · **Best Use of Bitdeer AI Model Studio**
+
+Autonomous security for the medical devices hospitals can't patch.
+
+[Code](https://github.com/Sanjavan7/PreVent) · [Demo video](https://www.youtube.com/watch?v=5u1bG7nEzvI) · Built with agentverse, anthropic, arduino, asi-one
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Bitdeer AI&#93; Best Use of Bitdeer AI Model Studio | Bitdeer AI Model Studio | [Track label](https://cal-hacks-13-0.devpost.com/) |
 
 </details>
+
+[Back to top](#bitdeer-ai)

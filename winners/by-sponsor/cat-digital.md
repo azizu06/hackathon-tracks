@@ -1,31 +1,48 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Cat Digital
+
 # Cat Digital
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Cat%20Digital)
 
 ## What winners have in common
 
-- **Most listed tech** react (2), amazon-web-services (1), css (1)
-- **Common project areas** Health and care (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 0 of 2
+- **Most used tech:** react (2), amazon-web-services (1), css (1), docker (1), flask (1)
+- **Project areas:** Health and care (1)
+- **Demo formats:** None listed
+- **Demo videos:** 0 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Easy ABLLS-R](https://devpost.com/software/easy-ablls-r) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · Best Cloud Implementation · [details](../by-hackathon/mhacks-2024.md#project-easy-ablls-r) | Making ABLLS-R assessments easier for behavioral clinicians who provide therapy to individuals with autism. | amazon-web-services, css, html |
-| [predicTerminal](https://devpost.com/software/predicterminal) · [code](https://github.com/rcookie777/guava) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · Best Use of API · [details](../by-hackathon/mhacks-2024.md#project-predicterminal) | The Bloomberg Terminal of Prediction Markets. | docker, flask, github |
+Newest hackathons first.
+
+### [Easy ABLLS-R](https://devpost.com/software/easy-ablls-r)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-easy-ablls-r) · **Best Cloud Implementation**
+
+Making ABLLS-R assessments easier for behavioral clinicians who provide therapy to individuals with autism.
+
+Built with amazon-web-services, css, html, javascript
+
+### [predicTerminal](https://devpost.com/software/predicterminal)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-predicterminal) · **Best Use of API**
+
+The Bloomberg Terminal of Prediction Markets.
+
+[Code](https://github.com/rcookie777/guava) · Built with docker, flask, github, gpt4
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | CAT Digital - Best Cloud Implementation | No specific requirement captured | [Event prize rules](https://mhacks-2024.devpost.com/) |
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | CAT Digital - Best Use of API | API | [Track label](https://mhacks-2024.devpost.com/) |
 
 </details>
+
+[Back to top](#cat-digital)

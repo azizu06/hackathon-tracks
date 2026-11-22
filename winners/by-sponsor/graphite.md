@@ -1,31 +1,50 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Graphite
+
 # Graphite
 
-**2 projects · 2 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Graphite)
 
 ## What winners have in common
 
-- **Most listed tech** ai (2), gemini (2), agent (1)
-- **Common project areas** None listed
-- **Common demo formats** CLI or developer tool (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** ai (2), gemini (2), agent (1), anthropic-claude-(workflow-planning-&amp;-execution) (1), api (1)
+- **Project areas:** None listed
+- **Demo formats:** Command line or SDK (1), Voice or conversational interface (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Snappier](https://devpost.com/software/snappier) · [code](https://github.com/nintang/snappier) · [demo](https://www.youtube.com/watch?v=Mi4oWY_EkYc) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Most Likely to get Acquired by a Sponsor (OB–4 black bluetooth speaker) · [details](../by-hackathon/treehacks-2026.md#project-snappier) | Show Snappier your workflow once by recording your screen. AI figures out what you did and why, then… | ai, anthropic-claude-(workflow-planning-&amp;-execution), api |
-| [Tango](https://devpost.com/software/tango-q37d4z) · [code](https://github.com/demanr/tango) · [demo](https://www.youtube.com/watch?v=sK-WvZZubcc) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Engineering Dream Team · [details](../by-hackathon/hack-the-north-2025.md#project-tango-q37d4z) | Siri if it actually worked on your Mac. | agent, ai, gemini |
+Newest hackathons first.
+
+### [Snappier](https://devpost.com/software/snappier)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-snappier) · **Most Likely to get Acquired by a Sponsor**
+
+Show Snappier your workflow once by recording your screen. AI figures out what you did and why, then automates it across any connected app.
+
+[Code](https://github.com/nintang/snappier) · [Demo video](https://www.youtube.com/watch?v=Mi4oWY_EkYc) · Built with ai, anthropic-claude-(workflow-planning-&amp;-execution), api, chrome
+
+### [Tango](https://devpost.com/software/tango-q37d4z)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-tango-q37d4z) · **Engineering Dream Team**
+
+Siri if it actually worked on your Mac.
+
+**How it used Graphite:** The team used Graphite to collaborate on this project and work asynchronously.
+
+[Code](https://github.com/demanr/tango) · [Demo video](https://www.youtube.com/watch?v=sK-WvZZubcc) · Built with agent, ai, gemini, groq
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Graphite&#93; Most Likely to get Acquired by a Sponsor (OB–4 black bluetooth speaker) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Graphite: Engineering Dream Team | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
 
 </details>
+
+[Back to top](#graphite)

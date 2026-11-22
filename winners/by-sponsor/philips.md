@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Philips
+
 # Philips
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Philips)
 
 ## What winners have in common
 
-- **Most listed tech** arduino (1), c++ (1), google-cloud (1)
-- **Common project areas** None listed
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 0 of 1
+- **Most used tech:** arduino (1), c++ (1), google-cloud (1), python (1)
+- **Project areas:** None listed
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 0 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Augmented Paper](https://devpost.com/software/augmented-paper) · [code](https://github.com/adityavishwanath/augmented_paper) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Focus based document summarization (Philips) · [details](../by-hackathon/hackmit-2016.md#project-augmented-paper) | Augmenting ordinary paper with new interactive experiences. | arduino, c++, google-cloud |
+Newest hackathons first.
+
+### [Augmented Paper](https://devpost.com/software/augmented-paper)
+
+[HackMIT 2016](../by-hackathon/hackmit-2016.md#project-augmented-paper) · **Focus based document summarization**
+
+Augmenting ordinary paper with new interactive experiences.
+
+[Code](https://github.com/adityavishwanath/augmented_paper) · Built with arduino, c++, google-cloud, python
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Focus based document summarization (Philips) | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 
 </details>
+
+[Back to top](#philips)

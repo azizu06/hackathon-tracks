@@ -1,30 +1,49 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Reflex
+
 # Reflex
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Reflex)
 
 ## What winners have in common
 
-- **Most listed tech** gemini (2), reflex (2), amazon-web-services (1)
-- **Common project areas** Finance and commerce (1)
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 0 of 2
+- **Most used tech:** gemini (2), reflex (2), amazon-web-services (1), chroma (1), deepgram (1)
+- **Project areas:** Finance and commerce (1)
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 0 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Memento](https://devpost.com/software/memento-1p0jel) · [code](https://github.com/AlexLuu1/Memento) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Best app built using reflex.dev · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-memento-1p0jel) | Memento helps elderly people connect with their families by reflecting on and sharing cherished memories,… | reflex, chroma, deepgram |
-| [TAShopping](https://devpost.com/software/tashopping) · [code](https://github.com/Turtdle/TAS-Frontend) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Best app built using reflex.dev · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-tashopping) | Tool Assisted Shopping; Accelerate your shopping to robot-like efficiency. | reflex, amazon-web-services, firebase |
+Newest hackathons first.
+
+### [Memento](https://devpost.com/software/memento-1p0jel)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-memento-1p0jel) · **Best app built using reflex.dev**
+
+Memento helps elderly people connect with their families by reflecting on and sharing cherished memories, sparking meaningful conversations that strengthen bonds across generations.
+
+[Code](https://github.com/AlexLuu1/Memento) · Built with reflex, chroma, deepgram, gemini
+
+### [TAShopping](https://devpost.com/software/tashopping)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-tashopping) · **Best app built using reflex.dev**
+
+Tool Assisted Shopping; Accelerate your shopping to robot-like efficiency.
+
+**How it used Reflex:** Webapp: The web application is developed using Reflex , providing a responsive and modern interface for users.
+
+[Code](https://github.com/Turtdle/TAS-Frontend) · Built with reflex, amazon-web-services, firebase, gemini
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Reflex: Best app built using reflex.dev | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 
 </details>
+
+[Back to top](#reflex)

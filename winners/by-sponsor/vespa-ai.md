@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Vespa.ai
+
 # Vespa.ai
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Vespa.ai)
 
 ## What winners have in common
 
-- **Most listed tech** arduino (1), clip (1), edge (1)
-- **Common project areas** None listed
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** arduino (1), clip (1), edge (1), embedding (1), groq (1)
+- **Project areas:** None listed
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Miru](https://devpost.com/software/mapdash) · [code](https://github.com/flatypus/miru) · [demo](https://www.youtube.com/watch?v=kjCsRmlAYiY) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Hack Using a Vision Language Model ($500 Amazon gift card per team member) · [details](../by-hackathon/treehacks-2025.md#project-mapdash) | Indoor navigation for the visually impaired, made easy. | arduino, clip, edge |
+Newest hackathons first.
+
+### [Miru](https://devpost.com/software/mapdash)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-mapdash) · **Best Hack Using a Vision Language Model**
+
+Indoor navigation for the visually impaired, made easy.
+
+[Code](https://github.com/flatypus/miru) · [Demo video](https://www.youtube.com/watch?v=kjCsRmlAYiY) · Built with arduino, clip, edge, embedding
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Vespa.ai: Best Hack Using a Vision Language Model ($500 Amazon gift card per team member) | A vision-language model | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#vespaai)

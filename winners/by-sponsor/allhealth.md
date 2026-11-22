@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / AllHealth
+
 # AllHealth
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=AllHealth)
 
 ## What winners have in common
 
-- **Most listed tech** blockchain (1), cloudflare (1), cosine (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** blockchain (1), cloudflare (1), cosine (1), flask (1), mediapipe (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Flexy (And I Know It)](https://devpost.com/software/flexy-and-i-know-it) · [code](https://github.com/Shameed4/Flexy) · [demo](https://www.youtube.com/watch?v=l7krRFZL9R8) | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) · AllHealth Track Prize · [details](../by-hackathon/hackharvard-2024.md#project-flexy-and-i-know-it) | Transforming arthritis rehabilitation by advanced posture detection ensures correct movements. Gamify your… | blockchain, cloudflare, cosine |
+Newest hackathons first.
+
+### [Flexy (And I Know It)](https://devpost.com/software/flexy-and-i-know-it)
+
+[HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-flexy-and-i-know-it) · **AllHealth Track Prize**
+
+Transforming arthritis rehabilitation by advanced posture detection ensures correct movements. Gamify your recovery by drawing shapes with your body—making recovery fun and accelerating healing.
+
+[Code](https://github.com/Shameed4/Flexy) · [Demo video](https://www.youtube.com/watch?v=l7krRFZL9R8) · Built with blockchain, cloudflare, cosine, flask
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) | AllHealth Track Prize | No specific requirement captured | [Event prize rules](https://hackharvard-2024.devpost.com/) |
 
 </details>
+
+[Back to top](#allhealth)

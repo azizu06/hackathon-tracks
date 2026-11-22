@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Martian
+
 # Martian
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Martian)
 
 ## What winners have in common
 
-- **Most listed tech** appimage (1), asteval (1), chart.js (1)
-- **Common project areas** Accessibility and assistive tools (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** appimage (1), asteval (1), chart.js (1), css (1), databricks (1)
+- **Project areas:** Accessibility and assistive tools (1)
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [LangSketch](https://devpost.com/software/langsketch) · [code](https://github.com/rajshah6/langsketch) · [demo](https://www.youtube.com/watch?v=L6CZgvak0hQ) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · LLM Routing with Martian · [details](../by-hackathon/hack-the-north-2025.md#project-langsketch) | LangSketch is a visual agent builder that leverages Databricks for data processing and Martian rule routing… | appimage, asteval, chart.js |
+Newest hackathons first.
+
+### [LangSketch](https://devpost.com/software/langsketch)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-langsketch) · **LLM Routing with Martian**
+
+LangSketch is a visual agent builder that leverages Databricks for data processing and Martian rule routing for affordable drag-and-drop agent creation, making agentic workflows accessible for all.
+
+[Code](https://github.com/rajshah6/langsketch) · [Demo video](https://www.youtube.com/watch?v=L6CZgvak0hQ) · Built with appimage, asteval, chart.js, css
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Martian: LLM Routing with Martian | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
 
 </details>
+
+[Back to top](#martian)

@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / CoStar Group
+
 # CoStar Group
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=CoStar%20Group)
 
 ## What winners have in common
 
-- **Most listed tech** costar (3), fastapi (3), langchain (3)
-- **Common project areas** Health and care (2)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** costar (3), fastapi (3), langchain (3), matterport (3), vexcel (3)
+- **Project areas:** Health and care (2)
+- **Demo formats:** None listed
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [asclepieion](https://devpost.com/software/asclepieion) · [code](https://github.com/alisx255/asclepieion-public) · [demo](https://www.youtube.com/watch?v=llLSV0W6s7c) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Inside and Out: AI for the Built World · [details](../by-hackathon/hackprinceton-fall-2026.md#project-asclepieion) | Every census tract is shaded by a need score built from HRSA shortage designations and CDC PLACES health data. | anthropic, cdc-open-data, costar |
-| [Siteline](https://devpost.com/software/siteline-vus4jl) · [code](https://github.com/archit2901/siteline) · [demo](https://www.youtube.com/watch?v=uoMErki4yTk) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Inside and Out: AI for the Built World · [details](../by-hackathon/hackprinceton-fall-2026.md#project-siteline-vus4jl) | Siteline tells clinics where to open. It learns what drives each practice, pulls the public data that… | agents, amazon-bedrock, amazon-nova |
-| [Stagehand](https://devpost.com/software/stagehand-241isj) · [code](https://github.com/sofiagrimm/hackprinceton) · [demo](https://vimeo.com/1246959819) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Inside and Out: AI for the Built World · [details](../by-hackathon/hackprinceton-fall-2026.md#project-stagehand-241isj) | Find your space with Stagehand! For creatives wanting to visualize before booking. | capital-one-nessie, costar, deepagents |
+Newest hackathons first.
+
+### [asclepieion](https://devpost.com/software/asclepieion)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-asclepieion) · **Inside and Out: AI for the Built World**
+
+Every census tract is shaded by a need score built from HRSA shortage designations and CDC PLACES health data.
+
+[Code](https://github.com/alisx255/asclepieion-public) · [Demo video](https://www.youtube.com/watch?v=llLSV0W6s7c) · Built with anthropic, cdc-open-data, costar, fastapi
+
+### [Siteline](https://devpost.com/software/siteline-vus4jl)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-siteline-vus4jl) · **Inside and Out: AI for the Built World**
+
+Siteline tells clinics where to open. It learns what drives each practice, pulls the public data that measures it, and ranks real lease spaces by the patients they’d win and the care gaps they’d fill.
+
+[Code](https://github.com/archit2901/siteline) · [Demo video](https://www.youtube.com/watch?v=uoMErki4yTk) · Built with agents, amazon-bedrock, amazon-nova, amazon-web-services
+
+### [Stagehand](https://devpost.com/software/stagehand-241isj)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-stagehand-241isj) · **Inside and Out: AI for the Built World**
+
+Find your space with Stagehand! For creatives wanting to visualize before booking.
+
+[Code](https://github.com/sofiagrimm/hackprinceton) · [Demo video](https://vimeo.com/1246959819) · Built with capital-one-nessie, costar, deepagents, fastapi
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) | &#91;CoStar Group&#93; Inside and Out: AI for the Built World | No specific requirement captured | [Event prize rules](https://hackprinceton-fall-26.devpost.com/) |
 
 </details>
+
+[Back to top](#costar-group)

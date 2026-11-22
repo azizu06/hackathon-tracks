@@ -1,31 +1,48 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Samsara
+
 # Samsara
 
-**2 projects · 2 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Samsara)
 
 ## What winners have in common
 
-- **Most listed tech** python (2), android (1), arduino (1)
-- **Common project areas** None listed
-- **Common demo formats** Mobile app (2), Hardware or robotics (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 0 of 2
+- **Most used tech:** python (2), android (1), arduino (1), c++ (1), core-location (1)
+- **Project areas:** None listed
+- **Demo formats:** Mobile app (2), Hardware or robotics (1), Voice or conversational interface (1)
+- **Demo videos:** 0 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Hotspot](https://devpost.com/software/hotspot-i2x0bm) · [code](https://github.com/thkim1011/hotspot) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · Best Use of Location Data · [details](../by-hackathon/hackmit-2018.md#project-hotspot-i2x0bm) | A real-time, mobile-based, distributed WiFi heatmap. | core-location, coremotion, firebase |
-| [MIT Sorting Hat, Harry Potter Style](https://devpost.com/software/mit-sorting-hat) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Samsara - Best IoT Hack · [details](../by-hackathon/hackmit-2017.md#project-mit-sorting-hat) | Find your dorm culture fit Harry Potter Style. | android, arduino, c++ |
+Newest hackathons first.
+
+### [Hotspot](https://devpost.com/software/hotspot-i2x0bm)
+
+[HackMIT 2018](../by-hackathon/hackmit-2018.md#project-hotspot-i2x0bm) · **Best Use of Location Data**
+
+A real-time, mobile-based, distributed WiFi heatmap.
+
+[Code](https://github.com/thkim1011/hotspot) · Built with core-location, coremotion, firebase, flask
+
+### [MIT Sorting Hat, Harry Potter Style](https://devpost.com/software/mit-sorting-hat)
+
+[HackMIT 2017](../by-hackathon/hackmit-2017.md#project-mit-sorting-hat) · **Sponsor Prize - Samsara - Best IoT Hack**
+
+Find your dorm culture fit Harry Potter Style.
+
+Built with android, arduino, c++, hardware
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best Use of Location Data | Location Data | [Track label](https://hackmit-2018.devpost.com/) |
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Samsara - Best IoT Hack | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
 
 </details>
+
+[Back to top](#samsara)

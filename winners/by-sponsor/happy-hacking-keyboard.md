@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Happy Hacking Keyboard
+
 # Happy Hacking Keyboard
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Happy%20Hacking%20Keyboard)
 
 ## What winners have in common
 
-- **Most listed tech** claude (1), next.js (1), node.js (1)
-- **Common project areas** None listed
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** claude (1), next.js (1), node.js (1), react19 (1), typescript (1)
+- **Project areas:** None listed
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Roman Road](https://devpost.com/software/roman-road) · [code](https://github.com/eedwardkim/Roman-Road) · [demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Type Beyond - Rethinking Interaction Through the Keyboard · [details](../by-hackathon/la-hacks-2026.md#project-roman-road) | Type faster with less mistakes using bigram latency data. | claude, next.js, node.js |
+Newest hackathons first.
+
+### [Roman Road](https://devpost.com/software/roman-road)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-roman-road) · **Type Beyond - Rethinking Interaction Through the Keyboard**
+
+Type faster with less mistakes using bigram latency data.
+
+[Code](https://github.com/eedwardkim/Roman-Road) · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with claude, next.js, node.js, react19
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Happy Hacking Keyboard: Type Beyond - Rethinking Interaction Through the Keyboard | Build a new experience where the keyboard is the primary medium of interaction, enabling new ways to create, play, communicate, or explore. | [Devpost prize description](https://la-hacks-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#happy-hacking-keyboard)

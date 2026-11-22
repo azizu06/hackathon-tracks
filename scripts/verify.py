@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 """Check the saved directory against its exports, Markdown rows and HTTP receipts."""
 import argparse
+import html
 from collections import Counter
 import csv
 import json
-from itertools import takewhile
 from pathlib import Path
 import re
 import tempfile
 
-from render import INT_FIELDS, LIST_FIELDS, event_file, project_anchor, render, slugify, update_readme
+from render import (
+    INT_FIELDS, LIST_FIELDS, ROOT_PAGES, SITE_URL, event_file, heading_anchor, render, slugify, update_readme,
+)
 
 
 def decode_csv(row, nullable):
@@ -22,9 +24,11 @@ def decode_csv(row, nullable):
     }
 
 
-def read_awards(path):
-    award_lines = path.read_text(encoding="utf-8").split("## Sponsor awards\n", 1)[1]
-    return list(takewhile(lambda line: line.startswith("|"), award_lines.strip().splitlines()))[2:]
+def anchors(path):
+    text = path.read_text(encoding="utf-8")
+    names = set(re.findall(r'<a name="([^"]+)"></a>', text))
+    names.update(heading_anchor(html.unescape(title)) for title in re.findall(r"^#{1,6} (.+)$", text, re.M))
+    return names
 
 
 def verify(root, readme=None):
@@ -58,13 +62,20 @@ def verify(root, readme=None):
         ):
             counted[path] += 1
 
+    projects = {}
+    for row in rows:
+        projects.setdefault(root / "by-hackathon" / event_file(row), set()).add(row["url"])
+        projects.setdefault(root / "by-sponsor" / (slugify(row["sponsor"]) + ".md"), set()).add((row["event_slug"], row["url"]))
     for folder in ("by-hackathon", "by-sponsor"):
         actual = {p for p in (root / folder).glob("*.md")}
         expected = {p for p in counted if p.parent.name == folder}
         assert actual == expected, f"Unexpected {folder} files: {actual ^ expected}"
         for path in actual:
-            lines = read_awards(path)
-            assert len(lines) == counted[path] and all(l.startswith("| [") for l in lines), path
+            text = path.read_text(encoding="utf-8")
+            entries = len(re.findall(r'^<a name="project-', text, re.M)) if folder == "by-hackathon" else len(
+                re.findall(r"^### \[", text, re.M)
+            )
+            assert entries == len(projects[path]), (path, entries, len(projects[path]))
 
     with tempfile.TemporaryDirectory(prefix="hackathon-index-") as directory:
         replay = Path(directory)
@@ -78,19 +89,30 @@ def verify(root, readme=None):
             preview.write_bytes(readme.read_bytes())
             update_readme(preview, rows)
             assert readme.read_bytes() == preview.read_bytes(), "Root README indexes or badges are stale"
-    valid_anchors = {event_file(row) + "#" + project_anchor(row) for row in rows}
-    valid_anchors.update(f"README.md#{name}" for name in ("leaderboard", "sponsor-index", "hackathon-index"))
+            for name in ROOT_PAGES:
+                assert (readme.parent / name).read_bytes() == (replay / name).read_bytes(), f"{name} is stale"
+    pages = list(root.rglob("*.md"))
+    if readme:
+        pages += [readme.parent / name for name in ("README.md", *ROOT_PAGES)]
+        coverage = readme.parent / "docs" / "coverage.md"
+        if coverage.is_file():
+            pages.append(coverage)
     checked_links = 0
-    for path in root.rglob("*.md"):
+    anchor_cache = {}
+    for path in pages:
+        external_checked = path.is_relative_to(root) or path.name in ROOT_PAGES
         for destination in re.findall(r"\]\(([^ )]+)\)", path.read_text(encoding="utf-8")):
-            if destination.startswith("https://"):
-                assert receipts[destination]["status"] == 200, destination
+            if destination.startswith(("https://", "http://")):
+                if external_checked and not destination.startswith(SITE_URL):
+                    assert receipts[destination]["status"] == 200, destination
             else:
                 file_name, _, anchor = destination.partition("#")
-                target = (path.parent / file_name) if file_name else path
+                target = (path.parent / file_name).resolve() if file_name else path.resolve()
                 assert target.is_file(), (path, destination)
                 if anchor:
-                    assert target.name + "#" + anchor in valid_anchors, (path, destination)
+                    if target not in anchor_cache:
+                        anchor_cache[target] = anchors(target)
+                    assert anchor in anchor_cache[target], (path, destination)
             checked_links += 1
     print(f"Verified {len(rows):,} CSV, JSON and Markdown award rows, "
           f"{len(receipts):,} HTTP 200 receipts and {checked_links:,} Markdown links. "

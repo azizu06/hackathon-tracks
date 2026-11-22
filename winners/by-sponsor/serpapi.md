@@ -1,31 +1,57 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / SerpApi
+
 # SerpApi
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=SerpApi)
 
 ## What winners have in common
 
-- **Most listed tech** fastapi (3), postgresql (3), python (3)
-- **Common project areas** None listed
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** fastapi (3), postgresql (3), python (3), react (3), typescript (3)
+- **Project areas:** None listed
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [All Ears](https://devpost.com/software/speechbot-29k8wc) · [code](https://github.com/Shimal-Tajale/DevilsAdvocatesSpeechBot) · [demo](https://www.youtube.com/watch?v=sCO3z-yDLLk) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · Best Use of SerpApi · [details](../by-hackathon/hacktx-2026.md#project-speechbot-29k8wc) | The practice audience that helps you show up for the real one. | arduino, c++, css |
-| [Dance Fantasy](https://devpost.com/software/hack-em-horns) · [code](https://github.com/luvudeshi/dance-fantasy) · [demo](https://www.youtube.com/watch?v=DB1vOln3nSA) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · Best Use of SerpApi · [details](../by-hackathon/hacktx-2026.md#project-hack-em-horns) | Dance Fantasy turns any song into an original dance routine, taught by a 3D dancer, while your webcam scores… | serpapi, aist++, claude-code |
-| [ParaMyth](https://devpost.com/software/paramyth) · [code](https://github.com/TanishC4444/ParaMyth) · [demo](https://www.youtube.com/watch?v=nDaxrcF-xis) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · Best Use of SerpApi · [details](../by-hackathon/hacktx-2026.md#project-paramyth) | A world of stories. A story only you can tell. | serpapi, anime.js, d3-geo |
+Newest hackathons first.
+
+### [All Ears](https://devpost.com/software/speechbot-29k8wc)
+
+[HackTX 2026](../by-hackathon/hacktx-2026.md#project-speechbot-29k8wc) · **Best Use of SerpApi**
+
+The practice audience that helps you show up for the real one.
+
+**How it used SerpApi:** Audience question: Gemini picks a claim, SerpApi runs one Google search (with social media filtered out), and Gemini writes a sourced question.
+
+[Code](https://github.com/Shimal-Tajale/DevilsAdvocatesSpeechBot) · [Demo video](https://www.youtube.com/watch?v=sCO3z-yDLLk) · Built with arduino, c++, css, deepgram
+
+### [Dance Fantasy](https://devpost.com/software/hack-em-horns)
+
+[HackTX 2026](../by-hackathon/hacktx-2026.md#project-hack-em-horns) · **Best Use of SerpApi**
+
+Dance Fantasy turns any song into an original dance routine, taught by a 3D dancer, while your webcam scores every beat.
+
+[Code](https://github.com/luvudeshi/dance-fantasy) · [Demo video](https://www.youtube.com/watch?v=DB1vOln3nSA) · Built with serpapi, aist++, claude-code, cursor
+
+### [ParaMyth](https://devpost.com/software/paramyth)
+
+[HackTX 2026](../by-hackathon/hacktx-2026.md#project-paramyth) · **Best Use of SerpApi**
+
+A world of stories. A story only you can tell.
+
+[Code](https://github.com/TanishC4444/ParaMyth) · [Demo video](https://www.youtube.com/watch?v=nDaxrcF-xis) · Built with serpapi, anime.js, d3-geo, docker
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackTX 2026](../by-hackathon/hacktx-2026.md) | &#91;SerpApi&#93; Best Use of SerpApi | SerpApi | [Track label](https://hacktx26.devpost.com/) |
 
 </details>
+
+[Back to top](#serpapi)

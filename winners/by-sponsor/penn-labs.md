@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Penn Labs
+
 # Penn Labs
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Penn%20Labs)
 
 ## What winners have in common
 
-- **Most listed tech** beautiful-soup (1), bulma (1), cerebras (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** beautiful-soup (1), bulma (1), cerebras (1), css3 (1), flask (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [ScholarFlow](https://devpost.com/software/scholarflow) · [code](https://github.com/AjayAvasi/ScholarFlow) · [demo](https://www.youtube.com/watch?v=_Yydo6lTc5s) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Best Beginner Hack · [details](../by-hackathon/pennapps-xxv-2024.md#project-scholarflow) | ScholarFlow makes it easy to find research papers and professors. | beautiful-soup, bulma, cerebras |
+Newest hackathons first.
+
+### [ScholarFlow](https://devpost.com/software/scholarflow)
+
+[PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-scholarflow) · **Best Beginner Hack**
+
+ScholarFlow makes it easy to find research papers and professors.
+
+[Code](https://github.com/AjayAvasi/ScholarFlow) · [Demo video](https://www.youtube.com/watch?v=_Yydo6lTc5s) · Built with beautiful-soup, bulma, cerebras, css3
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Beginner Hack | No specific requirement captured | [Event prize rules](https://pennapps-xxv.devpost.com/) |
 
 </details>
+
+[Back to top](#penn-labs)

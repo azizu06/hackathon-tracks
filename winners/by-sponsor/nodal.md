@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Nodal
+
 # Nodal
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Nodal)
 
 ## What winners have in common
 
-- **Most listed tech** react (2), adafruit (1), adafruit-icm20948 (1)
-- **Common project areas** None listed
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 1 of 3
+- **Most used tech:** react (2), adafruit (1), adafruit-icm20948 (1), arduino-uno-r3 (1), cloudflare (1)
+- **Project areas:** None listed
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 1 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [NodalCLI](https://devpost.com/software/hacknyu-v3nyx1) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Best Use of Nodal CLI · [details](../by-hackathon/hacknyu-fall-2025.md#project-hacknyu-v3nyx1) | The team describes the project as “Nodal”. | test |
-| [TorqIt](https://devpost.com/software/torqit) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Best Use of Nodal CLI · [details](../by-hackathon/hacknyu-fall-2025.md#project-torqit) | Building TorqIt was an intensive learning experience that spanned multiple domains:. | adafruit-icm20948, arduino-uno-r3, cors |
-| [Tuffr](https://devpost.com/software/tuffr) · [demo](https://www.youtube.com/watch?v=ZHPY_1P-ulU) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Best Use of Nodal CLI · [details](../by-hackathon/hacknyu-fall-2025.md#project-tuffr) | Increase your strength with cutting-edge computer vision and agentic AI. | adafruit, cloudflare, opencv |
+Newest hackathons first.
+
+### [NodalCLI](https://devpost.com/software/hacknyu-v3nyx1)
+
+[HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md#project-hacknyu-v3nyx1) · **Best Use of Nodal CLI**
+
+The team describes the project as “Nodal”.
+
+Built with test
+
+### [TorqIt](https://devpost.com/software/torqit)
+
+[HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md#project-torqit) · **Best Use of Nodal CLI**
+
+Building TorqIt was an intensive learning experience that spanned multiple domains:.
+
+Built with adafruit-icm20948, arduino-uno-r3, cors, eslint
+
+### [Tuffr](https://devpost.com/software/tuffr)
+
+[HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md#project-tuffr) · **Best Use of Nodal CLI**
+
+Increase your strength with cutting-edge computer vision and agentic AI.
+
+[Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ulU) · Built with adafruit, cloudflare, opencv, openserver
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) | Best Use of Nodal CLI | Nodal CLI | [Track label](https://hacknyu-fall-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#nodal)

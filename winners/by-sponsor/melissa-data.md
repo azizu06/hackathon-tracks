@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Melissa Data
+
 # Melissa Data
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Melissa%20Data)
 
 ## What winners have in common
 
-- **Most listed tech** fastapi (1), gemini (1), leaflet.js (1)
-- **Common project areas** Health and care (1), Safety and emergency response (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** fastapi (1), gemini (1), leaflet.js (1), mellisa (1), mongodb (1)
+- **Project areas:** Health and care (1), Safety and emergency response (1)
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Bandaid Maps](https://devpost.com/software/bandaid-maps) · [code](https://github.com/GovindKurapati/bandaid-maps) · [demo](https://www.youtube.com/watch?v=3-WHXSlJYEA) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · Melissa Data Challenge · [details](../by-hackathon/la-hacks-2025.md#project-bandaid-maps) | Bandaid Maps is a real-time, AI-powered healthcare navigation tool that assesses your emergency preparedness… | fastapi, gemini, leaflet.js |
+Newest hackathons first.
+
+### [Bandaid Maps](https://devpost.com/software/bandaid-maps)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-bandaid-maps) · **Melissa Data Challenge**
+
+Bandaid Maps is a real-time, AI-powered healthcare navigation tool that assesses your emergency preparedness wherever you are.
+
+[Code](https://github.com/GovindKurapati/bandaid-maps) · [Demo video](https://www.youtube.com/watch?v=3-WHXSlJYEA) · Built with fastapi, gemini, leaflet.js, mellisa
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | Melissa Data Challenge | No specific requirement captured | [Event prize rules](https://la-hacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#melissa-data)

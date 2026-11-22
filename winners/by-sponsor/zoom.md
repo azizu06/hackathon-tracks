@@ -1,37 +1,97 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Zoom
+
 # Zoom
 
-**7 projects · 2 editions · 7 prize rows**
-
-[Winners index](../README.md)
+**7 winning projects** · 2 hackathons · 7 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Zoom)
 
 ## What winners have in common
 
-- **Most listed tech** zoom (5), python (4), perplexity (3)
-- **Common project areas** Education and learning (1)
-- **Common demo formats** Web app or dashboard (2), Voice or conversational interface (1)
-- **Projects with a listed demo video** 7 of 7
+- **Most used tech:** zoom (5), python (4), perplexity (3), react (3), chromadb (2)
+- **Project areas:** Education and learning (1)
+- **Demo formats:** Web app or dashboard (2), Voice or conversational interface (1)
+- **Demo videos:** 7 of 7 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Minerva](https://devpost.com/software/minerva-3sj6z0) · [code](https://github.com/anton-3/minerva) · [demo](https://www.youtube.com/watch?v=vK0Tob8xZKE) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Education Track · [details](../by-hackathon/treehacks-2026.md#project-minerva-3sj6z0) | Minerva is an AI-powered virtual educator designed to provide structured, personalized, and non-judgmental… | zoom, claude, heygen |
-| [Prereq](https://devpost.com/software/prereq-sg1thw) · [code](https://github.com/jasonyi33/prereq) · [demo](https://www.youtube.com/watch?v=Xaod8It2Wko) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Education Track · [details](../by-hackathon/treehacks-2026.md#project-prereq-sg1thw) | Real-time knowledge graphs that make every lecture impossible to fall behind in. | zoom, claude, claudehaiku |
-| [TA-DA: Intelligent Teaching Assistant](https://devpost.com/software/ta-da-intelligent-teaching-assistant) · [code](https://github.com/pb2323/TA-da) · [demo](https://www.youtube.com/watch?v=GuiFFxdgUZA) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Education Track · [details](../by-hackathon/treehacks-2026.md#project-ta-da-intelligent-teaching-assistant) | Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching assistant built into Zoom… | zoom, elasticsearch, fetch.ai |
-| [FlowPilot: Your Agentic Co-Pilot](https://devpost.com/software/flowpilot-zoom-agent-that-automates-your-workflows) · [code](https://github.com/CarterCote/flow-pilot) · [demo](https://www.youtube.com/watch?v=d9pkeKJIGRg) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card +… · [details](../by-hackathon/treehacks-2025.md#project-flowpilot-zoom-agent-that-automates-your-workflows) | FlowPilot listens, understands, and executes, transforming Zoom meetings into Slide decks and Notion… | zoom, dain, docker |
-| [HiveMind](https://devpost.com/software/hivemind-18cula) · [code](https://github.com/AahilAliCodes/Hivemind2) · [demo](https://www.youtube.com/watch?v=krXZVuJfAOQ) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Education Grand Prize ($1k Cash + Meta Ray Ban Smart Glasses x4 + Marine Layer Zoom… · [details](../by-hackathon/treehacks-2025.md#project-hivemind-18cula) | HiveMind: Your Second Brain for Smarter Learning. | zoom, api, chromadb |
-| [Noteworthy: Visualize, Capture, Remember.](https://devpost.com/software/noteworthy-visualize-capture-remember) · [code](https://github.com/arushisharmaa/stanford-tree-hacks-) · [demo](https://www.youtube.com/watch?v=m_1f7-KvGmQ) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card +… · [details](../by-hackathon/treehacks-2025.md#project-noteworthy-visualize-capture-remember) | AI-powered lecture companion: Transforms speech into real-time visualizations, incorporates notes, and… | bash, gemini, html/css |
-| [ZoneOut](https://devpost.com/software/zoneout-atz5pe) · [code](https://github.com/NxtGenLegend/TreeHacks-ZoneOut) · [demo](https://www.youtube.com/watch?v=Be4lfvVzMRQ) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card +… · [details](../by-hackathon/treehacks-2025.md#project-zoneout-atz5pe) | Zoned out during a lecture? Your very own lecture buddy is here to save you. | zoom-api, chromadb, colpali |
+Newest hackathons first.
+
+### [Minerva](https://devpost.com/software/minerva-3sj6z0)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-minerva-3sj6z0) · **Education Track**
+
+Minerva is an AI-powered virtual educator designed to provide structured, personalized, and non-judgmental one-on-one learning.
+
+**How it used Zoom:** The team used Next.js/React as the web framework, and connected HeyGen LiveAvatar to the Zoom Video SDK to display the avatar in the browser.
+
+[Code](https://github.com/anton-3/minerva) · [Demo video](https://www.youtube.com/watch?v=vK0Tob8xZKE) · Built with zoom, claude, heygen, next
+
+### [Prereq](https://devpost.com/software/prereq-sg1thw)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-prereq-sg1thw) · **Education Track**
+
+Real-time knowledge graphs that make every lecture impossible to fall behind in.
+
+[Code](https://github.com/jasonyi33/prereq) · [Demo video](https://www.youtube.com/watch?v=Xaod8It2Wko) · Built with zoom, claude, claudehaiku, claudesonnet
+
+### [TA-DA: Intelligent Teaching Assistant](https://devpost.com/software/ta-da-intelligent-teaching-assistant)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-ta-da-intelligent-teaching-assistant) · **Education Track**
+
+Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching assistant built into Zoom that detects confusion and generates concept cards instantly.
+
+**How it used Zoom:** TA-DA is an AI-powered teaching assistant built natively into Zoom using the Real-Time Meeting SDK (RTMS).
+
+[Code](https://github.com/pb2323/TA-da) · [Demo video](https://www.youtube.com/watch?v=GuiFFxdgUZA) · Built with zoom, elasticsearch, fetch.ai, javascript
+
+### [FlowPilot: Your Agentic Co-Pilot](https://devpost.com/software/flowpilot-zoom-agent-that-automates-your-workflows)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-flowpilot-zoom-agent-that-automates-your-workflows) · **Best Use of Zoom APIs**
+
+FlowPilot listens, understands, and executes, transforming Zoom meetings into Slide decks and Notion workflows. No more lost action items - just approve and watch it execute.
+
+**How it used Zoom:** Zoom RTMS Integration : Implements WebSocket connections for real-time audio stream processing.
+
+[Code](https://github.com/CarterCote/flow-pilot) · [Demo video](https://www.youtube.com/watch?v=d9pkeKJIGRg) · Built with zoom, dain, docker, express.js
+
+### [HiveMind](https://devpost.com/software/hivemind-18cula)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-hivemind-18cula) · **Education Grand Prize**
+
+HiveMind: Your Second Brain for Smarter Learning.
+
+[Code](https://github.com/AahilAliCodes/Hivemind2) · [Demo video](https://www.youtube.com/watch?v=krXZVuJfAOQ) · Built with zoom, api, chromadb, flask
+
+### [Noteworthy: Visualize, Capture, Remember.](https://devpost.com/software/noteworthy-visualize-capture-remember)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-noteworthy-visualize-capture-remember) · **Best Use of Zoom APIs**
+
+AI-powered lecture companion: Transforms speech into real-time visualizations, incorporates notes, and enhances learning with summaries, resources, and chatbot integration—effortless and efficient.
+
+**How it used Zoom:** Utilizing data generated from Zoom’s WebSocket Technology for text extraction.
+
+[Code](https://github.com/arushisharmaa/stanford-tree-hacks-) · [Demo video](https://www.youtube.com/watch?v=m_1f7-KvGmQ) · Built with bash, gemini, html/css, javascript
+
+### [ZoneOut](https://devpost.com/software/zoneout-atz5pe)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-zoneout-atz5pe) · **Best Use of Zoom APIs**
+
+Zoned out during a lecture? Your very own lecture buddy is here to save you.
+
+[Code](https://github.com/NxtGenLegend/TreeHacks-ZoneOut) · [Demo video](https://www.youtube.com/watch?v=Be4lfvVzMRQ) · Built with zoom-api, chromadb, colpali, openai
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Zoom&#93; Education Track | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Education Grand Prize ($1k Cash + Meta Ray Ban Smart Glasses x4 + Marine Layer Zoom Hoodie x4) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Zoom: Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;) | Zoom APIs | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#zoom)

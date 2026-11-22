@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Morgan &amp; Morgan
+
 # Morgan &amp; Morgan
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Morgan%20%26%20Morgan)
 
 ## What winners have in common
 
-- **Most listed tech** react (3), typescript (3), google-adk (2)
-- **Common project areas** None listed
-- **Common demo formats** Web app or dashboard (2), Voice or conversational interface (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** react (3), typescript (3), google-adk (2), next.js (2), postgresql (2)
+- **Project areas:** None listed
+- **Demo formats:** Web app or dashboard (2), Voice or conversational interface (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Lawgorithm](https://devpost.com/software/lawgorithm-815k2x) · [code](https://github.com/dominickdupuy/Paralegal) · [demo](https://www.youtube.com/watch?v=toI8_0oCX8Y) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · AI Legal Tender Challenge · [details](../by-hackathon/knight-hacks-viii-2025.md#project-lawgorithm-815k2x) | AI Legal Tender transforms messy legal data into structured, cited intelligence using AMD powered ADKs that… | amd, chatgpt-whisper, flask |
-| [PowerLegal](https://devpost.com/software/eagleeye-powerlegal) · [code](https://github.com/Kavipatel0/KnightHacks) · [demo](https://www.youtube.com/watch?v=SRItaUWZ1nc) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · AI Legal Tender Challenge · [details](../by-hackathon/knight-hacks-viii-2025.md#project-eagleeye-powerlegal) | PowerLegal is a sophisticated multi-agent legal case management system that coordinates 3 specialized AI… | adk, gemini, next.js |
-| [Simply Law](https://devpost.com/software/lexiloop) · [code](https://github.com/ballinyouup/morgan-ai-sdk) · [demo](https://www.youtube.com/watch?v=-925V5YOfWs) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · AI Legal Tender Challenge · [details](../by-hackathon/knight-hacks-viii-2025.md#project-lexiloop) | Simply Law automates the legal workflow with AI agents that extract key information, draft client responses,… | fastapi, google-adk, google-gemini |
+Newest hackathons first.
+
+### [Lawgorithm](https://devpost.com/software/lawgorithm-815k2x)
+
+[Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-lawgorithm-815k2x) · **AI Legal Tender Challenge**
+
+AI Legal Tender transforms messy legal data into structured, cited intelligence using AMD powered ADKs that listen, learn, research, and help lawyers litigate smarter, faster, and more accurately.
+
+[Code](https://github.com/dominickdupuy/Paralegal) · [Demo video](https://www.youtube.com/watch?v=toI8_0oCX8Y) · Built with amd, chatgpt-whisper, flask, google-adk
+
+### [PowerLegal](https://devpost.com/software/eagleeye-powerlegal)
+
+[Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-eagleeye-powerlegal) · **AI Legal Tender Challenge**
+
+PowerLegal is a sophisticated multi-agent legal case management system that coordinates 3 specialized AI agents:.
+
+[Code](https://github.com/Kavipatel0/KnightHacks) · [Demo video](https://www.youtube.com/watch?v=SRItaUWZ1nc) · Built with adk, gemini, next.js, openai
+
+### [Simply Law](https://devpost.com/software/lexiloop)
+
+[Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-lexiloop) · **AI Legal Tender Challenge**
+
+Simply Law automates the legal workflow with AI agents that extract key information, draft client responses, and streamline case management empowering attorneys to focus on strategy, not paperwork.
+
+[Code](https://github.com/ballinyouup/morgan-ai-sdk) · [Demo video](https://www.youtube.com/watch?v=-925V5YOfWs) · Built with fastapi, google-adk, google-gemini, next.js
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | Morgan &amp; Morgan: AI Legal Tender Challenge | No specific requirement captured | [Event prize rules](https://knighthacksviii.devpost.com/) |
 
 </details>
+
+[Back to top](#morgan--morgan)

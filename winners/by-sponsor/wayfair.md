@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Wayfair
+
 # Wayfair
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Wayfair)
 
 ## What winners have in common
 
-- **Most listed tech** azure (1), css (1), google-cloud (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 0 of 1
+- **Most used tech:** azure (1), css (1), google-cloud (1), google-maps (1), html (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 0 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Happy Home](https://devpost.com/software/happy-home) · [code](https://github.com/ShashvatS/HappyHome) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Hack to Help the Housing Inequality Crisis with Wayfair · [details](../by-hackathon/hackmit-2019.md#project-happy-home) | Housing inequality, the disparity in housing due to socioeconomic factors, is a major issue in the society. | azure, css, google-cloud |
+Newest hackathons first.
+
+### [Happy Home](https://devpost.com/software/happy-home)
+
+[HackMIT 2019](../by-hackathon/hackmit-2019.md#project-happy-home) · **Best Hack to Help the Housing Inequality Crisis with Wayfair**
+
+Housing inequality, the disparity in housing due to socioeconomic factors, is a major issue in the society.
+
+[Code](https://github.com/ShashvatS/HappyHome) · Built with azure, css, google-cloud, google-maps
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best Hack to Help the Housing Inequality Crisis with Wayfair | No specific requirement captured | [Event prize rules](https://hackmit-2019.devpost.com/) |
 
 </details>
+
+[Back to top](#wayfair)

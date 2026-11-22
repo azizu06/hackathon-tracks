@@ -1,30 +1,47 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Nord Security
+
 # Nord Security
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Nord%20Security)
 
 ## What winners have in common
 
-- **Most listed tech** c++ (1), geopy (1), gpt-4o (1)
-- **Common project areas** Health and care (1), Security and privacy (1)
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** c++ (1), geopy (1), gpt-4o (1), hardware (1), libraries (1)
+- **Project areas:** Health and care (1), Security and privacy (1)
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Dristi](https://devpost.com/software/dristhi) · [demo](https://www.youtube.com/watch?v=gz_HUX_mEYY) | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) · Track: Security and Privacy · [details](../by-hackathon/hacknyu-2025.md#project-dristhi) | Have you ever imagined a world where navigation is effortless, safety is guaranteed, and health is monitored-… | c++, geopy, hardware |
-| [FirstWave](https://devpost.com/software/firstwave-5wbld1) · [code](https://github.com/Laphatize/firstwave) · [demo](https://www.youtube.com/watch?v=oLO9dA-NBEQ) | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) · Track: Security and Privacy · [details](../by-hackathon/hacknyu-2025.md#project-firstwave-5wbld1) | FirstWave transforms your organization’s approach to cybersecurity by simulating targeted spear phishing… | gpt-4o, mongodb, next.js |
+Newest hackathons first.
+
+### [Dristi](https://devpost.com/software/dristhi)
+
+[HackNYU 2025](../by-hackathon/hacknyu-2025.md#project-dristhi) · **Track: Security and Privacy**
+
+Have you ever imagined a world where navigation is effortless, safety is guaranteed, and health is monitored- all with just a backpack.
+
+[Demo video](https://www.youtube.com/watch?v=gz_HUX_mEYY) · Built with c++, geopy, hardware, libraries
+
+### [FirstWave](https://devpost.com/software/firstwave-5wbld1)
+
+[HackNYU 2025](../by-hackathon/hacknyu-2025.md#project-firstwave-5wbld1) · **Track: Security and Privacy**
+
+FirstWave transforms your organization’s approach to cybersecurity by simulating targeted spear phishing campaigns.
+
+[Code](https://github.com/Laphatize/firstwave) · [Demo video](https://www.youtube.com/watch?v=oLO9dA-NBEQ) · Built with gpt-4o, mongodb, next.js, node.js
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) | Track: Security and Privacy | No specific requirement captured | [Event prize rules](https://hacknyu-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#nord-security)

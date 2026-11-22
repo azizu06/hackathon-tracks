@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Break Through Tech
+
 # Break Through Tech
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Break%20Through%20Tech)
 
 ## What winners have in common
 
-- **Most listed tech** charm.sh (1), go (1), ngrok (1)
-- **Common project areas** Security and privacy (1)
-- **Common demo formats** CLI or developer tool (1)
-- **Projects with a listed demo video** 0 of 1
+- **Most used tech:** charm.sh (1), go (1), ngrok (1), sqlite (1)
+- **Project areas:** Security and privacy (1)
+- **Demo formats:** Command line or SDK (1)
+- **Demo videos:** 0 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [ShellHacked](https://devpost.com/software/shellhacked) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Break Through Tech · [details](../by-hackathon/shellhacks-2024.md#project-shellhacked) | Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay… | charm.sh, go, ngrok |
+Newest hackathons first.
+
+### [ShellHacked](https://devpost.com/software/shellhacked)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-shellhacked) · **Break Through Tech**
+
+Refresh on digital security with hands-on challenges and tips, all from your command line. Stay safe, stay smart, and learn to protect your online world effortlessly.
+
+Built with charm.sh, go, ngrok, sqlite
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | Break Through Tech | No specific requirement captured | [Event prize rules](https://shellhacks2024.devpost.com/) |
 
 </details>
+
+[Back to top](#break-through-tech)

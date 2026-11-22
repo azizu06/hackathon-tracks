@@ -1,36 +1,85 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Cerebras
+
 # Cerebras
 
-**6 projects · 3 editions · 6 prize rows**
-
-[Winners index](../README.md)
+**6 winning projects** · 3 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Cerebras)
 
 ## What winners have in common
 
-- **Most listed tech** cerebras (5), javascript (3), python (3)
-- **Common project areas** Accessibility and assistive tools (1)
-- **Common demo formats** Game (1), Mobile app (1), Voice or conversational interface (1)
-- **Projects with a listed demo video** 6 of 6
+- **Most used tech:** cerebras (5), javascript (3), python (3), css (2), html (2)
+- **Project areas:** Accessibility and assistive tools (1)
+- **Demo formats:** Mobile app (1), Playable game (1), Voice or conversational interface (1)
+- **Demo videos:** 6 of 6 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [RepoStory](https://devpost.com/software/placeholder-it3zq7) · [code](https://github.com/zjteachen/RepoStory) · [demo](https://www.youtube.com/watch?v=PFAQEJIiuBQ) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Best Use of Cerebras · [details](../by-hackathon/hack-the-north-2025.md#project-placeholder-it3zq7) | Learn about the process of how any GitHub project came to be! Get a timeline of the project construction… | cerebras, fastapi, git |
-| [Sandbox EDU](https://devpost.com/software/sandboxed) · [code](https://github.com/camelCasedAditya/PennApps) · [demo](https://www.youtube.com/watch?v=0yEQR8HrBoE) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) · Cerebus - Best use of Cerebras · [details](../by-hackathon/pennapps-xxvi-2025.md#project-sandboxed) | Learn programming through personalized project-focused AI-guided courses. Designed to help new coders build a… | cerebras, code-server, css |
-| [Terminator](https://devpost.com/software/terminator-g02u6t) · [code](https://github.com/V-prajit/Terminator) · [demo](https://www.youtube.com/watch?v=5CZHU31kQrs) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) · Cerebus - Best use of Cerebras · [details](../by-hackathon/pennapps-xxvi-2025.md#project-terminator-g02u6t) | A mixture of agents expert running on cutting edge inference hardware, that in practise can lead to… | cerebras, express.js, game-engine |
-| [Electra](https://devpost.com/software/advisory-iq) · [code](https://github.com/SahraMohamad/Electra) · [demo](https://www.youtube.com/watch?v=c6X9n7o9Zjk) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Super Fast AI · [details](../by-hackathon/pennapps-xxv-2024.md#project-advisory-iq) | Predict Elections Way Better With LLM Agents. | cerebras, css, d3.js |
-| [muni](https://devpost.com/software/muni-5t9jih) · [demo](https://www.youtube.com/watch?v=uR7UlKGjseE) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Super Fast AI · [details](../by-hackathon/pennapps-xxv-2024.md#project-muni-5t9jih) | The app allows users to have on-demand check-ins with a chatbot. | typescript |
-| [Optica](https://devpost.com/software/optica-gar7hw) · [code](https://github.com/ddiyas/OpticaV2) · [demo](https://www.youtube.com/watch?v=ZD9LP6MjzG8) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Super Fast AI · [details](../by-hackathon/pennapps-xxv-2024.md#project-optica-gar7hw) | A gateway for blind/visually impaired people to experience the world independently through computer vision. | cerebras, android-studio, java |
+Newest hackathons first.
+
+### [RepoStory](https://devpost.com/software/placeholder-it3zq7)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-placeholder-it3zq7) · **Best Use of Cerebras**
+
+Learn about the process of how any GitHub project came to be! Get a timeline of the project construction process, learn about the technologies used, and gain insights to the development process.
+
+**How it used Cerebras:** Cerebras was especially important; it was significantly faster than every other model, which let the team provide a seamless timeline streaming interface.
+
+[Code](https://github.com/zjteachen/RepoStory) · [Demo video](https://www.youtube.com/watch?v=PFAQEJIiuBQ) · Built with cerebras, fastapi, git, nextjs
+
+### [Sandbox EDU](https://devpost.com/software/sandboxed)
+
+[PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md#project-sandboxed) · **Cerebus - Best use of Cerebras**
+
+Learn programming through personalized project-focused AI-guided courses. Designed to help new coders build a project start to finish.
+
+[Code](https://github.com/camelCasedAditya/PennApps) · [Demo video](https://www.youtube.com/watch?v=0yEQR8HrBoE) · Built with cerebras, code-server, css, django
+
+### [Terminator](https://devpost.com/software/terminator-g02u6t)
+
+[PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md#project-terminator-g02u6t) · **Cerebus - Best use of Cerebras**
+
+A mixture of agents expert running on cutting edge inference hardware, that in practise can lead to simulation that you can control and experiment or play with.
+
+[Code](https://github.com/V-prajit/Terminator) · [Demo video](https://www.youtube.com/watch?v=5CZHU31kQrs) · Built with cerebras, express.js, game-engine, genai
+
+### [Electra](https://devpost.com/software/advisory-iq)
+
+[PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-advisory-iq) · **Super Fast AI**
+
+Predict Elections Way Better With LLM Agents.
+
+[Code](https://github.com/SahraMohamad/Electra) · [Demo video](https://www.youtube.com/watch?v=c6X9n7o9Zjk) · Built with cerebras, css, d3.js, geojson
+
+### [muni](https://devpost.com/software/muni-5t9jih)
+
+[PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-muni-5t9jih) · **Super Fast AI**
+
+The app allows users to have on-demand check-ins with a chatbot.
+
+**How it used Cerebras:** The team used Cerebras for the chatbot to ensure fast and efficient inference.
+
+[Demo video](https://www.youtube.com/watch?v=uR7UlKGjseE) · Built with typescript
+
+### [Optica](https://devpost.com/software/optica-gar7hw)
+
+[PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-optica-gar7hw) · **Super Fast AI**
+
+A gateway for blind/visually impaired people to experience the world independently through computer vision.
+
+[Code](https://github.com/ddiyas/OpticaV2) · [Demo video](https://www.youtube.com/watch?v=ZD9LP6MjzG8) · Built with cerebras, android-studio, java, kotlin
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Cerebras: Best Use of Cerebras | Cerebras | [Track label](https://hackthenorth2025.devpost.com/) |
 | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) | Cerebus - Best use of Cerebras | Cerebras | [Track label](https://pennapps-xxvi.devpost.com/) |
 | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Super Fast AI | Build a project with Cerebras Inference that leverages the speed of our API. | [Devpost prize description](https://pennapps-xxv.devpost.com/) |
 
 </details>
+
+[Back to top](#cerebras)

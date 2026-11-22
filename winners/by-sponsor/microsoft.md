@@ -1,42 +1,148 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Microsoft
+
 # Microsoft
 
-**15 projects · 8 editions · 15 prize rows**
-
-[Winners index](../README.md)
+**15 winning projects** · 8 hackathons · 15 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Microsoft)
 
 ## What winners have in common
 
-- **Most listed tech** python (9), react (7), typescript (7)
-- **Common project areas** Accessibility and assistive tools (1), Developer tools (1), Education and learning (1)
-- **Common demo formats** Web app or dashboard (3), Hardware or robotics (1), Mobile app (1)
-- **Projects with a listed demo video** 9 of 15
+- **Most used tech:** python (9), react (7), typescript (7), javascript (6), gemini (4)
+- **Project areas:** Accessibility and assistive tools (1), Developer tools (1), Education and learning (1)
+- **Demo formats:** Web app or dashboard (3), Hardware or robotics (1), Mobile app (1)
+- **Demo videos:** 9 of 15 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [AccountableAI](https://devpost.com/software/accountableai) · [code](https://github.com/ozr0013/AccountableAI) · [demo](https://www.youtube.com/watch?v=3eNnbQb081M) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Built for the Real World (1st), Customer Impact Award (2nd) · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-accountableai) | Independent Agentic AI oversight that tracks every dollar from owner to management company to vendor, so… | .md, agent, agentic |
-| [Standard Response](https://devpost.com/software/standard-response) · [code](https://github.com/Imhaohao/Standard-Response) · [demo](https://www.youtube.com/watch?v=eNsAGHFnFJY) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Built for the Real World (1st), Customer Impact Award (2nd) · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-standard-response) | An emergency response dashboard helps teams coordinate mass evacuation and identify people who need help… | anthropic, apify, cartesia |
-| [CADVision](https://devpost.com/software/cadvision) · [code](https://github.com/BAAA-Hacks/cad-vision) · [demo](https://www.youtube.com/watch?v=0-bYjncKWIs) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · Microsoft · [details](../by-hackathon/shellhacks-2026.md#project-cadvision) | CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN AI helps engineers inspect… | c#, elevenlabs, geminiapi |
-| [Repro](https://devpost.com/software/repro-h6gq70) · [demo](https://www.youtube.com/watch?v=4GTQH27oGOs) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · Microsoft · [details](../by-hackathon/shellhacks-2026.md#project-repro-h6gq70) | A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic… | docker, fastify, framer-motion |
-| [Spitball](https://devpost.com/software/spitball) · [demo](https://www.youtube.com/watch?v=uLmimTFwauM) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · Microsoft · [details](../by-hackathon/shellhacks-2026.md#project-spitball) | Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then… | claude, css, digitalocean |
-| [Ctrl-ARM](https://devpost.com/software/ctrl-arm) · [code](https://github.com/DanielJEfres/ctrl-arm) · [demo](https://www.youtube.com/watch?v=81FJv9Wgcoo) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Microsoft · [details](../by-hackathon/shellhacks-2025.md#project-ctrl-arm) | Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body movements into computer input. | css3, electron, gemini |
-| [PrepBear](https://devpost.com/software/prep-bear) · [code](https://github.com/Albertoh16/Bear-Necessities) · [demo](https://www.youtube.com/watch?v=uNDWa84R2Aw) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Microsoft · [details](../by-hackathon/shellhacks-2025.md#project-prep-bear) | A web-app developed to help prep students for their technical interviews through the use of AI mock… | gemini, javascript, react |
-| [VL-ADK](https://devpost.com/software/vl-adk) · [demo](https://www.youtube.com/watch?v=0t4X0DoKbsc) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Microsoft · [details](../by-hackathon/shellhacks-2025.md#project-vl-adk) | A "psuedo" VLA model leveraging a fleet of autonomous ADK agents. | gemini, google-adk, jetson-orin |
-| [Around the World in 70 Frames](https://devpost.com/software/around-the-world-in-70-frames) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Microsoft · [details](../by-hackathon/shellhacks-2024.md#project-around-the-world-in-70-frames) | Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of… | .net, apis, c# |
-| [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning) · [code](https://github.com/August-Druzgal/ShellHacks2024) · [demo](https://www.youtube.com/watch?v=7rRxLXnresk) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Microsoft · [details](../by-hackathon/shellhacks-2024.md#project-arsl-vr-asl-learning) | Learn ASL in AR through Computer Vision and Hand Tracking. | c, c-sharp, embedded |
-| [Lotion AI/AR](https://devpost.com/software/lotion-ai-ar) · [code](https://github.com/kgand/shellhacks2024) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Microsoft · [details](../by-hackathon/shellhacks-2024.md#project-lotion-ai-ar) | Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR. | axios, chatgpt, computer-vision |
-| [Extend a H.A.N.D.](https://devpost.com/software/extend-a-h-a-n-d) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Microsoft Azure Champ Prize - Hack for Good · [details](../by-hackathon/hackmit-2019.md#project-extend-a-h-a-n-d) | (Helper for Accessibility Needs &amp; Disabilities) A chrome extension which provides an accessibility layer on… | amazon-dynamodb, amazon-web-services, aws-api-gateway |
-| [Lotus Journal](https://devpost.com/software/bananaexpress) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · Azure Champ · [details](../by-hackathon/hackmit-2018.md#project-bananaexpress) | A self-writing journal of your life, with superpowers. | javascript, jupyter-notebook, keras |
-| [Pure Interaction](https://devpost.com/software/pure-interact) · [code](https://github.com/96imranahmed/pure-interaction) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Microsoft - Best Microsoft Hack · [details](../by-hackathon/hackmit-2017.md#project-pure-interact) | Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Learning. | cntk, css3, html5 |
-| [Gaze](https://devpost.com/software/gaze-09xkmb) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Best Use of Microsoft Technology · [details](../by-hackathon/hackmit-2016.md#project-gaze-09xkmb) | Gaze organizes un-organized videos to help the user interpret and navigate visual information. | — |
+Newest hackathons first.
+
+### [AccountableAI](https://devpost.com/software/accountableai)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-accountableai) · **Built for the Real World (1st), Customer Impact Award**
+
+Independent Agentic AI oversight that tracks every dollar from owner to management company to vendor, so owners catch problems before they affect finances, operations or relationships.
+
+[Code](https://github.com/ozr0013/AccountableAI) · [Demo video](https://www.youtube.com/watch?v=3eNnbQb081M) · Built with .md, agent, agentic, ai
+
+### [CADVision](https://devpost.com/software/cadvision)
+
+[ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-cadvision) · **Microsoft**
+
+CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN AI helps engineers inspect designs, surface issues, and understand complex assemblies faster.
+
+[Code](https://github.com/BAAA-Hacks/cad-vision) · [Demo video](https://www.youtube.com/watch?v=0-bYjncKWIs) · Built with c#, elevenlabs, geminiapi, metaquest
+
+### [Repro](https://devpost.com/software/repro-h6gq70)
+
+[ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-repro-h6gq70) · **Microsoft**
+
+A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
+
+[Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
+
+### [Spitball](https://devpost.com/software/spitball)
+
+[ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-spitball) · **Microsoft**
+
+Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
+
+[Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
+
+### [Standard Response](https://devpost.com/software/standard-response)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-standard-response) · **Built for the Real World (1st), Customer Impact Award**
+
+An emergency response dashboard helps teams coordinate mass evacuation and identify people who need help leaving.
+
+[Code](https://github.com/Imhaohao/Standard-Response) · [Demo video](https://www.youtube.com/watch?v=eNsAGHFnFJY) · Built with anthropic, apify, cartesia, claude
+
+### [Ctrl-ARM](https://devpost.com/software/ctrl-arm)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-ctrl-arm) · **Microsoft**
+
+Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body movements into computer input.
+
+[Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with css3, electron, gemini, google-a2a
+
+### [PrepBear](https://devpost.com/software/prep-bear)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-prep-bear) · **Microsoft**
+
+A web-app developed to help prep students for their technical interviews through the use of AI mock interviewer.
+
+[Code](https://github.com/Albertoh16/Bear-Necessities) · [Demo video](https://www.youtube.com/watch?v=uNDWa84R2Aw) · Built with gemini, javascript, react
+
+### [VL-ADK](https://devpost.com/software/vl-adk)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-vl-adk) · **Microsoft**
+
+A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
+
+[Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
+
+### [Around the World in 70 Frames](https://devpost.com/software/around-the-world-in-70-frames)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-around-the-world-in-70-frames) · **Microsoft**
+
+Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
+
+Built with .net, apis, c#, meta
+
+### [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-arsl-vr-asl-learning) · **Microsoft**
+
+Learn ASL in AR through Computer Vision and Hand Tracking.
+
+[Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c, c-sharp, embedded, hardware
+
+### [Lotion AI/AR](https://devpost.com/software/lotion-ai-ar)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-lotion-ai-ar) · **Microsoft**
+
+Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
+
+[Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
+
+### [Extend a H.A.N.D.](https://devpost.com/software/extend-a-h-a-n-d)
+
+[HackMIT 2019](../by-hackathon/hackmit-2019.md#project-extend-a-h-a-n-d) · **Microsoft Azure Champ Prize - Hack for Good**
+
+(Helper for Accessibility Needs &amp; Disabilities) A chrome extension which provides an accessibility layer on top of any webpage.
+
+**How it used Microsoft:** Integrating many different complex technologies together including 4 AWS Services, Microsoft's Computer Vision Azure API, and a Google Chrome Extension.
+
+Built with amazon-dynamodb, amazon-web-services, aws-api-gateway, azure
+
+### [Lotus Journal](https://devpost.com/software/bananaexpress)
+
+[HackMIT 2018](../by-hackathon/hackmit-2018.md#project-bananaexpress) · **Azure Champ**
+
+A self-writing journal of your life, with superpowers.
+
+Built with javascript, jupyter-notebook, keras, node.js
+
+### [Pure Interaction](https://devpost.com/software/pure-interact)
+
+[HackMIT 2017](../by-hackathon/hackmit-2017.md#project-pure-interact) · **Sponsor Prize - Microsoft - Best Microsoft Hack**
+
+Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Learning.
+
+[Code](https://github.com/96imranahmed/pure-interaction) · Built with cntk, css3, html5, javascript
+
+### [Gaze](https://devpost.com/software/gaze-09xkmb)
+
+[HackMIT 2016](../by-hackathon/hackmit-2016.md#project-gaze-09xkmb) · **Best Use of Microsoft Technology**
+
+Gaze organizes un-organized videos to help the user interpret and navigate visual information.
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd) | No specific requirement captured | [Event prize rules](https://cal-hacks-13-0.devpost.com/) |
 | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) | Microsoft | No specific requirement captured | [Event prize rules](https://shellhacks-2026.devpost.com/) |
@@ -48,3 +154,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best Use of Microsoft Technology | Microsoft Technology | [Track label](https://hackmit-2016.devpost.com/) |
 
 </details>
+
+[Back to top](#microsoft)

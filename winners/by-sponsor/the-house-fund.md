@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / The House Fund
+
 # The House Fund
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=The%20House%20Fund)
 
 ## What winners have in common
 
-- **Most listed tech** python (2), ai (1), amazon-web-services (1)
-- **Common project areas** Education and learning (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 0 of 3
+- **Most used tech:** python (2), ai (1), amazon-web-services (1), api (1), chroma (1)
+- **Project areas:** Education and learning (1)
+- **Demo formats:** None listed
+- **Demo videos:** 0 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [AI Traffic Control (AITC)](https://devpost.com/software/ai-traffic-control-aitc) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · "Cal" Track · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-ai-traffic-control-aitc) | AiTC is transforming the aviation industry by automating ATC radio calls and providing analytics for faster,… | ai, python, reflex |
-| [Ducky.AI](https://devpost.com/software/ducky-ai) · [code](https://github.com/adit-bala/ducky.ai) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · "Cal" Track · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-ducky-ai) | An LLM Rubber Ducky. Never worry about being unprepared for a presentation ever again. | amazon-web-services, deno, docker |
-| [EduGap](https://devpost.com/software/edugap) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · "Cal" Track · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-edugap) | EduGap enhances the AI models Students can use by automating the integration of class-specific materials in… | api, chroma, chromadb |
+Newest hackathons first.
+
+### [AI Traffic Control (AITC)](https://devpost.com/software/ai-traffic-control-aitc)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-ai-traffic-control-aitc) · **"Cal" Track**
+
+AiTC is transforming the aviation industry by automating ATC radio calls and providing analytics for faster, more accurate responses, allowing air traffic controllers to focus on critical situations.
+
+Built with ai, python, reflex, vapi
+
+### [Ducky.AI](https://devpost.com/software/ducky-ai)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-ducky-ai) · **"Cal" Track**
+
+An LLM Rubber Ducky. Never worry about being unprepared for a presentation ever again.
+
+[Code](https://github.com/adit-bala/ducky.ai) · Built with amazon-web-services, deno, docker, mongodb
+
+### [EduGap](https://devpost.com/software/edugap)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-edugap) · **"Cal" Track**
+
+EduGap enhances the AI models Students can use by automating the integration of class-specific materials in Google Classroom while Teachers gain insight on student problem-areas.
+
+Built with api, chroma, chromadb, chrome
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | The House Fund: "Cal" Track | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 
 </details>
+
+[Back to top](#the-house-fund)

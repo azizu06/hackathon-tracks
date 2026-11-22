@@ -1,33 +1,56 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / OpenEvidence
+
 # OpenEvidence
 
-**3 projects · 1 editions · 4 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=OpenEvidence)
 
 ## What winners have in common
 
-- **Most listed tech** python (2), vapi (2), accelerate (1)
-- **Common project areas** Accessibility and assistive tools (1), Health and care (1)
-- **Common demo formats** AR, VR or spatial (1), Hardware or robotics (1), Mobile app (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** python (2), vapi (2), accelerate (1), arduino (1), arkit (1)
+- **Project areas:** Accessibility and assistive tools (1), Health and care (1)
+- **Demo formats:** AR, VR or spatial (1), Hardware or robotics (1), Mobile app (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [RescueRX](https://devpost.com/software/rescuerx) · [code](https://github.com/Donglomur/TreeHacks) · [demo](https://www.youtube.com/watch?v=bNT22FCYhoA) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best Use of Clinical Information (4x Apple Watches) · [details](../by-hackathon/treehacks-2026.md#project-rescuerx) | RescueRX is a multi-agent AI system that uncovers pre-existing drugs that could treat new diseases. | knowledge-graph, machine-learning, python |
-| [ShadowGuard](https://devpost.com/software/shadowguard-l6yv7p) · [code](https://github.com/shamanthak-hegde/ShadowGuard) · [demo](https://www.youtube.com/watch?v=n0ntGM6gGk8) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Healthcare Track Grand Prize · [details](../by-hackathon/treehacks-2026.md#project-shadowguard-l6yv7p) | ShadowGuard is a network-layer AI firewall that detects and redacts sensitive patient data in real time,… | css, d3.js, html |
-| [Shepherd](https://devpost.com/software/raising-cane) · [code](https://github.com/tonywangs/shepherd) · [demo](https://www.youtube.com/watch?v=nJ5YjK1-0c0) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best Use of Clinical Information (4x Apple Watches) · [details](../by-hackathon/treehacks-2026.md#project-raising-cane) | A smart cane that guides indoor and outdoor navigation for blind people, costing &#126;1/20 of existing devices… | accelerate, arduino, arkit |
-| [Shepherd](https://devpost.com/software/raising-cane) · [code](https://github.com/tonywangs/shepherd) · [demo](https://www.youtube.com/watch?v=nJ5YjK1-0c0) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Healthcare Track Grand Prize · [details](../by-hackathon/treehacks-2026.md#project-raising-cane) | A smart cane that guides indoor and outdoor navigation for blind people, costing &#126;1/20 of existing devices… | accelerate, arduino, arkit |
+Newest hackathons first.
+
+### [Shepherd](https://devpost.com/software/raising-cane)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-raising-cane) · **Best Use of Clinical Information** · **Healthcare Track Grand Prize**
+
+A smart cane that guides indoor and outdoor navigation for blind people, costing &#126;1/20 of existing devices and providing better guidance.
+
+[Code](https://github.com/tonywangs/shepherd) · [Demo video](https://www.youtube.com/watch?v=nJ5YjK1-0c0) · Built with accelerate, arduino, arkit, avfoundation
+
+### [RescueRX](https://devpost.com/software/rescuerx)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-rescuerx) · **Best Use of Clinical Information**
+
+RescueRX is a multi-agent AI system that uncovers pre-existing drugs that could treat new diseases.
+
+[Code](https://github.com/Donglomur/TreeHacks) · [Demo video](https://www.youtube.com/watch?v=bNT22FCYhoA) · Built with knowledge-graph, machine-learning, python
+
+### [ShadowGuard](https://devpost.com/software/shadowguard-l6yv7p)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-shadowguard-l6yv7p) · **Healthcare Track Grand Prize**
+
+ShadowGuard is a network-layer AI firewall that detects and redacts sensitive patient data in real time, before it ever leaves a hospital network.
+
+[Code](https://github.com/shamanthak-hegde/ShadowGuard) · [Demo video](https://www.youtube.com/watch?v=n0ntGM6gGk8) · Built with css, d3.js, html, javascript
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;OpenEvidence&#93; Best Use of Clinical Information (4x Apple Watches) | Clinical Information | [Track label](https://treehacks-2026.devpost.com/) |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;OpenEvidence&#93; Healthcare Track Grand Prize | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#openevidence)

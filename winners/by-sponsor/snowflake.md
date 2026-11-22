@@ -1,37 +1,122 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Snowflake
+
 # Snowflake
 
-**10 projects · 10 editions · 10 prize rows**
-
-[Winners index](../README.md)
+**10 winning projects** · 10 hackathons · 10 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Snowflake)
 
 ## What winners have in common
 
-- **Most listed tech** python (10), snowflake (7), fastapi (4)
-- **Common project areas** Accessibility and assistive tools (1), Climate and environment (1), Developer tools (1)
-- **Common demo formats** Web app or dashboard (5), Hardware or robotics (2), Mobile app (1)
-- **Projects with a listed demo video** 8 of 10
+- **Most used tech:** python (10), snowflake (7), fastapi (4), react (4), typescript (4)
+- **Project areas:** Accessibility and assistive tools (1), Climate and environment (1), Developer tools (1)
+- **Demo formats:** Web app or dashboard (5), Hardware or robotics (2), Mobile app (1)
+- **Demo videos:** 8 of 10 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Vigil](https://devpost.com/software/vigil-aewt3u) · [code](https://github.com/snr2753423/Vigil_calhacks) · [demo](https://www.youtube.com/watch?v=R6qeykXL17Q) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Snowflake API · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-vigil-aewt3u) | A nursing-home monitoring system learns each resident's baseline and flags changes for the overnight staff. | snowflake, snowflake-cortex, snowflake-ml |
-| [Graption](https://devpost.com/software/graption) · [code](https://github.com/Dinofish32/hacklytics-2026) · [demo](https://www.youtube.com/watch?v=ttvh5SJoVfU) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) · Best Use of Snowflake API · [details](../by-hackathon/hacklytics-2026.md#project-graption) | A group conversation tool places live captions to help deaf participants follow who is speaking. | snowflake, elevenlabs, numpy |
-| [PiHive](https://devpost.com/software/primacore) · [code](https://github.com/mariamelsahharr/htn-2026-dist-inf) · [demo](https://www.youtube.com/watch?v=3rHr03Vt5Rw) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · MLH: Best Use of Snowflake API · [details](../by-hackathon/hack-the-north-2026.md#project-primacore) | PiHive is a cluster of Raspberry Pis running one LLM together via tensor-parallel distributed inference, no… | ansible, baseten, codex |
-| [Drivn](https://devpost.com/software/car-of-the-future) · [code](https://github.com/buildingBuild/HackTX-Project) · [demo](https://www.youtube.com/watch?v=itEdbNrkp0M) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · Best Use of Snowflake API · [details](../by-hackathon/hacktx-2026.md#project-car-of-the-future) | Diagnosis, coverage and care in one. | ai-agent, blender, javascript |
-| [CodeAncestry](https://devpost.com/software/codeancestory) · [code](https://github.com/OM200401/nwHacks-2026) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) · Best Use of Snowflake API · [details](../by-hackathon/nwhacks-2026.md#project-codeancestory) | A code research tool indexes commit history so developers can search for earlier decisions. | snowflake, 1password, cortex |
-| [Hurricane Week](https://devpost.com/software/hurricane-week) · [code](https://github.com/varshith-k/hurricaneweek) · [demo](https://www.youtube.com/watch?v=Y_qwLNbf1Cg) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · Best Use of Snowflake API · [details](../by-hackathon/shellhacks-2026.md#project-hurricane-week) | Practice hurricane prep decisions under real financial pressure (before the real storm hits). | snowflake, cortex, css |
-| [Relay](https://devpost.com/software/https-youtu-be-dqw4w9wgxcq) · [code](https://github.com/V-prajit/relay) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of Snowflake API · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-https-youtu-be-dqw4w9wgxcq) | Postman AI Agent Automation that transforms vague and slow product requirements into detailed pull requests… | snowflake, snowflake-cortex, digitalocean |
-| [Waste2Taste](https://devpost.com/software/waste2taste-etwp34) · [code](https://github.com/NavadeepBudda/waste2taste-api) · [demo](https://www.youtube.com/watch?v=Y-lFZVAZ9Hg) | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) · MLH - Best Use of Snowflake API · [details](../by-hackathon/hackgt-12-2025.md#project-waste2taste-etwp34) | A dining-hall dashboard helps chefs measure which meals produce the most plate waste. | snowflake, snowflake-cortex, depth-anything |
-| [Eco-Nexus](https://devpost.com/software/eco-nexus-pluwok) · [demo](https://www.youtube.com/watch?v=5qtlaak3W9Y) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · MLH - Best Use of Snowflake · [details](../by-hackathon/hacknyu-fall-2025.md#project-eco-nexus-pluwok) | Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions. | snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios |
-| [Briefly](https://devpost.com/software/briefly-lx5dce) · [code](https://github.com/iihatem/knighthacks2025) · [demo](https://www.youtube.com/watch?v=L_cQ5aC_p5E) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · MLH - Best Use of Snowflake API · [details](../by-hackathon/knight-hacks-viii-2025.md#project-briefly-lx5dce) | An AI assistant to help Lawyers manage clients. | snowflake-api, adobe, cursor |
+Newest hackathons first.
+
+### [CodeAncestry](https://devpost.com/software/codeancestory)
+
+[nwHacks 2026](../by-hackathon/nwhacks-2026.md#project-codeancestory) · **Best Use of Snowflake API**
+
+A code research tool indexes commit history so developers can search for earlier decisions.
+
+**How it used Snowflake:** Generates semantic embeddings using Snowflake Cortex -Creates vector embeddings using Cortex-generated commit analysis as the embedding text source.
+
+[Code](https://github.com/OM200401/nwHacks-2026) · Built with snowflake, 1password, cortex, fastapi
+
+### [Drivn](https://devpost.com/software/car-of-the-future)
+
+[HackTX 2026](../by-hackathon/hacktx-2026.md#project-car-of-the-future) · **Best Use of Snowflake API**
+
+Diagnosis, coverage and care in one.
+
+[Code](https://github.com/buildingBuild/HackTX-Project) · [Demo video](https://www.youtube.com/watch?v=itEdbNrkp0M) · Built with ai-agent, blender, javascript, python
+
+### [Graption](https://devpost.com/software/graption)
+
+[Hacklytics 2026](../by-hackathon/hacklytics-2026.md#project-graption) · **Best Use of Snowflake API**
+
+A group conversation tool places live captions to help deaf participants follow who is speaking.
+
+**How it used Snowflake:** The team are proud of integrating so many different models like ARVision, Snowflake, ElevenLabs, and the fine tuned Wav2Vec.
+
+[Code](https://github.com/Dinofish32/hacklytics-2026) · [Demo video](https://www.youtube.com/watch?v=ttvh5SJoVfU) · Built with snowflake, elevenlabs, numpy, python
+
+### [Hurricane Week](https://devpost.com/software/hurricane-week)
+
+[ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-hurricane-week) · **Best Use of Snowflake API**
+
+Practice hurricane prep decisions under real financial pressure (before the real storm hits).
+
+[Code](https://github.com/varshith-k/hurricaneweek) · [Demo video](https://www.youtube.com/watch?v=Y_qwLNbf1Cg) · Built with snowflake, cortex, css, digitalocean
+
+### [PiHive](https://devpost.com/software/primacore)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-primacore) · **Best Use of Snowflake API**
+
+PiHive is a cluster of Raspberry Pis running one LLM together via tensor-parallel distributed inference, no GPU anywhere, behind a single-compatible endpoint.
+
+[Code](https://github.com/mariamelsahharr/htn-2026-dist-inf) · [Demo video](https://www.youtube.com/watch?v=3rHr03Vt5Rw) · Built with ansible, baseten, codex, distributed-llama
+
+### [Vigil](https://devpost.com/software/vigil-aewt3u)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-vigil-aewt3u) · **Best Use of Snowflake API**
+
+A nursing-home monitoring system learns each resident's baseline and flags changes for the overnight staff.
+
+**How it used Snowflake:** Two integrations, two jobs: Tiger Data is the live layer ("what is happening now"); Snowflake is the intelligence layer ("what it means, and what to do").
+
+[Code](https://github.com/snr2753423/Vigil_calhacks) · [Demo video](https://www.youtube.com/watch?v=R6qeykXL17Q) · Built with snowflake, snowflake-cortex, snowflake-ml, caddy
+
+### [Briefly](https://devpost.com/software/briefly-lx5dce)
+
+[Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-briefly-lx5dce) · **Best Use of Snowflake API**
+
+An AI assistant to help Lawyers manage clients.
+
+**How it used Snowflake:** The team integrated Salesforce for case management and Snowflake for data warehousing.
+
+[Code](https://github.com/iihatem/knighthacks2025) · [Demo video](https://www.youtube.com/watch?v=L_cQ5aC_p5E) · Built with snowflake-api, adobe, cursor, digitalocean
+
+### [Eco-Nexus](https://devpost.com/software/eco-nexus-pluwok)
+
+[HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md#project-eco-nexus-pluwok) · **Best Use of Snowflake**
+
+Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
+
+**How it used Snowflake:** Analytics &amp; ML : Snowflake integration for data warehousing, analytics scoring system.
+
+[Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
+
+### [Relay](https://devpost.com/software/https-youtu-be-dqw4w9wgxcq)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-https-youtu-be-dqw4w9wgxcq) · **Best Use of Snowflake API**
+
+Postman AI Agent Automation that transforms vague and slow product requirements into detailed pull requests in 30 seconds.
+
+**How it used Snowflake:** snowflake cortex ai generates PR code (≤30 lines).
+
+[Code](https://github.com/V-prajit/relay) · Built with snowflake, snowflake-cortex, digitalocean, fastapi
+
+### [Waste2Taste](https://devpost.com/software/waste2taste-etwp34)
+
+[HackGT 12 2025](../by-hackathon/hackgt-12-2025.md#project-waste2taste-etwp34) · **Best Use of Snowflake API**
+
+A dining-hall dashboard helps chefs measure which meals produce the most plate waste.
+
+**How it used Snowflake:** The team stored all of this data in Supabase, and used the Snowflake API for many of the other backend processes.
+
+[Code](https://github.com/NavadeepBudda/waste2taste-api) · [Demo video](https://www.youtube.com/watch?v=Y-lFZVAZ9Hg) · Built with snowflake, snowflake-cortex, depth-anything, groundingdino
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;MLH&#93; Best Use of Snowflake API | Snowflake API | [Track label](https://cal-hacks-13-0.devpost.com/) |
 | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) | &#91;MLH&#93; Best Use of Snowflake API | Snowflake API | [Track label](https://hacklytics-2026.devpost.com/) |
@@ -45,3 +130,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | MLH - Best Use of Snowflake API | Snowflake API | [Track label](https://knighthacksviii.devpost.com/) |
 
 </details>
+
+[Back to top](#snowflake)

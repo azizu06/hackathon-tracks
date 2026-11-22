@@ -1,30 +1,49 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / JanitorAI
+
 # JanitorAI
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=JanitorAI)
 
 ## What winners have in common
 
-- **Most listed tech** react (2), express.js (1), fishaudio (1)
-- **Common project areas** None listed
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** react (2), express.js (1), fishaudio (1), janitor.ai (1), janitorai (1)
+- **Project areas:** None listed
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [CleanGetaway](https://devpost.com/software/cleangetaway) · [code](https://github.com/iOliver678/calhacks12) · [demo](https://www.youtube.com/watch?v=2yZ_ZxMO7cY) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Most Functional, Novel, and Fun Project · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-cleangetaway) | Multiplayer Agentic AI NPCs with shared conversational memory across all players. | janitorai, express.js, fishaudio |
-| [Love Island: To Die For!](https://devpost.com/software/love-island-to-die-for) · [code](https://github.com/syenko/calhacks) · [demo](https://www.youtube.com/watch?v=IU9fKa8SrCQ) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Most Functional, Novel, and Fun Project · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-love-island-to-die-for) | You thought you were off to enjoy a fun, exciting dating show experience... but something has gone terribly… | janitor.ai, next.js, python |
+Newest hackathons first.
+
+### [CleanGetaway](https://devpost.com/software/cleangetaway)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-cleangetaway) · **Most Functional, Novel, and Fun Project**
+
+Multiplayer Agentic AI NPCs with shared conversational memory across all players.
+
+[Code](https://github.com/iOliver678/calhacks12) · [Demo video](https://www.youtube.com/watch?v=2yZ_ZxMO7cY) · Built with janitorai, express.js, fishaudio, jllm
+
+### [Love Island: To Die For!](https://devpost.com/software/love-island-to-die-for)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-love-island-to-die-for) · **Most Functional, Novel, and Fun Project**
+
+You thought you were off to enjoy a fun, exciting dating show experience... but something has gone terribly wrong. Now, it's up to you to figure out what happened.
+
+**How it used JanitorAI:** The backend uses JanitorAI's LLM API to power dynamic, context-aware character responses that are finetuned perfectly for immersive storytelling.
+
+[Code](https://github.com/syenko/calhacks) · [Demo video](https://www.youtube.com/watch?v=IU9fKa8SrCQ) · Built with janitor.ai, next.js, python, react
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | JanitorAI: Most Functional, Novel, and Fun Project | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 
 </details>
+
+[Back to top](#janitorai)

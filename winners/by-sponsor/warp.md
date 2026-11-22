@@ -1,43 +1,160 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Warp
+
 # Warp
 
-**16 projects · 15 editions · 16 prize rows**
-
-[Winners index](../README.md)
+**16 winning projects** · 15 hackathons · 16 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Warp)
 
 ## What winners have in common
 
-- **Most listed tech** typescript (9), python (8), react (5)
-- **Common project areas** Developer tools (4), Climate and environment (1), Games and entertainment (1)
-- **Common demo formats** Web app or dashboard (7), AR, VR or spatial (1), CLI or developer tool (1)
-- **Projects with a listed demo video** 12 of 16
+- **Most used tech:** typescript (9), python (8), react (5), gemini (4), next.js (4)
+- **Project areas:** Developer tools (4), Climate and environment (1), Games and entertainment (1)
+- **Demo formats:** Web app or dashboard (7), AR, VR or spatial (1), Command line or SDK (1)
+- **Demo videos:** 12 of 16 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [ARDB: AR Debugger](https://devpost.com/software/ardb) · [code](https://github.com/PyneKoyne/AR-Debugger) · [demo](https://www.youtube.com/watch?v=lSqLyfDsvgU) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Developer Tool by Warp · [details](../by-hackathon/hack-the-north-2026.md#project-ardb) | Augmented Reality debugging tool. Spatial diagnostics for embedded systems. | augmented-reality, embedded, esp32 |
-| [CodeAncestry](https://devpost.com/software/codeancestory) · [code](https://github.com/OM200401/nwHacks-2026) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) · Best Developer Tool · [details](../by-hackathon/nwhacks-2026.md#project-codeancestory) | A code research tool indexes commit history so developers can search for earlier decisions. | 1password, cortex, fastapi |
-| [Arena](https://devpost.com/software/arena-lz2m84) · [code](https://github.com/TomBinford/treehacks) · [demo](https://www.youtube.com/watch?v=SbgnbmP28Js) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best Use of Warp Agents (Keychron Mechanical Keyboard for each team member) · [details](../by-hackathon/treehacks-2026.md#project-arena-lz2m84) | A software development tool compares solutions created by competing coding agents. | warp-oz-agent-sdk, express.js, github-api |
-| [Orion](https://devpost.com/software/orion-p5ayks) · [code](https://github.com/SupratikPanuganti/CalHacks) · [demo](https://www.youtube.com/watch?v=MX_pJRwUJjU) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of Warp · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-orion-p5ayks) | A wildfire operations dashboard brings live video and voice controls into the incident workflow. | amazon-web-services, clsx, composio |
-| [Codex](https://devpost.com/software/codex-r2toqu) | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) · Best Developer Tool, sponsored by Warp · [details](../by-hackathon/hack-brown-2025.md#project-codex-r2toqu) | Work with untapped talents across language barriers. | amazon-ec2, amazon-web-services, dify.ai |
-| [InfraBlocks](https://devpost.com/software/infrablocks) · [code](https://github.com/infrablocks-oss/InfraBlocks) · [demo](https://www.youtube.com/watch?v=n_xQXasVDbk) | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) · Best Developer Tool · [details](../by-hackathon/hackgt-12-2025.md#project-infrablocks) | Making cloud services what they were meant to be — simple. | cedar-os, nextjs, openai |
-| [Puppeteer](https://devpost.com/software/puppeteer-7429qv) · [code](https://github.com/BrianLi23/puppeteer) · [demo](https://www.youtube.com/watch?v=_AtQyyInhEY) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Best Developer Tool by Warp · [details](../by-hackathon/hack-the-north-2025.md#project-puppeteer-7429qv) | Bring your code to life. Orchestrate your code in the runtime. | agents, ai, cohere |
-| [stackwise](https://devpost.com/software/stackwise) · [demo](https://www.youtube.com/watch?v=VxB-7LZu1D0) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · Warp Challenge: Best Developer Tool · [details](../by-hackathon/la-hacks-2025.md#project-stackwise) | A planning tool turns a written software idea into an editable architecture graph and starter repository. | flask, gemini, next.js |
-| [termiknow](https://devpost.com/software/termiknow) · [code](https://github.com/zhangLily2020/nwhacks2025) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) · Warp Sponsor Prize · [details](../by-hackathon/nwhacks-2025.md#project-termiknow) | A terminal search tool runs user-defined commands against selected databases. | warp, chromadb, python |
-| [CodeFusion](https://devpost.com/software/codefusion-v9eq2x) · [code](https://github.com/vsahni3/CodeFusion) · [demo](https://www.youtube.com/watch?v=iqgE5-5C61M) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Developer Tool (Keychron Mechanical Keyboard per team member) · [details](../by-hackathon/treehacks-2025.md#project-codefusion-v9eq2x) | Talk, gesture, and bring your code to life. | flask, gemini, intersystems |
-| [Unreal EngJam](https://devpost.com/software/unreal-engjam) · [code](https://github.com/kognise/aldente) · [demo](https://www.youtube.com/watch?v=765IiE3aNFA) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Best Developer Tool by Warp · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-unreal-engjam) | A prototype implements a programming language and game engine inside Figma. | figma, typescript |
-| [Napkin AI](https://devpost.com/software/napkin-ymh5f4) · [code](https://github.com/Sharwin24/HackAtBrown) | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) · Best Developer Tool sponsored by Warp · [details](../by-hackathon/hack-brown-2024.md#project-napkin-ymh5f4) | A devtool for understanding codebases faster and easier. | machine-learning, natural-language-processing, python |
-| [T-Error](https://devpost.com/software/terror) · [code](https://github.com/denniwang/t-error) · [demo](https://www.youtube.com/watch?v=MNrN6I0-H-A) | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) · Best Developer Tool · [details](../by-hackathon/hackharvard-2024.md#project-terror) | Real-time error monitoring from the terminal, helping developers spend less time solving common problems. | c++, javascript, mongodb |
-| [APIcasso](https://devpost.com/software/apicasso) · [code](https://github.com/Zackydout101/htn) · [demo](https://www.youtube.com/watch?v=uMJXzlMF9NI) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Best Developer Tool by Warp · [details](../by-hackathon/hack-the-north-2024.md#project-apicasso) | Schema generation : users provide a website URL and an empty JSON schema, which is automatically filled and… | cohere, eth, next.js |
-| [Ensemble](https://devpost.com/software/ensemble-e8gxja) · [code](https://github.com/slainhedden/mhacks-ensemble) · [demo](https://www.youtube.com/watch?v=LuE2RwMGqi4) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · Best Developer Tool · [details](../by-hackathon/mhacks-2024.md#project-ensemble-e8gxja) | A hierarchal multi-agent framework built from scratch. Transforms complex goals into subproblems, that are… | amazon-web-services, docker, json |
-| [GenHint](https://devpost.com/software/genhint) · [code](https://github.com/zichenzhang04/GenHint) · [demo](https://www.youtube.com/watch?v=72yeRx4773o) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · Honorable Mention Best Developer Tool · [details](../by-hackathon/mhacks-2024.md#project-genhint) | Review : Once your code is complete, GenHint reviews it, checking for accuracy and best practices, giving you… | warp, azure, git |
+Newest hackathons first.
+
+### [ARDB: AR Debugger](https://devpost.com/software/ardb)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-ardb) · **Best Developer Tool by Warp**
+
+Augmented Reality debugging tool. Spatial diagnostics for embedded systems.
+
+[Code](https://github.com/PyneKoyne/AR-Debugger) · [Demo video](https://www.youtube.com/watch?v=lSqLyfDsvgU) · Built with augmented-reality, embedded, esp32, mqtt
+
+### [Arena](https://devpost.com/software/arena-lz2m84)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-arena-lz2m84) · **Best Use of Warp Agents**
+
+A software development tool compares solutions created by competing coding agents.
+
+**How it used Warp:** Agent execution: Warp Oz SDK to spawn and monitor parallel agent runs.
+
+[Code](https://github.com/TomBinford/treehacks) · [Demo video](https://www.youtube.com/watch?v=SbgnbmP28Js) · Built with warp-oz-agent-sdk, express.js, github-api, next.js
+
+### [CodeAncestry](https://devpost.com/software/codeancestory)
+
+[nwHacks 2026](../by-hackathon/nwhacks-2026.md#project-codeancestory) · **Best Developer Tool**
+
+A code research tool indexes commit history so developers can search for earlier decisions.
+
+[Code](https://github.com/OM200401/nwHacks-2026) · Built with 1password, cortex, fastapi, gemini
+
+### [CodeFusion](https://devpost.com/software/codefusion-v9eq2x)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-codefusion-v9eq2x) · **Best Developer Tool**
+
+Talk, gesture, and bring your code to life.
+
+[Code](https://github.com/vsahni3/CodeFusion) · [Demo video](https://www.youtube.com/watch?v=iqgE5-5C61M) · Built with flask, gemini, intersystems, openai
+
+### [Codex](https://devpost.com/software/codex-r2toqu)
+
+[Hack@Brown 2025](../by-hackathon/hack-brown-2025.md#project-codex-r2toqu) · **Best Developer Tool, sponsored by Warp**
+
+Work with untapped talents across language barriers.
+
+Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
+
+### [InfraBlocks](https://devpost.com/software/infrablocks)
+
+[HackGT 12 2025](../by-hackathon/hackgt-12-2025.md#project-infrablocks) · **Best Developer Tool**
+
+Making cloud services what they were meant to be — simple.
+
+**How it used Warp:** The team integrated Warp as the primary development environment, which was instrumental in building InfraBlocks.
+
+[Code](https://github.com/infrablocks-oss/InfraBlocks) · [Demo video](https://www.youtube.com/watch?v=n_xQXasVDbk) · Built with cedar-os, nextjs, openai, radix-ui
+
+### [Orion](https://devpost.com/software/orion-p5ayks)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-orion-p5ayks) · **Best Use of Warp**
+
+A wildfire operations dashboard brings live video and voice controls into the incident workflow.
+
+[Code](https://github.com/SupratikPanuganti/CalHacks) · [Demo video](https://www.youtube.com/watch?v=MX_pJRwUJjU) · Built with amazon-web-services, clsx, composio, date-fns
+
+### [Puppeteer](https://devpost.com/software/puppeteer-7429qv)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-puppeteer-7429qv) · **Best Developer Tool by Warp**
+
+Bring your code to life. Orchestrate your code in the runtime.
+
+[Code](https://github.com/BrianLi23/puppeteer) · [Demo video](https://www.youtube.com/watch?v=_AtQyyInhEY) · Built with agents, ai, cohere, gemini
+
+### [stackwise](https://devpost.com/software/stackwise)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-stackwise) · **Warp Challenge: Best Developer Tool**
+
+A planning tool turns a written software idea into an editable architecture graph and starter repository.
+
+[Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D0) · Built with flask, gemini, next.js, python
+
+### [termiknow](https://devpost.com/software/termiknow)
+
+[nwHacks 2025](../by-hackathon/nwhacks-2025.md#project-termiknow) · **Warp Sponsor Prize**
+
+A terminal search tool runs user-defined commands against selected databases.
+
+[Code](https://github.com/zhangLily2020/nwhacks2025) · Built with warp, chromadb, python, rich
+
+### [APIcasso](https://devpost.com/software/apicasso)
+
+[Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-apicasso) · **Best Developer Tool by Warp**
+
+Schema generation : users provide a website URL and an empty JSON schema, which is automatically filled and returned by the Cohere AI backend as a well-structured API.
+
+[Code](https://github.com/Zackydout101/htn) · [Demo video](https://www.youtube.com/watch?v=uMJXzlMF9NI) · Built with cohere, eth, next.js, tailwind
+
+### [Ensemble](https://devpost.com/software/ensemble-e8gxja)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-ensemble-e8gxja) · **Best Developer Tool**
+
+A hierarchal multi-agent framework built from scratch. Transforms complex goals into subproblems, that are dynamically assigned to specialized agents, boosting productivity and lowering cost.
+
+[Code](https://github.com/slainhedden/mhacks-ensemble) · [Demo video](https://www.youtube.com/watch?v=LuE2RwMGqi4) · Built with amazon-web-services, docker, json, openai
+
+### [GenHint](https://devpost.com/software/genhint)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-genhint) · **Honorable Mention Best Developer Tool**
+
+Review : Once your code is complete, GenHint reviews it, checking for accuracy and best practices, giving you feedback to ensure your code is indeed working.
+
+[Code](https://github.com/zichenzhang04/GenHint) · [Demo video](https://www.youtube.com/watch?v=72yeRx4773o) · Built with warp, azure, git, github
+
+### [Napkin AI](https://devpost.com/software/napkin-ymh5f4)
+
+[Hack@Brown 2024](../by-hackathon/hack-brown-2024.md#project-napkin-ymh5f4) · **Best Developer Tool sponsored by Warp**
+
+A devtool for understanding codebases faster and easier.
+
+[Code](https://github.com/Sharwin24/HackAtBrown) · Built with machine-learning, natural-language-processing, python, torch
+
+### [T-Error](https://devpost.com/software/terror)
+
+[HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-terror) · **Best Developer Tool**
+
+Real-time error monitoring from the terminal, helping developers spend less time solving common problems.
+
+[Code](https://github.com/denniwang/t-error) · [Demo video](https://www.youtube.com/watch?v=MNrN6I0-H-A) · Built with c++, javascript, mongodb, nextjs
+
+### [Unreal EngJam](https://devpost.com/software/unreal-engjam)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-unreal-engjam) · **Best Developer Tool by Warp**
+
+A prototype implements a programming language and game engine inside Figma.
+
+[Code](https://github.com/kognise/aldente) · [Demo video](https://www.youtube.com/watch?v=765IiE3aNFA) · Built with figma, typescript
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Warp: Best Developer Tool by Warp | No specific requirement captured | [Event prize rules](https://hackthenorth2026.devpost.com/) |
 | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) | &#91;Warp&#93; Best Developer Tool | No specific requirement captured | [Event prize rules](https://nwhacks-2026.devpost.com/) |
@@ -57,3 +174,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | Warp - Honorable Mention Best Developer Tool | No specific requirement captured | [Event prize rules](https://mhacks-2024.devpost.com/) |
 
 </details>
+
+[Back to top](#warp)

@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Marshall Wace
+
 # Marshall Wace
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Marshall%20Wace)
 
 ## What winners have in common
 
-- **Most listed tech** gemini (2), python (2), amazon-web-services (1)
-- **Common project areas** Finance and commerce (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 3
+- **Most used tech:** gemini (2), python (2), amazon-web-services (1), browserbase (1), c++ (1)
+- **Project areas:** Finance and commerce (1)
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Rent-Swarm](https://devpost.com/software/rentswarm) · [code](https://github.com/optimusbuilder/Rent-Swarm) · [demo](https://www.youtube.com/watch?v=xCzTYc7mIIg) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Beyond the Prompt: Building Intelligent Generative Systems · [details](../by-hackathon/hack-brown-2026.md#project-rentswarm) | An agentic AI system that fights back for renters—scouting real listings, exposing hidden lease risks,… | amazon-web-services, browserbase, gemini |
-| [Stopify](https://devpost.com/software/stopify) · [code](https://github.com/calebellenberg/hackAtBrown2026) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Beyond the Prompt: Building Intelligent Generative Systems · [details](../by-hackathon/hack-brown-2026.md#project-stopify) | Whenever you're on a shopping site, Stopify tracks your vital signs and your activity on the site. | c++, css, html |
-| [unserious](https://devpost.com/software/unserious) · [code](https://github.com/oliviaaheng/unserious) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Beyond the Prompt: Building Intelligent Generative Systems · [details](../by-hackathon/hack-brown-2026.md#project-unserious) | Unserious is an AI trip planner learning your style via "This or That" choices to generate personalized… | gemini, python, sqlite |
+Newest hackathons first.
+
+### [Rent-Swarm](https://devpost.com/software/rentswarm)
+
+[Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-rentswarm) · **Beyond the Prompt: Building Intelligent Generative Systems**
+
+An agentic AI system that fights back for renters—scouting real listings, exposing hidden lease risks, revealing true costs, and negotiating rent so tenants stop guessing and start winning.
+
+[Code](https://github.com/optimusbuilder/Rent-Swarm) · [Demo video](https://www.youtube.com/watch?v=xCzTYc7mIIg) · Built with amazon-web-services, browserbase, gemini, langchain
+
+### [Stopify](https://devpost.com/software/stopify)
+
+[Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-stopify) · **Beyond the Prompt: Building Intelligent Generative Systems**
+
+Whenever you're on a shopping site, Stopify tracks your vital signs and your activity on the site.
+
+[Code](https://github.com/calebellenberg/hackAtBrown2026) · Built with c++, css, html, javascript
+
+### [unserious](https://devpost.com/software/unserious)
+
+[Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-unserious) · **Beyond the Prompt: Building Intelligent Generative Systems**
+
+Unserious is an AI trip planner learning your style via "This or That" choices to generate personalized itineraries. Document adventures with photo scrapbooks and share with travelers worldwide.
+
+[Code](https://github.com/oliviaaheng/unserious) · Built with gemini, python, sqlite, uv
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems | No specific requirement captured | [Event prize rules](https://hack-brown-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#marshall-wace)

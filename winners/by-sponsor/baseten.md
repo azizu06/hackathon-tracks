@@ -1,32 +1,58 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Baseten
+
 # Baseten
 
-**3 projects · 2 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 2 hackathons · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Baseten)
 
 ## What winners have in common
 
-- **Most listed tech** baseten (2), python (2), amazon-web-services (1)
-- **Common project areas** None listed
-- **Common demo formats** Voice or conversational interface (1)
-- **Projects with a listed demo video** 2 of 3
+- **Most used tech:** baseten (2), python (2), amazon-web-services (1), audio (1), claude (1)
+- **Project areas:** None listed
+- **Demo formats:** Voice or conversational interface (1)
+- **Demo videos:** 2 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [neoKernel](https://devpost.com/software/neokernel) · [code](https://github.com/cogniera/neoKernel) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Baseten · [details](../by-hackathon/hack-the-north-2026.md#project-neokernel) | An agent loop that searches fusions, layouts and launch structure trying to approach the memory bandwidth… | claude, codex, cuda |
-| [VoiceBridge](https://devpost.com/software/voicebridge-xh0nv9) · [code](https://github.com/rickytang666/hackthenorth) · [demo](https://www.youtube.com/watch?v=e1tZalE6_i8) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Baseten · [details](../by-hackathon/hack-the-north-2026.md#project-voicebridge-xh0nv9) | Dysarthric speech recovery, in your own voice. | baseten, audio, cohere |
-| [Salient Labs](https://devpost.com/software/salient-9ohv4q) · [code](https://github.com/k-kochhar/Salient) · [demo](https://www.youtube.com/watch?v=bSFhoFY6hIY) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of Open Source Models · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-salient-9ohv4q) | The system rethinks video compression by mirroring how the human eye perceives importance in a scene. | baseten, amazon-web-services, ffmeg |
+Newest hackathons first.
+
+### [neoKernel](https://devpost.com/software/neokernel)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-neokernel) · **Best Use of Baseten**
+
+An agent loop that searches fusions, layouts and launch structure trying to approach the memory bandwidth floor.
+
+[Code](https://github.com/cogniera/neoKernel) · Built with claude, codex, cuda, python
+
+### [VoiceBridge](https://devpost.com/software/voicebridge-xh0nv9)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-voicebridge-xh0nv9) · **Best Use of Baseten**
+
+Dysarthric speech recovery, in your own voice.
+
+**How it used Baseten:** The adapted Cohere model is hosted on Baseten, and the demo’s speech recognition inference runs on Baseten.
+
+[Code](https://github.com/rickytang666/hackthenorth) · [Demo video](https://www.youtube.com/watch?v=e1tZalE6_i8) · Built with baseten, audio, cohere, css
+
+### [Salient Labs](https://devpost.com/software/salient-9ohv4q)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-salient-9ohv4q) · **Best Use of Open Source Models**
+
+The system rethinks video compression by mirroring how the human eye perceives importance in a scene.
+
+[Code](https://github.com/k-kochhar/Salient) · [Demo video](https://www.youtube.com/watch?v=bSFhoFY6hIY) · Built with baseten, amazon-web-services, ffmeg, next
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Baseten: Best Use of Baseten | Baseten | [Track label](https://hackthenorth2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | BaseTen: Best Use of Open Source Models | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 
 </details>
+
+[Back to top](#baseten)

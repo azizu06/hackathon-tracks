@@ -1,33 +1,64 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / BNY
+
 # BNY
 
-**4 projects · 2 editions · 4 prize rows**
-
-[Winners index](../README.md)
+**4 winning projects** · 2 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=BNY)
 
 ## What winners have in common
 
-- **Most listed tech** python (4), css (2), flask (2)
-- **Common project areas** Finance and commerce (2), Accessibility and assistive tools (1), Security and privacy (1)
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 3 of 4
+- **Most used tech:** python (4), css (2), flask (2), html (2), javascript (2)
+- **Project areas:** Finance and commerce (2), Accessibility and assistive tools (1), Security and privacy (1)
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 3 of 4 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [GEarth](https://devpost.com/software/diarockets) · [code](https://github.com/liangricky7/GEarth) · [demo](https://www.youtube.com/watch?v=7h_nXEkdgIM) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Financial Services Challenge · [details](../by-hackathon/knight-hacks-ix-2026.md#project-diarockets) | GEarth is a generated and simulated Earth where AI agents represent countries, institutions, and citizens,… | c#, c++, distributed-computation |
-| [Sophro Shoppers](https://devpost.com/software/shopping-cart-yvkgd2) · [code](https://github.com/Dove0Day/knighthacks2026) · [demo](https://www.youtube.com/watch?v=WCmblC_Qs0o) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Financial Services Challenge · [details](../by-hackathon/knight-hacks-ix-2026.md#project-shopping-cart-yvkgd2) | Make shopping easier through the art of accessibility. | css, cv, easyocr |
-| [FraudGuard](https://devpost.com/software/fraudguard-3gxd0w) · [code](https://github.com/alimuhammad-creator/ShellHacksFIU) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · BNY AI-powered Financial Fraud Detection System · [details](../by-hackathon/shellhacks-2024.md#project-fraudguard-3gxd0w) | AI-driven solution designed to detect and prevent fraudulent financial transactions in real time. With… | eda, github, google-colab |
-| [H2A Bank](https://devpost.com/software/h2a-bank) · [code](https://github.com/z3nL/h2a) · [demo](https://www.youtube.com/watch?v=rIAGdBaJAVE) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · BNY AI-powered Financial Fraud Detection System · [details](../by-hackathon/shellhacks-2024.md#project-h2a-bank) | Using SQL, OpenAI, Flask to detect and report suspicious transactions. | css, flask, html |
+Newest hackathons first.
+
+### [GEarth](https://devpost.com/software/diarockets)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-diarockets) · **Financial Services Challenge**
+
+GEarth is a generated and simulated Earth where AI agents represent countries, institutions, and citizens, and simulate economic behaviors.
+
+[Code](https://github.com/liangricky7/GEarth) · [Demo video](https://www.youtube.com/watch?v=7h_nXEkdgIM) · Built with c#, c++, distributed-computation, python
+
+### [Sophro Shoppers](https://devpost.com/software/shopping-cart-yvkgd2)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-shopping-cart-yvkgd2) · **Financial Services Challenge**
+
+Make shopping easier through the art of accessibility.
+
+[Code](https://github.com/Dove0Day/knighthacks2026) · [Demo video](https://www.youtube.com/watch?v=WCmblC_Qs0o) · Built with css, cv, easyocr, flask
+
+### [FraudGuard](https://devpost.com/software/fraudguard-3gxd0w)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-fraudguard-3gxd0w) · **BNY AI-powered Financial Fraud Detection System**
+
+AI-driven solution designed to detect and prevent fraudulent financial transactions in real time. With cutting-edge machine learning models, it ensures secure and reliable fraud detection.
+
+[Code](https://github.com/alimuhammad-creator/ShellHacksFIU) · Built with eda, github, google-colab, machine-learning
+
+### [H2A Bank](https://devpost.com/software/h2a-bank)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-h2a-bank) · **BNY AI-powered Financial Fraud Detection System**
+
+Using SQL, OpenAI, Flask to detect and report suspicious transactions.
+
+[Code](https://github.com/z3nL/h2a) · [Demo video](https://www.youtube.com/watch?v=rIAGdBaJAVE) · Built with css, flask, html, javascript
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | BNY: Financial Services Challenge | No specific requirement captured | [Event prize rules](https://knight-hacks-ix.devpost.com/) |
 | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) | BNY AI-powered Financial Fraud Detection System | No specific requirement captured | [Event prize rules](https://shellhacks2024.devpost.com/) |
 
 </details>
+
+[Back to top](#bny)

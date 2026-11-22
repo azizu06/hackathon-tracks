@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Featherless
+
 # Featherless
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Featherless)
 
 ## What winners have in common
 
-- **Most listed tech** python (3), fastapi (2), javascript (2)
-- **Common project areas** Health and care (1)
-- **Common demo formats** CLI or developer tool (1), Mobile app (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** python (3), fastapi (2), javascript (2), typescript (2), alembic (1)
+- **Project areas:** Health and care (1)
+- **Demo formats:** Command line or SDK (1), Mobile app (1), Web app or dashboard (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [AGastIa](https://devpost.com/software/agastiya) · [demo](https://www.youtube.com/watch?v=WyRockA-COA) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Best Champion of Open Source w/ Featherless - Featherless · [details](../by-hackathon/bitcamp-2026.md#project-agastiya) | The team built AGastIa because medical reports are often full of information but empty of clarity. | alembic, auth0, bio-clinicalbert |
-| [Nara - Autonomous Red Teaming Agent](https://devpost.com/software/nara-autonomous-red-teaming-agent) · [code](https://github.com/HackedRico/obv-nara-box) · [demo](https://www.youtube.com/watch?v=a8ESQUSft0c) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Best Champion of Open Source w/ Featherless - Featherless · [details](../by-hackathon/bitcamp-2026.md#project-nara-autonomous-red-teaming-agent) | NARA is an autonomous penetration testing CLI that orchestrates four AI agents against an isolated Docker… | featherless-ai-(phi-4-mini), anthropic-claude-api, bandit |
-| [Terrametric](https://devpost.com/software/terrametric) · [demo](https://www.youtube.com/watch?v=qjTX93HKRNE) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Best Champion of Open Source w/ Featherless - Featherless · [details](../by-hackathon/bitcamp-2026.md#project-terrametric) | Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day… | fastapi, glsl, javascript |
+Newest hackathons first.
+
+### [AGastIa](https://devpost.com/software/agastiya)
+
+[Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-agastiya) · **Best Champion of Open Source w/ Featherless - Featherless**
+
+The team built AGastIa because medical reports are often full of information but empty of clarity.
+
+[Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
+
+### [Nara - Autonomous Red Teaming Agent](https://devpost.com/software/nara-autonomous-red-teaming-agent)
+
+[Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-nara-autonomous-red-teaming-agent) · **Best Champion of Open Source w/ Featherless - Featherless**
+
+NARA is an autonomous penetration testing CLI that orchestrates four AI agents against an isolated Docker target:.
+
+[Code](https://github.com/HackedRico/obv-nara-box) · [Demo video](https://www.youtube.com/watch?v=a8ESQUSft0c) · Built with featherless-ai-(phi-4-mini), anthropic-claude-api, bandit, docker
+
+### [Terrametric](https://devpost.com/software/terrametric)
+
+[Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-terrametric) · **Best Champion of Open Source w/ Featherless - Featherless**
+
+Terrametric: an AI-powered plantation stress detection platform that gives Live field stress scores, 14-day forecasts, and prescription actions telling you which fields to act on and what it saves.
+
+[Demo video](https://www.youtube.com/watch?v=qjTX93HKRNE) · Built with fastapi, glsl, javascript, next.js
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | Best Champion of Open Source w/ Featherless - Featherless | No specific requirement captured | [Event prize rules](https://bitcamp-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#featherless)

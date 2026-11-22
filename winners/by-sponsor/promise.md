@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Promise
+
 # Promise
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Promise)
 
 ## What winners have in common
 
-- **Most listed tech** chromadb (1), fastapi (1), google-gemini-api (1)
-- **Common project areas** Accessibility and assistive tools (1)
-- **Common demo formats** CLI or developer tool (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** chromadb (1), fastapi (1), google-gemini-api (1), httpx (1), lang-chain (1)
+- **Project areas:** Accessibility and assistive tools (1)
+- **Demo formats:** Command line or SDK (1), Web app or dashboard (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Expungo](https://devpost.com/software/clearpathai) · [demo](https://www.youtube.com/watch?v=SS9HQw-BFXU) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Public Impact Prize (sponsored by Promise) · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-clearpathai) | Making expungement simple and accessible for all. | chromadb, fastapi, google-gemini-api |
+Newest hackathons first.
+
+### [Expungo](https://devpost.com/software/clearpathai)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-clearpathai) · **Public Impact Prize**
+
+Making expungement simple and accessible for all.
+
+[Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Promise: Public Impact Prize (sponsored by Promise) | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 
 </details>
+
+[Back to top](#promise)

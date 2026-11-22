@@ -1,33 +1,82 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Nasdaq
+
 # Nasdaq
 
-**6 projects · 4 editions · 6 prize rows**
-
-[Winners index](../README.md)
+**6 winning projects** · 4 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Nasdaq)
 
 ## What winners have in common
 
-- **Most listed tech** python (3), flask (2), google-cloud-vision (2)
-- **Common project areas** Accessibility and assistive tools (1)
-- **Common demo formats** Mobile app (2)
-- **Projects with a listed demo video** 2 of 6
+- **Most used tech:** python (3), flask (2), google-cloud-vision (2), amadeus (1), android-studio (1)
+- **Project areas:** Accessibility and assistive tools (1)
+- **Demo formats:** Mobile app (2)
+- **Demo videos:** 2 of 6 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [1DB: One Database to rule them all](https://devpost.com/software/1db) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Use of Nasdaq/Quandl Datasets · [details](../by-hackathon/hackmit-2019.md#project-1db) | Automatically benefit from the optimizations of many databases, while only working with a single interface. | azure, cosmos-db, druid |
-| [Driversity](https://devpost.com/software/driversity) · [demo](https://www.youtube.com/watch?v=Su83aPedkx4) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Use of Nasdaq/Quandl Datasets · [details](../by-hackathon/hackmit-2019.md#project-driversity) | Making ridesharing safer and more accessible. | amadeus, android-studio, docusign |
-| [HomeUp](https://devpost.com/software/homeup) · [code](https://github.com/siuryan/homeup) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Use of Nasdaq/Quandl Datasets · [details](../by-hackathon/hackmit-2019.md#project-homeup) | Buying a new house but can't decide on a neighborhood? Check out HomeUp for data and interactive charts on… | flask, python, quandl |
-| [Dorm Market](https://devpost.com/software/dorm-market) · [code](https://github.com/m-99/dorm-market) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · Nasdaq Best "Markets Everywhere" Hack · [details](../by-hackathon/hackmit-2018.md#project-dorm-market) | Sell dorm supplies in a seasonal market-style setting with prices determined by supply and demand. | nasdaq-markets-everywhere, css, django |
-| [Jiffy Market Stories](https://devpost.com/software/jiffy-market-stories) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Nasdaq - Best Re-imagination of Market · [details](../by-hackathon/hackmit-2017.md#project-jiffy-market-stories) | Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs. | flask, giphy-api, google-cloud-vision |
-| [Logo Lens](https://devpost.com/software/logo-locator) · [code](https://github.com/ChenJonathan/Logo-Lens) · [demo](https://www.youtube.com/watch?v=AI54o8onLBA) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Nasdaq MarketSite Prize · [details](../by-hackathon/hackmit-2016.md#project-logo-locator) | LogoLens presents relevant stock quote data when a user sees a company logo while wearing the HoloLens. | nasdaq-data-on-demand, c#, google-cloud-vision |
+Newest hackathons first.
+
+### [1DB: One Database to rule them all](https://devpost.com/software/1db)
+
+[HackMIT 2019](../by-hackathon/hackmit-2019.md#project-1db) · **Best Use of Nasdaq/Quandl Datasets**
+
+Automatically benefit from the optimizations of many databases, while only working with a single interface.
+
+Built with azure, cosmos-db, druid, node.js
+
+### [Driversity](https://devpost.com/software/driversity)
+
+[HackMIT 2019](../by-hackathon/hackmit-2019.md#project-driversity) · **Best Use of Nasdaq/Quandl Datasets**
+
+Making ridesharing safer and more accessible.
+
+[Demo video](https://www.youtube.com/watch?v=Su83aPedkx4) · Built with amadeus, android-studio, docusign, firebase
+
+### [HomeUp](https://devpost.com/software/homeup)
+
+[HackMIT 2019](../by-hackathon/hackmit-2019.md#project-homeup) · **Best Use of Nasdaq/Quandl Datasets**
+
+Buying a new house but can't decide on a neighborhood? Check out HomeUp for data and interactive charts on house prices, rent, and more.
+
+**How it used Nasdaq:** The team sought to use real estate data made available through Nasdaq datasets to make this decision easier and better informed.
+
+[Code](https://github.com/siuryan/homeup) · Built with flask, python, quandl
+
+### [Dorm Market](https://devpost.com/software/dorm-market)
+
+[HackMIT 2018](../by-hackathon/hackmit-2018.md#project-dorm-market) · **Nasdaq Best "Markets Everywhere" Hack**
+
+Sell dorm supplies in a seasonal market-style setting with prices determined by supply and demand.
+
+**How it used Nasdaq:** The team used Nasdaq's Markets Everywhere API to handle transactions and set prices for assets in item markets.
+
+[Code](https://github.com/m-99/dorm-market) · Built with nasdaq-markets-everywhere, css, django, html
+
+### [Jiffy Market Stories](https://devpost.com/software/jiffy-market-stories)
+
+[HackMIT 2017](../by-hackathon/hackmit-2017.md#project-jiffy-market-stories) · **Sponsor Prize - Nasdaq - Best Re-imagination of Market**
+
+Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs.
+
+Built with flask, giphy-api, google-cloud-vision, ibm-watson
+
+### [Logo Lens](https://devpost.com/software/logo-locator)
+
+[HackMIT 2016](../by-hackathon/hackmit-2016.md#project-logo-locator) · **Nasdaq MarketSite Prize**
+
+LogoLens presents relevant stock quote data when a user sees a company logo while wearing the HoloLens.
+
+**How it used Nasdaq:** If a logo is detected, the company of the logo is found and the NASDAQ API is used to determine the recent performance of the company’s stock.
+
+[Code](https://github.com/ChenJonathan/Logo-Lens) · [Demo video](https://www.youtube.com/watch?v=AI54o8onLBA) · Built with nasdaq-data-on-demand, c#, google-cloud-vision, microsoft-hololens
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best Use of Nasdaq/Quandl Datasets | Nasdaq/Quandl Datasets | [Track label](https://hackmit-2019.devpost.com/) |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Nasdaq Best "Markets Everywhere" Hack | No specific requirement captured | [Event prize rules](https://hackmit-2018.devpost.com/) |
@@ -35,3 +84,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Nasdaq MarketSite Prize | No specific requirement captured | [Event prize rules](https://hackmit-2016.devpost.com/) |
 
 </details>
+
+[Back to top](#nasdaq)

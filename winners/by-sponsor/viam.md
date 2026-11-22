@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Viam
+
 # Viam
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Viam)
 
 ## What winners have in common
 
-- **Most listed tech** a&#42; (1), arduino (1), elevenlabs (1)
-- **Common project areas** Accessibility and assistive tools (1), Health and care (1)
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** a&#42; (1), arduino (1), elevenlabs (1), foxglove (1), lidar (1)
+- **Project areas:** Accessibility and assistive tools (1), Health and care (1)
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Omni-Assist](https://devpost.com/software/omni-assist) · [code](https://github.com/ryanli222/yHack) · [demo](https://www.youtube.com/watch?v=RzqbO86LRXQ) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) · Best Use of Viam · [details](../by-hackathon/yhack-spring-2026.md#project-omni-assist) | Making mobility accessible, cheap, simple. and modular to the health sector and the public. | viam, a&#42;, arduino |
+Newest hackathons first.
+
+### [Omni-Assist](https://devpost.com/software/omni-assist)
+
+[YHack Spring 2026](../by-hackathon/yhack-spring-2026.md#project-omni-assist) · **Best Use of Viam**
+
+Making mobility accessible, cheap, simple. and modular to the health sector and the public.
+
+[Code](https://github.com/ryanli222/yHack) · [Demo video](https://www.youtube.com/watch?v=RzqbO86LRXQ) · Built with viam, a&#42;, arduino, elevenlabs
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) | Best Use of Viam | Viam | [Track label](https://yhack-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#viam)

@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / ArmorIQ
+
 # ArmorIQ
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=ArmorIQ)
 
 ## What winners have in common
 
-- **Most listed tech** armoriq (1), carto (1), claude (1)
-- **Common project areas** Safety and emergency response (1)
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 0 of 1
+- **Most used tech:** armoriq (1), carto (1), claude (1), cloudfair (1), deepgram (1)
+- **Project areas:** Safety and emergency response (1)
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 0 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Aegis](https://devpost.com/software/aegis-jtde8o) · [code](https://github.com/ARP-source/aegis-dispatch) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of ArmorIQ Platform to Build Secure Agents · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-aegis-jtde8o) | A real-time 911 dispatch co-pilot that transcribes, translates, and protocol-grounds every call, then spins… | armoriq, carto, claude |
+Newest hackathons first.
+
+### [Aegis](https://devpost.com/software/aegis-jtde8o)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-aegis-jtde8o) · **Best Use of ArmorIQ Platform to Build Secure Agents**
+
+A real-time 911 dispatch co-pilot that transcribes, translates, and protocol-grounds every call, then spins up secure AI agents to handle mass emergencies.
+
+[Code](https://github.com/ARP-source/aegis-dispatch) · Built with armoriq, carto, claude, cloudfair
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of ArmorIQ Platform to Build Secure Agents | ArmorIQ Platform to Build Secure Agents | [Track label](https://ai-hackathon-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#armoriq)

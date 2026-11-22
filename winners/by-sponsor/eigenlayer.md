@@ -1,32 +1,58 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / EigenLayer
+
 # EigenLayer
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=EigenLayer)
 
 ## What winners have in common
 
-- **Most listed tech** python (2), c (1), data (1)
-- **Common project areas** Security and privacy (1)
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 2 of 3
+- **Most used tech:** python (2), c (1), data (1), eigenda (1), eigenlayer (1)
+- **Project areas:** Security and privacy (1)
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 2 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [AgentZero](https://devpost.com/software/agentzero) · [code](https://github.com/2pir2/TreeHack2025) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Web3 Prize: Best AI Agents ($8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;) · [details](../by-hackathon/treehacks-2025.md#project-agentzero) | The system consists of two specialized machine learning models:. | eigenlayer, gnark, go |
-| [ECGo](https://devpost.com/software/ecgo) · [code](https://github.com/fightingj305/ecgo) · [demo](https://www.youtube.com/watch?v=IxavWJJbxuU) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Web3 Prize: Most Crazy Idea ($7k Cash + 7k EIGEN) · [details](../by-hackathon/treehacks-2025.md#project-ecgo) | Mobile ECG with Wi-Fi capabilities that makes AI-powered diagnoses and stores data on a remote server. | c, esp32, influxdb |
-| [MediLedger](https://devpost.com/software/mediledger) · [code](https://github.com/shayaansultan/treehacks-final) · [demo](https://www.youtube.com/watch?v=N1Zv7cgQSQ0) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Web3 Prize: Best AI Agents ($8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;) · [details](../by-hackathon/treehacks-2025.md#project-mediledger) | A privacy-preserving drug availability search powered by EigenDA and ZK-PTLS. | data, eigenda, express.js |
+Newest hackathons first.
+
+### [AgentZero](https://devpost.com/software/agentzero)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-agentzero) · **Web3 Prize: Best AI Agents**
+
+The system consists of two specialized machine learning models:.
+
+**How it used EigenLayer:** The team built the system by integrating EigenLayer for fetching real-time news data and Dune for pulling Ethereum price data.
+
+[Code](https://github.com/2pir2/TreeHack2025) · Built with eigenlayer, gnark, go, python
+
+### [ECGo](https://devpost.com/software/ecgo)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-ecgo) · **Web3 Prize: Most Crazy Idea**
+
+Mobile ECG with Wi-Fi capabilities that makes AI-powered diagnoses and stores data on a remote server.
+
+[Code](https://github.com/fightingj305/ecgo) · [Demo video](https://www.youtube.com/watch?v=IxavWJJbxuU) · Built with c, esp32, influxdb, opacity
+
+### [MediLedger](https://devpost.com/software/mediledger)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-mediledger) · **Web3 Prize: Best AI Agents**
+
+A privacy-preserving drug availability search powered by EigenDA and ZK-PTLS.
+
+[Code](https://github.com/shayaansultan/treehacks-final) · [Demo video](https://www.youtube.com/watch?v=N1Zv7cgQSQ0) · Built with data, eigenda, express.js, flutterflow
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Web3 Prize: Best AI Agents ($8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Web3 Prize: Most Crazy Idea ($7k Cash + 7k EIGEN) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#eigenlayer)

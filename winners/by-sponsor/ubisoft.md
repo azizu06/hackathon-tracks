@@ -1,32 +1,63 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Ubisoft
+
 # Ubisoft
 
-**4 projects · 1 editions · 4 prize rows**
-
-[Winners index](../README.md)
+**4 winning projects** · 1 hackathon · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Ubisoft)
 
 ## What winners have in common
 
-- **Most listed tech** unity (4), c# (3), blender (2)
-- **Common project areas** Finance and commerce (1), Games and entertainment (1)
-- **Common demo formats** Game (1)
-- **Projects with a listed demo video** 3 of 4
+- **Most used tech:** unity (4), c# (3), blender (2), github (2), ai-assets (1)
+- **Project areas:** Finance and commerce (1), Games and entertainment (1)
+- **Demo formats:** Playable game (1)
+- **Demo videos:** 3 of 4 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Geese Love Merch](https://devpost.com/software/gesse-love-merch) · [code](https://github.com/nayanmapara/GeeseLoveMerch) · [demo](https://www.youtube.com/watch?v=cepJ_1Lz2-g) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Ubisoft Game Dev Challenge · [details](../by-hackathon/hack-the-north-2024.md#project-gesse-love-merch) | The team describes the project as “But Gesse get no merch”. | ai-assets, blender, c |
-| [Hack the Bomb](https://devpost.com/software/hack-the-bomb) · [code](https://github.com/Greb-the-awesome/hack-the-bomb) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Ubisoft Game Dev Challenge · [details](../by-hackathon/hack-the-north-2024.md#project-hack-the-bomb) | Hackathons aren't always about improving the world. Sometimes they're about saving the world. | blender, c#, unity |
-| [One in the Chamber](https://devpost.com/software/one-in-the-chamber) · [demo](https://www.youtube.com/watch?v=VMygnUvt998) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Ubisoft Game Dev Challenge · [details](../by-hackathon/hack-the-north-2024.md#project-one-in-the-chamber) | A VR game about catching and firing arrows to delay the inevitable. | c#, oculus, unity |
-| [Shop The North](https://devpost.com/software/shop-the-north) · [code](https://github.com/BenBoguslavsky18/HTN_VR) · [demo](https://www.youtube.com/watch?v=igOuQHgEvto) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Ubisoft Game Dev Challenge · [details](../by-hackathon/hack-the-north-2024.md#project-shop-the-north) | Sometimes online shopping can be dull, and most of all, turn away customers who are unsure about buying… | c#, github, json |
+Newest hackathons first.
+
+### [Geese Love Merch](https://devpost.com/software/gesse-love-merch)
+
+[Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-gesse-love-merch) · **Ubisoft Game Dev Challenge**
+
+The team describes the project as “But Gesse get no merch”.
+
+[Code](https://github.com/nayanmapara/GeeseLoveMerch) · [Demo video](https://www.youtube.com/watch?v=cepJ_1Lz2-g) · Built with ai-assets, blender, c, github
+
+### [Hack the Bomb](https://devpost.com/software/hack-the-bomb)
+
+[Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-hack-the-bomb) · **Ubisoft Game Dev Challenge**
+
+Hackathons aren't always about improving the world. Sometimes they're about saving the world.
+
+[Code](https://github.com/Greb-the-awesome/hack-the-bomb) · Built with blender, c#, unity, visual-studio
+
+### [One in the Chamber](https://devpost.com/software/one-in-the-chamber)
+
+[Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-one-in-the-chamber) · **Ubisoft Game Dev Challenge**
+
+A VR game about catching and firing arrows to delay the inevitable.
+
+[Demo video](https://www.youtube.com/watch?v=VMygnUvt998) · Built with c#, oculus, unity
+
+### [Shop The North](https://devpost.com/software/shop-the-north)
+
+[Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-shop-the-north) · **Ubisoft Game Dev Challenge**
+
+Sometimes online shopping can be dull, and most of all, turn away customers who are unsure about buying clothes online. VR will allow for customers to try on clothing in a virtual world.
+
+[Code](https://github.com/BenBoguslavsky18/HTN_VR) · [Demo video](https://www.youtube.com/watch?v=igOuQHgEvto) · Built with c#, github, json, oculus-gear-vr
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Ubisoft: Ubisoft Game Dev Challenge | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 
 </details>
+
+[Back to top](#ubisoft)

@@ -1,30 +1,47 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Conversion
+
 # Conversion
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Conversion)
 
 ## What winners have in common
 
-- **Most listed tech** node.js (2), ai (1), api (1)
-- **Common project areas** None listed
-- **Common demo formats** Mobile app (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** node.js (2), ai (1), api (1), chrome (1), duckdb (1)
+- **Project areas:** None listed
+- **Demo formats:** Mobile app (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [DIAL(&#42;)](https://devpost.com/software/dial-4rqzc3) · [demo](https://www.youtube.com/watch?v=32DSdO1V-z0) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of Conversion · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-dial-4rqzc3) | DIAL (&#42;) is an optimized customer service agent designed for data-heavy use cases. | duckdb, elevenlabs, express.js |
-| [Onboardly](https://devpost.com/software/onboardly-3bp9gt) · [code](https://github.com/Preet37/Onboardly) · [demo](https://www.youtube.com/watch?v=ufnTHSQetfM) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of Conversion · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-onboardly-3bp9gt) | automate onboarding and training + realtime coaching. | ai, api, chrome |
+Newest hackathons first.
+
+### [DIAL(&#42;)](https://devpost.com/software/dial-4rqzc3)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-dial-4rqzc3) · **Best Use of Conversion**
+
+DIAL (&#42;) is an optimized customer service agent designed for data-heavy use cases.
+
+[Demo video](https://www.youtube.com/watch?v=32DSdO1V-z0) · Built with duckdb, elevenlabs, express.js, ngrok
+
+### [Onboardly](https://devpost.com/software/onboardly-3bp9gt)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-onboardly-3bp9gt) · **Best Use of Conversion**
+
+automate onboarding and training + realtime coaching.
+
+[Code](https://github.com/Preet37/Onboardly) · [Demo video](https://www.youtube.com/watch?v=ufnTHSQetfM) · Built with ai, api, chrome, extension
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Conversion: Best Use of Conversion | Conversion | [Track label](https://cal-hacks-12-0.devpost.com/) |
 
 </details>
+
+[Back to top](#conversion)

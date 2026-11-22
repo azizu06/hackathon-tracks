@@ -1,31 +1,50 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Genesys
+
 # Genesys
 
-**2 projects · 2 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Genesys)
 
 ## What winners have in common
 
-- **Most listed tech** genesys (2), css (1), docker (1)
-- **Common project areas** Accessibility and assistive tools (1)
-- **Common demo formats** Hardware or robotics (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** genesys (2), css (1), docker (1), elevenlabs (1), groq (1)
+- **Project areas:** Accessibility and assistive tools (1)
+- **Demo formats:** Hardware or robotics (1), Web app or dashboard (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [BeyondSight](https://devpost.com/software/beyondsight-589mh7) · [code](https://github.com/WhyILived/BeyondSight) · [demo](https://www.youtube.com/watch?v=tEvHlx3xCRA) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Empathy in Action with Genesys Cloud APIs · [details](../by-hackathon/hack-the-north-2025.md#project-beyondsight-589mh7) | BeyondSight is a full wearable ecosystem designed to empower DeafBlind individuals with independence,… | genesys, docker, elevenlabs |
-| [traint](https://devpost.com/software/traint) · [code](https://github.com/efliu7/hackthenorth2024) · [demo](https://www.youtube.com/watch?v=27zgZ8F4CUA) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Empowering Empathetic Experiences - Unleashing the Power of Genesys Cloud APIs · [details](../by-hackathon/hack-the-north-2024.md#project-traint) | the.right.(and.intelligent).new.training method for customers and support agents. | genesys, css, groq |
+Newest hackathons first.
+
+### [BeyondSight](https://devpost.com/software/beyondsight-589mh7)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-beyondsight-589mh7) · **Empathy in Action with Genesys Cloud APIs**
+
+BeyondSight is a full wearable ecosystem designed to empower DeafBlind individuals with independence, communication, and safety.
+
+[Code](https://github.com/WhyILived/BeyondSight) · [Demo video](https://www.youtube.com/watch?v=tEvHlx3xCRA) · Built with genesys, docker, elevenlabs, python
+
+### [traint](https://devpost.com/software/traint)
+
+[Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-traint) · **Empowering Empathetic Experiences - Unleashing the Power of Genesys Cloud APIs**
+
+the.right.(and.intelligent).new.training method for customers and support agents.
+
+**How it used Genesys:** traint was built using the following technologies: Next.js React, Tailwind and shadcn/ui Voiceflow API Groq API Genesys API.
+
+[Code](https://github.com/efliu7/hackthenorth2024) · [Demo video](https://www.youtube.com/watch?v=27zgZ8F4CUA) · Built with genesys, css, groq, html
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Genesys: Empathy in Action with Genesys Cloud APIs | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Genesys: Empowering Empathetic Experiences - Unleashing the Power of Genesys Cloud APIs | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 
 </details>
+
+[Back to top](#genesys)

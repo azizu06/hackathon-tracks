@@ -1,31 +1,48 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Backboard.io
+
 # Backboard.io
 
-**2 projects · 2 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Backboard.io)
 
 ## What winners have in common
 
-- **Most listed tech** backboard (2), openai (2), python (2)
-- **Common project areas** None listed
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** backboard (2), openai (2), python (2), react (2), baileys (1)
+- **Project areas:** None listed
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Campfire](https://devpost.com/software/campfire-3jo6wc) · [code](https://github.com/Suhas0723/Campfire) · [demo](https://www.youtube.com/watch?v=3HljGGzLvkY) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · MLH: Best Use of backboard.io · [details](../by-hackathon/hackgt-13-2026.md#project-campfire-3jo6wc) | Campfire is an AI that turns your group's trip chat into a shared story. | backboard, baileys, caddy |
-| [Tinker](https://devpost.com/software/tinker-pwamby) · [demo](https://www.youtube.com/watch?v=Hl7-T8QNkPY) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Built on Backboard · [details](../by-hackathon/hack-the-north-2026.md#project-tinker-pwamby) | You can either describe a machine/robot you want to build, or you record a video of your workbench with all… | backboard, brush, codex |
+Newest hackathons first.
+
+### [Campfire](https://devpost.com/software/campfire-3jo6wc)
+
+[HackGT 13 2026](../by-hackathon/hackgt-13-2026.md#project-campfire-3jo6wc) · **Best Use of backboard.io**
+
+Campfire is an AI that turns your group's trip chat into a shared story.
+
+[Code](https://github.com/Suhas0723/Campfire) · [Demo video](https://www.youtube.com/watch?v=3HljGGzLvkY) · Built with backboard, baileys, caddy, celery
+
+### [Tinker](https://devpost.com/software/tinker-pwamby)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-tinker-pwamby) · **Built on Backboard**
+
+You can either describe a machine/robot you want to build, or you record a video of your workbench with all the hardware parts and machinery you have available to you.
+
+[Demo video](https://www.youtube.com/watch?v=Hl7-T8QNkPY) · Built with backboard, brush, codex, composio
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | MLH: Best Use of backboard.io | backboard.io | [Track label](https://hackgt13.devpost.com/) |
 | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) | Backboard.io: Built on Backboard | Build anything. | [Devpost prize description](https://hackthenorth2026.devpost.com/) |
 
 </details>
+
+[Back to top](#backboardio)

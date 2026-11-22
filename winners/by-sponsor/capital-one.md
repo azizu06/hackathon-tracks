@@ -1,55 +1,262 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Capital One
+
 # Capital One
 
-**28 projects · 21 editions · 28 prize rows**
-
-[Winners index](../README.md)
+**28 winning projects** · 21 hackathons · 28 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Capital%20One)
 
 ## What winners have in common
 
-- **Most listed tech** react (18), python (15), typescript (15)
-- **Common project areas** Finance and commerce (14), Security and privacy (2), Climate and environment (1)
-- **Common demo formats** Web app or dashboard (7), Mobile app (3), CLI or developer tool (1)
-- **Projects with a listed demo video** 20 of 28
+- **Most used tech:** react (18), python (15), typescript (15), javascript (10), gemini (9)
+- **Project areas:** Finance and commerce (14), Security and privacy (2), Climate and environment (1)
+- **Demo formats:** Web app or dashboard (7), Mobile app (3), Command line or SDK (1)
+- **Demo videos:** 20 of 28 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [cryptX by Moonshot](https://devpost.com/software/cryptx-zceo69) · [code](https://github.com/navincodesalot/cryptx) · [demo](https://www.youtube.com/watch?v=ckU2XB6r1WQ) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Best Financial Hack - Capital One · [details](../by-hackathon/bitcamp-2026.md#project-cryptx-zceo69) | is a reverse-engineered hardware ledger for the Solana blockchain, with custom PIN + seed phrase… | arduino, bs58, gemini |
-| [Niche](https://devpost.com/software/niche-z32los) · [code](https://github.com/arissazheng/niche) · [demo](https://www.youtube.com/watch?v=OPB7mJICaS4) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Nessie · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-niche-z32los) | A shopping tool learns someone's style from photos and searches across retailers for items within their size… | capital-one-nessie, apify, bright-data |
-| [SpaceShare](https://devpost.com/software/spacesquare) · [code](https://github.com/Vigneshpeddi/SpaceShare) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Best Financial Hack · [details](../by-hackathon/hack-brown-2026.md#project-spacesquare) | SpaceShare is a peer-to-peer marketplace for urban micro-spaces. | amazon-web-services, react, tailwind |
-| [Elfie](https://devpost.com/software/n-a-okr0vf) · [code](https://github.com/arshiyasharma/hackharvard) · [demo](https://www.youtube.com/watch?v=GTRrbq8RdjU) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Best Use of Nessie · [details](../by-hackathon/hackharvard-2026.md#project-n-a-okr0vf) | Remember the elves who finished the shoemaker’s work overnight? Elfie brings them to your move: you text, and… | nessie, browserbase, claude |
-| [Play It First](https://devpost.com/software/hackprinceton26) · [code](https://github.com/farhanmir/playitfirst) · [demo](https://www.youtube.com/watch?v=xamUK8so4zI) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Best Usage of Nessie · [details](../by-hackathon/hackprinceton-fall-2026.md#project-hackprinceton26) | A simulator lets prospective business owners test how they could operate in an actual commercial space. | nessie-api, anthropic-claude, costar |
-| [BreakingPoint](https://devpost.com/software/breakingpoint) · [code](https://github.com/MMehta45/hacktx26) · [demo](https://vimeo.com/1239255718) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · The Best Use of Nessie · [details](../by-hackathon/hacktx-2026.md#project-breakingpoint) | One unexpected expense can trigger a chain of financial crisis. BreakingPoint builds you a plan to break that… | nessie, fastapi, gemini |
-| [Nessential](https://devpost.com/software/nessential) · [code](https://github.com/Owen-Isenhart/HackUTD-2026) · [demo](https://www.youtube.com/watch?v=_Eh5HyNtzVU) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Capital One Track · [details](../by-hackathon/hackutd-2026.md#project-nessential) | Nessential turns passive financial management into proactive, real-world savings:. | brev, expo.dev, nemotron |
-| [Guardian](https://devpost.com/software/guardian-mbuwlp) · [code](https://github.com/SNBest1/medical-bill-guardian) · [demo](https://www.youtube.com/watch?v=WQIiy8kV0qI) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best Use of Nessie @ Capital One · [details](../by-hackathon/mhacks-2026.md#project-guardian-mbuwlp) | A billing assistant reviews medical bills and organizes evidence that patients can use to question charges. | capital-one-nessie, anime.js, finchnode |
-| [Settlr](https://devpost.com/software/settlr-s4gr9y) · [code](https://github.com/andrew-oriti18/settlr-mhack26) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best Use of Nessie @ Capital One · [details](../by-hackathon/mhacks-2026.md#project-settlr-s4gr9y) | A finance app helps people moving to a new city plan expenses with their roommates. | css, html, javascript |
-| [Tend](https://devpost.com/software/tend-ua9rm8) · [code](https://github.com/thesanatt/tend) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best Use of Nessie @ Capital One · [details](../by-hackathon/mhacks-2026.md#project-tend-ua9rm8) | An offline guide helps survivors find state compensation programs and trace eligibility to the relevant law. | capital-one-nessie, agentverse, asi-one |
-| [BudgetBuddy](https://devpost.com/software/budgetbuddy-3qvr78) · [code](https://github.com/team-moondust/BudgetBuddy-backend) · [demo](https://www.youtube.com/watch?v=4BS5oXi7l7U) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Financial Hack - Capital One · [details](../by-hackathon/bitcamp-2025.md#project-budgetbuddy-3qvr78) | A virtual pet whose physical wellness depends on your financial wellness. | nessie, css, flask |
-| [FinGuard](https://devpost.com/software/finguard-x1akuc) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Financial Hack - Capital One · [details](../by-hackathon/bitcamp-2025.md#project-finguard-x1akuc) | "Smart Spending, Safer Shopping, Healthier Finances.". | beautiful-soup, gemini, javascript |
-| [HR Audit](https://devpost.com/software/the-hr-audit) · [code](https://github.com/heyitsprashant/HR-Audit) · [demo](https://www.youtube.com/watch?v=w3t9JDyL-ks) | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) · Best Financial Hack · [details](../by-hackathon/hackgt-12-2025.md#project-the-hr-audit) | Complete AI agent ecosystem for fraud detection &amp; banking. Multiple specialized agents handle alerts, voice… | capital-one-nessie-api, cedaros, flask |
-| [I'd Rather Scroll](https://devpost.com/software/i-d-rather-scroll) · [demo](https://vimeo.com/1122592767) | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) · Best Financial Hack · [details](../by-hackathon/hackgt-12-2025.md#project-i-d-rather-scroll) | The team describes the project as “Productive doomscrolling”. | react |
-| [C2Pay](https://devpost.com/software/c2pay) · [code](https://github.com/sofiaal1/C2Pay) · [demo](https://www.youtube.com/watch?v=gnQvp3OVYmE) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) · Best Financial Hack by Capital One · [details](../by-hackathon/hackharvard-2025.md#project-c2pay) | People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device trust, biometrics, and C2PA… | bit-manipulation, c2pa, decryption |
-| [Black Swan](https://devpost.com/software/black-swan) · [code](https://github.com/kaustubhbhal/Black-Swan) · [demo](https://www.youtube.com/watch?v=LGzhTNWSGaw) | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) · Best Finance Hack Sponsored by Capital One · [details](../by-hackathon/hacklytics-2025.md#project-black-swan) | Turning uncertainty into opportunity with AI-driven market insights. | alpha-vantage-api, flask, google-oauth |
-| [Plately](https://devpost.com/software/plately) | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) · Track: Fintech - Best Financial Hack · [details](../by-hackathon/hacknyu-2025.md#project-plately) | The team describes the project as “AI-powered Menu Engineer”. | d3.js, fastapi, javascript |
-| [QuStoch](https://devpost.com/software/qustoch) · [demo](https://www.youtube.com/watch?v=w15F0oFqkak) | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) · Track: Fintech - Best Financial Hack · [details](../by-hackathon/hacknyu-2025.md#project-qustoch) | An application that leverages Quantum Computing and Superposition to simulate multiple Stochastic States in a… | ai/ml, bootstrap, css |
-| [HackTX 2025](https://devpost.com/software/ecofin-carbon) · [code](https://github.com/arnavvalvekar/hacktx) · [demo](https://www.youtube.com/watch?v=QrL9U7CnT8Y) | [HackTX 2025](../by-hackathon/hacktx-2025.md) · Best Capital One Hack · [details](../by-hackathon/hacktx-2025.md#project-ecofin-carbon) | EcoFin Carbon calculates and visualizes the carbon footprint of your financial transactions. | nessie, auth0, ci/cd |
-| [SpendingWithSpendy](https://devpost.com/software/spendingwithspendy) · [code](https://github.com/brendanshen24/SpendWithSpendy) · [demo](https://www.youtube.com/watch?v=EK8jEkWBTbg) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) · Capital One · [details](../by-hackathon/hackutd-2025.md#project-spendingwithspendy) | Let kids learn how to manage their own finances with Spendy. | expo.io, react, tailwind |
-| [SproutAI](https://devpost.com/software/sproutai-9vil8w) · [demo](https://www.youtube.com/watch?v=7kS-5tsI1Ac) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) · CATEGORY - Finance (Capital One) · [details](../by-hackathon/pennapps-xxvi-2025.md#project-sproutai-9vil8w) | Sprout AI: Optimizing shelves, preserving the planet. | cerebrus, css, gemini |
-| [Subsave](https://devpost.com/software/subsave) · [code](https://github.com/adlonymous/subsave) · [demo](https://www.youtube.com/watch?v=FC3KWH5CUpk) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) · CATEGORY - Finance (Capital One) · [details](../by-hackathon/pennapps-xxvi-2025.md#project-subsave) | A finance prototype explores a way to earn yield on money set aside for subscriptions. | auth0, expo.io, gemini |
-| [Agent Zero](https://devpost.com/software/agentzero-tnh9p3) · [code](https://github.com/dominickdupuy/InvoiceFraudDetector) · [demo](https://www.youtube.com/watch?v=aegOE2791Ow) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Capital One · [details](../by-hackathon/shellhacks-2025.md#project-agentzero-tnh9p3) | Depending on the task, an orchestrator agent decided which specialized agents to summon and begin assessing… | bigquery, express.js, fastapi |
-| [Puddle](https://devpost.com/software/puddle-4iq23p) · [code](https://github.com/TigerHacks-Competition-Team/Bitcamp-2024) · [demo](https://www.youtube.com/watch?v=iI8CfmVSa98) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best Financial Hack - Capital One · [details](../by-hackathon/bitcamp-2024.md#project-puddle-4iq23p) | Puddle brings an "every drop matters" approach to your everyday spending, allowing you to easily split… | css3, figma, firebase |
-| [Plate-O](https://devpost.com/software/plate-o) · [code](https://github.com/pennapps-w/plate-o) · [demo](https://www.youtube.com/watch?v=aZ8MMSoKCXc) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Track: Best Financial Hack (Sponsored by Capital One) · [details](../by-hackathon/pennapps-xxv-2024.md#project-plate-o) | Revolutionize your takeout habits — get financially savvy meal choices and ideal restaurant picks with an AI… | atlas, defang, docker |
-| [Lease Saving Plan](https://devpost.com/software/lease-saving-plan) · [code](https://github.com/Jackal-HQ/Lease-Saving-Guide) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Capital One · [details](../by-hackathon/shellhacks-2024.md#project-lease-saving-plan) | Calculate car lease payments, insurance, and track savings in one tool! Tailored for your budget, with… | customtkinter, matplotlib, python |
-| [SmartCards](https://devpost.com/software/smartcards-qxdusb) · [code](https://github.com/chasereyn/smart-cards) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Capital One · [details](../by-hackathon/shellhacks-2024.md#project-smartcards-qxdusb) | SmartCards is a user-friendly addon for your budgeting app to help you better categorize your transactions… | express.js, flask, kaggle |
-| [Bitcard](https://devpost.com/software/bitcard-backend) · [code](https://github.com/ravirahman/bitcard-backend) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Best use of Capital One's API - Nessie · [details](../by-hackathon/hackmit-2016.md#project-bitcard-backend) | Want to shop online on a site that doesn't accept bitcoin? Now you can -- via the Coinbase and Nessie APIs. | html, javascript |
+Newest hackathons first.
+
+### [BreakingPoint](https://devpost.com/software/breakingpoint)
+
+[HackTX 2026](../by-hackathon/hacktx-2026.md#project-breakingpoint) · **The Best Use of Nessie**
+
+One unexpected expense can trigger a chain of financial crisis. BreakingPoint builds you a plan to break that chain.
+
+[Code](https://github.com/MMehta45/hacktx26) · [Demo video](https://vimeo.com/1239255718) · Built with nessie, fastapi, gemini, next.js
+
+### [cryptX by Moonshot](https://devpost.com/software/cryptx-zceo69)
+
+[Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-cryptx-zceo69) · **Best Financial Hack - Capital One**
+
+is a reverse-engineered hardware ledger for the Solana blockchain, with custom PIN + seed phrase authentication, real-time balance monitoring, and live fraud detection using log analysis.
+
+[Code](https://github.com/navincodesalot/cryptx) · [Demo video](https://www.youtube.com/watch?v=ckU2XB6r1WQ) · Built with arduino, bs58, gemini, hashing
+
+### [Elfie](https://devpost.com/software/n-a-okr0vf)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-n-a-okr0vf) · **Best Use of Nessie**
+
+Remember the elves who finished the shoemaker’s work overnight? Elfie brings them to your move: you text, and they find the apartment, sell the furniture, and settle the bills.
+
+[Code](https://github.com/arshiyasharma/hackharvard) · [Demo video](https://www.youtube.com/watch?v=GTRrbq8RdjU) · Built with nessie, browserbase, claude, photon
+
+### [Guardian](https://devpost.com/software/guardian-mbuwlp)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-guardian-mbuwlp) · **Best Use of Nessie @ Capital One**
+
+A billing assistant reviews medical bills and organizes evidence that patients can use to question charges.
+
+[Code](https://github.com/SNBest1/medical-bill-guardian) · [Demo video](https://www.youtube.com/watch?v=WQIiy8kV0qI) · Built with capital-one-nessie, anime.js, finchnode, fish-audio
+
+### [Nessential](https://devpost.com/software/nessential)
+
+[HackUTD 2026](../by-hackathon/hackutd-2026.md#project-nessential) · **Capital One Track**
+
+Nessential turns passive financial management into proactive, real-world savings:.
+
+**How it used Capital One:** Semi-Automated Loyalty Stacking: Semi-automatically enrolls users into store loyalty programs (Chipotle, Panera, etc.) using private burner email aliases, stacking merchant perks on top of Capital One card rewards.
+
+[Code](https://github.com/Owen-Isenhart/HackUTD-2026) · [Demo video](https://www.youtube.com/watch?v=_Eh5HyNtzVU) · Built with brev, expo.dev, nemotron, node.js
+
+### [Niche](https://devpost.com/software/niche-z32los)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-niche-z32los) · **Best Use of Nessie**
+
+A shopping tool learns someone's style from photos and searches across retailers for items within their size and budget.
+
+[Code](https://github.com/arissazheng/niche) · [Demo video](https://www.youtube.com/watch?v=OPB7mJICaS4) · Built with capital-one-nessie, apify, bright-data, cartesia
+
+### [Play It First](https://devpost.com/software/hackprinceton26)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-hackprinceton26) · **Best Usage of Nessie**
+
+A simulator lets prospective business owners test how they could operate in an actual commercial space.
+
+**How it used Capital One:** Financial integration: Nessie V2 connects the authoritative game ledger to sandbox accounts, deposits, merchant purchases, bills, and read-only reconciliation.
+
+[Code](https://github.com/farhanmir/playitfirst) · [Demo video](https://www.youtube.com/watch?v=xamUK8so4zI) · Built with nessie-api, anthropic-claude, costar, deepagents
+
+### [Settlr](https://devpost.com/software/settlr-s4gr9y)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-settlr-s4gr9y) · **Best Use of Nessie @ Capital One**
+
+A finance app helps people moving to a new city plan expenses with their roommates.
+
+[Code](https://github.com/andrew-oriti18/settlr-mhack26) · Built with css, html, javascript, nessieapi
+
+### [SpaceShare](https://devpost.com/software/spacesquare)
+
+[Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-spacesquare) · **Best Financial Hack**
+
+SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
+
+[Code](https://github.com/Vigneshpeddi/SpaceShare) · Built with amazon-web-services, react, tailwind, typescript
+
+### [Tend](https://devpost.com/software/tend-ua9rm8)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-tend-ua9rm8) · **Best Use of Nessie @ Capital One**
+
+An offline guide helps survivors find state compensation programs and trace eligibility to the relevant law.
+
+[Code](https://github.com/thesanatt/tend) · Built with capital-one-nessie, agentverse, asi-one, c++
+
+### [Agent Zero](https://devpost.com/software/agentzero-tnh9p3)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-agentzero-tnh9p3) · **Capital One**
+
+Depending on the task, an orchestrator agent decided which specialized agents to summon and begin assessing invoices.
+
+[Code](https://github.com/dominickdupuy/InvoiceFraudDetector) · [Demo video](https://www.youtube.com/watch?v=aegOE2791Ow) · Built with bigquery, express.js, fastapi, gemini
+
+### [Black Swan](https://devpost.com/software/black-swan)
+
+[Hacklytics 2025](../by-hackathon/hacklytics-2025.md#project-black-swan) · **Best Finance Hack Sponsored by Capital One**
+
+Turning uncertainty into opportunity with AI-driven market insights.
+
+[Code](https://github.com/kaustubhbhal/Black-Swan) · [Demo video](https://www.youtube.com/watch?v=LGzhTNWSGaw) · Built with alpha-vantage-api, flask, google-oauth, html
+
+### [BudgetBuddy](https://devpost.com/software/budgetbuddy-3qvr78)
+
+[Bitcamp 2025](../by-hackathon/bitcamp-2025.md#project-budgetbuddy-3qvr78) · **Best Financial Hack - Capital One**
+
+A virtual pet whose physical wellness depends on your financial wellness.
+
+**How it used Capital One:** Integrated the Nessie API to simulate real-world financial transactions.
+
+[Code](https://github.com/team-moondust/BudgetBuddy-backend) · [Demo video](https://www.youtube.com/watch?v=4BS5oXi7l7U) · Built with nessie, css, flask, gemini
+
+### [C2Pay](https://devpost.com/software/c2pay)
+
+[HackHarvard 2025](../by-hackathon/hackharvard-2025.md#project-c2pay) · **Best Financial Hack by Capital One**
+
+People lie, cryptography doesn’t. A mobile SDK for adaptive MFA using device trust, biometrics, and C2PA attestation to verify high-risk payments securely.
+
+[Code](https://github.com/sofiaal1/C2Pay) · [Demo video](https://www.youtube.com/watch?v=gnQvp3OVYmE) · Built with bit-manipulation, c2pa, decryption, encryption
+
+### [FinGuard](https://devpost.com/software/finguard-x1akuc)
+
+[Bitcamp 2025](../by-hackathon/bitcamp-2025.md#project-finguard-x1akuc) · **Best Financial Hack - Capital One**
+
+"Smart Spending, Safer Shopping, Healthier Finances.".
+
+Built with beautiful-soup, gemini, javascript, mongodb
+
+### [HackTX 2025](https://devpost.com/software/ecofin-carbon)
+
+[HackTX 2025](../by-hackathon/hacktx-2025.md#project-ecofin-carbon) · **Best Capital One Hack**
+
+EcoFin Carbon calculates and visualizes the carbon footprint of your financial transactions.
+
+[Code](https://github.com/arnavvalvekar/hacktx) · [Demo video](https://www.youtube.com/watch?v=QrL9U7CnT8Y) · Built with nessie, auth0, ci/cd, express.js
+
+### [HR Audit](https://devpost.com/software/the-hr-audit)
+
+[HackGT 12 2025](../by-hackathon/hackgt-12-2025.md#project-the-hr-audit) · **Best Financial Hack**
+
+Complete AI agent ecosystem for fraud detection &amp; banking. Multiple specialized agents handle alerts, voice calls, account protection, and transactions.
+
+[Code](https://github.com/heyitsprashant/HR-Audit) · [Demo video](https://www.youtube.com/watch?v=w3t9JDyL-ks) · Built with capital-one-nessie-api, cedaros, flask, javascript
+
+### [I'd Rather Scroll](https://devpost.com/software/i-d-rather-scroll)
+
+[HackGT 12 2025](../by-hackathon/hackgt-12-2025.md#project-i-d-rather-scroll) · **Best Financial Hack**
+
+The team describes the project as “Productive doomscrolling”.
+
+[Demo video](https://vimeo.com/1122592767) · Built with react
+
+### [Plately](https://devpost.com/software/plately)
+
+[HackNYU 2025](../by-hackathon/hacknyu-2025.md#project-plately) · **Track: Fintech - Best Financial Hack**
+
+The team describes the project as “AI-powered Menu Engineer”.
+
+Built with d3.js, fastapi, javascript, monogodb
+
+### [QuStoch](https://devpost.com/software/qustoch)
+
+[HackNYU 2025](../by-hackathon/hacknyu-2025.md#project-qustoch) · **Track: Fintech - Best Financial Hack**
+
+An application that leverages Quantum Computing and Superposition to simulate multiple Stochastic States in a Brownian motion simulation to more effectively represent stock behavior.
+
+[Demo video](https://www.youtube.com/watch?v=w15F0oFqkak) · Built with ai/ml, bootstrap, css, flask
+
+### [SpendingWithSpendy](https://devpost.com/software/spendingwithspendy)
+
+[HackUTD 2025](../by-hackathon/hackutd-2025.md#project-spendingwithspendy) · **Capital One**
+
+Let kids learn how to manage their own finances with Spendy.
+
+[Code](https://github.com/brendanshen24/SpendWithSpendy) · [Demo video](https://www.youtube.com/watch?v=EK8jEkWBTbg) · Built with expo.io, react, tailwind
+
+### [SproutAI](https://devpost.com/software/sproutai-9vil8w)
+
+[PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md#project-sproutai-9vil8w) · **CATEGORY - Finance**
+
+Sprout AI: Optimizing shelves, preserving the planet.
+
+[Demo video](https://www.youtube.com/watch?v=7kS-5tsI1Ac) · Built with cerebrus, css, gemini, html
+
+### [Subsave](https://devpost.com/software/subsave)
+
+[PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md#project-subsave) · **CATEGORY - Finance**
+
+A finance prototype explores a way to earn yield on money set aside for subscriptions.
+
+[Code](https://github.com/adlonymous/subsave) · [Demo video](https://www.youtube.com/watch?v=FC3KWH5CUpk) · Built with auth0, expo.io, gemini, lulo
+
+### [Lease Saving Plan](https://devpost.com/software/lease-saving-plan)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-lease-saving-plan) · **Capital One**
+
+Calculate car lease payments, insurance, and track savings in one tool! Tailored for your budget, with support for English/Spanish.
+
+[Code](https://github.com/Jackal-HQ/Lease-Saving-Guide) · Built with customtkinter, matplotlib, python, sqlite
+
+### [Plate-O](https://devpost.com/software/plate-o)
+
+[PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-plate-o) · **Track: Best Financial Hack**
+
+Revolutionize your takeout habits — get financially savvy meal choices and ideal restaurant picks with an AI that seamlessly learns from your every order.
+
+**How it used Capital One:** By integrating the Capital One API, Plate-O can analyze your income, expenses, and savings to calculate an ideal takeout budget—maximizing enjoyment while minimizing financial strain. 💵📈.
+
+[Code](https://github.com/pennapps-w/plate-o) · [Demo video](https://www.youtube.com/watch?v=aZ8MMSoKCXc) · Built with atlas, defang, docker, fastapi
+
+### [Puddle](https://devpost.com/software/puddle-4iq23p)
+
+[Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-puddle-4iq23p) · **Best Financial Hack - Capital One**
+
+Puddle brings an "every drop matters" approach to your everyday spending, allowing you to easily split expenses without having to wait for repayment.
+
+[Code](https://github.com/TigerHacks-Competition-Team/Bitcamp-2024) · [Demo video](https://www.youtube.com/watch?v=iI8CfmVSa98) · Built with css3, figma, firebase, firestore
+
+### [SmartCards](https://devpost.com/software/smartcards-qxdusb)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-smartcards-qxdusb) · **Capital One**
+
+SmartCards is a user-friendly addon for your budgeting app to help you better categorize your transactions and find investing opportunities from each purchase.
+
+[Code](https://github.com/chasereyn/smart-cards) · Built with express.js, flask, kaggle, node.js
+
+### [Bitcard](https://devpost.com/software/bitcard-backend)
+
+[HackMIT 2016](../by-hackathon/hackmit-2016.md#project-bitcard-backend) · **Best use of Capital One's API - Nessie**
+
+Want to shop online on a site that doesn't accept bitcoin? Now you can -- via the Coinbase and Nessie APIs.
+
+**How it used Capital One:** The team use the coinbase and Nessie APIs to handle the money, and deliver the app via a chrome extension.
+
+[Code](https://github.com/ravirahman/bitcard-backend) · Built with html, javascript
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | Best Financial Hack - Capital One | No specific requirement captured | [Event prize rules](https://bitcamp-2026.devpost.com/) |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Capital One&#93; Best Use of Nessie | Capital One Nessie API | [Track label](https://cal-hacks-13-0.devpost.com/) |
@@ -74,3 +281,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [HackMIT 2016](../by-hackathon/hackmit-2016.md) | Best use of Capital One's API - Nessie | Capital One's API - Nessie | [Track label](https://hackmit-2016.devpost.com/) |
 
 </details>
+
+[Back to top](#capital-one)

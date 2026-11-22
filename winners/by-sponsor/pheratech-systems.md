@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Pheratech Systems
+
 # Pheratech Systems
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Pheratech%20Systems)
 
 ## What winners have in common
 
-- **Most listed tech** arduino (1), elevenlabs (1), flask (1)
-- **Common project areas** None listed
-- **Common demo formats** Hardware or robotics (1), Mobile app (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** arduino (1), elevenlabs (1), flask (1), flutter (1), gemini (1)
+- **Project areas:** None listed
+- **Demo formats:** Hardware or robotics (1), Mobile app (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Zero Panic in Movement (ZPM)](https://devpost.com/software/zero-panic-in-movement-zpm) · [demo](https://www.youtube.com/watch?v=m-iLFeIfq-s) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · ROS2 Autonomy Challenge · [details](../by-hackathon/knight-hacks-viii-2025.md#project-zero-panic-in-movement-zpm) | In life-or-death moments, guessing isn’t an option. Deploy a robot swarm that maps hazards, learns from one… | arduino, elevenlabs, flask |
+Newest hackathons first.
+
+### [Zero Panic in Movement (ZPM)](https://devpost.com/software/zero-panic-in-movement-zpm)
+
+[Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-zero-panic-in-movement-zpm) · **ROS2 Autonomy Challenge**
+
+In life-or-death moments, guessing isn’t an option. Deploy a robot swarm that maps hazards, learns from one another's mistakes, and guides everyone to a safe exit.
+
+[Demo video](https://www.youtube.com/watch?v=m-iLFeIfq-s) · Built with arduino, elevenlabs, flask, flutter
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) | Pheratech Systems: ROS2 Autonomy Challenge | No specific requirement captured | [Event prize rules](https://knighthacksviii.devpost.com/) |
 
 </details>
+
+[Back to top](#pheratech-systems)

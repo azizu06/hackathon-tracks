@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / AlchemyAPI
+
 # AlchemyAPI
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=AlchemyAPI)
 
 ## What winners have in common
 
-- **Most listed tech** None listed
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** None listed
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Vidego](https://devpost.com/software/vidego) · [demo](https://www.youtube.com/watch?v=sXedTRAG5rU) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) · Best Use of AlchemyAPI Award · [details](../by-hackathon/hackmit-2013.md#project-vidego) | Vidego offers users the ability to perform text searches on the content of video files. | — |
+Newest hackathons first.
+
+### [Vidego](https://devpost.com/software/vidego)
+
+[HackMIT 2013](../by-hackathon/hackmit-2013.md#project-vidego) · **Best Use of AlchemyAPI Award**
+
+Vidego offers users the ability to perform text searches on the content of video files.
+
+[Demo video](https://www.youtube.com/watch?v=sXedTRAG5rU)
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | AlchemyAPI - Best Use of AlchemyAPI Award | AlchemyAPI Award | [Track label](https://hackmit.devpost.com/) |
 
 </details>
+
+[Back to top](#alchemyapi)

@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Plaid
+
 # Plaid
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Plaid)
 
 ## What winners have in common
 
-- **Most listed tech** express.js (1), google-maps (1), javascript (1)
-- **Common project areas** None listed
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 0 of 1
+- **Most used tech:** express.js (1), google-maps (1), javascript (1), meteor.js (1), plaid (1)
+- **Project areas:** None listed
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 0 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [GeoCash](https://devpost.com/software/geocash-5h0zlt) · [code](https://github.com/shawnaness/geocash) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · Best use of the Plaid API · [details](../by-hackathon/hackmit-2018.md#project-geocash-5h0zlt) | A web app to help you track your money and where you're spending it. | plaid, express.js, google-maps |
+Newest hackathons first.
+
+### [GeoCash](https://devpost.com/software/geocash-5h0zlt)
+
+[HackMIT 2018](../by-hackathon/hackmit-2018.md#project-geocash-5h0zlt) · **Best use of the Plaid API**
+
+A web app to help you track your money and where you're spending it.
+
+[Code](https://github.com/shawnaness/geocash) · Built with plaid, express.js, google-maps, javascript
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Best use of the Plaid API | the Plaid API | [Track label](https://hackmit-2018.devpost.com/) |
 
 </details>
+
+[Back to top](#plaid)

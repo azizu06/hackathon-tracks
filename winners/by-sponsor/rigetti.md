@@ -1,29 +1,41 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Rigetti
+
 # Rigetti
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Rigetti)
 
 ## What winners have in common
 
-- **Most listed tech** arduino (1), azure (1), flask (1)
-- **Common project areas** None listed
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** arduino (1), azure (1), flask (1), html (1), mit-app-inventor (1)
+- **Project areas:** None listed
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [DispenseRX](https://devpost.com/software/dispenser) · [demo](https://www.youtube.com/watch?v=YzvRMnlJ91Q) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · Rigetti Quantum Prize · [details](../by-hackathon/hackmit-2018.md#project-dispenser) | The pharmacy of the future: an automated medicine dispenser &amp; streamlined method for securely acquiring… | rigetti, arduino, azure |
+Newest hackathons first.
+
+### [DispenseRX](https://devpost.com/software/dispenser)
+
+[HackMIT 2018](../by-hackathon/hackmit-2018.md#project-dispenser) · **Rigetti Quantum Prize**
+
+The pharmacy of the future: an automated medicine dispenser &amp; streamlined method for securely acquiring prescriptions.
+
+**How it used Rigetti:** Next, this authorization is piped into Rigetti’s quantum computing platform, in which an entangled pair of quantum bits is generated as highly secure authorization tokens.
+
+[Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91Q) · Built with rigetti, arduino, azure, flask
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Rigetti Quantum Prize | No specific requirement captured | [Event prize rules](https://hackmit-2018.devpost.com/) |
 
 </details>
+
+[Back to top](#rigetti)

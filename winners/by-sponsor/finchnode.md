@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / FinchNode
+
 # FinchNode
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=FinchNode)
 
 ## What winners have in common
 
-- **Most listed tech** finchnode (3), elevenlabs (2), gemini (2)
-- **Common project areas** Health and care (2), Safety and emergency response (1)
-- **Common demo formats** Hardware or robotics (2), Voice or conversational interface (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** finchnode (3), elevenlabs (2), gemini (2), javascript (2), node.js (2)
+- **Project areas:** Health and care (2), Safety and emergency response (1)
+- **Demo formats:** Hardware or robotics (2), Voice or conversational interface (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Cardio Glasses](https://devpost.com/software/cardio-glasses) · [code](https://github.com/tTong32/CardioGlasses) · [demo](https://www.youtube.com/watch?v=-MuYmrTTWag) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · FinchNode (HealthTech) · [details](../by-hackathon/mhacks-2026.md#project-cardio-glasses) | Everyday glasses that watch high-risk hearts and speak up before an emergency. | finchnode, c++, elevenlabs |
-| [InnoPair](https://devpost.com/software/innopair) · [demo](https://www.youtube.com/watch?v=Fg-wfUvkk1U) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · FinchNode (HealthTech) · [details](../by-hackathon/mhacks-2026.md#project-innopair) | Clinical trials lose millions recruiting, while patients miss life-saving treatments. InnoPair automatically… | finchnode, css3, fhir |
-| [LifeLine](https://devpost.com/software/lifeline-nf86zy) · [code](https://github.com/Taz33m/mhacks) · [demo](https://www.youtube.com/watch?v=ETHa01jEUWA) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · FinchNode (HealthTech) · [details](../by-hackathon/mhacks-2026.md#project-lifeline-nf86zy) | A wearable AI agent that detects patterns in elder patients to provide life-saving care through voice and… | finchnode, airpods, blender |
+Newest hackathons first.
+
+### [Cardio Glasses](https://devpost.com/software/cardio-glasses)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-cardio-glasses) · **FinchNode**
+
+Everyday glasses that watch high-risk hearts and speak up before an emergency.
+
+[Code](https://github.com/tTong32/CardioGlasses) · [Demo video](https://www.youtube.com/watch?v=-MuYmrTTWag) · Built with finchnode, c++, elevenlabs, esp32
+
+### [InnoPair](https://devpost.com/software/innopair)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-innopair) · **FinchNode**
+
+Clinical trials lose millions recruiting, while patients miss life-saving treatments. InnoPair automatically matches patients to trials, helping studies recruit faster and patients find new options.
+
+[Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1U) · Built with finchnode, css3, fhir, gemini
+
+### [LifeLine](https://devpost.com/software/lifeline-nf86zy)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-lifeline-nf86zy) · **FinchNode**
+
+A wearable AI agent that detects patterns in elder patients to provide life-saving care through voice and iMessage.
+
+[Code](https://github.com/Taz33m/mhacks) · [Demo video](https://www.youtube.com/watch?v=ETHa01jEUWA) · Built with finchnode, airpods, blender, cloudflare-pages
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2026](../by-hackathon/mhacks-2026.md) | FinchNode (HealthTech) | No specific requirement captured | [Event prize rules](https://mhacks-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#finchnode)

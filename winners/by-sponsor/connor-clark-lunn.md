@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Connor, Clark &amp; Lunn
+
 # Connor, Clark &amp; Lunn
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Connor%2C%20Clark%20%26%20Lunn)
 
 ## What winners have in common
 
-- **Most listed tech** fastapi (1), gemini (1), lovable (1)
-- **Common project areas** Finance and commerce (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** fastapi (1), gemini (1), lovable (1), openrouter (1), python (1)
+- **Project areas:** Finance and commerce (1)
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [MarketMind](https://devpost.com/software/marketmind-vlobg1) · [code](https://github.com/dewgong5/nwhacks2026) · [demo](https://www.youtube.com/watch?v=Qcazd8EwHQ0) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) · Best Financial Hack · [details](../by-hackathon/nwhacks-2026.md#project-marketmind-vlobg1) | Sandbox world of financial AI agents to help you learn trading. | fastapi, gemini, lovable |
+Newest hackathons first.
+
+### [MarketMind](https://devpost.com/software/marketmind-vlobg1)
+
+[nwHacks 2026](../by-hackathon/nwhacks-2026.md#project-marketmind-vlobg1) · **Best Financial Hack**
+
+Sandbox world of financial AI agents to help you learn trading.
+
+[Code](https://github.com/dewgong5/nwhacks2026) · [Demo video](https://www.youtube.com/watch?v=Qcazd8EwHQ0) · Built with fastapi, gemini, lovable, openrouter
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) | &#91;Connor, Clark &amp; Lunn&#93; Best Financial Hack | No specific requirement captured | [Event prize rules](https://nwhacks-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#connor-clark--lunn)

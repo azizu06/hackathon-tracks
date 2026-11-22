@@ -1,51 +1,222 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Regeneron
+
 # Regeneron
 
-**24 projects · 2 editions · 24 prize rows**
-
-[Winners index](../README.md)
+**24 winning projects** · 2 hackathons · 24 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Regeneron)
 
 ## What winners have in common
 
-- **Most listed tech** python (21), react (12), typescript (12)
-- **Common project areas** Health and care (19), Finance and commerce (2), Accessibility and assistive tools (1)
-- **Common demo formats** Web app or dashboard (5), CLI or developer tool (2)
-- **Projects with a listed demo video** 23 of 24
+- **Most used tech:** python (21), react (12), typescript (12), fastapi (8), javascript (8)
+- **Project areas:** Health and care (19), Finance and commerce (2), Accessibility and assistive tools (1)
+- **Demo formats:** Web app or dashboard (5), Command line or SDK (2)
+- **Demo videos:** 23 of 24 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [ClearPath](https://devpost.com/software/clear-path-35iu8q) · [code](https://github.com/oliverywu/ClearPath) · [demo](https://www.youtube.com/watch?v=yicXCW7Uulg) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-clear-path-35iu8q) | ClearPath spots clinical-trial drug shipments at risk of delay, proposes fixes automatically, alerts your… | and-grok-and-grok-imagine-for-building-the-app-and-making-the-demo-video-&#42;&#42;messaging:&#42;&#42;-photon-(imessage)-&#42;&#42;maps-and-data:&#42;&#42;-google-maps-javascript-api, chalk, claude |
-| [Concord](https://devpost.com/software/concord-17as0b) · [code](https://github.com/CosmicOdyssey/concord) · [demo](https://vimeo.com/1236934994) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-concord-17as0b) | Turn a clinical trial protocol into a site budget both sides can check: procedures priced from public… | clinicaltrials.gov-api, cms-clinical-laboratory-fee-schedule, cms-physician-fee-schedule |
-| [FirstLight](https://devpost.com/software/firstlight-r5nx7s) · [code](https://github.com/SunfishTK1/hackharvard-2026) · [demo](https://www.youtube.com/watch?v=BNi3T0CI5m4) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-firstlight-r5nx7s) | FirstLight recruits, consents and retains trial participants over iMessage, and Trial Ops gives the study… | anthropic, caddy, claude |
-| [ProtocolOS](https://devpost.com/software/protocolos-sjat3b) · [code](https://github.com/rinatrizvanov/ProtocolOS) · [demo](https://www.youtube.com/watch?v=WkWDWfHbal4) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-protocolos-sjat3b) | Clinical trials are complex, and mistakes can delay new treatments and cost millions. ProtocolOS helps pharma… | chalk, clinicaltrials.gov, css |
-| [Radar](https://devpost.com/software/radar-hz5yqe) · [demo](https://www.youtube.com/watch?v=OY-HqXfXzR8) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-radar-hz5yqe) | Find sanctioned investigators, not their namesakes. | cloudflare, docker, fastapi |
-| [SiteLine](https://devpost.com/software/siteline-90rxwp) · [code](https://github.com/duna-akin/SiteLine) · [demo](https://www.youtube.com/watch?v=p0ZqxplwPwU) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-siteline-90rxwp) | Turn your past clinical trial agreements into a central intelligence playbook that adapts to each site. | chalk, css, daytona |
-| [StreamCare](https://devpost.com/software/streamcare-f3hemk) · [code](https://github.com/CarstenMacosko/HackHarvard2026) · [demo](https://www.youtube.com/watch?v=ItVIDKM9HO8) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-streamcare-f3hemk) | StreamCare is an all-in-one longitudinal research tool that allows study participants to perform at-home… | anthropic-claude, cursor, daytona |
-| [Telekinesis](https://devpost.com/software/telekinesis-bvyi5h) · [demo](https://www.youtube.com/watch?v=mTHAhDZ4RGs) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-telekinesis-bvyi5h) | Gamified clinical trials with computer vision. | computervision, react |
-| [TrialMate](https://devpost.com/software/trialmate) · [code](https://github.com/egornikot/trialmate) · [demo](https://www.youtube.com/watch?v=Q-O1BSkJvRI) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-trialmate) | A texting companion for clinical trials: it finds trials, answers participants and logs side effects, while a… | anthropic, claude, clinicaltrials.gov |
-| [TrialMax](https://devpost.com/software/trialmaxer) · [code](https://github.com/Arnavvvkumar/TrialMax) · [demo](https://www.youtube.com/watch?v=5BlGfMiELQc) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-trialmaxer) | TrialMax shows researchers why trial recruitment fails and helps them find safer ways to reach eligible… | chalk, clinical, clinicaltrials.gov |
-| [TrialPilot](https://devpost.com/software/trialpilot) · [code](https://github.com/KryptonNii/YANZHENG_NI_HACKHARVARD2026) · [demo](https://www.youtube.com/watch?v=KLeeAnTy4M8) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development · [details](../by-hackathon/hackharvard-2026.md#project-trialpilot) | TrialPilot helps teams compare clinical trial designs across cost, site workload, patient travel, and… | c++, claude, grox |
-| [Cura](https://devpost.com/software/cura-kthowx) · [code](https://github.com/hongdnn/healthcare_ai_backend) · [demo](https://www.youtube.com/watch?v=DM4mWK8XNcI) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Honorable Mention · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-cura-kthowx) | AI Medical Assistant: Intelligent Symptom Checker and Care Connector. | chromadb, creao, fastapi |
-| [Empirica](https://devpost.com/software/empirica) · [code](https://github.com/jalenfran/empirica) · [demo](https://www.youtube.com/watch?v=xpLYIeUccAw) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Honorable Mention · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-empirica) | Turn research papers into living knowledge graphs. Agentic AI finds papers, builds networks, generates… | amazon-web-services, axios, claude |
-| [GhostManager](https://devpost.com/software/ghostmanager) · [demo](https://www.youtube.com/watch?v=SdEoVMPPPDg) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Honorable Mention · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-ghostmanager) | Using agentic AI to reinvent compliance. | fastapi, gemini, html |
-| [Harmoniq](https://devpost.com/software/harmoniq-06o1e9) · [code](https://github.com/vardhanshorewala/harmoniq) · [demo](https://www.youtube.com/watch?v=mIZSg8rKyew) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Runner-Up · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-harmoniq-06o1e9) | Harmoniq is an AI agent system that continuously monitors clinical trial protocols for regulatory compliance:. | agents, chroma, llms |
-| [MIFY](https://devpost.com/software/mify) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Honorable Mention · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-mify) | MIFY is an all-in-one patient recruitment platform that leverages generative AI to streamline the clinical… | amazon-web-services, api, chroma |
-| [MonitorMachine](https://devpost.com/software/monitormachine) · [code](https://github.com/sulabhkatila/MonitorMachine) · [demo](https://www.youtube.com/watch?v=BOXuzT-mpNw) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Honorable Mention · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-monitormachine) | Automating clinical trial verification to cut costs, save time, bring life-saving treatments to patients… | chroma, chromadb, claude |
-| [Sublytics](https://devpost.com/software/sublytics-h3ks70) · [code](https://github.com/aarnavin/calhacks25) · [demo](https://www.youtube.com/watch?v=R1TChJgZMsE) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Honorable Mention · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-sublytics-h3ks70) | Rescue failed clinical trials by discovering hidden responder subgroups using AI-powered analytics. | matplotlib, numpy, pandas |
-| [Synthetic Data Generation and Imputation](https://devpost.com/software/synthetic-data-generation-and-imputation) · [demo](https://www.youtube.com/watch?v=3lCcMqWGx2k) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Honorable Mention · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-synthetic-data-generation-and-imputation) | The architecture is based off of deep generative models such as GAIN and conditional GANs to impute missing… | numpy, pandas, python |
-| [TrialFlow](https://devpost.com/software/trialflow) · [demo](https://www.youtube.com/watch?v=cCJElQkixLE) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Runner-Up · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-trialflow) | 40% of patients drop out of clinical trials before completion, and scheduling friction drives a large share… | creao, google-calendar-api, google-gmail-oauth |
-| [TrialGuideAI](https://devpost.com/software/trialguideai) · [demo](https://www.youtube.com/watch?v=GWE_4Eq-oaY) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Runner-Up · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-trialguideai) | TrialGuideAI uses AI to distill dense clinical trial protocols into accessible summaries, infographics, and… | css, gemini, git |
-| [trialmatch.ai](https://devpost.com/software/trial-match-ai) · [code](https://github.com/Calhacks-12-0/Trialmatch.ai) · [demo](https://www.youtube.com/watch?v=ffKEoZwoR6c) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Runner-Up · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-trial-match-ai) | Agentic pattern AI that actively searches for and identifies trial-qualified patients on its own. | agentverse, fetch, python |
-| [Trialscope AI](https://devpost.com/software/trialscope-ai) · [code](https://github.com/Hilo-Hilo/Trialscope-AI) · [demo](https://www.youtube.com/watch?v=FNYlGTxhrr4) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Grand Prize · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-trialscope-ai) | Your AI-driven clinical trial intelligence platform that reviews, benchmarks, and regenerates protocol drafts… | anthropic, css, html |
-| [Trialytics](https://devpost.com/software/trialytics) · [code](https://github.com/ShauryaJ1/trialytics) · [demo](https://www.youtube.com/watch?v=mKz1m1JFRIQ) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Runner-Up · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-trialytics) | Turning tangled, time-consuming clinical trial data chaos into seamless, protocol-compliant automated… | admiral, amazon-web-services, aws-deep-learning-ami |
+Newest hackathons first.
+
+### [ClearPath](https://devpost.com/software/clear-path-35iu8q)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-clear-path-35iu8q) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+ClearPath spots clinical-trial drug shipments at risk of delay, proposes fixes automatically, alerts your team to approve them and tracks orders so patients never miss a dose.
+
+[Code](https://github.com/oliverywu/ClearPath) · [Demo video](https://www.youtube.com/watch?v=yicXCW7Uulg) · Built with and-grok-and-grok-imagine-for-building-the-app-and-making-the-demo-video-&#42;&#42;messaging:&#42;&#42;-photon-(imessage)-&#42;&#42;maps-and-data:&#42;&#42;-google-maps-javascript-api, chalk, claude, css
+
+### [Concord](https://devpost.com/software/concord-17as0b)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-concord-17as0b) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+Turn a clinical trial protocol into a site budget both sides can check: procedures priced from public Medicare rates, with a source on every line.
+
+[Code](https://github.com/CosmicOdyssey/concord) · [Demo video](https://vimeo.com/1236934994) · Built with clinicaltrials.gov-api, cms-clinical-laboratory-fee-schedule, cms-physician-fee-schedule, fastapi
+
+### [FirstLight](https://devpost.com/software/firstlight-r5nx7s)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-firstlight-r5nx7s) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+FirstLight recruits, consents and retains trial participants over iMessage, and Trial Ops gives the study team one agent to act on what FirstLight finds, with the safety rules built into the database.
+
+[Code](https://github.com/SunfishTK1/hackharvard-2026) · [Demo video](https://www.youtube.com/watch?v=BNi3T0CI5m4) · Built with anthropic, caddy, claude, daytona
+
+### [ProtocolOS](https://devpost.com/software/protocolos-sjat3b)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-protocolos-sjat3b) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+Clinical trials are complex, and mistakes can delay new treatments and cost millions. ProtocolOS helps pharma companies review and verify trial rules, then draft new ones backed by evidence.
+
+[Code](https://github.com/rinatrizvanov/ProtocolOS) · [Demo video](https://www.youtube.com/watch?v=WkWDWfHbal4) · Built with chalk, clinicaltrials.gov, css, docker
+
+### [Radar](https://devpost.com/software/radar-hz5yqe)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-radar-hz5yqe) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+Find sanctioned investigators, not their namesakes.
+
+[Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
+
+### [SiteLine](https://devpost.com/software/siteline-90rxwp)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-siteline-90rxwp) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+Turn your past clinical trial agreements into a central intelligence playbook that adapts to each site.
+
+[Code](https://github.com/duna-akin/SiteLine) · [Demo video](https://www.youtube.com/watch?v=p0ZqxplwPwU) · Built with chalk, css, daytona, html5
+
+### [StreamCare](https://devpost.com/software/streamcare-f3hemk)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-streamcare-f3hemk) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+StreamCare is an all-in-one longitudinal research tool that allows study participants to perform at-home symptom measurements, reducing the need for in-person evaluations and increasing scalability.
+
+[Code](https://github.com/CarstenMacosko/HackHarvard2026) · [Demo video](https://www.youtube.com/watch?v=ItVIDKM9HO8) · Built with anthropic-claude, cursor, daytona, factory-droid
+
+### [Telekinesis](https://devpost.com/software/telekinesis-bvyi5h)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-telekinesis-bvyi5h) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+Gamified clinical trials with computer vision.
+
+[Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
+
+### [TrialMate](https://devpost.com/software/trialmate)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-trialmate) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+A texting companion for clinical trials: it finds trials, answers participants and logs side effects, while a coordinator approves every medical reply.
+
+[Code](https://github.com/egornikot/trialmate) · [Demo video](https://www.youtube.com/watch?v=Q-O1BSkJvRI) · Built with anthropic, claude, clinicaltrials.gov, css
+
+### [TrialMax](https://devpost.com/software/trialmaxer)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-trialmaxer) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+TrialMax shows researchers why trial recruitment fails and helps them find safer ways to reach eligible patients, before a protocol becomes a costly dead end.
+
+[Code](https://github.com/Arnavvvkumar/TrialMax) · [Demo video](https://www.youtube.com/watch?v=5BlGfMiELQc) · Built with chalk, clinical, clinicaltrials.gov, d3.js
+
+### [TrialPilot](https://devpost.com/software/trialpilot)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-trialpilot) · **Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development**
+
+TrialPilot helps teams compare clinical trial designs across cost, site workload, patient travel, and timeline risk with transparent, traceable estimates.
+
+**How it used Regeneron:** The built-in trial library uses public ClinicalTrials.gov records of trials of Regeneron medicines.
+
+[Code](https://github.com/KryptonNii/YANZHENG_NI_HACKHARVARD2026) · [Demo video](https://www.youtube.com/watch?v=KLeeAnTy4M8) · Built with c++, claude, grox, json
+
+### [Cura](https://devpost.com/software/cura-kthowx)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-cura-kthowx) · **Honorable Mention**
+
+AI Medical Assistant: Intelligent Symptom Checker and Care Connector.
+
+[Code](https://github.com/hongdnn/healthcare_ai_backend) · [Demo video](https://www.youtube.com/watch?v=DM4mWK8XNcI) · Built with chromadb, creao, fastapi, livekit
+
+### [Empirica](https://devpost.com/software/empirica)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-empirica) · **Honorable Mention**
+
+Turn research papers into living knowledge graphs. Agentic AI finds papers, builds networks, generates hypotheses.
+
+[Code](https://github.com/jalenfran/empirica) · [Demo video](https://www.youtube.com/watch?v=xpLYIeUccAw) · Built with amazon-web-services, axios, claude, fastapi
+
+### [GhostManager](https://devpost.com/software/ghostmanager)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-ghostmanager) · **Honorable Mention**
+
+Using agentic AI to reinvent compliance.
+
+[Demo video](https://www.youtube.com/watch?v=SdEoVMPPPDg) · Built with fastapi, gemini, html, javascript
+
+### [Harmoniq](https://devpost.com/software/harmoniq-06o1e9)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-harmoniq-06o1e9) · **Runner-Up**
+
+Harmoniq is an AI agent system that continuously monitors clinical trial protocols for regulatory compliance:.
+
+[Code](https://github.com/vardhanshorewala/harmoniq) · [Demo video](https://www.youtube.com/watch?v=mIZSg8rKyew) · Built with agents, chroma, llms, nextjs
+
+### [MIFY](https://devpost.com/software/mify)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-mify) · **Honorable Mention**
+
+MIFY is an all-in-one patient recruitment platform that leverages generative AI to streamline the clinical trial pipeline for both patients and researchers.
+
+Built with amazon-web-services, api, chroma, claude
+
+### [MonitorMachine](https://devpost.com/software/monitormachine)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-monitormachine) · **Honorable Mention**
+
+Automating clinical trial verification to cut costs, save time, bring life-saving treatments to patients faster, and spark more innovation in clinical research.
+
+[Code](https://github.com/sulabhkatila/MonitorMachine) · [Demo video](https://www.youtube.com/watch?v=BOXuzT-mpNw) · Built with chroma, chromadb, claude, css3
+
+### [Sublytics](https://devpost.com/software/sublytics-h3ks70)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-sublytics-h3ks70) · **Honorable Mention**
+
+Rescue failed clinical trials by discovering hidden responder subgroups using AI-powered analytics.
+
+[Code](https://github.com/aarnavin/calhacks25) · [Demo video](https://www.youtube.com/watch?v=R1TChJgZMsE) · Built with matplotlib, numpy, pandas, python
+
+### [Synthetic Data Generation and Imputation](https://devpost.com/software/synthetic-data-generation-and-imputation)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-synthetic-data-generation-and-imputation) · **Honorable Mention**
+
+The architecture is based off of deep generative models such as GAIN and conditional GANs to impute missing clinical data while preserving correlation and variance.
+
+[Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k) · Built with numpy, pandas, python, tensorflow
+
+### [TrialFlow](https://devpost.com/software/trialflow)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-trialflow) · **Runner-Up**
+
+40% of patients drop out of clinical trials before completion, and scheduling friction drives a large share of attrition.
+
+[Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
+
+### [TrialGuideAI](https://devpost.com/software/trialguideai)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-trialguideai) · **Runner-Up**
+
+TrialGuideAI uses AI to distill dense clinical trial protocols into accessible summaries, infographics, and videos that empower patients to understand studies and their broader impact on science.
+
+[Demo video](https://www.youtube.com/watch?v=GWE_4Eq-oaY) · Built with css, gemini, git, html
+
+### [trialmatch.ai](https://devpost.com/software/trial-match-ai)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-trial-match-ai) · **Runner-Up**
+
+Agentic pattern AI that actively searches for and identifies trial-qualified patients on its own.
+
+[Code](https://github.com/Calhacks-12-0/Trialmatch.ai) · [Demo video](https://www.youtube.com/watch?v=ffKEoZwoR6c) · Built with agentverse, fetch, python, react
+
+### [Trialscope AI](https://devpost.com/software/trialscope-ai)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-trialscope-ai) · **Grand Prize**
+
+Your AI-driven clinical trial intelligence platform that reviews, benchmarks, and regenerates protocol drafts into USDM-ready, FDA-aligned docs: Reducing amendments, delays, and cost overruns.
+
+[Code](https://github.com/Hilo-Hilo/Trialscope-AI) · [Demo video](https://www.youtube.com/watch?v=FNYlGTxhrr4) · Built with anthropic, css, html, next.js
+
+### [Trialytics](https://devpost.com/software/trialytics)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-trialytics) · **Runner-Up**
+
+Turning tangled, time-consuming clinical trial data chaos into seamless, protocol-compliant automated workflows.
+
+[Code](https://github.com/ShauryaJ1/trialytics) · [Demo video](https://www.youtube.com/watch?v=mKz1m1JFRIQ) · Built with admiral, amazon-web-services, aws-deep-learning-ami, aws-ec2
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) | Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development | No specific requirement captured | [Event prize rules](https://hackharvard2026.devpost.com/) |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Regeneron: Grand Prize | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
@@ -53,3 +224,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Regeneron: Runner-Up | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 
 </details>
+
+[Back to top](#regeneron)

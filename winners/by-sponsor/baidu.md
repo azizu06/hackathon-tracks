@@ -1,31 +1,60 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Baidu
+
 # Baidu
 
-**4 projects · 1 editions · 4 prize rows**
-
-[Winners index](../README.md)
+**4 winning projects** · 1 hackathon · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Baidu)
 
 ## What winners have in common
 
-- **Most listed tech** python (4), css (2), flask (2)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 0 of 4
+- **Most used tech:** python (4), css (2), flask (2), html (2), javascript (2)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 0 of 4 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Accentuate](https://devpost.com/software/accenture) · [code](https://github.com/alvinzz/models) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Baidu - Best Paddle Hack: Second Place · [details](../by-hackathon/hackmit-2017.md#project-accenture) | Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pronunciations. | paddlepaddle, python, tears |
-| [ezPaddle](https://devpost.com/software/ezpaddle) · [code](https://github.com/fervorarc/PaddleBois) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Baidu - Machine Learning Community Prize · [details](../by-hackathon/hackmit-2017.md#project-ezpaddle) | ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line of code. | paddle, python |
-| [Fake Bananas](https://devpost.com/software/fakebananas) · [code](https://github.com/likeaj6/FakeBananas) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good · [details](../by-hackathon/hackmit-2017.md#project-fakebananas) | Robust fake news detection made simple and scalable for real people. | azure, css, flask |
-| [Resent(i)ment Analysis](https://devpost.com/software/news-sentiment) · [code](https://github.com/rfblue2/resentiment-analysis) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Baidu - Best Paddle Hack: First Place · [details](../by-hackathon/hackmit-2017.md#project-news-sentiment) | The team describes the project as “We use Baidu's Paddle Deep Learning framework to uncover and call… | css, facebook, flask |
+Newest hackathons first.
+
+### [Accentuate](https://devpost.com/software/accenture)
+
+[HackMIT 2017](../by-hackathon/hackmit-2017.md#project-accenture) · **Sponsor Prize - Baidu - Best Paddle Hack: Second Place**
+
+Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pronunciations.
+
+[Code](https://github.com/alvinzz/models) · Built with paddlepaddle, python, tears, the-biggest-data
+
+### [ezPaddle](https://devpost.com/software/ezpaddle)
+
+[HackMIT 2017](../by-hackathon/hackmit-2017.md#project-ezpaddle) · **Sponsor Prize - Baidu - Machine Learning Community Prize**
+
+ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line of code.
+
+[Code](https://github.com/fervorarc/PaddleBois) · Built with paddle, python
+
+### [Fake Bananas](https://devpost.com/software/fakebananas)
+
+[HackMIT 2017](../by-hackathon/hackmit-2017.md#project-fakebananas) · **Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good**
+
+Robust fake news detection made simple and scalable for real people.
+
+[Code](https://github.com/likeaj6/FakeBananas) · Built with azure, css, flask, html
+
+### [Resent(i)ment Analysis](https://devpost.com/software/news-sentiment)
+
+[HackMIT 2017](../by-hackathon/hackmit-2017.md#project-news-sentiment) · **Sponsor Prize - Baidu - Best Paddle Hack: First Place**
+
+The team describes the project as “We use Baidu's Paddle Deep Learning framework to uncover and call attention to online harassment and its biases”.
+
+[Code](https://github.com/rfblue2/resentiment-analysis) · Built with css, facebook, flask, html
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Baidu - AI for Developing Countries: Hack for Social Good | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Baidu - Best Paddle Hack: First Place | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
@@ -33,3 +62,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [HackMIT 2017](../by-hackathon/hackmit-2017.md) | Sponsor Prize - Baidu - Machine Learning Community Prize | No specific requirement captured | [Event prize rules](https://hackmit2017.devpost.com/) |
 
 </details>
+
+[Back to top](#baidu)

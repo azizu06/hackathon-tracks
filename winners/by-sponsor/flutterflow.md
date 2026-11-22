@@ -1,31 +1,61 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / FlutterFlow
+
 # FlutterFlow
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=FlutterFlow)
 
 ## What winners have in common
 
-- **Most listed tech** flutterflow (3), gemini (3), dart (2)
-- **Common project areas** None listed
-- **Common demo formats** Mobile app (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** flutterflow (3), gemini (3), dart (2), perplexity (2), python (2)
+- **Project areas:** None listed
+- **Demo formats:** Mobile app (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Caren AI](https://devpost.com/software/caren-ai) · [code](https://github.com/Tap2Call/flutterflow) · [demo](https://www.youtube.com/watch?v=8ZOR9M53RlM) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad… · [details](../by-hackathon/treehacks-2025.md#project-caren-ai) | Because everyone deserves someone who cares. | flutterflow, ai, ai-agents |
-| [EcoBite](https://devpost.com/software/ecobite-qcujae) · [code](https://github.com/SirKentut/EcoBite) · [demo](https://www.youtube.com/watch?v=g1RofQA9R_o) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad… · [details](../by-hackathon/treehacks-2025.md#project-ecobite-qcujae) | EcoBite is a mobile app meant for users to take pictures of their leftover food for the main purpose of… | flutterflow, flask, gemini |
-| [Sprout](https://devpost.com/software/sprout-io) · [code](https://github.com/sdoshi4/Sprout-Treehacks2025) · [demo](https://www.youtube.com/watch?v=GbGJ_mDDeCE) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad… · [details](../by-hackathon/treehacks-2025.md#project-sprout-io) | The adventure is filled with grade-level vocabulary to hit comprehension goals, with a quick comprehension… | flutterflow, dart, fastapi |
+Newest hackathons first.
+
+### [Caren AI](https://devpost.com/software/caren-ai)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-caren-ai) · **Best Use of FlutterFlow**
+
+Because everyone deserves someone who cares.
+
+**How it used FlutterFlow:** Designed a Scalable, Patient-Friendly Platform – Built using FlutterFlow, making it accessible to all users, regardless of tech expertise.
+
+[Code](https://github.com/Tap2Call/flutterflow) · [Demo video](https://www.youtube.com/watch?v=8ZOR9M53RlM) · Built with flutterflow, ai, ai-agents, dart
+
+### [EcoBite](https://devpost.com/software/ecobite-qcujae)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-ecobite-qcujae) · **Best Use of FlutterFlow**
+
+EcoBite is a mobile app meant for users to take pictures of their leftover food for the main purpose of estimating the food’s weight.
+
+**How it used FlutterFlow:** The team is most proud of the development of EcoBite using a tool none of the team had worked with previously: FlutterFlow.
+
+[Code](https://github.com/SirKentut/EcoBite) · [Demo video](https://www.youtube.com/watch?v=g1RofQA9R_o) · Built with flutterflow, flask, gemini, perplexity
+
+### [Sprout](https://devpost.com/software/sprout-io)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-sprout-io) · **Best Use of FlutterFlow**
+
+The adventure is filled with grade-level vocabulary to hit comprehension goals, with a quick comprehension check at the end.
+
+**How it used FlutterFlow:** Sprout.io was developed using Flutterflow, for a seamless user experience.
+
+[Code](https://github.com/sdoshi4/Sprout-Treehacks2025) · [Demo video](https://www.youtube.com/watch?v=GbGJ_mDDeCE) · Built with flutterflow, dart, fastapi, gemini
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Flutterflow: Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;) | FlutterFlow | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#flutterflow)

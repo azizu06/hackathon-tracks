@@ -1,34 +1,72 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / GrowthFactor
+
 # GrowthFactor
 
-**5 projects · 2 editions · 5 prize rows**
-
-[Winners index](../README.md)
+**5 winning projects** · 2 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=GrowthFactor)
 
 ## What winners have in common
 
-- **Most listed tech** python (5), css (2), html (2)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 4 of 5
+- **Most used tech:** python (5), css (2), html (2), javascript (2), react (2)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 4 of 5 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [CitySpot](https://devpost.com/software/cityspot) · [code](https://github.com/Kairavparikh/CitySpot) · [demo](https://www.youtube.com/watch?v=67cCz4yv9Kc) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) · GrowthFactor Challenge · [details](../by-hackathon/hacklytics-2026.md#project-cityspot) | CitySpot uses deep learning on satellite imagery to detect and map every parking lot in Atlanta — turning… | css, html, javascript |
-| [Polaris](https://devpost.com/software/parasite-2dri43) · [code](https://github.com/V-prajit/Polaris) · [demo](https://www.youtube.com/watch?v=zUk49IYrOuw) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) · GrowthFactor Challenge · [details](../by-hackathon/hacklytics-2026.md#project-parasite-2dri43) | North Star that guides retailers to their best location. | fastapi, python, react |
-| [StoreFront Visibility](https://devpost.com/software/storefront-visibility-unik9v) · [code](https://github.com/shreeya-garg/StoreFrontVisibility) · [demo](https://www.youtube.com/watch?v=gYSyRGZpOw4) | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) · GrowthFactor AI Impressions · [details](../by-hackathon/hacklytics-2025.md#project-storefront-visibility-unik9v) | Revolutionizing commercial advertising one image at a time. | python |
-| [StoreScope](https://devpost.com/software/storescope) · [code](https://github.com/poojasaji1/Hacklytics25) | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) · GrowthFactor AI Impressions · [details](../by-hackathon/hacklytics-2025.md#project-storescope) | It gathers geospatial data from Google’s Geocoding API and Google’s Road API, retrieves images via Google’s… | api, cloud, google |
-| [VisiFy](https://devpost.com/software/visify-mrjxfb) · [demo](https://www.youtube.com/watch?v=17Z1GmfzP0w) | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) · GrowthFactor AI Impressions · [details](../by-hackathon/hacklytics-2025.md#project-visify-mrjxfb) | VisiFy: Storefront Selection with AI-Powered Visibility &amp; Insights. | a-frame, css, flask |
+Newest hackathons first.
+
+### [CitySpot](https://devpost.com/software/cityspot)
+
+[Hacklytics 2026](../by-hackathon/hacklytics-2026.md#project-cityspot) · **GrowthFactor Challenge**
+
+CitySpot uses deep learning on satellite imagery to detect and map every parking lot in Atlanta — turning aerial pixels into real-time urban intelligence.
+
+[Code](https://github.com/Kairavparikh/CitySpot) · [Demo video](https://www.youtube.com/watch?v=67cCz4yv9Kc) · Built with css, html, javascript, python
+
+### [Polaris](https://devpost.com/software/parasite-2dri43)
+
+[Hacklytics 2026](../by-hackathon/hacklytics-2026.md#project-parasite-2dri43) · **GrowthFactor Challenge**
+
+North Star that guides retailers to their best location.
+
+[Code](https://github.com/V-prajit/Polaris) · [Demo video](https://www.youtube.com/watch?v=zUk49IYrOuw) · Built with fastapi, python, react, vultr
+
+### [StoreFront Visibility](https://devpost.com/software/storefront-visibility-unik9v)
+
+[Hacklytics 2025](../by-hackathon/hacklytics-2025.md#project-storefront-visibility-unik9v) · **GrowthFactor AI Impressions**
+
+Revolutionizing commercial advertising one image at a time.
+
+[Code](https://github.com/shreeya-garg/StoreFrontVisibility) · [Demo video](https://www.youtube.com/watch?v=gYSyRGZpOw4) · Built with python
+
+### [StoreScope](https://devpost.com/software/storescope)
+
+[Hacklytics 2025](../by-hackathon/hacklytics-2025.md#project-storescope) · **GrowthFactor AI Impressions**
+
+It gathers geospatial data from Google’s Geocoding API and Google’s Road API, retrieves images via Google’s Street View API, and uses Gemini’s Cloud Vision API to assess obstructions.
+
+[Code](https://github.com/poojasaji1/Hacklytics25) · Built with api, cloud, google, jupyter
+
+### [VisiFy](https://devpost.com/software/visify-mrjxfb)
+
+[Hacklytics 2025](../by-hackathon/hacklytics-2025.md#project-visify-mrjxfb) · **GrowthFactor AI Impressions**
+
+VisiFy: Storefront Selection with AI-Powered Visibility &amp; Insights.
+
+[Demo video](https://www.youtube.com/watch?v=17Z1GmfzP0w) · Built with a-frame, css, flask, html
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) | GrowthFactor Challenge | No specific requirement captured | [Event prize rules](https://hacklytics-2026.devpost.com/) |
 | [Hacklytics 2025](../by-hackathon/hacklytics-2025.md) | GrowthFactor AI Impressions | No specific requirement captured | [Event prize rules](https://hacklytics2025.devpost.com/) |
 
 </details>
+
+[Back to top](#growthfactor)

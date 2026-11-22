@@ -1,39 +1,130 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Photon
+
 # Photon
 
-**12 projects · 4 editions · 12 prize rows**
-
-[Winners index](../README.md)
+**12 winning projects** · 4 hackathons · 12 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Photon)
 
 ## What winners have in common
 
-- **Most listed tech** photon (10), typescript (10), react (7)
-- **Common project areas** Safety and emergency response (2), Accessibility and assistive tools (1), Education and learning (1)
-- **Common demo formats** Mobile app (3), Web app or dashboard (3), Voice or conversational interface (2)
-- **Projects with a listed demo video** 12 of 12
+- **Most used tech:** photon (10), typescript (10), react (7), elevenlabs (6), imessage (6)
+- **Project areas:** Safety and emergency response (2), Accessibility and assistive tools (1), Education and learning (1)
+- **Demo formats:** Mobile app (3), Web app or dashboard (3), Voice or conversational interface (2)
+- **Demo videos:** 12 of 12 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Andi](https://devpost.com/software/andi-j2lz9x) · [code](https://github.com/kushmirchandani/andi) · [demo](https://www.youtube.com/watch?v=N-oXvhoNrzw) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Build a Messaging Agent with Photon 2.0 · [details](../by-hackathon/hackharvard-2026.md#project-andi-j2lz9x) | Andi helps people quitting alcohol stay sober. It texts them in iMessage when they're near a bar or buying… | photon, anthropic, capital-one-nessie |
-| [Ember](https://devpost.com/software/ember-gka5ym) · [code](https://github.com/soham-k-sinha/Ember) · [demo](https://www.youtube.com/watch?v=YbEaTgA91rU) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Build a Messaging Agent with Photon 2.0 · [details](../by-hackathon/hackharvard-2026.md#project-ember-gka5ym) | Disaster plans go stale in minutes. EMBER turns texts and calls into a new personalized safety plan for a… | photon, anthropic, chalk |
-| [FirstLight](https://devpost.com/software/firstlight-r5nx7s) · [code](https://github.com/SunfishTK1/hackharvard-2026) · [demo](https://www.youtube.com/watch?v=BNi3T0CI5m4) | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) · Build a Messaging Agent with Photon 2.0 · [details](../by-hackathon/hackharvard-2026.md#project-firstlight-r5nx7s) | FirstLight recruits, consents and retains trial participants over iMessage, and Trial Ops gives the study… | photon, anthropic, caddy |
-| [LifeLine](https://devpost.com/software/lifeline-forswd) · [code](https://github.com/ben-du1/LifeLine) · [demo](https://www.youtube.com/watch?v=Sw2sJuAJ5v8) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Best Voice Agent · [details](../by-hackathon/hackprinceton-fall-2026.md#project-lifeline-forswd) | Turn an emergency call into an indoor rescue map. With CoStar’s 3D building data and Photon's voice agent,… | photon, cloudflare-tunnel, costar |
-| [Restock](https://devpost.com/software/restock-v3pkq8) · [code](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton) · [demo](https://www.youtube.com/watch?v=tsmOwUs_G00) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Build a Messaging Agent using Photon 2.0 · [details](../by-hackathon/hackprinceton-fall-2026.md#project-restock-v3pkq8) | A camera watches the ingredients, AI counts every item taken, and texts the owner to reorder before anything… | photon, arduino-uno-q, d1 |
-| [Syllabus Crew](https://devpost.com/software/syllabus-crew) · [code](https://github.com/zhoulinhua0-star/hackprinceton-2026) · [demo](https://www.youtube.com/watch?v=frTz_ULVTXY) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Build a Messaging Agent using Photon 2.0 · [details](../by-hackathon/hackprinceton-fall-2026.md#project-syllabus-crew) | Personal agent for college students that lives in iMessage - text it your syllabus and get ready for the… | photon, agentic-framework, amazon-bedrock |
-| [Beacon](https://devpost.com/software/beacon-n7hbs0) · [code](https://github.com/preethi-seereddy/Beacon) · [demo](https://www.youtube.com/watch?v=GxJQYUc_s_c) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Photon Track · [details](../by-hackathon/hackutd-2026.md#project-beacon-n7hbs0) | Light the Way! Beacon is an accessibility map with step-free routes for people with mobility disabilities,… | git, github, next.js |
-| [FirstRing](https://devpost.com/software/firstring) · [code](https://github.com/cxdima/hackutd26) · [demo](https://www.youtube.com/watch?v=pPmL-vXP1OQ) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Photon Track · [details](../by-hackathon/hackutd-2026.md#project-firstring) | A disclosed AI call screener for an older adult: Nemotron proposes, Rust decides, only her keypad can connect… | photon, amazon-web-services, angular.js |
-| [House Rules](https://devpost.com/software/house-rules-dfzg75) · [code](https://github.com/jspinerola/house-rules) · [demo](https://www.youtube.com/watch?v=Quiicn_2FOc) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Photon Track · [details](../by-hackathon/hackutd-2026.md#project-house-rules-dfzg75) | AI roommate that fairly manages shared finances in your group chat: splits bills by house rules, schedules… | photon, capital-one-nessie, cursor |
-| [Titan](https://devpost.com/software/titan-vx59lz) · [code](https://github.com/yuvanmuru-dev/hackutd-2026) · [demo](https://www.youtube.com/watch?v=12J6hj9kdWA) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Photon Track · [details](../by-hackathon/hackutd-2026.md#project-titan-vx59lz) | Your protections know it's you. Titan detects scammer-coached account changes, pauses risky actions, and… | photon, elevenlabs, fastapi |
-| [Concierge](https://devpost.com/software/concierge-o38bu5) · [code](https://github.com/sszz01/zero-knowledge-team) · [demo](https://www.youtube.com/watch?v=9dYmaWoG2a8) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Photon iMessage Agents Track Winner · [details](../by-hackathon/mhacks-2026.md#project-concierge-o38bu5) | Amex Concierge on steroids for small businesses: text a problem, AI agents and real people get it done. | photon, cursor, eleven-labs |
-| [Tab: Groupchat Accountant](https://devpost.com/software/tab-groupchat-finances) · [demo](https://www.youtube.com/watch?v=4GrYcrm64tg) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Photon iMessage Agents Track Winner · [details](../by-hackathon/mhacks-2026.md#project-tab-groupchat-finances) | Tab is a friend in your iMessage group chat who keeps track of shared expenses. Say "got pizza, $48" or snap… | capital-one-nessie-api, github, github-actions |
+Newest hackathons first.
+
+### [Andi](https://devpost.com/software/andi-j2lz9x)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-andi-j2lz9x) · **Build a Messaging Agent with Photon 2.0**
+
+Andi helps people quitting alcohol stay sober. It texts them in iMessage when they're near a bar or buying liquor, talks them through the urge, and calls their sponsor when they need them.
+
+[Code](https://github.com/kushmirchandani/andi) · [Demo video](https://www.youtube.com/watch?v=N-oXvhoNrzw) · Built with photon, anthropic, capital-one-nessie, chalk
+
+### [Beacon](https://devpost.com/software/beacon-n7hbs0)
+
+[HackUTD 2026](../by-hackathon/hackutd-2026.md#project-beacon-n7hbs0) · **Photon Track**
+
+Light the Way! Beacon is an accessibility map with step-free routes for people with mobility disabilities, with Beau, an AI agent you text on iMessage to find routes and reports obstacles efficently.
+
+**How it used Photon:** The AI companion runs on Photon 2.0’s Spectrum SDK, which puts Beacon into iMessage.
+
+[Code](https://github.com/preethi-seereddy/Beacon) · [Demo video](https://www.youtube.com/watch?v=GxJQYUc_s_c) · Built with git, github, next.js, openaiapi
+
+### [Concierge](https://devpost.com/software/concierge-o38bu5)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-concierge-o38bu5) · **Photon iMessage Agents Track Winner**
+
+Amex Concierge on steroids for small businesses: text a problem, AI agents and real people get it done.
+
+[Code](https://github.com/sszz01/zero-knowledge-team) · [Demo video](https://www.youtube.com/watch?v=9dYmaWoG2a8) · Built with photon, cursor, eleven-labs, openai
+
+### [Ember](https://devpost.com/software/ember-gka5ym)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-ember-gka5ym) · **Build a Messaging Agent with Photon 2.0**
+
+Disaster plans go stale in minutes. EMBER turns texts and calls into a new personalized safety plan for a whole flooded district in under a second.
+
+**How it used Photon:** Calls run through ElevenLabs on the Photon number, with the backend acting as the agent's language model.
+
+[Code](https://github.com/soham-k-sinha/Ember) · [Demo video](https://www.youtube.com/watch?v=YbEaTgA91rU) · Built with photon, anthropic, chalk, claude
+
+### [FirstLight](https://devpost.com/software/firstlight-r5nx7s)
+
+[HackHarvard 2026](../by-hackathon/hackharvard-2026.md#project-firstlight-r5nx7s) · **Build a Messaging Agent with Photon 2.0**
+
+FirstLight recruits, consents and retains trial participants over iMessage, and Trial Ops gives the study team one agent to act on what FirstLight finds, with the safety rules built into the database.
+
+[Code](https://github.com/SunfishTK1/hackharvard-2026) · [Demo video](https://www.youtube.com/watch?v=BNi3T0CI5m4) · Built with photon, anthropic, caddy, claude
+
+### [FirstRing](https://devpost.com/software/firstring)
+
+[HackUTD 2026](../by-hackathon/hackutd-2026.md#project-firstring) · **Photon Track**
+
+A disclosed AI call screener for an older adult: Nemotron proposes, Rust decides, only her keypad can connect a call, and the offer is revoked the instant a caller pivots to a scam.
+
+[Code](https://github.com/cxdima/hackutd26) · [Demo video](https://www.youtube.com/watch?v=pPmL-vXP1OQ) · Built with photon, amazon-web-services, angular.js, axum
+
+### [House Rules](https://devpost.com/software/house-rules-dfzg75)
+
+[HackUTD 2026](../by-hackathon/hackutd-2026.md#project-house-rules-dfzg75) · **Photon Track**
+
+AI roommate that fairly manages shared finances in your group chat: splits bills by house rules, schedules payments around payday, and transfers funds after everyone agrees—without revealing balances.
+
+[Code](https://github.com/jspinerola/house-rules) · [Demo video](https://www.youtube.com/watch?v=Quiicn_2FOc) · Built with photon, capital-one-nessie, cursor, fastapi
+
+### [LifeLine](https://devpost.com/software/lifeline-forswd)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-lifeline-forswd) · **Best Voice Agent**
+
+Turn an emergency call into an indoor rescue map. With CoStar’s 3D building data and Photon's voice agent, LifeLine guides first responders to the caller, down to the room.
+
+[Code](https://github.com/ben-du1/LifeLine) · [Demo video](https://www.youtube.com/watch?v=Sw2sJuAJ5v8) · Built with photon, cloudflare-tunnel, costar, elevenlabs
+
+### [Restock](https://devpost.com/software/restock-v3pkq8)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-restock-v3pkq8) · **Build a Messaging Agent using Photon 2.0**
+
+A camera watches the ingredients, AI counts every item taken, and texts the owner to reorder before anything runs out. Tested live at Casa Piada in Greenwich.
+
+[Code](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton) · [Demo video](https://www.youtube.com/watch?v=tsmOwUs_G00) · Built with photon, arduino-uno-q, d1, deepagents
+
+### [Syllabus Crew](https://devpost.com/software/syllabus-crew)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-syllabus-crew) · **Build a Messaging Agent using Photon 2.0**
+
+Personal agent for college students that lives in iMessage - text it your syllabus and get ready for the semester.
+
+[Code](https://github.com/zhoulinhua0-star/hackprinceton-2026) · [Demo video](https://www.youtube.com/watch?v=frTz_ULVTXY) · Built with photon, agentic-framework, amazon-bedrock, amazon-dynamodb
+
+### [Tab: Groupchat Accountant](https://devpost.com/software/tab-groupchat-finances)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-tab-groupchat-finances) · **Photon iMessage Agents Track Winner**
+
+Tab is a friend in your iMessage group chat who keeps track of shared expenses. Say "got pizza, $48" or snap a receipt; Tab splits it, nudges people, and settles up with one 👍.
+
+[Demo video](https://www.youtube.com/watch?v=4GrYcrm64tg) · Built with capital-one-nessie-api, github, github-actions, grok-(xai-api)
+
+### [Titan](https://devpost.com/software/titan-vx59lz)
+
+[HackUTD 2026](../by-hackathon/hackutd-2026.md#project-titan-vx59lz) · **Photon Track**
+
+Your protections know it's you. Titan detects scammer-coached account changes, pauses risky actions, and guides recovery through iMessage and voice.
+
+**How it used Photon:** The voice integration connects a Photon line through LiveKit SIP to a Pipecat conversation.
+
+[Code](https://github.com/yuvanmuru-dev/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=12J6hj9kdWA) · Built with photon, elevenlabs, fastapi, livekit
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackHarvard 2026](../by-hackathon/hackharvard-2026.md) | Build a Messaging Agent with Photon 2.0 | Build an agent that lives where people already talk. | [Devpost prize description](https://hackharvard2026.devpost.com/) |
 | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) | &#91;Photon&#93; Best Voice Agent | No specific requirement captured | [Event prize rules](https://hackprinceton-fall-26.devpost.com/) |
@@ -42,3 +133,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Photon iMessage Agents Track Winner | No specific requirement captured | [Event prize rules](https://mhacks-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#photon)

@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Cua
+
 # Cua
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Cua)
 
 ## What winners have in common
 
-- **Most listed tech** cua (1), hud (1), ollama (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 0 of 1
+- **Most used tech:** cua (1), hud (1), ollama (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 0 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [SOTA Computer use agent challenge](https://devpost.com/software/sota-computer-use-agent-challenge) · [code](https://github.com/Ram-Raghav-S/cua) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Best State-of-the-Art Computer-Use Agent · [details](../by-hackathon/hack-the-north-2025.md#project-sota-computer-use-agent-challenge) | Competing to build a SOTA computer use agent (Cua + Hud + Ollama). | cua, hud, ollama |
+Newest hackathons first.
+
+### [SOTA Computer use agent challenge](https://devpost.com/software/sota-computer-use-agent-challenge)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-sota-computer-use-agent-challenge) · **Best State-of-the-Art Computer-Use Agent**
+
+Competing to build a SOTA computer use agent (Cua + Hud + Ollama).
+
+[Code](https://github.com/Ram-Raghav-S/cua) · Built with cua, hud, ollama
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | Cua: Best State-of-the-Art Computer-Use Agent | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
 
 </details>
+
+[Back to top](#cua)

@@ -1,31 +1,48 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / PrizePicks
+
 # PrizePicks
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=PrizePicks)
 
 ## What winners have in common
 
-- **Most listed tech** expo.io (1), express.js (1), firebase (1)
-- **Common project areas** Games and entertainment (1)
-- **Common demo formats** Game (1), Mobile app (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** expo.io (1), express.js (1), firebase (1), firestore (1), node.js (1)
+- **Project areas:** Games and entertainment (1)
+- **Demo formats:** Mobile app (1), Playable game (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Sideline](https://devpost.com/software/sideline) · [demo](https://www.youtube.com/watch?v=j0IYCO_qgY8) | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) · The Second Screen Experience · [details](../by-hackathon/hackgt-12-2025.md#project-sideline) | Sideline turns watching into experiencing. With real-time updates, interactive challenges, and friendly… | expo.io, express.js, firebase |
-| [The Kick is Good](https://devpost.com/software/the-kick-is-good) · [code](https://github.com/ColinVu/FGtracking) · [demo](https://www.youtube.com/watch?v=Ugg36PxM_qI) | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) · Signal from the Noise · [details](../by-hackathon/hackgt-12-2025.md#project-the-kick-is-good) | The team built a semi-automatic football tracking system that determines how far a field goal was kicked from… | opencv, python, react |
+Newest hackathons first.
+
+### [Sideline](https://devpost.com/software/sideline)
+
+[HackGT 12 2025](../by-hackathon/hackgt-12-2025.md#project-sideline) · **The Second Screen Experience**
+
+Sideline turns watching into experiencing. With real-time updates, interactive challenges, and friendly rivalries that make every play matter, you’re not just watching the game… you’re part of it.
+
+[Demo video](https://www.youtube.com/watch?v=j0IYCO_qgY8) · Built with expo.io, express.js, firebase, firestore
+
+### [The Kick is Good](https://devpost.com/software/the-kick-is-good)
+
+[HackGT 12 2025](../by-hackathon/hackgt-12-2025.md#project-the-kick-is-good) · **Signal from the Noise**
+
+The team built a semi-automatic football tracking system that determines how far a field goal was kicked from by analyzing video footage.
+
+[Code](https://github.com/ColinVu/FGtracking) · [Demo video](https://www.youtube.com/watch?v=Ugg36PxM_qI) · Built with opencv, python, react
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) | PrizePicks - Signal from the Noise | No specific requirement captured | [Event prize rules](https://hackgt-12.devpost.com/) |
 | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) | PrizePicks - The Second Screen Experience | No specific requirement captured | [Event prize rules](https://hackgt-12.devpost.com/) |
 
 </details>
+
+[Back to top](#prizepicks)

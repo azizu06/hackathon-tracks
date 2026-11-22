@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Square
+
 # Square
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Square)
 
 ## What winners have in common
 
-- **Most listed tech** alchemyapi (1), facebook (1), firebase (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 0 of 1
+- **Most used tech:** alchemyapi (1), facebook (1), firebase (1), fleksy (1), venmo (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 0 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Sharity](https://devpost.com/software/sharity) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) · Square Inc. - Making Commerce Easy and Rounding the Corners · [details](../by-hackathon/hackmit-2013.md#project-sharity) | Sharity is a micro-donation platform where users share why they donate. | alchemyapi, facebook, firebase |
+Newest hackathons first.
+
+### [Sharity](https://devpost.com/software/sharity)
+
+[HackMIT 2013](../by-hackathon/hackmit-2013.md#project-sharity) · **Square Inc. - Making Commerce Easy and Rounding the Corners**
+
+Sharity is a micro-donation platform where users share why they donate.
+
+Built with alchemyapi, facebook, firebase, fleksy
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Square Inc. - Making Commerce Easy and Rounding the Corners | No specific requirement captured | [Event prize rules](https://hackmit.devpost.com/) |
 
 </details>
+
+[Back to top](#square)

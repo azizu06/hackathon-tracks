@@ -1,40 +1,144 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Amazon Web Services
+
 # Amazon Web Services
 
-**13 projects · 6 editions · 13 prize rows**
-
-[Winners index](../README.md)
+**13 winning projects** · 6 hackathons · 13 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Amazon%20Web%20Services)
 
 ## What winners have in common
 
-- **Most listed tech** python (10), amazon-web-services (7), javascript (6)
-- **Common project areas** Education and learning (2), Accessibility and assistive tools (1), Finance and commerce (1)
-- **Common demo formats** Web app or dashboard (5), Hardware or robotics (3), Voice or conversational interface (3)
-- **Projects with a listed demo video** 9 of 13
+- **Most used tech:** python (10), amazon-web-services (7), javascript (6), react (6), gemini (4)
+- **Project areas:** Education and learning (2), Accessibility and assistive tools (1), Finance and commerce (1)
+- **Demo formats:** Web app or dashboard (5), Hardware or robotics (3), Voice or conversational interface (3)
+- **Demo videos:** 9 of 13 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [SafePulse](https://devpost.com/software/safepulse-4vsq2l) · [code](https://github.com/danielzhu04/SafePulse) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Best Use of AWS · [details](../by-hackathon/hack-brown-2026.md#project-safepulse-4vsq2l) | Walking alone at night on campus? SafePulse is here to walk you home safe. | amazon-web-services, expo.io, go |
-| [A hand for my aunt](https://devpost.com/software/a-hand-for-my-aunt) · [code](https://github.com/aditya-baniya-ai/hack_princeton) · [demo](https://www.youtube.com/watch?v=nPXe5ZIrOiY) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · &#91;Amazon&#93; Best Practical AI Innovation · [details](../by-hackathon/hackprinceton-fall-2026.md#project-a-hand-for-my-aunt) | Ahandformyaunt is a robot arm you control with your eyes and your voice:. | amazon-bedrock, amazon-nova-2-lite, amazon-nova-2-sonic |
-| [Lucid](https://devpost.com/software/lucid-k078qt) · [code](https://github.com/at350/hackprinceton-fall-2026) · [demo](https://www.youtube.com/watch?v=IY0Rr7l58Eg) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · &#91;Amazon&#93; Best Practical AI Innovation · [details](../by-hackathon/hackprinceton-fall-2026.md#project-lucid-k078qt) | Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a… | anthropic, arduino, claude |
-| [Meridies](https://devpost.com/software/meridies) · [code](https://github.com/Aliceeia/Meridies) · [demo](https://www.youtube.com/watch?v=eoBT5CGjsPA) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · &#91;Amazon&#93; Best Practical AI Innovation · [details](../by-hackathon/hackprinceton-fall-2026.md#project-meridies) | A wearable combines spoken assistance with spatial audio to help people with vision loss navigate. | api, costar, css |
-| [Vantage](https://devpost.com/software/vantage-w0poi6) · [code](https://github.com/riavadhavkar/vantage) · [demo](https://www.youtube.com/watch?v=Atkd0YpaIMc) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · &#91;Amazon&#93; Best Practical AI Innovation · [details](../by-hackathon/hackprinceton-fall-2026.md#project-vantage-w0poi6) | Step inside the past, see it through every view, with every line sourced and true. | chromadb, cloudflare, deepagents |
-| [Budgie On A Budget](https://devpost.com/software/budgie-on-a-budget) · [code](https://github.com/veronica-lab/shellhacks2026-Budgie-on-a-Budget) · [demo](https://www.youtube.com/watch?v=rStyASEtwMQ) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · &#91;AWS&#93; Best Use of AWS · [details](../by-hackathon/shellhacks-2026.md#project-budgie-on-a-budget) | Budgie on a Budget helps you find a home that fits both your budget and your lifestyle. | apis, claude, code/zip |
-| [transPEAKtation](https://devpost.com/software/transpeaktation) · [code](https://github.com/No-Way-Mo/transpeaktation) · [demo](https://www.youtube.com/watch?v=maBHLULKMVc) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · &#91;AWS&#93; Best Use of AWS · [details](../by-hackathon/shellhacks-2026.md#project-transpeaktation) | By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming. | claude, digitalocean, elevenlabs |
-| [Signify](https://devpost.com/software/signify-kgqybi) · [demo](https://www.youtube.com/watch?v=b_AvCD3fC-I) | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) · Best Use of AWS · [details](../by-hackathon/hack-brown-2025.md#project-signify-kgqybi) | Signify brings AI into the web accessibility space. | amazon-bedrock, dynamodb, lambda |
-| [Fragments](https://devpost.com/software/fragments-gmleoj) · [demo](https://www.youtube.com/watch?v=rs7uaWL67tQ) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · [details](../by-hackathon/hack-the-north-2025.md#project-fragments-gmleoj) | Clip, save, and organize the exact moments that spark your ideas. | amazon-web-services, cohere, css |
-| [Sematic](https://devpost.com/software/diaframe) · [code](https://github.com/koralkulacoglu/sematic) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · [details](../by-hackathon/hack-the-north-2025.md#project-diaframe) | AI Powered Voice-Based Systems Design Tool. | amazon-dynamodb, amazon-web-services, amplify |
-| [TradeOff](https://devpost.com/software/tradeoff-c24mwv) · [code](https://github.com/redmac135/TradeOff) · [demo](https://www.youtube.com/watch?v=KtQ0IwOUMy4) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · [details](../by-hackathon/hack-the-north-2025.md#project-tradeoff-c24mwv) | Stock market simulation game where students race to beat the market. | dynamodb, api, cerebras |
-| [JustinCase](https://devpost.com/software/justincase-j16yxu) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Use of AWS AI / ML Services · [details](../by-hackathon/hackmit-2019.md#project-justincase-j16yxu) | Building community among pro bono lawyers through an easy to use conversational legal assistant. | amazon-lex, amazon-web-services, case.law |
-| [Text2Test](https://devpost.com/software/text2test) · [code](https://github.com/juliustao/text2test-aws) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Use of AWS AI / ML Services · [details](../by-hackathon/hackmit-2019.md#project-text2test) | A website that creates customized tests based on students' notes. | lambda, adobe-creative-suite, amazon-web-services |
+Newest hackathons first.
+
+### [A hand for my aunt](https://devpost.com/software/a-hand-for-my-aunt)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-a-hand-for-my-aunt) · **Best Practical AI Innovation**
+
+Ahandformyaunt is a robot arm you control with your eyes and your voice:.
+
+[Code](https://github.com/aditya-baniya-ai/hack_princeton) · [Demo video](https://www.youtube.com/watch?v=nPXe5ZIrOiY) · Built with amazon-bedrock, amazon-nova-2-lite, amazon-nova-2-sonic, amazon-web-services
+
+### [Budgie On A Budget](https://devpost.com/software/budgie-on-a-budget)
+
+[ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-budgie-on-a-budget) · **Best Use of AWS**
+
+Budgie on a Budget helps you find a home that fits both your budget and your lifestyle.
+
+[Code](https://github.com/veronica-lab/shellhacks2026-Budgie-on-a-Budget) · [Demo video](https://www.youtube.com/watch?v=rStyASEtwMQ) · Built with apis, claude, code/zip, elevenlabs
+
+### [Lucid](https://devpost.com/software/lucid-k078qt)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-lucid-k078qt) · **Best Practical AI Innovation**
+
+Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a live map of where a bleed is likely.
+
+[Code](https://github.com/at350/hackprinceton-fall-2026) · [Demo video](https://www.youtube.com/watch?v=IY0Rr7l58Eg) · Built with anthropic, arduino, claude, deepagents
+
+### [Meridies](https://devpost.com/software/meridies)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-meridies) · **Best Practical AI Innovation**
+
+A wearable combines spoken assistance with spatial audio to help people with vision loss navigate.
+
+[Code](https://github.com/Aliceeia/Meridies) · [Demo video](https://www.youtube.com/watch?v=eoBT5CGjsPA) · Built with api, costar, css, gemini
+
+### [SafePulse](https://devpost.com/software/safepulse-4vsq2l)
+
+[Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-safepulse-4vsq2l) · **Best Use of AWS**
+
+Walking alone at night on campus? SafePulse is here to walk you home safe.
+
+[Code](https://github.com/danielzhu04/SafePulse) · Built with amazon-web-services, expo.io, go, react-native
+
+### [transPEAKtation](https://devpost.com/software/transpeaktation)
+
+[ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-transpeaktation) · **Best Use of AWS**
+
+By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
+
+**How it used Amazon Web Services:** The team used AWS services to generate data and train all of the model before deploying them onto DigitalOcean.
+
+[Code](https://github.com/No-Way-Mo/transpeaktation) · [Demo video](https://www.youtube.com/watch?v=maBHLULKMVc) · Built with claude, digitalocean, elevenlabs, fastapi
+
+### [Vantage](https://devpost.com/software/vantage-w0poi6)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-vantage-w0poi6) · **Best Practical AI Innovation**
+
+Step inside the past, see it through every view, with every line sourced and true.
+
+[Code](https://github.com/riavadhavkar/vantage) · [Demo video](https://www.youtube.com/watch?v=Atkd0YpaIMc) · Built with chromadb, cloudflare, deepagents, elevenlabs
+
+### [Fragments](https://devpost.com/software/fragments-gmleoj)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-fragments-gmleoj) · **Amazon: AWS Campus Champions - Best Use of DynamoDB Streams**
+
+Clip, save, and organize the exact moments that spark your ideas.
+
+**How it used Amazon Web Services:** Format Optimization : The original WebM video files are converted using FFmpeg to GIFs &amp; MP4s, stored in S3, and then stored with the video metadata in DynamoDB.
+
+[Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
+
+### [Sematic](https://devpost.com/software/diaframe)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-diaframe) · **Amazon: AWS Campus Champions - Best Use of DynamoDB Streams**
+
+AI Powered Voice-Based Systems Design Tool.
+
+**How it used Amazon Web Services:** The team built Sematic on AWS Amplify Gen 2, with AWS Lambda functions orchestrating calls to Google's Gemini 2.0 Flash API.
+
+[Code](https://github.com/koralkulacoglu/sematic) · Built with amazon-dynamodb, amazon-web-services, amplify, auth0
+
+### [Signify](https://devpost.com/software/signify-kgqybi)
+
+[Hack@Brown 2025](../by-hackathon/hack-brown-2025.md#project-signify-kgqybi) · **Best Use of AWS**
+
+Signify brings AI into the web accessibility space.
+
+**How it used Amazon Web Services:** Text-to-ASL conversion using AWS Bedrock Speech-to-Text using Amazon Transcribe Real-time processing via Lambda functions.
+
+[Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, dynamodb, lambda, amazon-ec2
+
+### [TradeOff](https://devpost.com/software/tradeoff-c24mwv)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-tradeoff-c24mwv) · **Amazon: AWS Campus Champions - Best Use of DynamoDB Streams**
+
+Stock market simulation game where students race to beat the market.
+
+[Code](https://github.com/redmac135/TradeOff) · [Demo video](https://www.youtube.com/watch?v=KtQ0IwOUMy4) · Built with dynamodb, api, cerebras, english
+
+### [JustinCase](https://devpost.com/software/justincase-j16yxu)
+
+[HackMIT 2019](../by-hackathon/hackmit-2019.md#project-justincase-j16yxu) · **Best Use of AWS AI / ML Services**
+
+Building community among pro bono lawyers through an easy to use conversational legal assistant.
+
+**How it used Amazon Web Services:** It is a web platform with a built in AWS chatbot that utilizes numerous legal APIs to effectively search previous cases based on a number of descriptors.
+
+Built with amazon-lex, amazon-web-services, case.law, google-cloud
+
+### [Text2Test](https://devpost.com/software/text2test)
+
+[HackMIT 2019](../by-hackathon/hackmit-2019.md#project-text2test) · **Best Use of AWS AI / ML Services**
+
+A website that creates customized tests based on students' notes.
+
+**How it used Amazon Web Services:** The team used AWS APIs, specifically Lambda, Comprehend, Gateway.
+
+[Code](https://github.com/juliustao/text2test-aws) · Built with lambda, adobe-creative-suite, amazon-web-services, comprehend
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) | Best Use of AWS | AWS | [Track label](https://hack-brown-2026.devpost.com/) |
 | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) | &#91;Amazon&#93; Best Practical AI Innovation | No specific requirement captured | [Event prize rules](https://hackprinceton-fall-26.devpost.com/) |
@@ -44,3 +148,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Best Use of AWS AI / ML Services | AWS AI / ML Services | [Track label](https://hackmit-2019.devpost.com/) |
 
 </details>
+
+[Back to top](#amazon-web-services)

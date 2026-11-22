@@ -1,33 +1,68 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Neon
+
 # Neon
 
-**4 projects · 2 editions · 4 prize rows**
-
-[Winners index](../README.md)
+**4 winning projects** · 2 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Neon)
 
 ## What winners have in common
 
-- **Most listed tech** neon (3), python (3), asi:one (2)
-- **Common project areas** Security and privacy (1)
-- **Common demo formats** AR, VR or spatial (1), Hardware or robotics (1), Mobile app (1)
-- **Projects with a listed demo video** 4 of 4
+- **Most used tech:** neon (3), python (3), asi:one (2), elevenlabs (2), fastapi (2)
+- **Project areas:** Security and privacy (1)
+- **Demo formats:** AR, VR or spatial (1), Hardware or robotics (1), Mobile app (1)
+- **Demo videos:** 4 of 4 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [GEarth](https://devpost.com/software/diarockets) · [code](https://github.com/liangricky7/GEarth) · [demo](https://www.youtube.com/watch?v=7h_nXEkdgIM) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Neon · [details](../by-hackathon/knight-hacks-ix-2026.md#project-diarockets) | GEarth simulates how citizens, institutions, and governments interact across a fictional world that viewers… | c#, c++, distributed-computation |
-| [ARGUS](https://devpost.com/software/argus-ulf1yd) · [demo](https://www.youtube.com/watch?v=P7_du8KrKDo) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best Use of Neon Backend · [details](../by-hackathon/mhacks-2026.md#project-argus-ulf1yd) | Elevated and autonomous security for the vibe coded world. Argus deploys five specialized agents to attack… | neon, asi:one, browserbase |
-| [Iris](https://devpost.com/software/iris-o0d6uh) · [code](https://github.com/MxvsAtv321/iris) · [demo](https://www.youtube.com/watch?v=Kj8Vx696fQY) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best Use of Neon Backend · [details](../by-hackathon/mhacks-2026.md#project-iris-o0d6uh) | Smart glasses for the glasses you already own. | neon, agentverse, anthropic |
-| [Shotgun](https://devpost.com/software/shotgun-7iv6qb) · [code](https://github.com/25danielc/shotgun) · [demo](https://www.youtube.com/watch?v=P9eiu86cmdE) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best Use of Neon Backend · [details](../by-hackathon/mhacks-2026.md#project-shotgun-7iv6qb) | Commute used to be dead time. Shotgun turns your car into an AI agent that rides... shotgun. | neon, anthropic-api, carplay |
+Newest hackathons first.
+
+### [ARGUS](https://devpost.com/software/argus-ulf1yd)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-argus-ulf1yd) · **Best Use of Neon Backend**
+
+Elevated and autonomous security for the vibe coded world. Argus deploys five specialized agents to attack your app in a sandbox, prove vulnerabilities, generate fixes, and verify the patch works.
+
+[Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
+
+### [GEarth](https://devpost.com/software/diarockets)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-diarockets) · **Best Use of Neon**
+
+GEarth simulates how citizens, institutions, and governments interact across a fictional world that viewers can explore from a browser dashboard.
+
+**How it used Neon:** Neon PostgreSQL stores checkpoints and event history so viewers can revisit recorded worlds.
+
+[Code](https://github.com/liangricky7/GEarth) · [Demo video](https://www.youtube.com/watch?v=7h_nXEkdgIM) · Built with c#, c++, distributed-computation, python
+
+### [Iris](https://devpost.com/software/iris-o0d6uh)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-iris-o0d6uh) · **Best Use of Neon Backend**
+
+Smart glasses for the glasses you already own.
+
+**How it used Neon:** Memory runs as a Neon Function right next to a Postgres database.
+
+[Code](https://github.com/MxvsAtv321/iris) · [Demo video](https://www.youtube.com/watch?v=Kj8Vx696fQY) · Built with neon, agentverse, anthropic, arduino
+
+### [Shotgun](https://devpost.com/software/shotgun-7iv6qb)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-shotgun-7iv6qb) · **Best Use of Neon Backend**
+
+Commute used to be dead time. Shotgun turns your car into an AI agent that rides... shotgun.
+
+[Code](https://github.com/25danielc/shotgun) · [Demo video](https://www.youtube.com/watch?v=P9eiu86cmdE) · Built with neon, anthropic-api, carplay, claude
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Neon: Best Use of Neon | Neon | [Track label](https://knight-hacks-ix.devpost.com/) |
 | [MHacks 2026](../by-hackathon/mhacks-2026.md) | Best Use of Neon Backend | Neon Backend | [Track label](https://mhacks-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#neon)

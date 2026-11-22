@@ -1,34 +1,69 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Perplexity
+
 # Perplexity
 
-**4 projects · 2 editions · 4 prize rows**
-
-[Winners index](../README.md)
+**4 winning projects** · 2 hackathons · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Perplexity)
 
 ## What winners have in common
 
-- **Most listed tech** anthropic-claude-api (2), css (2), html (2)
-- **Common project areas** None listed
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 4 of 4
+- **Most used tech:** anthropic-claude-api (2), css (2), html (2), node.js (2), perplexity-sonar-api (2)
+- **Project areas:** None listed
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 4 of 4 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Synapse](https://devpost.com/software/a-p1lt2h) · [code](https://github.com/yravipati/TreeHacks-2026) · [demo](https://www.youtube.com/watch?v=8encAO9qYUY) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best Use of Perplexity's Sonar API ($500 per team member and trip to Perplexity office) · [details](../by-hackathon/treehacks-2026.md#project-a-p1lt2h) | Claim-level truth forensics–trace any idea back to its origin and know what's actually true. Powered by… | perplexity-sonar-api, anthropic-claude-api, css |
-| [Tonguekeeper](https://devpost.com/software/tonguekeeper) · [code](https://github.com/lourdrickvalsote/tonguekeeper) · [demo](https://www.youtube.com/watch?v=nCSd-ZjfpkI) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best Use of Perplexity's Sonar API ($500 per team member and trip to Perplexity office) · [details](../by-hackathon/treehacks-2026.md#project-tonguekeeper) | Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-reference… | perplexity-sonar-api, anthropic-claude-api, brightdata-mcp |
-| [FlowPilot: Your Agentic Co-Pilot](https://devpost.com/software/flowpilot-zoom-agent-that-automates-your-workflows) · [code](https://github.com/CarterCote/flow-pilot) · [demo](https://www.youtube.com/watch?v=d9pkeKJIGRg) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Hacking With Perplexity Award ($50 Gift Card per team member) · [details](../by-hackathon/treehacks-2025.md#project-flowpilot-zoom-agent-that-automates-your-workflows) | FlowPilot listens, understands, and executes, transforming Zoom meetings into Slide decks and Notion… | dain, docker, express.js |
-| [Verify](https://devpost.com/software/factchex) · [code](https://github.com/jcub-gold/TreeHacks_25_Project) · [demo](https://www.youtube.com/watch?v=kRgA_4Bvj5o) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Search Hack ($250 Gift Card per team member + HQ visit) · [details](../by-hackathon/treehacks-2025.md#project-factchex) | Although intended primarily for political awareness, the tool can be used to assess the accuracy of any… | perplexity, css, html |
+Newest hackathons first.
+
+### [Synapse](https://devpost.com/software/a-p1lt2h)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-a-p1lt2h) · **Best Use of Perplexity's Sonar API**
+
+Claim-level truth forensics–trace any idea back to its origin and know what's actually true. Powered by Perplexity Sonar, Claude Sonnet, and Semantic Scholar, orchestrated for multi-step verification.
+
+**How it used Perplexity:** The team run an iterative reasoning loop pairing Perplexity's search capabilities with Claude's extended thinking for deep analytical reasoning.
+
+[Code](https://github.com/yravipati/TreeHacks-2026) · [Demo video](https://www.youtube.com/watch?v=8encAO9qYUY) · Built with perplexity-sonar-api, anthropic-claude-api, css, deepgram-api
+
+### [Tonguekeeper](https://devpost.com/software/tonguekeeper)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-tonguekeeper) · **Best Use of Perplexity's Sonar API**
+
+Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-reference vocabulary and grammar from scattered sources, forging them into a living language atlas.
+
+[Code](https://github.com/lourdrickvalsote/tonguekeeper) · [Demo video](https://www.youtube.com/watch?v=nCSd-ZjfpkI) · Built with perplexity-sonar-api, anthropic-claude-api, brightdata-mcp, browserbase/stagehand
+
+### [FlowPilot: Your Agentic Co-Pilot](https://devpost.com/software/flowpilot-zoom-agent-that-automates-your-workflows)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-flowpilot-zoom-agent-that-automates-your-workflows) · **Hacking With Perplexity Award**
+
+FlowPilot listens, understands, and executes, transforming Zoom meetings into Slide decks and Notion workflows. No more lost action items - just approve and watch it execute.
+
+[Code](https://github.com/CarterCote/flow-pilot) · [Demo video](https://www.youtube.com/watch?v=d9pkeKJIGRg) · Built with dain, docker, express.js, node.js
+
+### [Verify](https://devpost.com/software/factchex)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-factchex) · **Best Search Hack**
+
+Although intended primarily for political awareness, the tool can be used to assess the accuracy of any tweet, from debunking false sports trades to fact-checking history fun facts.
+
+**How it used Perplexity:** The team built Verify by building a Chrome-integrated UI with HTML and CSS, and a JavaScript backend that connected to Perplexity's API for accurate searching and tweet language processing.
+
+[Code](https://github.com/jcub-gold/TreeHacks_25_Project) · [Demo video](https://www.youtube.com/watch?v=kRgA_4Bvj5o) · Built with perplexity, css, html, javascript
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Perplexity&#93; Best Use of Perplexity's Sonar API ($500 per team member and trip to Perplexity office) | Perplexity's Sonar API | [Track label](https://treehacks-2026.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Perplexity: Best Search Hack ($250 Gift Card per team member + HQ visit) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Perplexity: Hacking With Perplexity Award ($50 Gift Card per team member) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#perplexity)

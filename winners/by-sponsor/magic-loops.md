@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Magic Loops
+
 # Magic Loops
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Magic%20Loops)
 
 ## What winners have in common
 
-- **Most listed tech** breadboard (1), flask (1), itdc (1)
-- **Common project areas** None listed
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** breadboard (1), flask (1), itdc (1), mongodb (1), next.js (1)
+- **Project areas:** None listed
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Cascade](https://devpost.com/software/cascade-xrfscu) · [code](https://github.com/albonwu/cascade) · [demo](https://www.youtube.com/watch?v=BapICN7GPYI) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · Best use of Generative UI · [details](../by-hackathon/mhacks-2024.md#project-cascade-xrfscu) | Cascade provides a sleek, efficient interface for practicing CSS. | breadboard, flask, itdc |
+Newest hackathons first.
+
+### [Cascade](https://devpost.com/software/cascade-xrfscu)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-cascade-xrfscu) · **Best use of Generative UI**
+
+Cascade provides a sleek, efficient interface for practicing CSS.
+
+[Code](https://github.com/albonwu/cascade) · [Demo video](https://www.youtube.com/watch?v=BapICN7GPYI) · Built with breadboard, flask, itdc, mongodb
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | Magic Loops - Best use of Generative UI | Generative UI | [Track label](https://mhacks-2024.devpost.com/) |
 
 </details>
+
+[Back to top](#magic-loops)

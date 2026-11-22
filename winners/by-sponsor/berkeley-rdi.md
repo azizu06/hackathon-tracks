@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Berkeley RDI
+
 # Berkeley RDI
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Berkeley%20RDI)
 
 ## What winners have in common
 
-- **Most listed tech** blockchain (1), move (1), node.js (1)
-- **Common project areas** Finance and commerce (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** blockchain (1), move (1), node.js (1), react.js (1), spotify (1)
+- **Project areas:** Finance and commerce (1)
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Blockify](https://devpost.com/software/blockify-x2owt7) · [code](https://github.com/ChiragSeth14/Blockify) · [demo](https://www.youtube.com/watch?v=bKVkiuuv-uM) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-blockify-x2owt7) | Empowering Artists with Blockchain: Seamless Royalty Payments and Ownership Control Through Spotify… | blockchain, move, node.js |
+Newest hackathons first.
+
+### [Blockify](https://devpost.com/software/blockify-x2owt7)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-blockify-x2owt7) · **Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize**
+
+Empowering Artists with Blockchain: Seamless Royalty Payments and Ownership Control Through Spotify Integration.
+
+[Code](https://github.com/ChiragSeth14/Blockify) · [Demo video](https://www.youtube.com/watch?v=bKVkiuuv-uM) · Built with blockchain, move, node.js, react.js
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | Cal Hacks / Berkeley RDI: Berkeley RDI Web3 Prize | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 
 </details>
+
+[Back to top](#berkeley-rdi)

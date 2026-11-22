@@ -1,31 +1,57 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Hugging Face
+
 # Hugging Face
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Hugging%20Face)
 
 ## What winners have in common
 
-- **Most listed tech** python (3), arduino (2), arkit (2)
-- **Common project areas** Accessibility and assistive tools (1)
-- **Common demo formats** Hardware or robotics (3), AR, VR or spatial (2), Mobile app (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** python (3), arduino (2), arkit (2), swift (2), three.js (2)
+- **Project areas:** Accessibility and assistive tools (1)
+- **Demo formats:** Hardware or robotics (3), AR, VR or spatial (2), Mobile app (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Farsight](https://devpost.com/software/farsight-t4qyli) · [code](https://github.com/azizu06/farsight) · [demo](https://www.youtube.com/watch?v=AmrOGcTBTKU) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Open Source AI · [details](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | Farsight lets a rescuer drive a rover remotely, inspect its live camera, and revisit a scan of the room in VR. | hugging-face, qwen, arduino |
-| [Here](https://devpost.com/software/here-vqlrhg) · [code](https://github.com/Korirussell/Here) · [demo](https://www.youtube.com/watch?v=2gRH8oV8e80) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Open Source AI · [details](../by-hackathon/knight-hacks-ix-2026.md#project-here-vqlrhg) | A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from. | huggingface, arkit, jev |
-| [Permanence](https://devpost.com/software/permanence) · [code](https://github.com/billpquach/permanence) · [demo](https://www.youtube.com/watch?v=GexOIHp7s1w) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Open Source AI · [details](../by-hackathon/knight-hacks-ix-2026.md#project-permanence) | A spatial awareness tool tracks objects and remembers their locations when they move out of view. | qwen-3d, arduino, c++ |
+Newest hackathons first.
+
+### [Farsight](https://devpost.com/software/farsight-t4qyli)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) · **Best Use of Open Source AI**
+
+Farsight lets a rescuer drive a rover remotely, inspect its live camera, and revisit a scan of the room in VR.
+
+**How it used Hugging Face:** Hugging Face model artifacts power the on-device voice and vision assistant, which can draft notes from field observations.
+
+[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with hugging-face, qwen, arduino, arkit
+
+### [Here](https://devpost.com/software/here-vqlrhg)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-here-vqlrhg) · **Best Use of Open Source AI**
+
+A wearable uses directional vibrations to tell deaf and hard-of-hearing users where sounds are coming from.
+
+[Code](https://github.com/Korirussell/Here) · [Demo video](https://www.youtube.com/watch?v=2gRH8oV8e80) · Built with huggingface, arkit, jev, python
+
+### [Permanence](https://devpost.com/software/permanence)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-permanence) · **Best Use of Open Source AI**
+
+A spatial awareness tool tracks objects and remembers their locations when they move out of view.
+
+[Code](https://github.com/billpquach/permanence) · [Demo video](https://www.youtube.com/watch?v=GexOIHp7s1w) · Built with qwen-3d, arduino, c++, cuda
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Hugging Face: Best Use of Open Source AI | Open-source AI | [Track label](https://knight-hacks-ix.devpost.com/) |
 
 </details>
+
+[Back to top](#hugging-face)

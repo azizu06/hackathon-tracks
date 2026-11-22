@@ -1,35 +1,86 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Modal
+
 # Modal
 
-**6 projects · 1 editions · 6 prize rows**
-
-[Winners index](../README.md)
+**6 winning projects** · 1 hackathon · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Modal)
 
 ## What winners have in common
 
-- **Most listed tech** modal (5), python (4), claude (3)
-- **Common project areas** None listed
-- **Common demo formats** CLI or developer tool (1), Hardware or robotics (1)
-- **Projects with a listed demo video** 5 of 6
+- **Most used tech:** modal (5), python (4), claude (3), chatgpt (2), openai (2)
+- **Project areas:** None listed
+- **Demo formats:** Command line or SDK (1), Hardware or robotics (1)
+- **Demo videos:** 5 of 6 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [jiggle wiggle](https://devpost.com/software/jiggle-wiggle) · [code](https://github.com/cindyzli/jigglewiggle) · [demo](https://www.youtube.com/watch?v=kL3udtWY1EE) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit… · [details](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle) | Jiggle Wiggle is a real-time AI movement coach that works with three input modes:. | elevenlabs, grok, heygen |
-| [Longshot](https://devpost.com/software/longshot) · [demo](https://www.youtube.com/watch?v=5oxXfazBcaQ) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Sandbox Challenge · [details](../by-hackathon/treehacks-2026.md#project-longshot) | Built Minecraft in one shot - Burned $5500 running 100+ coding agents pushing at peak 1200+ commits/hr to… | modal, chatgpt, claude |
-| [Mirage](https://devpost.com/software/synsplatt) · [code](https://github.com/kyan-yang/Mirage) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit… · [details](../by-hackathon/treehacks-2026.md#project-synsplatt) | Robots and self-driving cars need training data. Mirage synthesizes 3D world-model training data covering… | modal, gpu, python |
-| [Mobius: the first AI Agent to build a billion dollar company](https://devpost.com/software/mobius-the-first-ai-agent-to-build-a-unicorn) · [demo](https://www.youtube.com/watch?v=KB5vgGlufa4) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Sandbox Challenge · [details](../by-hackathon/treehacks-2026.md#project-mobius-the-first-ai-agent-to-build-a-unicorn) | Mobius runs for very long periods of time completely autonomously to complete all aspects of building a… | modal, ai, anthropic |
-| [Monolith](https://devpost.com/software/monolith-z10684) · [code](https://github.com/WingchunSiu/Monolith) · [demo](https://www.youtube.com/watch?v=Ie0ZMGYPhS8) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Sandbox Challenge · [details](../by-hackathon/treehacks-2026.md#project-monolith-z10684) | Shared coding agent context powered by RLMs. One Context, Run Everywhere. | modal, claude, cloudflare |
-| [ShotSpot](https://devpost.com/software/shotspot-kfvp1n) · [code](https://github.com/aedutta/shot-spot-treehacks-26) · [demo](https://www.youtube.com/watch?v=Tgwt2pgQVXs) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit… · [details](../by-hackathon/treehacks-2026.md#project-shotspot-kfvp1n) | Stop scrubbing videos. Start training models. | modal, bright-data, clip |
+Newest hackathons first.
+
+### [jiggle wiggle](https://devpost.com/software/jiggle-wiggle)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-jiggle-wiggle) · **Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp;…**
+
+Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
+
+[Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with elevenlabs, grok, heygen, mediapipe
+
+### [Longshot](https://devpost.com/software/longshot)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-longshot) · **Sandbox Challenge**
+
+Built Minecraft in one shot - Burned $5500 running 100+ coding agents pushing at peak 1200+ commits/hr to research the future of "coding".
+
+**How it used Modal:** Modal: Serverless GPU backend that runs each sandboxed agent at scale with high-performance compute and automatic resource provisioning.
+
+[Demo video](https://www.youtube.com/watch?v=5oxXfazBcaQ) · Built with modal, chatgpt, claude, cursor
+
+### [Mirage](https://devpost.com/software/synsplatt)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-synsplatt) · **Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp;…**
+
+Robots and self-driving cars need training data. Mirage synthesizes 3D world-model training data covering hard-to-capture scenes - like driving in a hailstorm.
+
+[Code](https://github.com/kyan-yang/Mirage) · Built with modal, gpu, python
+
+### [Mobius: the first AI Agent to build a billion dollar company](https://devpost.com/software/mobius-the-first-ai-agent-to-build-a-unicorn)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-mobius-the-first-ai-agent-to-build-a-unicorn) · **Sandbox Challenge**
+
+Mobius runs for very long periods of time completely autonomously to complete all aspects of building a venture-scale company from scratch - engineering, marketing, operations, legal, and more.
+
+**How it used Modal:** Run on a modal sandbox for privacy and asynchronous running.
+
+[Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with modal, ai, anthropic, chatgpt
+
+### [Monolith](https://devpost.com/software/monolith-z10684)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-monolith-z10684) · **Sandbox Challenge**
+
+Shared coding agent context powered by RLMs. One Context, Run Everywhere.
+
+[Code](https://github.com/WingchunSiu/Monolith) · [Demo video](https://www.youtube.com/watch?v=Ie0ZMGYPhS8) · Built with modal, claude, cloudflare, mcp
+
+### [ShotSpot](https://devpost.com/software/shotspot-kfvp1n)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-shotspot-kfvp1n) · **Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp;…**
+
+Stop scrubbing videos. Start training models.
+
+**How it used Modal:** All models run on Modal's serverless GPU infrastructure for instant scaling.
+
+[Code](https://github.com/aedutta/shot-spot-treehacks-26) · [Demo video](https://www.youtube.com/watch?v=Tgwt2pgQVXs) · Built with modal, bright-data, clip, mongodb
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Modal&#93; Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight &amp; hotel) to SF or NY Office with lunch with Modal team,. Inference Track Runner Up Prize: $1K in Modal credits, airpods for each team member.) | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Modal&#93; Sandbox Challenge | No specific requirement captured | [Event prize rules](https://treehacks-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#modal)

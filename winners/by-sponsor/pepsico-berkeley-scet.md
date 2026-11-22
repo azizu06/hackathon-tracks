@@ -1,30 +1,47 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / PepsiCo / Berkeley SCET
+
 # PepsiCo / Berkeley SCET
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=PepsiCo%20%2F%20Berkeley%20SCET)
 
 ## What winners have in common
 
-- **Most listed tech** css (1), express.js (1), html (1)
-- **Common project areas** Climate and environment (2)
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 0 of 2
+- **Most used tech:** css (1), express.js (1), html (1), javascript (1), mongodb (1)
+- **Project areas:** Climate and environment (2)
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 0 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Peps Towards Sustainability](https://devpost.com/software/peps-towards-sustainability) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · SCET/Pepsico: PEP+ Sustainability Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-peps-towards-sustainability) | PepsiCo has many sustainability practices, but there’s no centralized metric to assess progress across goals.… | css, html, javascript |
-| [TrashToTreasure - Sustainable Showcase](https://devpost.com/software/trashtotreasure-sustainable-showcase) · [code](https://github.com/garvcodes/sustainableshowcase) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · SCET/Pepsico: PEP+ Sustainability Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-trashtotreasure-sustainable-showcase) | Improvements in Pepsi's Global Value chain end with consumers but so does waste. Imagine if customers were… | express.js, mongodb, nextjs |
+Newest hackathons first.
+
+### [Peps Towards Sustainability](https://devpost.com/software/peps-towards-sustainability)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-peps-towards-sustainability) · **SCET/Pepsico: PEP+ Sustainability Prize**
+
+PepsiCo has many sustainability practices, but there’s no centralized metric to assess progress across goals. 'Peps Towards Sustainability' provides a way to measure the journey to a green future.
+
+Built with css, html, javascript
+
+### [TrashToTreasure - Sustainable Showcase](https://devpost.com/software/trashtotreasure-sustainable-showcase)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-trashtotreasure-sustainable-showcase) · **SCET/Pepsico: PEP+ Sustainability Prize**
+
+Improvements in Pepsi's Global Value chain end with consumers but so does waste. Imagine if customers were inspired by AI to make beautiful projects w/ trash, promoting brand value and sustainability.
+
+[Code](https://github.com/garvcodes/sustainableshowcase) · Built with express.js, mongodb, nextjs, node.js
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) | SCET/Pepsico: PEP+ Sustainability Prize | No specific requirement captured | [Event prize rules](https://cal-hacks-11-0.devpost.com/) |
 
 </details>
+
+[Back to top](#pepsico--berkeley-scet)

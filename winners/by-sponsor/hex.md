@@ -1,31 +1,59 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Hex
+
 # Hex
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Hex)
 
 ## What winners have in common
 
-- **Most listed tech** typescript (3), fastapi (2), python (2)
-- **Common project areas** None listed
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** typescript (3), fastapi (2), python (2), react (2), supabase (2)
+- **Project areas:** None listed
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Commons](https://devpost.com/software/commune-1qpezk) · [code](https://github.com/candpixie/yhack-commons) · [demo](https://www.youtube.com/watch?v=-yewvVRouq4) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) · Best use of Hex API · [details](../by-hackathon/yhack-spring-2026.md#project-commune-1qpezk) | Commons is a map-first community coordination platform. | express.js, k2thinkv2, maplibre |
-| [FoodChain](https://devpost.com/software/foodchain-4sq9t7) · [code](https://github.com/richykim7/YHack2026) · [demo](https://www.youtube.com/watch?v=KBmjbQHAL_0) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) · Best use of Hex API · [details](../by-hackathon/yhack-spring-2026.md#project-foodchain-4sq9t7) | Food banks today find out about crises when the line gets longer. CrisisGrid detects the signal before the… | hex, anthropic-claude-api, fastapi |
-| [HiveOps](https://devpost.com/software/hiveops) · [code](https://github.com/aumghelani/HiveOps-NatomaSub) · [demo](https://www.youtube.com/watch?v=Wgevevl1hTY) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) · Best use of Hex API · [details](../by-hackathon/yhack-spring-2026.md#project-hiveops) | An agentic AI incident resolution platform that ingests service incidents and orchestrates AI agents for… | hex-api, anthropic, fastapi |
+Newest hackathons first.
+
+### [Commons](https://devpost.com/software/commune-1qpezk)
+
+[YHack Spring 2026](../by-hackathon/yhack-spring-2026.md#project-commune-1qpezk) · **Best use of Hex API**
+
+Commons is a map-first community coordination platform.
+
+**How it used Hex:** Data: GNews API with SSE push to frontend, 8 seeded Brooklyn neighborhood events with K2-generated community impact analysis, H3 hex grid for government dashboard aggregation.
+
+[Code](https://github.com/candpixie/yhack-commons) · [Demo video](https://www.youtube.com/watch?v=-yewvVRouq4) · Built with express.js, k2thinkv2, maplibre, react
+
+### [FoodChain](https://devpost.com/software/foodchain-4sq9t7)
+
+[YHack Spring 2026](../by-hackathon/yhack-spring-2026.md#project-foodchain-4sq9t7) · **Best use of Hex API**
+
+Food banks today find out about crises when the line gets longer. CrisisGrid detects the signal before the surge hits and creates analytics-powered response plans and supply orders in minutes.
+
+[Code](https://github.com/richykim7/YHack2026) · [Demo video](https://www.youtube.com/watch?v=KBmjbQHAL_0) · Built with hex, anthropic-claude-api, fastapi, framer-motion
+
+### [HiveOps](https://devpost.com/software/hiveops)
+
+[YHack Spring 2026](../by-hackathon/yhack-spring-2026.md#project-hiveops) · **Best use of Hex API**
+
+An agentic AI incident resolution platform that ingests service incidents and orchestrates AI agents for triage, root cause analysis, remediation, and verification, with human in the loop feedback.
+
+**How it used Hex:** The team are using Hex as a Long-term incident memory bank.
+
+[Code](https://github.com/aumghelani/HiveOps-NatomaSub) · [Demo video](https://www.youtube.com/watch?v=Wgevevl1hTY) · Built with hex-api, anthropic, fastapi, gemini
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) | Best use of Hex API | Hex API | [Track label](https://yhack-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#hex)

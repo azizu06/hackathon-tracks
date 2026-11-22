@@ -1,30 +1,51 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Voiceflow
+
 # Voiceflow
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Voiceflow)
 
 ## What winners have in common
 
-- **Most listed tech** react (2), voiceflow (2), 3d-printing (1)
-- **Common project areas** None listed
-- **Common demo formats** Hardware or robotics (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** react (2), voiceflow (2), 3d-printing (1), cad (1), css (1)
+- **Project areas:** None listed
+- **Demo formats:** Hardware or robotics (1), Web app or dashboard (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Rex](https://devpost.com/software/rex-inywpb) · [code](https://github.com/jshan9078/Rex) · [demo](https://www.youtube.com/watch?v=A5594U-kSKc) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Best Non-Chatbot AI Agent Built on Voiceflow · [details](../by-hackathon/hack-the-north-2024.md#project-rex-inywpb) | If you can dream it, Rex will find it. | voiceflow, 3d-printing, cad |
-| [traint](https://devpost.com/software/traint) · [code](https://github.com/efliu7/hackthenorth2024) · [demo](https://www.youtube.com/watch?v=27zgZ8F4CUA) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Best Non-Chatbot AI Agent Built on Voiceflow · [details](../by-hackathon/hack-the-north-2024.md#project-traint) | the.right.(and.intelligent).new.training method for customers and support agents. | voiceflow, css, genesys |
+Newest hackathons first.
+
+### [Rex](https://devpost.com/software/rex-inywpb)
+
+[Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-rex-inywpb) · **Best Non-Chatbot AI Agent Built on Voiceflow**
+
+If you can dream it, Rex will find it.
+
+**How it used Voiceflow:** The team used VoiceFlow's Supabase integration to log a request in the database to begin a trip in the database (that the Raspberry Pi picks up on).
+
+[Code](https://github.com/jshan9078/Rex) · [Demo video](https://www.youtube.com/watch?v=A5594U-kSKc) · Built with voiceflow, 3d-printing, cad, elevenlabs
+
+### [traint](https://devpost.com/software/traint)
+
+[Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-traint) · **Best Non-Chatbot AI Agent Built on Voiceflow**
+
+the.right.(and.intelligent).new.training method for customers and support agents.
+
+**How it used Voiceflow:** traint was built using the following technologies: Next.js React, Tailwind and shadcn/ui Voiceflow API Groq API Genesys API.
+
+[Code](https://github.com/efliu7/hackthenorth2024) · [Demo video](https://www.youtube.com/watch?v=27zgZ8F4CUA) · Built with voiceflow, css, genesys, groq
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | Voiceflow: Best Non-Chatbot AI Agent Built on Voiceflow | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 
 </details>
+
+[Back to top](#voiceflow)

@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Arista Networks
+
 # Arista Networks
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Arista%20Networks)
 
 ## What winners have in common
 
-- **Most listed tech** javascript (2), python (2), react (2)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** javascript (2), python (2), react (2), agentverse (1), bash (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Nimbus](https://devpost.com/software/nimbus-q025jc) · [code](https://github.com/smalex-z/nimbus) · [demo](https://www.youtube.com/watch?v=mk75Ryr81Y8) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Connect the Dots Challenge · [details](../by-hackathon/la-hacks-2026.md#project-nimbus-q025jc) | Nimbus is an open-source VM provisioning platform that gives you the EC2 experience on hardware you own. | bash, golang, proxmox |
-| [TimeHole](https://devpost.com/software/timehole) · [code](https://github.com/Drime648/lahacks-timehole) · [demo](https://www.youtube.com/watch?v=pVpUcCo96SI) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Connect the Dots Challenge · [details](../by-hackathon/la-hacks-2026.md#project-timehole) | A smart productivity proxy that uses AI to filter away distractions while allowing task-relevant resources… | css, dns, express.js |
-| [Veritas](https://devpost.com/software/veritas-98njsx) · [code](https://github.com/riteshkasa/veritas) · [demo](https://www.youtube.com/watch?v=CuinBraRAlk) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Connect the Dots Challenge · [details](../by-hackathon/la-hacks-2026.md#project-veritas-98njsx) | Veritas is a Chrome extension that fact-checks YouTube videos in real time. It extracts claims and checks… | agentverse, chrome, extensions |
+Newest hackathons first.
+
+### [Nimbus](https://devpost.com/software/nimbus-q025jc)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-nimbus-q025jc) · **Connect the Dots Challenge**
+
+Nimbus is an open-source VM provisioning platform that gives you the EC2 experience on hardware you own.
+
+[Code](https://github.com/smalex-z/nimbus) · [Demo video](https://www.youtube.com/watch?v=mk75Ryr81Y8) · Built with bash, golang, proxmox, react
+
+### [TimeHole](https://devpost.com/software/timehole)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-timehole) · **Connect the Dots Challenge**
+
+A smart productivity proxy that uses AI to filter away distractions while allowing task-relevant resources and traffic through based on configurable goals, schedules, and access controls.
+
+[Code](https://github.com/Drime648/lahacks-timehole) · [Demo video](https://www.youtube.com/watch?v=pVpUcCo96SI) · Built with css, dns, express.js, gemini
+
+### [Veritas](https://devpost.com/software/veritas-98njsx)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-veritas-98njsx) · **Connect the Dots Challenge**
+
+Veritas is a Chrome extension that fact-checks YouTube videos in real time. It extracts claims and checks them against sources like Wikipedia, news, and government data, showing results instantly.
+
+[Code](https://github.com/riteshkasa/veritas) · [Demo video](https://www.youtube.com/watch?v=CuinBraRAlk) · Built with agentverse, chrome, extensions, fastapi
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) | Arista Networks: Connect the Dots Challenge | Build a web, mobile, or desktop application that successfully connects people to resources, or routes useful data to solve a problem in daily life. | [Devpost prize description](https://la-hacks-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#arista-networks)

@@ -1,32 +1,56 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / ETHGlobal
+
 # ETHGlobal
 
-**3 projects · 2 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 2 hackathons · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=ETHGlobal)
 
 ## What winners have in common
 
-- **Most listed tech** solidity (3), typescript (3), hardhat (2)
-- **Common project areas** Education and learning (1), Finance and commerce (1)
-- **Common demo formats** Web app or dashboard (2)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** solidity (3), typescript (3), hardhat (2), react (2), auth0 (1)
+- **Project areas:** Education and learning (1), Finance and commerce (1)
+- **Demo formats:** Web app or dashboard (2)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [ScholarMarket](https://devpost.com/software/scholarmarket) · [code](https://github.com/joshua-z-zheng/hack-the-north-2025) · [demo](https://www.youtube.com/watch?v=a8MW0_Mg53o) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Ethereum's Infinite Garden · [details](../by-hackathon/hack-the-north-2025.md#project-scholarmarket) | ScholarMarket is essentially Polymarket for students to bet on their grades. | auth0, express.js, mongodb |
-| [TrueCount](https://devpost.com/software/truecount) · [code](https://github.com/MartinPatr/TrueCount) · [demo](https://www.youtube.com/watch?v=DhhBWVDUrU4) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Ethereum's Infinite Garden · [details](../by-hackathon/hack-the-north-2025.md#project-truecount) | Voting outcomes often face backlash. That’s why trust matters. | hardhat, rainbowkit, react |
-| [DAFP](https://devpost.com/software/dafp) · [code](https://github.com/shardaishwak/htn-2024) · [demo](https://www.youtube.com/watch?v=HjSpr-ZNBmM) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Ethereum's Infinite Garden · [details](../by-hackathon/hack-the-north-2024.md#project-dafp) | Empowering startups and small investors through a decentralized, transparent, and community-driven… | blockchain, decentralized, ethereum |
+Newest hackathons first.
+
+### [ScholarMarket](https://devpost.com/software/scholarmarket)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-scholarmarket) · **Ethereum's Infinite Garden**
+
+ScholarMarket is essentially Polymarket for students to bet on their grades.
+
+[Code](https://github.com/joshua-z-zheng/hack-the-north-2025) · [Demo video](https://www.youtube.com/watch?v=a8MW0_Mg53o) · Built with auth0, express.js, mongodb, next.js
+
+### [TrueCount](https://devpost.com/software/truecount)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-truecount) · **Ethereum's Infinite Garden**
+
+Voting outcomes often face backlash. That’s why trust matters.
+
+[Code](https://github.com/MartinPatr/TrueCount) · [Demo video](https://www.youtube.com/watch?v=DhhBWVDUrU4) · Built with hardhat, rainbowkit, react, solidity
+
+### [DAFP](https://devpost.com/software/dafp)
+
+[Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-dafp) · **Ethereum's Infinite Garden**
+
+Empowering startups and small investors through a decentralized, transparent, and community-driven fundraising platform using blockchain and DAO technology.
+
+[Code](https://github.com/shardaishwak/htn-2024) · [Demo video](https://www.youtube.com/watch?v=HjSpr-ZNBmM) · Built with blockchain, decentralized, ethereum, hardhat
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) | ETHGlobal: Ethereum's Infinite Garden | No specific requirement captured | [Event prize rules](https://hackthenorth2025.devpost.com/) |
 | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) | ETHGlobal: Ethereum's Infinite Garden | No specific requirement captured | [Event prize rules](https://hackthenorth2024.devpost.com/) |
 
 </details>
+
+[Back to top](#ethglobal)

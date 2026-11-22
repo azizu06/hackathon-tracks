@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / PaleBlueDot AI
+
 # PaleBlueDot AI
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=PaleBlueDot%20AI)
 
 ## What winners have in common
 
-- **Most listed tech** python (3), claude (2), deepgram (2)
-- **Common project areas** Education and learning (1), Health and care (1), Safety and emergency response (1)
-- **Common demo formats** Voice or conversational interface (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** python (3), claude (2), deepgram (2), react (2), tokenrouter (2)
+- **Project areas:** Education and learning (1), Health and care (1), Safety and emergency response (1)
+- **Demo formats:** Voice or conversational interface (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [311.ai](https://devpost.com/software/311-ai) · [demo](https://www.youtube.com/watch?v=jzAeXCgLafw) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of TokenRouter by PaleBlueDot AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-311-ai) | AI-powered 311 for non-emergencies. Voice-to-dispatch in less than a minute with multi-agent orchestration… | arize-phoeniz, band-ai, browserbase |
-| [Pulse AI](https://devpost.com/software/pulse-ai-ub9lxt) · [code](https://github.com/2006-sk/AIhack) · [demo](https://www.youtube.com/watch?v=-EC0xCrg5H8) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of TokenRouter by PaleBlueDot AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-pulse-ai-ub9lxt) | Real verified people answer your medical questions honestly, before you decide. Built so an AI agent never… | 21st.dev, agentspan, arize |
-| [Retention](https://devpost.com/software/retention) · [demo](https://www.youtube.com/watch?v=AMhMTYLi8js) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of TokenRouter by PaleBlueDot AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-retention) | Retention uses Meta's brain-simulation model to optimize educational videos for students of all ages,… | claude, deepgram, lightningai |
+Newest hackathons first.
+
+### [311.ai](https://devpost.com/software/311-ai)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-311-ai) · **Best Use of TokenRouter by PaleBlueDot AI**
+
+AI-powered 311 for non-emergencies. Voice-to-dispatch in less than a minute with multi-agent orchestration and ML-driven priority scoring.
+
+[Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
+
+### [Pulse AI](https://devpost.com/software/pulse-ai-ub9lxt)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-pulse-ai-ub9lxt) · **Best Use of TokenRouter by PaleBlueDot AI**
+
+Real verified people answer your medical questions honestly, before you decide. Built so an AI agent never guesses, it waits for a real person, then tells you how well their experience fits yours.
+
+[Code](https://github.com/2006-sk/AIhack) · [Demo video](https://www.youtube.com/watch?v=-EC0xCrg5H8) · Built with 21st.dev, agentspan, arize, arize-phoenix
+
+### [Retention](https://devpost.com/software/retention)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-retention) · **Best Use of TokenRouter by PaleBlueDot AI**
+
+Retention uses Meta's brain-simulation model to optimize educational videos for students of all ages, automatically editing clips and maximizing retention with a multi-agent generator/evaluator loop.
+
+[Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of TokenRouter by PaleBlueDot AI | TokenRouter by PaleBlueDot AI | [Track label](https://ai-hackathon-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#palebluedot-ai)

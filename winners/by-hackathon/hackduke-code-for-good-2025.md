@@ -1,57 +1,72 @@
+[Hackathon Tracks](../../README.md) / [Hackathons](../../HACKATHONS.md) / HackDuke Code for Good 2025
+
 # HackDuke Code for Good 2025
 
-**2 projects · 2 sponsors · 2 prize rows**
-
-[Winners index](../README.md) · [Devpost gallery](https://hackduke-code-for-good-2025.devpost.com/project-gallery) · [Official prize rules](https://hackduke-code-for-good-2025.devpost.com/)
+**2 winning projects** · 2 sponsors · 2 sponsor prizes · [Devpost gallery](https://hackduke-code-for-good-2025.devpost.com/project-gallery) · [Prize rules](https://hackduke-code-for-good-2025.devpost.com/)
 
 ## What winners have in common
 
-- **Most listed tech** python (2), altair (1), google-maps (1)
-- **Common project areas** Climate and environment (1)
-- **Common demo formats** Voice or conversational interface (1)
-- **Projects with a listed demo video** 1 of 2
+- **Most used tech:** python (2), altair (1), google-maps (1), numpy (1), openai (1)
+- **Project areas:** Climate and environment (1)
+- **Demo formats:** Voice or conversational interface (1)
+- **Demo videos:** 1 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Sponsor tracks
 
-| Project | Sponsor prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [SunlightSavings](https://devpost.com/software/arsh-likes-rockets) · [code](https://github.com/Kriti-Negi/DukeHacks2025) · [demo](https://www.youtube.com/watch?v=9F4FJOiGohM) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) · Best Domain Name from GoDaddy Registry · [details](#project-arsh-likes-rockets) | SunlightSavings is a sophisticated yet user-friendly tool that empowers users to make data-driven decisions… | google-maps, numpy, python |
-| [Wildfires](https://devpost.com/software/wildfires-c0pfv1) | [Streamlit](../by-sponsor/streamlit.md) · Best Use of Streamlit · [details](#project-wildfires-c0pfv1) | Wildfires is a platform offering real-time wildfire updates with live data, interactive visuals, and an AI-… | streamlit, altair, openai |
+| Sponsor | Winners | Track |
+| --- | --- | --- |
+| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 1 | Best Domain Name from GoDaddy Registry |
+| [Streamlit](../by-sponsor/streamlit.md) | 1 | Best Use of Streamlit |
 
-## Project details
+## Winning projects
+
+Projects that won more than one sponsor prize come first.
 
 <a name="project-arsh-likes-rockets"></a>
 
-<details>
-<summary>SunlightSavings</summary>
+### [SunlightSavings](https://devpost.com/software/arsh-likes-rockets)
+
+[GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name from GoDaddy Registry**
 
 SunlightSavings is a sophisticated yet user-friendly tool that empowers users to make data-driven decisions about maximizing solar energy production.
 
-- **Team size** 4
-- **Built With** google-maps, numpy, python, react.js
-- **Code** [Source 1](https://github.com/Kriti-Negi/DukeHacks2025)
-- **Demo video** [Video 1](https://www.youtube.com/watch?v=9F4FJOiGohM)
-- **All event prizes (1)** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **Devpost checked** 2026-11-21 UTC
-- **GoDaddy Registry · &#91;MLH&#93; Best Domain Name from GoDaddy Registry** The project page provides no specific sponsor integration detail in the indexed fields.
+[Code](https://github.com/Kriti-Negi/DukeHacks2025) · [Demo video](https://www.youtube.com/watch?v=9F4FJOiGohM) · Built with google-maps, numpy, python, react.js
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** google-maps, numpy, python, react.js
+- **Code:** [Source 1](https://github.com/Kriti-Negi/DukeHacks2025)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=9F4FJOiGohM)
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
+- **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-wildfires-c0pfv1"></a>
 
-<details>
-<summary>Wildfires</summary>
+### [Wildfires](https://devpost.com/software/wildfires-c0pfv1)
+
+[Streamlit](../by-sponsor/streamlit.md) · **Best Use of Streamlit**
 
 Wildfires is a platform offering real-time wildfire updates with live data, interactive visuals, and an AI-powered chatbot for fire safety and prevention information.
 
-- **Team size** 3
-- **Built With** altair, openai, pydeck, python, streamlit
-- **Code** None listed in recognized formats.
-- **Demo video** None listed in recognized formats.
-- **All event prizes (1)** &#91;MLH&#93; Best Use of Streamlit
-- **Devpost checked** 2026-11-21 UTC
-- **Streamlit · &#91;MLH&#93; Best Use of Streamlit** The team then used Streamlit to plot them onto a map.
+Built with streamlit, altair, openai, pydeck
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 3
+- **Built with:** altair, openai, pydeck, python, streamlit
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Streamlit
+- **How it used Streamlit:** The team then used Streamlit to plot them onto a map.
+- **Checked on Devpost:** 2026-11-21
 
 </details>
+
+[Back to top](#hackduke-code-for-good-2025)

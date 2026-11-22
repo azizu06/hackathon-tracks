@@ -1,99 +1,648 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Google
+
 # Google
 
-**71 projects · 41 editions · 72 prize rows**
-
-[Winners index](../README.md)
+**71 winning projects** · 41 hackathons · 72 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Google)
 
 ## What winners have in common
 
-- **Most listed tech** python (40), react (33), gemini (30)
-- **Common project areas** Accessibility and assistive tools (6), Education and learning (6), Games and entertainment (3)
-- **Common demo formats** Web app or dashboard (18), Hardware or robotics (8), Mobile app (8)
-- **Projects with a listed demo video** 54 of 71
+- **Most used tech:** python (40), react (33), gemini (30), javascript (24), typescript (24)
+- **Project areas:** Accessibility and assistive tools (6), Education and learning (6), Games and entertainment (3)
+- **Demo formats:** Web app or dashboard (18), Hardware or robotics (8), Mobile app (8)
+- **Demo videos:** 54 of 71 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [ani.mate](https://devpost.com/software/ani-mate) · [code](https://github.com/zlyuan9/ani.mate) · [demo](https://www.youtube.com/watch?v=hPwpqFpdsEk) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Best Use of Gemini API · [details](../by-hackathon/bitcamp-2026.md#project-ani-mate) | From script to scene in minutes. | firebase, gemini, auth0 |
-| [homecookd](https://devpost.com/software/homecookd) · [code](https://github.com/calebwang26/homecookd) · [demo](https://www.youtube.com/watch?v=8Ibl2QnL9dw) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Gemini API · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-homecookd) | A hands-free recipe player lets families cook along to recordings made by their relatives. | gemini, google-cloud, google-cloud-run |
-| [Rent-Swarm](https://devpost.com/software/rentswarm) · [code](https://github.com/optimusbuilder/Rent-Swarm) · [demo](https://www.youtube.com/watch?v=xCzTYc7mIIg) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Best Use of Gemini API · [details](../by-hackathon/hack-brown-2026.md#project-rentswarm) | An agentic AI system that fights back for renters—scouting real listings, exposing hidden lease risks,… | gemini, amazon-web-services, browserbase |
-| [IBrowse](https://devpost.com/software/ibrowse) · [code](https://github.com/aadhirsandeep/hackduke26-I-Browse) · [demo](https://www.youtube.com/watch?v=zA_hBq063JM) | [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md) · Best Use of Gemini API · [details](../by-hackathon/hackduke-code-for-good-2026.md#project-ibrowse) | An adaptive browser overlay extension that enables webpage customization and interaction through persistent… | gemini, auth0, elevenlabs |
-| [Degreesº](https://devpost.com/software/degrees-gdibjk) · [code](https://github.com/prbhagam/degrees) · [demo](https://www.youtube.com/watch?v=icFwk9vNgV4) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · MLH: Best Use of Gemini API · [details](../by-hackathon/hackgt-13-2026.md#project-degrees-gdibjk) | This is Degrees, a social app that turns one-off interactions into continued relationships. The only app… | gemini-embeddings, google-gemini, expo-camera |
-| [Playwright](https://devpost.com/software/playwright) · [code](https://github.com/akabandaru/Playwright) · [demo](https://www.youtube.com/watch?v=W5MAby_ONxk) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) · Best Use of Gemini API · [details](../by-hackathon/hacklytics-2026.md#project-playwright) | A filmmaker can turn a screenplay into video previews and storyboard frames. | gemini, colab, databricks |
-| [Meridies](https://devpost.com/software/meridies) · [code](https://github.com/Aliceeia/Meridies) · [demo](https://www.youtube.com/watch?v=eoBT5CGjsPA) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Best Use of Gemini API · [details](../by-hackathon/hackprinceton-fall-2026.md#project-meridies) | A wearable combines spoken assistance with spatial audio to help people with vision loss navigate. | gemini, api, costar |
-| [Composition](https://devpost.com/software/composition) · [demo](https://www.youtube.com/watch?v=IDO7cJnBtp0) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · MLH: Best Use of Gemini API · [details](../by-hackathon/hack-the-north-2026.md#project-composition) | A physical creative harness for agentic video creation. | gemini, gemini-live, node.js |
-| [Junction](https://devpost.com/software/junction-a6fp8s) · [code](https://github.com/madmax-10/junction) · [demo](https://www.youtube.com/watch?v=kixGH1NAsAo) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · Best Use of Gemini API · [details](../by-hackathon/hacktx-2026.md#project-junction-a6fp8s) | New city, used car, nobody to ask? Junction finds owners who’ve had your problem: how it was fixed, what it… | gemini, django, google-adk |
-| [NueroFlex](https://devpost.com/software/nueroflex) · [code](https://github.com/HassanKhan20/nuero-grip) · [demo](https://vimeo.com/1244909388) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Best Use of Gemini API · [details](../by-hackathon/hackutd-2026.md#project-nueroflex) | An AI-powered robotic hand controlled by brain-to-muscle intent signals, adapting therapy in real time across… | google-gemini, accelerometer, arduino |
-| [Nod &amp; Read](https://devpost.com/software/nod-read) · [code](https://github.com/PinedaMiguel/panel-reader) · [demo](https://www.youtube.com/watch?v=CLpOsb9VDGU) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Gemini API · [details](../by-hackathon/knight-hacks-ix-2026.md#project-nod-read) | An accessible comic reader plays panels aloud and lets readers advance them with facial input. | google-gemini, caddy, docker |
-| [My Voice](https://devpost.com/software/my-voice-w67t8v) · [code](https://github.com/chrisconnell7/My-Voice-LA-HACKS) · [demo](https://www.youtube.com/watch?v=IZJ1qQYpXeE) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · MLH: Best Use of Gemma · [details](../by-hackathon/la-hacks-2026.md#project-my-voice-w67t8v) | By mapping the user's eye movements to an on-screen cursor, individuals can navigate an anticipatory user… | gemma, css, elevenlabs |
-| [runa](https://devpost.com/software/runa) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best Use of Gemini API · [details](../by-hackathon/mhacks-2026.md#project-runa) | Finding you the prompt you deserve. | gemini, chrome, fastapi |
-| [ListenMe](https://devpost.com/software/anomiaaid) · [code](https://github.com/Bardia-Masudy/nwHacks-listen.me) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) · Best Use of Gemini API · [details](../by-hackathon/nwhacks-2026.md#project-anomiaaid) | A voice tool suggests words to stroke survivors based on how they describe the word they are trying to recall. | firebase, google-gemini-live-api, fastapi |
-| [DispatchIQ](https://devpost.com/software/dispatchiq-usn87o) · [code](https://github.com/declanhogg100/dispatchiq) · [demo](https://www.youtube.com/watch?v=phR1pTLS3JY) | [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md) · Best Use of Gemini API · [details](../by-hackathon/sb-hacks-xii-2026.md#project-dispatchiq-usn87o) | An AI copilot for dispatchers that calmly guides them through urgent situations, reduces stress, and helps… | gemini, deepgram, next.js |
-| [Clarity - SmartGlasses](https://devpost.com/software/clarity-smartglasses) · [code](https://github.com/abhiwasabi/Clarity) · [demo](https://vimeo.com/1230684959) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · Best Use of Gemini API · [details](../by-hackathon/shellhacks-2026.md#project-clarity-smartglasses) | Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay aware, and handle what happens… | google-gemini, elevenlabs, esp-32-cam |
-| [Bye! Buy!](https://devpost.com/software/bye-buy) · [code](https://github.com/jpsingaraju/bye-buy) · [demo](https://www.youtube.com/watch?v=Dv-Bqklp-RE) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Cloud AI Track · [details](../by-hackathon/treehacks-2026.md#project-bye-buy) | Buy! is an AI agent marketplace that sells your stuff for you. | browserbase, claude, fastapi |
-| [Hellocare](https://devpost.com/software/hellocare) · [code](https://github.com/smallboar/HelloCare) · [demo](https://www.youtube.com/watch?v=45H1t7bpw9U) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Cloud AI Track · [details](../by-hackathon/treehacks-2026.md#project-hellocare) | Left the doctor confused or worried you forgot something? Your grandparents probably have. | firebase, assemblyai, claude |
-| [Ayana](https://devpost.com/software/ayana-g0ys7f) · [code](https://github.com/prith27/Ayana) · [demo](https://www.youtube.com/watch?v=4lwFH0fWW0E) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) · Best Use of Gemini API · [details](../by-hackathon/yhack-spring-2026.md#project-ayana-g0ys7f) | Explore the world through an cinematic AI-guided journey — just speak, and the world comes alive. | gemini-2.5-flash-(itinerary-generation), gemini-live-api-/-gemini-2.5-flash-native-audio-preview-(real-time-voice-agent), fastapi |
-| [BurnoutBuddy](https://devpost.com/software/burnoutbuddy) · [code](https://github.com/CSin007/Bitcamp2025) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Use of Gemini API · [details](../by-hackathon/bitcamp-2025.md#project-burnoutbuddy) | Burnout Buddy watches your steps, commits, and eye bags to decide if you need a nap, a meme, or to touch… | gemini, chart.js, conda |
-| [Jesture](https://devpost.com/software/jesture-sa1v02) · [code](https://github.com/jinson-j/jesture) · [demo](https://www.youtube.com/watch?v=K0joSJFCJzc) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Use of Gemini API · [details](../by-hackathon/bitcamp-2025.md#project-jesture-sa1v02) | Jesture is a magical gesture-based drawing experience where your hands become the paintbrush! Wave your arms… | gemini, google, google-genai |
-| [VisuWorld](https://devpost.com/software/visuworld) · [demo](https://www.youtube.com/watch?v=HXS_7HzJmYo) | [Bitcamp 2025](../by-hackathon/bitcamp-2025.md) · Best Use of Gemini API · [details](../by-hackathon/bitcamp-2025.md#project-visuworld) | The team describes the project as “Speak worlds into reality”. | gemini, google-gemini, glsl |
-| [Remixify](https://devpost.com/software/remixify) · [code](https://github.com/nidhigaonkar/calhacks25) · [demo](https://www.youtube.com/watch?v=3p9rziCgl7s) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of Gemini API · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-remixify) | Remixify is an innovative platform that transforms traditional advertising into an interactive, fun,… | gemini, claude, css |
-| [Ming Management Training, a personalized AI-native L&amp;D coach](https://devpost.com/software/ming-management-training-a-personalized-ai-native-l-d-coach) · [code](https://github.com/m3ru/Ming) · [demo](https://www.youtube.com/watch?v=iLwUcxP6YE4) | [HackGT 12 2025](../by-hackathon/hackgt-12-2025.md) · MLH - Best Use of Gemini API · [details](../by-hackathon/hackgt-12-2025.md#project-ming-management-training-a-personalized-ai-native-l-d-coach) | A management training tool gives new leaders interactive practice scenarios and feedback. | gemini, ai-native, cedaros |
-| [HaloAudit](https://devpost.com/software/haloaudit) · [code](https://github.com/Evandabest/Hackharvard2025) · [demo](https://www.youtube.com/watch?v=WgSNcEAPhr8) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) · Best Use of Gemini API · [details](../by-hackathon/hackharvard-2025.md#project-haloaudit) | AI-powered auditor that lives at the top of your screen. Instantly scan files for private info, secrets, and… | gemini-api, cloudflare, electron |
-| [VibeMovie](https://devpost.com/software/promptmotion) · [code](https://github.com/EvanJYHe/vibe-movie) · [demo](https://www.youtube.com/watch?v=CYJZUQVHnmU) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · MLH: Best Use of Gemini API · [details](../by-hackathon/hack-the-north-2025.md#project-promptmotion) | VibeMovie is an AI-native video editor that turns natural language into a rendered video. | gemini, docker, express.js |
-| [Ayn](https://devpost.com/software/orion-7jafvu) · [code](https://github.com/aabel4206/CodeUse) · [demo](https://www.youtube.com/watch?v=pLatsP3nFF0) | [HackTX 2025](../by-hackathon/hacktx-2025.md) · Best Use of Gemini 2.5 Computer Use Model · [details](../by-hackathon/hacktx-2025.md#project-orion-7jafvu) | Giving AI coding agents the power to see by letting them visually explore the websites they build, giving… | fastapi, gemeniapi, gemenicomputeruse |
-| [earth2echo](https://devpost.com/software/minions-6-7) · [code](https://github.com/emw8105/hacktx-25) · [demo](https://www.youtube.com/watch?v=cLJeS1mnDq8) | [HackTX 2025](../by-hackathon/hacktx-2025.md) · Best Use of Gemini API · [details](../by-hackathon/hacktx-2025.md#project-minions-6-7) | Live Space-to-Sound (or any video): Pick an ISS/telescope livestream or paste a YouTube link. | gemini, nextjs, python |
-| [Kori](https://devpost.com/software/kori) · [code](https://github.com/DuckyDaBucky/Kori.Study) · [demo](https://www.youtube.com/watch?v=K17fqD58JhA) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) · Best Use of Gemini API by MLH · [details](../by-hackathon/hackutd-2025.md#project-kori) | A little pixel companion who studies with you, works with you, rests with you, and helps you take care of… | 3d, ai-vision, audio-analysis |
-| [Emergent](https://devpost.com/software/emergent-b2t1fl) · [code](https://github.com/myr124/emergent) · [demo](https://www.youtube.com/watch?v=LQdMwBeeswU) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge · [details](../by-hackathon/knight-hacks-viii-2025.md#project-emergent-b2t1fl) | AI Agents for complex human disaster dynamics simulation. | gemini, google-adk, nextjs |
-| [Hermes](https://devpost.com/software/hermes-hm4o9l) · [code](https://github.com/skatari172/Hermes) · [demo](https://www.youtube.com/watch?v=DD6ZQVk9QJE) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge · [details](../by-hackathon/knight-hacks-viii-2025.md#project-hermes-hm4o9l) | See the world. Speak its stories. | gemini-vision, fastapi, firestore |
-| [KnightSource](https://devpost.com/software/knightsource) · [code](https://github.com/Adammouedden/KnightSource) · [demo](https://www.youtube.com/watch?v=UHDxC3MaZVk) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge · [details](../by-hackathon/knight-hacks-viii-2025.md#project-knightsource) | Agentic AI-Driven Financial Advisor for UCF Students. | gemini, geminicomputeruse, fastapi |
-| [KnightSource](https://devpost.com/software/knightsource) · [code](https://github.com/Adammouedden/KnightSource) · [demo](https://www.youtube.com/watch?v=UHDxC3MaZVk) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · MLH - Best Use of Gemini 2.5 Computer Use · [details](../by-hackathon/knight-hacks-viii-2025.md#project-knightsource) | Agentic AI-Driven Financial Advisor for UCF Students. | gemini, geminicomputeruse, fastapi |
-| [Systema](https://devpost.com/software/systema) · [code](https://github.com/ethan-dean/sherm-team-6) · [demo](https://www.youtube.com/watch?v=IMPi_oKzPc8) | [Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md) · MLH - Best Use of Gemini API · [details](../by-hackathon/knight-hacks-viii-2025.md#project-systema) | Transforming system design interviews from holistic, expensive evaluations into consistent, automated… | gemini, elevenlabs, next |
-| [Cena Can See](https://devpost.com/software/cena-can-see) · [code](https://github.com/mahanthesh0r/Cena_Humanoid_Robot) · [demo](https://www.youtube.com/watch?v=r0KGeCe9QDk) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · Google Gemini: Chase the Future! · [details](../by-hackathon/la-hacks-2025.md#project-cena-can-see) | A robot uses what it sees to attempt everyday tasks without training separately for each task. | c++, javascript, python |
-| [Embers](https://devpost.com/software/insurefire) · [code](https://github.com/twistyyb/insurefire) · [demo](https://www.youtube.com/watch?v=t9eNwyadORQ) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · Google Gemini: Chase the Future! · [details](../by-hackathon/la-hacks-2025.md#project-insurefire) | Embers may mark the end of a fire, but with us, it's just the beginning. | gemini, nextjs, python |
-| [Kairos](https://devpost.com/software/kairos-p615yv) · [code](https://github.com/pgunhal/kairos) · [demo](https://www.youtube.com/watch?v=AGEZTOmoB64) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · MLH: Best Use of Gemini API · [details](../by-hackathon/la-hacks-2025.md#project-kairos-p615yv) | Automated alumni outreach to land the next awesome internship. | gemini, express.js, fastapi |
-| [LingoBuddy](https://devpost.com/software/lingobuddy-fkj4g0) · [code](https://github.com/sebjohannessen/lingobuddy) · [demo](https://www.youtube.com/watch?v=-gNoVWcP2x8) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · Google Gemini: Chase the Future! · [details](../by-hackathon/la-hacks-2025.md#project-lingobuddy-fkj4g0) | A language tutor adapts practice activities to the learner. | google-gemini, fastapi, multimodal |
-| [CLAI](https://devpost.com/software/clai) · [code](https://github.com/Cryplo/MHacks25) · [demo](https://vimeo.com/1122664326) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · MLH - Best Use of Gemini API presented by Google Gemini &#124;&#124; Mechanical Keyboards · [details](../by-hackathon/mhacks-2025.md#project-clai) | The team spent a long time brainstorming project ideas and could not find one that met the expectations in… | gemini, bash, electron |
-| [CarbonSight](https://devpost.com/software/carbonsight) · [demo](https://www.youtube.com/watch?v=b30umZp1RZU) | [PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md) · MLH - Best use of Gemini API · [details](../by-hackathon/pennapps-xxvi-2025.md#project-carbonsight) | CarbonSight is a carbon-aware optimization framework for generative AI:. | gemini, adk, fastapi |
-| [A11y Tools](https://devpost.com/software/a11y-b8xg5i) · [code](https://github.com/ibraouh/a11y-tools) · [demo](https://www.youtube.com/watch?v=evGVk7XjDH4) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Google Cloud · [details](../by-hackathon/shellhacks-2025.md#project-a11y-b8xg5i) | A Google Chrome extension that elevates the limitations of people with disabilities and makes web pages… | gemini, google-cloud-ai, agent-based |
-| [Beacon](https://devpost.com/software/beacon-fc3qis) · [code](https://github.com/Bashguy/Beacon) · [demo](https://vimeo.com/1123425305) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Google · [details](../by-hackathon/shellhacks-2025.md#project-beacon-fc3qis) | Beacon is a smart navigation app that helps users plan safe routes by having readily available safety… | firebase, google-cloud, expo-go |
-| [BrainSafe](https://devpost.com/software/brainsafe-browser) · [code](https://github.com/abbasidaniyal/BrainSafe) · [demo](https://www.youtube.com/watch?v=aABEnFQ2MPE) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Google Cloud · [details](../by-hackathon/shellhacks-2025.md#project-brainsafe-browser) | AI-powered browser extension that protects infant brain development by detecting, modifying and filtering… | gcp, gemini, adk |
-| [EzSpeak](https://devpost.com/software/ezspeak-30hy1w) · [code](https://github.com/EzSpeak-development/EzSpeak-frontend) · [demo](https://www.youtube.com/watch?v=0lh1fenJgQw) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Google · [details](../by-hackathon/shellhacks-2025.md#project-ezspeak-30hy1w) | Breaking language barriers, one word at a time. | azure, azurecognitiveservices, chrome |
-| [iMPOSTURE](https://devpost.com/software/straightup-hvet3r) · [code](https://github.com/abrown33914/iMPOSTURE) · [demo](https://www.youtube.com/watch?v=MXY6PnkB3dA) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Google Cloud · [details](../by-hackathon/shellhacks-2025.md#project-straightup-hvet3r) | AI powered ergonomic for healthier minds and bodies. | google-cloud, google-adk, mediapipe |
-| [SightSpeech](https://devpost.com/software/sightspeech) · [code](https://github.com/groffbo/sight-to-speech) · [demo](https://www.youtube.com/watch?v=LW55VXFaXiE) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · MLH &#124;&#124; Best Use of Gemini API &#124;&#124; Mechanical Keyboards · [details](../by-hackathon/shellhacks-2025.md#project-sightspeech) | Text-to-speech is a near-essential tool for the legally blind; However, normal things like signs, classroom… | gemini-api, ai, easyocr |
-| [TyodorAI](https://devpost.com/software/tyodor) · [demo](https://www.youtube.com/watch?v=55OuqH7E-lA) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Google · [details](../by-hackathon/shellhacks-2025.md#project-tyodor) | Tyodor is a 10-year-old AI that students teach to, reinforcing learning while giving teachers real-time… | css, flask, googleai |
-| [WingNote](https://devpost.com/software/wingnote) · [code](https://github.com/bencullenn/wing-note) · [demo](https://www.youtube.com/watch?v=TX3a1ze3Uwk) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Google Cloud: Best Use of Gemini (Google Pixel Watches x4) · [details](../by-hackathon/treehacks-2025.md#project-wingnote) | A nursing documentation tool turns captured conversations into structured notes. | gemini, arduino-nano, deepgram |
-| [Guardian Angel](https://devpost.com/software/guardian-angel-op49t2) · [code](https://github.com/ArianaJohnson/GuardianAngel_calhacks_2024) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Most impactful app · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-guardian-angel-op49t2) | Guardian Angel, always by your side. | google-gemini, deepgram, expo.io |
-| [Refrigerator Ramsay](https://devpost.com/software/refrigerator-ramsay) · [code](https://github.com/sherwinvishesh/Refrigerator-Ramsay) · [demo](https://www.youtube.com/watch?v=bNv-EJtd40s) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Most useful app · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-refrigerator-ramsay) | A kitchen assistant suggests recipes that use available ingredients before they go to waste. | gemini-ai, fastapi, hume-evi |
-| [Storyscape](https://devpost.com/software/storyscape) · [code](https://github.com/catfeeshing/storyscape) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Most creative app · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-storyscape) | An interactive story gives schoolchildren branching choices while they practice English. | firebase, gemini, css |
-| [Atom Seiko](https://devpost.com/software/atom-seiko) · [code](https://github.com/evelynpa1/AtomSeiko) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · 1st Place Best Google AI Breadboard Application · [details](../by-hackathon/mhacks-2024.md#project-atom-seiko) | Atom Suika is an innovative merge dropper chemistry learning experience. It uses an AI backend to power the… | breadboard, mongodb, node.js |
-| [Healthcare Helper](https://devpost.com/software/healthcare-helper) · [code](https://github.com/qwopp/healthcare-helper) · [demo](https://www.youtube.com/watch?v=JMK3KGh9Wr8) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · 2nd Place Best Google AI Breadboard Application · [details](../by-hackathon/mhacks-2024.md#project-healthcare-helper) | The doctor can view this before a patient visit and gain more information to better and more efficiently help… | cartesia-sonic, flask, google-ai-breadboard |
-| [Poker Face](https://devpost.com/software/poker-face) · [demo](https://www.youtube.com/watch?v=RsqhOLFsGEw) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · 3nd Place Best Google AI Breadboard Application · [details](../by-hackathon/mhacks-2024.md#project-poker-face) | Democratizing pro-level Poker play in real-time with computer vision. | gemini, async-storage, endpoint-api |
-| [ReadEasy](https://devpost.com/software/readeasy-eyaiv1) · [code](https://github.com/byrencheema/ReadEasy) · [demo](https://www.youtube.com/watch?v=wyKA449dB8w) | [SB Hacks X 2024](../by-hackathon/sb-hacks-x-2024.md) · MLH - Best Use of Google Cloud · [details](../by-hackathon/sb-hacks-x-2024.md#project-readeasy-eyaiv1) | ReadEasy: An AI-powered Google Docs add-on that transforms documents into accessible formats, ensuring… | css, google-apps-script, html |
-| [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning) · [code](https://github.com/August-Druzgal/ShellHacks2024) · [demo](https://www.youtube.com/watch?v=7rRxLXnresk) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Google · [details](../by-hackathon/shellhacks-2024.md#project-arsl-vr-asl-learning) | Learn ASL in AR through Computer Vision and Hand Tracking. | c, c-sharp, embedded |
-| [DrowsyDriver](https://devpost.com/software/drowsydriver-e31tn6) · [code](https://github.com/Alans44/DrowsyDriver) · [demo](https://www.youtube.com/watch?v=OK4mCpxNzVs) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Google · [details](../by-hackathon/shellhacks-2024.md#project-drowsydriver-e31tn6) | Real-time computer vision software with fatigue detection system to improve accessibility of the technology… | azure, dlib, flask |
-| [Voiceboard](https://devpost.com/software/voiceboard-83vn1e) · [code](https://github.com/DVidal1205/voiceboard) | [ShellHacks 2024](../by-hackathon/shellhacks-2024.md) · Google · [details](../by-hackathon/shellhacks-2024.md#project-voiceboard-83vn1e) | An accessible white-boarding app to voice your ideas into existence. | gemini, google, next |
-| [The Remote University Experience](https://devpost.com/software/the-remote-university-experience) · [code](https://github.com/cindyxu20/hackathon2020) · [demo](https://www.youtube.com/watch?v=uE2RPC_NKzs) | [HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md) · Best use of Google Cloud · [details](../by-hackathon/hackduke-code-for-good-2020.md#project-the-remote-university-experience) | Revolutionizing education, orientations, and the remote college experience for the digital future. | google-cloud, css, git |
-| [CounterPoint](https://devpost.com/software/hackmit2019) · [code](https://github.com/arytonhoi/hackmit2019) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Use of Google Cloud · [details](../by-hackathon/hackmit-2019.md#project-hackmit2019) | Exit the echo chamber with the help of AI. | google-cloud, css, html |
-| [Swiper-Go-Swiping](https://devpost.com/software/swiper-go-swiping) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Best Use of Google Cloud · [details](../by-hackathon/hackmit-2019.md#project-swiper-go-swiping) | Reinventing a touch keyboard with machine learning. | google-cloud, tensorflow |
-| [Estar Guars](https://devpost.com/software/estar-guars) · [demo](https://www.youtube.com/watch?v=M4C3eRrB2W8) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · VR Zone by Google · [details](../by-hackathon/hackmit-2018.md#project-estar-guars) | An intergalactic battle for the ages. | c#, htc-vive, unity |
-| [ViGCam](https://devpost.com/software/vigicam) · [code](https://github.com/xTEddie/HackMIT2018) · [demo](https://www.youtube.com/watch?v=ZCWxii9Kp-k) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · Best Use of Google Cloud Platform or Firebase · [details](../by-hackathon/hackmit-2018.md#project-vigicam) | ViGCam spots active shooters and tracks them through buildings. | django, google-vision, mysql |
-| [Band Together](https://devpost.com/software/band-together) · [code](https://github.com/sbower213/band-together) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Firebase/Google - Best Use of Firebase · [details](../by-hackathon/hackmit-2017.md#project-band-together) | Allows people to join up in a "room" to work on tracks to make beats for a song. | firebase, css, html5 |
-| [Heart of Gold](https://devpost.com/software/heart-of-gold-bmydin) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up · [details](../by-hackathon/hackmit-2017.md#project-heart-of-gold-bmydin) | Automatic purchase detection and rounding up to make donating to charity easy and habitual for any user. | firebase, ajax, css |
-| [SeQR Scanner and Generator](https://devpost.com/software/seqr-scanner-and-generator) | [HackMIT 2017](../by-hackathon/hackmit-2017.md) · Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up · [details](../by-hackathon/hackmit-2017.md#project-seqr-scanner-and-generator) | The product encrypts QR codes such that, if scanned by someone who is not authorized to see them, they… | firebase, crypto, express.js |
-| [ColoVR](https://devpost.com/software/colovr) · [code](https://github.com/ascn/ColoVR) · [demo](https://www.youtube.com/watch?v=HldNqLBlTgc) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Google Cardboard Development Prize · [details](../by-hackathon/hackmit-2016.md#project-colovr) | Virtual reality 3D coloring/painting experience for Google Daydream. | daydream, unity |
-| [Crowd Search](https://devpost.com/software/crowd-search-zjq3ro) · [code](https://github.com/ekmartin/hackmit-crowdsearch) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Best use of Firebase · [details](../by-hackathon/hackmit-2016.md#project-crowd-search-zjq3ro) | A platform that helps people collaborate towards finding missing people. | firebase, babel, javascript |
-| [DronAR](https://devpost.com/software/dronar) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Google Cardboard Development Prize · [details](../by-hackathon/hackmit-2016.md#project-dronar) | DronAR allows users to view realtime information about their drones such as positional data and status. | azure, express.js, mongodb |
-| [TourDeMarsVR](https://devpost.com/software/tourdemarsvr) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Google Cardboard Development Prize · [details](../by-hackathon/hackmit-2016.md#project-tourdemarsvr) | A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices. | firebase, arduino, c++ |
-| [VR DJ](https://devpost.com/software/vr-dj) | [HackMIT 2016](../by-hackathon/hackmit-2016.md) · Google Cardboard Development Prize · [details](../by-hackathon/hackmit-2016.md#project-vr-dj) | VR DJ allows you to visualize and manipulate music. | c#, unity, vive |
-| [GTAVI](https://devpost.com/software/gtavi) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) · Google, Inc. · [details](../by-hackathon/hackmit-2013.md#project-gtavi) | The Devpost entry has no usable short project description. | google-earth, weather-underground |
+Newest hackathons first.
+
+### [ani.mate](https://devpost.com/software/ani-mate)
+
+[Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-ani-mate) · **Best Use of Gemini API**
+
+From script to scene in minutes.
+
+[Code](https://github.com/zlyuan9/ani.mate) · [Demo video](https://www.youtube.com/watch?v=hPwpqFpdsEk) · Built with firebase, gemini, auth0, claude
+
+### [Ayana](https://devpost.com/software/ayana-g0ys7f)
+
+[YHack Spring 2026](../by-hackathon/yhack-spring-2026.md#project-ayana-g0ys7f) · **Best Use of Gemini API**
+
+Explore the world through an cinematic AI-guided journey — just speak, and the world comes alive.
+
+**How it used Google:** Ayana's prep engine then generates three curated itineraries tailored to your personality using Gemini 2.5 Flash .
+
+[Code](https://github.com/prith27/Ayana) · [Demo video](https://www.youtube.com/watch?v=4lwFH0fWW0E) · Built with gemini-2.5-flash-(itinerary-generation), gemini-live-api-/-gemini-2.5-flash-native-audio-preview-(real-time-voice-agent), fastapi, google-agent-development-kit-(adk)
+
+### [Bye! Buy!](https://devpost.com/software/bye-buy)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-bye-buy) · **Cloud AI Track**
+
+Buy! is an AI agent marketplace that sells your stuff for you.
+
+[Code](https://github.com/jpsingaraju/bye-buy) · [Demo video](https://www.youtube.com/watch?v=Dv-Bqklp-RE) · Built with browserbase, claude, fastapi, nextjs
+
+### [Clarity - SmartGlasses](https://devpost.com/software/clarity-smartglasses)
+
+[ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-clarity-smartglasses) · **Best Use of Gemini API**
+
+Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay aware, and handle what happens next.
+
+**How it used Google:** The team use the Gemini API to give Clarity multimodal AI capabilities.
+
+[Code](https://github.com/abhiwasabi/Clarity) · [Demo video](https://vimeo.com/1230684959) · Built with google-gemini, elevenlabs, esp-32-cam, ft232
+
+### [Composition](https://devpost.com/software/composition)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-composition) · **Best Use of Gemini API**
+
+A physical creative harness for agentic video creation.
+
+[Demo video](https://www.youtube.com/watch?v=IDO7cJnBtp0) · Built with gemini, gemini-live, node.js, openai-codex
+
+### [Degreesº](https://devpost.com/software/degrees-gdibjk)
+
+[HackGT 13 2026](../by-hackathon/hackgt-13-2026.md#project-degrees-gdibjk) · **Best Use of Gemini API**
+
+This is Degrees, a social app that turns one-off interactions into continued relationships. The only app designed to give you continued real world interactions with a growing network of friends.
+
+[Code](https://github.com/prbhagam/degrees) · [Demo video](https://www.youtube.com/watch?v=icFwk9vNgV4) · Built with gemini-embeddings, google-gemini, expo-camera, expo-router
+
+### [DispatchIQ](https://devpost.com/software/dispatchiq-usn87o)
+
+[SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md#project-dispatchiq-usn87o) · **Best Use of Gemini API**
+
+An AI copilot for dispatchers that calmly guides them through urgent situations, reduces stress, and helps overwhelmed responders and dispatchers act faster.
+
+**How it used Google:** Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface.
+
+[Code](https://github.com/declanhogg100/dispatchiq) · [Demo video](https://www.youtube.com/watch?v=phR1pTLS3JY) · Built with gemini, deepgram, next.js, openai-realtime-api
+
+### [Hellocare](https://devpost.com/software/hellocare)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-hellocare) · **Cloud AI Track**
+
+Left the doctor confused or worried you forgot something? Your grandparents probably have.
+
+[Code](https://github.com/smallboar/HelloCare) · [Demo video](https://www.youtube.com/watch?v=45H1t7bpw9U) · Built with firebase, assemblyai, claude, nextjs
+
+### [homecookd](https://devpost.com/software/homecookd)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-homecookd) · **Best Use of Gemini API**
+
+A hands-free recipe player lets families cook along to recordings made by their relatives.
+
+**How it used Google:** Uploads and storage: A small upload signer on Google Cloud Run gives the phone a safe one-time link to upload each video to Google Cloud Storage.
+
+[Code](https://github.com/calebwang26/homecookd) · [Demo video](https://www.youtube.com/watch?v=8Ibl2QnL9dw) · Built with gemini, google-cloud, google-cloud-run, anthropic
+
+### [IBrowse](https://devpost.com/software/ibrowse)
+
+[HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md#project-ibrowse) · **Best Use of Gemini API**
+
+An adaptive browser overlay extension that enables webpage customization and interaction through persistent DOM transformations, presets, and voice controls.
+
+[Code](https://github.com/aadhirsandeep/hackduke26-I-Browse) · [Demo video](https://www.youtube.com/watch?v=zA_hBq063JM) · Built with gemini, auth0, elevenlabs, fastapi
+
+### [Junction](https://devpost.com/software/junction-a6fp8s)
+
+[HackTX 2026](../by-hackathon/hacktx-2026.md#project-junction-a6fp8s) · **Best Use of Gemini API**
+
+New city, used car, nobody to ask? Junction finds owners who’ve had your problem: how it was fixed, what it cost, who fixed it.
+
+**How it used Google:** The team designed Junction around a multi-agent architecture using Google Agent Development Kit (ADK) and Gemini .
+
+[Code](https://github.com/madmax-10/junction) · [Demo video](https://www.youtube.com/watch?v=kixGH1NAsAo) · Built with gemini, django, google-adk, javascript
+
+### [ListenMe](https://devpost.com/software/anomiaaid)
+
+[nwHacks 2026](../by-hackathon/nwhacks-2026.md#project-anomiaaid) · **Best Use of Gemini API**
+
+A voice tool suggests words to stroke survivors based on how they describe the word they are trying to recall.
+
+[Code](https://github.com/Bardia-Masudy/nwHacks-listen.me) · Built with firebase, google-gemini-live-api, fastapi, indexeddb
+
+### [Meridies](https://devpost.com/software/meridies)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-meridies) · **Best Use of Gemini API**
+
+A wearable combines spoken assistance with spatial audio to help people with vision loss navigate.
+
+[Code](https://github.com/Aliceeia/Meridies) · [Demo video](https://www.youtube.com/watch?v=eoBT5CGjsPA) · Built with gemini, api, costar, css
+
+### [My Voice](https://devpost.com/software/my-voice-w67t8v)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-my-voice-w67t8v) · **Best Use of Gemma**
+
+By mapping the user's eye movements to an on-screen cursor, individuals can navigate an anticipatory user interface to construct sentences.
+
+[Code](https://github.com/chrisconnell7/My-Voice-LA-HACKS) · [Demo video](https://www.youtube.com/watch?v=IZJ1qQYpXeE) · Built with gemma, css, elevenlabs, html
+
+### [Nod &amp; Read](https://devpost.com/software/nod-read)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-nod-read) · **Best Use of Gemini API**
+
+An accessible comic reader plays panels aloud and lets readers advance them with facial input.
+
+[Code](https://github.com/PinedaMiguel/panel-reader) · [Demo video](https://www.youtube.com/watch?v=CLpOsb9VDGU) · Built with google-gemini, caddy, docker, edge-tts
+
+### [NueroFlex](https://devpost.com/software/nueroflex)
+
+[HackUTD 2026](../by-hackathon/hackutd-2026.md#project-nueroflex) · **Best Use of Gemini API**
+
+An AI-powered robotic hand controlled by brain-to-muscle intent signals, adapting therapy in real time across stroke, Parkinson’s, and three more conditions for $30.
+
+[Code](https://github.com/HassanKhan20/nuero-grip) · [Demo video](https://vimeo.com/1244909388) · Built with google-gemini, accelerometer, arduino, c++
+
+### [Playwright](https://devpost.com/software/playwright)
+
+[Hacklytics 2026](../by-hackathon/hacklytics-2026.md#project-playwright) · **Best Use of Gemini API**
+
+A filmmaker can turn a screenplay into video previews and storyboard frames.
+
+**How it used Google:** The team use the Gemini API to segment the script into narrative beats.
+
+[Code](https://github.com/akabandaru/Playwright) · [Demo video](https://www.youtube.com/watch?v=W5MAby_ONxk) · Built with gemini, colab, databricks, elevenlabs
+
+### [Rent-Swarm](https://devpost.com/software/rentswarm)
+
+[Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-rentswarm) · **Best Use of Gemini API**
+
+An agentic AI system that fights back for renters—scouting real listings, exposing hidden lease risks, revealing true costs, and negotiating rent so tenants stop guessing and start winning.
+
+[Code](https://github.com/optimusbuilder/Rent-Swarm) · [Demo video](https://www.youtube.com/watch?v=xCzTYc7mIIg) · Built with gemini, amazon-web-services, browserbase, langchain
+
+### [runa](https://devpost.com/software/runa)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-runa) · **Best Use of Gemini API**
+
+Finding you the prompt you deserve.
+
+**How it used Google:** If Gemini is unavailable, the embedding ranking is used, and if the server is unreachable, the extension falls back to a keyword match in the browser.
+
+Built with gemini, chrome, fastapi, google-oauth
+
+### [KnightSource](https://devpost.com/software/knightsource)
+
+[Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-knightsource) · **Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge** · **Best Use of Gemini 2.5 Computer Use**
+
+Agentic AI-Driven Financial Advisor for UCF Students.
+
+**How it used Google:** The AI features included RAG through VertexAI, Google's Embedding Models, Gemini API's structured output, Gemini Computer Use, and Google ADK.
+
+[Code](https://github.com/Adammouedden/KnightSource) · [Demo video](https://www.youtube.com/watch?v=UHDxC3MaZVk) · Built with gemini, geminicomputeruse, fastapi, googleadk
+
+### [A11y Tools](https://devpost.com/software/a11y-b8xg5i)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-a11y-b8xg5i) · **Google Cloud**
+
+A Google Chrome extension that elevates the limitations of people with disabilities and makes web pages accessible to a wider audience.
+
+[Code](https://github.com/ibraouh/a11y-tools) · [Demo video](https://www.youtube.com/watch?v=evGVk7XjDH4) · Built with gemini, google-cloud-ai, agent-based, css
+
+### [Ayn](https://devpost.com/software/orion-7jafvu)
+
+[HackTX 2025](../by-hackathon/hacktx-2025.md#project-orion-7jafvu) · **Best Use of Gemini 2.5 Computer Use Model**
+
+Giving AI coding agents the power to see by letting them visually explore the websites they build, giving them context on how code changes affect web behavior, and iterate intelligently.
+
+**How it used Google:** So far, Ayn can take a developer’s natural-language request, parse it, and autonomously explore a live web app using the Gemini 2.5 Computer Use API.
+
+[Code](https://github.com/aabel4206/CodeUse) · [Demo video](https://www.youtube.com/watch?v=pLatsP3nFF0) · Built with fastapi, gemeniapi, gemenicomputeruse, openrouter
+
+### [Beacon](https://devpost.com/software/beacon-fc3qis)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-beacon-fc3qis) · **Google**
+
+Beacon is a smart navigation app that helps users plan safe routes by having readily available safety features, making them feel that someone is always by their side.
+
+[Code](https://github.com/Bashguy/Beacon) · [Demo video](https://vimeo.com/1123425305) · Built with firebase, google-cloud, expo-go, expo.io
+
+### [BrainSafe](https://devpost.com/software/brainsafe-browser)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-brainsafe-browser) · **Google Cloud**
+
+AI-powered browser extension that protects infant brain development by detecting, modifying and filtering harmful digital content in real time across different video platforms like YouTube, etc.
+
+[Code](https://github.com/abbasidaniyal/BrainSafe) · [Demo video](https://www.youtube.com/watch?v=aABEnFQ2MPE) · Built with gcp, gemini, adk, django
+
+### [BurnoutBuddy](https://devpost.com/software/burnoutbuddy)
+
+[Bitcamp 2025](../by-hackathon/bitcamp-2025.md#project-burnoutbuddy) · **Best Use of Gemini API**
+
+Burnout Buddy watches your steps, commits, and eye bags to decide if you need a nap, a meme, or to touch grass — all in the name of not losing your mind while coding.
+
+[Code](https://github.com/CSin007/Bitcamp2025) · Built with gemini, chart.js, conda, cors
+
+### [CarbonSight](https://devpost.com/software/carbonsight)
+
+[PennApps XXVI 2025](../by-hackathon/pennapps-xxvi-2025.md#project-carbonsight) · **Best use of Gemini API**
+
+CarbonSight is a carbon-aware optimization framework for generative AI:.
+
+**How it used Google:** Built a working agentic framework that routes queries across Gemini models dynamically.
+
+[Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
+
+### [Cena Can See](https://devpost.com/software/cena-can-see)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-cena-can-see) · **Google Gemini: Chase the Future!**
+
+A robot uses what it sees to attempt everyday tasks without training separately for each task.
+
+**How it used Google:** The robot processes multimodal inputs through Gemini's API, accepting both voice commands and visual information from its built-in RGB camera and microphone.
+
+[Code](https://github.com/mahanthesh0r/Cena_Humanoid_Robot) · [Demo video](https://www.youtube.com/watch?v=r0KGeCe9QDk) · Built with c++, javascript, python
+
+### [CLAI](https://devpost.com/software/clai)
+
+[MHacks 2025](../by-hackathon/mhacks-2025.md#project-clai) · **Best Use of Gemini API presented by Google Gemini &#124;&#124; Mechanical Keyboards**
+
+The team spent a long time brainstorming project ideas and could not find one that met the expectations in terms of technicality and creativity.
+
+[Code](https://github.com/Cryplo/MHacks25) · [Demo video](https://vimeo.com/1122664326) · Built with gemini, bash, electron, fastapi
+
+### [earth2echo](https://devpost.com/software/minions-6-7)
+
+[HackTX 2025](../by-hackathon/hacktx-2025.md#project-minions-6-7) · **Best Use of Gemini API**
+
+Live Space-to-Sound (or any video): Pick an ISS/telescope livestream or paste a YouTube link.
+
+**How it used Google:** MLH Best Use of Gemini API: multimodal reasoning + optional Vertex SFT.
+
+[Code](https://github.com/emw8105/hacktx-25) · [Demo video](https://www.youtube.com/watch?v=cLJeS1mnDq8) · Built with gemini, nextjs, python
+
+### [Embers](https://devpost.com/software/insurefire)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-insurefire) · **Google Gemini: Chase the Future!**
+
+Embers may mark the end of a fire, but with us, it's just the beginning.
+
+[Code](https://github.com/twistyyb/insurefire) · [Demo video](https://www.youtube.com/watch?v=t9eNwyadORQ) · Built with gemini, nextjs, python, restapi
+
+### [Emergent](https://devpost.com/software/emergent-b2t1fl)
+
+[Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-emergent-b2t1fl) · **Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge**
+
+AI Agents for complex human disaster dynamics simulation.
+
+**How it used Google:** Dynamic, AI-Powered Scenarios Generative Events: Utilizes Google Gemini to generate realistic disaster scenarios and narrative injects, creating a unique exercise every time.
+
+[Code](https://github.com/myr124/emergent) · [Demo video](https://www.youtube.com/watch?v=LQdMwBeeswU) · Built with gemini, google-adk, nextjs, python
+
+### [EzSpeak](https://devpost.com/software/ezspeak-30hy1w)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-ezspeak-30hy1w) · **Google**
+
+Breaking language barriers, one word at a time.
+
+[Code](https://github.com/EzSpeak-development/EzSpeak-frontend) · [Demo video](https://www.youtube.com/watch?v=0lh1fenJgQw) · Built with azure, azurecognitiveservices, chrome, chromeextensionapi
+
+### [HaloAudit](https://devpost.com/software/haloaudit)
+
+[HackHarvard 2025](../by-hackathon/hackharvard-2025.md#project-haloaudit) · **Best Use of Gemini API**
+
+AI-powered auditor that lives at the top of your screen. Instantly scan files for private info, secrets, and risks the moment you drop them.
+
+**How it used Google:** The team built HaloAudit using Next.js, Cloudflare, Gemini API, Electron, Swift, LangGraph, TypeScript, React, JavaScript, and Python.
+
+[Code](https://github.com/Evandabest/Hackharvard2025) · [Demo video](https://www.youtube.com/watch?v=WgSNcEAPhr8) · Built with gemini-api, cloudflare, electron, javascript
+
+### [Hermes](https://devpost.com/software/hermes-hm4o9l)
+
+[Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-hermes-hm4o9l) · **Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge**
+
+See the world. Speak its stories.
+
+[Code](https://github.com/skatari172/Hermes) · [Demo video](https://www.youtube.com/watch?v=DD6ZQVk9QJE) · Built with gemini-vision, fastapi, firestore, google-adk
+
+### [iMPOSTURE](https://devpost.com/software/straightup-hvet3r)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-straightup-hvet3r) · **Google Cloud**
+
+AI powered ergonomic for healthier minds and bodies.
+
+[Code](https://github.com/abrown33914/iMPOSTURE) · [Demo video](https://www.youtube.com/watch?v=MXY6PnkB3dA) · Built with google-cloud, google-adk, mediapipe, python
+
+### [Jesture](https://devpost.com/software/jesture-sa1v02)
+
+[Bitcamp 2025](../by-hackathon/bitcamp-2025.md#project-jesture-sa1v02) · **Best Use of Gemini API**
+
+Jesture is a magical gesture-based drawing experience where your hands become the paintbrush! Wave your arms about and watch your beautiful (or hilariously terrible) art manifest on your screen.
+
+[Code](https://github.com/jinson-j/jesture) · [Demo video](https://www.youtube.com/watch?v=K0joSJFCJzc) · Built with gemini, google, google-genai, mediapipe
+
+### [Kairos](https://devpost.com/software/kairos-p615yv)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-kairos-p615yv) · **Best Use of Gemini API**
+
+Automated alumni outreach to land the next awesome internship.
+
+[Code](https://github.com/pgunhal/kairos) · [Demo video](https://www.youtube.com/watch?v=AGEZTOmoB64) · Built with gemini, express.js, fastapi, linkd
+
+### [Kori](https://devpost.com/software/kori)
+
+[HackUTD 2025](../by-hackathon/hackutd-2025.md#project-kori) · **Best Use of Gemini API by MLH**
+
+A little pixel companion who studies with you, works with you, rests with you, and helps you take care of your space.
+
+**How it used Google:** Additionally the mobile app uses Gemini to process data to create helpful insights for the user.
+
+[Code](https://github.com/DuckyDaBucky/Kori.Study) · [Demo video](https://www.youtube.com/watch?v=K17fqD58JhA) · Built with 3d, ai-vision, audio-analysis, axios
+
+### [LingoBuddy](https://devpost.com/software/lingobuddy-fkj4g0)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-lingobuddy-fkj4g0) · **Google Gemini: Chase the Future!**
+
+A language tutor adapts practice activities to the learner.
+
+**How it used Google:** A Gemini AI-powered, customizable, language learning platform that balances the importance of language immersion with having a strong vocabulary to provide context for realistic conversations.
+
+[Code](https://github.com/sebjohannessen/lingobuddy) · [Demo video](https://www.youtube.com/watch?v=-gNoVWcP2x8) · Built with google-gemini, fastapi, multimodal, next.js
+
+### [Ming Management Training, a personalized AI-native L&amp;D coach](https://devpost.com/software/ming-management-training-a-personalized-ai-native-l-d-coach)
+
+[HackGT 12 2025](../by-hackathon/hackgt-12-2025.md#project-ming-management-training-a-personalized-ai-native-l-d-coach) · **Best Use of Gemini API**
+
+A management training tool gives new leaders interactive practice scenarios and feedback.
+
+[Code](https://github.com/m3ru/Ming) · [Demo video](https://www.youtube.com/watch?v=iLwUcxP6YE4) · Built with gemini, ai-native, cedaros, cloudflare
+
+### [Remixify](https://devpost.com/software/remixify)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-remixify) · **Best Use of Gemini API**
+
+Remixify is an innovative platform that transforms traditional advertising into an interactive, fun, community-driven experience.
+
+**How it used Google:** Integration with Google's Gemini API extensively for image editing (Nano Banana 🍌).
+
+[Code](https://github.com/nidhigaonkar/calhacks25) · [Demo video](https://www.youtube.com/watch?v=3p9rziCgl7s) · Built with gemini, claude, css, javascript
+
+### [SightSpeech](https://devpost.com/software/sightspeech)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-sightspeech) · **MLH &#124;&#124; Best Use of Gemini API &#124;&#124; Mechanical Keyboards**
+
+Text-to-speech is a near-essential tool for the legally blind; However, normal things like signs, classroom boards, etc., do not have this tool. SightSpeech aims to help solve this issue.
+
+[Code](https://github.com/groffbo/sight-to-speech) · [Demo video](https://www.youtube.com/watch?v=LW55VXFaXiE) · Built with gemini-api, ai, easyocr, flask
+
+### [Systema](https://devpost.com/software/systema)
+
+[Knight Hacks VIII 2025](../by-hackathon/knight-hacks-viii-2025.md#project-systema) · **Best Use of Gemini API**
+
+Transforming system design interviews from holistic, expensive evaluations into consistent, automated assessments.
+
+[Code](https://github.com/ethan-dean/sherm-team-6) · [Demo video](https://www.youtube.com/watch?v=IMPi_oKzPc8) · Built with gemini, elevenlabs, next, postgresql
+
+### [TyodorAI](https://devpost.com/software/tyodor)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-tyodor) · **Google**
+
+Tyodor is a 10-year-old AI that students teach to, reinforcing learning while giving teachers real-time insights, powered by Google Gemini API for interactive learning.
+
+**How it used Google:** The team integrated Google Gemini AI via its OpenAI-compatible interface to power the AI learning assistant, with sophisticated prompts and NLP capabilities to ensure context-aware student interactions.
+
+[Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
+
+### [VibeMovie](https://devpost.com/software/promptmotion)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-promptmotion) · **Best Use of Gemini API**
+
+VibeMovie is an AI-native video editor that turns natural language into a rendered video.
+
+[Code](https://github.com/EvanJYHe/vibe-movie) · [Demo video](https://www.youtube.com/watch?v=CYJZUQVHnmU) · Built with gemini, docker, express.js, javascript
+
+### [VisuWorld](https://devpost.com/software/visuworld)
+
+[Bitcamp 2025](../by-hackathon/bitcamp-2025.md#project-visuworld) · **Best Use of Gemini API**
+
+The team describes the project as “Speak worlds into reality”.
+
+**How it used Google:** The team then embedded it all using OpenAI's embedding models to a RAG database using ChromaDB to make Gemini even more powerful.
+
+[Demo video](https://www.youtube.com/watch?v=HXS_7HzJmYo) · Built with gemini, google-gemini, glsl, google-web-speech-api
+
+### [WingNote](https://devpost.com/software/wingnote)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-wingnote) · **Google Cloud: Best Use of Gemini**
+
+A nursing documentation tool turns captured conversations into structured notes.
+
+**How it used Google:** Integrated Deepgram, Gemini 2.0, Perplexity, and Mistral AI to process medical documentation.
+
+[Code](https://github.com/bencullenn/wing-note) · [Demo video](https://www.youtube.com/watch?v=TX3a1ze3Uwk) · Built with gemini, arduino-nano, deepgram, li-po-battery
+
+### [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-arsl-vr-asl-learning) · **Google**
+
+Learn ASL in AR through Computer Vision and Hand Tracking.
+
+[Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c, c-sharp, embedded, hardware
+
+### [Atom Seiko](https://devpost.com/software/atom-seiko)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-atom-seiko) · **1st Place Best Google AI Breadboard Application**
+
+Atom Suika is an innovative merge dropper chemistry learning experience. It uses an AI backend to power the NPC agents in the game and Mongo databases to store infinite amounts of chemical combos.
+
+[Code](https://github.com/evelynpa1/AtomSeiko) · Built with breadboard, mongodb, node.js, unity
+
+### [DrowsyDriver](https://devpost.com/software/drowsydriver-e31tn6)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-drowsydriver-e31tn6) · **Google**
+
+Real-time computer vision software with fatigue detection system to improve accessibility of the technology and alert drivers in danger of sleepy driving, preventing accidents.
+
+[Code](https://github.com/Alans44/DrowsyDriver) · [Demo video](https://www.youtube.com/watch?v=OK4mCpxNzVs) · Built with azure, dlib, flask, opencv
+
+### [Guardian Angel](https://devpost.com/software/guardian-angel-op49t2)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-guardian-angel-op49t2) · **Most impactful app**
+
+Guardian Angel, always by your side.
+
+**How it used Google:** The team integrated AI technologies, including Google Gemini for voice transcription and Deepgram for audio processing, which enhances the app’s ability to communicate effectively with dispatch services.
+
+[Code](https://github.com/ArianaJohnson/GuardianAngel_calhacks_2024) · Built with google-gemini, deepgram, expo.io, fastapi
+
+### [Healthcare Helper](https://devpost.com/software/healthcare-helper)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-healthcare-helper) · **2nd Place Best Google AI Breadboard Application**
+
+The doctor can view this before a patient visit and gain more information to better and more efficiently help the patient.
+
+[Code](https://github.com/qwopp/healthcare-helper) · [Demo video](https://www.youtube.com/watch?v=JMK3KGh9Wr8) · Built with cartesia-sonic, flask, google-ai-breadboard, html
+
+### [Poker Face](https://devpost.com/software/poker-face)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-poker-face) · **3nd Place Best Google AI Breadboard Application**
+
+Democratizing pro-level Poker play in real-time with computer vision.
+
+[Demo video](https://www.youtube.com/watch?v=RsqhOLFsGEw) · Built with gemini, async-storage, endpoint-api, fastapi
+
+### [ReadEasy](https://devpost.com/software/readeasy-eyaiv1)
+
+[SB Hacks X 2024](../by-hackathon/sb-hacks-x-2024.md#project-readeasy-eyaiv1) · **Best Use of Google Cloud**
+
+ReadEasy: An AI-powered Google Docs add-on that transforms documents into accessible formats, ensuring readability for screen readers and users with visual impairments.
+
+[Code](https://github.com/byrencheema/ReadEasy) · [Demo video](https://www.youtube.com/watch?v=wyKA449dB8w) · Built with css, google-apps-script, html, javascript
+
+### [Refrigerator Ramsay](https://devpost.com/software/refrigerator-ramsay)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-refrigerator-ramsay) · **Most useful app**
+
+A kitchen assistant suggests recipes that use available ingredients before they go to waste.
+
+**How it used Google:** The team used Google Gemini AI for image recognition to identify ingredients from photos. and then, to come up with creative meal ideas.
+
+[Code](https://github.com/sherwinvishesh/Refrigerator-Ramsay) · [Demo video](https://www.youtube.com/watch?v=bNv-EJtd40s) · Built with gemini-ai, fastapi, hume-evi, react
+
+### [Storyscape](https://devpost.com/software/storyscape)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-storyscape) · **Most creative app**
+
+An interactive story gives schoolchildren branching choices while they practice English.
+
+[Code](https://github.com/catfeeshing/storyscape) · Built with firebase, gemini, css, github
+
+### [Voiceboard](https://devpost.com/software/voiceboard-83vn1e)
+
+[ShellHacks 2024](../by-hackathon/shellhacks-2024.md#project-voiceboard-83vn1e) · **Google**
+
+An accessible white-boarding app to voice your ideas into existence.
+
+[Code](https://github.com/DVidal1205/voiceboard) · Built with gemini, google, next, react
+
+### [The Remote University Experience](https://devpost.com/software/the-remote-university-experience)
+
+[HackDuke Code for Good 2020](../by-hackathon/hackduke-code-for-good-2020.md#project-the-remote-university-experience) · **Best use of Google Cloud**
+
+Revolutionizing education, orientations, and the remote college experience for the digital future.
+
+[Code](https://github.com/cindyxu20/hackathon2020) · [Demo video](https://www.youtube.com/watch?v=uE2RPC_NKzs) · Built with google-cloud, css, git, github
+
+### [CounterPoint](https://devpost.com/software/hackmit2019)
+
+[HackMIT 2019](../by-hackathon/hackmit-2019.md#project-hackmit2019) · **Best Use of Google Cloud**
+
+Exit the echo chamber with the help of AI.
+
+[Code](https://github.com/arytonhoi/hackmit2019) · Built with google-cloud, css, html, natural-language-processing
+
+### [Swiper-Go-Swiping](https://devpost.com/software/swiper-go-swiping)
+
+[HackMIT 2019](../by-hackathon/hackmit-2019.md#project-swiper-go-swiping) · **Best Use of Google Cloud**
+
+Reinventing a touch keyboard with machine learning.
+
+**How it used Google:** The team used Google Cloud Platform to train the model.
+
+Built with google-cloud, tensorflow
+
+### [Estar Guars](https://devpost.com/software/estar-guars)
+
+[HackMIT 2018](../by-hackathon/hackmit-2018.md#project-estar-guars) · **VR Zone by Google**
+
+An intergalactic battle for the ages.
+
+[Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W8) · Built with c#, htc-vive, unity
+
+### [ViGCam](https://devpost.com/software/vigicam)
+
+[HackMIT 2018](../by-hackathon/hackmit-2018.md#project-vigicam) · **Best Use of Google Cloud Platform or Firebase**
+
+ViGCam spots active shooters and tracks them through buildings.
+
+[Code](https://github.com/xTEddie/HackMIT2018) · [Demo video](https://www.youtube.com/watch?v=ZCWxii9Kp-k) · Built with django, google-vision, mysql, picam
+
+### [Band Together](https://devpost.com/software/band-together)
+
+[HackMIT 2017](../by-hackathon/hackmit-2017.md#project-band-together) · **Sponsor Prize - Firebase/Google - Best Use of Firebase**
+
+Allows people to join up in a "room" to work on tracks to make beats for a song.
+
+**How it used Google:** Used firebase for server and database/storage as well as to sync up sessions.
+
+[Code](https://github.com/sbower213/band-together) · Built with firebase, css, html5, javascript
+
+### [Heart of Gold](https://devpost.com/software/heart-of-gold-bmydin)
+
+[HackMIT 2017](../by-hackathon/hackmit-2017.md#project-heart-of-gold-bmydin) · **Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up**
+
+Automatic purchase detection and rounding up to make donating to charity easy and habitual for any user.
+
+Built with firebase, ajax, css, html
+
+### [SeQR Scanner and Generator](https://devpost.com/software/seqr-scanner-and-generator)
+
+[HackMIT 2017](../by-hackathon/hackmit-2017.md#project-seqr-scanner-and-generator) · **Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up**
+
+The product encrypts QR codes such that, if scanned by someone who is not authorized to see them, they present an incomprehensible amalgamation of symbols.
+
+**How it used Google:** This was built using cloud functions and Firebase as the back end and a Native-react front end.
+
+Built with firebase, crypto, express.js, javascript
+
+### [ColoVR](https://devpost.com/software/colovr)
+
+[HackMIT 2016](../by-hackathon/hackmit-2016.md#project-colovr) · **Google Cardboard Development Prize**
+
+Virtual reality 3D coloring/painting experience for Google Daydream.
+
+[Code](https://github.com/ascn/ColoVR) · [Demo video](https://www.youtube.com/watch?v=HldNqLBlTgc) · Built with daydream, unity
+
+### [Crowd Search](https://devpost.com/software/crowd-search-zjq3ro)
+
+[HackMIT 2016](../by-hackathon/hackmit-2016.md#project-crowd-search-zjq3ro) · **Best use of Firebase**
+
+A platform that helps people collaborate towards finding missing people.
+
+**How it used Google:** Crowd Search makes heavy use of Firebase, and is because of this a completely front-end based application, hosted on Firebase Hosting.
+
+[Code](https://github.com/ekmartin/hackmit-crowdsearch) · Built with firebase, babel, javascript, react
+
+### [DronAR](https://devpost.com/software/dronar)
+
+[HackMIT 2016](../by-hackathon/hackmit-2016.md#project-dronar) · **Google Cardboard Development Prize**
+
+DronAR allows users to view realtime information about their drones such as positional data and status.
+
+Built with azure, express.js, mongodb, node.js
+
+### [TourDeMarsVR](https://devpost.com/software/tourdemarsvr)
+
+[HackMIT 2016](../by-hackathon/hackmit-2016.md#project-tourdemarsvr) · **Google Cardboard Development Prize**
+
+A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
+
+Built with firebase, arduino, c++, google-cardboard
+
+### [VR DJ](https://devpost.com/software/vr-dj)
+
+[HackMIT 2016](../by-hackathon/hackmit-2016.md#project-vr-dj) · **Google Cardboard Development Prize**
+
+VR DJ allows you to visualize and manipulate music.
+
+Built with c#, unity, vive
+
+### [GTAVI](https://devpost.com/software/gtavi)
+
+[HackMIT 2013](../by-hackathon/hackmit-2013.md#project-gtavi) · **Google, Inc.**
+
+The Devpost entry has no usable short project description.
+
+Built with google-earth, weather-underground
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | &#91;MLH&#93; Best Use of Gemini API | Gemini API | [Track label](https://bitcamp-2026.devpost.com/) |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;MLH&#93; Best Use of Gemini API | Gemini API | [Track label](https://cal-hacks-13-0.devpost.com/) |
@@ -151,3 +700,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Google, Inc. | No specific requirement captured | [Event prize rules](https://hackmit.devpost.com/) |
 
 </details>
+
+[Back to top](#google)

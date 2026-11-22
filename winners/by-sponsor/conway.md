@@ -1,30 +1,47 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Conway
+
 # Conway
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Conway)
 
 ## What winners have in common
 
-- **Most listed tech** claude (1), dlib (1), elasticsearch (1)
-- **Common project areas** None listed
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** claude (1), dlib (1), elasticsearch (1), ffmpeg (1), gemini (1)
+- **Project areas:** None listed
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Argus](https://devpost.com/software/argus-w6i0pv) · [code](https://github.com/GodPuffin/argus) · [demo](https://www.youtube.com/watch?v=enZRqW1eOOM) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Most Data-Intensive Application · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-argus-w6i0pv) | Argus combines AI, computer vision, and real-time streaming to deliver intelligent, low-latency surveillance… | claude, elasticsearch, gemini |
-| [InSight](https://devpost.com/software/insight-vyfj5z) · [demo](https://www.youtube.com/watch?v=fq3KNSE-kns) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Most Data-Intensive Application · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-insight-vyfj5z) | Insight uses Meta Ray-Bans to record your every interaction, creating an AI clone of yourself that completely… | dlib, ffmpeg, mcp |
+Newest hackathons first.
+
+### [Argus](https://devpost.com/software/argus-w6i0pv)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-argus-w6i0pv) · **Most Data-Intensive Application**
+
+Argus combines AI, computer vision, and real-time streaming to deliver intelligent, low-latency surveillance with instant threat detection, reporting, and search across all your video networks.
+
+[Code](https://github.com/GodPuffin/argus) · [Demo video](https://www.youtube.com/watch?v=enZRqW1eOOM) · Built with claude, elasticsearch, gemini, groq
+
+### [InSight](https://devpost.com/software/insight-vyfj5z)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-insight-vyfj5z) · **Most Data-Intensive Application**
+
+Insight uses Meta Ray-Bans to record your every interaction, creating an AI clone of yourself that completely understands your virtual and physical relationships to streamline your work.
+
+[Demo video](https://www.youtube.com/watch?v=fq3KNSE-kns) · Built with dlib, ffmpeg, mcp, opencv
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | Conway: Most Data-Intensive Application | No specific requirement captured | [Event prize rules](https://cal-hacks-12-0.devpost.com/) |
 
 </details>
+
+[Back to top](#conway)

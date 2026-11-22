@@ -1,32 +1,68 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Aramco
+
 # Aramco
 
-**5 projects · 3 editions · 5 prize rows**
-
-[Winners index](../README.md)
+**5 winning projects** · 3 hackathons · 5 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Aramco)
 
 ## What winners have in common
 
-- **Most listed tech** github (3), html (3), gemini (2)
-- **Common project areas** Games and entertainment (2), Health and care (1)
-- **Common demo formats** Game (2), AR, VR or spatial (1), Hardware or robotics (1)
-- **Projects with a listed demo video** 4 of 5
+- **Most used tech:** github (3), html (3), gemini (2), javascript (2), node.js (2)
+- **Project areas:** Games and entertainment (2), Health and care (1)
+- **Demo formats:** Playable game (2), AR, VR or spatial (1), Hardware or robotics (1)
+- **Demo videos:** 4 of 5 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [DopaMarine](https://devpost.com/software/dopamarine) · [code](https://github.com/Srihansi-Sagi/dopamarine) · [demo](https://www.youtube.com/watch?v=fypMoDu_UN0) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · A Marina’s Mission - 2nd Place · [details](../by-hackathon/hackgt-13-2026.md#project-dopamarine) | A study game for dopamine-hungry brains: turn your notes into AI-made levels built for how you learn, beat… | css3, figma, gemini |
-| [TapChart](https://devpost.com/software/tapchart) · [demo](https://www.youtube.com/watch?v=A9tN4Z6MoyE) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · A Marina’s Mission - 1st Place · [details](../by-hackathon/hackgt-13-2026.md#project-tapchart) | When Parkinson's symptoms mimic a stroke, missing context can mean misdiagnosis. TapChart puts a patient's… | claude, css, html |
-| [Gestura](https://devpost.com/software/gestura-6m3xfv) · [code](https://github.com/Eben-Siyabalapitiya/Gestura) · [demo](https://www.youtube.com/watch?v=oqHZeFjPbFE) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Aramco Americas: Best Beginner Hack · [details](../by-hackathon/hack-the-north-2026.md#project-gestura-6m3xfv) | Gloves that turn your movements and voice into game controls, so instead of learning the controller, the… | c++, esp32, gemini |
-| [Providence](https://devpost.com/software/providence-tn6m4h) · [demo](https://www.youtube.com/watch?v=Nec6JXXG9Cw) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Aramco Americas: Best Beginner Hack · [details](../by-hackathon/hack-the-north-2026.md#project-providence-tn6m4h) | Providence unifies your devices and AI conversations through one superagent that carries context between… | cloudflare, codex, github |
-| [SiteOps](https://devpost.com/software/siteops) · [code](https://github.com/rajvratzoom/siteops-final) | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) · Aramco Power the Future Track Prize · [details](../by-hackathon/hackharvard-2025.md#project-siteops) | The team describes the project as ““Real-Time Control for Safer Construction.””. | bytetrack, bytetrack-(object-tracking)-ai/ml:-google-gemini-2.5-flash-(rag-based-chat-assistant-and-autonomous-site-monitoring-agent)-infrastructure:-supabase-for-database-and-storage, coco-ssd |
+Newest hackathons first.
+
+### [DopaMarine](https://devpost.com/software/dopamarine)
+
+[HackGT 13 2026](../by-hackathon/hackgt-13-2026.md#project-dopamarine) · **A Marina’s Mission - 2nd Place**
+
+A study game for dopamine-hungry brains: turn your notes into AI-made levels built for how you learn, beat the final boss, and battle friends in AR and grow from tiny krill into a mighty fish.
+
+[Code](https://github.com/Srihansi-Sagi/dopamarine) · [Demo video](https://www.youtube.com/watch?v=fypMoDu_UN0) · Built with css3, figma, gemini, github
+
+### [Gestura](https://devpost.com/software/gestura-6m3xfv)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-gestura-6m3xfv) · **Aramco Americas: Best Beginner Hack**
+
+Gloves that turn your movements and voice into game controls, so instead of learning the controller, the controller learns you.
+
+[Code](https://github.com/Eben-Siyabalapitiya/Gestura) · [Demo video](https://www.youtube.com/watch?v=oqHZeFjPbFE) · Built with c++, esp32, gemini, html
+
+### [Providence](https://devpost.com/software/providence-tn6m4h)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-providence-tn6m4h) · **Aramco Americas: Best Beginner Hack**
+
+Providence unifies your devices and AI conversations through one superagent that carries context between tasks and coordinates work across devices simultaneously, all from a single interface.
+
+[Demo video](https://www.youtube.com/watch?v=Nec6JXXG9Cw) · Built with cloudflare, codex, github, nginx
+
+### [TapChart](https://devpost.com/software/tapchart)
+
+[HackGT 13 2026](../by-hackathon/hackgt-13-2026.md#project-tapchart) · **A Marina’s Mission - 1st Place**
+
+When Parkinson's symptoms mimic a stroke, missing context can mean misdiagnosis. TapChart puts a patient's motor baseline one NFC tap away, giving care teams a vital point of comparison.
+
+[Demo video](https://www.youtube.com/watch?v=A9tN4Z6MoyE) · Built with claude, css, html, javascript
+
+### [SiteOps](https://devpost.com/software/siteops)
+
+[HackHarvard 2025](../by-hackathon/hackharvard-2025.md#project-siteops) · **Aramco Power the Future Track Prize**
+
+The team describes the project as ““Real-Time Control for Safer Construction.””.
+
+[Code](https://github.com/rajvratzoom/siteops-final) · Built with bytetrack, bytetrack-(object-tracking)-ai/ml:-google-gemini-2.5-flash-(rag-based-chat-assistant-and-autonomous-site-monitoring-agent)-infrastructure:-supabase-for-database-and-storage, coco-ssd, fastapi
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | Aramco: A Marina’s Mission - 1st Place | No specific requirement captured | [Event prize rules](https://hackgt13.devpost.com/) |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | Aramco: A Marina’s Mission - 2nd Place | No specific requirement captured | [Event prize rules](https://hackgt13.devpost.com/) |
@@ -34,3 +70,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [HackHarvard 2025](../by-hackathon/hackharvard-2025.md) | Aramco Power the Future Track Prize | No specific requirement captured | [Event prize rules](https://hackharvard-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#aramco)

@@ -1,56 +1,282 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Solana
+
 # Solana
 
-**29 projects · 22 editions · 29 prize rows**
-
-[Winners index](../README.md)
+**29 winning projects** · 22 hackathons · 29 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Solana)
 
 ## What winners have in common
 
-- **Most listed tech** solana (22), react (16), python (15)
-- **Common project areas** Finance and commerce (3), Safety and emergency response (2), Climate and environment (1)
-- **Common demo formats** Web app or dashboard (6), Hardware or robotics (2), CLI or developer tool (1)
-- **Projects with a listed demo video** 24 of 29
+- **Most used tech:** solana (22), react (16), python (15), typescript (15), rust (8)
+- **Project areas:** Finance and commerce (3), Safety and emergency response (2), Climate and environment (1)
+- **Demo formats:** Web app or dashboard (6), Hardware or robotics (2), Command line or SDK (1)
+- **Demo videos:** 24 of 29 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Extract](https://devpost.com/software/vanillatrail) · [code](https://github.com/SujanPoudel23/Extract) · [demo](https://www.youtube.com/watch?v=AUpQ-0V719o) | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) · Best Use of Solana · [details](../by-hackathon/bitcamp-2026.md#project-vanillatrail) | Real vanilla, real proof. Extract is a digital trust system for the vanilla industry that stops fraud by… | anchor, solana, express.js |
-| [GurtOS](https://devpost.com/software/gurtos) · [code](https://github.com/benz16107/gurtos) · [demo](https://www.youtube.com/watch?v=3hDnLuUqmjM) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Solana · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-gurtos) | An operating environment isolates each AI agent task in a separate Linux user and lets people review spending… | solana, apify, asi-one |
-| [scaled.](https://devpost.com/software/scale-diffusion) · [code](https://github.com/theodorechapman/scale-diffusion) · [demo](https://www.youtube.com/watch?v=_E0CEj3cWFg) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Best Use of Solana · [details](../by-hackathon/hack-brown-2026.md#project-scale-diffusion) | crowdsourced diffusion data for world models on solana. | solana, amazon-web-services, decart |
-| [DataCrawl](https://devpost.com/software/datacrawl) · [code](https://github.com/Aarushvinod/DataCrawl) · [demo](https://www.youtube.com/watch?v=t-F03o3KFjQ) | [HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md) · Best Use of Solana · [details](../by-hackathon/hackduke-code-for-good-2026.md#project-datacrawl) | DataCrawl turns plain-English data requests into fresh datasets. AI agents plan, scrape, generate, normalize,… | solana, auth0, beautiful-soup |
-| [Rescu](https://devpost.com/software/rescu-qfuz8e) · [code](https://github.com/NikhileshThiru/rescu) · [demo](https://www.youtube.com/watch?v=WFwmonSq6Fg) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · MLH: Best Use of Solana · [details](../by-hackathon/hackgt-13-2026.md#project-rescu-qfuz8e) | EBT for disasters, on Solana. Aid lands 0.93s after the storm hits, spendable only at verified local stores. | anchor, solana, cursor |
-| [VERA](https://devpost.com/software/vera-r3gp7l) · [code](https://github.com/9nesh/VERA) · [demo](https://www.youtube.com/watch?v=62N696AcAkE) | [Hacklytics 2026](../by-hackathon/hacklytics-2026.md) · Best Use of Solana · [details](../by-hackathon/hacklytics-2026.md#project-vera-r3gp7l) | A lender can screen potential properties for environmental risks before approving financing. | solana, solana-py, solders |
-| [KinFold](https://devpost.com/software/kinfold) · [demo](https://www.youtube.com/watch?v=DKfr1q-T7UU) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Best Use of Solana · [details](../by-hackathon/hackprinceton-fall-2026.md#project-kinfold) | 16,000 people in the U.S. are still waiting for their names. One wrong branch can point to the wrong person. | solana, deepagents, gemini |
-| [Among Us](https://devpost.com/software/among-us-lbrwjk) · [code](https://github.com/s-illly/htn-amongus) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Solana and Badge Hack · [details](../by-hackathon/hack-the-north-2026.md#project-among-us-lbrwjk) | Every player is armed with an ESP32-C3 badge with an LED strip, a small screen, buttons, an IMU, and an NFC… | c++, esp-now, esp32-c3 |
-| [Settlers of Solana](https://devpost.com/software/_solanasim) · [code](https://github.com/leakyhose/agent-economy) · [demo](https://www.youtube.com/watch?v=2_bnZhsAtcY) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · Best Use of Solana and Badge Hack · [details](../by-hackathon/hack-the-north-2026.md#project-_solanasim) | Swarm of AI agents simulates a free-market economy on Solana. | solana, baseten, claude |
-| [Orkis](https://devpost.com/software/orkis) · [demo](https://www.youtube.com/watch?v=GxNBCI4yyYI) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · Best Use of Solana · [details](../by-hackathon/hacktx-2026.md#project-orkis) | Orkis makes it easy for people and enterprise teams to launch and manage AI agents. Orkis configures the… | alembic, better-auth, caddy |
-| [Night Watch](https://devpost.com/software/jaag) · [code](https://github.com/ja0011/hackutd) · [demo](https://www.youtube.com/watch?v=AyKfSoJEeGI) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Best Use of Solana · [details](../by-hackathon/hackutd-2026.md#project-jaag) | Night Watch is an oracle for data center operations, built around two goals. | solana, google-news-rss, node.js |
-| [solGPU](https://devpost.com/software/solgpu) · [code](https://github.com/OzBoz-Dev/knighthacks-2026) · [demo](https://www.youtube.com/watch?v=EDPen_Iu5QY) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Solana · [details](../by-hackathon/knight-hacks-ix-2026.md#project-solgpu) | A marketplace lets developers browse GPU capacity and reserve it through a blockchain transaction. | solana, databricks, devin |
-| [Sentinel.ai](https://devpost.com/software/sentinel-ai-ls7eq5) · [demo](https://www.youtube.com/watch?v=8iKrZ4sSS_I) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · MLH: Best Use of Solana · [details](../by-hackathon/la-hacks-2026.md#project-sentinel-ai-ls7eq5) | Sentinel.ai monitors live camera streams and flags important activity. | solana, api, atlas |
-| [No Badge Actors](https://devpost.com/software/no-badge-actors) · [code](https://github.com/ayushmk7/NoBadgeActors) · [demo](https://www.youtube.com/watch?v=ZWM99jsHEmQ) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best Use of Solana · [details](../by-hackathon/mhacks-2026.md#project-no-badge-actors) | A hardware wallet shows who will receive a payment and what the user is about to sign. | solana, solana-attestation-service, arduino |
-| [Argus](https://devpost.com/software/argus-fgtsu5) · [code](https://github.com/JohnsonL111/argus) · [demo](https://www.youtube.com/watch?v=p849nn0xS1k) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) · Best Use of Solana · [details](../by-hackathon/nwhacks-2026.md#project-argus-fgtsu5) | Argus is a dev tool that integrates models/dataset workflows with seamless and secure versioning - designed… | solana, gemini, python |
-| [Nomad](https://devpost.com/software/nomad-ha90qx) · [code](https://github.com/SanjayMarathe/nomad) · [demo](https://www.youtube.com/watch?v=JQJX066AJHk) | [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md) · Best Use of Solana · [details](../by-hackathon/sb-hacks-xii-2026.md#project-nomad-ha90qx) | Turn live conversations into a shared itinerary—maps, places, and bookings update as you talk. | solana, deepgram, gemini |
-| [MomentumX](https://devpost.com/software/momentumx-er2kg9) · [code](https://github.com/FastMartini/Shellhacks-2026) · [demo](https://vimeo.com/1230689653) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · Best Use of Solana · [details](../by-hackathon/shellhacks-2026.md#project-momentumx-er2kg9) | MomentumX gives global traders an edge by pairing tokenized stocks with real-time momentum scanners built for… | solana-sdk, css, fastapi |
-| [KiwiMarket](https://devpost.com/software/kiwimarket) · [code](https://github.com/darthmaulsw/KiwiMarket) · [demo](https://www.youtube.com/watch?v=fTe_Vp-uYDk) | [YHack Spring 2026](../by-hackathon/yhack-spring-2026.md) · Best Use of Solana · [details](../by-hackathon/yhack-spring-2026.md#project-kiwimarket) | A prediction market for physical goods and services. | solana, anthropic, python |
-| [AutoTrust](https://devpost.com/software/blockchain-dmuro3) · [code](https://github.com/HassanZafar-2021/AutoTrust) · [demo](https://www.youtube.com/watch?v=lWGJleFYmqM) | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) · Track: Solana &amp; Blockchain Innovation · [details](../by-hackathon/hacknyu-2025.md#project-blockchain-dmuro3) | A decentralized car marketplace operating on the Solana block chain. No middlemen, no hidden fees—just trust,… | anchor, blockchain, fastapi |
-| [Solbate](https://devpost.com/software/solbate) · [code](https://github.com/lawaldemur/HackNYU) · [demo](https://www.youtube.com/watch?v=-JSJSiqH1JE) | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) · Track: Solana &amp; Blockchain Innovation · [details](../by-hackathon/hacknyu-2025.md#project-solbate) | Solana based game with a goal of winning an argument against a LLM. | anchor, solana, amazon-web-services |
-| [SolHive](https://devpost.com/software/solhive) · [demo](https://www.youtube.com/watch?v=anMExD1-qms) | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) · Track: Solana &amp; Blockchain Innovation · [details](../by-hackathon/hacknyu-2025.md#project-solhive) | SolHive is a platform to navigate NFT Markets &amp; Network Congestion with AI. It uses real-time blockchain… | alchemyapi, graph, javascript |
-| [SolSpeak](https://devpost.com/software/n-kp7oqy) · [code](https://github.com/Loldude0/hacknyu) | [HackNYU 2025](../by-hackathon/hacknyu-2025.md) · Track: Solana &amp; Blockchain Innovation · [details](../by-hackathon/hacknyu-2025.md#project-n-kp7oqy) | Yes, you read that right – not just devnet, but mainnet-beta. | solana, python, react |
-| [HypeChain](https://devpost.com/software/hypechain) · [code](https://github.com/alin9661/HypeChain) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · Solana Challenge - Best Project Built on Solana · [details](../by-hackathon/hacknyu-fall-2025.md#project-hypechain) | HypeChain is a decentralized marketplace for physical goods, secured by on-chain escrow and tokenization. | solana, openrouter |
-| [Insta-Relief](https://devpost.com/software/insta-relief) · [code](https://github.com/aakash2060/insta-relief) · [demo](https://www.youtube.com/watch?v=friog1wMYu8) | [HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md) · MLH - Best Use of Solana · [details](../by-hackathon/hacknyu-fall-2025.md#project-insta-relief) | When disasters strike, traditional insurance is slow.InstaRelief delivers instant USD payouts using Solana-… | solana, claude, firebase |
-| [Solshare](https://devpost.com/software/solshare-cmxous) | [Hack the North 2025](../by-hackathon/hack-the-north-2025.md) · Best Consumer Payment Experience with Solana Pay · [details](../by-hackathon/hack-the-north-2025.md#project-solshare-cmxous) | Splitting bills with friends is messy—receipts get lost, people forget to pay, and tracking balances is a… | solana, cohere, firebase |
-| [Pact](https://devpost.com/software/autotract) · [demo](https://www.youtube.com/watch?v=OgYibmNNUD8) | [HackUTD 2025](../by-hackathon/hackutd-2025.md) · Best Use of Solana · [details](../by-hackathon/hackutd-2025.md#project-autotract) | Expediting the contracts and document signings process between vendors and clients by bringing clarity,… | anchor, gemini, node.js |
-| [Dune MCP](https://devpost.com/software/dune-mcp) · [code](https://github.com/Apollo005/dune_mcp) · [demo](https://vimeo.com/1122601872) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · Most Creative Solana MCP · [details](../by-hackathon/mhacks-2025.md#project-dune-mcp) | Run powerful Dune queries and unlock blockchain insights by paying in USDC/SOL per result with x402. This… | solana, css, duneanalytics |
-| [Solvend](https://devpost.com/software/solvend) · [code](https://github.com/hyungminoh2/Solvend-mhacks2025) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · Most Creative Solana MCP · [details](../by-hackathon/mhacks-2025.md#project-solvend) | A way to be updated with the most up-to-date information on crypto and assets - compiled with AI. | flask, google-generative-ai-(gemini-1.5), javascript |
-| [Trader's Co-Pilot](https://devpost.com/software/trader-s-co-pilot) · [code](https://github.com/rajashekarcs2023/mhacks-solana) · [demo](https://www.youtube.com/watch?v=21jeXHPXkEw) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · Most Creative Solana MCP · [details](../by-hackathon/mhacks-2025.md#project-trader-s-co-pilot) | Trader’s Co-Pilot: the first AI-native Solana trading platform on MCP with 14 pro tools for safe blockchain… | solana, javascript, mcp |
+Newest hackathons first.
+
+### [Among Us](https://devpost.com/software/among-us-lbrwjk)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-among-us-lbrwjk) · **Best Use of Solana and Badge Hack**
+
+Every player is armed with an ESP32-C3 badge with an LED strip, a small screen, buttons, an IMU, and an NFC reader.
+
+[Code](https://github.com/s-illly/htn-amongus) · Built with c++, esp-now, esp32-c3, espressif
+
+### [Argus](https://devpost.com/software/argus-fgtsu5)
+
+[nwHacks 2026](../by-hackathon/nwhacks-2026.md#project-argus-fgtsu5) · **Best Use of Solana**
+
+Argus is a dev tool that integrates models/dataset workflows with seamless and secure versioning - designed for quant researchers.
+
+[Code](https://github.com/JohnsonL111/argus) · [Demo video](https://www.youtube.com/watch?v=p849nn0xS1k) · Built with solana, gemini, python, rust
+
+### [DataCrawl](https://devpost.com/software/datacrawl)
+
+[HackDuke Code for Good 2026](../by-hackathon/hackduke-code-for-good-2026.md#project-datacrawl) · **Best Use of Solana**
+
+DataCrawl turns plain-English data requests into fresh datasets. AI agents plan, scrape, generate, normalize, and validate the data you need, then deliver clean, usable files for analysis today.
+
+[Code](https://github.com/Aarushvinod/DataCrawl) · [Demo video](https://www.youtube.com/watch?v=t-F03o3KFjQ) · Built with solana, auth0, beautiful-soup, css
+
+### [Extract](https://devpost.com/software/vanillatrail)
+
+[Bitcamp 2026](../by-hackathon/bitcamp-2026.md#project-vanillatrail) · **Best Use of Solana**
+
+Real vanilla, real proof. Extract is a digital trust system for the vanilla industry that stops fraud by requiring both sender and receiver to sign off on every handoff through Blockchain.
+
+[Code](https://github.com/SujanPoudel23/Extract) · [Demo video](https://www.youtube.com/watch?v=AUpQ-0V719o) · Built with anchor, solana, express.js, leaflet.js
+
+### [GurtOS](https://devpost.com/software/gurtos)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-gurtos) · **Best Use of Solana**
+
+An operating environment isolates each AI agent task in a separate Linux user and lets people review spending and undo changes.
+
+[Code](https://github.com/benz16107/gurtos) · [Demo video](https://www.youtube.com/watch?v=3hDnLuUqmjM) · Built with solana, apify, asi-one, claude
+
+### [KinFold](https://devpost.com/software/kinfold)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-kinfold) · **Best Use of Solana**
+
+16,000 people in the U.S. are still waiting for their names. One wrong branch can point to the wrong person.
+
+**How it used Solana:** Gemini, LangChain, MongoDB and Solana all working in one weekend, and the demo still runs offline.
+
+[Demo video](https://www.youtube.com/watch?v=DKfr1q-T7UU) · Built with solana, deepagents, gemini, google-ai-studio
+
+### [KiwiMarket](https://devpost.com/software/kiwimarket)
+
+[YHack Spring 2026](../by-hackathon/yhack-spring-2026.md#project-kiwimarket) · **Best Use of Solana**
+
+A prediction market for physical goods and services.
+
+[Code](https://github.com/darthmaulsw/KiwiMarket) · [Demo video](https://www.youtube.com/watch?v=fTe_Vp-uYDk) · Built with solana, anthropic, python, react
+
+### [MomentumX](https://devpost.com/software/momentumx-er2kg9)
+
+[ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-momentumx-er2kg9) · **Best Use of Solana**
+
+MomentumX gives global traders an edge by pairing tokenized stocks with real-time momentum scanners built for faster day and swing trading decisions.
+
+[Code](https://github.com/FastMartini/Shellhacks-2026) · [Demo video](https://vimeo.com/1230689653) · Built with solana-sdk, css, fastapi, python
+
+### [Night Watch](https://devpost.com/software/jaag)
+
+[HackUTD 2026](../by-hackathon/hackutd-2026.md#project-jaag) · **Best Use of Solana**
+
+Night Watch is an oracle for data center operations, built around two goals.
+
+**How it used Solana:** Solana devnet holds the signed audit trail, using the Memo program with sha256 fingerprints.
+
+[Code](https://github.com/ja0011/hackutd) · [Demo video](https://www.youtube.com/watch?v=AyKfSoJEeGI) · Built with solana, google-news-rss, node.js, nvidia-nemotron
+
+### [No Badge Actors](https://devpost.com/software/no-badge-actors)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-no-badge-actors) · **Best Use of Solana**
+
+A hardware wallet shows who will receive a payment and what the user is about to sign.
+
+[Code](https://github.com/ayushmk7/NoBadgeActors) · [Demo video](https://www.youtube.com/watch?v=ZWM99jsHEmQ) · Built with solana, solana-attestation-service, arduino, bluetooth
+
+### [Nomad](https://devpost.com/software/nomad-ha90qx)
+
+[SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md#project-nomad-ha90qx) · **Best Use of Solana**
+
+Turn live conversations into a shared itinerary—maps, places, and bookings update as you talk.
+
+**How it used Solana:** Payments: Solana Web3.js integrates with Phantom wallet for devnet transactions.
+
+[Code](https://github.com/SanjayMarathe/nomad) · [Demo video](https://www.youtube.com/watch?v=JQJX066AJHk) · Built with solana, deepgram, gemini, livekit
+
+### [Orkis](https://devpost.com/software/orkis)
+
+[HackTX 2026](../by-hackathon/hacktx-2026.md#project-orkis) · **Best Use of Solana**
+
+Orkis makes it easy for people and enterprise teams to launch and manage AI agents. Orkis configures the agents and coordinates their work, with each new agent reusing the setup you already have.
+
+[Demo video](https://www.youtube.com/watch?v=GxNBCI4yyYI) · Built with alembic, better-auth, caddy, claude
+
+### [Rescu](https://devpost.com/software/rescu-qfuz8e)
+
+[HackGT 13 2026](../by-hackathon/hackgt-13-2026.md#project-rescu-qfuz8e) · **Best Use of Solana**
+
+EBT for disasters, on Solana. Aid lands 0.93s after the storm hits, spendable only at verified local stores.
+
+**How it used Solana:** Rescu is a disaster relief market built on Solana.
+
+[Code](https://github.com/NikhileshThiru/rescu) · [Demo video](https://www.youtube.com/watch?v=WFwmonSq6Fg) · Built with anchor, solana, cursor, deck.gl
+
+### [scaled.](https://devpost.com/software/scale-diffusion)
+
+[Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-scale-diffusion) · **Best Use of Solana**
+
+crowdsourced diffusion data for world models on solana.
+
+[Code](https://github.com/theodorechapman/scale-diffusion) · [Demo video](https://www.youtube.com/watch?v=_E0CEj3cWFg) · Built with solana, amazon-web-services, decart, langgraph
+
+### [Sentinel.ai](https://devpost.com/software/sentinel-ai-ls7eq5)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-sentinel-ai-ls7eq5) · **Best Use of Solana**
+
+Sentinel.ai monitors live camera streams and flags important activity.
+
+[Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_I) · Built with solana, api, atlas, cloud
+
+### [Settlers of Solana](https://devpost.com/software/_solanasim)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-_solanasim) · **Best Use of Solana and Badge Hack**
+
+Swarm of AI agents simulates a free-market economy on Solana.
+
+**How it used Solana:** An agent pledges wood, a net or a half-built house, and the Solana program mints coins against it.
+
+[Code](https://github.com/leakyhose/agent-economy) · [Demo video](https://www.youtube.com/watch?v=2_bnZhsAtcY) · Built with solana, baseten, claude, codex
+
+### [solGPU](https://devpost.com/software/solgpu)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-solgpu) · **Best Use of Solana**
+
+A marketplace lets developers browse GPU capacity and reserve it through a blockchain transaction.
+
+[Code](https://github.com/OzBoz-Dev/knighthacks-2026) · [Demo video](https://www.youtube.com/watch?v=EDPen_Iu5QY) · Built with solana, databricks, devin, golang
+
+### [VERA](https://devpost.com/software/vera-r3gp7l)
+
+[Hacklytics 2026](../by-hackathon/hacklytics-2026.md#project-vera-r3gp7l) · **Best Use of Solana**
+
+A lender can screen potential properties for environmental risks before approving financing.
+
+**How it used Solana:** It serializes the payload, computes a SHA-256 fingerprint, and submits a compact summary and fingerprint through Solana's SPL Memo program , using solders and solana-py .
+
+[Code](https://github.com/9nesh/VERA) · [Demo video](https://www.youtube.com/watch?v=62N696AcAkE) · Built with solana, solana-py, solders, actian
+
+### [AutoTrust](https://devpost.com/software/blockchain-dmuro3)
+
+[HackNYU 2025](../by-hackathon/hacknyu-2025.md#project-blockchain-dmuro3) · **Track: Solana &amp; Blockchain Innovation**
+
+A decentralized car marketplace operating on the Solana block chain. No middlemen, no hidden fees—just trust, speed, and transparency.
+
+[Code](https://github.com/HassanZafar-2021/AutoTrust) · [Demo video](https://www.youtube.com/watch?v=lWGJleFYmqM) · Built with anchor, blockchain, fastapi, llm
+
+### [Dune MCP](https://devpost.com/software/dune-mcp)
+
+[MHacks 2025](../by-hackathon/mhacks-2025.md#project-dune-mcp) · **Most Creative Solana MCP**
+
+Run powerful Dune queries and unlock blockchain insights by paying in USDC/SOL per result with x402. This Dune MCP server delivers raw on-chain data instantly through simple pay-per-query access.
+
+[Code](https://github.com/Apollo005/dune_mcp) · [Demo video](https://vimeo.com/1122601872) · Built with solana, css, duneanalytics, html
+
+### [HypeChain](https://devpost.com/software/hypechain)
+
+[HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md#project-hypechain) · **Solana Challenge - Best Project Built on Solana**
+
+HypeChain is a decentralized marketplace for physical goods, secured by on-chain escrow and tokenization.
+
+**How it used Solana:** The team built HypeChain on the Solana stack for its high speed, low transaction fees, and robust developer ecosystem.
+
+[Code](https://github.com/alin9661/HypeChain) · Built with solana, openrouter
+
+### [Insta-Relief](https://devpost.com/software/insta-relief)
+
+[HackNYU Fall 2025](../by-hackathon/hacknyu-fall-2025.md#project-insta-relief) · **Best Use of Solana**
+
+When disasters strike, traditional insurance is slow.InstaRelief delivers instant USD payouts using Solana-powered parametric triggers the moment your ZIP is impacted. Relief in seconds, not weeks.
+
+[Code](https://github.com/aakash2060/insta-relief) · [Demo video](https://www.youtube.com/watch?v=friog1wMYu8) · Built with solana, claude, firebase, noaa
+
+### [Pact](https://devpost.com/software/autotract)
+
+[HackUTD 2025](../by-hackathon/hackutd-2025.md#project-autotract) · **Best Use of Solana**
+
+Expediting the contracts and document signings process between vendors and clients by bringing clarity, transparency, and accountability.
+
+**How it used Solana:** Pact runs on three Solana programs written in Rust with Anchor.
+
+[Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
+
+### [Solbate](https://devpost.com/software/solbate)
+
+[HackNYU 2025](../by-hackathon/hacknyu-2025.md#project-solbate) · **Track: Solana &amp; Blockchain Innovation**
+
+Solana based game with a goal of winning an argument against a LLM.
+
+[Code](https://github.com/lawaldemur/HackNYU) · [Demo video](https://www.youtube.com/watch?v=-JSJSiqH1JE) · Built with anchor, solana, amazon-web-services, llm
+
+### [SolHive](https://devpost.com/software/solhive)
+
+[HackNYU 2025](../by-hackathon/hacknyu-2025.md#project-solhive) · **Track: Solana &amp; Blockchain Innovation**
+
+SolHive is a platform to navigate NFT Markets &amp; Network Congestion with AI. It uses real-time blockchain metrics, NFT recommendations, and predictive analytics to optimize transactions.
+
+**How it used Solana:** The application provides real-time insights into Solana’s network performance by analyzing key metrics such as TPS, transaction fees, failed transactions, NFT trading volume, and minting activity.
+
+[Demo video](https://www.youtube.com/watch?v=anMExD1-qms) · Built with alchemyapi, graph, javascript, openai
+
+### [Solshare](https://devpost.com/software/solshare-cmxous)
+
+[Hack the North 2025](../by-hackathon/hack-the-north-2025.md#project-solshare-cmxous) · **Best Consumer Payment Experience with Solana Pay**
+
+Splitting bills with friends is messy—receipts get lost, people forget to pay, and tracking balances is a headache. SolShare fixes this: scan, assign, and settle instantly on Solana.
+
+**How it used Solana:** Settle payments instantly via blockchain (Solana): Payments are trustless and immediate, without relying on traditional bank integration.
+
+Built with solana, cohere, firebase, gcp
+
+### [SolSpeak](https://devpost.com/software/n-kp7oqy)
+
+[HackNYU 2025](../by-hackathon/hacknyu-2025.md#project-n-kp7oqy) · **Track: Solana &amp; Blockchain Innovation**
+
+Yes, you read that right – not just devnet, but mainnet-beta.
+
+[Code](https://github.com/Loldude0/hacknyu) · Built with solana, python, react, realtime
+
+### [Solvend](https://devpost.com/software/solvend)
+
+[MHacks 2025](../by-hackathon/mhacks-2025.md#project-solvend) · **Most Creative Solana MCP**
+
+A way to be updated with the most up-to-date information on crypto and assets - compiled with AI.
+
+[Code](https://github.com/hyungminoh2/Solvend-mhacks2025) · Built with flask, google-generative-ai-(gemini-1.5), javascript, next.js
+
+### [Trader's Co-Pilot](https://devpost.com/software/trader-s-co-pilot)
+
+[MHacks 2025](../by-hackathon/mhacks-2025.md#project-trader-s-co-pilot) · **Most Creative Solana MCP**
+
+Trader’s Co-Pilot: the first AI-native Solana trading platform on MCP with 14 pro tools for safe blockchain interaction, MEV defense, signals, and agent payments.
+
+**How it used Solana:** Trader's Co-Pilot is the world's first AI-native Solana trading platform built on the Model Context Protocol (MCP).
+
+[Code](https://github.com/rajashekarcs2023/mhacks-solana) · [Demo video](https://www.youtube.com/watch?v=21jeXHPXkEw) · Built with solana, javascript, mcp, typescript
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2026](../by-hackathon/bitcamp-2026.md) | &#91;MLH&#93; Best Use of Solana | Solana | [Track label](https://bitcamp-2026.devpost.com/) |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;MLH&#93; Best Use of Solana | Solana | [Track label](https://cal-hacks-13-0.devpost.com/) |
@@ -77,3 +303,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [MHacks 2025](../by-hackathon/mhacks-2025.md) | Most Creative Solana MCP | No specific requirement captured | [Event prize rules](https://mhacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#solana)

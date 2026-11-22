@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Luma AI
+
 # Luma AI
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Luma%20AI)
 
 ## What winners have in common
 
-- **Most listed tech** elevenlabs (1), gemini (1), godot (1)
-- **Common project areas** None listed
-- **Common demo formats** Game (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** elevenlabs (1), gemini (1), godot (1), langchain (1), lumalabs (1)
+- **Project areas:** None listed
+- **Demo formats:** Playable game (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [The Anachronist](https://devpost.com/software/the-anachronist) · [code](https://github.com/rgu0114/the-anachronist) · [demo](https://www.youtube.com/watch?v=BXpIBv4q-kQ) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · LumaLabs: Reimagining Visual Creation with AI ($2,500 Cash + $5,000 Luma Credits) · [details](../by-hackathon/treehacks-2025.md#project-the-anachronist) | History isn’t just studied, it’s lived. Enter a 3D time-travel adventure. | elevenlabs, gemini, godot |
+Newest hackathons first.
+
+### [The Anachronist](https://devpost.com/software/the-anachronist)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-the-anachronist) · **LumaLabs: Reimagining Visual Creation with AI**
+
+History isn’t just studied, it’s lived. Enter a 3D time-travel adventure.
+
+[Code](https://github.com/rgu0114/the-anachronist) · [Demo video](https://www.youtube.com/watch?v=BXpIBv4q-kQ) · Built with elevenlabs, gemini, godot, langchain
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | LumaLabs: Reimagining Visual Creation with AI ($2,500 Cash + $5,000 Luma Credits) | No specific requirement captured | [Event prize rules](https://treehacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#luma-ai)

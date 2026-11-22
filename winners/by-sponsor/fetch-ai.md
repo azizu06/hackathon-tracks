@@ -1,92 +1,616 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Fetch.ai
+
 # Fetch.ai
 
-**65 projects · 11 editions · 65 prize rows**
-
-[Winners index](../README.md)
+**65 winning projects** · 11 hackathons · 65 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Fetch.ai)
 
 ## What winners have in common
 
-- **Most listed tech** python (54), fetch.ai (41), react (27)
-- **Common project areas** Finance and commerce (7), Health and care (7), Safety and emergency response (4)
-- **Common demo formats** Web app or dashboard (19), Voice or conversational interface (5), Hardware or robotics (4)
-- **Projects with a listed demo video** 60 of 65
+- **Most used tech:** python (54), fetch.ai (41), react (27), agentverse (24), uagents (23)
+- **Project areas:** Finance and commerce (7), Health and care (7), Safety and emergency response (4)
+- **Demo formats:** Web app or dashboard (19), Voice or conversational interface (5), Hardware or robotics (4)
+- **Demo videos:** 60 of 65 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [AeroFreight AI](https://devpost.com/software/aerofreight-ai) · [code](https://github.com/aniketggg/AeroFreight-AI) · [demo](https://www.youtube.com/watch?v=5XbmtxZjauw) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of The Agentverse by Fetch AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-aerofreight-ai) | A logistics planner compares air and sea options for international shipments. | asi-one, fetchai, uagents |
-| [AgriBroker](https://devpost.com/software/agribroker) · [code](https://github.com/Ai-Hackathon-2026-Berk/AgriBroker) · [demo](https://www.youtube.com/watch?v=oDr4soAX2kM) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of The Agentverse by Fetch AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-agribroker) | A purchasing tool uses agents to match produce buyers with available supply at a target price. | agentverse, fetch.ai, asi |
-| [baymax](https://devpost.com/software/baymax-1wumi3) · [code](https://github.com/apollo-ullah/Baymax) · [demo](https://www.youtube.com/watch?v=uRPyS_SuhiA) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of The Agentverse by Fetch AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-baymax-1wumi3) | A network of hospital assistants forecasts supply pressure and helps hospitals coordinate transfers. | fetch.ai, arize, claude |
-| [CareLoop](https://devpost.com/software/careloop-gsiy8w) · [code](https://github.com/VishalDani1602/AIHACK26) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of The Agentverse by Fetch AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-careloop-gsiy8w) | CareLoop is a voice-first healthcare concierge that triages urgency, finds nearby providers, estimates cost,… | agentverse, asi:one, fetch.ai-uagents |
-| [Constructa](https://devpost.com/software/constructa) · [code](https://github.com/shubhaych/Constructa) · [demo](https://www.youtube.com/watch?v=Wa2UlZcN85A) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of The Agentverse by Fetch AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-constructa) | A property planning tool lets builders compare potential sites, visualize projects, and organize permit… | agentverse, topojson-ai-&amp;-agents:?fetch.ai-asi:one, anthropic-claude-sdk |
-| [Fetch Health](https://devpost.com/software/fetch-health) · [code](https://github.com/abhinavprkash/Fetch-Health) · [demo](https://www.youtube.com/watch?v=1Fm5qSy5vFM) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of The Agentverse by Fetch AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-fetch-health) | Fetch Health is a hospital-staff-facing donor and recipient intake and matching simulator. | fetchai, anthropic, claude |
-| [Fireflai](https://devpost.com/software/fireflai) · [demo](https://www.youtube.com/watch?v=aVl0IdfeYtE) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of The Agentverse by Fetch AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-fireflai) | A multi agent AI tool for fire fighters. | fetchai, arize, aura |
-| [LifeLink](https://devpost.com/software/lifelink-soibwr) · [demo](https://www.youtube.com/watch?v=2rR3Mup_OXU) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of The Agentverse by Fetch AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-lifelink-soibwr) | Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, allocates… | agentverse, asi:one, fetch.ai |
-| [Quorum : drop-in validation layer for multi-agent AI Systems](https://devpost.com/software/quoram) · [code](https://github.com/mohiitt/Quorum) · [demo](https://www.youtube.com/watch?v=8BivgXe7MMM) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of The Agentverse by Fetch AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-quoram) | Quorum is a validation layer for multi-agent AI systems, running on platforms like Fetch.ai's ASI:One - that… | agentverse, asi:one, fetch.ai |
-| [Vanguard Telematics](https://devpost.com/software/vanguard-telematics) · [code](https://github.com/bencejdanko/VanguardTelematics) · [demo](https://www.youtube.com/watch?v=6oMx5WiXiPE) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · Best Use of The Agentverse by Fetch AI · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-vanguard-telematics) | Fire truck crash? Radio too slow. | uagents, deepgram, fastapi |
-| [DESK](https://devpost.com/software/desk-k236so) · [code](https://github.com/Shrithan/DESK) · [demo](https://www.youtube.com/watch?v=UpsJVbuEsIU) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of ASI:One · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-desk-k236so) | An interface lets users assign keyboard actions to physical surfaces. | agentverse, asi-one, fetch.ai |
-| [Docket](https://devpost.com/software/docket-ezaum8) · [code](https://github.com/AnushaAgarwal27/Docket) · [demo](https://www.youtube.com/watch?v=nAIJZyXKaSo) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Fetch.ai · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-docket-ezaum8) | A student caseworker looks up immigration and finance rules and asks the student to approve proposed actions. | agentverse, asi-one, fetch.ai |
-| [Family Shield](https://devpost.com/software/family-shield-jgwpc8) · [code](https://github.com/khuzaymaa918/family-shield) · [demo](https://www.youtube.com/watch?v=dENdqjMubLI) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of ASI:One · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-family-shield-jgwpc8) | A family safety tool uses agents to verify a money request with the actual family member before anyone pays. | agentverse, asi-one, fetch.ai |
-| [Fish Market](https://devpost.com/software/fish-market-of6te2) · [code](https://github.com/vs-githjk/fish-market-nothing-fishy) · [demo](https://www.youtube.com/watch?v=kv0vo8mmN5U) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Fetch.ai · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-fish-market-of6te2) | Buyer and seller agents negotiate the price of PC parts through sealed bids. | agentverse, asi:one, fetch.ai |
-| [GurtOS](https://devpost.com/software/gurtos) · [code](https://github.com/benz16107/gurtos) · [demo](https://www.youtube.com/watch?v=3hDnLuUqmjM) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Fetch.ai · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-gurtos) | An operating environment isolates each AI agent task in a separate Linux user and lets people review spending… | asi-one, fetch.ai, uagents |
-| [HAVEN: Nobody Gets Left Behind](https://devpost.com/software/haven-nobody-gets-left-behind) · [demo](https://www.youtube.com/watch?v=KuYTNZz49ZM) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Fetch.ai · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-haven-nobody-gets-left-behind) | A building safety prototype combines live sensors, evacuation planning, and operator approval in one… | agentverse, asi-one, fetch.ai |
-| [Mark8 - Go-To-Market World Model](https://devpost.com/software/mark8-go-to-market-world-model) · [code](https://github.com/RoboX2020/Mark-Et-GTM) · [demo](https://www.youtube.com/watch?v=EQXDrC-5XXs) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of ASI:One · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-mark8-go-to-market-world-model) | A marketing simulation lets a team explore how a proposed launch might perform before spending on it. | fetch.ai, anthropic-claude, apify |
-| [RefundHunter](https://devpost.com/software/refundhunter-hs1u63) · [code](https://github.com/vnnphm/RefundHunter) · [demo](https://www.youtube.com/watch?v=S4-WSQmkzrE) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of ASI:One · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-refundhunter-hs1u63) | A shopping tool follows prices after a purchase and flags potential refunds when prices drop. | agentverse, asi:one, fetch.ai |
-| [Rest Easy](https://devpost.com/software/rest-easy) · [code](https://github.com/keanucz/resteasy) · [demo](https://www.youtube.com/watch?v=ztKIyriEbZc) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Fetch.ai · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-rest-easy) | A pillow checks in by voice when an older adult has not returned to bed and can reach out to family. | agentverse, asi-one, fetch.ai |
-| [Travel Assist AI](https://devpost.com/software/trip-assist-ai) · [code](https://github.com/aj1575/detour) · [demo](https://www.youtube.com/watch?v=M3fWzGOPadU) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Fetch.ai · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-trip-assist-ai) | A group trip assistant collects votes in chat and builds an itinerary everyone can follow. | agentverse, asi-one, fetch.ai |
-| [Yardsale](https://devpost.com/software/yardsale) · [code](https://github.com/kevinjylin/Yardsale) · [demo](https://www.youtube.com/watch?v=sJ1U9u8AtUo) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Fetch.ai · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-yardsale) | A resale tool uses photos to generate listings and agents to negotiate within a price range. | agentverse, asi:one, fetch.ai |
-| [AdVantage](https://devpost.com/software/advantage-982mg6) · [code](https://github.com/BABTUNA/marky) · [demo](https://www.youtube.com/watch?v=iRTw5n2BYqI) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Fetch.ai Challenge · [details](../by-hackathon/hack-brown-2026.md#project-advantage-982mg6) | AdVantage lets you build entire ad campaigns with one prompt. It runs comprehensive market analysis,… | agentverse, asi:one, fetch.ai |
-| [EstateAI](https://devpost.com/software/estate-ai) · [code](https://github.com/AquaDWota/v0-EstateAI) · [demo](https://www.youtube.com/watch?v=EswK5dt4I34) | [Hack@Brown 2026](../by-hackathon/hack-brown-2026.md) · Fetch.ai Challenge · [details](../by-hackathon/hack-brown-2026.md#project-estate-ai) | EstateAI is an AI-driven platform that tells you whether a property is a good investment backed by cash flow,… | fetch.ai, fastapi, mongodb |
-| [CareLoop Agentverse Care Companion](https://devpost.com/software/careloop-agentverse-care-companion) · [demo](https://www.youtube.com/watch?v=4RKYgNmFiSM) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · OmegaClaw Skill Forge powered by Agentverse · [details](../by-hackathon/la-hacks-2026.md#project-careloop-agentverse-care-companion) | A caregiver assistant coordinates appointments, calendar updates, and over-the-counter medicine requests. | agentverse, asi:one, fetch.ai |
-| [Conjure](https://devpost.com/software/conjure-m960jz) · [code](https://github.com/pauligwe/Conjure) · [demo](https://www.youtube.com/watch?v=x404jLbdaVs) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Track: Agentverse - Search &amp; Discovery of Agents · [details](../by-hackathon/la-hacks-2026.md#project-conjure-m960jz) | A 3D scene builder turns a text prompt into an environment the user can walk through. | agentverse, fetch.ai, fetch.ai-agentverse |
-| [Dots](https://devpost.com/software/dots-y5r21j) · [code](https://github.com/aryanmudgal-tech/dots) · [demo](https://www.youtube.com/watch?v=gWNJgLeBlTY) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Track: Agentverse - Search &amp; Discovery of Agents · [details](../by-hackathon/la-hacks-2026.md#project-dots-y5r21j) | A tool converts building floor plans into tactile maps for accessible indoor navigation. | fetch.ai, elevenlabs, fastapi |
-| [Edith](https://devpost.com/software/edith-zbd6pg) · [code](https://github.com/rishi-golla/lahacks2026) · [demo](https://www.youtube.com/watch?v=Be9H4JvpBDg) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · OmegaClaw Skill Forge powered by Agentverse · [details](../by-hackathon/la-hacks-2026.md#project-edith-zbd6pg) | Edith is a real-time multimodal AI assistant that runs on Meta Ray-Ban glasses. | agentverse, fastapi, gemini |
-| [Jarvis](https://devpost.com/software/jarvis-eifsyq) · [code](https://github.com/saigudisa6/jarvis) · [demo](https://www.youtube.com/watch?v=cpjTxFlSH58) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Track: Agentverse - Search &amp; Discovery of Agents · [details](../by-hackathon/la-hacks-2026.md#project-jarvis-eifsyq) | Your proactive AI copilot — lives in your browser, reads your world, acts before you ask. | agentverse, asi:one, fetch.ai |
-| [MultiEval](https://devpost.com/software/multival) · [code](https://github.com/AlfredSjoqvist/multieval) · [demo](https://www.youtube.com/watch?v=__OU7Ftl4EM) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Track: Agentverse - Search &amp; Discovery of Agents · [details](../by-hackathon/la-hacks-2026.md#project-multival) | An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces. | agentverse, asi:one, fetch.ai |
-| [NeuralLens](https://devpost.com/software/neurolens-2qgdm8) · [code](https://github.com/anirudhmazumder/NeuralLens) · [demo](https://www.youtube.com/watch?v=Bf8ngLD5BEY) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Track: Agentverse - Search &amp; Discovery of Agents · [details](../by-hackathon/la-hacks-2026.md#project-neurolens-2qgdm8) | A content tool evaluates where viewers may focus their attention and uses that feedback to revise media. | fetch.ai, claudinary, colab |
-| [Northstar](https://devpost.com/software/northstar-7lcg45) · [code](https://github.com/continuitylabs/lahacks26) · [demo](https://www.youtube.com/watch?v=UO3zezz21EY) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Track: Agentverse - Search &amp; Discovery of Agents · [details](../by-hackathon/la-hacks-2026.md#project-northstar-7lcg45) | The light that guides you home. | fetch.ai, elevenlabs, expo.io |
-| [Pols 15](https://devpost.com/software/pols-15) · [code](https://github.com/PranAD-dev/pols-15) · [demo](https://www.youtube.com/watch?v=pVwl8clqHy4) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Track: Agentverse - Search &amp; Discovery of Agents · [details](../by-hackathon/la-hacks-2026.md#project-pols-15) | toolbox for aspiring politicians to campaign, stress-test their policies, and run ads on social media through… | agentverse, asi, fetch |
-| [Residue](https://devpost.com/software/residue) · [code](https://github.com/MaanPatel2005/Residue) · [demo](https://www.youtube.com/watch?v=dgqo7zdmHD0) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Track: Agentverse - Search &amp; Discovery of Agents · [details](../by-hackathon/la-hacks-2026.md#project-residue) | A study tool helps users understand their focus habits and find a study partner. | next.js, react |
-| [RIIS](https://devpost.com/software/riis) · [code](https://github.com/srinisriram/RIIS) · [demo](https://www.youtube.com/watch?v=juhHSR9_-UE) | [LA Hacks 2026](../by-hackathon/la-hacks-2026.md) · Best Use of ASI:One · [details](../by-hackathon/la-hacks-2026.md#project-riis) | An incident response system organizes information quickly for people coordinating an emergency. | fastapi, fetch, javascript |
-| [Homie](https://devpost.com/software/homie-1d28pr) · [code](https://github.com/kbhatnagar1506/homie) · [demo](https://www.youtube.com/watch?v=zl_fpA4hX9Q) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · FetchAI ASI:One Agent Challenge · [details](../by-hackathon/mhacks-2026.md#project-homie-1d28pr) | An apartment search assistant helps people moving to the US find listings, contact landlords, and prepare… | agentverse, asi:one, fetch.ai |
-| [Ripple](https://devpost.com/software/ripple-mkcbr5) · [code](https://github.com/irfan-firosh/ripple) · [demo](https://www.youtube.com/watch?v=T5fnHDuklZo) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · FetchAI ASI:One Agent Challenge · [details](../by-hackathon/mhacks-2026.md#project-ripple-mkcbr5) | A content planning tool simulates how an audience might respond to competing post ideas. | agentverse, asi:one, fetch.ai |
-| [Sprout](https://devpost.com/software/sprout-x41rji) · [code](https://github.com/ArushNo1/sprout) · [demo](https://www.youtube.com/watch?v=awIq0XC38zQ) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · FetchAI ASI:One Agent Challenge · [details](../by-hackathon/mhacks-2026.md#project-sprout-x41rji) | A study agent makes practice quizzes and games and tracks progress in a virtual garden. | agentverse, asi:one, fetch.ai |
-| [AgentPlace](https://devpost.com/software/agentplace) · [code](https://github.com/patidararnav/agentplace) · [demo](https://www.youtube.com/watch?v=7Eab9ryB9I8) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Build, launch and monetise AI Agents on Agentverse that turn user intent into real… · [details](../by-hackathon/treehacks-2026.md#project-agentplace) | A digital marketplace uses agents to negotiate between buyers and sellers. | asi:one, fetch.ai, uagents |
-| [HackOverflow: Stack Overflow for AI Agents](https://devpost.com/software/hackoverflow-stack-overflow-for-ai-agents-at-hackathons) · [code](https://github.com/IshaanChamoli/treehacks26) · [demo](https://www.youtube.com/watch?v=K3BJroCnpJ8) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Build, launch and monetise AI Agents on Agentverse that turn user intent into real… · [details](../by-hackathon/treehacks-2026.md#project-hackoverflow-stack-overflow-for-ai-agents-at-hackathons) | A shared question-and-answer system lets AI agents reuse solutions and escalate problems to people. | fetch.ai, claude, cursor |
-| [RepoRx](https://devpost.com/software/molecule-mcbob) · [code](https://github.com/ezou1/tree26) · [demo](https://www.youtube.com/watch?v=rBBftD6zOhM) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Build, launch and monetise AI Agents on Agentverse that turn user intent into real… · [details](../by-hackathon/treehacks-2026.md#project-molecule-mcbob) | AI-native research engine to discover FDA-approved drug repurposing candidates for cancer treatment. Runs… | fetch.ai, arxiv, diffdock |
-| [Voider](https://devpost.com/software/voider) · [code](https://github.com/Sohamiscurious/TreeHacks2026) · [demo](https://www.youtube.com/watch?v=ZoUQvbh24mM) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Build, launch and monetise AI Agents on Agentverse that turn user intent into real… · [details](../by-hackathon/treehacks-2026.md#project-voider) | A voice shopping tool compares prices across stores and coordinates payments through agents. | fetch.ai, claude, elastic |
-| [Agent Santa](https://devpost.com/software/agent-santa) · [code](https://github.com/ParthPatel00/SantAI) · [demo](https://www.youtube.com/watch?v=QHjqIXtylhY) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Fetch AI: Best Use of ASI:One · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-agent-santa) | Agent Santa is a multi-agent system where personality-based agents connect, understand relationships, and… | fetchai, github, html |
-| [EDFlow AI](https://devpost.com/software/edflowai) · [demo](https://www.youtube.com/watch?v=YaeFUbzgQFc) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Fetch AI: Best Deployment of Agentverse · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-edflowai) | A coordination tool delegates emergency room tasks to agents responsible for beds, labs, and pharmacy. | uagent, claude, langchain |
-| [Haven](https://devpost.com/software/haven-536r1q) · [code](https://github.com/scrappydevs/haven) · [demo](https://www.youtube.com/watch?v=sxdgpbTRsMs) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Fetch AI: Best Use of Fetch AI · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-haven-536r1q) | A hospital coordination dashboard combines record data, nursing alerts, and patient questions. | fetch.ai, claude, grok |
-| [InterViewAR](https://devpost.com/software/interviewar) · [demo](https://www.youtube.com/watch?v=pU3Ep86LdjM) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Fetch AI: Best Use of ASI:One · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-interviewar) | InterViewAR: Empathy-Driven Hiring Through ARHelping interviewers detect stress, tension, and burnout cues in… | asi:one, augmented-reality, chroma |
-| [Orbit](https://devpost.com/software/orbit-n97hqz) · [code](https://github.com/Ganeshmohank/orbit) · [demo](https://www.youtube.com/watch?v=-H-pOgb0LvM) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Fetch AI: Best Use of Fetch AI · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-orbit-n97hqz) | The team describes the project as “From “I should” to “I did.”Our workflow listens, understands, and drives… | fetch.ai, agents, ai |
-| [PointerAI](https://devpost.com/software/pointerai) · [demo](https://www.youtube.com/watch?v=ub4chFUHhtw) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Fetch AI: Best Deployment of Agentverse · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-pointerai) | Imagine your mouse pointer, but upgraded and with agentic capabilities. | asi:one, fetch.ai, gemini |
-| [Alto](https://devpost.com/software/alto) · [demo](https://www.youtube.com/watch?v=qFEYKyMW6tA) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · Track: AI Agents League (Fetch.ai) · [details](../by-hackathon/la-hacks-2025.md#project-alto) | Find, Fix, and Deploy Mobile Bug Fixes - Autonomously, in Minutes. | uagents, asi-1, flask |
-| [Fynd](https://devpost.com/software/fynd-myi2jc) · [demo](https://www.youtube.com/watch?v=1aWK25E4rro) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · Track: AI Agents League (Fetch.ai) · [details](../by-hackathon/la-hacks-2025.md#project-fynd-myi2jc) | AI-Powered Curation : Agentic AIs crawl multiple e-commerce platforms to gather product data. | fetchai, butterfly, dain |
-| [Lumos](https://devpost.com/software/lumos-f8h0mn) · [code](https://github.com/pb2323/Lumos) · [demo](https://www.youtube.com/watch?v=HCTG-WGNxQM) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · Track: AI Agents League (Fetch.ai) · [details](../by-hackathon/la-hacks-2025.md#project-lumos-f8h0mn) | Smart glasses help people with Alzheimer's recognize familiar people and recall routines. | fetchai, ar, butterfly |
-| [StartNOW](https://devpost.com/software/startnow) · [code](https://github.com/srikondapalli1/startup-sim) · [demo](https://www.youtube.com/watch?v=IH_bbZ4oxDE) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · Track: AI Agents League (Fetch.ai) · [details](../by-hackathon/la-hacks-2025.md#project-startnow) | Pitch your startup idea and watch your agentic board brainstorm. Featuring the Unpaid Intern, CTO, etc… all… | fetchai, uagents, api |
-| [Bazaar - AI Agent Marketplace (Fetch.ai)](https://devpost.com/software/bazaar-ai-agent-marketplace-fetch-ai) · [code](https://github.com/FrankWithYou/mhacks25) · [demo](https://www.youtube.com/watch?v=-qG-crU2Gq4) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · Best use of ASI:One Presented by Fetch.Ai · [details](../by-hackathon/mhacks-2025.md#project-bazaar-ai-agent-marketplace-fetch-ai) | A trust-minimized marketplace where AI agents autonomously negotiate, execute, and verify tasks with… | fetch.ai, blockchain, fastapi |
-| [deCluttered.ai](https://devpost.com/software/declutttered-ai) · [code](https://github.com/KanikaGupta16/Decluttered.ai) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · Best Deployment on Agentverse Presented by Fetch.Ai · [details](../by-hackathon/mhacks-2025.md#project-declutttered-ai) | An end-to-end automated resale assistant that takes you from clutter → cash in a few taps. | cv, gemini, next.js |
-| [MobiLens](https://devpost.com/software/mobilens) · [demo](https://www.youtube.com/watch?v=cnNKHDTOunw) | [MHacks 2025](../by-hackathon/mhacks-2025.md) · Best Use of Fetch.ai · [details](../by-hackathon/mhacks-2025.md#project-mobilens) | Your environment should work for you. | fetch.ai, ar, base44 |
-| [Autonomous AI Society](https://devpost.com/software/autonomous-ai-society) · [code](https://github.com/rajashekarcs2023/Autonomous-AI-Society) · [demo](https://www.youtube.com/watch?v=3K3OB0o3TD8) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Agentic Track Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-autonomous-ai-society) | An autonomous system of AI agents performing an intelligent disaster response from analyzing the distress… | fetch.ai, express.js, groq |
-| [BrowseBlind](https://devpost.com/software/browseblind) · [code](https://github.com/RoyceAroc/browseblind) · [demo](https://www.youtube.com/watch?v=39JkocXmKnA) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Agentic Track Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-browseblind) | A browser assistant helps blind users interact with websites through an accessible interface. | agenticframework, browsers, deepgram |
-| [Databae.](https://devpost.com/software/databae) · [code](https://github.com/trungtran1234/databae) · [demo](https://www.youtube.com/watch?v=b37oVjFhQ5s) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Agentic Track Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-databae) | Let's introduce you to your new friend, Databae. | uagents, fastapi, gcp |
-| [DayGenie](https://devpost.com/software/daygeine) · [demo](https://www.youtube.com/watch?v=anM8nKAcNgM) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Agentic Track Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-daygeine) | A travel planner suggests destinations and builds itineraries from user preferences. | css, google-calendar, google-maps |
-| [INFERmary](https://devpost.com/software/infermary) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Agentic Track Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-infermary) | Simulating virtual cities to outsmart viral outbreaks. | fast, fetch, groq |
-| [MD FactFarm](https://devpost.com/software/md-factfarm) · [code](https://github.com/courtofdreams/md-fact-farm-api) · [demo](https://www.youtube.com/watch?v=Rcab4yp58jQ) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Agentic Track Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-md-factfarm) | Truth in the Digital Age: Mastering Information Literacy. | fetch.ai, ai-agent, ai-engine |
-| [MedKnight](https://devpost.com/software/medknight) · [code](https://github.com/amanpdesai/calhacks) · [demo](https://www.youtube.com/watch?v=q3oeRe1I9VY) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Agentic Track Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-medknight) | A one-of-a-kind, AR assistant medical system is made to guide first emergency first responders through… | fetch.ai, agents, ar |
-| [RecovARy](https://devpost.com/software/recovary) · [code](https://github.com/ppilli1/RecovARy) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Agentic Track Prize · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-recovary) | An augmented reality tool guides stroke survivors through physical therapy exercises. | fetch.ai, groq, lensstudio |
-| [ConvSim](https://devpost.com/software/convsim-npxtdj) · [code](https://github.com/apurvagyan/conv-sim) | [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md) · FetchAI · [details](../by-hackathon/yhack-fall-2024.md#project-convsim-npxtdj) | ConvSim is not just another chatbot or simulation tool – it's a window into a new dimension of AI-driven… | fetchai, fastapi, javascript |
-| [Lecture Agent](https://devpost.com/software/lecture-agent) · [code](https://github.com/kiriland/YHack2024) · [demo](https://www.youtube.com/watch?v=9G3IMeVYQMo) | [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md) · FetchAI · [details](../by-hackathon/yhack-fall-2024.md#project-lecture-agent) | Struggling to catch up after missing classes? Tired of going through boring lecture slides. | uagents, drizzleorm, flask |
-| [Lemme Learn More (LLM)](https://devpost.com/software/lemme-learn-more-llm) · [code](https://github.com/pulkitkalra28/yhack_frontend) · [demo](https://www.youtube.com/watch?v=F_PwJoNvFsM) | [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md) · FetchAI · [details](../by-hackathon/yhack-fall-2024.md#project-lemme-learn-more-llm) | Now, learning is made interactive and engaging, more than ever. | fetch.ai, flask, llms |
+Newest hackathons first.
+
+### [AdVantage](https://devpost.com/software/advantage-982mg6)
+
+[Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-advantage-982mg6) · **Fetch.ai Challenge**
+
+AdVantage lets you build entire ad campaigns with one prompt. It runs comprehensive market analysis, advertisement creation, and viral video generation.
+
+[Code](https://github.com/BABTUNA/marky) · [Demo video](https://www.youtube.com/watch?v=iRTw5n2BYqI) · Built with agentverse, asi:one, fetch.ai, uagents
+
+### [AeroFreight AI](https://devpost.com/software/aerofreight-ai)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-aerofreight-ai) · **Best Use of The Agentverse by Fetch AI**
+
+A logistics planner compares air and sea options for international shipments.
+
+**How it used Fetch.ai:** Using AeroFreight agent on FetchAI's ASI 1 platform.
+
+[Code](https://github.com/aniketggg/AeroFreight-AI) · [Demo video](https://www.youtube.com/watch?v=5XbmtxZjauw) · Built with asi-one, fetchai, uagents, bureau
+
+### [AgentPlace](https://devpost.com/software/agentplace)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-agentplace) · **Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes.**
+
+A digital marketplace uses agents to negotiate between buyers and sellers.
+
+**How it used Fetch.ai:** The team built the multi-agent system on top of Fetch.ai’s uAgents framework.
+
+[Code](https://github.com/patidararnav/agentplace) · [Demo video](https://www.youtube.com/watch?v=7Eab9ryB9I8) · Built with asi:one, fetch.ai, uagents, python
+
+### [AgriBroker](https://devpost.com/software/agribroker)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-agribroker) · **Best Use of The Agentverse by Fetch AI**
+
+A purchasing tool uses agents to match produce buyers with available supply at a target price.
+
+**How it used Fetch.ai:** AgriBroker is an autonomous produce procurement marketplace built on the Fetch.ai ecosystem.
+
+[Code](https://github.com/Ai-Hackathon-2026-Berk/AgriBroker) · [Demo video](https://www.youtube.com/watch?v=oDr4soAX2kM) · Built with agentverse, fetch.ai, asi, multi-agent
+
+### [baymax](https://devpost.com/software/baymax-1wumi3)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-baymax-1wumi3) · **Best Use of The Agentverse by Fetch AI**
+
+A network of hospital assistants forecasts supply pressure and helps hospitals coordinate transfers.
+
+**How it used Fetch.ai:** Baymax is a network of hospital AI agents built on Fetch.ai that sees crises coming by fusing live weather, disease, and inventory signals.
+
+[Code](https://github.com/apollo-ullah/Baymax) · [Demo video](https://www.youtube.com/watch?v=uRPyS_SuhiA) · Built with fetch.ai, arize, claude, html5
+
+### [CareLoop](https://devpost.com/software/careloop-gsiy8w)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-careloop-gsiy8w) · **Best Use of The Agentverse by Fetch AI**
+
+CareLoop is a voice-first healthcare concierge that triages urgency, finds nearby providers, estimates cost, and helps book care from one calm conversation.
+
+**How it used Fetch.ai:** The team built CareLoop with Fetch.ai uAgents, ASI:One, Deepgram voice, FastAPI, Redis, Stripe, and CMS NPPES provider data.
+
+[Code](https://github.com/VishalDani1602/AIHACK26) · Built with agentverse, asi:one, fetch.ai-uagents, and
+
+### [CareLoop Agentverse Care Companion](https://devpost.com/software/careloop-agentverse-care-companion)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-careloop-agentverse-care-companion) · **OmegaClaw Skill Forge powered by Agentverse**
+
+A caregiver assistant coordinates appointments, calendar updates, and over-the-counter medicine requests.
+
+**How it used Fetch.ai:** In ASI:One, CareLoop uses native Fetch.ai payment protocol cards for FET service fees.
+
+[Demo video](https://www.youtube.com/watch?v=4RKYgNmFiSM) · Built with agentverse, asi:one, fetch.ai, uagents
+
+### [Conjure](https://devpost.com/software/conjure-m960jz)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-conjure-m960jz) · **Track: Agentverse - Search &amp; Discovery of Agents**
+
+A 3D scene builder turns a text prompt into an environment the user can walk through.
+
+**How it used Fetch.ai:** The team make heavy use of Fetch.AI and Agentverse agents for orchestration and task completion.
+
+[Code](https://github.com/pauligwe/Conjure) · [Demo video](https://www.youtube.com/watch?v=x404jLbdaVs) · Built with agentverse, fetch.ai, fetch.ai-agentverse, fastapi
+
+### [Constructa](https://devpost.com/software/constructa)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-constructa) · **Best Use of The Agentverse by Fetch AI**
+
+A property planning tool lets builders compare potential sites, visualize projects, and organize permit paperwork.
+
+[Code](https://github.com/shubhaych/Constructa) · [Demo video](https://www.youtube.com/watch?v=Wa2UlZcN85A) · Built with agentverse, topojson-ai-&amp;-agents:?fetch.ai-asi:one, anthropic-claude-sdk, arize-(observability)
+
+### [DESK](https://devpost.com/software/desk-k236so)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-desk-k236so) · **Best Use of ASI:One**
+
+An interface lets users assign keyboard actions to physical surfaces.
+
+[Code](https://github.com/Shrithan/DESK) · [Demo video](https://www.youtube.com/watch?v=UpsJVbuEsIU) · Built with agentverse, asi-one, fetch.ai, uagents
+
+### [Docket](https://devpost.com/software/docket-ezaum8)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-docket-ezaum8) · **Best Use of Fetch.ai**
+
+A student caseworker looks up immigration and finance rules and asks the student to approve proposed actions.
+
+[Code](https://github.com/AnushaAgarwal27/Docket) · [Demo video](https://www.youtube.com/watch?v=nAIJZyXKaSo) · Built with agentverse, asi-one, fetch.ai, uagents
+
+### [Dots](https://devpost.com/software/dots-y5r21j)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-dots-y5r21j) · **Track: Agentverse - Search &amp; Discovery of Agents**
+
+A tool converts building floor plans into tactile maps for accessible indoor navigation.
+
+**How it used Fetch.ai:** Fetch.ai ASI:One for fast text-based Q&amp;A using the per-map context as the system prompt.
+
+[Code](https://github.com/aryanmudgal-tech/dots) · [Demo video](https://www.youtube.com/watch?v=gWNJgLeBlTY) · Built with fetch.ai, elevenlabs, fastapi, gemini
+
+### [Edith](https://devpost.com/software/edith-zbd6pg)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-edith-zbd6pg) · **OmegaClaw Skill Forge powered by Agentverse**
+
+Edith is a real-time multimodal AI assistant that runs on Meta Ray-Ban glasses.
+
+**How it used Fetch.ai:** The team defined skills in OmegaClaw, built bridge functions to connect them into the runtime, and exposed actual executable capabilities through Agentverse.
+
+[Code](https://github.com/rishi-golla/lahacks2026) · [Demo video](https://www.youtube.com/watch?v=Be9H4JvpBDg) · Built with agentverse, fastapi, gemini, meta-wearables-dat
+
+### [EstateAI](https://devpost.com/software/estate-ai)
+
+[Hack@Brown 2026](../by-hackathon/hack-brown-2026.md#project-estate-ai) · **Fetch.ai Challenge**
+
+EstateAI is an AI-driven platform that tells you whether a property is a good investment backed by cash flow, risk analysis, and clear explanations so you can invest with confidence.
+
+**How it used Fetch.ai:** Backend -FastAPI -MongoDB -A2A backend using Fetch.AI -Python -Hosted on Vercel.
+
+[Code](https://github.com/AquaDWota/v0-EstateAI) · [Demo video](https://www.youtube.com/watch?v=EswK5dt4I34) · Built with fetch.ai, fastapi, mongodb, next.js
+
+### [Family Shield](https://devpost.com/software/family-shield-jgwpc8)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-family-shield-jgwpc8) · **Best Use of ASI:One**
+
+A family safety tool uses agents to verify a money request with the actual family member before anyone pays.
+
+[Code](https://github.com/khuzaymaa918/family-shield) · [Demo video](https://www.youtube.com/watch?v=dENdqjMubLI) · Built with agentverse, asi-one, fetch.ai, uagents
+
+### [Fetch Health](https://devpost.com/software/fetch-health)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-fetch-health) · **Best Use of The Agentverse by Fetch AI**
+
+Fetch Health is a hospital-staff-facing donor and recipient intake and matching simulator.
+
+**How it used Fetch.ai:** Fetch.ai agents act as the public agent layer, while the heavy processing runs on the local backend infrastructure.
+
+[Code](https://github.com/abhinavprkash/Fetch-Health) · [Demo video](https://www.youtube.com/watch?v=1Fm5qSy5vFM) · Built with fetchai, anthropic, claude, deepgram
+
+### [Fireflai](https://devpost.com/software/fireflai)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-fireflai) · **Best Use of The Agentverse by Fetch AI**
+
+A multi agent AI tool for fire fighters.
+
+[Demo video](https://www.youtube.com/watch?v=aVl0IdfeYtE) · Built with fetchai, arize, aura, browserbase
+
+### [Fish Market](https://devpost.com/software/fish-market-of6te2)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-fish-market-of6te2) · **Best Use of Fetch.ai**
+
+Buyer and seller agents negotiate the price of PC parts through sealed bids.
+
+**How it used Fetch.ai:** The Buyer takes goals in ASI:One over the Agent Chat Protocol, remembers the parts you own, runs the sealed round, and asks for approval before any payment.
+
+[Code](https://github.com/vs-githjk/fish-market-nothing-fishy) · [Demo video](https://www.youtube.com/watch?v=kv0vo8mmN5U) · Built with agentverse, asi:one, fetch.ai, uagents
+
+### [GurtOS](https://devpost.com/software/gurtos)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-gurtos) · **Best Use of Fetch.ai**
+
+An operating environment isolates each AI agent task in a separate Linux user and lets people review spending and undo changes.
+
+[Code](https://github.com/benz16107/gurtos) · [Demo video](https://www.youtube.com/watch?v=3hDnLuUqmjM) · Built with asi-one, fetch.ai, uagents, apify
+
+### [HackOverflow: Stack Overflow for AI Agents](https://devpost.com/software/hackoverflow-stack-overflow-for-ai-agents-at-hackathons)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-hackoverflow-stack-overflow-for-ai-agents-at-hackathons) · **Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes.**
+
+A shared question-and-answer system lets AI agents reuse solutions and escalate problems to people.
+
+**How it used Fetch.ai:** Cross-Agent Collaboration: Using Fetch.ai, agents can autonomously discover and utilize specialized logic developed by other agents in the network.
+
+[Code](https://github.com/IshaanChamoli/treehacks26) · [Demo video](https://www.youtube.com/watch?v=K3BJroCnpJ8) · Built with fetch.ai, claude, cursor, elasticsearch
+
+### [HAVEN: Nobody Gets Left Behind](https://devpost.com/software/haven-nobody-gets-left-behind)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-haven-nobody-gets-left-behind) · **Best Use of Fetch.ai**
+
+A building safety prototype combines live sensors, evacuation planning, and operator approval in one dashboard.
+
+[Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with agentverse, asi-one, fetch.ai, anthropic
+
+### [Homie](https://devpost.com/software/homie-1d28pr)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-homie-1d28pr) · **FetchAI ASI:One Agent Challenge**
+
+An apartment search assistant helps people moving to the US find listings, contact landlords, and prepare applications.
+
+**How it used Fetch.ai:** The whole workflow runs inside an ASI:One conversation: request, pick buildings by replying with numbers, live progress, the held deal, the application, and the Payment Protocol fee.
+
+[Code](https://github.com/kbhatnagar1506/homie) · [Demo video](https://www.youtube.com/watch?v=zl_fpA4hX9Q) · Built with agentverse, asi:one, fetch.ai, uagents
+
+### [Jarvis](https://devpost.com/software/jarvis-eifsyq)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-jarvis-eifsyq) · **Track: Agentverse - Search &amp; Discovery of Agents**
+
+Your proactive AI copilot — lives in your browser, reads your world, acts before you ask.
+
+[Code](https://github.com/saigudisa6/jarvis) · [Demo video](https://www.youtube.com/watch?v=cpjTxFlSH58) · Built with agentverse, asi:one, fetch.ai, 2.0
+
+### [LifeLink](https://devpost.com/software/lifelink-soibwr)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-lifelink-soibwr) · **Best Use of The Agentverse by Fetch AI**
+
+Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, allocates units, manages payment, and proves delivery through SLA.
+
+**How it used Fetch.ai:** LifeLink is a multi-agent blood coordination network built on Fetch.ai .
+
+[Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
+
+### [Mark8 - Go-To-Market World Model](https://devpost.com/software/mark8-go-to-market-world-model)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-mark8-go-to-market-world-model) · **Best Use of ASI:One**
+
+A marketing simulation lets a team explore how a proposed launch might perform before spending on it.
+
+[Code](https://github.com/RoboX2020/Mark-Et-GTM) · [Demo video](https://www.youtube.com/watch?v=EQXDrC-5XXs) · Built with fetch.ai, anthropic-claude, apify, brightdata
+
+### [MultiEval](https://devpost.com/software/multival)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-multival) · **Track: Agentverse - Search &amp; Discovery of Agents**
+
+An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces.
+
+[Code](https://github.com/AlfredSjoqvist/multieval) · [Demo video](https://www.youtube.com/watch?v=__OU7Ftl4EM) · Built with agentverse, asi:one, fetch.ai, anthropic
+
+### [NeuralLens](https://devpost.com/software/neurolens-2qgdm8)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-neurolens-2qgdm8) · **Track: Agentverse - Search &amp; Discovery of Agents**
+
+A content tool evaluates where viewers may focus their attention and uses that feedback to revise media.
+
+**How it used Fetch.ai:** Multi-Agent Pipeline on Fetch.ai NeuralLens runs as a six-agent system on Fetch.ai's Agentverse, discoverable and invocable through ASI:One.
+
+[Code](https://github.com/anirudhmazumder/NeuralLens) · [Demo video](https://www.youtube.com/watch?v=Bf8ngLD5BEY) · Built with fetch.ai, claudinary, colab, ngrok
+
+### [Northstar](https://devpost.com/software/northstar-7lcg45)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-northstar-7lcg45) · **Track: Agentverse - Search &amp; Discovery of Agents**
+
+The light that guides you home.
+
+**How it used Fetch.ai:** The agent swarm was done using a series of fetch.ai agentverse agents, each customized to have a specific speciality.
+
+[Code](https://github.com/continuitylabs/lahacks26) · [Demo video](https://www.youtube.com/watch?v=UO3zezz21EY) · Built with fetch.ai, elevenlabs, expo.io, melange
+
+### [Pols 15](https://devpost.com/software/pols-15)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-pols-15) · **Track: Agentverse - Search &amp; Discovery of Agents**
+
+toolbox for aspiring politicians to campaign, stress-test their policies, and run ads on social media through just a asi:1 chat.
+
+[Code](https://github.com/PranAD-dev/pols-15) · [Demo video](https://www.youtube.com/watch?v=pVwl8clqHy4) · Built with agentverse, asi, fetch
+
+### [Quorum : drop-in validation layer for multi-agent AI Systems](https://devpost.com/software/quoram)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-quoram) · **Best Use of The Agentverse by Fetch AI**
+
+Quorum is a validation layer for multi-agent AI systems, running on platforms like Fetch.ai's ASI:One - that prevents upstream hallucinations from cascading into downstream bias and errors.
+
+**How it used Fetch.ai:** Quorum was built from the ground up to live in the Fetch.ai ecosystem.
+
+[Code](https://github.com/mohiitt/Quorum) · [Demo video](https://www.youtube.com/watch?v=8BivgXe7MMM) · Built with agentverse, asi:one, fetch.ai, uagents
+
+### [RefundHunter](https://devpost.com/software/refundhunter-hs1u63)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-refundhunter-hs1u63) · **Best Use of ASI:One**
+
+A shopping tool follows prices after a purchase and flags potential refunds when prices drop.
+
+[Code](https://github.com/vnnphm/RefundHunter) · [Demo video](https://www.youtube.com/watch?v=S4-WSQmkzrE) · Built with agentverse, asi:one, fetch.ai, uagents
+
+### [RepoRx](https://devpost.com/software/molecule-mcbob)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-molecule-mcbob) · **Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes.**
+
+AI-native research engine to discover FDA-approved drug repurposing candidates for cancer treatment. Runs GPU-accelerated diffusion simulations to surface high-potential treatments in minutes.
+
+**How it used Fetch.ai:** Orchestrated agent flows using Fetch.ai – registered an agent on AgentVerse where it can be used in ASI:One, an alternative UI to the platform.
+
+[Code](https://github.com/ezou1/tree26) · [Demo video](https://www.youtube.com/watch?v=rBBftD6zOhM) · Built with fetch.ai, arxiv, diffdock, docker
+
+### [Residue](https://devpost.com/software/residue)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-residue) · **Track: Agentverse - Search &amp; Discovery of Agents**
+
+A study tool helps users understand their focus habits and find a study partner.
+
+[Code](https://github.com/MaanPatel2005/Residue) · [Demo video](https://www.youtube.com/watch?v=dgqo7zdmHD0) · Built with next.js, react
+
+### [Rest Easy](https://devpost.com/software/rest-easy)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-rest-easy) · **Best Use of Fetch.ai**
+
+A pillow checks in by voice when an older adult has not returned to bed and can reach out to family.
+
+[Code](https://github.com/keanucz/resteasy) · [Demo video](https://www.youtube.com/watch?v=ztKIyriEbZc) · Built with agentverse, asi-one, fetch.ai, uagents
+
+### [RIIS](https://devpost.com/software/riis)
+
+[LA Hacks 2026](../by-hackathon/la-hacks-2026.md#project-riis) · **Best Use of ASI:One**
+
+An incident response system organizes information quickly for people coordinating an emergency.
+
+[Code](https://github.com/srinisriram/RIIS) · [Demo video](https://www.youtube.com/watch?v=juhHSR9_-UE) · Built with fastapi, fetch, javascript, python
+
+### [Ripple](https://devpost.com/software/ripple-mkcbr5)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-ripple-mkcbr5) · **FetchAI ASI:One Agent Challenge**
+
+A content planning tool simulates how an audience might respond to competing post ideas.
+
+[Code](https://github.com/irfan-firosh/ripple) · [Demo video](https://www.youtube.com/watch?v=T5fnHDuklZo) · Built with agentverse, asi:one, fetch.ai, uagents
+
+### [Sprout](https://devpost.com/software/sprout-x41rji)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-sprout-x41rji) · **FetchAI ASI:One Agent Challenge**
+
+A study agent makes practice quizzes and games and tracks progress in a virtual garden.
+
+**How it used Fetch.ai:** Sprout is built with Fetch.ai's uAgents framework, hosted on Agentverse, and talks to students through the Agent Chat Protocol in ASI:One.
+
+[Code](https://github.com/ArushNo1/sprout) · [Demo video](https://www.youtube.com/watch?v=awIq0XC38zQ) · Built with agentverse, asi:one, fetch.ai, uagents
+
+### [Travel Assist AI](https://devpost.com/software/trip-assist-ai)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-trip-assist-ai) · **Best Use of Fetch.ai**
+
+A group trip assistant collects votes in chat and builds an itinerary everyone can follow.
+
+[Code](https://github.com/aj1575/detour) · [Demo video](https://www.youtube.com/watch?v=M3fWzGOPadU) · Built with agentverse, asi-one, fetch.ai, uagents
+
+### [Vanguard Telematics](https://devpost.com/software/vanguard-telematics)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-vanguard-telematics) · **Best Use of The Agentverse by Fetch AI**
+
+Fire truck crash? Radio too slow.
+
+[Code](https://github.com/bencejdanko/VanguardTelematics) · [Demo video](https://www.youtube.com/watch?v=6oMx5WiXiPE) · Built with uagents, deepgram, fastapi, framer-motion
+
+### [Voider](https://devpost.com/software/voider)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-voider) · **Build, launch and monetise AI Agents on Agentverse that turn user intent into real outcomes.**
+
+A voice shopping tool compares prices across stores and coordinates payments through agents.
+
+[Code](https://github.com/Sohamiscurious/TreeHacks2026) · [Demo video](https://www.youtube.com/watch?v=ZoUQvbh24mM) · Built with fetch.ai, claude, elastic, langchain
+
+### [Yardsale](https://devpost.com/software/yardsale)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-yardsale) · **Best Use of Fetch.ai**
+
+A resale tool uses photos to generate listings and agents to negotiate within a price range.
+
+**How it used Fetch.ai:** The first few are hosted on Agentverse with their own profile page; the rest run in the server, with no cap.
+
+[Code](https://github.com/kevinjylin/Yardsale) · [Demo video](https://www.youtube.com/watch?v=sJ1U9u8AtUo) · Built with agentverse, asi:one, fetch.ai, uagents
+
+### [Agent Santa](https://devpost.com/software/agent-santa)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-agent-santa) · **Fetch AI: Best Use of ASI:One**
+
+Agent Santa is a multi-agent system where personality-based agents connect, understand relationships, and deliver perfect personalized gifts end-to-end with payments, intelligently and effortlessly.
+
+**How it used Fetch.ai:** Deployment: Fully on Agentverse with seamless integration via ASI.one.
+
+[Code](https://github.com/ParthPatel00/SantAI) · [Demo video](https://www.youtube.com/watch?v=QHjqIXtylhY) · Built with fetchai, github, html, python
+
+### [Alto](https://devpost.com/software/alto)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-alto) · **Track: AI Agents League**
+
+Find, Fix, and Deploy Mobile Bug Fixes - Autonomously, in Minutes.
+
+**How it used Fetch.ai:** Alto is developed as a multi-agent system using Fetch.ai’s uagents framework, integrated with Agentverse for agent management.
+
+[Demo video](https://www.youtube.com/watch?v=qFEYKyMW6tA) · Built with uagents, asi-1, flask, gemini
+
+### [Bazaar - AI Agent Marketplace (Fetch.ai)](https://devpost.com/software/bazaar-ai-agent-marketplace-fetch-ai)
+
+[MHacks 2025](../by-hackathon/mhacks-2025.md#project-bazaar-ai-agent-marketplace-fetch-ai) · **Best use of ASI:One Presented by Fetch.Ai**
+
+A trust-minimized marketplace where AI agents autonomously negotiate, execute, and verify tasks with cryptographic guarantees and blockchain payments.
+
+**How it used Fetch.ai:** Architecture: Built on Fetch.ai's uAgent framework with a distributed multi-agent system.
+
+[Code](https://github.com/FrankWithYou/mhacks25) · [Demo video](https://www.youtube.com/watch?v=-qG-crU2Gq4) · Built with fetch.ai, blockchain, fastapi, html/css/js
+
+### [deCluttered.ai](https://devpost.com/software/declutttered-ai)
+
+[MHacks 2025](../by-hackathon/mhacks-2025.md#project-declutttered-ai) · **Best Deployment on Agentverse Presented by Fetch.Ai**
+
+An end-to-end automated resale assistant that takes you from clutter → cash in a few taps.
+
+[Code](https://github.com/KanikaGupta16/Decluttered.ai) · Built with cv, gemini, next.js, python
+
+### [EDFlow AI](https://devpost.com/software/edflowai)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-edflowai) · **Fetch AI: Best Deployment of Agentverse**
+
+A coordination tool delegates emergency room tasks to agents responsible for beds, labs, and pharmacy.
+
+**How it used Fetch.ai:** EDFlow AI is an autonomous multi-agent system that coordinates emergency department preparation in under 10 seconds using Fetch.ai's uAgents framework and Claude AI.
+
+[Demo video](https://www.youtube.com/watch?v=YaeFUbzgQFc) · Built with uagent, claude, langchain, langgraph
+
+### [Fynd](https://devpost.com/software/fynd-myi2jc)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-fynd-myi2jc) · **Track: AI Agents League**
+
+AI-Powered Curation : Agentic AIs crawl multiple e-commerce platforms to gather product data.
+
+**How it used Fetch.ai:** Successfully integrated Fetch.ai agents with live e-commerce data streams.
+
+[Demo video](https://www.youtube.com/watch?v=1aWK25E4rro) · Built with fetchai, butterfly, dain, gemini
+
+### [Haven](https://devpost.com/software/haven-536r1q)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-haven-536r1q) · **Fetch AI: Best Use of Fetch AI**
+
+A hospital coordination dashboard combines record data, nursing alerts, and patient questions.
+
+**How it used Fetch.ai:** Haven is a multi-agent hospital intelligence platform built on three core systems using LiveKit, Fetch.ai, and Claude agents .
+
+[Code](https://github.com/scrappydevs/haven) · [Demo video](https://www.youtube.com/watch?v=sxdgpbTRsMs) · Built with fetch.ai, claude, grok, livekit
+
+### [InterViewAR](https://devpost.com/software/interviewar)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-interviewar) · **Fetch AI: Best Use of ASI:One**
+
+InterViewAR: Empathy-Driven Hiring Through ARHelping interviewers detect stress, tension, and burnout cues in real time and coach candidates toward calmer, fairer, and more human interviews.
+
+[Demo video](https://www.youtube.com/watch?v=pU3Ep86LdjM) · Built with asi:one, augmented-reality, chroma, conversion.ai
+
+### [Lumos](https://devpost.com/software/lumos-f8h0mn)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-lumos-f8h0mn) · **Track: AI Agents League**
+
+Smart glasses help people with Alzheimer's recognize familiar people and recall routines.
+
+[Code](https://github.com/pb2323/Lumos) · [Demo video](https://www.youtube.com/watch?v=HCTG-WGNxQM) · Built with fetchai, ar, butterfly, css3
+
+### [MobiLens](https://devpost.com/software/mobilens)
+
+[MHacks 2025](../by-hackathon/mhacks-2025.md#project-mobilens) · **Best Use of Fetch.ai**
+
+Your environment should work for you.
+
+[Demo video](https://www.youtube.com/watch?v=cnNKHDTOunw) · Built with fetch.ai, ar, base44, javascript
+
+### [Orbit](https://devpost.com/software/orbit-n97hqz)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-orbit-n97hqz) · **Fetch AI: Best Use of Fetch AI**
+
+The team describes the project as “From “I should” to “I did.”Our workflow listens, understands, and drives real progress from every conversation”.
+
+[Code](https://github.com/Ganeshmohank/orbit) · [Demo video](https://www.youtube.com/watch?v=-H-pOgb0LvM) · Built with fetch.ai, agents, ai, composio
+
+### [PointerAI](https://devpost.com/software/pointerai)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-pointerai) · **Fetch AI: Best Deployment of Agentverse**
+
+Imagine your mouse pointer, but upgraded and with agentic capabilities.
+
+[Demo video](https://www.youtube.com/watch?v=ub4chFUHhtw) · Built with asi:one, fetch.ai, gemini, groq
+
+### [StartNOW](https://devpost.com/software/startnow)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-startnow) · **Track: AI Agents League**
+
+Pitch your startup idea and watch your agentic board brainstorm. Featuring the Unpaid Intern, CTO, etc… all working hard to give you (master) 🤤 infinite possibilities on what steps to take next.
+
+**How it used Fetch.ai:** ASI:One Mini Integration: FetchAI’s ASI:One Mini LLM powers the brains behind each agent, guiding their tone, responses, and decision-making processes based on their assigned roles.
+
+[Code](https://github.com/srikondapalli1/startup-sim) · [Demo video](https://www.youtube.com/watch?v=IH_bbZ4oxDE) · Built with fetchai, uagents, api, flask
+
+### [Autonomous AI Society](https://devpost.com/software/autonomous-ai-society)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-autonomous-ai-society) · **Agentic Track Prize**
+
+An autonomous system of AI agents performing an intelligent disaster response from analyzing the distress calls, dispatching drones, finding humans in floods and making calls to the rescue teams.
+
+**How it used Fetch.ai:** Drone Dispatch : The distress analyzer agent communicates with the drone agent (built using Fetch.ai) to dispatch drones to specific locations, assisting with flood and rescue operations.
+
+[Code](https://github.com/rajashekarcs2023/Autonomous-AI-Society) · [Demo video](https://www.youtube.com/watch?v=3K3OB0o3TD8) · Built with fetch.ai, express.js, groq, hyperbolic
+
+### [BrowseBlind](https://devpost.com/software/browseblind)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-browseblind) · **Agentic Track Prize**
+
+A browser assistant helps blind users interact with websites through an accessible interface.
+
+[Code](https://github.com/RoyceAroc/browseblind) · [Demo video](https://www.youtube.com/watch?v=39JkocXmKnA) · Built with agenticframework, browsers, deepgram, fetch
+
+### [ConvSim](https://devpost.com/software/convsim-npxtdj)
+
+[YHack Fall 2024](../by-hackathon/yhack-fall-2024.md#project-convsim-npxtdj) · **FetchAI**
+
+ConvSim is not just another chatbot or simulation tool – it's a window into a new dimension of AI-driven experiences.
+
+[Code](https://github.com/apurvagyan/conv-sim) · Built with fetchai, fastapi, javascript, multi-agent
+
+### [Databae.](https://devpost.com/software/databae)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-databae) · **Agentic Track Prize**
+
+Let's introduce you to your new friend, Databae.
+
+[Code](https://github.com/trungtran1234/databae) · [Demo video](https://www.youtube.com/watch?v=b37oVjFhQ5s) · Built with uagents, fastapi, gcp, google
+
+### [DayGenie](https://devpost.com/software/daygeine)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-daygeine) · **Agentic Track Prize**
+
+A travel planner suggests destinations and builds itineraries from user preferences.
+
+**How it used Fetch.ai:** The team used Fetch AI to facilitate conversations and communication between the agents.
+
+[Demo video](https://www.youtube.com/watch?v=anM8nKAcNgM) · Built with css, google-calendar, google-maps, javascript
+
+### [INFERmary](https://devpost.com/software/infermary)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-infermary) · **Agentic Track Prize**
+
+Simulating virtual cities to outsmart viral outbreaks.
+
+**How it used Fetch.ai:** fetch.ai: Used for creating multiple AI agents for simulating.
+
+Built with fast, fetch, groq, mapbox
+
+### [Lecture Agent](https://devpost.com/software/lecture-agent)
+
+[YHack Fall 2024](../by-hackathon/yhack-fall-2024.md#project-lecture-agent) · **FetchAI**
+
+Struggling to catch up after missing classes? Tired of going through boring lecture slides.
+
+[Code](https://github.com/kiriland/YHack2024) · [Demo video](https://www.youtube.com/watch?v=9G3IMeVYQMo) · Built with uagents, drizzleorm, flask, next.js
+
+### [Lemme Learn More (LLM)](https://devpost.com/software/lemme-learn-more-llm)
+
+[YHack Fall 2024](../by-hackathon/yhack-fall-2024.md#project-lemme-learn-more-llm) · **FetchAI**
+
+Now, learning is made interactive and engaging, more than ever.
+
+**How it used Fetch.ai:** Also used fetch.ai ai agents to deploy on test net - blockchain.
+
+[Code](https://github.com/pulkitkalra28/yhack_frontend) · [Demo video](https://www.youtube.com/watch?v=F_PwJoNvFsM) · Built with fetch.ai, flask, llms, moviepy
+
+### [MD FactFarm](https://devpost.com/software/md-factfarm)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-md-factfarm) · **Agentic Track Prize**
+
+Truth in the Digital Age: Mastering Information Literacy.
+
+**How it used Fetch.ai:** The team integrated an AI agent using Fetch.ai and built services and APIs to enable seamless communication with the agent.
+
+[Code](https://github.com/courtofdreams/md-fact-farm-api) · [Demo video](https://www.youtube.com/watch?v=Rcab4yp58jQ) · Built with fetch.ai, ai-agent, ai-engine, chrome
+
+### [MedKnight](https://devpost.com/software/medknight)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-medknight) · **Agentic Track Prize**
+
+A one-of-a-kind, AR assistant medical system is made to guide first emergency first responders through critical, uncommon medical procedures with real-time support.
+
+**How it used Fetch.ai:** Fetch.ai provided the framework that powered the agents driving the entire system design.
+
+[Code](https://github.com/amanpdesai/calhacks) · [Demo video](https://www.youtube.com/watch?v=q3oeRe1I9VY) · Built with fetch.ai, agents, ar, c#
+
+### [RecovARy](https://devpost.com/software/recovary)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-recovary) · **Agentic Track Prize**
+
+An augmented reality tool guides stroke survivors through physical therapy exercises.
+
+[Code](https://github.com/ppilli1/RecovARy) · Built with fetch.ai, groq, lensstudio, react
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | Best Use of The Agentverse by Fetch AI | The Agentverse by Fetch AI | [Track label](https://ai-hackathon-2026.devpost.com/) |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;Fetch.ai&#93; Best Use of ASI:One | ASI:One | [Track label](https://cal-hacks-13-0.devpost.com/) |
@@ -108,3 +632,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [YHack Fall 2024](../by-hackathon/yhack-fall-2024.md) | FetchAI | No specific requirement captured | [Event prize rules](https://yhack.devpost.com/) |
 
 </details>
+
+[Back to top](#fetchai)

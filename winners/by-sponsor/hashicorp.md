@@ -1,36 +1,106 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / HashiCorp
+
 # HashiCorp
 
-**9 projects · 9 editions · 9 prize rows**
-
-[Winners index](../README.md)
+**9 winning projects** · 9 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=HashiCorp)
 
 ## What winners have in common
 
-- **Most listed tech** terraform (8), javascript (4), node.js (4)
-- **Common project areas** Climate and environment (1), Health and care (1)
-- **Common demo formats** Web app or dashboard (3), Hardware or robotics (1)
-- **Projects with a listed demo video** 5 of 9
+- **Most used tech:** terraform (8), javascript (4), node.js (4), python (3), amazon-web-services (2)
+- **Project areas:** Climate and environment (1), Health and care (1)
+- **Demo formats:** Web app or dashboard (3), Hardware or robotics (1)
+- **Demo videos:** 5 of 9 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [MediScan](https://devpost.com/software/mediscan-4ot13a) · [demo](https://www.youtube.com/watch?v=hecJHlorSy0) | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) · Best Use of Terraform · [details](../by-hackathon/hack-brown-2025.md#project-mediscan-4ot13a) | An all-in-one app for understanding medical documentation and tracking medications seamlessly. | terraform, augmented-reality, express.js |
-| [ChainReact](https://devpost.com/software/chainreact) · [code](https://github.com/SBHacksXI/ml-backend) | [SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md) · MLH - Best Use of Terraform · [details](../by-hackathon/sb-hacks-xi-2025.md#project-chainreact) | Anticipate and respond to supply chain disruptions by analyzing current events, geopolitics, and climate… | terraform, aryn, firebase |
-| [AutoLock](https://devpost.com/software/autolock) · [code](https://github.com/tbwrigh/CalHacks) | [Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md) · Best Use of Terraform · [details](../by-hackathon/cal-hacks-11-0-2024.md#project-autolock) | Have you ever written insecure code? Probably, but how do you know. | gin, go, javascript |
-| [SafeWay](https://devpost.com/software/saferoute-2iyzml) · [code](https://github.com/CalebBunch/hackGT11) · [demo](https://www.youtube.com/watch?v=On4-2V-CPRI) | [HackGT 11 2024](../by-hackathon/hackgt-11-2024.md) · Best Use of Terraform · [details](../by-hackathon/hackgt-11-2024.md#project-saferoute-2iyzml) | A safer way to get from Point A to Point B. | terraform, apis, css |
-| [Clean Sweep](https://devpost.com/software/cleansweep-tjq36w) · [code](https://github.com/DPulavarthy/HackHarvard) · [demo](https://www.youtube.com/watch?v=iU_6u-RygyQ) | [HackHarvard 2024](../by-hackathon/hackharvard-2024.md) · Best Use of Terraform · [details](../by-hackathon/hackharvard-2024.md#project-cleansweep-tjq36w) | Clean Sweep — Smart city waste management using real-time data. | terraform, databricks, google-cloud |
-| [Skip the Walk](https://devpost.com/software/skip-the-walk) · [code](https://github.com/Ri-Hong/SkipTheWalk) | [Hack the North 2024](../by-hackathon/hack-the-north-2024.md) · Best Use of Terraform · [details](../by-hackathon/hack-the-north-2024.md#project-skip-the-walk) | When you're at Hack the North... but still want pizza. | terraform, commander.js, next.js |
-| [TempTerra](https://devpost.com/software/tempterra) · [code](https://github.com/IamAryanDubey/TempTerra) | [HackTX 2024](../by-hackathon/hacktx-2024.md) · Best Use of Terraform · [details](../by-hackathon/hacktx-2024.md#project-tempterra) | Automating AWS environments for efficiency! Terraform-based solution schedules automatic shutdowns of AWS… | terraform, amazon-web-services, javascript |
-| [GitFile](https://devpost.com/software/gitfile) · [code](https://github.com/ssaniya-dev/GitFile) · [demo](https://www.youtube.com/watch?v=5T_aJ0k165M) | [HackUTD 2024](../by-hackathon/hackutd-2024.md) · Best Use of Terraform · [details](../by-hackathon/hackutd-2024.md#project-gitfile) | Git for ANY file type - Reducing storage costs by 500x, streamlining version control, and fostering efficient… | terraform, azure, c |
-| [Let's Meet](https://devpost.com/software/let-s-meet-e15zt7) · [code](https://github.com/tbwrigh/PennAppsXXV) · [demo](https://www.youtube.com/watch?v=vbNhfhMT3vs) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Best Use of Terraform · [details](../by-hackathon/pennapps-xxv-2024.md#project-let-s-meet-e15zt7) | Then everyone with access can choose which times work best for them. | terraform, amazon-dynamodb, amazon-web-services |
+Newest hackathons first.
+
+### [ChainReact](https://devpost.com/software/chainreact)
+
+[SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md#project-chainreact) · **Best Use of Terraform**
+
+Anticipate and respond to supply chain disruptions by analyzing current events, geopolitics, and climate patterns.
+
+**How it used HashiCorp:** The team used Aryn to parse pdf documents from the web, Singlestore to store the vector database, and Terraform to host the EC2 interfaces.
+
+[Code](https://github.com/SBHacksXI/ml-backend) · Built with terraform, aryn, firebase, singlestore
+
+### [MediScan](https://devpost.com/software/mediscan-4ot13a)
+
+[Hack@Brown 2025](../by-hackathon/hack-brown-2025.md#project-mediscan-4ot13a) · **Best Use of Terraform**
+
+An all-in-one app for understanding medical documentation and tracking medications seamlessly.
+
+[Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
+
+### [AutoLock](https://devpost.com/software/autolock)
+
+[Cal Hacks 11.0 2024](../by-hackathon/cal-hacks-11-0-2024.md#project-autolock) · **Best Use of Terraform**
+
+Have you ever written insecure code? Probably, but how do you know.
+
+[Code](https://github.com/tbwrigh/CalHacks) · Built with gin, go, javascript, postgresql
+
+### [Clean Sweep](https://devpost.com/software/cleansweep-tjq36w)
+
+[HackHarvard 2024](../by-hackathon/hackharvard-2024.md#project-cleansweep-tjq36w) · **Best Use of Terraform**
+
+Clean Sweep — Smart city waste management using real-time data.
+
+[Code](https://github.com/DPulavarthy/HackHarvard) · [Demo video](https://www.youtube.com/watch?v=iU_6u-RygyQ) · Built with terraform, databricks, google-cloud, google-maps
+
+### [GitFile](https://devpost.com/software/gitfile)
+
+[HackUTD 2024](../by-hackathon/hackutd-2024.md#project-gitfile) · **Best Use of Terraform**
+
+Git for ANY file type - Reducing storage costs by 500x, streamlining version control, and fostering efficient collaboration.
+
+[Code](https://github.com/ssaniya-dev/GitFile) · [Demo video](https://www.youtube.com/watch?v=5T_aJ0k165M) · Built with terraform, azure, c, cloudfare
+
+### [Let's Meet](https://devpost.com/software/let-s-meet-e15zt7)
+
+[PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-let-s-meet-e15zt7) · **Best Use of Terraform**
+
+Then everyone with access can choose which times work best for them.
+
+**How it used HashiCorp:** The team used a lot of Terraform.
+
+[Code](https://github.com/tbwrigh/PennAppsXXV) · [Demo video](https://www.youtube.com/watch?v=vbNhfhMT3vs) · Built with terraform, amazon-dynamodb, amazon-web-services, amplify
+
+### [SafeWay](https://devpost.com/software/saferoute-2iyzml)
+
+[HackGT 11 2024](../by-hackathon/hackgt-11-2024.md#project-saferoute-2iyzml) · **Best Use of Terraform**
+
+A safer way to get from Point A to Point B.
+
+[Code](https://github.com/CalebBunch/hackGT11) · [Demo video](https://www.youtube.com/watch?v=On4-2V-CPRI) · Built with terraform, apis, css, docker
+
+### [Skip the Walk](https://devpost.com/software/skip-the-walk)
+
+[Hack the North 2024](../by-hackathon/hack-the-north-2024.md#project-skip-the-walk) · **Best Use of Terraform**
+
+When you're at Hack the North... but still want pizza.
+
+**How it used HashiCorp:** The team used Terraform this weekend for ordering Domino's.
+
+[Code](https://github.com/Ri-Hong/SkipTheWalk) · Built with terraform, commander.js, next.js, node.js
+
+### [TempTerra](https://devpost.com/software/tempterra)
+
+[HackTX 2024](../by-hackathon/hacktx-2024.md#project-tempterra) · **Best Use of Terraform**
+
+Automating AWS environments for efficiency! Terraform-based solution schedules automatic shutdowns of AWS virtual environments after a set time, saving resources and preventing accidental overcharges.
+
+[Code](https://github.com/IamAryanDubey/TempTerra) · Built with terraform, amazon-web-services, javascript
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2025](../by-hackathon/hack-brown-2025.md) | Best Use of Terraform | Terraform | [Track label](https://hack-brown-2025.devpost.com/) |
 | [SB Hacks XI 2025](../by-hackathon/sb-hacks-xi-2025.md) | MLH - Best Use of Terraform | Terraform | [Track label](https://sb-hacks-xi.devpost.com/) |
@@ -43,3 +113,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of Terraform | Terraform | [Track label](https://pennapps-xxv.devpost.com/) |
 
 </details>
+
+[Back to top](#hashicorp)

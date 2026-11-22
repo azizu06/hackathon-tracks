@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Bloomberg Industry Group
+
 # Bloomberg Industry Group
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Bloomberg%20Industry%20Group)
 
 ## What winners have in common
 
-- **Most listed tech** amazon-dynamodb (1), amazon-web-services (1), beautiful-soup (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** amazon-dynamodb (1), amazon-web-services (1), beautiful-soup (1), eventbridge (1), lambda (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [ContractScope](https://devpost.com/software/contractscope) · [code](https://github.com/TylerK4832/ContractScope) · [demo](https://www.youtube.com/watch?v=_HmigEf25Q4) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group · [details](../by-hackathon/bitcamp-2024.md#project-contractscope) | The team experimented with different NLP architectures and fine-tuning strategies to ensure the accuracy and… | amazon-dynamodb, amazon-web-services, beautiful-soup |
+Newest hackathons first.
+
+### [ContractScope](https://devpost.com/software/contractscope)
+
+[Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-contractscope) · **Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group**
+
+The team experimented with different NLP architectures and fine-tuning strategies to ensure the accuracy and efficiency of the model while still being robust and lightweight.
+
+[Code](https://github.com/TylerK4832/ContractScope) · [Demo video](https://www.youtube.com/watch?v=_HmigEf25Q4) · Built with amazon-dynamodb, amazon-web-services, beautiful-soup, eventbridge
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best AI Powered Solution for Defense Contracts - Bloomberg Industry Group | No specific requirement captured | [Event prize rules](https://bitcamp2024.devpost.com/) |
 
 </details>
+
+[Back to top](#bloomberg-industry-group)

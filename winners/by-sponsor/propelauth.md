@@ -1,31 +1,50 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / PropelAuth
+
 # PropelAuth
 
-**2 projects · 2 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=PropelAuth)
 
 ## What winners have in common
 
-- **Most listed tech** cloudflare (1), javascript (1), json (1)
-- **Common project areas** Health and care (1)
-- **Common demo formats** Mobile app (1)
-- **Projects with a listed demo video** 1 of 2
+- **Most used tech:** cloudflare (1), javascript (1), json (1), langchain (1), next-js (1)
+- **Project areas:** Health and care (1)
+- **Demo formats:** Mobile app (1)
+- **Demo videos:** 1 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [PerLoan](https://devpost.com/software/perloan) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best Use of PropelAuth - MLH · [details](../by-hackathon/bitcamp-2024.md#project-perloan) | Easily get the money you need when you need it most. | propelauth, cloudflare, javascript |
-| [UnifyMD](https://devpost.com/software/unifymd) · [code](https://github.com/gibranoderenz/unifymd) · [demo](https://www.youtube.com/watch?v=c1NckGLl0TI) | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) · Best Use of PropelAuth · [details](../by-hackathon/pennapps-xxv-2024.md#project-unifymd) | Unified Electronic Health Record featuring an AI- and RAG-powered search bot for clinical decision-making. | langchain, next-js, propel-auth |
+Newest hackathons first.
+
+### [PerLoan](https://devpost.com/software/perloan)
+
+[Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-perloan) · **Best Use of PropelAuth - MLH**
+
+Easily get the money you need when you need it most.
+
+**How it used PropelAuth:** The team are also using PropelAuth to minimize account fraud and implementing a unique approach through the Artificial Intelligence model to minimize loan fraud, revolutionizing the loan industry.
+
+Built with propelauth, cloudflare, javascript, json
+
+### [UnifyMD](https://devpost.com/software/unifymd)
+
+[PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md#project-unifymd) · **Best Use of PropelAuth**
+
+Unified Electronic Health Record featuring an AI- and RAG-powered search bot for clinical decision-making.
+
+[Code](https://github.com/gibranoderenz/unifymd) · [Demo video](https://www.youtube.com/watch?v=c1NckGLl0TI) · Built with langchain, next-js, propel-auth, supabase
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best Use of PropelAuth - MLH | PropelAuth | [Track label](https://bitcamp2024.devpost.com/) |
 | [PennApps XXV 2024](../by-hackathon/pennapps-xxv-2024.md) | Best Use of PropelAuth | PropelAuth | [Track label](https://pennapps-xxv.devpost.com/) |
 
 </details>
+
+[Back to top](#propelauth)

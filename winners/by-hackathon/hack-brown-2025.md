@@ -1,147 +1,192 @@
+[Hackathon Tracks](../../README.md) / [Hackathons](../../HACKATHONS.md) / Hack@Brown 2025
+
 # Hack@Brown 2025
 
-**7 projects · 7 sponsors · 7 prize rows**
-
-[Winners index](../README.md) · [Devpost gallery](https://hack-brown-2025.devpost.com/project-gallery) · [Official prize rules](https://hack-brown-2025.devpost.com/)
+**7 winning projects** · 7 sponsors · 7 sponsor prizes · [Devpost gallery](https://hack-brown-2025.devpost.com/project-gallery) · [Prize rules](https://hack-brown-2025.devpost.com/)
 
 ## What winners have in common
 
-- **Most listed tech** react (4), amazon-web-services (3), css (3)
-- **Common project areas** Health and care (3), Games and entertainment (2), Accessibility and assistive tools (1)
-- **Common demo formats** Game (2), Web app or dashboard (2)
-- **Projects with a listed demo video** 4 of 7
+- **Most used tech:** react (4), amazon-web-services (3), css (3), mongodb (3), node.js (3)
+- **Project areas:** Health and care (3), Games and entertainment (2), Accessibility and assistive tools (1)
+- **Demo formats:** Playable game (2), Web app or dashboard (2)
+- **Demo videos:** 4 of 7 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Sponsor tracks
 
-| Project | Sponsor prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Signify](https://devpost.com/software/signify-kgqybi) · [demo](https://www.youtube.com/watch?v=b_AvCD3fC-I) | [Amazon Web Services](../by-sponsor/amazon-web-services.md) · Best Use of AWS · [details](#project-signify-kgqybi) | Signify brings AI into the web accessibility space. | amazon-bedrock, dynamodb, lambda |
-| [Two Wolves](https://devpost.com/software/two-wolves-3w9t8u) | [GoDaddy Registry](../by-sponsor/godaddy-registry.md) · Best Domain Name from GoDaddy Registry · [details](#project-two-wolves-3w9t8u) | An arcade-style game where the player can go on a journey of introspection and self-discovery as a little… | chatgpt, css, fastapi |
-| [MediScan](https://devpost.com/software/mediscan-4ot13a) · [demo](https://www.youtube.com/watch?v=hecJHlorSy0) | [HashiCorp](../by-sponsor/hashicorp.md) · Best Use of Terraform · [details](#project-mediscan-4ot13a) | An all-in-one app for understanding medical documentation and tracking medications seamlessly. | terraform, augmented-reality, express.js |
-| [Paw &amp; Order](https://devpost.com/software/paw-order) · [code](https://github.com/alfardil/Hack-at-Brown-2025) · [demo](https://www.youtube.com/watch?v=MbhPdRFqeb4) | [MongoDB](../by-sponsor/mongodb.md) · Best Use of MongoDB Atlas · [details](#project-paw-order) | An LLM-powered web game curated for children to improve their debate and conversation skills. | mongodb, openai, react |
-| [RelieveRX](https://devpost.com/software/relieve-wrazi7) | [Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) · Best Consumer-Driven Patient Safety Technology Track · [details](#project-relieve-wrazi7) | integrated AI pain assessment aid to help patients with timing + dosage towards mitigating opioid abuse risk… | css, figma, groq |
-| [MediSim](https://devpost.com/software/medisim) · [code](https://github.com/CharlesJoseph2003/Hack-Brown2025) · [demo](https://www.youtube.com/watch?v=VQALHk_1ff0) | [Reach Capital](../by-sponsor/reach-capital.md) · Best Use of AI powered by Reach Capital · [details](#project-medisim) | Accelerating clinical decision-making with AI-driven patient simulations, real-time feedback, and intelligent… | amazon-web-services, css, javascript |
-| [Codex](https://devpost.com/software/codex-r2toqu) | [Warp](../by-sponsor/warp.md) · Best Developer Tool, sponsored by Warp · [details](#project-codex-r2toqu) | Work with untapped talents across language barriers. | amazon-ec2, amazon-web-services, dify.ai |
+| Sponsor | Winners | Track |
+| --- | --- | --- |
+| [Amazon Web Services](../by-sponsor/amazon-web-services.md) | 1 | Best Use of AWS |
+| [GoDaddy Registry](../by-sponsor/godaddy-registry.md) | 1 | Best Domain Name from GoDaddy Registry |
+| [HashiCorp](../by-sponsor/hashicorp.md) | 1 | Best Use of Terraform |
+| [MongoDB](../by-sponsor/mongodb.md) | 1 | Best Use of MongoDB Atlas |
+| [Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) | 1 | Best Consumer-Driven Patient Safety Technology Track |
+| [Reach Capital](../by-sponsor/reach-capital.md) | 1 | Best Use of AI powered by Reach Capital |
+| [Warp](../by-sponsor/warp.md) | 1 | Best Developer Tool, sponsored by Warp |
 
-## Project details
+## Winning projects
+
+Projects that won more than one sponsor prize come first.
 
 <a name="project-codex-r2toqu"></a>
 
-<details>
-<summary>Codex</summary>
+### [Codex](https://devpost.com/software/codex-r2toqu)
+
+[Warp](../by-sponsor/warp.md) · **Best Developer Tool, sponsored by Warp**
 
 Work with untapped talents across language barriers.
 
-- **Team size** 4
-- **Built With** amazon-ec2, amazon-web-services, dify.ai, fastapi, firebase, github, mongodb, nextjs, python, typescript, vercel
-- **Code** None listed in recognized formats.
-- **Demo video** None listed in recognized formats.
-- **All event prizes (1)** Best Developer Tool, sponsored by Warp
-- **Devpost checked** 2026-11-21 UTC
-- **Warp · Best Developer Tool, sponsored by Warp** Many of the team have never used AWS or had to integrate complex frontend functions with backend APIs.
+Built with amazon-ec2, amazon-web-services, dify.ai, fastapi
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** amazon-ec2, amazon-web-services, dify.ai, fastapi, firebase, github, mongodb, nextjs, python, typescript, vercel
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Best Developer Tool, sponsored by Warp
+- **How it used Warp:** Many of the team have never used AWS or had to integrate complex frontend functions with backend APIs.
+- **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-mediscan-4ot13a"></a>
 
-<details>
-<summary>MediScan</summary>
+### [MediScan](https://devpost.com/software/mediscan-4ot13a)
+
+[HashiCorp](../by-sponsor/hashicorp.md) · **Best Use of Terraform**
 
 An all-in-one app for understanding medical documentation and tracking medications seamlessly.
 
-- **Team size** 4
-- **Built With** augmented-reality, express.js, firebase, javascript, mongodb, node.js, openai, swift, terraform
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** [Video 1](https://www.youtube.com/watch?v=hecJHlorSy0)
-- **All event prizes (1)** Best Use of Terraform
-- **Devpost checked** 2026-11-21 UTC
-- **HashiCorp · Best Use of Terraform** The project lists terraform among its Built With tags.
+[Demo video](https://www.youtube.com/watch?v=hecJHlorSy0) · Built with terraform, augmented-reality, express.js, firebase
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** augmented-reality, express.js, firebase, javascript, mongodb, node.js, openai, swift, terraform
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=hecJHlorSy0)
+- **All prizes at this hackathon (1):** Best Use of Terraform
+- **How it used HashiCorp:** The project lists terraform among its Built With tags.
+- **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-medisim"></a>
 
-<details>
-<summary>MediSim</summary>
+### [MediSim](https://devpost.com/software/medisim)
+
+[Reach Capital](../by-sponsor/reach-capital.md) · **Best Use of AI powered by Reach Capital**
 
 Accelerating clinical decision-making with AI-driven patient simulations, real-time feedback, and intelligent diagnostic training.
 
-- **Team size** 2
-- **Built With** amazon-web-services, css, javascript, node.js, openai, react
-- **Code** [Source 1](https://github.com/CharlesJoseph2003/Hack-Brown2025)
-- **Demo video** [Video 1](https://www.youtube.com/watch?v=VQALHk_1ff0)
-- **All event prizes (1)** Best Use of AI powered by Reach Capital
-- **Devpost checked** 2026-11-21 UTC
-- **Reach Capital · Best Use of AI powered by Reach Capital** MediSim is an dynamic medical education simulation platform that empowers medical professionals to enhance patient care through life like avatar interactions.
+[Code](https://github.com/CharlesJoseph2003/Hack-Brown2025) · [Demo video](https://www.youtube.com/watch?v=VQALHk_1ff0) · Built with amazon-web-services, css, javascript, node.js
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 2
+- **Built with:** amazon-web-services, css, javascript, node.js, openai, react
+- **Code:** [Source 1](https://github.com/CharlesJoseph2003/Hack-Brown2025)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=VQALHk_1ff0)
+- **All prizes at this hackathon (1):** Best Use of AI powered by Reach Capital
+- **How it used Reach Capital:** MediSim is an dynamic medical education simulation platform that empowers medical professionals to enhance patient care through life like avatar interactions.
+- **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-paw-order"></a>
 
-<details>
-<summary>Paw &amp; Order</summary>
+### [Paw &amp; Order](https://devpost.com/software/paw-order)
+
+[MongoDB](../by-sponsor/mongodb.md) · **Best Use of MongoDB Atlas**
 
 An LLM-powered web game curated for children to improve their debate and conversation skills.
 
-- **Team size** 4
-- **Built With** mongodb, openai, react, typescript
-- **Code** [Source 1](https://github.com/alfardil/Hack-at-Brown-2025)
-- **Demo video** [Video 1](https://www.youtube.com/watch?v=MbhPdRFqeb4)
-- **All event prizes (1)** Best Use of MongoDB Atlas
-- **Devpost checked** 2026-11-21 UTC
-- **MongoDB · Best Use of MongoDB Atlas** React for frontend MongoDB backend Used OpenAI API.
+[Code](https://github.com/alfardil/Hack-at-Brown-2025) · [Demo video](https://www.youtube.com/watch?v=MbhPdRFqeb4) · Built with mongodb, openai, react, typescript
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** mongodb, openai, react, typescript
+- **Code:** [Source 1](https://github.com/alfardil/Hack-at-Brown-2025)
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=MbhPdRFqeb4)
+- **All prizes at this hackathon (1):** Best Use of MongoDB Atlas
+- **How it used MongoDB:** React for frontend MongoDB backend Used OpenAI API.
+- **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-relieve-wrazi7"></a>
 
-<details>
-<summary>RelieveRX</summary>
+### [RelieveRX](https://devpost.com/software/relieve-wrazi7)
+
+[Patient Safety Technology Challenge](../by-sponsor/patient-safety-technology-challenge.md) · **Best Consumer-Driven Patient Safety Technology Track**
 
 integrated AI pain assessment aid to help patients with timing + dosage towards mitigating opioid abuse risk :) won in healthcare Hack@Brown 2025.
 
-- **Team size** 4
-- **Built With** css, figma, groq, html, json, python
-- **Code** None listed in recognized formats.
-- **Demo video** None listed in recognized formats.
-- **All event prizes (1)** Best Consumer-Driven Patient Safety Technology Track
-- **Devpost checked** 2026-11-21 UTC
-- **Patient Safety Technology Challenge · Best Consumer-Driven Patient Safety Technology Track** The project page provides no specific sponsor integration detail in the indexed fields.
+Built with css, figma, groq, html
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** css, figma, groq, html, json, python
+- **Code:** None listed.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Best Consumer-Driven Patient Safety Technology Track
+- **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-signify-kgqybi"></a>
 
-<details>
-<summary>Signify</summary>
+### [Signify](https://devpost.com/software/signify-kgqybi)
+
+[Amazon Web Services](../by-sponsor/amazon-web-services.md) · **Best Use of AWS**
 
 Signify brings AI into the web accessibility space.
 
-- **Team size** 4
-- **Built With** amazon-bedrock, amazon-ec2, amazon-media-convert, amazon-transcribe, amazon-web-services, dynamodb, lambda, natural-language-processing, nextjs, node.js, python, react
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** [Video 1](https://www.youtube.com/watch?v=b_AvCD3fC-I)
-- **All event prizes (1)** Best Use of AWS
-- **Devpost checked** 2026-11-21 UTC
-- **Amazon Web Services · Best Use of AWS** Text-to-ASL conversion using AWS Bedrock Speech-to-Text using Amazon Transcribe Real-time processing via Lambda functions.
+[Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, dynamodb, lambda, amazon-ec2
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** amazon-bedrock, amazon-ec2, amazon-media-convert, amazon-transcribe, amazon-web-services, dynamodb, lambda, natural-language-processing, nextjs, node.js, python, react
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** [Video 1](https://www.youtube.com/watch?v=b_AvCD3fC-I)
+- **All prizes at this hackathon (1):** Best Use of AWS
+- **How it used Amazon Web Services:** Text-to-ASL conversion using AWS Bedrock Speech-to-Text using Amazon Transcribe Real-time processing via Lambda functions.
+- **Checked on Devpost:** 2026-11-21
 
 </details>
 
 <a name="project-two-wolves-3w9t8u"></a>
 
-<details>
-<summary>Two Wolves</summary>
+### [Two Wolves](https://devpost.com/software/two-wolves-3w9t8u)
+
+[GoDaddy Registry](../by-sponsor/godaddy-registry.md) · **Best Domain Name from GoDaddy Registry**
 
 An arcade-style game where the player can go on a journey of introspection and self-discovery as a little wolf. Collect stars, answer questions, and create a vision board of your future.
 
-- **Team size** 4
-- **Built With** chatgpt, css, fastapi, html5, phaser.js, react, typescript
-- **Code** Listed on Devpost. HTTP 200 unverified.
-- **Demo video** None listed in recognized formats.
-- **All event prizes (1)** Best Domain Name from GoDaddy Registry
-- **Devpost checked** 2026-11-21 UTC
-- **GoDaddy Registry · Best Domain Name from GoDaddy Registry** In this game, the player plays as a wolf and collects stars.
+Built with chatgpt, css, fastapi, html5
+
+<details>
+<summary>Team, all prizes and sponsor notes</summary>
+
+- **Team size:** 4
+- **Built with:** chatgpt, css, fastapi, html5, phaser.js, react, typescript
+- **Code:** Listed on Devpost but not verified.
+- **Demo video:** None listed.
+- **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
+- **How it used GoDaddy Registry:** In this game, the player plays as a wolf and collects stars.
+- **Checked on Devpost:** 2026-11-21
 
 </details>
+
+[Back to top](#hackbrown-2025)

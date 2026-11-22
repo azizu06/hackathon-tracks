@@ -1,31 +1,59 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Encompass
+
 # Encompass
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Encompass)
 
 ## What winners have in common
 
-- **Most listed tech** python (3), arduino (2), hugging-face (2)
-- **Common project areas** Accessibility and assistive tools (1), Safety and emergency response (1)
-- **Common demo formats** Mobile app (3), Hardware or robotics (2), AR, VR or spatial (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** python (3), arduino (2), hugging-face (2), typescript (2), yolo (2)
+- **Project areas:** Accessibility and assistive tools (1), Safety and emergency response (1)
+- **Demo formats:** Mobile app (3), Hardware or robotics (2), AR, VR or spatial (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Doorway](https://devpost.com/software/doorway-0eysjv) · [demo](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Data Capturing Hardware · [details](../by-hackathon/knight-hacks-ix-2026.md#project-doorway-0eysjv) | A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet… | ar-foundation, arcore, android |
-| [Dronautics](https://devpost.com/software/dronautics) · [code](https://github.com/FrLagoSoft/Dronautics) · [demo](https://www.youtube.com/watch?v=pPoEXRLnYJc) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Data Capturing Hardware · [details](../by-hackathon/knight-hacks-ix-2026.md#project-dronautics) | A drone control system combines local detection and GPS tracking using low-cost hardware. | arduino, esp-now, esp32 |
-| [Farsight](https://devpost.com/software/farsight-t4qyli) · [code](https://github.com/azizu06/farsight) · [demo](https://www.youtube.com/watch?v=AmrOGcTBTKU) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Data Capturing Hardware · [details](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) | Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored. | arduino, arkit, lidar |
+Newest hackathons first.
+
+### [Doorway](https://devpost.com/software/doorway-0eysjv)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-doorway-0eysjv) · **Data Capturing Hardware**
+
+A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
+
+**How it used Encompass:** Doorway is built in Unity 6 with C# , using AR Foundation and ARCore on Android.
+
+[Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with ar-foundation, arcore, android, android-speech-recognizer
+
+### [Dronautics](https://devpost.com/software/dronautics)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-dronautics) · **Data Capturing Hardware**
+
+A drone control system combines local detection and GPS tracking using low-cost hardware.
+
+[Code](https://github.com/FrLagoSoft/Dronautics) · [Demo video](https://www.youtube.com/watch?v=pPoEXRLnYJc) · Built with arduino, esp-now, esp32, u-blox
+
+### [Farsight](https://devpost.com/software/farsight-t4qyli)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-farsight-t4qyli) · **Data Capturing Hardware**
+
+Farsight combines a remotely operated rescue rover with a walkable reconstruction of the space it explored.
+
+**How it used Encompass:** A LiDAR-equipped phone on the rover records aligned camera frames, depth and pose for the reconstruction and encounter records.
+
+[Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with arduino, arkit, lidar, depth-anything
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) | Encompass: Data Capturing Hardware | No specific requirement captured | [Event prize rules](https://knight-hacks-ix.devpost.com/) |
 
 </details>
+
+[Back to top](#encompass)

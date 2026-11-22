@@ -1,32 +1,67 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Runpod
+
 # Runpod
 
-**4 projects · 1 editions · 4 prize rows**
-
-[Winners index](../README.md)
+**4 winning projects** · 1 hackathon · 4 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Runpod)
 
 ## What winners have in common
 
-- **Most listed tech** runpod (4), next.js (3), typescript (3)
-- **Common project areas** Education and learning (1)
-- **Common demo formats** Web app or dashboard (3)
-- **Projects with a listed demo video** 4 of 4
+- **Most used tech:** runpod (4), next.js (3), typescript (3), vercel (3), claude (2)
+- **Project areas:** Education and learning (1)
+- **Demo formats:** Web app or dashboard (3)
+- **Demo videos:** 4 of 4 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [ADapt](https://devpost.com/software/adapt-ujvn5e) · [code](https://github.com/ssiddhantsood/treehacks) · [demo](https://www.youtube.com/watch?v=C3_5c9b4zxg) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place:… · [details](../by-hackathon/treehacks-2026.md#project-adapt-ujvn5e) | One ad. Every market.AI-localized in seconds. | runpod, elasticsearch, fastapi |
-| [HackOverflow: Stack Overflow for AI Agents](https://devpost.com/software/hackoverflow-stack-overflow-for-ai-agents-at-hackathons) · [code](https://github.com/IshaanChamoli/treehacks26) · [demo](https://www.youtube.com/watch?v=K3BJroCnpJ8) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place:… · [details](../by-hackathon/treehacks-2026.md#project-hackoverflow-stack-overflow-for-ai-agents-at-hackathons) | A shared question-and-answer system lets AI agents reuse solutions and escalate problems to people. | runpod, claude, cursor |
-| [NeuroBlocks](https://devpost.com/software/neuroblocks-cz7n9k) · [code](https://github.com/tupdaily/NeuroBlocks) · [demo](https://www.youtube.com/watch?v=kGlmRMJCSdg) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place:… · [details](../by-hackathon/treehacks-2026.md#project-neuroblocks-cz7n9k) | NeuroBlocks is a visual, drag-and-drop educational platform for building and understanding complex neural… | runpod, anthropic, claude |
-| [RepoRx](https://devpost.com/software/molecule-mcbob) · [code](https://github.com/ezou1/tree26) · [demo](https://www.youtube.com/watch?v=rBBftD6zOhM) | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) · Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place:… · [details](../by-hackathon/treehacks-2026.md#project-molecule-mcbob) | AI-native research engine to discover FDA-approved drug repurposing candidates for cancer treatment. Runs… | runpod, arxiv, diffdock |
+Newest hackathons first.
+
+### [ADapt](https://devpost.com/software/adapt-ujvn5e)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-adapt-ujvn5e) · **Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod…**
+
+One ad. Every market.AI-localized in seconds.
+
+[Code](https://github.com/ssiddhantsood/treehacks) · [Demo video](https://www.youtube.com/watch?v=C3_5c9b4zxg) · Built with runpod, elasticsearch, fastapi, ffmpeg
+
+### [HackOverflow: Stack Overflow for AI Agents](https://devpost.com/software/hackoverflow-stack-overflow-for-ai-agents-at-hackathons)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-hackoverflow-stack-overflow-for-ai-agents-at-hackathons) · **Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod…**
+
+A shared question-and-answer system lets AI agents reuse solutions and escalate problems to people.
+
+**How it used Runpod:** RunPod Flash (Expert Triage): Used as an optional sidecar for high-performance inference when standard agents cannot resolve a complex task.
+
+[Code](https://github.com/IshaanChamoli/treehacks26) · [Demo video](https://www.youtube.com/watch?v=K3BJroCnpJ8) · Built with runpod, claude, cursor, elasticsearch
+
+### [NeuroBlocks](https://devpost.com/software/neuroblocks-cz7n9k)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-neuroblocks-cz7n9k) · **Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod…**
+
+NeuroBlocks is a visual, drag-and-drop educational platform for building and understanding complex neural architectures.
+
+[Code](https://github.com/tupdaily/NeuroBlocks) · [Demo video](https://www.youtube.com/watch?v=kGlmRMJCSdg) · Built with runpod, anthropic, claude, fastapi
+
+### [RepoRx](https://devpost.com/software/molecule-mcbob)
+
+[TreeHacks 2026](../by-hackathon/treehacks-2026.md#project-molecule-mcbob) · **Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod…**
+
+AI-native research engine to discover FDA-approved drug repurposing candidates for cancer treatment. Runs GPU-accelerated diffusion simulations to surface high-potential treatments in minutes.
+
+**How it used Runpod:** The team run DiffDock on RunPod serverless GPUs (Nvidia Blackwells) to predict protein–ligand binding.
+
+[Code](https://github.com/ezou1/tree26) · [Demo video](https://www.youtube.com/watch?v=rBBftD6zOhM) · Built with runpod, arxiv, diffdock, docker
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2026](../by-hackathon/treehacks-2026.md) | &#91;Runpod&#93; Best use of Flash (1st Place: 200 Runpod credits per team member (up to 4). 2nd Place: 100 Runpod credits per team member (up to 4). 3rd Place: 50 Runpod credits per team member (up to 4).) | Flash | [Track label](https://treehacks-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#runpod)

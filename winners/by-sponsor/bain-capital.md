@@ -1,31 +1,48 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Bain Capital
+
 # Bain Capital
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Bain%20Capital)
 
 ## What winners have in common
 
-- **Most listed tech** d3.js (1), firebase (1), heroku (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 0 of 2
+- **Most used tech:** d3.js (1), firebase (1), heroku (1), mongodb (1), sendgrid (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 0 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Crest](https://devpost.com/software/crest) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) · Best Use of Machine Learning · [details](../by-hackathon/hackmit-2013.md#project-crest) | Application allows users to create a quick and easy checkout for customers by utilizing Venmo. | firebase, sendgrid, venmo |
-| [SpaceBubbles](https://devpost.com/software/spacebubbles) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) · Best Use of Data Visualization · [details](../by-hackathon/hackmit-2013.md#project-spacebubbles) | A tool that helps to turn web exploration into a truly social experience. | d3.js, heroku, mongodb |
+Newest hackathons first.
+
+### [Crest](https://devpost.com/software/crest)
+
+[HackMIT 2013](../by-hackathon/hackmit-2013.md#project-crest) · **Best Use of Machine Learning**
+
+Application allows users to create a quick and easy checkout for customers by utilizing Venmo.
+
+Built with firebase, sendgrid, venmo
+
+### [SpaceBubbles](https://devpost.com/software/spacebubbles)
+
+[HackMIT 2013](../by-hackathon/hackmit-2013.md#project-spacebubbles) · **Best Use of Data Visualization**
+
+A tool that helps to turn web exploration into a truly social experience.
+
+Built with d3.js, heroku, mongodb
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Bain Capital: Best Use of Data Visualization | Data Visualization | [Track label](https://hackmit.devpost.com/) |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Bain Capital: Best Use of Machine Learning | Machine Learning | [Track label](https://hackmit.devpost.com/) |
 
 </details>
+
+[Back to top](#bain-capital)

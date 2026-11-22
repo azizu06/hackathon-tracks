@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / GitHub
+
 # GitHub
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=GitHub)
 
 ## What winners have in common
 
-- **Most listed tech** docker (1), elevenlabs (1), express.js (1)
-- **Common project areas** Developer tools (1)
-- **Common demo formats** Voice or conversational interface (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** docker (1), elevenlabs (1), express.js (1), fastapi (1), gemini (1)
+- **Project areas:** Developer tools (1)
+- **Demo formats:** Voice or conversational interface (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [GitFlow](https://devpost.com/software/gitflow-bzwcov) · [code](https://github.com/hieunguyent12/shellhacks25) · [demo](https://www.youtube.com/watch?v=oo69VDuMhTU) | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) · Github · [details](../by-hackathon/shellhacks-2025.md#project-gitflow-bzwcov) | Transform any GitHub repository into an interactive, visual tree structure. AI-powered intelligent insights,… | docker, elevenlabs, express.js |
+Newest hackathons first.
+
+### [GitFlow](https://devpost.com/software/gitflow-bzwcov)
+
+[ShellHacks 2025](../by-hackathon/shellhacks-2025.md#project-gitflow-bzwcov) · **Github**
+
+Transform any GitHub repository into an interactive, visual tree structure. AI-powered intelligent insights, smart summaries, and code analysis to help you understand a codebase with confidence.
+
+[Code](https://github.com/hieunguyent12/shellhacks25) · [Demo video](https://www.youtube.com/watch?v=oo69VDuMhTU) · Built with docker, elevenlabs, express.js, fastapi
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [ShellHacks 2025](../by-hackathon/shellhacks-2025.md) | Github | No specific requirement captured | [Event prize rules](https://shellhacks2025.devpost.com/) |
 
 </details>
+
+[Back to top](#github)

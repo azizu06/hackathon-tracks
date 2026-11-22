@@ -1,31 +1,48 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / LangChain
+
 # LangChain
 
-**2 projects · 2 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=LangChain)
 
 ## What winners have in common
 
-- **Most listed tech** langchain (2), next.js (2), react (2)
-- **Common project areas** Finance and commerce (1), Health and care (1)
-- **Common demo formats** Web app or dashboard (2), Hardware or robotics (1)
-- **Projects with a listed demo video** 2 of 2
+- **Most used tech:** langchain (2), next.js (2), react (2), typescript (2), anthropic (1)
+- **Project areas:** Finance and commerce (1), Health and care (1)
+- **Demo formats:** Web app or dashboard (2), Hardware or robotics (1)
+- **Demo videos:** 2 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Lucid](https://devpost.com/software/lucid-k078qt) · [code](https://github.com/at350/hackprinceton-fall-2026) · [demo](https://www.youtube.com/watch?v=IY0Rr7l58Eg) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Best use of deepagents · [details](../by-hackathon/hackprinceton-fall-2026.md#project-lucid-k078qt) | Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a… | langchain, anthropic, arduino |
-| [Plot](https://devpost.com/software/plot-3pi8c4) · [code](https://github.com/toni-akintola/plot) · [demo](https://www.youtube.com/watch?v=jkV3BTOF3GQ) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of LangChain (LangChain Swag Box, $250 LangSmith Credits, and access to… · [details](../by-hackathon/treehacks-2025.md#project-plot-3pi8c4) | Plot delivers comprehensive insights on any location. Whether you're scouting investments or shaping… | langchain, mapbox, mistralai |
+Newest hackathons first.
+
+### [Lucid](https://devpost.com/software/lucid-k078qt)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-lucid-k078qt) · **Best use of deepagents**
+
+Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a live map of where a bleed is likely.
+
+[Code](https://github.com/at350/hackprinceton-fall-2026) · [Demo video](https://www.youtube.com/watch?v=IY0Rr7l58Eg) · Built with langchain, anthropic, arduino, claude
+
+### [Plot](https://devpost.com/software/plot-3pi8c4)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-plot-3pi8c4) · **Best Use of LangChain**
+
+Plot delivers comprehensive insights on any location. Whether you're scouting investments or shaping skylines, Plot helps you shape your plot’s plot—making smarter decisions before you break ground.
+
+[Code](https://github.com/toni-akintola/plot) · [Demo video](https://www.youtube.com/watch?v=jkV3BTOF3GQ) · Built with langchain, mapbox, mistralai, next.js
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) | &#91;LangChain&#93; Best use of deepagents | deepagents | [Track label](https://hackprinceton-fall-26.devpost.com/) |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | LangChain: Best Use of LangChain (LangChain Swag Box, $250 LangSmith Credits, and access to LangGraph Cloud per team member) | LangChain | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#langchain)

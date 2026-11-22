@@ -1,29 +1,41 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Schmidt Futures
+
 # Schmidt Futures
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Schmidt%20Futures)
 
 ## What winners have in common
 
-- **Most listed tech** chatgpt (1), dspy (1), openai (1)
-- **Common project areas** Education and learning (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 0 of 1
+- **Most used tech:** chatgpt (1), dspy (1), openai (1), python (1), streamlit (1)
+- **Project areas:** Education and learning (1)
+- **Demo formats:** None listed
+- **Demo videos:** 0 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Bruno](https://devpost.com/software/dlm) | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) · Best Use of AI in Education by Schmidt Futures · [details](../by-hackathon/hack-brown-2024.md#project-dlm) | An LLM-powered TA that adapts to course material to help guide and engage students through conceptual and… | chatgpt, dspy, openai |
+Newest hackathons first.
+
+### [Bruno](https://devpost.com/software/dlm)
+
+[Hack@Brown 2024](../by-hackathon/hack-brown-2024.md#project-dlm) · **Best Use of AI in Education by Schmidt Futures**
+
+An LLM-powered TA that adapts to course material to help guide and engage students through conceptual and technical questions, focusing on reducing redundant questions and addressing overworked TAs.
+
+**How it used Schmidt Futures:** Best Use of AI in Education by Schmidt Futures.
+
+Built with chatgpt, dspy, openai, python
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Hack@Brown 2024](../by-hackathon/hack-brown-2024.md) | Best Use of AI in Education by Schmidt Futures | AI in Education by Schmidt Futures | [Track label](https://hack-brown-2024.devpost.com/) |
 
 </details>
+
+[Back to top](#schmidt-futures)

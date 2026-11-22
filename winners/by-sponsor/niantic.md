@@ -1,31 +1,48 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Niantic
+
 # Niantic
 
-**2 projects · 2 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Niantic)
 
 ## What winners have in common
 
-- **Most listed tech** python (2), ai (1), android (1)
-- **Common project areas** None listed
-- **Common demo formats** AR, VR or spatial (1), Mobile app (1)
-- **Projects with a listed demo video** 0 of 2
+- **Most used tech:** python (2), ai (1), android (1), augmented-reality (1), computer-vision (1)
+- **Project areas:** None listed
+- **Demo formats:** AR, VR or spatial (1), Mobile app (1)
+- **Demo videos:** 0 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [open-choreo](https://devpost.com/software/open-choreo-1wmryo) | [HackMIT 2019](../by-hackathon/hackmit-2019.md) · Niantic Augmented Reality Prize · [details](../by-hackathon/hackmit-2019.md#project-open-choreo-1wmryo) | Teaches you how to dance like Bruno Mars and other famous dancers. | opencv, python, tensorflow |
-| [Augmented Checkers](https://devpost.com/software/augmented-checkers) · [code](https://github.com/abeakkas/Augmented-Checkers) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · Niantic Augmented Reality Prize · [details](../by-hackathon/hackmit-2018.md#project-augmented-checkers) | An Augmented Reality Powered Checkers Assistant. | ai, android, augmented-reality |
+Newest hackathons first.
+
+### [open-choreo](https://devpost.com/software/open-choreo-1wmryo)
+
+[HackMIT 2019](../by-hackathon/hackmit-2019.md#project-open-choreo-1wmryo) · **Niantic Augmented Reality Prize**
+
+Teaches you how to dance like Bruno Mars and other famous dancers.
+
+Built with opencv, python, tensorflow, websockets
+
+### [Augmented Checkers](https://devpost.com/software/augmented-checkers)
+
+[HackMIT 2018](../by-hackathon/hackmit-2018.md#project-augmented-checkers) · **Niantic Augmented Reality Prize**
+
+An Augmented Reality Powered Checkers Assistant.
+
+[Code](https://github.com/abeakkas/Augmented-Checkers) · Built with ai, android, augmented-reality, computer-vision
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2019](../by-hackathon/hackmit-2019.md) | Niantic Augmented Reality Prize | No specific requirement captured | [Event prize rules](https://hackmit-2019.devpost.com/) |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | Niantic Augmented Reality Prize | No specific requirement captured | [Event prize rules](https://hackmit-2018.devpost.com/) |
 
 </details>
+
+[Back to top](#niantic)

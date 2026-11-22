@@ -1,31 +1,59 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / TwelveLabs
+
 # TwelveLabs
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=TwelveLabs)
 
 ## What winners have in common
 
-- **Most listed tech** python (3), typescript (3), react (2)
-- **Common project areas** Games and entertainment (1)
-- **Common demo formats** Game (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 3 of 3
+- **Most used tech:** python (3), typescript (3), react (2), twelvelabs (2), beautiful-soup (1)
+- **Project areas:** Games and entertainment (1)
+- **Demo formats:** Playable game (1), Web app or dashboard (1)
+- **Demo videos:** 3 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Buildr](https://devpost.com/software/ezpc) · [code](https://github.com/kevinwu098/buildr) · [demo](https://www.youtube.com/watch?v=lfB2SNkqhy4) | [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md) · TwelveLabs API Challenge · [details](../by-hackathon/sb-hacks-xii-2026.md#project-ezpc) | PC building made easy — ask questions, identify parts, and build confidently. | twelvelabs, chatgpt, deepgram |
-| [Owngoal](https://devpost.com/software/owngoal) · [demo](https://www.youtube.com/watch?v=pOvZoBC0Bf0) | [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md) · TwelveLabs API Challenge · [details](../by-hackathon/sb-hacks-xii-2026.md#project-owngoal) | Every fan watches the same basketball game, but for different moments. Some track tactics, others chase the… | javascript, node.js, python |
-| [Reel-To-Real](https://devpost.com/software/reel-to-real) · [code](https://github.com/pranavgowrish/reeltoreal) · [demo](https://www.youtube.com/watch?v=_LCzIzWPdRM) | [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md) · TwelveLabs API Challenge · [details](../by-hackathon/sb-hacks-xii-2026.md#project-reel-to-real) | Reel-To-Real is an end-to-end autonomous travel agent. | twelvelabs, beautiful-soup, ddgs |
+Newest hackathons first.
+
+### [Buildr](https://devpost.com/software/ezpc)
+
+[SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md#project-ezpc) · **TwelveLabs API Challenge**
+
+PC building made easy — ask questions, identify parts, and build confidently.
+
+**How it used TwelveLabs:** PC Part data using data scraping (Firecrawl (PC Part Picker), TwelveLabs (YT)).
+
+[Code](https://github.com/kevinwu098/buildr) · [Demo video](https://www.youtube.com/watch?v=lfB2SNkqhy4) · Built with twelvelabs, chatgpt, deepgram, lancedb
+
+### [Owngoal](https://devpost.com/software/owngoal)
+
+[SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md#project-owngoal) · **TwelveLabs API Challenge**
+
+Every fan watches the same basketball game, but for different moments. Some track tactics, others chase the star’s reaction after a dunk.
+
+[Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
+
+### [Reel-To-Real](https://devpost.com/software/reel-to-real)
+
+[SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md#project-reel-to-real) · **TwelveLabs API Challenge**
+
+Reel-To-Real is an end-to-end autonomous travel agent.
+
+**How it used TwelveLabs:** The system concurrently scrapes live travel data, extracts venues using NLP, parses videos for location and attractions using TwelveLabs, and validates them for quality using Google Gemini.
+
+[Code](https://github.com/pranavgowrish/reeltoreal) · [Demo video](https://www.youtube.com/watch?v=_LCzIzWPdRM) · Built with twelvelabs, beautiful-soup, ddgs, fastapi
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [SB Hacks XII 2026](../by-hackathon/sb-hacks-xii-2026.md) | TwelveLabs API Challenge | No specific requirement captured | [Event prize rules](https://sb-hacks-xii.devpost.com/) |
 
 </details>
+
+[Back to top](#twelvelabs)

@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Berkeley SkyDeck
+
 # Berkeley SkyDeck
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Berkeley%20SkyDeck)
 
 ## What winners have in common
 
-- **Most listed tech** anthropic-claude (1), arduino (1), bluetooth (1)
-- **Common project areas** None listed
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** anthropic-claude (1), arduino (1), bluetooth (1), elevenlabs (1), esp32 (1)
+- **Project areas:** None listed
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Theracat](https://devpost.com/software/theracat) · [code](https://github.com/emilyLi2020/Theracat) · [demo](https://vimeo.com/1203255610) | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) · SkyDeck Grand Prize Winner · [details](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-theracat) | A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There's no app… | anthropic-claude, arduino, bluetooth |
+Newest hackathons first.
+
+### [Theracat](https://devpost.com/software/theracat)
+
+[UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md#project-theracat) · **SkyDeck Grand Prize Winner**
+
+A band and a plush cat that catch anxiety in how you move — and interrupt it before it peaks. There's no app to open, no waiting room.
+
+[Code](https://github.com/emilyLi2020/Theracat) · [Demo video](https://vimeo.com/1203255610) · Built with anthropic-claude, arduino, bluetooth, elevenlabs
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [UC Berkeley AI Hackathon 2026](../by-hackathon/uc-berkeley-ai-hackathon-2026.md) | SkyDeck Grand Prize Winner | No specific requirement captured | [Event prize rules](https://ai-hackathon-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#berkeley-skydeck)

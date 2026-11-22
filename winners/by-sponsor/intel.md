@@ -1,33 +1,80 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Intel
+
 # Intel
 
-**6 projects · 2 editions · 6 prize rows**
-
-[Winners index](../README.md)
+**6 winning projects** · 2 hackathons · 6 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Intel)
 
 ## What winners have in common
 
-- **Most listed tech** python (4), flask (2), javascript (2)
-- **Common project areas** Games and entertainment (1), Security and privacy (1)
-- **Common demo formats** CLI or developer tool (1), Web app or dashboard (1)
-- **Projects with a listed demo video** 4 of 6
+- **Most used tech:** python (4), flask (2), javascript (2), llama3.2 (2), openvino (2)
+- **Project areas:** Games and entertainment (1), Security and privacy (1)
+- **Demo formats:** Command line or SDK (1), Web app or dashboard (1)
+- **Demo videos:** 4 of 6 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [ANGEL'S PROTECTION](https://devpost.com/software/angel-s-protection) · [code](https://github.com/phamleduy04/hacktx24) · [demo](https://www.youtube.com/watch?v=wCfq8UI903w) | [HackTX 2024](../by-hackathon/hacktx-2024.md) · Best Use of Intel AI · [details](../by-hackathon/hacktx-2024.md#project-angel-s-protection) | ANGEL'S PROTECTION processes live video feeds, storing data based on individuals’ clothing rather than facial… | intel, computer-vision, fast |
-| [PrimeTime](https://devpost.com/software/primetime-285zcm) · [code](https://github.com/HackTX-2024-RAAA/PrimeTime) | [HackTX 2024](../by-hackathon/hacktx-2024.md) · Best Use of Intel AI · [details](../by-hackathon/hacktx-2024.md#project-primetime-285zcm) | Introducing PrimeTime—an advanced productivity app that uses AI to track engagement and optimize time spent… | javascript, llms, next.js |
-| [SuperMAN](https://devpost.com/software/superman-2wigou) · [code](https://github.com/praneelseth/superMAN) · [demo](https://www.youtube.com/watch?v=53opgxjzhr8) | [HackTX 2024](../by-hackathon/hacktx-2024.md) · Best Use of Intel AI · [details](../by-hackathon/hacktx-2024.md#project-superman-2wigou) | Unlock the power of the command line with superMAN, an AI assistant that converts natural language into… | intel-aipc, intel-gpu, cloudflare |
-| [AIDJ](https://devpost.com/software/aidj) · [code](https://github.com/tesims/mhacks) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · 1st Place Best Use of Intel AI · [details](../by-hackathon/mhacks-2024.md#project-aidj) | AI-powered DJ: Enhancing live performances by analyzing crowd energy and adjusting music in real-time to… | flask, mangodb, openvino |
-| [plaite](https://devpost.com/software/plaite) · [code](https://github.com/Orbital-Web/plaite) · [demo](https://www.youtube.com/watch?v=ODBwwHjMowQ) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · 2st Place Best Use of Intel AI · [details](../by-hackathon/mhacks-2024.md#project-plaite) | The webcam will recognize food that is in frame (using a Computer Vision model) and label it. | openai, python, streamlit |
-| [SongChaser](https://devpost.com/software/songchaser) · [demo](https://www.youtube.com/watch?v=70ziSQVSEqI) | [MHacks 2024](../by-hackathon/mhacks-2024.md) · 3st Place Best Use of Intel AI · [details](../by-hackathon/mhacks-2024.md#project-songchaser) | Search for the song on the tip of your tongue. | bootstrap, flask, mongodb |
+Newest hackathons first.
+
+### [AIDJ](https://devpost.com/software/aidj)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-aidj) · **1st Place Best Use of Intel AI**
+
+AI-powered DJ: Enhancing live performances by analyzing crowd energy and adjusting music in real-time to match the vibe.
+
+[Code](https://github.com/tesims/mhacks) · Built with flask, mangodb, openvino
+
+### [ANGEL'S PROTECTION](https://devpost.com/software/angel-s-protection)
+
+[HackTX 2024](../by-hackathon/hacktx-2024.md#project-angel-s-protection) · **Best Use of Intel AI**
+
+ANGEL'S PROTECTION processes live video feeds, storing data based on individuals’ clothing rather than facial recognition, thereby prioritizing privacy.
+
+[Code](https://github.com/phamleduy04/hacktx24) · [Demo video](https://www.youtube.com/watch?v=wCfq8UI903w) · Built with intel, computer-vision, fast, iris-database
+
+### [plaite](https://devpost.com/software/plaite)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-plaite) · **2st Place Best Use of Intel AI**
+
+The webcam will recognize food that is in frame (using a Computer Vision model) and label it.
+
+[Code](https://github.com/Orbital-Web/plaite) · [Demo video](https://www.youtube.com/watch?v=ODBwwHjMowQ) · Built with openai, python, streamlit, usda-nutrition-data
+
+### [PrimeTime](https://devpost.com/software/primetime-285zcm)
+
+[HackTX 2024](../by-hackathon/hacktx-2024.md#project-primetime-285zcm) · **Best Use of Intel AI**
+
+Introducing PrimeTime—an advanced productivity app that uses AI to track engagement and optimize time spent on your computer to help you maximize focus and boost efficiency.
+
+[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with javascript, llms, next.js, npus
+
+### [SongChaser](https://devpost.com/software/songchaser)
+
+[MHacks 2024](../by-hackathon/mhacks-2024.md#project-songchaser) · **3st Place Best Use of Intel AI**
+
+Search for the song on the tip of your tongue.
+
+**How it used Intel:** This was built using Intel AI PCs, with the remote desktop.
+
+[Demo video](https://www.youtube.com/watch?v=70ziSQVSEqI) · Built with bootstrap, flask, mongodb, node.js
+
+### [SuperMAN](https://devpost.com/software/superman-2wigou)
+
+[HackTX 2024](../by-hackathon/hacktx-2024.md#project-superman-2wigou) · **Best Use of Intel AI**
+
+Unlock the power of the command line with superMAN, an AI assistant that converts natural language into terminal commands. Forget MAN pages – powered by an Intel AIPC, superMAN simplifies it all. 🔥.
+
+**How it used Intel:** LLM inference acceleration: IPEX-LLM( Intel® Extension for PyTorch&#42; Large Language Models) helped superMAN run faster and more efficiently by optimizing model performance on Intel hardware.
+
+[Code](https://github.com/praneelseth/superMAN) · [Demo video](https://www.youtube.com/watch?v=53opgxjzhr8) · Built with intel-aipc, intel-gpu, cloudflare, ipex-llm
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackTX 2024](../by-hackathon/hacktx-2024.md) | Best Use of Intel AI | Intel AI | [Track label](https://hacktx-2024.devpost.com/) |
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | Intel - 1st Place Best Use of Intel AI | Intel AI | [Track label](https://mhacks-2024.devpost.com/) |
@@ -35,3 +82,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [MHacks 2024](../by-hackathon/mhacks-2024.md) | Intel - 3st Place Best Use of Intel AI | Intel AI | [Track label](https://mhacks-2024.devpost.com/) |
 
 </details>
+
+[Back to top](#intel)

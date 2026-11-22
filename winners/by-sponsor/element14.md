@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / element14
+
 # element14
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=element14)
 
 ## What winners have in common
 
-- **Most listed tech** arduino (1), c++ (1), python (1)
-- **Common project areas** None listed
-- **Common demo formats** Hardware or robotics (1)
-- **Projects with a listed demo video** 0 of 1
+- **Most used tech:** arduino (1), c++ (1), python (1), raspberry-pi (1), webcam (1)
+- **Project areas:** None listed
+- **Demo formats:** Hardware or robotics (1)
+- **Demo videos:** 0 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Troomba](https://devpost.com/software/troomba) · [code](https://github.com/patil215/soomba) | [HackMIT 2018](../by-hackathon/hackmit-2018.md) · element14 Presents a Robotics Kit · [details](../by-hackathon/hackmit-2018.md#project-troomba) | Troomba is a friendly robot that carries your drinks. | arduino, c++, python |
+Newest hackathons first.
+
+### [Troomba](https://devpost.com/software/troomba)
+
+[HackMIT 2018](../by-hackathon/hackmit-2018.md#project-troomba) · **element14 Presents a Robotics Kit**
+
+Troomba is a friendly robot that carries your drinks.
+
+[Code](https://github.com/patil215/soomba) · Built with arduino, c++, python, raspberry-pi
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2018](../by-hackathon/hackmit-2018.md) | element14 Presents a Robotics Kit | No specific requirement captured | [Event prize rules](https://hackmit-2018.devpost.com/) |
 
 </details>
+
+[Back to top](#element14)

@@ -1,31 +1,48 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / TELUS
+
 # TELUS
 
-**2 projects · 2 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 2 hackathons · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=TELUS)
 
 ## What winners have in common
 
-- **Most listed tech** react (2), vite (2), algorithms (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 2
+- **Most used tech:** react (2), vite (2), algorithms (1), c (1), css (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [MelaNone](https://devpost.com/software/melanone) · [code](https://github.com/jasonkwok475/MelaNone) · [demo](https://www.youtube.com/watch?v=z7EJEKKdNtc) | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) · &#91;Telus&#93; The Edge of Innovation · [details](../by-hackathon/nwhacks-2026.md#project-melanone) | MelaNone is a limb-scanning system designed to help detect melanoma early on. | c, cv, flask |
-| [CrisisLens](https://devpost.com/software/crisislens) · [code](https://github.com/bpbrianpark/CrisisLens) | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) · TELUS Sponsor Prize · [details](../by-hackathon/nwhacks-2025.md#project-crisislens) | A dynamic platform for mapping real-time crisis events through peer-shared videos, empowering communities to… | algorithms, css, firebase |
+Newest hackathons first.
+
+### [MelaNone](https://devpost.com/software/melanone)
+
+[nwHacks 2026](../by-hackathon/nwhacks-2026.md#project-melanone) · **The Edge of Innovation**
+
+MelaNone is a limb-scanning system designed to help detect melanoma early on.
+
+[Code](https://github.com/jasonkwok475/MelaNone) · [Demo video](https://www.youtube.com/watch?v=z7EJEKKdNtc) · Built with c, cv, flask, python
+
+### [CrisisLens](https://devpost.com/software/crisislens)
+
+[nwHacks 2025](../by-hackathon/nwhacks-2025.md#project-crisislens) · **TELUS Sponsor Prize**
+
+A dynamic platform for mapping real-time crisis events through peer-shared videos, empowering communities to act and stay informed.
+
+[Code](https://github.com/bpbrianpark/CrisisLens) · Built with algorithms, css, firebase, github
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [nwHacks 2026](../by-hackathon/nwhacks-2026.md) | &#91;Telus&#93; The Edge of Innovation | No specific requirement captured | [Event prize rules](https://nwhacks-2026.devpost.com/) |
 | [nwHacks 2025](../by-hackathon/nwhacks-2025.md) | TELUS Sponsor Prize | No specific requirement captured | [Event prize rules](https://nwhacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#telus)

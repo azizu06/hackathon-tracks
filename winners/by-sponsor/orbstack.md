@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Orbstack
+
 # Orbstack
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Orbstack)
 
 ## What winners have in common
 
-- **Most listed tech** elevenlabs (1), groq (1), javascript (1)
-- **Common project areas** Education and learning (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** elevenlabs (1), groq (1), javascript (1), langchain (1), lumalabs (1)
+- **Project areas:** Education and learning (1)
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Zue Research](https://devpost.com/software/zue-research) · [code](https://github.com/zcsabbagh/zu-lm) · [demo](https://www.youtube.com/watch?v=ajYL27WPKcs) | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) · Best Use of Rust ($1k Cash) · [details](../by-hackathon/treehacks-2025.md#project-zue-research) | interactive multimodal AI experiences for neurodivergent learners run entirely on the edge. | elevenlabs, groq, javascript |
+Newest hackathons first.
+
+### [Zue Research](https://devpost.com/software/zue-research)
+
+[TreeHacks 2025](../by-hackathon/treehacks-2025.md#project-zue-research) · **Best Use of Rust**
+
+interactive multimodal AI experiences for neurodivergent learners run entirely on the edge.
+
+[Code](https://github.com/zcsabbagh/zu-lm) · [Demo video](https://www.youtube.com/watch?v=ajYL27WPKcs) · Built with elevenlabs, groq, javascript, langchain
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [TreeHacks 2025](../by-hackathon/treehacks-2025.md) | Orbstack: Best Use of Rust ($1k Cash) | Rust | [Track label](https://treehacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#orbstack)

@@ -1,36 +1,106 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Tiger Data
+
 # Tiger Data
 
-**9 projects · 9 editions · 9 prize rows**
-
-[Winners index](../README.md)
+**9 winning projects** · 9 hackathons · 9 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Tiger%20Data)
 
 ## What winners have in common
 
-- **Most listed tech** python (6), fastapi (5), postgresql (5)
-- **Common project areas** None listed
-- **Common demo formats** Web app or dashboard (4), Hardware or robotics (2), Mobile app (2)
-- **Projects with a listed demo video** 8 of 9
+- **Most used tech:** python (6), fastapi (5), postgresql (5), photon (4), tiger-data (4)
+- **Project areas:** None listed
+- **Demo formats:** Web app or dashboard (4), Hardware or robotics (2), Mobile app (2)
+- **Demo videos:** 8 of 9 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Laminar](https://devpost.com/software/laminar-ma1h69) · [code](https://github.com/Omm2005/laminar) · [demo](https://www.youtube.com/watch?v=CZ1orYlswwY) | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) · Best Use of Tiger Data · [details](../by-hackathon/cal-hacks-13-0-2026.md#project-laminar-ma1h69) | The team built a live dashboard so that any scientist/lab technician can view the real-time data and analysis… | tiger-data, timescaledb, anthropic |
-| [Pose](https://devpost.com/software/posture-pal-ul3hfa) · [code](https://github.com/Keipydesu/Pose.) · [demo](https://www.youtube.com/watch?v=ratTdsDwklM) | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) · MLH: Best Use of Tiger Data · [details](../by-hackathon/hackgt-13-2026.md#project-posture-pal-ul3hfa) | Pse is a novel wearable technology that tracks slouching and turns posture awareness into friendly… | assembly, bluetooth, bno055 |
-| [Clarity](https://devpost.com/software/clarity-d7smby) · [demo](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) | [HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md) · Best Use of Tiger Data · [details](../by-hackathon/hackprinceton-fall-2026.md#project-clarity-d7smby) | What you deserve in your drinking water. | tiger-data/timescaledb, arduino-uno, deck.gl |
-| [Save My Rims](https://devpost.com/software/detect-pot) · [code](https://github.com/Georgeyy07/HackTheNorth2026) | [Hack the North 2026](../by-hackathon/hack-the-north-2026.md) · MLH: Best Use of Tiger Data · [details](../by-hackathon/hack-the-north-2026.md#project-detect-pot) | But how does it know where the defects are. | expo.io, fastapi, gcloud&amp;docker |
-| [SOPilot](https://devpost.com/software/sopilot) · [demo](https://www.youtube.com/watch?v=v9erU_vIlWk) | [HackTX 2026](../by-hackathon/hacktx-2026.md) · Best Use of Tiger Data · [details](../by-hackathon/hacktx-2026.md#project-sopilot) | AI-native workflows, built straight from your existing SOPs. | tiger-data, timescaledb, caddy |
-| [Flare](https://devpost.com/software/bee-movie-script) · [code](https://github.com/Siriapps/HackUTD-26) · [demo](https://www.youtube.com/watch?v=IZHkkpYGtdE) | [HackUTD 2026](../by-hackathon/hackutd-2026.md) · Best Use of Tiger Data · [details](../by-hackathon/hackutd-2026.md#project-bee-movie-script) | Spots the failure before it burns. | tiger-data, timescaledb, elevenlabs |
-| [Hakit](https://devpost.com/software/hakit-1qejr3) · [code](https://github.com/maxjb-xyz/hakit) · [demo](https://www.youtube.com/watch?v=X3Ex2pmvqaU) | [Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md) · Best Use of Tiger Data · [details](../by-hackathon/knight-hacks-ix-2026.md#project-hakit-1qejr3) | A workspace matches hackathon tasks to teammates and tracks progress through GitHub. | cloudflare, gemini, github |
-| [TapTrack](https://devpost.com/software/taptrack-4hni2z) · [code](https://github.com/ahansoty/taptrack-pd) · [demo](https://www.youtube.com/watch?v=NyzD97cP5SY) | [MHacks 2026](../by-hackathon/mhacks-2026.md) · Best Use of Tiger Data · [details](../by-hackathon/mhacks-2026.md#project-taptrack-4hni2z) | TapTrack PD is a wrist-worn Parkinson's tracker built on a FREE-WILi strapped to a watch band. | timescaledb, agentverse, asi-one |
-| [transPEAKtation](https://devpost.com/software/transpeaktation) · [code](https://github.com/No-Way-Mo/transpeaktation) · [demo](https://www.youtube.com/watch?v=maBHLULKMVc) | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) · Best Use of Tiger Data · [details](../by-hackathon/shellhacks-2026.md#project-transpeaktation) | By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming. | tiger-data, claude, digitalocean |
+Newest hackathons first.
+
+### [Clarity](https://devpost.com/software/clarity-d7smby)
+
+[HackPrinceton Fall 2026](../by-hackathon/hackprinceton-fall-2026.md#project-clarity-d7smby) · **Best Use of Tiger Data**
+
+What you deserve in your drinking water.
+
+**How it used Tiger Data:** The backend evaluates measurements against configured thresholds, tracks filter life using manufacturer-specific guidelines, and manages historical water quality data through Tiger Data.
+
+[Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ixw) · Built with tiger-data/timescaledb, arduino-uno, deck.gl, esp-now
+
+### [Flare](https://devpost.com/software/bee-movie-script)
+
+[HackUTD 2026](../by-hackathon/hackutd-2026.md#project-bee-movie-script) · **Best Use of Tiger Data**
+
+Spots the failure before it burns.
+
+[Code](https://github.com/Siriapps/HackUTD-26) · [Demo video](https://www.youtube.com/watch?v=IZHkkpYGtdE) · Built with tiger-data, timescaledb, elevenlabs, gemini
+
+### [Hakit](https://devpost.com/software/hakit-1qejr3)
+
+[Knight Hacks IX 2026](../by-hackathon/knight-hacks-ix-2026.md#project-hakit-1qejr3) · **Best Use of Tiger Data**
+
+A workspace matches hackathon tasks to teammates and tracks progress through GitHub.
+
+[Code](https://github.com/maxjb-xyz/hakit) · [Demo video](https://www.youtube.com/watch?v=X3Ex2pmvqaU) · Built with cloudflare, gemini, github, huggingface
+
+### [Laminar](https://devpost.com/software/laminar-ma1h69)
+
+[Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md#project-laminar-ma1h69) · **Best Use of Tiger Data**
+
+The team built a live dashboard so that any scientist/lab technician can view the real-time data and analysis of past logs.
+
+**How it used Tiger Data:** SQL functions in Tiger (run&#95;smoothness, run&#95;trace) compute per-joint tracking error, jerk and stick-slip, and the console's Tiger Data tab charts and replays any real run on the 3D arm.
+
+[Code](https://github.com/Omm2005/laminar) · [Demo video](https://www.youtube.com/watch?v=CZ1orYlswwY) · Built with tiger-data, timescaledb, anthropic, asi:one
+
+### [Pose](https://devpost.com/software/posture-pal-ul3hfa)
+
+[HackGT 13 2026](../by-hackathon/hackgt-13-2026.md#project-posture-pal-ul3hfa) · **Best Use of Tiger Data**
+
+Pse is a novel wearable technology that tracks slouching and turns posture awareness into friendly competition. See your trends, challenge friends, and build upright habits.
+
+[Code](https://github.com/Keipydesu/Pose.) · [Demo video](https://www.youtube.com/watch?v=ratTdsDwklM) · Built with assembly, bluetooth, bno055, claude
+
+### [Save My Rims](https://devpost.com/software/detect-pot)
+
+[Hack the North 2026](../by-hackathon/hack-the-north-2026.md#project-detect-pot) · **Best Use of Tiger Data**
+
+But how does it know where the defects are.
+
+[Code](https://github.com/Georgeyy07/HackTheNorth2026) · Built with expo.io, fastapi, gcloud&amp;docker, godaddy
+
+### [SOPilot](https://devpost.com/software/sopilot)
+
+[HackTX 2026](../by-hackathon/hacktx-2026.md#project-sopilot) · **Best Use of Tiger Data**
+
+AI-native workflows, built straight from your existing SOPs.
+
+**How it used Tiger Data:** Tiger Data stores SOPs and their versions, along with a full trace of every run.
+
+[Demo video](https://www.youtube.com/watch?v=v9erU_vIlWk) · Built with tiger-data, timescaledb, caddy, capital-one-nessie
+
+### [TapTrack](https://devpost.com/software/taptrack-4hni2z)
+
+[MHacks 2026](../by-hackathon/mhacks-2026.md#project-taptrack-4hni2z) · **Best Use of Tiger Data**
+
+TapTrack PD is a wrist-worn Parkinson's tracker built on a FREE-WILi strapped to a watch band.
+
+[Code](https://github.com/ahansoty/taptrack-pd) · [Demo video](https://www.youtube.com/watch?v=NyzD97cP5SY) · Built with timescaledb, agentverse, asi-one, css
+
+### [transPEAKtation](https://devpost.com/software/transpeaktation)
+
+[ShellHacks 2026](../by-hackathon/shellhacks-2026.md#project-transpeaktation) · **Best Use of Tiger Data**
+
+By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
+
+[Code](https://github.com/No-Way-Mo/transpeaktation) · [Demo video](https://www.youtube.com/watch?v=maBHLULKMVc) · Built with tiger-data, claude, digitalocean, elevenlabs
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 13.0 2026](../by-hackathon/cal-hacks-13-0-2026.md) | &#91;MLH&#93; Best Use of Tiger Data | Tiger Data | [Track label](https://cal-hacks-13-0.devpost.com/) |
 | [HackGT 13 2026](../by-hackathon/hackgt-13-2026.md) | MLH: Best Use of Tiger Data | Tiger Data | [Track label](https://hackgt13.devpost.com/) |
@@ -43,3 +113,5 @@ Counts use one project per edition. Areas and demo formats come from keywords in
 | [ShellHacks 2026](../by-hackathon/shellhacks-2026.md) | &#91;MLH&#93; Best Use of Tiger Data | Tiger Data | [Track label](https://shellhacks-2026.devpost.com/) |
 
 </details>
+
+[Back to top](#tiger-data)

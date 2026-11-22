@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / MSI
+
 # MSI
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=MSI)
 
 ## What winners have in common
 
-- **Most listed tech** chrome (1), fast-api (1), gemini (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** chrome (1), fast-api (1), gemini (1), gmail-api (1), python (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [GMax](https://devpost.com/software/gmax) · [code](https://github.com/aroy23/GMax) · [demo](https://www.youtube.com/watch?v=HjPrTQSjSwo) | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) · MSI Lucky's Hackening · [details](../by-hackathon/la-hacks-2025.md#project-gmax) | An AI-powered email assistant that automatically processes, analyzes, and responds to emails. | chrome, fast-api, gemini |
+Newest hackathons first.
+
+### [GMax](https://devpost.com/software/gmax)
+
+[LA Hacks 2025](../by-hackathon/la-hacks-2025.md#project-gmax) · **MSI Lucky's Hackening**
+
+An AI-powered email assistant that automatically processes, analyzes, and responds to emails.
+
+[Code](https://github.com/aroy23/GMax) · [Demo video](https://www.youtube.com/watch?v=HjPrTQSjSwo) · Built with chrome, fast-api, gemini, gmail-api
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [LA Hacks 2025](../by-hackathon/la-hacks-2025.md) | MSI Lucky's Hackening | No specific requirement captured | [Event prize rules](https://la-hacks-2025.devpost.com/) |
 
 </details>
+
+[Back to top](#msi)

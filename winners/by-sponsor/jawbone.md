@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Jawbone
+
 # Jawbone
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=Jawbone)
 
 ## What winners have in common
 
-- **Most listed tech** alchemyapi (1), firebase (1), fitbit (1)
-- **Common project areas** Developer tools (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 0 of 1
+- **Most used tech:** alchemyapi (1), firebase (1), fitbit (1), jawbone (1), venmo (1)
+- **Project areas:** Developer tools (1)
+- **Demo formats:** None listed
+- **Demo videos:** 0 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [GitFit](https://devpost.com/software/gitfit) | [HackMIT 2013](../by-hackathon/hackmit-2013.md) · For the best health hack · [details](../by-hackathon/hackmit-2013.md#project-gitfit) | Employers can have their developers use calories as currency. | jawbone, alchemyapi, firebase |
+Newest hackathons first.
+
+### [GitFit](https://devpost.com/software/gitfit)
+
+[HackMIT 2013](../by-hackathon/hackmit-2013.md#project-gitfit) · **For the best health hack**
+
+Employers can have their developers use calories as currency.
+
+Built with jawbone, alchemyapi, firebase, fitbit
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [HackMIT 2013](../by-hackathon/hackmit-2013.md) | Jawbone - For the best health hack | No specific requirement captured | [Event prize rules](https://hackmit.devpost.com/) |
 
 </details>
+
+[Back to top](#jawbone)

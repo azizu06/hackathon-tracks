@@ -1,30 +1,47 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Fannie Mae
+
 # Fannie Mae
 
-**2 projects · 1 editions · 2 prize rows**
-
-[Winners index](../README.md)
+**2 winning projects** · 1 hackathon · 2 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Fannie%20Mae)
 
 ## What winners have in common
 
-- **Most listed tech** python (2), react (2), fastapi (1)
-- **Common project areas** Climate and environment (1), Safety and emergency response (1)
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 0 of 2
+- **Most used tech:** python (2), react (2), fastapi (1), javascript (1), node.js (1)
+- **Project areas:** Climate and environment (1), Safety and emergency response (1)
+- **Demo formats:** None listed
+- **Demo videos:** 0 of 2 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [Bitcamp Brawlers - Disaster Data](https://devpost.com/software/bitcamp-brawlers-disaster-data) · [code](https://github.com/jasonyih/BitcampBackend) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best Use of APIs related to Housing/Climate Change - Fannie Mae · [details](../by-hackathon/bitcamp-2024.md#project-bitcamp-brawlers-disaster-data) | The web application allows a user to understand the prevalence of certain natural disasters in each of the 50… | fastapi, python, react |
-| [Mortgage Master](https://devpost.com/software/mortgage-master) · [code](https://github.com/amantalreja/Fannnie-Mae-Challenge) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best Use of APIs related to Housing/Climate Change - Fannie Mae · [details](../by-hackathon/bitcamp-2024.md#project-mortgage-master) | Insights for Tomorrow: Navigating Climate Challenges with Data. | javascript, node.js, numpy |
+Newest hackathons first.
+
+### [Bitcamp Brawlers - Disaster Data](https://devpost.com/software/bitcamp-brawlers-disaster-data)
+
+[Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-bitcamp-brawlers-disaster-data) · **Best Use of APIs related to Housing/Climate Change - Fannie Mae**
+
+The web application allows a user to understand the prevalence of certain natural disasters in each of the 50 states.
+
+[Code](https://github.com/jasonyih/BitcampBackend) · Built with fastapi, python, react, typescript
+
+### [Mortgage Master](https://devpost.com/software/mortgage-master)
+
+[Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-mortgage-master) · **Best Use of APIs related to Housing/Climate Change - Fannie Mae**
+
+Insights for Tomorrow: Navigating Climate Challenges with Data.
+
+[Code](https://github.com/amantalreja/Fannnie-Mae-Challenge) · Built with javascript, node.js, numpy, pandas
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best Use of APIs related to Housing/Climate Change - Fannie Mae | APIs related to Housing/Climate Change - Fannie Mae | [Track label](https://bitcamp2024.devpost.com/) |
 
 </details>
+
+[Back to top](#fannie-mae)

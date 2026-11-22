@@ -1,29 +1,39 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / CodeRabbit
+
 # CodeRabbit
 
-**1 projects · 1 editions · 1 prize rows**
-
-[Winners index](../README.md)
+**1 winning project** · 1 hackathon · 1 prize · [Filter on the site](https://tracks.azizu.dev/#sponsor=CodeRabbit)
 
 ## What winners have in common
 
-- **Most listed tech** bash (1), chromadb (1), claude (1)
-- **Common project areas** None listed
-- **Common demo formats** None listed
-- **Projects with a listed demo video** 1 of 1
+- **Most used tech:** bash (1), chromadb (1), claude (1), coderabbit (1), javascript (1)
+- **Project areas:** None listed
+- **Demo formats:** None listed
+- **Demo videos:** 1 of 1 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [merj](https://devpost.com/software/merj) · [code](https://github.com/Anay-jo/merj) · [demo](https://www.youtube.com/watch?v=R1SPVzI1epU) | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) · Best Use of CodeRabbit AI · [details](../by-hackathon/cal-hacks-12-0-2025.md#project-merj) | Merj is your AI-powered merge copilot. It reviews both branches, understands intent with CodeRabbit, and uses… | coderabbit, bash, chromadb |
+Newest hackathons first.
+
+### [merj](https://devpost.com/software/merj)
+
+[Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md#project-merj) · **Best Use of CodeRabbit AI**
+
+Merj is your AI-powered merge copilot. It reviews both branches, understands intent with CodeRabbit, and uses Claude to suggest secure conflict resolutions automatically.
+
+[Code](https://github.com/Anay-jo/merj) · [Demo video](https://www.youtube.com/watch?v=R1SPVzI1epU) · Built with coderabbit, bash, chromadb, claude
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Cal Hacks 12.0 2025](../by-hackathon/cal-hacks-12-0-2025.md) | CodeRabbit: Best Use of CodeRabbit AI | CodeRabbit AI | [Track label](https://cal-hacks-12-0.devpost.com/) |
 
 </details>
+
+[Back to top](#coderabbit)

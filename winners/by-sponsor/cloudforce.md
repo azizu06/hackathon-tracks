@@ -1,31 +1,55 @@
+[Hackathon Tracks](../../README.md) / [Sponsors](../../SPONSORS.md) / Cloudforce
+
 # Cloudforce
 
-**3 projects · 1 editions · 3 prize rows**
-
-[Winners index](../README.md)
+**3 winning projects** · 1 hackathon · 3 prizes · [Filter on the site](https://tracks.azizu.dev/#sponsor=Cloudforce)
 
 ## What winners have in common
 
-- **Most listed tech** azure (2), javascript (2), node.js (2)
-- **Common project areas** Safety and emergency response (1)
-- **Common demo formats** Web app or dashboard (1)
-- **Projects with a listed demo video** 0 of 3
+- **Most used tech:** azure (2), javascript (2), node.js (2), python (2), react (2)
+- **Project areas:** Safety and emergency response (1)
+- **Demo formats:** Web app or dashboard (1)
+- **Demo videos:** 0 of 3 winners link one
 
-Counts use one project per edition. Areas and demo formats come from keywords in project descriptions and tech tags.
+<sub>Counts use one entry per winning project. Areas and formats are matched from keywords in project descriptions and tech tags.</sub>
 
-## Sponsor awards
+## Winning projects
 
-| Project | Edition and prize | What it built | Tech |
-| --- | --- | --- | --- |
-| [BuildKey AI](https://devpost.com/software/buildkey-ai) · [code](https://github.com/urstrulykkr/BuildKey-AI) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts -… · [details](../by-hackathon/bitcamp-2024.md#project-buildkey-ai) | Copilot for support fieldOps teams to aid reconstruction of the Francis Scott Key Bridge. Enhances data… | ai, astro, azure |
-| [ResQVision](https://devpost.com/software/resqvision) · [code](https://github.com/NSP909/cmdfmydebris) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts -… · [details](../by-hackathon/bitcamp-2024.md#project-resqvision) | Using AI/ML to enhance rescuing and rebuilding processes after a disaster. | css, flask, html |
-| [StructSure](https://devpost.com/software/structsure) | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) · Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts -… · [details](../by-hackathon/bitcamp-2024.md#project-structsure) | Leveraging AI to assess bridge damage. | azure, javascript, next.js |
+Newest hackathons first.
+
+### [BuildKey AI](https://devpost.com/software/buildkey-ai)
+
+[Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-buildkey-ai) · **Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce**
+
+Copilot for support fieldOps teams to aid reconstruction of the Francis Scott Key Bridge. Enhances data access for decision-making.
+
+[Code](https://github.com/urstrulykkr/BuildKey-AI) · Built with ai, astro, azure, github
+
+### [ResQVision](https://devpost.com/software/resqvision)
+
+[Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-resqvision) · **Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce**
+
+Using AI/ML to enhance rescuing and rebuilding processes after a disaster.
+
+[Code](https://github.com/NSP909/cmdfmydebris) · Built with css, flask, html, javascript
+
+### [StructSure](https://devpost.com/software/structsure)
+
+[Bitcamp 2024](../by-hackathon/bitcamp-2024.md#project-structsure) · **Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce**
+
+Leveraging AI to assess bridge damage.
+
+Built with azure, javascript, next.js, node.js
+
+## Track names and requirements
 
 <details>
-<summary>Track labels, requirements and rules</summary>
+<summary>Show the exact Devpost track names, required tech and rule sources</summary>
 
-| Edition | Devpost track name | Required tech or brief | Source |
+| Hackathon | Track name on Devpost | Required tech or brief | Source |
 | --- | --- | --- | --- |
 | [Bitcamp 2024](../by-hackathon/bitcamp-2024.md) | Best use of AI/ML Innovation for the Francis Scott Key Bridge Recovery Efforts - Cloudforce | No specific requirement captured | [Event prize rules](https://bitcamp2024.devpost.com/) |
 
 </details>
+
+[Back to top](#cloudforce)
