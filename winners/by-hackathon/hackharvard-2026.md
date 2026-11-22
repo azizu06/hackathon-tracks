@@ -409,7 +409,7 @@ Clinical trials are complex, and mistakes can delay new treatments and cost mill
 - **Code:** [Source 1](https://github.com/rinatrizvanov/ProtocolOS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WkWDWfHbal4)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+- **How it used Regeneron:** Reads rules from the protocol PDF for the Regeneron trial.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

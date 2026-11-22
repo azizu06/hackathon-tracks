@@ -53,7 +53,7 @@ FirstLight recruits, consents and retains trial participants over iMessage, and 
 
 Clinical trials are complex, and mistakes can delay new treatments and cost millions. ProtocolOS helps pharma companies review and verify trial rules, then draft new ones backed by evidence.
 
-**Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
+**How it used Regeneron:** Reads rules from the protocol PDF for the Regeneron trial.
 
 [Code](https://github.com/rinatrizvanov/ProtocolOS) · [Demo video](https://www.youtube.com/watch?v=WkWDWfHbal4) · Built with chalk, clinicaltrials.gov, css, docker
 
