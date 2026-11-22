@@ -23,7 +23,7 @@
 
 Unified memory across your entire AI stack, complete with codebase visualization, prompt libraries, and advanced context management.
 
-**Ergo:** Sponsor use not stated on Devpost
+**Award:** Won “Ergo - Best Use of Mastra Agent Framework for Productivity” from Ergo. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoRs) · Built with betterauth, bytecode, cedaros, composio
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=t7OO_N4HoR
 
 CanDraw is the AI copilot that transforms your whiteboard into a creative partner. Describe your vision and watch it build flowcharts, connect ideas, and organize thoughts in real time.
 
-**Ergo:** Sponsor use not stated on Devpost
+**Award:** Won “Ergo - Best Use of Mastra Agent Framework for Productivity” from Ergo. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/V-prajit/CanDraw) · [Demo video](https://www.youtube.com/watch?v=T8f1ANKAIFk) · Built with cedar, javascript, mastra, node.js
 

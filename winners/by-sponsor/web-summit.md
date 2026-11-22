@@ -45,7 +45,7 @@ The team saw an opportunity to reimagine how people connect by creating a more d
 
 **Award:** Won “Web Summit: Web Summit challenge” from Web Summit. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=tUX08bXxr2I) · Built with ai, cohere, convex, figma
+[Code](https://github.com/elsieyli/tangle) · [Demo video](https://www.youtube.com/watch?v=tUX08bXxr2I) · Built with ai, cohere, convex, figma
 
 ## Track names and requirements
 

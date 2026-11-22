@@ -7,6 +7,7 @@ Amazon Web Services	AWS	AWS Lambda	Amazon S3	DynamoDB	Amazon EC2	Amazon Bedrock	
 AMD	ROCm	Ryzen	Radeon	AMD Instinct	Vivado	AMD Vivado
 Anthropic	Claude	Claude Code	Claude Agent SDK	Claude API
 Apify	Crawlee
+Aquareum.tv	Streamplace	stream.place
 Arize	Arize Phoenix
 Arm	Arm Cortex	Keil	Cortex-M	Cortex-A
 Atlassian	Jira	Confluence	Bitbucket	Atlassian Forge	Atlassian Rovo
@@ -86,7 +87,7 @@ Nous Research	Nous Hermes	Hermes 3	Hermes 4	Hermes
 NVIDIA	Jetson	CUDA	NIM	Nemotron	TensorRT	DGX	NVIDIA Omniverse	NVIDIA Isaac
 OpenAI	GPT-3	GPT-4	GPT-4o	GPT-5	ChatGPT	Whisper	DALL·E	OpenAI Codex	Codex
 Otsuka / VALUENEX	VALUENEX
-PaleBlueDot AI	PaleBlueDot	TokenRouter
+PaleBlueDot AI	PaleBlueDot	Pale Blue AI	TokenRouter	Token Router
 Perplexity	Perplexity Sonar
 Pika	Pika Labs
 Presage	Presage Technologies	Presage SDK

@@ -23,7 +23,7 @@
 
 AI-powered 311 for non-emergencies. Voice-to-dispatch in less than a minute with multi-agent orchestration and ML-driven priority scoring.
 
-**PaleBlueDot AI:** Sponsor use not stated on Devpost
+**How it used PaleBlueDot AI:** The AI power rating system is powered by Token Router.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw) · Built with arize-phoeniz, band-ai, browserbase, deepgram
 

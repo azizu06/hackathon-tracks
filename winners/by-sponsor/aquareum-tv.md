@@ -53,7 +53,7 @@ The Story To build a community, you must first protect it.
 
 Meet in person, point in virtual.
 
-**Aquareum.tv:** Sponsor use not stated on Devpost
+**How it used Aquareum.tv:** The team integrated stream.place into its application.
 
 [Code](https://github.com/gracetownland/NwHacks2025) · Built with geojson, react, turf.js, typscript
 

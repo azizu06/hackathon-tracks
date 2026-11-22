@@ -977,14 +977,14 @@ Empowering Founder and VC Discovery and with You and Your Voice.
 
 The team saw an opportunity to reimagine how people connect by creating a more dynamic and visual way of representing relationships formed at events.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=tUX08bXxr2I) · Built with ai, cohere, convex, figma
+[Code](https://github.com/elsieyli/tangle) · [Demo video](https://www.youtube.com/watch?v=tUX08bXxr2I) · Built with ai, cohere, convex, figma
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** ai, cohere, convex, figma, git, node.js, react, semantic-search, typescript, vectorization, vite
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/elsieyli/tangle)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tUX08bXxr2I)
 - **All prizes at this hackathon (1):** Web Summit: Web Summit challenge
 - **Award:** Won “Web Summit: Web Summit challenge” from Web Summit. The write-up gives no details on how the team used the sponsor’s tech.

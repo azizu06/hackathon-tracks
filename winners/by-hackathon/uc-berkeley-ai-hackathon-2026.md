@@ -701,7 +701,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLaf
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jzAeXCgLafw)
 - **All prizes at this hackathon (1):** Best Use of TokenRouter by PaleBlueDot AI
-- **PaleBlueDot AI:** Sponsor use not stated on Devpost
+- **How it used PaleBlueDot AI:** The AI power rating system is powered by Token Router.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

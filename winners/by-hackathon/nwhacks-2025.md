@@ -159,7 +159,7 @@ Meet in person, point in virtual.
 - **Code:** [Source 1](https://github.com/gracetownland/NwHacks2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Aquareum.tv Sponsor Prize
-- **Aquareum.tv:** Sponsor use not stated on Devpost
+- **How it used Aquareum.tv:** The team integrated stream.place into its application.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
