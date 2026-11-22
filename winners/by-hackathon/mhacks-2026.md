@@ -317,7 +317,7 @@ A computer control interface uses eye tracking to point and speech to issue comm
 - **Code:** [Source 1](https://github.com/dakshshahani/mhacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Figma Best Design Track
-- **Theme prize: no sponsor tech named** · Won “Figma Best Design Track” from Figma.
+- **Theme prize** · Won “Figma Best Design Track” from Figma. The team links to its Figma design file.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -340,7 +340,7 @@ A learning app helps users explore stock movements and practice investment decis
 - **Code:** [Source 1](https://github.com/daniel3606/Orbit_MHacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Mj4wTCKH8oE)
 - **All prizes at this hackathon (1):** Figma Best Design Track
-- **Theme prize: no sponsor tech named** · Won “Figma Best Design Track” from Figma.
+- **Theme prize** · Won “Figma Best Design Track” from Figma. The team links to its Figma design file.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -196,7 +196,7 @@ ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line
 - **Code:** [Source 1](https://github.com/fervorarc/PaddleBois)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Baidu - Machine Learning Community Prize
-- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Baidu - Machine Learning Community Prize” from Baidu.
+- **How it used Baidu:** Downloads PaddlePaddle’s Word2Vec inference topology.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -306,7 +306,7 @@ While Unity and Microsoft's UWP are powerful platforms, sometimes there can be p
 - **Code:** [Source 1](https://github.com/negitoromaki/ad-blockAR)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate
-- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate” from GIPHY.
+- **How it used GIPHY:** The project uses GIPHY APIs for dynamic content in lieu of ads.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -605,7 +605,7 @@ No public code found · Built with flask, giphy-api, google-cloud-vision, ibm-wa
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Nasdaq - Best Re-imagination of Market
-- **Theme prize: no sponsor tech named** · Won “Sponsor Prize - Nasdaq - Best Re-imagination of Market” from Nasdaq.
+- **How it used Nasdaq:** The team used Nasdaq's API to locate a company's stock and related news about its performance.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

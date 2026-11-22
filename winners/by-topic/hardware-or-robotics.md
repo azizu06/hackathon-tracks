@@ -795,7 +795,7 @@ Over 6000 people are still missing after Nepal's landslide. Rescue teams are far
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with typescript, jetson-orin, gemini, google-adk
 
 ### [Atlas](https://devpost.com/software/atlas-tlfpkz)
 

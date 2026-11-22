@@ -213,7 +213,7 @@ Revolutionizing commercial advertising one image at a time.
 - **Code:** [Source 1](https://github.com/shreeya-garg/StoreFrontVisibility)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gYSyRGZpOw4)
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
-- **Theme prize: no sponsor tech named** · Won “GrowthFactor AI Impressions” from GrowthFactor.
+- **How it used GrowthFactor:** The project uses GrowthFactor.AI’s dataset to identify streets within a 75-meter radius.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

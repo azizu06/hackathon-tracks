@@ -65,7 +65,7 @@ Farsight combines a remotely operated rescue rover with a walkable reconstructio
 - **All prizes at this hackathon (4):** Encompass: Data Capturing Hardware · Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
 - **Theme prize: no sponsor tech named** · Won “Encompass: Data Capturing Hardware” from Encompass.
 - **Theme prize: no sponsor tech named** · Won “Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge” from Full Sail.
-- **Theme prize: no sponsor tech named** · Won “Hugging Face: Best Use of Open Source AI” from Hugging Face.
+- **How it used Hugging Face:** The local assistant uses Hugging Face model artifacts for Qwen3-VL-2B-Instruct GGUF and Whisper base.en.
 - **How it used NVIDIA:** The Jetson runs the rover server and YOLO11n-pose through TensorRT.
 - **Checked on Devpost:** 2026-11-21
 
@@ -186,7 +186,7 @@ A spatial awareness tool tracks objects and remembers their locations when they 
 - **Code:** [Source 1](https://github.com/billpquach/permanence)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GexOIHp7s1w)
 - **All prizes at this hackathon (3):** Best Overall Hack (1st) · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
-- **Theme prize: no sponsor tech named** · Won “Hugging Face: Best Use of Open Source AI” from Hugging Face.
+- **Theme prize** · Won “Hugging Face: Best Use of Open Source AI” from Hugging Face. Imports the Qwen2.5-VL model from Transformers.
 - **How it used NVIDIA:** The Jetson drives the Arduino Uno and L298N motor driver and steers from the phone’s position.
 - **Checked on Devpost:** 2026-11-21
 
@@ -548,7 +548,7 @@ A wearable uses directional vibrations to tell deaf and hard-of-hearing users wh
 - **Code:** [Source 1](https://github.com/Korirussell/Here)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2gRH8oV8e80)
 - **All prizes at this hackathon (1):** Hugging Face: Best Use of Open Source AI
-- **Theme prize: no sponsor tech named** · Won “Hugging Face: Best Use of Open Source AI” from Hugging Face.
+- **How it used Hugging Face:** The project runs open models from the Hub on Hugging Face.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -72,7 +72,7 @@ No public code found · Built with fitbit, jawbone, alchemyapi, firebase
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Fitbit - Fitbit Flex · Jawbone - For the best health hack
 - **How it used Fitbit:** The project uses calories tracked by Fitbit for its calorie cash.
-- **Theme prize: no sponsor tech named** · Won “Jawbone - For the best health hack” from Jawbone.
+- **How it used Jawbone:** The project uses calories tracked by Jawbone for its calorie cash.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

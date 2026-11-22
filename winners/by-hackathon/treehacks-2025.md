@@ -1552,7 +1552,7 @@ Indoor navigation for the visually impaired, made easy.
 - **Code:** [Source 1](https://github.com/flatypus/miru)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kjCsRmlAYiY)
 - **All prizes at this hackathon (1):** Vespa.ai: Best Hack Using a Vision Language Model
-- **Theme prize: no sponsor tech named** · Won “Vespa.ai: Best Hack Using a Vision Language Model” from Vespa.ai.
+- **How it used Vespa.ai:** The team stored vectors in a database using Vespa AI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1635,7 +1635,7 @@ HiveMind: Your Second Brain for Smarter Learning.
 - **Code:** [Source 1](https://github.com/AahilAliCodes/Hivemind2) · [Source 2](https://github.com/rajashekarcs2023/HiveMind) · [Source 3](https://github.com/rajashekarcs2023/knowledge-balance-network)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=krXZVuJfAOQ)
 - **All prizes at this hackathon (1):** Education Grand Prize
-- **Theme prize: no sponsor tech named** · Won “Education Grand Prize” from Zoom.
+- **Theme prize** · Won “Education Grand Prize” from Zoom. Also used: zoom (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>

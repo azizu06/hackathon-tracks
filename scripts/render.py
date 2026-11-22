@@ -681,7 +681,7 @@ FIELDS = [
     ("prize_value", "Raw placement or value stated in the label, or null"),
     ("description", "What the project does, from its Devpost page"),
     ("sponsor_integration", "Documented sponsor use, a listed product, a labeled inference, or award context"),
-    ("use_source, use_quote", "Source type and supporting excerpt. Theme and award-only rows use the display prize title"),
+    ("use_source, use_quote", "Source type and supporting excerpt. Award framing cites the display prize title or preserves the source of a supplemental note"),
     ("use_evidence_url", "Cited page for inferences, commit-pinned code line, or linked demo"),
     ("inferred", "`true` for labeled inferences. Absent in other JSON rows and blank in CSV"),
     ("summary, summary_evidence", "Description plus integration note, and how well the source supports it"),
@@ -859,11 +859,11 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         f"The Markdown hackathon index groups them into {len({event_series(r['hackathon']) for r in rows})} event series.",
         f"- Demo video links verified HTTP 200 for {len(verified_links['demo'])} of {len(links['demo'])} unique recognized links.",
         "- The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.",
-        "- Full sponsor notes cite a role documented in a Devpost page, GitHub README, source code, or demo captions. "
-        "Light notes cite a technology listing, code import or dependency manifest. Linked resource notes describe a link from the project. "
-        "Inferred notes connect a documented feature to the sponsor product in its prize criteria. "
-        "Theme prizes and award-only notes use the verified prize title with monetary amounts removed. "
-        "Linked resources alone count as tech prizes where use was not found.",
+        "- Documented roles cite a Devpost write-up, GitHub README, source code or demo captions. "
+        "Technology listed only includes Devpost listings, code imports and dependency manifests. "
+        "Inferred notes connect a documented feature to a sponsor product in the prize criteria. "
+        "Theme prizes count once, even when they also show a listing, import or resource link. "
+        "The no-use-found count covers tech prizes with an award-only note, no note or a resource link alone.",
         "- Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. "
         "General event awards remain visible in project prize lists.",
         "- HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. "

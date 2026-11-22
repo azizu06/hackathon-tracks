@@ -14,9 +14,9 @@ from evidence import project_details
 from fetch import cache_path
 from publish import validate_cached_inference
 from sponsor_use import (
-    AWARD, CODE, THEME, THEME_HEADING, VIDEO, check_cached_use, code_coverage_text, inference_source,
-    load_award_tracks, load_inferred_uses, load_prize_kinds, prize_coverage, prize_coverage_text, prize_key,
-    track_key, validate_prize_kind, validate_use,
+    AWARD, CODE, THEME, VIDEO, check_cached_use, code_coverage_text, inference_source,
+    load_award_tracks, load_inferred_uses, load_prize_kinds, load_uses, prize_coverage, prize_coverage_text, prize_key,
+    track_key, use_heading, validate_prize_kind, validate_use,
 )
 from render import (
     INT_FIELDS, LIST_FIELDS, ROOT_PAGES, SITE_URL, event_file, heading_anchor, render, slugify, update_readme,
@@ -75,11 +75,15 @@ def verify_site(site, rows):
     assert data.startswith(prefix) and data.endswith(suffix), "Unexpected site catalog format"
     catalog = json.loads(data.removeprefix(prefix).removesuffix(suffix))
     check_display_money(catalog, path)
-    expected = {(row["event_slug"], row["url"], " ".join(row["sponsor_integration"].split()))
-                for row in rows if row["prize_kind"] == "theme"}
-    actual = {(card["editionId"], card["devpost"], note["note"]) for card in catalog
-              for note in card["integrations"] if note["heading"] == THEME_HEADING}
-    assert actual == expected, "Site catalog theme prizes differ from the export"
+    expected = set()
+    for row in rows:
+        sponsor = "" if row["sponsor"] == "Other" else row["sponsor"]
+        heading = use_heading(row, sponsor, f"Award from {sponsor}")
+        note = " ".join(row["sponsor_integration"].split())
+        expected.add((row["event_slug"], row["url"], sponsor, heading, note))
+    actual = {(card["editionId"], card["devpost"], note["sponsor"], note["heading"], note["note"])
+              for card in catalog for note in card["integrations"]}
+    assert actual == expected, "Site catalog sponsor notes or headings differ from the export"
 
 
 def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cache=None):
@@ -95,6 +99,7 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
     counted = Counter()
     award_tracks = load_award_tracks()
     prize_kinds = load_prize_kinds()
+    uses = load_uses()
     inferred_uses = load_inferred_uses()
     for row in rows:
         key = prize_key(row)
@@ -107,8 +112,9 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
         assert row["event_prize_count"] == len(set(row["event_prizes"])), key
         assert row["prize"] in row["event_prizes"], key
         try:
-            validate_prize_kind(row, prize_kinds)
-            validate_use(row)
+            curated = uses.get((row["url"], row["sponsor"]))
+            validate_prize_kind(row, prize_kinds, curated)
+            validate_use(row, curated)
             source = row["use_source"]
             inferred = inference_source(source)
             if (source == AWARD or inferred) and track_key(row) not in award_tracks:
@@ -150,7 +156,10 @@ def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cach
 
     assert not inferred_uses, f"Reviewed inferences missing from the export: {sorted(inferred_uses)}"
     assert set(prize_kinds) == {track_key(row) for row in rows}, "Prize kind ledger and exports cover different tracks"
-    assert sum(prize_coverage(rows).values()) == len(rows), "The three prize coverage buckets must cover every row"
+    coverage = prize_coverage(rows)
+    assert set(coverage) == {"shown", "listed", "inferred", "theme", "gap"}
+    assert coverage["theme"] == sum(row["prize_kind"] == "theme" for row in rows)
+    assert sum(coverage.values()) == len(rows), "The five prize coverage buckets must cover every row"
     projects = {}
     for row in rows:
         projects.setdefault(root / "by-hackathon" / event_file(row), set()).add(row["url"])

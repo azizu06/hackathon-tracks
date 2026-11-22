@@ -73,7 +73,7 @@ A home assistant supports older adults with daily routines and keeps their famil
 - **Code:** [Source 1](https://github.com/Kevinxygu/treehacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vFU1GSWrbRk)
 - **All prizes at this hackathon (2):** &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro) · &#91;Decagon&#93; Best Conversation Assistant (Nintendo Switch 2 Mario Kart World Bundle Guaranteed onsite interviews for internship)
-- **Theme prize: no sponsor tech named** · Won “&#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)” from Anthropic.
+- **How it used Anthropic:** Claude powers the agent server and orchestrates conversations with context retention.
 - **Theme prize: no sponsor tech named** · Won “&#91;Decagon&#93; Best Conversation Assistant (Nintendo Switch 2 Mario Kart World Bundle Guaranteed onsite interviews for internship)” from Decagon.
 - **Checked on Devpost:** 2026-11-21
 
@@ -194,7 +194,7 @@ Minerva is an AI-powered virtual educator designed to provide structured, person
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vK0Tob8xZKE)
 - **All prizes at this hackathon (2):** &#91;HeyGen&#93; Best creation with HeyGen Avatar API (4 Airpod Pros 3, 1 year of HeyGen Creator license, guaranteed onsite interviews for FTE or intern roles) · &#91;Zoom&#93; Education Track
 - **How it used HeyGen:** The team used Next.js/React as the web framework, and connected HeyGen LiveAvatar to the Zoom Video SDK to display the avatar in the browser.
-- **Theme prize: no sponsor tech named** · Won “&#91;Zoom&#93; Education Track” from Zoom.
+- **How it used Zoom:** The team used Next.js/React as the web framework, and connected HeyGen LiveAvatar to the Zoom Video SDK to display the avatar in the browser.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -345,7 +345,7 @@ A prototype food-bank workflow pairs AI and robotics to collect and distribute f
 - **Code:** [Source 1](https://github.com/PranavViswanath/project-lend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hBcCNg_U3t4)
 - **All prizes at this hackathon (1):** &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)
-- **Theme prize: no sponsor tech named** · Won “&#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)” from Anthropic.
+- **How it used Anthropic:** The team used the Claude Agent SDK to replicate the front and back office of a food rescue operation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -391,7 +391,7 @@ A civic discussion tool connects proposed policy changes to the public input beh
 - **Code:** [Source 1](https://github.com/arihantjain4/Tribune)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CNRvU4jK34c)
 - **All prizes at this hackathon (1):** &#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)
-- **Theme prize: no sponsor tech named** · Won “&#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)” from Anthropic.
+- **How it used Anthropic:** Claude powers an agent that answers questions about the policy corpus.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1048,7 +1048,7 @@ A wildfire response tool uses agent workflows and physical models to help evalua
 - **Code:** [Source 1](https://github.com/maanitg/containment)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EZNfc-7HeEc)
 - **All prizes at this hackathon (1):** &#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)
-- **Theme prize: no sponsor tech named** · Won “&#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)” from OpenAI. Prize: &#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag
+- **How it used OpenAI:** The system uses four GPT-4o agents for fire behavior, risk assessment, notifications, and recommendations. Prize: &#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1071,7 +1071,7 @@ A voice and vision assistant maps rooms, helps older adults find misplaced objec
 - **Code:** [Source 1](https://github.com/nathanjzhao/treehacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UdgzCapZGrc)
 - **All prizes at this hackathon (2):** &#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag) · Most Impactful
-- **Theme prize: no sponsor tech named** · Won “&#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)” from OpenAI. Prize: &#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag
+- **How it used OpenAI:** The project uses Whisper for STT and OpenAI TTS for its response. Prize: &#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1094,7 +1094,7 @@ A programming environment gives blind developers an accessible way to write and 
 - **Code:** [Source 1](https://github.com/ledaniel0/treehacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aL9MrpwJXOA)
 - **All prizes at this hackathon (1):** &#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)
-- **Theme prize: no sponsor tech named** · Won “&#91;OpenAI&#93; Artificial Intelligence Track (&#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag)” from OpenAI. Prize: &#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag
+- **How it used OpenAI:** GPT 4.1-mini forms the connection between the agents, contextual layer, and user-facing conversation. Prize: &#91;1st&#93; Lunch with OpenAI engineers at the office + 1 year of ChatGPT Pro &#91;2nd&#93; 1 year of ChatGPT Pro &#91;3rd&#93; OpenAI swag
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1348,7 +1348,7 @@ Turn an everyday object into infinite instruments.
 - **Code:** [Source 1](https://github.com/markmusic27/treehacks-26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7tlVRvY_3n8)
 - **All prizes at this hackathon (1):** &#91;Suno&#93; Best Musical Hack
-- **Theme prize: no sponsor tech named** · Won “&#91;Suno&#93; Best Musical Hack” from Suno.
+- **How it used Suno:** The output is passed to a Suno API pipeline to generate a full track.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1585,7 +1585,7 @@ Real-time knowledge graphs that make every lecture impossible to fall behind in.
 - **Code:** [Source 1](https://github.com/jasonyi33/prereq)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xaod8It2Wko)
 - **All prizes at this hackathon (1):** &#91;Zoom&#93; Education Track
-- **Theme prize: no sponsor tech named** · Won “&#91;Zoom&#93; Education Track” from Zoom.
+- **How it used Zoom:** Zoom RTMS captures lecture audio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1608,7 +1608,7 @@ Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching
 - **Code:** [Source 1](https://github.com/pb2323/TA-da)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GuiFFxdgUZA)
 - **All prizes at this hackathon (1):** &#91;Zoom&#93; Education Track
-- **Theme prize: no sponsor tech named** · Won “&#91;Zoom&#93; Education Track” from Zoom.
+- **How it used Zoom:** TA-DA is built into Zoom using the Real-Time Meeting SDK.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

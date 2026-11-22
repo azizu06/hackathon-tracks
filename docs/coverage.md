@@ -530,18 +530,18 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 
 ## Coverage and link limits
 
-968 tech prizes with sponsor use (943 shown, 25 inferred) · 541 theme prizes with no sponsor tech named · 188 tech prizes where use was not found
+965 prize rows with a documented role · 45 with technology listed only · 25 inferred · 472 theme prizes · 190 with no use found. Theme prize cards show the award, plus any listed tools or linked resources.
 
 1,263 of 1,553 project cards have public code links.
 
 - Built With tags are available for 1,536 of 1,553 project editions.
 - Team counts are available for 1,553 project editions.
-- Summary evidence by award row: Devpost project write-up (794), Devpost prize title (609), Integration detail unavailable (113), GitHub source code (54), GitHub README (39), Devpost Built With (34).
+- Summary evidence by award row: Devpost project write-up (852), Devpost prize title (526), Integration detail unavailable (113), GitHub source code (59), Devpost Built With (44), GitHub README (42).
 - Source code links verified HTTP 200 for 1311 of 1441 unique recognized links.
 - The 60 editions use 34 display names. The Markdown hackathon index groups them into 23 event series.
 - Demo video links verified HTTP 200 for 1251 of 1251 unique recognized links.
 - The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.
-- Full sponsor notes cite a role documented in a Devpost page, GitHub README, source code, or demo captions. Light notes cite a technology listing, code import or dependency manifest. Linked resource notes describe a link from the project. Inferred notes connect a documented feature to the sponsor product in its prize criteria. Theme prizes and award-only notes use the verified prize title with monetary amounts removed. Linked resources alone count as tech prizes where use was not found.
+- Documented roles cite a Devpost write-up, GitHub README, source code or demo captions. Technology listed only includes Devpost listings, code imports and dependency manifests. Inferred notes connect a documented feature to a sponsor product in the prize criteria. Theme prizes count once, even when they also show a listing, import or resource link. The no-use-found count covers tech prizes with an award-only note, no note or a resource link alone.
 - Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. General event awards remain visible in project prize lists.
 - HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. The public prize entry supplies no sponsor identity, so those two awards fall outside the named-sponsor index.
 - Prize values come from the track label. Multiple placements, team totals, and service credits stay in the source wording.

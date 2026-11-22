@@ -23,7 +23,7 @@
 
 Minerva is an AI-powered virtual educator designed to provide structured, personalized, and non-judgmental one-on-one learning.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Zoom&#93; Education Track” from Zoom.
+**How it used Zoom:** The team used Next.js/React as the web framework, and connected HeyGen LiveAvatar to the Zoom Video SDK to display the avatar in the browser.
 
 [Code](https://github.com/anton-3/minerva) · [Demo video](https://www.youtube.com/watch?v=vK0Tob8xZKE) · Built with zoom, claude, heygen, next
 
@@ -33,7 +33,7 @@ Minerva is an AI-powered virtual educator designed to provide structured, person
 
 Real-time knowledge graphs that make every lecture impossible to fall behind in.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Zoom&#93; Education Track” from Zoom.
+**How it used Zoom:** Zoom RTMS captures lecture audio.
 
 [Code](https://github.com/jasonyi33/prereq) · [Demo video](https://www.youtube.com/watch?v=Xaod8It2Wko) · Built with zoom, claude, claudehaiku, claudesonnet
 
@@ -43,7 +43,7 @@ Real-time knowledge graphs that make every lecture impossible to fall behind in.
 
 Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching assistant built into Zoom that detects confusion and generates concept cards instantly.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Zoom&#93; Education Track” from Zoom.
+**How it used Zoom:** TA-DA is built into Zoom using the Real-Time Meeting SDK.
 
 [Code](https://github.com/pb2323/TA-da) · [Demo video](https://www.youtube.com/watch?v=GuiFFxdgUZA) · Built with zoom, elasticsearch, fetch.ai, javascript
 
@@ -65,7 +65,7 @@ FlowPilot listens, understands, and executes, transforming Zoom meetings into Sl
 
 HiveMind: Your Second Brain for Smarter Learning.
 
-**Theme prize: no sponsor tech named** · Won “Education Grand Prize” from Zoom.
+**Theme prize** · Won “Education Grand Prize” from Zoom. Also used: zoom (listed on Devpost).
 
 [Code](https://github.com/AahilAliCodes/Hivemind2) · [Demo video](https://www.youtube.com/watch?v=krXZVuJfAOQ) · Built with zoom, api, chromadb, flask
 

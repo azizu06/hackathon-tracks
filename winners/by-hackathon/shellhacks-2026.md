@@ -401,7 +401,7 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 - **Code:** [Source 1](https://github.com/BAAA-Hacks/cad-vision)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0-bYjncKWIs)
 - **All prizes at this hackathon (1):** Microsoft
-- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+- **Theme prize** · Won “Microsoft” from Microsoft. Also used: c# (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -414,7 +414,7 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 
 A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with typescript, docker, fastify, framer-motion
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -424,7 +424,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4GTQH27oGOs)
 - **All prizes at this hackathon (1):** Microsoft
-- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+- **Theme prize** · Won “Microsoft” from Microsoft. Also used: typescript (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -447,7 +447,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uLmimTFwauM)
 - **All prizes at this hackathon (1):** Microsoft
-- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+- **How it used Microsoft:** Spitball is built as an embedded extension that runs locally inside Visual Studio Code.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

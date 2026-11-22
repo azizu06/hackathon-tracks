@@ -89,7 +89,7 @@ Your #1 financial advisor that knows everything about your current spending, you
 
 A data-driven application for predicting corporate credit ratings.
 
-**Theme prize: no sponsor tech named** · Won “"Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets” from RBC.
+**How it used RBC:** Data obtained from RBC Capital Markets consists of 20 features recorded for 27 companies at multiple points in time for a total of 524 samples.
 
 No public code found · Built with angular.js, firebase, ionic, jupyter
 

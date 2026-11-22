@@ -23,7 +23,7 @@
 
 A home assistant supports older adults with daily routines and keeps their families informed.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)” from Anthropic.
+**How it used Anthropic:** Claude powers the agent server and orchestrates conversations with context retention.
 
 [Code](https://github.com/Kevinxygu/treehacks) · [Demo video](https://www.youtube.com/watch?v=vFU1GSWrbRk) · Built with claude, browserbase, elevenlabs, fastapi
 
@@ -43,7 +43,7 @@ Smart glasses coach workers with intellectual and developmental disabilities thr
 
 A prototype food-bank workflow pairs AI and robotics to collect and distribute food to local shelters.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)” from Anthropic.
+**How it used Anthropic:** The team used the Claude Agent SDK to replicate the front and back office of a food rescue operation.
 
 [Code](https://github.com/PranavViswanath/project-lend) · [Demo video](https://www.youtube.com/watch?v=hBcCNg_U3t4) · Built with claude-agent-sdk, claude-code, claude-vision-api-(haiku-3.5), computer-vision
 
@@ -93,7 +93,7 @@ A mapping tool turns real spaces into tactile and audio guides for blind and low
 
 A civic discussion tool connects proposed policy changes to the public input behind them.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Anthropic&#93; Human Flourishing Track (1st Place: 4 tungsten cubes 2nd Place: 1 year of Claude Pro 3rd Place: 6 months of Claude Pro)” from Anthropic.
+**How it used Anthropic:** Claude powers an agent that answers questions about the policy corpus.
 
 [Code](https://github.com/arihantjain4/Tribune) · [Demo video](https://www.youtube.com/watch?v=CNRvU4jK34c) · Built with anthropic-claude, elasticsearch, fastapi, framer-motion
 

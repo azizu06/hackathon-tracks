@@ -873,7 +873,7 @@ No public code found · Built with css, html, javascript
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** SCET/Pepsico: PEP+ Sustainability Prize
-- **Theme prize: no sponsor tech named** · Won “SCET/Pepsico: PEP+ Sustainability Prize” from PepsiCo / Berkeley SCET.
+- **How it used PepsiCo / Berkeley SCET:** The project uses PepsiCo’s data inputs to calculate deviation from optimal sustainability targets.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -43,7 +43,7 @@ How to combine AI with deterministic logic.
 
 A mobile finance prototype turns market events into short research tasks and waits for confirmation before trading.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Figma&#93; Best Stage Log” from Figma.
+**Theme prize** · Won “&#91;Figma&#93; Best Stage Log” from Figma. The team links to its Figma slide deck.
 
 [Code](https://github.com/adylagad/baseland) · [Demo video](https://www.youtube.com/watch?v=wzT5thvdSHw) · Built with activitykit, anthropic, app-intents, base
 
@@ -103,7 +103,7 @@ Help people go outside more often by making nature exploration social, rewarding
 
 A computer control interface uses eye tracking to point and speech to issue commands.
 
-**Theme prize: no sponsor tech named** · Won “Figma Best Design Track” from Figma.
+**Theme prize** · Won “Figma Best Design Track” from Figma. The team links to its Figma design file.
 
 [Code](https://github.com/dakshshahani/mhacks) · Built with elevenlabs-api, gemini-3.5-flash-lite-api, git, javascript
 
@@ -113,7 +113,7 @@ A computer control interface uses eye tracking to point and speech to issue comm
 
 A game tells the story of a ghost through passes in Apple Wallet.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Figma&#93; Most Creative” from Figma.
+**How it used Figma:** The project uses Figma for design and planning.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
 
@@ -163,7 +163,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0
 
 A finance workspace helps AI labs automate bookkeeping and related financial tasks.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Figma&#93; Best Design” from Figma.
+**How it used Figma:** The team mapped flows in FigJam, made a clickable version in Figma Make, and animated the outro in Figma Motion.
 
 [Code](https://github.com/petersenmatthew/moa) · [Demo video](https://www.youtube.com/watch?v=K_pESfSqoDQ) · Built with agents, nextjs, typescript
 
@@ -193,7 +193,7 @@ A desktop assistant finds local files and gathers context for the user's current
 
 A learning app helps users explore stock movements and practice investment decisions.
 
-**Theme prize: no sponsor tech named** · Won “Figma Best Design Track” from Figma.
+**Theme prize** · Won “Figma Best Design Track” from Figma. The team links to its Figma design file.
 
 [Code](https://github.com/daniel3606/Orbit_MHacks26) · [Demo video](https://www.youtube.com/watch?v=Mj4wTCKH8oE) · Built with alpaca, eas, expo.io, fastapi
 

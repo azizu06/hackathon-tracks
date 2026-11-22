@@ -318,7 +318,7 @@ Find useful information about subreddits with a few clicks.
 - **Code:** [Source 1](https://github.com/sethmorton/embeddit)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=E9kUUpfn7_g)
 - **All prizes at this hackathon (1):** Sauce Labs Hot Sauce Raffle
-- **Theme prize: no sponsor tech named** · Won “Sauce Labs Hot Sauce Raffle” from Sauce Labs.
+- **Award:** Won “Sauce Labs Hot Sauce Raffle” from Sauce Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

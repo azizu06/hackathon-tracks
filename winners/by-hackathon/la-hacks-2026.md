@@ -61,7 +61,7 @@ An evaluation dashboard compares multi-agent workflows and lets developers inspe
 - **Code:** [Source 1](https://github.com/AlfredSjoqvist/multieval)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=__OU7Ftl4EM)
 - **All prizes at this hackathon (2):** Cognition Company Challenge · Track: Agentverse - Search &amp; Discovery of Agents
-- **Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
+- **How it used Cognition:** Sets the public api.devin.ai URL.
 - **How it used Fetch.ai:** An Agentverse uAgent receives a natural-language economic scenario.
 - **Checked on Devpost:** 2026-11-21
 
@@ -409,7 +409,7 @@ Autopsy records every action your AI coding agent takes, autopsies the failures,
 - **Code:** [Source 1](https://github.com/balebbae/Autopsy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2bgq8hvJ32s)
 - **All prizes at this hackathon (2):** 3rd Overall · Cognition Company Challenge
-- **Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
+- **Theme prize** · Won “Cognition Company Challenge” from Cognition. Also used: devin (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -432,7 +432,7 @@ AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent inte
 - **Code:** [Source 1](https://github.com/KevinWu098/codebreaker)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CIyWH6rkN9c)
 - **All prizes at this hackathon (2):** 1st Overall · Cognition Company Challenge
-- **Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
+- **How it used Cognition:** Devin built the system.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -478,7 +478,7 @@ GitHub stores your code. Lore stores your reasons.
 - **Code:** [Source 1](https://github.com/YGao2005/loreIDE)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8-gmVsRSW2c)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
-- **Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
+- **How it used Cognition:** The project plugs into Devin via MCP.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

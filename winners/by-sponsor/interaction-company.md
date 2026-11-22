@@ -45,7 +45,7 @@ OS of tomorrow, Claude Code of today.
 
 Sweet is an iMessage native diabetes management AI assistant.
 
-**Theme prize: no sponsor tech named** · Won “Interaction Company: Best MCP Automation” from Interaction Company.
+**How it used Interaction Company:** Users text the Poke AI to get health insights.
 
 [Code](https://github.com/hemanthkapa/Sweet) · [Demo video](https://www.youtube.com/watch?v=bO0LeXn3RPY) · Built with dexcomshareapi, fastmcp, geminiapi, poke
 

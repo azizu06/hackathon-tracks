@@ -600,7 +600,7 @@ Review : Once your code is complete, GenHint reviews it, checking for accuracy a
 - **Code:** [Source 1](https://github.com/zichenzhang04/GenHint)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=72yeRx4773o)
 - **All prizes at this hackathon (1):** Warp - Honorable Mention Best Developer Tool
-- **Theme prize: no sponsor tech named** · Won “Warp - Honorable Mention Best Developer Tool” from Warp.
+- **How it used Warp:** The team used Warp Drive’s shared workflows to share key processes.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

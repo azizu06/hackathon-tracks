@@ -23,7 +23,7 @@
 
 Employers can have their developers use calories as currency.
 
-**Theme prize: no sponsor tech named** · Won “Jawbone - For the best health hack” from Jawbone.
+**How it used Jawbone:** The project uses calories tracked by Jawbone for its calorie cash.
 
 No public code found · Built with jawbone, alchemyapi, firebase, fitbit
 

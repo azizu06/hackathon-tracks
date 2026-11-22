@@ -645,7 +645,7 @@ Empowering Founder and VC Discovery and with You and Your Voice.
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
-No public code found · Built with .net, apis, c#, meta
+No public code found · Built with c#, .net, apis, meta
 
 ### [Companion](https://devpost.com/software/companion-43xfsi)
 

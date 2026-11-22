@@ -84,7 +84,7 @@ AI Legal Tender transforms messy legal data into structured, cited intelligence 
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=toI8_0oCX8Y)
 - **All prizes at this hackathon (2):** AMD: Best use of AMD Hardware/Software Challenge · Morgan &amp; Morgan: AI Legal Tender Challenge
 - **How it used AMD:** All data stays on AMD infrastructure.
-- **Theme prize: no sponsor tech named** · Won “Morgan &amp; Morgan: AI Legal Tender Challenge” from Morgan &amp; Morgan.
+- **How it used Morgan &amp; Morgan:** The project was tested with Morgan &amp; Morgan case files.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

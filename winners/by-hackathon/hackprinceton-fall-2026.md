@@ -165,7 +165,7 @@ Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 - **Code:** [Source 1](https://github.com/aditya-baniya-ai/hack_princeton)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nPXe5ZIrOiY)
 - **All prizes at this hackathon (1):** &#91;Amazon&#93; Best Practical AI Innovation
-- **Theme prize: no sponsor tech named** · Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services.
+- **How it used Amazon Web Services:** The project used Amazon Nova on Bedrock for its AI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -413,7 +413,7 @@ Find your space with Stagehand! For creatives wanting to visualize before bookin
 - **Code:** [Source 1](https://github.com/sofiagrimm/hackprinceton)
 - **Demo video:** [Video 1](https://vimeo.com/1246959819)
 - **All prizes at this hackathon (1):** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
-- **Theme prize: no sponsor tech named** · Won “&#91;CoStar Group&#93; Inside and Out: AI for the Built World” from CoStar Group.
+- **How it used CoStar Group:** The team built the project on CoStar Group property records and Matterport scans.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

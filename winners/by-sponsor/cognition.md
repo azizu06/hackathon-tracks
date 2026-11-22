@@ -43,7 +43,7 @@ Recursive Sandboxed Agents for Autonomous Research at Scale.
 
 Autopsy records every action your AI coding agent takes, autopsies the failures, builds a graph of why they happened, and injects into the agent's next attempt so it doesn't make mistake again.
 
-**Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
+**Theme prize** · Won “Cognition Company Challenge” from Cognition. Also used: devin (listed on Devpost).
 
 [Code](https://github.com/balebbae/Autopsy) · [Demo video](https://www.youtube.com/watch?v=2bgq8hvJ32s) · Built with devin, claude, cloudflare, codex
 
@@ -63,7 +63,7 @@ BrowserDelta cuts browser-agent context by &#126;78% while matching the vision-f
 
 AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent intelligence, powered by an open harness and an expansive benchmark.
 
-**Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
+**How it used Cognition:** Devin built the system.
 
 [Code](https://github.com/KevinWu098/codebreaker) · [Demo video](https://www.youtube.com/watch?v=CIyWH6rkN9c) · Built with devin, cloudflare, github, modal
 
@@ -93,7 +93,7 @@ Ai Agent that designs computer chips in VSCode.
 
 GitHub stores your code. Lore stores your reasons.
 
-**Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
+**How it used Cognition:** The project plugs into Devin via MCP.
 
 [Code](https://github.com/YGao2005/loreIDE) · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
 
@@ -103,7 +103,7 @@ GitHub stores your code. Lore stores your reasons.
 
 An evaluation dashboard compares multi-agent workflows and lets developers inspect their execution traces.
 
-**Theme prize: no sponsor tech named** · Won “Cognition Company Challenge” from Cognition.
+**How it used Cognition:** Sets the public api.devin.ai URL.
 
 [Code](https://github.com/AlfredSjoqvist/multieval) · [Demo video](https://www.youtube.com/watch?v=__OU7Ftl4EM) · Built with devin, agentverse, anthropic, asi:one
 

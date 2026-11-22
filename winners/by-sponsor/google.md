@@ -245,7 +245,7 @@ Giving AI coding agents the power to see by letting them visually explore the we
 
 Beacon is a smart navigation app that helps users plan safe routes by having readily available safety features, making them feel that someone is always by their side.
 
-**Theme prize: no sponsor tech named** · Won “Google” from Google.
+**How it used Google:** Firestore stores user information and contacts, and Realtime Database handles immediately needed data such as battery level.
 
 [Code](https://github.com/Bashguy/Beacon) · [Demo video](https://vimeo.com/1123425305) · Built with firebase, google-cloud, google-directions, google-maps
 
@@ -335,7 +335,7 @@ AI Agents for complex human disaster dynamics simulation.
 
 Breaking language barriers, one word at a time.
 
-**Theme prize: no sponsor tech named** · Won “Google” from Google.
+**How it used Google:** The project uses Chrome’s tabCapture API to grab audio from the active tab.
 
 [Code](https://github.com/EzSpeak-development/EzSpeak-frontend) · [Demo video](https://www.youtube.com/watch?v=0lh1fenJgQw) · Built with azure, azurecognitiveservices, chrome, chromeextensionapi
 
@@ -455,7 +455,7 @@ Transforming system design interviews from holistic, expensive evaluations into 
 
 Tyodor is a 10-year-old AI that students teach to, reinforcing learning while giving teachers real-time insights, powered by Google Gemini API for interactive learning.
 
-**Theme prize: no sponsor tech named** · Won “Google” from Google.
+**How it used Google:** Google Gemini powers the learning assistant via its OpenAI-compatible interface.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
 
@@ -587,7 +587,7 @@ An interactive story gives schoolchildren branching choices while they practice 
 
 An accessible white-boarding app to voice your ideas into existence.
 
-**Theme prize: no sponsor tech named** · Won “Google” from Google.
+**How it used Google:** The team generated Mermaid markup for graphs using Google Gemini.
 
 [Code](https://github.com/DVidal1205/voiceboard) · Built with gemini, google, next, react
 

@@ -35,7 +35,7 @@ Show Snappier your workflow once by recording your screen. AI figures out what y
 
 Siri if it actually worked on your Mac.
 
-**Theme prize: no sponsor tech named** · Won “Graphite: Engineering Dream Team” from Graphite.
+**How it used Graphite:** The team used Graphite to collaborate on this project and work asynchronously.
 
 [Code](https://github.com/demanr/tango) · [Demo video](https://www.youtube.com/watch?v=sK-WvZZubcc) · Built with agent, ai, gemini, groq
 

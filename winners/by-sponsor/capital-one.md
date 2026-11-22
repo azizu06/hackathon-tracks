@@ -103,7 +103,7 @@ A finance app helps people moving to a new city plan expenses with their roommat
 
 SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 
-**Theme prize: no sponsor tech named** · Won “Capital One - Best Financial Hack” from Capital One.
+**How it used Capital One:** The project used Capital One APIs to funnel 20% of earnings into savings accounts.
 
 [Code](https://github.com/Vigneshpeddi/SpaceShare) · Built with amazon-web-services, react, tailwind, typescript
 

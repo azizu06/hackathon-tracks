@@ -113,7 +113,7 @@ A hospital coordination dashboard combines record data, nursing alerts, and pati
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sxdgpbTRsMs)
 - **All prizes at this hackathon (3):** Fetch AI: Best Use of Fetch AI · LiveKit: Best Start-up Idea · Y Combinator: Build an Iconic YC Company - 1st Place
 - **How it used Fetch.ai:** Fetch.ai agents monitor patient vitals and raise or dismiss issues.
-- **Theme prize: no sponsor tech named** · Won “LiveKit: Best Start-up Idea” from LiveKit.
+- **How it used LiveKit:** Patients and families speak to the voice assistant using LiveKit and OpenAI’s realtime voice API.
 - **Theme prize: no sponsor tech named** · Won “Y Combinator: Build an Iconic YC Company - 1st Place” from Y Combinator.
 - **Checked on Devpost:** 2026-11-21
 
@@ -161,7 +161,7 @@ CivitasX turns cities into autonomous digital ecosystems—AI agents that unders
 - **Code:** [Source 1](https://github.com/rajashekarcs2023/calhacks-12)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Fu-sYqMotpg)
 - **All prizes at this hackathon (2):** Creao: Best MCP Integration · Ripple: Best Use of XRP Ledger
-- **Theme prize: no sponsor tech named** · Won “Creao: Best MCP Integration” from Creao.
+- **How it used Creao:** CivitasX was built entirely on the Creao agentic platform, which allows AI systems to design and deploy other AI systems.
 - **How it used Ripple:** The project records verified civic actions on the XRP Ledger via the XRPLedger MCP.
 - **Checked on Devpost:** 2026-11-21
 
@@ -765,7 +765,7 @@ Upload ads, get clear scores, one-line reasons, and precise fixes—then a ranke
 - **Code:** [Source 1](https://github.com/G-Samarth/AdSensei-CalHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DBU3ta6-2BA)
 - **All prizes at this hackathon (1):** Creao: Best MCP Integration
-- **Theme prize: no sponsor tech named** · Won “Creao: Best MCP Integration” from Creao.
+- **How it used Creao:** The team used Creao.ai for the UI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -788,7 +788,7 @@ Talking to users early changed the entire direction.
 - **Code:** [Source 1](https://github.com/ericrcwu001/calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rw9_SdR0mUo)
 - **All prizes at this hackathon (1):** Creao: Best Designed Web App
-- **Theme prize: no sponsor tech named** · Won “Creao: Best Designed Web App” from Creao.
+- **How it used Creao:** The team used the Creao platform for application development.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -811,7 +811,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=aX6u9S8C7Co
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aX6u9S8C7Co)
 - **All prizes at this hackathon (1):** Creao: Smartest AI agent prize
-- **Theme prize: no sponsor tech named** · Won “Creao: Smartest AI agent prize” from Creao.
+- **How it used Creao:** The project uses Creao.ai to accelerate UI development and component generation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -834,7 +834,7 @@ Real-time map for community events around you.
 - **Code:** [Source 1](https://github.com/valerie-cal/tapped-in)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L0yhuJi-Qkk)
 - **All prizes at this hackathon (1):** Creao: Best Real-World Productivity Tool
-- **Theme prize: no sponsor tech named** · Won “Creao: Best Real-World Productivity Tool” from Creao.
+- **How it used Creao:** The team used Creao, an AI-native tool building platform and implemented both built-in and custom API and MCP servers.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -965,7 +965,7 @@ Put your money where your goals are. Complete your commitments to earn it back, 
 - **Code:** [Source 1](https://github.com/IgnasPanavas/Covenant)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Honorable Mention
-- **Theme prize: no sponsor tech named** · Won “Ethereum Foundation: Honorable Mention” from Ethereum Foundation.
+- **How it used Ethereum Foundation:** The project deploys Solidity smart contracts on Ethereum testnet using Hardhat.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1001,7 +1001,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U
 
 Rebuilding donation trust through transparent giving.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with base, claude, erc-20, ethereum
+No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -1011,7 +1011,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4rg1B0A5sAA)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Honorable Mention
-- **Theme prize: no sponsor tech named** · Won “Ethereum Foundation: Honorable Mention” from Ethereum Foundation.
+- **Theme prize** · Won “Ethereum Foundation: Honorable Mention” from Ethereum Foundation. Also used: ethereum (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1034,7 +1034,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lMsNXfb3Fns)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Honorable Mention
-- **Theme prize: no sponsor tech named** · Won “Ethereum Foundation: Honorable Mention” from Ethereum Foundation.
+- **How it used Ethereum Foundation:** The smart contract lives on the Ethereum Sepolia Testnet.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1263,7 +1263,7 @@ Sweet is an iMessage native diabetes management AI assistant.
 - **Code:** [Source 1](https://github.com/hemanthkapa/Sweet)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bO0LeXn3RPY)
 - **All prizes at this hackathon (1):** Interaction Company: Best MCP Automation
-- **Theme prize: no sponsor tech named** · Won “Interaction Company: Best MCP Automation” from Interaction Company.
+- **How it used Interaction Company:** Users text the Poke AI to get health insights.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1290,7 +1290,7 @@ Multiplayer Agentic AI NPCs with shared conversational memory across all players
 - **Code:** [Source 1](https://github.com/iOliver678/calhacks12)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2yZ_ZxMO7cY)
 - **All prizes at this hackathon (1):** JanitorAI: Most Functional, Novel, and Fun Project
-- **Theme prize: no sponsor tech named** · Won “JanitorAI: Most Functional, Novel, and Fun Project” from JanitorAI.
+- **How it used JanitorAI:** Sets the JanitorAI hackathon completions endpoint.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1313,7 +1313,7 @@ You thought you were off to enjoy a fun, exciting dating show experience... but 
 - **Code:** [Source 1](https://github.com/syenko/calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IU9fKa8SrCQ)
 - **All prizes at this hackathon (1):** JanitorAI: Most Functional, Novel, and Fun Project
-- **Theme prize: no sponsor tech named** · Won “JanitorAI: Most Functional, Novel, and Fun Project” from JanitorAI.
+- **How it used JanitorAI:** The backend uses JanitorAI’s LLM API to power character responses.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

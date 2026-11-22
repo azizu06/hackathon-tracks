@@ -63,7 +63,7 @@ MIRA is an AI powered smart mirror that helps you decide what to wear and what t
 
 SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 
-**Theme prize: no sponsor tech named** · Won “Visa - Custom Track” from Visa.
+**How it used Visa:** The team integrated payouts to homeowners and used Visa Direct APIs to push funds to lister's cards.
 
 [Code](https://github.com/Vigneshpeddi/SpaceShare) · Built with amazon-web-services, react, tailwind, typescript
 

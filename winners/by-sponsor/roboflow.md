@@ -33,7 +33,7 @@ If the Wii taught the team anything, it’s that flailing your arms around is fu
 
 Automated Medication Scanner and Tracker Powered by Computer Vision.
 
-**Theme prize: no sponsor tech named** · Won “Best Use of Computer Vision (Sponsored by Roboflow)” from Roboflow.
+**How it used Roboflow:** The team trained a Roboflow model to detect labels.
 
 [Code](https://github.com/Srinikal/Snapill) · Built with roboflow, expo.io, firebase, flask
 

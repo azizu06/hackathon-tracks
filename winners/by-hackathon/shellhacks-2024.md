@@ -53,7 +53,7 @@ These projects won more than one prize here. Each one is listed once.
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
 
-[Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
+[Code](https://github.com/kgand/shellhacks2024) · Built with typescript, axios, chatgpt, computer-vision
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -65,7 +65,7 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 - **All prizes at this hackathon (3):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Assurant · Microsoft
 - **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
 - **GoDaddy Registry:** Sponsor use not stated on Devpost
-- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+- **Theme prize** · Won “Microsoft” from Microsoft. Also used: typescript (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -78,7 +78,7 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 
 Learn ASL in AR through Computer Vision and Hand Tracking.
 
-[Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c, c-sharp, embedded, hardware
+[Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c-sharp, c, embedded, hardware
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -89,7 +89,7 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7rRxLXnresk)
 - **All prizes at this hackathon (3):** Google · Microsoft · Second Best Overall
 - **Theme prize: no sponsor tech named** · Won “Google” from Google.
-- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+- **Theme prize** · Won “Microsoft” from Microsoft. Also used: c-sharp (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -605,7 +605,7 @@ An accessible white-boarding app to voice your ideas into existence.
 - **Code:** [Source 1](https://github.com/DVidal1205/voiceboard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Google
-- **Theme prize: no sponsor tech named** · Won “Google” from Google.
+- **How it used Google:** The team generated Mermaid markup for graphs using Google Gemini.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -624,7 +624,7 @@ Also won this track: [Lotion AI/AR](#project-lotion-ai-ar), [ARSL - Augmented Re
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
-No public code found · Built with .net, apis, c#, meta
+No public code found · Built with c#, .net, apis, meta
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -634,7 +634,7 @@ No public code found · Built with .net, apis, c#, meta
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Microsoft
-- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+- **Theme prize** · Won “Microsoft” from Microsoft. Also used: c# (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>

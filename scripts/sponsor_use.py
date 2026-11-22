@@ -19,7 +19,7 @@ CODE = "code"
 VIDEO = "demo_video"
 AWARD = "award"
 THEME = "theme_prize"
-THEME_HEADING = "Theme prize: no sponsor tech named"
+THEME_HEADING = "Theme prize"
 AWARD_GAP_NOTE = "The write-up gives no details on how the team used the sponsor’s tech."
 INFERRED_PREFIX = "inferred:"
 INFERRED_FROM = {
@@ -190,6 +190,18 @@ def theme_note(sponsor, prize):
     return f"Won “{display_prize_title(prize)}”{attribution}."
 
 
+def theme_integration(sponsor, prize, tags, curated):
+    note = theme_note(sponsor, prize)
+    tags = list(tags)
+    if curated and curated[1] in {BUILT_WITH, LISTED}:
+        tags.append(curated[0].removeprefix("Built with ").removesuffix(" (listed on Devpost)"))
+    if tags:
+        note += f" Also used: {', '.join(dict.fromkeys(tags))} (listed on Devpost)."
+    if curated and curated[1] not in {BUILT_WITH, LISTED}:
+        note += f" {curated[0]}"
+    return note
+
+
 def project_link_note(sponsor, quote):
     if sponsor == ".Tech Domains" and re.fullmatch(r"(?:[a-z0-9-]+\.)+tech", quote):
         return f"The team links to {quote} as its .tech project site."
@@ -217,7 +229,12 @@ def source_label(source, note):
 
 
 def use_coverage(row):
-    source = row.get("use_source")
+    if row.get("prize_kind") == "theme":
+        return "theme"
+    return evidence_coverage(row.get("use_source"), row.get("summary_evidence"))
+
+
+def evidence_coverage(source, evidence):
     if inference_source(source):
         return "inferred"
     if source == AWARD:
@@ -226,7 +243,7 @@ def use_coverage(row):
         return "theme"
     if source == PROJECT_LINK:
         return "linked-resource"
-    if source in {BUILT_WITH, LISTED} or row.get("summary_evidence") in {DEPENDENCY_EVIDENCE, IMPORT_EVIDENCE}:
+    if source in {BUILT_WITH, LISTED} or evidence in {DEPENDENCY_EVIDENCE, IMPORT_EVIDENCE}:
         return "grounded-light"
     return "full" if source else "not stated"
 
@@ -242,6 +259,8 @@ def use_heading(row, sponsor, award_heading):
     if coverage == "award-framed":
         return award_heading
     if coverage == "theme":
+        if row.get("use_source") == THEME and not row.get("sponsor_tech"):
+            return f"{THEME_HEADING}: no sponsor tech named"
         return THEME_HEADING
     if row.get("use_source") in {BUILT_WITH, LISTED}:
         return f"{sponsor} · Listed on Devpost"
@@ -251,22 +270,23 @@ def use_heading(row, sponsor, award_heading):
 
 
 def prize_coverage(rows):
-    tech = Counter(use_coverage(row) for row in rows if row["prize_kind"] == "tech")
+    coverage = Counter(use_coverage(row) for row in rows)
     return {
-        "shown": tech["full"] + tech["grounded-light"],
-        "inferred": tech["inferred"],
-        "theme": sum(row["prize_kind"] == "theme" for row in rows),
-        "gap": tech["award-framed"] + tech["not stated"] + tech["linked-resource"],
+        "shown": coverage["full"],
+        "listed": coverage["grounded-light"],
+        "inferred": coverage["inferred"],
+        "theme": coverage["theme"],
+        "gap": coverage["award-framed"] + coverage["not stated"] + coverage["linked-resource"],
     }
 
 
 def prize_coverage_text(rows):
     counts = prize_coverage(rows)
     return (
-        f'{counts["shown"] + counts["inferred"]:,} tech prizes with sponsor use '
-        f'({counts["shown"]:,} shown, {counts["inferred"]:,} inferred) · '
-        f'{counts["theme"]:,} theme prizes with no sponsor tech named · '
-        f'{counts["gap"]:,} tech prizes where use was not found'
+        f'{counts["shown"]:,} prize rows with a documented role · '
+        f'{counts["listed"]:,} with technology listed only · {counts["inferred"]:,} inferred · '
+        f'{counts["theme"]:,} theme prizes · {counts["gap"]:,} with no use found. '
+        "Theme prize cards show the award, plus any listed tools or linked resources."
     )
 
 
@@ -292,13 +312,22 @@ def track_key(row):
     return row["event_slug"], row["prize"], row["sponsor"]
 
 
-def validate_prize_kind(row, kinds):
-    classification = kinds.get(track_key(row))
+def prize_classification(track, curated):
+    kind, basis, rules_url = track
+    if kind == "theme" and curated:
+        note, source, *_ = curated
+        if evidence_coverage(source, source_label(source, note)) == "full":
+            return "tech", f"Project evidence documents a role for sponsor technology. {basis}", rules_url
+    return track
+
+
+def validate_prize_kind(row, kinds, curated):
+    track = kinds.get(track_key(row))
     fields = ("prize_kind", "prize_kind_basis", "prize_kind_rules_url")
-    if classification is None or tuple(row[field] for field in fields) != classification:
-        raise ValueError("Prize kind and basis must match scripts/prize-kinds.tsv")
-    if (row["prize_kind"] == "theme") != (row["use_source"] == THEME):
-        raise ValueError("Theme prizes must use theme framing")
+    if track is None or tuple(row[field] for field in fields) != prize_classification(track, curated):
+        raise ValueError("Prize kind and basis must match the track and its documented role evidence")
+    if row["use_source"] == THEME and row["prize_kind"] != "theme":
+        raise ValueError("Theme framing requires a theme prize")
 
 
 def inferred_note(product, feature, source):
@@ -352,11 +381,21 @@ def validate_code_quote(row, quote, evidence_url):
     return locator["text"], path
 
 
-def validate_use(row):
+def validate_use(row, curated):
     sponsor = row["sponsor"]
     source, quote = row["use_source"], row["use_quote"]
     evidence_url = row.get("use_evidence_url")
     note = row["sponsor_integration"]
+    if row["prize_kind"] == "theme":
+        if (note != theme_integration(sponsor, row["prize"], row["sponsor_tech"], curated)
+                or row["summary"] != f'{row["description"]} {note}'):
+            raise ValueError("Theme framing must preserve the award and its sponsor evidence")
+        if curated:
+            note = curated[0]
+        elif source != THEME:
+            raise ValueError("Theme prize without a reviewed sponsor note must cite the award")
+    if curated and (note, source, quote, evidence_url) != curated:
+        raise ValueError("Exported evidence must match the reviewed sponsor note")
     if base := inference_source(source):
         validate_inferred_use(row, base)
         return
@@ -374,11 +413,8 @@ def validate_use(row):
             raise ValueError("Award framing must match the verified prize's display title")
         return
     if source == THEME:
-        if (evidence_url or quote != display_prize_title(row["prize"])
-                or note != theme_note(sponsor, row["prize"])
-                or AWARD_GAP_NOTE.casefold() in row["summary"].casefold()
-                or row["summary"] != f'{row["description"]} {note}'):
-            raise ValueError("Theme framing must quote the prize title without a sponsor-use claim")
+        if evidence_url or quote != display_prize_title(row["prize"]):
+            raise ValueError("Theme framing must quote the prize title")
         return
     max_quote = 500 if source == CODE else 200
     if not quote or len(quote) > max_quote or quote != " ".join(quote.split()):

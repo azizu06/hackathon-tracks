@@ -23,7 +23,7 @@
 
 ATP speeds up prescription prior authorizations. AI handles insurer calls, brings in doctors when clinical judgment is needed, and sends the outcome back to their workflow.
 
-**Theme prize: no sponsor tech named** · Won “Impiricus: Build the next HCP Engagement Tool - 1st Place” from Impiricus.
+**Theme prize** · Won “Impiricus: Build the next HCP Engagement Tool - 1st Place” from Impiricus. Also used: impiricus (listed on Devpost).
 
 [Code](https://github.com/notvasub/ATP-Access-to-Prescription) · [Demo video](https://www.youtube.com/watch?v=QD-vGYz34RU) · Built with impiricus, elevenlabs, health, openai
 
@@ -43,7 +43,7 @@ ClearPath uses AI to connect patients and doctors in one shared workspace, helpi
 
 An all-in-one platform for physicians to find specialists and send referrals, making connections between physicians faster and more trusted.
 
-**Theme prize: no sponsor tech named** · Won “Impiricus: Build the next HCP Engagement Tool - 2nd Place” from Impiricus.
+**How it used Impiricus:** DocSpot uses the Impiricus network to map national physician connections.
 
 [Code](https://github.com/tvisha-t/docSpot) · [Demo video](https://www.youtube.com/watch?v=ivdxPxxmPiY) · Built with css, fastapi, html, javascript
 
@@ -75,7 +75,7 @@ Medicus is a digital platform that allows medical device sales reps to upload th
 
 Agentic workflow platform that links new guidelines, drug approvals, and policy changes into actionable insights on current patients, empowering providers to act faster with confidence.
 
-**Theme prize: no sponsor tech named** · Won “Impiricus” from Impiricus.
+**How it used Impiricus:** The real-time Research Stream is integrated with Impiricus’ data feed.
 
 [Code](https://github.com/IndianaJonesR/vital-HackGT-WInner) · [Demo video](https://www.youtube.com/watch?v=MJAp5AjtTmw) · Built with cedaros, openai, react, supabase
 

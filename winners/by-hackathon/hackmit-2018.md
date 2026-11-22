@@ -493,7 +493,7 @@ Sell dorm supplies in a seasonal market-style setting with prices determined by 
 - **Code:** [Source 1](https://github.com/m-99/dorm-market)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Nasdaq Best "Markets Everywhere" Hack
-- **Theme prize: no sponsor tech named** · Won “Nasdaq Best "Markets Everywhere" Hack” from Nasdaq.
+- **How it used Nasdaq:** The team used Nasdaq's Markets Everywhere API to handle transactions and set prices for assets in item markets.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -653,7 +653,7 @@ No public code found · Built with angular.js, firebase, ionic, jupyter
 - **Code:** No public code found
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** "Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets
-- **Theme prize: no sponsor tech named** · Won “"Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets” from RBC.
+- **How it used RBC:** Data obtained from RBC Capital Markets consists of 20 features recorded for 27 companies at multiple points in time for a total of 524 samples.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

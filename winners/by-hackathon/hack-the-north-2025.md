@@ -599,7 +599,7 @@ Siri if it actually worked on your Mac.
 - **Code:** [Source 1](https://github.com/demanr/tango)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sK-WvZZubcc)
 - **All prizes at this hackathon (2):** Graphite: Engineering Dream Team · Hack the North 2025: Finalists
-- **Theme prize: no sponsor tech named** · Won “Graphite: Engineering Dream Team” from Graphite.
+- **How it used Graphite:** The team used Graphite to collaborate on this project and work asynchronously.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

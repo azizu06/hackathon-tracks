@@ -23,7 +23,7 @@
 
 Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Amazon&#93; Best Practical AI Innovation” from Amazon Web Services.
+**How it used Amazon Web Services:** The project used Amazon Nova on Bedrock for its AI.
 
 [Code](https://github.com/aditya-baniya-ai/hack_princeton) · [Demo video](https://www.youtube.com/watch?v=nPXe5ZIrOiY) · Built with amazon-bedrock, amazon-web-services, amazon-nova-2-lite, amazon-nova-2-sonic
 

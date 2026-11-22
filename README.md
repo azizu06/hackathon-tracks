@@ -4,7 +4,7 @@ Past hackathon winners, organized by the sponsor prize they won, so you can see 
 
 <!-- BEGIN prize coverage -->
 
-968 tech prizes with sponsor use (943 shown, 25 inferred) · 541 theme prizes with no sponsor tech named · 188 tech prizes where use was not found
+965 prize rows with a documented role · 45 with technology listed only · 25 inferred · 472 theme prizes · 190 with no use found. Theme prize cards show the award, plus any listed tools or linked resources.
 
 1,263 of 1,553 project cards have public code links.
 
@@ -80,7 +80,7 @@ Each row is one project and one sponsor prize it won. The fields you will use mo
 | `sponsor`, `prize` | Who awarded the prize and its raw Devpost label. Displayed titles omit monetary amounts |
 | `description` | What the project does |
 | `sponsor_integration` | Documented sponsor use, a listed product, a labeled inference, or award context |
-| `use_source`, `use_quote` | Source field and supporting excerpt. Theme and award-only rows use the display prize title |
+| `use_source`, `use_quote` | Source field and supporting excerpt. Award framing cites the display prize title or preserves the source of a supplemental note |
 | `use_evidence_url` | Cited page for inferences, commit-pinned code line, or linked demo |
 | `inferred` | `true` for labeled inferences |
 | `code_match_evidence` | How a repository found outside Devpost was matched to the project |

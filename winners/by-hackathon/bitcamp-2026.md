@@ -58,7 +58,7 @@ Terrametric: an AI-powered plantation stress detection platform that gives Live 
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qjTX93HKRNE)
 - **All prizes at this hackathon (3):** Best Champion of Open Source w/ Featherless - Featherless · Best Intermediate Data Science Track Hack - Bitcamp · Real World Prize - Ambrook
 - **Theme prize: no sponsor tech named** · Won “Real World Prize - Ambrook” from Ambrook.
-- **Theme prize: no sponsor tech named** · Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless.
+- **How it used Featherless:** Sets the default Featherless API base URL.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -464,7 +464,7 @@ NARA is an autonomous penetration testing CLI that orchestrates four AI agents a
 - **Code:** [Source 1](https://github.com/HackedRico/obv-nara-box)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=a8ESQUSft0c)
 - **All prizes at this hackathon (2):** Best Champion of Open Source w/ Featherless - Featherless · Neelbauer Agentic Revolution Award (NARA) - Alumni Prize
-- **Theme prize: no sponsor tech named** · Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless.
+- **How it used Featherless:** The project uses Featherless and Phi-4-mini as its default LLM backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

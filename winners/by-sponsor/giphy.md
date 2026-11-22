@@ -35,7 +35,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58
 
 While Unity and Microsoft's UWP are powerful platforms, sometimes there can be powerful issues that can hinder development in a big way.
 
-**Theme prize: no sponsor tech named** · Won “Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate” from GIPHY.
+**How it used GIPHY:** The project uses GIPHY APIs for dynamic content in lieu of ads.
 
 [Code](https://github.com/negitoromaki/ad-blockAR) · Built with giphy, c#, microsoft-hololens, unity
 

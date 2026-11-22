@@ -79,7 +79,7 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 - **How it used Anthropic:** Claude Haiku 5.5 turns what residents say on calls into record fields and includes corrections.
 - **How it used Apify:** The Apify Actor starts calls when a California county moves a zone to warning.
 - **How it used Convex:** Every part of the system reads and writes one real-time Convex database.
-- **Theme prize: no sponsor tech named** · Won “&#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)” from Microsoft.
+- **Theme prize** · Won “&#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)” from Microsoft. Also used: typescript (listed on Devpost).
 - **How it used Moss:** Moss pulls call-taking principles and practice-call moments into a prompt, filtered by hazard and language.
 - **Checked on Devpost:** 2026-11-21
 
@@ -128,7 +128,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UBaKKoPopSg)
 - **All prizes at this hackathon (2):** &#91;Creao AI&#93; Best AI-First Disruptor · &#91;MLH&#93; Commit Fellowship
-- **Theme prize: no sponsor tech named** · Won “&#91;Creao AI&#93; Best AI-First Disruptor” from Creao.
+- **How it used Creao:** The team also used the persistent memory feature of CREAO's agents to allow users to iterate on research projects.
 - **Theme prize: no sponsor tech named** · Won “&#91;MLH&#93; Commit Fellowship” from MLH / Transcend Network.
 - **Checked on Devpost:** 2026-11-21
 
@@ -152,7 +152,7 @@ An autonomous finance team where nothing moves without proof: Creao agents pick 
 - **Code:** [Source 1](https://github.com/anagpal18/CalHacks13.0)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NeESl1hYsCw)
 - **All prizes at this hackathon (2):** &#91;Creao AI&#93; Best Team Empowerment · &#91;CRS&#93; Best Use of CRS API
-- **Theme prize: no sponsor tech named** · Won “&#91;Creao AI&#93; Best Team Empowerment” from Creao.
+- **How it used Creao:** Every live decision runs on Creao.
 - **How it used CRS:** The team used the live CRS sandbox for test personas.
 - **Checked on Devpost:** 2026-11-21
 
@@ -224,7 +224,7 @@ A finance workspace helps AI labs automate bookkeeping and related financial tas
 - **Code:** [Source 1](https://github.com/petersenmatthew/moa)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=K_pESfSqoDQ)
 - **All prizes at this hackathon (2):** &#91;Figma&#93; Best Design · &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
-- **Theme prize: no sponsor tech named** · Won “&#91;Figma&#93; Best Design” from Figma.
+- **How it used Figma:** The team mapped flows in FigJam, made a clickable version in Figma Make, and animated the outro in Figma Motion.
 - **Theme prize: no sponsor tech named** · Won “&#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance” from Hyphenate.
 - **Checked on Devpost:** 2026-11-21
 
@@ -249,7 +249,7 @@ an ai teammate in your cursor.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=joNnooTosPs)
 - **All prizes at this hackathon (2):** &#91;Apify&#93; 1st Customer Award · &#91;Moss&#93; Long Horizon Agent
 - **How it used Apify:** The team used Apify for connectors.
-- **Theme prize: no sponsor tech named** · Won “&#91;Moss&#93; Long Horizon Agent” from Moss.
+- **How it used Moss:** The team used Moss for indexing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -842,7 +842,7 @@ An autonomous finance desk that tracks automotive tariffs from imported parts to
 - **Code:** [Source 1](https://github.com/ParthGala2k/tariffic)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zwbd8wDYVz0)
 - **All prizes at this hackathon (1):** &#91;Creao AI&#93; Best One-Person Company
-- **Theme prize: no sponsor tech named** · Won “&#91;Creao AI&#93; Best One-Person Company” from Creao.
+- **How it used Creao:** Uses Creao agents as the seats’ brains.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1236,7 +1236,7 @@ A mobile finance prototype turns market events into short research tasks and wai
 - **Code:** [Source 1](https://github.com/adylagad/baseland)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wzT5thvdSHw)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Best Stage Log
-- **Theme prize: no sponsor tech named** · Won “&#91;Figma&#93; Best Stage Log” from Figma.
+- **Theme prize** · Won “&#91;Figma&#93; Best Stage Log” from Figma. The team links to its Figma slide deck.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1259,7 +1259,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fmnPOpoLz6E)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Most Creative
-- **Theme prize: no sponsor tech named** · Won “&#91;Figma&#93; Most Creative” from Figma.
+- **How it used Figma:** The project uses Figma for design and planning.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1634,7 +1634,7 @@ Independent Agentic AI oversight that tracks every dollar from owner to manageme
 - **Code:** [Source 1](https://github.com/ozr0013/AccountableAI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3eNnbQb081M)
 - **All prizes at this hackathon (1):** &#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)
-- **Theme prize: no sponsor tech named** · Won “&#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)” from Microsoft.
+- **Theme prize** · Won “&#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)” from Microsoft. Also used: visual-studio, Visual Studio Code (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1669,7 +1669,7 @@ A second set of ears for every air traffic controller: AI agents that catch miss
 - **Code:** [Source 1](https://github.com/Dee-1862/unstep)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HQD8kuxBE3U)
 - **All prizes at this hackathon (1):** &#91;Moss&#93; Long Horizon Agent
-- **Theme prize: no sponsor tech named** · Won “&#91;Moss&#93; Long Horizon Agent” from Moss.
+- **How it used Moss:** An in-process Moss session holds every clearance a plane heard.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -47,7 +47,7 @@ These projects won more than one prize here. Each one is listed once.
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with jetson-orin, gemini, google-adk, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with typescript, jetson-orin, gemini, google-adk
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -57,7 +57,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0t4X0DoKbsc)
 - **All prizes at this hackathon (3):** Microsoft · NVIDIA · Waymo
-- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+- **Theme prize** · Won “Microsoft” from Microsoft. Also used: typescript (listed on Devpost).
 - **How it used NVIDIA:** The team used SSH tunnels to connect its hosts to the Jetson Orin mounted on the Jetbot.
 - **Theme prize: no sponsor tech named** · Won “Waymo” from Waymo.
 - **Checked on Devpost:** 2026-11-21
@@ -107,7 +107,7 @@ A web-app developed to help prep students for their technical interviews through
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uNDWa84R2Aw)
 - **All prizes at this hackathon (2):** Assurant · Microsoft
 - **Theme prize: no sponsor tech named** · Won “Assurant” from Assurant.
-- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+- **Theme prize** · Won “Microsoft” from Microsoft. Also used: TypeScript (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -243,7 +243,7 @@ Transform any GitHub repository into an interactive, visual tree structure. AI-p
 - **Code:** [Source 1](https://github.com/hieunguyent12/shellhacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oo69VDuMhTU)
 - **All prizes at this hackathon (1):** Github
-- **Theme prize: no sponsor tech named** · Won “Github” from GitHub.
+- **How it used GitHub:** The backend uses the GitHub REST API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,7 +320,7 @@ Beacon is a smart navigation app that helps users plan safe routes by having rea
 - **Code:** [Source 1](https://github.com/Bashguy/Beacon)
 - **Demo video:** [Video 1](https://vimeo.com/1123425305)
 - **All prizes at this hackathon (1):** Google
-- **Theme prize: no sponsor tech named** · Won “Google” from Google.
+- **How it used Google:** Firestore stores user information and contacts, and Realtime Database handles immediately needed data such as battery level.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -366,7 +366,7 @@ Breaking language barriers, one word at a time.
 - **Code:** [Source 1](https://github.com/EzSpeak-development/EzSpeak-frontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0lh1fenJgQw)
 - **All prizes at this hackathon (1):** Google
-- **Theme prize: no sponsor tech named** · Won “Google” from Google.
+- **How it used Google:** The project uses Chrome’s tabCapture API to grab audio from the active tab.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -435,7 +435,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA
 - **Code:** No public code found
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=55OuqH7E-lA)
 - **All prizes at this hackathon (1):** Google
-- **Theme prize: no sponsor tech named** · Won “Google” from Google.
+- **How it used Google:** Google Gemini powers the learning assistant via its OpenAI-compatible interface.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -454,7 +454,7 @@ Also won this track: [VL-ADK](#project-vl-adk), [PrepBear](#project-prep-bear) (
 
 Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body movements into computer input.
 
-[Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with css3, electron, gemini, google-a2a
+[Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with typescript, css3, electron, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -464,7 +464,7 @@ Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body 
 - **Code:** [Source 1](https://github.com/DanielJEfres/ctrl-arm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=81FJv9Wgcoo)
 - **All prizes at this hackathon (1):** Microsoft
-- **Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+- **Theme prize** · Won “Microsoft” from Microsoft. Also used: typescript (listed on Devpost).
 - **Checked on Devpost:** 2026-11-21
 
 </details>

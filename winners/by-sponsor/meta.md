@@ -53,7 +53,7 @@ Life opens new doors. dor keeps old ones from closing, and helps you find your w
 
 At the heart of HeirLoom is Loomie, an empathetic voice AI companion.
 
-**Theme prize: no sponsor tech named** · Won “Meta: Bringing People Closer Together with AI - Winner” from Meta.
+**How it used Meta:** The iOS share extension lets anyone drop photos and voice memos from Instagram into the family feed.
 
 [Code](https://github.com/Adalo-Gusa/SPIRE_GT_Hacks) · [Demo video](https://www.youtube.com/watch?v=2HFSy_1dndI) · Built with backboard.io, figma, grok, mongodb
 
@@ -103,7 +103,7 @@ Re:Collection turns a family visit or an old home video into a 3D Memory Palace 
 
 A cozy bear that families can use to share stories with their loved ones.
 
-**Theme prize: no sponsor tech named** · Won “Meta: Bringing People Closer Together with AI - Winner” from Meta.
+**How it used Meta:** Muse Spark uses the transcript and sound effect catalog to return timestamps for when to play the sounds.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
 
@@ -151,7 +151,7 @@ No public code found · Built with bottle, c++, facebook, facebook-graph
 
 AI-powered Chatbot which give you curated dating advice - while you're on your date.
 
-**Theme prize: no sponsor tech named** · Won “Facebook Hackathon Finals Trip” from Meta.
+**How it used Meta:** Black Box uses Facebook for messages.
 
 [Code](https://github.com/96imranahmed/blackbox-public) · [Demo video](https://www.youtube.com/watch?v=7KcSXuQXCng) · Built with machine-learning, python
 

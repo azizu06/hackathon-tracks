@@ -190,7 +190,7 @@ A Sustainability Platform for a Greener Future.
 - **Code:** [Source 1](https://github.com/SaadMakda/Greenify-Test) · [Source 2](https://github.com/yfshaikh/greenify) · [Source 3](https://github.com/yfshaikh/greenify-scripts)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=W2zu9af2O0o)
 - **All prizes at this hackathon (1):** CBRE
-- **Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
+- **How it used CBRE:** The project sources information from CBRE’s internal data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

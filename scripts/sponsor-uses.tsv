@@ -615,7 +615,7 @@ https://devpost.com/software/lotion-ai-ar	Microsoft	Built with typescript (liste
 https://devpost.com/software/prep-bear	Microsoft	Built with TypeScript (listed on Devpost)	devpost:listed	React, Tailwind CSS, Typescript
 https://devpost.com/software/pure-interact	Microsoft	The team used Microsoft CNTK to combine eye-gaze input with speech, physical action, and emotion sensing.	devpost:what_it_does	eye-gaze algorithms produced by xLabs, and combined this input modality with human speech, physical action, and emotion sensing, using the Microsoft CNTK framework.
 https://devpost.com/software/repro-h6gq70	Microsoft	Built with typescript (listed on Devpost)	devpost:built_with	typescript
-https://devpost.com/software/spitball	Microsoft	Built with Visual Studio Code (listed on Devpost)	devpost:listed	We built Spitball as an embedded extension that runs locally inside Visual Studio Code
+https://devpost.com/software/spitball	Microsoft	Spitball is built as an embedded extension that runs locally inside Visual Studio Code.	devpost:how_we_built	We built Spitball as an embedded extension that runs locally inside Visual Studio Code
 https://devpost.com/software/standard-response	Microsoft	Built with typescript (listed on Devpost)	devpost:built_with	typescript
 https://devpost.com/software/vl-adk	Microsoft	Built with typescript (listed on Devpost)	devpost:built_with	typescript
 https://devpost.com/software/elevyn-unlock-premium-content-with-decentralized-funding	Midnight	Midnight integration enables confidential transactions.	devpost:what_it_does	With the integration of Midnight, the platform enhances privacy for both creators and supporters by enabling secure, confidential transactions.

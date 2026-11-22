@@ -75,7 +75,7 @@ No public code found · Built with amazon-ec2, amazon-web-services, dify.ai, fas
 
 Making cloud services what they were meant to be — simple.
 
-**Theme prize: no sponsor tech named** · Won “Warp - Best Developer Tool” from Warp.
+**How it used Warp:** The team integrated Warp as the primary development environment, which was instrumental in building InfraBlocks.
 
 [Code](https://github.com/infrablocks-oss/InfraBlocks) · [Demo video](https://www.youtube.com/watch?v=n_xQXasVDbk) · Built with cedar-os, nextjs, openai, radix-ui
 
@@ -147,7 +147,7 @@ A hierarchal multi-agent framework built from scratch. Transforms complex goals 
 
 Review : Once your code is complete, GenHint reviews it, checking for accuracy and best practices, giving you feedback to ensure your code is indeed working.
 
-**Theme prize: no sponsor tech named** · Won “Warp - Honorable Mention Best Developer Tool” from Warp.
+**How it used Warp:** The team used Warp Drive’s shared workflows to share key processes.
 
 [Code](https://github.com/zichenzhang04/GenHint) · [Demo video](https://www.youtube.com/watch?v=72yeRx4773o) · Built with warp, azure, git, github
 

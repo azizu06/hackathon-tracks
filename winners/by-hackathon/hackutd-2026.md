@@ -1128,7 +1128,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5MvE
 - **Code:** [Source 1](https://github.com/vishy-m/Toyyo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AxL6UkqenSE)
 - **All prizes at this hackathon (1):** Toyota Financial Services Track
-- **Theme prize: no sponsor tech named** · Won “Toyota Financial Services Track” from Toyota Financial Services.
+- **How it used Toyota Financial Services:** The team designed Toyyo around synthetic customer profiles and data scenarios provided by Toyota Financial Services.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

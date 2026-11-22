@@ -23,7 +23,7 @@
 
 Independent Agentic AI oversight that tracks every dollar from owner to management company to vendor, so owners catch problems before they affect finances, operations or relationships.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)” from Microsoft.
+**Theme prize** · Won “&#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)” from Microsoft. Also used: visual-studio, Visual Studio Code (listed on Devpost).
 
 [Code](https://github.com/ozr0013/AccountableAI) · [Demo video](https://www.youtube.com/watch?v=3eNnbQb081M) · Built with visual-studio, .md, agent, agentic
 
@@ -33,7 +33,7 @@ Independent Agentic AI oversight that tracks every dollar from owner to manageme
 
 CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN AI helps engineers inspect designs, surface issues, and understand complex assemblies faster.
 
-**Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+**Theme prize** · Won “Microsoft” from Microsoft. Also used: c# (listed on Devpost).
 
 [Code](https://github.com/BAAA-Hacks/cad-vision) · [Demo video](https://www.youtube.com/watch?v=0-bYjncKWIs) · Built with c#, elevenlabs, geminiapi, metaquest
 
@@ -43,9 +43,9 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 
 A project designed to be an open-source repository diagnostic and repair platform equipped with deterministic error and vulnerability detection fed into a multi-layer agentic repair pipeline.
 
-**Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+**Theme prize** · Won “Microsoft” from Microsoft. Also used: typescript (listed on Devpost).
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with docker, fastify, framer-motion, gemini
+No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs) · Built with typescript, docker, fastify, framer-motion
 
 ### [Spitball](https://devpost.com/software/spitball)
 
@@ -53,7 +53,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGOs
 
 Understand any codebase with confidence. Spitball's AI maps how your code works and what to build next, then ships ideas as real PRs.
 
-**Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+**How it used Microsoft:** Spitball is built as an embedded extension that runs locally inside Visual Studio Code.
 
 No public code found · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM) · Built with claude, css, digitalocean, github-api
 
@@ -63,9 +63,9 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=uLmimTFwauM
 
 An emergency response dashboard helps teams coordinate mass evacuation and identify people who need help leaving.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)” from Microsoft.
+**Theme prize** · Won “&#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd)” from Microsoft. Also used: typescript (listed on Devpost).
 
-[Code](https://github.com/Imhaohao/Standard-Response) · [Demo video](https://www.youtube.com/watch?v=eNsAGHFnFJY) · Built with anthropic, apify, cartesia, claude
+[Code](https://github.com/Imhaohao/Standard-Response) · [Demo video](https://www.youtube.com/watch?v=eNsAGHFnFJY) · Built with typescript, anthropic, apify, cartesia
 
 ## 2025 winners
 
@@ -75,9 +75,9 @@ An emergency response dashboard helps teams coordinate mass evacuation and ident
 
 Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body movements into computer input.
 
-**Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+**Theme prize** · Won “Microsoft” from Microsoft. Also used: typescript (listed on Devpost).
 
-[Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with css3, electron, gemini, google-a2a
+[Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with typescript, css3, electron, gemini
 
 ### [PrepBear](https://devpost.com/software/prep-bear)
 
@@ -85,7 +85,7 @@ Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body 
 
 A web-app developed to help prep students for their technical interviews through the use of AI mock interviewer.
 
-**Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+**Theme prize** · Won “Microsoft” from Microsoft. Also used: TypeScript (listed on Devpost).
 
 [Code](https://github.com/Albertoh16/Bear-Necessities) · [Demo video](https://www.youtube.com/watch?v=uNDWa84R2Aw) · Built with gemini, javascript, react
 
@@ -95,9 +95,9 @@ A web-app developed to help prep students for their technical interviews through
 
 A "psuedo" VLA model leveraging a fleet of autonomous ADK agents.
 
-**Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+**Theme prize** · Won “Microsoft” from Microsoft. Also used: typescript (listed on Devpost).
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with gemini, google-adk, jetson-orin, python
+No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc) · Built with typescript, gemini, google-adk, jetson-orin
 
 ## 2024 winners
 
@@ -107,9 +107,9 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbsc
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
-**Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+**Theme prize** · Won “Microsoft” from Microsoft. Also used: c# (listed on Devpost).
 
-No public code found · Built with .net, apis, c#, meta
+No public code found · Built with c#, .net, apis, meta
 
 ### [ARSL - Augmented Reality Sign Language](https://devpost.com/software/arsl-vr-asl-learning)
 
@@ -117,9 +117,9 @@ No public code found · Built with .net, apis, c#, meta
 
 Learn ASL in AR through Computer Vision and Hand Tracking.
 
-**Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+**Theme prize** · Won “Microsoft” from Microsoft. Also used: c-sharp (listed on Devpost).
 
-[Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c, c-sharp, embedded, hardware
+[Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c-sharp, c, embedded, hardware
 
 ### [Lotion AI/AR](https://devpost.com/software/lotion-ai-ar)
 
@@ -127,9 +127,9 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
 
-**Theme prize: no sponsor tech named** · Won “Microsoft” from Microsoft.
+**Theme prize** · Won “Microsoft” from Microsoft. Also used: typescript (listed on Devpost).
 
-[Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
+[Code](https://github.com/kgand/shellhacks2024) · Built with typescript, axios, chatgpt, computer-vision
 
 ## 2019 winners
 

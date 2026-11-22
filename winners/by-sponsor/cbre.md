@@ -107,7 +107,7 @@ Efficiency that Saves, Sustainability that Lasts.
 
 A Sustainability Platform for a Greener Future.
 
-**Theme prize: no sponsor tech named** · Won “CBRE” from CBRE.
+**How it used CBRE:** The project sources information from CBRE’s internal data.
 
 [Code](https://github.com/SaadMakda/Greenify-Test) · [Demo video](https://www.youtube.com/watch?v=W2zu9af2O0o) · Built with chart.js, d3.js, flask, framer-motion
 

@@ -562,7 +562,7 @@ AI-powered Chatbot which give you curated dating advice - while you're on your d
 - **Code:** [Source 1](https://github.com/96imranahmed/blackbox-public)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7KcSXuQXCng)
 - **All prizes at this hackathon (1):** Facebook Hackathon Finals Trip
-- **Theme prize: no sponsor tech named** · Won “Facebook Hackathon Finals Trip” from Meta.
+- **How it used Meta:** Black Box uses Facebook for messages.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -595,7 +595,7 @@ LogoLens presents relevant stock quote data when a user sees a company logo whil
 - **Code:** [Source 1](https://github.com/ChenJonathan/Logo-Lens)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AI54o8onLBA)
 - **All prizes at this hackathon (1):** Nasdaq MarketSite Prize
-- **Theme prize: no sponsor tech named** · Won “Nasdaq MarketSite Prize” from Nasdaq.
+- **How it used Nasdaq:** The project uses the NASDAQ API to check stock prices.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

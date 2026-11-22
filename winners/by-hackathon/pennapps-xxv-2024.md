@@ -84,7 +84,7 @@ Automated Medication Scanner and Tracker Powered by Computer Vision.
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Computer Vision (Sponsored by Roboflow) · Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)
 - **Theme prize: no sponsor tech named** · Won “Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)” from Patient Safety Technology Challenge.
-- **Theme prize: no sponsor tech named** · Won “Best Use of Computer Vision (Sponsored by Roboflow)” from Roboflow.
+- **How it used Roboflow:** The team trained a Roboflow model to detect labels.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

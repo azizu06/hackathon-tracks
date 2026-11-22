@@ -23,7 +23,7 @@
 
 an ai teammate in your cursor.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Moss&#93; Long Horizon Agent” from Moss.
+**How it used Moss:** The team used Moss for indexing.
 
 [Code](https://github.com/jayamitkatariya/okidoki-personal) · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with moss, accessibility-api, anthropic, apify
 
@@ -43,7 +43,7 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 
 A second set of ears for every air traffic controller: AI agents that catch missed calls and wrong readbacks, with the controller in command.
 
-**Theme prize: no sponsor tech named** · Won “&#91;Moss&#93; Long Horizon Agent” from Moss.
+**How it used Moss:** An in-process Moss session holds every clearance a plane heard.
 
 [Code](https://github.com/Dee-1862/unstep) · [Demo video](https://www.youtube.com/watch?v=HQD8kuxBE3U) · Built with moss, moss-inference, cartesia, cartesia-ink
 

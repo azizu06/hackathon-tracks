@@ -80,8 +80,8 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 - **Code:** [Source 1](https://github.com/Vigneshpeddi/SpaceShare)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Capital One - Best Financial Hack · Visa - Custom Track
-- **Theme prize: no sponsor tech named** · Won “Capital One - Best Financial Hack” from Capital One.
-- **Theme prize: no sponsor tech named** · Won “Visa - Custom Track” from Visa.
+- **How it used Capital One:** The project used Capital One APIs to funnel 20% of earnings into savings accounts.
+- **How it used Visa:** The team integrated payouts to homeowners and used Visa Direct APIs to push funds to lister's cards.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

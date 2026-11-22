@@ -33,7 +33,7 @@ Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pr
 
 ezPaddle makes using pre-trained PaddlePaddle models as easy as writing one line of code.
 
-**Theme prize: no sponsor tech named** · Won “Sponsor Prize - Baidu - Machine Learning Community Prize” from Baidu.
+**How it used Baidu:** Downloads PaddlePaddle’s Word2Vec inference topology.
 
 [Code](https://github.com/fervorarc/PaddleBois) · Built with paddle, python
 
