@@ -307,14 +307,14 @@ Fight the fire before you get there.
 
 FarCare connects three roles around one parent.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
+[Code](https://github.com/Sabalpp/HackPrinceton) · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** bleak, bluetooth, corebluetooth, fastapi, fitbit, google-gemini, google-health-api, langchain, next.js, node.js, oauth2, photon, pkce, postgresql, pytest, python, react, sqlite, tiger-data, timescaledb, typescript, vercel
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/Sabalpp/HackPrinceton)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=d90HW1Gm-HY)
 - **All prizes at this hackathon (1):** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard
 - **ChatOverflow:** Sponsor use not stated on Devpost

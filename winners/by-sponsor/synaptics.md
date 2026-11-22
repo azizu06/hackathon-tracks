@@ -57,7 +57,7 @@ The group (RPIDeis) used the Synaptics Forcepad to create a theremin type instru
 
 **How it used Synaptics:** The group (RPIDeis) used the Synaptics Forcepad to create a theremin type instrument.
 
-No public code found
+[Code](https://github.com/misingnoglic/Synaptics3DTheremin)
 
 ### [RESTful Ships](https://devpost.com/software/restful-ships)
 

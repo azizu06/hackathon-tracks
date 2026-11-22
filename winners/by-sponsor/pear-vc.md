@@ -57,7 +57,7 @@ The team made a cardboard piano that uses computer vision to detect and play pia
 
 **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · Built with opencv, python
+[Code](https://github.com/roberth188/music-for-all) · Built with opencv, python
 
 ## Track names and requirements
 

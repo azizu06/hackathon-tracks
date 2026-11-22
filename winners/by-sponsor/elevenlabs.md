@@ -145,7 +145,7 @@ An AI copilot for air traffic controllers. It plans conflict-free routes, listen
 
 **How it used ElevenLabs:** The project uses ElevenLabs voices through a narrow-band radio filter for its AI pilots.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
+[Code](https://github.com/draggle/squawk) · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
 
 ## 2025 winners
 

@@ -25,7 +25,7 @@ Later, you can pull up the app and watch your recorded shows -- or you can AirPl
 
 **Award:** Won “General Catalyst - Most likely to be the “Next Big Thing”” from General Catalyst. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found
+[Code](https://github.com/nessup/PiVision)
 
 ## Track names and requirements
 

@@ -35,7 +35,7 @@ The geoengineering operating system for climate renewal. Predict natural disaste
 
 **Award:** Won “&#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
+[Code](https://github.com/Thaarak/morro) · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
 
 ## 2025 winners
 

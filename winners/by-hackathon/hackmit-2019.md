@@ -186,14 +186,14 @@ Choose between a private insurance system, a national model, or something else e
 
 Building community among pro bono lawyers through an easy to use conversational legal assistant.
 
-No public code found · Built with amazon-web-services, amazon-lex, case.law, google-cloud
+[Code](https://github.com/danielavelez1201/hackmit) · Built with amazon-web-services, amazon-lex, case.law, google-cloud
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-lex, amazon-web-services, case.law, google-cloud, html/css, javascript, python
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/danielavelez1201/hackmit)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AWS AI / ML Services
 - **How it used Amazon Web Services:** The team built its core chatbot on AWS Lex.

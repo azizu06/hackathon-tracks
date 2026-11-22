@@ -225,7 +225,7 @@ Making music something you can feel, see, and sign.
 
 Because good music gives us sera-tonin :).
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
+[Code](https://github.com/Elemode451/lahacks-2026) · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
 
 ### [Sprout](https://devpost.com/software/sprout-x41rji)
 

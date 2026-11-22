@@ -45,7 +45,7 @@ LifeLine is a disaster recovery platform that connects residents, responders, an
 
 **Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
+[Code](https://github.com/DarthDexTroy/Good-Neighbor-Triage) · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
 ### [SafeHome](https://devpost.com/software/safehome-tqfu6n)
 

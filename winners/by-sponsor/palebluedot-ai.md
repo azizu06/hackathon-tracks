@@ -45,7 +45,7 @@ Retention uses Meta's brain-simulation model to optimize educational videos for 
 
 **How it used PaleBlueDot AI:** The team uses TokenRouter to call Claude to summarize the outputs from three LLMs.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
+[Code](https://github.com/avagonick/Retention) · [Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
 
 ## Track names and requirements
 

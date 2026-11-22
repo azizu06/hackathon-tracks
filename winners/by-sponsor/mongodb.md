@@ -229,7 +229,7 @@ Intelligent data processing and diagnosis for doctors.
 
 **How it used MongoDB:** The project used MongoDB to store user information, its RAG vector database, and PDFs.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=2s-sg1melAo) · Built with mongodb, astro, llama-index, python
+[Code](https://github.com/raptor1820/medease) · [Demo video](https://www.youtube.com/watch?v=2s-sg1melAo) · Built with mongodb, astro, llama-index, python
 
 ## 2013 winners
 

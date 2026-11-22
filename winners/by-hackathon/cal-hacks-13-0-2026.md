@@ -238,14 +238,14 @@ A finance workspace helps AI labs automate bookkeeping and related financial tas
 
 an ai teammate in your cursor.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, moss, accessibility-api, anthropic
+[Code](https://github.com/jayamitkatariya/okidoki-personal) · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, moss, accessibility-api, anthropic
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** accessibility-api, anthropic, apify, appkit, bonjour, bun, cartesia, claude, convex, convex-auth, launchd, mcp, moss, react, screencapturekit, swift, swiftui, typescript, virtualization-framework, vite, webkit, xctest
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/jayamitkatariya/okidoki-personal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=joNnooTosPs)
 - **All prizes at this hackathon (2):** &#91;Apify&#93; 1st Customer Award · &#91;Moss&#93; Long Horizon Agent
 - **How it used Apify:** The team used Apify for connectors.

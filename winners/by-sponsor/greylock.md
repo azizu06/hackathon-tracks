@@ -45,7 +45,7 @@ The team introduce three core technical contributions:.
 
 **Award:** Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
+[Code](https://github.com/kesavanramakrishnan/power-lever) · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
 
 ## Track names and requirements
 

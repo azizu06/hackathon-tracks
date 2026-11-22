@@ -45,7 +45,7 @@ Wildfires is a platform offering real-time wildfire updates with live data, inte
 
 **How it used Streamlit:** The team then used Streamlit to plot them onto a map.
 
-No public code found · Built with streamlit, altair, openai, pydeck
+[Code](https://github.com/calebyhan/hackduke25) · Built with streamlit, altair, openai, pydeck
 
 ## 2024 winners
 

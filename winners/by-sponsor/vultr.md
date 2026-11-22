@@ -65,7 +65,7 @@ A planning app connects student clubs' communication, spreadsheets, and code too
 
 **How it used Vultr:** The project uses Vultr serverless inference.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
+[Code](https://github.com/DanielTong50/nexus) · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
 ### [PledgeCheck](https://devpost.com/software/pledgecheck-qrusc1)
 

@@ -95,7 +95,7 @@ GitHub stores your code. Lore stores your reasons.
 
 **How it used Cognition:** The project plugs into Devin via MCP.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
+[Code](https://github.com/YGao2005/loreIDE) · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
 
 ### [MultiEval](https://devpost.com/software/multival)
 

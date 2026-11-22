@@ -281,7 +281,7 @@ A software development tool compares solutions created by competing coding agent
 
 Once you describe a job, Astronom builds a budgeted, permission-checked AI agent team, red-teams it, and fixes what breaks, with approval at every step, using its multi-agent swarm technology.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
+[Code](https://github.com/IEXDevs/HACKTX26) · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
 
 ### [ATLRisk](https://devpost.com/software/atlrisk)
 
@@ -473,7 +473,7 @@ Real-time music chord suggestions based on the elegant theory of 24D chroma vect
 
 Revolutionizing Digital Forensics through Novel Data Modeling.
 
-No public code found · Built with fastapi, next.js, react, typescript
+[Code](https://github.com/parthm667/clarify) · Built with fastapi, next.js, react, typescript
 
 ### [ClearPath](https://devpost.com/software/clearpath-chvrpy)
 
@@ -609,7 +609,7 @@ Real vanilla, real proof. Extract is a digital trust system for the vanilla indu
 
 FarCare connects three roles around one parent.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
+[Code](https://github.com/Sabalpp/HackPrinceton) · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-HY) · Built with bleak, bluetooth, corebluetooth, fastapi
 
 ### [FinVantage](https://devpost.com/software/finvantange)
 
@@ -945,7 +945,7 @@ Repair, Replace or Wait? NextMove lets you know.
 
 A planning app connects student clubs' communication, spreadsheets, and code tools in one workspace.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
+[Code](https://github.com/DanielTong50/nexus) · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
 ### [Niche](https://devpost.com/software/niche-z32los)
 
@@ -1257,7 +1257,7 @@ A study agent makes practice quizzes and games and tracks progress in a virtual 
 
 An AI copilot for air traffic controllers. It plans conflict-free routes, listens to the radio with a model tuned on real ATC audio, and catches wrong pilot readbacks before they become incidents.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
+[Code](https://github.com/draggle/squawk) · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
 
 ### [SteadyScript](https://devpost.com/software/steadyscript)
 
@@ -1715,7 +1715,7 @@ No public code found · Built with amazon-ec2, amazon-web-services, dify.ai, fas
 
 Put your money where your goals are. Complete your commitments to earn it back, or watch it go to a cause you really don’t want to fund.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
+[Code](https://github.com/IgnasPanavas/Covenant) · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
 
 ### [Crossentropy](https://devpost.com/software/crossentropy)
 
@@ -1811,7 +1811,7 @@ AI Agents for complex human disaster dynamics simulation.
 
 Making expungement simple and accessible for all.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+[Code](https://github.com/kar722/expungo) · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 
 ### [Eyrie](https://devpost.com/software/eyrie-idxhj8)
 
@@ -2259,7 +2259,7 @@ Text-to-speech is a near-essential tool for the legally blind; However, normal t
 
 Signify brings AI into the web accessibility space.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
+[Code](https://github.com/andyjphu/signify) · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
 ### [Simply Law](https://devpost.com/software/lexiloop)
 
@@ -2533,7 +2533,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeVU
 
 Capsule, allows you to upload data into a "capsule" and retrieve it very quickly via URL, NFC, or QR Codes.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
+[Code](https://github.com/erickscodes/capsule) · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
 
 ### [Cascade](https://devpost.com/software/cascade-xrfscu)
 

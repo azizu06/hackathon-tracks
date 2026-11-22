@@ -43,7 +43,7 @@ Sham is a Chrome extension that helps you spot sketchy online stores before chec
 
 Snitch helps recruiters spot suspicious moments in remote interviews by combining behavioral signals, AI-language detection, CV checks, and visual canaries.
 
-**How it used GPTZero:** Uses a GPTZero AI probability for text.
+**How it used GPTZero:** Uses the AI probability returned by GPTZero for this text.
 
 [Code](https://github.com/amelialon/Snitch) · [Demo video](https://www.youtube.com/watch?v=Yi8CKzDzxrU) · Built with gptzero, fastapi, firebase, firestore
 

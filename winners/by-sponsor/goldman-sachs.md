@@ -45,7 +45,7 @@ The pipeline your team trusts to automate your commercial loans.
 
 **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
+[Code](https://github.com/mnettem21/DealPilot) · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
 
 ## 2025 winners
 

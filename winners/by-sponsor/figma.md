@@ -85,7 +85,7 @@ A calendar app weighs upcoming commitments against the user's energy level to he
 
 **Linked resource from Figma:** The team links to its Figma design file.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
+[Code](https://github.com/aamoghS/fobo) · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
 ### [Forage](https://devpost.com/software/gaia-r3jwo5)
 
@@ -215,7 +215,7 @@ Because good music gives us sera-tonin :).
 
 **Figma:** Sponsor use not stated on Devpost
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
+[Code](https://github.com/Elemode451/lahacks-2026) · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
 
 ### [Snitch](https://devpost.com/software/snitch-ackp1s)
 

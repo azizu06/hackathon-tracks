@@ -25,7 +25,7 @@ an ai teammate in your cursor.
 
 **How it used Moss:** The team used Moss for indexing.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with moss, accessibility-api, anthropic, apify
+[Code](https://github.com/jayamitkatariya/okidoki-personal) · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with moss, accessibility-api, anthropic, apify
 
 ### [Standard Response](https://devpost.com/software/standard-response)
 

@@ -371,7 +371,7 @@ Automatically transforms bodycam footage into professional evidence reports usin
 
 Making expungement simple and accessible for all.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+[Code](https://github.com/kar722/expungo) · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 
 ### [Grindstone](https://devpost.com/software/grindstone)
 

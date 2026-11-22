@@ -152,14 +152,14 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
+[Code](https://github.com/aamoghS/fobo) · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** expo.io, gemini, neon, react-native
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/aamoghS/fobo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RWAbxd6hSjE)
 - **All prizes at this hackathon (2):** Adobe: Prettiest Hack · Figma: Best Design
 - **Award:** Won “Adobe: Prettiest Hack” from Adobe. The write-up gives no details on how the team used the sponsor’s tech.
@@ -420,14 +420,14 @@ Also won this track: [Farsight](#project-farsight-t4qyli) (listed above)
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
+[Code](https://github.com/rabraham06/Doorway) · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** android, android-speech-recognizer, android-text-to-speech, ar-foundation, arcore, c#, hugging-face, java, ml-kit, numpy, opencv, openstreetmap, python, unity
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/rabraham06/Doorway)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zb3Xrg7Hfq4)
 - **All prizes at this hackathon (1):** Encompass: Data Capturing Hardware
 - **Award:** Won “Encompass: Data Capturing Hardware” from Encompass. The write-up gives no details on how the team used the sponsor’s tech.

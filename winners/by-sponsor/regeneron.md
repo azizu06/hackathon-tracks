@@ -65,7 +65,7 @@ Find sanctioned investigators, not their namesakes.
 
 **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
+[Code](https://github.com/Tsanta743/red-flag-radar) · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
 
 ### [SiteLine](https://devpost.com/software/siteline-90rxwp)
 
@@ -95,7 +95,7 @@ Gamified clinical trials with computer vision.
 
 **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
+[Code](https://github.com/kzfsg/telekinesis) · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
 
 ### [TrialMate](https://devpost.com/software/trialmate)
 
@@ -217,7 +217,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k
 
 **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
+[Code](https://github.com/sheinapribadi-star/underfilled) · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
 
 ### [TrialGuideAI](https://devpost.com/software/trialguideai)
 

@@ -203,14 +203,14 @@ Canary catches small building warnings before they become expensive outages: AI 
 
 Turn real-estate data into explainable infrastructure risk insights and prioritized investigations.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
+[Code](https://github.com/AlvinA8686/HackUTD_2026) · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** html, javascript, python
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/AlvinA8686/HackUTD_2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sJX_GgbqtNI)
 - **All prizes at this hackathon (1):** CBRE Track
 - **Award:** Won “CBRE Track” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
@@ -353,14 +353,14 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=0AvDX1Ru_-c
 
 The pipeline your team trusts to automate your commercial loans.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
+[Code](https://github.com/mnettem21/DealPilot) · [Demo video](https://www.youtube.com/watch?v=RYIeD--Azeo) · Built with docker, pocketbase, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** docker, pocketbase, python
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/mnettem21/DealPilot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RYIeD--Azeo)
 - **All prizes at this hackathon (1):** Goldman Sachs Track
 - **Award:** Won “Goldman Sachs Track” from Goldman Sachs. The write-up gives no details on how the team used the sponsor’s tech.
@@ -753,14 +753,14 @@ Night Watch is an oracle for data center operations, built around two goals.
 
 🏢 Prepare buildings. 🔥 Save every resident. 🛡️.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with spacetimedb, anthropic-api, blender, cal-fire
+[Code](https://github.com/adamFabsa/aegis) · [Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with spacetimedb, anthropic-api, blender, cal-fire
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** anthropic-api, blender, cal-fire, claude, nasa-firms, node.js, numpy, pandas, postgresql, puppeteer, python, react, scikit-learn, spacetimedb, svg, tiger-data, timescaledb, typescript, vercel, vite
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/adamFabsa/aegis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lORYwjN39mg)
 - **All prizes at this hackathon (1):** Spacetime Track
 - **How it used Spacetime:** SpacetimeDB is the backend and is hosted on Maincloud.
@@ -922,14 +922,14 @@ ANCHOR connects a device in the customer’s home to a claims dashboard that Sta
 
 LifeLine is a disaster recovery platform that connects residents, responders, and organizations in real time.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
+[Code](https://github.com/DarthDexTroy/Good-Neighbor-Triage) · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** photon, react-native, spacetime, typescript, vercel
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/DarthDexTroy/Good-Neighbor-Triage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CMUDwhV0rCA)
 - **All prizes at this hackathon (1):** State Farm Track
 - **Award:** Won “State Farm Track” from State Farm. The write-up gives no details on how the team used the sponsor’s tech.

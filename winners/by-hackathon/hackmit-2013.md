@@ -339,14 +339,14 @@ Also won this track: [GitFit](#project-gitfit) (listed above)
 
 Later, you can pull up the app and watch your recorded shows -- or you can AirPlay them or download them for later.
 
-No public code found
+[Code](https://github.com/nessup/PiVision)
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** No tags listed
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/nessup/PiVision)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** 3rd Place · General Catalyst - Most likely to be the “Next Big Thing”
 - **Award:** Won “General Catalyst - Most likely to be the “Next Big Thing”” from General Catalyst. The write-up gives no details on how the team used the sponsor’s tech.
@@ -650,14 +650,14 @@ This app aims to make taking pictures and video more intuitive.
 
 The group (RPIDeis) used the Synaptics Forcepad to create a theremin type instrument.
 
-No public code found
+[Code](https://github.com/misingnoglic/Synaptics3DTheremin)
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** No tags listed
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/misingnoglic/Synaptics3DTheremin)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Synaptics, Inc. - Most Innovative project with ForcePad - 2nd Prize
 - **How it used Synaptics:** The group (RPIDeis) used the Synaptics Forcepad to create a theremin type instrument.

@@ -381,14 +381,14 @@ MelaNone is a limb-scanning system designed to help detect melanoma early on.
 
 A planning app connects student clubs' communication, spreadsheets, and code tools in one workspace.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
+[Code](https://github.com/DanielTong50/nexus) · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** asyncio, fastapi, httpx, langchain, langgraph, lucide, mongodb, motor, next.js, python, radix, react, redis, shadcn, tailwind, typescript, uvicorn, voltr
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/DanielTong50/nexus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TmAf5cKU6G4)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
 - **How it used Vultr:** The project uses Vultr serverless inference.

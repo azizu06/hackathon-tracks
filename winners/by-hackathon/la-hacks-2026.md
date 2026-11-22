@@ -468,14 +468,14 @@ Ai Agent that designs computer chips in VSCode.
 
 GitHub stores your code. Lore stores your reasons.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
+[Code](https://github.com/YGao2005/loreIDE) · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2c) · Built with devin, anthropic, claude, deepseek
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** anthropic, claude, deepseek, devin, gemma, tauri, windsurf
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/YGao2005/loreIDE)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8-gmVsRSW2c)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
 - **How it used Cognition:** The project plugs into Devin via MCP.
@@ -942,14 +942,14 @@ A booking workspace helps performers find venues and manage pitches and follow-u
 
 Because good music gives us sera-tonin :).
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
+[Code](https://github.com/Elemode451/lahacks-2026) · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtPM) · Built with colab, python, spotify, supabase
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** colab, python, spotify, supabase, tribev2, typescript
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/Elemode451/lahacks-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M60_I4LMtPM)
 - **All prizes at this hackathon (1):** Figma Make Challenge
 - **Figma:** Sponsor use not stated on Devpost
@@ -1486,14 +1486,14 @@ Scrubs is an iPhone app that auto-redacts PHI — names, MRNs, faces — from he
 
 Turns iPhone LiDAR into dense depth maps on-device in real time.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
+[Code](https://github.com/ajayshahhhh/SPECTRA) · [Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, fastapi, gx10, html, javascript, python, pytorch, swift
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/ajayshahhhh/SPECTRA)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M_QiPFWFkys)
 - **All prizes at this hackathon (2):** Track: Flicker To Flow · Zetic Company Challenge
 - **How it used Zetic:** The project toggles between on-device Zetic and a remote GX10 server.

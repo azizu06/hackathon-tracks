@@ -57,7 +57,7 @@ BrailleAI gives DeafBlind people a voice. Type by touch to speak out loud, and f
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
+[Code](https://github.com/rabraham06/Doorway) · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 ### [Dots](https://devpost.com/software/dots-y5r21j)
 
@@ -227,7 +227,7 @@ An accessible carbon removal assessment platform for Enhanced Rock Weathering (E
 
 Making expungement simple and accessible for all.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+[Code](https://github.com/kar722/expungo) · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 
 ### [Gestura](https://devpost.com/software/gestura-9oaugq)
 
@@ -283,7 +283,7 @@ Text-to-speech is a near-essential tool for the legally blind; However, normal t
 
 Signify brings AI into the web accessibility space.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
+[Code](https://github.com/andyjphu/signify) · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
 ### [SoundSense](https://devpost.com/software/soundsense-jvz6yx)
 

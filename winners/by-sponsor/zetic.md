@@ -75,7 +75,7 @@ Turns iPhone LiDAR into dense depth maps on-device in real time.
 
 **How it used Zetic:** The project toggles between on-device Zetic and a remote GX10 server.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
+[Code](https://github.com/ajayshahhhh/SPECTRA) · [Demo video](https://www.youtube.com/watch?v=M_QiPFWFkys) · Built with css, fastapi, gx10, html
 
 ## Track names and requirements
 

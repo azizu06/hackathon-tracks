@@ -81,7 +81,7 @@ Leaf keeps AI usage sustainable, accurate, and fast by pairing powerful subagent
 
 The geoengineering operating system for climate renewal. Predict natural disasters, pick from a suite of rain/cloud seeding interventions, and prevent their destructive impacts.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
+[Code](https://github.com/Thaarak/morro) · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
 
 ### [Nemo](https://devpost.com/software/nemo-i69rus)
 
@@ -147,7 +147,7 @@ See your business’s footprint before you leave it. EcoSpirit finds the best ne
 
 CarbonSight is a carbon-aware optimization framework for generative AI:.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
+[Code](https://github.com/Irapathak/CarbonSight) · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
 
 ### [ChainReact](https://devpost.com/software/chainreact)
 
@@ -243,7 +243,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw
 
 Wildfires is a platform offering real-time wildfire updates with live data, interactive visuals, and an AI-powered chatbot for fire safety and prevention information.
 
-No public code found · Built with streamlit, altair, openai, pydeck
+[Code](https://github.com/calebyhan/hackduke25) · Built with streamlit, altair, openai, pydeck
 
 ## 2024 winners
 

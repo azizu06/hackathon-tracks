@@ -117,7 +117,7 @@ Signify brings AI into the web accessibility space.
 
 **How it used Amazon Web Services:** The team used AWS services for video storage in S3 and language processing with Bedrock.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
+[Code](https://github.com/andyjphu/signify) · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
 ### [TradeOff](https://devpost.com/software/tradeoff-c24mwv)
 
@@ -139,7 +139,7 @@ Building community among pro bono lawyers through an easy to use conversational 
 
 **How it used Amazon Web Services:** The team built its core chatbot on AWS Lex.
 
-No public code found · Built with amazon-web-services, amazon-lex, case.law, google-cloud
+[Code](https://github.com/danielavelez1201/hackmit) · Built with amazon-web-services, amazon-lex, case.law, google-cloud
 
 ### [Text2Test](https://devpost.com/software/text2test)
 

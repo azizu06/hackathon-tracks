@@ -35,7 +35,7 @@ It then ranks those overlaps by how much coordination is actually worth.
 
 **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
+[Code](https://github.com/DevanshiPande/SperryTechChallenge) · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
 
 ### [Mr.Gridy](https://devpost.com/software/mr-gridy)
 

@@ -49,7 +49,7 @@ A home assistant supports older adults with daily routines and keeps their famil
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
+[Code](https://github.com/aamoghS/fobo) · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
 ### [Northstar](https://devpost.com/software/northstar-7lcg45)
 
@@ -65,7 +65,7 @@ The light that guides you home.
 
 an ai teammate in your cursor.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, moss, accessibility-api, anthropic
+[Code](https://github.com/jayamitkatariya/okidoki-personal) · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with apify, moss, accessibility-api, anthropic
 
 ### [Shepherd](https://devpost.com/software/raising-cane)
 
@@ -217,7 +217,7 @@ An app where AI agents read every nearby store's Instagram, TikTok, and website 
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
+[Code](https://github.com/rabraham06/Doorway) · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 ### [Dronautics](https://devpost.com/software/dronautics)
 
@@ -305,7 +305,7 @@ Interlude is a companion for the whole care cycle: before, during, and after eve
 
 LifeLine is a disaster recovery platform that connects residents, responders, and organizations in real time.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
+[Code](https://github.com/DarthDexTroy/Good-Neighbor-Triage) · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
 ### [Lullabuy](https://devpost.com/software/lullabuy)
 
@@ -821,7 +821,7 @@ Your personal prescription and medical symptom tracking companion.
 
 What your heart and mind really have to say.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
+[Code](https://github.com/christopherabey/heartbeatreal) · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
 
 ### [CognitiveKeyboard](https://devpost.com/software/cognitivekeyboard)
 
@@ -1095,7 +1095,7 @@ A mobile app that pairs friends together for everyday activities such as eating 
 
 Pusheen + psychology research = healthier eating habits via mobile app.
 
-No public code found · Built with css, flask, javascript, monkeylearn
+[Code](https://github.com/katkaytee/pusheats) · Built with css, flask, javascript, monkeylearn
 
 ### [Pusheen Sell](https://devpost.com/software/pusheen-sell)
 

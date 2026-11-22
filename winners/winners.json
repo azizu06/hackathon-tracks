@@ -1339,8 +1339,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/fivi-yhack/fivi"
+    ],
+    "code_match_evidence": "The repository name matches Fivi and its README describes the same project. The GitHub contributor ecdhyn matches the Devpost team roster. The README names YHack Fall.",
     "demo_video_urls": [],
     "source_link_count_listed": 0,
     "demo_video_count_listed": 0,
@@ -1622,8 +1624,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/aamoghS/fobo"
+    ],
+    "code_match_evidence": "The repository is named Fobo and contains the schedule reader and body-energy assets corresponding to the Devpost calendar and energy tracking app. The Devpost team member’s profile links the GitHub owner account aamoghs.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=RWAbxd6hSjE"
     ],
@@ -1761,8 +1765,10 @@
     ],
     "required_tech": "Build an Adobe Express add-on this weekend for a chance to win a Wacom Wireless Drawing Tablet and JBL Go3 Speaker for you and each member of your team.",
     "requirement_source": "Devpost prize description",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/mravaloarison/GeneReel"
+    ],
+    "code_match_evidence": "The repository name identifies GeneReel, and its README describes the Adobe add-on and links the exact Devpost project. The README names YHack 2024. The README names YHack Fall. The README links the exact Devpost submission.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=dZgIqzT754Y"
     ],
@@ -2961,8 +2967,10 @@
     ],
     "required_tech": "AWS",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/andyjphu/signify"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner andyjphu matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=b_AvCD3fC-I"
     ],
@@ -3161,8 +3169,10 @@
     ],
     "required_tech": "AWS AI / ML Services",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/danielavelez1201/hackmit"
+    ],
+    "code_match_evidence": "The README names the same project. The Devpost team member’s profile links the GitHub owner account danielavelez1201. The README names HackMIT. The README links the exact Devpost submission.",
     "demo_video_urls": [],
     "source_link_count_listed": 0,
     "demo_video_count_listed": 0,
@@ -3753,8 +3763,10 @@
     ],
     "required_tech": "Claude",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/kach0w/cal-hacks-ai"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner kach0w matches the Devpost team roster. The README identifies the UC Berkeley AI Hackathon event.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=SIy97mAQ4YY"
     ],
@@ -4649,8 +4661,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/jayamitkatariya/okidoki-personal"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner jayamitkatariya matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=joNnooTosPs"
     ],
@@ -13192,8 +13206,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/AlvinA8686/HackUTD_2026"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner display name alvina8686 matches the Devpost team roster. The README names HackUTD.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=sJX_GgbqtNI"
     ],
@@ -14228,8 +14244,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/Sabalpp/HackPrinceton"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub account sabalpp uses the same full name as a Devpost team member. The README identifies the HackPrinceton Fall event.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=d90HW1Gm-HY"
     ],
@@ -14714,8 +14732,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/parthm667/clarify"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub account parthm667 uses the same full name as a Devpost team member. The README names Bitcamp.",
     "demo_video_urls": [],
     "source_link_count_listed": 0,
     "demo_video_count_listed": 0,
@@ -17180,8 +17200,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/YGao2005/loreIDE"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner ygao2005 matches the Devpost team roster. The README names LA Hacks.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=8-gmVsRSW2c"
     ],
@@ -19576,8 +19598,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/G-Samarth/AdSensei-CalHacks"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner g-samarth matches the Devpost team roster. The README names Cal Hacks 12.0.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=DBU3ta6-2BA"
     ],
@@ -20877,8 +20901,10 @@
     ],
     "required_tech": "Databricks",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/christopherabey/heartbeatreal"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The Devpost team member’s profile links the GitHub owner account christopherabey. The README names Hack the North.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=AEJ2ikDVvMo"
     ],
@@ -24393,8 +24419,10 @@
     ],
     "required_tech": "ElevenLabs",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/draggle/squawk"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner draggle matches the Devpost team roster. The README names Hack the North. The site linked from Devpost links the repository (https://squawk.fit).",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=kBiB2bNY1BI"
     ],
@@ -25277,8 +25305,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/rabraham06/Doorway"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub account rabraham06 uses the same full name as a Devpost team member. The README names Knight Hacks IX.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=zb3Xrg7Hfq4"
     ],
@@ -25940,8 +25970,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/IgnasPanavas/Covenant"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner ignaspanavas matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     ],
@@ -26550,8 +26582,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/Srinickethan/AGastIa"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner display name srinickethan matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=WyRockA-COA"
     ],
@@ -27226,8 +27260,10 @@
     ],
     "required_tech": "The Agentverse by Fetch AI",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/aldridge-fonseca/Ai-Hacks-Berkley"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner aldridge-fonseca matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=2rR3Mup_OXU"
     ],
@@ -30060,8 +30096,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/VincentShao32/DayGenie-v2"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner vincentshao32 matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=anM8nKAcNgM"
     ],
@@ -31208,8 +31246,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/aamoghS/fobo"
+    ],
+    "code_match_evidence": "The repository is named Fobo and contains the schedule reader and body-energy assets corresponding to the Devpost calendar and energy tracking app. The Devpost team member’s profile links the GitHub owner account aamoghs.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=RWAbxd6hSjE"
     ],
@@ -31758,8 +31798,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/Elemode451/lahacks-2026"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub contributor ivanratushnyy matches the Devpost team roster. The README identifies the LA Hacks event.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=M60_I4LMtPM"
     ],
@@ -33273,8 +33315,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/nessup/PiVision"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The Devpost team member’s profile links the GitHub owner account nessup.",
     "demo_video_urls": [],
     "source_link_count_listed": 0,
     "demo_video_count_listed": 0,
@@ -35162,8 +35206,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/mnettem21/DealPilot"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner mnettem21 matches the Devpost team roster. The README names HackUTD.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=RYIeD--Azeo"
     ],
@@ -37714,8 +37760,10 @@
     ],
     "required_tech": "Gemini API",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/Irapathak/CarbonSight"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner irapathak matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=b30umZp1RZU"
     ],
@@ -39396,12 +39444,12 @@
     "prize": "GPTZero: Best Use of GPTZero API",
     "prize_value": null,
     "description": "Snitch helps recruiters spot suspicious moments in remote interviews by combining behavioral signals, AI-language detection, CV checks, and visual canaries.",
-    "sponsor_integration": "Uses a GPTZero AI probability for text.",
-    "summary": "Snitch helps recruiters spot suspicious moments in remote interviews by combining behavioral signals, AI-language detection, CV checks, and visual canaries. Uses a GPTZero AI probability for text.",
+    "sponsor_integration": "Uses the AI probability returned by GPTZero for this text.",
+    "summary": "Snitch helps recruiters spot suspicious moments in remote interviews by combining behavioral signals, AI-language detection, CV checks, and visual canaries. Uses the AI probability returned by GPTZero for this text.",
     "summary_evidence": "GitHub source code",
     "use_source": "code",
-    "use_quote": "backend/src/interview_review/adapters/gptzero.py:27 raise RuntimeError(\"GPTZero returned no AI probability for this text\")",
-    "use_evidence_url": "https://github.com/amelialon/Snitch/blob/109b3bd4cdf89cc2544da5963489abc54fb3dc64/backend/src/interview_review/adapters/gptzero.py#L27",
+    "use_quote": "backend/src/interview_review/adapters/gptzero.py:24-27 probabilities = document.get(\"class_probabilities\") or {} score = probabilities.get(\"ai\", document.get(\"completely_generated_prob\")) if score is None: raise RuntimeError(\"GPTZero returned no AI probability for this text\")",
+    "use_evidence_url": "https://github.com/amelialon/Snitch/blob/109b3bd4cdf89cc2544da5963489abc54fb3dc64/backend/src/interview_review/adapters/gptzero.py#L24-L27",
     "sponsor_tech": [
       "gptzero"
     ],
@@ -39789,8 +39837,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/kesavanramakrishnan/power-lever"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub account kesavanramakrishnan uses the same full name as a Devpost team member. The README identifies the TreeHacks event.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=p0ruAH5erME"
     ],
@@ -43720,8 +43770,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/graykookie/CrunchHack"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner display name graykookie matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=FdCHXdTUIdM"
     ],
@@ -51342,8 +51394,10 @@
     ],
     "required_tech": "MongoDB Atlas",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/raptor1820/medease"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner raptor1820 matches the Devpost team roster. The README names HackGT 11.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=2s-sg1melAo",
       "https://www.youtube.com/watch?v=hruI3WncIf8"
@@ -51792,8 +51846,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/jayamitkatariya/okidoki-personal"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner jayamitkatariya matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=joNnooTosPs"
     ],
@@ -53293,8 +53349,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/IEXDevs/HACKTX26"
+    ],
+    "code_match_evidence": "The README names the same project. The README names HackTX. The README links the exact Devpost submission.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=Xa1DizYqCy0"
     ],
@@ -57427,8 +57485,10 @@
     ],
     "required_tech": "TokenRouter by PaleBlueDot AI",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/avagonick/Retention"
+    ],
+    "code_match_evidence": "The repository is named Retention and its README identifies the same educational-video project. The GitHub owner avagonick matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=AMhMTYLi8js"
     ],
@@ -57978,8 +58038,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/roberth188/music-for-all"
+    ],
+    "code_match_evidence": "The repository is named Music for All and the README identifies the same project. The Devpost team member’s profile links the GitHub owner account roberth188.",
     "demo_video_urls": [],
     "source_link_count_listed": 0,
     "demo_video_count_listed": 0,
@@ -59743,8 +59805,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/erickscodes/capsule"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner erickscodes matches the Devpost team roster.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=sh2B0vi0H2c"
     ],
@@ -61041,8 +61105,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/katkaytee/pusheats"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner katkaytee matches the Devpost team roster.",
     "demo_video_urls": [],
     "source_link_count_listed": 0,
     "demo_video_count_listed": 0,
@@ -61091,8 +61157,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/kar722/expungo"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub account kar722 uses the same full name as a Devpost team member. The README identifies the Cal Hacks 12.0 event.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=SS9HQw-BFXU"
     ],
@@ -62924,8 +62992,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/Tsanta743/red-flag-radar"
+    ],
+    "code_match_evidence": "The README names the same project. The README names HackHarvard.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=OY-HqXfXzR8"
     ],
@@ -63074,8 +63144,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/kzfsg/telekinesis"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The Devpost team member’s profile links the GitHub owner account kzfsg.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=mTHAhDZ4RGs"
     ],
@@ -63675,8 +63747,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/sheinapribadi-star/underfilled"
+    ],
+    "code_match_evidence": "The README names the same project. The README identifies the Cal Hacks 12.0 event. The README links the exact Devpost submission.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=cCJElQkixLE"
     ],
@@ -67236,8 +67310,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/amansahu205/KNIGHTHACKS-VIII-Morgan"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner amansahu205 matches the Devpost team roster. The README names Knight Hacks VIII.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=irFW-f8mvoE"
     ],
@@ -68790,8 +68866,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/rohilvagarwal/EYEdentity-CalHacks2024"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner rohilvagarwal matches the Devpost team roster. The README names Cal Hacks 11.0.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=iVBfLWnqzRc"
     ],
@@ -71982,8 +72060,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/adamFabsa/aegis"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub owner adamfabsa matches the Devpost team roster. The README names HackUTD.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=lORYwjN39mg"
     ],
@@ -72992,8 +73072,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/DevanshiPande/SperryTechChallenge"
+    ],
+    "code_match_evidence": "The README names the same project. The README identifies the ShellHacks event.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=ovVV4Ca8QVs"
     ],
@@ -73310,8 +73392,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/Thaarak/morro"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub account thaarak uses the same full name as a Devpost team member. The README names TreeHacks. The README links the exact Devpost submission.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=BBR3-OXCjtU"
     ],
@@ -73685,8 +73769,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/DarthDexTroy/Good-Neighbor-Triage"
+    ],
+    "code_match_evidence": "The README names the same project. The README identifies the HackUTD event.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=CMUDwhV0rCA"
     ],
@@ -74231,8 +74317,10 @@
     ],
     "required_tech": "Streamlit",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/calebyhan/hackduke25"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner calebyhan matches the Devpost team roster. The README names HackDuke Code for Good. The README links the exact Devpost submission.",
     "demo_video_urls": [],
     "source_link_count_listed": 0,
     "demo_video_count_listed": 0,
@@ -75263,8 +75351,10 @@
     ],
     "required_tech": "Symphonic Labs API",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/AngelaSYuan/unmute-backend"
+    ],
+    "code_match_evidence": "The repository is named Unmute Backend and includes the transcription endpoint for the Devpost app. The GitHub owner angelasyuan matches the Devpost team roster.",
     "demo_video_urls": [],
     "source_link_count_listed": 0,
     "demo_video_count_listed": 0,
@@ -75438,8 +75528,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/misingnoglic/Synaptics3DTheremin"
+    ],
+    "code_match_evidence": "The README names the same project. The GitHub owner misingnoglic matches the Devpost team roster. The README names HackMIT.",
     "demo_video_urls": [],
     "source_link_count_listed": 0,
     "demo_video_count_listed": 0,
@@ -81550,8 +81642,10 @@
     ],
     "required_tech": "Vultr",
     "requirement_source": "Track label",
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/DanielTong50/nexus"
+    ],
+    "code_match_evidence": "The repository name is Nexus. Its club-focused landing component and Slack, Notion and GitHub integrations match the Devpost project. The GitHub owner danieltong50 matches the Devpost team roster. The site linked from Devpost links the repository (https://nexusapp.tech).",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=TmAf5cKU6G4"
     ],
@@ -86759,8 +86853,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/paultrusov/GaitGuard"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub account paultrusov uses the same full name as a Devpost team member. The README names YHack Spring.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=VRsa9P1m8z0"
     ],
@@ -87110,8 +87206,10 @@
     ],
     "required_tech": null,
     "requirement_source": null,
-    "source_urls": [],
-    "code_match_evidence": null,
+    "source_urls": [
+      "https://github.com/ajayshahhhh/SPECTRA"
+    ],
+    "code_match_evidence": "The repository name identifies the same project. The GitHub account ajayshahhhh uses the same full name as a Devpost team member. The README identifies the LA Hacks event.",
     "demo_video_urls": [
       "https://www.youtube.com/watch?v=M_QiPFWFkys"
     ],

@@ -45,7 +45,7 @@ Turn real-estate data into explainable infrastructure risk insights and prioriti
 
 **Award:** Won “CBRE Track” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
+[Code](https://github.com/AlvinA8686/HackUTD_2026) · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
 ## 2025 winners
 

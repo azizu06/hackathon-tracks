@@ -755,14 +755,14 @@ Also won this track: [CivitasX](#project-dhdhtfgh) (listed above)
 
 Upload ads, get clear scores, one-line reasons, and precise fixes—then a ranked Top 10 by platform/audience in minutes. AdSensei helps designers iterate fast and marketers scale winners.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
+[Code](https://github.com/G-Samarth/AdSensei-CalHacks) · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** amazon-web-services, creaoai, lava, llm, node.js, render, s3
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/G-Samarth/AdSensei-CalHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DBU3ta6-2BA)
 - **All prizes at this hackathon (1):** Creao: Best MCP Integration
 - **How it used Creao:** The team used Creao.ai for the UI.
@@ -955,14 +955,14 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2o
 
 Put your money where your goals are. Complete your commitments to earn it back, or watch it go to a cause you really don’t want to fund.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
+[Code](https://github.com/IgnasPanavas/Covenant) · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** blockchain, ethereum, next.js, reka
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/IgnasPanavas/Covenant)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Honorable Mention
 - **How it used Ethereum Foundation:** The project deploys Solidity smart contracts on Ethereum testnet using Hardhat.
@@ -1626,14 +1626,14 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI
 
 Making expungement simple and accessible for all.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+[Code](https://github.com/kar722/expungo) · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** chromadb, fastapi, google-gemini-api, httpx, lang-chain, live-kit-sdk, next.js, open-ai-gpt-4-api, pydantic, python, tailwindcss, typescript
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/kar722/expungo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SS9HQw-BFXU)
 - **All prizes at this hackathon (2):** Cal Hacks: Greatest Social Impact · Promise: Public Impact Prize (sponsored by Promise)
 - **Award:** Won “Promise: Public Impact Prize (sponsored by Promise)” from Promise. The write-up gives no details on how the team used the sponsor’s tech.
@@ -1843,14 +1843,14 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=3lCcMqWGx2k
 
 40% of patients drop out of clinical trials before completion, and scheduling friction drives a large share of attrition.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
+[Code](https://github.com/sheinapribadi-star/underfilled) · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** creao, google-calendar-api, google-gmail-oauth, react, tailwindcss, typescript
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/sheinapribadi-star/underfilled)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cCJElQkixLE)
 - **All prizes at this hackathon (1):** Regeneron: Runner-Up
 - **Award:** Won “Regeneron: Runner-Up” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.

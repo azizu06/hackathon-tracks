@@ -25,7 +25,7 @@ Put your money where your goals are. Complete your commitments to earn it back, 
 
 **How it used Ethereum Foundation:** The project deploys Solidity smart contracts on Ethereum testnet using Hardhat.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
+[Code](https://github.com/IgnasPanavas/Covenant) · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
 
 ### [MedChain](https://devpost.com/software/medchain-s7dz60)
 

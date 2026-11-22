@@ -279,14 +279,14 @@ is a reverse-engineered hardware ledger for the Solana blockchain, with custom P
 
 Revolutionizing Digital Forensics through Novel Data Modeling.
 
-No public code found · Built with fastapi, next.js, react, typescript
+[Code](https://github.com/parthm667/clarify) · Built with fastapi, next.js, react, typescript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 5
 - **Built with:** fastapi, next.js, react, typescript
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/parthm667/clarify)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Digital Forensics Related Hack - Cipher Tech Solutions
 - **Award:** Won “Best Digital Forensics Related Hack - Cipher Tech Solutions” from Cipher Tech Solutions. The write-up gives no details on how the team used the sponsor’s tech.
@@ -431,14 +431,14 @@ Also won this track: [Terrametric](#project-terrametric) (listed above)
 
 The team built AGastIa because medical reports are often full of information but empty of clarity.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
+[Code](https://github.com/Srinickethan/AGastIa) · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** alembic, auth0, bio-clinicalbert, celery, fastapi, geminiapi, huggingfacetransformer, javascript, medgemma, medsam, paddleocr, postgresql, python, pytorch, react, redis, sqlalchemy, tailwindcss, typescript, vite
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/Srinickethan/AGastIa)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WyRockA-COA)
 - **All prizes at this hackathon (1):** Best Champion of Open Source w/ Featherless - Featherless
 - **Award:** Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless. The write-up gives no details on how the team used the sponsor’s tech.

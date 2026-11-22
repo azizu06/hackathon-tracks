@@ -423,14 +423,14 @@ Also won this track: [excus.us](#project-excus-us) (listed above)
 
 What your heart and mind really have to say.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
+[Code](https://github.com/christopherabey/heartbeatreal) · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** amazon-web-services, databricks, fastapi, groq, python, react, react-native, render, swift, typescript
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/christopherabey/heartbeatreal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AEJ2ikDVvMo)
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
 - **How it used Databricks:** The project stores its data in a Databricks managed table.
@@ -817,14 +817,14 @@ Spy on your enemies (or your friends) by reading their lips through a live drone
 
 Unmute is designed for those private moments during video calls when you can't speak out loud, yet still want to fully participate in the conversation.
 
-No public code found · Built with figma, flask, react, symphonic
+[Code](https://github.com/AngelaSYuan/unmute-backend) · Built with figma, flask, react, symphonic
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** figma, flask, react, symphonic, typescript, vite
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/AngelaSYuan/unmute-backend)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Symphonic Labs: Best use of Symphonic Labs API
 - **How it used Symphonic Labs:** The team used Symphonic’s API to transcribe visual cues.

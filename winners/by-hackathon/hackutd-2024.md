@@ -369,14 +369,14 @@ InvestIQ simplifies investing for everyone, offering real-time insights, educati
 
 Capsule, allows you to upload data into a "capsule" and retrieve it very quickly via URL, NFC, or QR Codes.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
+[Code](https://github.com/erickscodes/capsule) · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** nextjs, pinata, shadcn, tailwind
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/erickscodes/capsule)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sh2B0vi0H2c)
 - **All prizes at this hackathon (1):** Pinata
 - **How it used Pinata:** The team used Pinata to group files by adding metadata to each file.

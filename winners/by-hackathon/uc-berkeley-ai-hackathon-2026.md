@@ -156,14 +156,14 @@ Fire truck crash? Radio too slow.
 
 A civic reporting tool flags street hazards in images and pairs them with city records and potential fixes.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
+[Code](https://github.com/kach0w/cal-hacks-ai) · [Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** browserbase, fastapi, fetch.ai, gemini-imagen-4, mapbox, react, redis, typescript, uagents
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/kach0w/cal-hacks-ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SIy97mAQ4YY)
 - **All prizes at this hackathon (1):** Best Use of Claude
 - **How it used Anthropic:** Claude Haiku runs the two-stage vision pipeline.
@@ -610,14 +610,14 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=aVl0IdfeYtE
 
 Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, allocates units, manages payment, and proves delivery through SLA.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
+[Code](https://github.com/aldridge-fonseca/Ai-Hacks-Berkley) · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** aevs, agentverse, asi:one, fetch.ai, mcp, mongodb-atlas, pydantic-ai, python, react, stripe, typescript, uagents, ucp, vite
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/aldridge-fonseca/Ai-Hacks-Berkley)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2rR3Mup_OXU)
 - **All prizes at this hackathon (1):** Best Use of The Agentverse by Fetch AI
 - **How it used Fetch.ai:** Hospital staff communicate in plain English using ASI:One and the uAgents Chat Protocol.
@@ -714,14 +714,14 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLafw
 
 Retention uses Meta's brain-simulation model to optimize educational videos for students of all ages, automatically editing clips and maximizing retention with a multi-agent generator/evaluator loop.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
+[Code](https://github.com/avagonick/Retention) · [Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claude, deepgram, lightningai, microsoft-band, pika, python, react, tokenrouter
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/avagonick/Retention)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AMhMTYLi8js)
 - **All prizes at this hackathon (1):** Best Use of TokenRouter by PaleBlueDot AI
 - **How it used PaleBlueDot AI:** The team uses TokenRouter to call Claude to summarize the outputs from three LLMs.

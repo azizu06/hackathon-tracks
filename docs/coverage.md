@@ -532,12 +532,12 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 
 **1,023 shown** (964 full, 59 tech listings) · **25 inferred** · **516 award-only** · 123 not stated · 10 linked resource only
 
-908 cards with sourced use · 24 with inferred notes · 64 with listed tech or links only · 557 award-only or unstated · 1,216 with public code links
+908 cards with sourced use · 24 with inferred notes · 64 with listed tech or links only · 557 award-only or unstated · 1,263 with public code links
 
 - Built With tags are available for 1,536 of 1,553 project editions.
 - Team counts are available for 1,553 project editions.
 - Summary evidence by award row: Devpost project write-up (851), Devpost prize title (516), Integration detail unavailable (123), GitHub source code (59), Devpost Built With (44), GitHub README (42).
-- Source code links verified HTTP 200 for 1264 of 1394 unique recognized links.
+- Source code links verified HTTP 200 for 1311 of 1441 unique recognized links.
 - The 60 editions use 34 display names. The Markdown hackathon index groups them into 23 event series.
 - Demo video links verified HTTP 200 for 1251 of 1251 unique recognized links.
 - The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.
@@ -549,4 +549,4 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 - University labs, foundations and student organizations stay as sponsors where the official award text credits them, for example Penn Labs for the PennApps Best Beginner Hack prize.
 
 - Demo link check results by status: 200 (1251).
-- Source link check results by status: 200 (1112), redirect landed on HTTP 200 (152), 404 (123), 302 (7).
+- Source link check results by status: 200 (1159), redirect landed on HTTP 200 (152), 404 (123), 302 (7).

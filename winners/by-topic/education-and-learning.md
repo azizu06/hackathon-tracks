@@ -81,7 +81,7 @@ NeuroBlocks is a visual, drag-and-drop educational platform for building and und
 
 A planning app connects student clubs' communication, spreadsheets, and code tools in one workspace.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
+[Code](https://github.com/DanielTong50/nexus) · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
 ### [Retention](https://devpost.com/software/retention)
 
@@ -89,7 +89,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4
 
 Retention uses Meta's brain-simulation model to optimize educational videos for students of all ages, automatically editing clips and maximizing retention with a multi-agent generator/evaluator loop.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
+[Code](https://github.com/avagonick/Retention) · [Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
 
 ### [scalpal.](https://devpost.com/software/scalpal)
 

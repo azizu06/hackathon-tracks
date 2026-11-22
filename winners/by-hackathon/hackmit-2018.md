@@ -583,14 +583,14 @@ No public code found · Built with ik, steamvr, unity, vive
 
 The team made a cardboard piano that uses computer vision to detect and play piano sounds.
 
-No public code found · Built with opencv, python
+[Code](https://github.com/roberth188/music-for-all) · Built with opencv, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** opencv, python
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/roberth188/music-for-all)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best "Impossible" Hack
 - **Award:** Won “Best "Impossible" Hack” from Pear VC. The write-up gives no details on how the team used the sponsor’s tech.

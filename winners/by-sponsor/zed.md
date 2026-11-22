@@ -35,7 +35,7 @@ GaitGuard is a wearable sensor system that measures a patient's gait against a p
 
 **Zed · Listed on Devpost:** Built with zed (listed on Devpost)
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
+[Code](https://github.com/paultrusov/GaitGuard) · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
 
 ### [Leaf - A Modern, Sustainable LLM Interface](https://devpost.com/software/leaf-10tjin)
 

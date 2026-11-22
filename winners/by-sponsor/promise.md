@@ -25,7 +25,7 @@ Making expungement simple and accessible for all.
 
 **Award:** Won “Promise: Public Impact Prize (sponsored by Promise)” from Promise. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
+[Code](https://github.com/kar722/expungo) · [Demo video](https://www.youtube.com/watch?v=SS9HQw-BFXU) · Built with chromadb, fastapi, google-gemini-api, httpx
 
 ## Track names and requirements
 

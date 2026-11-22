@@ -25,7 +25,7 @@ Capsule, allows you to upload data into a "capsule" and retrieve it very quickly
 
 **How it used Pinata:** The team used Pinata to group files by adding metadata to each file.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
+[Code](https://github.com/erickscodes/capsule) · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2c) · Built with pinata, nextjs, shadcn, tailwind
 
 ### [Cheddarboxd](https://devpost.com/software/cheddarboxd)
 

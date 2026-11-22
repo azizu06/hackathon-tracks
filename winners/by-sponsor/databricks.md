@@ -89,7 +89,7 @@ What your heart and mind really have to say.
 
 **How it used Databricks:** The project stores its data in a Databricks managed table.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
+[Code](https://github.com/christopherabey/heartbeatreal) · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
 
 ### [citewise](https://devpost.com/software/citewise)
 

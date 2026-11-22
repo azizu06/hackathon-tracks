@@ -436,14 +436,14 @@ Let's introduce you to your new friend, Databae.
 
 A travel planner suggests destinations and builds itineraries from user preferences.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=anM8nKAcNgM) · Built with css, google-calendar, google-maps, javascript
+[Code](https://github.com/VincentShao32/DayGenie-v2) · [Demo video](https://www.youtube.com/watch?v=anM8nKAcNgM) · Built with css, google-calendar, google-maps, javascript
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, google-calendar, google-maps, javascript, large-language-model, natural-language-processing, python, reddit
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/VincentShao32/DayGenie-v2)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=anM8nKAcNgM)
 - **All prizes at this hackathon (1):** Fetch.ai: Agentic Track Prize
 - **How it used Fetch.ai:** The team used Fetch AI to facilitate conversations and communication between its agents.
@@ -1073,14 +1073,14 @@ Also won this track: [RecovARy](#project-recovary) (listed above)
 
 Welcome to the JARVIS for first responders.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
+[Code](https://github.com/rohilvagarwal/EYEdentity-CalHacks2024) · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** face-recognition, flask, javascript, lens-studio, pil, python, snapchat, spectacles, typescript
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/rohilvagarwal/EYEdentity-CalHacks2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iVBfLWnqzRc)
 - **All prizes at this hackathon (1):** Snap: Dream it. Build it.
 - **How it used Snap:** The team built EYEdentity with facial recognition and tracking algorithms and Snap Spectacles.

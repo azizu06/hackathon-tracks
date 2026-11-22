@@ -25,7 +25,7 @@ The team built AGastIa because medical reports are often full of information but
 
 **Award:** Won “Best Champion of Open Source w/ Featherless - Featherless” from Featherless. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
+[Code](https://github.com/Srinickethan/AGastIa) · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
 
 ### [Nara - Autonomous Red Teaming Agent](https://devpost.com/software/nara-autonomous-red-teaming-agent)
 

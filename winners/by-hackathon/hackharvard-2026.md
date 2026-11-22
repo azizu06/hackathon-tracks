@@ -422,14 +422,14 @@ Clinical trials are complex, and mistakes can delay new treatments and cost mill
 
 Find sanctioned investigators, not their namesakes.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
+[Code](https://github.com/Tsanta743/red-flag-radar) · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** cloudflare, docker, fastapi, google-cloud, javascript, lightgbm, matplotlib, metaphone, nginx, pandas, pydantic, pytest, python, rapidfuzz, react, recharts, reportlab, scikit-learn, shap, sqlalchemy, sqlite, tailwindcss, vite
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/Tsanta743/red-flag-radar)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OY-HqXfXzR8)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.
@@ -491,14 +491,14 @@ StreamCare is an all-in-one longitudinal research tool that allows study partici
 
 Gamified clinical trials with computer vision.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
+[Code](https://github.com/kzfsg/telekinesis) · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 2
 - **Built with:** computervision, react
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/kzfsg/telekinesis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mTHAhDZ4RGs)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
 - **Award:** Won “Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development” from Regeneron. The write-up gives no details on how the team used the sponsor’s tech.

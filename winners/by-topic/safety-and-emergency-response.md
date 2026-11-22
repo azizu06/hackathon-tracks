@@ -97,7 +97,7 @@ Turn an emergency call into an indoor rescue map. With CoStar’s 3D building da
 
 LifeLine is a disaster recovery platform that connects residents, responders, and organizations in real time.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
+[Code](https://github.com/DarthDexTroy/Good-Neighbor-Triage) · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA) · Built with photon, react-native, spacetime, typescript
 
 ### [Morro](https://devpost.com/software/morro)
 
@@ -105,7 +105,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=CMUDwhV0rCA
 
 The geoengineering operating system for climate renewal. Predict natural disasters, pick from a suite of rain/cloud seeding interventions, and prevent their destructive impacts.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
+[Code](https://github.com/Thaarak/morro) · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
 
 ### [NightFall](https://devpost.com/software/nightfall)
 
@@ -269,7 +269,7 @@ Creating an aware and safer world by identifying emergencies which can improve m
 
 Welcome to the JARVIS for first responders.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
+[Code](https://github.com/rohilvagarwal/EYEdentity-CalHacks2024) · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
 
 ### [FRED](https://devpost.com/software/fred-bpszwn)
 

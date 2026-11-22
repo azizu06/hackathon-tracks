@@ -43,14 +43,14 @@ Pick a track to jump to its winners on this page.
 
 Signify brings AI into the web accessibility space.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
+[Code](https://github.com/andyjphu/signify) · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** amazon-bedrock, amazon-ec2, amazon-media-convert, amazon-transcribe, amazon-web-services, dynamodb, lambda, natural-language-processing, nextjs, node.js, python, react
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/andyjphu/signify)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=b_AvCD3fC-I)
 - **All prizes at this hackathon (1):** Best Use of AWS
 - **How it used Amazon Web Services:** The team used AWS services for video storage in S3 and language processing with Bedrock.

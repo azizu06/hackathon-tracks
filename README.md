@@ -4,7 +4,7 @@ Past hackathon winners, organized by the sponsor prize they won, so you can see 
 
 <!-- BEGIN card coverage -->
 
-908 cards with sourced use · 24 with inferred notes · 64 with listed tech or links only · 557 award-only or unstated · 1,216 with public code links
+908 cards with sourced use · 24 with inferred notes · 64 with listed tech or links only · 557 award-only or unstated · 1,263 with public code links
 
 <!-- END card coverage -->
 

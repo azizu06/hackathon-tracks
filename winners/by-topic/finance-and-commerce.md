@@ -57,7 +57,7 @@ Independent Agentic AI oversight that tracks every dollar from owner to manageme
 
 Once you describe a job, Astronom builds a budgeted, permission-checked AI agent team, red-teams it, and fixes what breaks, with approval at every step, using its multi-agent swarm technology.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
+[Code](https://github.com/IEXDevs/HACKTX26) · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
 
 ### [Backrooms](https://devpost.com/software/backrooms-h4o783)
 
@@ -217,7 +217,7 @@ JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives e
 
 Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, allocates units, manages payment, and proves delivery through SLA.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
+[Code](https://github.com/aldridge-fonseca/Ai-Hacks-Berkley) · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
 
 ### [Lullabuy](https://devpost.com/software/lullabuy)
 
@@ -297,7 +297,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=OPOzUj3IXuM
 
 Find sanctioned investigators, not their namesakes.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
+[Code](https://github.com/Tsanta743/red-flag-radar) · [Demo video](https://www.youtube.com/watch?v=OY-HqXfXzR8) · Built with cloudflare, docker, fastapi, google-cloud
 
 ### [Red Ledger](https://devpost.com/software/red-ledger)
 
@@ -329,7 +329,7 @@ An AI-powered disaster response command center that identifies urgent needs, inv
 
 Turn real-estate data into explainable infrastructure risk insights and prioritized investigations.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
+[Code](https://github.com/AlvinA8686/HackUTD_2026) · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtNI) · Built with html, javascript, python
 
 ### [Settlr](https://devpost.com/software/settlr-s4gr9y)
 

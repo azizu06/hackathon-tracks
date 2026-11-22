@@ -689,14 +689,14 @@ A mobile app that pairs friends together for everyday activities such as eating 
 
 Pusheen + psychology research = healthier eating habits via mobile app.
 
-No public code found · Built with css, flask, javascript, monkeylearn
+[Code](https://github.com/katkaytee/pusheats) · Built with css, flask, javascript, monkeylearn
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, flask, javascript, monkeylearn, nativescript
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/katkaytee/pusheats)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best NativeScript App (Progress)
 - **How it used Progress:** The project uses the Telerik platform to deploy the app for prototyping.

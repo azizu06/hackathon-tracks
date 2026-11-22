@@ -196,14 +196,14 @@ A mixture of agents expert running on cutting edge inference hardware, that in p
 
 CarbonSight is a carbon-aware optimization framework for generative AI:.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
+[Code](https://github.com/Irapathak/CarbonSight) · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adk, fastapi, gemini, node.js, polygon, python, react, supabase
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/Irapathak/CarbonSight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=b30umZp1RZU)
 - **All prizes at this hackathon (1):** MLH - Best use of Gemini API
 - **How it used Google:** The project uses Gemini embeddings to detect similar prompts and avoid redundant compute.

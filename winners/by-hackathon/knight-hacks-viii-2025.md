@@ -640,14 +640,14 @@ ServiceLater turns ServiceNow feedback into accelerator roadmaps, using AI to sp
 
 Synapse isn’t another assistant — it’s the nervous system of AI itself, where specialized agents think together to power the next era of intelligent collaboration.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=irFW-f8mvoE)
+[Code](https://github.com/amansahu205/KNIGHTHACKS-VIII-Morgan) · [Demo video](https://www.youtube.com/watch?v=irFW-f8mvoE)
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** No tags listed
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/amansahu205/KNIGHTHACKS-VIII-Morgan)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=irFW-f8mvoE)
 - **All prizes at this hackathon (1):** ServiceNow: Knowledge Gap Request Agent Challenge
 - **ServiceNow:** Sponsor use not stated on Devpost

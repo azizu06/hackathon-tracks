@@ -617,14 +617,14 @@ Raw watts or joules-per-token misses the carbon picture entirely.
 
 GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
+[Code](https://github.com/paultrusov/GaitGuard) · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** claude, python, qnx, raspberry-pi, zed
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/paultrusov/GaitGuard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VRsa9P1m8z0)
 - **All prizes at this hackathon (2):** Built With Zed · Third Place Overall
 - **Zed · Listed on Devpost:** Built with zed (listed on Devpost)

@@ -67,7 +67,7 @@ Fivi is a AI Personal Trainer that breaks down traditional barriers to fitness. 
 
 **Award:** Won “ActualFood Award” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · Built with flask, javascript, numpy, opencv
+[Code](https://github.com/fivi-yhack/fivi) · Built with flask, javascript, numpy, opencv
 
 ### [Futon](https://devpost.com/software/futon)
 

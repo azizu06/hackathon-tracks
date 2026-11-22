@@ -277,7 +277,7 @@ CarbonSight is a carbon-aware optimization framework for generative AI:.
 
 **How it used Google:** The project uses Gemini embeddings to detect similar prompts and avoid redundant compute.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
+[Code](https://github.com/Irapathak/CarbonSight) · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
 
 ### [Cena Can See](https://devpost.com/software/cena-can-see)
 

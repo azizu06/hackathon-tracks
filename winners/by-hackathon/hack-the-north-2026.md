@@ -658,14 +658,14 @@ PawTrace is a missing-pet search platform that combines community sightings and 
 
 An AI copilot for air traffic controllers. It plans conflict-free routes, listens to the radio with a model tuned on real ATC audio, and catches wrong pilot readbacks before they become incidents.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
+[Code](https://github.com/draggle/squawk) · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** baseten, deck.gl, elasticsearch, elevenlabs, fastapi, huggingface, kibana, maplibre, nextjs, numpy, pydantic, python, pytorch, react, roberta, typescript, websockets, whisper
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/draggle/squawk)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kBiB2bNY1BI)
 - **All prizes at this hackathon (1):** MLH: Best Use of ElevenLabs
 - **How it used ElevenLabs:** The project uses ElevenLabs voices through a narrow-band radio filter for its AI pilots.
@@ -828,7 +828,7 @@ Snitch helps recruiters spot suspicious moments in remote interviews by combinin
 - **Code:** [Source 1](https://github.com/amelialon/Snitch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Yi8CKzDzxrU)
 - **All prizes at this hackathon (1):** GPTZero: Best Use of GPTZero API
-- **How it used GPTZero:** Uses a GPTZero AI probability for text.
+- **How it used GPTZero:** Uses the AI probability returned by GPTZero for this text.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

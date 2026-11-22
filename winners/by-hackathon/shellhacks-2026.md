@@ -364,14 +364,14 @@ benchlog brings version control to hardware.
 
 Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern" with scope locking, visual system topology, and sprint tracking to take teams from zero to a live Devpost demo.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
+[Code](https://github.com/graykookie/CrunchHack) · [Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 1
 - **Built with:** css3, git, github, html5, javascript, lucide-react, react, tailwindcss, vercel, vite
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/graykookie/CrunchHack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FdCHXdTUIdM)
 - **All prizes at this hackathon (1):** INIT National
 - **Award:** Won “INIT National” from INIT National. The write-up gives no details on how the team used the sponsor’s tech.
@@ -568,14 +568,14 @@ The cross-utility intelligence platform that aggressively optimizes overlapping 
 
 It then ranks those overlaps by how much coordination is actually worth.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
+[Code](https://github.com/DevanshiPande/SperryTechChallenge) · [Demo video](https://www.youtube.com/watch?v=ovVV4Ca8QVs) · Built with css, fastapi, gemini, google-maps
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** css, fastapi, gemini, google-maps, html, javascript, mongodb-atlas, openstreetmap, pandas, pdf.js, pyproj, python, render, scikit-learn, shapely
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/DevanshiPande/SperryTechChallenge)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ovVV4Ca8QVs)
 - **All prizes at this hackathon (1):** Sperry Tech
 - **Award:** Won “Sperry Tech” from Sperry Tech. The write-up gives no details on how the team used the sponsor’s tech.

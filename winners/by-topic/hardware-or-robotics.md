@@ -361,7 +361,7 @@ Because a fall shouldn’t go unnoticed — real-time monitoring for safer indep
 
 GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
+[Code](https://github.com/paultrusov/GaitGuard) · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
 
 ### [GeonosisAI](https://devpost.com/software/robofactory)
 

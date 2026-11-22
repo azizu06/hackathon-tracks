@@ -81,7 +81,7 @@ Zero-trust autonomous triage for networked medical hardware. Localized frontier 
 
 The team built AGastIa because medical reports are often full of information but empty of clarity.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
+[Code](https://github.com/Srinickethan/AGastIa) · [Demo video](https://www.youtube.com/watch?v=WyRockA-COA) · Built with alembic, auth0, bio-clinicalbert, celery
 
 ### [Amyna](https://devpost.com/software/billdozer)
 
@@ -201,7 +201,7 @@ Fetch Health is a hospital-staff-facing donor and recipient intake and matching 
 
 GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
+[Code](https://github.com/paultrusov/GaitGuard) · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
 
 ### [GoTrail](https://devpost.com/software/gotrail)
 
@@ -257,7 +257,7 @@ Interlude is a companion for the whole care cycle: before, during, and after eve
 
 Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood centers, allocates units, manages payment, and proves delivery through SLA.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
+[Code](https://github.com/aldridge-fonseca/Ai-Hacks-Berkley) · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
 
 ### [MAVN](https://devpost.com/software/mavn)
 
@@ -393,7 +393,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=A9tN4Z6MoyE
 
 Gamified clinical trials with computer vision.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
+[Code](https://github.com/kzfsg/telekinesis) · [Demo video](https://www.youtube.com/watch?v=mTHAhDZ4RGs) · Built with computervision, react
 
 ### [Tendly](https://devpost.com/software/tendly-smolpq)
 
@@ -675,7 +675,7 @@ Less paperwork, more patient care: the AI therapist's assistant.
 
 40% of patients drop out of clinical trials before completion, and scheduling friction drives a large share of attrition.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
+[Code](https://github.com/sheinapribadi-star/underfilled) · [Demo video](https://www.youtube.com/watch?v=cCJElQkixLE) · Built with creao, google-calendar-api, google-gmail-oauth, react
 
 ### [TrialGuideAI](https://devpost.com/software/trialguideai)
 

@@ -25,7 +25,7 @@ Once you describe a job, Astronom builds a budgeted, permission-checked AI agent
 
 **Award:** Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
+[Code](https://github.com/IEXDevs/HACKTX26) · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
 
 ### [DC Router](https://devpost.com/software/nemo-an40kd)
 

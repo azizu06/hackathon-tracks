@@ -189,7 +189,7 @@ Welcome to the JARVIS for first responders.
 
 **How it used Snap:** The team built EYEdentity with facial recognition and tracking algorithms and Snap Spectacles.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
+[Code](https://github.com/rohilvagarwal/EYEdentity-CalHacks2024) · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
 
 ### [FirefightAR](https://devpost.com/software/firefightar)
 

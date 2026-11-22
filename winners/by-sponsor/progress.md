@@ -35,7 +35,7 @@ Pusheen + psychology research = healthier eating habits via mobile app.
 
 **How it used Progress:** The project uses the Telerik platform to deploy the app for prototyping.
 
-No public code found · Built with css, flask, javascript, monkeylearn
+[Code](https://github.com/katkaytee/pusheats) · Built with css, flask, javascript, monkeylearn
 
 ## Track names and requirements
 

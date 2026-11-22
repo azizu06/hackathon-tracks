@@ -35,7 +35,7 @@ Crunch is a hackathon mission-control app pairing squad discovery in "The Tavern
 
 **Award:** Won “INIT National” from INIT National. The write-up gives no details on how the team used the sponsor’s tech.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
+[Code](https://github.com/graykookie/CrunchHack) · [Demo video](https://www.youtube.com/watch?v=FdCHXdTUIdM) · Built with css3, git, github, html5
 
 ## Track names and requirements
 

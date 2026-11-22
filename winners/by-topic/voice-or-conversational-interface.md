@@ -153,7 +153,7 @@ No public code found · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I
 
 A mobile accessibility tool uses walls and room signs to place an indoor AR route without an internet connection.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
+[Code](https://github.com/rabraham06/Doorway) · [Demo video](https://www.youtube.com/watch?v=zb3Xrg7Hfq4) · Built with android, android-speech-recognizer, android-text-to-speech, ar-foundation
 
 ### [Drigil](https://devpost.com/software/drigil)
 
@@ -627,7 +627,7 @@ WiiWork is a voice-controlled website designed for people and AI agents to use.
 
 Wildfires is a platform offering real-time wildfire updates with live data, interactive visuals, and an AI-powered chatbot for fire safety and prevention information.
 
-No public code found · Built with streamlit, altair, openai, pydeck
+[Code](https://github.com/calebyhan/hackduke25) · Built with streamlit, altair, openai, pydeck
 
 ## 2024 winners
 
@@ -669,7 +669,7 @@ ConvSim is not just another chatbot or simulation tool – it's a window into a 
 
 Fivi is a AI Personal Trainer that breaks down traditional barriers to fitness. The intuitive UI and voice based command system will lead to more people than ever engaging in healthy home exercise.
 
-No public code found · Built with flask, javascript, numpy, opencv
+[Code](https://github.com/fivi-yhack/fivi) · Built with flask, javascript, numpy, opencv
 
 ### [FRED](https://devpost.com/software/fred-bpszwn)
 

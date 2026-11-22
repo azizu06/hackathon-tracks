@@ -705,14 +705,14 @@ Edamame creates AI clones of every employee by ingesting their Slack messages, G
 
 The team introduce three core technical contributions:.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
+[Code](https://github.com/kesavanramakrishnan/power-lever) · [Demo video](https://www.youtube.com/watch?v=p0ruAH5erME) · Built with claude, fastapi, modal, node.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** claude, fastapi, modal, node.js, openai, vercel, vllm
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/kesavanramakrishnan/power-lever)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p0ruAH5erME)
 - **All prizes at this hackathon (1):** &#91;Greylock&#93; Best multi-turn agent
 - **Award:** Won “&#91;Greylock&#93; Best multi-turn agent” from Greylock. The write-up gives no details on how the team used the sponsor’s tech.
@@ -1288,14 +1288,14 @@ GridVeda gives powerline operators predictive failure detection at edge. Ensembl
 
 The geoengineering operating system for climate renewal. Predict natural disasters, pick from a suite of rain/cloud seeding interventions, and prevent their destructive impacts.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
+[Code](https://github.com/Thaarak/morro) · [Demo video](https://www.youtube.com/watch?v=BBR3-OXCjtU) · Built with chatgpt, claude-code, earth2studio, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** chatgpt, claude-code, earth2studio, gemini, graphcast, matplotlib, pandas, python, random-forest-classifier, v0, vercel, warp, xarray, zarr
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/Thaarak/morro)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BBR3-OXCjtU)
 - **All prizes at this hackathon (1):** &#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability
 - **Award:** Won “&#91;Stanford Ecopreneurship&#93; Sustainability: Best incorporation of broader context (e.g. regulatory, competitive landscape) to improve venture viability” from Stanford Ecopreneurship. The write-up gives no details on how the team used the sponsor’s tech.

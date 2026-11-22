@@ -255,7 +255,7 @@ Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents fi
 
 **How it used Fetch.ai:** Hospital staff communicate in plain English using ASI:One and the uAgents Chat Protocol.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
+[Code](https://github.com/aldridge-fonseca/Ai-Hacks-Berkley) · [Demo video](https://www.youtube.com/watch?v=2rR3Mup_OXU) · Built with agentverse, asi:one, fetch.ai, uagents
 
 ### [Mark8 - Go-To-Market World Model](https://devpost.com/software/mark8-go-to-market-world-model)
 
@@ -609,7 +609,7 @@ A travel planner suggests destinations and builds itineraries from user preferen
 
 **How it used Fetch.ai:** The team used Fetch AI to facilitate conversations and communication between its agents.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=anM8nKAcNgM) · Built with css, google-calendar, google-maps, javascript
+[Code](https://github.com/VincentShao32/DayGenie-v2) · [Demo video](https://www.youtube.com/watch?v=anM8nKAcNgM) · Built with css, google-calendar, google-maps, javascript
 
 ### [INFERmary](https://devpost.com/software/infermary)
 

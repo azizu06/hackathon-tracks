@@ -67,14 +67,14 @@ Your AI learning assistant. Input topic, level, and duration for a tailored cour
 
 Fivi is a AI Personal Trainer that breaks down traditional barriers to fitness. The intuitive UI and voice based command system will lead to more people than ever engaging in healthy home exercise.
 
-No public code found · Built with flask, javascript, numpy, opencv
+[Code](https://github.com/fivi-yhack/fivi) · Built with flask, javascript, numpy, opencv
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 3
 - **Built with:** flask, javascript, numpy, opencv, python, react, vosk
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/fivi-yhack/fivi)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** ActualFood Award · Health Track
 - **Award:** Won “ActualFood Award” from Actual Food. The write-up gives no details on how the team used the sponsor’s tech.
@@ -94,14 +94,14 @@ No public code found · Built with flask, javascript, numpy, opencv
 
 An Adobe add-on that generates a Reel/Short video from prompt.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
+[Code](https://github.com/mravaloarison/GeneReel) · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** adobe-ad-on, ai, cloudflare, flask, gemini, javascript, tts
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/mravaloarison/GeneReel)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dZgIqzT754Y)
 - **All prizes at this hackathon (1):** Most Creative Adobe Express Add-On
 - **How it used Adobe:** The team built an Adobe Express add-on to help users make educational or awareness reels.

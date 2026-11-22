@@ -230,14 +230,14 @@ A quiet voice in your ear that remembers the people you love.
 
 Once you describe a job, Astronom builds a budgeted, permission-checked AI agent team, red-teams it, and fixes what breaks, with approval at every step, using its multi-agent swarm technology.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
+[Code](https://github.com/IEXDevs/HACKTX26) · [Demo video](https://www.youtube.com/watch?v=Xa1DizYqCy0) · Built with composio, drizzle-orm, meta-muse-spark-1.3, muse
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** composio, drizzle-orm, meta-muse-spark-1.3, muse, next.js, react, serpapi, sqlite, supabase, tailwind-css, typescript
-- **Code:** No public code found
+- **Code:** [Source 1](https://github.com/IEXDevs/HACKTX26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Xa1DizYqCy0)
 - **All prizes at this hackathon (1):** &#91;NMC2&#93; Build the Platform Behind the Agent
 - **Award:** Won “&#91;NMC2&#93; Build the Platform Behind the Agent” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.

@@ -57,7 +57,7 @@ Upload ads, get clear scores, one-line reasons, and precise fixes—then a ranke
 
 **How it used Creao:** The team used Creao.ai for the UI.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
+[Code](https://github.com/G-Samarth/AdSensei-CalHacks) · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
 
 ### [AI-Powered Food Bank Management System](https://devpost.com/software/foodbank-automation)
 

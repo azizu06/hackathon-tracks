@@ -55,7 +55,7 @@ A civic reporting tool flags street hazards in images and pairs them with city r
 
 **How it used Anthropic:** Claude Haiku runs the two-stage vision pipeline.
 
-No public code found · [Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
+[Code](https://github.com/kach0w/cal-hacks-ai) · [Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
 
 ### [Standard Response](https://devpost.com/software/standard-response)
 
