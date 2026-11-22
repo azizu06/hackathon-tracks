@@ -184,6 +184,8 @@ function showSponsorDirectory() {
   order.append(select);
   const letters = element("nav", "", "letters");
   letters.setAttribute("aria-label", "Jump to a letter");
+  const track = element("div", "", "letters-track");
+  letters.append(track);
   const listing = element("div", "", "directory");
   const empty = element("p", "No sponsors match that search.", "empty");
   empty.hidden = true;
@@ -196,7 +198,7 @@ function showSponsorDirectory() {
 
   function draw() {
     listing.replaceChildren();
-    letters.replaceChildren();
+    track.replaceChildren();
     const matches = sponsors.filter(({ label }) => normalize(label).includes(query));
     empty.hidden = matches.length > 0;
     const byCount = select.value === "count";
@@ -212,20 +214,22 @@ function showSponsorDirectory() {
       const section = element("section", "", "directory-group");
       if (!byCount) {
         section.id = "letter-" + (key === "#" ? "num" : key);
-        section.append(element("h2", key === "#" ? "0–9" : key));
+        const title = element("h2", key === "#" ? "0–9" : key);
+        title.append(element("small", plural(entries.length, "sponsor")));
+        section.append(title);
         const jump = link(key === "#" ? "0–9" : key, "#" + section.id);
         jump.addEventListener("click", (event) => {
           event.preventDefault();
           section.scrollIntoView({ block: "start" });
           section.querySelector("a")?.focus({ preventScroll: true });
         });
-        letters.append(jump);
+        track.append(jump);
       }
       const list = element("ul", "", "directory-list");
       for (const { label, count } of entries) {
         const item = element("li");
         const anchor = link("", sponsorHref(label));
-        anchor.append(element("span", label, "directory-name"), element("span", plural(count, "winner"), "directory-count"));
+        anchor.append(element("span", label, "directory-name"), element("span", plural(count, "winner"), "pill"));
         item.append(anchor);
         list.append(item);
       }
@@ -250,42 +254,53 @@ function showHackathonDirectory() {
     row.winners++;
     for (const sponsor of project.sponsors) row.sponsors.add(normalize(sponsor));
   }
-  const ordered = [...rows.values()].sort((a, b) => Number(b.year) - Number(a.year) || collator.compare(a.event, b.event));
-  const table = element("table", "", "data-table");
-  const head = element("thead");
-  const headRow = element("tr");
-  for (const [label, className] of [["Hackathon", ""], ["Year", "num"], ["Winners", "num"], ["Sponsors", "num"]]) {
-    const cell = element("th", label, className);
-    cell.scope = "col";
-    headRow.append(cell);
+  const years = new Map();
+  for (const row of [...rows.values()].sort((a, b) => Number(b.year) - Number(a.year) || collator.compare(a.event, b.event))) {
+    if (!years.has(row.year)) years.set(row.year, []);
+    years.get(row.year).push(row);
   }
-  head.append(headRow);
-  const body = element("tbody");
-  for (const row of ordered) {
-    const tr = element("tr");
-    const name = element("th");
-    name.scope = "row";
-    name.append(link(row.event, browseHref({ event: normalize(row.event), year: row.year })));
-    tr.dataset.search = normalize(row.event + " " + row.year);
-    tr.append(name, element("td", row.year, "num"), element("td", format(row.winners), "num"), element("td", format(row.sponsors.size), "num"));
-    body.append(tr);
+  const groups = [];
+  const listing = element("div", "", "directory");
+  for (const [year, entries] of years) {
+    const section = element("section", "", "directory-group");
+    const title = element("h2", year);
+    title.append(element("small", plural(entries.length, "hackathon")));
+    section.append(title);
+    const list = element("ul", "", "directory-list");
+    const items = [];
+    for (const row of entries) {
+      const item = element("li");
+      item.dataset.search = normalize(row.event + " " + row.year);
+      const anchor = link("", browseHref({ event: normalize(row.event), year: row.year }));
+      const label = element("span", "", "directory-label");
+      label.append(element("span", row.event, "directory-name"), element("span", plural(row.sponsors.size, "sponsor") + " awarded prizes", "directory-meta"));
+      anchor.append(label, element("span", plural(row.winners, "winner"), "pill"));
+      item.append(anchor);
+      list.append(item);
+      items.push(item);
+    }
+    section.append(list);
+    listing.append(section);
+    groups.push({ section, items });
   }
-  table.append(head, body);
   const empty = element("p", "No hackathons match that search.", "empty");
   empty.hidden = true;
   const filter = directoryFilter("Find a hackathon", "Find a hackathon", (query) => {
     let visible = 0;
-    for (const tr of body.rows) {
-      tr.hidden = !tr.dataset.search.includes(query);
-      if (!tr.hidden) visible++;
+    for (const { section, items } of groups) {
+      let shown = 0;
+      for (const item of items) {
+        item.hidden = !item.dataset.search.includes(query);
+        if (!item.hidden) shown++;
+      }
+      section.hidden = shown === 0;
+      visible += shown;
     }
     empty.hidden = visible > 0;
   });
   const toolbar = element("div", "", "directory-toolbar");
   toolbar.append(filter);
-  const scroller = element("div", "", "table-wrap");
-  scroller.append(table);
-  context.append(toolbar, scroller, empty);
+  context.append(toolbar, listing, empty);
 }
 
 function showPicker() {
