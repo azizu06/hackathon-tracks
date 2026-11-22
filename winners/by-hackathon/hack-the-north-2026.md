@@ -974,7 +974,7 @@ The project consists of a main physical contribution to the LeLamp, along with m
 - **Code:** [Source 1](https://github.com/tessaSlice/lelamp-play-pack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Hx11IIzHZcw)
 - **All prizes at this hackathon (1):** Human Computer Lab: Build with LeLamp SDK
-- **How it used Human Computer Lab:** LeLamp uses a custom cone to increase light intensity.
+- **How it used Human Computer Lab:** The tracker game calls the LeLamp runtime to change the lamp’s color and aim it at virtual fruit.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

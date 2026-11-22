@@ -33,7 +33,7 @@ A full-body immersive music experience that transforms music into synchronized l
 
 The project consists of a main physical contribution to the LeLamp, along with multiple game implementations using this physical contribution as its basis.
 
-**How it used Human Computer Lab:** LeLamp uses a custom cone to increase light intensity.
+**How it used Human Computer Lab:** The tracker game calls the LeLamp runtime to change the lamp’s color and aim it at virtual fruit.
 
 [Code](https://github.com/tessaSlice/lelamp-play-pack) · [Demo video](https://www.youtube.com/watch?v=Hx11IIzHZcw) · Built with c#, codex, python, unity
 

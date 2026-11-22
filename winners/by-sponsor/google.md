@@ -707,7 +707,7 @@ A platform that helps people collaborate towards finding missing people.
 
 DronAR allows users to view realtime information about their drones such as positional data and status.
 
-**How it used Google:** Builds static map requests through the Google Maps API in its drone view.
+**How it used Google:** Toggles Google Cardboard VR mode when the user presses the spacebar.
 
 [Code](https://github.com/sebLopezCot/DronAR) · Built with azure, express.js, mongodb, node.js
 

@@ -65,7 +65,7 @@ DronAR allows users to view realtime information about their drones such as posi
 - **Code:** [Source 1](https://github.com/sebLopezCot/DronAR)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs) · Google Cardboard Development Prize
-- **How it used Google:** Builds static map requests through the Google Maps API in its drone view.
+- **How it used Google:** Toggles Google Cardboard VR mode when the user presses the spacebar.
 - **Award:** Won “Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)” from Local Motors Labs. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
