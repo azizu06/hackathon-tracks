@@ -185,7 +185,7 @@ fMRI-enhanced swarm simulations for prediction markets.
 
 200K veterans transition out every year — most without real support. NextOp is a private AI coach that translates military careers into civilian résumés, benefits, and training.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with anthropic, anthropic-sdk, brightdata, embedding
+No public code linked · [Demo video](https://www.youtube.com/watch?v=WwUi08k8dG4) · Built with brightdata, anthropic, anthropic-sdk, embedding
 
 ### [Nudge](https://devpost.com/software/nudge-hcvxfq)
 
@@ -233,7 +233,7 @@ A prototype food-bank workflow pairs AI and robotics to collect and distribute f
 
 A query-aware rewriting layer that extends compression into the regime deletion can't reach — distilled into a 1.5B model, then carried into multi-turn conversations.
 
-[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with 2wikimultihop, deepseek-api, h100, hotpotqa
+[Code](https://github.com/Kart-ing/ReCompress) · [Demo video](https://www.youtube.com/watch?v=2cx1czVpz8I) · Built with the-token-company-sdk, 2wikimultihop, deepseek-api, h100
 
 ### [Red Ledger](https://devpost.com/software/red-ledger)
 

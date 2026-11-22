@@ -59,7 +59,7 @@ Empowering every university student to find the people they want to surround the
 - **Code:** [Source 1](https://github.com/rami-maalouf/dain-orbit)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Ksm0Xa9MfkU)
 - **All prizes at this hackathon (1):** MLH: Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** The team built on DAIN's agentic AI platform and Cloudflare's vector database which stores the user's details like interests, weaknesses and strengths, Linkd's API scrapes Linkedin profiles to find personal similarities within profiles.
+- **How it used Cloudflare:** Cloudflare's vector database stores user interests, weaknesses, and strengths.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -86,7 +86,7 @@ No public code linked · Built with dain, typescript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** DAIN Challenge: AI Agent Excellence &amp; Innovation Awards · Track: hack2school
-- **How it used DAIN Labs:** The team built its product management assistant with DAIN and TypeScript.
+- **How it used DAIN Labs:** The project was built primarily with TypeScript and DAIN.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -109,7 +109,7 @@ Cut the crap. Focus on real human interactions.
 - **Code:** [Source 1](https://github.com/KARTIK-PANDEY-KP/Project-Dave)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aS2-N1W5mjk)
 - **All prizes at this hackathon (1):** DAIN Challenge: AI Agent Excellence &amp; Innovation Awards
-- **How it used DAIN Labs:** React + TailwindCSS + Butterfly UI (DAIN-powered).
+- **How it used DAIN Labs:** DAIN powers the Butterfly UI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -132,7 +132,7 @@ Determining both how much the environment can be impacted, and how money can be 
 - **Code:** [Source 1](https://github.com/ymorsi7/solar-flair)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rRz-idbllX8)
 - **All prizes at this hackathon (1):** DAIN Challenge: AI Agent Excellence &amp; Innovation Awards
-- **How it used DAIN Labs:** Sponsor use not stated on Devpost
+- **How it used DAIN Labs:** The project uses the DAIN Protocol for agent interactions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -159,7 +159,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=qFEYKyMW6t
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qFEYKyMW6tA)
 - **All prizes at this hackathon (2):** Overall: 1st Place · Track: AI Agents League (Fetch.ai)
-- **How it used Fetch.ai:** Alto uses Fetch.ai uAgents for its debugging pipeline and Agentverse to manage the agents.
+- **How it used Fetch.ai:** Alto uses Fetch.ai’s uAgents framework and Agentverse for agent management.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -182,7 +182,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=1aWK25E4rr
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1aWK25E4rro)
 - **All prizes at this hackathon (1):** Track: AI Agents League (Fetch.ai)
-- **How it used Fetch.ai:** AI/Backend : Fetch.ai agents for data crawling and recommendation logic, Dain AI + Butterfly for AR visualization.
+- **How it used Fetch.ai:** The project uses Fetch.ai agents for data crawling and recommendations.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -205,7 +205,7 @@ Smart glasses help people with Alzheimer's recognize familiar people and recall 
 - **Code:** [Source 1](https://github.com/pb2323/Lumos)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HCTG-WGNxQM)
 - **All prizes at this hackathon (2):** Overall: 2nd Place · Track: AI Agents League (Fetch.ai)
-- **How it used Fetch.ai:** Sponsor use not stated on Devpost
+- **How it used Fetch.ai:** The team developed agents using Fetch.ai, Dain, and Gemini 2.5 for face recognition, contextual reminders, safety monitoring, and daily journaling prompts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -228,7 +228,7 @@ Pitch your startup idea and watch your agentic board brainstorm. Featuring the U
 - **Code:** [Source 1](https://github.com/srikondapalli1/startup-sim)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IH_bbZ4oxDE)
 - **All prizes at this hackathon (1):** Track: AI Agents League (Fetch.ai)
-- **How it used Fetch.ai:** ASI:One Mini Integration: FetchAI’s ASI:One Mini LLM powers the brains behind each agent, guiding their tone, responses, and decision-making processes based on their assigned roles.
+- **How it used Fetch.ai:** Fetch.ai’s ASI:One Mini guides the agents’ tone, responses, and decisions based on their roles.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -282,7 +282,7 @@ A robot uses what it sees to attempt everyday tasks without training separately 
 - **Code:** [Source 1](https://github.com/mahanthesh0r/Cena_Humanoid_Robot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=r0KGeCe9QDk)
 - **All prizes at this hackathon (1):** Google Gemini: Chase the Future!
-- **How it used Google:** The robot processes multimodal inputs through Gemini's API, accepting both voice commands and visual information from its built-in RGB camera and microphone.
+- **How it used Google:** The robot uses the Gemini API to process voice commands and input from its camera and microphone.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -305,7 +305,7 @@ Embers may mark the end of a fire, but with us, it's just the beginning.
 - **Code:** [Source 1](https://github.com/twistyyb/insurefire)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=t9eNwyadORQ)
 - **All prizes at this hackathon (2):** Google Gemini: Chase the Future! · Track: Cold Hard Cache
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** Google Gemini combines images, reasoning, and market data to estimate replacement values.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -328,7 +328,7 @@ Automated alumni outreach to land the next awesome internship.
 - **Code:** [Source 1](https://github.com/pgunhal/kairos)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AGEZTOmoB64)
 - **All prizes at this hackathon (1):** MLH: Best Use of Gemini API
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The project uses Gemini and OpenRouter for email templates and replies.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -351,7 +351,7 @@ A language tutor adapts practice activities to the learner.
 - **Code:** [Source 1](https://github.com/sebjohannessen/lingobuddy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-gNoVWcP2x8)
 - **All prizes at this hackathon (1):** Google Gemini: Chase the Future!
-- **How it used Google:** A Gemini AI-powered, customizable, language learning platform that balances the importance of language immersion with having a strong vocabulary to provide context for realistic conversations.
+- **How it used Google:** Gemini powers the language-learning platform.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -378,7 +378,7 @@ An emergency response prototype uses drones to map hazards and help responders c
 - **Code:** [Source 1](https://github.com/Jeffuz/AERIS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_vMgX7R_PX0)
 - **All prizes at this hackathon (1):** Best of Groq
-- **How it used Groq:** Aeris uses a Llama model through Groq to assess victims in drone footage.
+- **How it used Groq:** The project uses Groq LLaMA for victim triage.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -428,7 +428,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=vFeyw8tJbW
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vFeyw8tJbWA)
 - **All prizes at this hackathon (1):** Linkd Challenge: Best Use of Linkd People Search
-- **How it used Linkd:** Sponsor use not stated on Devpost
+- **How it used Linkd:** The project uses the Linkd API for real-time discovery of potential leads.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -482,7 +482,7 @@ A desktop assistant watches for new files and sorts them based on their contents
 - **Code:** [Source 1](https://github.com/alex-szy/munchkin)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qM3muuWOKmg)
 - **All prizes at this hackathon (1):** MLH: Best Use of MongoDB Atlas
-- **How it used MongoDB:** MongoDB Atlas Vector Search : Stores these brainy embeddings for instant semantic lookups.
+- **How it used MongoDB:** MongoDB Atlas Vector Search stores embeddings for semantic lookups.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -559,7 +559,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZ
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NOM7RPY7HZc)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge: Building A Better Digital World
-- **How it used Roblox:** Bloom.AI integrates a Roblox game experience with real-time AI sentiment analysis and a supporting dashboard, creating a system where positive actions visibly shape the world, foster wellbeing, and teach vital skills.
+- **How it used Roblox:** Bloom.AI integrates a Roblox game experience with real-time AI sentiment analysis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -582,7 +582,7 @@ No public code linked · Built with roblox, express.js, gemini, javascript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge: Building A Better Digital World
-- **How it used Roblox:** The team built it in Roblox Studio using Lua scripting, server-client architecture, and Google's Gemini 2.0 Flash API for AI dialogue.
+- **How it used Roblox:** The team built the project in Roblox Studio using Lua scripting.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -605,7 +605,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=7WwD1cOzm5
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7WwD1cOzm5k)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge: Building A Better Digital World
-- **How it used Roblox:** Using only the Roblox Studio and assets, the team developed combat and quizzes, iterating through playtests to fine-tune stats, a meaningful map design, and an action-packed time.
+- **How it used Roblox:** The team used Roblox Studio and assets to develop combat and quizzes.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -655,7 +655,7 @@ An AR prototype displays audiovisual CPR guidance in Snap Spectacles.
 - **Code:** [Source 1](https://github.com/jackyydai/LAHack2025-Pulse)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VuOMCP1uGJM)
 - **All prizes at this hackathon (1):** Snap Inc. Challenge: Dream it. Build it.
-- **How it used Snap:** Pulse is an AR application for the Snap Spectacles that provides step-by-step CPR guidance in real time.
+- **How it used Snap:** Pulse provides step-by-step CPR guidance in real time on Snap Spectacles.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -678,7 +678,7 @@ A wearable wardrobe tool catalogs clothes the user already owns and suggests out
 - **Code:** [Source 1](https://github.com/venkatnikhilm/SnapDrobeAPI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rRQtAgtb2U4)
 - **All prizes at this hackathon (1):** Snap Inc. Challenge: Dream it. Build it.
-- **How it used Snap:** The team used the Spectacles Interaction Kit to capture user inputs like the “Add to wardrobe” or “Ask for outfit” commands.
+- **How it used Snap:** The endpoint captures visual input from the Spectacles.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

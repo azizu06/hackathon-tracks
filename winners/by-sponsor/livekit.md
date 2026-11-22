@@ -23,7 +23,7 @@
 
 A hospital coordination dashboard combines record data, nursing alerts, and patient questions.
 
-**How it used LiveKit:** HavenAI Voice Assistant via LiveKit Patients and families speak naturally to Haven using LiveKit and OpenAI's realtime voice API.
+**How it used LiveKit:** Patients and families speak to the voice assistant using LiveKit and OpenAI’s realtime voice API.
 
 [Code](https://github.com/scrappydevs/haven) · [Demo video](https://www.youtube.com/watch?v=sxdgpbTRsMs) · Built with livekit, claude, fetch.ai, grok
 

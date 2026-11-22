@@ -1,0 +1,126 @@
+.Tech Domains	.tech	get.tech
+Actian	Actian VectorAI DB	VectorAI DB
+Adobe	Adobe XD	Adobe Firefly	Photoshop	Illustrator	Premiere Pro	Adobe Express
+Akamai	Linode
+Amazon Web Services	AWS	AWS Lambda	Amazon S3	DynamoDB	Amazon EC2	Amazon Bedrock	Amazon SageMaker	Amazon Transcribe	Amazon Textract	Amazon Rekognition	Amazon Polly	Amazon Lex	Amazon Cognito	Amazon CloudFront	Amazon Nova
+AMD	ROCm	Ryzen	Radeon	AMD Instinct	Vivado	AMD Vivado
+Anthropic	Claude	Claude Code	Claude Agent SDK	Claude API
+Apify	Crawlee
+Arize	Arize Phoenix
+Arm	Arm Cortex	Keil	Cortex-M	Cortex-A
+Atlassian	Jira	Confluence	Bitbucket	Atlassian Forge	Atlassian Rovo
+Auth0	Auth 0
+Backboard.io	Backboard
+Baidu	Baidu ERNIE	ERNIE Bot	PaddlePaddle	DeepSpeech2
+Baseten	Truss
+Bitdeer AI	Bitdeer
+BoundaryML	BAML
+Bracket Bot	BracketBot
+Browserbase	Stagehand
+Capital One	Nessie
+Cartesia	Cartesia Sonic	Cartesia API
+Cat Digital	Caterpillar
+Chroma	ChromaDB
+Cloudflare	Cloudflare Workers	Cloudflare Pages	Cloudflare R2	Cloudflare D1	Cloudflare Tunnel	Workers AI	Durable Objects
+Cloudforce	nebulaONE	TerpAI
+Cloudforce / Microsoft	nebulaONE
+Cognition	Devin AI	Devin	Devin CLI	Devin API
+Cohere	Cohere Command	Cohere Embed
+ConsenSys	MetaMask	Infura
+CRS	CRS Credit API
+DAIN Labs	DAIN
+Databricks	Databricks Genie	Databricks Mosaic AI	Delta Lake
+DataStax	Astra DB	DataStax Astra	Langflow
+Deepgram	Deepgram Nova	Deepgram Aura
+Digi-Key	DigiKey
+DigitalOcean	Digital Ocean	DigitalOcean Droplet	DigitalOcean App Platform	Gradient AI	DigitalOcean Gradient
+DocuSign	Docusign eSignature
+Domain.com	Domain.com
+Elastic	Elasticsearch	Kibana	ElasticSearch
+ElevenLabs	Eleven Labs
+Ethereum Foundation	Ethereum	Solidity	Ethereum Virtual Machine
+Expo	Expo Go	Expo Router	Expo EAS	Expo SDK	Expo CLI
+Factory	Factory AI	Factory Droid	Droid SDK
+Federato	RiskOps
+Fetch.ai	Fetch AI	uAgents	Agentverse	ASI:One	ASI:1
+Figma	Figma Make	Figma MCP	FigJam	Figma Motion
+fish.audio	Fish Audio
+Ford	OpenXC
+FREE-WILi	Free Wili
+GIPHY	Giphy API
+GitHub	GitHub Actions	GitHub Copilot	GitHub Pages	GitHub API
+GoDaddy Registry	GoDaddy
+Google	Gemini	Gemma	Google Cloud	GCP	Vertex AI	Firebase	Firestore	Cloud Firestore	Cloud Run	Google Maps	Google ADK	Google AI Studio	Google Apps Script	Google Sheets	Google Chrome	MediaPipe	TensorFlow	Google Cardboard	Google Daydream	Google Breadboard	Chrome	Gemma4	ADK	Google Agent Development Kit	Google Directions	Google Geocoding	Google Places	Google Routes	Google Vision	Google Flights	Google Hotels	Google OAuth	Google Maps JavaScript API	Google A2A	Google Dialogflow	Dialogflow
+HashiCorp	Terraform	HashiCorp Vault
+HeyGen	HeyGen Avatar API
+Huawei	openJiuwen
+Hugging Face	HuggingFace	Hugging Face Hub	Gradio
+Human Computer Lab	LeLamp	LeLamp SDK
+Hume	Hume AI	Empathic Voice Interface
+IBM	IBM Watson	Watson	IBM Cloud	Watsonx	IBM Granite
+Intel	OpenVINO	Intel RealSense	Intel Gaudi
+Interaction Company	Poke
+InterSystems	InterSystems IRIS	IRIS Data Platform
+iRobot	iRobot Create	Create 2	Create 3	Roomba
+K2 Think	K2-Think
+Kensho	Kensho Scribe
+LangChain	LangGraph	LangSmith
+Luma AI	Luma Dream Machine
+MappedIn	Mapped-in
+MathWorks	MATLAB	Simulink
+Meta	Llama	Meta Quest	Oculus	Meta Horizon	Ray-Ban Meta	TRIBE v2	Muse Spark	Instagram	Instagram Login	Facebook	Facebook Graph API	Meta XR	MetaXR	Meta SDK
+Microsoft	Microsoft Azure	Azure	Visual Studio Code	VS Code	GitHub Copilot	Azure OpenAI	Azure AI Foundry	Microsoft Foundry	TypeScript	C#	C Sharp	VScode
+Mistral	Mistral AI	Mistral OCR	Le Chat
+MongoDB	Mongo	MongoDB Atlas	PyMongo
+Nasdaq	Quandl
+Neo	Neo N3	Neo blockchain
+Netcore Cloud	Netcore
+Niantic	Lightship	Niantic Studio
+Nodal	Nodal CLI
+Nord Security	NordVPN
+Northmark Compute & Cloud	Northmark
+Nous Research	Nous Hermes	Hermes 3	Hermes 4	Hermes
+NVIDIA	Jetson	CUDA	NIM	Nemotron	TensorRT	DGX	NVIDIA Omniverse	NVIDIA Isaac
+OpenAI	GPT-3	GPT-4	GPT-4o	GPT-5	ChatGPT	Whisper	DALL·E	OpenAI Codex	Codex
+Otsuka / VALUENEX	VALUENEX
+PaleBlueDot AI	PaleBlueDot	TokenRouter
+Perplexity	Perplexity Sonar
+Pika	Pika Labs
+Presage	Presage Technologies	Presage SDK
+Progress	Telerik
+QNX	QNX OS	QNX SDP	QNX Software Development Platform
+Qualcomm	Snapdragon
+Redis	Redis Cloud	Redis Stack	RedisJSON	Redis Pub Sub
+Regeneron	Regeneron Genetics Center
+Rev	RevSpeech	Rev AI
+Ripple	XRPL	XRP Ledger
+Roblox	Roblox Studio
+Rox	Rox API	Rox MCP
+SAP Concur	Concur
+Shopify	Shopify Liquid	Shopify Storefront API	Shopify Admin API
+Snap	Snapchat	Spectacles	Lens Studio	Snap Lens Studio	Snap AR	Camera Kit	Snap3D
+Snowflake	Snowflake Cortex	Cortex Analyst	Snowpark
+Solana	Solana Attestation Service	Solana Mobile	Solders	solana-py	Anchor Framework	Solana Web3
+Spacetime	SpacetimeDB
+SpaceXAI	SpaceX AI
+SpaceXSI	SpaceX SI
+Stellar	Stellar Soroban	Soroban
+Sui	Sui Move	Sui SDK
+Symphonic Labs	Symphonic API	Symphonic
+Tether	QVAC	Pear Runtime	Pear	Holepunch	WDK
+Tiger Data	Timescale	TimescaleDB
+Twilio	Twilio Programmable Voice	Twilio Verify
+Twitter	Twitter API	Tweepy
+Unto Labs	Thru
+Visa	Visa Developer	Visa Direct
+Vultr	Vultr Cloud
+Warp	Warp Terminal	Warp Agent
+Weather Underground	Wunderground
+Windsurf	Codeium
+Wix / Base44	Base44	Wix Studio
+Wolfram	Wolfram Alpha	WolframAlpha	Mathematica	Wolfram Language
+World U	World ID	WorldID	Worldcoin	World MiniKit	MiniKit	Worldcoin AgentKit	IDKit	World Chain
+Xficient	Xficient SDK
+Zetic	ZETIC.ai	Zetic Melange
+Zoom	Zoom SDK	Zoom Video SDK	Zoom Meeting SDK
+Zoom / Render	Zoom Video SDK	Render.com

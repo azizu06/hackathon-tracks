@@ -23,7 +23,7 @@
 
 Leetcode for Lawyers! An interactive courtroom simulation powered by a network of AI voice agents to help you learn the language of the law.
 
-**How it used OpenRouter:** Sponsor use not stated on Devpost
+**How it used OpenRouter:** The project uses GPT-5.1 via OpenRouter for PDF case extraction and to feed dynamic variables to ElevenLabs.
 
 No public code linked · Built with openrouter, elevenlabs, react
 

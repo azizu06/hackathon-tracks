@@ -23,7 +23,7 @@
 
 An agent that reproduces your bugs by actually using your app.
 
-**How it used Band:** Band is load-bearing in a specific way: the retry loop — the mechanism that makes Triage more than a one-shot script — is entirely driven by agent-to-agent coordination through the room.
+**How it used Band:** The retry loop uses Band for agent-to-agent coordination in the room.
 
 [Code](https://github.com/HansChundekad/Triage) · [Demo video](https://www.youtube.com/watch?v=Q-ArgjSnVzw) · Built with microsoft-band, arize, browserbase, claude
 

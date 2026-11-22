@@ -23,7 +23,7 @@
 
 Design 3D aircraft using AI, and simulate piloting them in AR. On mobile browser--no app needed.
 
-**How it used Windsurf:** Windsurf: Built and iterated entirely in an AI‑native IDE workflow to accelerate feature delivery.
+**How it used Windsurf:** The team built and iterated on the project in the Windsurf IDE.
 
 [Code](https://github.com/YehyunLee/aircraft-studio) · [Demo video](https://www.youtube.com/watch?v=QkZTAo8Ba2k) · Built with windsurf, auth0, flux, groq
 
@@ -33,7 +33,7 @@ Design 3D aircraft using AI, and simulate piloting them in AR. On mobile browser
 
 Lavoe provides an intuitive and AI-augmented DAW interface with features designed to streamline creativity:.
 
-**How it used Windsurf:** Sponsor use not stated on Devpost
+**Windsurf:** Built with windsurf (listed on Devpost)
 
 [Code](https://github.com/Leonardomontesqui/Lavoe) · [Demo video](https://www.youtube.com/watch?v=ISKuDB2s1jM) · Built with windsurf, ai-sdk, claude, cohere
 
@@ -53,7 +53,7 @@ Real-time facial recognition that identifies connections, remembers conversation
 
 An AI code agent tool that integrates live browser session context for smarter coding assistance. It analyzes tabs, runs extra searches, and uses RAG to provide Codeium’s Cascade with extra context.
 
-**How it used Windsurf:** Sponsor use not stated on Devpost
+**How it used Windsurf:** The project uses retrieval augmented generation for AI-assisted coding in Codeium’s Windsurf-Cascade editor.
 
 [Code](https://github.com/ekang7/PulseAI) · [Demo video](https://www.youtube.com/watch?v=wFDW0y9zVGU) · Built with windsurf, cascade, chroma, codeium
 

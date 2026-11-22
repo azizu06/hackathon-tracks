@@ -23,7 +23,7 @@
 
 Inspired by Star Trek’s combadge and ship’s computer: a wearable AI communicator combining voice, vision, and actions. Just say, “Computer.”.
 
-**How it used QNX:** The Pi runs QNX 8.0 and connects to a microphone, speaker, and camera.
+**How it used QNX:** QNX runs the embedded system.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=ZbD7XTCFx-I) · Built with qnx, bluetooth, browserbase, btstack
 
@@ -43,7 +43,7 @@ The team've built a headset where one camera watches your eye, one watches the t
 
 QNX-powered, computer-vision-driven viral arcade system. Compete in instant 1v1 battles from online trends like six-seven and mogging.
 
-**How it used QNX:** The team configured the QNX Sensor Framework for the Raspberry Pi Camera Module 3 / IMX708 stack, then wrote moggi&#95;camgrab, a small C program that uses CamAPI’s read-only viewfinder path to receive NV12 frames.
+**How it used QNX:** The team configured the QNX Sensor Framework for the Raspberry Pi Camera Module 3 and IMX708 stack.
 
 [Code](https://github.com/BeanyZoldyck/moggie) · [Demo video](https://www.youtube.com/watch?v=YuO-1lJqAFQ) · Built with qnx, mediapipe, opencv, pika
 
@@ -53,7 +53,7 @@ QNX-powered, computer-vision-driven viral arcade system. Compete in instant 1v1 
 
 Real-time monitoring and AI-powered predictive maintenance for factory plants.
 
-**How it used QNX:** A key part of the system is QNX RTOS, an industry-grade real-time operating system commonly used in safety-critical and industrial applications.
+**How it used QNX:** The team used QNX Neutrino RTOS for reliable real-time sensor data processing.
 
 No public code linked · Built with c++, python
 
@@ -63,7 +63,7 @@ No public code linked · Built with c++, python
 
 SpideyIRL is built around one core idea: &#42;reflexes should never have to wait for intelligence. &#42;.
 
-**How it used QNX:** One targets QNX for the low level sensing and haptic loop, while the second runs Linux for computer vision, speech, and the multimodal assistant.
+**How it used QNX:** The project targets QNX for the low-level sensing and haptic loop.
 
 [Code](https://github.com/adi-padmarajan/SpideyIRL) · [Demo video](https://www.youtube.com/watch?v=9_8m-XiTdOw) · Built with qnx-neutrino-rtos, c, gpio, haptics
 
@@ -73,7 +73,7 @@ SpideyIRL is built around one core idea: &#42;reflexes should never have to wait
 
 Fire truck crash? Radio too slow.
 
-**How it used QNX:** Sponsor use not stated on Devpost
+**How it used QNX:** The sensor rig and camera are running on a Raspberry Pi 5 under QNX.
 
 [Code](https://github.com/bencejdanko/VanguardTelematics) · [Demo video](https://www.youtube.com/watch?v=6oMx5WiXiPE) · Built with qnx, deepgram, fastapi, framer-motion
 
@@ -85,7 +85,7 @@ Fire truck crash? Radio too slow.
 
 Configuring your QNX Raspberry Pi can be a long and boring process. Accelerate it with QNX-RasPi-Setup-Util, do all the essential steps through an interactive program in the simple way.
 
-**How it used QNX:** QNX Software Development Platform 8.0, QNX Toolkit, and Docker Build Environment for QNX on macOS are used to power the program development and building environment.
+**How it used QNX:** The project uses QNX Software Development Platform 8.0 and QNX Toolkit for the program development and building environment.
 
 [Code](https://github.com/Qubik65536/QNX-RasPi-Setup-Util) · Built with qnx, c++, cmake, ftxui
 
@@ -95,7 +95,7 @@ Configuring your QNX Raspberry Pi can be a long and boring process. Accelerate i
 
 In a world where productivity is everything, every second counts, time spent away from the desk is time wasted. With, QNXMobility move around your workspace with ease, speed and greater efficiency.
 
-**How it used QNX:** Sponsor use not stated on Devpost
+**How it used QNX:** The project uses the QNX Raspberry Pi kit to interface with the IMU.
 
 No public code linked · Built with qnx, o-drive, python
 

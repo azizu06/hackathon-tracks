@@ -23,7 +23,7 @@
 
 A talking bear turns the pediatric wait into intake: kids tell their side, parents answer separately in real time, and doctors walk in with one page showing where the stories differ.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**How it used .Tech Domains:** The team deployed the app at bearwithme.tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=VBKAxZX6Gmc) · Built with cursor, get-tech, grok, grok-tts
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=VBKAxZX6Gm
 
 Two exes, two agents, zero awkward conversations.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**How it used .Tech Domains:** The project uses gudtrms.tech for its live demo.
 
 [Code](https://github.com/PRANAVMAHALINGAM/gudtrms) · [Demo video](https://www.youtube.com/watch?v=8O_62JRIgR4) · Built with anthropic, aws-lightsail, caddy, claude
 
@@ -43,7 +43,7 @@ Two exes, two agents, zero awkward conversations.
 
 Search up a city and Munchy Munchy will create a food tour through it, taking you to the best restaurants and the best landmarks.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**.Tech Domains:** Built with .tech (listed on Devpost)
 
 [Code](https://github.com/jessiiishin/munchymunchy) · Built with .tech, chatgpt, claude, css
 
@@ -53,7 +53,7 @@ Search up a city and Munchy Munchy will create a food tour through it, taking yo
 
 Play It Forward pairs families in need of toys with households that have more than enough to go around.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**How it used .Tech Domains:** The team purchased its domain using get.tech.
 
 [Code](https://github.com/vvictort/nwhacks-2026) · Built with css, docker, express.js, firebase
 
@@ -115,7 +115,7 @@ Ever stuck procrastinating on important tasks? Roominate breaks down your tasks 
 
 'SATistics' is an arcade-inspired web app where classic games are blend with AI-powered SAT quiz challenges, making learning fun and impactful for students preparing for SATs.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**How it used .Tech Domains:** The live site uses www.satistic.tech.
 
 [Code](https://github.com/shivvyas2/SATistics) · [Demo video](https://www.youtube.com/watch?v=AErgCTfmmbw) · Built with claude, fastapi, nextjs, supabase
 
@@ -147,7 +147,7 @@ It takes in data about a well and tries to detect anomalies to predict when hydr
 
 Staying updated with tech news is crucial. When looking at news sites, articles range from social experiments to legal issues involving tech, making it difficult to find information that is wanted.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**How it used .Tech Domains:** The team hosted the website on a .tech domain.
 
 [Code](https://github.com/natemillner/ArticleScraper) · Built with node.js, python, react, tiber
 
@@ -157,7 +157,7 @@ Staying updated with tech news is crucial. When looking at news sites, articles 
 
 After your guess on what the image represents, a gallery will be presented with the history of all past players before you.
 
-**How it used .Tech Domains:** Sponsor use not stated on Devpost
+**How it used .Tech Domains:** The project is at www.telephoto.tech.
 
 [Code](https://github.com/NuoWenLei/ai-image-telephone) · Built with firebase, getimg.ai, github, google-cloud
 

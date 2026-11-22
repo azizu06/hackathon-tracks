@@ -33,7 +33,7 @@ Augmented Reality debugging tool. Spatial diagnostics for embedded systems.
 
 A software development tool compares solutions created by competing coding agents.
 
-**How it used Warp:** Agent execution: Warp Oz SDK to spawn and monitor parallel agent runs.
+**How it used Warp:** The team used the Warp Oz SDK to spawn and monitor parallel agent runs.
 
 [Code](https://github.com/TomBinford/treehacks) · [Demo video](https://www.youtube.com/watch?v=SbgnbmP28Js) · Built with warp-oz-agent-sdk, express.js, github-api, next.js
 
@@ -115,7 +115,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=VxB-7LZu1D
 
 A terminal search tool runs user-defined commands against selected databases.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**Warp:** Built with warp (listed on Devpost)
 
 [Code](https://github.com/zhangLily2020/nwhacks2025) · Built with warp, chromadb, python, rich
 
@@ -147,7 +147,7 @@ A hierarchal multi-agent framework built from scratch. Transforms complex goals 
 
 Review : Once your code is complete, GenHint reviews it, checking for accuracy and best practices, giving you feedback to ensure your code is indeed working.
 
-**How it used Warp:** Sponsor use not stated on Devpost
+**How it used Warp:** The team used Warp Drive’s shared workflows to share key processes.
 
 [Code](https://github.com/zichenzhang04/GenHint) · [Demo video](https://www.youtube.com/watch?v=72yeRx4773o) · Built with warp, azure, git, github
 

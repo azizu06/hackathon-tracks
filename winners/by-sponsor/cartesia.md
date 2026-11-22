@@ -23,7 +23,7 @@
 
 A voice project helps people affected by cancer communicate using synthesized speech.
 
-**How it used Cartesia:** The team cloned Austin's voice with Cartesia and streamed it to Sonic 3.6, using both his expression and his facial muscles to portray his emotions.
+**How it used Cartesia:** The team used Cartesia to clone a voice and streamed it to Sonic 3.6.
 
 [Code](https://github.com/thaimtl/Silent-Voice) · [Demo video](https://www.youtube.com/watch?v=n129qcT64Og) · Built with cartesia, arduino, auto-avsr, bioamp-exg-pill
 
@@ -35,7 +35,7 @@ A voice project helps people affected by cancer communicate using synthesized sp
 
 Dive into intense 3D dance-offs! Use simple gestures to animate a 3D version of yourself performing insane breakdance moves and challenge friends side by side.
 
-**How it used Cartesia:** Sponsor use not stated on Devpost
+**How it used Cartesia:** The project uses the Cartesia API for text-to-speech for its commentator.
 
 [Code](https://github.com/ishaan-arya/boogie-battle) · [Demo video](https://www.youtube.com/watch?v=Jslk5cH8ezo) · Built with cartesia, c#, groq, opencv
 
@@ -45,7 +45,7 @@ Dive into intense 3D dance-offs! Use simple gestures to animate a 3D version of 
 
 A speaking coach helps language learners practice pronunciation and hear examples in a version of their own voice.
 
-**How it used Cartesia:** A Cartesia Voice (abbreviated as "Voice") is created from the returned embedding (using the "Create Voice" endpoint) which contains a Voice ID.
+**How it used Cartesia:** The backend then sends the translated text to the Cartesia "Text to Speech (Bytes)" endpoint using this new Voice ID.
 
 [Code](https://github.com/Boomaa23/speak-easy) · Built with cartesia, ai, ffmpeg, flask
 

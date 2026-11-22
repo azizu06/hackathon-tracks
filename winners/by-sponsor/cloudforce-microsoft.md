@@ -23,7 +23,7 @@
 
 The autonomous command center for your academic life.
 
-**How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+**How it used Cloudforce / Microsoft:** The project uses TerpAI Ghost-Pilot for complex academic automation.
 
 [Code](https://github.com/purabshah12/bitcamp2026) · [Demo video](https://www.youtube.com/watch?v=eRcqv4_pCCQ) · Built with css, elevenlabs-tts, fastapi, framer-motion
 
@@ -43,7 +43,7 @@ EcoBuddy gamifies sustainability—track your actions, level up your buddy, and 
 
 An AI safety net for UMD students. TerpWallet watches your bank account and connects you to free campus resources, Campus Pantry, SafeRide, emergency funds, before you go broke.
 
-**How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+**How it used Cloudforce / Microsoft:** The recommendations come from a custom TerpAI agent built on UMD’s Cloudforce/Microsoft Azure platform.
 
 [Code](https://github.com/rishikathakre/terpwallet-ai) · [Demo video](https://www.youtube.com/watch?v=vD4VIui3jSs) · Built with azure, cloudforce, auth0, capital-one-nessie-api
 
@@ -55,9 +55,9 @@ An AI safety net for UMD students. TerpWallet watches your bank account and conn
 
 Fighting Drug Waste, Fueling Health Equity.
 
-**How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+**Cloudforce / Microsoft:** Built with terpai (listed on Devpost)
 
-[Code](https://github.com/arsh-goenka/MedSave) · Built with css, flask, googleauth, html
+[Code](https://github.com/arsh-goenka/MedSave) · Built with terpai, css, flask, googleauth
 
 ### [Roameo](https://devpost.com/software/roameo-dtrzau)
 
@@ -75,7 +75,7 @@ Complex API management and integration, especially in dynamic, real-time scenari
 
 SkinForReal is a GenAI skincare app that uses daily selfies to detect skin issues, track product impact, and deliver personalized, real-time insights and safety alerts.
 
-**How it used Cloudforce / Microsoft:** Successfully integrated Microsoft Azure Face API to detect visible skin conditions from live user selfies.
+**How it used Cloudforce / Microsoft:** The project integrated the Microsoft Azure Face API to detect visible skin conditions from user selfies.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=hbxiwaTTwiw) · Built with azure, cloudforce, vscode, faceai
 

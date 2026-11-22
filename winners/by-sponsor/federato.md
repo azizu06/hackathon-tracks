@@ -23,7 +23,7 @@
 
 Pixie is one inspectable risk engine presented as two products: a commercial underwriting desk and a consumer insurance app.
 
-**How it used Federato:** Federato provided the insurance-shaped data and the language needed to interpret it.
+**How it used Federato:** The demo uses a local snapshot pulled from Federato's supplied synthetic API.
 
 [Code](https://github.com/benz16107/pixie-htn2026) · [Demo video](https://www.youtube.com/watch?v=O47V32zbv20) · Built with federato, elastic, expo.io, fastapi
 
@@ -35,7 +35,7 @@ Pixie is one inspectable risk engine presented as two products: a commercial und
 
 Smarter underwriting through AI-powered dashboards, deep insights, and reinforcement learning.
 
-**How it used Federato:** Sponsor use not stated on Devpost
+**How it used Federato:** The team pulled the Federato API dataset and ingested it through a Python pipeline.
 
 [Code](https://github.com/jruttan1/Optimate) · [Demo video](https://www.youtube.com/watch?v=R8M0fgPcW_Y) · Built with federato-api, amazon-dynamodb, auth0, aws-dynamodb
 

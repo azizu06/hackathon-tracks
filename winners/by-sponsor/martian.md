@@ -23,7 +23,7 @@
 
 LangSketch is a visual agent builder that leverages Databricks for data processing and Martian rule routing for affordable drag-and-drop agent creation, making agentic workflows accessible for all.
 
-**How it used Martian:** Sponsor use not stated on Devpost
+**How it used Martian:** The project uses the Martian Deimos router for model selection based on task complexity and agent capabilities.
 
 [Code](https://github.com/rajshah6/langsketch) · [Demo video](https://www.youtube.com/watch?v=L6CZgvak0hQ) · Built with appimage, asteval, chart.js, css
 

@@ -23,7 +23,7 @@
 
 QNX-powered, computer-vision-driven viral arcade system. Compete in instant 1v1 battles from online trends like six-seven and mogging.
 
-**How it used Pika:** Also, Moggie auto-clips and generates fun UGC-ready videos using Pika to increase virality.
+**How it used Pika:** Moggie generates videos using Pika.
 
 [Code](https://github.com/BeanyZoldyck/moggie) · [Demo video](https://www.youtube.com/watch?v=YuO-1lJqAFQ) · Built with pika, mediapipe, opencv, pygame
 
@@ -33,7 +33,7 @@ QNX-powered, computer-vision-driven viral arcade system. Compete in instant 1v1 
 
 End to End AGENT BASED RE-Selling.
 
-**How it used Pika:** Reseller uses Pika to generate product videos for resale listings.
+**How it used Pika:** The project uses Pika for product video generation.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=2RdGKlS07a8) · Built with typescript
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=2RdGKlS07a
 
 Making music something you can feel, see, and sign.
 
-**How it used Pika:** Sponsor use not stated on Devpost
+**How it used Pika:** The final output is a Pika CDN URL.
 
 [Code](https://github.com/Deeksha-Vaidyanathan/senya) · Built with pika, claude, lifeprint, numpy
 

@@ -23,7 +23,7 @@
 
 Make accountable long-term wagers using the blockchain.
 
-**How it used Starknet:** The team also used React and the React-Starknet library to create a friendly user interface for interacting and viewing these contracts.
+**How it used Starknet:** The team used the React-Starknet library to create a user interface for interacting with the contracts.
 
 [Code](https://github.com/jahaskell53/starknet-hackathon-3) · Built with starknet, cairo, react, typescript
 
@@ -33,7 +33,7 @@ Make accountable long-term wagers using the blockchain.
 
 Calculate carbon emissions from travel expense reports and verify thresholds using smart contracts.
 
-**How it used Starknet:** Sponsor use not stated on Devpost
+**Starknet:** Built with starknet (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwkU) · Built with starknet, css, flask, google-directions
 

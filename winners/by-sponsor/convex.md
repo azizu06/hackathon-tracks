@@ -23,7 +23,7 @@
 
 A building safety prototype combines live sensors, evacuation planning, and operator approval in one dashboard.
 
-**How it used Convex:** Sponsor use not stated on Devpost
+**Convex:** Built with convex (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49ZM) · Built with convex, agentverse, anthropic, arduino
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49Z
 
 Lobe lets students explore brain MRI scans together in 3D. Reveal tumor outlines, follow a partner’s view, and discuss the same region with live pointers and chat powered by Convex.
 
-**How it used Convex:** GitHub Actions runs the Convex, frontend and backend test suites on every push.
+**How it used Convex:** Convex stores sessions, presence, pointers, chat, notes, whiteboard items, game rounds, and transcripts.
 
 [Code](https://github.com/DuongAnh1201/Lobe) · [Demo video](https://www.youtube.com/watch?v=Az7_46Kvptc) · Built with convex, agentmail, claude-api, docker
 
@@ -43,7 +43,7 @@ Lobe lets students explore brain MRI scans together in 3D. Reveal tumor outlines
 
 Standard Response coordinates evacuation calls and routes neighbors and accessible vehicles to households that need help.
 
-**How it used Convex:** Convex connects the dispatch dashboard and voice worker so a resident gets a callback as soon as a driver accepts.
+**How it used Convex:** Every part of the system reads and writes one real-time Convex database.
 
 [Code](https://github.com/Imhaohao/Standard-Response) · [Demo video](https://www.youtube.com/watch?v=eNsAGHFnFJY) · Built with convex, anthropic, apify, cartesia
 
@@ -55,7 +55,7 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 
 excus.us helps event attendees find people with complementary backgrounds and skills, then start a conversation.
 
-**How it used Convex:** Convex stores profiles across events and handles live chat and authentication tokens.
+**How it used Convex:** The project uses Convex for real-time chat and persistent user data management.
 
 [Code](https://github.com/justrach/hackthenorth) · [Demo video](https://www.youtube.com/watch?v=EAe7YApMNT0) · Built with convex, chroma, claude, cloudflare
 
@@ -65,7 +65,7 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 
 🪶 PERCEIV/IO leverages AI image recognition and various LLMs to assist persons with visual and/or auditory impairments perceive the world around them through an innovative tactile display solution.
 
-**How it used Convex:** Sponsor use not stated on Devpost
+**How it used Convex:** The project uses Convex for its backend database.
 
 [Code](https://github.com/ddynamix/HackTheNorth2024) · [Demo video](https://www.youtube.com/watch?v=spMJ8vr8XnA) · Built with convex, groq, javascript, python
 

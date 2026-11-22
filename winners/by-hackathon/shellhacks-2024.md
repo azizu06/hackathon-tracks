@@ -53,7 +53,7 @@ These projects won more than one prize here. Each one is listed once.
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
 
-[Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
+[Code](https://github.com/kgand/shellhacks2024) · Built with typescript, axios, chatgpt, computer-vision
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -65,7 +65,7 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 - **All prizes at this hackathon (3):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Assurant · Microsoft
 - **How it used Assurant:** Sponsor use not stated on Devpost
 - **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
-- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **Microsoft:** Built with typescript (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -78,7 +78,7 @@ Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged 
 
 Learn ASL in AR through Computer Vision and Hand Tracking.
 
-[Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c, c-sharp, embedded, hardware
+[Code](https://github.com/August-Druzgal/ShellHacks2024) · [Demo video](https://www.youtube.com/watch?v=7rRxLXnresk) · Built with c-sharp, c, embedded, hardware
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -89,7 +89,7 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7rRxLXnresk)
 - **All prizes at this hackathon (3):** Google · Microsoft · Second Best Overall
 - **How it used Google:** Sponsor use not stated on Devpost
-- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **Microsoft:** Built with c-sharp (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -397,7 +397,7 @@ The team have learned how to build applications based on an initial image.
 - **Code:** [Source 1](https://github.com/Rodrigo-Munoz-Salas/AI_Image_Recognition)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Wolfi OS Container Security Hackathon
-- **How it used Chainguard:** The team built the project based on the pytorch-dev image from chainguard to develop a secure application free of CVEs.
+- **How it used Chainguard:** The team built the project on the pytorch-dev image from Chainguard.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -420,7 +420,7 @@ Cloud Vault is a containerized file uploader using Chainguard Images for secure 
 - **Code:** [Source 1](https://github.com/lain561/CloudVault)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Wolfi OS Container Security Hackathon
-- **How it used Chainguard:** These files are stored in a secure Docker container, using Chainguard's Wolfi OS and SSL certificates with HTTPS to minimize vulnerabilities and increase security during file transmission and storage.
+- **How it used Chainguard:** The team used Chainguard Wolfi OS images for the container environment.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -443,7 +443,7 @@ Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting
 - **Code:** [Source 1](https://github.com/brianush1/leetcode-ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_Cjp8x99bII)
 - **All prizes at this hackathon (1):** Wolfi OS Container Security Hackathon
-- **How it used Chainguard:** Sponsor use not stated on Devpost
+- **How it used Chainguard:** The project uses Chainguard to sandbox the solutions it judges.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -470,7 +470,7 @@ No public code linked · Built with defang, auth0, bash, css
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Defang
-- **How it used Defang:** Sponsor use not stated on Devpost
+- **Defang:** Built with defang (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -605,7 +605,7 @@ An accessible white-boarding app to voice your ideas into existence.
 - **Code:** [Source 1](https://github.com/DVidal1205/voiceboard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The team generated Mermaid markup for graphs using Google Gemini.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -624,7 +624,7 @@ Also won this track: [Lotion AI/AR](#project-lotion-ai-ar), [ARSL - Augmented Re
 
 Around the World in 70 Frames is language learning platform designed with intelligent NPCs who are capable of understanding the players’ speech through voice recognition and can respond accordingly.
 
-No public code linked · Built with .net, apis, c#, meta
+No public code linked · Built with c#, .net, apis, meta
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -634,7 +634,7 @@ No public code linked · Built with .net, apis, c#, meta
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **Microsoft:** Built with c# (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -688,7 +688,7 @@ No public code linked · Built with lens-studio, javascript, typescript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Snap AR Dream it. Build it.
-- **How it used Snap:** The team built it in Snapchat's Lens Studio using JavaScript and TypeScript.
+- **How it used Snap:** The team built the project in Snapchat's Lens Studio using JavaScript and TypeScript.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -711,7 +711,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=fIQ6sltKv1
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fIQ6sltKv1w)
 - **All prizes at this hackathon (1):** Snap AR Dream it. Build it.
-- **How it used Snap:** Sponsor use not stated on Devpost
+- **How it used Snap:** The team used Snapchat’s Lens Studio to design the AR environment and UI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -734,7 +734,7 @@ AR Game created in Snapchat's Lens Studio 5 using Javascript, Typescript, and Gi
 - **Code:** [Source 1](https://github.com/wakens/spectacles-tower-defense)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rfoBo7SyMh4)
 - **All prizes at this hackathon (1):** Snap AR Dream it. Build it.
-- **How it used Snap:** The team created using Lens Studio 5, using scripts made with Typescript and Javascript.
+- **How it used Snap:** The team used Lens Studio 5 and scripts made with TypeScript and JavaScript.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

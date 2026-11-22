@@ -63,7 +63,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=R4zeNen51F
 
 Your future for knowing what's in your water.
 
-**How it used IBM:** Data Analytics: Using IBM's Watson Studio and AI development tools, data from government sources were cleaned and used to model lead poisoning risk.
+**How it used IBM:** The team used IBM’s Watson Studio and AI development tools to clean government data and model lead poisoning risk.
 
 [Code](https://github.com/maywu89/Water-Crusader) · Built with ibm-watson, arduino, esp32, node-red
 
@@ -85,7 +85,7 @@ No public code linked · Built with hyperledger, node-red
 
 Are you prepared for the worst.
 
-**How it used IBM:** Sponsor use not stated on Devpost
+**How it used IBM:** The project uses IBM Watson NLP in its Python data analysis pipeline.
 
 [Code](https://github.com/disaster-rescue/disaster-rescue.github.io) · [Demo video](https://www.youtube.com/watch?v=o8giqAKmIZw) · Built with ibm-watson, ajax, bootstrap, css
 
@@ -97,7 +97,7 @@ Are you prepared for the worst.
 
 The product takes blurry images and makes them more readable.
 
-**How it used IBM:** The team used python3 and the IBM Watson library.
+**How it used IBM:** The team used the IBM Watson library.
 
 No public code linked · Built with ibm, ibm-watson, bluemix, google-image-search
 

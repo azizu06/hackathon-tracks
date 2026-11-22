@@ -129,8 +129,8 @@ Vestique, your AI wardrobe assistant, tracks your style and ensures no clothes g
 - **Code:** [Source 1](https://github.com/rChwiecko/Vestique)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZASINIB-IOM)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Streamlit · Samba Nova
-- **How it used SambaNova:** Sponsor use not stated on Devpost
-- **How it used Streamlit:** Sponsor use not stated on Devpost
+- **How it used SambaNova:** The project uses SambaNova for identifying and classifying clothing items.
+- **How it used Streamlit:** The team built its UI using Streamlit.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -190,7 +190,7 @@ A Sustainability Platform for a Greener Future.
 - **Code:** [Source 1](https://github.com/SaadMakda/Greenify-Test) · [Source 2](https://github.com/yfshaikh/greenify) · [Source 3](https://github.com/yfshaikh/greenify-scripts)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=W2zu9af2O0o)
 - **All prizes at this hackathon (1):** CBRE
-- **How it used CBRE:** Sponsor use not stated on Devpost
+- **How it used CBRE:** The project sources information from CBRE’s internal data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -325,7 +325,7 @@ Git for ANY file type - Reducing storage costs by 500x, streamlining version con
 - **Code:** [Source 1](https://github.com/ssaniya-dev/GitFile)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5T_aJ0k165M)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Terraform
-- **How it used HashiCorp:** The team used Terraform to provision the Azure virtual machine that hosts its frontend.
+- **How it used HashiCorp:** The team used Terraform on Azure for the virtual machine that hosted its frontend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -379,7 +379,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=sh2B0vi0H2
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sh2B0vi0H2c)
 - **All prizes at this hackathon (1):** Pinata
-- **How it used Pinata:** The team built it using Next.JS, TailwindCSS, ShadCN, Pinata, and QRCode.
+- **How it used Pinata:** The team used Pinata to group files by adding metadata to each file.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -402,7 +402,7 @@ It's a social cheese rating and sharing website.
 - **Code:** [Source 1](https://github.com/joemmalatesta/CheddarBoxd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ijk-pzGl-H0)
 - **All prizes at this hackathon (2):** Best Solo Hack · Pinata
-- **How it used Pinata:** Sponsor use not stated on Devpost
+- **Pinata:** Built with pinata (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -425,7 +425,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ZkMzkzsfkl
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZkMzkzsfklo)
 - **All prizes at this hackathon (1):** Pinata
-- **How it used Pinata:** Sponsor use not stated on Devpost
+- **Pinata:** Built with pinata (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -527,7 +527,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=f8wzQW5T_c
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=f8wzQW5T_cQ)
 - **All prizes at this hackathon (1):** Samba Nova
-- **How it used SambaNova:** The backend is powered by FastAPI and crucially integrates with SambaNova's API, whose exceptional inference speed was vital for the real-time transcription feature.
+- **How it used SambaNova:** The backend integrates with SambaNova's API for real-time transcription.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

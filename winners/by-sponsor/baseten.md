@@ -23,7 +23,7 @@
 
 An agent loop that searches fusions, layouts and launch structure trying to approach the memory bandwidth floor.
 
-**How it used Baseten:** Sponsor use not stated on Devpost
+**How it used Baseten:** The project takes whole-file proposals from a model on Baseten’s Model API.
 
 [Code](https://github.com/cogniera/neoKernel) · Built with claude, codex, cuda, python
 
@@ -33,7 +33,7 @@ An agent loop that searches fusions, layouts and launch structure trying to appr
 
 Dysarthric speech recovery, in your own voice.
 
-**How it used Baseten:** The adapted Cohere model is hosted on Baseten, and the demo’s speech recognition inference runs on Baseten.
+**How it used Baseten:** The team used Baseten to train efficiently.
 
 [Code](https://github.com/rickytang666/hackthenorth) · [Demo video](https://www.youtube.com/watch?v=e1tZalE6_i8) · Built with baseten, audio, cohere, css
 
@@ -45,7 +45,7 @@ Dysarthric speech recovery, in your own voice.
 
 The system rethinks video compression by mirroring how the human eye perceives importance in a scene.
 
-**How it used Baseten:** Sponsor use not stated on Devpost
+**Baseten:** Built with baseten (listed on Devpost)
 
 [Code](https://github.com/k-kochhar/Salient) · [Demo video](https://www.youtube.com/watch?v=bSFhoFY6hIY) · Built with baseten, amazon-web-services, ffmeg, next
 

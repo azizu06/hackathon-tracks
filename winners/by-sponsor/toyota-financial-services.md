@@ -73,7 +73,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5Mv
 
 &#42;&#42;Toyyo: Your AI-powered copilot for smarter vehicle ownership, financing, and every move ahead.&#42;&#42;.
 
-**How it used Toyota Financial Services:** The team designed Toyyo around synthetic customer profiles and Toyota Financial Services' provided data scenarios to demonstrate how different ownership situations can lead to different recommendations.
+**How it used Toyota Financial Services:** The team designed Toyyo around synthetic customer profiles and data scenarios provided by Toyota Financial Services.
 
 [Code](https://github.com/vishy-m/Toyyo) · [Demo video](https://www.youtube.com/watch?v=AxL6UkqenSE) · Built with anthropic-claude, framer-motion, google-gemini, html5
 

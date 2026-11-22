@@ -33,7 +33,7 @@ Leash makes group bookings secure and debt-free. Everyone pays their share up fr
 
 Don't just block a rogue AI agent. Trap it.
 
-**How it used Daytona:** Sponsor use not stated on Devpost
+**How it used Daytona:** Each agent gets its own Daytona VM.
 
 [Code](https://github.com/MrFiscus/Mirage) · [Demo video](https://www.youtube.com/watch?v=k3fzKzdrOyA) · Built with daytona, chalk, css3, elevenlabs
 

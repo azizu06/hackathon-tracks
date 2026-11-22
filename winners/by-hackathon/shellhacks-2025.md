@@ -57,8 +57,8 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0t4X0DoKbs
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0t4X0DoKbsc)
 - **All prizes at this hackathon (3):** Microsoft · NVIDIA · Waymo
-- **How it used Microsoft:** Sponsor use not stated on Devpost
-- **How it used NVIDIA:** VL-ADK uses a Jetson Orin Nano on the rover and connects to it over SSH for remote control.
+- **How it used Microsoft:** The team created a control panel with TypeScript to analyze the robot view live using web sockets.
+- **How it used NVIDIA:** The team used SSH tunnels to connect its hosts to the Jetson Orin mounted on the Jetbot.
 - **How it used Waymo:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -107,7 +107,7 @@ A web-app developed to help prep students for their technical interviews through
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uNDWa84R2Aw)
 - **All prizes at this hackathon (2):** Assurant · Microsoft
 - **How it used Assurant:** Sponsor use not stated on Devpost
-- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **How it used Microsoft:** The project used TypeScript for its frontend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -189,7 +189,7 @@ Sylly is a smart academic organizer that centralizes courses, assignments, and s
 - **Code:** [Source 1](https://github.com/alejandro0955/sylly-backend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=j3aqd9J_kWA)
 - **All prizes at this hackathon (1):** MLH &#124;&#124; Best Use of Auth0 &#124;&#124; Wireless Headphones
-- **How it used Auth0:** Auth0 integration actually worked end to end. Prize: Wireless Headphones
+- **How it used Auth0:** The team used Auth0 for login, logout, and token handling. Prize: Wireless Headphones
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -243,7 +243,7 @@ Transform any GitHub repository into an interactive, visual tree structure. AI-p
 - **Code:** [Source 1](https://github.com/hieunguyent12/shellhacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oo69VDuMhTU)
 - **All prizes at this hackathon (1):** Github
-- **How it used GitHub:** Sponsor use not stated on Devpost
+- **How it used GitHub:** The application visualizes GitHub repositories as interactive flow graphs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -297,7 +297,7 @@ A Google Chrome extension that elevates the limitations of people with disabilit
 - **Code:** [Source 1](https://github.com/ibraouh/a11y-tools)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=evGVk7XjDH4)
 - **All prizes at this hackathon (1):** Google Cloud
-- **How it used Google:** This includes automatic Google Form detection, which triggers a script that seamlessly integrates the Speech-to-Instruction feature with Google Forms.
+- **How it used Google:** The project streams recorded audio to the agent using ADK’s InMemoryRunner and LiveRequestQueue.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,7 +320,7 @@ Beacon is a smart navigation app that helps users plan safe routes by having rea
 - **Code:** [Source 1](https://github.com/Bashguy/Beacon)
 - **Demo video:** [Video 1](https://vimeo.com/1123425305)
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** Firestore stores user information and contacts, and Realtime Database handles immediately needed data such as battery level.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -343,7 +343,7 @@ AI-powered browser extension that protects infant brain development by detecting
 - **Code:** [Source 1](https://github.com/abbasidaniyal/BrainSafe)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aABEnFQ2MPE)
 - **All prizes at this hackathon (1):** Google Cloud
-- **How it used Google:** The prototype was built in Python and JavaScript, connected with a Django backend, and enhanced with prompt engineering and Google ADK multimodal agents for optimized video analysis.
+- **How it used Google:** The project used the Google Agent Development Kit to integrate APIs for video frame analysis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -366,7 +366,7 @@ Breaking language barriers, one word at a time.
 - **Code:** [Source 1](https://github.com/EzSpeak-development/EzSpeak-frontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0lh1fenJgQw)
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The project uses Chrome’s tabCapture API to grab audio from the active tab.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -389,7 +389,7 @@ AI powered ergonomic for healthier minds and bodies.
 - **Code:** [Source 1](https://github.com/abrown33914/iMPOSTURE)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MXY6PnkB3dA)
 - **All prizes at this hackathon (1):** Google Cloud
-- **How it used Google:** Leverages Google ADK to process raw posture and distraction data into personalized health scores, insights, and tips.
+- **How it used Google:** The project uses Google ADK to process raw posture and distraction data into health scores, insights, and tips.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -412,7 +412,7 @@ Text-to-speech is a near-essential tool for the legally blind; However, normal t
 - **Code:** [Source 1](https://github.com/groffbo/sight-to-speech)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LW55VXFaXiE)
 - **All prizes at this hackathon (1):** MLH &#124;&#124; Best Use of Gemini API &#124;&#124; Mechanical Keyboards
-- **How it used Google:** Sponsor use not stated on Devpost Prize: Mechanical Keyboards
+- **How it used Google:** The project uses the Gemini API to cross-check and improve word detection when OCR misses details. Prize: Mechanical Keyboards
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -435,7 +435,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-l
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=55OuqH7E-lA)
 - **All prizes at this hackathon (1):** Google
-- **How it used Google:** The team integrated Google Gemini AI via its OpenAI-compatible interface to power the AI learning assistant, with sophisticated prompts and NLP capabilities to ensure context-aware student interactions.
+- **How it used Google:** Google Gemini powers the learning assistant via its OpenAI-compatible interface.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -454,7 +454,7 @@ Also won this track: [VL-ADK](#project-vl-adk), [PrepBear](#project-prep-bear) (
 
 Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body movements into computer input.
 
-[Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with css3, electron, gemini, google-a2a
+[Code](https://github.com/DanielJEfres/ctrl-arm) · [Demo video](https://www.youtube.com/watch?v=81FJv9Wgcoo) · Built with typescript, css3, electron, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -464,7 +464,7 @@ Ctrl-ARM is a muscle-controlled interface that translates bicep flexes and body 
 - **Code:** [Source 1](https://github.com/DanielJEfres/ctrl-arm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=81FJv9Wgcoo)
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **Microsoft:** Built with typescript (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -607,7 +607,7 @@ No public code linked · [Demo video](https://vimeo.com/1122618072) · Built wit
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://vimeo.com/1122618072)
 - **All prizes at this hackathon (1):** Wix.com &amp; Base44
-- **How it used Wix / Base44:** Sponsor use not stated on Devpost
+- **How it used Wix / Base44:** The project uses Base44 for its serverless backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -653,7 +653,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbT
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=59egQoVTbTw)
 - **All prizes at this hackathon (1):** Wix.com &amp; Base44
-- **How it used Wix / Base44:** Sponsor use not stated on Devpost
+- **How it used Wix / Base44:** The project was built with AI prompting on Base44.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -680,7 +680,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbT
 - **Code:** [Source 1](https://github.com/npastrami/IntelligentPokerLeague)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mRHBn9dJj4c)
 - **All prizes at this hackathon (1):** Wolfram
-- **How it used Wolfram:** Sponsor use not stated on Devpost
+- **Wolfram:** Built with wolfram-technologies (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -703,7 +703,7 @@ The team describes the project as “Math Visuals Made Simple”.
 - **Code:** [Source 1](https://github.com/Alans44/wolfranimation)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Wolfram
-- **How it used Wolfram:** Wolfranimation calls Wolfram from Python and passes the results to Manim to generate animations.
+- **How it used Wolfram:** A Python bridge calls Wolfram and feeds its JSON results into the Manim scene.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,7 +23,7 @@
 
 A home assistant supports older adults with daily routines and keeps their families informed.
 
-**How it used Anthropic:** The team used Browserbase's Stagehand, Claude, and ElevenLabs to automate web navigation across pharmacy websites, insurance portals, Uber, and healthcare systems.
+**How it used Anthropic:** Claude powers the agent server and orchestrates conversations with context retention.
 
 [Code](https://github.com/Kevinxygu/treehacks) · [Demo video](https://www.youtube.com/watch?v=vFU1GSWrbRk) · Built with claude, browserbase, elevenlabs, fastapi
 
@@ -33,7 +33,7 @@ A home assistant supports older adults with daily routines and keeps their famil
 
 Smart glasses coach workers with intellectual and developmental disabilities through job tasks using their supervisor's voice.
 
-**How it used Anthropic:** Sponsor use not stated on Devpost
+**How it used Anthropic:** Claude Opus 5.5 writes steps from the teaching video.
 
 [Code](https://github.com/shraddha11-408/CalHacks-13.0) · [Demo video](https://www.youtube.com/watch?v=f2uZQ9IpAVU) · Built with anthropic, claude, 3d-printing, accessibility
 
@@ -43,7 +43,7 @@ Smart glasses coach workers with intellectual and developmental disabilities thr
 
 A prototype food-bank workflow pairs AI and robotics to collect and distribute food to local shelters.
 
-**How it used Anthropic:** Project Lend uses the Claude Agent SDK to coordinate work for its food rescue operation.
+**How it used Anthropic:** The team used the Claude Agent SDK to replicate the front and back office of a food rescue operation.
 
 [Code](https://github.com/PranavViswanath/project-lend) · [Demo video](https://www.youtube.com/watch?v=hBcCNg_U3t4) · Built with claude-agent-sdk, claude-code, claude-vision-api-(haiku-3.5), computer-vision
 
@@ -53,7 +53,7 @@ A prototype food-bank workflow pairs AI and robotics to collect and distribute f
 
 A civic reporting tool flags street hazards in images and pairs them with city records and potential fixes.
 
-**How it used Anthropic:** Claude (Haiku) runs the two-stage vision pipeline.
+**How it used Anthropic:** Claude Haiku runs the two-stage vision pipeline.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=SIy97mAQ4YY) · Built with browserbase, fastapi, fetch.ai, gemini-imagen-4
 
@@ -63,7 +63,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=SIy97mAQ4Y
 
 Standard Response coordinates evacuation calls and routes neighbors and accessible vehicles to households that need help.
 
-**How it used Anthropic:** Claude turns callers' responses into dispatch fields and drafts short replies in the reviewed languages.
+**How it used Anthropic:** Claude Haiku 5.5 turns what residents say on calls into record fields and includes corrections.
 
 [Code](https://github.com/Imhaohao/Standard-Response) · [Demo video](https://www.youtube.com/watch?v=eNsAGHFnFJY) · Built with anthropic, claude, apify, cartesia
 
@@ -73,7 +73,7 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 
 A group chat assistant coordinates dinner plans and other errands.
 
-**How it used Anthropic:** Sunday uses the Claude Agent SDK to run an agent server that exposes 17 MCP tools.
+**How it used Anthropic:** The Claude Agent SDK powers an HTTP server with 17 custom MCP tools.
 
 [Code](https://github.com/priyanshbhatter24/sunday) · Built with anthropic-api, claude-agent-sdk, browserbase, browserbase-stagehand
 
@@ -83,7 +83,7 @@ A group chat assistant coordinates dinner plans and other errands.
 
 A mapping tool turns real spaces into tactile and audio guides for blind and low-vision people.
 
-**How it used Anthropic:** Claude-Powered Spatial Understanding help interpret free-form questions.
+**How it used Anthropic:** Claude helps interpret free-form questions.
 
 [Code](https://github.com/holokcheung/touchspace) · [Demo video](https://www.youtube.com/watch?v=zCSkCPO-3cc) · Built with claude, arkit, avfoundation, fastapi
 
@@ -93,7 +93,7 @@ A mapping tool turns real spaces into tactile and audio guides for blind and low
 
 A civic discussion tool connects proposed policy changes to the public input behind them.
 
-**How it used Anthropic:** The platform also includes a Research Desk : an AI agent powered by Claude that can answer natural language questions about the entire policy corpus.
+**How it used Anthropic:** Claude powers an agent that answers questions about the policy corpus.
 
 [Code](https://github.com/arihantjain4/Tribune) · [Demo video](https://www.youtube.com/watch?v=CNRvU4jK34c) · Built with anthropic-claude, elasticsearch, fastapi, framer-motion
 
@@ -105,7 +105,7 @@ A civic discussion tool connects proposed policy changes to the public input beh
 
 An eldercare assistant identifies changes in daily behavior and surfaces them to caregivers.
 
-**How it used Anthropic:** It listens, learns, and detects using Claude to understand speech and emotion, Letta to learn daily behavior patterns, and Chroma to detect changes over time.
+**How it used Anthropic:** The project uses Claude for intent and sentiment analysis.
 
 No public code linked · Built with html5, java, javascript, python
 

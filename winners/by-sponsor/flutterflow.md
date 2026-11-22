@@ -23,7 +23,7 @@
 
 Because everyone deserves someone who cares.
 
-**How it used FlutterFlow:** Designed a Scalable, Patient-Friendly Platform – Built using FlutterFlow, making it accessible to all users, regardless of tech expertise.
+**How it used FlutterFlow:** The project was built using FlutterFlow.
 
 [Code](https://github.com/Tap2Call/flutterflow) · [Demo video](https://www.youtube.com/watch?v=8ZOR9M53RlM) · Built with flutterflow, ai, ai-agents, dart
 
@@ -33,7 +33,7 @@ Because everyone deserves someone who cares.
 
 EcoBite is a mobile app meant for users to take pictures of their leftover food for the main purpose of estimating the food’s weight.
 
-**How it used FlutterFlow:** The team is most proud of the development of EcoBite using a tool none of the team had worked with previously: FlutterFlow.
+**How it used FlutterFlow:** The team used FlutterFlow to develop the mobile application.
 
 [Code](https://github.com/SirKentut/EcoBite) · [Demo video](https://www.youtube.com/watch?v=g1RofQA9R_o) · Built with flutterflow, flask, gemini, perplexity
 
@@ -43,7 +43,7 @@ EcoBite is a mobile app meant for users to take pictures of their leftover food 
 
 The adventure is filled with grade-level vocabulary to hit comprehension goals, with a quick comprehension check at the end.
 
-**How it used FlutterFlow:** Sprout.io was developed using Flutterflow, for a seamless user experience.
+**How it used FlutterFlow:** Sprout.io was developed using FlutterFlow.
 
 [Code](https://github.com/sdoshi4/Sprout-Treehacks2025) · [Demo video](https://www.youtube.com/watch?v=GbGJ_mDDeCE) · Built with flutterflow, dart, fastapi, gemini
 

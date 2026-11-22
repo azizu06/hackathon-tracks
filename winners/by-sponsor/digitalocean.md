@@ -23,7 +23,7 @@
 
 The Soldier isolates the threat, evolves a working "cure" (a sandboxed containment payload), and applies it, then self-terminates.
 
-**How it used DigitalOcean:** Sponsor use not stated on Devpost
+**How it used DigitalOcean:** DigitalOcean hosts the landing page and a Postgres-backed advisor service.
 
 [Code](https://github.com/Joshua-Song007/Shellhacks) · [Demo video](https://www.youtube.com/watch?v=swDZNF3l3KU) · Built with digitalocean, applescript, c, css
 
@@ -33,7 +33,7 @@ The Soldier isolates the threat, evolves a working "cure" (a sandboxed containme
 
 An algorithm denied you. No explanation.
 
-**How it used DigitalOcean:** Sponsor use not stated on Devpost
+**How it used DigitalOcean:** The project uses DigitalOcean for hosting and deployment.
 
 [Code](https://github.com/noteesh/HackDuke) · [Demo video](https://www.youtube.com/watch?v=KcBM_uwu5As) · Built with digitalocean, auth0, elevenlabs, express.js
 
@@ -65,7 +65,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=a4IBdqUq1v
 
 Intelligent IRL Meeting Organizer - A conversational AI agent designed with the busiest people in mind.
 
-**How it used DigitalOcean:** Sponsor use not stated on Devpost
+**How it used DigitalOcean:** The project uses Digital Ocean AI Gradient for GPU tasks.
 
 [Code](https://github.com/satvikprasad/calhacks25-imo) · [Demo video](https://www.youtube.com/watch?v=fTmvGxSzU3I) · Built with chromadb, convex, digtalocean, express.js
 

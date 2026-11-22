@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=jzAeXCgLaf
 
 Real verified people answer your medical questions honestly, before you decide. Built so an AI agent never guesses, it waits for a real person, then tells you how well their experience fits yours.
 
-**How it used PaleBlueDot AI:** Sponsor use not stated on Devpost
+**How it used PaleBlueDot AI:** Every model call in the pipeline runs through PaleBlueDot’s TokenRouter.
 
 [Code](https://github.com/2006-sk/AIhack) · [Demo video](https://www.youtube.com/watch?v=-EC0xCrg5H8) · Built with 21st.dev, agentspan, arize, arize-phoenix
 
@@ -43,7 +43,7 @@ Real verified people answer your medical questions honestly, before you decide. 
 
 Retention uses Meta's brain-simulation model to optimize educational videos for students of all ages, automatically editing clips and maximizing retention with a multi-agent generator/evaluator loop.
 
-**How it used PaleBlueDot AI:** Sponsor use not stated on Devpost
+**How it used PaleBlueDot AI:** The team uses TokenRouter to call Claude to summarize the outputs from three LLMs.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=AMhMTYLi8js) · Built with claude, deepgram, lightningai, microsoft-band
 

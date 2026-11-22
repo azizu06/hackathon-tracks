@@ -111,8 +111,8 @@ Use your favorite cleaning robot to transform the floor into a canvas for Mathem
 - **Code:** [Source 1](https://github.com/cyanophycean314-zz/plot_roomba)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** General Prize - Runner Up · Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack · Sponsor Prize - Wolfram Alpha - Best Use of Wolfram Technologies
-- **How it used iRobot:** Sponsor use not stated on Devpost
-- **How it used Wolfram:** Sponsor use not stated on Devpost
+- **How it used iRobot:** The project uses Facebook comments in LiveMode to control a Roomba.
+- **How it used Wolfram:** The project uses the Wolfram Development Interface to create a plotting function.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -135,7 +135,7 @@ TravelAR is an iOS travel application built using Apple's ARKit.
 - **Code:** [Source 1](https://github.com/Averylamp/TravelAR)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ACneUIVByaY)
 - **All prizes at this hackathon (2):** Sponsor Prize - Amadeus - Best Use of Amadeus APIs · Sponsor Prize - Concur - Best Travel Hack
-- **How it used Amadeus:** The team built TravelAR with Apple's iOS ARKit, a Flask server hosted with Microsoft Azure, and many APIs including the Amadeus Travel APIs, the Microsoft Bing Image Search API, and the WolframAlpha Simple API.
+- **How it used Amadeus:** The team used Amadeus endpoints for information on nearby attractions, flight statistics and general travel information.
 - **How it used SAP Concur:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -173,7 +173,7 @@ Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pr
 - **Code:** [Source 1](https://github.com/alvinzz/models)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Baidu - Best Paddle Hack: Second Place
-- **How it used Baidu:** Sponsor use not stated on Devpost
+- **Baidu:** Built with PaddlePaddle (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -219,7 +219,7 @@ The team describes the project as “We use Baidu's Paddle Deep Learning framewo
 - **Code:** [Source 1](https://github.com/rfblue2/resentiment-analysis)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Baidu - Best Paddle Hack: First Place
-- **How it used Baidu:** Sponsor use not stated on Devpost
+- **How it used Baidu:** The team used Baidu’s Paddle deep learning framework to train a sentiment analyzer.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -236,7 +236,7 @@ The team describes the project as “We use Baidu's Paddle Deep Learning framewo
 
 DecentPass is a decentralized application that stores your passwords securely on the Ethereum blockchain.
 
-No public code linked · Built with ethereum, metamask, node.js, solidity
+No public code linked · Built with metamask, ethereum, node.js, solidity
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -246,7 +246,7 @@ No public code linked · Built with ethereum, metamask, node.js, solidity
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - ConsenSys - Best Use of Ethereum
-- **How it used ConsenSys:** Sponsor use not stated on Devpost
+- **ConsenSys:** Built with metamask (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -306,7 +306,7 @@ While Unity and Microsoft's UWP are powerful platforms, sometimes there can be p
 - **Code:** [Source 1](https://github.com/negitoromaki/ad-blockAR)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - GIPHY - Hack Most Likely to Change How We Communicate
-- **How it used GIPHY:** Sponsor use not stated on Devpost
+- **How it used GIPHY:** The project uses GIPHY APIs for dynamic content in lieu of ads.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -383,7 +383,7 @@ Allows people to join up in a "room" to work on tracks to make beats for a song.
 - **Code:** [Source 1](https://github.com/sbower213/band-together)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Firebase/Google - Best Use of Firebase
-- **How it used Google:** The team used firebase for server and database/storage as well as to sync up sessions.
+- **How it used Google:** The project uses Firebase for its server, database, storage, and session sync.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -406,7 +406,7 @@ No public code linked · Built with firebase, ajax, css, html
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The Firebase JavaScript SDK helps store round-up calculations.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -429,7 +429,7 @@ No public code linked · Built with firebase, crypto, express.js, javascript
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Firebase/Google - Best Use of Firebase Runner Up
-- **How it used Google:** This was built using cloud functions and Firebase as the back end and a Native-react front end.
+- **How it used Google:** The team built the back end using cloud functions and Firebase.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -462,7 +462,7 @@ No public code linked · Built with ibm, ibm-watson, bluemix, google-image-searc
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** General Prize - First Place · Sponsor Prize - IBM - Most Innovative Use of IBM Technology
-- **How it used IBM:** The team used python3 and the IBM Watson library.
+- **How it used IBM:** The team used the IBM Watson library.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -497,7 +497,7 @@ A roomba uses machine learning and a raspberry pi with a pi camera to search for
 - **Code:** [Source 1](https://github.com/dratini0/Roomba4E)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - iRobot Corporation - Best Roomba 980 Hack
-- **How it used iRobot:** Sponsor use not stated on Devpost
+- **How it used iRobot:** The project uses a Roomba with machine learning and a Raspberry Pi to search for objects.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -551,7 +551,7 @@ No public code linked · Built with bottle, c++, facebook, facebook-graph
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Facebook - Best Use of Facebook API
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **How it used Meta:** The HoloLens displays details next to faces if they match friends’ Facebook accounts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -578,7 +578,7 @@ Inclusive Human Computer Interactaion using Eye-gaze Estimation and Machine Lear
 - **Code:** [Source 1](https://github.com/96imranahmed/pure-interaction)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Microsoft - Best Microsoft Hack
-- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **How it used Microsoft:** The team used Microsoft CNTK to combine eye-gaze input with speech, physical action, and emotion sensing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -605,7 +605,7 @@ No public code linked · Built with flask, giphy-api, google-cloud-vision, ibm-w
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sponsor Prize - Nasdaq - Best Re-imagination of Market
-- **How it used Nasdaq:** Sponsor use not stated on Devpost
+- **How it used Nasdaq:** The team used Nasdaq's API to locate a company's stock and related news about its performance.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

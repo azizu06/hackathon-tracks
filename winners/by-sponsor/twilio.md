@@ -23,7 +23,7 @@
 
 The aim of the project to create automated windows, which open and close to maximize energy conservation.
 
-**How it used Twilio:** Sponsor use not stated on Devpost
+**Twilio:** Built with twilio (listed on Devpost)
 
 No public code linked · Built with twilio, android, arduino, electric-imp
 

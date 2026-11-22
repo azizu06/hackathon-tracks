@@ -23,7 +23,7 @@
 
 Aladin is an AI agent that lives in your browser.
 
-**How it used Auth0:** Sponsor use not stated on Devpost
+**How it used Auth0:** The server validates Auth0 JWTs before allowing interaction with the AI agent.
 
 [Code](https://github.com/ThomasKidane/aladin) · [Demo video](https://www.youtube.com/watch?v=bl4MjAQ5oZ8) · Built with auth0
 
@@ -33,7 +33,7 @@ Aladin is an AI agent that lives in your browser.
 
 Docket is a web app that gives developers a visual, AI-summarized history of their GitHub repositories.
 
-**How it used Auth0:** Building a working GitHub authentication service using auth0, allowing anyone to sign in and use the app right away using their GitHub information.
+**How it used Auth0:** The team used Auth0 to build a GitHub authentication service.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYCs) · Built with auth0, gemini, next.js, supabase
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYC
 
 GhostKode uses your Git history to identify the most unstable lines in your codebase.
 
-**How it used Auth0:** The team built with @auth0/nextjs-auth0 v4 and Next.js 16 App Router.
+**How it used Auth0:** The ghost agent inherits the user’s GitHub permissions through Auth0’s delegated token model.
 
 [Code](https://github.com/bbmullen72/ghostkode) · [Demo video](https://www.youtube.com/watch?v=H6tUjbQjOkg) · Built with ast, embeddings, gemini, github
 
@@ -53,7 +53,7 @@ GhostKode uses your Git history to identify the most unstable lines in your code
 
 The team describes the project as “StandIn on Business”.
 
-**How it used Auth0:** Sponsor use not stated on Devpost
+**How it used Auth0:** The team used Auth0 for AI Agents across the agent network.
 
 [Code](https://github.com/Boroshilov03/StandIn) · [Demo video](https://vimeo.com/1186688249) · Built with auth0, asusgx10, fetch.ai, gemini
 
@@ -65,7 +65,7 @@ The team describes the project as “StandIn on Business”.
 
 A command-center for T-Mobile product managers to anticipate customer needs. See sentiment in real time, predict outages, and allocate resources—all to strengthen every customer connection.
 
-**How it used Auth0:** Sponsor use not stated on Devpost
+**How it used Auth0:** The project uses Auth0 for authentication.
 
 [Code](https://github.com/Siriapps/HarmoniQ) · [Demo video](https://www.youtube.com/watch?v=rJU3_Fffqnc) · Built with fastapi, flask, gemini, python
 
@@ -75,7 +75,7 @@ A command-center for T-Mobile product managers to anticipate customer needs. See
 
 Your Face, Your Share, Your Bill.
 
-**How it used Auth0:** Sponsor use not stated on Devpost
+**How it used Auth0:** The project uses Auth0 for authentication and social login.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=tZ9x2874vH4) · Built with auth0, css, flask, git
 
@@ -95,7 +95,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=mIMQKbmX5O
 
 Sylly is a smart academic organizer that centralizes courses, assignments, and syllabi, making it easy to upload, share, search, and download materials in one place.
 
-**How it used Auth0:** Auth0 integration actually worked end to end.
+**How it used Auth0:** The team used Auth0 for login, logout, and token handling.
 
 [Code](https://github.com/alejandro0955/sylly-backend) · [Demo video](https://www.youtube.com/watch?v=j3aqd9J_kWA) · Built with auth0, node.js, prisma, react
 
@@ -105,7 +105,7 @@ Sylly is a smart academic organizer that centralizes courses, assignments, and s
 
 AI Agents for Simulated Market Research.
 
-**How it used Auth0:** Multi-Tenant Isolation Each user's workspace is completely isolated using Auth0's tenant features.
+**How it used Auth0:** Each user’s workspace is isolated using Auth0’s tenant features.
 
 [Code](https://github.com/krish1905/tunnel) · [Demo video](https://www.youtube.com/watch?v=d6M5oSDxqxw) · Built with auth0, cloudflare, cohere, dagre
 

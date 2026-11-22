@@ -23,7 +23,7 @@
 
 A web app to help you track your money and where you're spending it.
 
-**How it used Plaid:** Sponsor use not stated on Devpost
+**How it used Plaid:** The project uses the Plaid API for transaction data.
 
 [Code](https://github.com/shawnaness/geocash) · Built with plaid, express.js, google-maps, javascript
 

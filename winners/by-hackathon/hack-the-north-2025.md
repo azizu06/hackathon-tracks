@@ -71,8 +71,8 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67t
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rs7uaWL67tQ)
 - **All prizes at this hackathon (2):** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams · Cohere: Best Use of Cohere API
-- **How it used Amazon Web Services:** Format Optimization : The original WebM video files are converted using FFmpeg to GIFs &amp; MP4s, stored in S3, and then stored with the video metadata in DynamoDB.
-- **How it used Cohere:** Cohere Vision AI Integration : Based on extracted frames, Cohere's vision AI model generates video summaries and intelligent tags.
+- **How it used Amazon Web Services:** DynamoDB Streams automatically update the search index.
+- **How it used Cohere:** Cohere's vision AI model generates video summaries and tags from extracted frames.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -96,7 +96,7 @@ Lavoe provides an intuitive and AI-augmented DAW interface with features designe
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ISKuDB2s1jM)
 - **All prizes at this hackathon (2):** Rox: Best AI Agent · Windsurf: Best Project built with Windsurf
 - **How it used Rox:** Sponsor use not stated on Devpost
-- **How it used Windsurf:** Sponsor use not stated on Devpost
+- **Windsurf:** Built with windsurf (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -119,7 +119,7 @@ Smarter underwriting through AI-powered dashboards, deep insights, and reinforce
 - **Code:** [Source 1](https://github.com/jruttan1/Optimate)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R8M0fgPcW_Y)
 - **All prizes at this hackathon (2):** Federato: Best RiskOps Solution for Underwriters · Y Combinator: Unicorn Prize
-- **How it used Federato:** Sponsor use not stated on Devpost
+- **How it used Federato:** The team pulled the Federato API dataset and ingested it through a Python pipeline.
 - **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -143,7 +143,7 @@ Real-time facial recognition that identifies connections, remembers conversation
 - **Code:** [Source 1](https://github.com/qiuethan/Orbit)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-XV-iJZak3I)
 - **All prizes at this hackathon (2):** Groq · Windsurf: Best Project built with Windsurf
-- **How it used Groq:** Sponsor use not stated on Devpost
+- **How it used Groq:** The project uses Groq Whisper for audio transcription.
 - **How it used Windsurf:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -167,8 +167,8 @@ No public code linked · Built with cohere, solana, firebase, gcp
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Cohere: Best Use of Cohere API · Solana: Best Consumer Payment Experience with Solana Pay
-- **How it used Cohere:** Cohere API – Handles receipt scanning and item parsing using a self-criticism learning process, reducing errors and automating item assignment.
-- **How it used Solana:** Settle payments instantly via blockchain (Solana): Payments are trustless and immediate, without relying on traditional bank integration.
+- **How it used Cohere:** The Cohere API handles receipt scanning and item parsing.
+- **How it used Solana:** The project settles payments via the Solana blockchain.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -191,8 +191,8 @@ AI Agents for Simulated Market Research.
 - **Code:** [Source 1](https://github.com/krish1905/tunnel)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=d6M5oSDxqxw)
 - **All prizes at this hackathon (2):** MLH: Best Use of Auth0 · VAPI: Best Voice AI Application
-- **How it used Auth0:** Multi-Tenant Isolation Each user's workspace is completely isolated using Auth0's tenant features.
-- **How it used Vapi:** Natural Dialogue : Powered by Vapi, have actual phone-like conversations with personas.
+- **How it used Auth0:** Each user’s workspace is isolated using Auth0’s tenant features.
+- **How it used Vapi:** Vapi powers phone-like conversations with personas.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -223,7 +223,7 @@ AI Powered Voice-Based Systems Design Tool.
 - **Code:** [Source 1](https://github.com/koralkulacoglu/sematic)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams
-- **How it used Amazon Web Services:** The team built Sematic on AWS Amplify Gen 2, with AWS Lambda functions orchestrating calls to Google's Gemini 2.0 Flash API.
+- **How it used Amazon Web Services:** Sematic was built on AWS Amplify Gen 2, with AWS Lambda functions orchestrating calls to Google's Gemini 2.0 Flash API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -246,7 +246,7 @@ Stock market simulation game where students race to beat the market.
 - **Code:** [Source 1](https://github.com/redmac135/TradeOff)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KtQ0IwOUMy4)
 - **All prizes at this hackathon (1):** Amazon: AWS Campus Champions - Best Use of DynamoDB Streams
-- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
+- **How it used Amazon Web Services:** The team used Amazon DynamoDB for order book data, game state persistence, and user portfolio tracking.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -279,7 +279,7 @@ Learn about the process of how any GitHub project came to be! Get a timeline of 
 - **Code:** [Source 1](https://github.com/zjteachen/RepoStory)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PFAQEJIiuBQ)
 - **All prizes at this hackathon (1):** Cerebras: Best Use of Cerebras
-- **How it used Cerebras:** Cerebras was especially important; it was significantly faster than every other model, which let the team provide a seamless timeline streaming interface.
+- **How it used Cerebras:** The team used Cerebras-powered models with openai-agent.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -306,7 +306,7 @@ No public code linked · Built with cloudflare, gemini, javascript, neon
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MLH: Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** Sponsor use not stated on Devpost
+- **Cloudflare:** Built with cloudflare (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -335,7 +335,7 @@ An OSINT tool specializes in generating an accurate profile card from a username
 - **Code:** [Source 1](https://github.com/Sai-sys-cmd/Deepsint)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cohere: Best Use of Cohere API
-- **How it used Cohere:** Reason → Cohere embeddings correlate personas, detect behavioral patterns, and connect fuzzy signals.
+- **How it used Cohere:** Cohere embeddings correlate personas, detect behavioral patterns, and connect fuzzy signals.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -435,7 +435,7 @@ Competing to build a SOTA computer use agent (Cua + Hud + Ollama).
 - **Code:** [Source 1](https://github.com/Ram-Raghav-S/cua)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Cua: Best State-of-the-Art Computer-Use Agent
-- **How it used Cua:** Sponsor use not stated on Devpost
+- **Cua:** Built with Cua (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -462,7 +462,7 @@ The team describes the project as “Making academic and professional lives easi
 - **Code:** [Source 1](https://github.com/SultanAlzoghaibi/Hack-the-North-2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
-- **How it used Databricks:** Sponsor use not stated on Devpost
+- **How it used Databricks:** The project uses Databricks for data aggregation and LLM serving.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -545,7 +545,7 @@ BeyondSight is a full wearable ecosystem designed to empower DeafBlind individua
 - **Code:** [Source 1](https://github.com/WhyILived/BeyondSight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tEvHlx3xCRA)
 - **All prizes at this hackathon (1):** Genesys: Empathy in Action with Genesys Cloud APIs
-- **How it used Genesys:** Sponsor use not stated on Devpost
+- **How it used Genesys:** The project uses Genesys APIs for geolocation and conversation summarization.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -572,7 +572,7 @@ VibeMovie is an AI-native video editor that turns natural language into a render
 - **Code:** [Source 1](https://github.com/EvanJYHe/vibe-movie)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CYJZUQVHnmU)
 - **All prizes at this hackathon (1):** MLH: Best Use of Gemini API
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The Google Gemini API translates natural-language prompts into actions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -628,7 +628,7 @@ LeafPilot is an AI-powered LaTeX editor, built for education. Ask about a concep
 - **Code:** [Source 1](https://github.com/jbauerko/LeafPilot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NnTAQ1qyRsg)
 - **All prizes at this hackathon (1):** Groq
-- **How it used Groq:** AI Integration : Groq as the inference engine powering LaTeX generation, file summarization, mp3 transcription, and embedding-based retrieval.
+- **How it used Groq:** Groq powers LaTeX generation, file summarization, MP3 transcription and embedding-based retrieval.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -651,7 +651,7 @@ One Take generates professional product demos in minutes. Provide your GitHub or
 - **Code:** [Source 1](https://github.com/NikhilHooda/One-Take)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pDBiWdD8Y8M)
 - **All prizes at this hackathon (1):** Groq
-- **How it used Groq:** Sponsor use not stated on Devpost
+- **How it used Groq:** The project uses Groq for the voice over for the demo video.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -674,7 +674,7 @@ SpeakEasy gives nonverbal users a voice. Built on Snap Spectacles, it detects th
 - **Code:** [Source 1](https://github.com/ammiellewb/SpeakEasy-public)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8TX48L2IG18)
 - **All prizes at this hackathon (1):** Groq
-- **How it used Groq:** Using an object detection system powered by Gemini and accelerated by Groq, the glasses analyze the user’s surroundings and generate context-aware conversation prompts on an interactive AR keyboard built in Lens Studio.
+- **How it used Groq:** The team used Groq for language generation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -701,7 +701,7 @@ LangSketch is a visual agent builder that leverages Databricks for data processi
 - **Code:** [Source 1](https://github.com/rajshah6/langsketch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L6CZgvak0hQ)
 - **All prizes at this hackathon (1):** Martian: LLM Routing with Martian
-- **How it used Martian:** Sponsor use not stated on Devpost
+- **How it used Martian:** The project uses the Martian Deimos router for model selection based on task complexity and agent capabilities.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -728,7 +728,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=32oY_iV8jR
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=32oY_iV8jRo) · [Video 2](https://www.youtube.com/watch?v=AeguwtHqEjc)
 - **All prizes at this hackathon (1):** MLH: Best Use of MongoDB Atlas
-- **How it used MongoDB:** Sponsor use not stated on Devpost
+- **How it used MongoDB:** The project stores encrypted models, metadata, and embeddings in MongoDB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -755,7 +755,7 @@ Configuring your QNX Raspberry Pi can be a long and boring process. Accelerate i
 - **Code:** [Source 1](https://github.com/Qubik65536/QNX-RasPi-Setup-Util)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** QNX: Best Use of QNX: Hardware and Software Prizes
-- **How it used QNX:** QNX Software Development Platform 8.0, QNX Toolkit, and Docker Build Environment for QNX on macOS are used to power the program development and building environment.
+- **How it used QNX:** The project uses QNX Software Development Platform 8.0 and QNX Toolkit for the program development and building environment.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -778,7 +778,7 @@ No public code linked · Built with qnx, o-drive, python
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** QNX: Best Use of QNX: Hardware and Software Prizes
-- **How it used QNX:** Sponsor use not stated on Devpost
+- **How it used QNX:** The project uses the QNX Raspberry Pi kit to interface with the IMU.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -805,7 +805,7 @@ Learn investing through AI-tailored lessons, playful goose gamification, and rea
 - **Code:** [Source 1](https://github.com/svn05/v2webhonkonomics)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** RBC: RBC InvestEase - Investing for the Future
-- **How it used RBC:** Sponsor use not stated on Devpost
+- **How it used RBC:** The project demos portfolio management on the RBC InvestEase sandbox.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -828,7 +828,7 @@ Money Talks transforms raw bank statements into actionable financial insights th
 - **Code:** [Source 1](https://github.com/KadenDaya/Money-Talks-HTN-2025-Winner)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y2xe-7n20gI)
 - **All prizes at this hackathon (1):** RBC: RBC InvestEase - Investing for the Future
-- **How it used RBC:** RBC API integration for realistic investment projections.
+- **How it used RBC:** The project uses the RBC API for investment projections.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -855,7 +855,7 @@ A task &amp; reward hub with AI-powered candidate matching and XRPL payments.
 - **Code:** [Source 1](https://github.com/Afformativ/HackTheNorth)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=s_kBH_H0Pmw)
 - **All prizes at this hackathon (1):** Ripple: Best in Ledger Award
-- **How it used Ripple:** Seamless XRPL testnet integration, successfully funding wallets and paying out in both RLUSD and XRP.
+- **How it used Ripple:** The project funds wallets and pays out in RLUSD and XRP through its XRPL testnet integration.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -878,7 +878,7 @@ RippleRelief is a web app that connects donors, NGOs, recipients, and merchants 
 - **Code:** [Source 1](https://github.com/peterson-htn252/PulseRelief)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Ripple: Best in Ledger Award
-- **How it used Ripple:** Payments: Integrated Stripe so donors can give in fiat (credit card, bank, etc.), while each donation is mirrored on XRPL as a transparent, traceable transaction.
+- **How it used Ripple:** NGOs issue digital vouchers (IOUs) directly on XRPL.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -957,7 +957,7 @@ An e-commerce platform with two faces: customers checkout by camera no barcode, 
 - **Code:** [Source 1](https://github.com/MeharPro/Tarazoo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6TfBS77bEAU)
 - **All prizes at this hackathon (1):** Shopify: Hack Shopping with AI
-- **How it used Shopify:** Sponsor use not stated on Devpost
+- **Shopify:** Built with shopify (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -984,7 +984,7 @@ Did you ever want to learn alchemy, but you were limited by the laws of physics?
 - **Code:** [Source 1](https://github.com/jasonnpan/ARchemy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-qdRSClgbJA)
 - **All prizes at this hackathon (1):** Snap: Spectacles AR Hackathon: Game On!
-- **How it used Snap:** Using Snap Spectacles and Snap3D, players can pick up, merge, and transform objects around them into entirely new creations.
+- **How it used Snap:** The team used Snap Spectacles and Lens Studio for the AR experience.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1007,7 +1007,7 @@ lets you crash out, whenever, wherever, whatever (on the drums).
 - **Code:** [Source 1](https://github.com/dagsion/HTN25_CRASHOUT)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=222g1xCWzGk)
 - **All prizes at this hackathon (1):** Snap: Spectacles AR Hackathon: Game On!
-- **How it used Snap:** Sponsor use not stated on Devpost
+- **How it used Snap:** The pressure sensor is transmitting the strength of a strike to the Spectacles for instant feedback.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1065,7 +1065,7 @@ Stacy is a voice safety companion. Stacy logs incidents, your live location, ale
 - **Code:** [Source 1](https://github.com/apollo-ullah/HackTheNorth2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nHx5KazGawQ)
 - **All prizes at this hackathon (1):** VAPI: Best Voice AI Application
-- **How it used Vapi:** Sponsor use not stated on Devpost
+- **Vapi:** Built with vapi (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1088,7 +1088,7 @@ Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gem
 - **Code:** [Source 1](https://github.com/KaivalSShah/vraille-htn2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4gdPROUsaRw)
 - **All prizes at this hackathon (1):** VAPI: Best Voice AI Application
-- **How it used Vapi:** Sponsor use not stated on Devpost
+- **How it used Vapi:** The project uses Vapi voice agents for conversations between the user and the system.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1144,7 +1144,7 @@ Design 3D aircraft using AI, and simulate piloting them in AR. On mobile browser
 - **Code:** [Source 1](https://github.com/YehyunLee/aircraft-studio)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QkZTAo8Ba2k)
 - **All prizes at this hackathon (1):** Windsurf: Best Project built with Windsurf
-- **How it used Windsurf:** Windsurf: Built and iterated entirely in an AI‑native IDE workflow to accelerate feature delivery.
+- **How it used Windsurf:** The team built and iterated on the project in the Windsurf IDE.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

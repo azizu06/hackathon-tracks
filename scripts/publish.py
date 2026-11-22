@@ -9,11 +9,11 @@ import re
 
 from evidence import clean, overview_tracks, project_details
 from fetch import Fetcher, cache_path, gallery_winners, prize_label, verified_link
+from sponsor_use import BUILT_WITH, MISSING_INTEGRATION, USE_EVIDENCE, USE_UNAVAILABLE, load_uses, validate_use
 
 
 HERE = Path(__file__).resolve().parent
 OTHER_SPONSOR = "Other"
-MISSING_INTEGRATION = "Sponsor use not stated on Devpost"
 FEATURED_URL = "https://devpost.com/software/backrooms-h4o783"
 FEATURED_EVENT = "cal-hacks-13-0"
 FEATURED_PRIZE = "[Hyphenate] The Hyphenated Enterprise: Autonomous Systems for Finance"
@@ -127,13 +127,6 @@ def sentence(value):
     return value.strip().rstrip(".!?") + "."
 
 
-def complete_ending(value):
-    return not re.search(
-        r"(?:[:,;–—(]|\b(?:and|or|the|with|in|to|for|of|via|that|high|such as|as follows))\s*[.!?]*$",
-        value, re.I,
-    )
-
-
 def evidence_sentences(text, max_words=30):
     for part in re.split(r"(?<=[.!?])\s+(?=[A-Z])", text):
         part = re.sub(r"^We\b", "The team", part.strip().lstrip("-• "))
@@ -151,11 +144,9 @@ def sponsor_pattern(sponsor):
     return re.compile("|".join(terms), re.I)
 
 
-def describe(project, sponsor, curated, authored):
+def describe(project, sponsor, curated):
     pattern = sponsor_pattern(sponsor)
     tags = [tag for tag in project.built_with if sponsor != OTHER_SPONSOR and pattern.search(tag)]
-    if authored and authored[0]:
-        curated = authored[0]
     features = [
         s for heading, text in project.story if re.search(r"what (?:it|this|we)|features|overview", heading)
         for s in evidence_sentences(text)
@@ -174,49 +165,7 @@ def describe(project, sponsor, curated, authored):
         description = f'The team describes the project as “{caption.rstrip(".!?")}”.'
     else:
         description = "The Devpost entry has no usable short project description."
-    if authored:
-        usage = authored[1]
-        evidence = "Edited from project page"
-    else:
-        usage = sponsor_usage(project, sponsor, pattern)
-        evidence = "Project write-up"
-    if not usage or usage == MISSING_INTEGRATION:
-        return description, MISSING_INTEGRATION, tags, "Integration detail unavailable"
-    return description, usage, tags, evidence
-
-
-def sponsor_usage(project, sponsor, pattern):
-    if sponsor == OTHER_SPONSOR:
-        return ""
-    for heading, text in project.story:
-        if re.search(r"inspiration|\bnext\b|learned|future|challenges|acknowledg|credits", heading):
-            continue
-        for note in evidence_sentences(text, max_words=35):
-            if not complete_ending(note) or not pattern.search(note) or re.search(
-                r"\b(?:never|will|plan to|wanted to|could|would|did not|a lot of|thanks to|similar to|"
-                r"inspired by|compared to|for example|if unavailable|future extension|built using the following|you|your)\b|"
-                r"\b\d+[.)]\s|"
-                r"^(?:[^\w“\"]+\s*)?(?:next|tech(?:nology)? stack|built with the following|best use of|mlh)\b",
-                note, re.I,
-            ):
-                continue
-            if not re.search(
-                r"\b(?:us(?:e[sd]?|ing)|power(?:s|ed)?|runs?|built|train(?:s|ed)?|generate[sd]?|integrat\w+|"
-                r"provide[sd]?|stor(?:es|ed)|deploy(?:s|ed)?|host(?:s|ed)?|quer(?:ies|ied)|process(?:es|ed)?|"
-                r"handle[sd]?|connect[sd]?|measure[sd]?|synchroniz\w+|fetch(?:es|ed)?|driv(?:es|en))\b",
-                note, re.I,
-            ):
-                continue
-            if note.count("“") != note.count("”") or note.count('"') % 2 or note.count("(") != note.count(")") or note.count(",") > 6:
-                continue
-            note = re.sub(r"\s+([,.!?])", r"\1", note.lstrip("\u200b ").strip())
-            note = re.sub(r"^The team['’]ve\b", "The team has", note)
-            note = re.sub(r"^The team['’]re\b", "The team is", note)
-            if re.match(r"^(?:Also )?(?:used|integrated|deployed|developed|built|created)\b", note, re.I):
-                note = "The team " + note[0].lower() + note[1:]
-            note = re.sub(r"^The team (use|make|run|complete|employ)\b", r"The team \1s", note)
-            return note
-    return ""
+    return description, tags
 
 
 REQUIRED_PRODUCTS = {
@@ -300,14 +249,23 @@ def dedup_project_rows(rows):
     return list({(row["event_slug"], row["url"]): row for row in rows}.values())
 
 
-def index_rows(cache, receipts):
+def cached_readme_has_quote(cache, links, quote):
+    for link in links:
+        if not link.startswith("https://github.com/"):
+            continue
+        repo = link.removeprefix("https://github.com/")
+        readme = cache / f"{repo}.md"
+        if readme.is_file() and quote in clean(readme.read_text(encoding="utf-8", errors="replace")):
+            return True
+    return False
+
+
+def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None):
     rows = []
     event_info = events()
     descriptions = dict(load_tsv("projects.tsv"))
-    summaries = {
-        (url, sponsor): (description, integration)
-        for url, sponsor, description, integration in load_tsv("summaries.tsv")
-    }
+    overrides = {(url, sponsor): summary for url, sponsor, summary in load_tsv("summary-descriptions.tsv")}
+    uses = load_uses()
     candidates, missing = candidate_awards(cache, receipts)
     parsed = {}
     observed_links = defaultdict(set)
@@ -351,9 +309,10 @@ def index_rows(cache, receipts):
             prizes_at_event = sorted(labels | gallery_labels[url] | ({FEATURED_PRIZE} if event == FEATURED_EVENT and url == FEATURED_URL else set()), key=str.casefold)
             if gallery_labels[url] - labels:
                 missing[event].append(f"Gallery lists additional Winner labels for {url}")
-            before, use, tags, summary_evidence = describe(
-                project, sponsor, descriptions.get(url), summaries.get((url, sponsor))
-            )
+            before, tags = describe(project, sponsor, overrides.get((url, sponsor), descriptions.get(url)))
+            use, source, quote = uses.get((url, sponsor), (MISSING_INTEGRATION, None, None))
+            if source == BUILT_WITH and quote in project.built_with and quote not in tags:
+                tags.append(quote)
             rules = track_details.get(clean(prize), [])
             needed, requirement_source = requirement(prize, rules)
             observed_links["source"].update(project.source_links)
@@ -362,7 +321,8 @@ def index_rows(cache, receipts):
                 "project": project.name, "hackathon": name, "year": year, "event_slug": event,
                 "sponsor": sponsor, "prize": prize, "prize_value": stated_value(prize),
                 "description": before, "sponsor_integration": use, "summary": f"{before} {use}",
-                "summary_evidence": summary_evidence, "sponsor_tech": tags,
+                "summary_evidence": USE_EVIDENCE.get(source, USE_UNAVAILABLE),
+                "use_source": source, "use_quote": quote, "sponsor_tech": tags,
                 "built_with": project.built_with, "team_size": project.team_size,
                 "event_prize_count": len(prizes_at_event), "event_prizes": prizes_at_event,
                 "required_tech": needed, "requirement_source": requirement_source,
@@ -374,6 +334,20 @@ def index_rows(cache, receipts):
                 "award_evidence": evidence, "fetched_on": receipts[url]["fetched_at"][:10],
                 "http_status": receipts[url]["status"],
             })
+    for row in rows:
+        project = parsed[row["url"]]
+        try:
+            validate_use(row)
+            source, quote = row["use_source"], row["use_quote"]
+            if validate_quotes and source and source.startswith("devpost:") and source != BUILT_WITH:
+                if quote not in project.writeup_text and quote not in project.tagline:
+                    raise ValueError("Use quote is absent from the cached Devpost write-up")
+            if github_cache is not None and source == "github:readme":
+                links = set(project.source_links) | set(row["source_urls"])
+                if not cached_readme_has_quote(github_cache, links, quote):
+                    raise ValueError("Use quote is absent from the cached linked GitHub READMEs")
+        except ValueError as error:
+            raise ValueError(f"{row['url']} ({row['sponsor']}): {error}") from error
     rows.sort(key=lambda row: (
         row["sponsor"].casefold(), -row["year"], row["event_slug"],
         row["project"].casefold(), row["url"], row["prize"].casefold(),
@@ -384,6 +358,7 @@ def index_rows(cache, receipts):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--cache", type=Path, default=Path(".devpost-cache"))
+    parser.add_argument("--github-cache", type=Path, help="Verify README excerpts against a local cache")
     parser.add_argument("--output", type=Path, default=HERE.parent / "winners")
     parser.add_argument("--readme", type=Path, help="Refresh the generated sections in the root README")
     parser.add_argument("--result", type=Path)
@@ -391,7 +366,9 @@ def main():
     parser.add_argument("--list-links", action="store_true")
     args = parser.parse_args()
     fetcher = Fetcher(args.cache, retry_failed=False)
-    rows, candidates, missing, links = index_rows(args.cache, fetcher.receipts)
+    rows, candidates, missing, links = index_rows(
+        args.cache, fetcher.receipts, validate_quotes=not args.list_links, github_cache=args.github_cache,
+    )
     if args.list_links:
         for link in sorted(links["source"] | links["demo"]):
             print(link)

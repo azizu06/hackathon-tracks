@@ -52,7 +52,7 @@ After your guess on what the image represents, a gallery will be presented with 
 - **Code:** [Source 1](https://github.com/NuoWenLei/ai-image-telephone)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best .Tech Domain Name
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
+- **How it used .Tech Domains:** The project is at www.telephoto.tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -106,7 +106,7 @@ After logging in, users are directed to a page requesting the title of the paper
 - **Code:** [Source 1](https://github.com/AnnieWang314/blankspace)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of MongoDB Atlas
-- **How it used MongoDB:** Sponsor use not stated on Devpost
+- **MongoDB:** Built with mongodb (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -160,7 +160,7 @@ Make accountable long-term wagers using the blockchain.
 - **Code:** [Source 1](https://github.com/jahaskell53/starknet-hackathon-3)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Starknet
-- **How it used Starknet:** The team also used React and the React-Starknet library to create a friendly user interface for interacting and viewing these contracts.
+- **How it used Starknet:** The team used the React-Starknet library to create a user interface for interacting with the contracts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

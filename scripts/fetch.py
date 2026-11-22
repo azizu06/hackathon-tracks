@@ -239,7 +239,7 @@ def run(args):
         for url in sorted(urls):
             fetcher.get(url)
         if args.mode == "all":
-            _, _, _, links = index_rows(args.cache, fetcher.receipts)
+            _, _, _, links = index_rows(args.cache, fetcher.receipts, validate_quotes=False)
             hosts = defaultdict(list)
             for url in sorted(links["source"] | links["demo"]):
                 hosts[urlsplit(url).hostname].append(url)

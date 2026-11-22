@@ -23,7 +23,7 @@
 
 Bin-It lets residents report overflowing bins from a phone while a dashboard helps city staff compare candidate locations for new bins.
 
-**How it used Databricks:** Databricks processes locations, bin inventory and 311 complaints to estimate where trash accumulates and rank potential sites.
+**How it used Databricks:** Databricks processes geolocation, bin, place, and 311 complaint data.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9I) · Built with databricks, clip, docker, expo.io
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9
 
 CrisisLens combines humanitarian risk and funding data in a country-level dashboard where response teams can compare needs and run intervention scenarios.
 
-**How it used Databricks:** Databricks supplies the country data and Genie answers natural-language questions inside the dashboard.
+**How it used Databricks:** The team embedded Databricks Genie in the operational dashboard.
 
 [Code](https://github.com/Michael-RDev/CrisisLens) · [Demo video](https://www.youtube.com/watch?v=YD6H3emkDrc) · Built with databricks, docker, nextjs, numpy
 
@@ -43,7 +43,7 @@ CrisisLens combines humanitarian risk and funding data in a country-level dashbo
 
 A dashboard maps humanitarian funding against local needs to identify crises that receive too little aid.
 
-**How it used Databricks:** GeoInsight connects OCHA’s Financial Tracking Service (FTS) and INFORM Severity data via a Databricks Genie AI Space.
+**How it used Databricks:** The team hosted humanitarian datasets on Databricks and used Unity Catalog to manage them.
 
 [Code](https://github.com/Angelr327/DSL-Hackalytics) · [Demo video](https://www.youtube.com/watch?v=jn_rcXjV_zw) · Built with databricks, fastapi, html, javascript
 
@@ -63,7 +63,7 @@ An accessibility prototype uses EEG readings from a visual interface to let peop
 
 A gym app uses phone-based exercise feedback to help people learn proper form.
 
-**How it used Databricks:** Databricks Pipelines: ingests exported workout telemetry to build a multi-tier lakehouse processing raw logs (Bronze), validated set metrics (Silver), and aggregate process summaries (Gold).
+**How it used Databricks:** The team uses Databricks Pipelines to ingest exported workout telemetry for a multi-tier lakehouse.
 
 [Code](https://github.com/Del0m/KnightHacks2026) · [Demo video](https://www.youtube.com/watch?v=PPEBBCLeCrA) · Built with databricks, chatgpt, cv, expo.io
 
@@ -75,7 +75,7 @@ A gym app uses phone-based exercise feedback to help people learn proper form.
 
 The team describes the project as “Making academic and professional lives easier for students around the world! Our project scrapes community data to provide students with valuable information to simplify the course…
 
-**How it used Databricks:** Sponsor use not stated on Devpost
+**How it used Databricks:** The project uses Databricks for data aggregation and LLM serving.
 
 [Code](https://github.com/SultanAlzoghaibi/Hack-the-North-2025) · Built with databricks, css, html, llama
 
@@ -87,7 +87,7 @@ The team describes the project as “Making academic and professional lives easi
 
 What your heart and mind really have to say.
 
-**How it used Databricks:** Sponsor use not stated on Devpost
+**How it used Databricks:** The project stores its data in a Databricks managed table.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvMo) · Built with databricks, amazon-web-services, fastapi, groq
 
@@ -117,7 +117,7 @@ Revolutionizing accessibility through natural-sounding TTS and insightful image 
 
 an AI platform that automates data entry from text and speech, anonymizes patient information, and delivers treatment recommendations, enhancing diagnostic accuracy for healthcare professionals.
 
-**How it used Databricks:** Sponsor use not stated on Devpost
+**How it used Databricks:** The project uses Databricks Open Source for K-means clustering.
 
 No public code linked · Built with cloudfare, flask, nextjs, openai-api
 

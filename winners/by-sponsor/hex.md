@@ -33,7 +33,7 @@ Commons is a map-first community coordination platform.
 
 Food banks today find out about crises when the line gets longer. CrisisGrid detects the signal before the surge hits and creates analytics-powered response plans and supply orders in minutes.
 
-**How it used Hex:** Sponsor use not stated on Devpost
+**Hex:** Built with hex (listed on Devpost)
 
 [Code](https://github.com/richykim7/YHack2026) · [Demo video](https://www.youtube.com/watch?v=KBmjbQHAL_0) · Built with hex, anthropic-claude-api, fastapi, framer-motion
 
@@ -43,7 +43,7 @@ Food banks today find out about crises when the line gets longer. CrisisGrid det
 
 An agentic AI incident resolution platform that ingests service incidents and orchestrates AI agents for triage, root cause analysis, remediation, and verification, with human in the loop feedback.
 
-**How it used Hex:** The team are using Hex as a Long-term incident memory bank.
+**How it used Hex:** The team uses Hex as a long-term incident memory bank.
 
 [Code](https://github.com/aumghelani/HiveOps-NatomaSub) · [Demo video](https://www.youtube.com/watch?v=Wgevevl1hTY) · Built with hex-api, anthropic, fastapi, gemini
 

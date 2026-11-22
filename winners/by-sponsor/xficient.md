@@ -43,7 +43,7 @@ No public code linked · Built with flask, github, gpt-4, neon
 
 Xficient Bot revolutionizes course catalog management by using unsupervised learning to cluster uploaded files.
 
-**How it used Xficient:** Xficient Bot revolutionizes course catalog management by using unsupervised learning to cluster uploaded files.
+**How it used Xficient:** Sponsor use not stated on Devpost
 
 No public code linked · Built with gpt, natural-language-processing, openai, python
 

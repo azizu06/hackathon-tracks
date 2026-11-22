@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=9v1aXlQLu_
 
 An accessible Google StreetView for the visually impaired through visceral scene description built with Deep Learning.
 
-**How it used Spell:** Sponsor use not stated on Devpost
+**Spell:** Built with spell (listed on Devpost)
 
 [Code](https://github.com/R0bk/image_captioning) · Built with spell, deep-learning, google-streetview, javascript
 

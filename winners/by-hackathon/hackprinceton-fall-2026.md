@@ -61,7 +61,7 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IY0Rr7l58Eg)
 - **All prizes at this hackathon (4):** &#91;Amazon&#93; Best Practical AI Innovation · &#91;Justin Bojarski&#93; Best Physical AI Hack · &#91;LangChain&#93; Best use of deepagents · Best Overall Hack
 - **How it used Amazon Web Services:** Sponsor use not stated on Devpost
-- **How it used LangChain:** Sponsor use not stated on Devpost
+- **How it used LangChain:** The project reads the LangGraph server for its dashboard and traces every run in LangSmith.
 - **Sponsor use:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -85,8 +85,8 @@ A dashboard supplies incident information to fire dispatchers.
 - **Code:** [Source 1](https://github.com/param-mans/FlameScout)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LlK6Ls93_Ys)
 - **All prizes at this hackathon (2):** &#91;ChatOverflow&#93; The ChatOverflow Agent Leaderboard · &#91;MLH&#93; Best Use of Vultr
-- **How it used ChatOverflow:** Sponsor use not stated on Devpost
-- **How it used Vultr:** Sponsor use not stated on Devpost
+- **How it used ChatOverflow:** Coding agents shared verified findings from the build through ChatOverflow.
+- **How it used Vultr:** The Docker Compose deployment is on Vultr behind Caddy.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -110,7 +110,7 @@ A wearable combines spoken assistance with spatial audio to help people with vis
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eoBT5CGjsPA)
 - **All prizes at this hackathon (2):** &#91;Amazon&#93; Best Practical AI Innovation · &#91;MLH&#93; Best Use of Gemini API
 - **How it used Amazon Web Services:** Sponsor use not stated on Devpost
-- **How it used Google:** Gemini 3.8 Flash handles real-time object detection on camera frames, understanding spoken requests, and function calling: each Meridies feature is a tool Meri can call, so one sentence moves the user between features.
+- **How it used Google:** Gemini 2.5 Pro TTS gives Meri its voice.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -134,7 +134,7 @@ A camera watches the ingredients, AI counts every item taken, and texts the owne
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tsmOwUs_G00)
 - **All prizes at this hackathon (2):** &#91;Peri&#93; Forward Deployed Engineer · &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
 - **How it used Peri:** Sponsor use not stated on Devpost
-- **How it used Photon:** Sponsor use not stated on Devpost
+- **Photon:** Built with photon (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -165,7 +165,7 @@ Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 - **Code:** [Source 1](https://github.com/aditya-baniya-ai/hack_princeton)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nPXe5ZIrOiY)
 - **All prizes at this hackathon (1):** &#91;Amazon&#93; Best Practical AI Innovation
-- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
+- **How it used Amazon Web Services:** The project used Amazon Nova on Bedrock for its AI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -265,7 +265,7 @@ A simulator lets prospective business owners test how they could operate in an a
 - **Code:** [Source 1](https://github.com/farhanmir/playitfirst)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xamUK8so4zI)
 - **All prizes at this hackathon (1):** &#91;Capital One&#93; Best Usage of Nessie
-- **How it used Capital One:** After owner approval, Nessie processed the merchant purchase, and the confirmed bank balance reconciled with the game's operating cash.
+- **How it used Capital One:** The team used the Nessie V2 API to connect the simulation to mock business banking.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -413,7 +413,7 @@ Find your space with Stagehand! For creatives wanting to visualize before bookin
 - **Code:** [Source 1](https://github.com/sofiagrimm/hackprinceton)
 - **Demo video:** [Video 1](https://vimeo.com/1246959819)
 - **All prizes at this hackathon (1):** &#91;CoStar Group&#93; Inside and Out: AI for the Built World
-- **How it used CoStar Group:** Sponsor use not stated on Devpost
+- **How it used CoStar Group:** The team built the project on CoStar Group property records and Matterport scans.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -440,7 +440,7 @@ One in Three is an interactive and fully immersive AI simulation that puts men i
 - **Code:** [Source 1](https://github.com/limjiayi21/oneinthree)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dFNiASxPbck)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -479,7 +479,7 @@ A property planning tool helps developers evaluate sites and visualize them in 3
 - **Code:** [Source 1](https://github.com/sudarshan-krishnan/GeoStar_PtonHacks_2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0TEguSxAemc)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** MongoDB Atlas for Studio projects, decisions, Atlas Search, Vector Search, geo queries, change streams and user accounts.
+- **How it used MongoDB:** The project uses MongoDB Atlas for projects, decisions, search, geo queries, change streams, and user accounts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -560,7 +560,7 @@ Turn an emergency call into an indoor rescue map. With CoStar’s 3D building da
 - **Code:** [Source 1](https://github.com/ben-du1/LifeLine)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Sw2sJuAJ5v8)
 - **All prizes at this hackathon (1):** &#91;Photon&#93; Best Voice Agent
-- **How it used Photon:** Sponsor use not stated on Devpost
+- **How it used Photon:** Photon bridges the phone network and the application.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -583,7 +583,7 @@ Personal agent for college students that lives in iMessage - text it your syllab
 - **Code:** [Source 1](https://github.com/zhoulinhua0-star/hackprinceton-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=frTz_ULVTXY)
 - **All prizes at this hackathon (1):** &#91;Photon&#93; Build a Messaging Agent using Photon 2.0
-- **How it used Photon:** Sponsor use not stated on Devpost
+- **Photon:** Built with photon (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -610,7 +610,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=DKfr1q-T7U
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DKfr1q-T7UU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** Gemini, LangChain, MongoDB and Solana all working in one weekend, and the demo still runs offline.
+- **Solana:** Built with solana (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,7 +23,7 @@
 
 🏢 Prepare buildings. 🔥 Save every resident. 🛡️.
 
-**How it used Spacetime:** ⚡ SpacetimeDB is the backend (hosted on Maincloud).
+**How it used Spacetime:** SpacetimeDB is the backend and is hosted on Maincloud.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=lORYwjN39mg) · Built with spacetimedb, anthropic-api, blender, cal-fire
 
@@ -43,7 +43,7 @@ A wearable tracks crowd conditions and helps attendees reconnect with their grou
 
 A shared editor lets teammates work on a video together with help from AI assistants.
 
-**How it used Spacetime:** CoClip uses SpacetimeDB to sync the video timeline and media state across collaborators.
+**How it used Spacetime:** SpacetimeDB handled much of the real-time infrastructure.
 
 [Code](https://github.com/anuragsk05/CoClip) · [Demo video](https://www.youtube.com/watch?v=0Oz84yuXpbE) · Built with spacetimedb, gemini, google, json
 
@@ -53,7 +53,7 @@ A shared editor lets teammates work on a video together with help from AI assist
 
 Collab3D is a web tool using a Spacetime database to allow real-time collaboration on 3D scenes, encouraging a faster workflow for art studios, game developers, video editors, and many more.
 
-**How it used Spacetime:** Sponsor use not stated on Devpost
+**How it used Spacetime:** The team used SpacetimeDB as the backend.
 
 [Code](https://github.com/hendohpp/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=Q5XlCu8Cxjg) · Built with spacetime, spacetimedb, 3d-modeling, database
 
@@ -63,7 +63,7 @@ Collab3D is a web tool using a Spacetime database to allow real-time collaborati
 
 A benchmark lets users watch how AI agents make decisions and inspect the measured outcomes.
 
-**How it used Spacetime:** Generated TypeScript bindings connect the viewer, harness, and recorder; results are exported over SpacetimeDB's SQL HTTP API.
+**How it used Spacetime:** The live simulation is a TypeScript module on SpacetimeDB.
 
 [Code](https://github.com/BeanyZoldyck/endersbench) · [Demo video](https://www.youtube.com/watch?v=tvfnVoL_0-o) · Built with spacetimedb, anthropic-api, css, cuda
 
@@ -73,7 +73,7 @@ A benchmark lets users watch how AI agents make decisions and inspect the measur
 
 A robotics workflow coordinates collection of demonstrations and uses them to fine-tune policies for physical robots.
 
-**How it used Spacetime:** RoboFactory uses SpacetimeDB to share tasks, robot control leases, and payout records across services.
+**How it used Spacetime:** The backend publishes its URL into SpacetimeDB with an HMAC proof.
 
 [Code](https://github.com/jaximus808/GeonosisAI) · [Demo video](https://www.youtube.com/watch?v=HToL9LhmV2s) · Built with spacetimedb, anthropic, claude, claude-code
 
@@ -83,7 +83,7 @@ A robotics workflow coordinates collection of demonstrations and uses them to fi
 
 Live coordination for AI coding agents. InSync catches conflicting changes, even ones git would merge cleanly, while agents are still coding, and an NVIDIA Nemotron coordinator resolves them.
 
-**How it used Spacetime:** Sponsor use not stated on Devpost
+**How it used Spacetime:** The project uses live SpacetimeDB subscriptions for every panel.
 
 [Code](https://github.com/Kolby-Schulz/HackUTD2026) · [Demo video](https://www.youtube.com/watch?v=48Lb0jSEhU4) · Built with spacetimedb, claude, daemon, nemotron
 
@@ -93,7 +93,7 @@ Live coordination for AI coding agents. InSync catches conflicting changes, even
 
 A finance workflow uses agents for month-end close tasks and waits for human approval before posting.
 
-**How it used Spacetime:** On every pull request, CI runs the module smoke test, which tries every gate and refusal against a real SpacetimeDB.
+**How it used Spacetime:** CI runs module smoke tests against a real SpacetimeDB on every pull request.
 
 [Code](https://github.com/3nvyx/luyten) · [Demo video](https://www.youtube.com/watch?v=is1IP042_v8) · Built with spacetimedb, anthropic, apify, bright-data
 
@@ -103,7 +103,7 @@ A finance workflow uses agents for month-end close tasks and waits for human app
 
 A shared coding workspace coordinates AI agents working across devices.
 
-**How it used Spacetime:** The team built Orkio using Factory Droid SDK, SpacetimeDB, Claude Code hooks, MCP, Git, TypeScript, and Vitest.
+**How it used Spacetime:** The team integrated Factory Droid and SpacetimeDB into a system that coordinates development across independent agent environments, while allowing developers to continue using their normal Git workflows.
 
 [Code](https://github.com/chuddrw/CalHacks26) · [Demo video](https://www.youtube.com/watch?v=8ImPqzqmFgQ) · Built with spacetimedb, claude-api, claude-code, css
 
@@ -113,7 +113,7 @@ A shared coding workspace coordinates AI agents working across devices.
 
 A collaborative canvas gives a team a shared place to do its accounting.
 
-**How it used Spacetime:** The app is built using SpacetimeDB.
+**How it used Spacetime:** The team built the app using SpacetimeDB.
 
 [Code](https://github.com/Rahuchpred/Pacilio) · [Demo video](https://www.youtube.com/watch?v=F4qrINg8msw) · Built with spacetimedb, droidsdk, factoryai, figma
 
@@ -133,7 +133,7 @@ Players use their phones as motion controllers to play racket sports on a laptop
 
 An autonomous agentic system that helps you end your night safely.
 
-**How it used Spacetime:** Sponsor use not stated on Devpost
+**How it used Spacetime:** The project uses SpacetimeDB as its backend.
 
 [Code](https://github.com/sabharwalainesh/SafeNight) · [Demo video](https://www.youtube.com/watch?v=jR3KpfDd_MY) · Built with spacetimedb, claude, codex, nemotron
 
@@ -143,7 +143,7 @@ An autonomous agentic system that helps you end your night safely.
 
 Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from the first conversation with the patient to the end of the operation.
 
-**How it used Spacetime:** Sponsor use not stated on Devpost
+**How it used Spacetime:** A web dashboard follows the session live through SpacetimeDB.
 
 [Code](https://github.com/stephenhungg/scalpal) · [Demo video](https://www.youtube.com/watch?v=9m1Pt74R2lY) · Built with spacetimedb, .tech, blender, c#
 
@@ -153,7 +153,7 @@ Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from 
 
 A satellite-tracking dashboard estimates where debris from reentry might land.
 
-**How it used Spacetime:** SKYFALL uses SpacetimeDB to store satellite decay outcomes and score its forecasts.
+**How it used Spacetime:** The team built the forecast-validation layer in SpacetimeDB with decay outcomes and forecast scoring.
 
 [Code](https://github.com/bobbybendola/skyFall) · [Demo video](https://www.youtube.com/watch?v=m9VnLBoztKQ) · Built with spacetimedb, claude, css, cursor
 
@@ -163,7 +163,7 @@ A satellite-tracking dashboard estimates where debris from reentry might land.
 
 Drop a photo of a place. Tessera finds where the photographer stood, the heading and the lens, then your group plans its own version in a live 3D set, even by text.
 
-**How it used Spacetime:** Sponsor use not stated on Devpost
+**How it used Spacetime:** Every person, prop, light and camera is a SpacetimeDB row that screens share live.
 
 [Code](https://github.com/benz16107/tessera) · [Demo video](https://www.youtube.com/watch?v=CyivsP2lXpc) · Built with spacetimedb, astro, brev, caddy
 
@@ -173,7 +173,7 @@ Drop a photo of a place. Tessera finds where the photographer stood, the heading
 
 A food-waste dashboard shows what gets thrown away so kitchens can decide what to change.
 
-**How it used Spacetime:** A Node.js worker uses OpenAI to drive individual simulated students’ food choices, eating behavior, and conversations, while shared TypeScript rules and SpacetimeDB manage the world and waste accounting.
+**How it used Spacetime:** SpacetimeDB and shared TypeScript rules manage the world and waste accounting.
 
 [Code](https://github.com/anton-3/traycer) · [Demo video](https://www.youtube.com/watch?v=ueDxreMXbMQ) · Built with spacetimedb, elevenlabs, fastapi, gemini
 
@@ -183,7 +183,7 @@ A food-waste dashboard shows what gets thrown away so kitchens can decide what t
 
 A commerce tool lets merchants review AI-organized evidence when investigating refunds.
 
-**How it used Spacetime:** SpacetimeDB stores finance events; deterministic code reconciles decision, processor, bank, warehouse, and ledger records.
+**How it used Spacetime:** SpacetimeDB holds shoppers, purchases, claims, analysis steps, artifacts, findings, recommendations, decisions and score changes.
 
 [Code](https://github.com/shubhaych/vouch) · [Demo video](https://www.youtube.com/watch?v=pf4iXxd5D_o) · Built with spacetimedb, creao, duckdb, factory-droid-sdk
 

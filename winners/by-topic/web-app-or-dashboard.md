@@ -209,7 +209,7 @@ From What Happened To What Happens Next.
 
 Most people do not know how their scattered data points connect.
 
-[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with fastapi, hermes, hexapi, instaloader
+[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with hermes, fastapi, hexapi, instaloader
 
 ### [aesthetica](https://devpost.com/software/aesthetica)
 
@@ -2387,7 +2387,7 @@ Ticketry.AI bridges the gap between business stakeholders and development teams 
 
 Rebuilding donation trust through transparent giving.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with base, claude, erc-20, ethereum
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
 
 ### [Trialscope AI](https://devpost.com/software/trialscope-ai)
 
@@ -2469,7 +2469,7 @@ A smart water management tool that helps households and property managers optimi
 
 Fight for the top position in a HackTheNorth lip-syncing challenge.
 
-[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, nextjs, symphonic-labs, web
+[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, symphonic-labs, nextjs, web
 
 ### [traint](https://devpost.com/software/traint)
 
@@ -2781,7 +2781,7 @@ No public code linked · Built with cloudfare, flask, nextjs, openai-api
 
 Introducing PrimeTime—an advanced productivity app that uses AI to track engagement and optimize time spent on your computer to help you maximize focus and boost efficiency.
 
-[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with javascript, llms, next.js, npus
+[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with openvino, javascript, llms, next.js
 
 ### [Rally AI](https://devpost.com/software/rally-8sxi2t)
 

@@ -23,7 +23,7 @@
 
 STING is AI anti-scam protection that protects elderly and naive users from phishing, fake stores, and risky sites in real time — stopping scams before money is lost and making scammers unprofitable.
 
-**How it used Simular:** Sponsor use not stated on Devpost
+**Simular:** Built with Simular (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=YHRKJ472k7k) · Built with simular, simular-for-autonomous-qa-testing, anthropic, anthropic-claude
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=YHRKJ472k7
 
 Tendly gives elderly patients one button to speak any need. Claude triages it in real time, caregivers get a live priority feed, and Simular automates the rest.
 
-**How it used Simular:** For digital tasks (play music, look up a recipe, send a message), Tendly generates a TypeScript Simulang script and executes it directly on the desktop via Simular, no caregiver required.
+**How it used Simular:** Tendly executes TypeScript Simulang scripts directly on the desktop via Simular.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=YVdjN4_6iEU) · Built with claude, css, fastapi, html
 

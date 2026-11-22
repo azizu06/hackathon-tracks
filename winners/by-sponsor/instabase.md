@@ -23,7 +23,7 @@
 
 The application uses Optical Character Recognition (OCR) to capture items and their respective prices on scanned receipts.
 
-**How it used Instabase:** The team uses AWS Textract and Instabase API for OCR to analyze the words and prices in receipts.
+**How it used Instabase:** The project uses the Instabase API for OCR to analyze words and prices in receipts.
 
 [Code](https://github.com/avgupta456/HackMIT-2019) · Built with instabase, amazon-web-services, css, html
 

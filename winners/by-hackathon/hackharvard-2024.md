@@ -83,7 +83,7 @@ A platform for open-source course data collection, and quiz generation.
 - **Code:** [Source 1](https://github.com/SunfishTK1/open-context)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=q9SSeZdKo4U)
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** Infrastructure: Hosted with Defang for production-grade API management, alongside Cloudflare for data operations and performance optimization.
+- **How it used Cloudflare:** The team used Cloudflare for data operations and performance optimization.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -164,7 +164,7 @@ Clean Sweep — Smart city waste management using real-time data.
 - **Code:** [Source 1](https://github.com/DPulavarthy/HackHarvard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iU_6u-RygyQ)
 - **All prizes at this hackathon (1):** Best Use of Terraform
-- **How it used HashiCorp:** Sponsor use not stated on Devpost
+- **How it used HashiCorp:** The project deploys its portal using Terraform.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -191,7 +191,7 @@ Using MATLAB to make a Galaga-style game.
 - **Code:** [Source 1](https://github.com/ttran134/invaders)
 - **Demo video:** [Video 1](https://vimeo.com/1019066017)
 - **All prizes at this hackathon (1):** Best Use of MATLAB
-- **How it used MathWorks:** Sponsor use not stated on Devpost
+- **How it used MathWorks:** The team built a game using MATLAB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -218,7 +218,7 @@ Powering a Greener Future, One Trade at a Time. A Blockchain-Powered Marketplace
 - **Code:** [Source 1](https://github.com/eshansinghal14/hack-harvard-24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kejAyXxu1fU)
 - **All prizes at this hackathon (1):** Best Use of Midnight
-- **How it used Midnight:** Blockchain for Transparency : TradeREC uses Hedera and Midnight blockchain technology to provide secure, transparent records of every transaction.
+- **How it used Midnight:** The project uses Midnight for encryption.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

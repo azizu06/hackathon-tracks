@@ -53,7 +53,7 @@ No public code linked · Built with test
 
 Location-based transaction validation using arm-based cloud computing for end-to-end security; features a mobile application and mock web transaction portal.
 
-**How it used Arm:** Sponsor use not stated on Devpost
+**How it used Arm:** The project uses Arm Confidential Compute Architecture for device trust.
 
 [Code](https://github.com/eiyer28/HackHarvard) · [Demo video](https://www.youtube.com/watch?v=0aO7TBcvifA) · Built with arm, amazon-web-services, flask, python
 

@@ -23,7 +23,7 @@
 
 Play as a hacker taking advantage of a data breach to crack as many accounts as possible, learning the secrets and mechanisms behind what makes a password truly secure.
 
-**How it used Roblox:** This project was built entirely in Roblox Studio using Lua.
+**How it used Roblox:** The project was built in Roblox Studio using Lua.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=jMh-X4L-k2U) · Built with roblox, lua
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=jMh-X4L-k2
 
 A Roblox tower-defense game teaches players to recognize phishing messages and malware.
 
-**How it used Roblox:** The team built the project in Roblox Studio using Luau for gameplay systems, UI interactions, scoring, mini-games, player progression, and storyline.
+**How it used Roblox:** The team built the project in Roblox Studio using Luau for gameplay systems, UI interactions and player progression.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEbk) · Built with claudeapi, luau, robloxstudio
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEb
 
 A Roblox game uses a growing egg companion to reward rest, journaling, and other self-care habits.
 
-**How it used Roblox:** The team built Mindful Egg in Roblox Studio, combining simple game mechanics with meaningful habits.
+**How it used Roblox:** The team built Mindful Egg in Roblox Studio.
 
 [Code](https://github.com/mishphantom/Mindful-Egg) · [Demo video](https://www.youtube.com/watch?v=DLuGDKtVvls) · Built with roblox, codex, luau
 
@@ -53,7 +53,7 @@ A Roblox game uses a growing egg companion to reward rest, journaling, and other
 
 A Roblox safety game teaches players to identify grooming and scams in chat.
 
-**How it used Roblox:** Sponsor use not stated on Devpost
+**How it used Roblox:** The team built the project in Roblox Studio.
 
 [Code](https://github.com/Anthony-Yangg/overseer) · [Demo video](https://www.youtube.com/watch?v=aoXezdkHLYc) · Built with roblox-engine, roblox-studio, gemini, httpservice
 
@@ -63,7 +63,7 @@ A Roblox safety game teaches players to identify grooming and scams in chat.
 
 A Roblox detective game asks players to verify news stories by interviewing witnesses and inspecting evidence.
 
-**How it used Roblox:** The team developed the experience entirely in Roblox Studio using the Luau scripting language.
+**How it used Roblox:** The team developed the experience in Roblox Studio using Luau.
 
 [Code](https://github.com/s9kt/LA-HACKS-2026-PIXEL-TRUTH) · [Demo video](https://www.youtube.com/watch?v=D64lghRLjOw) · Built with roblox, lua, luau, robloxstudio
 
@@ -85,7 +85,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=-CYyimP0Eb
 
 A Roblox game lets players shape their surroundings through what they say and do.
 
-**How it used Roblox:** Bloom.AI integrates a Roblox game experience with real-time AI sentiment analysis and a supporting dashboard, creating a system where positive actions visibly shape the world, foster wellbeing, and teach vital skills.
+**How it used Roblox:** Bloom.AI integrates a Roblox game experience with real-time AI sentiment analysis.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZc) · Built with roblox, flask, gemini, nextjs
 
@@ -95,7 +95,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=NOM7RPY7HZ
 
 A Roblox game asks players to defuse tense social situations and see how different choices play out.
 
-**How it used Roblox:** The team built it in Roblox Studio using Lua scripting, server-client architecture, and Google's Gemini 2.0 Flash API for AI dialogue.
+**How it used Roblox:** The team built the project in Roblox Studio using Lua scripting.
 
 No public code linked · Built with roblox, express.js, gemini, javascript
 
@@ -105,7 +105,7 @@ No public code linked · Built with roblox, express.js, gemini, javascript
 
 UncBlox is a multiplayer action-arena game where players embody celebrated elders from a vibrant rural town in Mexico. Through friendly players, they build respect and empathy for older generations.
 
-**How it used Roblox:** Using only the Roblox Studio and assets, the team developed combat and quizzes, iterating through playtests to fine-tune stats, a meaningful map design, and an action-packed time.
+**How it used Roblox:** The team used Roblox Studio and assets to develop combat and quizzes.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=7WwD1cOzm5k) · Built with roblox
 

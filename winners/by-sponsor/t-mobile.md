@@ -75,7 +75,7 @@ A command-center for T-Mobile product managers to anticipate customer needs. See
 
 Unified dashboard for T-Mobile PMs to track real-time customer sentiment, performance, and operational data, driving smarter, data-driven decisions and improved customer satisfaction.
 
-**How it used T-Mobile:** Sponsor use not stated on Devpost
+**How it used T-Mobile:** The project uses discussions from T-Mobile Community.
 
 [Code](https://github.com/AbdullahMoghal/t-insight-hack2025) · [Demo video](https://www.youtube.com/watch?v=4c7uRVxoJfc) · Built with cheerio, css, gemini, next.js
 

@@ -23,7 +23,7 @@
 
 HeartTalk is your senior care companion, combining AI chat support with health monitoring. Keep loved ones engaged while tracking vital signs – ensuring peace of mind when caregivers can't be there.
 
-**How it used Defang:** Sponsor use not stated on Devpost
+**How it used Defang:** The project uses Defang.io for backend deployment.
 
 [Code](https://github.com/Carol-cs/nwhacks2025) · Built with defang, 1password, express.js, javascript
 
@@ -33,7 +33,7 @@ HeartTalk is your senior care companion, combining AI chat support with health m
 
 Say Hi to PT 👋. A Hip Interactive Physical Therapy Application where you can transform your experience and recover in a hip way.
 
-**How it used Defang:** Deployment: The entire application is deployed with Defang.
+**How it used Defang:** The entire application is deployed with Defang.
 
 [Code](https://github.com/TrabLimit/nwHacks-2025) · Built with defang, express.js, javascript, mongodb
 
@@ -55,7 +55,7 @@ A group sleep scheduling app that combines accountability and competition to bui
 
 FIU Scholarship Plug helps students find relevant scholarships by assessing demographics. It gathers data on academic background, financial status, and career goals for personalized recommendations.
 
-**How it used Defang:** Sponsor use not stated on Devpost
+**Defang:** Built with defang (listed on Devpost)
 
 No public code linked · Built with defang, auth0, bash, css
 
@@ -105,7 +105,7 @@ Minimize your tech stack's developmental cost.
 
 LaTeX made easy. Speech to code in real time.
 
-**How it used Defang:** Sponsor use not stated on Devpost
+**How it used Defang:** The team built and deployed the project with Defang.
 
 [Code](https://github.com/leozhang14/VerbaTeX) · Built with defang, amazon-web-services, chatgpt, firebase
 

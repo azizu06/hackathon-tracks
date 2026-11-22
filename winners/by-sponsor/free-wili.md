@@ -33,7 +33,7 @@ A wearable AI agent that detects patterns in elder patients to provide life-savi
 
 Meet the right people. Only when it's mutual.
 
-**How it used FREE-WILi:** Sponsor use not stated on Devpost
+**How it used FREE-WILi:** A pixel puppy on the FREE-WILi badge shows what the agent is doing.
 
 [Code](https://github.com/maiaPaperTowns/mutuals) · [Demo video](https://www.youtube.com/watch?v=UMzRICNUTBQ) · Built with freewili, c, c++, claude
 
@@ -43,7 +43,7 @@ Meet the right people. Only when it's mutual.
 
 A rehab-game station where four agents filter, fact-check, decide and act, and show their reasoning on a wearable screen.
 
-**How it used FREE-WILi:** Sponsor use not stated on Devpost
+**How it used FREE-WILi:** The project uses FreeWili OG as a USB display and button pad.
 
 [Code](https://github.com/Dee-1862/Ocra) · [Demo video](https://www.youtube.com/watch?v=x5cxIVRhaSU) · Built with freewili-og, agentverse, asi:one, c
 
@@ -75,7 +75,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=DdY-U816Kr
 
 Gesture-based mouse built using FreeWILi and Vosk text-to-speech used to increase accessibility in using the web for disabled people, such as amputees and people with lost-mobility in their hands.
 
-**How it used FREE-WILi:** Gestura reads the FREE-WILi accelerometer to turn hand gestures into mouse movement.
+**How it used FREE-WILi:** The team captured X and Y acceleration using the FreeWILi Python library.
 
 [Code](https://github.com/imzaynb/MHacks2025) · [Demo video](https://www.youtube.com/watch?v=7x3D7nPJlRc) · Built with freewili, git, github, pynput
 
@@ -85,7 +85,7 @@ Gesture-based mouse built using FreeWILi and Vosk text-to-speech used to increas
 
 Nurture a pet by being sustainable.
 
-**How it used FREE-WILi:** These functions and variables are utilized to connect with the user interface of the Free-Wili device.
+**How it used FREE-WILi:** The project uses the Free-Wili for its user interface.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBSw) · Built with freewili, opencv, python
 
@@ -97,7 +97,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBS
 
 Gives users the ability to play four 1v1 games.
 
-**How it used FREE-WILi:** Sponsor use not stated on Devpost
+**How it used FREE-WILi:** The project configures the Free-WILi board to toggle LEDs and display images.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=7VzAm0KVVoo) · Built with freewili, c++, pygame, python
 

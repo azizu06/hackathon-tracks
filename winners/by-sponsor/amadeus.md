@@ -23,7 +23,7 @@
 
 Choose between a private insurance system, a national model, or something else entirely. The global medical landscape at your fingertips.
 
-**How it used Amadeus:** Sponsor use not stated on Devpost
+**How it used Amadeus:** The team used the Amadeus API for travel information.
 
 [Code](https://github.com/lyronctk/DHEA) · Built with amadeus, css, django, html
 
@@ -35,7 +35,7 @@ Choose between a private insurance system, a national model, or something else e
 
 Plenty of people hope to travel and explore the world, and it's no surprise that traveling often ends up on bucket lists.
 
-**How it used Amadeus:** Sponsor use not stated on Devpost
+**Amadeus:** Built with amadeus (listed on Devpost)
 
 [Code](https://github.com/PaliC/Dream-Flight) · Built with amadeus, css, html, javascript
 
@@ -45,7 +45,7 @@ Plenty of people hope to travel and explore the world, and it's no surprise that
 
 SOS Squad is a platform for connecting good Samaritans to disaster victims.
 
-**How it used Amadeus:** The team integrated IBM's Weather API and Amadeus' API to provide weather alerts and flight / hotel lookup.
+**How it used Amadeus:** The project integrates Amadeus’ API with IBM’s Weather API for flight and hotel lookup and weather alerts.
 
 [Code](https://github.com/sabrinatseng/SOS-Squad) · Built with amadeus, bootstrap, flask, geopy
 
@@ -57,7 +57,7 @@ SOS Squad is a platform for connecting good Samaritans to disaster victims.
 
 TravelAR is an iOS travel application built using Apple's ARKit.
 
-**How it used Amadeus:** The team built TravelAR with Apple's iOS ARKit, a Flask server hosted with Microsoft Azure, and many APIs including the Amadeus Travel APIs, the Microsoft Bing Image Search API, and the WolframAlpha Simple API.
+**How it used Amadeus:** The team used Amadeus endpoints for information on nearby attractions, flight statistics and general travel information.
 
 [Code](https://github.com/Averylamp/TravelAR) · [Demo video](https://www.youtube.com/watch?v=ACneUIVByaY) · Built with amadeus, arkit, azure, bing-search-api
 

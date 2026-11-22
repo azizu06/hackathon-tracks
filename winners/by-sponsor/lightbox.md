@@ -23,7 +23,7 @@
 
 Cropscape analyzes location-specific soil, climate, and hardiness data to provide personalized crop recommendations for a thriving backyard garden.
 
-**How it used LightBox:** Sponsor use not stated on Devpost
+**LightBox:** Built with lightbox (listed on Devpost)
 
 [Code](https://github.com/Superhero1015/YHack2024-25_Proj) · [Demo video](https://www.youtube.com/watch?v=iuZZZnOtsdk) · Built with lightbox, css, express.js, html
 
@@ -33,7 +33,7 @@ Cropscape analyzes location-specific soil, climate, and hardiness data to provid
 
 An accessible, interactive map of every county tract in the United States, with a calculated "Future Cities Index" for each tract measuring the possible viability of building a Future City.
 
-**How it used LightBox:** Interactive UI built with ReactJS, data parsed from Lightbox API with Javascript.
+**How it used LightBox:** The project parses data from the Lightbox API with JavaScript.
 
 [Code](https://github.com/dimaa-b/future_cities_index) · Built with lightbox, javascript, python, react
 

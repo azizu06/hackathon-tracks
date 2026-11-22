@@ -33,7 +33,7 @@ ClearPath spots clinical-trial drug shipments at risk of delay, proposes fixes a
 
 Turn a clinical trial protocol into a site budget both sides can check: procedures priced from public Medicare rates, with a source on every line.
 
-**How it used Regeneron:** Concord compares public records of Regeneron trials to show where they share registered sites.
+**How it used Regeneron:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/CosmicOdyssey/concord) · [Demo video](https://vimeo.com/1236934994) · Built with clinicaltrials.gov-api, cms-clinical-laboratory-fee-schedule, cms-physician-fee-schedule, fastapi
 
@@ -123,7 +123,7 @@ TrialMax shows researchers why trial recruitment fails and helps them find safer
 
 TrialPilot helps teams compare clinical trial designs across cost, site workload, patient travel, and timeline risk with transparent, traceable estimates.
 
-**How it used Regeneron:** TrialPilot uses public records of Regeneron trials as examples in its trial-design comparison workflow.
+**How it used Regeneron:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/KryptonNii/YANZHENG_NI_HACKHARVARD2026) · [Demo video](https://www.youtube.com/watch?v=KLeeAnTy4M8) · Built with c++, claude, grox, json
 

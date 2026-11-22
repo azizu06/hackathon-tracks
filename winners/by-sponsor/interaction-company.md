@@ -23,7 +23,7 @@
 
 Stop guessing gifts! Concierge lets 2 Poke agents collaborate with shared context across your email, the web, and your texts, then auto-finds and configures the perfect buy via Browserbase web agents.
 
-**How it used Interaction Company:** Sponsor use not stated on Devpost
+**How it used Interaction Company:** A Poke agent collaborates with the recipient’s Poke agent to discover gift ideas.
 
 [Code](https://github.com/andaero/treehacks26) · [Demo video](https://www.youtube.com/watch?v=fjbazc6t0t4) · Built with browserbase, bun, fastmcp, next.js
 
@@ -33,7 +33,7 @@ Stop guessing gifts! Concierge lets 2 Poke agents collaborate with shared contex
 
 OS of tomorrow, Claude Code of today.
 
-**How it used Interaction Company:** Sponsor use not stated on Devpost
+**How it used Interaction Company:** The server tunnels to Poke UI.
 
 [Code](https://github.com/FO214/treehacks) · [Demo video](https://www.youtube.com/watch?v=imelOPlGLgQ) · Built with browserbase, claude, cloudflare, docker
 
@@ -45,7 +45,7 @@ OS of tomorrow, Claude Code of today.
 
 Sweet is an iMessage native diabetes management AI assistant.
 
-**How it used Interaction Company:** Sponsor use not stated on Devpost
+**How it used Interaction Company:** Users text the Poke AI to get health insights.
 
 [Code](https://github.com/hemanthkapa/Sweet) · [Demo video](https://www.youtube.com/watch?v=bO0LeXn3RPY) · Built with dexcomshareapi, fastmcp, geminiapi, poke
 

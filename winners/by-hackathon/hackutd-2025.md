@@ -62,7 +62,7 @@ DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to ge
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=w0YteTzoGc4)
 - **All prizes at this hackathon (2):** Northmark Compute &amp; Cloud · Nvidia
 - **How it used Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
-- **How it used NVIDIA:** Sponsor use not stated on Devpost
+- **How it used NVIDIA:** The project combines NVIDIA’s Nemotron Nano 9B v2 model with LangChain for its ReAct agent.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -85,7 +85,7 @@ A command-center for T-Mobile product managers to anticipate customer needs. See
 - **Code:** [Source 1](https://github.com/Siriapps/HarmoniQ)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rJU3_Fffqnc)
 - **All prizes at this hackathon (2):** Best Use of Auth0 · T-Mobile
-- **How it used Auth0:** Sponsor use not stated on Devpost
+- **How it used Auth0:** The project uses Auth0 for authentication.
 - **How it used T-Mobile:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -133,7 +133,7 @@ Toyotron is a solution that allows users to easily find their dream Toyota throu
 - **Code:** [Source 1](https://github.com/anbguye/hackutd-Toyota-Toyotron)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CSc6zKQRxIY)
 - **All prizes at this hackathon (2):** Nvidia · Toyota Financial Services
-- **How it used NVIDIA:** The team orchestrated agents using Nemotron as the reasoning core, wrapped in a Next.js frontend that delivers both chat and simulated phone-call experiences.
+- **How it used NVIDIA:** The project uses Nemotron as the reasoning core of its agents.
 - **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -352,7 +352,7 @@ The team set out to solve the often ineffective ticket-to-response systems prese
 - **Code:** [Source 1](https://github.com/zekestephens/hyperlynx)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wL78va-T-Ug)
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -452,7 +452,7 @@ A little pixel companion who studies with you, works with you, rests with you, a
 - **Code:** [Source 1](https://github.com/DuckyDaBucky/Kori.Study)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=K17fqD58JhA)
 - **All prizes at this hackathon (1):** Best Use of Gemini API by MLH
-- **How it used Google:** Additionally the mobile app uses Gemini to process data to create helpful insights for the user.
+- **How it used Google:** The mobile app uses Gemini to process data and create insights for the user.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -533,7 +533,7 @@ Alchemetrics is a real-time AI dashboard that tracks cauldrons, matches tickets,
 - **Code:** [Source 1](https://github.com/Lanisha20/Alchemetrics)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_XkRiy9jCP8)
 - **All prizes at this hackathon (1):** Nvidia
-- **How it used NVIDIA:** The team built a multi-agent system orchestrated by Nemotron (NVIDIA’s LLM planner).
+- **How it used NVIDIA:** NVIDIA Nemotron orchestrates the multi-agent system.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -737,7 +737,7 @@ Unified dashboard for T-Mobile PMs to track real-time customer sentiment, perfor
 - **Code:** [Source 1](https://github.com/AbdullahMoghal/t-insight-hack2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4c7uRVxoJfc)
 - **All prizes at this hackathon (1):** T-Mobile
-- **How it used T-Mobile:** Sponsor use not stated on Devpost
+- **How it used T-Mobile:** The project uses discussions from T-Mobile Community.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

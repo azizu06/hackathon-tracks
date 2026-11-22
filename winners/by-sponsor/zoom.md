@@ -33,7 +33,7 @@ Minerva is an AI-powered virtual educator designed to provide structured, person
 
 Real-time knowledge graphs that make every lecture impossible to fall behind in.
 
-**How it used Zoom:** Sponsor use not stated on Devpost
+**How it used Zoom:** Zoom RTMS captures lecture audio.
 
 [Code](https://github.com/jasonyi33/prereq) · [Demo video](https://www.youtube.com/watch?v=Xaod8It2Wko) · Built with zoom, claude, claudehaiku, claudesonnet
 
@@ -43,7 +43,7 @@ Real-time knowledge graphs that make every lecture impossible to fall behind in.
 
 Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching assistant built into Zoom that detects confusion and generates concept cards instantly.
 
-**How it used Zoom:** TA-DA is an AI-powered teaching assistant built natively into Zoom using the Real-Time Meeting SDK (RTMS).
+**How it used Zoom:** TA-DA is built into Zoom using the Real-Time Meeting SDK.
 
 [Code](https://github.com/pb2323/TA-da) · [Demo video](https://www.youtube.com/watch?v=GuiFFxdgUZA) · Built with zoom, elasticsearch, fetch.ai, javascript
 
@@ -55,7 +55,7 @@ Why are students Googling mid-lecture? TA-DA keeps them in the room: AI teaching
 
 FlowPilot listens, understands, and executes, transforming Zoom meetings into Slide decks and Notion workflows. No more lost action items - just approve and watch it execute.
 
-**How it used Zoom:** Zoom RTMS Integration : Implements WebSocket connections for real-time audio stream processing.
+**How it used Zoom:** The Zoom RTMS integration implements WebSocket connections for real-time audio stream processing.
 
 [Code](https://github.com/CarterCote/flow-pilot) · [Demo video](https://www.youtube.com/watch?v=d9pkeKJIGRg) · Built with zoom, dain, docker, express.js
 
@@ -75,7 +75,7 @@ HiveMind: Your Second Brain for Smarter Learning.
 
 AI-powered lecture companion: Transforms speech into real-time visualizations, incorporates notes, and enhances learning with summaries, resources, and chatbot integration—effortless and efficient.
 
-**How it used Zoom:** Leveraging Zoom's powerful servers to capture and process audio in real-time.
+**How it used Zoom:** The project uses Zoom’s Calendar API to populate it with students’ calendar data.
 
 [Code](https://github.com/arushisharmaa/stanford-tree-hacks-) · [Demo video](https://www.youtube.com/watch?v=m_1f7-KvGmQ) · Built with bash, gemini, html/css, javascript
 
@@ -85,7 +85,7 @@ AI-powered lecture companion: Transforms speech into real-time visualizations, i
 
 Zoned out during a lecture? Your very own lecture buddy is here to save you.
 
-**How it used Zoom:** Sponsor use not stated on Devpost
+**How it used Zoom:** The project uses the Zoom API to connect its client to a Real-Time Media Server.
 
 [Code](https://github.com/NxtGenLegend/TreeHacks-ZoneOut) · [Demo video](https://www.youtube.com/watch?v=Be4lfvVzMRQ) · Built with zoom-api, chromadb, colpali, openai
 

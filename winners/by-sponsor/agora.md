@@ -33,7 +33,7 @@ Deep Retention of Concepts using research-backed techniques.
 
 Notefly is your real time online meeting note taker. See meeting transcript and AI summary while on the call.
 
-**How it used Agora:** Started by using agora's SDK to create a basic web conferencing software using next.js for the frontend.
+**How it used Agora:** The team used Agora's SDK to create the web conferencing software.
 
 [Code](https://github.com/Almasx/calhack) · [Demo video](https://www.youtube.com/watch?v=8wdY5N1KWZE) · Built with agora, fetch.ai, gemini, mongodb
 

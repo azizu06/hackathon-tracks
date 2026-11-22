@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Ud5rvpX2Ix
 
 Spots the failure before it burns.
 
-**How it used Tiger Data:** Sponsor use not stated on Devpost
+**How it used Tiger Data:** Every reading lives in a Tiger Data TimescaleDB hypertable that serves trend charts and sensor-history lookups.
 
 [Code](https://github.com/Siriapps/HackUTD-26) · [Demo video](https://www.youtube.com/watch?v=IZHkkpYGtdE) · Built with tiger-data, timescaledb, elevenlabs, gemini
 
@@ -53,7 +53,7 @@ A workspace matches hackathon tasks to teammates and tracks progress through Git
 
 The team built a live dashboard so that any scientist/lab technician can view the real-time data and analysis of past logs.
 
-**How it used Tiger Data:** Telemetry streams to Tiger Data, and other labs can send test requests through Fetch.ai agents on ASI:One, still gated by a technician at the bench.
+**How it used Tiger Data:** Telemetry streams to Tiger Data.
 
 [Code](https://github.com/Omm2005/laminar) · [Demo video](https://www.youtube.com/watch?v=CZ1orYlswwY) · Built with tiger-data, timescaledb, anthropic, asi:one
 
@@ -63,7 +63,7 @@ The team built a live dashboard so that any scientist/lab technician can view th
 
 Pse is a novel wearable technology that tracks slouching and turns posture awareness into friendly competition. See your trends, challenge friends, and build upright habits.
 
-**How it used Tiger Data:** Sponsor use not stated on Devpost
+**How it used Tiger Data:** The project uses Tiger Data’s PostgreSQL, hypertable, and TimescaleDB for session storage and snapshot history.
 
 [Code](https://github.com/Keipydesu/Pose.) · [Demo video](https://www.youtube.com/watch?v=ratTdsDwklM) · Built with assembly, bluetooth, bno055, claude
 
@@ -93,7 +93,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=v9erU_vIlW
 
 TapTrack PD is a wrist-worn Parkinson's tracker built on a FREE-WILi strapped to a watch band.
 
-**How it used Tiger Data:** Caregiver Dashboard - FinchNode + Gemini + Fetch.ai + Neon + Tiger Data.
+**How it used Tiger Data:** The project uses TimescaleDB hypertables for checks, doses, and passive tremor.
 
 [Code](https://github.com/ahansoty/taptrack-pd) · [Demo video](https://www.youtube.com/watch?v=NyzD97cP5SY) · Built with timescaledb, agentverse, asi-one, css
 
@@ -103,7 +103,7 @@ TapTrack PD is a wrist-worn Parkinson's tracker built on a FREE-WILi strapped to
 
 By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
 
-**How it used Tiger Data:** Incoming records are normalized, deduplicated, geocoded, and stored across MongoDB Atlas and Tiger Data/TimescaleDB.
+**How it used Tiger Data:** Incoming records are stored in MongoDB Atlas and Tiger Data’s TimescaleDB.
 
 [Code](https://github.com/No-Way-Mo/transpeaktation) · [Demo video](https://www.youtube.com/watch?v=maBHLULKMVc) · Built with tiger-data, claude, digitalocean, elevenlabs
 

@@ -23,7 +23,7 @@
 
 Instantly distinguish genuine fouls from flops with video analysis through user inputted soccer clips. Provides referee-style analysis based on the verdict.
 
-**How it used Streamlit:** Sponsor use not stated on Devpost
+**Streamlit:** Built with streamlit (listed on Devpost)
 
 [Code](https://github.com/Arnav2610/streamlit_dive_detector) · [Demo video](https://www.youtube.com/watch?v=Q0bEOvrx4BA) · Built with streamlit, gemini, genai, joblib
 
@@ -33,7 +33,7 @@ Instantly distinguish genuine fouls from flops with video analysis through user 
 
 Your Vision, Reborn. A complex collection of pipelines, all working in tandem to restore sight capabilities for the visually impaired.
 
-**How it used Streamlit:** Sponsor use not stated on Devpost
+**Streamlit:** Built with streamlit (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=kDdEKuB_Qy4) · Built with streamlit, mongodb, opencv, python
 
@@ -55,7 +55,7 @@ No public code linked · Built with streamlit, altair, openai, pydeck
 
 The team use this metric to weight the load-balancing algorithm so that it optimizes for renewable energy.
 
-**How it used Streamlit:** The team chose a Python-Streamlit frontend due to its variety of input and output widgets, which provide a high degree of user interaction.
+**How it used Streamlit:** The team chose Streamlit for the frontend input and output widgets.
 
 [Code](https://github.com/rohitramaswamy/mhacks) · [Demo video](https://www.youtube.com/watch?v=MJQIQJYxey4) · Built with streamlit, github, json, keras
 
@@ -75,7 +75,7 @@ FlowCast is an innovative web application that visualizes and analyzes water qua
 
 Vestique, your AI wardrobe assistant, tracks your style and ensures no clothes go unworn. Smart alerts help you wear 40% more of your closet and save $1,200 yearly.
 
-**How it used Streamlit:** Sponsor use not stated on Devpost
+**How it used Streamlit:** The team built its UI using Streamlit.
 
 [Code](https://github.com/rChwiecko/Vestique) · [Demo video](https://www.youtube.com/watch?v=ZASINIB-IOM) · Built with streamlit, brevo, llama, opencv
 

@@ -23,7 +23,7 @@
 
 Your friends shouldn't have to ask. CloseMates gives everyone a FirstMate, an AI twin that reads your week and quietly tells your closest people when and how to show up.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**How it used Meta:** Meta’s Muse Spark decides nudges and plans moments between two FirstMates.
 
 [Code](https://github.com/sendtovishnu/hacktx26) · [Demo video](https://www.youtube.com/watch?v=dcHFqio6nO0) · Built with meta-muse-spark, cloudflare, express.js, gemini
 
@@ -33,7 +33,7 @@ Your friends shouldn't have to ask. CloseMates gives everyone a FirstMate, an AI
 
 Physical Robot Icebreaker Game; Fate, with a little help from Tina.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**How it used Meta:** The project uses Instagram Login for imports with basic profile permission.
 
 [Code](https://github.com/Dhivyeshp/hacktx_26) · [Demo video](https://www.youtube.com/watch?v=V9zV0iFYMNA) · Built with 3d-printing, anchor, apple-vision-pro, c++
 
@@ -53,7 +53,7 @@ Life opens new doors. dor keeps old ones from closing, and helps you find your w
 
 At the heart of HeirLoom is Loomie, an empathetic voice AI companion.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**How it used Meta:** The iOS share extension lets anyone drop photos and voice memos from Instagram into the family feed.
 
 [Code](https://github.com/Adalo-Gusa/SPIRE_GT_Hacks) · [Demo video](https://www.youtube.com/watch?v=2HFSy_1dndI) · Built with backboard.io, figma, grok, mongodb
 
@@ -73,7 +73,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=vZC8I7Vy1T
 
 A quiet voice in your ear that remembers the people you love.
 
-**How it used Meta:** Myst uses Ray-Ban Meta glasses and the Wearables Device Access Toolkit to take photos on demand.
+**How it used Meta:** Muse Spark compares a live photo against consented reference photos and returns a verdict with a confidence score.
 
 [Code](https://github.com/harshaldhaduk/myst) · [Demo video](https://www.youtube.com/watch?v=3lROw3SQE4s) · Built with meta, meta-ai, meta-wearables-device-access-toolkit, ray-ban-meta
 
@@ -103,7 +103,7 @@ Re:Collection turns a family visit or an old home video into a 3D Memory Palace 
 
 A cozy bear that families can use to share stories with their loved ones.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**How it used Meta:** Muse Spark uses the transcript and sound effect catalog to return timestamps for when to play the sounds.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=EGHW8PH8ZkQ) · Built with esp32, expo.io, family, fastapi
 
@@ -127,7 +127,7 @@ The pen is mightier than the sword, nothing is more powerful than the word.
 
 Helping individuals as they overcome opioid dependency by providing them with volunteer mentors.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**How it used Meta:** The project used the Facebook OAuth API.
 
 [Code](https://github.com/the-flying-circus/HackMIT2018) · Built with facebook-graph, facebook-login-api, flask, giphy
 
@@ -139,7 +139,7 @@ Helping individuals as they overcome opioid dependency by providing them with vo
 
 Get personal details of someone just by looking at them with the magic of a HoloLens, face recognition, and Facebook.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**How it used Meta:** The HoloLens displays details next to faces if they match friends’ Facebook accounts.
 
 No public code linked · Built with bottle, c++, facebook, facebook-graph
 
@@ -151,7 +151,7 @@ No public code linked · Built with bottle, c++, facebook, facebook-graph
 
 AI-powered Chatbot which give you curated dating advice - while you're on your date.
 
-**How it used Meta:** Sponsor use not stated on Devpost
+**How it used Meta:** Black Box uses Facebook for messages.
 
 [Code](https://github.com/96imranahmed/blackbox-public) · [Demo video](https://www.youtube.com/watch?v=7KcSXuQXCng) · Built with machine-learning, python
 

@@ -23,7 +23,7 @@
 
 Put your money where your goals are. Complete your commitments to earn it back, or watch it go to a cause you really don’t want to fund.
 
-**How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+**How it used Ethereum Foundation:** The project deploys Solidity smart contracts on Ethereum testnet using Hardhat.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · Built with blockchain, ethereum, next.js, reka
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXc
 
 MedChain: A blockchain-powered app for secure, verifiable prescriptions. Built on Base with smart contracts and IPFS to eliminate fraud and streamline doctor–pharmacist workflows.
 
-**How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+**How it used Ethereum Foundation:** The project uses Wagmi and Viem for Ethereum interactions and its transaction lifecycle.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6U) · Built with base, coinbase, html, javascript
 
@@ -43,9 +43,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6
 
 Rebuilding donation trust through transparent giving.
 
-**How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+**Ethereum Foundation:** Built with ethereum (listed on Devpost)
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with base, claude, erc-20, ethereum
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
 
 ### [TrustBuddy](https://devpost.com/software/trustbuddy)
 
@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sA
 
 Interoporable Trust, bring your ratings everywhere you go.
 
-**How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+**How it used Ethereum Foundation:** The smart contract lives on the Ethereum Sepolia Testnet.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fns) · Built with canva, ethereum, figma, nextjs
 

@@ -43,7 +43,7 @@ Siteline tells clinics where to open. It learns what drives each practice, pulls
 
 Find your space with Stagehand! For creatives wanting to visualize before booking.
 
-**How it used CoStar Group:** Sponsor use not stated on Devpost
+**How it used CoStar Group:** The team built the project on CoStar Group property records and Matterport scans.
 
 [Code](https://github.com/sofiagrimm/hackprinceton) · [Demo video](https://vimeo.com/1246959819) · Built with capital-one-nessie, costar, deepagents, fastapi
 

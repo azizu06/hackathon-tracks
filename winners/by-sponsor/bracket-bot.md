@@ -23,7 +23,7 @@
 
 Pick up birdies and stack them autonomously.
 
-**How it used Bracket Bot:** Sponsor use not stated on Devpost
+**How it used Bracket Bot:** The project uses an autonomous BracketBot robot to find, pick up, and stack badminton birdies.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_Y) · Built with bracketbot, python, pytorch, yolo
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4XYj7Ok1-_
 
 Version control for the physical world.
 
-**How it used Bracket Bot:** Sponsor use not stated on Devpost
+**Bracket Bot:** Built with bracketbot (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXMg) · Built with bracketbot, elasticsearch, fastapi, gaussian-splatting
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=FEGR3mJmXM
 
 Introducing PrintDND , a robot that is able to autonomously clear the printers from their previous job and place the print down in a desired location.
 
-**How it used Bracket Bot:** Sponsor use not stated on Devpost
+**How it used Bracket Bot:** The team used hardware and software provided by BracketBot.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQs) · Built with bracketbot
 
@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=HfM9EMc2IQ
 
 Realbot allows landlords and realtors to easily set up autonomous virtual tours for prospective tenants and buyers.
 
-**How it used Bracket Bot:** On the robot, Python services connect LiveKit to Bracket Bot’s existing bbOS hardware and mapping systems.
+**How it used Bracket Bot:** Python services connect LiveKit to Bracket Bot’s bbOS hardware and mapping systems.
 
 [Code](https://github.com/ariobarin/RealBot) · [Demo video](https://www.youtube.com/watch?v=EkgG5Q7dZB0) · Built with bracketbot, fastapi, livekit, numpy
 

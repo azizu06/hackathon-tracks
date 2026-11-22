@@ -23,7 +23,7 @@
 
 AI-powered discharge coordination connecting hospitals, shelters, and social workers to ensure safe patient transitions.
 
-**How it used Vapi:** Vapi Voice Integration - Successfully automated shelter verification and social worker outreach calls.
+**How it used Vapi:** Vapi powers voice-first communication.
 
 [Code](https://github.com/altran03/calhacks12) · [Demo video](https://www.youtube.com/watch?v=EZo7LiU-GUY) · Built with vapi, brightdata, fetchai, gemini
 
@@ -33,7 +33,7 @@ AI-powered discharge coordination connecting hospitals, shelters, and social wor
 
 A wildfire operations dashboard brings live video and voice controls into the incident workflow.
 
-**How it used Vapi:** Orion uses Vapi to answer hands-free questions about wildfire incidents and weather.
+**How it used Vapi:** Vapi powers a conversational AI assistant for hands-free operations.
 
 [Code](https://github.com/SupratikPanuganti/CalHacks) · [Demo video](https://www.youtube.com/watch?v=MX_pJRwUJjU) · Built with vapi, amazon-web-services, clsx, composio
 
@@ -43,7 +43,7 @@ A wildfire operations dashboard brings live video and voice controls into the in
 
 Practice sales calls with AI prospects. Get real-time coaching and detailed performance insights.
 
-**How it used Vapi:** The team uses Vapi to handle the full audio pipeline for live voice conversations.
+**How it used Vapi:** The team integrated Vapi to handle the voice pipeline.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMIY) · Built with vapi, chromadb, claude, gemini
 
@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMI
 
 Stacy is a voice safety companion. Stacy logs incidents, your live location, alerts your loved ones, and dispatches to the police.
 
-**How it used Vapi:** Sponsor use not stated on Devpost
+**Vapi:** Built with vapi (listed on Devpost)
 
 [Code](https://github.com/apollo-ullah/HackTheNorth2025) · [Demo video](https://www.youtube.com/watch?v=nHx5KazGawQ) · Built with vapi, openai, swift, twilio
 
@@ -63,7 +63,7 @@ Stacy is a voice safety companion. Stacy logs incidents, your live location, ale
 
 AI Agents for Simulated Market Research.
 
-**How it used Vapi:** Natural Dialogue : Powered by Vapi, have actual phone-like conversations with personas.
+**How it used Vapi:** Vapi powers phone-like conversations with personas.
 
 [Code](https://github.com/krish1905/tunnel) · [Demo video](https://www.youtube.com/watch?v=d6M5oSDxqxw) · Built with vapi, auth0, cloudflare, cohere
 
@@ -73,7 +73,7 @@ AI Agents for Simulated Market Research.
 
 Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gemini-Powered Glasses &amp; Dynamic Braille.
 
-**How it used Vapi:** Sponsor use not stated on Devpost
+**How it used Vapi:** The project uses Vapi voice agents for conversations between the user and the system.
 
 [Code](https://github.com/KaivalSShah/vraille-htn2025) · [Demo video](https://www.youtube.com/watch?v=4gdPROUsaRw) · Built with vapi, arduino, c++, cohere
 
@@ -85,7 +85,7 @@ Redefining Accessibility: Real-Time Awareness for the Visually Impaired With Gem
 
 AngelShot simulates a realistic phone call a variety of user-customizable AI-based assistants.
 
-**How it used Vapi:** VAPI streamlined the integration of voice communication in the application, allowing the team to simulate realistic phone calls with AI-based assistants.
+**How it used Vapi:** The team used Vapi voice communication to simulate phone calls with AI assistants.
 
 [Code](https://github.com/mikieyx/SafeTalk) · Built with vapi, deepgram, elevenlabs, nextjs
 
@@ -95,7 +95,7 @@ AngelShot simulates a realistic phone call a variety of user-customizable AI-bas
 
 Companion is a voice-powered web AI agent that can autonomously execute web tasks based on user requests, made for seniors/people with disabilities who are unfamiliar with technology.
 
-**How it used Vapi:** The team utilized components for input fields, buttons, and real-time feedback to enhance usability as well as integrated VAPI, a voice recognition API, to enable voice commands, making it easier for users with accessibility needs.
+**How it used Vapi:** The team integrated Vapi to enable voice commands.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=gFd_lrVoTtQ) · Built with vapi, flask, gpt, openai
 
@@ -105,7 +105,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=gFd_lrVoTt
 
 Echocare is an intuitive platform designed to assist users in locating and connecting with nearby care services, such as medical centers, pharmacies, or home care providers.
 
-**How it used Vapi:** Sponsor use not stated on Devpost
+**How it used Vapi:** The project uses Vapi.ai to create its assistant.
 
 [Code](https://github.com/rishitx/echocare) · [Demo video](https://www.youtube.com/watch?v=CMhPyazI5N4) · Built with vapi-ai, aceternity-ui, ant-design, axios
 
@@ -115,7 +115,7 @@ Echocare is an intuitive platform designed to assist users in locating and conne
 
 Are you anxious about speaking a foreign language or don't know where to start? Practice your conversational language skills and get real-time feedback with LanguaLine.
 
-**How it used Vapi:** Sponsor use not stated on Devpost
+**How it used Vapi:** The project uses the VAPI.ai API to create and tune its AI Mentor.
 
 [Code](https://github.com/SrimanCode/CalHacks-11.0) · [Demo video](https://www.youtube.com/watch?v=sJRIEn7pzM4) · Built with vapi, deepgram, express.js, firebase
 
@@ -125,7 +125,7 @@ Are you anxious about speaking a foreign language or don't know where to start? 
 
 The system includes a form where clients can enter their name, phone number, and a brief description of their issue, such as requesting a refund or returning an item.
 
-**How it used Vapi:** this is the user form to get inputs to use in the VAPI system.
+**How it used Vapi:** The project uses a user form to get inputs for the Vapi system.
 
 [Code](https://github.com/ConnectAI-CalHacks/Letmetalktoahuman-AI) · Built with vapi, html, node.js, react
 
@@ -135,7 +135,7 @@ The system includes a form where clients can enter their name, phone number, and
 
 Talk to the characters in your favourite story.
 
-**How it used Vapi:** Custom assistants powered by Vapi, Groq, Deepgram, and 11Labs to simulate character interactions.
+**How it used Vapi:** The project uses custom assistants powered by Vapi, Groq, Deepgram and 11Labs to simulate character interactions.
 
 [Code](https://github.com/pranavbedi/LiveStory) · [Demo video](https://www.youtube.com/watch?v=E7Z3YmKI0LI) · Built with vapi, 11labs, deepgram, groq
 
@@ -145,7 +145,7 @@ Talk to the characters in your favourite story.
 
 World's First AI Study Assistant in Extended Reality.
 
-**How it used Vapi:** There are many excellent pre-built solutions available, such as Vapi, which has been invaluable in helping the team implement a voice interface.
+**How it used Vapi:** The team used Vapi to implement a voice interface.
 
 [Code](https://github.com/VietRocHack/TeachXR-backend-dataflow) · [Demo video](https://www.youtube.com/watch?v=qVoCHS9BaIc) · Built with vapi, cartesia, deepgram, gemini
 

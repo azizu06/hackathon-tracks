@@ -23,7 +23,7 @@
 
 PepsiCo has many sustainability practices, but there’s no centralized metric to assess progress across goals. 'Peps Towards Sustainability' provides a way to measure the journey to a green future.
 
-**How it used PepsiCo / Berkeley SCET:** Sponsor use not stated on Devpost
+**How it used PepsiCo / Berkeley SCET:** The project uses PepsiCo’s data inputs to calculate deviation from optimal sustainability targets.
 
 No public code linked · Built with css, html, javascript
 

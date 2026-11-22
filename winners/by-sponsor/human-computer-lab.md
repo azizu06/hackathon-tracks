@@ -23,7 +23,7 @@
 
 A full-body immersive music experience that transforms music into synchronized light, haptics, and gesture, enabling deaf people to feel rhythm, intensity, and emotion throughout their bodies.
 
-**How it used Human Computer Lab:** Sponsor use not stated on Devpost
+**How it used Human Computer Lab:** A LeLamp robot lamp performs the music with light and motion.
 
 [Code](https://github.com/Karanvir1729/feelthemusic) · [Demo video](https://www.youtube.com/watch?v=WmgGEp0IGl8) · Built with avfoundation, bluetooth, bonjour, core-audio
 
@@ -43,7 +43,7 @@ The project consists of a main physical contribution to the LeLamp, along with m
 
 Dynamic Visibility: The digital game world begins in pitch darkness.
 
-**How it used Human Computer Lab:** Sponsor use not stated on Devpost
+**How it used Human Computer Lab:** Player 1 moves the LeLamp to cast a virtual spotlight on the screen.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=3Xcl9w1WM0U) · Built with codex, lelamp, python, unity
 

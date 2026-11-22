@@ -23,7 +23,7 @@
 
 Ahandformyaunt is a robot arm you control with your eyes and your voice:.
 
-**How it used Amazon Web Services:** Sponsor use not stated on Devpost
+**How it used Amazon Web Services:** The project used Amazon Nova on Bedrock for its AI.
 
 [Code](https://github.com/aditya-baniya-ai/hack_princeton) · [Demo video](https://www.youtube.com/watch?v=nPXe5ZIrOiY) · Built with amazon-bedrock, amazon-web-services, amazon-nova-2-lite, amazon-nova-2-sonic
 
@@ -63,7 +63,7 @@ A wearable combines spoken assistance with spatial audio to help people with vis
 
 Walking alone at night on campus? SafePulse is here to walk you home safe.
 
-**How it used Amazon Web Services:** Sponsor use not stated on Devpost
+**How it used Amazon Web Services:** The project used AWS Cognito for security verification.
 
 [Code](https://github.com/danielzhu04/SafePulse) · Built with amazon-web-services, expo.io, go, react-native
 
@@ -73,7 +73,7 @@ Walking alone at night on campus? SafePulse is here to walk you home safe.
 
 By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
 
-**How it used Amazon Web Services:** The team used AWS services to generate data and train all of the model before deploying them onto DigitalOcean.
+**How it used Amazon Web Services:** The team used AWS services to generate data and train its model.
 
 [Code](https://github.com/No-Way-Mo/transpeaktation) · [Demo video](https://www.youtube.com/watch?v=maBHLULKMVc) · Built with claude, digitalocean, elevenlabs, fastapi
 
@@ -95,7 +95,7 @@ Step inside the past, see it through every view, with every line sourced and tru
 
 Clip, save, and organize the exact moments that spark your ideas.
 
-**How it used Amazon Web Services:** Format Optimization : The original WebM video files are converted using FFmpeg to GIFs &amp; MP4s, stored in S3, and then stored with the video metadata in DynamoDB.
+**How it used Amazon Web Services:** DynamoDB Streams automatically update the search index.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with amazon-web-services, cohere, css, figma
 
@@ -105,7 +105,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67t
 
 AI Powered Voice-Based Systems Design Tool.
 
-**How it used Amazon Web Services:** The team built Sematic on AWS Amplify Gen 2, with AWS Lambda functions orchestrating calls to Google's Gemini 2.0 Flash API.
+**How it used Amazon Web Services:** Sematic was built on AWS Amplify Gen 2, with AWS Lambda functions orchestrating calls to Google's Gemini 2.0 Flash API.
 
 [Code](https://github.com/koralkulacoglu/sematic) · Built with amazon-dynamodb, amazon-web-services, amplify, auth0
 
@@ -115,7 +115,7 @@ AI Powered Voice-Based Systems Design Tool.
 
 Signify brings AI into the web accessibility space.
 
-**How it used Amazon Web Services:** Text-to-ASL conversion using AWS Bedrock Speech-to-Text using Amazon Transcribe Real-time processing via Lambda functions.
+**How it used Amazon Web Services:** The team used AWS services for video storage in S3 and language processing with Bedrock.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-I) · Built with amazon-bedrock, amazon-transcribe, amazon-web-services, dynamodb
 
@@ -125,7 +125,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-
 
 Stock market simulation game where students race to beat the market.
 
-**How it used Amazon Web Services:** Sponsor use not stated on Devpost
+**How it used Amazon Web Services:** The team used Amazon DynamoDB for order book data, game state persistence, and user portfolio tracking.
 
 [Code](https://github.com/redmac135/TradeOff) · [Demo video](https://www.youtube.com/watch?v=KtQ0IwOUMy4) · Built with dynamodb, api, cerebras, english
 
@@ -137,7 +137,7 @@ Stock market simulation game where students race to beat the market.
 
 Building community among pro bono lawyers through an easy to use conversational legal assistant.
 
-**How it used Amazon Web Services:** It is a web platform with a built in AWS chatbot that utilizes numerous legal APIs to effectively search previous cases based on a number of descriptors.
+**How it used Amazon Web Services:** The team built its core chatbot on AWS Lex.
 
 No public code linked · Built with amazon-web-services, amazon-lex, case.law, google-cloud
 
@@ -147,7 +147,7 @@ No public code linked · Built with amazon-web-services, amazon-lex, case.law, g
 
 A website that creates customized tests based on students' notes.
 
-**How it used Amazon Web Services:** The team used AWS APIs, specifically Lambda, Comprehend, Gateway.
+**How it used Amazon Web Services:** The team used Lambda, Comprehend, and Gateway from AWS.
 
 [Code](https://github.com/juliustao/text2test-aws) · Built with amazon-web-services, adobe-creative-suite, comprehend, gateway
 

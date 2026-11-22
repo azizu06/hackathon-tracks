@@ -23,7 +23,7 @@
 
 Indoor navigation for the visually impaired, made easy.
 
-**How it used Vespa.ai:** Sponsor use not stated on Devpost
+**How it used Vespa.ai:** The team stored vectors in a database using Vespa AI.
 
 [Code](https://github.com/flatypus/miru) · [Demo video](https://www.youtube.com/watch?v=kjCsRmlAYiY) · Built with arduino, clip, edge, embedding
 

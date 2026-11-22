@@ -139,7 +139,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=coq8SSweYC
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=coq8SSweYCs)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Auth0
-- **How it used Auth0:** Building a working GitHub authentication service using auth0, allowing anyone to sign in and use the app right away using their GitHub information.
+- **How it used Auth0:** The team used Auth0 to build a GitHub authentication service.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -162,7 +162,7 @@ GhostKode uses your Git history to identify the most unstable lines in your code
 - **Code:** [Source 1](https://github.com/bbmullen72/ghostkode)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=H6tUjbQjOkg)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Auth0 AI Agents
-- **How it used Auth0:** The team built with @auth0/nextjs-auth0 v4 and Next.js 16 App Router.
+- **How it used Auth0:** The ghost agent inherits the user’s GitHub permissions through Auth0’s delegated token model.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -339,7 +339,7 @@ The autonomous command center for your academic life.
 - **Code:** [Source 1](https://github.com/purabshah12/bitcamp2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eRcqv4_pCCQ)
 - **All prizes at this hackathon (2):** Best Bitcamp Hack - Bitcamp · TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+- **How it used Cloudforce / Microsoft:** The project uses TerpAI Ghost-Pilot for complex academic automation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -385,7 +385,7 @@ An AI safety net for UMD students. TerpWallet watches your bank account and conn
 - **Code:** [Source 1](https://github.com/rishikathakre/terpwallet-ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vD4VIui3jSs)
 - **All prizes at this hackathon (1):** TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+- **How it used Cloudforce / Microsoft:** The recommendations come from a custom TerpAI agent built on UMD’s Cloudforce/Microsoft Azure platform.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -464,7 +464,7 @@ NARA is an autonomous penetration testing CLI that orchestrates four AI agents a
 - **Code:** [Source 1](https://github.com/HackedRico/obv-nara-box)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=a8ESQUSft0c)
 - **All prizes at this hackathon (2):** Best Champion of Open Source w/ Featherless - Featherless · Neelbauer Agentic Revolution Award (NARA) - Alumni Prize
-- **How it used Featherless:** Sponsor use not stated on Devpost
+- **How it used Featherless:** The project uses Featherless and Phi-4-mini as its default LLM backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -518,7 +518,7 @@ From script to scene in minutes.
 - **Code:** [Source 1](https://github.com/zlyuan9/ani.mate)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hPwpqFpdsEk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The project saves outputs to a user library with Firebase cloud sync.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -599,7 +599,7 @@ Real vanilla, real proof. Extract is a digital trust system for the vanilla indu
 - **Code:** [Source 1](https://github.com/SujanPoudel23/Extract)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AUpQ-0V719o)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** The project records transfers between organizations as dual-signed Solana transactions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

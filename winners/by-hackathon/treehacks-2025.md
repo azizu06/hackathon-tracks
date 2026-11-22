@@ -80,9 +80,9 @@ FlowPilot listens, understands, and executes, transforming Zoom meetings into Sl
 - **Code:** [Source 1](https://github.com/CarterCote/flow-pilot) · [Source 2](https://github.com/cyu60/dain-agent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=d9pkeKJIGRg)
 - **All prizes at this hackathon (3):** DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation) · Perplexity: Hacking With Perplexity Award ($50 Gift Card per team member) · Zoom: Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;)
-- **How it used DAIN Labs:** Sponsor use not stated on Devpost Prize: $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation
+- **How it used DAIN Labs:** The project uses DAIN’s memory system to maintain conversation context and user preferences. Prize: $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation
 - **How it used Perplexity:** Sponsor use not stated on Devpost Prize: $50 Gift Card per team member
-- **How it used Zoom:** Zoom RTMS Integration : Implements WebSocket connections for real-time audio stream processing. Prize: $250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;
+- **How it used Zoom:** The Zoom RTMS integration implements WebSocket connections for real-time audio stream processing. Prize: $250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -105,7 +105,7 @@ A tool to match companies to relevant climate actions. Embedding search to find 
 - **Code:** [Source 1](https://github.com/Suzehva/bas_labs)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rUhAa9_z8zY)
 - **All prizes at this hackathon (2):** Intersystems: Best Use of GenAI using InterSystems IRIS Vector Search ($2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;) · Sustainability Prize: Best prototyping process ($800 Cash)
-- **How it used InterSystems:** Sponsor use not stated on Devpost Prize: $2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;
+- **How it used InterSystems:** The project uses InterSystems as its database. Prize: $2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;
 - **How it used Stanford Ecopreneurship:** Sponsor use not stated on Devpost Prize: $800 Cash
 - **Checked on Devpost:** 2026-11-21
 
@@ -177,8 +177,8 @@ A non-invasive wearable using novel thermoregulation research to provide precise
 - **Code:** [Source 1](https://github.com/arnavnc/therms-platform)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=smeznyWVNhM)
 - **All prizes at this hackathon (2):** Healthcare Grand Prize (Meta Ray Ban Smart Glasses x4) and &#91;2nd place&#93; · Scrapybara: Capy Prize (Japan offsite + $1k credits + Scrapybara Pro 6 months &#91;1st&#93; &amp; $1k credits + Scrapybara Pro 3 months &#91;2nd&#93; &amp; $100 credits + Scrapybara Pro 1 month &#91;3rd&#93;)
-- **How it used Scrapybara:** Therms also connects to APIs (Terra, Scrapybara, OpenAI) to incorporate additional physiological data, such as heart rate, sleep patterns, and chronic conditions. Prize: Japan offsite + $1k credits + Scrapybara Pro 6 months &#91;1st&#93; &amp; $1k credits + Scrapybara Pro 3 months &#91;2nd&#93; &amp; $100 credits + Scrapybara Pro 1 month &#91;3rd&#93;
-- **How it used Terra API:** Firebase handles seamless communication between the device and the web application, while Terra API integrates external physiological data from other wearables.
+- **How it used Scrapybara:** Scrapybara automates tasks such as booking medical appointments and managing prescriptions based on detected trends. Prize: Japan offsite + $1k credits + Scrapybara Pro 6 months &#91;1st&#93; &amp; $1k credits + Scrapybara Pro 3 months &#91;2nd&#93; &amp; $100 credits + Scrapybara Pro 1 month &#91;3rd&#93;
+- **How it used Terra API:** Terra API integrates external physiological data from other wearables.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -231,7 +231,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=eOo3tlCkw9
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eOo3tlCkw9o)
 - **All prizes at this hackathon (1):** Chroma: Best Chroma Cloud AI Application ($200 per team member)
-- **How it used Chroma:** Sponsor use not stated on Devpost Prize: $200 per team member
+- **How it used Chroma:** The project stores thought embeddings in ChromaDB for real-time retrieval. Prize: $200 per team member
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -281,7 +281,7 @@ Agentic routing at scale for 66x cheaper and 4x faster — Powering the Agentic 
 - **Code:** [Source 1](https://github.com/codegen-sh/codegen) · [Source 2](https://github.com/shloknatarajan/ariadne-routing)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0vY9tj6UDJE)
 - **All prizes at this hackathon (1):** Codegen: Best Code Generation Application ($1.5k Cash)
-- **How it used Codegen:** Conductor uses the Codegen SDK to run and evaluate a coding agent on SWE-bench. Prize: $1.5k Cash
+- **How it used Codegen:** The team uses Codegen’s SDK to run, test and evaluate on SWE-Bench. Prize: $1.5k Cash
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -360,7 +360,7 @@ Monitoring the Health and Safety of First Responders and Military Personnel.
 - **Code:** [Source 1](https://github.com/nipunbatra8/healthbot) · [Source 2](https://github.com/nipunbatra8/mapagent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=H3TpX43lDUs)
 - **All prizes at this hackathon (1):** DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation)
-- **How it used DAIN Labs:** The team designed a DAIN-powered AI service the provides timely alerts to keep safe. Prize: $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation
+- **How it used DAIN Labs:** The team designed a DAIN-powered AI service for timely alerts. Prize: $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -383,7 +383,7 @@ Less paperwork, more patient care: the AI therapist's assistant.
 - **Code:** [Source 1](https://github.com/cherylwu834/treehacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=q_3Y3kjbpZ0)
 - **All prizes at this hackathon (1):** DAIN Labs: AI Agent Excellence &amp; Innovation Awards ($5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation)
-- **How it used DAIN Labs:** Sponsor use not stated on Devpost Prize: $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation
+- **How it used DAIN Labs:** The project uses DAIN to trigger service tools such as checking the therapist’s appointment database and sending reminders. Prize: $5k Cash &#91;1st&#93; &amp; $2.5K Cash &#91;2nd&#93; &amp; $500 Cash &#91;3rd&#93; + Agent Launchpad Invitation
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -462,7 +462,7 @@ The system consists of two specialized machine learning models:.
 - **Code:** [Source 1](https://github.com/2pir2/TreeHack2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Web3 Prize: Best AI Agents ($8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;)
-- **How it used EigenLayer:** News Model: This model processes real-time news from Eigenlayer and other sources, analyzing sentiment, keywords, and market-moving narratives to gauge the impact of external events on ETH prices using the finBERT large language model. Prize: $8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;
+- **How it used EigenLayer:** The team built the system by integrating EigenLayer for fetching real-time news data and Dune for pulling Ethereum price data. Prize: $8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -508,7 +508,7 @@ A privacy-preserving drug availability search powered by EigenDA and ZK-PTLS.
 - **Code:** [Source 1](https://github.com/shayaansultan/treehacks-final)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=N1Zv7cgQSQ0)
 - **All prizes at this hackathon (1):** Web3 Prize: Best AI Agents ($8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;)
-- **How it used EigenLayer:** Sponsor use not stated on Devpost Prize: $8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;
+- **How it used EigenLayer:** The project uses EigenLayer’s extensible agent framework for verifiable AI capabilities and data availability logging. Prize: $8k Cash + 8k EIGEN &#91;1st&#93; &amp; $7k Cash + 7k EIGEN &#91;2nd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -535,7 +535,7 @@ Democratizing information across the electric grid.
 - **Code:** [Source 1](https://github.com/shrenikpatel17/treeHacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hBLujsLhRaA)
 - **All prizes at this hackathon (1):** Elastic: Best use of Elasticsearch Serverless ($2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;)
-- **How it used Elastic:** The team made extensive use of Elastic for the RAG model and geospatial analysis, along with OpenAI for open-ended location interpretation based on user prompts. Prize: $2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;
+- **How it used Elastic:** The team used Elastic for the RAG model and geospatial analysis. Prize: $2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -558,7 +558,7 @@ a cognition copilot that distills your thoughts from pen to perspective.
 - **Code:** [Source 1](https://github.com/RALS-TreeHacks-25/backend) · [Source 2](https://github.com/RALS-TreeHacks-25/frontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qbKc0O2uQv8)
 - **All prizes at this hackathon (1):** Elastic: Best use of Elasticsearch Serverless ($2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;)
-- **How it used Elastic:** The team used Firestore as a general-purpose no-SQL datastore and ElasticSearch to run vector search on the embeddings. Prize: $2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;
+- **How it used Elastic:** The team used Elasticsearch to run vector search on embeddings. Prize: $2,000 Cash &#91;1st&#93; &amp; $1,000 Cash &#91;2nd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -585,7 +585,7 @@ A voice interviewer asks practice coding questions and gives feedback on the ans
 - **Code:** [Source 1](https://github.com/kkarenvoo/TreeHacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dz0O5mzjFH0)
 - **All prizes at this hackathon (1):** ElevenLabs: Best Use of ElevenLabs (11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93;)
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost Prize: 11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93;
+- **How it used ElevenLabs:** The project uses ElevenLabs voice agents for behavioral and technical interviews. Prize: 11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -608,7 +608,7 @@ A voice interviewer asks practice coding questions and gives feedback on the ans
 - **Code:** [Source 1](https://github.com/joycechen721/duck-you-mean)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eDDO_p1X9e8)
 - **All prizes at this hackathon (1):** ElevenLabs: Best Use of ElevenLabs (11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93;)
-- **How it used ElevenLabs:** ElevenLabs - facilitates the full conversation process from user mic input to duck voice generation. Prize: 11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93;
+- **How it used ElevenLabs:** ElevenLabs facilitates conversations from mic input to duck voice generation. Prize: 11M Credits + AirPods Max per team member &#91;1st&#93; &amp; 8.11M Credits + Merch &#91;2nd&#93; &amp; 5.11M Credits + Merch &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -635,7 +635,7 @@ Because everyone deserves someone who cares.
 - **Code:** [Source 1](https://github.com/Tap2Call/flutterflow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8ZOR9M53RlM)
 - **All prizes at this hackathon (1):** Flutterflow: Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;)
-- **How it used FlutterFlow:** Designed a Scalable, Patient-Friendly Platform – Built using FlutterFlow, making it accessible to all users, regardless of tech expertise. Prize: $2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;
+- **How it used FlutterFlow:** The project was built using FlutterFlow. Prize: $2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -658,7 +658,7 @@ EcoBite is a mobile app meant for users to take pictures of their leftover food 
 - **Code:** [Source 1](https://github.com/SirKentut/EcoBite)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=g1RofQA9R_o)
 - **All prizes at this hackathon (1):** Flutterflow: Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;)
-- **How it used FlutterFlow:** The team is most proud of the development of EcoBite using a tool none of the team had worked with previously: FlutterFlow. Prize: $2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;
+- **How it used FlutterFlow:** The team used FlutterFlow to develop the mobile application. Prize: $2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -681,7 +681,7 @@ The adventure is filled with grade-level vocabulary to hit comprehension goals, 
 - **Code:** [Source 1](https://github.com/sdoshi4/Sprout-Treehacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GbGJ_mDDeCE)
 - **All prizes at this hackathon (1):** Flutterflow: Best Use of FlutterFlow ($2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;)
-- **How it used FlutterFlow:** Sprout.io was developed using Flutterflow, for a seamless user experience. Prize: $2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;
+- **How it used FlutterFlow:** Sprout.io was developed using FlutterFlow. Prize: $2,000 Cash + meet w/ founders &#91;1st&#93; &amp; $1,500 Cash &#91;2nd&#93; &amp; iPad 10.9"s &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -708,7 +708,7 @@ A nursing documentation tool turns captured conversations into structured notes.
 - **Code:** [Source 1](https://github.com/bencullenn/wing-note)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TX3a1ze3Uwk)
 - **All prizes at this hackathon (1):** Google Cloud: Best Use of Gemini (Google Pixel Watches x4)
-- **How it used Google:** The team integrated Deepgram, Gemini 2.0, Perplexity, and Mistral AI to process medical documentation. Prize: Google Pixel Watches x4
+- **How it used Google:** Gemini 2.0 Flash identifies details about the patient and room to enhance the notes. Prize: Google Pixel Watches x4
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -735,7 +735,7 @@ A browser copilot helps users find their way around web pages.
 - **Code:** [Source 1](https://github.com/danieltyx/navi-browser-agent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=XXGyFPQvcPk)
 - **All prizes at this hackathon (1):** Groq: Best on Groq Multimodal App Challenge ($1,000 of Groq Swag Store Credit)
-- **How it used Groq:** Sponsor use not stated on Devpost Prize: $1,000 of Groq Swag Store Credit
+- **How it used Groq:** The project uses Groq to convert audio commands to prompts for the OpenAI LLM. Prize: $1,000 of Groq Swag Store Credit
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -791,7 +791,7 @@ Adaptive Learning Content Generation for Students with Disabilities.
 - **Code:** [Source 1](https://github.com/airjlee/superclassroom)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2CCohCdx4zk)
 - **All prizes at this hackathon (1):** Intersystems: Best Use of GenAI using InterSystems IRIS Vector Search ($2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;)
-- **How it used InterSystems:** Sponsor use not stated on Devpost Prize: $2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;
+- **InterSystems:** Built with intersystems (listed on Devpost) Prize: $2k Cash &#91;1st&#93; &amp; $1.5k Cash &#91;2nd&#93; &amp; 1k Cash &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -818,7 +818,7 @@ Plot delivers comprehensive insights on any location. Whether you're scouting in
 - **Code:** [Source 1](https://github.com/toni-akintola/plot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jkV3BTOF3GQ)
 - **All prizes at this hackathon (1):** LangChain: Best Use of LangChain (LangChain Swag Box, $250 LangSmith Credits, and access to LangGraph Cloud per team member)
-- **How it used LangChain:** Sponsor use not stated on Devpost Prize: LangChain Swag Box, $250 LangSmith Credits, and access to LangGraph Cloud per team member
+- **How it used LangChain:** The project uses LangChain to build its AI workflows. Prize: LangChain Swag Box, $250 LangSmith Credits, and access to LangGraph Cloud per team member
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -945,7 +945,7 @@ Reflecting on your past work, relationships, and learning has never been easier.
 - **Code:** [Source 1](https://github.com/kevinzhu12/treehacks-glasses) · [Source 2](https://github.com/sarahjsu/tree_augmentos)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3FzmbTFD_9I)
 - **All prizes at this hackathon (1):** Mistral: Best Use of Mistral AI API (AirPods x4 + $1,000 Cash + $1,000 API Credits)
-- **How it used Mistral:** Sponsor use not stated on Devpost Prize: AirPods x4 + $1,000 Cash + $1,000 API Credits
+- **Mistral:** Built with mistral (listed on Devpost) Prize: AirPods x4 + $1,000 Cash + $1,000 API Credits
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -999,7 +999,7 @@ A portable teaching device helps children with visual impairments practice Brail
 - **Code:** [Source 1](https://github.com/Adil-Jussupov/PortableBraille)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0vI_fjJIOsE)
 - **All prizes at this hackathon (2):** NVIDIA: Robo Prize (Jetson Dev kit per team member) · TreeHacks Grand Prize &#124; 3rd Place (iPhone 16 Pro per team member)
-- **How it used NVIDIA:** The project runs its facial-expression recognition on an NVIDIA Jetson Orin Nano. Prize: Jetson Dev kit per team member
+- **How it used NVIDIA:** The project uses the Jetson Orin Nano for face expression recognition with RayBan Meta glasses. Prize: Jetson Dev kit per team member
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1022,7 +1022,7 @@ An AR wearable displays cues about nearby sounds to deaf and hard-of-hearing use
 - **Code:** [Source 1](https://github.com/YuanSamuel/Treehacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dUlzwdfdT2U)
 - **All prizes at this hackathon (1):** NVIDIA: Best Accelerated Compute (5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93;)
-- **How it used NVIDIA:** The wild (west) setup - Jetson Orin Nano on the left, power bank on the right, and a mic array in the middle, all hooked up to a Meta Quest. Prize: 5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93;
+- **How it used NVIDIA:** The project uses Whisper Mini on the Jetson Nano for real-time voice transcription. Prize: 5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1045,7 +1045,7 @@ WiiWork is a voice-controlled website designed for people and AI agents to use.
 - **Code:** [Source 1](https://github.com/Alezander9/WiiWork)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rkLqYKocnNc)
 - **All prizes at this hackathon (1):** NVIDIA: Best Accelerated Compute (5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93;)
-- **How it used NVIDIA:** WiiWork uses a DeepSeek model through NVIDIA for complex reasoning in its voice-controlled web interface. Prize: 5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93;
+- **How it used NVIDIA:** The project uses DeepSeek with NVIDIA for specialized reasoning. Prize: 5090s per team member - 1 GPU JHH signed &#91;1st&#93; &amp; 5080s per team member &#91;2nd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1072,7 +1072,7 @@ An interactive storyteller changes the narrative and visuals in response to brai
 - **Code:** [Source 1](https://github.com/StiopaPopa/fable)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q8udHqdKbKw)
 - **All prizes at this hackathon (1):** OpenAI: Most Creative Use of OpenAI API (OpenAI SF HQ lunch + Swag)
-- **How it used OpenAI:** The main story loop runs every 30 seconds, checking the user’s current state and using the OpenAI API to generate story scripts (and corresponding sound effect prompts) based on those EEG readings. Prize: OpenAI SF HQ lunch + Swag
+- **How it used OpenAI:** The project uses the OpenAI API to generate story scripts and sound effect prompts from EEG readings. Prize: OpenAI SF HQ lunch + Swag
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1095,7 +1095,7 @@ A monitoring system measures what people throw away and reports waste trends.
 - **Code:** [Source 1](https://github.com/sonnetx/treehacks-2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2TJLV-r9Qss)
 - **All prizes at this hackathon (1):** OpenAI: Most Creative Use of OpenAI API (OpenAI SF HQ lunch + Swag)
-- **How it used OpenAI:** Sponsor use not stated on Devpost Prize: OpenAI SF HQ lunch + Swag
+- **How it used OpenAI:** The project uses OpenAI GPT-4o to determine the placement of items. Prize: OpenAI SF HQ lunch + Swag
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1213,7 +1213,7 @@ Although intended primarily for political awareness, the tool can be used to ass
 - **Code:** [Source 1](https://github.com/jcub-gold/TreeHacks_25_Project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kRgA_4Bvj5o)
 - **All prizes at this hackathon (1):** Perplexity: Best Search Hack ($250 Gift Card per team member + HQ visit)
-- **How it used Perplexity:** The team built Verify by building a Chrome-integrated UI with HTML and CSS, and a JavaScript backend that connected to Perplexity's API for accurate searching and tweet language processing. Prize: $250 Gift Card per team member + HQ visit
+- **How it used Perplexity:** The project uses Perplexity for customized prompt responses. Prize: $250 Gift Card per team member + HQ visit
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1413,7 +1413,7 @@ Also won this track: [Therms - Thermoregulation Wearables with AI-powered Insigh
 
 The team describes the project as “For leaders in high-performance environments, we aggregate real-time wearable data from teams, providing LLM-driven insights, detecting arrhythmias, and reconstructing ECGs—no medical…
 
-[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with cuda, python, pytorch, react-native
+[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with terraapi, cuda, python, pytorch
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -1423,7 +1423,7 @@ The team describes the project as “For leaders in high-performance environment
 - **Code:** [Source 1](https://github.com/shafink11/ppg_project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z_tsDhHi2Fs)
 - **All prizes at this hackathon (1):** Terra API: Health Command Center (Ultrahuman Air Ring per team member)
-- **How it used Terra API:** Sponsor use not stated on Devpost Prize: Ultrahuman Air Ring per team member
+- **Terra API:** Built with terraapi (listed on Devpost) Prize: Ultrahuman Air Ring per team member
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1446,7 +1446,7 @@ Leveraging healthcare data to improve the performance of fighter jet pilots.
 - **Code:** [Source 1](https://github.com/Harsh-Karia/TreeHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5l3HpXGMlks)
 - **All prizes at this hackathon (1):** Healthcare Grand Prize (Meta Ray Ban Smart Glasses x4) and &#91;2nd place&#93;
-- **How it used Terra API:** Project AVIA is an AI-driven command center that consolidates real-time biometric data—heart rate, heart rate variability, oxygen saturation (SpO2), sleep quality, stress levels, exercise, and estimated blood pressure—sourced from Terra API and PPG recordings.
+- **How it used Terra API:** The project uses the Terra API to collect real-time Garmin metrics.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1552,7 +1552,7 @@ Indoor navigation for the visually impaired, made easy.
 - **Code:** [Source 1](https://github.com/flatypus/miru)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kjCsRmlAYiY)
 - **All prizes at this hackathon (1):** Vespa.ai: Best Hack Using a Vision Language Model ($500 Amazon gift card per team member)
-- **How it used Vespa.ai:** Sponsor use not stated on Devpost Prize: $500 Amazon gift card per team member
+- **How it used Vespa.ai:** The team stored vectors in a database using Vespa AI. Prize: $500 Amazon gift card per team member
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1606,7 +1606,7 @@ An AI code agent tool that integrates live browser session context for smarter c
 - **Code:** [Source 1](https://github.com/ekang7/PulseAI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wFDW0y9zVGU)
 - **All prizes at this hackathon (1):** Codeium: Best Use of Windsurf ($1k Cash + 1-Year Windsurf + Codeium Subscription)
-- **How it used Windsurf:** Sponsor use not stated on Devpost Prize: $1k Cash + 1-Year Windsurf + Codeium Subscription
+- **How it used Windsurf:** The project uses retrieval augmented generation for AI-assisted coding in Codeium’s Windsurf-Cascade editor. Prize: $1k Cash + 1-Year Windsurf + Codeium Subscription
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1658,7 +1658,7 @@ AI-powered lecture companion: Transforms speech into real-time visualizations, i
 - **Code:** [Source 1](https://github.com/arushisharmaa/stanford-tree-hacks-)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m_1f7-KvGmQ)
 - **All prizes at this hackathon (1):** Zoom: Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;)
-- **How it used Zoom:** Leveraging Zoom's powerful servers to capture and process audio in real-time. Prize: $250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;
+- **How it used Zoom:** The project uses Zoom’s Calendar API to populate it with students’ calendar data. Prize: $250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1681,7 +1681,7 @@ Zoned out during a lecture? Your very own lecture buddy is here to save you.
 - **Code:** [Source 1](https://github.com/NxtGenLegend/TreeHacks-ZoneOut)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Be4lfvVzMRQ)
 - **All prizes at this hackathon (1):** Zoom: Best Use of Zoom APIs ($250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;)
-- **How it used Zoom:** Sponsor use not stated on Devpost Prize: $250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;
+- **How it used Zoom:** The project uses the Zoom API to connect its client to a Real-Time Media Server. Prize: $250 Git Card + Herschel Duffle Bags &#91;1st&#93; &amp; $100 Git Card + Hoodies &#91;2nd&#93; &amp; $50 Git Card + Bottles &#91;3rd&#93;
 - **Checked on Devpost:** 2026-11-21
 
 </details>

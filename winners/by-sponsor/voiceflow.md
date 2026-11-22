@@ -23,7 +23,7 @@
 
 If you can dream it, Rex will find it.
 
-**How it used Voiceflow:** The team used a custom knowledge base on VoiceFlow to customize the agent to be very specific to the different rooms in E7 and point of interests at Hack the North.
+**How it used Voiceflow:** The project uses Voiceflow’s Supabase integration to log a request in the database to begin a trip.
 
 [Code](https://github.com/jshan9078/Rex) · [Demo video](https://www.youtube.com/watch?v=A5594U-kSKc) · Built with voiceflow, 3d-printing, cad, elevenlabs
 

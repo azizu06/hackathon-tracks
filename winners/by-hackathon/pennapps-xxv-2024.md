@@ -84,7 +84,7 @@ Automated Medication Scanner and Tracker Powered by Computer Vision.
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Computer Vision (Sponsored by Roboflow) · Track: Best Healthcare Hack (Sponsored by Patient Safety Technology Challenge)
 - **How it used Patient Safety Technology Challenge:** Sponsor use not stated on Devpost
-- **How it used Roboflow:** They were used to train both a Roboflow model to detect labels, and test a custom OpenCV unwarping pipeline.
+- **How it used Roboflow:** The team trained a Roboflow model to detect labels.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -164,7 +164,7 @@ Revolutionize your takeout habits — get financially savvy meal choices and ide
 - **Code:** [Source 1](https://github.com/pennapps-w/plate-o)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aZ8MMSoKCXc)
 - **All prizes at this hackathon (1):** Track: Best Financial Hack (Sponsored by Capital One)
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **How it used Capital One:** Plate-O uses the Capital One API to analyze income, expenses, and savings and calculate a takeout budget.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -191,7 +191,7 @@ Predict Elections Way Better With LLM Agents.
 - **Code:** [Source 1](https://github.com/SahraMohamad/Electra)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=c6X9n7o9Zjk)
 - **All prizes at this hackathon (1):** Super Fast AI
-- **How it used Cerebras:** Sponsor use not stated on Devpost
+- **Cerebras:** Built with cerebras (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -237,7 +237,7 @@ A gateway for blind/visually impaired people to experience the world independent
 - **Code:** [Source 1](https://github.com/ddiyas/OpticaV2)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZD9LP6MjzG8)
 - **All prizes at this hackathon (1):** Super Fast AI
-- **How it used Cerebras:** Sponsor use not stated on Devpost
+- **How it used Cerebras:** The project uses a Cerebras-powered language model to generate natural-language descriptions from object classifications.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -318,7 +318,7 @@ Then everyone with access can choose which times work best for them.
 - **Code:** [Source 1](https://github.com/tbwrigh/PennAppsXXV)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vbNhfhMT3vs)
 - **All prizes at this hackathon (1):** Best Use of Terraform
-- **How it used HashiCorp:** The team used Terraform to deploy AWS Lambda functions and configure API Gateway permissions.
+- **How it used HashiCorp:** The team used Terraform to deploy its Lambdas and configure API Gateway and permissions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -345,7 +345,7 @@ The team had never used Flask, Hugging Face, PropelAuth, vector databases, or de
 - **Code:** [Source 1](https://github.com/EerierGosling/MatchTube)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=I-dwiFZ3P1A)
 - **All prizes at this hackathon (1):** Best Use of MongoDB Atlas
-- **How it used MongoDB:** The backend (built with python, sentence transformers, Youtube API, PropelAuth, and MongoDB Atlas) takes in a Google takeout of a user's Youtube watch and search history.
+- **How it used MongoDB:** MongoDB Atlas stores vectors and finds similar vectors for the user.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -411,7 +411,7 @@ Unified Electronic Health Record featuring an AI- and RAG-powered search bot for
 - **Code:** [Source 1](https://github.com/gibranoderenz/unifymd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=c1NckGLl0TI)
 - **All prizes at this hackathon (1):** Best Use of PropelAuth
-- **How it used PropelAuth:** Sponsor use not stated on Devpost
+- **How it used PropelAuth:** The project uses PropelAuth for authentication and managing user identities.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -450,7 +450,7 @@ CoffeeStarter is the ultimate networking tool. It leverages your resume to craft
 - **Code:** [Source 1](https://github.com/sutharsikakumar/PennApps-XXV)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-Sh9W3QzrO4)
 - **All prizes at this hackathon (1):** Best Next-Gen LLM-Powered Application (Sponsored by Tune)
-- **How it used Tune:** Sponsor use not stated on Devpost
+- **How it used Tune:** The team used Tune for fine-tuning its LLaMA3 model.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

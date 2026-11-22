@@ -23,7 +23,7 @@
 
 Vidego offers users the ability to perform text searches on the content of video files.
 
-**How it used AlchemyAPI:** Sponsor use not stated on Devpost
+**How it used AlchemyAPI:** The project uses AlchemyAPI for keyword comparisons.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=sXedTRAG5rU)
 

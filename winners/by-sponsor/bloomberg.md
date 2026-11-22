@@ -99,7 +99,7 @@ Vistra puts the power in the EYES of the user.
 
 The stock market is inherently volatile, and gaining even the slightest insight into its driving factors can lead to large reward.
 
-**How it used Bloomberg:** Sponsor use not stated on Devpost
+**How it used Bloomberg:** Clicking on the notification pulls up the Bloomberg page for the Dow Jones.
 
 No public code linked · Built with bloomberg, weather-underground, wolfram-technologies
 

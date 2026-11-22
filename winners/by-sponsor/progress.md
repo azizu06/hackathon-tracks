@@ -33,7 +33,7 @@ A mobile app that pairs friends together for everyday activities such as eating 
 
 Pusheen + psychology research = healthier eating habits via mobile app.
 
-**How it used Progress:** Sponsor use not stated on Devpost
+**How it used Progress:** The project uses the Telerik platform to deploy the app for prototyping.
 
 No public code linked · Built with css, flask, javascript, monkeylearn
 

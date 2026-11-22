@@ -23,7 +23,7 @@
 
 Online marketplaces in 2026: Bots are everywhere.
 
-**How it used World U:** Sponsor use not stated on Devpost
+**How it used World U:** The project issues USDC payment commands from the client through World App and MiniKit.
 
 [Code](https://github.com/aryank09/banter-mart) · [Demo video](https://www.youtube.com/watch?v=hn_EWcW0pX0) · Built with css, gemini, react, supabase
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=avU8l6qmFD
 
 Scale your business with faster authentic hiring and real outbound, not ai.
 
-**How it used World U:** Sponsor use not stated on Devpost
+**How it used World U:** The team integrated World/MiniKit for verified mini app login.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=baX5qnjcYcc) · Built with typescript
 

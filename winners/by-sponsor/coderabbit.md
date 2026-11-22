@@ -23,7 +23,7 @@
 
 Merj is your AI-powered merge copilot. It reviews both branches, understands intent with CodeRabbit, and uses Claude to suggest secure conflict resolutions automatically.
 
-**How it used CodeRabbit:** The team were also really excited to learn about CodeRabbit and integrate their powerful ability to semantically synthesize information in git histories to enhance the quality of the final product response.
+**How it used CodeRabbit:** The project uses CodeRabbit to summarize changes between each divergent node and its common ancestor.
 
 [Code](https://github.com/Anay-jo/merj) · [Demo video](https://www.youtube.com/watch?v=R1SPVzI1epU) · Built with coderabbit, bash, chromadb, claude
 

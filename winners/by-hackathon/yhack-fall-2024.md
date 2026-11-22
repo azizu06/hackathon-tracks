@@ -104,7 +104,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dZgIqzT754Y)
 - **All prizes at this hackathon (1):** Most Creative Adobe Express Add-On
-- **How it used Adobe:** The team built an Adobe Express add-on that helps user make educational or awareness reels/shorts faster by generating half of the work for them.
+- **How it used Adobe:** The team built an Adobe Express add-on to help users make educational or awareness reels.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -131,7 +131,7 @@ No public code linked · Built with cloudflare, ai, groq, llama
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** Sponsor use not stated on Devpost
+- **How it used Cloudflare:** The project uses Cloudflare Workers and Pages for serverless processing and API interactions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -158,7 +158,7 @@ No public code linked · Built with cloudfare, flask, nextjs, openai-api
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** 1st Place · Best AI Project with Databricks Open Source
-- **How it used Databricks:** Sponsor use not stated on Devpost
+- **How it used Databricks:** The project uses Databricks Open Source for K-means clustering.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -185,7 +185,7 @@ ConvSim is not just another chatbot or simulation tool – it's a window into a 
 - **Code:** [Source 1](https://github.com/apurvagyan/conv-sim)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** FetchAI · Media/entertainment Track
-- **How it used Fetch.ai:** The team leveraged cutting-edge AI frameworks, including Fetch AI and OpenAI, to create a robust and flexible multi-agent system.
+- **How it used Fetch.ai:** The team used Fetch AI and OpenAI to create a multi-agent system.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -208,7 +208,7 @@ Struggling to catch up after missing classes? Tired of going through boring lect
 - **Code:** [Source 1](https://github.com/kiriland/YHack2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9G3IMeVYQMo)
 - **All prizes at this hackathon (1):** FetchAI
-- **How it used Fetch.ai:** The team then leveraged fetch ai's framework to utilize their agents intensively throughout the application.
+- **How it used Fetch.ai:** Six Fetch AI agents manage text extraction, image processing, script generation, and voice synthesis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -231,7 +231,7 @@ Now, learning is made interactive and engaging, more than ever.
 - **Code:** [Source 1](https://github.com/pulkitkalra28/yhack_frontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=F_PwJoNvFsM)
 - **All prizes at this hackathon (1):** FetchAI
-- **How it used Fetch.ai:** The team also used fetch.ai ai agents to deploy on test net - blockchain.
+- **How it used Fetch.ai:** The team used Fetch.ai agents to deploy on a blockchain test net.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -312,7 +312,7 @@ Cropscape analyzes location-specific soil, climate, and hardiness data to provid
 - **Code:** [Source 1](https://github.com/Superhero1015/YHack2024-25_Proj)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iuZZZnOtsdk)
 - **All prizes at this hackathon (1):** LightBox
-- **How it used LightBox:** Sponsor use not stated on Devpost
+- **LightBox:** Built with lightbox (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -335,7 +335,7 @@ An accessible, interactive map of every county tract in the United States, with 
 - **Code:** [Source 1](https://github.com/dimaa-b/future_cities_index)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** LightBox
-- **How it used LightBox:** Interactive UI built with ReactJS, data parsed from Lightbox API with Javascript.
+- **How it used LightBox:** The project parses data from the Lightbox API with JavaScript.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

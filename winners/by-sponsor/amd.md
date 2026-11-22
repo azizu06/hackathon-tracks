@@ -23,9 +23,9 @@
 
 A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-100T.
 
-**How it used AMD:** Sponsor use not stated on Devpost
+**AMD:** Built with vivado (listed on Devpost)
 
-[Code](https://github.com/techcolly/fpga_LM) · Built with claude, fpga, python, pytorch
+[Code](https://github.com/techcolly/fpga_LM) · Built with vivado, claude, fpga, python
 
 ### [GEarth](https://devpost.com/software/diarockets)
 
@@ -33,7 +33,7 @@ A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-10
 
 GEarth simulates how citizens, institutions, and governments interact across a fictional world that viewers can explore from a browser dashboard.
 
-**How it used AMD:** Python workers run Qwen models across an AMD GPU and two NVIDIA systems to supply agent decisions to the shared simulation.
+**How it used AMD:** AMD serves Qwen through ROCm and PyTorch.
 
 [Code](https://github.com/liangricky7/GEarth) · [Demo video](https://www.youtube.com/watch?v=7h_nXEkdgIM) · Built with c#, c++, distributed-computation, python
 
@@ -43,7 +43,7 @@ GEarth simulates how citizens, institutions, and governments interact across a f
 
 Cheap attack drones are now one of the biggest threats to bases and infrastructure. Operators practice against scripted enemies.
 
-**How it used AMD:** A counter-drone defense trainer where the enemy swarm taught itself to attack, trained on an AMD Radeon GPU.
+**How it used AMD:** The team trained the counter-drone defense trainer on an AMD Radeon GPU.
 
 [Code](https://github.com/ian-kr/Swarm) · [Demo video](https://vimeo.com/1234778075) · Built with amd, css3, html5, javascript
 
@@ -55,7 +55,7 @@ Cheap attack drones are now one of the biggest threats to bases and infrastructu
 
 See the world through sound and LiDAR. Inspired by echolocation, EchoAI is a hands-free tool for the visually impaired.
 
-**How it used AMD:** The system is built on a high-performance client-server architecture, where an iPhone captures the world, and a powerful AMD-hosted server does the heavy lifting.
+**How it used AMD:** EchoAI is a hybrid system composed of a native iOS client and a powerful Python-based backend, hosted on AMD hardware.
 
 [Code](https://github.com/jaehoonoo/echoai) · [Demo video](https://www.youtube.com/watch?v=P4SIQhh_1LY) · Built with computer-vision, fastapi, lidar, machine-learning
 
@@ -65,7 +65,7 @@ See the world through sound and LiDAR. Inspired by echolocation, EchoAI is a han
 
 AI Legal Tender transforms messy legal data into structured, cited intelligence using AMD powered ADKs that listen, learn, research, and help lawyers litigate smarter, faster, and more accurately.
 
-**How it used AMD:** Self-hosted AI - all data stays on AMD infrastructure, addressing law firms' privacy concerns.
+**How it used AMD:** All data stays on AMD infrastructure.
 
 [Code](https://github.com/dominickdupuy/Paralegal) · [Demo video](https://www.youtube.com/watch?v=toI8_0oCX8Y) · Built with amd, chatgpt-whisper, flask, google-adk
 
@@ -75,7 +75,7 @@ AI Legal Tender transforms messy legal data into structured, cited intelligence 
 
 In an age where AI-generated media is indistinguishable from reality, Sora2Detector is the first of its kind multi phase detection platform that verifies the authenticity of video content, end to end.
 
-**How it used AMD:** Sponsor use not stated on Devpost
+**How it used AMD:** The team tested the project on Windows with AMD hardware.
 
 [Code](https://github.com/LeeMarshall1113/Sora2Detector) · [Demo video](https://www.youtube.com/watch?v=GPhHIwjohe4) · Built with amd, ai, html5, ml
 

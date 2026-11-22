@@ -140,7 +140,7 @@ Nessential turns passive financial management into proactive, real-world savings
 - **Code:** [Source 1](https://github.com/Owen-Isenhart/HackUTD-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_Eh5HyNtzVU)
 - **All prizes at this hackathon (1):** Capital One Track
-- **How it used Capital One:** Unified Financial Ledger &amp; Onboarding: Seamlessly connects via Capital One's Nessie API to ingest checking balances, transactions, recurring bills, and loans into a unified financial profile.
+- **How it used Capital One:** The project uses Capital One's Nessie API to ingest checking balances, transactions, recurring bills, and loans into a unified financial profile.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -390,7 +390,7 @@ An AI-powered robotic hand controlled by brain-to-muscle intent signals, adaptin
 - **Code:** [Source 1](https://github.com/HassanKhan20/nuero-grip)
 - **Demo video:** [Video 1](https://vimeo.com/1244909388)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** MediaPipe tracks the patient’s healthy hand with a webcam and extracts per-finger curl values.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -417,7 +417,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=cqpzf7NP9g
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cqpzf7NP9gY)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** Sponsor use not stated on Devpost
+- **How it used MongoDB:** The project uses independent MongoDB-backed hubs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -517,7 +517,7 @@ Custom voxel engine on a ARTY A7-100T FPGA with a realistic trading sim.
 - **Code:** [Source 1](https://github.com/Sweet-Rice/kennycraft-alpha)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Qakh5g6futU)
 - **All prizes at this hackathon (1):** Nvidia Track
-- **How it used NVIDIA:** The banker, trader and builder use tool-calling agents on Nemotron 3 Ultra (hosted) by default, or Nemotron 3 Super self-hosted on a Brev H200.
+- **How it used NVIDIA:** Nearby villagers use NVIDIA Nemotron Nano running locally and fall back to rules if it times out.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -540,7 +540,7 @@ Introducing TripWir3! Powered by NVIDIA Nemotron™ agents, this weight-provenan
 - **Code:** [Source 1](https://github.com/mukherjeeabhirup/tripwir3)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vPMd6Ijjr3M)
 - **All prizes at this hackathon (1):** Nvidia Track
-- **How it used NVIDIA:** A Nemotron 3.5 Super orchestrator on the NVIDIA API plans and does the tool calling, while the Investigator, Skeptic, and Report agents run locally on Nemotron 3.5 Lightning 30B-A3B through LM Studio.
+- **How it used NVIDIA:** The Nemotron 3.5 Super orchestrator on the NVIDIA API plans and calls tools.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -567,7 +567,7 @@ Light the Way! Beacon is an accessibility map with step-free routes for people w
 - **Code:** [Source 1](https://github.com/preethi-seereddy/Beacon)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GxJQYUc_s_c)
 - **All prizes at this hackathon (1):** Photon Track
-- **How it used Photon:** The application combines smart routing, real-time accessibility reports, community contributions, and an AI messaging companion powered by Photon 2.0.
+- **How it used Photon:** The AI companion runs on Photon 2.0’s Spectrum SDK, which puts Beacon into iMessage.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -590,7 +590,7 @@ A disclosed AI call screener for an older adult: Nemotron proposes, Rust decides
 - **Code:** [Source 1](https://github.com/cxdima/hackutd26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pPmL-vXP1OQ)
 - **All prizes at this hackathon (1):** Photon Track
-- **How it used Photon:** The team also built a robot caller: ElevenLabs-synthesized caller clips played through a second Photon line to place real calls to FirstRing, graded against a rubric written before synthesis, with receipts for every run.
+- **How it used Photon:** ElevenLabs-synthesized caller clips played through a second Photon line to place calls to FirstRing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -613,7 +613,7 @@ AI roommate that fairly manages shared finances in your group chat: splits bills
 - **Code:** [Source 1](https://github.com/jspinerola/house-rules)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Quiicn_2FOc)
 - **All prizes at this hackathon (1):** Photon Track
-- **How it used Photon:** Sponsor use not stated on Devpost
+- **Photon:** Built with photon (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -636,7 +636,7 @@ Your protections know it's you. Titan detects scammer-coached account changes, p
 - **Code:** [Source 1](https://github.com/yuvanmuru-dev/hackutd-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=12J6hj9kdWA)
 - **All prizes at this hackathon (1):** Photon Track
-- **How it used Photon:** The voice integration connects a Photon line through LiveKit SIP to a Pipecat conversation.
+- **How it used Photon:** Voice uses Photon, LiveKit SIP, Pipecat, Nemotron ASR, and ElevenLabs TTS.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -736,7 +736,7 @@ Night Watch is an oracle for data center operations, built around two goals.
 - **Code:** [Source 1](https://github.com/ja0011/hackutd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AyKfSoJEeGI)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** Solana devnet holds the signed audit trail, using the Memo program with sha256 fingerprints.
+- **How it used Solana:** Solana devnet holds the signed audit trail using the Memo program.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -763,7 +763,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=lORYwjN39m
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lORYwjN39mg)
 - **All prizes at this hackathon (1):** Spacetime Track
-- **How it used Spacetime:** ⚡ SpacetimeDB is the backend (hosted on Maincloud).
+- **How it used Spacetime:** SpacetimeDB is the backend and is hosted on Maincloud.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -786,7 +786,7 @@ Collab3D is a web tool using a Spacetime database to allow real-time collaborati
 - **Code:** [Source 1](https://github.com/hendohpp/hackutd-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q5XlCu8Cxjg)
 - **All prizes at this hackathon (2):** Spacetime Track · Virality Track -- HackUTD Track
-- **How it used Spacetime:** Sponsor use not stated on Devpost
+- **How it used Spacetime:** The team used SpacetimeDB as the backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -809,7 +809,7 @@ Live coordination for AI coding agents. InSync catches conflicting changes, even
 - **Code:** [Source 1](https://github.com/Kolby-Schulz/HackUTD2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=48Lb0jSEhU4)
 - **All prizes at this hackathon (1):** Spacetime Track
-- **How it used Spacetime:** Sponsor use not stated on Devpost
+- **How it used Spacetime:** The project uses live SpacetimeDB subscriptions for every panel.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -832,7 +832,7 @@ An autonomous agentic system that helps you end your night safely.
 - **Code:** [Source 1](https://github.com/sabharwalainesh/SafeNight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jR3KpfDd_MY)
 - **All prizes at this hackathon (1):** Spacetime Track
-- **How it used Spacetime:** Sponsor use not stated on Devpost
+- **How it used Spacetime:** The project uses SpacetimeDB as its backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -855,7 +855,7 @@ Drop a photo of a place. Tessera finds where the photographer stood, the heading
 - **Code:** [Source 1](https://github.com/benz16107/tessera)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CyivsP2lXpc) · [Video 2](https://www.youtube.com/watch?v=KxeUG-_GlKs) · [Video 3](https://www.youtube.com/watch?v=fsq3ry87EZ8)
 - **All prizes at this hackathon (1):** Spacetime Track
-- **How it used Spacetime:** Sponsor use not stated on Devpost
+- **How it used Spacetime:** Every person, prop, light and camera is a SpacetimeDB row that screens share live.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -909,7 +909,7 @@ ANCHOR connects a device in the customer’s home to a claims dashboard that Sta
 - **Code:** [Source 1](https://github.com/aparnabalaji07/anchor)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aimbrYK_4GA)
 - **All prizes at this hackathon (1):** State Farm Track
-- **How it used State Farm:** ANCHOR connects a device in the customer’s home to a claims dashboard that State Farm agents can see.
+- **How it used State Farm:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1055,7 +1055,7 @@ Spots the failure before it burns.
 - **Code:** [Source 1](https://github.com/Siriapps/HackUTD-26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IZHkkpYGtdE)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
-- **How it used Tiger Data:** Sponsor use not stated on Devpost
+- **How it used Tiger Data:** Every reading lives in a Tiger Data TimescaleDB hypertable that serves trend charts and sensor-history lookups.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1128,7 +1128,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=CvIqv4w5Mv
 - **Code:** [Source 1](https://github.com/vishy-m/Toyyo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AxL6UkqenSE)
 - **All prizes at this hackathon (1):** Toyota Financial Services Track
-- **How it used Toyota Financial Services:** The team designed Toyyo around synthetic customer profiles and Toyota Financial Services' provided data scenarios to demonstrate how different ownership situations can lead to different recommendations.
+- **How it used Toyota Financial Services:** The team designed Toyyo around synthetic customer profiles and data scenarios provided by Toyota Financial Services.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1155,7 +1155,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DP
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=StT_H0f3DPw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** Publishing goes over SSH, servers are provisioned with cloud-init, and deploys are single scripts in deploy/vultr/.
+- **Vultr:** Built with vultr (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -323,7 +323,7 @@ The team created On The Go Storyteller , an interactive reading platform that br
 
 A charming game about persuading fish to get out of the pond :).
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with fishaudio, audio, fish, gemini
 
 ### [Intelligent Poker League](https://devpost.com/software/intelligent-poker-league)
 

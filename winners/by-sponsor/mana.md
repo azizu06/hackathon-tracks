@@ -23,7 +23,7 @@
 
 Campanion turns college wellness into a game. Your pet avatar reflects how you sleep, eat, study, move, and recover, while quests and shared goals help you build balanced habits with friends.
 
-**How it used Mana:** The team built Campanion with Mana, using React for the interface and Firebase for persistent data and real-time updates.
+**How it used Mana:** The team built Campanion with Mana.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=c00p0ouf_hw) · Built with mana, firebase, google-calendar-api, javascript
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=c00p0ouf_h
 
 A student caseworker looks up immigration and finance rules and asks the student to approve proposed actions.
 
-**How it used Mana:** Sponsor use not stated on Devpost
+**How it used Mana:** The team built the Docket Pocket app in Mana.
 
 [Code](https://github.com/AnushaAgarwal27/Docket) · [Demo video](https://www.youtube.com/watch?v=nAIJZyXKaSo) · Built with mana, agentverse, anthropic, apify
 
@@ -43,7 +43,7 @@ A student caseworker looks up immigration and finance rules and asks the student
 
 GRIDPILOT: Your 3 a.m. on-call crew that fixes the data center and closes the books on what the night cost. It cools the racks, calls the engineer, and catches the overcharge.
 
-**How it used Mana:** Mana runs the Python backend as a supervised daemon in its sandbox, exposes it through Mana ingress with a signed URL, and verifies every caller's identity ( X-Sender-Uid ) at the edge.
+**How it used Mana:** Mana runs the Python backend as a supervised daemon in its sandbox.
 
 [Code](https://github.com/pateldhruv1672/gridpilot) · [Demo video](https://www.youtube.com/watch?v=KgQwf55Fm-M) · Built with agentic, cartesia, digital-twin, hyphenate
 
@@ -53,7 +53,7 @@ GRIDPILOT: Your 3 a.m. on-call crew that fixes the data center and closes the bo
 
 Stop hand-building robot simulations. Film your table on a phone, and RealiSIM turns it into a physics-checked MuJoCo world you can pip install and train on.
 
-**How it used Mana:** The team also used Notability to design the AI-agent interactions, multi-robot coordination workflows, Mana website layouts, and final demo storyboard.
+**How it used Mana:** The team used Mana to develop its React interface, including video uploads and simulation configuration.
 
 [Code](https://github.com/ChampCNV/RealiSIM) · [Demo video](https://www.youtube.com/watch?v=_4b_uGPmwYI) · Built with mana, aiohttp, apify, apriltag
 

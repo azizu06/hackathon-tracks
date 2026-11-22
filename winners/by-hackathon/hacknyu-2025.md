@@ -103,7 +103,7 @@ Giveo is a swipe-based app, built to connect users with a feed of charities pers
 - **Code:** [Source 1](https://github.com/spcoughlin/Giveo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KTbUzU5nbEg)
 - **All prizes at this hackathon (1):** Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -130,7 +130,7 @@ SolMate – the AI agent that turns crypto talk into action. Voice-powered tradi
 - **Code:** [Source 1](https://github.com/yusufsallam64/solmate)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WdXHG4r3xuk)
 - **All prizes at this hackathon (1):** Best Use of MongoDB Atlas
-- **How it used MongoDB:** The team built RAG system using bge-large-en-v1.5 embeddings and MongoDB vector search.
+- **How it used MongoDB:** The project uses MongoDB vector search for retrieval of market insights.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -234,7 +234,7 @@ A decentralized car marketplace operating on the Solana block chain. No middleme
 - **Code:** [Source 1](https://github.com/HassanZafar-2021/AutoTrust)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lWGJleFYmqM)
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** The project uses Solana smart contracts for NFT minting and transactions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -257,7 +257,7 @@ Solana based game with a goal of winning an argument against a LLM.
 - **Code:** [Source 1](https://github.com/lawaldemur/HackNYU)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-JSJSiqH1JE)
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
-- **How it used Solana:** The SOL smart-contract written on Rust is deployed to the devnet of Solana.
+- **How it used Solana:** The team deployed the Rust smart contract to the Solana devnet.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -280,7 +280,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=anMExD1-qm
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=anMExD1-qms)
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
-- **How it used Solana:** The application provides real-time insights into Solana’s network performance by analyzing key metrics such as TPS, transaction fees, failed transactions, NFT trading volume, and minting activity.
+- **How it used Solana:** The project uses The Graph to fetch Solana network metrics and structure the data for analysis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -303,7 +303,7 @@ Yes, you read that right – not just devnet, but mainnet-beta.
 - **Code:** [Source 1](https://github.com/Loldude0/hacknyu)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Track: Solana &amp; Blockchain Innovation
-- **How it used Solana:** It all happens in real-time, powered by State of the Art ML Models and Solana's lightning-fast network.
+- **Solana:** Built with solana (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -330,7 +330,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=kDdEKuB_Qy
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kDdEKuB_Qy4)
 - **All prizes at this hackathon (1):** Best Use of Streamlit
-- **How it used Streamlit:** Sponsor use not stated on Devpost
+- **Streamlit:** Built with streamlit (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

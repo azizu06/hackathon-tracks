@@ -23,7 +23,7 @@
 
 A tool to match companies to relevant climate actions. Embedding search to find climate initiatives and agentic workflows+tool usage to discover corporate climate actions from sustainability reports.
 
-**How it used InterSystems:** Sponsor use not stated on Devpost
+**How it used InterSystems:** The project uses InterSystems as its database.
 
 [Code](https://github.com/Suzehva/bas_labs) · [Demo video](https://www.youtube.com/watch?v=rUhAa9_z8zY) · Built with intersystems-db, dain, gemini, google
 
@@ -33,7 +33,7 @@ A tool to match companies to relevant climate actions. Embedding search to find 
 
 Adaptive Learning Content Generation for Students with Disabilities.
 
-**How it used InterSystems:** Sponsor use not stated on Devpost
+**InterSystems:** Built with intersystems (listed on Devpost)
 
 [Code](https://github.com/airjlee/superclassroom) · [Demo video](https://www.youtube.com/watch?v=2CCohCdx4zk) · Built with intersystems, iris, mistral, rag
 
@@ -45,7 +45,7 @@ Adaptive Learning Content Generation for Students with Disabilities.
 
 ANGEL'S PROTECTION processes live video feeds, storing data based on individuals’ clothing rather than facial recognition, thereby prioritizing privacy.
 
-**How it used InterSystems:** Sponsor use not stated on Devpost
+**How it used InterSystems:** The project stores processed data in InterSystems’ vector database.
 
 [Code](https://github.com/phamleduy04/hacktx24) · [Demo video](https://www.youtube.com/watch?v=wCfq8UI903w) · Built with computer-vision, fast, intel, iris-database
 
@@ -65,7 +65,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=-vkagQDbMc
 
 Therable offers a safe, smart way to track moods, recognize patterns, and provide personalized, research-backed support for every mental health journey.
 
-**How it used InterSystems:** Sponsor use not stated on Devpost
+**How it used InterSystems:** The project uses the IRIS Data Platform from InterSystems to host its database.
 
 [Code](https://github.com/Jaehoonoo/therable) · [Demo video](https://www.youtube.com/watch?v=nkdaUeRp0Dw) · Built with flask, javascript, next.js, python
 

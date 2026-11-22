@@ -43,7 +43,7 @@ ClearPath uses AI to connect patients and doctors in one shared workspace, helpi
 
 An all-in-one platform for physicians to find specialists and send referrals, making connections between physicians faster and more trusted.
 
-**How it used Impiricus:** DocSpot connects physicians based on specialty, experience, and clinical needs, creating a network that introduces more HCPs to Impiricus’ services.
+**How it used Impiricus:** DocSpot uses the Impiricus network to map national physician connections.
 
 [Code](https://github.com/tvisha-t/docSpot) · [Demo video](https://www.youtube.com/watch?v=ivdxPxxmPiY) · Built with css, fastapi, html, javascript
 
@@ -75,7 +75,7 @@ Medicus is a digital platform that allows medical device sales reps to upload th
 
 Agentic workflow platform that links new guidelines, drug approvals, and policy changes into actionable insights on current patients, empowering providers to act faster with confidence.
 
-**How it used Impiricus:** The real-time Research Stream is integrated with Impiricus' own data feed and continuously uses AI to analyze new guidelines, policy changes, etc and matches the relevant insights to the provider's own patient panel.
+**How it used Impiricus:** The real-time Research Stream is integrated with Impiricus’ data feed.
 
 [Code](https://github.com/IndianaJonesR/vital-HackGT-WInner) · [Demo video](https://www.youtube.com/watch?v=MJAp5AjtTmw) · Built with cedaros, openai, react, supabase
 

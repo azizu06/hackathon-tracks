@@ -23,7 +23,7 @@
 
 If the Wii taught the team anything, it’s that flailing your arms around is fun.
 
-**How it used Roboflow:** The team then used Roboflow to train a model on this dataset, achieving an mAP of 0.995 over 200 epochs.
+**How it used Roboflow:** The team used Roboflow to train a model on the dataset.
 
 [Code](https://github.com/elise-yz/osulation) · [Demo video](https://www.youtube.com/watch?v=K2KA6qnFeVE) · Built with roboflow, matlab, streamlit
 
@@ -33,7 +33,7 @@ If the Wii taught the team anything, it’s that flailing your arms around is fu
 
 Automated Medication Scanner and Tracker Powered by Computer Vision.
 
-**How it used Roboflow:** They were used to train both a Roboflow model to detect labels, and test a custom OpenCV unwarping pipeline.
+**How it used Roboflow:** The team trained a Roboflow model to detect labels.
 
 [Code](https://github.com/Srinikal/Snapill) · Built with roboflow, expo.io, firebase, flask
 

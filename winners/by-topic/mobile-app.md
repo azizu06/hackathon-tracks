@@ -563,7 +563,7 @@ AutoCPT automates medical billing by extracting CPT codes from doctor-patient ta
 
 The team describes the project as “For leaders in high-performance environments, we aggregate real-time wearable data from teams, providing LLM-driven insights, detecting arrhythmias, and reconstructing ECGs—no medical…
 
-[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with cuda, python, pytorch, react-native
+[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with terraapi, cuda, python, pytorch
 
 ### [C2Pay](https://devpost.com/software/c2pay)
 
@@ -773,7 +773,7 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 
 Lotion is the Notion Killer. Lotion provides slippery smooth notes supercharged by AI and AR.
 
-[Code](https://github.com/kgand/shellhacks2024) · Built with axios, chatgpt, computer-vision, expo.io
+[Code](https://github.com/kgand/shellhacks2024) · Built with typescript, axios, chatgpt, computer-vision
 
 ### [DriveWise](https://devpost.com/software/drivewise-g09s5y)
 
@@ -985,7 +985,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx
 
 SafeLink is an app for drivers and monitors.
 
-No public code linked · Built with ford, amazon-cognito, amazon-web-services, android
+No public code linked · Built with ford, openxc, amazon-cognito, amazon-web-services
 
 ### [Verifast](https://devpost.com/software/verifast)
 

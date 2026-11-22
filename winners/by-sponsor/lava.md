@@ -23,7 +23,7 @@
 
 Ambient sits on your desktop, learns how you work, and handles the busywork before you even think about it. Scheduling, research, and analysis done instantly.
 
-**How it used Lava:** Synthesis engine: LLM pipeline (OpenAI primary, Anthropic secondary, Lava gateway tertiary) generates actionable recommendations as structured JSON -- including executable actions like create&#95;calendar&#95;event, draft&#95;reply, run&#95;hex&#95;project, and copy&#95;text.
+**How it used Lava:** The project uses Lava gateway in its LLM pipeline for structured JSON recommendations.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=lX8BuX64JwI) · Built with lava-api, anthropic-api, electron, google-calendar-api
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=lX8BuX64Jw
 
 CareCost is a map-first GI care shopper: AI turns symptoms into the right procedure (CPT/bundle), then shows out-of-pocket cost bands and nearby providers.
 
-**How it used Lava:** Sponsor use not stated on Devpost
+**How it used Lava:** The project routes AI calls through Lava to Gemini.
 
 [Code](https://github.com/Kedylind/carecost) · [Demo video](https://www.youtube.com/watch?v=UKChab_e1Hc) · Built with lava, auth0, elevenlabs, mongodb
 
@@ -43,7 +43,7 @@ CareCost is a map-first GI care shopper: AI turns symptoms into the right proced
 
 agentic peer review citation verification for research papers.
 
-**How it used Lava:** Sponsor use not stated on Devpost
+**How it used Lava:** The project resolves citations through Lava Gateway, which proxies requests to Semantic Scholar, CrossRef, and OpenAlex.
 
 [Code](https://github.com/suryar2007/peer-review-system) · [Demo video](https://www.youtube.com/watch?v=am-y6yt0Ais) · Built with lava, fastapi, hermes, langgraph
 
@@ -55,7 +55,7 @@ agentic peer review citation verification for research papers.
 
 Autonomous AI marketplace for agents: save time, money, and trees by working with specialized SLMs on Agora &gt; GPT or any large transformer model. Uses Claude, Lava, SUI, and more for agent comms.
 
-**How it used Lava:** Blockchain payments via Sui (Lava Payments integration).
+**How it used Lava:** The project uses Lava for cost calculation and usage tracking.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=lu_9YbU01pY) · Built with css, javascript, move, plpg
 
@@ -65,7 +65,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=lu_9YbU01p
 
 AI sales assistant you text like a coworker. 6 MCP tools handle enrichment, emails, and actions. Lava's multi-model routing cuts costs 80% - proving AI SaaS can be profitable from day 1.
 
-**How it used Lava:** Sponsor use not stated on Devpost
+**How it used Lava:** The project uses Lava Build to route requests to models.
 
 [Code](https://github.com/araikar08/poke-sdr) · [Demo video](https://vimeo.com/1130627301) · Built with fastmcp, github, langchain, lavapayments
 
@@ -75,7 +75,7 @@ AI sales assistant you text like a coworker. 6 MCP tools handle enrichment, emai
 
 Real-time conversation assistant with AI-powered response suggestions and emotional state analysis.
 
-**How it used Lava:** The Intelligent Backend Layer handles speech-to-text and sentence generation using Lava and OpenAI’s GPT-5, as well as text-to-speech synthesis with ElevenLabs (more specifically, Whisper model) for customizable, emotion-aware voices.
+**How it used Lava:** The Intelligent Backend Layer handles speech-to-text and sentence generation using Lava and OpenAI’s GPT-5.
 
 [Code](https://github.com/ianalin123/few-word-do-trick) · [Demo video](https://www.youtube.com/watch?v=MEH357zinV4) · Built with lava, elevenlabs, fastapi, javascript
 

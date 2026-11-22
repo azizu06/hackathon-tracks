@@ -23,7 +23,7 @@
 
 Empowering Founder and VC Discovery and with You and Your Voice.
 
-**How it used Web Summit:** Sponsor use not stated on Devpost
+**How it used Web Summit:** The project uses data from Web Summit profiles for matchmaking profiles.
 
 [Code](https://github.com/dannyl1u/aligned.ai) · [Demo video](https://www.youtube.com/watch?v=IsymCVWdaI0) · Built with auth0, chromadb, cohere, fastapi
 

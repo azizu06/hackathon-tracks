@@ -23,7 +23,7 @@
 
 Ami creates a planner for what you should do on vacation! Just tell it what you want to do, and it will plan your day.
 
-**How it used Two Sigma:** Sponsor use not stated on Devpost
+**How it used Two Sigma:** The team used TwoSigma's Beaker Notebook.
 
 No public code linked · Built with beaker, java, javascript, python
 

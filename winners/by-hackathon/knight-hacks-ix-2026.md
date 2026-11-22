@@ -65,8 +65,8 @@ Farsight combines a remotely operated rescue rover with a walkable reconstructio
 - **All prizes at this hackathon (4):** Encompass: Data Capturing Hardware · Full Sail: Pathways &amp; Perception, A Serious Games &amp; Simulation Challenge · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
 - **How it used Encompass:** Sponsor use not stated on Devpost
 - **How it used Full Sail:** Sponsor use not stated on Devpost
-- **How it used Hugging Face:** Hugging Face model artifacts power the on-device voice and vision assistant, which can draft notes from field observations.
-- **How it used NVIDIA:** An NVIDIA Jetson runs TensorRT inference, the camera stream and the navigation and motor interfaces on the rover.
+- **How it used Hugging Face:** The local assistant uses Hugging Face model artifacts for Qwen3-VL-2B-Instruct GGUF and Whisper base.en.
+- **How it used NVIDIA:** The Jetson runs the rover server and YOLO11n-pose through TensorRT.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -89,9 +89,9 @@ GEarth simulates how citizens, institutions, and governments interact across a f
 - **Code:** [Source 1](https://github.com/liangricky7/GEarth)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7h_nXEkdgIM)
 - **All prizes at this hackathon (3):** AMD: Best Use of AMD Technologies · BNY: Financial Services Challenge · Neon: Best Use of Neon
-- **How it used AMD:** Python workers run Qwen models across an AMD GPU and two NVIDIA systems to supply agent decisions to the shared simulation.
+- **How it used AMD:** AMD serves Qwen through ROCm and PyTorch.
 - **How it used BNY:** Sponsor use not stated on Devpost
-- **How it used Neon:** Neon PostgreSQL stores checkpoints and event history so viewers can revisit recorded worlds.
+- **How it used Neon:** The team uses Neon PostgreSQL to preserve simulation checkpoints and event history.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -114,7 +114,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=zmApNlPyh9
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zmApNlPyh9I)
 - **All prizes at this hackathon (2):** Databricks: Best Use of Databricks · OneEthos: Innovation for Good
-- **How it used Databricks:** Databricks processes locations, bin inventory and 311 complaints to estimate where trash accumulates and rank potential sites.
+- **How it used Databricks:** Databricks processes geolocation, bin, place, and 311 complaint data.
 - **How it used OneEthos:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -138,7 +138,7 @@ An edge device identifies early signs of wildfire smoke and reports them to a da
 - **Code:** [Source 1](https://github.com/kateye31/fireline)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vhKG4MiWa9A)
 - **All prizes at this hackathon (2):** NVIDIA: Best Use of Jetson Nano · OneEthos: Innovation for Good
-- **How it used NVIDIA:** Smoke detection on the device: Pyronear's open YOLO smoke model runs on the Jetson's GPU.
+- **How it used NVIDIA:** The NVIDIA Jetson Orin Nano runs the smoke model on its GPU using TensorRT.
 - **How it used OneEthos:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -187,7 +187,7 @@ A spatial awareness tool tracks objects and remembers their locations when they 
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GexOIHp7s1w)
 - **All prizes at this hackathon (3):** Best Overall Hack (1st) · Hugging Face: Best Use of Open Source AI · NVIDIA: Best Use of Jetson Nano
 - **How it used Hugging Face:** Sponsor use not stated on Devpost
-- **How it used NVIDIA:** Permanence runs its rover's vision pipeline and motor control on an NVIDIA Jetson Orin Nano.
+- **How it used NVIDIA:** The Jetson drives the Arduino Uno and L298N motor driver and steers from the phone’s position.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -260,7 +260,7 @@ Also won this track: [GEarth](#project-diarockets) (listed above)
 
 A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-100T.
 
-[Code](https://github.com/techcolly/fpga_LM) · Built with claude, fpga, python, pytorch
+[Code](https://github.com/techcolly/fpga_LM) · Built with vivado, claude, fpga, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -270,7 +270,7 @@ A laptop sends four word tokens over the USB-UART cable of a Digilent Arty A7-10
 - **Code:** [Source 1](https://github.com/techcolly/fpga_LM)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** AMD: Best Use of AMD Technologies
-- **How it used AMD:** Sponsor use not stated on Devpost
+- **AMD:** Built with vivado (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -293,7 +293,7 @@ Cheap attack drones are now one of the biggest threats to bases and infrastructu
 - **Code:** [Source 1](https://github.com/ian-kr/Swarm)
 - **Demo video:** [Video 1](https://vimeo.com/1234778075)
 - **All prizes at this hackathon (1):** AMD: Best Use of AMD Technologies
-- **How it used AMD:** A counter-drone defense trainer where the enemy swarm taught itself to attack, trained on an AMD Radeon GPU.
+- **How it used AMD:** The team trained the counter-drone defense trainer on an AMD Radeon GPU.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -374,7 +374,7 @@ A gym app uses phone-based exercise feedback to help people learn proper form.
 - **Code:** [Source 1](https://github.com/Del0m/KnightHacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PPEBBCLeCrA)
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
-- **How it used Databricks:** Databricks Pipelines: ingests exported workout telemetry to build a multi-tier lakehouse processing raw logs (Bronze), validated set metrics (Silver), and aggregate process summaries (Gold).
+- **How it used Databricks:** The team uses Databricks Pipelines to ingest exported workout telemetry for a multi-tier lakehouse.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -401,7 +401,7 @@ Players speak spell ideas aloud and cast the generated spells against each other
 - **Code:** [Source 1](https://github.com/blazin-blaze/kh9-rblx-project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4Qf5VMHLx8U)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** Incantation uses the built in Roblox Studio’s microphone to take in audio, which is then sent to Elevenlabs API for speech to text translation via a local HTTP connection.
+- **How it used ElevenLabs:** Microphone audio is sent to the ElevenLabs API for speech-to-text translation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -519,7 +519,7 @@ An accessible comic reader plays panels aloud and lets readers advance them with
 - **Code:** [Source 1](https://github.com/PinedaMiguel/panel-reader)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CLpOsb9VDGU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** Google Gemini reads the page to build a cast list and writes scripts for each panel.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -643,7 +643,7 @@ An interactive evacuation simulator lets trainees clear exits and redirect crowd
 - **Code:** [Source 1](https://github.com/lyanisbarreto-mercado/crowdclear)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pNp_bZqdGGw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Presage
-- **How it used Presage:** A small Node helper ( npm run sensor ) uses the Presage SmartSpectra Node.js SDK to read breathing rate, breathing amplitude, pulse and heart-rate variability (Baevsky stress index) from the laptop webcam.
+- **How it used Presage:** The project uses the Presage SmartSpectra Node.js SDK to read breathing rate and amplitude.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -670,7 +670,7 @@ A marketplace lets developers browse GPU capacity and reserve it through a block
 - **Code:** [Source 1](https://github.com/OzBoz-Dev/knighthacks-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EDPen_Iu5QY)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** The project lets a reservation intent be signed on Solana devnet.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -724,7 +724,7 @@ A dashboard turns telemetry from robots into reports operators can use.
 - **Code:** [Source 1](https://github.com/teafany/spotlight)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WguR9jFeBeo)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** Sponsor use not stated on Devpost
+- **How it used Vultr:** Vultr hosts Spotlight’s frontend, backend APIs, and PostgreSQL database.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

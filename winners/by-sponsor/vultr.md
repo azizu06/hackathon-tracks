@@ -23,7 +23,7 @@
 
 Every attacker leaves a trail! Breadcrumbs traps real hackers in a fake server, unmasks the AI agents among them, and shows every intrusion live as creatures marching across a 3D globe.
 
-**How it used Vultr:** Sponsor use not stated on Devpost
+**How it used Vultr:** The team ran the trap and core on separate Vultr servers.
 
 [Code](https://github.com/aryansvt/hacktx2026) · [Demo video](https://www.youtube.com/watch?v=SOlFxgQSVgk) · Built with vultr, anthropic, asyncssh, caddy
 
@@ -33,7 +33,7 @@ Every attacker leaves a trail! Breadcrumbs traps real hackers in a fake server, 
 
 A dashboard supplies incident information to fire dispatchers.
 
-**How it used Vultr:** Sponsor use not stated on Devpost
+**How it used Vultr:** The Docker Compose deployment is on Vultr behind Caddy.
 
 [Code](https://github.com/param-mans/FlameScout) · [Demo video](https://www.youtube.com/watch?v=LlK6Ls93_Ys) · Built with vultr, caddy, costar, docker
 
@@ -43,7 +43,7 @@ A dashboard supplies incident information to fire dispatchers.
 
 GradeMeIn uses a new method to detect AI plagiarism, it works through intelligent prompt mutation and then verification.
 
-**How it used Vultr:** Sponsor use not stated on Devpost
+**Vultr:** Built with vultr (listed on Devpost)
 
 [Code](https://github.com/SBHacks-26/lms-sbhacks) · [Demo video](https://www.youtube.com/watch?v=dgrnQoidl2A) · Built with vultr, cursor, deepgram, geminiapi
 
@@ -53,7 +53,7 @@ GradeMeIn uses a new method to detect AI plagiarism, it works through intelligen
 
 A guided movement app helps older adults with limited mobility practice activities with camera feedback.
 
-**How it used Vultr:** Sponsor use not stated on Devpost
+**How it used Vultr:** The project uses Vultr for a cloud backend that stores JSON files from demonstration videos and user login information.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=EXR-oseYXUs) · Built with css, html, javascript, typescript
 
@@ -63,7 +63,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=EXR-oseYXU
 
 A planning app connects student clubs' communication, spreadsheets, and code tools in one workspace.
 
-**How it used Vultr:** Seamless integration between Vultr using their serverless inference, Gemini, and ChatGPT.
+**How it used Vultr:** The project uses Vultr serverless inference.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G4) · Built with asyncio, fastapi, httpx, langchain
 
@@ -73,7 +73,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G
 
 Approve at-home iPLEDGE pregnancy tests in one tap, with fraud checks and an audit trail that proves you met the FDA's anti-falsification rule.
 
-**How it used Vultr:** Sponsor use not stated on Devpost
+**How it used Vultr:** The project runs its image service on Vultr.
 
 [Code](https://github.com/adrit-ganeriwala-05/PledgeCheck) · [Demo video](https://www.youtube.com/watch?v=NMlzaJIiSvo) · Built with vultr, elevenlabs, grok, nextjs
 
@@ -83,7 +83,7 @@ Approve at-home iPLEDGE pregnancy tests in one tap, with fraud checks and an aud
 
 Poysson is a game-style training platform covering five attack types: ransomware, SIM-swap fraud, smishing, phishing, and insider/vendor leaks.
 
-**How it used Vultr:** Publishing goes over SSH, servers are provisioned with cloud-init, and deploys are single scripts in deploy/vultr/.
+**Vultr:** Built with vultr (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=StT_H0f3DPw) · Built with vultr, gemini, nemotron, nuxt
 
@@ -103,7 +103,7 @@ Sortacle is an autonomous smart waste bin that identifies and sorts items in rea
 
 A dashboard turns telemetry from robots into reports operators can use.
 
-**How it used Vultr:** Sponsor use not stated on Devpost
+**How it used Vultr:** Vultr hosts Spotlight’s frontend, backend APIs, and PostgreSQL database.
 
 [Code](https://github.com/teafany/spotlight) · [Demo video](https://www.youtube.com/watch?v=WguR9jFeBeo) · Built with vultr, django, postgresql, python
 
@@ -113,7 +113,7 @@ A dashboard turns telemetry from robots into reports operators can use.
 
 Synaptix is an AI-powered drug repurposing platform.
 
-**How it used Vultr:** Sponsor use not stated on Devpost
+**How it used Vultr:** The platform runs on Vultr Cloud Compute.
 
 [Code](https://github.com/Sanjavan7/Drugreuse) · [Demo video](https://www.youtube.com/watch?v=QKEs6iViyJc) · Built with vultr-cloud, actian-vectorai-db, axios, clinicaltrials.gov-api
 
@@ -133,7 +133,7 @@ Triviality combines an interactive mathematical atlas with a workspace for runni
 
 The hardware guardian for software you can't trust.
 
-**How it used Vultr:** Sponsor use not stated on Devpost
+**Vultr:** Built with vultr (listed on Devpost)
 
 [Code](https://github.com/share-a-byte/warden) · [Demo video](https://www.youtube.com/watch?v=ahTiwQ9xVaE) · Built with vultr, arduino, blender, python
 

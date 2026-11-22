@@ -23,7 +23,7 @@
 
 The aim of the project to create automated windows, which open and close to maximize energy conservation.
 
-**How it used Weather Underground:** Sponsor use not stated on Devpost
+**How it used Weather Underground:** The project uses Weather Underground data to compare room temperature with temperature and weather conditions outside.
 
 No public code linked · Built with android, arduino, electric-imp, twilio
 

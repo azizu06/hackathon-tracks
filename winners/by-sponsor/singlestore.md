@@ -23,7 +23,7 @@
 
 Matching students at college dining halls together for friendships.
 
-**How it used SingleStore:** The team used React, Bootstrap, Vite for the frontend and Flask/Singlestore for the backend.
+**How it used SingleStore:** The team ran a cluster on SingleStore and used it as a database for the users which was very important in the backend.
 
 [Code](https://github.com/KPawar0629/matchup-sbhacks) · [Demo video](https://www.youtube.com/watch?v=40n7d0nfOBU) · Built with singlestore, bootstrap, flask, javascript
 
@@ -35,7 +35,7 @@ Matching students at college dining halls together for friendships.
 
 CryptoWise is an all-in-one platform designed to revolutionize the cryptocurrency trading experience.
 
-**How it used SingleStore:** Data Acquisition: Integrated WebSocket APIs to fetch real-time cryptocurrency data, which is stored in SingleStore Database for fast retrieval and analytics.
+**How it used SingleStore:** The team stores real-time cryptocurrency data in SingleStore Database for retrieval and analytics.
 
 [Code](https://github.com/Dev-Varshith/crypto-analysis-ml) · [Demo video](https://www.youtube.com/watch?v=OMBlUbdAGMg) · Built with express.js, fast, fetch, groq
 

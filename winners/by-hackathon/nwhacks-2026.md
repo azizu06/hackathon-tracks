@@ -88,7 +88,7 @@ Play It Forward pairs families in need of toys with households that have more th
 - **Code:** [Source 1](https://github.com/vvictort/nwhacks-2026)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
+- **How it used .Tech Domains:** The team purchased its domain using get.tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -196,7 +196,7 @@ A wearable gives deaf and hard-of-hearing users visual and tactile cues about su
 - **Code:** [Source 1](https://github.com/iancdev/hudglasses)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4YbXLKoHIKk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Elevenlabs
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **ElevenLabs:** Built with elevenlabs (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -223,7 +223,7 @@ A voice tool suggests words to stroke survivors based on how they describe the w
 - **Code:** [Source 1](https://github.com/Bardia-Masudy/nwHacks-listen.me)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Backend &amp; Database: Firebase Authentication for secure user management and Firestore for real-time session data synchronization.
+- **How it used Google:** The project uses Firebase Authentication for user management and Firestore for real-time session data synchronization.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -304,7 +304,7 @@ An accessibility tool converts facial expressions into audio cues for blind user
 - **Code:** [Source 1](https://github.com/havido/VibeSense)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tY2O1hSmsxo)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Presage
-- **How it used Presage:** Biometric Integration: The system integrates with Presage technology to collect heartbeat and breathing rate data, providing additional physiological context that supports and enhances emotion detection accuracy.
+- **How it used Presage:** The system integrates Presage technology to collect heartbeat and breathing rate data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -337,7 +337,7 @@ Argus is a dev tool that integrates models/dataset workflows with seamless and s
 - **Code:** [Source 1](https://github.com/JohnsonL111/argus)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=p849nn0xS1k)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** The project uses Rust smart contracts on Solana.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -391,7 +391,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=TmAf5cKU6G
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TmAf5cKU6G4)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** Seamless integration between Vultr using their serverless inference, Gemini, and ChatGPT.
+- **How it used Vultr:** The project uses Vultr serverless inference.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

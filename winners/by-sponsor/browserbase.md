@@ -33,7 +33,7 @@ Buy! is an AI agent marketplace that sells your stuff for you.
 
 Stop guessing gifts! Concierge lets 2 Poke agents collaborate with shared context across your email, the web, and your texts, then auto-finds and configures the perfect buy via Browserbase web agents.
 
-**How it used Browserbase:** Finally, a browser automation agent uses Browserbase + Stagehand to find the right gift, configure the right variant (size, color, model), and generate a ready-to-checkout link with an estimated final price.
+**How it used Browserbase:** A browser automation agent uses Browserbase and Stagehand to find a gift and configure its size, color, or model.
 
 [Code](https://github.com/andaero/treehacks26) · [Demo video](https://www.youtube.com/watch?v=fjbazc6t0t4) · Built with browserbase, bun, fastmcp, next.js
 
@@ -43,7 +43,7 @@ Stop guessing gifts! Concierge lets 2 Poke agents collaborate with shared contex
 
 A property planning tool lets builders compare potential sites, visualize projects, and organize permit paperwork.
 
-**How it used Browserbase:** Sponsor use not stated on Devpost
+**How it used Browserbase:** The project uses Browserbase for scraping and stores the results in Redis.
 
 [Code](https://github.com/shubhaych/Constructa) · [Demo video](https://www.youtube.com/watch?v=Wa2UlZcN85A) · Built with browserbase-(headless-scraping), playwright-(image-verification-with-browserbase), agentverse, anthropic-claude-sdk
 
@@ -53,7 +53,7 @@ A property planning tool lets builders compare potential sites, visualize projec
 
 HIVE is your personal workforce that makes digital busywork obsolete. Launch a swarm of parallel, background computer use agents to solve any computer use task — specialized agents for GSuite and more.
 
-**How it used Browserbase:** Context and session management while using a sandboxed VM (Browserbase): cookies and login info are saved so the agent knows what to do in the future.
+**How it used Browserbase:** The project uses Stagehand as the computer use harness for computer navigation.
 
 [Code](https://github.com/bossbobster/hive) · [Demo video](https://vimeo.com/1165157193) · Built with browserbase, claude, fetch.ai, modal
 
@@ -73,7 +73,7 @@ An AI undercover agent to detect and intercept online drug advertising.
 
 plus1 joins your Google Meet with a face and a voice, is an expert in whatever you need, and can take on action items or screenshare.
 
-**How it used Browserbase:** Browserbase + Stagehand. browserbaseWork.ts and jevAgent.ts run a cloud Chrome session: Stagehand act / extract steps (Maps search, FEMA lookups, form fields), Gemini for the step planner, and every step logged with an ok/fail detail.
+**How it used Browserbase:** The project drives a browser with Browserbase.
 
 [Code](https://github.com/DonaldKLee/plus1) · [Demo video](https://www.youtube.com/watch?v=0zWkyvdc30Y) · Built with browserbase, elevenlabs, federato, gemini
 
@@ -83,7 +83,7 @@ plus1 joins your Google Meet with a face and a voice, is an expert in whatever y
 
 TrAIde is the AI agent that sells your stuff for you. Just text a photo and price range and it lists, prices, and negotiates the sale across marketplaces.
 
-**How it used Browserbase:** Every integration, from Poke to Orkes to Browserbase to Redis, earns its place in the workflow.
+**How it used Browserbase:** The agent uses Browserbase to fill out the eBay listing wizard.
 
 [Code](https://github.com/rishabhroyy/traide) · [Demo video](https://www.youtube.com/watch?v=VgXrJ3nY2rY) · Built with browserbase, claude, cloudflare, javascript
 

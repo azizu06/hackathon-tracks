@@ -33,7 +33,7 @@ The team admit a machine learning model shouldn't be the only frontier for diagn
 
 AI that fights your hospital bill.
 
-**How it used Actian:** Sponsor use not stated on Devpost
+**How it used Actian:** The project uses Actian VectorAI DB for vector similarity with all-MiniLM-L6-v2 embeddings.
 
 [Code](https://github.com/Itz-Viggy/payBack) · [Demo video](https://www.youtube.com/watch?v=5uq6HO8El3I) · Built with actian, fastapi, langgraph, mongodb
 
@@ -43,7 +43,7 @@ AI that fights your hospital bill.
 
 RxGuard is a semantic engine that uses vector embeddings to bridge "vocabulary gap" in FDA adverse medication, uncovering critical drug safety signals that traditional searche miss.
 
-**How it used Actian:** Sponsor use not stated on Devpost
+**How it used Actian:** V3Actian uses Actian VectorAI DB for vector search.
 
 [Code](https://github.com/gt12889/hacklytics2026) · [Demo video](https://www.youtube.com/watch?v=dwmhyQ5ZIQA) · Built with actian, gemini, python, rag
 

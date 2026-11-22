@@ -109,7 +109,7 @@ A virtual pet whose physical wellness depends on your financial wellness.
 - **Code:** [Source 1](https://github.com/team-moondust/BudgetBuddy-backend) · [Source 2](https://github.com/team-moondust/BudgetBuddy-frontend) · [Source 3](https://github.com/team-moondust/BudgetBuddy-notifications-api)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4BS5oXi7l7U)
 - **All prizes at this hackathon (2):** Best Bitcamp Hack - Bitcamp · Best Financial Hack - Capital One
-- **How it used Capital One:** The team integrated the Nessie API to simulate real-world financial transactions.
+- **How it used Capital One:** The project uses the Nessie API for financial transaction simulation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -186,7 +186,7 @@ No public code linked · Built with cloudflare, css3, gemini, html5
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** HTML/CSS/JS/jQuery was used to develop the game frontend which is hosted on Cloudflare Pages.
+- **How it used Cloudflare:** The backend runs on Cloudflare Workers.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -203,7 +203,7 @@ No public code linked · Built with cloudflare, css3, gemini, html5
 
 Fighting Drug Waste, Fueling Health Equity.
 
-[Code](https://github.com/arsh-goenka/MedSave) · Built with css, flask, googleauth, html
+[Code](https://github.com/arsh-goenka/MedSave) · Built with terpai, css, flask, googleauth
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -213,7 +213,7 @@ Fighting Drug Waste, Fueling Health Equity.
 - **Code:** [Source 1](https://github.com/arsh-goenka/MedSave)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of GenAI in Business - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** Sponsor use not stated on Devpost
+- **Cloudforce / Microsoft:** Built with terpai (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -259,7 +259,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=hbxiwaTTwi
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hbxiwaTTwiw)
 - **All prizes at this hackathon (1):** Best Use of GenAI in Business - Cloudforce/Microsoft
-- **How it used Cloudforce / Microsoft:** Successfully integrated Microsoft Azure Face API to detect visible skin conditions from live user selfies.
+- **How it used Cloudforce / Microsoft:** The project integrated the Microsoft Azure Face API to detect visible skin conditions from user selfies.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -286,7 +286,7 @@ Burnout Buddy watches your steps, commits, and eye bags to decide if you need a 
 - **Code:** [Source 1](https://github.com/CSin007/Bitcamp2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The Flask API serves quotes via the Google Gemini API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -309,7 +309,7 @@ Jesture is a magical gesture-based drawing experience where your hands become th
 - **Code:** [Source 1](https://github.com/jinson-j/jesture)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=K0joSJFCJzc)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The team uses Google GenAI to generate guesses of user drawings.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -332,7 +332,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=HXS_7HzJmY
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HXS_7HzJmYo)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Gemini API · Prettiest Hack - Alumni Team
-- **How it used Google:** The team then embedded it all using OpenAI's embedding models to a RAG database using ChromaDB to make Gemini even more powerful.
+- **How it used Google:** Gemini generates GLSL code from a speech-to-text prompt.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -359,7 +359,7 @@ Tariffs made simple — track, compare, and calculate in seconds.
 - **Code:** [Source 1](https://github.com/Adr1an04/Tariffix)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPF4dyn6LrM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** Sponsor use not stated on Devpost
+- **How it used MongoDB:** The project uses MongoDB to store and update HTS codes and tariff rates.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -23,7 +23,7 @@
 
 Summarizing Youtube Videos to Meaningful Gifs.
 
-**How it used GIPHY:** Sponsor use not stated on Devpost
+**How it used GIPHY:** The project searches GIPHY for GIFs using key words.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ58) · Built with giphy, flask, nltk, python
 
@@ -35,7 +35,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ5
 
 While Unity and Microsoft's UWP are powerful platforms, sometimes there can be powerful issues that can hinder development in a big way.
 
-**How it used GIPHY:** Sponsor use not stated on Devpost
+**How it used GIPHY:** The project uses GIPHY APIs for dynamic content in lieu of ads.
 
 [Code](https://github.com/negitoromaki/ad-blockAR) · Built with giphy, c#, microsoft-hololens, unity
 

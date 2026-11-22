@@ -59,8 +59,8 @@ Agentic AI-Driven Financial Advisor for UCF Students.
 - **Code:** [Source 1](https://github.com/Adammouedden/KnightSource)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UHDxC3MaZVk)
 - **All prizes at this hackathon (2):** Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge · MLH - Best Use of Gemini 2.5 Computer Use
-- **How it used Google:** The AI features included RAG through VertexAI, Google's Embedding Models, Gemini API's structured output, Gemini Computer Use, and Google ADK.
-- **How it used Google:** The AI features included RAG through VertexAI, Google's Embedding Models, Gemini API's structured output, Gemini Computer Use, and Google ADK.
+- **How it used Google:** The project uses Vertex AI for RAG.
+- **How it used Google:** The project uses Vertex AI for RAG.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -83,8 +83,8 @@ AI Legal Tender transforms messy legal data into structured, cited intelligence 
 - **Code:** [Source 1](https://github.com/dominickdupuy/Paralegal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=toI8_0oCX8Y)
 - **All prizes at this hackathon (2):** AMD: Best use of AMD Hardware/Software Challenge · Morgan &amp; Morgan: AI Legal Tender Challenge
-- **How it used AMD:** Self-hosted AI - all data stays on AMD infrastructure, addressing law firms' privacy concerns.
-- **How it used Morgan &amp; Morgan:** Lawgorithm uses Morgan &amp; Morgan case files to test its legal assistant.
+- **How it used AMD:** All data stays on AMD infrastructure.
+- **How it used Morgan &amp; Morgan:** The project was tested with Morgan &amp; Morgan case files.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -142,7 +142,7 @@ See the world through sound and LiDAR. Inspired by echolocation, EchoAI is a han
 - **Code:** [Source 1](https://github.com/jaehoonoo/echoai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P4SIQhh_1LY)
 - **All prizes at this hackathon (2):** AMD: Best use of AMD Hardware/Software Challenge · Best AI Hack
-- **How it used AMD:** The system is built on a high-performance client-server architecture, where an iPhone captures the world, and a powerful AMD-hosted server does the heavy lifting.
+- **How it used AMD:** EchoAI is a hybrid system composed of a native iOS client and a powerful Python-based backend, hosted on AMD hardware.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -165,7 +165,7 @@ In an age where AI-generated media is indistinguishable from reality, Sora2Detec
 - **Code:** [Source 1](https://github.com/LeeMarshall1113/Sora2Detector)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GPhHIwjohe4)
 - **All prizes at this hackathon (1):** AMD: Best use of AMD Hardware/Software Challenge
-- **How it used AMD:** Sponsor use not stated on Devpost
+- **How it used AMD:** The team tested the project on Windows with AMD hardware.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -273,7 +273,7 @@ A modern walking aid powered by LiDAR sensing and haptic force feedback, a syste
 - **Code:** [Source 1](https://github.com/4dandev/iPalo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9j8EzahHBIk)
 - **All prizes at this hackathon (1):** MLH - Best Use of ElevenLabs
-- **How it used ElevenLabs:** The captured image was processed through Google Gemini for scene description, and ElevenLabs provided real-time text-to-speech output.
+- **How it used ElevenLabs:** ElevenLabs provided real-time text-to-speech output.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -329,7 +329,7 @@ AI Agents for complex human disaster dynamics simulation.
 - **Code:** [Source 1](https://github.com/myr124/emergent) · [Source 2](https://github.com/myr124/knighthacks2025backend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=LQdMwBeeswU)
 - **All prizes at this hackathon (2):** Best Overall Hack · Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge
-- **How it used Google:** Dynamic, AI-Powered Scenarios Generative Events: Utilizes Google Gemini to generate realistic disaster scenarios and narrative injects, creating a unique exercise every time.
+- **How it used Google:** Google Gemini generates disaster scenarios and narrative events for the exercise.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -352,7 +352,7 @@ See the world. Speak its stories.
 - **Code:** [Source 1](https://github.com/skatari172/Hermes)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DD6ZQVk9QJE)
 - **All prizes at this hackathon (1):** Google Cloud Gemini A2A ADK: The Autonomous Agent Challenge
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The project uses Google Maps for reverse geocoding.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -375,7 +375,7 @@ Transforming system design interviews from holistic, expensive evaluations into 
 - **Code:** [Source 1](https://github.com/ethan-dean/sherm-team-6)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IMPi_oKzPc8)
 - **All prizes at this hackathon (1):** MLH - Best Use of Gemini API
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The project sends the transcript, diagram, and rubric to Gemini at the end of the interview.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -604,7 +604,7 @@ AgentNow is a Gemini-powered assistant that listens to customers and instantly r
 - **Code:** [Source 1](https://github.com/must108/agentnow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IMv4cc_kS_c)
 - **All prizes at this hackathon (1):** ServiceNow: Knowledge Gap Request Agent Challenge
-- **How it used ServiceNow:** AgentNow is a Gemini-powered assistant that listens to customer conversations and, in real time, recommends the most relevant ServiceNow accelerators.
+- **How it used ServiceNow:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

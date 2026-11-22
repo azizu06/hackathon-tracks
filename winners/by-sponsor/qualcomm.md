@@ -23,7 +23,7 @@
 
 A multi-agent simulator where buyer negotiates with opaque seller agents in realistic, chat-based bargaining. No scoring rules - just LLM-driven reasoning, hidden motives, and emergent market behavior.
 
-**How it used Qualcomm:** Sponsor use not stated on Devpost
+**How it used Qualcomm:** The project uses Qualcomm Snapdragon X Elite hardware.
 
 [Code](https://github.com/rohan-g0re/Hack_NYU_Arbitrage) · [Demo video](https://www.youtube.com/watch?v=z2_8AWR_qU8) · Built with docker, fastapi, git, lm-studio
 
@@ -33,7 +33,7 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 
 An edge-AI tutoring agent that listens in real time and guides you the moment confusion appears.
 
-**How it used Qualcomm:** Sponsor use not stated on Devpost
+**How it used Qualcomm:** The project uses a multimodal edge-AI engine running locally on the Snapdragon X Elite.
 
 [Code](https://github.com/Baozzz04/insight-loop) · [Demo video](https://www.youtube.com/watch?v=0WAUHLDkyHI) · Built with fastapi, ffpmeg, indexeddb, llama
 

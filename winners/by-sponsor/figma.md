@@ -23,7 +23,7 @@
 
 A macOS assistant takes a spoken question and highlights the relevant control for the user.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The team used Figma Make to generate the Accent mascot.
 
 [Code](https://github.com/RyloRiz/accent) · [Demo video](https://www.youtube.com/watch?v=XmlBhFCtorw) · Built with appkit, claudecode, codex, elevenlabs
 
@@ -63,7 +63,7 @@ A job board holds payment in escrow until a worker submits the agreed proof of c
 
 A camera-based biomechanics tool tracks movement and fatigue to give athletes feedback while they train.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The project uses Figma Make to design the dashboard UI and data visualization layouts.
 
 [Code](https://github.com/jiekaitao/BRACE) · [Demo video](https://www.youtube.com/watch?v=DvQncQ3JfmE) · Built with figma-make, actian-vectorai-db, avfoundation, c#
 
@@ -113,7 +113,7 @@ A computer control interface uses eye tracking to point and speech to issue comm
 
 A game tells the story of a ghost through passes in Apple Wallet.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The project uses Figma for design and planning.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6E) · Built with figma, apple-wallet, claude-code, cloudflare
 
@@ -123,7 +123,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6
 
 A hiking app gives users activities to complete outside and helps clinicians suggest walks.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The project uses Figma Make to explore design system directions before writing SwiftUI.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=0ANuoizXoxE) · Built with figma-make, avfoundation, core-location, mapkit
 
@@ -133,7 +133,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0ANuoizXox
 
 A shared app helps friend groups coordinate rides, plans, and payments.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The project uses Figma Make to brainstorm ideas.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk0) · Built with figma, framer, godaddy, react
 
@@ -153,7 +153,7 @@ EMTs deserve better than a radio and a clipboard.
 
 One who understands: your healthcare, handled.
 
-**How it used Figma:** The team used Figma Make to prototype the onboarding flow, voice interface, and provider results.
+**How it used Figma:** The team used Figma Make for first-pass layouts for onboarding, the voice interface, and provider results.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt0) · Built with elevenlabs, expo.io, fastapi, playwright
 
@@ -163,7 +163,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt
 
 A finance workspace helps AI labs automate bookkeeping and related financial tasks.
 
-**How it used Figma:** The team built a design system, mapped flows in FigJam, made a clickable version in Figma Make, and animated the outro in Figma Motion.
+**How it used Figma:** The team mapped flows in FigJam, made a clickable version in Figma Make, and animated the outro in Figma Motion.
 
 [Code](https://github.com/petersenmatthew/moa) · [Demo video](https://www.youtube.com/watch?v=K_pESfSqoDQ) · Built with agents, nextjs, typescript
 
@@ -203,7 +203,7 @@ A learning app helps users explore stock movements and practice investment decis
 
 A booking workspace helps performers find venues and manage pitches and follow-ups.
 
-**How it used Figma:** Sponsor use not stated on Devpost
+**Figma:** Built with figma (listed on Devpost)
 
 [Code](https://github.com/RC3371/Scaena-LAHacks2026) · [Demo video](https://www.youtube.com/watch?v=DCTjE99embY) · Built with figma, agentverse, asi-1-mini, css
 
@@ -223,7 +223,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=M60_I4LMtP
 
 Snitch is an accountability platform built for students without something on the line.
 
-**How it used Figma:** The team used Figma Make to give the team inspiration for the frontend, specifically with A/B style testing.
+**How it used Figma:** The team used Figma Make for frontend inspiration and A/B style testing.
 
 [Code](https://github.com/EfinZhao/Snitch) · [Demo video](https://www.youtube.com/watch?v=vLm0LcqmDr0) · Built with discord.py, fastapi, gemini, mediapipe
 
@@ -233,7 +233,7 @@ Snitch is an accountability platform built for students without something on the
 
 A dashboard shows how internship pipelines connect employers and schools.
 
-**How it used Figma:** The team used Figma Make to try different designs for the hero section.
+**How it used Figma:** The team used Figma Make to experiment with hero section designs.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFno) · Built with agentverse, claude, fastapi, figmamake
 
@@ -243,7 +243,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFn
 
 A working design editor inside Figma uses variables to implement a processor, compiler, and operating system.
 
-**How it used Figma:** Two Figma is a working Figma editor built inside Figma, running on logic gates that Figma's own prototype engine computes.
+**How it used Figma:** Two Figma is a working editor built inside Figma, running on logic gates that Figma’s prototype engine computes.
 
 [Code](https://github.com/ericchen356/figma-cpu) · [Demo video](https://www.youtube.com/watch?v=KERFsr0ZBOg) · Built with figma, assembly, cpu, typescript
 
@@ -253,7 +253,7 @@ A working design editor inside Figma uses variables to implement a processor, co
 
 A browser extension helps users find and understand medical research relevant to women's health.
 
-**How it used Figma:** The team used Figma Make to prototype the app's initial user flow.
+**How it used Figma:** The team used Figma Make and generated its first iterative designs.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFns) · Built with figma, canva, chrome, css
 

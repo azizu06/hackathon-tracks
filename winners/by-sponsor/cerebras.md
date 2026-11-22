@@ -23,7 +23,7 @@
 
 Learn about the process of how any GitHub project came to be! Get a timeline of the project construction process, learn about the technologies used, and gain insights to the development process.
 
-**How it used Cerebras:** Cerebras was especially important; it was significantly faster than every other model, which let the team provide a seamless timeline streaming interface.
+**How it used Cerebras:** The team used Cerebras-powered models with openai-agent.
 
 [Code](https://github.com/zjteachen/RepoStory) · [Demo video](https://www.youtube.com/watch?v=PFAQEJIiuBQ) · Built with cerebras, fastapi, git, nextjs
 
@@ -33,7 +33,7 @@ Learn about the process of how any GitHub project came to be! Get a timeline of 
 
 Learn programming through personalized project-focused AI-guided courses. Designed to help new coders build a project start to finish.
 
-**How it used Cerebras:** Sponsor use not stated on Devpost
+**How it used Cerebras:** The project uses a Cerebras LLM for course planning, content generation and tutoring.
 
 [Code](https://github.com/camelCasedAditya/PennApps) · [Demo video](https://www.youtube.com/watch?v=0yEQR8HrBoE) · Built with cerebras, code-server, css, django
 
@@ -43,7 +43,7 @@ Learn programming through personalized project-focused AI-guided courses. Design
 
 A mixture of agents expert running on cutting edge inference hardware, that in practise can lead to simulation that you can control and experiment or play with.
 
-**How it used Cerebras:** Sponsor use not stated on Devpost
+**How it used Cerebras:** The project uses Cerebras APIs for its game agents.
 
 [Code](https://github.com/V-prajit/Terminator) · [Demo video](https://www.youtube.com/watch?v=5CZHU31kQrs) · Built with cerebras, express.js, game-engine, genai
 
@@ -55,7 +55,7 @@ A mixture of agents expert running on cutting edge inference hardware, that in p
 
 Predict Elections Way Better With LLM Agents.
 
-**How it used Cerebras:** Sponsor use not stated on Devpost
+**Cerebras:** Built with cerebras (listed on Devpost)
 
 [Code](https://github.com/SahraMohamad/Electra) · [Demo video](https://www.youtube.com/watch?v=c6X9n7o9Zjk) · Built with cerebras, css, d3.js, geojson
 
@@ -75,7 +75,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=uR7UlKGjse
 
 A gateway for blind/visually impaired people to experience the world independently through computer vision.
 
-**How it used Cerebras:** Sponsor use not stated on Devpost
+**How it used Cerebras:** The project uses a Cerebras-powered language model to generate natural-language descriptions from object classifications.
 
 [Code](https://github.com/ddiyas/OpticaV2) · [Demo video](https://www.youtube.com/watch?v=ZD9LP6MjzG8) · Built with cerebras, android-studio, java, kotlin
 

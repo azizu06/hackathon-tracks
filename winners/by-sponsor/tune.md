@@ -23,7 +23,7 @@
 
 CoffeeStarter is the ultimate networking tool. It leverages your resume to craft personalized coffee chat emails to alumni professionals in your desired field, helping you stand out in today's market.
 
-**How it used Tune:** Sponsor use not stated on Devpost
+**How it used Tune:** The team used Tune for fine-tuning its LLaMA3 model.
 
 [Code](https://github.com/sutharsikakumar/PennApps-XXV) · [Demo video](https://www.youtube.com/watch?v=-Sh9W3QzrO4) · Built with tune, css, figma, html
 

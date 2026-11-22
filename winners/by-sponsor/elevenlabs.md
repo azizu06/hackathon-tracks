@@ -23,7 +23,7 @@
 
 A navigation aid turns the live camera view into spoken directions for people with visual impairments.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**How it used ElevenLabs:** The project uses the ElevenLabs API for voice synthesis.
 
 [Code](https://github.com/AK20202007/A-Eye) · [Demo video](https://www.youtube.com/watch?v=m7Ee3nlPFwQ) · Built with elevenlabs, asyncio, bytetrack, cloudflare
 
@@ -33,7 +33,7 @@ A navigation aid turns the live camera view into spoken directions for people wi
 
 A multiplayer battle game turns drawings submitted from phones into in-game weapons.
 
-**How it used ElevenLabs:** Gemini transforms submitted doodles into weapon artwork, while ElevenLabs provides custom weapon sounds and spoken announcements.
+**How it used ElevenLabs:** ElevenLabs provides custom weapon sounds and spoken announcements.
 
 [Code](https://github.com/mayozoz/mhacks26) · [Demo video](https://www.youtube.com/watch?v=B1xxp1ZwI_0) · Built with elevenlabs, asi:one, fetch.ai, gemini-api
 
@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=S6FTw6NNaa
 
 speak a concept, step inside it in 3d.
 
-**How it used ElevenLabs:** Flow uses ElevenLabs for educational narration and spoken answers.
+**How it used ElevenLabs:** The team uses ElevenLabs for educational narration and voice Q&amp;A responses.
 
 [Code](https://github.com/stephenhungg/flow) · [Demo video](https://www.youtube.com/watch?v=m0bSZZ2EIdg) · Built with elevenlabs, css, deepgram, express.js
 
@@ -63,7 +63,7 @@ speak a concept, step inside it in 3d.
 
 Facetime your dad for home repair advice at anytime.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**ElevenLabs:** Built with elevenlabs (listed on Devpost)
 
 [Code](https://github.com/ponita05/hack-brown) · [Demo video](https://www.youtube.com/watch?v=xD_QGRqzkvo) · Built with elevenlabs, async, base64, canvas
 
@@ -73,7 +73,7 @@ Facetime your dad for home repair advice at anytime.
 
 Language shouldn't cut anyone off. Buddy joins any phone call to interpret both sides live and warn people about scams, and gives energy and health hotlines a record of every call.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**How it used ElevenLabs:** The project uses ElevenLabs Scribe v2 for speech-to-text with automatic language detection.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=QRPmRg4-4KU) · Built with elevenlabs, express.js, grok, meta
 
@@ -83,7 +83,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=QRPmRg4-4K
 
 A wearable gives deaf and hard-of-hearing users visual and tactile cues about surrounding sounds.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**ElevenLabs:** Built with elevenlabs (listed on Devpost)
 
 [Code](https://github.com/iancdev/hudglasses) · [Demo video](https://www.youtube.com/watch?v=4YbXLKoHIKk) · Built with elevenlabs, 3dprinting, c++, esp32
 
@@ -93,7 +93,7 @@ A wearable gives deaf and hard-of-hearing users visual and tactile cues about su
 
 Imposture is an AI desk pet that tracks your posture and focus use via computer vision, reacts with emotions on an LCD, and gamifies productivity. It is an Among Us-based character to keep you honest.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**How it used ElevenLabs:** The project uses ElevenLabs to talk back.
 
 [Code](https://github.com/argsdio/imposture) · [Demo video](https://www.youtube.com/watch?v=plD5TCyZjgI) · Built with elevenlabs, adafruit, arduino, deepgram
 
@@ -103,7 +103,7 @@ Imposture is an AI desk pet that tracks your posture and focus use via computer 
 
 Players speak spell ideas aloud and cast the generated spells against each other in a Roblox arena.
 
-**How it used ElevenLabs:** Incantation uses the built in Roblox Studio’s microphone to take in audio, which is then sent to Elevenlabs API for speech to text translation via a local HTTP connection.
+**How it used ElevenLabs:** Microphone audio is sent to the ElevenLabs API for speech-to-text translation.
 
 [Code](https://github.com/blazin-blaze/kh9-rblx-project) · [Demo video](https://www.youtube.com/watch?v=4Qf5VMHLx8U) · Built with elevenlabs, gemini, lua, luau
 
@@ -113,7 +113,7 @@ Players speak spell ideas aloud and cast the generated spells against each other
 
 A language-learning tool combines speech and translation exercises to help users practice pronunciation and sentence structure.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**How it used ElevenLabs:** The project uses ElevenLabs for pronunciation audio.
 
 [Code](https://github.com/ConicalDrupe/janulus.ai) · [Demo video](https://www.youtube.com/watch?v=5NwICUGROWw) · Built with eleven-labs-text-to-speech, clean-architecture, google-gemini, google-translate
 
@@ -133,7 +133,7 @@ The neighbor who reads every city agenda and calls you when it matters.
 
 Solving cashflow as an AI CFO for small/medium sized businesses.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**How it used ElevenLabs:** The project uses ElevenLabs to call users and notify them of dire financial situations automatically.
 
 [Code](https://github.com/naasanov/runway) · [Demo video](https://www.youtube.com/watch?v=KBSkARA8Rf4) · Built with elevenlabs, auth0, azure, digitalocean
 
@@ -143,7 +143,7 @@ Solving cashflow as an AI CFO for small/medium sized businesses.
 
 An AI copilot for air traffic controllers. It plans conflict-free routes, listens to the radio with a model tuned on real ATC audio, and catches wrong pilot readbacks before they become incidents.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**How it used ElevenLabs:** The project uses ElevenLabs voices through a narrow-band radio filter for its AI pilots.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1BI) · Built with elevenlabs, baseten, deck.gl, elasticsearch
 
@@ -155,7 +155,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=kBiB2bNY1B
 
 A voice interviewer asks practice coding questions and gives feedback on the answers.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**How it used ElevenLabs:** The project uses ElevenLabs voice agents for behavioral and technical interviews.
 
 [Code](https://github.com/kkarenvoo/TreeHacks2025) · [Demo video](https://www.youtube.com/watch?v=dz0O5mzjFH0) · Built with elevenlabs, javascript, node.js, python
 
@@ -175,7 +175,7 @@ The team created On The Go Storyteller , an interactive reading platform that br
 
 A modern walking aid powered by LiDAR sensing and haptic force feedback, a system that simulates the tactile feel of a cane tap — without the impact.
 
-**How it used ElevenLabs:** The captured image was processed through Google Gemini for scene description, and ElevenLabs provided real-time text-to-speech output.
+**How it used ElevenLabs:** ElevenLabs provided real-time text-to-speech output.
 
 [Code](https://github.com/4dandev/iPalo) · [Demo video](https://www.youtube.com/watch?v=9j8EzahHBIk) · Built with elevenlabs, arduino, arkit, bluetooth
 
@@ -185,7 +185,7 @@ A modern walking aid powered by LiDAR sensing and haptic force feedback, a syste
 
 A voice-controlled assistant reads the screen and operates desktop apps on the user's behalf.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**ElevenLabs:** Built with elevenlabs (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2o) · Built with elevenlabs, claude, gemini, httpx
 
@@ -195,7 +195,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2
 
 An Apple Vision Pro application that immerses you in different languages and cultures.
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**How it used ElevenLabs:** The project uses ElevenLabs text-to-speech to create voiceovers of the cultural facts.
 
 [Code](https://github.com/SaketR3/Lingua-Spatial-Gemini-API) · [Demo video](https://www.youtube.com/watch?v=FVoM-Fj_TL8) · Built with elevenlabs, apple-vision-pro, arkit, create-ml
 
@@ -215,7 +215,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=-osJDI2GaQ
 
 - if you can explain it to a duck, you can explain it to anyone.
 
-**How it used ElevenLabs:** ElevenLabs - facilitates the full conversation process from user mic input to duck voice generation.
+**How it used ElevenLabs:** ElevenLabs facilitates conversations from mic input to duck voice generation.
 
 [Code](https://github.com/joycechen721/duck-you-mean) · [Demo video](https://www.youtube.com/watch?v=eDDO_p1X9e8) · Built with elevenlabs, luma, mistralai, openai
 
@@ -225,7 +225,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=-osJDI2GaQ
 
 Vigilant watches live campus cameras, detects visible weapons, and computes risk factors (computer vision).
 
-**How it used ElevenLabs:** Sponsor use not stated on Devpost
+**How it used ElevenLabs:** The project uses ElevenLabs for text-to-speech.
 
 [Code](https://github.com/rajpatel923/goonbytes) · [Demo video](https://www.youtube.com/watch?v=uu312-oYY3c) · Built with elevenlabs, gemini, gen-ai, python
 

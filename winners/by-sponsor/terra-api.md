@@ -23,9 +23,9 @@
 
 The team describes the project as “For leaders in high-performance environments, we aggregate real-time wearable data from teams, providing LLM-driven insights, detecting arrhythmias, and reconstructing ECGs—no medical…
 
-**How it used Terra API:** Sponsor use not stated on Devpost
+**Terra API:** Built with terraapi (listed on Devpost)
 
-[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with cuda, python, pytorch, react-native
+[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with terraapi, cuda, python, pytorch
 
 ### [Project AVIA](https://devpost.com/software/project-avia-autonomous-vigilance-insights-for-aviation)
 
@@ -33,7 +33,7 @@ The team describes the project as “For leaders in high-performance environment
 
 Leveraging healthcare data to improve the performance of fighter jet pilots.
 
-**How it used Terra API:** Project AVIA is an AI-driven command center that consolidates real-time biometric data—heart rate, heart rate variability, oxygen saturation (SpO2), sleep quality, stress levels, exercise, and estimated blood pressure—sourced from Terra API and PPG recordings.
+**How it used Terra API:** The project uses the Terra API to collect real-time Garmin metrics.
 
 [Code](https://github.com/Harsh-Karia/TreeHacks) · [Demo video](https://www.youtube.com/watch?v=5l3HpXGMlks) · Built with cors, express.js, flask, mistral
 
@@ -43,7 +43,7 @@ Leveraging healthcare data to improve the performance of fighter jet pilots.
 
 A non-invasive wearable using novel thermoregulation research to provide precise heating/cooling to maintain core temperature. Built to enhance physical performance and battle geriatric disorders.
 
-**How it used Terra API:** Firebase handles seamless communication between the device and the web application, while Terra API integrates external physiological data from other wearables.
+**How it used Terra API:** Terra API integrates external physiological data from other wearables.
 
 [Code](https://github.com/arnavnc/therms-platform) · [Demo video](https://www.youtube.com/watch?v=smeznyWVNhM) · Built with firebase, nextjs, node.js, openai
 

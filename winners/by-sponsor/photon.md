@@ -23,7 +23,7 @@
 
 Andi helps people quitting alcohol stay sober. It texts them in iMessage when they're near a bar or buying liquor, talks them through the urge, and calls their sponsor when they need them.
 
-**How it used Photon:** Sponsor use not stated on Devpost
+**Photon:** Built with photon (listed on Devpost)
 
 [Code](https://github.com/kushmirchandani/andi) · [Demo video](https://www.youtube.com/watch?v=N-oXvhoNrzw) · Built with photon, anthropic, capital-one-nessie, chalk
 
@@ -33,7 +33,7 @@ Andi helps people quitting alcohol stay sober. It texts them in iMessage when th
 
 Light the Way! Beacon is an accessibility map with step-free routes for people with mobility disabilities, with Beau, an AI agent you text on iMessage to find routes and reports obstacles efficently.
 
-**How it used Photon:** The application combines smart routing, real-time accessibility reports, community contributions, and an AI messaging companion powered by Photon 2.0.
+**How it used Photon:** The AI companion runs on Photon 2.0’s Spectrum SDK, which puts Beacon into iMessage.
 
 [Code](https://github.com/preethi-seereddy/Beacon) · [Demo video](https://www.youtube.com/watch?v=GxJQYUc_s_c) · Built with git, github, next.js, openaiapi
 
@@ -43,7 +43,7 @@ Light the Way! Beacon is an accessibility map with step-free routes for people w
 
 Amex Concierge on steroids for small businesses: text a problem, AI agents and real people get it done.
 
-**How it used Photon:** The owner's conversation, in iMessage, powered by Photon.
+**How it used Photon:** The owner talks to the project in iMessage through Photon.
 
 [Code](https://github.com/sszz01/zero-knowledge-team) · [Demo video](https://www.youtube.com/watch?v=9dYmaWoG2a8) · Built with photon, cursor, eleven-labs, openai
 
@@ -53,7 +53,7 @@ Amex Concierge on steroids for small businesses: text a problem, AI agents and r
 
 Disaster plans go stale in minutes. EMBER turns texts and calls into a new personalized safety plan for a whole flooded district in under a second.
 
-**How it used Photon:** Calls run through ElevenLabs on the Photon number, with the backend acting as the agent's language model.
+**How it used Photon:** A text or call comes in through Photon.
 
 [Code](https://github.com/soham-k-sinha/Ember) · [Demo video](https://www.youtube.com/watch?v=YbEaTgA91rU) · Built with photon, anthropic, chalk, claude
 
@@ -63,7 +63,7 @@ Disaster plans go stale in minutes. EMBER turns texts and calls into a new perso
 
 FirstLight recruits, consents and retains trial participants over iMessage, and Trial Ops gives the study team one agent to act on what FirstLight finds, with the safety rules built into the database.
 
-**How it used Photon:** Sponsor use not stated on Devpost
+**How it used Photon:** The project uses Photon Spectrum for iMessage lines with mini-app cards and voice notes.
 
 [Code](https://github.com/SunfishTK1/hackharvard-2026) · [Demo video](https://www.youtube.com/watch?v=BNi3T0CI5m4) · Built with photon, anthropic, caddy, claude
 
@@ -73,7 +73,7 @@ FirstLight recruits, consents and retains trial participants over iMessage, and 
 
 A disclosed AI call screener for an older adult: Nemotron proposes, Rust decides, only her keypad can connect a call, and the offer is revoked the instant a caller pivots to a scam.
 
-**How it used Photon:** The team also built a robot caller: ElevenLabs-synthesized caller clips played through a second Photon line to place real calls to FirstRing, graded against a rubric written before synthesis, with receipts for every run.
+**How it used Photon:** ElevenLabs-synthesized caller clips played through a second Photon line to place calls to FirstRing.
 
 [Code](https://github.com/cxdima/hackutd26) · [Demo video](https://www.youtube.com/watch?v=pPmL-vXP1OQ) · Built with photon, amazon-web-services, angular.js, axum
 
@@ -83,7 +83,7 @@ A disclosed AI call screener for an older adult: Nemotron proposes, Rust decides
 
 AI roommate that fairly manages shared finances in your group chat: splits bills by house rules, schedules payments around payday, and transfers funds after everyone agrees—without revealing balances.
 
-**How it used Photon:** Sponsor use not stated on Devpost
+**Photon:** Built with photon (listed on Devpost)
 
 [Code](https://github.com/jspinerola/house-rules) · [Demo video](https://www.youtube.com/watch?v=Quiicn_2FOc) · Built with photon, capital-one-nessie, cursor, fastapi
 
@@ -93,7 +93,7 @@ AI roommate that fairly manages shared finances in your group chat: splits bills
 
 Turn an emergency call into an indoor rescue map. With CoStar’s 3D building data and Photon's voice agent, LifeLine guides first responders to the caller, down to the room.
 
-**How it used Photon:** Sponsor use not stated on Devpost
+**How it used Photon:** Photon bridges the phone network and the application.
 
 [Code](https://github.com/ben-du1/LifeLine) · [Demo video](https://www.youtube.com/watch?v=Sw2sJuAJ5v8) · Built with photon, cloudflare-tunnel, costar, elevenlabs
 
@@ -103,7 +103,7 @@ Turn an emergency call into an indoor rescue map. With CoStar’s 3D building da
 
 A camera watches the ingredients, AI counts every item taken, and texts the owner to reorder before anything runs out. Tested live at Casa Piada in Greenwich.
 
-**How it used Photon:** Sponsor use not stated on Devpost
+**Photon:** Built with photon (listed on Devpost)
 
 [Code](https://github.com/Krish-Parmar22/restock-princeton-hackprinceton) · [Demo video](https://www.youtube.com/watch?v=tsmOwUs_G00) · Built with photon, arduino-uno-q, d1, deepagents
 
@@ -113,7 +113,7 @@ A camera watches the ingredients, AI counts every item taken, and texts the owne
 
 Personal agent for college students that lives in iMessage - text it your syllabus and get ready for the semester.
 
-**How it used Photon:** Sponsor use not stated on Devpost
+**Photon:** Built with photon (listed on Devpost)
 
 [Code](https://github.com/zhoulinhua0-star/hackprinceton-2026) · [Demo video](https://www.youtube.com/watch?v=frTz_ULVTXY) · Built with photon, agentic-framework, amazon-bedrock, amazon-dynamodb
 
@@ -133,7 +133,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4GrYcrm64t
 
 Your protections know it's you. Titan detects scammer-coached account changes, pauses risky actions, and guides recovery through iMessage and voice.
 
-**How it used Photon:** The voice integration connects a Photon line through LiveKit SIP to a Pipecat conversation.
+**How it used Photon:** Voice uses Photon, LiveKit SIP, Pipecat, Nemotron ASR, and ElevenLabs TTS.
 
 [Code](https://github.com/yuvanmuru-dev/hackutd-2026) · [Demo video](https://www.youtube.com/watch?v=12J6hj9kdWA) · Built with photon, elevenlabs, fastapi, livekit
 

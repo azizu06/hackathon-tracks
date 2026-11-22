@@ -109,7 +109,7 @@ EcoFin Carbon calculates and visualizes the carbon footprint of your financial t
 - **Code:** [Source 1](https://github.com/arnavvalvekar/hacktx)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QrL9U7CnT8Y)
 - **All prizes at this hackathon (1):** Best Capital One Hack
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **How it used Capital One:** The project uses the Nessie API for user storage and transaction data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -136,7 +136,7 @@ Instant, data-driven race strategy suggestions for teams.
 - **Code:** [Source 1](https://github.com/phamleduy04/hacktx-25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4SxP2n9fwpM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** This is deployed using Terraform to Cloudflare Workers.
+- **How it used Cloudflare:** The team deployed to Cloudflare Workers using Terraform.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -190,7 +190,7 @@ Vigilant watches live campus cameras, detects visible weapons, and computes risk
 - **Code:** [Source 1](https://github.com/rajpatel923/goonbytes)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uu312-oYY3c)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **How it used ElevenLabs:** The project uses ElevenLabs for text-to-speech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -217,7 +217,7 @@ Giving AI coding agents the power to see by letting them visually explore the we
 - **Code:** [Source 1](https://github.com/aabel4206/CodeUse)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pLatsP3nFF0)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini 2.5 Computer Use Model
-- **How it used Google:** So far, Ayn can take a developer’s natural-language request, parse it, and autonomously explore a live web app using the Gemini 2.5 Computer Use API.
+- **How it used Google:** Ayn uses the Gemini 2.5 Computer Use API to explore a live web app.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -240,7 +240,7 @@ Live Space-to-Sound (or any video): Pick an ISS/telescope livestream or paste a 
 - **Code:** [Source 1](https://github.com/emw8105/hacktx-25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cLJeS1mnDq8)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** Gemini uses vision and text prompts to produce Lyria directives for BPM, mood, timbre, and motion.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

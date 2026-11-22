@@ -1,4 +1,5 @@
 .devpost-cache/
+.github-cache/
 __pycache__/
 .DS_Store
 docs/ux-audit-*.md

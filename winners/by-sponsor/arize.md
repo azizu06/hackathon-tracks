@@ -23,7 +23,7 @@
 
 JUGAAD — Just-in-time University Guidance and Actionable Discovery — gives every Berkeley student the insider hacks on food, housing, and financial aid that only connected students know.
 
-**How it used Arize:** A Claude-as-judge evaluator runs automated quality scoring across 4 criteria (relevance, actionability, persona adherence, safety) and logs results to Arize.
+**How it used Arize:** A Claude-as-judge evaluator logs its automated quality scores to Arize.
 
 [Code](https://github.com/nergisRahimzade/jugaad) · [Demo video](https://www.youtube.com/watch?v=18ggunYZ8iM) · Built with arize, anthropic, browserbase, claude-code
 

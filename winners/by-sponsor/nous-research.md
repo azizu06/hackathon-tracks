@@ -23,9 +23,9 @@
 
 Most people do not know how their scattered data points connect.
 
-**How it used Nous Research:** Sponsor use not stated on Devpost
+**Nous Research:** Built with hermes (listed on Devpost)
 
-[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with fastapi, hermes, hexapi, instaloader
+[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with hermes, fastapi, hexapi, instaloader
 
 ### [CiteSite](https://devpost.com/software/citesite-i80hlo)
 
@@ -33,7 +33,7 @@ Most people do not know how their scattered data points connect.
 
 agentic peer review citation verification for research papers.
 
-**How it used Nous Research:** Hermes 4 70B (Nous Research) powers all extraction tasks.
+**How it used Nous Research:** Hermes 4 70B from Nous Research powers all extraction tasks.
 
 [Code](https://github.com/suryar2007/peer-review-system) · [Demo video](https://www.youtube.com/watch?v=am-y6yt0Ais) · Built with fastapi, hermes, langgraph, lava
 
@@ -43,9 +43,9 @@ agentic peer review citation verification for research papers.
 
 Your guided path through regulatory complexity.
 
-**How it used Nous Research:** Sponsor use not stated on Devpost
+**Nous Research:** Built with hermes (listed on Devpost)
 
-[Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with beautiful-soup, docker, fastapi, framer-motion
+[Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with hermes, beautiful-soup, docker, fastapi
 
 ### [neuro-trading.](https://devpost.com/software/neuro-trader)
 
@@ -53,7 +53,7 @@ Your guided path through regulatory complexity.
 
 fMRI-enhanced swarm simulations for prediction markets.
 
-**How it used Nous Research:** Sponsor use not stated on Devpost
+**How it used Nous Research:** The project routes all persona creation through Hermes via OpenRouter.
 
 [Code](https://github.com/cicinel/YNeurotrading) · [Demo video](https://www.youtube.com/watch?v=WmDdycsx_a0) · Built with camel-ai-oasis, d3.js, docker, fastapi
 

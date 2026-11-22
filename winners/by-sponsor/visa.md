@@ -43,7 +43,7 @@ The shopping agent that doesn't compromise on speed or safety.
 
 See the recall before your money moves. Lullabuy holds a Visa payment until a camera reads the baby gear's label at pickup and checks it against CPSC and NHTSA recalls.
 
-**How it used Visa:** Sponsor use not stated on Devpost
+**How it used Visa:** The card number and CVV are typed into Visa-hosted fields via Visa Acceptance Microform.
 
 [Code](https://github.com/StephenSook/secondhand-safe) · [Demo video](https://www.youtube.com/watch?v=bLZc5eh2kqc) · Built with visa-acceptance, visa-microform, visa-token-management-service, atlas-vector-search
 
@@ -85,7 +85,7 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 
 Tired of doing mental math and nudging someone who owes you money? Kasha is an AI chat bot that tracks real time spending, auto-split charges with friends, and sends personalized reminders.
 
-**How it used Visa:** Integration of APIs via Visa for Merchant Search, Visa Offers, Transaction Controls, Foreign Exchange Rates, and ATM Locater bring transparency and reality about finances and savings opportunities to students.
+**How it used Visa:** The team used Visa APIs for merchant search, offers, transaction controls and foreign exchange rates.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=0Hnd_ZntowM) · Built with visa-developer-apis, anthropic, claude-ai, express.js
 

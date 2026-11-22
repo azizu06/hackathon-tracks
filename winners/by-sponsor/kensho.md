@@ -45,7 +45,7 @@ The team strip the noise in raw data to find the important trends and present th
 
 A natural language processing framework for collecting data and statistics relevant to a video or audio input.
 
-**How it used Kensho:** Sponsor use not stated on Devpost
+**How it used Kensho:** The project uses Kensho’s Knowledge Graph API to show recent events related to video content.
 
 [Code](https://github.com/shiftsayan/nemo) · Built with angular.js, flask, machine-learning, mathematica
 

@@ -23,7 +23,7 @@
 
 An interactive evacuation simulator lets trainees clear exits and redirect crowds in a building.
 
-**How it used Presage:** A small Node helper ( npm run sensor ) uses the Presage SmartSpectra Node.js SDK to read breathing rate, breathing amplitude, pulse and heart-rate variability (Baevsky stress index) from the laptop webcam.
+**How it used Presage:** The project uses the Presage SmartSpectra Node.js SDK to read breathing rate and amplitude.
 
 [Code](https://github.com/lyanisbarreto-mercado/crowdclear) · [Demo video](https://www.youtube.com/watch?v=pNp_bZqdGGw) · Built with a-frame, css3, elevenlabs, express.js
 
@@ -33,7 +33,7 @@ An interactive evacuation simulator lets trainees clear exits and redirect crowd
 
 A robotics team collects human skiing and hiking motions to train a humanoid on outdoor terrain.
 
-**How it used Presage:** Using Presage’s SmartSpectra, the webcam reads heart rate and breathing to identify, on average, the more physically demanding parts of the path.
+**How it used Presage:** The webcam reads heart rate and breathing using Presage’s SmartSpectra.
 
 [Code](https://github.com/RyanRana/skibot) · [Demo video](https://www.youtube.com/watch?v=OutFnDuQV00) · Built with presage, cloudflare, core-location, coremotion
 
@@ -53,7 +53,7 @@ Gene+Drug+Drug interaction app with live computer vision made for patients.
 
 Providing an AI powered safety layer for cars that never had one.
 
-**How it used Presage:** Sponsor use not stated on Devpost
+**How it used Presage:** The project uses Presage to track heart rate.
 
 [Code](https://github.com/Aditya100907/HackBrown) · [Demo video](https://www.youtube.com/watch?v=Y6IJaTW2l84) · Built with presage, elevenlabs, python, swift
 
@@ -73,7 +73,7 @@ A camera estimates a player's state and changes the game in response.
 
 An accessibility tool converts facial expressions into audio cues for blind users.
 
-**How it used Presage:** Biometric Integration: The system integrates with Presage technology to collect heartbeat and breathing rate data, providing additional physiological context that supports and enhances emotion detection accuracy.
+**How it used Presage:** The system integrates Presage technology to collect heartbeat and breathing rate data.
 
 [Code](https://github.com/havido/VibeSense) · [Demo video](https://www.youtube.com/watch?v=tY2O1hSmsxo) · Built with presage, arduino, deepface, flask
 

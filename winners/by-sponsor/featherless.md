@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=WyRockA-CO
 
 NARA is an autonomous penetration testing CLI that orchestrates four AI agents against an isolated Docker target:.
 
-**How it used Featherless:** Sponsor use not stated on Devpost
+**How it used Featherless:** The project uses Featherless and Phi-4-mini as its default LLM backend.
 
 [Code](https://github.com/HackedRico/obv-nara-box) · [Demo video](https://www.youtube.com/watch?v=a8ESQUSft0c) · Built with featherless-ai-(phi-4-mini), anthropic-claude-api, bandit, docker
 

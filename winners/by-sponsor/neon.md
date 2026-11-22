@@ -23,7 +23,7 @@
 
 Elevated and autonomous security for the vibe coded world. Argus deploys five specialized agents to attack your app in a sandbox, prove vulnerabilities, generate fixes, and verify the patch works.
 
-**How it used Neon:** Sponsor use not stated on Devpost
+**Neon:** Built with neon (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKDo) · Built with neon, asi:one, browserbase, elevenlabs
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKD
 
 GEarth simulates how citizens, institutions, and governments interact across a fictional world that viewers can explore from a browser dashboard.
 
-**How it used Neon:** Neon PostgreSQL stores checkpoints and event history so viewers can revisit recorded worlds.
+**How it used Neon:** The team uses Neon PostgreSQL to preserve simulation checkpoints and event history.
 
 [Code](https://github.com/liangricky7/GEarth) · [Demo video](https://www.youtube.com/watch?v=7h_nXEkdgIM) · Built with c#, c++, distributed-computation, python
 
@@ -53,7 +53,7 @@ Smart glasses for the glasses you already own.
 
 Commute used to be dead time. Shotgun turns your car into an AI agent that rides... shotgun.
 
-**How it used Neon:** Sponsor use not stated on Devpost
+**How it used Neon:** The project uses a Neon Postgres job table shared by every agent.
 
 [Code](https://github.com/25danielc/shotgun) · [Demo video](https://www.youtube.com/watch?v=P9eiu86cmdE) · Built with neon, anthropic-api, carplay, claude
 

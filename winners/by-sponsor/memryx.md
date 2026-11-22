@@ -23,7 +23,7 @@
 
 SoundSage: World's first real-time music intelligence. Instantly identifies genres and auto-optimizes EQ through dual AI models.
 
-**How it used MemryX:** Everything runs locally on MemryX NPU hardware, delivering studio-quality audio enhancement without cloud dependency or privacy concerns.
+**How it used MemryX:** The project runs its audio enhancement locally on MemryX NPU hardware.
 
 [Code](https://github.com/Kart-ing/EQ_AI) · Built with memryx, onnx, python, torch
 

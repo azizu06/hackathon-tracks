@@ -61,8 +61,8 @@ An apartment search assistant helps people moving to the US find listings, conta
 - **Code:** [Source 1](https://github.com/kbhatnagar1506/homie)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zl_fpA4hX9Q)
 - **All prizes at this hackathon (2):** Best Use of Notability Winner · FetchAI ASI:One Agent Challenge
-- **How it used Fetch.ai:** The whole workflow runs inside an ASI:One conversation: request, pick buildings by replying with numbers, live progress, the held deal, the application, and the Payment Protocol fee.
-- **How it used Notability:** Sponsor use not stated on Devpost
+- **How it used Fetch.ai:** Every uAgent is registered as a mailbox agent on Agentverse.
+- **How it used Notability:** The project uses Notability as a product-design workspace.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -85,7 +85,7 @@ A wearable AI agent that detects patterns in elder patients to provide life-savi
 - **Code:** [Source 1](https://github.com/Taz33m/mhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ETHa01jEUWA)
 - **All prizes at this hackathon (2):** Best Use of FREE-WILi · FinchNode (HealthTech)
-- **How it used FinchNode:** Sponsor use not stated on Devpost
+- **How it used FinchNode:** FinchNode supplies read-only synthetic health records.
 - **How it used FREE-WILi:** FREE-WILi provides chest acceleration, a microphone, speaker, display, and physical buttons.
 - **Checked on Devpost:** 2026-11-21
 
@@ -115,7 +115,7 @@ Two exes, two agents, zero awkward conversations.
 - **Code:** [Source 1](https://github.com/PRANAVMAHALINGAM/gudtrms)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8O_62JRIgR4)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
+- **How it used .Tech Domains:** The project uses gudtrms.tech for its live demo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -142,7 +142,7 @@ A billing assistant reviews medical bills and organizes evidence that patients c
 - **Code:** [Source 1](https://github.com/SNBest1/medical-bill-guardian)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WQIiy8kV0qI)
 - **All prizes at this hackathon (1):** Best Use of Nessie @ Capital One
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **How it used Capital One:** The project uses the Capital One Nessie sandbox to find the hospital payment and send the refund in fake money.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -165,7 +165,7 @@ A finance app helps people moving to a new city plan expenses with their roommat
 - **Code:** [Source 1](https://github.com/andrew-oriti18/settlr-mhack26)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Nessie @ Capital One
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **How it used Capital One:** The demo uses Capital One Nessie to analyze bank spending for an affordable rent budget.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ An offline guide helps survivors find state compensation programs and trace elig
 - **Code:** [Source 1](https://github.com/thesanatt/tend)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Nessie @ Capital One
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **How it used Capital One:** The project uses Capital One’s Nessie bank to pay $118 only after typing a 6-digit code.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -215,7 +215,7 @@ A multiplayer battle game turns drawings submitted from phones into in-game weap
 - **Code:** [Source 1](https://github.com/mayozoz/mhacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=B1xxp1ZwI_0)
 - **All prizes at this hackathon (1):** Best Project Built with ElevenLabs Winner
-- **How it used ElevenLabs:** Gemini transforms submitted doodles into weapon artwork, while ElevenLabs provides custom weapon sounds and spoken announcements.
+- **How it used ElevenLabs:** ElevenLabs provides custom weapon sounds and spoken announcements.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -244,7 +244,7 @@ A content planning tool simulates how an audience might respond to competing pos
 - **Code:** [Source 1](https://github.com/irfan-firosh/ripple)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=T5fnHDuklZo)
 - **All prizes at this hackathon (1):** FetchAI ASI:One Agent Challenge
-- **How it used Fetch.ai:** Ripple is also an agent on Fetch.ai's Agentverse, so anyone can ask it from ASI:One to test two posts for a brand and get the winner back.
+- **How it used Fetch.ai:** Fetch.ai handles communication between the orchestrator and the specialist agents.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -267,7 +267,7 @@ A study agent makes practice quizzes and games and tracks progress in a virtual 
 - **Code:** [Source 1](https://github.com/ArushNo1/sprout)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=awIq0XC38zQ)
 - **All prizes at this hackathon (1):** FetchAI ASI:One Agent Challenge
-- **How it used Fetch.ai:** Sprout is built with Fetch.ai's uAgents framework, hosted on Agentverse, and talks to students through the Agent Chat Protocol in ASI:One.
+- **How it used Fetch.ai:** Sprout uses Fetch.ai’s uAgents framework and talks to students through the Agent Chat Protocol in ASI:One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -369,7 +369,7 @@ Everyday glasses that watch high-risk hearts and speak up before an emergency.
 - **Code:** [Source 1](https://github.com/tTong32/CardioGlasses)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-MuYmrTTWag)
 - **All prizes at this hackathon (1):** FinchNode (HealthTech)
-- **How it used FinchNode:** Sponsor use not stated on Devpost
+- **How it used FinchNode:** The project pulls the wearer’s medical record from FinchNode.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -392,7 +392,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Fg-wfUvkk1
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Fg-wfUvkk1U)
 - **All prizes at this hackathon (1):** FinchNode (HealthTech)
-- **How it used FinchNode:** FinchNode's all-in-one API makes this possible by giving patients one way to connect their health records across providers.
+- **How it used FinchNode:** FinchNode's API connects patients' health records across providers.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -421,7 +421,7 @@ Meet the right people. Only when it's mutual.
 - **Code:** [Source 1](https://github.com/maiaPaperTowns/mutuals)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UMzRICNUTBQ)
 - **All prizes at this hackathon (1):** Best Use of FREE-WILi
-- **How it used FREE-WILi:** Sponsor use not stated on Devpost
+- **How it used FREE-WILi:** A pixel puppy on the FREE-WILi badge shows what the agent is doing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -444,7 +444,7 @@ A rehab-game station where four agents filter, fact-check, decide and act, and s
 - **Code:** [Source 1](https://github.com/Dee-1862/Ocra)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=x5cxIVRhaSU)
 - **All prizes at this hackathon (1):** Best Use of FREE-WILi
-- **How it used FREE-WILi:** Sponsor use not stated on Devpost
+- **How it used FREE-WILi:** The project uses FreeWili OG as a USB display and button pad.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -517,7 +517,7 @@ No public code linked · Built with gemini, google-oauth, chrome, fastapi
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** If Gemini is unavailable, the embedding ranking is used, and if the server is unreachable, the extension falls back to a keyword match in the browser.
+- **How it used Google:** Gemini picks an icon for each new collection from its name.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -544,7 +544,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=P7_du8KrKD
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P7_du8KrKDo)
 - **All prizes at this hackathon (1):** Best Use of Neon Backend
-- **How it used Neon:** Sponsor use not stated on Devpost
+- **Neon:** Built with neon (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -590,7 +590,7 @@ Commute used to be dead time. Shotgun turns your car into an AI agent that rides
 - **Code:** [Source 1](https://github.com/25danielc/shotgun)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P9eiu86cmdE)
 - **All prizes at this hackathon (1):** Best Use of Neon Backend
-- **How it used Neon:** Sponsor use not stated on Devpost
+- **How it used Neon:** The project uses a Neon Postgres job table shared by every agent.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -623,7 +623,7 @@ Amex Concierge on steroids for small businesses: text a problem, AI agents and r
 - **Code:** [Source 1](https://github.com/sszz01/zero-knowledge-team)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9dYmaWoG2a8)
 - **All prizes at this hackathon (1):** Photon iMessage Agents Track Winner
-- **How it used Photon:** The owner's conversation, in iMessage, powered by Photon.
+- **How it used Photon:** The owner talks to the project in iMessage through Photon.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -673,7 +673,7 @@ A robotics team collects human skiing and hiking motions to train a humanoid on 
 - **Code:** [Source 1](https://github.com/RyanRana/skibot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OutFnDuQV00)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Presage
-- **How it used Presage:** Using Presage’s SmartSpectra, the webcam reads heart rate and breathing to identify, on average, the more physically demanding parts of the path.
+- **How it used Presage:** The webcam reads heart rate and breathing using Presage’s SmartSpectra.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -700,7 +700,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=iHHdCwF_NR
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iHHdCwF_NRU)
 - **All prizes at this hackathon (1):** Relay Interactive Agents Track Winner
-- **How it used Relay:** On Relay, a single WebSocket consumer handles events; event IDs are committed to Postgres before the ACK (Relay redelivers otherwise), and every send carries a idempotency key so a reconnect replay can't double-send.
+- **How it used Relay:** A single WebSocket consumer handles events on Relay.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -723,7 +723,7 @@ An AI agent crew that checks your medical bill against what actually happened at
 - **Code:** [Source 1](https://github.com/tiwari-ira/amyna)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Relay Interactive Agents Track Winner
-- **How it used Relay:** Sponsor use not stated on Devpost
+- **How it used Relay:** The project uses Relay Messaging to manage user approvals by delivering decision cards to patient devices.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -750,7 +750,7 @@ A hardware wallet shows who will receive a payment and what the user is about to
 - **Code:** [Source 1](https://github.com/ayushmk7/NoBadgeActors)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZWM99jsHEmQ)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Solana · Judged by an LLM
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** The project uses the Solana DEF CON badge as a hardware security key for payments.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -777,7 +777,7 @@ A shared editor lets teammates work on a video together with help from AI assist
 - **Code:** [Source 1](https://github.com/anuragsk05/CoClip)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0Oz84yuXpbE)
 - **All prizes at this hackathon (1):** Best Use of Spacetime
-- **How it used Spacetime:** CoClip uses SpacetimeDB to sync the video timeline and media state across collaborators.
+- **How it used Spacetime:** SpacetimeDB handled much of the real-time infrastructure.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -800,7 +800,7 @@ Scalpal takes a learner through a single surgical case in a Meta Quest 3S, from 
 - **Code:** [Source 1](https://github.com/stephenhungg/scalpal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9m1Pt74R2lY)
 - **All prizes at this hackathon (1):** Best Use of Spacetime
-- **How it used Spacetime:** Sponsor use not stated on Devpost
+- **How it used Spacetime:** A web dashboard follows the session live through SpacetimeDB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -823,7 +823,7 @@ A food-waste dashboard shows what gets thrown away so kitchens can decide what t
 - **Code:** [Source 1](https://github.com/anton-3/traycer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ueDxreMXbMQ)
 - **All prizes at this hackathon (1):** Best Use of Spacetime
-- **How it used Spacetime:** A Node.js worker uses OpenAI to drive individual simulated students’ food choices, eating behavior, and conversations, while shared TypeScript rules and SpacetimeDB manage the world and waste accounting.
+- **How it used Spacetime:** SpacetimeDB and shared TypeScript rules manage the world and waste accounting.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -877,7 +877,7 @@ TapTrack PD is a wrist-worn Parkinson's tracker built on a FREE-WILi strapped to
 - **Code:** [Source 1](https://github.com/ahansoty/taptrack-pd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NyzD97cP5SY)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
-- **How it used Tiger Data:** Caregiver Dashboard - FinchNode + Gemini + Fetch.ai + Neon + Tiger Data.
+- **How it used Tiger Data:** The project uses TimescaleDB hypertables for checks, doses, and passive tremor.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

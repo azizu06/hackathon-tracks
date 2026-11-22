@@ -23,7 +23,7 @@
 
 A real-time 911 dispatch co-pilot that transcribes, translates, and protocol-grounds every call, then spins up secure AI agents to handle mass emergencies.
 
-**How it used ArmorIQ:** Sponsor use not stated on Devpost
+**How it used ArmorIQ:** The project uses ArmorIQ’s Intent Intelligence SDK to sign and authorize agent plans.
 
 [Code](https://github.com/ARP-source/aegis-dispatch) · Built with armoriq, carto, claude, cloudfair
 

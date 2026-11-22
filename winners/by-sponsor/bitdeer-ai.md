@@ -23,7 +23,7 @@
 
 Bellhop uses voice agents to help victims of fraud receive timely, structured assistance from banks. Its intelligent dialogue targets the information that actually speeds up claims processing.
 
-**How it used Bitdeer AI:** Sponsor use not stated on Devpost
+**How it used Bitdeer AI:** The team used BitDeer models for the internal analysis engine.
 
 [Code](https://github.com/Happy-Key/Bellhop) · [Demo video](https://www.youtube.com/watch?v=h9w0MqiIO4o) · Built with bitdeer, cartesia, claude, convex
 
@@ -33,7 +33,7 @@ Bellhop uses voice agents to help victims of fraud receive timely, structured as
 
 Autonomous security for the medical devices hospitals can't patch.
 
-**How it used Bitdeer AI:** Sponsor use not stated on Devpost
+**How it used Bitdeer AI:** A DeepSeek model is running on Bitdeer.
 
 [Code](https://github.com/Sanjavan7/PreVent) · [Demo video](https://www.youtube.com/watch?v=5u1bG7nEzvI) · Built with agentverse, anthropic, arduino, asi-one
 

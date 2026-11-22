@@ -23,7 +23,7 @@
 
 Compose electronic music just by wiggling your fingers, hand positions swapping live instruments in real time. Once you're done, go full party mode.
 
-**How it used Snap:** Sponsor use not stated on Devpost
+**How it used Snap:** The team used Lens Studio for instrument mapping logic.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=cohE1Eti1dU) · Built with snap
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=cohE1Eti1d
 
 Learn any dance head-to-head in AR with full-body tracking and scoring in real-time, all from your phone camera.
 
-**How it used Snap:** Sponsor use not stated on Devpost
+**How it used Snap:** The project uses Snapchat messaging to support turn-based multiplayer.
 
 [Code](https://github.com/YHack-Project/dance) · [Demo video](https://www.youtube.com/watch?v=D44gx8M5m84) · Built with lens-studio, snap-ml, snapchat, typescript
 
@@ -55,7 +55,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=c4J5046t_6
 
 Did you ever want to learn alchemy, but you were limited by the laws of physics? Well, fret no more.
 
-**How it used Snap:** Using Snap Spectacles and Snap3D, players can pick up, merge, and transform objects around them into entirely new creations.
+**How it used Snap:** The team used Snap Spectacles and Lens Studio for the AR experience.
 
 [Code](https://github.com/jasonnpan/ARchemy) · [Demo video](https://www.youtube.com/watch?v=-qdRSClgbJA) · Built with spectacles, ar, cloudflare, gpt
 
@@ -65,7 +65,7 @@ Did you ever want to learn alchemy, but you were limited by the laws of physics?
 
 Unite AR and electro-stimulation to perfect your beer pong game.
 
-**How it used Snap:** The AR component is built for Snap Spectacles.
+**How it used Snap:** The team developed the user interface and cup detection through Lens Studio in TypeScript.
 
 [Code](https://github.com/YetSquire/BallAR) · [Demo video](https://www.youtube.com/watch?v=Kqn162iM-P0) · Built with lensstudio, snapchatspectacles, arduino, esp32
 
@@ -75,7 +75,7 @@ Unite AR and electro-stimulation to perfect your beer pong game.
 
 Real-time AR &amp; AI coach for better conversations and addressing the fear of public speaking.
 
-**How it used Snap:** Sponsor use not stated on Devpost
+**How it used Snap:** The project uses Lens Studio and Spectacles for an AR HUD.
 
 [Code](https://github.com/MatchaOnMuffins/MHacks25) · [Demo video](https://www.youtube.com/watch?v=YTZotjnA4ok) · Built with lens-studio, spectacles, base-44, fast
 
@@ -85,7 +85,7 @@ Real-time AR &amp; AI coach for better conversations and addressing the fear of 
 
 lets you crash out, whenever, wherever, whatever (on the drums).
 
-**How it used Snap:** Sponsor use not stated on Devpost
+**How it used Snap:** The pressure sensor is transmitting the strength of a strike to the Spectacles for instant feedback.
 
 [Code](https://github.com/dagsion/HTN25_CRASHOUT) · [Demo video](https://www.youtube.com/watch?v=222g1xCWzGk) · Built with spectacle, adc, ar, audacity
 
@@ -95,7 +95,7 @@ lets you crash out, whenever, wherever, whatever (on the drums).
 
 An augmented reality law enforcement aid using Snapchat Spectacles.
 
-**How it used Snap:** The system uses Snap Spectacles to continuously scan the user’s entire field of view for license plates.
+**How it used Snap:** The project uses Snap Spectacles to scan the user's field of view for license plates.
 
 [Code](https://github.com/ojlennon/MHacks2025) · [Demo video](https://www.youtube.com/watch?v=oUNED0N_luM) · Built with lens-studio, docker, fastapi, python
 
@@ -115,7 +115,7 @@ Snap Spectacles show recipe steps and let cooks advance them by voice.
 
 Smart glasses let clinicians call up visual information with voice commands.
 
-**How it used Snap:** The team pushed Snap Spectacles beyond standard AR filters by using the computer vision model MediaPipe Hands to detect body landmarks in real-time.
+**How it used Snap:** The team used Snap Spectacles with a custom Lens Studio app.
 
 [Code](https://github.com/DT-0907/medisnap) · [Demo video](https://www.youtube.com/watch?v=PTfQ6G_CJhs) · Built with lens-studio, snap, snap-spectacles, express.js
 
@@ -125,7 +125,7 @@ Smart glasses let clinicians call up visual information with voice commands.
 
 AR glasses provide memory cues for people with Alzheimer's disease.
 
-**How it used Snap:** Sponsor use not stated on Devpost
+**How it used Snap:** The project integrates its AI pipeline with Snap Spectacles using SnapAR and Lens Studio.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=1LMXyNN5t1U) · Built with lensstudio, snapar, spectacle, chatgpt
 
@@ -135,7 +135,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=1LMXyNN5t1
 
 Your environment should work for you.
 
-**How it used Snap:** The team designed an agent through Fetch.ai that helps Snap Spectacle users navigate indoor and outdoor travel through accessible routes.
+**How it used Snap:** The team built MobiLens with Lens Studio for the Snap Spectacles.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=cnNKHDTOunw) · Built with lensstudio, ar, base44, fetch.ai
 
@@ -145,7 +145,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=cnNKHDTOun
 
 An AR prototype displays audiovisual CPR guidance in Snap Spectacles.
 
-**How it used Snap:** Pulse is an AR application for the Snap Spectacles that provides step-by-step CPR guidance in real time.
+**How it used Snap:** Pulse provides step-by-step CPR guidance in real time on Snap Spectacles.
 
 [Code](https://github.com/jackyydai/LAHack2025-Pulse) · [Demo video](https://www.youtube.com/watch?v=VuOMCP1uGJM) · Built with lensstudio, msi, snapapi, typescript
 
@@ -155,7 +155,7 @@ An AR prototype displays audiovisual CPR guidance in Snap Spectacles.
 
 A wearable wardrobe tool catalogs clothes the user already owns and suggests outfits.
 
-**How it used Snap:** The team used the Spectacles Interaction Kit to capture user inputs like the “Add to wardrobe” or “Ask for outfit” commands.
+**How it used Snap:** The endpoint captures visual input from the Spectacles.
 
 [Code](https://github.com/venkatnikhilm/SnapDrobeAPI) · [Demo video](https://www.youtube.com/watch?v=rRQtAgtb2U4) · Built with lensstudio, amazon-dynamodb, fetchai, geminiapi
 
@@ -175,7 +175,7 @@ Turning snapshots into spaces you can actually explore.
 
 A user wearing Snap Spectacles can point to steer a robot and gesture to operate its gripper.
 
-**How it used Snap:** Wingman uses Snap Spectacles for spatial mapping and hand tracking so the wearer can control a robot.
+**How it used Snap:** The project uses the Snap Lens Studio API to extract hand-tracking data and AR anchors.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpqQ) · Built with snap, fastapi, websocket
 
@@ -187,7 +187,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpq
 
 Welcome to the JARVIS for first responders.
 
-**How it used Snap:** The team built EYEdentity using a combination of advanced facial recognition and facial tracking algorithms and the new Snap Spectacles.
+**How it used Snap:** The team built EYEdentity with facial recognition and tracking algorithms and Snap Spectacles.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzRc) · Built with lens-studio, spectacles, face-recognition, flask
 
@@ -197,7 +197,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=iVBfLWnqzR
 
 FirefightAR: A Snap AR Lens app empowering firefighters with real-time hazard detection and navigation assistance, enhancing safety and decision-making in dangerous environments.
 
-**How it used Snap:** Firefighters can use the Snap AR's Spectacle to navigate safely and quickly, improving the chances of a successful mission while reducing the risk of injury.
+**How it used Snap:** The team developed FirefightAR using Lens Studio and Spectacles Interaction Kit for the AR interaction.
 
 [Code](https://github.com/Chanakya-TS/Firefight-AR) · [Demo video](https://www.youtube.com/watch?v=5kJbbtYJP7c) · Built with lensstudio, ar, javascript, python
 
@@ -207,7 +207,7 @@ FirefightAR: A Snap AR Lens app empowering firefighters with real-time hazard de
 
 Encouraging physical activity with an thrilling experience where individuals must collect pellets while escaping a persistent ghost.
 
-**How it used Snap:** The team built it in Snapchat's Lens Studio using JavaScript and TypeScript.
+**How it used Snap:** The team built the project in Snapchat's Lens Studio using JavaScript and TypeScript.
 
 No public code linked · Built with lens-studio, javascript, typescript
 
@@ -217,7 +217,7 @@ No public code linked · Built with lens-studio, javascript, typescript
 
 An augmented reality tool guides stroke survivors through physical therapy exercises.
 
-**How it used Snap:** The team built this app using the following technologies: Snap Inc.
+**How it used Snap:** The team used Lens Studio data for hitting speed and reaction time.
 
 [Code](https://github.com/ppilli1/RecovARy) · Built with lensstudio, snapincspectacles, fetch.ai, groq
 
@@ -227,7 +227,7 @@ An augmented reality tool guides stroke survivors through physical therapy exerc
 
 The AR app reinvents the classic shuttle run by having users chase randomly spawning stars in their surroundings.
 
-**How it used Snap:** Sponsor use not stated on Devpost
+**How it used Snap:** The team used Snapchat’s Lens Studio to design the AR environment and UI.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=fIQ6sltKv1w) · Built with lensstudio, javascript, snapchat, typescript
 
@@ -237,7 +237,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=fIQ6sltKv1
 
 AR Game created in Snapchat's Lens Studio 5 using Javascript, Typescript, and Github Copilot that aims to create a tower defense experience inside of someone's surroundings using Snapchat Spectacles.
 
-**How it used Snap:** The team created using Lens Studio 5, using scripts made with Typescript and Javascript.
+**How it used Snap:** The team used Lens Studio 5 and scripts made with TypeScript and JavaScript.
 
 [Code](https://github.com/wakens/spectacles-tower-defense) · [Demo video](https://www.youtube.com/watch?v=rfoBo7SyMh4) · Built with lens-studio, snapchat-spectacles, ar, genai
 
@@ -247,7 +247,7 @@ AR Game created in Snapchat's Lens Studio 5 using Javascript, Typescript, and Gi
 
 A treasure hunt uses Snap Spectacles to show clues and phone vibrations to guide players.
 
-**How it used Snap:** This game integrates the Spectacles gear and smartphones together by allowing users to leverage the gyroscopic, haptic, and tactile functionalities of phones to control or receive input about their AR environment.
+**How it used Snap:** The game integrates Spectacles and smartphones for haptic functionality.
 
 [Code](https://github.com/dawoon19/treasure-hunt-spectacles) · Built with lens-studio, spectacles, figma, github
 
@@ -257,7 +257,7 @@ A treasure hunt uses Snap Spectacles to show clues and phone vibrations to guide
 
 Gesture-based authentication in augmented and virtual reality to access unique IoT-based physical environment configuration and medical data collection linked to the user.
 
-**How it used Snap:** Snap Secure uses Snap AR Spectacles to authenticate users with a gesture, such as a finger tap.
+**How it used Snap:** The team developed the authentication system using Snap AR Spectacles with gesture detection.
 
 [Code](https://github.com/CoderOfPrograms/SnapSecureModelDemo) · [Demo video](https://www.youtube.com/watch?v=58kTAPzM5sQ) · Built with lensstudio, heroku, javascript, onnx
 

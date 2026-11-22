@@ -45,7 +45,7 @@ North Star that guides retailers to their best location.
 
 Revolutionizing commercial advertising one image at a time.
 
-**How it used GrowthFactor:** Sponsor use not stated on Devpost
+**How it used GrowthFactor:** The project uses GrowthFactor.AI’s dataset to identify streets within a 75-meter radius.
 
 [Code](https://github.com/shreeya-garg/StoreFrontVisibility) · [Demo video](https://www.youtube.com/watch?v=gYSyRGZpOw4) · Built with python
 

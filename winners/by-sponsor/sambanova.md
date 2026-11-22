@@ -33,7 +33,7 @@ Backtracc reminds you of forgotten valuables when you leave rideshare vehicles b
 
 Capture Ideas, Create Clarity, Powered by AI.
 
-**How it used SambaNova:** The backend is powered by FastAPI and crucially integrates with SambaNova's API, whose exceptional inference speed was vital for the real-time transcription feature.
+**How it used SambaNova:** The backend integrates with SambaNova's API for real-time transcription.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=f8wzQW5T_cQ) · Built with sambanova, databricks, fastapi, llama
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=f8wzQW5T_c
 
 Vestique, your AI wardrobe assistant, tracks your style and ensures no clothes go unworn. Smart alerts help you wear 40% more of your closet and save $1,200 yearly.
 
-**How it used SambaNova:** Sponsor use not stated on Devpost
+**How it used SambaNova:** The project uses SambaNova for identifying and classifying clothing items.
 
 [Code](https://github.com/rChwiecko/Vestique) · [Demo video](https://www.youtube.com/watch?v=ZASINIB-IOM) · Built with brevo, llama, opencv, sambdanova
 

@@ -66,7 +66,7 @@ No public code linked · Built with azure, cosmos-db, druid, node.js
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Nasdaq/Quandl Datasets · Kensho Data Usability Challenge
 - **How it used Kensho:** Sponsor use not stated on Devpost
-- **How it used Nasdaq:** Sponsor use not stated on Devpost
+- **How it used Nasdaq:** The team created a web app for NASDAQ financial data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -90,7 +90,7 @@ Pilot encourages individuals to fill out their mood tracker, and it helps them d
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** DRW: Best Data Visualization Hack · Rev.ai Speech API Challenge
 - **How it used DRW:** Sponsor use not stated on Devpost
-- **How it used Rev:** The team used Watson for sentiment analysis, Rev for speech-to-text, and Amadeus to identify sights and Mapbox and Wikipedia to display information about locations.
+- **How it used Rev:** The team used Rev for speech-to-text.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -119,7 +119,7 @@ An ethical marketplace for commute and transit data.
 - **Code:** [Source 1](https://github.com/bharatkashyap/argonaut-be)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Build the Financial Revolution on Algorand
-- **How it used Algorand:** The team used React.js to build the frontend, a Node.js/Express powered backend; Python to scrape through personal data dumps accessed via Google Takeout, and the Algorand JavaScript SDK to implement the blockchain-based transaction management system.
+- **How it used Algorand:** The team used the Algorand JavaScript SDK for the blockchain-based transaction management system.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -142,7 +142,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=yy6YSp-quu
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yy6YSp-quu4)
 - **All prizes at this hackathon (1):** Build the Financial Revolution on Algorand
-- **How it used Algorand:** The team completes the payment using the blockchain set up with Algorand API.
+- **How it used Algorand:** The project completes payments using a blockchain set up with the Algorand API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -169,7 +169,7 @@ Choose between a private insurance system, a national model, or something else e
 - **Code:** [Source 1](https://github.com/lyronctk/DHEA)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Amadeus APIs
-- **How it used Amadeus:** Sponsor use not stated on Devpost
+- **How it used Amadeus:** The team used the Amadeus API for travel information.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -196,7 +196,7 @@ No public code linked · Built with amazon-web-services, amazon-lex, case.law, g
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AWS AI / ML Services
-- **How it used Amazon Web Services:** It is a web platform with a built in AWS chatbot that utilizes numerous legal APIs to effectively search previous cases based on a number of descriptors.
+- **How it used Amazon Web Services:** The team built its core chatbot on AWS Lex.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -219,7 +219,7 @@ A website that creates customized tests based on students' notes.
 - **Code:** [Source 1](https://github.com/juliustao/text2test-aws) · [Source 2](https://github.com/nampham148/text2test-server)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AWS AI / ML Services
-- **How it used Amazon Web Services:** The team used AWS APIs, specifically Lambda, Comprehend, Gateway.
+- **How it used Amazon Web Services:** The team used Lambda, Comprehend, and Gateway from AWS.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -273,7 +273,7 @@ No public code linked · Built with docusign, azure, css, django
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of the DocuSign Agreement Cloud APIs
-- **How it used DocuSign:** AgreeAble integrates with with the DocuSign Click API to sign agreements quickly and securely.
+- **How it used DocuSign:** AgreeAble uses the DocuSign Click API to sign agreements.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -342,7 +342,7 @@ Using Machine Learning to process a person's speech and determine if they are in
 - **Code:** [Source 1](https://github.com/johancc/LGTM)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of the DocuSign Agreement Cloud APIs
-- **How it used DocuSign:** The prototype is fully working and designed for future growth, with the integration of DocuSign APIs in order to further collect user data and improve upon the models.
+- **DocuSign:** Built with DocuSign (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -365,7 +365,7 @@ Also won this track: [Pilot](#project-pilot-81xkaf) (listed above)
 
 SafeLink is an app for drivers and monitors.
 
-No public code linked · Built with ford, amazon-cognito, amazon-web-services, android
+No public code linked · Built with ford, openxc, amazon-cognito, amazon-web-services
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -375,7 +375,7 @@ No public code linked · Built with ford, amazon-cognito, amazon-web-services, a
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Ford Car Mobility Challenge Hack
-- **How it used Ford:** Sponsor use not stated on Devpost
+- **Ford:** Built with openxc (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -402,7 +402,7 @@ Exit the echo chamber with the help of AI.
 - **Code:** [Source 1](https://github.com/arytonhoi/hackmit2019)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Google Cloud
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The project uses Google’s NLP API to extract keywords and determine an article’s viewpoint.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -425,7 +425,7 @@ No public code linked · Built with google-cloud, tensorflow
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Google Cloud
-- **How it used Google:** The team used Google Cloud Platform to train the model.
+- **How it used Google:** The team used Google Cloud Platform to train its model.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -571,7 +571,7 @@ Your future for knowing what's in your water.
 - **Code:** [Source 1](https://github.com/maywu89/Water-Crusader)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** 2nd Place Prize · Best IBM Disaster Preparedness &amp; Relief Solutions · Track Prizes
-- **How it used IBM:** Data Analytics: Using IBM's Watson Studio and AI development tools, data from government sources were cleaned and used to model lead poisoning risk.
+- **How it used IBM:** The team used IBM’s Watson Studio and AI development tools to clean government data and model lead poisoning risk.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -625,7 +625,7 @@ The application uses Optical Character Recognition (OCR) to capture items and th
 - **Code:** [Source 1](https://github.com/avgupta456/HackMIT-2019)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Instabase API · Track Prizes
-- **How it used Instabase:** The team uses AWS Textract and Instabase API for OCR to analyze the words and prices in receipts.
+- **How it used Instabase:** The project uses the Instabase API for OCR to analyze words and prices in receipts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -735,7 +735,7 @@ No public code linked · Built with azure, amazon-dynamodb, amazon-web-services,
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Microsoft Azure Champ Prize - Hack for Good
-- **How it used Microsoft:** Integrating many different complex technologies together including 4 AWS Services, Microsoft's Computer Vision Azure API, and a Google Chrome Extension.
+- **How it used Microsoft:** The project uses Azure’s Computer Vision API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -777,7 +777,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx
 
 Buying a new house but can't decide on a neighborhood? Check out HomeUp for data and interactive charts on house prices, rent, and more.
 
-[Code](https://github.com/siuryan/homeup) · Built with flask, python, quandl
+[Code](https://github.com/siuryan/homeup) · Built with quandl, flask, python
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -787,7 +787,7 @@ Buying a new house but can't decide on a neighborhood? Check out HomeUp for data
 - **Code:** [Source 1](https://github.com/siuryan/homeup)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Nasdaq/Quandl Datasets
-- **How it used Nasdaq:** The team sought to use real estate data made available through Nasdaq datasets to make this decision easier and better informed.
+- **Nasdaq:** Built with Quandl (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -847,7 +847,7 @@ No public code linked · Built with blockchain, html5, node.js
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Product or Idea that Leverages Sia Storage Platform
-- **How it used Sia:** On the reverse side, the file needs to be queried from Sia to the web server, then downloaded to the client.
+- **How it used Sia:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

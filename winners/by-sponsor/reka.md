@@ -43,7 +43,7 @@ Mantis provides real time threat detection to help retail businesses identify an
 
 Imagine an ad network that actually respects your privacy.
 
-**How it used Reka:** The team used Google Gemini and Reka to extract key features from image and video ads, respectively.
+**How it used Reka:** The team used Reka to extract key features from video ads.
 
 [Code](https://github.com/ACMCMC/privads) · [Demo video](https://www.loom.com/share/e830ebef76b2495dbfd9d899350b7d61) · Built with reka, agents, anthropic, brightdata
 

@@ -186,7 +186,7 @@ Boosting confidence in the gym with proper form.
 - **Code:** [Source 1](https://github.com/danielachacon/SquatSpot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2_E6xy6R6-I)
 - **All prizes at this hackathon (1):** MLH - Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** Sponsor use not stated on Devpost
+- **How it used Cloudflare:** The project uses Cloudflare Workers AI for AI analysis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -213,7 +213,7 @@ Revolutionizing commercial advertising one image at a time.
 - **Code:** [Source 1](https://github.com/shreeya-garg/StoreFrontVisibility)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gYSyRGZpOw4)
 - **All prizes at this hackathon (1):** GrowthFactor AI Impressions
-- **How it used GrowthFactor:** Sponsor use not stated on Devpost
+- **How it used GrowthFactor:** The project uses GrowthFactor.AI’s dataset to identify streets within a 75-meter radius.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -286,7 +286,7 @@ Countless public health datasets have been taken down. Vesalius scrubs the Inter
 - **Code:** [Source 1](https://github.com/mikeiioo/Vesalius)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DN6NTqMk2cE)
 - **All prizes at this hackathon (1):** MLH - Best Use of MongoDB Atlas
-- **How it used MongoDB:** Sponsor use not stated on Devpost
+- **How it used MongoDB:** The project uses MongoDB Atlas vector search to retrieve the 100 most relevant datasets for a query.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -340,7 +340,7 @@ Instantly distinguish genuine fouls from flops with video analysis through user 
 - **Code:** [Source 1](https://github.com/Arnav2610/streamlit_dive_detector)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Q0bEOvrx4BA)
 - **All prizes at this hackathon (1):** MLH - Best Use of Streamlit
-- **How it used Streamlit:** Sponsor use not stated on Devpost
+- **Streamlit:** Built with streamlit (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

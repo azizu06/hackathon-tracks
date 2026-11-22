@@ -23,7 +23,7 @@
 
 Pilot encourages individuals to fill out their mood tracker, and it helps them do so in an efficient, natural, and engaging way.
 
-**How it used Rev:** The team used Watson for sentiment analysis, Rev for speech-to-text, and Amadeus to identify sights and Mapbox and Wikipedia to display information about locations.
+**How it used Rev:** The team used Rev for speech-to-text.
 
 [Code](https://github.com/the-flying-circus/hackmit-2019) · Built with rev.ai, amadeus, css, django
 
@@ -35,7 +35,7 @@ Pilot encourages individuals to fill out their mood tracker, and it helps them d
 
 Automatic video simplification for your busy life.
 
-**How it used Rev:** Sponsor use not stated on Devpost
+**How it used Rev:** Scribr first transcribes the video using the RevSpeech API.
 
 No public code linked · Built with rev, bash, css3, ffmpeg
 

@@ -23,7 +23,7 @@
 
 From script to scene in minutes.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project saves outputs to a user library with Firebase cloud sync.
 
 [Code](https://github.com/zlyuan9/ani.mate) · [Demo video](https://www.youtube.com/watch?v=hPwpqFpdsEk) · Built with firebase, gemini, auth0, claude
 
@@ -33,7 +33,7 @@ From script to scene in minutes.
 
 Explore the world through an cinematic AI-guided journey — just speak, and the world comes alive.
 
-**How it used Google:** The map layer uses the Google Maps JavaScript API 3D (alpha) with programmatic flyCameraTo and flyCameraAround to create cinematic arrivals at each landmark.
+**How it used Google:** The real-time voice agent narrates the journey, explains landmarks, and responds to questions through the Gemini Live API.
 
 [Code](https://github.com/prith27/Ayana) · [Demo video](https://www.youtube.com/watch?v=4lwFH0fWW0E) · Built with gemini-2.5-flash-(itinerary-generation), gemini-live-api-/-gemini-2.5-flash-native-audio-preview-(real-time-voice-agent), google-agent-development-kit-(adk), google-maps-elevationservice
 
@@ -53,7 +53,7 @@ Buy! is an AI agent marketplace that sells your stuff for you.
 
 Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay aware, and handle what happens next.
 
-**How it used Google:** The team uses the Gemini API to give Clarity multimodal AI capabilities.
+**How it used Google:** Gemini works with visual context from the camera and natural-language input so users can interact through conversation.
 
 [Code](https://github.com/abhiwasabi/Clarity) · [Demo video](https://vimeo.com/1230684959) · Built with google-gemini, google-genai, google-live-api, elevenlabs
 
@@ -63,7 +63,7 @@ Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay a
 
 A physical creative harness for agentic video creation.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**Google:** Built with gemini (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=IDO7cJnBtp0) · Built with gemini, gemini-live, node.js, openai-codex
 
@@ -73,7 +73,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=IDO7cJnBtp
 
 This is Degrees, a social app that turns one-off interactions into continued relationships. The only app designed to give you continued real world interactions with a growing network of friends.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** Gemini with Google Maps grounding picks a venue that fits everyone's budget, interests, and distance.
 
 [Code](https://github.com/prbhagam/degrees) · [Demo video](https://www.youtube.com/watch?v=icFwk9vNgV4) · Built with gemini-embeddings, google-gemini, google-maps, google-places
 
@@ -83,7 +83,7 @@ This is Degrees, a social app that turns one-off interactions into continued rel
 
 An AI copilot for dispatchers that calmly guides them through urgent situations, reduces stress, and helps overwhelmed responders and dispatchers act faster.
 
-**How it used Google:** Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface.
+**How it used Google:** Gemini reasons over transcripts to track structured information for the dispatcher interface.
 
 [Code](https://github.com/declanhogg100/dispatchiq) · [Demo video](https://www.youtube.com/watch?v=phR1pTLS3JY) · Built with gemini, deepgram, next.js, openai-realtime-api
 
@@ -93,7 +93,7 @@ An AI copilot for dispatchers that calmly guides them through urgent situations,
 
 Left the doctor confused or worried you forgot something? Your grandparents probably have.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses Firebase Auth and Firestore for user data, notes, tasks, sessions, appointments, and document summaries.
 
 [Code](https://github.com/smallboar/HelloCare) · [Demo video](https://www.youtube.com/watch?v=45H1t7bpw9U) · Built with firebase, assemblyai, claude, nextjs
 
@@ -103,7 +103,7 @@ Left the doctor confused or worried you forgot something? Your grandparents prob
 
 A hands-free recipe player lets families cook along to recordings made by their relatives.
 
-**How it used Google:** Uploads and storage: A small upload signer on Google Cloud Run gives the phone a safe one-time link to upload each video to Google Cloud Storage.
+**How it used Google:** Gemini watches the video, notes what the cook said and did with timestamps, then orders and shortens the steps.
 
 [Code](https://github.com/calebwang26/homecookd) · [Demo video](https://www.youtube.com/watch?v=8Ibl2QnL9dw) · Built with gemini, google-cloud, google-cloud-run, google-compute-engine
 
@@ -113,7 +113,7 @@ A hands-free recipe player lets families cook along to recordings made by their 
 
 An adaptive browser overlay extension that enables webpage customization and interaction through persistent DOM transformations, presets, and voice controls.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** IBrowse uses a Chrome extension as its frontend.
 
 [Code](https://github.com/aadhirsandeep/hackduke26-I-Browse) · [Demo video](https://www.youtube.com/watch?v=zA_hBq063JM) · Built with gemini, auth0, elevenlabs, fastapi
 
@@ -123,7 +123,7 @@ An adaptive browser overlay extension that enables webpage customization and int
 
 New city, used car, nobody to ask? Junction finds owners who’ve had your problem: how it was fixed, what it cost, who fixed it.
 
-**How it used Google:** The team designed Junction around a multi-agent architecture using Google Agent Development Kit (ADK) and Gemini.
+**How it used Google:** Junction uses Google Agent Development Kit and Gemini for its multi-agent architecture.
 
 [Code](https://github.com/madmax-10/junction) · [Demo video](https://www.youtube.com/watch?v=kixGH1NAsAo) · Built with gemini, google-adk, django, javascript
 
@@ -133,7 +133,7 @@ New city, used car, nobody to ask? Junction finds owners who’ve had your probl
 
 A voice tool suggests words to stroke survivors based on how they describe the word they are trying to recall.
 
-**How it used Google:** Backend &amp; Database: Firebase Authentication for secure user management and Firestore for real-time session data synchronization.
+**How it used Google:** The project uses Firebase Authentication for user management and Firestore for real-time session data synchronization.
 
 [Code](https://github.com/Bardia-Masudy/nwHacks-listen.me) · Built with firebase, google-gemini-live-api, fastapi, indexeddb
 
@@ -143,7 +143,7 @@ A voice tool suggests words to stroke survivors based on how they describe the w
 
 A wearable combines spoken assistance with spatial audio to help people with vision loss navigate.
 
-**How it used Google:** Gemini 3.8 Flash handles real-time object detection on camera frames, understanding spoken requests, and function calling: each Meridies feature is a tool Meri can call, so one sentence moves the user between features.
+**How it used Google:** Gemini 2.5 Pro TTS gives Meri its voice.
 
 [Code](https://github.com/Aliceeia/Meridies) · [Demo video](https://www.youtube.com/watch?v=eoBT5CGjsPA) · Built with gemini, api, costar, css
 
@@ -153,7 +153,7 @@ A wearable combines spoken assistance with spatial audio to help people with vis
 
 By mapping the user's eye movements to an on-screen cursor, individuals can navigate an anticipatory user interface to construct sentences.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses Gemma4 for suggested medical phrases.
 
 [Code](https://github.com/chrisconnell7/My-Voice-LA-HACKS) · [Demo video](https://www.youtube.com/watch?v=IZJ1qQYpXeE) · Built with gemma, css, elevenlabs, html
 
@@ -163,7 +163,7 @@ By mapping the user's eye movements to an on-screen cursor, individuals can navi
 
 An accessible comic reader plays panels aloud and lets readers advance them with facial input.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** Google Gemini reads the page to build a cast list and writes scripts for each panel.
 
 [Code](https://github.com/PinedaMiguel/panel-reader) · [Demo video](https://www.youtube.com/watch?v=CLpOsb9VDGU) · Built with google-gemini, caddy, docker, edge-tts
 
@@ -173,7 +173,7 @@ An accessible comic reader plays panels aloud and lets readers advance them with
 
 An AI-powered robotic hand controlled by brain-to-muscle intent signals, adapting therapy in real time across stroke, Parkinson’s, and three more conditions for $30.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** MediaPipe tracks the patient’s healthy hand with a webcam and extracts per-finger curl values.
 
 [Code](https://github.com/HassanKhan20/nuero-grip) · [Demo video](https://vimeo.com/1244909388) · Built with google-gemini, accelerometer, arduino, c++
 
@@ -183,7 +183,7 @@ An AI-powered robotic hand controlled by brain-to-muscle intent signals, adaptin
 
 A filmmaker can turn a screenplay into video previews and storyboard frames.
 
-**How it used Google:** The team uses the Gemini API to segment the script into narrative beats.
+**How it used Google:** The project uses the Gemini API to segment the script into narrative beats.
 
 [Code](https://github.com/akabandaru/Playwright) · [Demo video](https://www.youtube.com/watch?v=W5MAby_ONxk) · Built with gemini, google, colab, databricks
 
@@ -193,7 +193,7 @@ A filmmaker can turn a screenplay into video previews and storyboard frames.
 
 An agentic AI system that fights back for renters—scouting real listings, exposing hidden lease risks, revealing true costs, and negotiating rent so tenants stop guessing and start winning.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses Google Gemini 2.0 Flash for reasoning.
 
 [Code](https://github.com/optimusbuilder/Rent-Swarm) · [Demo video](https://www.youtube.com/watch?v=xCzTYc7mIIg) · Built with gemini, amazon-web-services, browserbase, langchain
 
@@ -203,7 +203,7 @@ An agentic AI system that fights back for renters—scouting real listings, expo
 
 Finding you the prompt you deserve.
 
-**How it used Google:** If Gemini is unavailable, the embedding ranking is used, and if the server is unreachable, the extension falls back to a keyword match in the browser.
+**How it used Google:** Gemini picks an icon for each new collection from its name.
 
 No public code linked · Built with gemini, google-oauth, chrome, fastapi
 
@@ -215,7 +215,7 @@ No public code linked · Built with gemini, google-oauth, chrome, fastapi
 
 Agentic AI-Driven Financial Advisor for UCF Students.
 
-**How it used Google:** The AI features included RAG through VertexAI, Google's Embedding Models, Gemini API's structured output, Gemini Computer Use, and Google ADK.
+**How it used Google:** The project uses Vertex AI for RAG.
 
 [Code](https://github.com/Adammouedden/KnightSource) · [Demo video](https://www.youtube.com/watch?v=UHDxC3MaZVk) · Built with gemini, geminicomputeruse, fastapi, googleadk
 
@@ -225,7 +225,7 @@ Agentic AI-Driven Financial Advisor for UCF Students.
 
 A Google Chrome extension that elevates the limitations of people with disabilities and makes web pages accessible to a wider audience.
 
-**How it used Google:** This includes automatic Google Form detection, which triggers a script that seamlessly integrates the Speech-to-Instruction feature with Google Forms.
+**How it used Google:** The project streams recorded audio to the agent using ADK’s InMemoryRunner and LiveRequestQueue.
 
 [Code](https://github.com/ibraouh/a11y-tools) · [Demo video](https://www.youtube.com/watch?v=evGVk7XjDH4) · Built with gemini, google-cloud-ai, agent-based, css
 
@@ -235,7 +235,7 @@ A Google Chrome extension that elevates the limitations of people with disabilit
 
 Giving AI coding agents the power to see by letting them visually explore the websites they build, giving them context on how code changes affect web behavior, and iterate intelligently.
 
-**How it used Google:** So far, Ayn can take a developer’s natural-language request, parse it, and autonomously explore a live web app using the Gemini 2.5 Computer Use API.
+**How it used Google:** Ayn uses the Gemini 2.5 Computer Use API to explore a live web app.
 
 [Code](https://github.com/aabel4206/CodeUse) · [Demo video](https://www.youtube.com/watch?v=pLatsP3nFF0) · Built with fastapi, gemeniapi, gemenicomputeruse, openrouter
 
@@ -245,7 +245,7 @@ Giving AI coding agents the power to see by letting them visually explore the we
 
 Beacon is a smart navigation app that helps users plan safe routes by having readily available safety features, making them feel that someone is always by their side.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** Firestore stores user information and contacts, and Realtime Database handles immediately needed data such as battery level.
 
 [Code](https://github.com/Bashguy/Beacon) · [Demo video](https://vimeo.com/1123425305) · Built with firebase, google-cloud, google-directions, google-maps
 
@@ -255,7 +255,7 @@ Beacon is a smart navigation app that helps users plan safe routes by having rea
 
 AI-powered browser extension that protects infant brain development by detecting, modifying and filtering harmful digital content in real time across different video platforms like YouTube, etc.
 
-**How it used Google:** The prototype was built in Python and JavaScript, connected with a Django backend, and enhanced with prompt engineering and Google ADK multimodal agents for optimized video analysis.
+**How it used Google:** The project used the Google Agent Development Kit to integrate APIs for video frame analysis.
 
 [Code](https://github.com/abbasidaniyal/BrainSafe) · [Demo video](https://www.youtube.com/watch?v=aABEnFQ2MPE) · Built with gcp, gemini, adk, django
 
@@ -265,7 +265,7 @@ AI-powered browser extension that protects infant brain development by detecting
 
 Burnout Buddy watches your steps, commits, and eye bags to decide if you need a nap, a meme, or to touch grass — all in the name of not losing your mind while coding.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The Flask API serves quotes via the Google Gemini API.
 
 [Code](https://github.com/CSin007/Bitcamp2025) · Built with gemini, chart.js, conda, cors
 
@@ -275,7 +275,7 @@ Burnout Buddy watches your steps, commits, and eye bags to decide if you need a 
 
 CarbonSight is a carbon-aware optimization framework for generative AI:.
 
-**How it used Google:** The team built a working agentic framework that routes queries across Gemini models dynamically.
+**How it used Google:** The project uses Gemini embeddings to detect similar prompts and avoid redundant compute.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZU) · Built with gemini, adk, fastapi, node.js
 
@@ -285,7 +285,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZ
 
 A robot uses what it sees to attempt everyday tasks without training separately for each task.
 
-**How it used Google:** The robot processes multimodal inputs through Gemini's API, accepting both voice commands and visual information from its built-in RGB camera and microphone.
+**How it used Google:** The robot uses the Gemini API to process voice commands and input from its camera and microphone.
 
 [Code](https://github.com/mahanthesh0r/Cena_Humanoid_Robot) · [Demo video](https://www.youtube.com/watch?v=r0KGeCe9QDk) · Built with c++, javascript, python
 
@@ -295,7 +295,7 @@ A robot uses what it sees to attempt everyday tasks without training separately 
 
 The team spent a long time brainstorming project ideas and could not find one that met the expectations in terms of technicality and creativity.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses Gemini in a remote shell environment that verified users can connect to.
 
 [Code](https://github.com/Cryplo/MHacks25) · [Demo video](https://vimeo.com/1122664326) · Built with gemini, bash, electron, fastapi
 
@@ -305,7 +305,7 @@ The team spent a long time brainstorming project ideas and could not find one th
 
 Live Space-to-Sound (or any video): Pick an ISS/telescope livestream or paste a YouTube link.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** Gemini uses vision and text prompts to produce Lyria directives for BPM, mood, timbre, and motion.
 
 [Code](https://github.com/emw8105/hacktx-25) · [Demo video](https://www.youtube.com/watch?v=cLJeS1mnDq8) · Built with gemini, nextjs, python
 
@@ -315,7 +315,7 @@ Live Space-to-Sound (or any video): Pick an ISS/telescope livestream or paste a 
 
 Embers may mark the end of a fire, but with us, it's just the beginning.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** Google Gemini combines images, reasoning, and market data to estimate replacement values.
 
 [Code](https://github.com/twistyyb/insurefire) · [Demo video](https://www.youtube.com/watch?v=t9eNwyadORQ) · Built with gemini, nextjs, python, restapi
 
@@ -325,7 +325,7 @@ Embers may mark the end of a fire, but with us, it's just the beginning.
 
 AI Agents for complex human disaster dynamics simulation.
 
-**How it used Google:** Dynamic, AI-Powered Scenarios Generative Events: Utilizes Google Gemini to generate realistic disaster scenarios and narrative injects, creating a unique exercise every time.
+**How it used Google:** Google Gemini generates disaster scenarios and narrative events for the exercise.
 
 [Code](https://github.com/myr124/emergent) · [Demo video](https://www.youtube.com/watch?v=LQdMwBeeswU) · Built with gemini, google-adk, nextjs, python
 
@@ -335,7 +335,7 @@ AI Agents for complex human disaster dynamics simulation.
 
 Breaking language barriers, one word at a time.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses Chrome’s tabCapture API to grab audio from the active tab.
 
 [Code](https://github.com/EzSpeak-development/EzSpeak-frontend) · [Demo video](https://www.youtube.com/watch?v=0lh1fenJgQw) · Built with azure, azurecognitiveservices, chrome, chromeextensionapi
 
@@ -345,7 +345,7 @@ Breaking language barriers, one word at a time.
 
 AI-powered auditor that lives at the top of your screen. Instantly scan files for private info, secrets, and risks the moment you drop them.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses Gemini for multimodal text extraction.
 
 [Code](https://github.com/Evandabest/Hackharvard2025) · [Demo video](https://www.youtube.com/watch?v=WgSNcEAPhr8) · Built with gemini-api, cloudflare, electron, javascript
 
@@ -355,7 +355,7 @@ AI-powered auditor that lives at the top of your screen. Instantly scan files fo
 
 See the world. Speak its stories.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses Google Maps for reverse geocoding.
 
 [Code](https://github.com/skatari172/Hermes) · [Demo video](https://www.youtube.com/watch?v=DD6ZQVk9QJE) · Built with gemini-vision, google-adk, fastapi, firestore
 
@@ -365,7 +365,7 @@ See the world. Speak its stories.
 
 AI powered ergonomic for healthier minds and bodies.
 
-**How it used Google:** Leverages Google ADK to process raw posture and distraction data into personalized health scores, insights, and tips.
+**How it used Google:** The project uses Google ADK to process raw posture and distraction data into health scores, insights, and tips.
 
 [Code](https://github.com/abrown33914/iMPOSTURE) · [Demo video](https://www.youtube.com/watch?v=MXY6PnkB3dA) · Built with google-adk, google-cloud, mediapipe, python
 
@@ -375,7 +375,7 @@ AI powered ergonomic for healthier minds and bodies.
 
 Jesture is a magical gesture-based drawing experience where your hands become the paintbrush! Wave your arms about and watch your beautiful (or hilariously terrible) art manifest on your screen.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The team uses Google GenAI to generate guesses of user drawings.
 
 [Code](https://github.com/jinson-j/jesture) · [Demo video](https://www.youtube.com/watch?v=K0joSJFCJzc) · Built with gemini, google, google-genai, mediapipe
 
@@ -385,7 +385,7 @@ Jesture is a magical gesture-based drawing experience where your hands become th
 
 Automated alumni outreach to land the next awesome internship.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses Gemini and OpenRouter for email templates and replies.
 
 [Code](https://github.com/pgunhal/kairos) · [Demo video](https://www.youtube.com/watch?v=AGEZTOmoB64) · Built with gemini, express.js, fastapi, linkd
 
@@ -395,7 +395,7 @@ Automated alumni outreach to land the next awesome internship.
 
 A little pixel companion who studies with you, works with you, rests with you, and helps you take care of your space.
 
-**How it used Google:** Additionally the mobile app uses Gemini to process data to create helpful insights for the user.
+**How it used Google:** The mobile app uses Gemini to process data and create insights for the user.
 
 [Code](https://github.com/DuckyDaBucky/Kori.Study) · [Demo video](https://www.youtube.com/watch?v=K17fqD58JhA) · Built with 3d, ai-vision, audio-analysis, axios
 
@@ -405,7 +405,7 @@ A little pixel companion who studies with you, works with you, rests with you, a
 
 A language tutor adapts practice activities to the learner.
 
-**How it used Google:** A Gemini AI-powered, customizable, language learning platform that balances the importance of language immersion with having a strong vocabulary to provide context for realistic conversations.
+**How it used Google:** Gemini powers the language-learning platform.
 
 [Code](https://github.com/sebjohannessen/lingobuddy) · [Demo video](https://www.youtube.com/watch?v=-gNoVWcP2x8) · Built with google-gemini, fastapi, multimodal, next.js
 
@@ -415,7 +415,7 @@ A language tutor adapts practice activities to the learner.
 
 A management training tool gives new leaders interactive practice scenarios and feedback.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The Mastra backend connects to Gemini APIs for sentiment analysis.
 
 [Code](https://github.com/m3ru/Ming) · [Demo video](https://www.youtube.com/watch?v=iLwUcxP6YE4) · Built with gemini, google-natural-language-processing-api, ai-native, cedaros
 
@@ -425,7 +425,7 @@ A management training tool gives new leaders interactive practice scenarios and 
 
 Remixify is an innovative platform that transforms traditional advertising into an interactive, fun, community-driven experience.
 
-**How it used Google:** Remixify uses Google's Gemini API to edit images.
+**How it used Google:** Gemini automatically labels and tags the company in an uploaded image.
 
 [Code](https://github.com/nidhigaonkar/calhacks25) · [Demo video](https://www.youtube.com/watch?v=3p9rziCgl7s) · Built with gemini, claude, css, javascript
 
@@ -435,7 +435,7 @@ Remixify is an innovative platform that transforms traditional advertising into 
 
 Text-to-speech is a near-essential tool for the legally blind; However, normal things like signs, classroom boards, etc., do not have this tool. SightSpeech aims to help solve this issue.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses the Gemini API to cross-check and improve word detection when OCR misses details.
 
 [Code](https://github.com/groffbo/sight-to-speech) · [Demo video](https://www.youtube.com/watch?v=LW55VXFaXiE) · Built with gemini-api, ai, easyocr, flask
 
@@ -445,7 +445,7 @@ Text-to-speech is a near-essential tool for the legally blind; However, normal t
 
 Transforming system design interviews from holistic, expensive evaluations into consistent, automated assessments.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project sends the transcript, diagram, and rubric to Gemini at the end of the interview.
 
 [Code](https://github.com/ethan-dean/sherm-team-6) · [Demo video](https://www.youtube.com/watch?v=IMPi_oKzPc8) · Built with gemini, elevenlabs, next, postgresql
 
@@ -455,7 +455,7 @@ Transforming system design interviews from holistic, expensive evaluations into 
 
 Tyodor is a 10-year-old AI that students teach to, reinforcing learning while giving teachers real-time insights, powered by Google Gemini API for interactive learning.
 
-**How it used Google:** The team integrated Google Gemini AI via its OpenAI-compatible interface to power the AI learning assistant, with sophisticated prompts and NLP capabilities to ensure context-aware student interactions.
+**How it used Google:** Google Gemini powers the learning assistant via its OpenAI-compatible interface.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-lA) · Built with css, flask, googleai, html
 
@@ -465,7 +465,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=55OuqH7E-l
 
 VibeMovie is an AI-native video editor that turns natural language into a rendered video.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The Google Gemini API translates natural-language prompts into actions.
 
 [Code](https://github.com/EvanJYHe/vibe-movie) · [Demo video](https://www.youtube.com/watch?v=CYJZUQVHnmU) · Built with gemini, docker, express.js, javascript
 
@@ -475,7 +475,7 @@ VibeMovie is an AI-native video editor that turns natural language into a render
 
 The team describes the project as “Speak worlds into reality”.
 
-**How it used Google:** The team then embedded it all using OpenAI's embedding models to a RAG database using ChromaDB to make Gemini even more powerful.
+**How it used Google:** Gemini generates GLSL code from a speech-to-text prompt.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=HXS_7HzJmYo) · Built with gemini, google-gemini, google-web-speech-api, glsl
 
@@ -485,7 +485,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=HXS_7HzJmY
 
 A nursing documentation tool turns captured conversations into structured notes.
 
-**How it used Google:** The team integrated Deepgram, Gemini 2.0, Perplexity, and Mistral AI to process medical documentation.
+**How it used Google:** Gemini 2.0 Flash identifies details about the patient and room to enhance the notes.
 
 [Code](https://github.com/bencullenn/wing-note) · [Demo video](https://www.youtube.com/watch?v=TX3a1ze3Uwk) · Built with gemini, arduino-nano, deepgram, li-po-battery
 
@@ -507,7 +507,7 @@ Learn ASL in AR through Computer Vision and Hand Tracking.
 
 Atom Suika is an innovative merge dropper chemistry learning experience. It uses an AI backend to power the NPC agents in the game and Mongo databases to store infinite amounts of chemical combos.
 
-**How it used Google:** The team built the backend using Google Breadboard, Node.JS, and MongoDB.
+**How it used Google:** The team used Google Breadboard in its backend.
 
 [Code](https://github.com/evelynpa1/AtomSeiko) · Built with breadboard, mongodb, node.js, unity
 
@@ -527,7 +527,7 @@ Real-time computer vision software with fatigue detection system to improve acce
 
 Guardian Angel, always by your side.
 
-**How it used Google:** The team integrated AI technologies, including Google Gemini for voice transcription and Deepgram for audio processing, which enhances the app’s ability to communicate effectively with dispatch services.
+**How it used Google:** The project uses Google Gemini for voice transcription.
 
 [Code](https://github.com/ArianaJohnson/GuardianAngel_calhacks_2024) · Built with google-gemini, deepgram, expo.io, fastapi
 
@@ -537,7 +537,7 @@ Guardian Angel, always by your side.
 
 The doctor can view this before a patient visit and gain more information to better and more efficiently help the patient.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The team used Google AI Breadboard to create a system of three interacting Gemini 1.5 Flash models, each tailored to a specific role.
 
 [Code](https://github.com/qwopp/healthcare-helper) · [Demo video](https://www.youtube.com/watch?v=JMK3KGh9Wr8) · Built with google-ai-breadboard, cartesia-sonic, flask, html
 
@@ -547,7 +547,7 @@ The doctor can view this before a patient visit and gain more information to bet
 
 Democratizing pro-level Poker play in real-time with computer vision.
 
-**How it used Google:** Integrating Google Breadboard and computer vision from a live video feed allows the AI to continuously update itself with the most accurate and relevant data.
+**How it used Google:** The team integrated Google AI Breadboard for assistant feedback, gameplay highlights, and strategic recommendations.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=RsqhOLFsGEw) · Built with gemini, google-breadboard, async-storage, endpoint-api
 
@@ -557,7 +557,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=RsqhOLFsGE
 
 ReadEasy: An AI-powered Google Docs add-on that transforms documents into accessible formats, ensuring readability for screen readers and users with visual impairments.
 
-**How it used Google:** ReadEasy is an AI-powered Google Docs add-on that automatically reformats text, optimizes layouts, and ensures documents are screen-reader-friendly.
+**How it used Google:** ReadEasy uses Google Apps Script to integrate with Google Docs.
 
 [Code](https://github.com/byrencheema/ReadEasy) · [Demo video](https://www.youtube.com/watch?v=wyKA449dB8w) · Built with google-apps-script, css, html, javascript
 
@@ -567,7 +567,7 @@ ReadEasy: An AI-powered Google Docs add-on that transforms documents into access
 
 A kitchen assistant suggests recipes that use available ingredients before they go to waste.
 
-**How it used Google:** The team used Google Gemini AI for image recognition to identify ingredients from photos. and then, to come up with creative meal ideas.
+**How it used Google:** Google Gemini identifies ingredients from photos.
 
 [Code](https://github.com/sherwinvishesh/Refrigerator-Ramsay) · [Demo video](https://www.youtube.com/watch?v=bNv-EJtd40s) · Built with gemini-ai, fastapi, hume-evi, react
 
@@ -577,7 +577,7 @@ A kitchen assistant suggests recipes that use available ingredients before they 
 
 An interactive story gives schoolchildren branching choices while they practice English.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses Firebase for auth, functions, storage, and analytics.
 
 [Code](https://github.com/catfeeshing/storyscape) · Built with firebase, gemini, css, github
 
@@ -587,7 +587,7 @@ An interactive story gives schoolchildren branching choices while they practice 
 
 An accessible white-boarding app to voice your ideas into existence.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The team generated Mermaid markup for graphs using Google Gemini.
 
 [Code](https://github.com/DVidal1205/voiceboard) · Built with gemini, google, next, react
 
@@ -599,7 +599,7 @@ An accessible white-boarding app to voice your ideas into existence.
 
 Revolutionizing education, orientations, and the remote college experience for the digital future.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The team deployed its web app on Google Cloud.
 
 [Code](https://github.com/cindyxu20/hackathon2020) · [Demo video](https://www.youtube.com/watch?v=uE2RPC_NKzs) · Built with google-cloud, css, git, github
 
@@ -611,7 +611,7 @@ Revolutionizing education, orientations, and the remote college experience for t
 
 Exit the echo chamber with the help of AI.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The project uses Google’s NLP API to extract keywords and determine an article’s viewpoint.
 
 [Code](https://github.com/arytonhoi/hackmit2019) · Built with google-cloud, css, html, natural-language-processing
 
@@ -621,7 +621,7 @@ Exit the echo chamber with the help of AI.
 
 Reinventing a touch keyboard with machine learning.
 
-**How it used Google:** The team used Google Cloud Platform to train the model.
+**How it used Google:** The team used Google Cloud Platform to train its model.
 
 No public code linked · Built with google-cloud, tensorflow
 
@@ -643,7 +643,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=M4C3eRrB2W
 
 ViGCam spots active shooters and tracks them through buildings.
 
-**How it used Google:** It uses existing camera infrastructure, location tags and Google Vision to recognize weapons.
+**How it used Google:** The project uses Google Vision API image classifications.
 
 [Code](https://github.com/xTEddie/HackMIT2018) · [Demo video](https://www.youtube.com/watch?v=ZCWxii9Kp-k) · Built with google-vision, django, mysql, picam
 
@@ -655,7 +655,7 @@ ViGCam spots active shooters and tracks them through buildings.
 
 Allows people to join up in a "room" to work on tracks to make beats for a song.
 
-**How it used Google:** The team used firebase for server and database/storage as well as to sync up sessions.
+**How it used Google:** The project uses Firebase for its server, database, storage, and session sync.
 
 [Code](https://github.com/sbower213/band-together) · Built with firebase, css, html5, javascript
 
@@ -665,7 +665,7 @@ Allows people to join up in a "room" to work on tracks to make beats for a song.
 
 Automatic purchase detection and rounding up to make donating to charity easy and habitual for any user.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**How it used Google:** The Firebase JavaScript SDK helps store round-up calculations.
 
 No public code linked · Built with firebase, ajax, css, html
 
@@ -675,7 +675,7 @@ No public code linked · Built with firebase, ajax, css, html
 
 The product encrypts QR codes such that, if scanned by someone who is not authorized to see them, they present an incomprehensible amalgamation of symbols.
 
-**How it used Google:** This was built using cloud functions and Firebase as the back end and a Native-react front end.
+**How it used Google:** The team built the back end using cloud functions and Firebase.
 
 No public code linked · Built with firebase, crypto, express.js, javascript
 
@@ -687,7 +687,7 @@ No public code linked · Built with firebase, crypto, express.js, javascript
 
 Virtual reality 3D coloring/painting experience for Google Daydream.
 
-**How it used Google:** The team used Google Daydream and extended off of the demo scene to the liking.
+**How it used Google:** The project brings an accessible 3D experience to Google Cardboard.
 
 [Code](https://github.com/ascn/ColoVR) · [Demo video](https://www.youtube.com/watch?v=HldNqLBlTgc) · Built with daydream, unity
 
@@ -697,7 +697,7 @@ Virtual reality 3D coloring/painting experience for Google Daydream.
 
 A platform that helps people collaborate towards finding missing people.
 
-**How it used Google:** Crowd Search makes heavy use of Firebase, and is because of this a completely front-end based application, hosted on Firebase Hosting.
+**How it used Google:** Firebase syncs comments, posts, and task list updates.
 
 [Code](https://github.com/ekmartin/hackmit-crowdsearch) · Built with firebase, babel, javascript, react
 
@@ -717,7 +717,7 @@ No public code linked · Built with azure, express.js, mongodb, node.js
 
 A collaborative virtual reality game that encourages exercise and runs wirelessly between two iOS devices.
 
-**How it used Google:** Player 1 and Player 2 constantly exchange game state information over the FireBase server to synchronize their virtual reality experiences with virtually no latency.
+**How it used Google:** Players exchange game state over the Firebase server to synchronize their virtual reality experiences.
 
 No public code linked · Built with firebase, google-cardboard, arduino, c++
 
@@ -739,7 +739,7 @@ No public code linked · Built with c#, unity, vive
 
 The Devpost entry has no usable short project description.
 
-**How it used Google:** Sponsor use not stated on Devpost
+**Google:** Built with google-earth (listed on Devpost)
 
 No public code linked · Built with google-earth, weather-underground
 

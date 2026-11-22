@@ -33,7 +33,7 @@ A code research tool indexes commit history so developers can search for earlier
 
 Diagnosis, coverage and care in one.
 
-**How it used Snowflake:** Sponsor use not stated on Devpost
+**How it used Snowflake:** The project uses a Snowflake Cortex Agent to return structured safety, coverage and cost data.
 
 [Code](https://github.com/buildingBuild/HackTX-Project) · [Demo video](https://www.youtube.com/watch?v=itEdbNrkp0M) · Built with ai-agent, blender, javascript, python
 
@@ -43,7 +43,7 @@ Diagnosis, coverage and care in one.
 
 A group conversation tool places live captions to help deaf participants follow who is speaking.
 
-**How it used Snowflake:** The team are proud of integrating so many different models like ARVision, Snowflake, ElevenLabs, and the fine tuned Wav2Vec.
+**How it used Snowflake:** The team uses Snowflake Cortex AI for meeting summaries.
 
 [Code](https://github.com/Dinofish32/hacklytics-2026) · [Demo video](https://www.youtube.com/watch?v=ttvh5SJoVfU) · Built with snowflake, elevenlabs, numpy, python
 
@@ -53,7 +53,7 @@ A group conversation tool places live captions to help deaf participants follow 
 
 Practice hurricane prep decisions under real financial pressure (before the real storm hits).
 
-**How it used Snowflake:** Sponsor use not stated on Devpost
+**How it used Snowflake:** The project retrieves readiness answers from FEMA and NOAA preparedness facts via Snowflake Cortex.
 
 [Code](https://github.com/varshith-k/hurricaneweek) · [Demo video](https://www.youtube.com/watch?v=Y_qwLNbf1Cg) · Built with snowflake, cortex, css, digitalocean
 
@@ -63,7 +63,7 @@ Practice hurricane prep decisions under real financial pressure (before the real
 
 PiHive is a cluster of Raspberry Pis running one LLM together via tensor-parallel distributed inference, no GPU anywhere, behind a single-compatible endpoint.
 
-**How it used Snowflake:** Sponsor use not stated on Devpost
+**How it used Snowflake:** The project uses Cortex-hosted LLMs through Snowflake’s REST API as another upstream in its escalation ladder.
 
 [Code](https://github.com/mariamelsahharr/htn-2026-dist-inf) · [Demo video](https://www.youtube.com/watch?v=3rHr03Vt5Rw) · Built with ansible, baseten, codex, distributed-llama
 
@@ -73,7 +73,7 @@ PiHive is a cluster of Raspberry Pis running one LLM together via tensor-paralle
 
 A nursing-home monitoring system learns each resident's baseline and flags changes for the overnight staff.
 
-**How it used Snowflake:** Two integrations, two jobs: Tiger Data is the live layer ("what is happening now"); Snowflake is the intelligence layer ("what it means, and what to do").
+**How it used Snowflake:** The team used Cortex Analyst for plain-English questions over a semantic model.
 
 [Code](https://github.com/snr2753423/Vigil_calhacks) · [Demo video](https://www.youtube.com/watch?v=R6qeykXL17Q) · Built with snowflake, snowflake-cortex, snowflake-ml, caddy
 
@@ -95,7 +95,7 @@ An AI assistant to help Lawyers manage clients.
 
 Eco-Nexus SCOS - Where Sustainability Meets Smart Business Decisions.
 
-**How it used Snowflake:** Eco Nexus uses Snowflake for data warehousing and analytics.
+**How it used Snowflake:** The team used Snowflake for data warehousing and analytics.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9Y) · Built with snowflake, snowflake-##-ai-&amp;-ml-openrouter-api, axios, bcryptjs
 
@@ -105,7 +105,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9
 
 Postman AI Agent Automation that transforms vague and slow product requirements into detailed pull requests in 30 seconds.
 
-**How it used Snowflake:** snowflake cortex ai generates PR code (≤30 lines).
+**How it used Snowflake:** Snowflake cortex ai generates PR code (≤30 lines).
 
 [Code](https://github.com/V-prajit/relay) · Built with snowflake, snowflake-cortex, digitalocean, fastapi
 
@@ -115,7 +115,7 @@ Postman AI Agent Automation that transforms vague and slow product requirements 
 
 A dining-hall dashboard helps chefs measure which meals produce the most plate waste.
 
-**How it used Snowflake:** Waste2Taste is a Snowflake-powered platform that measures food waste in dining halls and transforms that data into actionable insights for chefs.
+**How it used Snowflake:** The team stored all of this data in Supabase, and used the Snowflake API for many of the other backend processes.
 
 [Code](https://github.com/NavadeepBudda/waste2taste-api) · [Demo video](https://www.youtube.com/watch?v=Y-lFZVAZ9Hg) · Built with snowflake, snowflake-cortex, depth-anything, groundingdino
 

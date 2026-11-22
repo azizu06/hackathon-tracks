@@ -45,7 +45,7 @@ Multi-agent research that cites its sources and flags conflicts.
 
 Learn investing through AI-tailored lessons, playful goose gamification, and real portfolio simulations linked to RBC InvestEase.
 
-**How it used RBC:** Sponsor use not stated on Devpost
+**How it used RBC:** The project demos portfolio management on the RBC InvestEase sandbox.
 
 [Code](https://github.com/svn05/v2webhonkonomics) · Built with gemeni, investease, next.js, openai
 
@@ -55,7 +55,7 @@ Learn investing through AI-tailored lessons, playful goose gamification, and rea
 
 Money Talks transforms raw bank statements into actionable financial insights through:.
 
-**How it used RBC:** RBC API integration for realistic investment projections.
+**How it used RBC:** The project uses the RBC API for investment projections.
 
 [Code](https://github.com/KadenDaya/Money-Talks-HTN-2025-Winner) · [Demo video](https://www.youtube.com/watch?v=Y2xe-7n20gI) · Built with fastapi, investeasyapi, martian, next.js
 
@@ -67,7 +67,7 @@ Money Talks transforms raw bank statements into actionable financial insights th
 
 Earn and burn rewards points by making green choices 🔥.
 
-**How it used RBC:** Sponsor use not stated on Devpost
+**How it used RBC:** The team forked the RBC points API and adapted it for the project.
 
 [Code](https://github.com/jeffrey-zang/ecorewards) · [Demo video](https://www.youtube.com/watch?v=xUVjvFS3gB4) · Built with rbc-avion-api, agi, express.js, friendship
 
@@ -77,7 +77,7 @@ Earn and burn rewards points by making green choices 🔥.
 
 Your #1 financial advisor that knows everything about your current spending, your stage of life, and your investment desires, and gamifies better spending habits.
 
-**How it used RBC:** Sponsor use not stated on Devpost
+**How it used RBC:** The project uses the RBC API for user and transaction data and managing loyalty points.
 
 [Code](https://github.com/asavy79/hack-the-north-budget-tracker) · [Demo video](https://www.youtube.com/watch?v=3O8A6GM1vic) · Built with rbc, cohere, firebase, javascript
 
@@ -89,7 +89,7 @@ Your #1 financial advisor that knows everything about your current spending, you
 
 A data-driven application for predicting corporate credit ratings.
 
-**How it used RBC:** FujiFusion trains its credit-rating model on an RBC dataset of company financial indicators and ratings.
+**How it used RBC:** Data obtained from RBC Capital Markets consists of 20 features recorded for 27 companies at multiple points in time for a total of 524 samples.
 
 No public code linked · Built with angular.js, firebase, ionic, jupyter
 

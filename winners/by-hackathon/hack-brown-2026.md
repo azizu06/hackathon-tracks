@@ -56,7 +56,7 @@ An agentic AI system that fights back for renters—scouting real listings, expo
 - **Code:** [Source 1](https://github.com/optimusbuilder/Rent-Swarm)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xCzTYc7mIIg)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Gemini API · Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The project uses Google Gemini 2.0 Flash for reasoning.
 - **How it used Marshall Wace:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -80,7 +80,7 @@ SpaceShare is a peer-to-peer marketplace for urban micro-spaces.
 - **Code:** [Source 1](https://github.com/Vigneshpeddi/SpaceShare)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Capital One - Best Financial Hack · Visa - Custom Track
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **How it used Capital One:** The project used Capital One APIs to funnel 20% of earnings into savings accounts.
 - **How it used Visa:** The team integrated payouts to homeowners and used Visa Direct APIs to push funds to lister's cards.
 - **Checked on Devpost:** 2026-11-21
 
@@ -110,7 +110,7 @@ Search up a city and Munchy Munchy will create a food tour through it, taking yo
 - **Code:** [Source 1](https://github.com/jessiiishin/munchymunchy)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best .Tech Domain Name
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
+- **.Tech Domains:** Built with .tech (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -137,7 +137,7 @@ Walking alone at night on campus? SafePulse is here to walk you home safe.
 - **Code:** [Source 1](https://github.com/danielzhu04/SafePulse)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AWS
-- **How it used Amazon Web Services:** Sponsor use not stated on Devpost
+- **How it used Amazon Web Services:** The project used AWS Cognito for security verification.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -170,7 +170,7 @@ Facetime your dad for home repair advice at anytime.
 - **Code:** [Source 1](https://github.com/ponita05/hack-brown)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xD_QGRqzkvo)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **ElevenLabs:** Built with elevenlabs (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -197,7 +197,7 @@ AdVantage lets you build entire ad campaigns with one prompt. It runs comprehens
 - **Code:** [Source 1](https://github.com/BABTUNA/marky)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iRTw5n2BYqI)
 - **All prizes at this hackathon (1):** Fetch.ai Challenge
-- **How it used Fetch.ai:** Sponsor use not stated on Devpost
+- **How it used Fetch.ai:** The orchestrator sends a thumbnail and links in ASI:One chat.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -220,7 +220,7 @@ EstateAI is an AI-driven platform that tells you whether a property is a good in
 - **Code:** [Source 1](https://github.com/AquaDWota/v0-EstateAI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EswK5dt4I34)
 - **All prizes at this hackathon (1):** Fetch.ai Challenge
-- **How it used Fetch.ai:** Backend -FastAPI -MongoDB -A2A backend using Fetch.AI -Python -Hosted on Vercel.
+- **How it used Fetch.ai:** The project uses Fetch.ai for its A2A backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -305,7 +305,7 @@ What’s Up, New York! is a data driven platform that converts natural language 
 - **Code:** [Source 1](https://github.com/z1ros/planneeer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ag7kS5ZL1D0)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB
-- **How it used MongoDB:** Sponsor use not stated on Devpost
+- **How it used MongoDB:** The data layer uses MongoDB Atlas for structured place data and vector search.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -355,7 +355,7 @@ Providing an AI powered safety layer for cars that never had one.
 - **Code:** [Source 1](https://github.com/Aditya100907/HackBrown)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y6IJaTW2l84)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Presage
-- **How it used Presage:** Sponsor use not stated on Devpost
+- **How it used Presage:** The project uses Presage to track heart rate.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -382,7 +382,7 @@ crowdsourced diffusion data for world models on solana.
 - **Code:** [Source 1](https://github.com/theodorechapman/scale-diffusion)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_E0CEj3cWFg)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** Every session is tied to a validated Solana wallet.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

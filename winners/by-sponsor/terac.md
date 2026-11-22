@@ -23,7 +23,7 @@
 
 Captain Ddoski gives AI finance agents instant source trust scores, risk tags, and evidence capsules via API/MCP, helping them cite reliable proof, flag weak claims, and avoid scams.
 
-**How it used Terac:** Sponsor use not stated on Devpost
+**Terac:** Built with terac (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYnw) · Built with terac, arize, bear-2-api, claude
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=nkR6ym0lYn
 
 Empowering blind and low-vision fans to follow the action, context, and emotion of live sports independently.
 
-**How it used Terac:** The team also used human annotations from Terac to improve the captions themselves, teaching the model to produce descriptions that are useful for accessibility: spatially clear, concise, grounded, and focused on the moment.
+**How it used Terac:** The team used Terac annotators to create and rank accessibility captions.
 
 [Code](https://github.com/bbioren/match-vision) · Built with terac, claude, deepgram, mcp
 

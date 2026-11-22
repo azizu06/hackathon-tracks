@@ -69,8 +69,8 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 - **Code:** [Source 1](https://github.com/justrach/hackthenorth)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EAe7YApMNT0) · [Video 2](https://www.youtube.com/watch?v=bUv7c2fkmm0)
 - **All prizes at this hackathon (3):** Cohere: Best Use of Cohere · Convex: Best App and Startup Idea Built on Convex · Web Summit: Web Summit challenge
-- **How it used Cohere:** Cohere embeds attendee bios and interests so the matching pipeline can compare profiles and suggest connections.
-- **How it used Convex:** Convex stores profiles across events and handles live chat and authentication tokens.
+- **How it used Cohere:** The project uses Cohere’s embedding model and Groq’s reranking capabilities to connect participants with complementary skills.
+- **How it used Convex:** The project uses Convex for real-time chat and persistent user data management.
 - **How it used Web Summit:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -94,8 +94,8 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1F65Qt2n9g0)
 - **All prizes at this hackathon (2):** Groq: Best App Built on Groq · MASV
-- **How it used Groq:** Sponsor use not stated on Devpost
-- **How it used MASV:** Sponsor use not stated on Devpost
+- **How it used Groq:** The project uses Groq to edit 3D models with LLMs.
+- **How it used MASV:** The project uses MASV to transfer 3D model files.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -108,7 +108,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g
 
 Fight for the top position in a HackTheNorth lip-syncing challenge.
 
-[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, nextjs, symphonic-labs, web
+[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, symphonic-labs, nextjs, web
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -118,8 +118,8 @@ Fight for the top position in a HackTheNorth lip-syncing challenge.
 - **Code:** [Source 1](https://github.com/KaranChawlaD/lipslipsrevolution)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=C_vZ8xYM-pw)
 - **All prizes at this hackathon (2):** Best Use of MongoDB Atlas · Symphonic Labs: Best use of Symphonic Labs API
-- **How it used MongoDB:** The team uses MongoDB to store lip-sync scores.
-- **How it used Symphonic Labs:** Sponsor use not stated on Devpost
+- **How it used MongoDB:** The project uses MongoDB as the database for score data.
+- **Symphonic Labs:** Built with symphonic-labs (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -142,8 +142,8 @@ If you can dream it, Rex will find it.
 - **Code:** [Source 1](https://github.com/jshan9078/Rex) · [Source 2](https://github.com/jshan9078/Rex-Web-App)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=A5594U-kSKc)
 - **All prizes at this hackathon (2):** MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK · Voiceflow: Best Non-Chatbot AI Agent Built on Voiceflow
-- **How it used MappedIn:** Supabase was used to connect the Raspberry Pi, VoiceFlow Agent, and Mappedin wayfinding.
-- **How it used Voiceflow:** The team used a custom knowledge base on VoiceFlow to customize the agent to be very specific to the different rooms in E7 and point of interests at Hack the North.
+- **How it used MappedIn:** The project connects MappedIn wayfinding to the Raspberry Pi and Voiceflow agent through Supabase.
+- **How it used Voiceflow:** The project uses Voiceflow’s Supabase integration to log a request in the database to begin a trip.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -166,7 +166,7 @@ Sometimes online shopping can be dull, and most of all, turn away customers who 
 - **Code:** [Source 1](https://github.com/BenBoguslavsky18/HTN_VR)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=igOuQHgEvto)
 - **All prizes at this hackathon (2):** Shopify API Challenge · Ubisoft: Ubisoft Game Dev Challenge
-- **How it used Shopify:** Yellow shirt, black shirt, tropical shorts and black pants on the Shopify-hosted store.
+- **How it used Shopify:** The shirts, shorts and pants are on the Shopify-hosted store.
 - **How it used Ubisoft:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -190,7 +190,7 @@ A Pomodoro timer that keeps you on track, summarizes your browsing, and turns st
 - **Code:** [Source 1](https://github.com/jrang188/hack-the-north-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7Msy0SZR9cY)
 - **All prizes at this hackathon (2):** Cohere: Best Use of Cohere · Defang: Best Use of Defang
-- **How it used Cohere:** Sponsor use not stated on Devpost
+- **How it used Cohere:** The project uses Cohere’s AI to summarize web pages and turn them into quizzes.
 - **How it used Defang:** The team deployed the backend using Defang.
 - **Checked on Devpost:** 2026-11-21
 
@@ -214,7 +214,7 @@ the.right.(and.intelligent).new.training method for customers and support agents
 - **Code:** [Source 1](https://github.com/efliu7/hackthenorth2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=27zgZ8F4CUA)
 - **All prizes at this hackathon (2):** Genesys: Empowering Empathetic Experiences - Unleashing the Power of Genesys Cloud APIs · Voiceflow: Best Non-Chatbot AI Agent Built on Voiceflow
-- **How it used Genesys:** Sponsor use not stated on Devpost
+- **How it used Genesys:** The project uses the Genesys API for customer sentiment analysis.
 - **How it used Voiceflow:** The Voiceflow API was used mainly to develop the two customer archetypes.
 - **Checked on Devpost:** 2026-11-21
 
@@ -271,7 +271,7 @@ GenomIQ streamlines plasmid engineering by combining AI-powered gene generation 
 - **Code:** [Source 1](https://github.com/nomitchell/genomiq)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Chroma: Retrieval for AI
-- **How it used Chroma:** Sponsor use not stated on Devpost
+- **Chroma:** Built with chroma (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -350,7 +350,7 @@ Empowering Vision Through Voice. Revolutionizing indoor mobility with real-time,
 - **Code:** [Source 1](https://github.com/akjadhav/hackthenorth-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wdksaTAZA7A)
 - **All prizes at this hackathon (2):** Cohere: Best Use of Cohere · Hack the North 2024 Finalists
-- **How it used Cohere:** Sponsor use not stated on Devpost
+- **How it used Cohere:** The project uses Cohere’s Rerank API for semantic search on CV tags and mapping data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -406,7 +406,7 @@ Also won this track: [excus.us](#project-excus-us) (listed above)
 - **Code:** [Source 1](https://github.com/ddynamix/HackTheNorth2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=spMJ8vr8XnA)
 - **All prizes at this hackathon (1):** Convex: Best App and Startup Idea Built on Convex
-- **How it used Convex:** Sponsor use not stated on Devpost
+- **How it used Convex:** The project uses Convex for its backend database.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -433,7 +433,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=AEJ2ikDVvM
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AEJ2ikDVvMo)
 - **All prizes at this hackathon (1):** Databricks: Best Use of Databricks
-- **How it used Databricks:** Sponsor use not stated on Devpost
+- **How it used Databricks:** The project stores its data in a Databricks managed table.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -485,7 +485,7 @@ LaTeX made easy. Speech to code in real time.
 - **Code:** [Source 1](https://github.com/leozhang14/VerbaTeX)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Defang: Best Use of Defang
-- **How it used Defang:** Sponsor use not stated on Devpost
+- **How it used Defang:** The team built and deployed the project with Defang.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -601,7 +601,7 @@ Automate your notes so that you can focus on listening :).
 - **Code:** [Source 1](https://github.com/HTN-2024-AI-App/NoteHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6Eo_dfUz-wI)
 - **All prizes at this hackathon (1):** Groq: Best App Built on Groq
-- **How it used Groq:** Sponsor use not stated on Devpost
+- **How it used Groq:** The project uses image, speech, and text models from Groq.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -684,7 +684,7 @@ A social app for uncovering university locations and competing with friends.
 - **Code:** [Source 1](https://github.com/HTN-2024-LooGuessr/LooGuessr)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK
-- **How it used MappedIn:** Sponsor use not stated on Devpost
+- **How it used MappedIn:** The project uses the Mapped-in SDK to display user locations in relation to surrounding buildings.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -707,7 +707,7 @@ SecureStep is a smart walking cane designed for seniors in old age homes, respon
 - **Code:** [Source 1](https://github.com/Aidan-Hynes/SecureStep)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=qb31FZBE7Ng)
 - **All prizes at this hackathon (1):** MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK
-- **How it used MappedIn:** Sponsor use not stated on Devpost
+- **How it used MappedIn:** The project displays a MappedIn map of E7 on its webpage.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -746,7 +746,7 @@ Earn and burn rewards points by making green choices 🔥.
 - **Code:** [Source 1](https://github.com/jeffrey-zang/ecorewards)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=xUVjvFS3gB4)
 - **All prizes at this hackathon (1):** RBC: RBC Avion Rewards – Making Your Point with Our Points
-- **How it used RBC:** Sponsor use not stated on Devpost
+- **How it used RBC:** The team forked the RBC points API and adapted it for the project.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -769,7 +769,7 @@ Your #1 financial advisor that knows everything about your current spending, you
 - **Code:** [Source 1](https://github.com/asavy79/hack-the-north-budget-tracker)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3O8A6GM1vic)
 - **All prizes at this hackathon (1):** RBC: RBC Avion Rewards – Making Your Point with Our Points
-- **How it used RBC:** Sponsor use not stated on Devpost
+- **How it used RBC:** The project uses the RBC API for user and transaction data and managing loyalty points.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -804,7 +804,7 @@ Spy on your enemies (or your friends) by reading their lips through a live drone
 - **Code:** [Source 1](https://github.com/k429wang/SpyWatch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0UUyHWlevrA)
 - **All prizes at this hackathon (1):** Symphonic Labs: Best use of Symphonic Labs API
-- **How it used Symphonic Labs:** Spy's on conversations using a live drone video feed and the Symphonic Labs lip reading technology.
+- **How it used Symphonic Labs:** The project uses Symphonic Labs lip-reading technology with a live drone video feed.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -827,7 +827,7 @@ No public code linked · Built with figma, flask, react, symphonic
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Symphonic Labs: Best use of Symphonic Labs API
-- **How it used Symphonic Labs:** Sponsor use not stated on Devpost
+- **How it used Symphonic Labs:** The team used Symphonic’s API to transcribe visual cues.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -964,7 +964,7 @@ Empowering Founder and VC Discovery and with You and Your Voice.
 - **Code:** [Source 1](https://github.com/dannyl1u/aligned.ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IsymCVWdaI0)
 - **All prizes at this hackathon (1):** Web Summit: Web Summit challenge
-- **How it used Web Summit:** Sponsor use not stated on Devpost
+- **How it used Web Summit:** The project uses data from Web Summit profiles for matchmaking profiles.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

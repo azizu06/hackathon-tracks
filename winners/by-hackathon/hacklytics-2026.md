@@ -81,7 +81,7 @@ AI that fights your hospital bill.
 - **Code:** [Source 1](https://github.com/Itz-Viggy/payBack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5uq6HO8El3I)
 - **All prizes at this hackathon (1):** Best Use of Actian VectorAI DB
-- **How it used Actian:** Sponsor use not stated on Devpost
+- **How it used Actian:** The project uses Actian VectorAI DB for vector similarity with all-MiniLM-L6-v2 embeddings.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -104,7 +104,7 @@ RxGuard is a semantic engine that uses vector embeddings to bridge "vocabulary g
 - **Code:** [Source 1](https://github.com/gt12889/hacklytics2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dwmhyQ5ZIQA)
 - **All prizes at this hackathon (1):** Best Use of Actian VectorAI DB
-- **How it used Actian:** Sponsor use not stated on Devpost
+- **How it used Actian:** V3Actian uses Actian VectorAI DB for vector search.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -131,7 +131,7 @@ CrisisLens combines humanitarian risk and funding data in a country-level dashbo
 - **Code:** [Source 1](https://github.com/Michael-RDev/CrisisLens)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YD6H3emkDrc)
 - **All prizes at this hackathon (1):** Databricks Geo-Insight Challenge
-- **How it used Databricks:** Databricks supplies the country data and Genie answers natural-language questions inside the dashboard.
+- **How it used Databricks:** The team embedded Databricks Genie in the operational dashboard.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -154,7 +154,7 @@ A dashboard maps humanitarian funding against local needs to identify crises tha
 - **Code:** [Source 1](https://github.com/Angelr327/DSL-Hackalytics) · [Source 2](https://github.com/Icygamer5/DSLFrontend)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jn_rcXjV_zw)
 - **All prizes at this hackathon (1):** Databricks Geo-Insight Challenge
-- **How it used Databricks:** GeoInsight connects OCHA’s Financial Tracking Service (FTS) and INFORM Severity data via a Databricks Genie AI Space.
+- **How it used Databricks:** The team hosted humanitarian datasets on Databricks and used Unity Catalog to manage them.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -181,7 +181,7 @@ A language-learning tool combines speech and translation exercises to help users
 - **Code:** [Source 1](https://github.com/ConicalDrupe/janulus.ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5NwICUGROWw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **How it used ElevenLabs:** The project uses ElevenLabs for pronunciation audio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -208,7 +208,7 @@ A camera-based biomechanics tool tracks movement and fatigue to give athletes fe
 - **Code:** [Source 1](https://github.com/jiekaitao/BRACE)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DvQncQ3JfmE)
 - **All prizes at this hackathon (2):** Figma Make Most Creative Data Visualization · First in Sports
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **How it used Figma:** The project uses Figma Make to design the dashboard UI and data visualization layouts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -258,7 +258,7 @@ A filmmaker can turn a screenplay into video previews and storyboard frames.
 - **Code:** [Source 1](https://github.com/akabandaru/Playwright)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=W5MAby_ONxk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The team uses the Gemini API to segment the script into narrative beats.
+- **How it used Google:** The project uses the Gemini API to segment the script into narrative beats.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -389,7 +389,7 @@ A group conversation tool places live captions to help deaf participants follow 
 - **Code:** [Source 1](https://github.com/Dinofish32/hacklytics-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ttvh5SJoVfU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Snowflake API
-- **How it used Snowflake:** The team are proud of integrating so many different models like ARVision, Snowflake, ElevenLabs, and the fine tuned Wav2Vec.
+- **How it used Snowflake:** The team uses Snowflake Cortex AI for meeting summaries.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -416,7 +416,7 @@ A lender can screen potential properties for environmental risks before approvin
 - **Code:** [Source 1](https://github.com/9nesh/VERA)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=62N696AcAkE)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** It serializes the payload, computes a SHA-256 fingerprint, and submits a compact summary and fingerprint through Solana's SPL Memo program, using solders and solana-py.
+- **How it used Solana:** The project creates an attestation on Solana devnet that records a fingerprint of the scan summary and document hashes.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -443,7 +443,7 @@ PatchLab tracks what players feel during playtests, not just what they click. It
 - **Code:** [Source 1](https://github.com/NSang22/PatchLab)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IrHYcadESSk)
 - **All prizes at this hackathon (1):** Most Unique Application of Sphinx
-- **How it used Sphinx:** Sponsor use not stated on Devpost
+- **How it used Sphinx:** The project uses Sphinx to query its dataset in plain English.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -470,7 +470,7 @@ Synaptix is an AI-powered drug repurposing platform.
 - **Code:** [Source 1](https://github.com/Sanjavan7/Drugreuse)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QKEs6iViyJc)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** Sponsor use not stated on Devpost
+- **How it used Vultr:** The platform runs on Vultr Cloud Compute.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

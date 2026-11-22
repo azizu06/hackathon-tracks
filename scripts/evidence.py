@@ -52,6 +52,7 @@ class Project:
     built_with: list
     team_size: int
     story: list
+    writeup_text: str
     source_links: list
     demo_links: list
 
@@ -151,7 +152,7 @@ def project_details(html):
     return Project(
         name, data, public_text(data.get("description", ""), aliases),
         [tag for tag in built_with(html) if public_text(tag, aliases)],
-        team_count or None, paragraphs, sorted(source_links), sorted(demo_links),
+        team_count or None, paragraphs, html_text(story_html), sorted(source_links), sorted(demo_links),
     )
 
 

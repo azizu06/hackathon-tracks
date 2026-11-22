@@ -23,7 +23,7 @@
 
 AI Legal Tender transforms messy legal data into structured, cited intelligence using AMD powered ADKs that listen, learn, research, and help lawyers litigate smarter, faster, and more accurately.
 
-**How it used Morgan &amp; Morgan:** Lawgorithm uses Morgan &amp; Morgan case files to test its legal assistant.
+**How it used Morgan &amp; Morgan:** The project was tested with Morgan &amp; Morgan case files.
 
 [Code](https://github.com/dominickdupuy/Paralegal) · [Demo video](https://www.youtube.com/watch?v=toI8_0oCX8Y) · Built with amd, chatgpt-whisper, flask, google-adk
 

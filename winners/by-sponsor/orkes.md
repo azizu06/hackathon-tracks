@@ -23,7 +23,7 @@
 
 BrailleAI gives DeafBlind people a voice. Type by touch to speak out loud, and feel replies as Braille.
 
-**How it used Orkes:** Sponsor use not stated on Devpost
+**Orkes:** Built with orkes (listed on Devpost)
 
 [Code](https://github.com/lili1501/Refreshable_Braille_Display) · [Demo video](https://www.youtube.com/watch?v=iX5XIWncCkA) · Built with orkes, 3d-printing, annapurna, anthropic-claude
 
@@ -33,7 +33,7 @@ BrailleAI gives DeafBlind people a voice. Type by touch to speak out loud, and f
 
 Real verified people answer your medical questions honestly, before you decide. Built so an AI agent never guesses, it waits for a real person, then tells you how well their experience fits yours.
 
-**How it used Orkes:** Sponsor use not stated on Devpost
+**How it used Orkes:** The agent was built on Agentspan, the durable execution SDK from Orkes.
 
 [Code](https://github.com/2006-sk/AIhack) · [Demo video](https://www.youtube.com/watch?v=-EC0xCrg5H8) · Built with orkes, 21st.dev, agentspan, arize
 

@@ -23,7 +23,7 @@
 
 An autonomous agent that catches the silent bugs your tests and Sentry both miss, then fixes them and writes the regression test.
 
-**How it used Sentry:** Sponsor use not stated on Devpost
+**How it used Sentry:** The project uses the Sentry SDK for trace correlation, unified fingerprinting, and breadcrumb reasoning trails.
 
 [Code](https://github.com/vikashftw/Canary) · Built with sentry, anthropic, browserbase, claude
 
@@ -33,7 +33,7 @@ An autonomous agent that catches the silent bugs your tests and Sentry both miss
 
 Agent for adapting, optimizing, and running code on any machine, anywhere.
 
-**How it used Sentry:** The team uses Sentry as the telemetry platform across the system, collecting errors, logs, traces, and performance measurements.
+**How it used Sentry:** The team used Sentry primarily for traces and logs.
 
 [Code](https://github.com/ji24077/HTN) · [Demo video](https://www.youtube.com/watch?v=0Jx7tl-mJ9Y) · Built with sentry, ai-agents, amazon-web-services, amd
 
@@ -53,7 +53,7 @@ Bringing real humans into Minecraft using iPhone LiDAR, creating 3D point clouds
 
 Once enough keyframes have been extracted, the model samples up to 220 frames and head-masks locally using MediaPipe's selfie segmenter.
 
-**How it used Sentry:** Sponsor use not stated on Devpost
+**Sentry:** Built with sentry (listed on Devpost)
 
 [Code](https://github.com/akashngb/punching-face) · [Demo video](https://www.youtube.com/watch?v=wWvFjsOJgjA) · Built with sentry, colmap, gpt-6-astra, huawei
 

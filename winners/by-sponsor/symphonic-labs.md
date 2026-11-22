@@ -23,9 +23,9 @@
 
 Fight for the top position in a HackTheNorth lip-syncing challenge.
 
-**How it used Symphonic Labs:** Sponsor use not stated on Devpost
+**Symphonic Labs:** Built with symphonic-labs (listed on Devpost)
 
-[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with mongodb, nextjs, symphonic-labs, web
+[Code](https://github.com/KaranChawlaD/lipslipsrevolution) · [Demo video](https://www.youtube.com/watch?v=C_vZ8xYM-pw) · Built with symphonic-labs, mongodb, nextjs, web
 
 ### [SpyWatch](https://devpost.com/software/spywatch)
 
@@ -33,7 +33,7 @@ Fight for the top position in a HackTheNorth lip-syncing challenge.
 
 Spy on your enemies (or your friends) by reading their lips through a live drone video feed.
 
-**How it used Symphonic Labs:** Spy's on conversations using a live drone video feed and the Symphonic Labs lip reading technology.
+**How it used Symphonic Labs:** The project uses Symphonic Labs lip-reading technology with a live drone video feed.
 
 [Code](https://github.com/k429wang/SpyWatch) · [Demo video](https://www.youtube.com/watch?v=0UUyHWlevrA) · Built with ffmpeg, python, symphonic-labs-api, tello
 
@@ -43,7 +43,7 @@ Spy on your enemies (or your friends) by reading their lips through a live drone
 
 Unmute is designed for those private moments during video calls when you can't speak out loud, yet still want to fully participate in the conversation.
 
-**How it used Symphonic Labs:** Sponsor use not stated on Devpost
+**How it used Symphonic Labs:** The team used Symphonic’s API to transcribe visual cues.
 
 No public code linked · Built with figma, flask, react, symphonic
 

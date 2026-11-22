@@ -25,7 +25,8 @@ Readable pages: [sponsors](../SPONSORS.md), [hackathons](../HACKATHONS.md) and [
 | `prize` | Exact prize label from the Devpost gallery |
 | `prize_value` | Placement or value stated in the label, or null |
 | `description` | What the project does, from its Devpost page |
-| `sponsor_integration` | How the project used the sponsor's product, when the write-up says |
+| `sponsor_integration` | Documented sponsor use or a sponsor product listed in Built With |
+| `use_source`, `use_quote` | Source field and exact supporting excerpt for a sponsor use note |
 | `summary`, `summary_evidence` | Description plus integration note, and how well the source supports it |
 | `sponsor_tech` | Built With tags that belong to the sponsor |
 | `built_with` | All Built With tags on Devpost |

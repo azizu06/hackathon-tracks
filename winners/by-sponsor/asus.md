@@ -23,7 +23,7 @@
 
 Physical AI for low-pesticide agriculture to help farmers spray less and grow more crop. #1 RFS on YC S26.
 
-**How it used ASUS:** Sponsor use not stated on Devpost
+**How it used ASUS:** The team used ASUS workstations to continue its work during model training.
 
 [Code](https://github.com/mraruziev/cropscout-live-tomato) · [Demo video](https://www.youtube.com/watch?v=nkYR_oS4BKQ) · Built with javascript, mujoco, python, solidworks
 

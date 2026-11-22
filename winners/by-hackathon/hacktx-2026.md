@@ -56,7 +56,7 @@ Diagnosis, coverage and care in one.
 - **Code:** [Source 1](https://github.com/buildingBuild/HackTX-Project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=itEdbNrkp0M)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Snowflake API · &#91;Toyota Financial Services&#93; “What’s Your Next Move?” Challenge
-- **How it used Snowflake:** Sponsor use not stated on Devpost
+- **How it used Snowflake:** The project uses a Snowflake Cortex Agent to return structured safety, coverage and cost data.
 - **How it used Toyota Financial Services:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -113,7 +113,7 @@ One unexpected expense can trigger a chain of financial crisis. BreakingPoint bu
 - **Code:** [Source 1](https://github.com/MMehta45/hacktx26)
 - **Demo video:** [Video 1](https://vimeo.com/1239255718)
 - **All prizes at this hackathon (1):** &#91;Capital One&#93; The Best Use of Nessie
-- **How it used Capital One:** Sponsor use not stated on Devpost
+- **How it used Capital One:** Capital One's Nessie sandbox API supplies the fictional customer's accounts, transactions, deposits, and bills.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -140,7 +140,7 @@ New city, used car, nobody to ask? Junction finds owners who’ve had your probl
 - **Code:** [Source 1](https://github.com/madmax-10/junction)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kixGH1NAsAo)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The team designed Junction around a multi-agent architecture using Google Agent Development Kit (ADK) and Gemini.
+- **How it used Google:** Junction uses Google Agent Development Kit and Gemini for its multi-agent architecture.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ Your friends shouldn't have to ask. CloseMates gives everyone a FirstMate, an AI
 - **Code:** [Source 1](https://github.com/sendtovishnu/hacktx26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dcHFqio6nO0)
 - **All prizes at this hackathon (1):** &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **How it used Meta:** Meta’s Muse Spark decides nudges and plans moments between two FirstMates.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -190,7 +190,7 @@ Physical Robot Icebreaker Game; Fate, with a little help from Tina.
 - **Code:** [Source 1](https://github.com/Dhivyeshp/hacktx_26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=V9zV0iFYMNA)
 - **All prizes at this hackathon (1):** &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **How it used Meta:** The project uses Instagram Login for imports with basic profile permission.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -213,7 +213,7 @@ A quiet voice in your ear that remembers the people you love.
 - **Code:** [Source 1](https://github.com/harshaldhaduk/myst)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3lROw3SQE4s)
 - **All prizes at this hackathon (1):** &#91;Title Sponsor: Meta/Facebook&#93; Bringing People Closer Together with AI
-- **How it used Meta:** Myst uses Ray-Ban Meta glasses and the Wearables Device Access Toolkit to take photos on demand.
+- **How it used Meta:** Muse Spark compares a live photo against consented reference photos and returns a verdict with a confidence score.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -313,7 +313,7 @@ The practice audience that helps you show up for the real one.
 - **Code:** [Source 1](https://github.com/Shimal-Tajale/DevilsAdvocatesSpeechBot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sCO3z-yDLLk)
 - **All prizes at this hackathon (1):** &#91;SerpApi&#93; Best Use of SerpApi
-- **How it used SerpApi:** Audience question: Gemini picks a claim, SerpApi runs one Google search (with social media filtered out), and Gemini writes a sourced question.
+- **How it used SerpApi:** SerpApi runs a Google search with social media filtered out.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -336,7 +336,7 @@ Dance Fantasy turns any song into an original dance routine, taught by a 3D danc
 - **Code:** [Source 1](https://github.com/luvudeshi/dance-fantasy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DB1vOln3nSA)
 - **All prizes at this hackathon (2):** &#91;Best Overall&#93; Cinderella's Castle · &#91;SerpApi&#93; Best Use of SerpApi
-- **How it used SerpApi:** Sponsor use not stated on Devpost
+- **How it used SerpApi:** The project uses SerpApi to search Google and YouTube for a song’s dance challenge.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -359,7 +359,7 @@ A world of stories. A story only you can tell.
 - **Code:** [Source 1](https://github.com/TanishC4444/ParaMyth)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nDaxrcF-xis)
 - **All prizes at this hackathon (1):** &#91;SerpApi&#93; Best Use of SerpApi
-- **How it used SerpApi:** Sponsor use not stated on Devpost
+- **How it used SerpApi:** The project uses SerpAPI for real-world research.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -392,7 +392,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=GxNBCI4yyY
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GxNBCI4yyYI)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** An agent can pay for an approved API call with x402 on Solana.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -525,7 +525,7 @@ Every attacker leaves a trail! Breadcrumbs traps real hackers in a fake server, 
 - **Code:** [Source 1](https://github.com/aryansvt/hacktx2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SOlFxgQSVgk)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** Sponsor use not stated on Devpost
+- **How it used Vultr:** The team ran the trap and core on separate Vultr servers.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

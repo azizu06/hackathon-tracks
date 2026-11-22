@@ -23,7 +23,7 @@
 
 Utilizes Pinterest to catalog data for cloud computing.
 
-**How it used Pinterest:** Sponsor use not stated on Devpost
+**How it used Pinterest:** The project uses Pinterest to catalog data for cloud computing.
 
 No public code linked
 

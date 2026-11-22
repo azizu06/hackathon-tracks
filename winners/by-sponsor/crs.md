@@ -23,7 +23,7 @@
 
 A loan marketplace where AI agents negotiate for you but can't be tricked: a referee written in code, live CRS identity and credit checks, and real offers for people with thin credit files.
 
-**How it used CRS:** It runs on the live CRS sandbox, falls back to saved data one product at a time, and says so on screen when it does.
+**How it used CRS:** The project uses the CRS Credit API sandbox with saved responses as a fallback.
 
 [Code](https://github.com/karanpdx/calhacks-13) · [Demo video](https://www.youtube.com/watch?v=_F54ewxZ2YY) · Built with crs-credit-api, accurateappend, anthropic, atdata-fraudfinder
 
@@ -33,7 +33,7 @@ A loan marketplace where AI agents negotiate for you but can't be tricked: a ref
 
 An autonomous finance team where nothing moves without proof: Creao agents pick the right vendor and check every bill, with CRS verifying every claim before a dollar is paid.
 
-**How it used CRS:** The team uses CRS responsibly: only sandbox test personas, consent before any credit data, no criminal or eviction records, masked identifiers, and a live log showing every CRS call and why it was made.
+**How it used CRS:** The team used the live CRS sandbox for test personas.
 
 [Code](https://github.com/anagpal18/CalHacks13.0) · [Demo video](https://www.youtube.com/watch?v=NeESl1hYsCw) · Built with crs-credit-api, anthropic-claude, creao, fastify
 
@@ -43,7 +43,7 @@ An autonomous finance team where nothing moves without proof: Creao agents pick 
 
 A risk-aware debt autopilot for people whose income changes every week: it finds the payment you can safely make, re-plans when life happens, and asks before acting.
 
-**How it used CRS:** Real sandbox, synthetic people: CRS reports are for CRS's provided test identities; the Nessie account and deposits are created by DebtPilot.
+**How it used CRS:** The project pulls Experian reports for CRS test identities and maps tradelines to debts.
 
 [Code](https://github.com/thebreezyguy1/debtpilot) · [Demo video](https://www.youtube.com/watch?v=QQd0eGK-NIQ) · Built with crs-credit-api, anthropic, capital-one-nessie, claude
 
@@ -53,7 +53,7 @@ A risk-aware debt autopilot for people whose income changes every week: it finds
 
 Unfamiliar callers reach InterHoot before the phone rings.
 
-**How it used CRS:** Sponsor use not stated on Devpost
+**How it used CRS:** The project compares claims with the protected user's credit file in the CRS sandbox.
 
 [Code](https://github.com/nelsonli0409/InterHoot) · [Demo video](https://www.youtube.com/watch?v=1aBhaf3elns) · Built with crs-credit-api, apns-push, call-directory-extension, cartesia-ink-2
 
@@ -63,7 +63,7 @@ Unfamiliar callers reach InterHoot before the phone rings.
 
 A live fraud agent attacks an AI accounts-payable clerk while a controller gates every payment at the ledger. You get the dollars it lost, the dollars it cost, and why.
 
-**How it used CRS:** Sponsor use not stated on Devpost
+**How it used CRS:** The project verifies new hires against TransUnion identity verification through the CRS sandbox.
 
 [Code](https://github.com/md-racc/redledger) · [Demo video](https://www.youtube.com/watch?v=YSVCM4_Lzrc) · Built with asyncpg, caddy, cloudflare, docker
 

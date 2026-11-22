@@ -23,7 +23,7 @@
 
 Quick Relief uses blockchain technology to enable faster, secure, and transparent financial aid distribution for disaster relief.
 
-**How it used Stellar:** The team used Stellar for the blockchain implementation, Plaid for the financial documentation and record keeping for tax deductible purposes, and Docusign for legitimate signing and record keeping.
+**How it used Stellar:** The team used Stellar for the blockchain implementation.
 
 [Code](https://github.com/wcordelo/mit-hack-2018) · Built with stellar, azure, docusign, express.js
 

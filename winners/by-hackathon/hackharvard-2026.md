@@ -52,7 +52,7 @@ FirstLight recruits, consents and retains trial participants over iMessage, and 
 - **Code:** [Source 1](https://github.com/SunfishTK1/hackharvard-2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BNi3T0CI5m4)
 - **All prizes at this hackathon (2):** Build a Messaging Agent with Photon 2.0 路 Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Photon:** Sponsor use not stated on Devpost
+- **How it used Photon:** The project uses Photon Spectrum for iMessage lines with mini-app cards and voice notes.
 - **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -82,7 +82,7 @@ Physical AI for low-pesticide agriculture to help farmers spray less and grow mo
 - **Code:** [Source 1](https://github.com/mraruziev/cropscout-live-tomato)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nkYR_oS4BKQ)
 - **All prizes at this hackathon (1):** ASUS Sustainability: Save the Earth
-- **How it used ASUS:** Sponsor use not stated on Devpost
+- **How it used ASUS:** The team used ASUS workstations to continue its work during model training.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -155,7 +155,7 @@ Remember the elves who finished the shoemaker鈥檚 work overnight? Elfie brings t
 - **Code:** [Source 1](https://github.com/arshiyasharma/hackharvard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GTRrbq8RdjU) 路 [Video 2](https://www.youtube.com/watch?v=h2k7D7NcFDU)
 - **All prizes at this hackathon (1):** Best Use of Nessie
-- **How it used Capital One:** Totals are always read back from Nessie, so the database only stores what Nessie can鈥檛, like who owes whom.
+- **How it used Capital One:** A roommate鈥檚 payment plan is a Nessie loan.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -182,7 +182,7 @@ A LiDAR iPhone and a 24-pin palm puck that turn the room into touch. Feel what鈥
 - **Code:** [Source 1](https://github.com/MartinPuli/feel)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NzBkQcUejH0)
 - **All prizes at this hackathon (3):** Best Data-Driven Agent Built on Chalk 路 First Place Overall 路 Hardware for Good
-- **How it used Chalk:** Sponsor use not stated on Devpost
+- **How it used Chalk:** The project uses Chalk Evaluations for scoring on labeled photos.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -205,7 +205,7 @@ While official evacuation orders often come late and cover whole zones, Trace is
 - **Code:** [Source 1](https://github.com/Berny-ft/HackHarvard2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jfoYqBbt6T4)
 - **All prizes at this hackathon (1):** Best Data-Driven Agent Built on Chalk
-- **How it used Chalk:** Evaluations: fire alerts (600 households) and surge alerts run as Chalk Evaluations.
+- **How it used Chalk:** Fire and surge alerts run as Chalk Evaluations.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -255,7 +255,7 @@ Don't just block a rogue AI agent. Trap it.
 - **Code:** [Source 1](https://github.com/MrFiscus/Mirage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=k3fzKzdrOyA)
 - **All prizes at this hackathon (1):** Best Use of Daytona
-- **How it used Daytona:** Sponsor use not stated on Devpost
+- **How it used Daytona:** Each agent gets its own Daytona VM.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -282,7 +282,7 @@ An immune system for vibe-coded apps. It finds the holes AI coding tools leave b
 - **Code:** [Source 1](https://github.com/antibody-hq/Antibody)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=spl0ptVzQsw)
 - **All prizes at this hackathon (1):** Best Use of Factory Droid SDK
-- **How it used Factory:** Sponsor use not stated on Devpost
+- **How it used Factory:** The team used the Droid SDK to write fixes.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -311,7 +311,7 @@ Andi helps people quitting alcohol stay sober. It texts them in iMessage when th
 - **Code:** [Source 1](https://github.com/kushmirchandani/andi)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=N-oXvhoNrzw)
 - **All prizes at this hackathon (1):** Build a Messaging Agent with Photon 2.0
-- **How it used Photon:** Sponsor use not stated on Devpost
+- **Photon:** Built with photon (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -334,7 +334,7 @@ Disaster plans go stale in minutes. EMBER turns texts and calls into a new perso
 - **Code:** [Source 1](https://github.com/soham-k-sinha/Ember)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YbEaTgA91rU)
 - **All prizes at this hackathon (1):** Build a Messaging Agent with Photon 2.0
-- **How it used Photon:** Calls run through ElevenLabs on the Photon number, with the backend acting as the agent's language model.
+- **How it used Photon:** A text or call comes in through Photon.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -386,7 +386,7 @@ Turn a clinical trial protocol into a site budget both sides can check: procedur
 - **Code:** [Source 1](https://github.com/CosmicOdyssey/concord)
 - **Demo video:** [Video 1](https://vimeo.com/1236934994)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** Concord compares public records of Regeneron trials to show where they share registered sites.
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -570,7 +570,7 @@ TrialPilot helps teams compare clinical trial designs across cost, site workload
 - **Code:** [Source 1](https://github.com/KryptonNii/YANZHENG_NI_HACKHARVARD2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KLeeAnTy4M8)
 - **All prizes at this hackathon (1):** Regeneron Healthcare: Reinvent Clinical Trials &amp; Drug Development
-- **How it used Regeneron:** TrialPilot uses public records of Regeneron trials as examples in its trial-design comparison workflow.
+- **How it used Regeneron:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

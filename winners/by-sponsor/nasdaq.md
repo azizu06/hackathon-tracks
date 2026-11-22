@@ -23,7 +23,7 @@
 
 Automatically benefit from the optimizations of many databases, while only working with a single interface.
 
-**How it used Nasdaq:** Sponsor use not stated on Devpost
+**How it used Nasdaq:** The team created a web app for NASDAQ financial data.
 
 No public code linked · Built with azure, cosmos-db, druid, node.js
 
@@ -43,9 +43,9 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Su83aPedkx
 
 Buying a new house but can't decide on a neighborhood? Check out HomeUp for data and interactive charts on house prices, rent, and more.
 
-**How it used Nasdaq:** The team sought to use real estate data made available through Nasdaq datasets to make this decision easier and better informed.
+**Nasdaq:** Built with Quandl (listed on Devpost)
 
-[Code](https://github.com/siuryan/homeup) · Built with flask, python, quandl
+[Code](https://github.com/siuryan/homeup) · Built with quandl, flask, python
 
 ## 2018 winners
 
@@ -67,7 +67,7 @@ Sell dorm supplies in a seasonal market-style setting with prices determined by 
 
 Make the experience of keeping tracking stock performance fun and interactive with the use of GIFs.
 
-**How it used Nasdaq:** Sponsor use not stated on Devpost
+**How it used Nasdaq:** The team used Nasdaq's API to locate a company's stock and related news about its performance.
 
 No public code linked · Built with flask, giphy-api, google-cloud-vision, ibm-watson
 
@@ -79,7 +79,7 @@ No public code linked · Built with flask, giphy-api, google-cloud-vision, ibm-w
 
 LogoLens presents relevant stock quote data when a user sees a company logo while wearing the HoloLens.
 
-**How it used Nasdaq:** If a logo is detected, the company of the logo is found and the NASDAQ API is used to determine the recent performance of the company’s stock.
+**How it used Nasdaq:** The project uses the NASDAQ API to check stock prices.
 
 [Code](https://github.com/ChenJonathan/Logo-Lens) · [Demo video](https://www.youtube.com/watch?v=AI54o8onLBA) · Built with nasdaq-data-on-demand, c#, google-cloud-vision, microsoft-hololens
 

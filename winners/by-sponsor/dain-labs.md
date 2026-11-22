@@ -23,7 +23,7 @@
 
 Monitoring the Health and Safety of First Responders and Military Personnel.
 
-**How it used DAIN Labs:** The team designed a DAIN-powered AI service the provides timely alerts to keep safe.
+**How it used DAIN Labs:** The team designed a DAIN-powered AI service for timely alerts.
 
 [Code](https://github.com/nipunbatra8/healthbot) · [Demo video](https://www.youtube.com/watch?v=H3TpX43lDUs) · Built with dain, brev.dev, python, tensorflow
 
@@ -33,7 +33,7 @@ Monitoring the Health and Safety of First Responders and Military Personnel.
 
 Devin, AI Software Engineer &amp; Kevin, AI Product Manager.
 
-**How it used DAIN Labs:** The team built its product management assistant with DAIN and TypeScript.
+**How it used DAIN Labs:** The project was built primarily with TypeScript and DAIN.
 
 No public code linked · Built with dain, typescript
 
@@ -43,7 +43,7 @@ No public code linked · Built with dain, typescript
 
 FlowPilot listens, understands, and executes, transforming Zoom meetings into Slide decks and Notion workflows. No more lost action items - just approve and watch it execute.
 
-**How it used DAIN Labs:** Sponsor use not stated on Devpost
+**How it used DAIN Labs:** The project uses DAIN’s memory system to maintain conversation context and user preferences.
 
 [Code](https://github.com/CarterCote/flow-pilot) · [Demo video](https://www.youtube.com/watch?v=d9pkeKJIGRg) · Built with dain, docker, express.js, node.js
 
@@ -53,7 +53,7 @@ FlowPilot listens, understands, and executes, transforming Zoom meetings into Sl
 
 Cut the crap. Focus on real human interactions.
 
-**How it used DAIN Labs:** React + TailwindCSS + Butterfly UI (DAIN-powered).
+**How it used DAIN Labs:** DAIN powers the Butterfly UI.
 
 [Code](https://github.com/KARTIK-PANDEY-KP/Project-Dave) · [Demo video](https://www.youtube.com/watch?v=aS2-N1W5mjk) · Built with dain, apollo.io, browserbase, container
 
@@ -63,7 +63,7 @@ Cut the crap. Focus on real human interactions.
 
 Determining both how much the environment can be impacted, and how money can be saved by installing solar panels on the roof of a given address.
 
-**How it used DAIN Labs:** Sponsor use not stated on Devpost
+**How it used DAIN Labs:** The project uses the DAIN Protocol for agent interactions.
 
 [Code](https://github.com/ymorsi7/solar-flair) · [Demo video](https://www.youtube.com/watch?v=rRz-idbllX8) · Built with dain, apis, css, gemini
 
@@ -73,7 +73,7 @@ Determining both how much the environment can be impacted, and how money can be 
 
 Less paperwork, more patient care: the AI therapist's assistant.
 
-**How it used DAIN Labs:** Sponsor use not stated on Devpost
+**How it used DAIN Labs:** The project uses DAIN to trigger service tools such as checking the therapist’s appointment database and sending reminders.
 
 [Code](https://github.com/cherylwu834/treehacks25) · [Demo video](https://www.youtube.com/watch?v=q_3Y3kjbpZ0) · Built with dain, python, scrapybara, typescript
 

@@ -23,7 +23,7 @@
 
 Raw watts or joules-per-token misses the carbon picture entirely.
 
-**How it used Zed:** Zed extension (Rust → WASM) provides /eco slash command.
+**How it used Zed:** The project uses a Rust Zed extension that provides the /eco slash command.
 
 [Code](https://github.com/bdavidzhang/eco_router) · [Demo video](https://www.youtube.com/watch?v=W3opaZ9Rub4) · Built with claude, gemini
 
@@ -33,7 +33,7 @@ Raw watts or joules-per-token misses the carbon picture entirely.
 
 GaitGuard is a wearable sensor system that measures a patient's gait against a personalized healthy baseline and delivers realtime haptic feedback to correct deviations between physical therapy visits.
 
-**How it used Zed:** Sponsor use not stated on Devpost
+**Zed:** Built with zed (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z0) · Built with zed, claude, python, qnx
 

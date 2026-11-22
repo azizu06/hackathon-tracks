@@ -76,7 +76,7 @@ ReadEasy: An AI-powered Google Docs add-on that transforms documents into access
 - **Code:** [Source 1](https://github.com/byrencheema/ReadEasy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wyKA449dB8w)
 - **All prizes at this hackathon (1):** MLH - Best Use of Google Cloud
-- **How it used Google:** ReadEasy is an AI-powered Google Docs add-on that automatically reformats text, optimizes layouts, and ensures documents are screen-reader-friendly.
+- **How it used Google:** ReadEasy uses Google Apps Script to integrate with Google Docs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -103,7 +103,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=pJKejAEEwk
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pJKejAEEwkU)
 - **All prizes at this hackathon (1):** MLH - Best Use of Starknet
-- **How it used Starknet:** Sponsor use not stated on Devpost
+- **Starknet:** Built with starknet (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

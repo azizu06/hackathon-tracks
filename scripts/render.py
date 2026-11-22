@@ -10,6 +10,7 @@ from urllib.parse import quote, urlencode, urlsplit
 
 from fetch import verified_link
 from publish import HERE, OTHER_SPONSOR, dedup_project_rows, events, gallery_url
+from sponsor_use import BUILT_WITH
 
 
 SITE_URL = "https://tracks.azizu.dev/"
@@ -282,6 +283,8 @@ def prize_text(row):
 
 def integration_note(row):
     label = "Sponsor use" if row["sponsor"] == OTHER_SPONSOR else f'How it used {md(row["sponsor"])}'
+    if row["use_source"] == BUILT_WITH:
+        label = md(row["sponsor"])
     return f'**{label}:** {md(row["sponsor_integration"])}'
 
 
@@ -683,7 +686,8 @@ FIELDS = [
     ("prize", "Exact prize label from the Devpost gallery"),
     ("prize_value", "Placement or value stated in the label, or null"),
     ("description", "What the project does, from its Devpost page"),
-    ("sponsor_integration", "How the project used the sponsor's product, when the write-up says"),
+    ("sponsor_integration", "Documented sponsor use or a sponsor product listed in Built With"),
+    ("use_source, use_quote", "Source field and exact supporting excerpt for a sponsor use note"),
     ("summary, summary_evidence", "Description plus integration note, and how well the source supports it"),
     ("sponsor_tech", "Built With tags that belong to the sponsor"),
     ("built_with", "All Built With tags on Devpost"),
@@ -849,8 +853,8 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         f"- Source code links verified HTTP 200 for {len(verified_links['source'])} of {len(links['source'])} unique recognized links.",
         f"- Demo video links verified HTTP 200 for {len(verified_links['demo'])} of {len(links['demo'])} unique recognized links.",
         "- The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.",
-        "- Project summaries use edited notes, Devpost project captions and short evidence sentences. "
-        "A Built With tag can identify a tool. The integration note requires a description of its role.",
+        "- Full sponsor notes cite a role documented in a Devpost write-up or a linked GitHub README. "
+        "Built With notes identify sponsor products listed on Devpost.",
         "- Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. "
         "General event awards remain visible in project prize lists.",
         "- HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. "

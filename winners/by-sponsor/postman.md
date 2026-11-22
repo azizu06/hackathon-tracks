@@ -23,7 +23,7 @@
 
 Analyzes crypto portfolios and generates smart liquidation strategies based on risk tolerance.Uses real-time Gemini Exchange data and Fetch.ai agents to help decisions about converting crypto to cash.
 
-**How it used Postman:** The project demonstrates both technical excellence and practical utility, combining Postman's powerful orchestration capabilities with Fetch.ai's autonomous agent framework to solve a genuine problem facing millions of young investors.
+**How it used Postman:** The team used Postman Flows to orchestrate the workflow, with an AI Agent block for natural language parsing.
 
 [Code](https://github.com/yuktaablitz/cryptoagent-cfo) · [Demo video](https://www.youtube.com/watch?v=6Pv9YAOo3Ic) · Built with python
 
@@ -33,7 +33,7 @@ Analyzes crypto portfolios and generates smart liquidation strategies based on r
 
 Cryptobot is a humanoid robot that is FULLY voice-controlled.
 
-**How it used Postman:** The team used Sui, Postman, and Booster K1 humanoid to power this.
+**How it used Postman:** The team used Postman to call functions.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADrI) · Built with postman, c++, conversion, next.js
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADr
 
 Postman AI Agent Automation that transforms vague and slow product requirements into detailed pull requests in 30 seconds.
 
-**How it used Postman:** Deep Postman Ecosystem Use: Integrated 12+ Postman tools AI Agent Block, Flow Modules, Actions, HTTP blocks, Mock Servers, Monitors, and Analytics.
+**How it used Postman:** Postman AI Agent processes the request.
 
 [Code](https://github.com/V-prajit/relay) · Built with postman, postman-ai-agent, postman-flows, digitalocean
 

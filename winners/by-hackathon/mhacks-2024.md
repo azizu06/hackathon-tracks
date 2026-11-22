@@ -84,7 +84,7 @@ PlzFix.ai is an all-in-one AI platform designed to provide devs with tailored an
 - **Code:** [Source 1](https://github.com/aliceli465/MHacks24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aK9hMI6NKJY)
 - **All prizes at this hackathon (1):** BoundaryML - Best use of Agents using BAML
-- **How it used BoundaryML:** Sponsor use not stated on Devpost
+- **How it used BoundaryML:** The project implements its LLM agent pipeline using BAML.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -111,7 +111,7 @@ Dive into intense 3D dance-offs! Use simple gestures to animate a 3D version of 
 - **Code:** [Source 1](https://github.com/ishaan-arya/boogie-battle) · [Source 2](https://github.com/shxjames/motion_capture_commentator)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Jslk5cH8ezo)
 - **All prizes at this hackathon (1):** Cartesia - Best Use of Sonic
-- **How it used Cartesia:** Sponsor use not stated on Devpost
+- **How it used Cartesia:** The project uses the Cartesia API for text-to-speech for its commentator.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -215,7 +215,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=7VzAm0KVVo
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7VzAm0KVVoo)
 - **All prizes at this hackathon (1):** Free-WILi - Best Use of Free-WILi
-- **How it used FREE-WILi:** Sponsor use not stated on Devpost
+- **How it used FREE-WILi:** The project configures the Free-WILi board to toggle LEDs and display images.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -242,7 +242,7 @@ Atom Suika is an innovative merge dropper chemistry learning experience. It uses
 - **Code:** [Source 1](https://github.com/evelynpa1/AtomSeiko)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Google - 1st Place Best Google AI Breadboard Application
-- **How it used Google:** The team built the backend using Google Breadboard, Node.JS, and MongoDB.
+- **How it used Google:** The team used Google Breadboard in its backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -265,7 +265,7 @@ The doctor can view this before a patient visit and gain more information to bet
 - **Code:** [Source 1](https://github.com/qwopp/healthcare-helper)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JMK3KGh9Wr8)
 - **All prizes at this hackathon (1):** Google - 2nd Place Best Google AI Breadboard Application
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The team used Google AI Breadboard to create a system of three interacting Gemini 1.5 Flash models, each tailored to a specific role.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -288,7 +288,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=RsqhOLFsGE
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RsqhOLFsGEw)
 - **All prizes at this hackathon (1):** Google - 3nd Place Best Google AI Breadboard Application
-- **How it used Google:** Integrating Google Breadboard and computer vision from a live video feed allows the AI to continuously update itself with the most accurate and relevant data.
+- **How it used Google:** The team integrated Google AI Breadboard for assistant feedback, gameplay highlights, and strategic recommendations.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -315,7 +315,7 @@ The WiLi Watch is an innovative, interactive wearable wristband designed to enab
 - **Code:** [Source 1](https://github.com/ethanmckean/The-WiLi-Watch-mhacks24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UYSAEgx3lSQ)
 - **All prizes at this hackathon (1):** Groq - Best App Built on Groq
-- **How it used Groq:** Sponsor use not stated on Devpost
+- **How it used Groq:** The project uses Whisper through Groq for speech-to-text and Llama for natural language reasoning.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -342,7 +342,7 @@ AI-powered DJ: Enhancing live performances by analyzing crowd energy and adjusti
 - **Code:** [Source 1](https://github.com/tesims/mhacks)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Intel - 1st Place Best Use of Intel AI
-- **How it used Intel:** Sponsor use not stated on Devpost
+- **How it used Intel:** The team switched to OpenVINO’s pre-trained models.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -388,7 +388,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=70ziSQVSEq
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=70ziSQVSEqI)
 - **All prizes at this hackathon (1):** Intel - 3st Place Best Use of Intel AI
-- **How it used Intel:** This was built using Intel AI PCs, with the remote desktop.
+- **How it used Intel:** The team built the project using Intel AI PCs with remote desktop.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -442,7 +442,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=PxOkQkR-gh
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PxOkQkR-ghM)
 - **All prizes at this hackathon (1):** MLH - Best use of MATLAB
-- **How it used MathWorks:** SolarVista uses MathWorks MATLAB to generate a heat map for its solar siting analysis.
+- **How it used MathWorks:** The heat image was generated by MATLAB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -496,7 +496,7 @@ Revolutionizing the campuses' lost and found with smart image recognition.
 - **Code:** [Source 1](https://github.com/g3npar/FoundAI)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MLH - Best use of MongoDB Atlas
-- **How it used MongoDB:** Sponsor use not stated on Devpost
+- **How it used MongoDB:** The team used MongoDB search indexes for its search functionality.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -523,7 +523,7 @@ If the Wii taught the team anything, it’s that flailing your arms around is fu
 - **Code:** [Source 1](https://github.com/elise-yz/osulation)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=K2KA6qnFeVE)
 - **All prizes at this hackathon (1):** Roboflow - Best Use of Roboflow Workflows
-- **How it used Roboflow:** The team then used Roboflow to train a model on this dataset, achieving an mAP of 0.995 over 200 epochs.
+- **How it used Roboflow:** The team used Roboflow to train a model on the dataset.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -550,7 +550,7 @@ The team use this metric to weight the load-balancing algorithm so that it optim
 - **Code:** [Source 1](https://github.com/rohitramaswamy/mhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MJQIQJYxey4)
 - **All prizes at this hackathon (1):** MLH - Best use of Streamlit
-- **How it used Streamlit:** The team chose a Python-Streamlit frontend due to its variety of input and output widgets, which provide a high degree of user interaction.
+- **How it used Streamlit:** The team chose Streamlit for the frontend input and output widgets.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -600,7 +600,7 @@ Review : Once your code is complete, GenHint reviews it, checking for accuracy a
 - **Code:** [Source 1](https://github.com/zichenzhang04/GenHint)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=72yeRx4773o)
 - **All prizes at this hackathon (1):** Warp - Honorable Mention Best Developer Tool
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **How it used Warp:** The team used Warp Drive’s shared workflows to share key processes.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

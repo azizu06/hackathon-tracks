@@ -23,7 +23,7 @@
 
 Helps UCSB and SBCC students in IV locate housing. Powered by a data ingestion pipeline that runs on Claude and Aryn to aggregate housing information.
 
-**How it used Aryn:** The team don't generate anything new with Claude, and all of the actual information comes from Aryn's parsing.
+**How it used Aryn:** The team runs screenshots and PDFs through Aryn to receive structured data.
 
 [Code](https://github.com/youwen5/gauchohousing) · [Demo video](https://www.youtube.com/watch?v=NNIs7zczSBQ) · Built with aryn, claude, django, google-maps
 
@@ -33,7 +33,7 @@ Helps UCSB and SBCC students in IV locate housing. Powered by a data ingestion p
 
 In addition, the live scraping of academic databases and the future goals of scraping news articles and more sources will keep all the information up-to-date.
 
-**How it used Aryn:** Sponsor use not stated on Devpost
+**How it used Aryn:** The project uses the Aryn API to process PDFs and convert them to vector embeddings in Singlestore.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Yo) · Built with aryn, firebase, flask, gpt
 

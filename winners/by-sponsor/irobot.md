@@ -23,7 +23,7 @@
 
 A roomba uses machine learning and a raspberry pi with a pi camera to search for objects.
 
-**How it used iRobot:** Sponsor use not stated on Devpost
+**How it used iRobot:** The project uses a Roomba with machine learning and a Raspberry Pi to search for objects.
 
 [Code](https://github.com/dratini0/Roomba4E) · Built with irobot-create, azure, json, machine-learning
 
@@ -33,7 +33,7 @@ A roomba uses machine learning and a raspberry pi with a pi camera to search for
 
 Use your favorite cleaning robot to transform the floor into a canvas for Mathematica plots.
 
-**How it used iRobot:** Sponsor use not stated on Devpost
+**How it used iRobot:** The project uses Facebook comments in LiveMode to control a Roomba.
 
 [Code](https://github.com/cyanophycean314-zz/plot_roomba) · Built with irobot-create2, facebook-live-api, python, wolfram-development-platform
 

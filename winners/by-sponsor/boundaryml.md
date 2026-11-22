@@ -33,7 +33,7 @@ Cybersecurity done right. Cyberwright leverages AI to automate the process of id
 
 PlzFix.ai is an all-in-one AI platform designed to provide devs with tailored and data-driven insights on how to optimize their code.
 
-**How it used BoundaryML:** Sponsor use not stated on Devpost
+**How it used BoundaryML:** The project implements its LLM agent pipeline using BAML.
 
 [Code](https://github.com/aliceli465/MHacks24) · [Demo video](https://www.youtube.com/watch?v=aK9hMI6NKJY) · Built with baml, c, docker, flask
 

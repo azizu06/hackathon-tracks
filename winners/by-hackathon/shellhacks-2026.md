@@ -84,8 +84,8 @@ By YoWayMo, mo(re) way to go! Never get stuck in the crowd you saw coming.
 - **Code:** [Source 1](https://github.com/No-Way-Mo/transpeaktation)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=maBHLULKMVc)
 - **All prizes at this hackathon (2):** &#91;AWS&#93; Best Use of AWS · &#91;MLH&#93; Best Use of Tiger Data
-- **How it used Amazon Web Services:** The team used AWS services to generate data and train all of the model before deploying them onto DigitalOcean.
-- **How it used Tiger Data:** Incoming records are normalized, deduplicated, geocoded, and stored across MongoDB Atlas and Tiger Data/TimescaleDB.
+- **How it used Amazon Web Services:** The team used AWS services to generate data and train its model.
+- **How it used Tiger Data:** Incoming records are stored in MongoDB Atlas and Tiger Data’s TimescaleDB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -243,7 +243,7 @@ The Soldier isolates the threat, evolves a working "cure" (a sandboxed containme
 - **Code:** [Source 1](https://github.com/Joshua-Song007/Shellhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=swDZNF3l3KU)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of DigitalOcean
-- **How it used DigitalOcean:** Sponsor use not stated on Devpost
+- **How it used DigitalOcean:** DigitalOcean hosts the landing page and a Postgres-backed advisor service.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -297,7 +297,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=IRjQ7plFcq
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IRjQ7plFcqE)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** The team built Shaadiest with JavaScript, Codex, Vite, Leaflet, Node.js, and Express, with deployment support for GoDaddy.
+- **GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -324,7 +324,7 @@ Clarity is a hands-free AI co-pilot that helps student drivers see risks, stay a
 - **Code:** [Source 1](https://github.com/abhiwasabi/Clarity) · [Source 2](https://github.com/work-yugtilva/shellhacks-hardware)
 - **Demo video:** [Video 1](https://vimeo.com/1230684959)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The team uses the Gemini API to give Clarity multimodal AI capabilities.
+- **How it used Google:** Gemini works with visual context from the camera and natural-language input so users can interact through conversation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -401,7 +401,7 @@ CADVision brings SolidWorks assemblies into interactive 3D and VR, where CADEN A
 - **Code:** [Source 1](https://github.com/BAAA-Hacks/cad-vision)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0-bYjncKWIs)
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** The team wrote its SolidWorks add-in in Microsoft's C# to extract assembly information.
+- **How it used Microsoft:** The team designed the SolidWorks add-in in C#.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -424,7 +424,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4GTQH27oGO
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4GTQH27oGOs)
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **How it used Microsoft:** The project uses TypeScript in an npm-workspaces monorepo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -447,7 +447,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=uLmimTFwau
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uLmimTFwauM)
 - **All prizes at this hackathon (1):** Microsoft
-- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **How it used Microsoft:** Spitball is built as an embedded extension that runs locally inside Visual Studio Code.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -474,7 +474,7 @@ Grep is your organization’s intelligence layer - turning AI coding into shared
 - **Code:** [Source 1](https://github.com/DinhPhucLe/grep)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mru6d0wAI-k)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** Sponsor use not stated on Devpost
+- **How it used MongoDB:** The project uses MongoDB Atlas vector search for shared engineering knowledge.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -501,7 +501,7 @@ Practice hurricane prep decisions under real financial pressure (before the real
 - **Code:** [Source 1](https://github.com/varshith-k/hurricaneweek)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y_qwLNbf1Cg)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Snowflake API
-- **How it used Snowflake:** Sponsor use not stated on Devpost
+- **How it used Snowflake:** The project retrieves readiness answers from FEMA and NOAA preparedness facts via Snowflake Cortex.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -528,7 +528,7 @@ MomentumX gives global traders an edge by pairing tokenized stocks with real-tim
 - **Code:** [Source 1](https://github.com/FastMartini/Shellhacks-2026)
 - **Demo video:** [Video 1](https://vimeo.com/1230689653)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** MomentumX is a Solana-powered platform for discovering, trading, and evaluating tokenized U.S. stocks.
+- **How it used Solana:** They can receive demo dollars, monitor 19 supported stocks, inspect price charts and market news, and buy or sell tokenized assets through a Solana devnet vault.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

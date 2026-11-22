@@ -9,7 +9,7 @@ from pathlib import Path
 import re
 import tempfile
 
-from publish import MISSING_INTEGRATION, complete_ending, sponsor_pattern
+from sponsor_use import validate_use
 from render import (
     INT_FIELDS, LIST_FIELDS, ROOT_PAGES, SITE_URL, event_file, heading_anchor, render, slugify, update_readme,
 )
@@ -49,12 +49,10 @@ def verify(root, readme=None):
         seen.add(key)
         assert row["event_prize_count"] == len(set(row["event_prizes"])), key
         assert row["prize"] in row["event_prizes"], key
-        note = row["sponsor_integration"]
-        if row["summary_evidence"] == "Integration detail unavailable":
-            assert note == MISSING_INTEGRATION, key
-        else:
-            assert note.endswith(".") and not re.search(r"\s\.$", note) and complete_ending(note), key
-            assert sponsor_pattern(row["sponsor"]).search(note), key
+        try:
+            validate_use(row)
+        except (KeyError, ValueError) as error:
+            raise AssertionError(f"{key}: {error}") from error
         assert set(row["sponsor_tech"]) <= set(row["built_with"]), key
         assert row["team_size"] is None or (isinstance(row["team_size"], int) and row["team_size"] > 0), key
         assert row["http_status"] == 200, key

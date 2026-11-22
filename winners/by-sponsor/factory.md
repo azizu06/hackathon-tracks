@@ -23,7 +23,7 @@
 
 An immune system for vibe-coded apps. It finds the holes AI coding tools leave behind, Droid fixes, Antibody re-attacks to check, Chalk helps guard live attacks, and Photon keeps you in the loop.
 
-**How it used Factory:** Sponsor use not stated on Devpost
+**How it used Factory:** The team used the Droid SDK to write fixes.
 
 [Code](https://github.com/antibody-hq/Antibody) · [Demo video](https://www.youtube.com/watch?v=spl0ptVzQsw) · Built with chalk, next.js, photon, react
 
@@ -33,7 +33,7 @@ An immune system for vibe-coded apps. It finds the holes AI coding tools leave b
 
 Robots fail on anything new. Instead of retraining a VLA, Skillsmith has Factory Droid patch the robot's Python skill in 15 seconds, tested in sim and approved by a human before the arm moves.
 
-**How it used Factory:** Sponsor use not stated on Devpost
+**How it used Factory:** The project uses Factory Droid to rewrite Python programs when the robot arm fails.
 
 [Code](https://github.com/VikramKaramsetty/skillsmith) · [Demo video](https://www.youtube.com/watch?v=Ut2CdytFdAQ) · Built with factory-droid-sdk, aruco, claude, claude-code
 

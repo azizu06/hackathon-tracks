@@ -33,7 +33,7 @@ ATP speeds up prescription prior authorizations. AI handles insurer calls, bring
 
 A platform helps students stay connected to class during medical care.
 
-**How it used Notability:** Sponsor use not stated on Devpost
+**How it used Notability:** The project uses a Notability testing journal to document each phase and improve implementation.
 
 [Code](https://github.com/Samvidab/CuraLink) · [Demo video](https://www.youtube.com/watch?v=P6o2dWYYxjU) · Built with notability, anthropic, cartesia, claude
 
@@ -43,7 +43,7 @@ A platform helps students stay connected to class during medical care.
 
 A research platform pairs an evidence workspace with tools for patients to review consent and compensation.
 
-**How it used Notability:** Sponsor use not stated on Devpost
+**Notability:** Built with notability (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=9DtLgJCZ3oQ) · Built with notability, 3dmol, amazon-bedrock, anthropic-claude
 
@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=9DtLgJCZ3o
 
 A party game uses group conversations to make plans for an in-person hangout.
 
-**How it used Notability:** Notability 13/13: Reflecting on the complete process.
+**How it used Notability:** The team kept research, sketches and revision notes in Notability.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2U) · Built with apify, ffmpeg, framer-motion, google-maps
 
@@ -63,7 +63,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2
 
 An apartment search assistant helps people moving to the US find listings, contact landlords, and prepare applications.
 
-**How it used Notability:** Sponsor use not stated on Devpost
+**How it used Notability:** The project uses Notability as a product-design workspace.
 
 [Code](https://github.com/kbhatnagar1506/homie) · [Demo video](https://www.youtube.com/watch?v=zl_fpA4hX9Q) · Built with notability, agentverse, asi:one, browser-use
 
@@ -73,7 +73,7 @@ An apartment search assistant helps people moving to the US find listings, conta
 
 The first notes app that learns from your mistakes instead of deleting them. Inkling keeps every erase, pinpoints the second you got stuck, and re-teaches it in your language before the exam does.
 
-**How it used Notability:** The team built with Notability Pro: the pipeline plus a real erased attempt kept as ghost ink: cos(x²) → 2x · cos(x²).
+**How it used Notability:** The team built with Notability Pro: MIT 18.01 imported from YouTube.
 
 [Code](https://github.com/PranavNagothu/Inkling) · [Demo video](https://www.youtube.com/watch?v=HAl0wWfNS7U) · Built with notability, css, data, elevenlabs
 
@@ -83,7 +83,7 @@ The first notes app that learns from your mistakes instead of deleting them. Ink
 
 Avatar Build: You're able to dress up your fish, immersing your avatar into the world.
 
-**How it used Notability:** Sponsor use not stated on Devpost
+**How it used Notability:** The fish, accessories, stalls, seagulls and sandcastles in ReelFriends were hand-drawn in Notability.
 
 [Code](https://github.com/deadly-nightshade/hackatgt26) · [Demo video](https://www.youtube.com/watch?v=pnznEHiUBos) · Built with arduino, elevenlabs, hardware, meta
 
@@ -93,7 +93,7 @@ Avatar Build: You're able to dress up your fish, immersing your avatar into the 
 
 Drop in your hospital bill and insurance statement.
 
-**How it used Notability:** Explore the complete Notability design process, including the original discussion recordings.
+**How it used Notability:** Notability sessions compared enterprise financial agents, company data workflows and voice-first interfaces.
 
 [Code](https://github.com/gsonntag/calhacks) · [Demo video](https://www.youtube.com/watch?v=sja3NhjxxBM) · Built with notability, bright-data, capital-one-nessie, cartesia
 
@@ -103,7 +103,7 @@ Drop in your hospital bill and insurance statement.
 
 A navigation aid gives visually impaired users real-time scene feedback through touch.
 
-**How it used Notability:** Sponsor use not stated on Devpost
+**Notability:** Built with notability (listed on Devpost)
 
 [Code](https://github.com/yukevindai/VisionOS) · [Demo video](https://www.youtube.com/watch?v=7-MghH5U9Ss) · Built with notability, anthropic, arduino, ble
 

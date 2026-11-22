@@ -57,8 +57,8 @@ agentic peer review citation verification for research papers.
 - **Code:** [Source 1](https://github.com/suryar2007/peer-review-system)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=am-y6yt0Ais)
 - **All prizes at this hackathon (2):** Best Use of Hermes -- Nous Research · Best use of Lava API
-- **How it used Lava:** Sponsor use not stated on Devpost
-- **How it used Nous Research:** Hermes 4 70B (Nous Research) powers all extraction tasks.
+- **How it used Lava:** The project resolves citations through Lava Gateway, which proxies requests to Semantic Scholar, CrossRef, and OpenAlex.
+- **How it used Nous Research:** Hermes 4 70B from Nous Research powers all extraction tasks.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -138,7 +138,7 @@ Imposture is an AI desk pet that tracks your posture and focus use via computer 
 - **Code:** [Source 1](https://github.com/argsdio/imposture)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=plD5TCyZjgI)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of ElevenLabs · Most Useless Hack
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **How it used ElevenLabs:** The project uses ElevenLabs to talk back.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ Voice-first local farm marketplace — farmers list by talking, consumers shop w
 - **Code:** [Source 1](https://github.com/alexanderlapratt/trust-your-food)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=srIbSfnjMU8)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **How it used GoDaddy Registry:** The team registered trustyourfood.farm via GoDaddy Registry.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -194,7 +194,7 @@ Explore the world through an cinematic AI-guided journey — just speak, and the
 - **Code:** [Source 1](https://github.com/prith27/Ayana)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4lwFH0fWW0E)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** The map layer uses the Google Maps JavaScript API 3D (alpha) with programmatic flyCameraTo and flyCameraAround to create cinematic arrivals at each landmark.
+- **How it used Google:** The real-time voice agent narrates the journey, explains landmarks, and responds to questions through the Gemini Live API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -223,7 +223,7 @@ Food banks today find out about crises when the line gets longer. CrisisGrid det
 - **Code:** [Source 1](https://github.com/richykim7/YHack2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KBmjbQHAL_0)
 - **All prizes at this hackathon (1):** Best use of Hex API
-- **How it used Hex:** Sponsor use not stated on Devpost
+- **Hex:** Built with hex (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -246,7 +246,7 @@ An agentic AI incident resolution platform that ingests service incidents and or
 - **Code:** [Source 1](https://github.com/aumghelani/HiveOps-NatomaSub)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Wgevevl1hTY)
 - **All prizes at this hackathon (1):** Best use of Hex API
-- **How it used Hex:** The team are using Hex as a Long-term incident memory bank.
+- **How it used Hex:** The team uses Hex as a long-term incident memory bank.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -273,7 +273,7 @@ Burned $300 running a 100-agent swarm to launch Simulacra and headstart the futu
 - **Code:** [Source 1](https://github.com/0xABAN/simulacra)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fPZQB1WaVC4)
 - **All prizes at this hackathon (1):** Best Use of K2 Think V2
-- **How it used K2 Think:** Sponsor use not stated on Devpost
+- **How it used K2 Think:** The project uses the K2-Think V2 model to power its generative agent pipeline.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -302,7 +302,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=lX8BuX64Jw
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lX8BuX64JwI)
 - **All prizes at this hackathon (1):** Best use of Lava API
-- **How it used Lava:** Synthesis engine: LLM pipeline (OpenAI primary, Anthropic secondary, Lava gateway tertiary) generates actionable recommendations as structured JSON -- including executable actions like create&#95;calendar&#95;event, draft&#95;reply, run&#95;hex&#95;project, and copy&#95;text.
+- **How it used Lava:** The project uses Lava gateway in its LLM pipeline for structured JSON recommendations.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -325,7 +325,7 @@ CareCost is a map-first GI care shopper: AI turns symptoms into the right proced
 - **Code:** [Source 1](https://github.com/Kedylind/carecost)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UKChab_e1Hc)
 - **All prizes at this hackathon (1):** Best use of Lava API
-- **How it used Lava:** Sponsor use not stated on Devpost
+- **How it used Lava:** The project routes AI calls through Lava to Gemini.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -352,7 +352,7 @@ Sift indexes all your files into the same optimized embedding space.
 - **Code:** [Source 1](https://github.com/whuang06/yhacks_s26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=e-kfnXJfcwQ)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** The team built backend functionality first in Python, which includes embedding generation through Gemini Embedding 2 Preview, database storage and vector search through MongoDB Atlas, and chatbot functionality through LangChain.
+- **How it used MongoDB:** The project uses MongoDB Atlas for database storage and vector search.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -371,7 +371,7 @@ Also won this track: [CiteSite](#project-citesite-i80hlo) (listed above)
 
 Most people do not know how their scattered data points connect.
 
-[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with fastapi, hermes, hexapi, instaloader
+[Code](https://github.com/danielkwan-dev/aegis) · [Demo video](https://www.youtube.com/watch?v=Nf_50lff9Rc) · Built with hermes, fastapi, hexapi, instaloader
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -381,7 +381,7 @@ Most people do not know how their scattered data points connect.
 - **Code:** [Source 1](https://github.com/danielkwan-dev/aegis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Nf_50lff9Rc)
 - **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **How it used Nous Research:** Sponsor use not stated on Devpost
+- **Nous Research:** Built with hermes (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -394,7 +394,7 @@ Most people do not know how their scattered data points connect.
 
 Your guided path through regulatory complexity.
 
-[Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with beautiful-soup, docker, fastapi, framer-motion
+[Code](https://github.com/xyaei/forseen) · [Demo video](https://www.youtube.com/watch?v=S-HOp3EjmWo) · Built with hermes, beautiful-soup, docker, fastapi
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -404,7 +404,7 @@ Your guided path through regulatory complexity.
 - **Code:** [Source 1](https://github.com/xyaei/forseen)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=S-HOp3EjmWo)
 - **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **How it used Nous Research:** Sponsor use not stated on Devpost
+- **Nous Research:** Built with hermes (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -427,7 +427,7 @@ fMRI-enhanced swarm simulations for prediction markets.
 - **Code:** [Source 1](https://github.com/cicinel/YNeurotrading)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WmDdycsx_a0)
 - **All prizes at this hackathon (1):** Best Use of Hermes -- Nous Research
-- **How it used Nous Research:** Sponsor use not stated on Devpost
+- **How it used Nous Research:** The project routes all persona creation through Hermes via OpenRouter.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -477,7 +477,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=cohE1Eti1d
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cohE1Eti1dU)
 - **All prizes at this hackathon (1):** Best use of Snap Lens Studio
-- **How it used Snap:** Sponsor use not stated on Devpost
+- **How it used Snap:** The team used Lens Studio for instrument mapping logic.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -500,7 +500,7 @@ Learn any dance head-to-head in AR with full-body tracking and scoring in real-t
 - **Code:** [Source 1](https://github.com/YHack-Project/dance)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=D44gx8M5m84)
 - **All prizes at this hackathon (2):** Best use of Snap Lens Studio · Entertainment
-- **How it used Snap:** Sponsor use not stated on Devpost
+- **How it used Snap:** The project uses Snapchat messaging to support turn-based multiplayer.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -577,7 +577,7 @@ Making mobility accessible, cheap, simple. and modular to the health sector and 
 - **Code:** [Source 1](https://github.com/ryanli222/yHack)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RzqbO86LRXQ)
 - **All prizes at this hackathon (2):** Best Use of Viam · Hardware
-- **How it used Viam:** Sponsor use not stated on Devpost
+- **Viam:** Built with viam (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -604,7 +604,7 @@ Raw watts or joules-per-token misses the carbon picture entirely.
 - **Code:** [Source 1](https://github.com/bdavidzhang/eco_router) · [Source 2](https://github.com/bdavidzhang/yhack-eco-bench)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=W3opaZ9Rub4)
 - **All prizes at this hackathon (1):** Built With Zed
-- **How it used Zed:** Zed extension (Rust → WASM) provides /eco slash command.
+- **How it used Zed:** The project uses a Rust Zed extension that provides the /eco slash command.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -627,7 +627,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=VRsa9P1m8z
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VRsa9P1m8z0)
 - **All prizes at this hackathon (2):** Built With Zed · Third Place Overall
-- **How it used Zed:** Sponsor use not stated on Devpost
+- **Zed:** Built with zed (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

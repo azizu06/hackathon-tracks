@@ -23,7 +23,7 @@
 
 30 million underserved patients. No engineers.
 
-**How it used Redis:** Every incoming intent is embedded using OpenAI's text-embedding-3-small model and compared against the clinic's existing capability library via HNSW vector similarity search in Redis.
+**How it used Redis:** Redis is the registry, not a cache in front of a database.
 
 [Code](https://github.com/arjvnv/forge-1st-Place-UC-Berkeley-AI-Hackathon-2026-Redis-track) · [Demo video](https://www.youtube.com/watch?v=4K3G6_XONPU) · Built with redis-(redisvl, redis-streams), anthropic-api, arize
 

@@ -23,7 +23,7 @@
 
 Easily get the money you need when you need it most.
 
-**How it used PropelAuth:** The team are also using PropelAuth to minimize account fraud and implementing a unique approach through the Artificial Intelligence model to minimize loan fraud, revolutionizing the loan industry.
+**How it used PropelAuth:** The team uses PropelAuth to minimize account fraud.
 
 No public code linked · Built with propelauth, cloudflare, javascript, json
 
@@ -33,7 +33,7 @@ No public code linked · Built with propelauth, cloudflare, javascript, json
 
 Unified Electronic Health Record featuring an AI- and RAG-powered search bot for clinical decision-making.
 
-**How it used PropelAuth:** Sponsor use not stated on Devpost
+**How it used PropelAuth:** The project uses PropelAuth for authentication and managing user identities.
 
 [Code](https://github.com/gibranoderenz/unifymd) · [Demo video](https://www.youtube.com/watch?v=c1NckGLl0TI) · Built with langchain, next-js, propel-auth, supabase
 

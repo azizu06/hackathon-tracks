@@ -23,7 +23,7 @@
 
 A policy firewall for AI agents. Whatever your enterprise cares about, AgentGate checks it on your Enterprise Production Agent and steps in before anything runs.
 
-**How it used Zip:** Sponsor use not stated on Devpost
+**How it used Zip:** The project uses the Zip API and ziphq-mcp to ground judgments in live vendor and approval state.
 
 [Code](https://github.com/japneet250/Agent-Gate) · Built with zip, claude, cloudflare, deepevals
 
@@ -33,7 +33,7 @@ A policy firewall for AI agents. Whatever your enterprise cares about, AgentGate
 
 turn a message into enterprise action.
 
-**How it used Zip:** YourCall reads live procurement requests through Zip REST and uses Zip MCP to investigate approval context.
+**How it used Zip:** The agent uses Zip MCP to explore request and approval context.
 
 [Code](https://github.com/reneeyyx/YourCall) · [Demo video](https://www.youtube.com/watch?v=0poH1JGydeM) · Built with zip, gemini, geminiapi, linq
 

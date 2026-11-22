@@ -76,11 +76,11 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 - **Code:** [Source 1](https://github.com/Imhaohao/Standard-Response)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=eNsAGHFnFJY)
 - **All prizes at this hackathon (6):** &#91;Anthropic&#93; Claude for Public Benefit · &#91;Apify&#93; Best Use of Apify · &#91;Convex&#93; Best use of Convex · &#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd) · &#91;Moss&#93; Best Use of Moss · Cal Hacks Best People-First Social Impact Hack
-- **How it used Anthropic:** Claude turns callers' responses into dispatch fields and drafts short replies in the reviewed languages.
-- **How it used Apify:** An Apify Actor consolidates California evacuation zones, fire notices, and road closures so new warnings can trigger calls.
-- **How it used Convex:** Convex connects the dispatch dashboard and voice worker so a resident gets a callback as soon as a driver accepts.
-- **How it used Microsoft:** Sponsor use not stated on Devpost
-- **How it used Moss:** Moss retrieves approved call-taking guidance by hazard and language before Claude responds to a resident.
+- **How it used Anthropic:** Claude Haiku 5.5 turns what residents say on calls into record fields and includes corrections.
+- **How it used Apify:** The Apify Actor starts calls when a California county moves a zone to warning.
+- **How it used Convex:** Every part of the system reads and writes one real-time Convex database.
+- **Microsoft:** Built with typescript (listed on Devpost)
+- **How it used Moss:** Moss pulls call-taking principles and practice-call moments into a prompt, filtered by hazard and language.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -103,9 +103,9 @@ An operating environment isolates each AI agent task in a separate Linux user an
 - **Code:** [Source 1](https://github.com/benz16107/gurtos)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3hDnLuUqmjM) · [Video 2](https://www.youtube.com/watch?v=691r_JcBD0c) · [Video 3](https://www.youtube.com/watch?v=90iEnbJtJoU) · [Video 4](https://www.youtube.com/watch?v=BrA67CzIOYg) · [Video 5](https://www.youtube.com/watch?v=DnD78KAapMo) · [Video 6](https://www.youtube.com/watch?v=EH7kyUofUOs) · [Video 7](https://www.youtube.com/watch?v=JI8PBEVwaCw) · [Video 8](https://www.youtube.com/watch?v=Jypa31_HdrM) · [Video 9](https://www.youtube.com/watch?v=VEFBW-LRM94) · [Video 10](https://www.youtube.com/watch?v=VRVofDW0668) · [Video 11](https://www.youtube.com/watch?v=a2nhBj9DhbI) · [Video 12](https://www.youtube.com/watch?v=gGdqKNtvopw) · [Video 13](https://www.youtube.com/watch?v=hRFm65ZLO-g) · [Video 14](https://www.youtube.com/watch?v=iYQ-_am3c2g) · [Video 15](https://www.youtube.com/watch?v=j6_SIkMPQYw) · [Video 16](https://www.youtube.com/watch?v=rREjU2ddIyo) · [Video 17](https://www.youtube.com/watch?v=riaswviHD50) · [Video 18](https://www.youtube.com/watch?v=tcNbHb6XZuc) · [Video 19](https://www.youtube.com/watch?v=xH2J2BOVlK8)
 - **All prizes at this hackathon (3):** &#91;Atlassian&#93; Best Agent / Best Security Solution for Agents · &#91;Fetch.ai&#93; Best Use of Fetch.ai · &#91;MLH&#93; Best Use of Solana
-- **How it used Atlassian:** Sponsor use not stated on Devpost
-- **How it used Fetch.ai:** Sponsor use not stated on Devpost
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Atlassian:** Every agent task becomes a Jira issue.
+- **How it used Fetch.ai:** Every GurtOS box is an agent on Agentverse and reachable from an ASI:One chat.
+- **How it used Solana:** A daily fingerprint of the log goes to Solana.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -128,7 +128,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopS
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UBaKKoPopSg)
 - **All prizes at this hackathon (2):** &#91;Creao AI&#93; Best AI-First Disruptor · &#91;MLH&#93; Commit Fellowship
-- **How it used Creao:** Study analyst: Interprets saved simulation measurements and generates figures, cited manuscripts, and downloadable LaTeX PDFs inside CREAO.
+- **How it used Creao:** The team also used the persistent memory feature of CREAO's agents to allow users to iterate on research projects.
 - **How it used MLH / Transcend Network:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -152,8 +152,8 @@ An autonomous finance team where nothing moves without proof: Creao agents pick 
 - **Code:** [Source 1](https://github.com/anagpal18/CalHacks13.0)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NeESl1hYsCw)
 - **All prizes at this hackathon (2):** &#91;Creao AI&#93; Best Team Empowerment · &#91;CRS&#93; Best Use of CRS API
-- **How it used Creao:** Every decision-making agent runs on Creao.
-- **How it used CRS:** The team uses CRS responsibly: only sandbox test personas, consent before any credit data, no criminal or eviction records, masked identifiers, and a live log showing every CRS call and why it was made.
+- **How it used Creao:** Every live decision runs on Creao.
+- **How it used CRS:** The team used the live CRS sandbox for test personas.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -176,8 +176,8 @@ A student caseworker looks up immigration and finance rules and asks the student
 - **Code:** [Source 1](https://github.com/AnushaAgarwal27/Docket)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nAIJZyXKaSo)
 - **All prizes at this hackathon (2):** &#91;Fetch.ai&#93; Best Use of Fetch.ai · &#91;Mana&#93; Best Use of Mana
-- **How it used Fetch.ai:** Docket is 8 Fetch.ai uAgents that send each other typed messages and share one student file on Convex.
-- **How it used Mana:** Sponsor use not stated on Devpost
+- **How it used Fetch.ai:** The project uses 8 Fetch.ai uAgents to send typed messages and share a student file on Convex.
+- **How it used Mana:** The team built the Docket Pocket app in Mana.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -200,8 +200,8 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=KuYTNZz49Z
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KuYTNZz49ZM)
 - **All prizes at this hackathon (2):** &#91;Convex&#93; Best use of Convex · &#91;Fetch.ai&#93; Best Use of Fetch.ai
-- **How it used Convex:** Sponsor use not stated on Devpost
-- **How it used Fetch.ai:** All seventeen are live on Agentverse with their own handles and READMEs, and anyone can ask the Coordinator questions through ASI:One over the Chat Protocol.
+- **Convex:** Built with convex (listed on Devpost)
+- **How it used Fetch.ai:** All seventeen agents are registered on Agentverse, with a public ASI:One session that answers questions about a live incident.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -224,7 +224,7 @@ A finance workspace helps AI labs automate bookkeeping and related financial tas
 - **Code:** [Source 1](https://github.com/petersenmatthew/moa)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=K_pESfSqoDQ)
 - **All prizes at this hackathon (2):** &#91;Figma&#93; Best Design · &#91;Hyphenate&#93; The Hyphenated Enterprise: Autonomous Systems for Finance
-- **How it used Figma:** The team built a design system, mapped flows in FigJam, made a clickable version in Figma Make, and animated the outro in Figma Motion.
+- **How it used Figma:** The team mapped flows in FigJam, made a clickable version in Figma Make, and animated the outro in Figma Motion.
 - **How it used Hyphenate:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -248,8 +248,8 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=joNnooTosP
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=joNnooTosPs)
 - **All prizes at this hackathon (2):** &#91;Apify&#93; 1st Customer Award · &#91;Moss&#93; Long Horizon Agent
-- **How it used Apify:** The team used Claude for reasoning, Apify for connectors, Convex for the backend and real-time collaboration, Moss for indexing, and Cartesia for voice, alongside the custom computer-use engine and replay framework.
-- **How it used Moss:** The team used Claude for reasoning, Apify for connectors, Convex for the backend and real-time collaboration, Moss for indexing, and Cartesia for voice, alongside the custom computer-use engine and replay framework.
+- **How it used Apify:** The team used Apify for connectors.
+- **How it used Moss:** The team used Moss for indexing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -273,7 +273,7 @@ Autonomous security for the medical devices hospitals can't patch.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5u1bG7nEzvI)
 - **All prizes at this hackathon (2):** &#91;Armadin&#93; Best Security Hack · &#91;Bitdeer AI&#93; Best Use of Bitdeer AI Model Studio
 - **How it used Armadin:** Sponsor use not stated on Devpost
-- **How it used Bitdeer AI:** Sponsor use not stated on Devpost
+- **How it used Bitdeer AI:** A DeepSeek model is running on Bitdeer.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -296,8 +296,8 @@ Drop in your hospital bill and insurance statement.
 - **Code:** [Source 1](https://github.com/gsonntag/calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sja3NhjxxBM)
 - **All prizes at this hackathon (2):** &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data · &#91;Notability&#93; Best Use of Notability
-- **How it used Bright Data:** Bright Data (SERP API and Web Unlocker): finds and fetches each hospital's financial-assistance pages and policy PDFs into a versioned policy database for 12 Bay Area hospitals.
-- **How it used Notability:** Explore the complete Notability design process, including the original discussion recordings.
+- **How it used Bright Data:** The team used Bright Data to fetch hospital financial-assistance pages and policy PDFs.
+- **How it used Notability:** Notability sessions compared enterprise financial agents, company data workflows and voice-first interfaces.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -328,7 +328,7 @@ Smart glasses coach workers with intellectual and developmental disabilities thr
 - **Code:** [Source 1](https://github.com/shraddha11-408/CalHacks-13.0)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=f2uZQ9IpAVU)
 - **All prizes at this hackathon (1):** &#91;Anthropic&#93; Claude for Public Benefit
-- **How it used Anthropic:** Sponsor use not stated on Devpost
+- **How it used Anthropic:** Claude Opus 5.5 writes steps from the teaching video.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -351,7 +351,7 @@ A mapping tool turns real spaces into tactile and audio guides for blind and low
 - **Code:** [Source 1](https://github.com/holokcheung/touchspace)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zCSkCPO-3cc)
 - **All prizes at this hackathon (1):** &#91;Anthropic&#93; Claude for Public Benefit
-- **How it used Anthropic:** Claude-Powered Spatial Understanding help interpret free-form questions.
+- **How it used Anthropic:** Claude helps interpret free-form questions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -380,7 +380,7 @@ BrickBots lets you plan and assemble a robot from real parts in your browser.
 - **Code:** [Source 1](https://github.com/nnapper/calhacks-13.0-brickbots)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NaJhNkEO_Bk)
 - **All prizes at this hackathon (1):** &#91;Apify&#93; 1st Customer Award
-- **How it used Apify:** Sponsor use not stated on Devpost
+- **How it used Apify:** The project uses Apify to collect live prices and stock across sellers.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -403,7 +403,7 @@ Solo founder doesn't mean solo employee. Cofounder is your entire AI staff—it 
 - **Code:** [Source 1](https://github.com/princymaheshwari/CoFounder)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GWiMsCl8rP4)
 - **All prizes at this hackathon (1):** &#91;Apify&#93; Best Use of Apify
-- **How it used Apify:** Marketing runs on what's happening right now, using Apify and LinkedIn.
+- **How it used Apify:** Every week, Company Radar runs Apify’s LinkedIn post search.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -426,7 +426,7 @@ Helping ALS patients do simple tasks by using their mind to run AI Agents.
 - **Code:** [Source 1](https://github.com/StephenSook/say-when)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HHcyu21N99Y)
 - **All prizes at this hackathon (1):** &#91;Apify&#93; Best Use of Apify
-- **How it used Apify:** Apify — Web research, maps, and task execution: Provides the RAG Web Browser and Google Maps integrations for retrieving relevant live information.
+- **How it used Apify:** Apify provides the RAG Web Browser and Google Maps integrations for retrieving live information.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -449,7 +449,7 @@ Fire Drill runs invoice fraud against an accounts-payable agent as a drill , by 
 - **Code:** [Source 1](https://github.com/shokhabbos-mukhammatov/calhacks13)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TZ16uPUPuRw)
 - **All prizes at this hackathon (1):** &#91;Apify&#93; 1st Customer Award
-- **How it used Apify:** Sponsor use not stated on Devpost
+- **How it used Apify:** The project uses two published Apify Actors for the drill runner and practice target.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -472,7 +472,7 @@ The autonomous back office for freight finance.
 - **Code:** [Source 1](https://github.com/rishi-golla/calhacks-26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TkP7p4THipM)
 - **All prizes at this hackathon (1):** &#91;Apify&#93; 1st Customer Award
-- **How it used Apify:** Sponsor use not stated on Devpost
+- **How it used Apify:** The project gives its agents access to real-time web data via Apify to validate cases.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -495,7 +495,7 @@ NightFall is an AI-powered safety companion that detects and prevents dementia-r
 - **Code:** [Source 1](https://github.com/evanoctave/calhack-)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=yO55LLLEIVI)
 - **All prizes at this hackathon (1):** &#91;Apify&#93; Best Use of Apify
-- **How it used Apify:** Using Apify and map data, it finds nearby hazards, places that are open all night, and spots that matter to the person.
+- **How it used Apify:** The project uses Apify and map data to find nearby hazards and places that are open all night.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -518,7 +518,7 @@ Hands-free computer control with eye tracking, voice and an AI agent.
 - **Code:** [Source 1](https://github.com/itsmarsss/pupil)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6Uv1twCgDMY)
 - **All prizes at this hackathon (1):** &#91;Apify&#93; Best Use of Apify
-- **How it used Apify:** Apify: the agent starts background research runs on a custom Apify Actor ( Apify ID = anthonylu/accessible-decision-researcher ) and fetches public pages through Apify, with hard caps on time and cost.
+- **How it used Apify:** The agent starts background research runs on a custom Apify Actor.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -541,7 +541,7 @@ Scan your ER bill. See which charges don't match the hospital's own prices, whet
 - **Code:** [Source 1](https://github.com/VolodymyrLinuxovich/recount)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=24TXyeufQPs)
 - **All prizes at this hackathon (1):** &#91;Apify&#93; Best Actor sponsored by Apify
-- **How it used Apify:** Sponsor use not stated on Devpost
+- **How it used Apify:** The project uses an Apify Actor to find and stream CMS price files and extract charity care limits.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -576,7 +576,7 @@ Argo is your real-time Jira assistant for meetings. Don't worry about managing J
 - **Code:** [Source 1](https://github.com/Babagesh/Argo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Drz3VmP_8tU)
 - **All prizes at this hackathon (1):** &#91;Atlassian&#93; Best Agent / Best Security Solution for Agents
-- **How it used Atlassian:** Sponsor use not stated on Devpost
+- **How it used Atlassian:** An Atlassian Forge app shows history in Jira on a panel attached to each issue.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -599,7 +599,7 @@ Don’t take its word for it. Watch it.
 - **Code:** [Source 1](https://github.com/jadenmli/credo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NZFvDoftuiY)
 - **All prizes at this hackathon (1):** &#91;Atlassian&#93; Best Agent / Best Security Solution for Agents
-- **How it used Atlassian:** Sponsor use not stated on Devpost
+- **How it used Atlassian:** The project reads Jira acceptance criteria, the linked Confluence spec, and the code changes when a PR opens.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -628,7 +628,7 @@ Bellhop uses voice agents to help victims of fraud receive timely, structured as
 - **Code:** [Source 1](https://github.com/Happy-Key/Bellhop)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=h9w0MqiIO4o)
 - **All prizes at this hackathon (1):** &#91;Bitdeer AI&#93; Best Use of Bitdeer AI Model Studio
-- **How it used Bitdeer AI:** Sponsor use not stated on Devpost
+- **How it used Bitdeer AI:** The team used BitDeer models for the internal analysis engine.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -657,7 +657,7 @@ An app where AI agents read every nearby store's Instagram, TikTok, and website 
 - **Code:** [Source 1](https://github.com/azh05/dibs-app)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YFD5S7mlP5E)
 - **All prizes at this hackathon (1):** &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data
-- **How it used Bright Data:** Quality: 241 pytest tests with fake Claude, Bright Data, Apify and Elastic (no keys or credits needed), Convex tests with Vitest, and GitHub Actions CI that tests and deploys on every merge.
+- **How it used Bright Data:** Bright Data's SERP API finds missing accounts and recent deal posts on Google.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -680,7 +680,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=aRcpU5eLNJ
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aRcpU5eLNJc)
 - **All prizes at this hackathon (1):** &#91;Bright Data&#93; Best Agent/App Using Public Web Data sponsored by Bright Data
-- **How it used Bright Data:** Sponsor use not stated on Devpost
+- **How it used Bright Data:** The project uses the Web Scraper API and Web Unlocker from Bright Data to pull Zillow listings, price comps and listing photos.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -707,7 +707,7 @@ A shopping tool learns someone's style from photos and searches across retailers
 - **Code:** [Source 1](https://github.com/arissazheng/niche)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OPB7mJICaS4)
 - **All prizes at this hackathon (1):** &#91;Capital One&#93; Best Use of Nessie
-- **How it used Capital One:** Technical execution: Claude plans and visually ranks; Apify and Bright Data search stores, resale and independent labels in parallel; SpacetimeDB streams results; Snowflake Cortex checks prices; Nessie keeps the agent on budget.
+- **How it used Capital One:** Nessie keeps the agent on budget.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -734,7 +734,7 @@ A voice project helps people affected by cancer communicate using synthesized sp
 - **Code:** [Source 1](https://github.com/thaimtl/Silent-Voice)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=n129qcT64Og)
 - **All prizes at this hackathon (2):** &#91;Cartesia&#93; Best Use of Cartesia · Cal Hacks Second Overall
-- **How it used Cartesia:** The team cloned Austin's voice with Cartesia and streamed it to Sonic 3.6, using both his expression and his facial muscles to portray his emotions.
+- **How it used Cartesia:** The team used Cartesia to clone a voice and streamed it to Sonic 3.6.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -761,7 +761,7 @@ Real-world data, verified by AI, paid out instantly.
 - **Code:** [Source 1](https://github.com/stephenhungg/skarl)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mSNAkI_mGPY)
 - **All prizes at this hackathon (1):** &#91;Coinbase&#93; Best Use of x402 by Coinbase
-- **How it used Coinbase:** Sponsor use not stated on Devpost
+- **How it used Coinbase:** The team wrote a Coinbase Wallet MCP plugin so an AI agent can create and fund an order.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -784,7 +784,7 @@ Make trading intuitive, fun, and physically rewarding.
 - **Code:** [Source 1](https://github.com/sarah-min/StockUp)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7Vt0G7edMeM)
 - **All prizes at this hackathon (1):** &#91;Coinbase&#93; Best Use of x402 by Coinbase
-- **How it used Coinbase:** Sponsor use not stated on Devpost
+- **How it used Coinbase:** The agents use Coinbase MCP to calculate and execute trades.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -813,7 +813,7 @@ Lobe lets students explore brain MRI scans together in 3D. Reveal tumor outlines
 - **Code:** [Source 1](https://github.com/DuongAnh1201/Lobe)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Az7_46Kvptc)
 - **All prizes at this hackathon (1):** &#91;Convex&#93; Best use of Convex
-- **How it used Convex:** GitHub Actions runs the Convex, frontend and backend test suites on every push.
+- **How it used Convex:** Convex stores sessions, presence, pointers, chat, notes, whiteboard items, game rounds, and transcripts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -871,7 +871,7 @@ A loan marketplace where AI agents negotiate for you but can't be tricked: a ref
 - **Code:** [Source 1](https://github.com/karanpdx/calhacks-13)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_F54ewxZ2YY)
 - **All prizes at this hackathon (1):** &#91;CRS&#93; Best Use of CRS API
-- **How it used CRS:** It runs on the live CRS sandbox, falls back to saved data one product at a time, and says so on screen when it does.
+- **How it used CRS:** The project uses the CRS Credit API sandbox with saved responses as a fallback.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -894,7 +894,7 @@ A risk-aware debt autopilot for people whose income changes every week: it finds
 - **Code:** [Source 1](https://github.com/thebreezyguy1/debtpilot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QQd0eGK-NIQ)
 - **All prizes at this hackathon (1):** &#91;CRS&#93; Best Use of CRS API
-- **How it used CRS:** Real sandbox, synthetic people: CRS reports are for CRS's provided test identities; the Nessie account and deposits are created by DebtPilot.
+- **How it used CRS:** The project pulls Experian reports for CRS test identities and maps tradelines to debts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -917,7 +917,7 @@ Unfamiliar callers reach InterHoot before the phone rings.
 - **Code:** [Source 1](https://github.com/nelsonli0409/InterHoot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1aBhaf3elns)
 - **All prizes at this hackathon (1):** &#91;CRS&#93; Best Use of CRS API
-- **How it used CRS:** Sponsor use not stated on Devpost
+- **How it used CRS:** The project compares claims with the protected user's credit file in the CRS sandbox.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -940,7 +940,7 @@ A live fraud agent attacks an AI accounts-payable clerk while a controller gates
 - **Code:** [Source 1](https://github.com/md-racc/redledger)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YSVCM4_Lzrc)
 - **All prizes at this hackathon (1):** &#91;CRS&#93; Best Use of CRS API
-- **How it used CRS:** Sponsor use not stated on Devpost
+- **How it used CRS:** The project verifies new hires against TransUnion identity verification through the CRS sandbox.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -967,7 +967,7 @@ Interlude is a companion for the whole care cycle: before, during, and after eve
 - **Code:** [Source 1](https://github.com/cwanggang/Interlude)
 - **Demo video:** [Video 1](https://vimeo.com/1239254895)
 - **All prizes at this hackathon (1):** &#91;Elastic&#93; Best use of the Elastic Agent Builder on a Serverless Instance
-- **How it used Elastic:** Sponsor use not stated on Devpost
+- **How it used Elastic:** The project uses Elasticsearch to find visit passages for its voice agent during calls.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -990,7 +990,7 @@ A web app that works out how much commission each sales rep has earned, catches 
 - **Code:** [Source 1](https://github.com/aaditisinghal/Quota)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iVvCbKBY73w)
 - **All prizes at this hackathon (1):** &#91;Elastic&#93; Best use of the Elastic Agent Builder on a Serverless Instance
-- **How it used Elastic:** Sponsor use not stated on Devpost
+- **Elastic:** Built with elastic (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1017,7 +1017,7 @@ Robots fail on anything new. Instead of retraining a VLA, Skillsmith has Factory
 - **Code:** [Source 1](https://github.com/VikramKaramsetty/skillsmith)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Ut2CdytFdAQ)
 - **All prizes at this hackathon (1):** &#91;Factory&#93; Best Use of the Factory Droid SDK
-- **How it used Factory:** Sponsor use not stated on Devpost
+- **How it used Factory:** The project uses Factory Droid to rewrite Python programs when the robot arm fails.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1046,7 +1046,7 @@ An interface lets users assign keyboard actions to physical surfaces.
 - **Code:** [Source 1](https://github.com/Shrithan/DESK)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UpsJVbuEsIU)
 - **All prizes at this hackathon (1):** &#91;Fetch.ai&#93; Best Use of ASI:One
-- **How it used Fetch.ai:** Sponsor use not stated on Devpost
+- **How it used Fetch.ai:** The project uses ASI:One as its planner.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1069,7 +1069,7 @@ A family safety tool uses agents to verify a money request with the actual famil
 - **Code:** [Source 1](https://github.com/khuzaymaa918/family-shield)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dENdqjMubLI)
 - **All prizes at this hackathon (1):** &#91;Fetch.ai&#93; Best Use of ASI:One
-- **How it used Fetch.ai:** Fetch.ai uAgents + Agentverse + ASI:One: five agents with mailboxes, coordinating over typed messages.
+- **How it used Fetch.ai:** The project uses Fetch.ai uAgents, Agentverse, and ASI:One for five agents that coordinate over typed messages.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1092,7 +1092,7 @@ Buyer and seller agents negotiate the price of PC parts through sealed bids.
 - **Code:** [Source 1](https://github.com/vs-githjk/fish-market-nothing-fishy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=kv0vo8mmN5U) · [Video 2](https://www.youtube.com/watch?v=r7fuf_UPoa8)
 - **All prizes at this hackathon (1):** &#91;Fetch.ai&#93; Best Use of Fetch.ai
-- **How it used Fetch.ai:** Sponsor use not stated on Devpost
+- **How it used Fetch.ai:** The Buyer takes goals in ASI:One over the Agent Chat Protocol.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1115,7 +1115,7 @@ A marketing simulation lets a team explore how a proposed launch might perform b
 - **Code:** [Source 1](https://github.com/RoboX2020/Mark-Et-GTM)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EQXDrC-5XXs)
 - **All prizes at this hackathon (1):** &#91;Fetch.ai&#93; Best Use of ASI:One
-- **How it used Fetch.ai:** Sponsor use not stated on Devpost
+- **Fetch.ai:** Built with fetch.ai (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1138,7 +1138,7 @@ A shopping tool follows prices after a purchase and flags potential refunds when
 - **Code:** [Source 1](https://github.com/vnnphm/RefundHunter)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=S4-WSQmkzrE)
 - **All prizes at this hackathon (1):** &#91;Fetch.ai&#93; Best Use of ASI:One
-- **How it used Fetch.ai:** Refund Hunter is five Fetch.ai uAgents, each registered on Agentverse with its own address and mailbox.
+- **How it used Fetch.ai:** Refund Hunter registers five Fetch.ai uAgents on Agentverse, each with its own address and mailbox.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1161,7 +1161,7 @@ A pillow checks in by voice when an older adult has not returned to bed and can 
 - **Code:** [Source 1](https://github.com/keanucz/resteasy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ztKIyriEbZc)
 - **All prizes at this hackathon (1):** &#91;Fetch.ai&#93; Best Use of Fetch.ai
-- **How it used Fetch.ai:** Sponsor use not stated on Devpost
+- **How it used Fetch.ai:** Each family member has their own Agentverse agent, and the pillow has one too.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1184,7 +1184,7 @@ A group trip assistant collects votes in chat and builds an itinerary everyone c
 - **Code:** [Source 1](https://github.com/aj1575/detour)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=M3fWzGOPadU)
 - **All prizes at this hackathon (1):** &#91;Fetch.ai&#93; Best Use of Fetch.ai
-- **How it used Fetch.ai:** Fetch.ai: 12 uAgents with the Agent Chat Protocol, registered on Agentverse with mailboxes and reached from ASI:One.
+- **How it used Fetch.ai:** The project registers 12 uAgents on Agentverse with mailboxes for use from ASI:One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1207,7 +1207,7 @@ A resale tool uses photos to generate listings and agents to negotiate within a 
 - **Code:** [Source 1](https://github.com/kevinjylin/Yardsale)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sJ1U9u8AtUo)
 - **All prizes at this hackathon (1):** &#91;Fetch.ai&#93; Best Use of Fetch.ai
-- **How it used Fetch.ai:** The first few are hosted on Agentverse with their own profile page; the rest run in the server, with no cap.
+- **How it used Fetch.ai:** Seven Fetch.ai uAgents and the item agents are in one Bureau and connect to Agentverse as mailbox agents.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1259,7 +1259,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=fmnPOpoLz6
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fmnPOpoLz6E)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Most Creative
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **How it used Figma:** The project uses Figma for design and planning.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1282,7 +1282,7 @@ A working design editor inside Figma uses variables to implement a processor, co
 - **Code:** [Source 1](https://github.com/ericchen356/figma-cpu)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KERFsr0ZBOg)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Best Use Case
-- **How it used Figma:** Two Figma is a working Figma editor built inside Figma, running on logic gates that Figma's own prototype engine computes.
+- **How it used Figma:** Two Figma is a working editor built inside Figma, running on logic gates that Figma’s prototype engine computes.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1309,7 +1309,7 @@ A shopping assistant flags product recommendations that may be based on manipula
 - **Code:** [Source 1](https://github.com/deadinternettheory-calhacks/dead-internet-theory)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6chLVx2E-yM)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry
-- **How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+- **How it used GoDaddy Registry:** The team registered deadinternettheory.us through GoDaddy Registry.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1336,7 +1336,7 @@ A hands-free recipe player lets families cook along to recordings made by their 
 - **Code:** [Source 1](https://github.com/calebwang26/homecookd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8Ibl2QnL9dw)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Uploads and storage: A small upload signer on Google Cloud Run gives the phone a safe one-time link to upload each video to Google Cloud Storage.
+- **How it used Google:** Gemini watches the video, notes what the cook said and did with timestamps, then orders and shortens the steps.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1486,7 +1486,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=c00p0ouf_h
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=c00p0ouf_hw)
 - **All prizes at this hackathon (1):** &#91;Mana&#93; Best Use of Mana
-- **How it used Mana:** The team built Campanion with Mana, using React for the interface and Firebase for persistent data and real-time updates.
+- **How it used Mana:** The team built Campanion with Mana.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1509,7 +1509,7 @@ GRIDPILOT: Your 3 a.m. on-call crew that fixes the data center and closes the bo
 - **Code:** [Source 1](https://github.com/pateldhruv1672/gridpilot)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KgQwf55Fm-M)
 - **All prizes at this hackathon (1):** &#91;Mana&#93; Best Use of Mana
-- **How it used Mana:** Mana runs the Python backend as a supervised daemon in its sandbox, exposes it through Mana ingress with a signed URL, and verifies every caller's identity ( X-Sender-Uid ) at the edge.
+- **How it used Mana:** Mana runs the Python backend as a supervised daemon in its sandbox.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1532,7 +1532,7 @@ Stop hand-building robot simulations. Film your table on a phone, and RealiSIM t
 - **Code:** [Source 1](https://github.com/ChampCNV/RealiSIM)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_4b_uGPmwYI)
 - **All prizes at this hackathon (1):** &#91;Mana&#93; Best Use of Mana
-- **How it used Mana:** The team also used Notability to design the AI-agent interactions, multi-robot coordination workflows, Mana website layouts, and final demo storyboard.
+- **How it used Mana:** The team used Mana to develop its React interface, including video uploads and simulation configuration.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1669,7 +1669,7 @@ A second set of ears for every air traffic controller: AI agents that catch miss
 - **Code:** [Source 1](https://github.com/Dee-1862/unstep)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HQD8kuxBE3U)
 - **All prizes at this hackathon (1):** &#91;Moss&#93; Long Horizon Agent
-- **How it used Moss:** Every plane has its own in-process Moss session holding every clearance it heard, on board.
+- **How it used Moss:** An in-process Moss session holds every clearance a plane heard.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1698,7 +1698,7 @@ A platform helps students stay connected to class during medical care.
 - **Code:** [Source 1](https://github.com/Samvidab/CuraLink)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P6o2dWYYxjU)
 - **All prizes at this hackathon (1):** &#91;Notability&#93; Best Use of Notability
-- **How it used Notability:** Sponsor use not stated on Devpost
+- **How it used Notability:** The project uses a Notability testing journal to document each phase and improve implementation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1721,7 +1721,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=9DtLgJCZ3o
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=9DtLgJCZ3oQ)
 - **All prizes at this hackathon (1):** &#91;Notability&#93; Best Use of Notability
-- **How it used Notability:** Sponsor use not stated on Devpost
+- **Notability:** Built with notability (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1744,7 +1744,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=euyaNV9gb2
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=euyaNV9gb2U)
 - **All prizes at this hackathon (1):** &#91;Notability&#93; Best Use of Notability
-- **How it used Notability:** Notability 13/13: Reflecting on the complete process.
+- **How it used Notability:** The team kept research, sketches and revision notes in Notability.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1767,7 +1767,7 @@ A navigation aid gives visually impaired users real-time scene feedback through 
 - **Code:** [Source 1](https://github.com/yukevindai/VisionOS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7-MghH5U9Ss)
 - **All prizes at this hackathon (1):** &#91;Notability&#93; Best Use of Notability
-- **How it used Notability:** Sponsor use not stated on Devpost
+- **Notability:** Built with notability (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1794,7 +1794,7 @@ A nursing-home monitoring system learns each resident's baseline and flags chang
 - **Code:** [Source 1](https://github.com/snr2753423/Vigil_calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R6qeykXL17Q)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Snowflake API
-- **How it used Snowflake:** Two integrations, two jobs: Tiger Data is the live layer ("what is happening now"); Snowflake is the intelligence layer ("what it means, and what to do").
+- **How it used Snowflake:** The team used Cortex Analyst for plain-English questions over a semantic model.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1850,7 +1850,7 @@ A benchmark lets users watch how AI agents make decisions and inspect the measur
 - **Code:** [Source 1](https://github.com/BeanyZoldyck/endersbench)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tvfnVoL_0-o) · [Video 2](https://www.youtube.com/watch?v=wfW4pbF57nE)
 - **All prizes at this hackathon (1):** &#91;Spacetime&#93; Best Use of Spacetime
-- **How it used Spacetime:** Generated TypeScript bindings connect the viewer, harness, and recorder; results are exported over SpacetimeDB's SQL HTTP API.
+- **How it used Spacetime:** The live simulation is a TypeScript module on SpacetimeDB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1873,7 +1873,7 @@ A robotics workflow coordinates collection of demonstrations and uses them to fi
 - **Code:** [Source 1](https://github.com/jaximus808/GeonosisAI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HToL9LhmV2s)
 - **All prizes at this hackathon (1):** &#91;Spacetime&#93; Best Use of Spacetime
-- **How it used Spacetime:** RoboFactory uses SpacetimeDB to share tasks, robot control leases, and payout records across services.
+- **How it used Spacetime:** The backend publishes its URL into SpacetimeDB with an HMAC proof.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1896,7 +1896,7 @@ A finance workflow uses agents for month-end close tasks and waits for human app
 - **Code:** [Source 1](https://github.com/3nvyx/luyten)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=is1IP042_v8)
 - **All prizes at this hackathon (1):** &#91;Spacetime&#93; Best Use of Spacetime
-- **How it used Spacetime:** On every pull request, CI runs the module smoke test, which tries every gate and refusal against a real SpacetimeDB.
+- **How it used Spacetime:** CI runs module smoke tests against a real SpacetimeDB on every pull request.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1919,7 +1919,7 @@ A shared coding workspace coordinates AI agents working across devices.
 - **Code:** [Source 1](https://github.com/chuddrw/CalHacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8ImPqzqmFgQ)
 - **All prizes at this hackathon (1):** &#91;Spacetime&#93; Best Use of Spacetime
-- **How it used Spacetime:** The team built Orkio using Factory Droid SDK, SpacetimeDB, Claude Code hooks, MCP, Git, TypeScript, and Vitest.
+- **How it used Spacetime:** The team integrated Factory Droid and SpacetimeDB into a system that coordinates development across independent agent environments, while allowing developers to continue using their normal Git workflows.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1942,7 +1942,7 @@ A collaborative canvas gives a team a shared place to do its accounting.
 - **Code:** [Source 1](https://github.com/Rahuchpred/Pacilio)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=F4qrINg8msw)
 - **All prizes at this hackathon (1):** &#91;Spacetime&#93; Best Use of Spacetime
-- **How it used Spacetime:** The app is built using SpacetimeDB.
+- **How it used Spacetime:** The team built the app using SpacetimeDB.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1988,7 +1988,7 @@ A satellite-tracking dashboard estimates where debris from reentry might land.
 - **Code:** [Source 1](https://github.com/bobbybendola/skyFall)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m9VnLBoztKQ)
 - **All prizes at this hackathon (1):** &#91;Spacetime&#93; Best Use of Spacetime
-- **How it used Spacetime:** SKYFALL uses SpacetimeDB to store satellite decay outcomes and score its forecasts.
+- **How it used Spacetime:** The team built the forecast-validation layer in SpacetimeDB with decay outcomes and forecast scoring.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2011,7 +2011,7 @@ A commerce tool lets merchants review AI-organized evidence when investigating r
 - **Code:** [Source 1](https://github.com/shubhaych/vouch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pf4iXxd5D_o)
 - **All prizes at this hackathon (1):** &#91;Spacetime&#93; Best Use of Spacetime
-- **How it used Spacetime:** SpacetimeDB stores finance events; deterministic code reconciles decision, processor, bank, warehouse, and ledger records.
+- **How it used Spacetime:** SpacetimeDB holds shoppers, purchases, claims, analysis steps, artifacts, findings, recommendations, decisions and score changes.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2065,7 +2065,7 @@ The team built a live dashboard so that any scientist/lab technician can view th
 - **Code:** [Source 1](https://github.com/Omm2005/laminar)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CZ1orYlswwY)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Tiger Data
-- **How it used Tiger Data:** Telemetry streams to Tiger Data, and other labs can send test requests through Fetch.ai agents on ASI:One, still gated by a technician at the bench.
+- **How it used Tiger Data:** Telemetry streams to Tiger Data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2119,7 +2119,7 @@ The hardware guardian for software you can't trust.
 - **Code:** [Source 1](https://github.com/share-a-byte/warden)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ahTiwQ9xVaE)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** Sponsor use not stated on Devpost
+- **Vultr:** Built with vultr (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

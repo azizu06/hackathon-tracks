@@ -23,7 +23,7 @@
 
 Memento helps elderly people connect with their families by reflecting on and sharing cherished memories, sparking meaningful conversations that strengthen bonds across generations.
 
-**How it used Reflex:** Sponsor use not stated on Devpost
+**How it used Reflex:** The team used Reflex to implement the UI.
 
 [Code](https://github.com/AlexLuu1/Memento) · Built with reflex, chroma, deepgram, gemini
 
@@ -33,7 +33,7 @@ Memento helps elderly people connect with their families by reflecting on and sh
 
 Tool Assisted Shopping; Accelerate your shopping to robot-like efficiency.
 
-**How it used Reflex:** Webapp: The web application is developed using Reflex, providing a responsive and modern interface for users.
+**How it used Reflex:** The web application was developed using Reflex.
 
 [Code](https://github.com/Turtdle/TAS-Frontend) · Built with reflex, amazon-web-services, firebase, gemini
 

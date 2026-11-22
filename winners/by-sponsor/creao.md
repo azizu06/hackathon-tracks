@@ -23,7 +23,7 @@
 
 Anima Labs is an agentic development environment for computational neuroscience.
 
-**How it used Creao:** Study analyst: Interprets saved simulation measurements and generates figures, cited manuscripts, and downloadable LaTeX PDFs inside CREAO.
+**How it used Creao:** The team also used the persistent memory feature of CREAO's agents to allow users to iterate on research projects.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopSg) · Built with creao, arxiv, docker, europe-pmc
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=UBaKKoPopS
 
 An autonomous finance team where nothing moves without proof: Creao agents pick the right vendor and check every bill, with CRS verifying every claim before a dollar is paid.
 
-**How it used Creao:** Every decision-making agent runs on Creao.
+**How it used Creao:** Every live decision runs on Creao.
 
 [Code](https://github.com/anagpal18/CalHacks13.0) · [Demo video](https://www.youtube.com/watch?v=NeESl1hYsCw) · Built with creao, anthropic-claude, crs-credit-api, fastify
 
@@ -55,7 +55,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=zwbd8wDYVz
 
 Upload ads, get clear scores, one-line reasons, and precise fixes—then a ranked Top 10 by platform/audience in minutes. AdSensei helps designers iterate fast and marketers scale winners.
 
-**How it used Creao:** AdSensei uses Creao for the interface that presents ad recommendations.
+**How it used Creao:** The team used Creao.ai for the UI.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2BA) · Built with amazon-web-services, creaoai, lava, llm
 
@@ -65,7 +65,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2B
 
 Talking to users early changed the entire direction.
 
-**How it used Creao:** Sponsor use not stated on Devpost
+**How it used Creao:** The team used the Creao platform for application development.
 
 [Code](https://github.com/ericrcwu001/calhacks) · [Demo video](https://www.youtube.com/watch?v=rw9_SdR0mUo) · Built with creao, flask, gemini, node.js
 
@@ -85,7 +85,7 @@ CivitasX turns cities into autonomous digital ecosystems—AI agents that unders
 
 Stop hunting, start researching: AI that finds opportunities and opens doors.
 
-**How it used Creao:** Sponsor use not stated on Devpost
+**How it used Creao:** The project uses Creao.ai to accelerate UI development and component generation.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=aX6u9S8C7Co) · Built with creao.ai, alembic-(database-migrations), brightdatamcp, claude
 

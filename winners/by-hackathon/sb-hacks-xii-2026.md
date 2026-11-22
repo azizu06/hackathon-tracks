@@ -51,8 +51,8 @@ An AI copilot for dispatchers that calmly guides them through urgent situations,
 - **Code:** [Source 1](https://github.com/declanhogg100/dispatchiq)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=phR1pTLS3JY)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Gemini API · Deepgram API Challenge
-- **How it used Deepgram:** Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface.
-- **How it used Google:** Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface.
+- **How it used Deepgram:** Deepgram provides live speech-to-text.
+- **How it used Google:** Gemini reasons over transcripts to track structured information for the dispatcher interface.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -75,8 +75,8 @@ Turn live conversations into a shared itinerary—maps, places, and bookings upd
 - **Code:** [Source 1](https://github.com/SanjayMarathe/nomad)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=JQJX066AJHk)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Solana · Deepgram API Challenge
-- **How it used Deepgram:** Sponsor use not stated on Devpost
-- **How it used Solana:** Payments: Solana Web3.js integrates with Phantom wallet for devnet transactions.
+- **How it used Deepgram:** The project uses Deepgram’s Nova-2 model to transcribe speech and Aura TTS for the agent’s voice.
+- **How it used Solana:** Solana Web3.js integrates with Phantom wallet for devnet transactions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -107,7 +107,7 @@ Cartify: Your AI voice assistant for personalized grocery lists and automated sh
 - **Code:** [Source 1](https://github.com/Max-Changg/Cartify)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VV_kdMY3P4A)
 - **All prizes at this hackathon (1):** Deepgram API Challenge
-- **How it used Deepgram:** Sponsor use not stated on Devpost
+- **How it used Deepgram:** The project uses Deepgram for AI voice chat.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -134,7 +134,7 @@ speak a concept, step inside it in 3d.
 - **Code:** [Source 1](https://github.com/stephenhungg/flow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m0bSZZ2EIdg)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of ElevenLabs · President's Pick
-- **How it used ElevenLabs:** Flow uses ElevenLabs for educational narration and spoken answers.
+- **How it used ElevenLabs:** The team uses ElevenLabs for educational narration and voice Q&amp;A responses.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -167,7 +167,7 @@ Tinder for thrifting. Swipe through Depop finds, AI learns your style, get perfe
 - **Code:** [Source 1](https://github.com/trevordodge/sbhacks-project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_WCacm2iJ_s)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of MongoDB Atlas
-- **How it used MongoDB:** This data is stored in MongoDB Atlas, enabling fast query performance and scalable data retrieval.
+- **How it used MongoDB:** The project stores its data in MongoDB Atlas.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -200,7 +200,7 @@ PC building made easy — ask questions, identify parts, and build confidently.
 - **Code:** [Source 1](https://github.com/kevinwu098/buildr)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lfB2SNkqhy4)
 - **All prizes at this hackathon (1):** TwelveLabs API Challenge
-- **How it used TwelveLabs:** PC Part data using data scraping (Firecrawl (PC Part Picker), TwelveLabs (YT)).
+- **TwelveLabs:** Built with twelvelabs (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -223,7 +223,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pOvZoBC0Bf0)
 - **All prizes at this hackathon (1):** TwelveLabs API Challenge
-- **How it used TwelveLabs:** Sponsor use not stated on Devpost
+- **How it used TwelveLabs:** The project feeds raw footage from multiple camera angles into TwelveLabs Marengo.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -246,7 +246,7 @@ Reel-To-Real is an end-to-end autonomous travel agent.
 - **Code:** [Source 1](https://github.com/pranavgowrish/reeltoreal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=_LCzIzWPdRM)
 - **All prizes at this hackathon (1):** TwelveLabs API Challenge
-- **How it used TwelveLabs:** The system concurrently scrapes live travel data, extracts venues using NLP, parses videos for location and attractions using TwelveLabs, and validates them for quality using Google Gemini.
+- **How it used TwelveLabs:** The system uses TwelveLabs to parse videos for locations and attractions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -273,7 +273,7 @@ GradeMeIn uses a new method to detect AI plagiarism, it works through intelligen
 - **Code:** [Source 1](https://github.com/SBHacks-26/lms-sbhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dgrnQoidl2A)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Vultr
-- **How it used Vultr:** Sponsor use not stated on Devpost
+- **Vultr:** Built with vultr (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

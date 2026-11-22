@@ -23,7 +23,7 @@
 
 Jiggle Wiggle is a real-time AI movement coach that works with three input modes:.
 
-**How it used Zoom / Render:** Sponsor use not stated on Devpost
+**How it used Zoom / Render:** The project uses the Zoom Meeting SDK to join calls.
 
 [Code](https://github.com/cindyzli/jigglewiggle) · [Demo video](https://www.youtube.com/watch?v=kL3udtWY1EE) · Built with render, zoom-sdk, elevenlabs, grok
 

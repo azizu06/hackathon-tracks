@@ -33,7 +33,7 @@ MedBot turns viral health claims into evidence-backed insights and shareable vid
 
 Sham is a Chrome extension that helps you spot sketchy online stores before checkout by analyzing signals across Reddit, Instagram, and more, providing it all to you in one simple risk score.
 
-**How it used GPTZero:** It also checks the reviews sitting right on the product page and flags whether they read like they were written by an AI instead of a real customer using GPTZero.
+**How it used GPTZero:** The project uses GPTZero to flag product page reviews that read like they were written by AI.
 
 [Code](https://github.com/venniseho/hack-the-north-2026) · [Demo video](https://www.youtube.com/watch?v=8RBtLGo-Cfo) · Built with gptzero, agent, backboard.io, fastapi
 
@@ -43,7 +43,7 @@ Sham is a Chrome extension that helps you spot sketchy online stores before chec
 
 Snitch helps recruiters spot suspicious moments in remote interviews by combining behavioral signals, AI-language detection, CV checks, and visual canaries.
 
-**How it used GPTZero:** Sponsor use not stated on Devpost
+**GPTZero:** Built with gptzero (listed on Devpost)
 
 [Code](https://github.com/amelialon/Snitch) · [Demo video](https://www.youtube.com/watch?v=Yi8CKzDzxrU) · Built with gptzero, fastapi, firebase, firestore
 

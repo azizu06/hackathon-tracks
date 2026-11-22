@@ -23,7 +23,7 @@
 
 The wireless camera bear that watches, remembers, and answers when you ask.
 
-**How it used Relay:** On Relay, a single WebSocket consumer handles events; event IDs are committed to Postgres before the ACK (Relay redelivers otherwise), and every send carries a idempotency key so a reconnect replay can't double-send.
+**How it used Relay:** A single WebSocket consumer handles events on Relay.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=iHHdCwF_NRU) · Built with relay, esp32, figma, grok
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=iHHdCwF_NR
 
 An AI agent crew that checks your medical bill against what actually happened at your visit, flags charges that don't add up, and disputes them with you in control.
 
-**How it used Relay:** Sponsor use not stated on Devpost
+**How it used Relay:** The project uses Relay Messaging to manage user approvals by delivering decision cards to patient devices.
 
 [Code](https://github.com/tiwari-ira/amyna) · Built with relay, agentverse, asi-one, fastapi
 

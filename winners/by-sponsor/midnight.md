@@ -45,7 +45,7 @@ Anonymous voting platform powered by the Midnight Blockchain. Students can now v
 
 Elevyn empowers creators to monetize exclusive content and fundraisers through blockchain-powered payments, allowing supporters to unlock premium content and contribute transparently.
 
-**How it used Midnight:** With the integration of Midnight, the platform enhances privacy for both creators and supporters by enabling secure, confidential transactions.
+**How it used Midnight:** Midnight integration enables confidential transactions.
 
 [Code](https://github.com/Yash-kumar7/Elevyn) · Built with midnight, eluv.io, node.js, react
 
@@ -65,7 +65,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=HIYSX7clnl
 
 Powering a Greener Future, One Trade at a Time. A Blockchain-Powered Marketplace for Trading Clean Energy Contracts.
 
-**How it used Midnight:** Blockchain for Transparency : TradeREC uses Hedera and Midnight blockchain technology to provide secure, transparent records of every transaction.
+**How it used Midnight:** The project uses Midnight for encryption.
 
 [Code](https://github.com/eshansinghal14/hack-harvard-24) · [Demo video](https://www.youtube.com/watch?v=kejAyXxu1fU) · Built with midnight, hedera, mongodb, ocr
 

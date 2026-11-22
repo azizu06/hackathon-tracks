@@ -114,7 +114,7 @@ No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Best Use of Emerging Technology (Disney) · Best Use of Microsoft Technology
 - **How it used Disney:** Sponsor use not stated on Devpost
-- **How it used Microsoft:** Sponsor use not stated on Devpost
+- **How it used Microsoft:** The team sent two frames from each scene to Microsoft’s Cognitive Services to get a contextual description.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -194,7 +194,7 @@ Want to shop online on a site that doesn't accept bitcoin? Now you can -- via th
 - **Code:** [Source 1](https://github.com/ravirahman/bitcard-backend)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of Capital One's API - Nessie
-- **How it used Capital One:** The team uses the coinbase and Nessie APIs to handle the money, and deliver the app via a chrome extension.
+- **How it used Capital One:** The team used the Nessie API to handle money in the app.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -221,7 +221,7 @@ No public code linked · Built with coinbase, ethereum, ios
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of Coinbase API
-- **How it used Coinbase:** Sponsor use not stated on Devpost
+- **How it used Coinbase:** The app connects to a Coinbase Ethereum wallet.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -262,7 +262,7 @@ Virtual reality 3D coloring/painting experience for Google Daydream.
 - **Code:** [Source 1](https://github.com/ascn/ColoVR)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=HldNqLBlTgc)
 - **All prizes at this hackathon (1):** Google Cardboard Development Prize
-- **How it used Google:** The team used Google Daydream and extended off of the demo scene to the liking.
+- **How it used Google:** The project brings an accessible 3D experience to Google Cardboard.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -285,7 +285,7 @@ A platform that helps people collaborate towards finding missing people.
 - **Code:** [Source 1](https://github.com/ekmartin/hackmit-crowdsearch)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of Firebase
-- **How it used Google:** Crowd Search makes heavy use of Firebase, and is because of this a completely front-end based application, hosted on Firebase Hosting.
+- **How it used Google:** Firebase syncs comments, posts, and task list updates.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -308,7 +308,7 @@ No public code linked · Built with firebase, google-cardboard, arduino, c++
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Google Cardboard Development Prize
-- **How it used Google:** Player 1 and Player 2 constantly exchange game state information over the FireBase server to synchronize their virtual reality experiences with virtually no latency.
+- **How it used Google:** Players exchange game state over the Firebase server to synchronize their virtual reality experiences.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -562,7 +562,7 @@ AI-powered Chatbot which give you curated dating advice - while you're on your d
 - **Code:** [Source 1](https://github.com/96imranahmed/blackbox-public)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7KcSXuQXCng)
 - **All prizes at this hackathon (1):** Facebook Hackathon Finals Trip
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **How it used Meta:** Black Box uses Facebook for messages.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -595,7 +595,7 @@ LogoLens presents relevant stock quote data when a user sees a company logo whil
 - **Code:** [Source 1](https://github.com/ChenJonathan/Logo-Lens)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AI54o8onLBA)
 - **All prizes at this hackathon (1):** Nasdaq MarketSite Prize
-- **How it used Nasdaq:** If a logo is detected, the company of the logo is found and the NASDAQ API is used to determine the recent performance of the company’s stock.
+- **How it used Nasdaq:** The project uses the NASDAQ API to check stock prices.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -699,7 +699,7 @@ No public code linked · Built with css, flask, javascript, monkeylearn
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best NativeScript App (Progress)
-- **How it used Progress:** Sponsor use not stated on Devpost
+- **How it used Progress:** The project uses the Telerik platform to deploy the app for prototyping.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -780,7 +780,7 @@ No public code linked · Built with synaptics, javascript, love, python
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Most Innovative use of Synaptics Large Touch Sensor
-- **How it used Synaptics:** Sponsor use not stated on Devpost
+- **Synaptics:** Built with synaptics (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -830,7 +830,7 @@ No public code linked · Built with beaker, java, javascript, python
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Two Sigma Prize
-- **How it used Two Sigma:** Sponsor use not stated on Devpost
+- **How it used Two Sigma:** The team used TwoSigma's Beaker Notebook.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -857,7 +857,7 @@ No public code linked · Built with wolfram-technologies, machine-learning
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Wolfram Technologies
-- **How it used Wolfram:** Sponsor use not stated on Devpost
+- **Wolfram:** Built with wolfram-technologies (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

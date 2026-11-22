@@ -50,8 +50,8 @@ ANGEL'S PROTECTION processes live video feeds, storing data based on individuals
 - **Code:** [Source 1](https://github.com/phamleduy04/hacktx24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wCfq8UI903w)
 - **All prizes at this hackathon (3):** Best Ground-Up Model · Best use of GenAI using InterSystems IRIS Vector Search · Best Use of Intel AI
-- **How it used Intel:** The team employs YOLOv11 (with custom dataset and trained from the ground up on Intel AI Developer Cloud) for real-time human detection, coupled with segmentation model to extract clothing features from detected individuals.
-- **How it used InterSystems:** Sponsor use not stated on Devpost
+- **How it used Intel:** The team used YOLOv11 trained on Intel AI Developer Cloud for real-time human detection.
+- **How it used InterSystems:** The project stores processed data in InterSystems’ vector database.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -80,7 +80,7 @@ Staying updated with tech news is crucial. When looking at news sites, articles 
 - **Code:** [Source 1](https://github.com/natemillner/ArticleScraper)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best .Tech Domain Name
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
+- **How it used .Tech Domains:** The team hosted the website on a .tech domain.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -107,7 +107,7 @@ No public code linked · Built with cloudflare, ai, amazon-web-services, databri
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** Cloudflare Workers &amp; Cloudflare AI : Cloudflare provides robust, scalable hosting and API integration, ensuring security and speed in processing data and delivering insights.
+- **How it used Cloudflare:** FleetPulse is hosted on Cloudflare.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -161,7 +161,7 @@ Automating AWS environments for efficiency! Terraform-based solution schedules a
 - **Code:** [Source 1](https://github.com/IamAryanDubey/TempTerra)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Terraform
-- **How it used HashiCorp:** Sponsor use not stated on Devpost
+- **How it used HashiCorp:** The project uses Terraform to provision an AWS EC2 instance and an S3 bucket for Lambda code.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -180,7 +180,7 @@ Also won this track: [ANGEL'S PROTECTION](#project-angel-s-protection) (listed a
 
 Introducing PrimeTime—an advanced productivity app that uses AI to track engagement and optimize time spent on your computer to help you maximize focus and boost efficiency.
 
-[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with javascript, llms, next.js, npus
+[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with openvino, javascript, llms, next.js
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -190,7 +190,7 @@ Introducing PrimeTime—an advanced productivity app that uses AI to track engag
 - **Code:** [Source 1](https://github.com/HackTX-2024-RAAA/PrimeTime)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Intel AI
-- **How it used Intel:** Sponsor use not stated on Devpost
+- **Intel:** Built with openvino (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -213,7 +213,7 @@ Unlock the power of the command line with superMAN, an AI assistant that convert
 - **Code:** [Source 1](https://github.com/praneelseth/superMAN)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=53opgxjzhr8)
 - **All prizes at this hackathon (3):** Best LLM Hack · Best Pitch · Best Use of Intel AI
-- **How it used Intel:** LLM inference acceleration: IPEX-LLM( Intel® Extension for PyTorch&#42; Large Language Models) helped superMAN run faster and more efficiently by optimizing model performance on Intel hardware.
+- **How it used Intel:** The Intel AIPC handled intensive AI workloads.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -265,7 +265,7 @@ Therable offers a safe, smart way to track moods, recognize patterns, and provid
 - **Code:** [Source 1](https://github.com/Jaehoonoo/therable)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nkdaUeRp0Dw)
 - **All prizes at this hackathon (1):** Best use of GenAI using InterSystems IRIS Vector Search
-- **How it used InterSystems:** Sponsor use not stated on Devpost
+- **How it used InterSystems:** The project uses the IRIS Data Platform from InterSystems to host its database.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

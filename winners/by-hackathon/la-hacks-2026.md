@@ -61,8 +61,8 @@ An evaluation dashboard compares multi-agent workflows and lets developers inspe
 - **Code:** [Source 1](https://github.com/AlfredSjoqvist/multieval)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=__OU7Ftl4EM)
 - **All prizes at this hackathon (2):** Cognition Company Challenge · Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Cognition:** Sponsor use not stated on Devpost
-- **How it used Fetch.ai:** MultiEval ran an economic simulation with agents registered on Fetch.ai's Agentverse.
+- **Cognition:** Built with devin (listed on Devpost)
+- **How it used Fetch.ai:** An Agentverse uAgent receives a natural-language economic scenario.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -85,8 +85,8 @@ The light that guides you home.
 - **Code:** [Source 1](https://github.com/continuitylabs/lahacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=UO3zezz21EY)
 - **All prizes at this hackathon (2):** Track: Agentverse - Search &amp; Discovery of Agents · Zetic Company Challenge
-- **How it used Fetch.ai:** The agent swarm was done using a series of fetch.ai agentverse agents, each customized to have a specific speciality.
-- **How it used Zetic:** Northstar is a multifunctional mobile app, build on React Native with Expo with an additional native module to handle the native optimized zetic LLMs.
+- **How it used Fetch.ai:** The team built the agent swarm using Fetch.ai Agentverse agents.
+- **How it used Zetic:** The voice-based digital triage was done using Zetic's local Qwen 3.5-4B model, optimized for response time and accuracy, and summarized into the creation of the injury assessment.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -238,7 +238,7 @@ The team describes the project as “StandIn on Business”.
 - **Code:** [Source 1](https://github.com/Boroshilov03/StandIn)
 - **Demo video:** [Video 1](https://vimeo.com/1186688249)
 - **All prizes at this hackathon (1):** MLH: Best Use of Auth0 AI Agents
-- **How it used Auth0:** Sponsor use not stated on Devpost
+- **How it used Auth0:** The team used Auth0 for AI Agents across the agent network.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -265,7 +265,7 @@ AgriMind combines a robotic guardian with live farm sensors and AI video/image a
 - **Code:** [Source 1](https://github.com/ClosetCoderSad/AgriMind-LAHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Y-L3LzDw2ig)
 - **All prizes at this hackathon (1):** Cloudinary Company Challenge
-- **How it used Cloudinary:** AgriMind uses Cloudinary to store and annotate farm photos for sustainability analysis.
+- **How it used Cloudinary:** The project uses Cloudinary for image analysis on uploaded farm photos, cloud storage and annotation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -288,7 +288,7 @@ Using Cloudinary’s efficient processing and delivery, Cloudcam makes video mes
 - **Code:** [Source 1](https://github.com/erikshen128/cloudcam)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=l77n1NEQqxI)
 - **All prizes at this hackathon (1):** Cloudinary Company Challenge
-- **How it used Cloudinary:** When the recording is finished, the video blob is uploaded directly to Cloudinary using an unsigned preset.
+- **How it used Cloudinary:** The recorded video blob is uploaded directly to Cloudinary.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -311,7 +311,7 @@ Grounded AI tutoring, built on your curriculum, Interactive Learning.
 - **Code:** [Source 1](https://github.com/Preet37/SAGE)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Zubxeygcx_E)
 - **All prizes at this hackathon (1):** Cloudinary Company Challenge
-- **How it used Cloudinary:** Groq is used in LLM-related paths, ElevenLabs powers voice, Tavily supports research search, and Cloudinary powers major media/document upload and delivery flows.
+- **How it used Cloudinary:** Cloudinary powers media and document upload and delivery.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -334,7 +334,7 @@ Your tabs, turned into a study session.
 - **Code:** [Source 1](https://github.com/sudarshan-krishnan/StudyO_LAHacks_2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jQ3Fq21-e_k)
 - **All prizes at this hackathon (1):** Cloudinary Company Challenge
-- **How it used Cloudinary:** StudyO uses Cloudinary transformations to assemble educational videos and sync captions to narration.
+- **How it used Cloudinary:** The team used Cloudinary transformations to stitch multi-scene videos.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -357,7 +357,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=D_P7spBpfy
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=D_P7spBpfyQ)
 - **All prizes at this hackathon (1):** Cloudinary Company Challenge
-- **How it used Cloudinary:** Sponsor use not stated on Devpost
+- **How it used Cloudinary:** The project uses Cloudinary AI Vision to verify photos with natural language prompts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -409,7 +409,7 @@ Autopsy records every action your AI coding agent takes, autopsies the failures,
 - **Code:** [Source 1](https://github.com/balebbae/Autopsy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2bgq8hvJ32s)
 - **All prizes at this hackathon (2):** 3rd Overall · Cognition Company Challenge
-- **How it used Cognition:** Sponsor use not stated on Devpost
+- **Cognition:** Built with devin (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -432,7 +432,7 @@ AI-Native CyberSec — detect, validate, and fix vulnerabilities with agent inte
 - **Code:** [Source 1](https://github.com/KevinWu098/codebreaker)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CIyWH6rkN9c)
 - **All prizes at this hackathon (2):** 1st Overall · Cognition Company Challenge
-- **How it used Cognition:** Codebreaker integrates Devin to drive the full loop — once a candidate vuln is surfaced, Devin reproduces it, validates the exploit against the vulnerable commit, and generates a fix, accelerating security responses.
+- **How it used Cognition:** Devin built the system.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -478,7 +478,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=8-gmVsRSW2
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8-gmVsRSW2c)
 - **All prizes at this hackathon (1):** Cognition Company Challenge
-- **How it used Cognition:** Sponsor use not stated on Devpost
+- **How it used Cognition:** The project plugs into Devin via MCP.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -505,7 +505,7 @@ A navigation aid turns the live camera view into spoken directions for people wi
 - **Code:** [Source 1](https://github.com/AK20202007/A-Eye)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=m7Ee3nlPFwQ)
 - **All prizes at this hackathon (1):** MLH: Best Use of ElevenLabs
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **How it used ElevenLabs:** The project uses the ElevenLabs API for voice synthesis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -534,7 +534,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4RKYgNmFiS
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4RKYgNmFiSM)
 - **All prizes at this hackathon (1):** Fetch.ai: OmegaClaw Skill Forge powered by Agentverse
-- **How it used Fetch.ai:** CareLoop is a bottom-up Fetch.ai/uAgents care-coordination system.
+- **How it used Fetch.ai:** The project uses Fetch.ai uAgents for its agent runtime and messaging.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -557,7 +557,7 @@ A 3D scene builder turns a text prompt into an environment the user can walk thr
 - **Code:** [Source 1](https://github.com/pauligwe/Conjure)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=x404jLbdaVs)
 - **All prizes at this hackathon (1):** Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Fetch.ai:** The team makes heavy use of Fetch.AI and Agentverse agents for orchestration and task completion.
+- **How it used Fetch.ai:** The project uses Fetch.ai and Agentverse agents for orchestration and task completion.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -580,7 +580,7 @@ A tool converts building floor plans into tactile maps for accessible indoor nav
 - **Code:** [Source 1](https://github.com/aryanmudgal-tech/dots)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gWNJgLeBlTY)
 - **All prizes at this hackathon (2):** Track: Agentverse - Search &amp; Discovery of Agents · Track: Catalyst For Care
-- **How it used Fetch.ai:** Fetch.ai ASI:One for fast text-based Q&amp;A using the per-map context as the system prompt.
+- **How it used Fetch.ai:** The project uses Fetch.ai ASI:One for text-based Q&amp;A with the per-map context as the system prompt.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -603,7 +603,7 @@ Edith is a real-time multimodal AI assistant that runs on Meta Ray-Ban glasses.
 - **Code:** [Source 1](https://github.com/rishi-golla/lahacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Be9H4JvpBDg)
 - **All prizes at this hackathon (1):** Fetch.ai: OmegaClaw Skill Forge powered by Agentverse
-- **How it used Fetch.ai:** Edith delegates from OmegaClaw into the registered uAgents, including Gmail-connected workflows and locally hosted Playwright MCP automation.
+- **How it used Fetch.ai:** The project uses Agentverse as the execution layer for specialized actions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -626,7 +626,7 @@ Your proactive AI copilot — lives in your browser, reads your world, acts befo
 - **Code:** [Source 1](https://github.com/saigudisa6/jarvis)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cpjTxFlSH58)
 - **All prizes at this hackathon (1):** Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Fetch.ai:** Everything runs through ASI:One ( asi1-mini ) and is agent-deployed on Agentverse, making JARVIS a true member of the Fetch.ai agent ecosystem — not just a wrapper around an LLM.
+- **How it used Fetch.ai:** A Python orchestrator on Agentverse coordinates a network of specialized agents.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -649,7 +649,7 @@ A content tool evaluates where viewers may focus their attention and uses that f
 - **Code:** [Source 1](https://github.com/anirudhmazumder/NeuralLens)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Bf8ngLD5BEY)
 - **All prizes at this hackathon (1):** Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Fetch.ai:** NeuralLens runs its image optimization agents on Fetch.ai's Agentverse and exposes them through ASI:One.
+- **How it used Fetch.ai:** NeuralLens runs as a six-agent system on Fetch.ai’s Agentverse and is invocable through ASI:One.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -672,7 +672,7 @@ toolbox for aspiring politicians to campaign, stress-test their policies, and ru
 - **Code:** [Source 1](https://github.com/PranAD-dev/pols-15)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pVwl8clqHy4)
 - **All prizes at this hackathon (1):** Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Fetch.ai:** Dual-mode cluster agents — same uagent process serves the orchestrator's pipeline /process AND a chat protocol where users converse with an in-character persona.
+- **How it used Fetch.ai:** The project registers its 12 agents on Agentverse and binds their mailboxes at module load.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -695,7 +695,7 @@ A study tool helps users understand their focus habits and find a study partner.
 - **Code:** [Source 1](https://github.com/MaanPatel2005/Residue)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dgqo7zdmHD0)
 - **All prizes at this hackathon (1):** Track: Agentverse - Search &amp; Discovery of Agents
-- **How it used Fetch.ai:** The app first attempts to call a Python Fetch.ai uAgents orchestrator.
+- **How it used Fetch.ai:** The project uses ASI:One to chat with AI helper agents.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -718,7 +718,7 @@ An incident response system organizes information quickly for people coordinatin
 - **Code:** [Source 1](https://github.com/srinisriram/RIIS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=juhHSR9_-UE)
 - **All prizes at this hackathon (2):** 2nd Overall · Fetch.ai: Best Use of ASI:One
-- **How it used Fetch.ai:** Sponsor use not stated on Devpost
+- **How it used Fetch.ai:** Four Fetch.ai uAgents coordinate the post-detection workflow.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -745,7 +745,7 @@ A macOS assistant takes a spoken question and highlights the relevant control fo
 - **Code:** [Source 1](https://github.com/RyloRiz/accent)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=XmlBhFCtorw)
 - **All prizes at this hackathon (2):** Figma Make Challenge · Track: Light The Way
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **How it used Figma:** The team used Figma Make to generate the Accent mascot.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -791,7 +791,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0ANuoizXox
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0ANuoizXoxE)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **How it used Figma:** The project uses Figma Make to explore design system directions before writing SwiftUI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -814,7 +814,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=mNkgHS3Sgk
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mNkgHS3Sgk0)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **How it used Figma:** The project uses Figma Make to brainstorm ideas.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -860,7 +860,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=rHKdiMtREt
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rHKdiMtREt0)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** The team used Figma Make to prototype the onboarding flow, voice interface, and provider results.
+- **How it used Figma:** The team used Figma Make for first-pass layouts for onboarding, the voice interface, and provider results.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -929,7 +929,7 @@ A booking workspace helps performers find venues and manage pitches and follow-u
 - **Code:** [Source 1](https://github.com/RC3371/Scaena-LAHacks2026)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DCTjE99embY)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** Sponsor use not stated on Devpost
+- **Figma:** Built with figma (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -975,7 +975,7 @@ Snitch is an accountability platform built for students without something on the
 - **Code:** [Source 1](https://github.com/EfinZhao/Snitch)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=vLm0LcqmDr0)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** The team used Figma Make to give the team inspiration for the frontend, specifically with A/B style testing.
+- **How it used Figma:** The team used Figma Make for frontend inspiration and A/B style testing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -998,7 +998,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=2_2BNhwoFn
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2_2BNhwoFno)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** The team used Figma Make to try different designs for the hero section.
+- **How it used Figma:** The team used Figma Make to experiment with hero section designs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1021,7 +1021,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=TyN5sk7KFn
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=TyN5sk7KFns)
 - **All prizes at this hackathon (1):** Figma Make Challenge
-- **How it used Figma:** The team used Figma Make to prototype the app's initial user flow.
+- **How it used Figma:** The team used Figma Make and generated its first iterative designs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1075,7 +1075,7 @@ By mapping the user's eye movements to an on-screen cursor, individuals can navi
 - **Code:** [Source 1](https://github.com/chrisconnell7/My-Voice-LA-HACKS)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IZJ1qQYpXeE)
 - **All prizes at this hackathon (1):** MLH: Best Use of Gemma
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The project uses Gemma4 for suggested medical phrases.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1129,7 +1129,7 @@ A study app turns a textbook scan into an interactive learning session.
 - **Code:** [Source 1](https://github.com/AntonK0/lahacks26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5XL32aCzCJg)
 - **All prizes at this hackathon (1):** MLH: Best Use of MongoDB Atlas
-- **How it used MongoDB:** Sponsor use not stated on Devpost
+- **How it used MongoDB:** The project uses MongoDB Atlas as its vector database.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1156,7 +1156,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=jMh-X4L-k2
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jMh-X4L-k2U)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge
-- **How it used Roblox:** This project was built entirely in Roblox Studio using Lua.
+- **How it used Roblox:** The project was built in Roblox Studio using Lua.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1179,7 +1179,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=jjYTbE1EEb
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=jjYTbE1EEbk)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge
-- **How it used Roblox:** The team built the project in Roblox Studio using Luau for gameplay systems, UI interactions, scoring, mini-games, player progression, and storyline.
+- **How it used Roblox:** The team built the project in Roblox Studio using Luau for gameplay systems, UI interactions and player progression.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1202,7 +1202,7 @@ A Roblox game uses a growing egg companion to reward rest, journaling, and other
 - **Code:** [Source 1](https://github.com/mishphantom/Mindful-Egg)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DLuGDKtVvls)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge
-- **How it used Roblox:** The team built Mindful Egg in Roblox Studio, combining simple game mechanics with meaningful habits.
+- **How it used Roblox:** The team built Mindful Egg in Roblox Studio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1225,7 +1225,7 @@ A Roblox safety game teaches players to identify grooming and scams in chat.
 - **Code:** [Source 1](https://github.com/Anthony-Yangg/overseer)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aoXezdkHLYc)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge
-- **How it used Roblox:** Sponsor use not stated on Devpost
+- **How it used Roblox:** The team built the project in Roblox Studio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1248,7 +1248,7 @@ A Roblox detective game asks players to verify news stories by interviewing witn
 - **Code:** [Source 1](https://github.com/s9kt/LA-HACKS-2026-PIXEL-TRUTH)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=D64lghRLjOw)
 - **All prizes at this hackathon (1):** ROBLOX Civility Challenge
-- **How it used Roblox:** The team developed the experience entirely in Roblox Studio using the Luau scripting language.
+- **How it used Roblox:** The team developed the experience in Roblox Studio using Luau.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1275,7 +1275,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8iKrZ4sSS_I)
 - **All prizes at this hackathon (1):** MLH: Best Use of Solana
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** The project uses Solana devnet transaction hashes for tamper-evident provenance.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1302,7 +1302,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=EXR-oseYXU
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EXR-oseYXUs)
 - **All prizes at this hackathon (1):** MLH: Best Use of Vultr
-- **How it used Vultr:** Sponsor use not stated on Devpost
+- **How it used Vultr:** The project uses Vultr for a cloud backend that stores JSON files from demonstration videos and user login information.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1329,7 +1329,7 @@ Online marketplaces in 2026: Bots are everywhere.
 - **Code:** [Source 1](https://github.com/aryank09/banter-mart)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hn_EWcW0pX0)
 - **All prizes at this hackathon (1):** World U: Build for the future of the internet with World
-- **How it used World U:** Sponsor use not stated on Devpost
+- **How it used World U:** The project issues USDC payment commands from the client through World App and MiniKit.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1375,7 +1375,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=baX5qnjcYc
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=baX5qnjcYcc)
 - **All prizes at this hackathon (1):** World U: Build for the future of the internet with World
-- **How it used World U:** Sponsor use not stated on Devpost
+- **How it used World U:** The team integrated World/MiniKit for verified mini app login.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1427,7 +1427,7 @@ Cropt: AI-powered crop disease detector that works completely offline. Snap a ph
 - **Code:** [Source 1](https://github.com/JacobScheff/Knova)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Tn3k2QwK0Hk)
 - **All prizes at this hackathon (1):** Zetic Company Challenge
-- **How it used Zetic:** Dynamically adapts content based on prior interactions. → All computed locally using Zetic, enabling fully offline intelligence.
+- **How it used Zetic:** The project computes locally using Zetic.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1450,7 +1450,7 @@ Physical therapy fails at home because no one's watching. PhysioPal fixes that �
 - **Code:** [Source 1](https://github.com/rutujanemane/PhysioPal)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4mJqV782Fp0)
 - **All prizes at this hackathon (1):** Zetic Company Challenge
-- **How it used Zetic:** PhysioPal uses ZeticAI Melange to run pose estimation on the phone and give feedback on exercise form.
+- **How it used Zetic:** The project uses ZeticAI Melange for on-device pose estimation to track the skeleton in real time.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1473,7 +1473,7 @@ Scrubs is an iPhone app that auto-redacts PHI — names, MRNs, faces — from he
 - **Code:** [Source 1](https://github.com/Dvlta/medimask)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L_9q2m4YNkE)
 - **All prizes at this hackathon (1):** Zetic Company Challenge
-- **How it used Zetic:** Sponsor use not stated on Devpost
+- **How it used Zetic:** The team used Zetic for face detection.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

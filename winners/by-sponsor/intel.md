@@ -23,7 +23,7 @@
 
 AI-powered DJ: Enhancing live performances by analyzing crowd energy and adjusting music in real-time to match the vibe.
 
-**How it used Intel:** Sponsor use not stated on Devpost
+**How it used Intel:** The team switched to OpenVINO’s pre-trained models.
 
 [Code](https://github.com/tesims/mhacks) · Built with flask, mangodb, openvino
 
@@ -33,7 +33,7 @@ AI-powered DJ: Enhancing live performances by analyzing crowd energy and adjusti
 
 ANGEL'S PROTECTION processes live video feeds, storing data based on individuals’ clothing rather than facial recognition, thereby prioritizing privacy.
 
-**How it used Intel:** The team employs YOLOv11 (with custom dataset and trained from the ground up on Intel AI Developer Cloud) for real-time human detection, coupled with segmentation model to extract clothing features from detected individuals.
+**How it used Intel:** The team used YOLOv11 trained on Intel AI Developer Cloud for real-time human detection.
 
 [Code](https://github.com/phamleduy04/hacktx24) · [Demo video](https://www.youtube.com/watch?v=wCfq8UI903w) · Built with intel, computer-vision, fast, iris-database
 
@@ -53,9 +53,9 @@ The webcam will recognize food that is in frame (using a Computer Vision model) 
 
 Introducing PrimeTime—an advanced productivity app that uses AI to track engagement and optimize time spent on your computer to help you maximize focus and boost efficiency.
 
-**How it used Intel:** Sponsor use not stated on Devpost
+**Intel:** Built with openvino (listed on Devpost)
 
-[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with javascript, llms, next.js, npus
+[Code](https://github.com/HackTX-2024-RAAA/PrimeTime) · Built with openvino, javascript, llms, next.js
 
 ### [SongChaser](https://devpost.com/software/songchaser)
 
@@ -63,7 +63,7 @@ Introducing PrimeTime—an advanced productivity app that uses AI to track engag
 
 Search for the song on the tip of your tongue.
 
-**How it used Intel:** This was built using Intel AI PCs, with the remote desktop.
+**How it used Intel:** The team built the project using Intel AI PCs with remote desktop.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=70ziSQVSEqI) · Built with bootstrap, flask, mongodb, node.js
 
@@ -73,7 +73,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=70ziSQVSEq
 
 Unlock the power of the command line with superMAN, an AI assistant that converts natural language into terminal commands. Forget MAN pages – powered by an Intel AIPC, superMAN simplifies it all. 🔥.
 
-**How it used Intel:** LLM inference acceleration: IPEX-LLM( Intel® Extension for PyTorch&#42; Large Language Models) helped superMAN run faster and more efficiently by optimizing model performance on Intel hardware.
+**How it used Intel:** The Intel AIPC handled intensive AI workloads.
 
 [Code](https://github.com/praneelseth/superMAN) · [Demo video](https://www.youtube.com/watch?v=53opgxjzhr8) · Built with intel-aipc, intel-gpu, cloudflare, ipex-llm
 

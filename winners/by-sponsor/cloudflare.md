@@ -23,7 +23,7 @@
 
 AI-powered biometric and visual monitoring that predicts when you’re prone to bad decisions. With autonomously triggered interventions, 4sight helps you make better decisions for a better you.
 
-**How it used Cloudflare:** Sponsor use not stated on Devpost
+**How it used Cloudflare:** Biometric features and vision captions land in a Cloudflare D1 database.
 
 [Code](https://github.com/kl527/4sight) · [Demo video](https://vimeo.com/1165159968) · Built with cloudflare-containers, cloudflare-d1, cloudflare-durable-objects, cloudflare-workers
 
@@ -45,7 +45,7 @@ Play a game, shop for the party, or book an entire trip end to end. Whim puts cu
 
 Friend asking you silly questions mid-show-dialogue during the climax? No fear, CompOnion (a play on words for Companion) is here.
 
-**How it used Cloudflare:** Sponsor use not stated on Devpost
+**Cloudflare:** Built with cloudflare (listed on Devpost)
 
 No public code linked · Built with cloudflare, gemini, javascript, neon
 
@@ -55,7 +55,7 @@ No public code linked · Built with cloudflare, gemini, javascript, neon
 
 Preventing crowd crush before it happens.
 
-**How it used Cloudflare:** Sponsor use not stated on Devpost
+**Cloudflare:** Built with cloudflare (listed on Devpost)
 
 [Code](https://github.com/treehill05/eyrie) · Built with cloudflare, gemini, godaddy, nextjs
 
@@ -65,7 +65,7 @@ Preventing crowd crush before it happens.
 
 A Mastra AI-Agent powered goal tracker that gamifies your goals.
 
-**How it used Cloudflare:** The team used Next.js with Mastra for the backend and SwiftUI for the frontend, using Cloudflare for hosting and the database, and Gemini and OpenAI for agentic capabilities.
+**How it used Cloudflare:** The team uses Cloudflare for hosting and its database.
 
 [Code](https://github.com/ScorelineSocial/app) · [Demo video](https://www.youtube.com/watch?v=EeB8hbg5Bnc) · Built with cloudflare, ai-sdk, d1, eventskit
 
@@ -85,7 +85,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=-M6MWgq48N
 
 Empowering every university student to find the people they want to surround themselves with, whether that be mentors, peers in their field, or even just friends.
 
-**How it used Cloudflare:** The team built on DAIN's agentic AI platform and Cloudflare's vector database which stores the user's details like interests, weaknesses and strengths, Linkd's API scrapes Linkedin profiles to find personal similarities within profiles.
+**How it used Cloudflare:** Cloudflare's vector database stores user interests, weaknesses, and strengths.
 
 [Code](https://github.com/rami-maalouf/dain-orbit) · [Demo video](https://www.youtube.com/watch?v=Ksm0Xa9MfkU) · Built with cloudflare, api, css, dain
 
@@ -95,7 +95,7 @@ Empowering every university student to find the people they want to surround the
 
 Experience contact tracing in this game (with AI, because why not).
 
-**How it used Cloudflare:** HTML/CSS/JS/jQuery was used to develop the game frontend which is hosted on Cloudflare Pages.
+**How it used Cloudflare:** The backend runs on Cloudflare Workers.
 
 No public code linked · Built with cloudflare, css3, gemini, html5
 
@@ -105,7 +105,7 @@ No public code linked · Built with cloudflare, css3, gemini, html5
 
 Boosting confidence in the gym with proper form.
 
-**How it used Cloudflare:** Sponsor use not stated on Devpost
+**How it used Cloudflare:** The project uses Cloudflare Workers AI for AI analysis.
 
 [Code](https://github.com/danielachacon/SquatSpot) · [Demo video](https://www.youtube.com/watch?v=2_E6xy6R6-I) · Built with cloudflare, css, github, html
 
@@ -115,7 +115,7 @@ Boosting confidence in the gym with proper form.
 
 Instant, data-driven race strategy suggestions for teams.
 
-**How it used Cloudflare:** This is deployed using Terraform to Cloudflare Workers.
+**How it used Cloudflare:** The team deployed to Cloudflare Workers using Terraform.
 
 [Code](https://github.com/phamleduy04/hacktx-25) · [Demo video](https://www.youtube.com/watch?v=4SxP2n9fwpM) · Built with convex, digitalocean, flask, python
 
@@ -137,7 +137,7 @@ Backtracc reminds you of forgotten valuables when you leave rideshare vehicles b
 
 The project is an innovative AI-powered web app designed to reduce vehicle carbon emissions, addressing transportation's significant impact on greenhouse gas emissions.
 
-**How it used Cloudflare:** Cloudflare Workers &amp; Cloudflare AI : Cloudflare provides robust, scalable hosting and API integration, ensuring security and speed in processing data and delivering insights.
+**How it used Cloudflare:** FleetPulse is hosted on Cloudflare.
 
 No public code linked · Built with cloudflare, ai, amazon-web-services, databricks
 
@@ -147,7 +147,7 @@ No public code linked · Built with cloudflare, ai, amazon-web-services, databri
 
 A platform for open-source course data collection, and quiz generation.
 
-**How it used Cloudflare:** Infrastructure: Hosted with Defang for production-grade API management, alongside Cloudflare for data operations and performance optimization.
+**How it used Cloudflare:** The team used Cloudflare for data operations and performance optimization.
 
 [Code](https://github.com/SunfishTK1/open-context) · [Demo video](https://www.youtube.com/watch?v=q9SSeZdKo4U) · Built with cloudflare, defang, fastapi, nginx
 
@@ -157,7 +157,7 @@ A platform for open-source course data collection, and quiz generation.
 
 Automate your event extraction from emails.
 
-**How it used Cloudflare:** Sponsor use not stated on Devpost
+**How it used Cloudflare:** The project uses Cloudflare Workers and Pages for serverless processing and API interactions.
 
 No public code linked · Built with cloudflare, ai, groq, llama
 

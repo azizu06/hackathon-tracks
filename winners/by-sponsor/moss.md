@@ -23,7 +23,7 @@
 
 an ai teammate in your cursor.
 
-**How it used Moss:** The team used Claude for reasoning, Apify for connectors, Convex for the backend and real-time collaboration, Moss for indexing, and Cartesia for voice, alongside the custom computer-use engine and replay framework.
+**How it used Moss:** The team used Moss for indexing.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=joNnooTosPs) · Built with moss, accessibility-api, anthropic, apify
 
@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=joNnooTosP
 
 Standard Response coordinates evacuation calls and routes neighbors and accessible vehicles to households that need help.
 
-**How it used Moss:** Moss retrieves approved call-taking guidance by hazard and language before Claude responds to a resident.
+**How it used Moss:** Moss pulls call-taking principles and practice-call moments into a prompt, filtered by hazard and language.
 
 [Code](https://github.com/Imhaohao/Standard-Response) · [Demo video](https://www.youtube.com/watch?v=eNsAGHFnFJY) · Built with moss, anthropic, apify, cartesia
 
@@ -43,7 +43,7 @@ Standard Response coordinates evacuation calls and routes neighbors and accessib
 
 A second set of ears for every air traffic controller: AI agents that catch missed calls and wrong readbacks, with the controller in command.
 
-**How it used Moss:** Every plane has its own in-process Moss session holding every clearance it heard, on board.
+**How it used Moss:** An in-process Moss session holds every clearance a plane heard.
 
 [Code](https://github.com/Dee-1862/unstep) · [Demo video](https://www.youtube.com/watch?v=HQD8kuxBE3U) · Built with moss, moss-inference, cartesia, cartesia-ink
 

@@ -23,7 +23,7 @@
 
 Leverage Baidu's DeepSpeech2 network to characterize accents and help improve pronunciations.
 
-**How it used Baidu:** Sponsor use not stated on Devpost
+**Baidu:** Built with PaddlePaddle (listed on Devpost)
 
 [Code](https://github.com/alvinzz/models) · Built with paddlepaddle, python, tears, the-biggest-data
 
@@ -53,7 +53,7 @@ Robust fake news detection made simple and scalable for real people.
 
 The team describes the project as “We use Baidu's Paddle Deep Learning framework to uncover and call attention to online harassment and its biases”.
 
-**How it used Baidu:** Sponsor use not stated on Devpost
+**How it used Baidu:** The team used Baidu’s Paddle deep learning framework to train a sentiment analyzer.
 
 [Code](https://github.com/rfblue2/resentiment-analysis) · Built with css, facebook, flask, html
 

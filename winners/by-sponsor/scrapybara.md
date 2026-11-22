@@ -43,7 +43,7 @@ Control your computer with just your mind.
 
 A non-invasive wearable using novel thermoregulation research to provide precise heating/cooling to maintain core temperature. Built to enhance physical performance and battle geriatric disorders.
 
-**How it used Scrapybara:** Therms also connects to APIs (Terra, Scrapybara, OpenAI) to incorporate additional physiological data, such as heart rate, sleep patterns, and chronic conditions.
+**How it used Scrapybara:** Scrapybara automates tasks such as booking medical appointments and managing prescriptions based on detected trends.
 
 [Code](https://github.com/arnavnc/therms-platform) · [Demo video](https://www.youtube.com/watch?v=smeznyWVNhM) · Built with scrapybara, firebase, nextjs, node.js
 

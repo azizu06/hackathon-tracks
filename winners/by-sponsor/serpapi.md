@@ -23,7 +23,7 @@
 
 The practice audience that helps you show up for the real one.
 
-**How it used SerpApi:** Audience question: Gemini picks a claim, SerpApi runs one Google search (with social media filtered out), and Gemini writes a sourced question.
+**How it used SerpApi:** SerpApi runs a Google search with social media filtered out.
 
 [Code](https://github.com/Shimal-Tajale/DevilsAdvocatesSpeechBot) · [Demo video](https://www.youtube.com/watch?v=sCO3z-yDLLk) · Built with arduino, c++, css, deepgram
 
@@ -33,7 +33,7 @@ The practice audience that helps you show up for the real one.
 
 Dance Fantasy turns any song into an original dance routine, taught by a 3D dancer, while your webcam scores every beat.
 
-**How it used SerpApi:** Sponsor use not stated on Devpost
+**How it used SerpApi:** The project uses SerpApi to search Google and YouTube for a song’s dance challenge.
 
 [Code](https://github.com/luvudeshi/dance-fantasy) · [Demo video](https://www.youtube.com/watch?v=DB1vOln3nSA) · Built with serpapi, aist++, claude-code, cursor
 
@@ -43,7 +43,7 @@ Dance Fantasy turns any song into an original dance routine, taught by a 3D danc
 
 A world of stories. A story only you can tell.
 
-**How it used SerpApi:** Sponsor use not stated on Devpost
+**How it used SerpApi:** The project uses SerpAPI for real-world research.
 
 [Code](https://github.com/TanishC4444/ParaMyth) · [Demo video](https://www.youtube.com/watch?v=nDaxrcF-xis) · Built with serpapi, anime.js, d3-geo, docker
 

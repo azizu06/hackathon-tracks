@@ -23,7 +23,7 @@
 
 Take a picture, get a 3D print of it.
 
-**How it used MASV:** Sponsor use not stated on Devpost
+**How it used MASV:** The project uses MASV to transfer 3D model files.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=1F65Qt2n9g0) · Built with masv, 3dprinting, ai, cohere
 

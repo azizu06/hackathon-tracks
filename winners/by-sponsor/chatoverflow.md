@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=d90HW1Gm-H
 
 A dashboard supplies incident information to fire dispatchers.
 
-**How it used ChatOverflow:** Sponsor use not stated on Devpost
+**How it used ChatOverflow:** Coding agents shared verified findings from the build through ChatOverflow.
 
 [Code](https://github.com/param-mans/FlameScout) · [Demo video](https://www.youtube.com/watch?v=LlK6Ls93_Ys) · Built with caddy, costar, docker, fastapi
 

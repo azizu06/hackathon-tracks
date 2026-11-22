@@ -23,7 +23,7 @@
 
 Anyone can hold Lucid's handheld device to a patient's head and sweep it around, and the dashboard fills in a live map of where a bleed is likely.
 
-**How it used LangChain:** Sponsor use not stated on Devpost
+**How it used LangChain:** The project reads the LangGraph server for its dashboard and traces every run in LangSmith.
 
 [Code](https://github.com/at350/hackprinceton-fall-2026) · [Demo video](https://www.youtube.com/watch?v=IY0Rr7l58Eg) · Built with langchain, anthropic, arduino, claude
 
@@ -35,7 +35,7 @@ Anyone can hold Lucid's handheld device to a patient's head and sweep it around,
 
 Plot delivers comprehensive insights on any location. Whether you're scouting investments or shaping skylines, Plot helps you shape your plot’s plot—making smarter decisions before you break ground.
 
-**How it used LangChain:** Sponsor use not stated on Devpost
+**How it used LangChain:** The project uses LangChain to build its AI workflows.
 
 [Code](https://github.com/toni-akintola/plot) · [Demo video](https://www.youtube.com/watch?v=jkV3BTOF3GQ) · Built with langchain, mapbox, mistralai, next.js
 

@@ -71,8 +71,8 @@ No public code linked · Built with fitbit, jawbone, alchemyapi, firebase
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Fitbit - Fitbit Flex · Jawbone - For the best health hack
-- **How it used Fitbit:** Sponsor use not stated on Devpost
-- **How it used Jawbone:** Sponsor use not stated on Devpost
+- **How it used Fitbit:** The project uses calories tracked by Fitbit for its calorie cash.
+- **How it used Jawbone:** The project uses calories tracked by Jawbone for its calorie cash.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -95,7 +95,7 @@ No public code linked · Built with bloomberg, weather-underground, wolfram-tech
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Bloomberg - Best Use of the Bloomberg API · Kenshō - Best Financial Data Hack
-- **How it used Bloomberg:** Sponsor use not stated on Devpost
+- **How it used Bloomberg:** Clicking on the notification pulls up the Bloomberg page for the Dow Jones.
 - **How it used Kensho:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -143,8 +143,8 @@ No public code linked · Built with twilio, android, arduino, electric-imp
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Twilio - Twilio API Award · Weather Underground - Best use of Weather Underground API Award
-- **How it used Twilio:** Sponsor use not stated on Devpost
-- **How it used Weather Underground:** Sponsor use not stated on Devpost
+- **Twilio:** Built with twilio (listed on Devpost)
+- **How it used Weather Underground:** The project uses Weather Underground data to compare room temperature with temperature and weather conditions outside.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -200,7 +200,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=sXedTRAG5r
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sXedTRAG5rU)
 - **All prizes at this hackathon (1):** AlchemyAPI - Best Use of AlchemyAPI Award
-- **How it used AlchemyAPI:** Sponsor use not stated on Devpost
+- **How it used AlchemyAPI:** The project uses AlchemyAPI for keyword comparisons.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -316,7 +316,7 @@ Turn on your phone's (flash) light and and use the handy touch controls to produ
 - **Code:** [Source 1](https://github.com/vsiao/Lightboard)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** Firebase - Best use of Firebase · Grand Prize
-- **How it used Firebase:** Sponsor use not stated on Devpost
+- **Firebase:** Built with firebase (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -376,7 +376,7 @@ No public code linked · Built with google-earth, weather-underground
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Google, Inc.
-- **How it used Google:** Sponsor use not stated on Devpost
+- **Google:** Built with google-earth (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -550,7 +550,7 @@ No public code linked
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Pinterest - Pin It award
-- **How it used Pinterest:** Sponsor use not stated on Devpost
+- **How it used Pinterest:** The project uses Pinterest to catalog data for cloud computing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -577,7 +577,7 @@ No public code linked
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Sailthru - Smart Data Challenge
-- **How it used Sailthru:** Combines electric imp with big data provided by Sailthru to make a simple game where players try to predict which browser was more popular, given a location as a hint.
+- **How it used Sailthru:** The team used data provided by Sailthru in a game where players try to predict which browser was more popular.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -604,7 +604,7 @@ No public code linked · Built with sendgrid, alchemyapi, google-prediction, mon
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** SendGrid - Best use of SendGrid API Award
-- **How it used SendGrid:** Sponsor use not stated on Devpost
+- **SendGrid:** Built with sendgrid (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -706,7 +706,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=mRfVJjCFLf
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=mRfVJjCFLfY)
 - **All prizes at this hackathon (1):** Synaptics, Inc. - Most Innovative project with ForcePad - 1st Prize
-- **How it used Synaptics:** Use Synaptics ForcePad to play a rhythm game - not a mundane one but with sliding and pressure.
+- **How it used Synaptics:** The project uses the Synaptics ForcePad to play a rhythm game with sliding and pressure.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -766,7 +766,7 @@ No public code linked · Built with alchemyapi, weather-underground
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Twitter - Best user of Twitter
-- **How it used Twitter:** Sponsor use not stated on Devpost
+- **How it used Twitter:** The project used the Twitter Stream to gather tweets from 270 of the most populous US cities.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -793,7 +793,7 @@ No public code linked · Built with venmo, firebase, google-maps, locu
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Venmo - Makes Life So Easy
-- **How it used Venmo:** Sponsor use not stated on Devpost
+- **Venmo:** Built with venmo (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

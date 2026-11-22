@@ -23,7 +23,7 @@
 
 Making mobility accessible, cheap, simple. and modular to the health sector and the public.
 
-**How it used Viam:** Sponsor use not stated on Devpost
+**Viam:** Built with viam (listed on Devpost)
 
 [Code](https://github.com/ryanli222/yHack) · [Demo video](https://www.youtube.com/watch?v=RzqbO86LRXQ) · Built with viam, a&#42;, arduino, elevenlabs
 

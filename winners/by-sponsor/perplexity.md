@@ -23,7 +23,7 @@
 
 Claim-level truth forensics–trace any idea back to its origin and know what's actually true. Powered by Perplexity Sonar, Claude Sonnet, and Semantic Scholar, orchestrated for multi-step verification.
 
-**How it used Perplexity:** The team runs an iterative reasoning loop pairing Perplexity's search capabilities with Claude's extended thinking for deep analytical reasoning.
+**How it used Perplexity:** The project uses Perplexity Sonar with Firecrawl Extract to pull and parse content.
 
 [Code](https://github.com/yravipati/TreeHacks-2026) · [Demo video](https://www.youtube.com/watch?v=8encAO9qYUY) · Built with perplexity-sonar-api, anthropic-claude-api, css, deepgram-api
 
@@ -33,7 +33,7 @@ Claim-level truth forensics–trace any idea back to its origin and know what's 
 
 Every 2 weeks, a language dies. TongueKeeper deploys autonomous AI agents that compile and cross-reference vocabulary and grammar from scattered sources, forging them into a living language atlas.
 
-**How it used Perplexity:** Sponsor use not stated on Devpost
+**How it used Perplexity:** The project uses Perplexity Sonar for real-time web search with academic domain filtering.
 
 [Code](https://github.com/lourdrickvalsote/tonguekeeper) · [Demo video](https://www.youtube.com/watch?v=nCSd-ZjfpkI) · Built with perplexity-sonar-api, anthropic-claude-api, brightdata-mcp, browserbase/stagehand
 
@@ -55,7 +55,7 @@ FlowPilot listens, understands, and executes, transforming Zoom meetings into Sl
 
 Although intended primarily for political awareness, the tool can be used to assess the accuracy of any tweet, from debunking false sports trades to fact-checking history fun facts.
 
-**How it used Perplexity:** The team built Verify by building a Chrome-integrated UI with HTML and CSS, and a JavaScript backend that connected to Perplexity's API for accurate searching and tweet language processing.
+**How it used Perplexity:** The project uses Perplexity for customized prompt responses.
 
 [Code](https://github.com/jcub-gold/TreeHacks_25_Project) · [Demo video](https://www.youtube.com/watch?v=kRgA_4Bvj5o) · Built with perplexity, css, html, javascript
 

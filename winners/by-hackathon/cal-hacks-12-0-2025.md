@@ -112,8 +112,8 @@ A hospital coordination dashboard combines record data, nursing alerts, and pati
 - **Code:** [Source 1](https://github.com/scrappydevs/haven)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sxdgpbTRsMs)
 - **All prizes at this hackathon (3):** Fetch AI: Best Use of Fetch AI · LiveKit: Best Start-up Idea · Y Combinator: Build an Iconic YC Company - 1st Place
-- **How it used Fetch.ai:** Haven uses Fetch.ai agents to track patient vitals and flag concerning patterns.
-- **How it used LiveKit:** HavenAI Voice Assistant via LiveKit Patients and families speak naturally to Haven using LiveKit and OpenAI's realtime voice API.
+- **How it used Fetch.ai:** Fetch.ai agents monitor patient vitals and raise or dismiss issues.
+- **How it used LiveKit:** Patients and families speak to the voice assistant using LiveKit and OpenAI’s realtime voice API.
 - **How it used Y Combinator:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -162,7 +162,7 @@ CivitasX turns cities into autonomous digital ecosystems—AI agents that unders
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Fu-sYqMotpg)
 - **All prizes at this hackathon (2):** Creao: Best MCP Integration · Ripple: Best Use of XRP Ledger
 - **How it used Creao:** CivitasX was built entirely on the Creao agentic platform, which allows AI systems to design and deploy other AI systems.
-- **How it used Ripple:** Sponsor use not stated on Devpost
+- **How it used Ripple:** The project records verified civic actions on the XRP Ledger via the XRPLedger MCP.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -209,7 +209,7 @@ A wildfire operations dashboard brings live video and voice controls into the in
 - **Code:** [Source 1](https://github.com/SupratikPanuganti/CalHacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MX_pJRwUJjU)
 - **All prizes at this hackathon (2):** Vapi: Best Use of Vapi · Warp: Best Use of Warp
-- **How it used Vapi:** Orion uses Vapi to answer hands-free questions about wildfire incidents and weather.
+- **How it used Vapi:** Vapi powers a conversational AI assistant for hands-free operations.
 - **How it used Warp:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -233,8 +233,8 @@ Postman AI Agent Automation that transforms vague and slow product requirements 
 - **Code:** [Source 1](https://github.com/V-prajit/relay)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Snowflake API · Postman
-- **How it used Postman:** Deep Postman Ecosystem Use: Integrated 12+ Postman tools AI Agent Block, Flow Modules, Actions, HTTP blocks, Mock Servers, Monitors, and Analytics.
-- **How it used Snowflake:** snowflake cortex ai generates PR code (≤30 lines).
+- **How it used Postman:** Postman AI Agent processes the request.
+- **How it used Snowflake:** Snowflake cortex ai generates PR code (≤30 lines).
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -258,7 +258,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=aqoKeFthpq
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aqoKeFthpqQ)
 - **All prizes at this hackathon (2):** BitRobot Network: Best Robotics Hack - 3rd Place · Snap: Best Use of Snap Spectacles
 - **How it used BitRobot Network:** Sponsor use not stated on Devpost
-- **How it used Snap:** Wingman uses Snap Spectacles for spatial mapping and hand tracking so the wearer can control a robot.
+- **How it used Snap:** The project uses the Snap Lens Studio API to extract hand-tracking data and AR anchors.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -320,7 +320,7 @@ No public code linked · Built with html5, java, javascript, python
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Claude: Best Use of Claude
-- **How it used Anthropic:** It listens, learns, and detects using Claude to understand speech and emotion, Letta to learn daily behavior patterns, and Chroma to detect changes over time.
+- **How it used Anthropic:** The project uses Claude for intent and sentiment analysis.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -397,7 +397,7 @@ The system rethinks video compression by mirroring how the human eye perceives i
 - **Code:** [Source 1](https://github.com/k-kochhar/Salient)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bSFhoFY6hIY)
 - **All prizes at this hackathon (1):** BaseTen: Best Use of Open Source Models
-- **How it used Baseten:** Sponsor use not stated on Devpost
+- **Baseten:** Built with baseten (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -466,7 +466,7 @@ Teaching robots to see, listen, and move like us. MIRAI is an experimental human
 
 ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Specialized rooms for D&amp;D, AA, and therapy with intelligent, personalized moderation.
 
-[Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with anthropic-claude-api, asi-one, brightdata-api, docker
+[Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with brightdata-api, anthropic-claude-api, asi-one, docker
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -476,7 +476,7 @@ ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn s
 - **Code:** [Source 1](https://github.com/saurabh98s/calhacks24)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=huHLto3601A)
 - **All prizes at this hackathon (1):** The Bright Data: Best Use of Bright Data
-- **How it used Bright Data:** Sponsor use not stated on Devpost
+- **Bright Data:** Built with brightdata-api (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -522,7 +522,7 @@ Defend against suspicious charges before they even reach your account, utilizing
 - **Code:** [Source 1](https://github.com/aryan-gupta123/Guardian)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dWRFXnRT234)
 - **All prizes at this hackathon (1):** The Bright Data: Best Use of Bright Data
-- **How it used Bright Data:** combines Bright Data, Anthropic, Fish Audio, and Fetch.ai into one smooth agent.
+- **How it used Bright Data:** The team uses Bright Data's web scraping to detect changes in merchant reputation and patterns of consumer complaints.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -549,7 +549,7 @@ AI-native interior design platform that learns your taste and generates personal
 - **Code:** [Source 1](https://github.com/MurtazaKafka/artki)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=klPlCoSgnOA)
 - **All prizes at this hackathon (1):** Chroma: Best AI application using Chroma
-- **How it used Chroma:** Sponsor use not stated on Devpost
+- **How it used Chroma:** The project uses ChromaDB vector search to find similar products based on visual features, style tags, and preferences.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -576,7 +576,7 @@ Merj is your AI-powered merge copilot. It reviews both branches, understands int
 - **Code:** [Source 1](https://github.com/Anay-jo/merj)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=R1SPVzI1epU)
 - **All prizes at this hackathon (1):** CodeRabbit: Best Use of CodeRabbit AI
-- **How it used CodeRabbit:** The team were also really excited to learn about CodeRabbit and integrate their powerful ability to semantically synthesize information in git histories to enhance the quality of the final product response.
+- **How it used CodeRabbit:** The project uses CodeRabbit to summarize changes between each divergent node and its common ancestor.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -765,7 +765,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=DBU3ta6-2B
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DBU3ta6-2BA)
 - **All prizes at this hackathon (1):** Creao: Best MCP Integration
-- **How it used Creao:** AdSensei uses Creao for the interface that presents ad recommendations.
+- **How it used Creao:** The team used Creao.ai for the UI.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -788,7 +788,7 @@ Talking to users early changed the entire direction.
 - **Code:** [Source 1](https://github.com/ericrcwu001/calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rw9_SdR0mUo)
 - **All prizes at this hackathon (1):** Creao: Best Designed Web App
-- **How it used Creao:** Sponsor use not stated on Devpost
+- **How it used Creao:** The team used the Creao platform for application development.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -811,7 +811,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=aX6u9S8C7C
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=aX6u9S8C7Co)
 - **All prizes at this hackathon (1):** Creao: Smartest AI agent prize
-- **How it used Creao:** Sponsor use not stated on Devpost
+- **How it used Creao:** The project uses Creao.ai to accelerate UI development and component generation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -861,7 +861,7 @@ Intelligent IRL Meeting Organizer - A conversational AI agent designed with the 
 - **Code:** [Source 1](https://github.com/satvikprasad/calhacks25-imo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fTmvGxSzU3I)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of DigitalOcean Gradient™ AIOpt
-- **How it used DigitalOcean:** Sponsor use not stated on Devpost
+- **How it used DigitalOcean:** The project uses Digital Ocean AI Gradient for GPU tasks.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -888,7 +888,7 @@ Stack Overflow 2.0: break the prompt spiral-&gt; jump straight to the proven fix
 - **Code:** [Source 1](https://github.com/Ishaannarang22/agentoverflow)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GIcHKhtuh74)
 - **All prizes at this hackathon (1):** Elastic: Best use of the Elastic Agent Builder on a Serverless instance
-- **How it used Elastic:** User adds short human context in the web app → LAVA re-checks summary alignment → stored + indexed in Elastic.
+- **How it used Elastic:** The web app indexes JSON in Elasticsearch.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -911,7 +911,7 @@ Real-time stock market visualization application with AI-powered agent analysis.
 - **Code:** [Source 1](https://github.com/AlexLuu1/MarketMind)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=fEeDajzAcTY)
 - **All prizes at this hackathon (1):** Elastic: Best use of the Elastic Agent Builder on a Serverless instance
-- **How it used Elastic:** Six agents, each built with Elastic Agent Builder, analyze a different layer of the market: price movement, company fundamentals, news sentiment, volatility, etc.
+- **How it used Elastic:** The project uses the Elastic Agent Builder API for AI agent integration.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -938,7 +938,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=u0eB0bQYs2
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=u0eB0bQYs2o)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **ElevenLabs:** Built with elevenlabs (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -965,7 +965,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=dQw4w9WgXc
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Honorable Mention
-- **How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+- **How it used Ethereum Foundation:** The project deploys Solidity smart contracts on Ethereum testnet using Hardhat.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -988,7 +988,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7xqTMnFAi6U)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Best App Built on Ethereum, or an Ethereum L2
-- **How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+- **How it used Ethereum Foundation:** The project uses Wagmi and Viem for Ethereum interactions and its transaction lifecycle.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1001,7 +1001,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=7xqTMnFAi6
 
 Rebuilding donation trust through transparent giving.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with base, claude, erc-20, ethereum
+No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sAA) · Built with ethereum, base, claude, erc-20
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -1011,7 +1011,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=4rg1B0A5sA
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=4rg1B0A5sAA)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Honorable Mention
-- **How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+- **Ethereum Foundation:** Built with ethereum (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1034,7 +1034,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=lMsNXfb3Fn
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lMsNXfb3Fns)
 - **All prizes at this hackathon (1):** Ethereum Foundation: Honorable Mention
-- **How it used Ethereum Foundation:** Sponsor use not stated on Devpost
+- **How it used Ethereum Foundation:** The smart contract lives on the Ethereum Sepolia Testnet.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1063,7 +1063,7 @@ Agent Santa is a multi-agent system where personality-based agents connect, unde
 - **Code:** [Source 1](https://github.com/ParthPatel00/SantAI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QHjqIXtylhY)
 - **All prizes at this hackathon (1):** Fetch AI: Best Use of ASI:One
-- **How it used Fetch.ai:** Agent Santa (Gifting Agent) – the core orchestrator deployed on Agentverse.
+- **How it used Fetch.ai:** The Agent Santa gifting orchestrator is deployed on Agentverse.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1086,7 +1086,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=YaeFUbzgQF
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YaeFUbzgQFc)
 - **All prizes at this hackathon (1):** Fetch AI: Best Deployment of Agentverse
-- **How it used Fetch.ai:** EDFlow AI is an autonomous multi-agent system that coordinates emergency department preparation in under 10 seconds using Fetch.ai's uAgents framework and Claude AI.
+- **How it used Fetch.ai:** The project uses Agentverse for cloud deployment.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1109,7 +1109,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=pU3Ep86Ldj
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pU3Ep86LdjM)
 - **All prizes at this hackathon (1):** Fetch AI: Best Use of ASI:One
-- **How it used Fetch.ai:** Sponsor use not stated on Devpost
+- **Fetch.ai:** Built with asi:one (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1132,7 +1132,7 @@ The team describes the project as “From “I should” to “I did.”Our work
 - **Code:** [Source 1](https://github.com/Ganeshmohank/orbit)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-H-pOgb0LvM)
 - **All prizes at this hackathon (1):** Fetch AI: Best Use of Fetch AI
-- **How it used Fetch.ai:** Fetch.ai Agentverse - gives Orbit autonomy, persistence, and collaboration across agents.
+- **How it used Fetch.ai:** The project hosted its autonomous agent on Fetch.ai Agentverse.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1155,7 +1155,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ub4chFUHht
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ub4chFUHhtw)
 - **All prizes at this hackathon (1):** Fetch AI: Best Deployment of Agentverse
-- **How it used Fetch.ai:** Sponsor use not stated on Devpost
+- **Fetch.ai:** Built with asi:one (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1172,7 +1172,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ub4chFUHht
 
 A charming game about persuading fish to get out of the pond :).
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with audio, fish, fishaudio, gemini
+No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516pY) · Built with fishaudio, audio, fish, gemini
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
@@ -1182,7 +1182,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=P2L0ae516p
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=P2L0ae516pY)
 - **All prizes at this hackathon (1):** fish.audio: Best use of Fish Audio
-- **How it used fish.audio:** Sponsor use not stated on Devpost
+- **fish.audio:** Built with fishaudio (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1209,7 +1209,7 @@ Remixify is an innovative platform that transforms traditional advertising into 
 - **Code:** [Source 1](https://github.com/nidhigaonkar/calhacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3p9rziCgl7s)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Gemini API
-- **How it used Google:** Remixify uses Google's Gemini API to edit images.
+- **How it used Google:** Gemini automatically labels and tags the company in an uploaded image.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1236,7 +1236,7 @@ A data analysis assistant helps users explore and ask questions about their data
 - **Code:** [Source 1](https://github.com/erik-ksth/jade-ai)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NeEhUii2XYk)
 - **All prizes at this hackathon (1):** Groq: Best Use of Groq
-- **How it used Groq:** Sponsor use not stated on Devpost
+- **How it used Groq:** The project uses the Groq API to power its natural language-to-action engine.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1263,7 +1263,7 @@ Sweet is an iMessage native diabetes management AI assistant.
 - **Code:** [Source 1](https://github.com/hemanthkapa/Sweet)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bO0LeXn3RPY)
 - **All prizes at this hackathon (1):** Interaction Company: Best MCP Automation
-- **How it used Interaction Company:** Sponsor use not stated on Devpost
+- **How it used Interaction Company:** Users text the Poke AI to get health insights.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1290,7 +1290,7 @@ Multiplayer Agentic AI NPCs with shared conversational memory across all players
 - **Code:** [Source 1](https://github.com/iOliver678/calhacks12)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=2yZ_ZxMO7cY)
 - **All prizes at this hackathon (1):** JanitorAI: Most Functional, Novel, and Fun Project
-- **How it used JanitorAI:** Sponsor use not stated on Devpost
+- **JanitorAI:** Built with janitorai (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1313,7 +1313,7 @@ You thought you were off to enjoy a fun, exciting dating show experience... but 
 - **Code:** [Source 1](https://github.com/syenko/calhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=IU9fKa8SrCQ)
 - **All prizes at this hackathon (1):** JanitorAI: Most Functional, Novel, and Fun Project
-- **How it used JanitorAI:** The backend uses JanitorAI's LLM API to power dynamic, context-aware character responses that are finetuned perfectly for immersive storytelling.
+- **How it used JanitorAI:** The backend uses JanitorAI’s LLM API to power character responses.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1340,7 +1340,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=lu_9YbU01p
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lu_9YbU01pY)
 - **All prizes at this hackathon (1):** Lava: Best Use of Lava Gateway
-- **How it used Lava:** Blockchain payments via Sui (Lava Payments integration).
+- **How it used Lava:** The project uses Lava for cost calculation and usage tracking.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1363,7 +1363,7 @@ AI sales assistant you text like a coworker. 6 MCP tools handle enrichment, emai
 - **Code:** [Source 1](https://github.com/araikar08/poke-sdr)
 - **Demo video:** [Video 1](https://vimeo.com/1130627301)
 - **All prizes at this hackathon (1):** Lava: Best Use of Lava Gateway
-- **How it used Lava:** Sponsor use not stated on Devpost
+- **How it used Lava:** The project uses Lava Build to route requests to models.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1386,7 +1386,7 @@ Real-time conversation assistant with AI-powered response suggestions and emotio
 - **Code:** [Source 1](https://github.com/ianalin123/few-word-do-trick)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MEH357zinV4)
 - **All prizes at this hackathon (1):** Lava: Best Use of Lava Gateway
-- **How it used Lava:** The Intelligent Backend Layer handles speech-to-text and sentence generation using Lava and OpenAI’s GPT-5, as well as text-to-speech synthesis with ElevenLabs (more specifically, Whisper model) for customizable, emotion-aware voices.
+- **How it used Lava:** The Intelligent Backend Layer handles speech-to-text and sentence generation using Lava and OpenAI’s GPT-5.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1413,7 +1413,7 @@ No public code linked · Built with letta, elastic-search, mcp, move
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Letta: Honorable Mention
-- **How it used Letta:** Sponsor use not stated on Devpost
+- **How it used Letta:** The project uses Letta for memory blocks.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1436,7 +1436,7 @@ evolve coding agents through pvp and reinforcement on web3.
 - **Code:** [Source 1](https://github.com/qtzx06/darwin)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=8Z5D-vZgShg)
 - **All prizes at this hackathon (1):** Letta: Honorable Mention
-- **How it used Letta:** letta cloud - true cross-agent communication via send&#95;message&#95;to&#95;agent&#95;async, agents literally rewrite their own context blocks through tool calling, orchestrator uses run&#95;code to validate execution.
+- **How it used Letta:** The team used Letta Cloud for cross-agent communication.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1459,7 +1459,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=WtCWy65nES
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WtCWy65nESM)
 - **All prizes at this hackathon (1):** Letta: Honorable Mention
-- **How it used Letta:** Sponsor use not stated on Devpost
+- **How it used Letta:** The project uses Letta to store team memory and answer context queries.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1482,7 +1482,7 @@ Rewriting the stereotypes of AI with a human-first mentor built to assist you li
 - **Code:** [Source 1](https://github.com/EugeneVuong/calhacks12)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CDGuY-KRXOc)
 - **All prizes at this hackathon (1):** Letta: Honorable Mention
-- **How it used Letta:** The team makes use of Letta to create a persistent memory for the AI assistant that collects data trends and uses them to craft responses or provide suggestions.
+- **How it used Letta:** The team uses Letta to create persistent memory for the AI assistant.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1505,7 +1505,7 @@ PaperTrail is an AI research assistant that uses deep memory architectures to le
 - **Code:** [Source 1](https://github.com/thorchh/CalHacks-PaperTrail)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=CLcbFt-lo4I)
 - **All prizes at this hackathon (1):** Letta: Honorable Mention
-- **How it used Letta:** Multi-agent orchestration (Letta): supervisor agent generates targeted queries; workers fetch papers via Jina AI and evaluate in parallel.
+- **How it used Letta:** The team used Letta for multi-agent orchestration, with a supervisor agent generating targeted queries.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1528,7 +1528,7 @@ A smart AI lecture chatbot that follows along in class, lets you ask questions l
 - **Code:** [Source 1](https://github.com/nightowl23/calhacks-2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=DPN2NaGX0sA)
 - **All prizes at this hackathon (1):** Letta: Build Your First Stateful AI Agent with Letta Cloud
-- **How it used Letta:** These chunks are asynchronously processed and forwarded to two separate Letta agents via API calls.
+- **How it used Letta:** Every lecture is stored as long-term memory inside a Letta agent.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1586,7 +1586,7 @@ Analyzes crypto portfolios and generates smart liquidation strategies based on r
 - **Code:** [Source 1](https://github.com/yuktaablitz/cryptoagent-cfo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=6Pv9YAOo3Ic)
 - **All prizes at this hackathon (1):** Postman
-- **How it used Postman:** The project demonstrates both technical excellence and practical utility, combining Postman's powerful orchestration capabilities with Fetch.ai's autonomous agent framework to solve a genuine problem facing millions of young investors.
+- **How it used Postman:** The team used Postman Flows to orchestrate the workflow, with an AI Agent block for natural language parsing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -1609,7 +1609,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=Ag8dQyVADr
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Ag8dQyVADrI)
 - **All prizes at this hackathon (1):** Postman
-- **How it used Postman:** The team used Sui, Postman, and Booster K1 humanoid to power this.
+- **How it used Postman:** The team used Postman to call functions.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2018,7 +2018,7 @@ Imagine an ad network that actually respects your privacy.
 - **Code:** [Source 1](https://github.com/ACMCMC/privads)
 - **Demo video:** [Video 1](https://www.loom.com/share/e830ebef76b2495dbfd9d899350b7d61)
 - **All prizes at this hackathon (1):** Reka: Best Use of Reka
-- **How it used Reka:** The team used Google Gemini and Reka to extract key features from image and video ads, respectively.
+- **How it used Reka:** The team used Reka to extract key features from video ads.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2070,7 +2070,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=i8pdWnesvh0)
 - **All prizes at this hackathon (1):** Ripple: Best Use of XRP Ledger
-- **How it used Ripple:** PeerFund uses the XRP Ledger to record funding commitments and process loan payments.
+- **How it used Ripple:** PeerFund is a peer-to-peer lending platform built on the XRP Ledger.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2151,7 +2151,7 @@ Unite AR and electro-stimulation to perfect your beer pong game.
 - **Code:** [Source 1](https://github.com/YetSquire/BallAR)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Kqn162iM-P0)
 - **All prizes at this hackathon (1):** Snap: Best Use of Snap Spectacles
-- **How it used Snap:** The AR component is built for Snap Spectacles.
+- **How it used Snap:** The team developed the user interface and cup detection through Lens Studio in TypeScript.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2174,7 +2174,7 @@ Smart glasses let clinicians call up visual information with voice commands.
 - **Code:** [Source 1](https://github.com/DT-0907/medisnap)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=PTfQ6G_CJhs)
 - **All prizes at this hackathon (1):** Snap: Best Use of Snap Spectacles
-- **How it used Snap:** The team pushed Snap Spectacles beyond standard AR filters by using the computer vision model MediaPipe Hands to detect body landmarks in real-time.
+- **How it used Snap:** The team used Snap Spectacles with a custom Lens Studio app.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2197,7 +2197,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=1LMXyNN5t1
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=1LMXyNN5t1U)
 - **All prizes at this hackathon (1):** Snap: Best Use of Snap Spectacles
-- **How it used Snap:** Sponsor use not stated on Devpost
+- **How it used Snap:** The project integrates its AI pipeline with Snap Spectacles using SnapAR and Lens Studio.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2280,7 +2280,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=QtNbxY7Wup
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=QtNbxY7WupE)
 - **All prizes at this hackathon (1):** Sui: Best Use of Sui
-- **How it used Sui:** Sponsor use not stated on Devpost
+- **How it used Sui:** The team used the SUI stack for blockchain integration.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2303,7 +2303,7 @@ Decentralizing how humans communicate using SUI.
 - **Code:** [Source 1](https://github.com/haotianli24/sui-otter)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=a123pX0egfc)
 - **All prizes at this hackathon (1):** Sui: Best Use of Sui
-- **How it used Sui:** Secure Messaging : Features end-to-end encrypted messaging for private communication between users and within communities, built on the Sui Messaging protocol.
+- **How it used Sui:** The team built encrypted messaging on the Sui Messaging protocol.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2349,7 +2349,7 @@ Sui-powered blockchain-based ticketing and loyalty platform with policy-enforced
 - **Code:** [Source 1](https://github.com/RohanChintakindi/sui-tix)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=Whz3DoW8TeI)
 - **All prizes at this hackathon (1):** Sui: Best Use of Sui
-- **How it used Sui:** Sponsor use not stated on Devpost
+- **How it used Sui:** The project uses the Sui blockchain for ticketing and loyalty.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2378,7 +2378,7 @@ AI-powered discharge coordination connecting hospitals, shelters, and social wor
 - **Code:** [Source 1](https://github.com/altran03/calhacks12)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=EZo7LiU-GUY)
 - **All prizes at this hackathon (1):** Vapi: Best Use of Vapi
-- **How it used Vapi:** Vapi Voice Integration - Successfully automated shelter verification and social worker outreach calls.
+- **How it used Vapi:** Vapi powers voice-first communication.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2401,7 +2401,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=YVRF7clpMI
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YVRF7clpMIY)
 - **All prizes at this hackathon (1):** Vapi: Best Use of Vapi
-- **How it used Vapi:** The team uses Vapi to handle the full audio pipeline for live voice conversations.
+- **How it used Vapi:** The team integrated Vapi to handle the voice pipeline.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -2428,7 +2428,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0Hnd_Zntow
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0Hnd_ZntowM)
 - **All prizes at this hackathon (1):** Visa
-- **How it used Visa:** Integration of APIs via Visa for Merchant Search, Visa Offers, Transaction Controls, Foreign Exchange Rates, and ATM Locater bring transparency and reality about finances and savings opportunities to students.
+- **How it used Visa:** The team used Visa APIs for merchant search, offers, transaction controls and foreign exchange rates.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

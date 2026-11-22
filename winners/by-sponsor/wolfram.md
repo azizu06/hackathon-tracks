@@ -23,7 +23,7 @@
 
 - Allow and encourage players to use technology in the game- Discourages cheating on other playing websites. - Collects data on technology and enables players to make the best solvers possible.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Wolfram:** Built with wolfram-technologies (listed on Devpost)
 
 [Code](https://github.com/npastrami/IntelligentPokerLeague) · [Demo video](https://www.youtube.com/watch?v=mRHBn9dJj4c) · Built with wolfram-technologies, django, git, github
 
@@ -33,7 +33,7 @@
 
 The team describes the project as “Math Visuals Made Simple”.
 
-**How it used Wolfram:** Wolfranimation calls Wolfram from Python and passes the results to Manim to generate animations.
+**How it used Wolfram:** A Python bridge calls Wolfram and feeds its JSON results into the Manim scene.
 
 [Code](https://github.com/Alans44/wolfranimation) · Built with wolfram-technologies, manim, numpy, python
 
@@ -379,7 +379,7 @@ An app to match foreign language learners with songs that reinforce their vocabu
 
 A Mathematica notebook that converts online lecture videos into LaTeX code, for students to make notes more quickly.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**How it used Wolfram:** The project uses Mathematica Image Analysis to segment images and detect handwriting.
 
 [Code](https://github.com/jautung/r00t) · Built with wolfram-technologies, api, mathematica, mathpix
 
@@ -391,7 +391,7 @@ A Mathematica notebook that converts online lecture videos into LaTeX code, for 
 
 Use your favorite cleaning robot to transform the floor into a canvas for Mathematica plots.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**How it used Wolfram:** The project uses the Wolfram Development Interface to create a plotting function.
 
 [Code](https://github.com/cyanophycean314-zz/plot_roomba) · Built with wolfram-development-platform, wolfram-mathematica, facebook-live-api, irobot-create2
 
@@ -403,7 +403,7 @@ Use your favorite cleaning robot to transform the floor into a canvas for Mathem
 
 Detecting breast cancer cells using image analysis.
 
-**How it used Wolfram:** Sponsor use not stated on Devpost
+**Wolfram:** Built with wolfram-technologies (listed on Devpost)
 
 No public code linked · Built with wolfram-technologies, machine-learning
 

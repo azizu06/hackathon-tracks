@@ -33,7 +33,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=t7M319EIn4
 
 Movement is the disruptive blockchain crowdfunding platform - no fees, no middlemen. Every contribution is direct, transparent, and secure, giving real-world peace of mind to backers and creators.
 
-**How it used Sui:** Sponsor use not stated on Devpost
+**How it used Sui:** The team used the SUI stack for blockchain integration.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=QtNbxY7WupE) · Built with sui, css, move, next.js
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=QtNbxY7Wup
 
 Decentralizing how humans communicate using SUI.
 
-**How it used Sui:** Secure Messaging : Features end-to-end encrypted messaging for private communication between users and within communities, built on the Sui Messaging protocol.
+**How it used Sui:** The team built encrypted messaging on the Sui Messaging protocol.
 
 [Code](https://github.com/haotianli24/sui-otter) · [Demo video](https://www.youtube.com/watch?v=a123pX0egfc) · Built with sui, css, dapp, fetch.ai
 
@@ -63,7 +63,7 @@ Do you have a laptop? You're potentially losing on making at least $10/day side 
 
 Sui-powered blockchain-based ticketing and loyalty platform with policy-enforced, fraud-proof resale via Kiosk; buy in one click, resell fairly, and earn perks from purchase to check-in.
 
-**How it used Sui:** Sponsor use not stated on Devpost
+**How it used Sui:** The project uses the Sui blockchain for ticketing and loyalty.
 
 [Code](https://github.com/RohanChintakindi/sui-tix) · [Demo video](https://www.youtube.com/watch?v=Whz3DoW8TeI) · Built with sui, sui-kiosk, sui-move, blockchain
 
@@ -75,7 +75,7 @@ Sui-powered blockchain-based ticketing and loyalty platform with policy-enforced
 
 Empowering Artists with Blockchain: Seamless Royalty Payments and Ownership Control Through Spotify Integration.
 
-**How it used Sui:** Wallet Integration: Sui wallets were integrated to enable direct payments to artists, with real-time updates on royalties as songs are streamed.
+**How it used Sui:** Smart contracts automate royalty distribution using Move, the programming language of Sui.
 
 [Code](https://github.com/ChiragSeth14/Blockify) · [Demo video](https://www.youtube.com/watch?v=bKVkiuuv-uM) · Built with sui, blockchain, move, node.js
 
@@ -85,7 +85,7 @@ Empowering Artists with Blockchain: Seamless Royalty Payments and Ownership Cont
 
 Clients talk to the AI, explaining the type of candidate they need and any specific skills they're looking for.
 
-**How it used Sui:** Sponsor use not stated on Devpost
+**How it used Sui:** The project uses the Sui blockchain for transactions and creates an agreement object once a recruiter posts a job.
 
 [Code](https://github.com/DPulavarthy/CalHacks) · [Demo video](https://www.youtube.com/watch?v=0uHPTtYydYI) · Built with sui, deepgram, express.js, fetch.ai
 
@@ -95,7 +95,7 @@ Clients talk to the AI, explaining the type of candidate they need and any speci
 
 The website serves as a decentralized gift card trading marketplace .
 
-**How it used Sui:** A user who wants to trade their own gift card for a different one can log in and connect to their Sui wallet.
+**How it used Sui:** Users connect their Sui wallet to trade gift cards.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=W1QGVNJGV7g) · Built with sui, express.js, node.js, react
 
@@ -105,7 +105,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=W1QGVNJGV7
 
 The blockchain solution for content creators offering a decentralized platform for creators and users, powered by Sui.
 
-**How it used Sui:** The team utilized Sui's newest Data Storage solution, Walrus, to store encrypted files on the chain using blobs allowing creators to leverage the chain for distribution of their content.
+**How it used Sui:** The team used Sui's Walrus to store encrypted files on the chain.
 
 [Code](https://github.com/kevinru2023/notic3) · [Demo video](https://www.youtube.com/watch?v=t1BEB-irnqU) · Built with sui, move, next.js, tailwindcss
 
@@ -115,7 +115,7 @@ The blockchain solution for content creators offering a decentralized platform f
 
 decentralizing music by empowering artists to create &amp; monetize their music independently, with backers that care about even the smallest ideas.
 
-**How it used Sui:** The team utilized the Sui blockchain for its scalability and performance, implementing smart contracts to handle transactions.
+**How it used Sui:** The Sui blockchain records the smart contract.
 
 [Code](https://github.com/m20arcusk/soundchain) · Built with sui, enoki, google-auth, materialui
 

@@ -53,7 +53,7 @@ Aladin is an AI agent that lives in your browser.
 - **Code:** [Source 1](https://github.com/ThomasKidane/aladin)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=bl4MjAQ5oZ8)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Auth0
-- **How it used Auth0:** Sponsor use not stated on Devpost
+- **How it used Auth0:** The server validates Auth0 JWTs before allowing interaction with the AI agent.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -80,7 +80,7 @@ An algorithm denied you. No explanation.
 - **Code:** [Source 1](https://github.com/noteesh/HackDuke)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KcBM_uwu5As)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of DigitalOcean · Runner Up: Finance Track
-- **How it used DigitalOcean:** Sponsor use not stated on Devpost
+- **How it used DigitalOcean:** The project uses DigitalOcean for hosting and deployment.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -107,7 +107,7 @@ Solving cashflow as an AI CFO for small/medium sized businesses.
 - **Code:** [Source 1](https://github.com/naasanov/runway)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=KBSkARA8Rf4)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of ElevenLabs
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **How it used ElevenLabs:** The project uses ElevenLabs to call users and notify them of dire financial situations automatically.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -161,7 +161,7 @@ An adaptive browser overlay extension that enables webpage customization and int
 - **Code:** [Source 1](https://github.com/aadhirsandeep/hackduke26-I-Browse)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=zA_hBq063JM)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Use of Gemini API · Grand Prize: Interactive Media Track
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** IBrowse uses a Chrome extension as its frontend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -215,7 +215,7 @@ DataCrawl turns plain-English data requests into fresh datasets. AI agents plan,
 - **Code:** [Source 1](https://github.com/Aarushvinod/DataCrawl)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=t-F03o3KFjQ)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Solana
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **Solana:** Built with solana (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

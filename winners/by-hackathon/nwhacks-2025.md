@@ -259,7 +259,7 @@ HeartTalk is your senior care companion, combining AI chat support with health m
 - **Code:** [Source 1](https://github.com/Carol-cs/nwhacks2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Defang.io Sponsor Prize
-- **How it used Defang:** Sponsor use not stated on Devpost
+- **How it used Defang:** The project uses Defang.io for backend deployment.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -282,7 +282,7 @@ Say Hi to PT 👋. A Hip Interactive Physical Therapy Application where you can 
 - **Code:** [Source 1](https://github.com/TrabLimit/nwHacks-2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Defang.io Sponsor Prize
-- **How it used Defang:** Deployment: The entire application is deployed with Defang.
+- **How it used Defang:** The entire application is deployed with Defang.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -419,7 +419,7 @@ A terminal search tool runs user-defined commands against selected databases.
 - **Code:** [Source 1](https://github.com/zhangLily2020/nwhacks2025)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** nwHacks 2025 Finalists · Warp Sponsor Prize
-- **How it used Warp:** Sponsor use not stated on Devpost
+- **Warp:** Built with warp (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>

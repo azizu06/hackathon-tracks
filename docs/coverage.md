@@ -466,14 +466,14 @@ The first row for each of the three projects that won the most sponsor prizes at
 
 **Cal Hacks 13.0 2026 · Anthropic · &#91;Anthropic&#93; Claude for Public Benefit**
 
-Standard Response coordinates evacuation calls and routes neighbors and accessible vehicles to households that need help. Claude turns callers' responses into dispatch fields and drafts short replies in the reviewed languages.
+Standard Response coordinates evacuation calls and routes neighbors and accessible vehicles to households that need help. Claude Haiku 5.5 turns what residents say on calls into record fields and includes corrections.
 
 - Team size 4. 6 event prize labels.
 - Built With anthropic, apify, cartesia, claude, convex, digitalocean, fly.io, mana, moss, next.js, node.js, numpy, openstreetmap, or-tools, osmnx, python, react, simpy, tailwindcss, twilio, typescript, vercel, websockets.
 - Event prizes &#91;Anthropic&#93; Claude for Public Benefit · &#91;Apify&#93; Best Use of Apify · &#91;Convex&#93; Best use of Convex · &#91;Microsoft&#93; Built for the Real World (1st), Customer Impact Award (2nd) · &#91;Moss&#93; Best Use of Moss · Cal Hacks Best People-First Social Impact Hack.
 - Code [Source 1](https://github.com/Imhaohao/Standard-Response)
 - Video [Video 1](https://www.youtube.com/watch?v=eNsAGHFnFJY)
-- Evidence Devpost Winner label. Integration evidence Edited from project page.
+- Evidence Devpost Winner label. Integration evidence Devpost project write-up.
 
 ### [Farsight](https://devpost.com/software/farsight-t4qyli)
 
@@ -532,11 +532,11 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 
 - Built With tags are available for 1,536 of 1,553 project editions.
 - Team counts are available for 1,553 project editions.
-- Summary evidence by award row: Integration detail unavailable (1158), Project write-up (475), Edited from project page (64).
+- Summary evidence by award row: Devpost project write-up (830), Integration detail unavailable (719), Devpost Built With (104), GitHub README (44).
 - Source code links verified HTTP 200 for 1221 of 1351 unique recognized links.
 - Demo video links verified HTTP 200 for 1251 of 1251 unique recognized links.
 - The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.
-- Project summaries use edited notes, Devpost project captions and short evidence sentences. A Built With tag can identify a tool. The integration note requires a description of its role.
+- Full sponsor notes cite a role documented in a Devpost write-up or a linked GitHub README. Built With notes identify sponsor products listed on Devpost.
 - Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. General event awards remain visible in project prize lists.
 - HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. The public prize entry supplies no sponsor identity, so those two awards fall outside the named-sponsor index.
 - Prize values come from the track label. Multiple placements, team totals, and service credits stay in the source wording.

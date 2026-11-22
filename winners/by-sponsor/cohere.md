@@ -23,7 +23,7 @@
 
 An OSINT tool specializes in generating an accurate profile card from a username by leveraging artificial intelligence.
 
-**How it used Cohere:** Reason → Cohere embeddings correlate personas, detect behavioral patterns, and connect fuzzy signals.
+**How it used Cohere:** Cohere embeddings correlate personas, detect behavioral patterns, and connect fuzzy signals.
 
 [Code](https://github.com/Sai-sys-cmd/Deepsint) · Built with cohere, python, sqlite, streamlit
 
@@ -33,7 +33,7 @@ An OSINT tool specializes in generating an accurate profile card from a username
 
 Clip, save, and organize the exact moments that spark your ideas.
 
-**How it used Cohere:** Cohere Vision AI Integration : Based on extracted frames, Cohere's vision AI model generates video summaries and intelligent tags.
+**How it used Cohere:** Cohere's vision AI model generates video summaries and tags from extracted frames.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67tQ) · Built with cohere, amazon-web-services, css, figma
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=rs7uaWL67t
 
 Splitting bills with friends is messy—receipts get lost, people forget to pay, and tracking balances is a headache. SolShare fixes this: scan, assign, and settle instantly on Solana.
 
-**How it used Cohere:** Cohere API – Handles receipt scanning and item parsing using a self-criticism learning process, reducing errors and automating item assignment.
+**How it used Cohere:** The Cohere API handles receipt scanning and item parsing.
 
 No public code linked · Built with cohere, firebase, gcp, solana
 
@@ -55,7 +55,7 @@ No public code linked · Built with cohere, firebase, gcp, solana
 
 excus.us helps event attendees find people with complementary backgrounds and skills, then start a conversation.
 
-**How it used Cohere:** Cohere embeds attendee bios and interests so the matching pipeline can compare profiles and suggest connections.
+**How it used Cohere:** The project uses Cohere’s embedding model and Groq’s reranking capabilities to connect participants with complementary skills.
 
 [Code](https://github.com/justrach/hackthenorth) · [Demo video](https://www.youtube.com/watch?v=EAe7YApMNT0) · Built with cohere, chroma, claude, cloudflare
 
@@ -65,7 +65,7 @@ excus.us helps event attendees find people with complementary backgrounds and sk
 
 Empowering Vision Through Voice. Revolutionizing indoor mobility with real-time, adaptive AI-enabled guidance for seamless navigation in complex spaces.
 
-**How it used Cohere:** Sponsor use not stated on Devpost
+**How it used Cohere:** The project uses Cohere’s Rerank API for semantic search on CV tags and mapping data.
 
 [Code](https://github.com/akjadhav/hackthenorth-2024) · [Demo video](https://www.youtube.com/watch?v=wdksaTAZA7A) · Built with cohere, auth0, convex, detectron2
 
@@ -75,7 +75,7 @@ Empowering Vision Through Voice. Revolutionizing indoor mobility with real-time,
 
 A Pomodoro timer that keeps you on track, summarizes your browsing, and turns study time into a fun quiz challenge.
 
-**How it used Cohere:** Sponsor use not stated on Devpost
+**How it used Cohere:** The project uses Cohere’s AI to summarize web pages and turn them into quizzes.
 
 [Code](https://github.com/jrang188/hack-the-north-2024) · [Demo video](https://www.youtube.com/watch?v=7Msy0SZR9cY) · Built with cohere, defang, fastapi, javascript
 

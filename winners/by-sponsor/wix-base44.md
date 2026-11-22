@@ -23,7 +23,7 @@
 
 With AWF, private flight managers are able to easily access a complete report of the entire state of their operations, from individual employee management to customer relations &amp; metrics.
 
-**How it used Wix / Base44:** Sponsor use not stated on Devpost
+**How it used Wix / Base44:** The project uses Base44 for its serverless backend.
 
 No public code linked · [Demo video](https://vimeo.com/1122618072) · Built with base44, cloudskyapi, oauth, react
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=p3F8s9jy8q
 
 Smart student budgeting app that gives students from monthly financial plans to personalized tips with an AI-generated financial education section that make students stay on top of their finances.
 
-**How it used Wix / Base44:** Sponsor use not stated on Devpost
+**How it used Wix / Base44:** The project was built with AI prompting on Base44.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=59egQoVTbTw) · Built with base44, javascript, react
 

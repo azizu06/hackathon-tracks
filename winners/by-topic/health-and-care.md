@@ -483,7 +483,7 @@ Bandaid Maps is a real-time, AI-powered healthcare navigation tool that assesses
 
 The team describes the project as “For leaders in high-performance environments, we aggregate real-time wearable data from teams, providing LLM-driven insights, detecting arrhythmias, and reconstructing ECGs—no medical…
 
-[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with cuda, python, pytorch, react-native
+[Code](https://github.com/shafink11/ppg_project) · [Demo video](https://www.youtube.com/watch?v=z_tsDhHi2Fs) · Built with terraapi, cuda, python, pytorch
 
 ### [Caduceo](https://devpost.com/software/caduceus-n4jqzs)
 
@@ -507,7 +507,7 @@ AI-powered discharge coordination connecting hospitals, shelters, and social wor
 
 ChatRealm: Context-aware chat rooms powered by 5 AI agent bureaus and LinkedIn scraper service. Specialized rooms for D&amp;D, AA, and therapy with intelligent, personalized moderation.
 
-[Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with anthropic-claude-api, asi-one, brightdata-api, docker
+[Code](https://github.com/saurabh98s/calhacks24) · [Demo video](https://www.youtube.com/watch?v=huHLto3601A) · Built with brightdata-api, anthropic-claude-api, asi-one, docker
 
 ### [Chit Chart](https://devpost.com/software/chit-chart-f04kn3)
 
@@ -611,7 +611,7 @@ Smart glasses let clinicians call up visual information with voice commands.
 
 Fighting Drug Waste, Fueling Health Equity.
 
-[Code](https://github.com/arsh-goenka/MedSave) · Built with css, flask, googleauth, html
+[Code](https://github.com/arsh-goenka/MedSave) · Built with terpai, css, flask, googleauth
 
 ### [MIFY](https://devpost.com/software/mify)
 

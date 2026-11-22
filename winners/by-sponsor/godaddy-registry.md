@@ -33,7 +33,7 @@ Commons is a map-first community coordination platform.
 
 A shopping assistant flags product recommendations that may be based on manipulated online signals.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**How it used GoDaddy Registry:** The team registered deadinternettheory.us through GoDaddy Registry.
 
 [Code](https://github.com/deadinternettheory-calhacks/dead-internet-theory) · [Demo video](https://www.youtube.com/watch?v=6chLVx2E-yM) · Built with godaddy, anthropic, apify, chrome
 
@@ -63,7 +63,7 @@ A coding tool maps relationships between files and passes the graph to a coding 
 
 One in Three is an interactive and fully immersive AI simulation that puts men in a woman’s shoes to raise awareness of sexual harassment and practise stepping in as bystanders.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
 
 [Code](https://github.com/limjiayi21/oneinthree) · [Demo video](https://www.youtube.com/watch?v=dFNiASxPbck) · Built with godaddy, cloudflare, cloudflare-d1, cloudflare-workers
 
@@ -73,7 +73,7 @@ One in Three is an interactive and fully immersive AI simulation that puts men i
 
 S.L.O.P. searches thousands of projects, companies and the web.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**How it used GoDaddy Registry:** The live site uses slop.compare as its GoDaddy Registry domain.
 
 [Code](https://github.com/enkai-liu/htn-2026) · [Demo video](https://vimeo.com/1228515893) · Built with baseten, browserbase, elasticsearch, exa
 
@@ -83,7 +83,7 @@ S.L.O.P. searches thousands of projects, companies and the web.
 
 No more sweat in your walk. Take the Shaadiest path.
 
-**How it used GoDaddy Registry:** The team built Shaadiest with JavaScript, Codex, Vite, Leaflet, Node.js, and Express, with deployment support for GoDaddy.
+**GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=IRjQ7plFcqE) · Built with godaddy, codex, express.js, github
 
@@ -113,7 +113,7 @@ A 2D platformer where you leave interactive echoes of yourself that replay your 
 
 Voice-first local farm marketplace — farmers list by talking, consumers shop with AI, orders deliver via optimized group routes. Real transparency, real logistics, real impact.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**How it used GoDaddy Registry:** The team registered trustyourfood.farm via GoDaddy Registry.
 
 [Code](https://github.com/alexanderlapratt/trust-your-food) · [Demo video](https://www.youtube.com/watch?v=srIbSfnjMU8) · Built with godaddy, claude-ai, doordash-drive-api, elevenlabs
 
@@ -175,7 +175,7 @@ A menu companion translates unfamiliar menus and helps diners visualize the dish
 
 Giveo is a swipe-based app, built to connect users with a feed of charities personally tailored to their interests and passions.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
 
 [Code](https://github.com/spcoughlin/Giveo) · [Demo video](https://www.youtube.com/watch?v=KTbUzU5nbEg) · Built with godaddy, fastapi, firebase, h5
 
@@ -185,7 +185,7 @@ Giveo is a swipe-based app, built to connect users with a feed of charities pers
 
 The team set out to solve the often ineffective ticket-to-response systems present in data centers.
 
-**How it used GoDaddy Registry:** Sponsor use not stated on Devpost
+**GoDaddy Registry:** Built with GoDaddy (listed on Devpost)
 
 [Code](https://github.com/zekestephens/hyperlynx) · [Demo video](https://www.youtube.com/watch?v=wL78va-T-Ug) · Built with godaddy, auth0, bootstrap, css
 

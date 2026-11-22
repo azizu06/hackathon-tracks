@@ -87,7 +87,7 @@ Helps UCSB and SBCC students in IV locate housing. Powered by a data ingestion p
 - **Code:** [Source 1](https://github.com/youwen5/gauchohousing)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=NNIs7zczSBQ)
 - **All prizes at this hackathon (1):** Best use of Sycamore (Aryn)
-- **How it used Aryn:** The team don't generate anything new with Claude, and all of the actual information comes from Aryn's parsing.
+- **How it used Aryn:** The team runs screenshots and PDFs through Aryn to receive structured data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -110,7 +110,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=L52sdmP66Y
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L52sdmP66Yo)
 - **All prizes at this hackathon (1):** Best use of Sycamore (Aryn)
-- **How it used Aryn:** Sponsor use not stated on Devpost
+- **How it used Aryn:** The project uses the Aryn API to process PDFs and convert them to vector embeddings in Singlestore.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -160,7 +160,7 @@ Anticipate and respond to supply chain disruptions by analyzing current events, 
 - **Code:** [Source 1](https://github.com/SBHacksXI/ml-backend) · [Source 2](https://github.com/SBHacksXI/terraform_aws)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** MLH - Best Use of Terraform
-- **How it used HashiCorp:** The team used Aryn to parse pdf documents from the web, Singlestore to store the vector database, and Terraform to host the EC2 interfaces.
+- **How it used HashiCorp:** The team used Terraform to host the EC2 interfaces.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -220,7 +220,7 @@ Matching students at college dining halls together for friendships.
 - **Code:** [Source 1](https://github.com/KPawar0629/matchup-sbhacks)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=40n7d0nfOBU)
 - **All prizes at this hackathon (1):** Best use of SingleStore
-- **How it used SingleStore:** The team used React, Bootstrap, Vite for the frontend and Flask/Singlestore for the backend.
+- **How it used SingleStore:** The team ran a cluster on SingleStore and used it as a database for the users which was very important in the backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

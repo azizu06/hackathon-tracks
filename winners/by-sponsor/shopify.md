@@ -23,7 +23,7 @@
 
 Agentic and analytics layer for selling with Shopify on Roblox.
 
-**How it used Shopify:** Generated product and clothing displays from Shopify store in Roblox.
+**How it used Shopify:** The project uses a Shopify store to generate clothing and product displays in Roblox.
 
 [Code](https://github.com/werdna533/Bloxify) · Built with cloudflare, lua, mcp, next.js
 
@@ -33,7 +33,7 @@ Agentic and analytics layer for selling with Shopify on Roblox.
 
 An AI shopkeeper for Shopify that helps shoppers find products and negotiate deals within merchant-set pricing rules. Test those rules on 300 synthetic shoppers before adopting them.
 
-**How it used Shopify:** Shopify serves the storefront, a Node.js server coordinates negotiations and integrations, and a React Console gives the merchant control.
+**How it used Shopify:** Liquid renders product, collection, and cart pages with Shopify data.
 
 [Code](https://github.com/Maristanez/dealify) · [Demo video](https://www.youtube.com/watch?v=6Dw70vbZ_Zs) · Built with shopify, backboard, elevenlabs, fast-check
 
@@ -45,7 +45,7 @@ An AI shopkeeper for Shopify that helps shoppers find products and negotiate dea
 
 An e-commerce platform with two faces: customers checkout by camera no barcode, just the item’s look while businesses get catalog, inventory, sales, forecasting &amp; intelligent procurement.
 
-**How it used Shopify:** Sponsor use not stated on Devpost
+**Shopify:** Built with shopify (listed on Devpost)
 
 [Code](https://github.com/MeharPro/Tarazoo) · [Demo video](https://www.youtube.com/watch?v=6TfBS77bEAU) · Built with shopify, claude, cohere, cplex
 
@@ -57,7 +57,7 @@ An e-commerce platform with two faces: customers checkout by camera no barcode, 
 
 Sometimes online shopping can be dull, and most of all, turn away customers who are unsure about buying clothes online. VR will allow for customers to try on clothing in a virtual world.
 
-**How it used Shopify:** Yellow shirt, black shirt, tropical shorts and black pants on the Shopify-hosted store.
+**How it used Shopify:** The shirts, shorts and pants are on the Shopify-hosted store.
 
 [Code](https://github.com/BenBoguslavsky18/HTN_VR) · [Demo video](https://www.youtube.com/watch?v=igOuQHgEvto) · Built with shopify, c#, github, json
 

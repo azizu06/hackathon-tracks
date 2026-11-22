@@ -23,7 +23,7 @@
 
 Burned $300 running a 100-agent swarm to launch Simulacra and headstart the future of generative social science, all in 24 hours.
 
-**How it used K2 Think:** Sponsor use not stated on Devpost
+**How it used K2 Think:** The project uses the K2-Think V2 model to power its generative agent pipeline.
 
 [Code](https://github.com/0xABAN/simulacra) · [Demo video](https://www.youtube.com/watch?v=fPZQB1WaVC4) · Built with bun, fastapi, k2-think, langgraph
 

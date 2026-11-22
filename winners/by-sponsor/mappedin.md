@@ -23,7 +23,7 @@
 
 A social app for uncovering university locations and competing with friends.
 
-**How it used MappedIn:** Sponsor use not stated on Devpost
+**How it used MappedIn:** The project uses the Mapped-in SDK to display user locations in relation to surrounding buildings.
 
 [Code](https://github.com/HTN-2024-LooGuessr/LooGuessr) · Built with express.js, mapped-in, mongodb, node.js
 
@@ -33,7 +33,7 @@ A social app for uncovering university locations and competing with friends.
 
 If you can dream it, Rex will find it.
 
-**How it used MappedIn:** Supabase was used to connect the Raspberry Pi, VoiceFlow Agent, and Mappedin wayfinding.
+**How it used MappedIn:** The project connects MappedIn wayfinding to the Raspberry Pi and Voiceflow agent through Supabase.
 
 [Code](https://github.com/jshan9078/Rex) · [Demo video](https://www.youtube.com/watch?v=A5594U-kSKc) · Built with mappedin, 3d-printing, cad, elevenlabs
 
@@ -43,7 +43,7 @@ If you can dream it, Rex will find it.
 
 SecureStep is a smart walking cane designed for seniors in old age homes, responsible for notifying care workers when a fall has occurred.
 
-**How it used MappedIn:** Sponsor use not stated on Devpost
+**How it used MappedIn:** The project displays a MappedIn map of E7 on its webpage.
 
 [Code](https://github.com/Aidan-Hynes/SecureStep) · [Demo video](https://www.youtube.com/watch?v=qb31FZBE7Ng) · Built with mappedin, 3dprinting, c, caffeine
 

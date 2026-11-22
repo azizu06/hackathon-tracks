@@ -33,7 +33,7 @@ CodeInsight is an interactive tool that analyzes a codebase to generate a dynami
 
 Agentic routing at scale for 66x cheaper and 4x faster — Powering the Agentic Future.
 
-**How it used Codegen:** Conductor uses the Codegen SDK to run and evaluate a coding agent on SWE-bench.
+**How it used Codegen:** The team uses Codegen’s SDK to run, test and evaluate on SWE-Bench.
 
 [Code](https://github.com/codegen-sh/codegen) · [Demo video](https://www.youtube.com/watch?v=0vY9tj6UDJE) · Built with agents, ai-agents, contrastive-learning, knn
 

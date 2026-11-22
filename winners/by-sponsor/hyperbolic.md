@@ -33,7 +33,7 @@ Automatically file home insurance claims after natural disasters.
 
 Talk to your toys with Teddy.AI; the worlds first AI powered teddy bear that can tell children stories and tutor them through its fun journeys riddled with interactive academic puzzles.
 
-**How it used Hyperbolic:** Sponsor use not stated on Devpost
+**How it used Hyperbolic:** The project uses Hyperbolic for image generation from text transcription.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=PFFHGMIax6E) · Built with hyperbolic, gemini, generativeai, hume
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=PFFHGMIax6
 
 The product leverages advanced AI technology to enhance school safety by detecting potential threats in real-time.
 
-**How it used Hyperbolic:** The team partnered with incredible sponsors—Deepgram, Hyperbolic, Groq, and Fetch.AI—to develop a comprehensive security solution that uses cutting-edge AI technologies.
+**Hyperbolic:** Built with hyperbolic (listed on Devpost)
 
 [Code](https://github.com/oviozz/watchDog-UC-Berkeley-2025-) · Built with hyperbolic, chroma, convex, deepgram
 

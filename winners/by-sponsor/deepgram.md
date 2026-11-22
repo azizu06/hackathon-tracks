@@ -33,7 +33,7 @@ It's a wearable narrator AI that watches your day and announces it out loud in a
 
 Cartify: Your AI voice assistant for personalized grocery lists and automated shopping.
 
-**How it used Deepgram:** Sponsor use not stated on Devpost
+**How it used Deepgram:** The project uses Deepgram for AI voice chat.
 
 [Code](https://github.com/Max-Changg/Cartify) · [Demo video](https://www.youtube.com/watch?v=VV_kdMY3P4A) · Built with deepgram, gemini, next.js, playwright
 
@@ -43,7 +43,7 @@ Cartify: Your AI voice assistant for personalized grocery lists and automated sh
 
 An AI copilot for dispatchers that calmly guides them through urgent situations, reduces stress, and helps overwhelmed responders and dispatchers act faster.
 
-**How it used Deepgram:** Twilio handles phone calls and audio streaming, DeepGram provides live speech-to-text, and Gemini reasons over transcripts to track structured information for the dispatcher interface.
+**How it used Deepgram:** Deepgram provides live speech-to-text.
 
 [Code](https://github.com/declanhogg100/dispatchiq) · [Demo video](https://www.youtube.com/watch?v=phR1pTLS3JY) · Built with deepgram, gemini, next.js, openai-realtime-api
 
@@ -53,7 +53,7 @@ An AI copilot for dispatchers that calmly guides them through urgent situations,
 
 Turn live conversations into a shared itinerary—maps, places, and bookings update as you talk.
 
-**How it used Deepgram:** Sponsor use not stated on Devpost
+**How it used Deepgram:** The project uses Deepgram’s Nova-2 model to transcribe speech and Aura TTS for the agent’s voice.
 
 [Code](https://github.com/SanjayMarathe/nomad) · [Demo video](https://www.youtube.com/watch?v=JQJX066AJHk) · Built with deepgram, gemini, livekit, mapbox
 
@@ -65,7 +65,7 @@ Turn live conversations into a shared itinerary—maps, places, and bookings upd
 
 Video chat web app powered with real-time ASL transcription.
 
-**How it used Deepgram:** For the fully-abled person, their speech is first transcribed via Deepgram, then their emotion is detected using HumeAI.
+**How it used Deepgram:** Deepgram transcribes speech.
 
 [Code](https://github.com/hoyso48/Google---American-Sign-Language-Fingerspelling-Recognition-2nd-place-solution) · Built with deepgram, agora, gemini, heroku
 
@@ -75,7 +75,7 @@ Video chat web app powered with real-time ASL transcription.
 
 Ever struggled in social settings? Not knowing what to say next.
 
-**How it used Deepgram:** The team also used the Deepgram API to convert speech to text and determine the mood behind a secondary person's input.
+**How it used Deepgram:** The team used the Deepgram API to convert speech to text and determine mood.
 
 [Code](https://github.com/steven-mu12/talk-tuah) · Built with deepgram, ar, arduino, c
 
@@ -85,7 +85,7 @@ Ever struggled in social settings? Not knowing what to say next.
 
 Real time translation from text to braille.
 
-**How it used Deepgram:** Sponsor use not stated on Devpost
+**Deepgram:** Built with deepgram (listed on Devpost)
 
 [Code](https://github.com/rami-maalouf/text2dot) · Built with deepgram, cartesia, groq, hyperbolic
 

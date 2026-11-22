@@ -33,7 +33,7 @@ Every player is armed with an ESP32-C3 badge with an LED strip, a small screen, 
 
 Argus is a dev tool that integrates models/dataset workflows with seamless and secure versioning - designed for quant researchers.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** The project uses Rust smart contracts on Solana.
 
 [Code](https://github.com/JohnsonL111/argus) · [Demo video](https://www.youtube.com/watch?v=p849nn0xS1k) · Built with solana, gemini, python, rust
 
@@ -43,7 +43,7 @@ Argus is a dev tool that integrates models/dataset workflows with seamless and s
 
 DataCrawl turns plain-English data requests into fresh datasets. AI agents plan, scrape, generate, normalize, and validate the data you need, then deliver clean, usable files for analysis today.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**Solana:** Built with solana (listed on Devpost)
 
 [Code](https://github.com/Aarushvinod/DataCrawl) · [Demo video](https://www.youtube.com/watch?v=t-F03o3KFjQ) · Built with solana, auth0, beautiful-soup, css
 
@@ -53,7 +53,7 @@ DataCrawl turns plain-English data requests into fresh datasets. AI agents plan,
 
 Real vanilla, real proof. Extract is a digital trust system for the vanilla industry that stops fraud by requiring both sender and receiver to sign off on every handoff through Blockchain.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** The project records transfers between organizations as dual-signed Solana transactions.
 
 [Code](https://github.com/SujanPoudel23/Extract) · [Demo video](https://www.youtube.com/watch?v=AUpQ-0V719o) · Built with anchor, solana, express.js, leaflet.js
 
@@ -63,7 +63,7 @@ Real vanilla, real proof. Extract is a digital trust system for the vanilla indu
 
 An operating environment isolates each AI agent task in a separate Linux user and lets people review spending and undo changes.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** A daily fingerprint of the log goes to Solana.
 
 [Code](https://github.com/benz16107/gurtos) · [Demo video](https://www.youtube.com/watch?v=3hDnLuUqmjM) · Built with solana, apify, asi-one, claude
 
@@ -73,7 +73,7 @@ An operating environment isolates each AI agent task in a separate Linux user an
 
 16,000 people in the U.S. are still waiting for their names. One wrong branch can point to the wrong person.
 
-**How it used Solana:** Gemini, LangChain, MongoDB and Solana all working in one weekend, and the demo still runs offline.
+**Solana:** Built with solana (listed on Devpost)
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=DKfr1q-T7UU) · Built with solana, deepagents, gemini, google-ai-studio
 
@@ -93,7 +93,7 @@ A prediction market for physical goods and services.
 
 MomentumX gives global traders an edge by pairing tokenized stocks with real-time momentum scanners built for faster day and swing trading decisions.
 
-**How it used Solana:** MomentumX is a Solana-powered platform for discovering, trading, and evaluating tokenized U.S. stocks.
+**How it used Solana:** They can receive demo dollars, monitor 19 supported stocks, inspect price charts and market news, and buy or sell tokenized assets through a Solana devnet vault.
 
 [Code](https://github.com/FastMartini/Shellhacks-2026) · [Demo video](https://vimeo.com/1230689653) · Built with solana-sdk, css, fastapi, python
 
@@ -103,7 +103,7 @@ MomentumX gives global traders an edge by pairing tokenized stocks with real-tim
 
 Night Watch is an oracle for data center operations, built around two goals.
 
-**How it used Solana:** Solana devnet holds the signed audit trail, using the Memo program with sha256 fingerprints.
+**How it used Solana:** Solana devnet holds the signed audit trail using the Memo program.
 
 [Code](https://github.com/ja0011/hackutd) · [Demo video](https://www.youtube.com/watch?v=AyKfSoJEeGI) · Built with solana, google-news-rss, node.js, nvidia-nemotron
 
@@ -113,7 +113,7 @@ Night Watch is an oracle for data center operations, built around two goals.
 
 A hardware wallet shows who will receive a payment and what the user is about to sign.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** The project uses the Solana DEF CON badge as a hardware security key for payments.
 
 [Code](https://github.com/ayushmk7/NoBadgeActors) · [Demo video](https://www.youtube.com/watch?v=ZWM99jsHEmQ) · Built with solana, solana-attestation-service, arduino, bluetooth
 
@@ -123,7 +123,7 @@ A hardware wallet shows who will receive a payment and what the user is about to
 
 Turn live conversations into a shared itinerary—maps, places, and bookings update as you talk.
 
-**How it used Solana:** Payments: Solana Web3.js integrates with Phantom wallet for devnet transactions.
+**How it used Solana:** Solana Web3.js integrates with Phantom wallet for devnet transactions.
 
 [Code](https://github.com/SanjayMarathe/nomad) · [Demo video](https://www.youtube.com/watch?v=JQJX066AJHk) · Built with solana, deepgram, gemini, livekit
 
@@ -133,7 +133,7 @@ Turn live conversations into a shared itinerary—maps, places, and bookings upd
 
 Orkis makes it easy for people and enterprise teams to launch and manage AI agents. Orkis configures the agents and coordinates their work, with each new agent reusing the setup you already have.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** An agent can pay for an approved API call with x402 on Solana.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=GxNBCI4yyYI) · Built with alembic, better-auth, caddy, claude
 
@@ -153,7 +153,7 @@ EBT for disasters, on Solana. Aid lands 0.93s after the storm hits, spendable on
 
 crowdsourced diffusion data for world models on solana.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** Every session is tied to a validated Solana wallet.
 
 [Code](https://github.com/theodorechapman/scale-diffusion) · [Demo video](https://www.youtube.com/watch?v=_E0CEj3cWFg) · Built with solana, amazon-web-services, decart, langgraph
 
@@ -163,7 +163,7 @@ crowdsourced diffusion data for world models on solana.
 
 Sentinel.ai monitors live camera streams and flags important activity.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** The project uses Solana devnet transaction hashes for tamper-evident provenance.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_I) · Built with solana, api, atlas, cloud
 
@@ -173,7 +173,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=8iKrZ4sSS_
 
 Swarm of AI agents simulates a free-market economy on Solana.
 
-**How it used Solana:** An agent pledges wood, a net or a half-built house, and the Solana program mints coins against it.
+**How it used Solana:** The project uses a Solana Anchor program in Rust with a ledger in one zero-copy account.
 
 [Code](https://github.com/leakyhose/agent-economy) · [Demo video](https://www.youtube.com/watch?v=2_bnZhsAtcY) · Built with solana, baseten, claude, codex
 
@@ -183,7 +183,7 @@ Swarm of AI agents simulates a free-market economy on Solana.
 
 A marketplace lets developers browse GPU capacity and reserve it through a blockchain transaction.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** The project lets a reservation intent be signed on Solana devnet.
 
 [Code](https://github.com/OzBoz-Dev/knighthacks-2026) · [Demo video](https://www.youtube.com/watch?v=EDPen_Iu5QY) · Built with solana, databricks, devin, golang
 
@@ -193,7 +193,7 @@ A marketplace lets developers browse GPU capacity and reserve it through a block
 
 A lender can screen potential properties for environmental risks before approving financing.
 
-**How it used Solana:** It serializes the payload, computes a SHA-256 fingerprint, and submits a compact summary and fingerprint through Solana's SPL Memo program, using solders and solana-py.
+**How it used Solana:** The project creates an attestation on Solana devnet that records a fingerprint of the scan summary and document hashes.
 
 [Code](https://github.com/9nesh/VERA) · [Demo video](https://www.youtube.com/watch?v=62N696AcAkE) · Built with solana, solana-py, solders, actian
 
@@ -205,7 +205,7 @@ A lender can screen potential properties for environmental risks before approvin
 
 A decentralized car marketplace operating on the Solana block chain. No middlemen, no hidden fees—just trust, speed, and transparency.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** The project uses Solana smart contracts for NFT minting and transactions.
 
 [Code](https://github.com/HassanZafar-2021/AutoTrust) · [Demo video](https://www.youtube.com/watch?v=lWGJleFYmqM) · Built with anchor, blockchain, fastapi, llm
 
@@ -215,7 +215,7 @@ A decentralized car marketplace operating on the Solana block chain. No middleme
 
 Run powerful Dune queries and unlock blockchain insights by paying in USDC/SOL per result with x402. This Dune MCP server delivers raw on-chain data instantly through simple pay-per-query access.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** The team implemented the Solana web3.js integration.
 
 [Code](https://github.com/Apollo005/dune_mcp) · [Demo video](https://vimeo.com/1122601872) · Built with solana, css, duneanalytics, html
 
@@ -235,7 +235,7 @@ HypeChain is a decentralized marketplace for physical goods, secured by on-chain
 
 When disasters strike, traditional insurance is slow.InstaRelief delivers instant USD payouts using Solana-powered parametric triggers the moment your ZIP is impacted. Relief in seconds, not weeks.
 
-**How it used Solana:** Sponsor use not stated on Devpost
+**How it used Solana:** Funds are transferred through the Solana blockchain.
 
 [Code](https://github.com/aakash2060/insta-relief) · [Demo video](https://www.youtube.com/watch?v=friog1wMYu8) · Built with solana, claude, firebase, noaa
 
@@ -255,7 +255,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=OgYibmNNUD
 
 Solana based game with a goal of winning an argument against a LLM.
 
-**How it used Solana:** The SOL smart-contract written on Rust is deployed to the devnet of Solana.
+**How it used Solana:** The team deployed the Rust smart contract to the Solana devnet.
 
 [Code](https://github.com/lawaldemur/HackNYU) · [Demo video](https://www.youtube.com/watch?v=-JSJSiqH1JE) · Built with anchor, solana, amazon-web-services, llm
 
@@ -265,7 +265,7 @@ Solana based game with a goal of winning an argument against a LLM.
 
 SolHive is a platform to navigate NFT Markets &amp; Network Congestion with AI. It uses real-time blockchain metrics, NFT recommendations, and predictive analytics to optimize transactions.
 
-**How it used Solana:** The application provides real-time insights into Solana’s network performance by analyzing key metrics such as TPS, transaction fees, failed transactions, NFT trading volume, and minting activity.
+**How it used Solana:** The project uses The Graph to fetch Solana network metrics and structure the data for analysis.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=anMExD1-qms) · Built with alchemyapi, graph, javascript, openai
 
@@ -275,7 +275,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=anMExD1-qm
 
 Splitting bills with friends is messy—receipts get lost, people forget to pay, and tracking balances is a headache. SolShare fixes this: scan, assign, and settle instantly on Solana.
 
-**How it used Solana:** Settle payments instantly via blockchain (Solana): Payments are trustless and immediate, without relying on traditional bank integration.
+**How it used Solana:** The project settles payments via the Solana blockchain.
 
 No public code linked · Built with solana, cohere, firebase, gcp
 
@@ -285,7 +285,7 @@ No public code linked · Built with solana, cohere, firebase, gcp
 
 Yes, you read that right – not just devnet, but mainnet-beta.
 
-**How it used Solana:** It all happens in real-time, powered by State of the Art ML Models and Solana's lightning-fast network.
+**Solana:** Built with solana (listed on Devpost)
 
 [Code](https://github.com/Loldude0/hacknyu) · Built with solana, python, react, realtime
 
@@ -305,7 +305,7 @@ A way to be updated with the most up-to-date information on crypto and assets - 
 
 Trader’s Co-Pilot: the first AI-native Solana trading platform on MCP with 14 pro tools for safe blockchain interaction, MEV defense, signals, and agent payments.
 
-**How it used Solana:** Trader's Co-Pilot is the world's first AI-native Solana trading platform built on the Model Context Protocol (MCP).
+**How it used Solana:** The project uses Solana settlement for automated payment processing.
 
 [Code](https://github.com/rajashekarcs2023/mhacks-solana) · [Demo video](https://www.youtube.com/watch?v=21jeXHPXkEw) · Built with solana, javascript, mcp, typescript
 

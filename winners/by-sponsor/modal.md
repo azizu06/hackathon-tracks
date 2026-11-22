@@ -33,7 +33,7 @@ Jiggle Wiggle is a real-time AI movement coach that works with three input modes
 
 Built Minecraft in one shot - Burned $5500 running 100+ coding agents pushing at peak 1200+ commits/hr to research the future of "coding".
 
-**How it used Modal:** Modal: Serverless GPU backend that runs each sandboxed agent at scale with high-performance compute and automatic resource provisioning.
+**How it used Modal:** The team used Modal sandboxes to execute agents in parallel.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=5oxXfazBcaQ) · Built with modal, chatgpt, claude, cursor
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=5oxXfazBca
 
 Robots and self-driving cars need training data. Mirage synthesizes 3D world-model training data covering hard-to-capture scenes - like driving in a hailstorm.
 
-**How it used Modal:** Sponsor use not stated on Devpost
+**Modal:** Built with modal (listed on Devpost)
 
 [Code](https://github.com/kyan-yang/Mirage) · Built with modal, gpu, python
 
@@ -53,7 +53,7 @@ Robots and self-driving cars need training data. Mirage synthesizes 3D world-mod
 
 Mobius runs for very long periods of time completely autonomously to complete all aspects of building a venture-scale company from scratch - engineering, marketing, operations, legal, and more.
 
-**How it used Modal:** Run on a modal sandbox for privacy and asynchronous running.
+**How it used Modal:** The project uses Modal for isolated cloud sandbox execution.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa4) · Built with modal, ai, anthropic, chatgpt
 
@@ -63,7 +63,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=KB5vgGlufa
 
 Shared coding agent context powered by RLMs. One Context, Run Everywhere.
 
-**How it used Modal:** Sponsor use not stated on Devpost
+**How it used Modal:** The team used a Modal serverless function for the root LM.
 
 [Code](https://github.com/WingchunSiu/Monolith) · [Demo video](https://www.youtube.com/watch?v=Ie0ZMGYPhS8) · Built with modal, claude, cloudflare, mcp
 

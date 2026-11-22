@@ -23,7 +23,7 @@
 
 Social deduction game Mafia played in your iMessages group chat; AI story narration, roles &amp; actions managed in DMs, group discussion in chat, polls, message effects, and more.
 
-**How it used Linq:** Sponsor use not stated on Devpost
+**How it used Linq:** The project uses Linq’s iMessage API for anything that touches a phone.
 
 [Code](https://github.com/lolasanchezz/text-mafia) · Built with linq, express.js, supabase, typescript
 

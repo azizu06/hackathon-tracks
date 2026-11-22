@@ -23,7 +23,7 @@
 
 A LiDAR iPhone and a 24-pin palm puck that turn the room into touch. Feel what’s ahead and where it is, ask “where’s the exit?” and a pin taps the way.
 
-**How it used Chalk:** Sponsor use not stated on Devpost
+**How it used Chalk:** The project uses Chalk Evaluations for scoring on labeled photos.
 
 [Code](https://github.com/MartinPuli/feel) · [Demo video](https://www.youtube.com/watch?v=NzBkQcUejH0) · Built with chalk, 3d-printing, arduino, arkit
 
@@ -33,7 +33,7 @@ A LiDAR iPhone and a 24-pin palm puck that turn the room into touch. Feel what�
 
 While official evacuation orders often come late and cover whole zones, Trace is fine-grained: it applies to an individual's address.
 
-**How it used Chalk:** Evaluations: fire alerts (600 households) and surge alerts run as Chalk Evaluations.
+**How it used Chalk:** Fire and surge alerts run as Chalk Evaluations.
 
 [Code](https://github.com/Berny-ft/HackHarvard2026) · [Demo video](https://www.youtube.com/watch?v=jfoYqBbt6T4) · Built with chalk, elevenlabs, mapbox, nasa
 

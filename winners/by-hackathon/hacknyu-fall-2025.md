@@ -80,7 +80,7 @@ A multi-agent simulator where buyer negotiates with opaque seller agents in real
 - **Code:** [Source 1](https://github.com/rohan-g0re/Hack_NYU_Arbitrage)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=z2_8AWR_qU8)
 - **All prizes at this hackathon (2):** Best Use of Qualcomm EdgeAI · Visa Challenge - Agent Marketplace Simulation
-- **How it used Qualcomm:** Sponsor use not stated on Devpost
+- **How it used Qualcomm:** The project uses Qualcomm Snapdragon X Elite hardware.
 - **How it used Visa:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
@@ -134,7 +134,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ZHPY_1P-ul
 - **Code:** [Source 1](https://github.com/shivvyas2/SATistics)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=AErgCTfmmbw)
 - **All prizes at this hackathon (2):** Education · MLH - Best .Tech Domain Name
-- **How it used .Tech Domains:** Sponsor use not stated on Devpost
+- **How it used .Tech Domains:** The live site uses www.satistic.tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -296,7 +296,7 @@ No public code linked · Built with openrouter, elevenlabs, react
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (3):** Best AI Wrapper Hack · Best Use of OpenRouter · Education
-- **How it used OpenRouter:** Sponsor use not stated on Devpost
+- **How it used OpenRouter:** The project uses GPT-5.1 via OpenRouter for PDF case extraction and to feed dynamic variables to ElevenLabs.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -325,7 +325,7 @@ An edge-AI tutoring agent that listens in real time and guides you the moment co
 - **Code:** [Source 1](https://github.com/Baozzz04/insight-loop)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0WAUHLDkyHI)
 - **All prizes at this hackathon (1):** Best Use of Qualcomm EdgeAI
-- **How it used Qualcomm:** Sponsor use not stated on Devpost
+- **How it used Qualcomm:** The project uses a multimodal edge-AI engine running locally on the Snapdragon X Elite.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -352,7 +352,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=5qtlaak3W9
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5qtlaak3W9Y)
 - **All prizes at this hackathon (2):** MLH - Best Use of Snowflake · Sustainability
-- **How it used Snowflake:** Eco Nexus uses Snowflake for data warehousing and analytics.
+- **How it used Snowflake:** The team used Snowflake for data warehousing and analytics.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -402,7 +402,7 @@ When disasters strike, traditional insurance is slow.InstaRelief delivers instan
 - **Code:** [Source 1](https://github.com/aakash2060/insta-relief)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=friog1wMYu8)
 - **All prizes at this hackathon (1):** MLH - Best Use of Solana
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** Funds are transferred through the Solana blockchain.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

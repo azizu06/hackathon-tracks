@@ -23,7 +23,7 @@
 
 ANCHOR connects a device in the customer’s home to a claims dashboard that State Farm agents can see.
 
-**How it used State Farm:** ANCHOR connects a device in the customer’s home to a claims dashboard that State Farm agents can see.
+**How it used State Farm:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/aparnabalaji07/anchor) · [Demo video](https://www.youtube.com/watch?v=aimbrYK_4GA) · Built with arduino, c++, canva, esp32
 

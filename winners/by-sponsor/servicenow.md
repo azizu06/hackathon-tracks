@@ -23,7 +23,7 @@
 
 AgentNow is a Gemini-powered assistant that listens to customers and instantly recommends the right ServiceNow accelerators, giving real-time, data-driven feedback to guide smarter conversations.
 
-**How it used ServiceNow:** AgentNow is a Gemini-powered assistant that listens to customer conversations and, in real time, recommends the most relevant ServiceNow accelerators.
+**How it used ServiceNow:** Sponsor use not stated on Devpost
 
 [Code](https://github.com/must108/agentnow) · [Demo video](https://www.youtube.com/watch?v=IMv4cc_kS_c) · Built with elevenlabs, gemini, next.js
 

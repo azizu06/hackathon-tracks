@@ -112,7 +112,7 @@ Puddle brings an "every drop matters" approach to your everyday spending, allowi
 - **Code:** [Source 1](https://github.com/TigerHacks-Competition-Team/Bitcamp-2024)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=iI8CfmVSa98)
 - **All prizes at this hackathon (2):** Best Financial Hack - Capital One · Best UI/UX Hack - Bitcamp
-- **How it used Capital One:** The card management screen, also powered by the nessie api.
+- **How it used Capital One:** The Nessie API powers the card management screen.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -343,7 +343,7 @@ No public code linked · Built with propelauth, cloudflare, javascript, json
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of PropelAuth - MLH
-- **How it used PropelAuth:** The team are also using PropelAuth to minimize account fraud and implementing a unique approach through the Artificial Intelligence model to minimize loan fraud, revolutionizing the loan industry.
+- **How it used PropelAuth:** The team uses PropelAuth to minimize account fraud.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -397,7 +397,7 @@ A large part of the weekend was spent exploring the various quantum algorithms.
 - **Code:** [Source 1](https://github.com/leemzius/whseurddy)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wGPTKrjOgko)
 - **All prizes at this hackathon (2):** Best Advanced Quantum Track Hack - Bitcamp · Best Use of Taipy - MLH
-- **How it used Taipy:** The team developed using Taipy for frontend and backend functionality.
+- **How it used Taipy:** The team used Taipy for frontend and backend functionality.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -470,7 +470,7 @@ No public code linked · Built with gpt, natural-language-processing, openai, py
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** University Course Catalog Data Extraction and Query Challenge - Xficient
-- **How it used Xficient:** Xficient Bot revolutionizes course catalog management by using unsupervised learning to cluster uploaded files.
+- **How it used Xficient:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>

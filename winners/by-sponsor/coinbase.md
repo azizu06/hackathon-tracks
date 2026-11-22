@@ -23,7 +23,7 @@
 
 Real-world data, verified by AI, paid out instantly.
 
-**How it used Coinbase:** Sponsor use not stated on Devpost
+**How it used Coinbase:** The team wrote a Coinbase Wallet MCP plugin so an AI agent can create and fund an order.
 
 [Code](https://github.com/stephenhungg/skarl) · [Demo video](https://www.youtube.com/watch?v=mSNAkI_mGPY) · Built with coinbase-developer-platform, atlassian-forge, base, capital-one-nessie
 
@@ -33,7 +33,7 @@ Real-world data, verified by AI, paid out instantly.
 
 Make trading intuitive, fun, and physically rewarding.
 
-**How it used Coinbase:** Sponsor use not stated on Devpost
+**How it used Coinbase:** The agents use Coinbase MCP to calculate and execute trades.
 
 [Code](https://github.com/sarah-min/StockUp) · [Demo video](https://www.youtube.com/watch?v=7Vt0G7edMeM) · Built with coinbase, creao, mana, node.js
 
@@ -45,7 +45,7 @@ Make trading intuitive, fun, and physically rewarding.
 
 Ethereum Piggy lets you save money with a virtual Piggy Bank.
 
-**How it used Coinbase:** Sponsor use not stated on Devpost
+**How it used Coinbase:** The app connects to a Coinbase Ethereum wallet.
 
 No public code linked · Built with coinbase, ethereum, ios
 

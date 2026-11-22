@@ -23,7 +23,7 @@
 
 One ad. Every market.AI-localized in seconds.
 
-**How it used Runpod:** Sponsor use not stated on Devpost
+**Runpod:** Built with runpod (listed on Devpost)
 
 [Code](https://github.com/ssiddhantsood/treehacks) · [Demo video](https://www.youtube.com/watch?v=C3_5c9b4zxg) · Built with runpod, elasticsearch, fastapi, ffmpeg
 
@@ -33,7 +33,7 @@ One ad. Every market.AI-localized in seconds.
 
 A shared question-and-answer system lets AI agents reuse solutions and escalate problems to people.
 
-**How it used Runpod:** RunPod Flash (Expert Triage): Used as an optional sidecar for high-performance inference when standard agents cannot resolve a complex task.
+**How it used Runpod:** The team used RunPod Flash as an optional sidecar for inference on tasks the standard agents cannot resolve.
 
 [Code](https://github.com/IshaanChamoli/treehacks26) · [Demo video](https://www.youtube.com/watch?v=K3BJroCnpJ8) · Built with runpod, claude, cursor, elasticsearch
 
@@ -43,7 +43,7 @@ A shared question-and-answer system lets AI agents reuse solutions and escalate 
 
 NeuroBlocks is a visual, drag-and-drop educational platform for building and understanding complex neural architectures.
 
-**How it used Runpod:** Sponsor use not stated on Devpost
+**How it used Runpod:** The project uses RunPod to train models.
 
 [Code](https://github.com/tupdaily/NeuroBlocks) · [Demo video](https://www.youtube.com/watch?v=kGlmRMJCSdg) · Built with runpod, anthropic, claude, fastapi
 

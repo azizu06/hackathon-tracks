@@ -55,7 +55,7 @@ An interactive, hand-illustrated, digital storybook featuring point-and-click pr
 
 An Adobe add-on that generates a Reel/Short video from prompt.
 
-**How it used Adobe:** The team built an Adobe Express add-on that helps user make educational or awareness reels/shorts faster by generating half of the work for them.
+**How it used Adobe:** The team built an Adobe Express add-on to help users make educational or awareness reels.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=dZgIqzT754Y) · Built with adobe-ad-on, ai, cloudflare, flask
 

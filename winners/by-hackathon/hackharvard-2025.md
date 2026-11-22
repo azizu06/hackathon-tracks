@@ -84,7 +84,7 @@ Location-based transaction validation using arm-based cloud computing for end-to
 - **Code:** [Source 1](https://github.com/eiyer28/HackHarvard)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0aO7TBcvifA)
 - **All prizes at this hackathon (1):** Best Use of Arm
-- **How it used Arm:** Sponsor use not stated on Devpost
+- **How it used Arm:** The project uses Arm Confidential Compute Architecture for device trust.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -138,7 +138,7 @@ Preventing crowd crush before it happens.
 - **Code:** [Source 1](https://github.com/treehill05/eyrie)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best AI Application Built with Cloudflare
-- **How it used Cloudflare:** Sponsor use not stated on Devpost
+- **Cloudflare:** Built with cloudflare (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -192,7 +192,7 @@ An Apple Vision Pro application that immerses you in different languages and cul
 - **Code:** [Source 1](https://github.com/SaketR3/Lingua-Spatial-Gemini-API) · [Source 2](https://github.com/SaketR3/Vision-Pro-Language-Immersion)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=FVoM-Fj_TL8)
 - **All prizes at this hackathon (1):** Best Use of ElevenLabs
-- **How it used ElevenLabs:** Sponsor use not stated on Devpost
+- **How it used ElevenLabs:** The project uses ElevenLabs text-to-speech to create voiceovers of the cultural facts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -246,7 +246,7 @@ AI-powered auditor that lives at the top of your screen. Instantly scan files fo
 - **Code:** [Source 1](https://github.com/Evandabest/Hackharvard2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=WgSNcEAPhr8)
 - **All prizes at this hackathon (1):** Best Use of Gemini API
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The project uses Gemini for multimodal text extraction.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

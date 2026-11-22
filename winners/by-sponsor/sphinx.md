@@ -23,7 +23,7 @@
 
 PatchLab tracks what players feel during playtests, not just what they click. It fuses webcam emotions, heart rate, and gameplay video to pinpoint broken mechanics before launch.
 
-**How it used Sphinx:** Sponsor use not stated on Devpost
+**How it used Sphinx:** The project uses Sphinx to query its dataset in plain English.
 
 [Code](https://github.com/NSang22/PatchLab) · [Demo video](https://www.youtube.com/watch?v=IrHYcadESSk) · Built with actian, fastapi, google-gemini, javascript
 

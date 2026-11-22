@@ -23,7 +23,7 @@
 
 CivitasX turns cities into autonomous digital ecosystems—AI agents that understand intent, trigger complex civic workflows, and log every verified action immutably on the XRP Ledger.
 
-**How it used Ripple:** Sponsor use not stated on Devpost
+**How it used Ripple:** The project records verified civic actions on the XRP Ledger via the XRPLedger MCP.
 
 [Code](https://github.com/rajashekarcs2023/calhacks-12) · [Demo video](https://www.youtube.com/watch?v=Fu-sYqMotpg) · Built with xrpl, creao, creaofileupload-mcp, creaosearch-mcp
 
@@ -33,7 +33,7 @@ CivitasX turns cities into autonomous digital ecosystems—AI agents that unders
 
 A task &amp; reward hub with AI-powered candidate matching and XRPL payments.
 
-**How it used Ripple:** Seamless XRPL testnet integration, successfully funding wallets and paying out in both RLUSD and XRP.
+**How it used Ripple:** The project funds wallets and pays out in RLUSD and XRP through its XRPL testnet integration.
 
 [Code](https://github.com/Afformativ/HackTheNorth) · [Demo video](https://www.youtube.com/watch?v=s_kBH_H0Pmw) · Built with ripple, flask, gemini, mongodb
 
@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=6GD9fiZIC9
 
 A decentralized peer-to-peer lending platform built on the XRP Ledger (XRPL), enabling university students and individuals to lend and borrow funds with transparent, blockchain-backed transactions.
 
-**How it used Ripple:** PeerFund uses the XRP Ledger to record funding commitments and process loan payments.
+**How it used Ripple:** PeerFund is a peer-to-peer lending platform built on the XRP Ledger.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh0) · Built with xrpl, blockchain, firebase, nextjs
 
@@ -63,7 +63,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=i8pdWnesvh
 
 RippleRelief is a web app that connects donors, NGOs, recipients, and merchants in a transparent aid ecosystem:.
 
-**How it used Ripple:** Payments: Integrated Stripe so donors can give in fiat (credit card, bank, etc.), while each donation is mirrored on XRPL as a transparent, traceable transaction.
+**How it used Ripple:** NGOs issue digital vouchers (IOUs) directly on XRPL.
 
 [Code](https://github.com/peterson-htn252/PulseRelief) · Built with ripple, flask, javascript, node.js
 
@@ -95,7 +95,7 @@ No public code linked · Built with ripple, node.js, react, web3
 
 Create and deploy audited smart contracts on the XRPL EVM side chain using easy to understand smart contract blocks.
 
-**How it used Ripple:** Sponsor use not stated on Devpost
+**How it used Ripple:** The team used the XRPL EVM side chain RPC provider for wallet injection.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=Tjbo1wRPeVU) · Built with ripple, evm, nextjs, rainbowkit
 

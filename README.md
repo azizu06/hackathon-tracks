@@ -67,7 +67,8 @@ Each row is one project and one sponsor prize it won. The fields you will use mo
 | `hackathon`, `year` | Where and when it won |
 | `sponsor`, `prize` | Who awarded the prize and its exact Devpost label |
 | `description` | What the project does |
-| `sponsor_integration` | How it used the sponsor's product, when the write-up says |
+| `sponsor_integration` | Documented sponsor use or a sponsor product listed in Built With |
+| `use_source`, `use_quote` | Source field and exact supporting excerpt |
 | `built_with`, `sponsor_tech` | All tech tags, and the ones that belong to the sponsor |
 | `source_urls`, `demo_video_urls` | Verified code and demo video links |
 | `required_tech` | What the track asked for, when captured |

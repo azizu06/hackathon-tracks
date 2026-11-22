@@ -98,7 +98,7 @@ Plenty of people hope to travel and explore the world, and it's no surprise that
 - **Code:** [Source 1](https://github.com/PaliC/Dream-Flight)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Data
-- **How it used Amadeus:** Sponsor use not stated on Devpost
+- **Amadeus:** Built with amadeus (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -121,7 +121,7 @@ SOS Squad is a platform for connecting good Samaritans to disaster victims.
 - **Code:** [Source 1](https://github.com/sabrinatseng/SOS-Squad)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best in Show
-- **How it used Amadeus:** The team integrated IBM's Weather API and Amadeus' API to provide weather alerts and flight / hotel lookup.
+- **How it used Amadeus:** The project integrates Amadeus’ API with IBM’s Weather API for flight and hotel lookup and weather alerts.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -252,7 +252,7 @@ No public code linked · Built with docusign, beautiful-soup, bootstrap, css
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of DocuSign's eSignature API
-- **How it used DocuSign:** Then using DocuSign's API, the user can share the contract to be signed by the recipient.
+- **How it used DocuSign:** The project uses DocuSign’s API to share a contract for the recipient to sign.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -306,7 +306,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=L_SCo0XBZ5
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=L_SCo0XBZ58)
 - **All prizes at this hackathon (1):** Best Use of GIPHY API
-- **How it used GIPHY:** Sponsor use not stated on Devpost
+- **How it used GIPHY:** The project searches GIPHY for GIFs using key words.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -356,7 +356,7 @@ ViGCam spots active shooters and tracks them through buildings.
 - **Code:** [Source 1](https://github.com/xTEddie/HackMIT2018)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZCWxii9Kp-k)
 - **All prizes at this hackathon (2):** 3rd Place · Best Use of Google Cloud Platform or Firebase
-- **How it used Google:** It uses existing camera infrastructure, location tags and Google Vision to recognize weapons.
+- **How it used Google:** The project uses Google Vision API image classifications.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -406,7 +406,7 @@ Are you prepared for the worst.
 - **Code:** [Source 1](https://github.com/disaster-rescue/disaster-rescue.github.io)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=o8giqAKmIZw)
 - **All prizes at this hackathon (1):** Best Disaster Preparedness &amp; Relief Solutions for IBM Call for Code Challenge
-- **How it used IBM:** Sponsor use not stated on Devpost
+- **How it used IBM:** The project uses IBM Watson NLP in its Python data analysis pipeline.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -433,7 +433,7 @@ A natural language processing framework for collecting data and statistics relev
 - **Code:** [Source 1](https://github.com/shiftsayan/nemo)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Kensho Knowledge Graph API
-- **How it used Kensho:** Sponsor use not stated on Devpost
+- **How it used Kensho:** The project uses Kensho’s Knowledge Graph API to show recent events related to video content.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -460,7 +460,7 @@ Helping individuals as they overcome opioid dependency by providing them with vo
 - **Code:** [Source 1](https://github.com/the-flying-circus/HackMIT2018)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Facebook API
-- **How it used Meta:** Sponsor use not stated on Devpost
+- **How it used Meta:** The project used the Facebook OAuth API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -620,7 +620,7 @@ A web app to help you track your money and where you're spending it.
 - **Code:** [Source 1](https://github.com/shawnaness/geocash)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best use of the Plaid API
-- **How it used Plaid:** Sponsor use not stated on Devpost
+- **How it used Plaid:** The project uses the Plaid API for transaction data.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -653,7 +653,7 @@ No public code linked · Built with angular.js, firebase, ionic, jupyter
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** "Best Innovative Use of Artificial Intelligence, Data Science, &amp; Machine Learning" Presented by RBC Capital Markets
-- **How it used RBC:** FujiFusion trains its credit-rating model on an RBC dataset of company financial indicators and ratings.
+- **How it used RBC:** Data obtained from RBC Capital Markets consists of 20 features recorded for 27 companies at multiple points in time for a total of 524 samples.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -703,7 +703,7 @@ No public code linked · Built with rev, bash, css3, ffmpeg
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of RevSpeech
-- **How it used Rev:** Sponsor use not stated on Devpost
+- **How it used Rev:** Scribr first transcribes the video using the RevSpeech API.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -730,7 +730,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=YzvRMnlJ91
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YzvRMnlJ91Q)
 - **All prizes at this hackathon (1):** Rigetti Quantum Prize
-- **How it used Rigetti:** One developed the integration with Rigetti's quantum computing platform, alongside a Rigetti representative who marveled at this unique application of quantum computing.
+- **How it used Rigetti:** The team developed an integration with Rigetti’s quantum computing platform.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -807,7 +807,7 @@ An accessible Google StreetView for the visually impaired through visceral scene
 - **Code:** [Source 1](https://github.com/R0bk/image_captioning) · [Source 2](https://github.com/mitchmcdee/yeetview)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (2):** 2nd Place · Best Spell API hack
-- **How it used Spell:** Sponsor use not stated on Devpost
+- **Spell:** Built with spell (listed on Devpost)
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -834,7 +834,7 @@ Quick Relief uses blockchain technology to enable faster, secure, and transparen
 - **Code:** [Source 1](https://github.com/wcordelo/mit-hack-2018)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Stellar Network
-- **How it used Stellar:** The team used Stellar for the blockchain implementation, Plaid for the financial documentation and record keeping for tax deductible purposes, and Docusign for legitimate signing and record keeping.
+- **How it used Stellar:** The team used Stellar for the blockchain implementation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -861,7 +861,7 @@ A Mathematica notebook that converts online lecture videos into LaTeX code, for 
 - **Code:** [Source 1](https://github.com/jautung/r00t)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of Wolfram Technologies
-- **How it used Wolfram:** Sponsor use not stated on Devpost
+- **How it used Wolfram:** The project uses Mathematica Image Analysis to segment images and detect handwriting.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

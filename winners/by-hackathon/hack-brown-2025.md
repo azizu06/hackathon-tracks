@@ -53,7 +53,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=b_AvCD3fC-
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=b_AvCD3fC-I)
 - **All prizes at this hackathon (1):** Best Use of AWS
-- **How it used Amazon Web Services:** Text-to-ASL conversion using AWS Bedrock Speech-to-Text using Amazon Transcribe Real-time processing via Lambda functions.
+- **How it used Amazon Web Services:** The team used AWS services for video storage in S3 and language processing with Bedrock.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -107,7 +107,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=hecJHlorSy
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=hecJHlorSy0)
 - **All prizes at this hackathon (1):** Best Use of Terraform
-- **How it used HashiCorp:** Sponsor use not stated on Devpost
+- **How it used HashiCorp:** The project uses Terraform actions integrated with AWS to handle CI/CD.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -134,7 +134,7 @@ An LLM-powered web game curated for children to improve their debate and convers
 - **Code:** [Source 1](https://github.com/alfardil/Hack-at-Brown-2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=MbhPdRFqeb4)
 - **All prizes at this hackathon (1):** Best Use of MongoDB Atlas
-- **How it used MongoDB:** React for frontend MongoDB backend Used OpenAI API.
+- **How it used MongoDB:** The project uses MongoDB for its backend.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

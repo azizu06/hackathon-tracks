@@ -23,7 +23,7 @@
 
 A sovereign AI security mesh that detects threats, coordinates autonomous agents, and enforces safe actions in real time.
 
-**How it used Tether:** Pear/Tether provides a path toward sovereign, peer-to-peer deployment, and a Raspberry Pi edge service demonstrates signed-capability enforcement using low-voltage hardware.
+**How it used Tether:** The local runtime uses QVAC for on-device inference with deterministic fallbacks.
 
 [Code](https://github.com/asma675/AegisMesh-Hack-the-North-2026) · [Demo video](https://www.youtube.com/watch?v=z-jlB5tFR3A) · Built with agents, browserbase, cloudfare, css
 

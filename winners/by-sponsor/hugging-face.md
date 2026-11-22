@@ -23,7 +23,7 @@
 
 Farsight lets a rescuer drive a rover remotely, inspect its live camera, and revisit a scan of the room in VR.
 
-**How it used Hugging Face:** Hugging Face model artifacts power the on-device voice and vision assistant, which can draft notes from field observations.
+**How it used Hugging Face:** The local assistant uses Hugging Face model artifacts for Qwen3-VL-2B-Instruct GGUF and Whisper base.en.
 
 [Code](https://github.com/azizu06/farsight) · [Demo video](https://www.youtube.com/watch?v=AmrOGcTBTKU) · Built with hugging-face, arduino, arkit, depth-anything
 

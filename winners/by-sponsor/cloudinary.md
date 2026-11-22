@@ -23,7 +23,7 @@
 
 AgriMind combines a robotic guardian with live farm sensors and AI video/image analysis to cut water waste, detect crop disease early, and reduce fertilizer overuse for smart &amp; sustainable farming.
 
-**How it used Cloudinary:** AgriMind uses Cloudinary to store and annotate farm photos for sustainability analysis.
+**How it used Cloudinary:** The project uses Cloudinary for image analysis on uploaded farm photos, cloud storage and annotation.
 
 [Code](https://github.com/ClosetCoderSad/AgriMind-LAHacks) · [Demo video](https://www.youtube.com/watch?v=Y-L3LzDw2ig) · Built with cloudinary, auth0, elevenlabs, fast-api
 
@@ -33,7 +33,7 @@ AgriMind combines a robotic guardian with live farm sensors and AI video/image a
 
 Using Cloudinary’s efficient processing and delivery, Cloudcam makes video messaging creative, instant, and personal.
 
-**How it used Cloudinary:** When the recording is finished, the video blob is uploaded directly to Cloudinary using an unsigned preset.
+**How it used Cloudinary:** The recorded video blob is uploaded directly to Cloudinary.
 
 [Code](https://github.com/erikshen128/cloudcam) · [Demo video](https://www.youtube.com/watch?v=l77n1NEQqxI) · Built with cloudinary, claude, java, mediarecorder
 
@@ -43,7 +43,7 @@ Using Cloudinary’s efficient processing and delivery, Cloudcam makes video mes
 
 Grounded AI tutoring, built on your curriculum, Interactive Learning.
 
-**How it used Cloudinary:** Groq is used in LLM-related paths, ElevenLabs powers voice, Tavily supports research search, and Cloudinary powers major media/document upload and delivery flows.
+**How it used Cloudinary:** Cloudinary powers media and document upload and delivery.
 
 [Code](https://github.com/Preet37/SAGE) · [Demo video](https://www.youtube.com/watch?v=Zubxeygcx_E) · Built with cloudinary, cognition, elevenlabs, fastapi
 
@@ -53,7 +53,7 @@ Grounded AI tutoring, built on your curriculum, Interactive Learning.
 
 Your tabs, turned into a study session.
 
-**How it used Cloudinary:** StudyO uses Cloudinary transformations to assemble educational videos and sync captions to narration.
+**How it used Cloudinary:** The team used Cloudinary transformations to stitch multi-scene videos.
 
 [Code](https://github.com/sudarshan-krishnan/StudyO_LAHacks_2026) · [Demo video](https://www.youtube.com/watch?v=jQ3Fq21-e_k) · Built with cloudnary, elevenlabs, mongodb
 
@@ -63,7 +63,7 @@ Your tabs, turned into a study session.
 
 Turn trash into cash: report litter, clean it up, get paid in Solana.
 
-**How it used Cloudinary:** Sponsor use not stated on Devpost
+**How it used Cloudinary:** The project uses Cloudinary AI Vision to verify photos with natural language prompts.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=D_P7spBpfyQ) · Built with cloudinary, react-native, solana, supabase
 

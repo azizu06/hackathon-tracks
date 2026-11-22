@@ -23,7 +23,7 @@
 
 PC building made easy — ask questions, identify parts, and build confidently.
 
-**How it used TwelveLabs:** PC Part data using data scraping (Firecrawl (PC Part Picker), TwelveLabs (YT)).
+**TwelveLabs:** Built with twelvelabs (listed on Devpost)
 
 [Code](https://github.com/kevinwu098/buildr) · [Demo video](https://www.youtube.com/watch?v=lfB2SNkqhy4) · Built with twelvelabs, chatgpt, deepgram, lancedb
 
@@ -33,7 +33,7 @@ PC building made easy — ask questions, identify parts, and build confidently.
 
 Every fan watches the same basketball game, but for different moments. Some track tactics, others chase the star’s reaction after a dunk.
 
-**How it used TwelveLabs:** Sponsor use not stated on Devpost
+**How it used TwelveLabs:** The project feeds raw footage from multiple camera angles into TwelveLabs Marengo.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf0) · Built with javascript, node.js, python, react
 
@@ -43,7 +43,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=pOvZoBC0Bf
 
 Reel-To-Real is an end-to-end autonomous travel agent.
 
-**How it used TwelveLabs:** The system concurrently scrapes live travel data, extracts venues using NLP, parses videos for location and attractions using TwelveLabs, and validates them for quality using Google Gemini.
+**How it used TwelveLabs:** The system uses TwelveLabs to parse videos for locations and attractions.
 
 [Code](https://github.com/pranavgowrish/reeltoreal) · [Demo video](https://www.youtube.com/watch?v=_LCzIzWPdRM) · Built with twelvelabs, beautiful-soup, ddgs, fastapi
 

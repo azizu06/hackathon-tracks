@@ -23,7 +23,7 @@
 
 The team have learned how to build applications based on an initial image.
 
-**How it used Chainguard:** The team built the project based on the pytorch-dev image from chainguard to develop a secure application free of CVEs.
+**How it used Chainguard:** The team built the project on the pytorch-dev image from Chainguard.
 
 [Code](https://github.com/Rodrigo-Munoz-Salas/AI_Image_Recognition) · Built with docker, github, numpy, pillow
 
@@ -33,7 +33,7 @@ The team have learned how to build applications based on an initial image.
 
 Cloud Vault is a containerized file uploader using Chainguard Images for secure environments. It secures data with HTTPS, SSL certs, and persistent storage, ensuring safer file management with Docker.
 
-**How it used Chainguard:** These files are stored in a secure Docker container, using Chainguard's Wolfi OS and SSL certificates with HTTPS to minimize vulnerabilities and increase security during file transmission and storage.
+**How it used Chainguard:** The team used Chainguard Wolfi OS images for the container environment.
 
 [Code](https://github.com/lain561/CloudVault) · Built with chainguard, css3, docker, flask
 
@@ -43,7 +43,7 @@ Cloud Vault is a containerized file uploader using Chainguard Images for secure 
 
 Lootcode 10 offers 8 unique regions to explore (Geometry, Range Queries, Sorting/Searching, Math, DP, Trees, Graph Algorithms, and Strings), each of which offer a set of problems to be solved.
 
-**How it used Chainguard:** Sponsor use not stated on Devpost
+**How it used Chainguard:** The project uses Chainguard to sandbox the solutions it judges.
 
 [Code](https://github.com/brianush1/leetcode-ai) · [Demo video](https://www.youtube.com/watch?v=_Cjp8x99bII) · Built with chainguard, svelte, typescript
 

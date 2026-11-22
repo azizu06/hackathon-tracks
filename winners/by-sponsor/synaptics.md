@@ -23,7 +23,7 @@
 
 Unlock the full potential of the electronics you love by controlling them wirelessly through easy hand gestures.
 
-**How it used Synaptics:** Sponsor use not stated on Devpost
+**Synaptics:** Built with synaptics (listed on Devpost)
 
 No public code linked · Built with synaptics, javascript, love, python
 
@@ -75,7 +75,7 @@ No public code linked
 
 Use Synaptics ForcePad to play a rhythm game - not a mundane one but with sliding and pressure.
 
-**How it used Synaptics:** Use Synaptics ForcePad to play a rhythm game - not a mundane one but with sliding and pressure.
+**How it used Synaptics:** The project uses the Synaptics ForcePad to play a rhythm game with sliding and pressure.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=mRfVJjCFLfY)
 

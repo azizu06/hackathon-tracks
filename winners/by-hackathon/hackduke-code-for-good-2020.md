@@ -129,7 +129,7 @@ Quizzo uses OCR, AR, and voice commands to gamify the learning process, increase
 - **Code:** [Source 1](https://github.com/apangasa/hackduke-quizzo)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lfjNs9mp4sM)
 - **All prizes at this hackathon (1):** Best use of DataStax Astra
-- **How it used DataStax:** Sponsor use not stated on Devpost
+- **How it used DataStax:** The project uses Datastax Astra as its question bank.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -222,7 +222,7 @@ Revolutionizing education, orientations, and the remote college experience for t
 - **Code:** [Source 1](https://github.com/cindyxu20/hackathon2020)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=uE2RPC_NKzs)
 - **All prizes at this hackathon (1):** Best use of Google Cloud
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The team deployed its web app on Google Cloud.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

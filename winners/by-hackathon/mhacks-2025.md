@@ -58,8 +58,8 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=cnNKHDTOun
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=cnNKHDTOunw)
 - **All prizes at this hackathon (2):** Best Use of Fetch.ai · Best use of Snap AR
-- **How it used Fetch.ai:** The team designed an agent through Fetch.ai that helps Snap Spectacle users navigate indoor and outdoor travel through accessible routes.
-- **How it used Snap:** The team designed an agent through Fetch.ai that helps Snap Spectacle users navigate indoor and outdoor travel through accessible routes.
+- **How it used Fetch.ai:** A Fetch.ai agent helps Snap Spectacle users navigate accessible indoor and outdoor routes.
+- **How it used Snap:** The team built MobiLens with Lens Studio for the Snap Spectacles.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -88,7 +88,7 @@ Event coordination through intelligent email management.
 - **Code:** [Source 1](https://github.com/ishaan-builds/concord)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=nLlxsbItr3U)
 - **All prizes at this hackathon (1):** Best Use of AgentMail API
-- **How it used AgentMail:** Sponsor use not stated on Devpost
+- **How it used AgentMail:** The project uses AgentMail to create unique inboxes for each trip.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -111,7 +111,7 @@ An all-in-one proactive monitoring system for sustainability and safety.
 - **Code:** [Source 1](https://github.com/greenprint-live/website)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AgentMail API
-- **How it used AgentMail:** Sponsor use not stated on Devpost
+- **How it used AgentMail:** The project uses AgentMail for alarm emails.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -134,7 +134,7 @@ Ticketry.AI bridges the gap between business stakeholders and development teams 
 - **Code:** [Source 1](https://github.com/signal86/ticketry.ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of AgentMail API
-- **How it used AgentMail:** Sponsor use not stated on Devpost
+- **How it used AgentMail:** Business users send emails to a dedicated address via AgentMail.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -161,7 +161,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=tZ9x2874vH
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=tZ9x2874vH4)
 - **All prizes at this hackathon (1):** MLH - Best Use of Auth0 &#124;&#124; Wireless Headphones
-- **How it used Auth0:** Sponsor use not stated on Devpost
+- **How it used Auth0:** The project uses Auth0 for authentication and social login.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -188,7 +188,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=0pXKtrhJ71
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0pXKtrhJ71g)
 - **All prizes at this hackathon (1):** Best integration with Base44
-- **How it used Base44:** EcoScout uses Base44 to build its scan forms and product cards and to run its backend agents.
+- **How it used Base44:** The team used Base44 for the scan forms and product cards.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -271,7 +271,7 @@ A trust-minimized marketplace where AI agents autonomously negotiate, execute, a
 - **Code:** [Source 1](https://github.com/FrankWithYou/mhacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-qG-crU2Gq4)
 - **All prizes at this hackathon (1):** Best use of ASI:One Presented by Fetch.Ai
-- **How it used Fetch.ai:** Bazaar uses Fetch.ai's uAgent library for communication between marketplace agents.
+- **How it used Fetch.ai:** The project uses the Fetch.ai uAgent library for agent communication.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -294,7 +294,7 @@ An end-to-end automated resale assistant that takes you from clutter → cash in
 - **Code:** [Source 1](https://github.com/KanikaGupta16/Decluttered.ai)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Deployment on Agentverse Presented by Fetch.Ai
-- **How it used Fetch.ai:** Automation Agents → Fetch.ai — autonomous workflows &amp; marketplace automation.
+- **How it used Fetch.ai:** The project uses Fetch.ai agents for autonomous workflows and marketplace automation.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -321,7 +321,7 @@ No public code linked · Built with 3d-projection-mathematics, a2a2448-23gcbas, 
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Vision Alignment Tool presented by Ford
-- **How it used Ford:** The Ford Vision Station Alignment System is a comprehensive computer vision solution that provides real-time alignment detection and guidance for automotive manufacturing operations.
+- **How it used Ford:** Sponsor use not stated on Devpost
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -348,7 +348,7 @@ Gesture-based mouse built using FreeWILi and Vosk text-to-speech used to increas
 - **Code:** [Source 1](https://github.com/imzaynb/MHacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=7x3D7nPJlRc)
 - **All prizes at this hackathon (1):** Best Use of FREE-WiLi
-- **How it used FREE-WILi:** Gestura reads the FREE-WILi accelerometer to turn hand gestures into mouse movement.
+- **How it used FREE-WILi:** The team captured X and Y acceleration using the FreeWILi Python library.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -371,7 +371,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=GzLRBSqCBS
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=GzLRBSqCBSw)
 - **All prizes at this hackathon (2):** Best Use of FREE-WiLi · MHacks Greenprint Winner
-- **How it used FREE-WILi:** These functions and variables are utilized to connect with the user interface of the Free-Wili device.
+- **How it used FREE-WILi:** The project uses the Free-Wili for its user interface.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -425,7 +425,7 @@ The team spent a long time brainstorming project ideas and could not find one th
 - **Code:** [Source 1](https://github.com/Cryplo/MHacks25)
 - **Demo video:** [Video 1](https://vimeo.com/1122664326)
 - **All prizes at this hackathon (1):** MLH - Best Use of Gemini API presented by Google Gemini &#124;&#124; Mechanical Keyboards
-- **How it used Google:** Sponsor use not stated on Devpost
+- **How it used Google:** The project uses Gemini in a remote shell environment that verified users can connect to.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -502,7 +502,7 @@ SoundSage: World's first real-time music intelligence. Instantly identifies genr
 - **Code:** [Source 1](https://github.com/Kart-ing/EQ_AI)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** Best Use of MemryX Edge AI Accelerator
-- **How it used MemryX:** Everything runs locally on MemryX NPU hardware, delivering studio-quality audio enhancement without cloud dependency or privacy concerns.
+- **How it used MemryX:** The project runs its audio enhancement locally on MemryX NPU hardware.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -577,7 +577,7 @@ Real-time AR &amp; AI coach for better conversations and addressing the fear of 
 - **Code:** [Source 1](https://github.com/MatchaOnMuffins/MHacks25)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=YTZotjnA4ok)
 - **All prizes at this hackathon (1):** Best use of Snap AR
-- **How it used Snap:** Sponsor use not stated on Devpost
+- **How it used Snap:** The project uses Lens Studio and Spectacles for an AR HUD.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -600,7 +600,7 @@ An augmented reality law enforcement aid using Snapchat Spectacles.
 - **Code:** [Source 1](https://github.com/ojlennon/MHacks2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=oUNED0N_luM)
 - **All prizes at this hackathon (1):** Best use of Snap AR
-- **How it used Snap:** The system uses Snap Spectacles to continuously scan the user’s entire field of view for license plates.
+- **How it used Snap:** The project uses Snap Spectacles to scan the user's field of view for license plates.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -627,7 +627,7 @@ Run powerful Dune queries and unlock blockchain insights by paying in USDC/SOL p
 - **Code:** [Source 1](https://github.com/Apollo005/dune_mcp)
 - **Demo video:** [Video 1](https://vimeo.com/1122601872)
 - **All prizes at this hackathon (1):** Most Creative Solana MCP
-- **How it used Solana:** Sponsor use not stated on Devpost
+- **How it used Solana:** The team implemented the Solana web3.js integration.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -673,7 +673,7 @@ Trader’s Co-Pilot: the first AI-native Solana trading platform on MCP with 14 
 - **Code:** [Source 1](https://github.com/rajashekarcs2023/mhacks-solana)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=21jeXHPXkEw)
 - **All prizes at this hackathon (1):** Most Creative Solana MCP
-- **How it used Solana:** Trader's Co-Pilot is the world's first AI-native Solana trading platform built on the Model Context Protocol (MCP).
+- **How it used Solana:** The project uses Solana settlement for automated payment processing.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

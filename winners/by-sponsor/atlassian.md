@@ -23,7 +23,7 @@
 
 Argo is your real-time Jira assistant for meetings. Don't worry about managing Jira changes while in the middle of important discussions, just ask Argo.
 
-**How it used Atlassian:** Sponsor use not stated on Devpost
+**How it used Atlassian:** An Atlassian Forge app shows history in Jira on a panel attached to each issue.
 
 [Code](https://github.com/Babagesh/Argo) · [Demo video](https://www.youtube.com/watch?v=Drz3VmP_8tU) · Built with atlassian, cartesia, claude, codex
 
@@ -33,7 +33,7 @@ Argo is your real-time Jira assistant for meetings. Don't worry about managing J
 
 Don’t take its word for it. Watch it.
 
-**How it used Atlassian:** Sponsor use not stated on Devpost
+**How it used Atlassian:** The project reads Jira acceptance criteria, the linked Confluence spec, and the code changes when a PR opens.
 
 [Code](https://github.com/jadenmli/credo) · [Demo video](https://www.youtube.com/watch?v=NZFvDoftuiY) · Built with atlassian-forge, azure, caddy, confluence
 
@@ -43,7 +43,7 @@ Don’t take its word for it. Watch it.
 
 An operating environment isolates each AI agent task in a separate Linux user and lets people review spending and undo changes.
 
-**How it used Atlassian:** Sponsor use not stated on Devpost
+**How it used Atlassian:** Every agent task becomes a Jira issue.
 
 [Code](https://github.com/benz16107/gurtos) · [Demo video](https://www.youtube.com/watch?v=3hDnLuUqmjM) · Built with apify, asi-one, claude, coinbase-cdp
 

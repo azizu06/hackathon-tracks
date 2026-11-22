@@ -156,7 +156,7 @@ Learn programming through personalized project-focused AI-guided courses. Design
 - **Code:** [Source 1](https://github.com/camelCasedAditya/PennApps)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0yEQR8HrBoE)
 - **All prizes at this hackathon (1):** Cerebus - Best use of Cerebras
-- **How it used Cerebras:** Sponsor use not stated on Devpost
+- **How it used Cerebras:** The project uses a Cerebras LLM for course planning, content generation and tutoring.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -179,7 +179,7 @@ A mixture of agents expert running on cutting edge inference hardware, that in p
 - **Code:** [Source 1](https://github.com/V-prajit/Terminator)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=5CZHU31kQrs)
 - **All prizes at this hackathon (1):** Cerebus - Best use of Cerebras
-- **How it used Cerebras:** Sponsor use not stated on Devpost
+- **How it used Cerebras:** The project uses Cerebras APIs for its game agents.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -206,7 +206,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=b30umZp1RZ
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=b30umZp1RZU)
 - **All prizes at this hackathon (1):** MLH - Best use of Gemini API
-- **How it used Google:** The team built a working agentic framework that routes queries across Gemini models dynamically.
+- **How it used Google:** The project uses Gemini embeddings to detect similar prompts and avoid redundant compute.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -233,7 +233,7 @@ A movie recommender finds reviews that match the reasons a viewer enjoys a film.
 - **Code:** [Source 1](https://github.com/amheuer/moviemind)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=etUSOAJqu00)
 - **All prizes at this hackathon (1):** MLH - Best use of MongoDB Atlas
-- **How it used MongoDB:** The team uses MongoDB for the vector database and semantic search.
+- **How it used MongoDB:** The project uses MongoDB for its vector database and semantic search.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

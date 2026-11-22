@@ -23,7 +23,7 @@
 
 1) A family member or caretaker helps the user set up an account, storing a special "Visual Key" as their login instead of a password.
 
-**How it used DocuSign:** AgreeAble integrates with with the DocuSign Click API to sign agreements quickly and securely.
+**How it used DocuSign:** AgreeAble uses the DocuSign Click API to sign agreements.
 
 No public code linked · Built with docusign, azure, css, django
 
@@ -53,7 +53,7 @@ Share underutilized GPU power for machine learning education.
 
 Using Machine Learning to process a person's speech and determine if they are intoxicated.
 
-**How it used DocuSign:** The prototype is fully working and designed for future growth, with the integration of DocuSign APIs in order to further collect user data and improve upon the models.
+**DocuSign:** Built with DocuSign (listed on Devpost)
 
 [Code](https://github.com/johancc/LGTM) · Built with docusign, google-cloud, python, rev-ai
 
@@ -65,7 +65,7 @@ Using Machine Learning to process a person's speech and determine if they are in
 
 The product summarizes the content of documents into a few key lines which will give an overview to the user about the contract.
 
-**How it used DocuSign:** Then using DocuSign's API, the user can share the contract to be signed by the recipient.
+**How it used DocuSign:** The project uses DocuSign’s API to share a contract for the recipient to sign.
 
 No public code linked · Built with docusign, beautiful-soup, bootstrap, css
 
