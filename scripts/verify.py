@@ -9,19 +9,28 @@ from pathlib import Path
 import re
 import tempfile
 
-from sponsor_use import AWARD, CODE, VIDEO, check_cached_use, load_award_tracks, validate_use
+from evidence import project_details
+from fetch import cache_path
+from publish import validate_cached_inference
+from sponsor_use import (
+    AWARD, CODE, VIDEO, check_cached_use, inference_source, load_award_tracks, load_inferred_uses,
+    prize_key, validate_use,
+)
 from render import (
-    INT_FIELDS, LIST_FIELDS, ROOT_PAGES, SITE_URL, event_file, heading_anchor, render, slugify, update_readme,
+    INT_FIELDS, LIST_FIELDS, ROOT_PAGES, SITE_URL, event_file, heading_anchor, note_coverage_text,
+    render, slugify, update_readme,
 )
 
 
 def decode_csv(row, nullable):
     return {
         key: json.loads(value) if key in LIST_FIELDS
+        else json.loads(value) if key == "inferred"
         else int(value) if key in INT_FIELDS and value
         else None if key in nullable and not value
         else value
         for key, value in row.items()
+        if key != "inferred" or value
     }
 
 
@@ -32,7 +41,7 @@ def anchors(path):
     return names
 
 
-def verify(root, readme=None, source_cache=None):
+def verify(root, readme=None, source_cache=None, devpost_cache=None, github_cache=None):
     rows = json.loads((root / "winners.json").read_text(encoding="utf-8"))
     receipts = {
         record["url"]: record
@@ -44,8 +53,9 @@ def verify(root, readme=None, source_cache=None):
     seen = set()
     counted = Counter()
     award_tracks = load_award_tracks()
+    inferred_uses = load_inferred_uses()
     for row in rows:
-        key = (row["event_slug"], row["url"], row["prize"])
+        key = prize_key(row)
         assert key not in seen, f"Duplicate project prize {key}"
         seen.add(key)
         assert row["event_prize_count"] == len(set(row["event_prizes"])), key
@@ -53,13 +63,25 @@ def verify(root, readme=None, source_cache=None):
         try:
             validate_use(row)
             source = row["use_source"]
-            if source == AWARD and (row["event_slug"], row["prize"], row["sponsor"]) not in award_tracks:
+            inferred = inference_source(source)
+            if (source == AWARD or inferred) and (row["event_slug"], row["prize"], row["sponsor"]) not in award_tracks:
                 raise ValueError("Award framing requires a reviewed prize in scripts/award-framing.tsv")
+            if inferred:
+                fields = ("sponsor_integration", "use_source", "use_quote", "use_evidence_url")
+                if tuple(row[field] for field in fields) != inferred_uses.pop(key, None):
+                    raise ValueError("Inference does not match the reviewed prize evidence")
+                project = None
+                if devpost_cache is not None and inferred.startswith("devpost:"):
+                    page = cache_path(devpost_cache, row["url"]).read_text(encoding="utf-8", errors="replace")
+                    project = project_details(page)
+                validate_cached_inference(
+                    row, project=project, github_cache=github_cache, source_cache=source_cache,
+                )
             if source_cache is not None and source in {CODE, VIDEO} and not check_cached_use(
                 source_cache, source, row["use_quote"], row["use_evidence_url"],
             ):
                 raise ValueError("Use quote is absent from the cited code or caption")
-        except (KeyError, ValueError) as error:
+        except (KeyError, OSError, ValueError) as error:
             raise AssertionError(f"{key}: {error}") from error
         assert set(row["sponsor_tech"]) <= set(row["built_with"]), key
         assert row["team_size"] is None or (isinstance(row["team_size"], int) and row["team_size"] > 0), key
@@ -79,6 +101,7 @@ def verify(root, readme=None, source_cache=None):
         ):
             counted[path] += 1
 
+    assert not inferred_uses, f"Reviewed inferences missing from the export: {sorted(inferred_uses)}"
     projects = {}
     for row in rows:
         projects.setdefault(root / "by-hackathon" / event_file(row), set()).add(row["url"])
@@ -113,6 +136,9 @@ def verify(root, readme=None, source_cache=None):
         pages += [readme.parent / name for name in ("README.md", *ROOT_PAGES)]
         coverage = readme.parent / "docs" / "coverage.md"
         if coverage.is_file():
+            assert note_coverage_text(rows) in coverage.read_text(encoding="utf-8").splitlines(), (
+                "Coverage report sponsor-note counts are stale"
+            )
             pages.append(coverage)
     checked_links = 0
     anchor_cache = {}
@@ -141,5 +167,7 @@ if __name__ == "__main__":
     parser.add_argument("--output", type=Path, default=Path("winners"))
     parser.add_argument("--readme", type=Path, help="Check the generated sections in the root README")
     parser.add_argument("--source-cache", type=Path, help="Verify excerpts against cached code and demo captions")
+    parser.add_argument("--cache", type=Path, help="Check inference excerpts against cached Devpost pages")
+    parser.add_argument("--github-cache", type=Path, help="Check inference excerpts against cached GitHub READMEs")
     args = parser.parse_args()
-    verify(args.output, args.readme, args.source_cache)
+    verify(args.output, args.readme, args.source_cache, args.cache, args.github_cache)

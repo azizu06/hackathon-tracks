@@ -13,6 +13,16 @@ BUILT_WITH = "devpost:built_with"
 CODE = "code"
 VIDEO = "demo_video"
 AWARD = "award"
+INFERRED_PREFIX = "inferred:"
+INFERRED_FROM = {
+    "devpost:what_it_does": "write-up",
+    "devpost:how_we_built": "write-up",
+    "devpost:other_sections": "write-up",
+    "devpost:gallery_caption": "write-up",
+    BUILT_WITH: "write-up",
+    VIDEO: "demo",
+    "github:readme": "README",
+}
 DEPENDENCY_NOTE = "Lists "
 CODE_QUOTE = re.compile(r"(?P<path>[^:]+):(?P<line>[1-9][0-9]*) (?P<text>.+)")
 TIMED_QUOTE = re.compile(r"(?P<time>[0-9]{2}:[0-5][0-9]:[0-5][0-9]) (?P<text>.+)")
@@ -41,6 +51,8 @@ DEPENDENCY_EVIDENCE = "GitHub dependency manifest"
 ALIAS_FILE = Path(__file__).with_name("sponsor-aliases.tsv")
 USE_FILE = Path(__file__).with_name("sponsor-uses.tsv")
 AWARD_FILE = Path(__file__).with_name("award-framing.tsv")
+INFERRED_FILE = Path(__file__).with_name("inferred-uses.tsv")
+INFERRED_CACHE = Path(__file__).with_name("inferred-evidence.tsv")
 FRAMING_WORDS = frozenset("""
     a an and are as at be been built by for from had has have in is it its of on or our that the
     their them these they this those to used use uses using via was we were which who with project team
@@ -138,6 +150,8 @@ def project_link_note(sponsor, quote):
 
 
 def source_label(source, note):
+    if base := inference_source(source):
+        return f"Inferred from {USE_EVIDENCE[base]}"
     if source == CODE and note.startswith(DEPENDENCY_NOTE):
         return DEPENDENCY_EVIDENCE
     return USE_EVIDENCE.get(source, USE_UNAVAILABLE)
@@ -145,11 +159,52 @@ def source_label(source, note):
 
 def use_coverage(row):
     source = row.get("use_source")
+    if inference_source(source):
+        return "inferred"
     if source == AWARD:
         return "award-framed"
     if source == BUILT_WITH or row.get("summary_evidence") == DEPENDENCY_EVIDENCE:
         return "grounded-light"
     return "full" if source else "not stated"
+
+
+def inference_source(source):
+    if source and source.startswith(INFERRED_PREFIX):
+        base = source.removeprefix(INFERRED_PREFIX)
+        if base in INFERRED_FROM:
+            return base
+    return None
+
+
+def prize_key(row):
+    return row["event_slug"], row["url"], row["prize"]
+
+
+def inferred_note(product, feature, source):
+    return f"Likely used {product} for {feature} (inferred from the {INFERRED_FROM[source]})."
+
+
+def validate_inferred_use(row, base):
+    note = row["sponsor_integration"]
+    quote = row["use_quote"]
+    url = row["use_evidence_url"]
+    suffix = re.escape(f" (inferred from the {INFERRED_FROM[base]}).")
+    if row["inferred"] is not True or not re.fullmatch(r"Likely used [^\n]+ for [^\n]+" + suffix, note):
+        raise ValueError("Inferred use requires inferred=true and the source-specific note wording")
+    if row["sponsor"] == "Other" or row["summary_evidence"] != source_label(row["use_source"], note):
+        raise ValueError("Invalid inferred sponsor or summary evidence")
+    if base.startswith("devpost:"):
+        linked = url == row["url"]
+    elif base == VIDEO:
+        linked = url in row["demo_video_urls"]
+    else:
+        linked = url in row["source_urls"] and url.startswith("https://github.com/")
+    if not linked:
+        raise ValueError("Inference must cite its project page, linked README or linked demo")
+    if not quote or quote != " ".join(quote.split()) or len(quote) > 200:
+        raise ValueError("Inferred quote must contain 1–200 characters of verbatim source text")
+    if not any(quote in excerpt for excerpt in load_inferred_cache().get((url, base), [])):
+        raise ValueError("Inferred quote is absent from the cited source cache")
 
 
 def validate_code_quote(row, quote, evidence_url):
@@ -179,6 +234,11 @@ def validate_use(row):
     source, quote = row["use_source"], row["use_quote"]
     evidence_url = row.get("use_evidence_url")
     note = row["sponsor_integration"]
+    if base := inference_source(source):
+        validate_inferred_use(row, base)
+        return
+    if "inferred" in row:
+        raise ValueError("Only inferred sources can carry the inferred flag")
     if note == MISSING_INTEGRATION:
         if any(value is not None for value in (source, quote, evidence_url)) or row["summary_evidence"] != USE_UNAVAILABLE:
             raise ValueError("Placeholder has conflicting use evidence")
@@ -242,6 +302,12 @@ def caption_words(path):
         previous = current
 
 
+def caption_paths(cache, url):
+    parts = urlsplit(url)
+    video = parse_qs(parts.query).get("v", [""])[0] if parts.hostname == "www.youtube.com" else parts.path.strip("/")
+    return (cache / "captions").glob(f"{video}.*.vtt")
+
+
 def check_cached_use(cache, source, quote, url):
     if source == CODE:
         repo, _, _ = PINNED_CODE_URL.fullmatch(url).groups()
@@ -256,17 +322,37 @@ def check_cached_use(cache, source, quote, url):
         lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
         index = int(locator["line"]) - 1
         return index < len(lines) and locator["text"] in " ".join(lines[index].split())
-    parts = urlsplit(url)
-    video = parse_qs(parts.query)["v"][0] if parts.hostname == "www.youtube.com" else parts.path.strip("/")
     match = TIMED_QUOTE.fullmatch(quote)
     expected = match["text"].split()
-    for path in (cache / "captions").glob(f"{video}.*.vtt"):
+    for path in caption_paths(cache, url):
         tokens = list(caption_words(path))
         words_only = [word for _, word in tokens]
         for i, (timestamp, word) in enumerate(tokens):
             if timestamp == match["time"] and word == expected[0] and words_only[i:i + len(expected)] == expected:
                 return True
     return False
+
+
+@lru_cache(maxsize=1)
+def load_inferred_cache():
+    excerpts = {}
+    with INFERRED_CACHE.open(encoding="utf-8", newline="") as stream:
+        for url, source, passage in csv.reader(stream, delimiter="\t"):
+            if source not in INFERRED_FROM or not passage or passage != " ".join(passage.split()):
+                raise ValueError(f"Invalid inferred evidence for {url}")
+            excerpts.setdefault((url, source), []).append(passage)
+    return excerpts
+
+
+def load_inferred_uses():
+    uses = {}
+    with INFERRED_FILE.open(encoding="utf-8", newline="") as stream:
+        for event, url, prize, product, feature, source, quote, location in csv.reader(stream, delimiter="\t"):
+            key = event, url, prize
+            if key in uses or not product or not feature or source not in INFERRED_FROM:
+                raise ValueError(f"Invalid or duplicate inferred use: {key}")
+            uses[key] = inferred_note(product, feature, source), INFERRED_PREFIX + source, quote, location
+    return uses
 
 
 def load_uses():

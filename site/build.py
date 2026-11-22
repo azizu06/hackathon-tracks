@@ -123,6 +123,8 @@ def catalog(source):
                 heading = f"How it used {sponsor}" if coverage == "full" and sponsor else sponsor or "Sponsor use"
                 if coverage == "award-framed":
                     heading = f"Award from {sponsor}"
+                elif coverage == "inferred":
+                    heading = f"Inferred use of {sponsor}"
                 project["integrations"].setdefault(
                     (sponsor.casefold(), integration), {"sponsor": sponsor, "heading": heading, "note": integration}
                 )

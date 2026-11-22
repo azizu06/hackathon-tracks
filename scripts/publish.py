@@ -10,8 +10,9 @@ import re
 from evidence import clean, normalized_link, overview_tracks, project_details
 from fetch import Fetcher, cache_path, gallery_winners, prize_label, verified_link
 from sponsor_use import (
-    AWARD, BUILT_WITH, CODE, VIDEO, MISSING_INTEGRATION, award_note, check_cached_use,
-    load_award_tracks, load_uses, source_label, validate_use,
+    AWARD, BUILT_WITH, CODE, VIDEO, MISSING_INTEGRATION, award_note, caption_paths, caption_words,
+    check_cached_use, inference_source, load_award_tracks, load_inferred_uses, load_uses, prize_key,
+    source_label, validate_use,
 )
 
 
@@ -263,6 +264,42 @@ def cached_readme_has_quote(cache, links, quote):
     return False
 
 
+def inferred_devpost_passages(project, source):
+    if source == BUILT_WITH:
+        return project.built_with
+    if source == "devpost:gallery_caption":
+        return project.captions
+    passages = []
+    for heading, passage in project.story:
+        if heading == "what it does":
+            section = "devpost:what_it_does"
+        elif heading.startswith("how we built"):
+            section = "devpost:how_we_built"
+        else:
+            section = "devpost:other_sections"
+        if section == source:
+            passages.append(passage)
+    if source == "devpost:other_sections":
+        passages.append(project.tagline)
+    return passages
+
+
+def validate_cached_inference(row, *, project=None, github_cache=None, source_cache=None):
+    source = inference_source(row["use_source"])
+    quote, url = row["use_quote"], row["use_evidence_url"]
+    if source.startswith("devpost:") and project is not None:
+        excerpts = inferred_devpost_passages(project, source)
+        if not any(quote in excerpt for excerpt in excerpts):
+            raise ValueError("Inferred quote is absent from the cited Devpost section")
+    elif source == VIDEO and source_cache is not None:
+        excerpts = (" ".join(word for _, word in caption_words(path)) for path in caption_paths(source_cache, url))
+        if not any(quote in excerpt for excerpt in excerpts):
+            raise ValueError("Inferred quote is absent from the cited demo captions")
+    elif source == "github:readme" and github_cache is not None:
+        if not cached_readme_has_quote(github_cache, [url], quote):
+            raise ValueError("Inferred quote is absent from the cited repository README")
+
+
 def load_code_matches(receipts):
     matches = {}
     for project, repo, checked, reason in load_tsv("code-matches.tsv"):
@@ -284,6 +321,7 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
     descriptions = dict(load_tsv("projects.tsv"))
     overrides = {(url, sponsor): summary for url, sponsor, summary in load_tsv("summary-descriptions.tsv")}
     uses = load_uses()
+    inferred = load_inferred_uses()
     award_tracks = load_award_tracks()
     code_matches = load_code_matches(receipts)
     candidates, missing = candidate_awards(cache, receipts)
@@ -331,7 +369,12 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
                 missing[event].append(f"Gallery lists additional Winner labels for {url}")
             before, tags = describe(project, sponsor, overrides.get((url, sponsor), descriptions.get(url)))
             use, source, quote, location = uses.get((url, sponsor), (MISSING_INTEGRATION, None, None, None))
-            if source is None and (event, prize, sponsor) in award_tracks:
+            inference = inferred.pop((event, url, prize), None)
+            if inference:
+                if source is not None or (event, prize, sponsor) not in award_tracks:
+                    raise ValueError(f"Inference requires an award-only row: {(event, url, prize)}")
+                use, source, quote, location = inference
+            elif source is None and (event, prize, sponsor) in award_tracks:
                 use, source, quote = award_note(sponsor, prize), AWARD, prize
             if source == BUILT_WITH and quote in project.built_with and quote not in tags:
                 tags.append(quote)
@@ -351,6 +394,7 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
                 "description": before, "sponsor_integration": use, "summary": f"{before} {use}",
                 "summary_evidence": source_label(source, use),
                 "use_source": source, "use_quote": quote, "use_evidence_url": location, "sponsor_tech": tags,
+                **({"inferred": True} if inference else {}),
                 "built_with": project.built_with, "team_size": project.team_size,
                 "event_prize_count": len(prizes_at_event), "event_prizes": prizes_at_event,
                 "required_tech": needed, "requirement_source": requirement_source,
@@ -362,11 +406,18 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
                 "award_evidence": evidence, "fetched_on": receipts[url]["fetched_at"][:10],
                 "http_status": receipts[url]["status"],
             })
+    if inferred:
+        raise ValueError(f"Inferred uses refer to unknown award rows: {sorted(inferred)}")
     for row in rows:
         project = parsed[row["url"]]
         try:
             validate_use(row)
             source, quote = row["use_source"], row["use_quote"]
+            if inference_source(source):
+                validate_cached_inference(
+                    row, project=project if validate_quotes else None,
+                    github_cache=github_cache, source_cache=source_cache,
+                )
             if validate_quotes and source and source.startswith("devpost:") and source != BUILT_WITH:
                 if source == "devpost:project_link":
                     has_quote = quote in project.project_link_excerpts

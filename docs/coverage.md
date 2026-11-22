@@ -530,13 +530,15 @@ The 2024 HackMIT organizer used Ballot and the 2026 organizer used its Plume gal
 
 ## Coverage and link limits
 
+**1,034 shown** (994 full, 40 Built With or dependency) · **0 inferred** · **539 award-only** · 124 not stated
+
 - Built With tags are available for 1,536 of 1,553 project editions.
 - Team counts are available for 1,553 project editions.
 - Summary evidence by award row: Devpost project write-up (859), Devpost prize title (539), Integration detail unavailable (124), GitHub source code (70), GitHub README (44), Devpost Built With (40).
 - Source code links verified HTTP 200 for 1264 of 1394 unique recognized links.
 - Demo video links verified HTTP 200 for 1251 of 1251 unique recognized links.
 - The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.
-- Full sponsor notes cite a role documented in a Devpost page, GitHub README, source code, or demo captions. Light notes cite a Built With tag or a dependency manifest. Award notes cite the exact prize title.
+- Full sponsor notes cite a role documented in a Devpost page, GitHub README, source code, or demo captions. Light notes cite a Built With tag or a dependency manifest. Inferred notes connect a documented feature to the sponsor product in its prize criteria. Award-only notes cite the exact prize title.
 - Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. General event awards remain visible in project prize lists.
 - HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. The public prize entry supplies no sponsor identity, so those two awards fall outside the named-sponsor index.
 - Prize values come from the track label. Multiple placements, team totals, and service credits stay in the source wording.

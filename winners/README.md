@@ -25,9 +25,10 @@ Readable pages: [sponsors](../SPONSORS.md), [hackathons](../HACKATHONS.md) and [
 | `prize` | Exact prize label from the Devpost gallery |
 | `prize_value` | Placement or value stated in the label, or null |
 | `description` | What the project does, from its Devpost page |
-| `sponsor_integration` | Documented sponsor use, a listed sponsor product, or award context |
+| `sponsor_integration` | Documented sponsor use, a listed product, a labeled inference, or award context |
 | `use_source`, `use_quote` | Source type and exact supporting excerpt for the sponsor note |
-| `use_evidence_url` | Commit-pinned code line or linked demo for code and video excerpts |
+| `use_evidence_url` | Cited page for inferences, commit-pinned code line, or linked demo |
+| `inferred` | `true` for labeled inferences. Absent in other JSON rows and blank in CSV |
 | `summary`, `summary_evidence` | Description plus integration note, and how well the source supports it |
 | `sponsor_tech` | Built With tags that belong to the sponsor |
 | `built_with` | All Built With tags on Devpost |

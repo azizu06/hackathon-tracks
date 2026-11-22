@@ -4,11 +4,13 @@
 
 Past hackathon winners, organized by the sponsor prize they won, so you can see what judges rewarded before you pick your next project.
 
-Project entries link to Devpost and explain how the team used the sponsor's tech where the Devpost write-up says. Code is linked where public.
+Project entries link to Devpost and show documented sponsor use, labeled inferences, or prize context. Code is linked where public.
 
 <!-- BEGIN coverage -->
 
 ![1,553 winning projects](https://img.shields.io/badge/Winning%20projects-1,553-0F2A4A) ![60 hackathon editions](https://img.shields.io/badge/Hackathon%20editions-60-3B82F6) ![379 sponsors](https://img.shields.io/badge/Sponsors-379-0F2A4A) ![1,697 sponsor prizes](https://img.shields.io/badge/Sponsor%20prizes-1,697-3B82F6)
+
+**1,034 shown** (994 full, 40 Built With or dependency) · **0 inferred** · **539 award-only** · 124 not stated
 
 <!-- END coverage -->
 
@@ -69,9 +71,10 @@ Each row is one project and one sponsor prize it won. The fields you will use mo
 | `hackathon`, `year` | Where and when it won |
 | `sponsor`, `prize` | Who awarded the prize and its exact Devpost label |
 | `description` | What the project does |
-| `sponsor_integration` | Documented sponsor use, a listed sponsor product, or award context |
+| `sponsor_integration` | Documented sponsor use, a listed product, a labeled inference, or award context |
 | `use_source`, `use_quote` | Source field and exact supporting excerpt |
-| `use_evidence_url` | Commit-pinned code line or linked demo for code and video excerpts |
+| `use_evidence_url` | Cited page for inferences, commit-pinned code line, or linked demo |
+| `inferred` | `true` for labeled inferences |
 | `code_match_evidence` | How a repository found outside Devpost was matched to the project |
 | `built_with`, `sponsor_tech` | All tech tags, and the ones that belong to the sponsor |
 | `source_urls`, `demo_video_urls` | Verified code and demo video links |

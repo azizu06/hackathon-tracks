@@ -266,11 +266,16 @@ def integration_note(row):
     coverage = use_coverage(row)
     if coverage == "award-framed":
         label = "Award"
+    elif coverage == "inferred":
+        label = f"Inferred use of {sponsor}"
     elif coverage == "full":
         label = f"How it used {sponsor}"
     else:
         label = sponsor if row["sponsor"] != OTHER_SPONSOR else "Sponsor use"
-    return f'**{label}:** {md(row["sponsor_integration"])}'
+    note = f'**{label}:** {md(row["sponsor_integration"])}'
+    if coverage == "inferred":
+        note += f' [Evidence]({row["use_evidence_url"]})'
+    return note
 
 
 def entry_links(entries, details_url=None):
@@ -509,6 +514,16 @@ def directory_sections(rows, sponsors, editions):
     ]
 
 
+def note_coverage_text(rows):
+    counts = Counter(map(use_coverage, rows))
+    shown = counts["full"] + counts["grounded-light"]
+    return (
+        f'**{shown:,} shown** ({counts["full"]:,} full, {counts["grounded-light"]:,} Built With or dependency) · '
+        f'**{counts["inferred"]:,} inferred** · **{counts["award-framed"]:,} award-only** · '
+        f'{counts["not stated"]:,} not stated'
+    )
+
+
 def update_readme(path, rows):
     sponsors, editions = split_directory(rows)
     badges = [
@@ -522,7 +537,7 @@ def update_readme(path, rows):
         ("coverage", [" ".join(
             f"![{count:,} {label.lower()}](https://img.shields.io/badge/{label.replace(' ', '%20')}-{count:,}-{color})"
             for label, count, color in badges
-        )]),
+        ), "", note_coverage_text(rows)]),
         ("directory", directory_sections(rows, sponsors, editions)),
     ):
         start, end = f"<!-- BEGIN {name} -->", f"<!-- END {name} -->"
@@ -672,9 +687,10 @@ FIELDS = [
     ("prize", "Exact prize label from the Devpost gallery"),
     ("prize_value", "Placement or value stated in the label, or null"),
     ("description", "What the project does, from its Devpost page"),
-    ("sponsor_integration", "Documented sponsor use, a listed sponsor product, or award context"),
+    ("sponsor_integration", "Documented sponsor use, a listed product, a labeled inference, or award context"),
     ("use_source, use_quote", "Source type and exact supporting excerpt for the sponsor note"),
-    ("use_evidence_url", "Commit-pinned code line or linked demo for code and video excerpts"),
+    ("use_evidence_url", "Cited page for inferences, commit-pinned code line, or linked demo"),
+    ("inferred", "`true` for labeled inferences. Absent in other JSON rows and blank in CSV"),
     ("summary, summary_evidence", "Description plus integration note, and how well the source supports it"),
     ("sponsor_tech", "Built With tags that belong to the sponsor"),
     ("built_with", "All Built With tags on Devpost"),
@@ -725,10 +741,16 @@ def render(output, rows, receipts):
     with (output / "winners.json").open("w", encoding="utf-8") as stream:
         stream.write(json.dumps(rows, ensure_ascii=False, indent=2) + "\n")
     with (output / "winners.csv").open("w", newline="", encoding="utf-8") as stream:
-        writer = csv.DictWriter(stream, fieldnames=rows[0], lineterminator="\n")
+        fields = [key for key in rows[0] if key != "inferred"]
+        if any("inferred" in row for row in rows):
+            fields.append("inferred")
+        writer = csv.DictWriter(stream, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         for row in rows:
-            writer.writerow({**row, **{key: json.dumps(row[key], ensure_ascii=False) for key in LIST_FIELDS}})
+            encoded = {key: json.dumps(row[key], ensure_ascii=False) for key in LIST_FIELDS}
+            if "inferred" in row:
+                encoded["inferred"] = json.dumps(row["inferred"])
+            writer.writerow({**row, **encoded})
 
     urls = set()
     for row in rows:
@@ -834,6 +856,7 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         "HackMIT 2013 and 2016–2019 supplied Devpost Winner records. "
         "Hacklytics 2025 was indexed from the working `hacklytics2025` gallery after the hyphenated URL returned 410.",
         "", "## Coverage and link limits", "",
+        note_coverage_text(rows), "",
         f"- Built With tags are available for {sum(bool(r['built_with']) for r in unique_projects):,} of {len(unique_projects):,} project editions.",
         f"- Team counts are available for {sum(r['team_size'] is not None for r in unique_projects):,} project editions.",
         f"- Summary evidence by award row: {tally_text(ranked(Counter(r['summary_evidence'] for r in rows)))}.",
@@ -841,7 +864,8 @@ def report(path, rows, candidates, missing, links, receipts, commit):
         f"- Demo video links verified HTTP 200 for {len(verified_links['demo'])} of {len(links['demo'])} unique recognized links.",
         "- The export only links to recognized public code and video URLs with HTTP 200 receipts. A video page status does not verify playback.",
         "- Full sponsor notes cite a role documented in a Devpost page, GitHub README, source code, or demo captions. "
-        "Light notes cite a Built With tag or a dependency manifest. Award notes cite the exact prize title.",
+        "Light notes cite a Built With tag or a dependency manifest. Inferred notes connect a documented feature "
+        "to the sponsor product in its prize criteria. Award-only notes cite the exact prize title.",
         "- Sponsor names come from the exact track label or its event prize description. Individual-sponsored awards use the Other bucket. "
         "General event awards remain visible in project prize lists.",
         "- HackMIT 2017 lists Cryptonite and Portfolio Risk Analysis & Data Visualization under `Sponsor Prize - Best FinTech Related Prize`. "
