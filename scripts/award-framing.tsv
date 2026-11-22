@@ -29,6 +29,7 @@ cal-hacks-12-0	BitRobot Network: Best Robotics Hack - 2nd Place	BitRobot Network
 cal-hacks-12-0	BitRobot Network: Best Robotics Hack - 3rd Place	BitRobot Network	Robotics category. Rules at https://live.calhacks.io/prizes
 cal-hacks-12-0	Conway: Most Data-Intensive Application	Conway	Data processing category
 cal-hacks-12-0	Crater: Play-Do Prize	Crater	Playful and composable design category
+cal-hacks-12-0	LiveKit: Most Creative Project	LiveKit	Creativity category for applications of voice, video or LiveKit
 cal-hacks-12-0	Most Wacky Hack (presented by Wordware)	Wordware	Creative hack category
 cal-hacks-12-0	Promise: Public Impact Prize (sponsored by Promise)	Promise	Public impact category and fast-track interview prize
 cal-hacks-12-0	Regeneron: Grand Prize	Regeneron	Placement in the Regeneron clinical trial challenge
@@ -39,6 +40,7 @@ cal-hacks-12-0	Y Combinator: Build an Iconic YC Company - 2nd Place	Y Combinator
 cal-hacks-12-0	[MLH] Best Use of AI powered by Reach Capital	Reach Capital	Learning and AI category
 cal-hacks-13-0	[Armadin] Best Security Hack	Armadin	Security category
 cal-hacks-13-0	[Creao AI] Best One-Person Company	Creao	Company pitch and Launchpad subscription prize
+cal-hacks-13-0	[Figma] Best Stage Log	Figma	Stage log category and early-career recruiting session
 cal-hacks-13-0	[Hyphenate] The Hyphenated Enterprise: Autonomous Systems for Finance	Hyphenate	Autonomous finance category with expedited interviews
 cal-hacks-13-0	[MLH] Commit Fellowship	MLH / Transcend Network	Fellowship interview prize
 cal-hacks-13-0	[Meta] Meta/Facebook: Bringing People Closer Together with AI	Meta	Social connection category with invitation to the next round
@@ -53,6 +55,7 @@ hack-brown-2025	Best Developer Tool, sponsored by Warp	Warp	Developer tool categ
 hack-brown-2025	Best Use of AI powered by Reach Capital	Reach Capital	Learning and AI category
 hack-brown-2026	Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems	Marshall Wace	Generative software category
 hack-brown-2026	Visa - Custom Track	Visa	Urban commerce category
+hackduke-code-for-good-2026	[Figma] Best Design	Figma	Design category with merchandise prize
 hackduke-code-for-good-2026	[MLH] Best Use of AI powered by Reach Capital	Reach Capital	Learning and AI category
 hackgt-11-circus-of-invention	Best DEI Hack sponsored by Fidelity	Fidelity	Diversity, equity and inclusion category
 hackgt-11-circus-of-invention	PHRI Challenge - 1st Place	PHRI	Patient safety category
@@ -138,6 +141,7 @@ hackprinceton-fall-26	[Amazon] Best Practical AI Innovation	Amazon Web Services	
 hackprinceton-fall-26	[Arlequin AI]  AI-Driven Forensics — by Arlequin AI	Arlequin AI	Forensics category
 hackprinceton-fall-26	[Arlequin AI] Social Media Analysis: Combining Content & Connectivity Patterns	Arlequin AI	Social media analysis category
 hackprinceton-fall-26	[CoStar Group] Inside and Out: AI for the Built World	CoStar Group	Built environment challenge with interviews for finalists
+hackprinceton-fall-26	[MLH] Build Your Hackathon A-Team with SpaceXSI	SpaceXSI	Raffle prize for participating teams
 hackprinceton-fall-26	[Peri] Forward Deployed Engineer	Peri	Hiring introduction and interview opportunity
 hackthenorth2024	Best DEI Hack sponsored by Fidelity	Fidelity	Diversity, equity and inclusion category
 hackthenorth2024	CSE: Working in an Air-Gapped Environment	Communications Security Establishment	Offline operation category
@@ -159,11 +163,17 @@ hackthenorth2026	Rox: Best AI Agent	Rox	AI agent category for work with messy da
 hackthenorth2026	Warp: Best Developer Tool by Warp	Warp	Developer tool category
 hacktx2025	Best NorthMark Hack	Northmark Compute & Cloud	Racing operations challenge
 hacktx2025	Best Toyota Hack	Toyota Financial Services	Vehicle financing and customer experience category
+hacktx26	[MLH] Build Your Hackathon A-Team with SpaceXSI	SpaceXSI	Raffle prize for participating teams
 hacktx26	[NMC2] Build the Platform Behind the Agent	Northmark Compute & Cloud	AI agent platform category
 hacktx26	[Toyota Financial Services] “What’s Your Next Move?” Challenge	Toyota Financial Services	Vehicle financing and customer experience category
+hackutd-2025	CBRE	CBRE	Real estate research assistant category. Rules at https://legend.hackutd.co/
 hackutd-2025	Capital One	Capital One	Financial services category
+hackutd-2025	EOG Resources	EOG Resources	Dashboard challenge using fictional potion flow and transport records. Rules at https://legend.hackutd.co/
 hackutd-2025	Goldman Sachs	Goldman Sachs	Vendor onboarding category, corroborated by the first-place team’s README at https://github.com/advegaf/stamped
+hackutd-2025	Northmark Compute & Cloud	Northmark Compute & Cloud	Data center technician workflow category. Rules at https://legend.hackutd.co/
+hackutd-2025	PNC Bank	PNC Bank	AI productivity for product managers category. Rules at https://legend.hackutd.co/
 hackutd-2025	StateFarm	State Farm	Insurance innovation category
+hackutd-2025	T-Mobile	T-Mobile	Customer sentiment, feedback and network data category. Rules at https://legend.hackutd.co/
 hackutd-2025	Toyota Financial Services	Toyota Financial Services	Vehicle financing and customer experience category
 hackutd-ripple	CBRE	CBRE	Sustainable buildings category. Rules at https://ripple.hackutd.co/
 hackutd-ripple	EOG Resources	EOG Resources	Hydrate detection competition with provided data. Rules at https://ripple.hackutd.co/
@@ -171,6 +181,7 @@ hackutd-ripple	Goldman Sachs	Goldman Sachs	Financial access category. Rules at h
 hackutd-ripple	Infosys	Infosys	Fast-track internship consideration prize
 hackutd-ripple	PNC Bank	PNC Bank	Data observability category. Rules at https://ripple.hackutd.co/
 hackutd-ripple	Toyota	Toyota Financial Services	Vehicle financing and customer experience category
+hackutd-ripple	Veolia	Veolia	Water and energy sustainability category. Rules at https://ripple.hackutd.co/
 hackutd-zeroday	8090 Track	8090	Legacy modernization category. Rules at https://zeroday.hackutd.co/
 hackutd-zeroday	CBRE Track	CBRE	Real estate data challenge. Rules at https://zeroday.hackutd.co/
 hackutd-zeroday	EOG Resources Track	EOG Resources	Oil field operations category and dataset. Rules at https://zeroday.hackutd.co/
@@ -181,6 +192,7 @@ hackutd-zeroday	State Farm Track	State Farm	Insurance innovation category
 hackutd-zeroday	T-Mobile Track	T-Mobile	Customer protection category with a synthetic dataset. Rules at https://zeroday.hackutd.co/
 hackutd-zeroday	Toyota Financial Services Track	Toyota Financial Services	Vehicle financing and customer experience category
 hackutd-zeroday	Winstead PC Track	Winstead PC	Incident response dashboard category. Rules at https://zeroday.hackutd.co/
+hackutd-zeroday	[MLH] Build Your Hackathon A-Team with SpaceXSI	SpaceXSI	Raffle prize for participating teams
 knight-hacks-ix	Adobe: Prettiest Hack	Adobe	Visual design category
 knight-hacks-ix	BNY: Financial Services Challenge	BNY	Financial services category
 knight-hacks-ix	Encompass: Data Capturing Hardware	Encompass	Data-capture hardware category
@@ -201,6 +213,7 @@ mhacks-2024	CAT Digital - Best Cloud Implementation	Cat Digital	Cloud implementa
 mhacks-2024	MLH - Best DEI Hack sponsored by Fidelity	Fidelity	Diversity, equity and inclusion category
 mhacks-2024	Warp - Best Developer Tool	Warp	Developer tool category
 mhacks-2025	Best Hardware Hack presented by Embedder	Embedder	Hardware category
+mhacks-2026	Figma Best Design Track	Figma	Design category. Rules at https://mhacks-2026.devpost.com/
 nwhacks-2025	1Password Sponsor Prize	1Password	Security and privacy category
 nwhacks-2025	Communications Security Establishment Sponsor Prize	Communications Security Establishment	Workshop challenge and gift card prize
 nwhacks-2025	Glaive Any Open-Source LLM Prize ($2000)	Glaive	Category permits any open-source LLM
@@ -254,6 +267,7 @@ treehacks-2025	Delve: Most Secure App (AirPods + Delve Founder Numbers + Onsite)
 treehacks-2025	Edge AI Prize: Most Creative On-Device AI Deployment ($10k Cash)	Liquid AI	Creative on-device deployment category
 treehacks-2025	Education Grand Prize ($1k Cash + Meta Ray Ban Smart Glasses x4 + Marine Layer Zoom Hoodie x4)	Zoom	Education category
 treehacks-2025	Hudson River Trading: Best Use of Data Hack (HRT-branded JBL earbuds per team member)	Hudson River Trading	Performance or category based on use of data
+treehacks-2025	LumaLabs: Reimagining Visual Creation with AI ($2,500 Cash + $5,000 Luma Credits)	Luma AI	Visual storytelling category with Luma credits
 treehacks-2025	Neo: Most Likely to Become a Business (Airfare + Accomodations at Neo Summer Retreat)	Neo	Startup potential category and founder retreat prize
 treehacks-2025	Orbstack: Best Use of Rust ($1k Cash)	Orbstack	Rust systems programming category
 treehacks-2025	Paradigm: Best Spreadsheet-Adjacent Hack (Air Pods Max per team member)	Paradigm	Spreadsheet application category

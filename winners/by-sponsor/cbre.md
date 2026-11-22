@@ -55,7 +55,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=sJX_GgbqtN
 
 Cura provides forecasting and analytical insights, commercial real estate properties, pros and cons analysis, and market sentiment.
 
-**CBRE:** Sponsor use not stated on Devpost
+**Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/armaanamatya/HackUTD2025) · [Demo video](https://www.youtube.com/watch?v=lFJVLqDG710) · Built with ai, crewai, fastapi, mcp
 
@@ -65,7 +65,7 @@ Cura provides forecasting and analytical insights, commercial real estate proper
 
 Expediting the contracts and document signings process between vendors and clients by bringing clarity, transparency, and accountability.
 
-**CBRE:** Sponsor use not stated on Devpost
+**Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/VictoriousVincent1/contracts) · [Demo video](https://www.youtube.com/watch?v=OgYibmNNUD8) · Built with anchor, gemini, node.js, react
 
@@ -75,7 +75,7 @@ Expediting the contracts and document signings process between vendors and clien
 
 The app is a full-featured real estate helper that helps you find and trust properties.
 
-**CBRE:** Sponsor use not stated on Devpost
+**Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2k) · Built with google-gemini, google-maps, react, recharts
 

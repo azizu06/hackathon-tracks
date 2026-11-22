@@ -55,7 +55,7 @@ A group sleep scheduling app that combines accountability and competition to bui
 
 FIU Scholarship Plug helps students find relevant scholarships by assessing demographics. It gathers data on academic background, financial status, and career goals for personalized recommendations.
 
-**Defang:** Built with defang (listed on Devpost)
+**How it used Defang:** The team links to a Defang-hosted project endpoint.
 
 No public code linked · Built with defang, auth0, bash, css
 

@@ -54,7 +54,7 @@ class Project:
     story: list
     writeup_text: str
     captions: list
-    project_hosts: list
+    project_link_excerpts: list
     source_links: list
     demo_links: list
 
@@ -94,6 +94,13 @@ def normalized_link(url):
     if host in ("www.loom.com", "loom.com") and re.fullmatch(r"/(?:share|embed)/[a-f0-9]{32}", path):
         return "demo", f"https://www.loom.com/share/{path.split('/')[-1]}"
     return None, None
+
+
+def project_link_excerpt(parts):
+    path = re.match(r"^/(design|file|make|proto|slides)/[^/]+", parts.path)
+    if parts.hostname == "www.figma.com" and path:
+        return f"{parts.hostname}/{path[1]}/"
+    return parts.hostname
 
 
 def gallery_captions(html, aliases):
@@ -139,7 +146,7 @@ def project_details(html):
                 paragraphs.append((heading, safe))
     source_links = set()
     demo_links = set()
-    project_hosts = set()
+    project_link_excerpts = set()
     for _, urls, _ in PageLinks(app_links(left)).links:
         for url in re.split(r",\s+(?=https?://)", urls):
             kind, link = normalized_link(url)
@@ -153,7 +160,7 @@ def project_details(html):
                 except ValueError:
                     continue
                 if parts.scheme in {"https", "http"} and parts.hostname and parts.netloc == parts.hostname:
-                    project_hosts.add(parts.hostname)
+                    project_link_excerpts.add(project_link_excerpt(parts))
     story_sources = set()
     for tag, url, label in PageLinks(story_html).links:
         kind, link = normalized_link(url)
@@ -172,7 +179,7 @@ def project_details(html):
         name, data, public_text(data.get("description", ""), aliases),
         [tag for tag in built_with(html) if public_text(tag, aliases)],
         team_count or None, paragraphs, html_text(story_html), gallery_captions(html, aliases),
-        sorted(project_hosts), sorted(source_links), sorted(demo_links),
+        sorted(project_link_excerpts), sorted(source_links), sorted(demo_links),
     )
 
 

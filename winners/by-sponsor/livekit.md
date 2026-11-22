@@ -33,7 +33,7 @@ A hospital coordination dashboard combines record data, nursing alerts, and pati
 
 A multimodal AI companion that fuses emotion sensing, language understanding, and real-time biofeedback to support children’s mental wellness.
 
-**LiveKit:** Sponsor use not stated on Devpost
+**Award:** Won “LiveKit: Most Creative Project” from LiveKit. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/ankit06ch/TedAI) · [Demo video](https://www.youtube.com/watch?v=3bj86ky1eAc) · Built with amazon-web-services, arduino, docker, fetchai
 

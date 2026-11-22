@@ -369,7 +369,7 @@ def index_rows(cache, receipts, *, validate_quotes=True, github_cache=None, sour
             source, quote = row["use_source"], row["use_quote"]
             if validate_quotes and source and source.startswith("devpost:") and source != BUILT_WITH:
                 if source == "devpost:project_link":
-                    has_quote = quote in project.project_hosts
+                    has_quote = quote in project.project_link_excerpts
                 else:
                     excerpts = project.captions if source == "devpost:gallery_caption" else (
                         project.writeup_text, project.tagline,

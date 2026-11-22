@@ -882,7 +882,7 @@ An AI-powered disaster response command center that identifies urgent needs, inv
 - **Code:** [Source 1](https://github.com/vikramaharshith/res-q)
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
-- **SpaceXSI:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI” from SpaceXSI. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

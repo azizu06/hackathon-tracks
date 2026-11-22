@@ -645,14 +645,14 @@ When you're at Hack the North... but still want pizza.
 
 Flashback is a VR experience that transforms your cherished memories into immersive, interactive exhibits. Relive key moments as photos, videos, and soundbites come alive in 3D environments.
 
-No public code linked · [Demo video](https://www.youtube.com/watch?v=heeJFvhzwao) · Built with c#, convex, express.js, figma
+[Code](https://github.com/htn-2024/unity-3) · [Demo video](https://www.youtube.com/watch?v=heeJFvhzwao) · Built with c#, convex, express.js, figma
 
 <details>
 <summary>Team, all prizes and sponsor notes</summary>
 
 - **Team size:** 4
 - **Built with:** c#, convex, express.js, figma, materialui, node.js, react, spotifyapi, unity
-- **Code:** No public code linked
+- **Code:** [Source 1](https://github.com/htn-2024/unity-3)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=heeJFvhzwao)
 - **All prizes at this hackathon (2):** Hack the North 2024 Finalists · Intuit: Win a VR Headset!
 - **Intuit:** Sponsor use not stated on Devpost

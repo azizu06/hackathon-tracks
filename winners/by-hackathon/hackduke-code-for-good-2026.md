@@ -134,7 +134,7 @@ Help people go outside more often by making nature exploration social, rewarding
 - **Code:** [Source 1](https://github.com/EzequielBaltierra/HackDuke26)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ZdNEc66V0Zg)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Best Design
-- **Figma:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;Figma&#93; Best Design” from Figma. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -45,7 +45,7 @@ The night shift, with a hive behind it.
 
 The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at varying fill and drain rates, with witches randomly collecting their contents.
 
-**EOG Resources:** Sponsor use not stated on Devpost
+**Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/LegendaryPenguin/Enchantress) · [Demo video](https://www.youtube.com/watch?v=wmMVLoRToEE) · Built with css, html, javascript, typescript
 
@@ -55,7 +55,7 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 
 PoyoLabs is a gamified dashboard that allows users to track and monitor multiple cauldrons (data points) from one hand-designed interface.
 
-**EOG Resources:** Sponsor use not stated on Devpost
+**Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_8) · Built with auth0, css, flask, godaddy
 

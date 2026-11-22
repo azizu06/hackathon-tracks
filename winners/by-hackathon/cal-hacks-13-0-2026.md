@@ -1236,7 +1236,7 @@ A mobile finance prototype turns market events into short research tasks and wai
 - **Code:** [Source 1](https://github.com/adylagad/baseland)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wzT5thvdSHw)
 - **All prizes at this hackathon (1):** &#91;Figma&#93; Best Stage Log
-- **Figma:** Sponsor use not stated on Devpost
+- **How it used Figma:** The team links to its Figma slide deck.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

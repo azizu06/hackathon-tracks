@@ -82,7 +82,7 @@ Commons is a map-first community coordination platform.
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=-yewvVRouq4)
 - **All prizes at this hackathon (2):** &#91;MLH&#93; Best Domain Name from GoDaddy Registry · Best use of Hex API
 - **GoDaddy Registry:** Sponsor use not stated on Devpost
-- **Hex:** Sponsor use not stated on Devpost
+- **How it used Hex:** The team links to its project work on Hex.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

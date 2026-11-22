@@ -61,7 +61,7 @@ DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to ge
 - **Code:** [Source 1](https://github.com/Jeanpascal-Gauthier/Data-Driver)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=w0YteTzoGc4)
 - **All prizes at this hackathon (2):** Northmark Compute &amp; Cloud · Nvidia
-- **Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+- **Award:** Won “Northmark Compute &amp; Cloud” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used NVIDIA:** The project combines NVIDIA’s Nemotron Nano 9B v2 model with LangChain for its ReAct agent.
 - **Checked on Devpost:** 2026-11-21
 
@@ -86,7 +86,7 @@ A command-center for T-Mobile product managers to anticipate customer needs. See
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=rJU3_Fffqnc)
 - **All prizes at this hackathon (2):** Best Use of Auth0 · T-Mobile
 - **How it used Auth0:** The project uses Auth0 for authentication.
-- **T-Mobile:** Sponsor use not stated on Devpost
+- **Award:** Won “T-Mobile” from T-Mobile. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -109,7 +109,7 @@ Expediting the contracts and document signings process between vendors and clien
 - **Code:** [Source 1](https://github.com/VictoriousVincent1/contracts)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=OgYibmNNUD8)
 - **All prizes at this hackathon (2):** Best Use of Solana · CBRE
-- **CBRE:** Sponsor use not stated on Devpost
+- **Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 - **How it used Solana:** Pact runs on three Solana programs written in Rust with Anchor.
 - **Checked on Devpost:** 2026-11-21
 
@@ -198,7 +198,7 @@ Cura provides forecasting and analytical insights, commercial real estate proper
 - **Code:** [Source 1](https://github.com/armaanamatya/HackUTD2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=lFJVLqDG710)
 - **All prizes at this hackathon (1):** CBRE
-- **CBRE:** Sponsor use not stated on Devpost
+- **Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -221,7 +221,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=SQlAZdMoI2
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=SQlAZdMoI2k)
 - **All prizes at this hackathon (1):** CBRE
-- **CBRE:** Sponsor use not stated on Devpost
+- **Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -302,7 +302,7 @@ The tool opens to a dynamic map displaying 12 cauldrons, each brewing potions at
 - **Code:** [Source 1](https://github.com/LegendaryPenguin/Enchantress)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=wmMVLoRToEE)
 - **All prizes at this hackathon (1):** EOG Resources
-- **EOG Resources:** Sponsor use not stated on Devpost
+- **Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -325,7 +325,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=ah0ZCHMdz_
 - **Code:** No public code linked
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=ah0ZCHMdz_8)
 - **All prizes at this hackathon (1):** EOG Resources
-- **EOG Resources:** Sponsor use not stated on Devpost
+- **Award:** Won “EOG Resources” from EOG Resources. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -481,7 +481,7 @@ A platform that supports data center technicians in a multitude of daily tasks, 
 - **Code:** [Source 1](https://github.com/anishalle/hackutd2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sbdnZRNmm8o)
 - **All prizes at this hackathon (1):** Northmark Compute &amp; Cloud
-- **Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+- **Award:** Won “Northmark Compute &amp; Cloud” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -504,7 +504,7 @@ A tool for helping Engineers and on-site technicians communicate and organize th
 - **Code:** [Source 1](https://github.com/NEjim2001/hackutd-2025) · [Source 2](https://github.com/stardestro/Hackutd2025IOSapp)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sQVzqluIUdQ)
 - **All prizes at this hackathon (1):** Northmark Compute &amp; Cloud
-- **Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+- **Award:** Won “Northmark Compute &amp; Cloud” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -560,7 +560,7 @@ AutoPM runs an end-to-end PM workflow inside a “Space” (one project), powere
 - **Code:** [Source 1](https://github.com/hrishinave/HackUTD2)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=sNpusFMyFoI)
 - **All prizes at this hackathon (1):** PNC Bank
-- **PNC Bank:** Sponsor use not stated on Devpost
+- **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -583,7 +583,7 @@ Prodplex acts like a team of intelligent assistants, each powered by a different
 - **Code:** [Source 1](https://github.com/Ka2507/hackutd2025)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=pX8h4Dt-67c)
 - **All prizes at this hackathon (1):** PNC Bank
-- **PNC Bank:** Sponsor use not stated on Devpost
+- **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -606,7 +606,7 @@ ProDuh! is a multi-agent, LLM-powered command center for PMs. It unifies Discove
 - **Code:** [Source 1](https://github.com/christinaduthie/produh)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=0nwymM2ZtSw)
 - **All prizes at this hackathon (1):** PNC Bank
-- **PNC Bank:** Sponsor use not stated on Devpost
+- **Award:** Won “PNC Bank” from PNC Bank. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -714,7 +714,7 @@ A real-time, cross-domain Customer Happiness Index that detects, tracks, and hel
 - **Code:** [Source 1](https://github.com/iampritisee/hackutd)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=VelZ-2xXLAw)
 - **All prizes at this hackathon (1):** T-Mobile
-- **T-Mobile:** Sponsor use not stated on Devpost
+- **Award:** Won “T-Mobile” from T-Mobile. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

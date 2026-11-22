@@ -470,7 +470,7 @@ No public code linked · Built with defang, auth0, bash, css
 - **Code:** No public code linked
 - **Demo video:** None listed.
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Best Use of Defang
-- **Defang:** Built with defang (listed on Devpost)
+- **How it used Defang:** The team links to a Defang-hosted project endpoint.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

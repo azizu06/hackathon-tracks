@@ -419,7 +419,7 @@ Every one of the team has struggled with being the "new kid" at school, or just 
 - **Code:** [Source 1](https://github.com/Ethanwashere1/HackTX-Project)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=gzq8r-Xo2YY)
 - **All prizes at this hackathon (1):** &#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI
-- **SpaceXSI:** Sponsor use not stated on Devpost
+- **Award:** Won “&#91;MLH&#93; Build Your Hackathon A-Team with SpaceXSI” from SpaceXSI. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

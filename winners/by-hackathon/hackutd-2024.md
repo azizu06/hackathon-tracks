@@ -106,7 +106,7 @@ A smart water management tool that helps households and property managers optimi
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=StRry54qZMs)
 - **All prizes at this hackathon (2):** CBRE · Veolia
 - **Award:** Won “CBRE” from CBRE. The write-up gives no details on how the team used the sponsor’s tech.
-- **Veolia:** Sponsor use not stated on Devpost
+- **Award:** Won “Veolia” from Veolia. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>
@@ -635,7 +635,7 @@ A sustainability project to help manage buildings from afar.
 - **Code:** [Source 1](https://github.com/Sami-ul/Sustainable-Building-Manager)
 - **Demo video:** [Video 1](https://vimeo.com/1030515570)
 - **All prizes at this hackathon (1):** Veolia
-- **Veolia:** Sponsor use not stated on Devpost
+- **Award:** Won “Veolia” from Veolia. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

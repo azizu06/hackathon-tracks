@@ -43,7 +43,7 @@ How to combine AI with deterministic logic.
 
 A mobile finance prototype turns market events into short research tasks and waits for confirmation before trading.
 
-**Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The team links to its Figma slide deck.
 
 [Code](https://github.com/adylagad/baseland) · [Demo video](https://www.youtube.com/watch?v=wzT5thvdSHw) · Built with activitykit, anthropic, app-intents, base
 
@@ -53,7 +53,7 @@ A mobile finance prototype turns market events into short research tasks and wai
 
 A job board holds payment in escrow until a worker submits the agreed proof of completion.
 
-**Figma:** Sponsor use not stated on Devpost
+**Award:** Won “Figma Best Design Track” from Figma. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/AlanRoybal/mhacks2026) · [Demo video](https://www.youtube.com/watch?v=vXkbfQ2L-Gc) · Built with activitykit, amazon-bedrock, amazon-dynamodb, amazon-web-services
 
@@ -83,7 +83,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=TLGly6WWBw
 
 A calendar app weighs upcoming commitments against the user's energy level to help them avoid overbooking.
 
-**Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The team links to its Figma design file.
 
 No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSjE) · Built with expo.io, gemini, neon, react-native
 
@@ -93,7 +93,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSj
 
 Help people go outside more often by making nature exploration social, rewarding, and habit-forming.
 
-**Figma:** Sponsor use not stated on Devpost
+**Award:** Won “&#91;Figma&#93; Best Design” from Figma. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/EzequielBaltierra/HackDuke26) · [Demo video](https://www.youtube.com/watch?v=ZdNEc66V0Zg) · Built with auth0, expo.io, openai, postgresql
 
@@ -103,7 +103,7 @@ Help people go outside more often by making nature exploration social, rewarding
 
 A computer control interface uses eye tracking to point and speech to issue commands.
 
-**Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The team links to its Figma design file.
 
 [Code](https://github.com/dakshshahani/mhacks) · Built with elevenlabs-api, gemini-3.5-flash-lite-api, git, javascript
 
@@ -193,7 +193,7 @@ A desktop assistant finds local files and gathers context for the user's current
 
 A learning app helps users explore stock movements and practice investment decisions.
 
-**Figma:** Sponsor use not stated on Devpost
+**How it used Figma:** The team links to its Figma design file.
 
 [Code](https://github.com/daniel3606/Orbit_MHacks26) · [Demo video](https://www.youtube.com/watch?v=Mj4wTCKH8oE) · Built with alpaca, eas, expo.io, fastapi
 

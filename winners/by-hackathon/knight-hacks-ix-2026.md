@@ -163,7 +163,7 @@ No public code linked · [Demo video](https://www.youtube.com/watch?v=RWAbxd6hSj
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=RWAbxd6hSjE)
 - **All prizes at this hackathon (2):** Adobe: Prettiest Hack · Figma: Best Design
 - **Award:** Won “Adobe: Prettiest Hack” from Adobe. The write-up gives no details on how the team used the sponsor’s tech.
-- **Figma:** Sponsor use not stated on Devpost
+- **How it used Figma:** The team links to its Figma design file.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -918,7 +918,7 @@ History isn’t just studied, it’s lived. Enter a 3D time-travel adventure.
 - **Code:** [Source 1](https://github.com/rgu0114/the-anachronist)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=BXpIBv4q-kQ)
 - **All prizes at this hackathon (1):** LumaLabs: Reimagining Visual Creation with AI
-- **Luma AI:** Sponsor use not stated on Devpost
+- **Award:** Won “LumaLabs: Reimagining Visual Creation with AI ($2,500 Cash + $5,000 Luma Credits)” from Luma AI. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

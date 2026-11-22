@@ -121,6 +121,22 @@ def award_note(sponsor, prize):
     return f"Won “{prize}” from {sponsor}. The write-up gives no details on how the team used the sponsor’s tech."
 
 
+def project_link_note(sponsor, quote):
+    if sponsor == ".Tech Domains" and re.fullmatch(r"(?:[a-z0-9-]+\.)+tech", quote):
+        return f"The team links to {quote} as its .tech project site."
+    if sponsor == "Defang" and re.fullmatch(r"(?:[a-z0-9-]+\.)+defang\.dev", quote):
+        return "The team links to a Defang-hosted project endpoint."
+    if sponsor == "Hex" and quote == "app.hex.tech":
+        return "The team links to its project work on Hex."
+    if sponsor == "Figma":
+        route = re.fullmatch(r"www\.figma\.com/(design|file|make|proto|slides)/", quote)
+        if route:
+            resource = {"design": "design file", "file": "file", "make": "Make project",
+                        "proto": "prototype", "slides": "slide deck"}[route[1]]
+            return f"The team links to its Figma {resource}."
+    return None
+
+
 def source_label(source, note):
     if source == CODE and note.startswith(DEPENDENCY_NOTE):
         return DEPENDENCY_EVIDENCE
@@ -201,10 +217,8 @@ def validate_use(row):
     if source == CODE:
         return
     if source == "devpost:project_link":
-        if sponsor != ".Tech Domains" or not re.fullmatch(r"(?:[a-z0-9-]+\.)+tech", quote):
-            raise ValueError("Project-link evidence requires a .tech hostname")
-        if note != f"The team links to {quote} as its .tech project site.":
-            raise ValueError("Project-link note must repeat the linked hostname")
+        if note != project_link_note(sponsor, quote):
+            raise ValueError("Project-link note must describe the linked sponsor resource")
         return
     missing = ungrounded_words(note, excerpt, sponsor)
     if missing:

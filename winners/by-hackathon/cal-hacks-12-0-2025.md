@@ -1557,7 +1557,7 @@ A multimodal AI companion that fuses emotion sensing, language understanding, an
 - **Code:** [Source 1](https://github.com/ankit06ch/TedAI)
 - **Demo video:** [Video 1](https://www.youtube.com/watch?v=3bj86ky1eAc)
 - **All prizes at this hackathon (2):** Cal Hacks: 2nd Overall · LiveKit: Most Creative Project
-- **LiveKit:** Sponsor use not stated on Devpost
+- **Award:** Won “LiveKit: Most Creative Project” from LiveKit. The write-up gives no details on how the team used the sponsor’s tech.
 - **Checked on Devpost:** 2026-11-21
 
 </details>

@@ -85,7 +85,7 @@ The full-lifecycle platform for enterprise AI agents: build from shared parts, c
 
 DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to generate detailed step by step work plans, inspect real time inventory availability, and replan tasks when issues arise.
 
-**Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “Northmark Compute &amp; Cloud” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/Jeanpascal-Gauthier/Data-Driver) · [Demo video](https://www.youtube.com/watch?v=w0YteTzoGc4) · Built with agents, ai, flask, langchain
 
@@ -95,7 +95,7 @@ DataPilot is an Agentic AI powered assistant that utilizes NVIDIA Nemotron to ge
 
 A platform that supports data center technicians in a multitude of daily tasks, from planning out optimal routes to complete work orders, generating tickets from emails of incidents, and more.
 
-**Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “Northmark Compute &amp; Cloud” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/anishalle/hackutd2025) · [Demo video](https://www.youtube.com/watch?v=sbdnZRNmm8o) · Built with amazon-web-services, gemini, javascript, mongodb
 
@@ -125,7 +125,7 @@ LapSynk: The AI copilot for race engineers. Using Gemini, Cloudflare, and Eleven
 
 A tool for helping Engineers and on-site technicians communicate and organize their datacenter work.
 
-**Northmark Compute &amp; Cloud:** Sponsor use not stated on Devpost
+**Award:** Won “Northmark Compute &amp; Cloud” from Northmark Compute &amp; Cloud. The write-up gives no details on how the team used the sponsor’s tech.
 
 [Code](https://github.com/NEjim2001/hackutd-2025) · [Demo video](https://www.youtube.com/watch?v=sQVzqluIUdQ) · Built with javascript, next.js, python, react
 
